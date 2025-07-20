@@ -1309,7 +1309,7 @@ Blindness%NNo Effect
 Нет
 
 ## (moved to 122a28) The following symbols don't allow a line break right before them
-;129448;71;、。」）＞】｝”っゃゅょぁぃぅぇぉッャュョァィゥェォ！？ー♪☆』〜》
+#;129448;71;、。」）＞】｝”っゃゅょぁぃぅぇぉッャュョァィゥェォ！？ー♪☆』〜》
 
 ## The following symbols don't allow a line break right after them
 ;129490;19;「（＜【｛“『《
