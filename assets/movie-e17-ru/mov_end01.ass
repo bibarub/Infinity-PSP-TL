@@ -17,18 +17,29 @@ Audio File: mov_end01.mkv
 Video File: mov_end01.mkv
 Video AR Mode: 4
 Video AR Value: 1.764706
-Video Zoom Percent: 1.500000
-Video Position: 662
+Video Zoom Percent: 1.750000
+Scroll Position: 48
+Active Line: 51
+Video Position: 2171
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Sylfaen,14,&H00FFFFEB,&H00FFFFEB,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.566667,0.566667,2,64,64,6,204
 Style: Cast,Arial,27,&H00FFFFFF,&H000000FF,&H40000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,64,64,6,204
 Style: Titles,HelveticaNeueCyr,17,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,1,0,2,64,64,6,204
-Style: Karaoke,Arial Black,15,&H00FFFFFF,&H00FABDB2,&H0051322A,&H00000000,0,0,0,0,100,100,0,0,1,2.83333,0,2,64,64,6,204
+Style: Karaoke,Arial Black,15,&H00FFFFFF,&H00FABDB2,&H0051322A,&H00000000,0,0,0,0,100,100,0,0,1,2.83333,0,8,64,64,6,204
+Style: Translation Staff,HelveticaNeueCyr,13,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.2,0,7,10,10,10,1
+Style: Timeline,HelveticaNeueCyr,11,&H0075DF8F,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,6,0,1,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.32,0:00:09.33,Translation Staff,,0,0,0,,{\fade(200,200)\blur5\b1\pos(70.333,194)}Над переводом работали:{\b0}
+Dialogue: 0,0:00:03.32,0:00:09.33,Translation Staff,,0,0,0,,{\fade(200,200)\blur5\b1\pos(70.333,211)}HedgeCrew{\b0}
+Dialogue: 0,0:00:03.32,0:00:06.32,Translation Staff,,0,0,0,,{\fade(200,200)\blur5\b1\pos(70.333,226)}bibarub{\b0} − портирование,\Nразбор ресурсов, работа\Nс текстом и графикой
+Dialogue: 0,0:00:06.32,0:00:09.33,Translation Staff,,0,0,0,,{\fade(200,200)\blur5\b1\pos(70.333,226)}TimTH{\b0} − графика, редактура текста,\Nсубтитры в видео, тестирование
+Dialogue: 0,0:00:09.33,0:00:12.33,Translation Staff,,0,0,0,,{\fade(200,200)\blur5\b1\pos(70.333,208.286)}Оригинальный перевод:{\b0}
+Dialogue: 0,0:00:09.33,0:00:12.33,Translation Staff,,0,0,0,,{\fade(200,200)\blur5\b1\pos(70.333,225.286)}dsp2003, Smarter, Nik{\b0}
+Dialogue: 0,0:00:12.33,0:00:15.33,Translation Staff,,0,0,0,,{\fade(200,200)\blur5\b1\pos(70.333,204)}Особые благодарности:{\b0}\N{\b1}dreambottle{\b0} − разбор движка R11 PSP\N{\b1}MKCAMK{\b0} − патч лимита символов в логе\N{\b1}R11 Team{\b0} − шрифт для текста игры
 Dialogue: 0,0:00:21.01,0:00:24.87,Cast,,0,0,0,,{\fad(800,800)\pos(237,182.412)}В РОЛЯХ
 Dialogue: 0,0:00:24.70,0:00:28.31,Karaoke,,0,0,0,,{\fad(150,150)}{\kf22}I {\kf20}can {\kf30}see {\kf16}the {\kf47}sun, {\kf42}you {\kf20}can {\kf20}see {\kf27}the {\kf57}moon, {\kf59}and...
 Dialogue: 0,0:00:28.54,0:00:32.64,Karaoke,,0,0,0,,{\fad(150,150)}{\kf66}There {\kf51}are a {\kf50}little {\kf51}dream {\kf49}and {\kf52}hope {\kf25}in {\kf25}the {\kf52}sky.

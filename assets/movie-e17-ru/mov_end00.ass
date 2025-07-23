@@ -17,8 +17,8 @@ Video AR Mode: 4
 Video AR Value: 1.764706
 Video Zoom Percent: 1.750000
 Scroll Position: 15
-Active Line: 9
-Video Position: 469
+Active Line: 18
+Video Position: 811
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,6 +26,7 @@ Style: Default,HelveticaNeueCyr,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-
 Style: Starring,HelveticaNeueCyr,20,&H00FFFFFF,&H000E0FFD,&HFFFFFFFF,&H20000000,-1,0,0,0,100,100,0,0,1,1.99999,0,8,11,11,71,1
 Style: Role,HelveticaNeueCyr,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,2,10,10,10,1
 Style: Role 2,HelveticaNeueCyr,19,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,5,10,10,10,1
+Style: Translation Staff,HelveticaNeueCyr,13,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,7,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -47,6 +48,13 @@ Dialogue: 0,0:00:19.64,0:00:21.61,Role,,0,0,0,,{\an5\c1137cca\pos(348,226.933)}�
 Dialogue: 0,0:00:21.64,0:00:22.11,Role 2,,0,0,0,,{\an5\c1c31f0d\fad(500,0)\fscx190\fscy190\t(0,400,\fscx100\fscy100)\pos(240,102.754)}А ТАКЖЕ:
 Dialogue: 0,0:00:21.64,0:00:22.11,Role 2,,0,0,0,,{\an5\c11c31f0d\fad(500,0)\fscx190\fscy190\t(0,400,\fscx100\fscy100)\pos(120,233)}Хирано Тошитака\NЦучида Хироши\NКондо Мицуё
 Dialogue: 0,0:00:21.64,0:00:22.11,Role 2,,0,0,0,,{\an5\c11c31f0d\fad(500,0)\fscx190\fscy190\t(0,400,\fscx100\fscy100)\pos(373,233)}Кавашима Токуёши\NКанда Риэ\NНишигаки Шунсаку
-Dialogue: 0,0:00:22.11,0:00:25.41,Role 2,,0,0,0,,{\an5\c1c31f0d\fscx100\fscy100\t(0,3500,\fscx120\fscy120)\pos(240,102.754)}А ТАКЖЕ:
-Dialogue: 0,0:00:22.11,0:00:25.41,Role 2,,0,0,0,,{\an5\c11c31f0d\fscx100\fscy100\t(0,3500,\fscx120\fscy120)\pos(120,233)}Хирано Тошитака\NЦучида Хироши\NКондо Мицуё
-Dialogue: 0,0:00:22.11,0:00:25.41,Role 2,,0,0,0,,{\an5\c11c31f0d\fscx100\fscy100\t(0,3500,\fscx120\fscy120)\pos(373,233)}Кавашима Токуёши\NКанда Риэ\NНишигаки Шунсаку
+Dialogue: 0,0:00:22.11,0:00:25.41,Role 2,,0,0,0,,{\an5\c1c31f0d\fscx100\fscy100\t(0,3500,\fscx110\fscy110)\pos(240,102.754)}А ТАКЖЕ:
+Dialogue: 0,0:00:22.11,0:00:25.41,Role 2,,0,0,0,,{\an5\c11c31f0d\fscx100\fscy100\t(0,3500,\fscx110\fscy110)\pos(120,233)}Хирано Тошитака\NЦучида Хироши\NКондо Мицуё
+Dialogue: 0,0:00:22.11,0:00:25.41,Role 2,,0,0,0,,{\an5\c11c31f0d\fscx100\fscy100\t(0,3500,\fscx110\fscy110)\pos(373,233)}Кавашима Токуёши\NКанда Риэ\NНишигаки Шунсаку
+Dialogue: 0,0:00:29.21,0:00:35.22,Translation Staff,,0,0,0,,{\fade(200,200)\b1\pos(9,194)}Над переводом работали:{\b0}
+Dialogue: 0,0:00:29.21,0:00:35.22,Translation Staff,,0,0,0,,{\fade(200,200)\b1\pos(9,211)}HedgeCrew{\b0}
+Dialogue: 0,0:00:29.21,0:00:32.22,Translation Staff,,0,0,0,,{\fade(200,200)\b1\pos(9,226)}bibarub{\b0} − портирование,\Nразбор ресурсов, работа\Nс текстом и графикой
+Dialogue: 0,0:00:32.22,0:00:35.22,Translation Staff,,0,0,0,,{\fade(200,200)\pos(9,226)\b1}TimTH{\b0} − графика, редактура текста,\Nсубтитры в видео, тестирование
+Dialogue: 0,0:00:38.22,0:00:41.23,Translation Staff,,0,0,0,,{\fade(200,200)\b1\pos(9,9)}Оригинальный перевод:{\b0}
+Dialogue: 0,0:00:38.22,0:00:41.23,Translation Staff,,0,0,0,,{\fade(200,200)\b1\pos(9,23)}dsp2003, Smarter, Nik{\b0}
+Dialogue: 0,0:00:35.22,0:00:38.22,Translation Staff,,0,0,0,,{\fade(200,200)\b1\pos(9,9)}Особые благодарности:{\b0}\N{\b1}dreambottle{\b0} − разбор движка R11 PSP\N{\b1}MKCAMK{\b0} − патч лимита символов в логе\N{\b1}R11 Team{\b0} − шрифт для текста игры
