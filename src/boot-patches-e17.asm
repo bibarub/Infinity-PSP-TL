@@ -3,6 +3,174 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
+;; Do not stop BGM on in-game FMV playback.
+; a0 specifies the "amount" of sound effect channels to stop.
+; -1 (the default) will stop all (0-4), and 3 will stop 0-3.
+; Channel 4 is where the BGM resides.
+.org 0x088169D8
+.area 4*1
+	li	a0,3
+.endarea
+
+
+;; Use the American 12-hour clock.
+;; The subroutine was rewritten to take into account the 00:00 -> 12:00 AM and 12:00 -> 12:00 PM conversions.
+;; It also places the "AM" or "PM" at the end of the line, unlike the original function, which placed it in the beginning.
+; @inhouse_sprintf - some sort of in-house sprintf. a2 - format, a1 - dest, a0 - argument. no idea if multiple "arguments" can be passed.
+; @clock_unk1 - a3 seems to affect the height of the white blinking rectangle.
+; @clock_unk2 - a2 affects the size of the clock.
+@strcat equ 0x088C0140
+@inhouse_sprintf equ 0x0887D3C4
+@clock_unk1 equ 0x08862C74
+@clock_unk2 equ 0x08863F38
+.org 0x08837988
+.area 4*102
+	addiu	sp,sp,-0x20
+	sw		ra,0x1C(sp)
+	sw		s0,0x18(sp)
+	sw		s1,0x14(sp); 0x08837994: first relocation. cleared.
+	sw		s2,0x10(sp)
+	sw		s3,0xC(sp)
+	lui		a3,0x9DD
+	lw		a3,-0x4834(a3)
+	sltiu	a2,a0,12
+	beq		a2,zero,@@PM
+	lui		s0,0x892
+	bne		a0,zero,@@AMPM_OVER
+	ori		s1,s0,0x3DC8
+	b		@@AMPM_OVER
+	li		a0,12
+@@PM:
+	li		a2,12
+	beq		a2,a0,@@AMPM_OVER
+	ori		s1,s0,0x3DB8
+	subu	a0,a0,a2
+@@AMPM_OVER:
+	ori		a2,s0,0x3DC0
+	lui		s2,0x6
+	addu	s2,a3,s2
+	addiu	s2,s2,-0x2648
+	move	s3,a1
+	jal		@inhouse_sprintf
+	move	a1,s2
+	move	a0,s2
+	jal		@strcat
+	ori		a1,s0,0x3DD0
+	ori		a2,s0,0x3DC0
+	move	a1,sp
+	jal		@inhouse_sprintf
+	move	a0,s3
+	move	a1,sp
+	jal		@strcat
+	move	a0,s2
+	move	a1,s1
+	jal		@strcat
+	move	a0,s2
+	sw		s2,0x100(s2)
+	li		a1,0x10
+	li		a2,0
+	addiu	a0,s2,0x100
+	jal		@clock_unk1
+	li		a3,0x12
+	addiu	a0,s2,0x110
+	addiu	a1,s2,0x100
+	jal		@clock_unk2
+	li		a2,0x1000
+	lw		a0,0x11C(s2)
+	sll		a1,a0,2
+	addu	a1,a1,a0
+	addiu	a1,a1,0xE6
+	sw		a1,-0x4(s2)
+	lw		ra,0x1C(sp)
+	lw		s0,0x18(sp)
+	lw		s1,0x14(sp)
+	lw		s2,0x10(sp)
+	lw		s3,0xC(sp)
+	jr		ra
+	addiu	sp,sp,0x20
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+.endarea
+.orga 0x157D80 :: .fill 8*35; kill them relocations!!! first relocation at 0x08837994
+/* equivalent C pseudocode for the rewritten function:
+char **somebaseaddr = 0x9DCB7CC; // the original function dereferences this pointer every single time. this is not necessary, since the value it points to does not change while the function is executing.
+char *clockstring = *somebaseaddr + 0x60000 - 0x2648;
+char **storage = *somebaseaddr + 0x60000 - 0x2548;
+void *someptr = *somebaseaddr + 0x60000 - 0x2538;
+int *finalptr = *somebaseaddr + 0x60000 - 0x252C;
+int *finalout = *somebaseaddr + 0x60000 - 0x264C;
+char *PM = 0x8923DB8;
+char *AM = 0x8923DC8;
+char *colon = 0x8923DD0; // "："
+char *format = 0x8923DC0; // "%02d"
+int showtime(int hour, int minute) {
+	char digits[12];
+	char *rangestr;
+	if (hour < 12) {
+		rangestr = AM;
+		if (hour == 0) {
+			hour = 12;
+		}
+	} else {
+		rangestr = PM;
+		if (hour > 12) {
+			hour -= 12;
+		}
+	}
+	sprintf(clockstring, format, hour); // a1, a2, a0
+	strcat(clockstring, colon); // a0, a1
+	sprintf(digits, format, minute);
+	strcat(clockstring, digits);
+	strcat(clockstring, rangestr);
+	*storage = clockstring;
+	z_un_08862c74(storage, 0x10, 0, 0x12); // a0, a1, a2, a3
+	z_un_08863f38(someptr, storage, 0x1000); // a0, a1, a2
+	int someint = *finalptr;
+	int outint = someint*5 + 0xE6;
+	*finalout = outint;
+}
+*/
+
+
 ;; Subroutine 0x08805680 -- sets default game settings
 ; Decrease default text delay from 30 to 10
 .org 0x088056B0
@@ -16,6 +184,13 @@
 	; a2 initialized at 0x08805694
 	sb	a2,0x44E3(v0)
 .endarea; 0x08805750
+
+
+;; Ignore voice sync
+.org 0x0881BF60
+.area 4*1
+	li	a3,0
+.endarea
 
 
 PSP_CTRL_CROSS equ 0x4000
@@ -85,19 +260,17 @@ PSP_CTRL_CIRCLE equ 0x2000
 ;; Subroutine rewritten to take up less space, creating a code cave for HACK_00
 .org 0x0881A958
 .area 4*18
-	lh		v0,0x0(a0)
+	lh		a2,0x0(a0)
 @@COMPARE_NEXT:
-	lh		v1,0x0(a1)
-	beq		v1,zero,@@RETURN_ZERO
-	nop; 0x0881A964: relocation-cleared
-	bne		v0,v1,@@COMPARE_NEXT
+	lh		a3,0x0(a1)
+	beq		a3,zero,@@RETURN
+	li		v0,0; 0x0881A964: relocation-cleared
+	bne		a2,a3,@@COMPARE_NEXT
 	addiu	a1,a1,0x2
-@@RETURN_ONE:
-	jr		ra
 	li		v0,1
-@@RETURN_ZERO:
+@@RETURN:
 	jr		ra
-	li		v0,0
+	nop
 
 @HACK_00:
 	addiu	t1,a3,-0x1000
@@ -106,6 +279,7 @@ PSP_CTRL_CIRCLE equ 0x2000
 	li		t1,3
 @@HACK_00_OVER:
 	j		@HACK_00_RETURN
+	nop
 	nop
 	nop
 	nop
@@ -165,7 +339,7 @@ PSP_CTRL_CIRCLE equ 0x2000
 .org 0x0881BB58
 .area 4*2
 	j	@WHITESPACE_HACK
-	nop
+	li	v0,0x20
 @WHITESPACE_HACK_RETURN:
 .endarea; 0x0881BB60
 
@@ -395,14 +569,14 @@ C: adjust the memory location at which the container with graphics for the text 
 .area 4*32
 @WHITESPACE_HACK:
 	lbu		v1,0x2(s0)
-	li		v0,0x20; 0x884C974: relocation-moved(0x884C954)
-	bne		v1,v0,@@WHITESPACE_HACK_OVER; 0x884C978: relocation-moved(0x884C958)
-	nop
+	bne		v1,v0,@@WHITESPACE_HACK_OVER; 0x884C974: relocation-moved(0x884C954)
+	nop; 0x884C978: relocation-moved(0x884C958)
 	addiu	s1,s1,-0x1; this will make the game insert a line break one character further
 @@WHITESPACE_HACK_OVER:
-	subu	a2,a2,s1; original code that was replaced with function call. 0x884C984: relocation-moved(0x884C964)
-	j		@WHITESPACE_HACK_RETURN
+	subu	a2,a2,s1; original code that was replaced with function call
+	j		@WHITESPACE_HACK_RETURN; 0x884C984: relocation-moved(0x884C964)
 	addu	s0,a2,a1; original code that was replaced with function call
+	nop
 	nop
 	nop
 	nop

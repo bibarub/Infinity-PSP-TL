@@ -9,12 +9,20 @@
 #if defined(__unix__) || defined(__unix) || (defined(__APPLE__) && defined(__MACH__))
 #include <unistd.h>
 #include <sys/stat.h>
+#include <sys/types.h>
+#include <utime.h>
+#include <time.h>
 #elif defined(_WIN32)
+#include <sys/utime.h>
+#include <sys/types.h>
 #include <direct.h>
+#include <time.h>
 #define mkdir(path, mode) _mkdir(path)
 #define chdir _chdir
+#define utime _utime
+#define utimbuf _utimbuf
 #else
-#define NO_JADIR
+#define NO_EXTENSIONS
 #endif
 
 #define AFS_ALIGN(x) ((x+0x7ff)&~0x7ff) /* 2048(0x800)-byte alignment */
@@ -48,7 +56,7 @@ int main(int argc, char *argv[]) {
     struct sta *stas;
     struct stb *stbs;
 
-#ifndef NO_JADIR
+#ifndef NO_EXTENSIONS
     char *jadir;
     if (argc != 2 && argc != 3) {
         printf("usage: %s in.afs [ja/]\n", argv[0]);
@@ -83,7 +91,6 @@ int main(int argc, char *argv[]) {
     sret = fread(stas, sizeof(struct sta), entries+1, fin);
     assert(sret == entries+1);
 
-    /* handling of improperly crafted archives */
     stbspos = (stas[entries].pos != 0) ? stas[entries].pos
         : (stas[entries-1].pos + AFS_ALIGN(stas[entries-1].len));
 
@@ -93,7 +100,7 @@ int main(int argc, char *argv[]) {
     sret = fread(stbs, sizeof(struct stb), entries, fin);
     assert(sret == entries);
 
-#ifndef NO_JADIR
+#ifndef NO_EXTENSIONS
     if (jadir) {
         (void)mkdir(jadir, 0755);
         if (chdir(jadir) == -1) {
@@ -105,10 +112,20 @@ int main(int argc, char *argv[]) {
     for (i = 0; i < entries; ++i) {
         char *buffer;
         FILE *fout;
+#ifndef NO_EXTENSIONS
+        time_t epochtime;
+        struct tm time;
+#endif
         if (stas[i].pos == 0) {
             continue;
         }
+#ifndef NO_EXTENSIONS
         printf("-> %s\n", stbs[i].name);
+#else
+        printf("-> %s (%02hu.%02hu.%hu %02hu:%02hu:%02hu)\n", stbs[i].name,
+            stbs[i].day, stbs[i].month, stbs[i].year, stbs[i].hour, stbs[i].minute, stbs[i].second
+        );
+#endif
         if (strpbrk(stbs[i].name, "/\\:")) {
             printf("unsafe filename\n");
             return 1;
@@ -127,6 +144,26 @@ int main(int argc, char *argv[]) {
         assert(sret == stas[i].len);
         free(buffer);
         fclose(fout);
+#ifndef NO_EXTENSIONS
+        time.tm_sec = stbs[i].second;
+        time.tm_min = stbs[i].minute;
+        time.tm_hour = stbs[i].hour;
+        time.tm_mday = stbs[i].day;
+        time.tm_mon = stbs[i].month-1;
+        time.tm_year = stbs[i].year-1900;
+        time.tm_isdst = -1;
+        epochtime = mktime(&time);
+        if (epochtime != -1) {
+            struct utimbuf times;
+            times.actime = epochtime;
+            times.modtime = epochtime;
+            if (utime(stbs[i].name, &times) == -1) {
+                printf("failed to set time (%02hu.%02hu.%hu %02hu:%02hu:%02hu)\n",
+                    stbs[i].day, stbs[i].month, stbs[i].year, stbs[i].hour, stbs[i].minute, stbs[i].second
+                );
+            }
+        }
+#endif
     }
 
     fclose(fin);

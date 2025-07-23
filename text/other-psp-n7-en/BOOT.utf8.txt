@@ -189,10 +189,12 @@ Date:
 Cluster:
 
 ;11d8f4;7;ＰＭ
+⑳ＰＭ
 
 ;11d8fc;7;%02d
 
 ;11d904;7;ＡＭ
+⑳ＡＭ
 
 ;11d90c;3;：
 
@@ -824,14 +826,15 @@ Set the text display time (lower is faster).
 ;120684;159;⑩文字を表示する際の表示速度を%N⑩変更する事ができます。%N⑩設定バーを大きくすると、%N⑩文字の表示速度が遅くなります。%N⑩０に設定すると一括表示になります。
 
 ;120724;31;テキストとボイスのシンクロ設定
-Text and voice synchronization
+Synchronize voice and text
 ;120744;31;シンクロする%Nシンクロしない
-Synchronized%NNot synchronized
+No%NNo
 ;120764;75;ボイス付きテキストの表示速度をボイスの長さとシンクロさせる事ができます。
-Select the synchronization of the voice with text.
+This has no effect on the text.
 ;1207b0;51;ボイス付きテキストの表示速度を設定してください。
-Select the synchronization of the voice with text.
+This has no effect on the text.
 ;1207e4;187;⑩ボイス付きのテキストの表示速度を%N⑩ボイスの長さにシンクロさせる事ができます。%N⑩“シンクロする”に設定した場合、%N⑩ボイス付きテキストは%N⑩『テキストスピード設定』が適用されません。
+This has no effect on the text.
 
 ;1208a0;31;オートプレイのインターバル設定
 Auto Play delay

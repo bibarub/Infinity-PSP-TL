@@ -225,11 +225,9 @@ patch_boot_bin () {
 
 	echo "Applying other patches to BOOT"
 	mv -f $WORKDIR/BOOT.BIN.${TL_SUFFIX} $WORKDIR/BOOT.BIN.patched
-	if [ "cn" == "${TL_SUFFIX}" ]; then
-		$ARMIPS "$(realpath src/boot-patches-${GAME}-cn.asm)" -root $WORKDIR/ || exit 1
-	else
-		$ARMIPS "$(realpath src/boot-patches-${GAME}.asm)" -root $WORKDIR/ || exit 1
-	fi
+	asmpath=src/boot-patches-${GAME}-${TL_SUFFIX}.asm
+	[ -e "$asmpath" ] || asmpath=src/boot-patches-${GAME}.asm
+	$ARMIPS "$(realpath $asmpath)" -root $WORKDIR/ || exit 1
 	mv -f $WORKDIR/BOOT.BIN.patched $WORKDIR/BOOT.BIN.${TL_SUFFIX}
 
 	rm -f $ISO_BIN_DIR/BOOT.BIN
@@ -241,22 +239,33 @@ patch_boot_bin () {
 	fi
 }
 
-repack_e17_se_afs () {
-	mkdir -p e17_se_mod
-	for i in $(seq -w 1 22) 24
-	do
-		cp e17_x360_BGM/bgm${i}.adx e17_se_mod/ADX${i}.ADX
-		cp e17_x360_BGM/bgm${i}nl.adx e17_se_mod/ADX${i}NL.ADX
-	done
-	cp e17_x360_BGM/bgm25.adx e17_se_mod/ADX26.ADX
-	cp e17_x360_BGM/bgm25nl.adx e17_se_mod/ADX26NL.ADX
-	$REPACK_AFS $WORKDIR/se.afs $WORKDIR/se_mod.afs e17_se_mod || exit 1
-	mv -f $WORKDIR/se_mod.afs $ISO_RES_DIR/se.afs
-}
-
 repack_se_afs () {
 	mkdir -p ${GAME}_se_mod
-	cp assets/se-${GAME}/*.ADX ${GAME}_se_mod
+	if [ "$GAME" = "e17" ]; then
+		if [ -d "e17_x360_BGM" ]; then
+			echo "Applying Xbox 360 BGM"
+			for i in $(seq -w 1 22) 24
+			do
+				cp -p e17_x360_BGM/bgm${i}.adx e17_se_mod/ADX${i}.ADX
+				cp -p e17_x360_BGM/bgm${i}nl.adx e17_se_mod/ADX${i}NL.ADX
+			done
+			cp -p e17_x360_BGM/bgm25.adx e17_se_mod/ADX26.ADX
+			cp -p e17_x360_BGM/bgm25nl.adx e17_se_mod/ADX26NL.ADX
+		fi
+		# make SE02_11L twice as long. it won't loop otherwise, probably due to a bug in the game
+		echo "Patching SE02_11L"
+		cp e17_se/SE02_11L.ADX e17_se_mod/
+		# format documentation found at https://wiki.multimedia.cx/index.php/CRI_ADX_file
+		dd bs=16 skip=128 count=5175 if=e17_se/SE02_11L.ADX seek=5303 conv=notrunc of=e17_se_mod/SE02_11L.ADX # repeat audio data
+		# recreate data end frame and 1KiB padding
+		printf "\x80\x01\x01\x1c" >> e17_se_mod/SE02_11L.ADX
+		dd bs=284 count=1 if=/dev/zero >> e17_se_mod/SE02_11L.ADX
+		# update header info (2x everything)
+		printf "\x00\x04\x7e\x00" | dd oflag=seek_bytes conv=notrunc seek=12 of=e17_se_mod/SE02_11L.ADX # sample count
+		printf "\x00\x04\x7e\x00" | dd oflag=seek_bytes conv=notrunc seek=48 of=e17_se_mod/SE02_11L.ADX # loop end sample
+		printf "\x00\x02\x8e\xe0" | dd oflag=seek_bytes conv=notrunc seek=52 of=e17_se_mod/SE02_11L.ADX # loop end offset
+	fi
+	[ -d "assets/se-${GAME}" ] && cp -p assets/se-${GAME}/*.ADX ${GAME}_se_mod
 	$REPACK_AFS $WORKDIR/se.afs $WORKDIR/se-repacked.afs ${GAME}_se_mod || exit 1
 	mv -f $WORKDIR/se-repacked.afs $ISO_RES_DIR/se.afs
 }
@@ -303,19 +312,13 @@ repack_ev_afs () {
 
 copy_movie () {
 	ls assets/movie-${GAME}-${TL_SUFFIX}/*.pmf >/dev/null 2>&1 && \
-		cp assets/movie-${GAME}-${TL_SUFFIX}/*.pmf $ISO_RES_DIR/movie/ || true
+		cp -p assets/movie-${GAME}-${TL_SUFFIX}/*.pmf $ISO_RES_DIR/movie/ || true
 }
 
 # Actually running above functions
 [ -e $WORKDIR/bg.afs ] && repack_bg_afs
 [ -e $WORKDIR/ev.afs ] && repack_ev_afs
-if [ -e $WORKDIR/se.afs ]; then
-	if [ "$GAME" = "e17" ] && [ -d "e17_x360_BGM" ]; then
-		repack_e17_se_afs
-	else
-		repack_se_afs
-	fi
-fi
+[ -e $WORKDIR/se.afs ] && repack_se_afs
 repack_mac_afs
 repack_etc_afs
 repack_init_bin

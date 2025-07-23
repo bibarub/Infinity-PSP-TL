@@ -31,10 +31,11 @@ cp $RES_DIR/mac.afs $WORK_DIR/mac.afs
 cp $RES_DIR/etc.afs $WORK_DIR/etc.afs
 cp $RES_DIR/init.bin $WORK_DIR/init.bin
 
-[ "$GAME" = "e17" ] && [ -d "e17_x360_BGM" ] && cp $RES_DIR/se.afs $WORK_DIR/se.afs
-[ -d "assets/se-${GAME}" ] && cp $RES_DIR/se.afs $WORK_DIR/se.afs
+([ "$GAME" = "e17" ] || [ -d "assets/se-${GAME}" ]) && cp $RES_DIR/se.afs $WORK_DIR/se.afs
 [ -d "assets/bg-${GAME}-${TL_SUFFIX}" ] && cp $RES_DIR/bg.afs $WORK_DIR/bg.afs
 [ -d "assets/ev-${GAME}-${TL_SUFFIX}" ] && cp $RES_DIR/ev.afs $WORK_DIR/ev.afs
+
+[ "$GAME" = "e17" ] && unpack_afs se
 
 PKG=mac
 rm -rf ${GAME}_$PKG/

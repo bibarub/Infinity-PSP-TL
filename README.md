@@ -11,6 +11,7 @@ Without these people, this project would not have existed.
 - Hirameki International, [Himmel Edition](https://www.reddit.com/r/InfinitySeries/comments/mbkbhn/ever17_himmel_edition_repost/) Team: English translation of Ever17.
 - [dsp2003 & SanLtd Team](http://wks.arai-kibou.ru/ever17.php): Russian translation of Ever17.
 - [R11 Translation Team](https://web.archive.org/web/20180819171103/https://tlwiki.org/?title=Remember11_-_the_age_of_infinity): English translation of Remember11.
+- [R11 Gestalt Edition Team](https://old.reddit.com/r/InfinitySeries/comments/mbk11z/remember11_gestalt_edition_repost): Improved translation of Remember11.
 - [dreambottle](https://github.com/dreambottle): Remember11 translation port, initial engine research and public tools for modifying the game.
 - [malucart](https://github.com/malucard): Never7 translation port, BIP image format research.
 - [Phantom](https://github.com/PhantomZero9): Ever17 translation edits.
@@ -18,6 +19,8 @@ Without these people, this project would not have existed.
 - [TimTH98](https://github.com/TimTH98): Russian graphics for the Ever17 translation port.
 - [Nightdavisao](https://github.com/nightdavisao): English UI graphics for Ever17.
 - [MKCA](https://github.com/MKCAMK): removal of the character limit from the text log of Ever17.
+- [badspot](https://github.com/badspott): English UI graphics for Never7 and Remember11, font glyphs for typographic quotation marks.
+- [Qlonever](https://github.com/Qlonever): English UI graphics for Never7, Remember11 BGM research.
 
 ### Useful Links
 

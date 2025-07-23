@@ -3,6 +3,126 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
+;; Use the American 12-hour clock.
+;; The subroutine was rewritten to take into account the 00:00 -> 12:00 AM and 12:00 -> 12:00 PM conversions.
+;; It also places the "AM" or "PM" at the end of the line, unlike the original function, which placed it in the beginning.
+; @inhouse_sprintf - some sort of in-house sprintf. a2 - format, a1 - dest, a0 - argument. no idea if multiple "arguments" can be passed.
+; @clock_unk1 - a3 seems to affect the height of the white blinking rectangle.
+; @clock_unk2 - a2 affects the size of the clock.
+@strcat equ 0x088BF628
+@inhouse_sprintf equ 0x0887C97C
+@clock_unk1 equ 0x0886228C
+@clock_unk2 equ 0x08863550
+.org 0x08837628
+.area 4*102
+	addiu	sp,sp,-0x20
+	sw		ra,0x1C(sp)
+	sw		s0,0x18(sp)
+	sw		s1,0x14(sp); 0x08837634: first relocation. cleared.
+	sw		s2,0x10(sp)
+	sw		s3,0xC(sp)
+	lui		a3,0x9DD
+	lw		a3,-0x6EB4(a3)
+	sltiu	a2,a0,12
+	beq		a2,zero,@@PM
+	lui		s0,0x892
+	bne		a0,zero,@@AMPM_OVER
+	ori		s1,s0,0x1864
+	b		@@AMPM_OVER
+	li		a0,12
+@@PM:
+	li		a2,12
+	beq		a2,a0,@@AMPM_OVER
+	ori		s1,s0,0x1854
+	subu	a0,a0,a2
+@@AMPM_OVER:
+	ori		a2,s0,0x185C
+	lui		s2,0x6
+	addu	s2,a3,s2
+	addiu	s2,s2,-0x2648
+	move	s3,a1
+	jal		@inhouse_sprintf
+	move	a1,s2
+	move	a0,s2
+	jal		@strcat
+	ori		a1,s0,0x186C
+	ori		a2,s0,0x185C
+	move	a1,sp
+	jal		@inhouse_sprintf
+	move	a0,s3
+	move	a1,sp
+	jal		@strcat
+	move	a0,s2
+	move	a1,s1
+	jal		@strcat
+	move	a0,s2
+	sw		s2,0x100(s2)
+	li		a1,0x10
+	li		a2,0
+	addiu	a0,s2,0x100
+	jal		@clock_unk1
+	li		a3,0x12
+	addiu	a0,s2,0x110
+	addiu	a1,s2,0x100
+	jal		@clock_unk2
+	li		a2,0x1000
+	lw		a0,0x11C(s2)
+	sll		a1,a0,2
+	addu	a1,a1,a0
+	addiu	a1,a1,0xE6
+	sw		a1,-0x4(s2)
+	lw		ra,0x1C(sp)
+	lw		s0,0x18(sp)
+	lw		s1,0x14(sp)
+	lw		s2,0x10(sp)
+	lw		s3,0xC(sp)
+	jr		ra
+	addiu	sp,sp,0x20
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+.endarea
+.orga 0x1556A0 :: .fill 8*35; kill them relocations!!! first relocation at 0x08837634
+
+
 ;; Subroutine 0x08805680 -- sets default game settings
 ; Decrease default text delay from 30 to 10
 .org 0x088056B0
@@ -16,6 +136,13 @@
 	; a2 initialized at 0x08805694
 	sb	a2,0x44E3(v0)
 .endarea; 0x08805750
+
+
+;; Ignore voice sync
+.org 0x0881BCB4
+.area 4*1
+	li	a3,0
+.endarea
 
 
 PSP_CTRL_CROSS equ 0x4000
@@ -85,19 +212,17 @@ PSP_CTRL_CIRCLE equ 0x2000
 ;; Subroutine rewritten to take up less space, creating a code cave for HACK_00
 .org 0x0881A6AC
 .area 4*18
-	lh		v0,0x0(a0)
+	lh		a2,0x0(a0)
 @@COMPARE_NEXT:
-	lh		v1,0x0(a1)
-	beq		v1,zero,@@RETURN_ZERO
-	nop; 0x0881A6B8: relocation-cleared
-	bne		v0,v1,@@COMPARE_NEXT
+	lh		a3,0x0(a1)
+	beq		a3,zero,@@RETURN
+	li		v0,0; 0x0881A6B8: relocation-cleared
+	bne		a2,a3,@@COMPARE_NEXT
 	addiu	a1,a1,0x2
-@@RETURN_ONE:
-	jr		ra
 	li		v0,1
-@@RETURN_ZERO:
+@@RETURN:
 	jr		ra
-	li		v0,0
+	nop
 
 @HACK_00:
 	addiu	t1,a3,-0x1000
@@ -106,6 +231,7 @@ PSP_CTRL_CIRCLE equ 0x2000
 	li		t1,3
 @@HACK_00_OVER:
 	j		@HACK_00_RETURN
+	nop
 	nop
 	nop
 	nop
@@ -165,7 +291,7 @@ PSP_CTRL_CIRCLE equ 0x2000
 .org 0x0881B8AC
 .area 4*2
 	j	@WHITESPACE_HACK
-	nop
+	li	v0,0x20
 @WHITESPACE_HACK_RETURN:
 .endarea; 0x0881B8B4
 
@@ -395,14 +521,14 @@ C: adjust the memory location at which the container with graphics for the text 
 .area 4*32
 @WHITESPACE_HACK:
 	lbu		v1,0x2(s0)
-	li		v0,0x20; 0x0884BEE0: relocation-moved(0x0884BEC0)
-	bne		v1,v0,@@WHITESPACE_HACK_OVER; 0x0884BEE4: relocation-moved(0x0884BEC4)
-	nop
+	bne		v1,v0,@@WHITESPACE_HACK_OVER; 0x0884BEE0: relocation-moved(0x0884BEC0)
+	nop; 0x0884BEE4: relocation-moved(0x0884BEC4)
 	addiu	s1,s1,-0x1; this will make the game insert a line break one character further
 @@WHITESPACE_HACK_OVER:
-	subu	a2,a2,s1; original code that was replaced with function call. 0x0884BEF0: relocation-moved(0x0884BED0)
-	j		@WHITESPACE_HACK_RETURN
+	subu	a2,a2,s1; original code that was replaced with function call
+	j		@WHITESPACE_HACK_RETURN; 0x0884BEF0: relocation-moved(0x0884BED0)
 	addu	s0,a2,a1; original code that was replaced with function call
+	nop
 	nop
 	nop
 	nop

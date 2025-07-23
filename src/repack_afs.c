@@ -8,11 +8,19 @@
 
 #if defined(__unix__) || defined(__unix) || (defined(__APPLE__) && defined(__MACH__))
 #include <limits.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <time.h>
 #elif defined(_WIN32)
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <time.h>
+#define stat _stat
 #ifndef PATH_MAX
 #define PATH_MAX _MAX_PATH
 #endif
 #else
+#define NO_TIME
 #define PATH_MAX 1000
 #endif
 
@@ -96,7 +104,7 @@ int main(int argc, char *argv[]) {
         char *buffer, name[PATH_MAX+31+1];
         int len;
 
-		if (stas[i].pos == 0) {
+        if (stas[i].pos == 0) {
             continue;
         }
 
@@ -108,6 +116,10 @@ int main(int argc, char *argv[]) {
         sprintf(name, "%s/%s", endir, stbs[i].name);
         fh = fopen(name, "rb");
         if (fh) {
+#ifndef NO_TIME
+            struct stat filestat;
+            struct tm *modtime;
+#endif
             printf("<- %s\n", stbs[i].name);
             fseek(fh, 0, SEEK_END);
             len = ftell(fh);
@@ -117,6 +129,24 @@ int main(int argc, char *argv[]) {
             assert(buffer);
             sret = fread(buffer, 1, len, fh);
             assert((int)sret == len);
+            fclose(fh);
+#ifndef NO_TIME
+            if (stat(name, &filestat) != -1) {
+                modtime = localtime(&filestat.st_mtime);
+                if (modtime) {
+                    stbs[i].year = modtime->tm_year+1900;
+                    stbs[i].month = modtime->tm_mon+1;
+                    stbs[i].day = modtime->tm_mday;
+                    stbs[i].hour = modtime->tm_hour;
+                    stbs[i].minute = modtime->tm_min;
+                    stbs[i].second = modtime->tm_sec;
+                } else {
+                    printf("failed to localize time\n");
+                }
+            } else {
+                printf("failed to get file stat\n");
+            }
+#endif
         } else {
             fseek(fin, stas[i].pos, SEEK_SET);
             /* or just copying the current content */
@@ -136,9 +166,6 @@ int main(int argc, char *argv[]) {
         assert((int)sret == len);
         pos += AFS_ALIGN(len);
 
-        if (fh) {
-            fclose(fh);
-        }
         free(buffer);
     }
     fclose(fin);
