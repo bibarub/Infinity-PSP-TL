@@ -11,6 +11,10 @@
 /text/tmp/
 /text/mac-en-only-utf8/
 /text/tmp-*/
+/text/mac-psp-n7-en-utf8/
+/text/mac-psp-e17-en-utf8/
+/text/mac-psp-r11-en-utf8/
+/text/mac-psp-e17-ru-utf8/
 /text/mac-*-en-only-utf8/
 /text/mac-*-ru-only-utf8/
 /text/font/FONT*

@@ -59,6 +59,7 @@ table - text locations
 
 
 The engine has a limit of 480 simultaneous characters on the scene, which causes crashes when the buffer is overflown. The workaround is to insert more %K%P sequences to the text.
+@bibarub: this may further be restricted by the amount of visual effects currently applied. mainly affects full-screen text sequences in never7.
 
 
 init.bin

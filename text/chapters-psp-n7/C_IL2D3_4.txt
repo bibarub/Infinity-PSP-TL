@@ -119,7 +119,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 みずみずしく透き通った白い肌……。%K%P
-That beating intensifies when I look her spruce, transparent white skin...
+That beating intensifies when I look at her spruce, transparent white skin...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -869,12 +869,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『常識を陶汰するだけの生命力を持ち得たとき、初めてこの生物は新たな現実として姿を現す』%K%N%N
-「Once this creature obtains the vitality to eliminate common sense, it appears as a new reality for the first time.」
+「Once this creature obtains the vitality to eliminate common sense, it appears as a new reality for the first time.」%K%P
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 『或いは、世界各地に伝わる宗教的奇跡も、この生物の胎動として見ることができるのではなかろうか？』%K%P
-「Is it perhaps possible that the religious miracles circulated all over the world can also be seen as the quickening of this creature?」
+「Is it perhaps possible that the religious miracles circulated all over the world can also be seen as the quickening of this creature?」%K%N%N
 CN PLACEHOLDER
 RU PLACEHOLDER
 

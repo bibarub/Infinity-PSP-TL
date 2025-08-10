@@ -2519,7 +2519,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 確信を持って言い切れることが、何ひとつとして見当たらなかった。%K%N
-I can't find one thing that I can declare I have confidence in.
+I can't find one thing that I can declare I have confidence in.%K%P
 CN PLACEHOLDER
 RU PLACEHOLDER
 

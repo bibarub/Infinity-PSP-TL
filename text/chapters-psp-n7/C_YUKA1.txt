@@ -2504,7 +2504,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 確かに、私達がこの島にいさえしなければ、６日の%N悲劇は繰り返されないのかもしれない。%K%N
-It's true that if we could get off this island, the tragedy of the 6th might not repeat itself.
+It's true that if we could get off this island, the tragedy of the 6th might not repeat itself.%K%P
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -5089,7 +5089,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 悔しいくらいに美味しい料理の数々……。%K%N
-There's an amazing variety of many delicious tastes and dishes...
+There's an amazing variety of many delicious tastes and dishes...%K%P
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -5099,7 +5099,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 昼間はみんなで食べたピザ１枚きりだったから、お腹が空いてたのだと思うようにした……。%K%N
-We all only shared one pizza for lunch, so our stomachs are emptier than we thought...%K%P
+We all only shared one pizza for lunch, so our stomachs are emptier than we thought...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

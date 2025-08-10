@@ -119,7 +119,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 すると医者は……%K%N%N
-When she did, the doctor...
+When she did, the doctor...%K%P
 CN PLACEHOLDER
 RU PLACEHOLDER
 

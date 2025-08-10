@@ -74,7 +74,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 もちろん、それは『極力』であって『絶対』ではない。%K%N
-Still, there are a few things I want to interfere with.
+Still, there are a few things I want to interfere with.%K%P
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -134,7 +134,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『タイムスリップの理由』や『無限ループにハマり込んだ原因』……%K%N%N
-「The reason for the time travel」 and 「the cause me getting stuck in the infinite loop」...
+「The reason for the time travel」 and 「the cause of me getting stuck in the infinite loop」...%K%P
 CN PLACEHOLDER
 RU PLACEHOLDER
 
