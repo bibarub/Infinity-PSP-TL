@@ -59,7 +59,7 @@ for i in ${GAME}_etc/SSE/*.BIN; do
 	f=$(basename $i .BIN)
 	mv $i ${GAME}_etc/SSE/$f.ADX
 	command -v ffmpeg >/dev/null 2>&1 &&
-		(ffmpeg -i ${GAME}_etc/SSE/$f.ADX ${GAME}_etc/SSE/$f.flac || exit 1)
+		(ffmpeg -y -i ${GAME}_etc/SSE/$f.ADX ${GAME}_etc/SSE/$f.flac || exit 1)
 done
 if [ -e ${GAME}_etc/TEX.BIP ]; then
 	./bin/decompressbip ${GAME}_etc/TEX.BIP ${GAME}_etc/TEX.CNT || exit 1
@@ -77,7 +77,6 @@ if [ -e ${GAME}_etc/TEX.BIP ]; then
 	for i in ${GAME}_etc/TEX/*.BIP; do
 		[ -e $i ] || continue
 		f=$(basename $i .BIP)
-		[ "$f" = "GAME" ] && continue
 		unpack_bipcnt $i || exit 1
 		[ "$f" != "GAME" ] && 
 			for j in ${GAME}_etc/TEX/$f/*.BIN; do
@@ -101,6 +100,6 @@ if [ -e ${GAME}_etc/TEX.BIP ]; then
 		f=$(basename $i .BIN)
 		mv $i ${GAME}_etc/TEX/SSE/$f.ADX
 		command -v ffmpeg >/dev/null 2>&1 &&
-			(ffmpeg -i ${GAME}_etc/TEX/SSE/$f.ADX ${GAME}_etc/TEX/SSE/$f.flac || exit 1)
+			(ffmpeg -y -i ${GAME}_etc/TEX/SSE/$f.ADX ${GAME}_etc/TEX/SSE/$f.flac || exit 1)
 	done
 fi
