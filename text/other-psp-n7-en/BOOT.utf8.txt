@@ -841,9 +841,9 @@ Auto Play delay
 ;1208c0;7;間隔
 Delay
 ;1208c8;71;オートプレイ実行時、テキストの自動ページ送りをする間隔を設定できます。
-Set the interval at which the text is adavanced.
+Set the interval at which the text is advanced.
 ;120910;75;オートプレイ実行時のテキストの自動ページ送りをする間隔を設定してください。
-Set the interval at which the text is adavanced.
+Set the interval at which the text is advanced.
 ;12095c;227;⑩オートプレイ実行時のテキストの%N⑩自動ページ送りをする間隔を設定できます。%N⑩設定バーを大きくすると、%N⑩自動ページ送りされる間隔が長くなります。%N%N⑩※オートプレイ中でも、ボタン操作でページ送り%N⑩⑩をする事は可能です。
 
 ;120a40;19;選択肢の既読色設定
