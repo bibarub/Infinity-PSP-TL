@@ -1334,7 +1334,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「…………好き？」%K%P
-... 'Like'?
+... 『Like』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1409,7 +1409,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「わからないから……。『好き』って言葉の意味が……」%K%P
-Because I don't know... The meaning of the word 'like'...
+Because I don't know... The meaning of the word 『like』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1579,7 +1579,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1729,7 +1729,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1839,7 +1839,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1894,7 +1894,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

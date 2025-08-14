@@ -124,7 +124,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「それだけ、って……」%K%P
-'That's all there is'...?
+『That's all there is』...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -219,7 +219,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「この合宿は……ゼミ合宿、なんだろ？」%K%P
-Just what is... this 'Seminar Camp' anyway?
+Just what is... this 『Seminar Camp』 anyway?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -234,7 +234,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「だからぁ……%W『ゼミ』って冠が付いてる以上、%N『サークル』とか『部活』とか、そういうのとは%N異なった主旨で実施されてるわけだろ、これは？」%K%P
-I mean... So aside from the traditional meaning of seminar, there's also other things implemented in it, like 'clubs' and 'social activities'?
+I mean... So aside from the traditional meaning of seminar, there's also other things implemented in it, like 『clubs』 and 『social activities』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -264,12 +264,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「そもそもこの『ゼミ合宿』とかいうやつって、一体何なんだよ？」%K%P
-In the first place, just what is a 'Seminar Camp'?
+In the first place, just what is a 『Seminar Camp』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「何なんだ、って言われても……。だから『ゼミ』の『合宿』だよ」%K
-'Just what is it', you say... Obviously, it's 'camping' in a 'seminar'.
+『Just what is it』, you say... Obviously, it's 『camping』 in a 『seminar』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -279,7 +279,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『ゼミ』って何？
-「What do you mean, 'seminar'?」
+「What do you mean, 『seminar』?」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -299,12 +299,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『ゼミ』の『合宿』ねぇ……。うん、なるほど」%K%P
-'Camping' in a 'seminar'... Yeah, it makes sense.
+『Camping』 in a 『seminar』... Yeah, it makes sense.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「じゃあ、『ゼミ』っていうのは何なんだ？」%K%P
-But what does it mean by 'seminar', exactly?
+But what does it mean by 『seminar』, exactly?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -319,7 +319,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「へぇー……。まさか、この期に及んで『ゼミ』の意味を知らない学生が、うちの大学にいたなんて驚きだけど……」%K%P
-Hmm... I'm surprised, I didn't think that there were students in our college by this time who didn't know about the meaning of the 'Seminar', but...
+Hmm... I'm surprised, I didn't think that there were students in our college by this time who didn't know about the meaning of the 『Seminar』, but...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -334,7 +334,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「あのね？　本来、ごく一般的な大学では、４年生になると同時に、各学生が任意の『ゼミ』を選んでそこに所属し、何らかの学問的対象を研究するのね？」%K%P
-Okay. So you know how that originally, very liberal colleges offered a 'Seminar' program in which senior year students could join and research a topic of their choice, right?
+Okay. So you know how that originally, very liberal colleges offered a 『Seminar』 program in which senior year students could join and research a topic of their choice, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -344,7 +344,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「だから『ゼミ』って言うのは、要するに『研究室』のことだと思ってくれて構わないと思う」%K%P
-So basically, if you think of the 'Seminar' as a 'lab', I don't think they'd mind.
+So basically, if you think of the 『Seminar』 as a 『lab』, I don't think they'd mind.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -354,12 +354,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「でね？　『ゼミ』に於いて研究した成果は、いわゆる『卒論』っていう形をとって、年末に発表しなくちゃいけないわけ」%K%P
-Right? And at the end of the year, they had to publish the research results of the 'Seminar', in a so-called 'bachelor's thesis'.
+Right? And at the end of the year, they had to publish the research results of the 『Seminar』, in a so-called 『bachelor's thesis』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「その『卒論』が、大学のいろんな偉い先生達に認められることによって、私達は晴れて卒業することができるの」%K%P
-If that 'bachelor's thesis' was approved by various distinguished teachers, that student would be all clear to graduate...
+If that 『bachelor's thesis』 was approved by various distinguished teachers, that student would be all clear to graduate...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -374,7 +374,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「そう。だから正確に言うと、私達が所属しているのは、実は『プレゼミ』っていうやつなの」%K%P
-Right. Technically, we're actually members of a 'Pre-Seminar'.
+Right. Technically, we're actually members of a 『Pre-Seminar』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -439,7 +439,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「億彦は『最初っから目的なんか無い。%N有るとすれば、班員の親睦を深めることが%N唯一の目的だ』みたいなことを言ってたけど？」%K%P
-Okuhiko thinks 'From the start, there was no goal. If there truly is one, then it's only to deepen the bonds of friendship between the group members.' Is he right?
+Okuhiko thinks 『From the start, there was no goal. If there truly is one, then it's only to deepen the bonds of friendship between the group members.』 Is he right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -474,7 +474,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「教授じきじきの御達しなの。『合宿最終日まで、その主旨は教えてはならない』ってね」%K%P
-They're direct, official orders from the professor in charge. 'Until the last day of the Camp, don't tell anyone the purpose behind it.'
+They're direct, official orders from the professor in charge. 『Until the last day of the Camp, don't tell anyone the purpose behind it.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -494,7 +494,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「優夏先生の恋愛方程式その１%N%W%W%W%W──『しつこい男は嫌われる』%N%W%W%W──よく覚えときなさい♪」%K%P
-The First Law of Professor Yuka's Love Formula: ―'Dislike persistent men.' ―Please remember that♪
+The First Law of Professor Yuka's Love Formula: 『Dislike persistent men.』 Please remember that♪
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -519,7 +519,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『しつこい男は嫌われる』%N──嫌われる、って%W%W%W%W……誰に？%K%P
-「Dislike persistent men.」 ―Dislike... who?
+「Dislike persistent men.」%N―Dislike... who?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -749,7 +749,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 けれど、それはそれでやむを得ないことだ。%K%N集団生活とはそういうものなのだ。%K%P
-But that's just the way things work. In groups, the majority rules.
+But that's just the way things work.%K%NIn groups, the majority rules.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -779,7 +779,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ベンチからもラケットを取り振り回す。%W%Wぶん回す。%K%Nかなりご機嫌ナナメだ。%K%P
-She takes the racket from the bench and swings it wildly. It spins rapidly. Yep... she's pissed.
+She takes the racket from the bench and swings it wildly. It spins rapidly.%K%NYep... she's pissed.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -809,7 +809,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦がくらくらと倒れ伏す。%K%N慌てて優夏がしゃがみこんで、億彦の体を揺すった。%K%Nぴくりともしない。%K%P
-Okuhiko collapses to the ground in a daze. Panicking, Yuka crouches down and shakes his body. He's knocked out.
+Okuhiko collapses to the ground in a daze.%K%NPanicking, Yuka crouches down and shakes his body.%K%NHe's knocked out.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -834,7 +834,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙の姿が見えなくなっていた。%K%N見回すと……%T015いた。%K%Nとっくにテニスコートの外だ。%K%P
-I've lost sight of her. I look around... Found her. Haruka's already far away from the tennis court.
+I've lost sight of her.%K%NI look around...%T015 Found her.%K%NHaruka's already far away from the tennis court.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -854,7 +854,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 言い捨てると、オレは遙の後を追った。%K%N遙の後ろ姿は、道の曲り角に消えかかっていた。%K%P
-I shout this over my shoulder before chasing after Haruka. She disappears as she goes around the street's corner.
+I shout this over my shoulder before chasing after Haruka.%K%NShe disappears as she goes around the street's corner.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

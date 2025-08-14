@@ -119,7 +119,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「いまさらだと思うけど……%W%Wあの話……%W%W聞かなかったことに、してもらえないかなぁ？」%K%P
-You might think 'Why are you saying this now?', but... That story... I don't think it's something I should have told you.
+You might think 『Why are you saying this now?』, but... That story... I don't think it's something I should have told you.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -204,7 +204,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『産まれてすぐに出来た傷だろう』%W%W……くるみもそのことには、気づいてるんですよ？」%K%P
-'She probably got it shortly after she was born,'... Kurumi's realized that, you know.
+『She probably got it shortly after she was born,』... Kurumi's realized that, you know.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -304,7 +304,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「そう言えば……%W%Wくるみが小学３年生の頃……%W担任の先生に『お母さんの絵を描いて下さい』%Nって言われて……」%K%P
-Now that I think about it... when Kurumi was in 3rd grade... her homeroom teacher gave the assignment of 'please draw a picture of your mother'...
+Now that I think about it... when Kurumi was in 3rd grade... her homeroom teacher gave the assignment of 『please draw a picture of your mother』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -314,7 +314,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「家に帰って来たくるみは『先生に叱られた』%Nって言って、わんわん泣いて……」%K%P
-When she got home, Kurumi said, 'the teacher scolded me', and cried...
+When she got home, Kurumi said, 『the teacher scolded me』, and cried...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

@@ -99,7 +99,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「けど……何？」%K%P
-'But'... what?
+『But』... what?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -204,7 +204,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「そう。だから魚は敵さんなんだ」%K%P
-Right. That's why the fish is 'Mr. Enemy'.
+Right. That's why the fish is 『Mr. Enemy』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -449,7 +449,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「『竹取物語』、読んだことある？」%K%P
-Have you ever read, 'The Tale of the Bamboo Cutter'?
+Have you ever read, 『The Tale of the Bamboo Cutter』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

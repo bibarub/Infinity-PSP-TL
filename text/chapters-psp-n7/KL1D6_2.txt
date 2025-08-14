@@ -164,12 +164,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「聞いた……？」%K%P
-'Heard'...?
+『Heard』...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「『想像してたのより…………%W%W%W酷かった……』」%K%P
-'It was much more horrifying... than I ever could have imagined...'
+『It was much more horrifying... than I ever could have imagined...』
 CN PLACEHOLDER
 RU PLACEHOLDER
 

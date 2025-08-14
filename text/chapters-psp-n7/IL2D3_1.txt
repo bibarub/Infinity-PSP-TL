@@ -1,5 +1,5 @@
 ﻿オレはまだいづみさんに告白していない。%K%Nまだ、気持ちを伝えてはいない。%K%P
-I still haven't confessed to Izumi-san. I still haven't told her my feelings.
+I still haven't confessed to Izumi-san.%K%NI still haven't told her my feelings.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -329,7 +329,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「遙。今日は『私、いい』なんて言わせないからね。班長命令なんだから」%K%P
-Haruka, you can't just say 'I'll pass' today. That'd be going against the group leader's orders.
+Haruka, you can't just say 『I'll pass』 today. That'd be going against the group leader's orders.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -454,7 +454,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 オレが下手すぎるのか？%K%Nはたまた遙のセンスが秀逸なのか？%K%P
-Do I just suck that much? Or does Haruka have excellent senses?
+Do I just suck that much?%K%NOr does Haruka have excellent senses?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -669,7 +669,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………………………。%N………………………………。%N………………………………。%N……%W%W%Wパクパク。%K%P
-... ... ... ... I'm at a loss for words.
+...%N...%N...%N... I'm at a loss for words.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -719,7 +719,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 オレには……いづみさんがいる。%K%Nこんなオレのことを好きだって言ってくれた%N……いづみさんがいる！！%K%P
-I have... Izumi-san. Izumi-san already told me... that she loves me!!
+I have... Izumi-san.%K%NIzumi-san already told me... that she loves me!!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1014,7 +1014,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……裏切っていない？　本当だろうか？%K%Nオレはあのとき、胸の高鳴りを覚えた。%K%Nそれは紛れもない事実だ。%K%P
-... Didn't betray her? Is that really true? I remember my throbbing heartbeat from back then. It wasn't a fluke that I felt that.
+... Didn't betray her? Is that really true?%K I remember my throbbing heartbeat from back then.%K It wasn't a fluke that I felt that.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1029,7 +1029,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 はぁ……。%K%Nこれって、精神的な浮気ってヤツなんだろうな……やっぱり。%K%P
-Haah... I really am... a mentally unfaithful bastard.
+Haah...%K%NI really am... a mentally unfaithful bastard.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1089,7 +1089,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1154,7 +1154,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……裏切っていない？　本当だろうか？%K%Nオレはあのとき、胸の高鳴りを覚えた。%K%Nそれは紛れもない事実だ。%K%P
-... Didn't betray her? Is that really true? I remember my throbbing heartbeat from back then. It wasn't a fluke that I felt that.
+... Didn't betray her? Is that really true?%K I remember my throbbing heartbeat from back then.%K It wasn't a fluke that I felt that.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1169,7 +1169,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 はぁ……。%K%Nこれって、精神的な浮気ってヤツなんだろうな……やっぱり。%K%P
-Haah... I really am... a mentally unfaithful bastard.
+Haah...%K%NI really am... a mentally unfaithful bastard.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

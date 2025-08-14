@@ -94,7 +94,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「んなら、無理にとは言わないけど……」%K%P
-Then I guess that's a 'no'...
+Then I guess that's a 『no』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -254,7 +254,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「ちょっとぉ！　何で『ならいいけど』なの！？　怒ってるんだよ、くるみは！」%K%P
-Hey! How is it 'all right'!? Kurumi's angry!
+Hey! How is it 『all right』!? Kurumi's angry!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -289,7 +289,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「せっかく……って言うほどのもんなのか、%Nそれは？」%K%P
-'Trouble'... how is saying the words, 'Onii-chan, wanna go watch crab sumo with me?' trouble?
+『Trouble』... how is saying the words, 『Onii-chan, wanna go watch crab sumo with me?』 trouble?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -779,7 +779,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「ゴメンって……誠くんが地震を起したわけじゃないでしょ？」%K%P
-'Sorry'? ... Makoto-kun, it's not like you caused the earthquake to happen, right?
+『Sorry』? ... Makoto-kun, it's not like you caused the earthquake to happen, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1089,7 +1089,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「……く、くるみ、『肝だめし、またやりたいねぇ♪』なんて、はしゃいでたしぃ……」%K%P
-... K-Kurumi told me she 'wanted to have another Test of Courage♪'...
+... K-Kurumi told me she 『wanted to have another Test of Courage♪』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1199,7 +1199,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「いづみさん、おとといの夜、くるみが%N『ミステリーツアー行こう』って言ったとき、%Nすごい勢いで怒ったでしょ？」%K%P
-Two nights ago, Kurumi suggested going on a 'Mystery Tour.' You got really mad back then, didn't you?
+Two nights ago, Kurumi suggested going on a 『Mystery Tour.』 You got really mad back then, didn't you?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

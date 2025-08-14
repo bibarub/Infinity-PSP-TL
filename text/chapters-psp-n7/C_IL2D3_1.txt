@@ -104,7 +104,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「すぐって、どれくらい？」%K%P
-How long is 'soon'?
+How long is 『soon』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -114,12 +114,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「２時間って……『すぐ』じゃないと思う」%K%P
-Two hours... I don't think you'd call that 'soon'.
+Two hours... I don't think you'd call that 『soon』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「まあ、確かに『すぐ』じゃないけど……」%K%P
-Well, it certainly isn't 'soon', but...
+Well, it certainly isn't 『soon』, but...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -134,7 +134,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「あの人に、会いに行くんでしょ？」%K%P
-You're going to meet with 'her', right?
+You're going to meet with 『her』, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -144,7 +144,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「『先生』に……」%K%P
-The 'Professor'...
+The 『Professor』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

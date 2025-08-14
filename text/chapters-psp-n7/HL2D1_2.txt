@@ -99,7 +99,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「生き、てる？」%K%P
-'Alive'?
+『Alive』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -129,7 +129,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『生き、てる？』%N──そう聞き返してきた遙の視線は、オレの方に%N向けられてはいなかった。%K%P
-「'Alive?'」 ―Haruka doesn't bother to turn towards me as she asks this.
+「『Alive?』」%N―Haruka doesn't bother to turn towards me as she asks this.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -429,7 +429,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 そう言い捨てると、オレは遙の後を追った。%K%N遙の後ろ姿は、道の曲り角に消えていく……。%K%P
-I shout this over my shoulder before chasing after Haruka. She begins to disappear as she goes around the street's corner...
+I shout this over my shoulder before chasing after Haruka.%K%NShe begins to disappear as she goes around the street's corner...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -554,7 +554,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -609,7 +609,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙は眉ひとつ動かさず、波打ち際に裸足を浸した。%K%Nその視線は遠く水平線の彼方に向けられている。%K%P
-Haruka nonchalantly soaks her bare feet into the ocean. Her eyes are fixed on the faraway horizon.
+Haruka nonchalantly soaks her bare feet into the ocean.%K%NHer eyes are fixed on the faraway horizon.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -634,7 +634,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『私は違うから』%N……さっき、そう言ったよな？」%K%P
-'Because I'm different'. ... You said that earlier, didn't you?
+『Because I'm different』. ... You said that earlier, didn't you?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -644,7 +644,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「それに今朝は、こんなことも言ってた。%N『私にはないから』って……」%K%P
-And this morning, you also said this. 'Because I am nothing'...
+And this morning, you also said this. 『Because I am nothing』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -654,7 +654,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『心がない』……そんなふうに、%N思ってるんだろ？」%K%P
-'I have no heart'... that's the way you think, right?
+『I have no heart』... that's the way you think, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -734,7 +734,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「つい？」%K%P
-'So'... What's the rest?
+『So』... What's the rest?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -899,7 +899,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ぼぉっとした感じの遙の顔が迫ってきた。%K%N何かに取り憑かれたようなその表情。%K%P
-Haruka draws her face close to mine. Her expression begins to overwhelm my senses.
+Haruka draws her face close to mine.%K%NHer expression begins to overwhelm my senses.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1294,7 +1294,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 しかし、あの時のように、砂浜の中の輝きは……%K%N刺すような、冷たく尖った光は……%K見つけることは%N出来なかった。%K%P
-But unlike that time, I can't find it... That radiance lying in the beach...%K%PThat cold, stinging light.
+But unlike that time, I can't find it...%K%NThat radiance lying in the beach...%K That cold, stinging light.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

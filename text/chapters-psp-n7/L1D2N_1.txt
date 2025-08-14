@@ -69,7 +69,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『恋の岬で想いを告げて、愛の入り江で想いを遂げる』」%K%P
-'Express your feelings on the Cape of Affection, and carry out those feelings at the Cove of Love.'
+『Express your feelings on the Cape of Affection, and carry out those feelings at the Cove of Love.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -104,7 +104,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「そう。もともと『姫ヶ浜』の名前の由来は『秘め事をする浜』っていうところにあるみたいで……」%K%P
-Right. Originally, Princess Beach―'Himegahama', got its name from 'Himegoto wo suru hama―The Beach of Secrets'...
+Right. Originally, Princess Beach―『Himegahama』, got its name from 『Himegoto wo suru hama―The Beach of Secrets』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -154,7 +154,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「でね？　僕は何とな〜く思ったんだけれど、『恋の岬で……』っていうのは、あるいはもしかすると、そっちの岬のことを指してるんじゃないのかなぁ？」%K%P
-And you know what? I was thinking that if there's a 'Cape of Affection', then perhaps there's something special about that one as well.
+And you know what? I was thinking that if there's a 『Cape of Affection』, then perhaps there's something special about that one as well.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -244,22 +244,22 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「あそこ……正式な名前を『司紀の杜神社』って言うんだけど、一説によると、昔は『死ぬ鬼の杜』と書いて『死鬼の杜』と呼んでいたっていう噂もあるの」%K%P
-That shrine... its official name is the 'Shiki no Mori Shrine' (司紀の杜神社), but they say long ago, it was known as the 'Grove of Demons', written as 'Shiki no Mori' (死鬼の杜).
+That shrine... its official name is the 『Shiki no Mori Shrine』 (司紀の杜神社), but they say long ago, it was known as the 『Grove of Demons』, written as 『Shiki no Mori』 (死鬼の杜).
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「つまりあの神社は、その『死鬼の神』を崇め奉る為に建てられたのだ、と……そういうことみたい」%K%P
-In other words, that shrine was built to worship the 'God of Demons'... or so they say.
+In other words, that shrine was built to worship the 『God of Demons』... or so they say.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみさんが砂浜に『司紀杜』『死鬼杜』と、指先で書きながら説明を続ける。%K%P
-Izumi-san continues to explain while writing the two different ways of writing 'Shiki no Mori' in the sand ((司紀杜) and (死鬼杜)).
+Izumi-san continues to explain while writing the two different ways of writing 『Shiki no Mori』 in the sand ((司紀杜) and (死鬼杜)).
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『死鬼の神』というのは、文字どおり『死をつかさどる鬼神』の意味で、人々を呪い殺したり祟ったりする凶暴な邪神のこと」%K%P
-This means the 'God of Demons' was literally 'The Fierce God Who Rules Over Death'. He was a brutal, evil god that would curse and kill people.
+This means the 『God of Demons』 was literally 『The Fierce God Who Rules Over Death』. He was a brutal, evil god that would curse and kill people.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -314,7 +314,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「はぁはぁ……沙紀さんがね？『もう帰っても大丈夫だから』って、そう言うから……ふぅーっ」%K%P
-Haah, haah... Saki-san said 'I'll be fine, so go home already', so Kurumi came back ... Whew.
+Haah, haah... Saki-san said 『I'll be fine, so go home already』, so Kurumi came back ... Whew.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -469,7 +469,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「みんなは『神隠し』って知ってるかなぁ？」%K%P
-Everyone, do you know what it means to be 'spirited away'?
+Everyone, do you know what it means to be 『spirited away』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -484,12 +484,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「そう。今では『蒸発』とか『失踪』とかって呼ばれてるけど……」%K%P
-Right. Nowadays, it's called an 'disappearance' or an 'absconding'...
+Right. Nowadays, it's called an 『disappearance』 or an 『absconding』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「実は、その『神隠し』がね？　あの神社では起こるらしいのよ」%K%P
-The truth is, something like 'spiriting away' happened at that shrine.
+The truth is, something like 『spiriting away』 happened at that shrine.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -524,7 +524,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「島の人達は、その一連の『神隠し事件』のことを『死鬼の神の祟りだ』とか『死鬼の神が地獄に引きずり込んだのだ』とか、そんなふうに言ってる」%K%P
-The people on this island say that this series of 'spiriting away' incidents were from the people being 'cursed', or 'dragged to hell by the God of Demons'.
+The people on this island say that this series of 『spiriting away』 incidents were from the people being 『cursed』, or 『dragged to hell by the God of Demons』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -534,7 +534,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「まあとにかく、そのことがあって以来、あの神社……『司紀の杜神社』には誰も近寄らなくなってしまった、というわけ」%K%P
-Even so, ever since that, no one goes near the 'Shiki no Mori Shrine' anymore.
+Even so, ever since that, no one goes near the 『Shiki no Mori Shrine』 anymore.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -574,12 +574,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「ミステリーツアー？」%K%P
-'Mystery Tour'?
+『Mystery Tour』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「うん。その問題の『司紀の杜神社』とか言う所に行ってみてぇ、噂が本当かどうか確かめてみるの」%K%P
-Yep. Kurumi wants to go check out that so-called 'Shiki no Mori Shrine' and see if the rumors are true or not.
+Yep. Kurumi wants to go check out that so-called 『Shiki no Mori Shrine』 and see if the rumors are true or not.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -609,7 +609,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「なんでも！」%K%P
-'Why not'!?
+『Why not』!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

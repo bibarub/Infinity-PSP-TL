@@ -69,7 +69,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 何とも見事な景観だった。%K%N背もたれに体をあずけ、ぼんやりと海を眺めながら、オレは……%K
-It's quite a breathtaking scenery. Positioning myself so that I can see it better, I blankly stare out at the ocean for a while...
+It's quite a breathtaking scenery.%K Positioning myself so that I can see it better, I blankly stare out at the ocean for a while...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -189,7 +189,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「……で、そしたら他の２人のメンバーが『どうしても現地集合がいい』って言うんだよねぇ……」%K%P
-... Then I'll tell the other two members that 'We have to meet on-site, no matter what.'
+... Then I'll tell the other two members that 『We have to meet on-site, no matter what.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -234,7 +234,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……。%N…………。%N………………。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -519,7 +519,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「得にならない、%W%W%Wって……」%K%P
-'Nothing to gain'...?
+『Nothing to gain』...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

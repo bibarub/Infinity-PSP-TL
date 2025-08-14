@@ -149,12 +149,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「ああ…『ラプラス』って、知らない？」%K%P
-Oh... you don't know what 'Laplace' is?
+Oh... you don't know what 『Laplace』 is?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『ラプラスの悪魔』」%K%P
-It refers to 'Laplace's Demon'.
+It refers to 『Laplace's Demon』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -164,17 +164,17 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『ある瞬間の、世界中のありとあらゆる全ての状態を、正確に知ることができる『悪魔』という生き物がいたとする……」%K%P
-'Suppose there exists a 「demon,」 that is, an entity that possesses the ability to know, at a certain moment, the state of all things in the universe...
+『Suppose there exists a 「demon,」 that is, an entity that possesses the ability to know, at a certain moment, the state of all things in the universe...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「……たとえそれが、いかに短い瞬間であったとしても、悪魔にとっては未来や過去の状態をうかがい知るには十分なのだ』」%K%P
-...Then, no matter how brief this moment is, it would always be enough for the demon to unravel everything that happened in the past and will happen in the future.'
+...Then, no matter how brief this moment is, it would always be enough for the demon to unravel everything that happened in the past and will happen in the future.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「要するに、ラプラスっていう人は……『世界中で起こる全ての出来事は、初めから何もかも決まっている』ってことが言いたかったのね」%K%P
-In short, what that man was saying was this. 'Everything which occurs in the world has been predetermined from the beginning.'
+In short, what that man was saying was this. 『Everything which occurs in the world has been predetermined from the beginning.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -189,12 +189,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「哲学の用語では『決定論的世界観』とか言うらしいんだけどね？」%K%P
-I believe that in philosophy, this is called 'causal determinism'.
+I believe that in philosophy, this is called 『causal determinism』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 『全ての出来事は、初めから何もかも決まっている……偶然ではなく必然的に起こるものなのだ』%K%P
-「'Everything which occurs in the world has been predetermined from the beginning. Its occurrence is by no means accidental, but in fact inevitable'.」
+「『Everything which occurs in the world has been predetermined from the beginning. Its occurrence is by no means accidental, but in fact inevitable』.」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -214,7 +214,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -534,7 +534,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 本当に怖かったのは……%K%N真実を、聞くことだったのに……。%K%P
-The thing I was really scared of...%K Was for him to ask me to tell him the truth...
+The thing I was really scared of...%K%NWas for him to ask me to tell him the truth...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -819,7 +819,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「そ〜いう優夏さんこそ、どうしちゃったんですか？%Nこんなところで？」%K%P
-'What's wrong'? What's wrong with you, Yuka-san? What are you doing here?
+『What's wrong』? What's wrong with you, Yuka-san? What are you doing here?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1279,7 +1279,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「もぉ、突然ボ〜っとしだして、どうしたの？」%K%P
-Geez, what's up with you? You spaced out all of the sudden.
+Geez, what's up with you? You spaced out all of a sudden.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1374,7 +1374,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「あ、大丈夫、大丈夫。ちゃ〜んと『カロリー控え%Nめ』って、ここに書いてあるから」%K%P
-Oh, but don't worry. Kurumi made sure to get the ones with 'low calorie' written on them.
+Oh, but don't worry. Kurumi made sure to get the ones with 『low calorie』 written on them.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1464,17 +1464,17 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ようやく、みんなの所に戻った時……%K%N遙がうすよごれたビニール袋を掲げていた……。%K%P
-Finally, the time comes to return to the others...%K Haruka is carrying a dirty plastic bag...
+Finally, the time comes to return to the others...%K%NHaruka is carrying a dirty plastic bag...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 あれから１時間以上が経った。%K%N宴もたけなわである。%K%P
-About an hour has passed since then.%K The party's in full swing.
+About an hour has passed since then.%K%NThe party's in full swing.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1934,7 +1934,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 どうして……？%K%Nそんなこと、考えるまでもなかった。%K%P
-Why...?%K I don't even have to think about it.
+Why...?%K%NI don't even have to think about it.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

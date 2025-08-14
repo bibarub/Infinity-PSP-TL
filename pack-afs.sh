@@ -260,7 +260,7 @@ repack_se_afs () {
 		# recreate data end frame and 1KiB padding
 		printf "\x80\x01\x01\x1c" >> e17_se_mod/SE02_11L.ADX
 		dd bs=284 count=1 if=/dev/zero >> e17_se_mod/SE02_11L.ADX
-		# update header info (2x everything)
+		# update header info
 		printf "\x00\x04\x7e\x00" | dd oflag=seek_bytes conv=notrunc seek=12 of=e17_se_mod/SE02_11L.ADX # sample count
 		printf "\x00\x04\x7e\x00" | dd oflag=seek_bytes conv=notrunc seek=48 of=e17_se_mod/SE02_11L.ADX # loop end sample
 		printf "\x00\x02\x8e\xe0" | dd oflag=seek_bytes conv=notrunc seek=52 of=e17_se_mod/SE02_11L.ADX # loop end offset
@@ -315,10 +315,21 @@ copy_movie () {
 		cp -p assets/movie-${GAME}-${TL_SUFFIX}/*.pmf $ISO_RES_DIR/movie/ || true
 }
 
+repack_n7_chr_afs() {
+	$PY ./py-src/n7_sprite_patch.py || exit 1
+	for i in n7_chr_mod/*.R11; do
+		f=$(basename $i .R11)
+		$COMPRESS n7_chr_mod/$f{.R11,.BIP} || exit 1
+	done
+	$REPACK_AFS $WORKDIR/chr.afs $WORKDIR/chr-repacked.afs ./n7_chr_mod || exit 1
+	mv -f $WORKDIR/chr-repacked.afs $ISO_RES_DIR/chr.afs
+}
+
 # Actually running above functions
 [ -e $WORKDIR/bg.afs ] && repack_bg_afs
 [ -e $WORKDIR/ev.afs ] && repack_ev_afs
 [ -e $WORKDIR/se.afs ] && repack_se_afs
+[ "$GAME" = "n7" ] && repack_n7_chr_afs
 repack_mac_afs
 repack_etc_afs
 repack_init_bin

@@ -39,7 +39,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「じゃあ……億彦に『絶対について来ないで』って言ったのは……？」%K%P
-Then... when you said 'I absolutely don't want Okuhiko to follow me', what did you mean...?
+Then... when you said 『I absolutely don't want Okuhiko to follow me』, what did you mean...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -394,7 +394,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………………………。%N………………………………。%N………………………………。%N……%W%W%Wパクパク。%K%P
-... ... ... ...%W%W%W I'm at a loss for words.
+...%N...%N...%N...%W%W%W I'm at a loss for words.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -524,7 +524,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………………………………………。%K%N
-...................
+..................
 CN PLACEHOLDER
 RU PLACEHOLDER
 

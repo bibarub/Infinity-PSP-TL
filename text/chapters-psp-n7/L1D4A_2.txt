@@ -9,7 +9,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「あ、誠……。ちょっと挨拶ぐらいしなさいよね？」%K%P
-Ah, Makoto... Can't you at least say 'good morning' first?
+Ah, Makoto... Can't you at least say 『good morning』 first?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -504,7 +504,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「一緒にって……お花見に？」%K%P
-'Come with me'... to see the cherry blossoms?
+『Come with me』... to see the cherry blossoms?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

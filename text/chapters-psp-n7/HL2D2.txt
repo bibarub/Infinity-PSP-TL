@@ -39,7 +39,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 とりあえず、沙紀を防波堤の方に行かせなければ%Nいいのだろうか……？%K%Nいや、その前に沙紀と遙の言い争いを%N止めるべきでは……？%K
-Anyway, I need to stop Saki from going out towards the pier... No, before that, should I stop Saki and Haruka's quarrel...?
+Anyway, I need to stop Saki from going out towards the pier...%K%NNo, before that, should I stop Saki and Haruka's quarrel...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -194,7 +194,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 その時、沙紀の声が響いた。%K%Nいつの間にか、沙紀と遙が言い争っていた。%K%Nオレはすぐさま走り出したが……。%K%P
-At that time, I hear the echo of Saki's voice. Saki and Haruka had started quarreling without me noticing. I immediately start running...
+At that time, I hear the echo of Saki's voice.%K%NSaki and Haruka had started quarreling without me noticing.%K%NI immediately start running...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -249,7 +249,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -299,7 +299,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『どうすれば歴史を変えることができるのか？』%K%N……オレはその１点のみを思索していた。%K%P
-「How can I change history? Is it even possible?」 ... That's the question endlessly revolving in my mind.
+「How can I change history? Is it even possible?」%K%N... That's the question endlessly revolving in my mind.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -329,7 +329,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 何にしても、明日が勝負だ。%K%N遙がクローンであることが暴露された日……。%K%N
-Either way, it doesn't change that tomorrow will be a challenge. The day Haruka was revealed to be a clone...
+Either way, it doesn't change that tomorrow will be a challenge.%K%NThe day Haruka was revealed to be a clone...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

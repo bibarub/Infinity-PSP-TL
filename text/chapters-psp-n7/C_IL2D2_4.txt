@@ -59,7 +59,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「これから、くるみね？　億彦くんのこと%N『おっくん』って呼ぶことにしたから♪」%K%P
-Kurumi has decided to call Okuhiko-kun 'Okkun' from now on♪
+Kurumi has decided to call Okuhiko-kun 『Okkun』 from now on♪
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -69,7 +69,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「でぇ、誠くんのことは『お兄ちゃん』って呼ぶことに決めたの♪」%K%P
-And she's decided to call Makoto-kun 'Onii-chan'♪
+And she's decided to call Makoto-kun 『Onii-chan』♪
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -129,7 +129,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

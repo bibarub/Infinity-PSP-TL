@@ -34,12 +34,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「いづみさんが前に言ってたじゃない。『沖の方が%N荒れてるから、漁船が出れない』って……」%K%P
-Izumi-san said it before, didn't she? 'Because a storm's coming from the sea, the fishing boats can't go out'...
+Izumi-san said it before, didn't she? 『Because a storm's coming from the sea, the fishing boats can't go out』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『熱帯低気圧の移動速度が遅いから、%N１週間ぐらいはダメかも』……そうも言ってた」%K%P
-'Because the migration velocity of the tropical cyclone is slow, it'll be like this for about a week'... she also said something like that.
+『Because the migration velocity of the tropical cyclone is slow, it'll be like this for about a week』... she also said something like that.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -104,7 +104,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「時々、何かが起こる直前に、予知まがいのことを%N体験することはあったけど……結局そんなもの、何の役にも立たなかった……」%K%P
-At times, just before something happened, we would experience a 'premonition'... But in the end, they were useless...
+At times, just before something happened, we would experience a 『premonition』... But in the end, they were useless...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -154,7 +154,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「そしたら億彦くんの行動が変わって……最終的には遙が『朝倉』だって嘘をつくことになった……」%K%P
-Then Okuhiko-kun's actions changed... and finally, it was Haruka who lied that her name was 'Asakura'...
+Then Okuhiko-kun's actions changed... and finally, it was Haruka who lied that her name was 『Asakura』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -184,17 +184,17 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『ブラジルでチョウが羽ばたくと、数週間後に%Nテキサスで竜巻が起こる』っていうやつだろ？」%K%P
-It's the question of 'Does the flap of a butterfly's wings in Brazil set off a tornado in Texas?', right?
+It's the question of 『Does the flap of a butterfly's wings in Brazil set off a tornado in Texas?』, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「要するに『小さな小さな微少な変化が、巨大な%N現象にまで影響を及ぼす』って意味だ」%K%P
-In short, it means 'A tiny little microscopic change could affect even an enormous phenomenon'.
+In short, it means 『A tiny little microscopic change could affect even an enormous phenomenon』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「日本で言うところの『風が吹けばオケ屋が儲かる』にも、ちょっと似てるよな？」%K%P
-It's kinda like the Japanese expression 'When the wind blows, the barrel makers profit', isn't it?
+It's kinda like the Japanese expression 『When the wind blows, the barrel makers profit』, isn't it?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -204,12 +204,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『ブラジルでチョウが羽ばたくと、数週間後に%Nテキサスで竜巻が起こる』%N──それがバタフライ効果」%K%P
-'Does the flap of a butterfly's wings in Brazil set off a tornado in Texas?' ―That's the butterfly effect.
+『Does the flap of a butterfly's wings in Brazil set off a tornado in Texas?』―That's the butterfly effect.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「要するに『小さな小さな微少な変化が、巨大な%N現象にまで影響を及ぼす』って意味なの」%K%P
-In short, it means 'A tiny little microscopic change could affect even an enormous phenomenon'.'
+In short, it means 『A tiny little microscopic change could affect even an enormous phenomenon』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -219,7 +219,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「何だか、日本で言うところの『風が吹けばオケ屋が儲かる』に、ちょっと似てるな？」%K%P
-It's kinda like the Japanese expression 'When the wind blows, the barrel makers profit', isn't it?
+It's kinda like the Japanese expression 『When the wind blows, the barrel makers profit』, isn't it?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -354,7 +354,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『約束は絶対に守ること』──優夏自身が、あの手紙に書いた言葉だ」%K%P
-'Promises must definitely be kept'―That's what you wrote in your letter.
+『Promises must definitely be kept』―That's what you wrote in your letter.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

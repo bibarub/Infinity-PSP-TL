@@ -304,7 +304,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「いいったって……」%K%P
-'I'm fine,' you say...
+『I'm fine,』 you say...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -454,7 +454,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「『人魚姫』……読んだことある？」%K%P
-Have you ever read... 'The Little Mermaid'?
+Have you ever read... 『The Little Mermaid』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -679,7 +679,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「えっ？『声かけなくてよかった？』って『声かけなかった』って意味だよな？」%K%P
-Huh? By 'should have called out to her', does that mean you 'didn't call out to her'? What do you mean?
+Huh? By 『should have called out to her』, does that mean you 『didn't call out to her』? What do you mean?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -724,7 +724,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「何よ、遙さんばっかり。お兄ちゃんのばかぁ！」%K%P
-Hey, why is it just 'Haruka-san this, Haruka-san that'? Stupid Onii-chan!
+Hey, why is it just 『Haruka-san this, Haruka-san that』? Stupid Onii-chan!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -834,7 +834,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「嘘！　嘘！　返して！　あの『鈴』返して！」%K%P
-You're lying! You're lying! Give it back! Give me back that 'bell'!
+You're lying! You're lying! Give it back! Give me back that 『bell』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -914,7 +914,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙が、沙紀の手をまたつかもうとしたそのとき。──沙紀が思い切り遙を突き飛ばした！%K%P
-Haruka grabs Saki's hand again, but this time― Saki thrusts Haruka away with all her strength!
+Haruka grabs Saki's hand again, but this time... Saki thrusts Haruka away with all her strength!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1174,7 +1174,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「何だよ、急に……」%K%P
-What's with this all of the sudden...?
+What's with this all of a sudden...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

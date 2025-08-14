@@ -219,7 +219,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 幸い、目ははれ上がってはいない。%K%N顔がむくんでいるわけでもなかった。%K%P
-Fortunately, there's no bags under my eyes.%K There's no swelling at all on my face.
+Fortunately, there's no bags under my eyes.%K%NThere's no swelling at all on my face.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -244,7 +244,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 不安……。%K%N一言で言うならば、不安な夢。%K%P
-Anxiety...%K That dream was full of anxiety.
+Anxiety...%K%NThat dream was full of anxiety.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -494,7 +494,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 そして……。%K%P
-And then....
+And then...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -629,7 +629,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N………………。%N…………。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1274,7 +1274,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2134,7 +2134,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 次々と……。%K%N次々と……。%K%P
-One by one...%K One by one...
+One by one...%K%NOne by one...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2224,7 +2224,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「そのキーホルダーのネコね……『ニンニンネコピョン』っていうんだけど……」%K%P
-The cat on the key chain... was called 'Nin Nin Neko Pyon'...
+The cat on the key chain... was called 『Nin Nin Neko Pyon』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2244,7 +2244,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「ま、まさか……忍者の忍の『忍々猫ぴょん』…………？」%K%P
-S-So you mean... the 'Nin Nin' part of it's name came from 'ninja'...?
+S-So you mean... the 『Nin Nin』 part of it's name came from 『ninja』...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2434,7 +2434,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「さっき優夏さん、こう言ったよね？　『２つのキーホルダーはソックリだった』って」%K%P
-Didn't you say earlier that 'those two key chains were the spitting image of each other'?
+Didn't you say earlier that 『those two key chains were the spitting image of each other』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2464,7 +2464,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「そ、そうね……ってぇ」%K%P
-'Th-That's true'?
+『Th-That's true』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2994,7 +2994,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「何度か誠くんと話をする内に『間違いない』って%N思うようになったの」%K%P
-Every time I talked to Makoto-kun, I kept thinking 'there's no mistaking it'.
+Every time I talked to Makoto-kun, I kept thinking 『there's no mistaking it』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3029,7 +3029,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「『もっと肩の力抜けよ。似合わないんだよ、そんな疲れる生き方』ってね……」%K%P
-'You should loosen up more. That tiresome way of life doesn't suit you'...
+『You should loosen up more. That tiresome way of life doesn't suit you』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3039,7 +3039,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「あんな事、私に面と向かって言える人間、世界中で１人しかいないと思ってたわ……」%K%P
-When that happened, I thought 'there's only one other person in the world who talked to me like that'...
+When that happened, I thought 『there's only one other person in the world who talked to me like that』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3159,7 +3159,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「それは、周知の通りよ」%K%P
-'It's only common sense'.
+『It's only common sense』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3209,7 +3209,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「姿の似てないソックリさん……他人のそら似、血の繋がってない生き写し……」%K%P
-A 'spitting image' who doesn't look like the other... The definition of a 'spitting image' is an unrelated stranger with an accidental, lifelike resemblance of someone else...
+A 『spitting image』 who doesn't look like the other... The definition of a 『spitting image』 is an unrelated stranger with an accidental, lifelike resemblance of someone else...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3219,7 +3219,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「重要なのは『間違いなく似てる』ということだけ」%K%P
-Just the most important part, which is 'an unmistakable resemblance'.
+Just the most important part, which is 『an unmistakable resemblance』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3409,7 +3409,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 何を……？%K%Nこの後に及んで、何を確かめるの……？%K%P
-What...?%K What is she going to confirm...?
+What...?%K%NWhat is she going to confirm...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3514,12 +3514,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 やっぱり、怖いから……？%K%Nそれとも、何かを楽しむような気分じゃないから…………？%K%P
-Is it because I'm scared...?%K Or is it that I don't feel like having fun...?
+Is it because I'm scared...?%K%NOr is it that I don't feel like having fun...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 私は、まだ考えている。%K%N沙紀の言葉の、意味を。%K%P
-I'm still thinking, after all.%K About the meaning of Saki's words, that is.
+I'm still thinking, after all.%K%NAbout the meaning of Saki's words, that is.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3534,7 +3534,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 それがなぜかは、分からない。%K%Nただ、今の私は誠を必要としている。%K%P
-I don't know why I am.%K It's just that right now, I need Makoto.
+I don't know why I am.%K%NIt's just that right now, I need Makoto.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3774,7 +3774,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 気にしなければいい。%K%N放っておけば楽になる。%K%P
-I shouldn't care.%K I should just be at ease and ignore it.
+I shouldn't care.%K%NI should just be at ease and ignore it.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4124,7 +4124,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『どうして？』って聞く私に、彼は『ちっとも眠れなくってさ』なんて言って苦笑いしてた」%K%P
-When I asked him 'why are you here?', he said that 'I couldn't sleep at all' with a bitter smile.
+When I asked him 『why are you here?』, he said that 『I couldn't sleep at all』 with a bitter smile.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4154,7 +4154,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『優夏の星座って、なんだ？』……って」%K%P
-'Yuka, what's your sign?'
+『Yuka, what's your sign?』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4399,7 +4399,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 男の子「『自分の不死を解いてくれ』、と」%K%P
-'Please take away my immortality'.
+『Please take away my immortality』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

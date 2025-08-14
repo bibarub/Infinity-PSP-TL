@@ -54,7 +54,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -344,7 +344,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「遙は、オレにとって、他の何ものにも代えられない、世界でたった１つの大切な存在なんだ……って」%K%P
-'To me, you are the most important existence in the whole world, someone that can never be replaced by anything'...
+『To me, you are the most important existence in the whole world, someone that can never be replaced by anything』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -379,7 +379,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -589,7 +589,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -649,7 +649,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 と同時に、遙が……。%K%N遙が……。%K%Nオレの手を振り切って駆け出した！！！%K
-And at the same time, Haruka... Haruka...%K shakes off my hand and starts running!!!
+And at the same time, Haruka...%K%NHaruka...%K shakes off my hand and starts running!!!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -794,7 +794,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 まるでスローモーションだった。%K%Nゆっくりと、%T030ゆっくりと宙に弧を描いていく遙の身体。%K%P
-It all happens as if it's in slow motion. Haruka's body slowly, slowly draws an arc in midair.
+It all happens as if it's in slow motion.%K%NHaruka's body slowly,%T030 slowly draws an arc in midair.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

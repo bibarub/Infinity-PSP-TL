@@ -229,7 +229,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「どこって……言われても……」%K%P
-'Where'...Even if you say that...
+『Where』... Even if you say that...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -409,7 +409,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「どこって？」%K%P
-'Where'?
+『Where』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -479,7 +479,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『愛の芽生え』って意味だったんじゃ……？」%K%P
-It means 'Early feelings of love', or 'the sprouting of love', doesn't it...?
+It means 『Early feelings of love』, or 『the sprouting of love』, doesn't it...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -499,7 +499,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「優夏？　『リラの花咲く頃』って歌、知らない？」%K%P
-Yuka? Do you know the song 'When Lilas Flourish'?
+Yuka? Do you know the song 『When Lilas Flourish』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -514,12 +514,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「リラっていうのは、ライラックのフランス名」%K%P
-'Lila' is French for lilac.
+『Lila』 is French for lilac.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『リラの花咲く頃』とは…………」%K%P
-'When Lilas Flourish' means...
+『When Lilas Flourish』 means...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -604,7 +604,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『みさきのはて』%K%N──それはたぶん『本当の岬の果て……つまり海の中』のことを指していたのだろう。%K%P
-「At the end of the cape」%K ―That was probably indicating, 「The real end of the cape」...In other words, 「in the ocean.」
+「At the end of the cape」%K ―That was probably indicating, 「The real end of the cape」... In other words, 「in the ocean.」
 CN PLACEHOLDER
 RU PLACEHOLDER
 

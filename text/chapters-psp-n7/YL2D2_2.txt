@@ -19,7 +19,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「間違っても『トロが食べたい』なんて言い出すなよな！」%K%P
-Even by mistake, you mustn't say 'I want to eat toro'!
+Even by mistake, you mustn't say 『I want to eat toro』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -99,7 +99,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「くるみとっホットミルク……とか言うなよな！」%K%P
-Yeah, yeah, when you cross Kurumi and milk, you get 'Kurumilk'... now let's move on!
+Yeah, yeah, when you cross Kurumi and milk, you get 『Kurumilk』... now let's move on!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -404,7 +404,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『恋の岬で想いを告げて、愛の入り江で想いを遂げる』」%K%P
-'Express your feelings on the Cape of Affection, and carry out those feelings at the Cove of Love.'
+『Express your feelings on the Cape of Affection, and carry out those feelings at the Cove of Love.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -609,7 +609,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「なんでも！」%K%P
-'Why not'!?
+『Why not』!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

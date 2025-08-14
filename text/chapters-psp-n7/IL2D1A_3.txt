@@ -114,7 +114,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「これって……この『ゼミ合宿』とかいうやつって、結局何を目的として実施されてるんだろう？」%K%P
-It's just... What exactly are we trying to achieve at this so-called 'Seminar Camp' here?
+It's just... What exactly are we trying to achieve at this so-called 『Seminar Camp』 here?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -204,7 +204,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦の顔は、すでに真っ青だ。%K%Nぷ%Wぷ%Wぷ……%W%Wざまあ見ろだ。%K%P
-Okuhiko's face has gone pale. Heh heh heh... Serves you right.
+Okuhiko's face has gone pale.%K%NHeh heh heh... Serves you right.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -274,7 +274,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ちょ、ちょっと待てよ。%K%Nこのまま、同じ展開が繰り広げられるとすると……？%K%P
-H-Hold on. At this rate, the same events will unfold again, meaning...
+H-Hold on.%K%NAt this rate, the same events will unfold again, meaning...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -569,7 +569,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 来たな？%K%N……と、オレは思った。%K%P
-Is she here? ... I think this.
+Is she here?%K%N... I think this.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -954,7 +954,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「遙ちゃんが、今考えていることは%W%W%W%N『億彦くんって、私のこと何でもお見通しなのね♪%Nステキッ！』%W%W%Wだろ？」%K%P
-What you're thinking right now is: 'Okuhiko-kun can see through everything about me♪ Amazing!' Right?
+What you're thinking right now is: 『Okuhiko-kun can see through everything about me♪ Amazing!』 Right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -969,7 +969,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「私が今考えているのは……%W%W%W%N『億彦は、絶対について来ないで』%W%W%W……なの」%K%P
-What I was thinking right now is... 'I absolutely don't want Okuhiko to follow me,'... That's what it was.
+What I was thinking right now is... 『I absolutely don't want Okuhiko to follow me,』... That's what it was.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -979,7 +979,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 だぁー%W%Wはっ%Wはっ%Wはっ%Wはっ！%K%Nざまー見ろ、億彦。%K%P
-Ahahahaha! Serves you right, Okuhiko.
+Ahahahaha!%K%NServes you right, Okuhiko.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1089,7 +1089,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦は速攻で立ち直ると、すぐにオレに向かって突っかかってきた。%K%Nどうやら奴の神経はワイヤーロープのように頑丈らしい……。%K%P
-After a swift recovery, Okuhiko immediately snaps at me. He's sure got nerves of steel...
+After a swift recovery, Okuhiko immediately snaps at me.%K%NHe's sure got nerves of steel...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

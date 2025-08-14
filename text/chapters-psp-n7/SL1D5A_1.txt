@@ -59,7 +59,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 と、その時……%K%P
-Then, all of the sudden...
+Then, all of a sudden...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -79,7 +79,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「まずい……%W%Wエネルギーが……%W%Wエネルギーが……%W%W足り……%W%W%Wない……%W%W%W%W……ムニャムニャ……」%K%P
-This is bad... I... don't have... enough... energy...... Zzz...
+This is bad... I... don't have... enough... energy... Zzz...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -499,7 +499,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「いちおうって……」%K%P
-'While I'm here'...
+『While I'm here』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1049,7 +1049,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「……なっ！　なによ……いきなり……」%K%P
-... Wha-!? What's this... all of the sudden...
+... Wha-!? What's this... all of a sudden...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1309,7 +1309,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1329,7 +1329,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「責任ったって、ちょっとくらいの泥、気にすることじゃないだろ？」%K%P
-'Responsibility'? It's just a little mud. It's not something to worry about, is it?
+『Responsibility』? It's just a little mud. It's not something to worry about, is it?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

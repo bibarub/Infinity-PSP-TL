@@ -269,7 +269,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「考えごと、って？」%K%P
-'Deep thinking'?
+『Deep thinking』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -279,7 +279,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『記憶』の、ことなんだけど……」%K%P
-I was thinking about 'memories'...
+I was thinking about 『memories』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -389,7 +389,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「いま言ってた『記憶』のこと？」%K%P
-By 'it', you mean 'memories'?
+By 『it』, you mean 『memories』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -684,7 +684,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「例えば、さっきの『記憶』のこととかね？」%K%P
-For example, the 'memories' you were talking about earlier.
+For example, the 『memories』 you were talking about earlier.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -834,7 +834,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「すごいの、って……何がいたの？」%K%P
-'Amazing'... what's amazing?
+『Amazing』... what's amazing?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -959,7 +959,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

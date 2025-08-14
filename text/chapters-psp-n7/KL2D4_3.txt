@@ -429,7 +429,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「いづみさん、おとといの夜、くるみが『ミステリーツアー行こう』って言ったとき、すごい勢いで怒ったでしょ？」%K%P
-Two nights ago, Kurumi suggested going on a 'Mystery Tour.' You got really mad back then, didn't you?
+Two nights ago, Kurumi suggested going on a 『Mystery Tour.』 You got really mad back then, didn't you?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -744,7 +744,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「ううん。正確に言えば『それからの３年間は』見つからなかったのよ」%K%P
-No. To put it accurately, they couldn't find her 'for the next three years'.
+No. To put it accurately, they couldn't find her 『for the next three years』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -854,7 +854,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「自分の最愛の娘を取り戻す為なら、手段を選ばない。……そういう人なのよ、父は……」%K%P
-'If it meant getting my beloved daughter back, I would use whatever means necessary...' That's the kind of person my father is...
+『If it meant getting my beloved daughter back, I would use whatever means necessary...』 That's the kind of person my father is...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -949,7 +949,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「あの『司紀杜神社』だったのよ……」%K%P
-Was that 'Shiki no Mori Shrine'...
+Was that 『Shiki no Mori Shrine』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -999,7 +999,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「ええ……。でも捕まったって言うより、見つかったって言った方がいいのかもしれないわね……」%K%P
-Yes... but rather than 'caught', 'found' might be a better word for it...
+Yes... but rather than 『caught』, 『found』 might be a better word for it...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1029,7 +1029,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「何の因果か知らないけれど、その犯人も『司紀杜神社』で発見されたのよ……。くるみを誘拐した７日後にね？」%K%P
-I don't know if it was some kind of fate, but he was also found at the 'Shiki no Mori Shrine'... seven days after Kurumi was kidnapped.
+I don't know if it was some kind of fate, but he was also found at the 『Shiki no Mori Shrine』... seven days after Kurumi was kidnapped.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1094,12 +1094,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ──ん？？？%K%N待てよ……。%K%P
-―Huh??? Wait...
+―Huh???%K%NWait...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 神社……%K%N地震……%K%N倒壊事故……%K%P
-The shrine... An earthquake... The destruction of the shrine...
+The shrine...%K%NAn earthquake...%K%NThe destruction of the shrine...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1109,7 +1109,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 それって、もしかして……。%K%N──タイムスリップじゃないのか！？%K%P
-Could that have been... ―Time travel!?
+Could that have been...%K%N―Time travel!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1139,7 +1139,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 それに……。%K%Nそれに、もしこの仮説が正しいとすれば、くるみの『傷』のことも説明することができる。%K%P
-Furthermore... Furthermore, if my hypothesis is correct, then I can also explain Kurumi's scar.
+Furthermore...%K Furthermore, if my hypothesis is correct, then I can also explain Kurumi's scar.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1159,7 +1159,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 倒壊の直後──それで、その時の事故のせいで、背中に傷を負ってしまったのだ。%K%P
-Immediately after it was destroyed... ―therefore, she got injured on her back due to debris that fell during the destruction of the shrine.
+Immediately after it was destroyed... Therefore, she got injured on her back due to debris that fell during the destruction of the shrine.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1404,7 +1404,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「明日はてんこもりの１日だな……くるみ？」%K%P
-Tomorrow will be an 'ultra good day'... Right, Kurumi?
+Tomorrow will be an 『ultra good day』... Right, Kurumi?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

@@ -74,7 +74,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 顔を上げると、もう沙紀の姿が見えなかった。%K%N見回してみる。%K%N
-I lift my head, but I don't see her anymore. I try looking around.
+I lift my head, but I don't see her anymore.%K%NI try looking around.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -124,7 +124,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「それとも、こんな庶民的な乗物には乗ってられないとか？」%K%P
-Don't tell me a bike is too 'unseemingly' for you.
+Don't tell me a bike is too 『unseemingly』 for you.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -419,7 +419,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 スピードも一向に落ちる気配を見せない。%K%Nこれは……%W%Wもしかして……。%K%P
-The bike shows no signs of slowing down at all. Oh... crap...
+The bike shows no signs of slowing down at all.%K%NOh... crap...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

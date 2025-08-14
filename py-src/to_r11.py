@@ -1,104 +1,97 @@
 #!/usr/bin/env python3
 
-
-# to_r11.py
-
-# HOPEFULLY capable of properly converting
-# images into the "R11" format, as found in
-# Infinity visual novels on the PSP.
-
-# sprite converstion is not supported.
-
-import sys, struct
+import sys
+import struct
 from PIL import Image
+
+atlas_width = 512
+atlas_tile_size = 32
+drawn_tile_size = 30
+tile_bleed_compensation = (atlas_tile_size-drawn_tile_size)//2
+tiles_per_atlas_row = atlas_width//atlas_tile_size
 
 def flatten(xss):
     return [x for xs in xss for x in xs]
 
-def main():
-    if len(sys.argv) != 3:
-        print("usage: to_r11.py <in.*> <out.r11>")
-        sys.exit()
-
-    im = Image.open(sys.argv[1])
-    ispaletted = (im.mode == "P")
-    if ispaletted:
-        immode = "P"
+def make_r11(im, out_path, n7_sprite_mode=False):
+    width, height = im.size
+    paletted = im.mode == "P"
+    if paletted:
+        im.apply_transparency()
         palette = im.getpalette("RGBA")
-        while len(palette) < 4*256:
-            palette.extend([0xff]*4)
+    elif im.mode != "RGBA":
+        im = im.convert("RGBA")
+    if tile_bleed_compensation:
+        tempim = im
+        im = Image.new("P" if paletted else "RGBA", (im.width+tile_bleed_compensation*2, im.height+tile_bleed_compensation*2))
+        #if paletted:
+        #    im.putpalette(tempim.getpalette("RGBA"), "RGBA")
+        im.paste(tempim, (tile_bleed_compensation, tile_bleed_compensation))
+        tempim.close()
+        l = im.crop((tile_bleed_compensation, tile_bleed_compensation, tile_bleed_compensation+1, im.height-tile_bleed_compensation))
+        r = im.crop((im.width-tile_bleed_compensation-1, tile_bleed_compensation, im.width-tile_bleed_compensation, im.height-tile_bleed_compensation))
+        for i in range(tile_bleed_compensation):
+            im.paste(l, (i, tile_bleed_compensation))
+            im.paste(r, (im.width-tile_bleed_compensation+i, tile_bleed_compensation))
+        u = im.crop((0, tile_bleed_compensation, im.width, tile_bleed_compensation+1))
+        d = im.crop((0, im.height-tile_bleed_compensation-1, im.width, im.height-tile_bleed_compensation))
+        for i in range(tile_bleed_compensation):
+            im.paste(u, (0, i))
+            im.paste(d, (0, im.height-i-1))
+    rows = (height + drawn_tile_size - 1) // drawn_tile_size
+    columns = (width + drawn_tile_size - 1) // drawn_tile_size
+    total_tiles = rows*columns
+    atlas = Image.new("P" if paletted else "RGBA", (atlas_width, (total_tiles + tiles_per_atlas_row - 1)//tiles_per_atlas_row*atlas_tile_size))
+    if paletted:
+        atlas.putpalette(palette, "RGBA")
+    y = tile_bleed_compensation
+    index = 0
+    for row in range(rows):
+        x = tile_bleed_compensation
+        for col in range(columns):
+            ut, vt = index%tiles_per_atlas_row, index//tiles_per_atlas_row
+            u, v = ut*atlas_tile_size, vt*atlas_tile_size
+            atlas.paste(im.crop((x-tile_bleed_compensation, y-tile_bleed_compensation, x+drawn_tile_size+tile_bleed_compensation, y+drawn_tile_size+tile_bleed_compensation)), (u, v))
+            x += drawn_tile_size
+            index += 1
+        y += drawn_tile_size
+
+    entry_ptr = 0x80
+    palette_ptr = 0x100
+    pixels_ptr = (0x100+5*4*256 if n7_sprite_mode else 0x100+1*4*256) if paletted else palette_ptr
+    pixels = list(atlas.getdata()) if paletted else flatten(list(atlas.getdata()))
+    file_size = pixels_ptr + len(pixels)
+
+    atlas.close()
+
+    f = open(out_path, "wb")
+    if n7_sprite_mode:
+        f.write(struct.pack("<8I", 10, entry_ptr, entry_ptr+8+1*12, entry_ptr+8+2*12, entry_ptr+8+3*12, entry_ptr+8+4*12, entry_ptr+8+5*12, entry_ptr+8+6*12))
     else:
-        immode = "RGBA"
-        im = im.convert(immode)
+        f.write(struct.pack("<3I", 5, entry_ptr, entry_ptr+8+1*12))
+    f.write(struct.pack("<3I", palette_ptr, pixels_ptr, file_size))
+    f.seek(entry_ptr)
+    f.write(struct.pack("<6H", 1, paletted, 0, 0, width, height))
+    f.write(struct.pack("<2H4B", 2, 0, 0, 0, columns, rows))
+    if n7_sprite_mode:
+        for i in range(4):
+            f.write(struct.pack("<6H", 0, paletted, 0, 0, width, height))
+        f.write(b"\x00\x00\xff\xff\xff\xff\xff\xff\xff\xff")
+    if paletted:
+        palette_bytes = bytes(palette)
+        for i in range(5 if n7_sprite_mode else 1):
+            f.seek(palette_ptr+i*4*256)
+            f.write(palette_bytes)
+    f.seek(pixels_ptr)
+    f.write(bytes(pixels))
+    f.close()
 
-    realwidth, realheight = im.size
-
-    widthrem = realwidth % 30
-    heightrem = realheight % 30
-    paddedwidth = realwidth // 30 * 32
-    paddedheight = realheight // 30 * 32
-    if widthrem:
-        paddedwidth += widthrem + 2
-    if heightrem:
-        paddedheight += heightrem + 2
-    xchunks = (paddedwidth + 31) // 32
-    ychunks = (paddedheight + 31) // 32
-
-    width = 512
-    height = (xchunks*ychunks*32*32 // width + 31) // 32 * 32
-
-    paddedim = Image.new(immode, (paddedwidth, paddedheight))
-    for y in range(ychunks):
-        for x in range(xchunks):
-            paddedim.paste(im.crop((x*30, y*30, (x+1)*30, (y+1)*30)), (x*32+1, y*32+1))
-
-    im.close()
-
-    # this is so, so fucking horrible
-    for y in range(0, ychunks*32, 32):
-        paddedim.paste(paddedim.crop((1, y-2, paddedwidth-1, y-1)), (1, y))
-        paddedim.paste(paddedim.crop((1, y+32+1, paddedwidth-1, y+32+2)), (1, y+31))
-    for x in range(0, xchunks*32, 32):
-        paddedim.paste(paddedim.crop((x-2, 1, x-1, paddedheight-1)), (x, 1))
-        paddedim.paste(paddedim.crop((x+32+1, 1, x+32+2, paddedheight-1)), (x+31, 1))
-    paddedim.paste(paddedim.crop((1, 1, paddedwidth-1, 2)), (1, 0))
-    paddedim.paste(paddedim.crop((1, paddedheight-2, paddedwidth-1, paddedheight-1)), (1, paddedheight-1))
-    paddedim.paste(paddedim.crop((1, 0, 2, paddedheight)), (0, 0))
-    paddedim.paste(paddedim.crop((paddedwidth-2, 0, paddedwidth-1, paddedheight)), (paddedwidth-1, 0))
-
-    chunks = []
-    for y in range(ychunks):
-        for x in range(xchunks):
-            chunks.append(paddedim.crop((x*32, y*32, (x+1)*32, (y+1)*32)))
-
-    paddedim.close()
-
-    new = Image.new(immode, (width, height))
-    if ispaletted:
-        new.putpalette(palette, "RGBA")
-    for y in range(height // 32):
-        for x in range(width // 32):
-            i = y*(width//32)+x
-            if len(chunks) <= i: break
-            new.paste(chunks[i], (x*32, y*32))
-
-    datasize = (0x100 + 256*4 + width*height) if ispaletted else (0x100 + width*height * 4)
-    header = bytearray(0x100)
-    header[0x0:0x4] = struct.pack("<I", 5)
-    header[0x4:0x4+4*5] = struct.pack("<5I", 0x80, 0x94, 0x100, 0x500 if ispaletted else 0x100, datasize)
-    header[0x80:0x84] = struct.pack("<2H", 1, ispaletted)
-    header[0x88:0x8c] = struct.pack("<2H", realwidth, realheight)
-    header[0x8c:0x8e] = struct.pack("<H", 2)
-    header[0x92:0x94] = struct.pack("<2B", xchunks, ychunks)
-    with open(sys.argv[2], "wb") as f:
-        f.write(header)
-        if ispaletted:
-            f.write(bytes(palette))
-            newdata = bytes(list(new.getdata()))
-        else:
-            newdata = bytes(flatten(list(new.getdata())))
-        f.write(newdata)
-    new.close()
+def main():
+    if len(sys.argv) != 3 and len(sys.argv) != 4:
+        print("usage: to_r11.py <INPUT> <OUTPUT.R11> [-n7s]")
+        return
+    n7_sprite_mode = (len(sys.argv) == 4 and sys.argv[3] == "-n7s")
+    make_r11(Image.open(sys.argv[1]), sys.argv[2], n7_sprite_mode)
 
 if __name__ == "__main__":
     main()

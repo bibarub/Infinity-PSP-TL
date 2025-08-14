@@ -174,7 +174,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「確かおとといの、夜だったかしら？　『姫ヶ浜で拾ったの』って言って……」%K%P
-It was the night of the 4th. Kurumi said she 'picked it up at Princess Beach'...
+It was the night of the 4th. Kurumi said she 『picked it up at Princess Beach』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -229,7 +229,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「貸して、って……別にいいけど……どうするの？」%K%P
-'Let you have it'... I don't really mind... but what are you going to do with it?
+『Let you have it』... I don't really mind... but what are you going to do with it?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -479,7 +479,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「鈴……この、鈴が？」%K%P
-'Bell'... This bell?
+『Bell』... This bell?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -544,7 +544,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「終わり、って……」%K%P
-'End it'...?
+『End it』...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -599,7 +599,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「やらなければよかった、って……………………」%K%P
-What do you mean by 'we shouldn't have done this'...?
+What do you mean by 『we shouldn't have done this』...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -729,7 +729,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「けれど、あからさまに『すごいすごい♪』ともてはやしたところで、説得力がない」%K%P
-But if we'd gone overboard with praising you by saying stuff like, 'You're amazing! You're incredible!', it wouldn't have been convincing.
+But if we'd gone overboard with praising you by saying stuff like, 『You're amazing! You're incredible!』, it wouldn't have been convincing.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -754,7 +754,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「ははっ♪　『いつから』だってぇ？」%K%P
-Ha ha♪ 'Since when', you ask?
+Ha ha♪ 『Since when』, you ask?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -769,7 +769,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「そもそもこの合宿の目的は『石原をだます』ことにあったんだからね」%K%P
-In the first place, the goal of this Seminar Camp has been 'To deceive Ishihara'.
+In the first place, the goal of this Seminar Camp has been 『To deceive Ishihara』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -784,7 +784,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「例えばお前が『米が無いからパエリアは無理』と言った時には……」%K%P
-For example, let's take the time when you said 'Making paella will be impossible because there's no rice,'...
+For example, let's take the time when you said 『Making paella will be impossible because there's no rice,』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -794,7 +794,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「例えばお前が『その車、バッテリーが上がってるから乗れないよ』と言った時には……」%K%P
-Then when you said 'The car's battery's dead, so we can't drive,'...
+Then when you said 『The car's battery's dead, so we can't drive,』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -804,17 +804,17 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「例えばお前が『夕飯はカレーでしょ？』と言った時には……」%K%P
-And remember when you asked 'Aren't we having curry tonight?'...
+And remember when you asked 『Aren't we having curry tonight?』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「例えばお前が『夕飯はシチューでしょ？』と言った時には……」%K%P
-And remember when you asked 'Aren't we having stew tonight?'...
+And remember when you asked 『Aren't we having stew tonight?』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「例えばお前が『夕飯は肉ジャガでしょ？』と言った時には……」%K%P
-And remember when you asked 'Aren't we having meat potatoes tonight?'...
+And remember when you asked 『Aren't we having meat potatoes tonight?』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -859,7 +859,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「……ごめん？　……ごめんだって？」%K%P
-... 'Sorry'? ... SORRY!?
+... 『Sorry』? ... SORRY!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -874,7 +874,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「なれなれしく呼ぶんじゃねぇよ！！！」%K%P
-Enough with that '-kun' crap! Don't talk to me with that over-familiar term!!!
+Enough with that 『-kun』 crap! Don't talk to me with that over-familiar term!!!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -929,7 +929,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「肝だめしの時に『心配ない』って言ってくれたのは、そういうことだったんだな……」%K%P
-When you said 'Don't worry' during the Test of Courage, that's what you meant...
+When you said 『Don't worry』 during the Test of Courage, that's what you meant...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

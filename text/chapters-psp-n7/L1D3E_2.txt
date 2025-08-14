@@ -314,7 +314,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「やめろ、億彦。%N遙は『心』を見つけかけてるんだ！」%K%P
-Stop it, Okuhiko! Haruka is starting to find her 'heart'!
+Stop it, Okuhiko! Haruka is starting to find her 『heart』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -514,7 +514,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「ほら、もしかしたら、いろいろと誤解しているのかもしれないし、きちんと話し合えば『なーんだそんなことだったの〜』%W%Wで済んじゃうかもしれないだろ？」%K%P
-Come on, this might just be a huge misunderstanding on everyone's part. Maybe if we talk about it together, we can sort this out and say, 'Oh, so that's all it was' later on.
+Come on, this might just be a huge misunderstanding on everyone's part. Maybe if we talk about it together, we can sort this out and say, 『Oh, so that's all it was』 later on.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -774,7 +774,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 キスをせがんだ遙。%N──その顔。赤らめた頬。%K%P
-The Haruka who asked me to kiss her. ―That face. That blushing face.
+The Haruka who asked me to kiss her.%N―That face. That blushing face.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1044,7 +1044,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 それから、少し迷っているような感じになって……%K%Nそれから、%K……それから、もうオレには%N読めなくなった。%K%P
-After that, I feel a little hesitant... After that... After that, I've run out of things to say.
+After that, I feel a little hesitant...%K%NAfter that...%K After that, I've run out of things to say.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1249,17 +1249,17 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「けど遙は、コピーだから『心』がないって言ってる……」%K%P
-But Haruka says that because she's a copy, she has no 'heart'...
+But Haruka says that because she's a copy, she has no 『heart』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「そんなこと、普通のクローンは言わないんだけどなぁ。『心』がないなんてこと、第一あるわけないと思うし……」%K%P
-I've never heard of normal clones ever saying that. There's no way it's possible to not have a 'heart'...
+I've never heard of normal clones ever saying that. There's no way it's possible to not have a 『heart』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「オレもそう思う。遙に『心』がないなんてこと、絶対ないよ」%K%P
-I agree. There's absolutely no way she doesn't have a 'heart'.
+I agree. There's absolutely no way she doesn't have a 『heart』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

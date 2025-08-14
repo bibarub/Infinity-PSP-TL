@@ -119,7 +119,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「あっ、見ての通りって言うより、いつもの通りって言った方がいいかな？」%K%P
-Oh, rather than 'as you can see', maybe it would be better for me to say 'as usual'?
+Oh, rather than 『as you can see』, maybe it would be better for me to say 『as usual』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -534,7 +534,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

@@ -139,7 +139,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「『と、そこにやって来たのは、彼の相棒レイディジェニー！』」%K%P
-'And so, his partner, Lady Jenny arrives!'
+『And so, his partner, Lady Jenny arrives!』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -204,7 +204,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「その名も──『腎臓人間オックマン』だぁ！」%K%P
-His name is―'Artificial Human Okkuman'!
+His name is―『Artificial Human Okkuman』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -224,17 +224,17 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「『──危うしっ！　──オックマン！』」%K%P
-'―Look out! ―Okkuman!'
+『―Look out! ―Okkuman!』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「『──頑張れっ！　──オックマン！』」%K%P
-'―Good luck! ―Okkuman!'
+『―Good luck! ―Okkuman!』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「『──負けるな！%N──我らがヒーローオックマン！』」%K%P
-'―Don't lose! ―Our Hero, Okkuman!'
+『―Don't lose! ―Our Hero, Okkuman!』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -274,7 +274,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -819,7 +819,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「大学を選んだのも『ここに合宿所がある』ってことを知ってたから」%K%P
-I picked my college because I knew that 'they had one of their Seminar Camps here'.
+I picked my college because I knew that 『they had one of their Seminar Camps here』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -919,7 +919,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「学校にもほとんど行かず、ゼミの説明会にも１度も顔を見せたことがない『石原誠』という学生」%K%P
-The only student who barely went to school and never showed up at the Seminar Camp information session was 'Makoto Ishihara'.
+The only student who barely went to school and never showed up at the Seminar Camp information session was 『Makoto Ishihara』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -979,7 +979,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「だけど、こんなことになって……怒るなって言うほうがドウカシテルって！」%K%P
-But with things turning out this way... rather than making me angry, the correct term would be 'drove me nuts'!
+But with things turning out this way... rather than making me angry, the correct term would be 『drove me nuts』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1059,7 +1059,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「だけどいづみさん、昨夜は『反証実験だった』って、そう言ってたじゃないか？」%K%P
-But Izumi-san, you said it was a 'counter-experiment' last night, didn't you?
+But Izumi-san, you said it was a 『counter-experiment』 last night, didn't you?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1129,7 +1129,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「昨夜は『反証実験だった』って、そう言ってたけど……」%K%P
-Last night, you said it was a 'counter-experiment'...
+Last night, you said it was a 『counter-experiment』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1159,7 +1159,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「昨日『半信半疑だ』って言ったのは、そういうことなの」%K%P
-Yesterday, I described The Third Trait as being 'dubious'.
+Yesterday, I described The Third Trait as being 『dubious』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1174,7 +1174,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「私の中にいる２人の自分……その立場は今、そっくりそのまま逆転してしまったんだもの」%K%P
-The two of 'me' within myself... Right now, their viewpoints are the complete opposite of each other.
+The two of 『me』 within myself... Right now, their viewpoints are the complete opposite of each other.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1194,7 +1194,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「話を元に戻すけど……今いづみさん……『くるみの姉として』って、そう言ったよね？」%K%P
-To go back earlier in the conversation... you just said... the 'you as Kurumi's sister', right?
+To go back earlier in the conversation... you just said... the 『you as Kurumi's sister』, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1209,12 +1209,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『強固な思念は、新たな現実を生み出すことができる』」%K%P
-'A firm thought can produce a new reality.'
+『A firm thought can produce a new reality.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「もしもそんなことが本当に可能なら、空白の３年間を、歴史の中から抹消することだってできるんじゃないかって……そう思ったから……」%K%P
-'If it's really possible, then it can even erase that three year blank from history, can't it?'... That's what I thought.
+『If it's really possible, then it can even erase that three year blank from history, can't it?』... That's what I thought.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1414,7 +1414,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「しくしく……しくしく……と……」%K%P
-'Sob, sob... sob, sob...'
+『Sob, sob... sob, sob...』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1534,7 +1534,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「どうして突き飛ばしたりなんか、したんだろうって……」%K%P
-'Why did I have to go and thrust her away like that?'...
+『Why did I have to go and thrust her away like that?』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1574,7 +1574,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「幼い頃のお風呂の想い出……それは、私達３人にとっての原風景なのかもしれない」%K%P
-Childhood memories of that bath... to the three of us, that might be considered our 'primal scenery'... The memories in our early childhood that are permanently etched into our minds.
+Childhood memories of that bath... to the three of us, that might be considered our 『primal scenery』... The memories in our early childhood that are permanently etched into our minds.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

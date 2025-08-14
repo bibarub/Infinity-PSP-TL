@@ -234,7 +234,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「私……。%W%W私は……いい。%W%W……帰るから」%K%P
-I'll... I'll... pass.... I'll go back.
+I'll... I'll... pass... I'll go back.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -374,7 +374,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「あの……。『お姉ちゃん』って、もしかしなくても２人は……姉妹？」%K%P
-Umm... You said 'Onee-chan', so does that mean you two are... sisters?
+Umm... You said 『Onee-chan』, so does that mean you two are... sisters?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -459,12 +459,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「申し遅れました。私、この店でバイトをしている%N『守野いづみ』と言います」%K%P
-I'm sorry, where are my manners? I'm 'Izumi Morino', a part-time worker for this shop.
+I'm sorry, where are my manners? I'm 『Izumi Morino』, a part-time worker for this shop.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「こっちはくるみ。私の妹で、時々お店の手伝いをやってもらってるの。ホラ、くるみもご挨拶して」%K%P
-This is Kurumi. She's my little sister, and she sometimes helps me with the shop. Come on, Kurumi, go ahead and properly say 'Hello'.
+This is Kurumi. She's my little sister, and she sometimes helps me with the shop. Come on, Kurumi, go ahead and properly say 『Hello』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -474,7 +474,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「あ……%Wえっと〜……。%W『守野くるみ』です。%N今、学校がお休みなので、お姉ちゃんのところに遊びに来てるの」%K%P
-Ah... Umm... I'm 'Kurumi Morino'. Right now, since Kurumi's on school break, she came here to have fun with Onee-chan.
+Ah... Umm... I'm 『Kurumi Morino』. Right now, since Kurumi's on school break, she came here to have fun with Onee-chan.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -809,7 +809,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏は必死でフォローしている。%W……が、当の本人の遙はそんなことは、お構いなしといった様子だ。%K%P
-Yuka is desperately trying to support Haruka.... However, the girl herself shows no sign of entertaining Yuka's whims.
+Yuka is desperately trying to support Haruka... However, the girl herself shows no sign of entertaining Yuka's whims.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -889,7 +889,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「いつも爽やか好青年、粋でいなせで涙にゃもろい、地球の平和を守る為、神が送った正義の戦士……その名も『飯田億彦』だ！」%K%P
-The always invigorated youth, the gallant man with a tender heart, the warrior of justice sent by God himself for the sake of protecting the Earth... his name is 'Okuhiko Iida'!!!
+The always invigorated youth, the gallant man with a tender heart, the warrior of justice sent by God himself for the sake of protecting the Earth... his name is 『Okuhiko Iida』!!!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -914,7 +914,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「……%W%W飯田……%W%Wって？」%K%P
-... Did you say... 'Iida'?
+... Did you say... 『Iida』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -939,7 +939,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「え？　%Wさっきは確か……%W%W『朝倉』って」%K%P
-Huh? But earlier, you said it was... 'Asakura'.
+Huh? But earlier, you said it was... 『Asakura』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -969,7 +969,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ？？「『朝倉』ですけど、責任者の方、%Nいらっしゃいます？」%K%P
-My name is 'Asakura'. Is the manager here?
+My name is 『Asakura』. Is the manager here?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1324,7 +1324,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「いいの、いいの。こういうときはアレなんだから」%K%P
-It's fine, it's fine. In times like this, all you have to do is 'that'.
+It's fine, it's fine. In times like this, all you have to do is 『that』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1379,7 +1379,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「届けた！　%Wくるみ、『朝倉』さんに%N届けたんだから！」%K%P
-It did too! Kurumi delivered it to an 'Asakura-san'!
+It did too! Kurumi delivered it to an 『Asakura-san』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1394,7 +1394,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 それを億彦が……。%Kオレは億彦を見た。%K%N億彦も気づいたらしく、あたふたとしている。%K%P
-And then, Okuhiko... I look at Okuhiko. The guy looks antsy; he must understand what's going on as well.
+And then, Okuhiko...%K I look at Okuhiko.%K The guy looks antsy; he must understand what's going on as well.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1409,7 +1409,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「くるみ、絶対『朝倉』さんに届けたもん！」%K%P
-Kurumi did deliver it to 'Asakura-san'!
+Kurumi did deliver it to 『Asakura-san』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1449,7 +1449,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「私がいいって言うまであなたは話さないで！　私がいま用があるのはこっちの男よ！」%K%P
-'Don't talk until I say so', remember!? My business right now is with that man over there!
+『Don't talk until I say so』, remember!? My business right now is with that man over there!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1499,7 +1499,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「えっとぉ、何だっけ……何かの行事の時。%Nほらっ、一緒に魔法使いの絵、描いたじゃない？」%K%P
-Um, how can I prove it... Right, don't you remember? We were the ones who drew the rough sketches of the 'Magician's Portrait'.
+Um, how can I prove it... Right, don't you remember? We were the ones who drew the rough sketches of the 『Magician's Portrait』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1529,7 +1529,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「まさかぁ！　%W大学のゼミ合宿。あの林に囲まれた坂道を登って行った所にロッジがあって……」%K%P
-No way! I'm here for my college's 'Seminar Camp'. I'm staying at the lodge on top of the hill road surrounded by the forest...
+No way! I'm here for my college's 『Seminar Camp』. I'm staying at the lodge on top of the hill road surrounded by the forest...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2174,7 +2174,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「優夏がわざわざ御馳走してあげようってえのに、その招待客が『手伝う』なんて言ってきたら……？」%K%P
-How would you feel if the person you offered to treat said they wanted to 'help'...?
+How would you feel if the person you offered to treat said they wanted to 『help』...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2214,7 +2214,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「ところでいづみさん？　今『私達』って、言ってたけど……」%K%P
-By the way, Izumi-san? You said 'us' just now, so do you mean...
+By the way, Izumi-san? You said 『us』 just now, so do you mean...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

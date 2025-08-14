@@ -559,7 +559,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「……あれから？」%K%P
-... 'Then'?
+... 『Then』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -619,7 +619,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「もういい、って……？」%K%P
-'That's enough'...?
+『That's enough』...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -724,7 +724,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -789,7 +789,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「ピノキオンじゃなくて……」%K%P
-It's not 'Pinnochion'...
+It's not 『Pinnochion』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

@@ -19,7 +19,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 でも、私だけは……。%K%N私だけは……１人、気分を落ち込ませていた。%K%P
-But I...%K I'm... the only one feeling depressed.
+But I...%K%NI'm... the only one feeling depressed.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -299,7 +299,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「私は『ヒガイシャ』で、誠は『カガイシャ』なんだからねっ！」%K%P
-I'm the 'victim', and you're the 'assailant', right!?
+I'm the 『victim』, and you're the 『assailant』, right!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -854,7 +854,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「そうじゃなくて、『優夏ちゃんと誠くんが』ってことっ」%K%P
-Sorry, I was thinking aloud. When I said 'her', I was referring to you, Yuka.
+Sorry, I was thinking aloud. When I said 『her』, I was referring to you, Yuka.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -864,7 +864,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 トクン……。%K%N心臓が小さく跳ねた。%K%P
-Thump...%K My heart gives a little jump.
+Thump...%K%NMy heart gives a little jump.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1024,7 +1024,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ならば、見なければいいのに……。%K%N不思議と、２人から目が離せなかった。%K%P
-Then all I have to do is not look at it...%K But strangely, I can't look away from them.
+Then all I have to do is not look at it...%K%NBut strangely, I can't look away from them.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1054,7 +1054,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「生き写しって……あると思います？」%K%P
-Do you think there are people... with 'exact resemblances'?
+Do you think there are people... with 『exact resemblances』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1159,7 +1159,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 苦い……。%K%Nなぜか、そう感じた。%K%P
-I'm bitter...%K I don't know why, but that's how I feel.
+I'm bitter...%K%NI don't know why, but that's how I feel.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1184,7 +1184,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 でも！%K%Nそれは全部、誠が悪いっっ！！！！！%K%P
-But!%K It's all Makoto's fault!!!
+But!%K%NIt's all Makoto's fault!!!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1219,12 +1219,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「いいか、優夏？　トロはダメ、トロはダメだから%Nな？」%K%P
-All right, Yuka? You can't say or have 'toro', got it?
+All right, Yuka? You can't say or have 『toro』, got it?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「ほえ？　……トロはメダカ？」%K%P
-Huh? ...Did yuu shay 'toro'?
+Huh? ...Did yuu shay 『toro』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1249,7 +1249,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「いいか、優夏？　『トロが食べたい』なんて絶対に%N言うなよ？」%K%P
-All right, Yuka? You must absolutely not say 'I want to eat tuna', okay?
+All right, Yuka? You must absolutely not say 『I want to eat tuna』, okay?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1279,7 +1279,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 はい、はい、はい……。%K%Nもちろん、ちゃ〜んと分かってるとも。%K%P
-Yeah, yeah, yeah...%K Of course I understand that.
+Yeah, yeah, yeah...%K%NOf course I understand that.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1314,7 +1314,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「くるみとっホットミルク……とか言うなよな！」%K%P
-Yeah, yeah, when you cross Kurumi and milk, you get 'Kurumilk'...Now let's move on!
+Yeah, yeah, when you cross Kurumi and milk, you get 『Kurumilk』... Now let's move on!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1384,7 +1384,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……おや？%K%Nなぜか誠が泡を吹いている……。%K%P
-...Oh?%K Why does Makoto seem to be foaming at the mouth...?
+...Oh?%K%NWhy does Makoto seem to be foaming at the mouth...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1554,7 +1554,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 心配することは何もない……。%K%Nなのに……。%K%P
-There's nothing to worry about...%K Even so...
+There's nothing to worry about...%K%NEven so...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1594,12 +1594,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 例えるなら……。%K%Nそう、柔らかい羽毛にくるまれたみたいに、気持ちが安らいでいく……。%K%P
-It's a serene feeling...%K ...Like being wrapped up in a warm, soft feather.
+It's a serene feeling...%K%N...Like being wrapped up in a warm, soft feather.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 私は……そっと、手を握り返した。%K%Nその手がピクンと反応する。%K%P
-I... gently grasp his hand back.%K I get a strong reaction from his hand.
+I... gently grasp his hand back.%K%NI get a strong reaction from his hand.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1714,12 +1714,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「これからくるみね？　億彦くんのこと『おっくん』って呼ぶことにしたから♪」%K%P
-From now on, Kurumi has decided to call Okuhiko-kun 'Okkun'♪
+From now on, Kurumi has decided to call Okuhiko-kun 『Okkun』♪
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「でぇ、誠くんのことは『お兄ちゃん』って呼ぶことに決めたの♪」%K%P
-And she's decided to call Makoto-kun 'Onii-chan'♪
+And she's decided to call Makoto-kun 『Onii-chan』♪
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1734,7 +1734,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『おっくん』……。%K%N『お兄ちゃん』……。%K%P
-「Okkun」...%K 「Onii-chan」...
+「Okkun」...%K%N「Onii-chan」...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1769,7 +1769,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1789,7 +1789,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 今、海は満ちているのだろうか？%K%Nそれとも、引いているのだろうか？%K%P
-Is the tide rising right now?%K Or is it fading away?
+Is the tide rising right now?%K%NOr is it fading away?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1959,7 +1959,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「じゃあ、『私は一体何者？』ってやつね」%K%P
-So the question is 'Just what am I?'
+So the question is 『Just what am I?』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2044,7 +2044,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「じゃあ、『オレは一体何者なんだ？』ってやつだ」%K%P
-So the question is 'Just what am I?'
+So the question is 『Just what am I?』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2124,7 +2124,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「それに、私達はこの時間の中で、前と違う事もずいぶんしちゃったよ？」%K%P
-And besides, the 'us' in this time have done quite different things than last time, correct?
+And besides, the 『us』 in this time have done quite different things than last time, correct?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2259,7 +2259,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 今、海は満ちているのだろうか？%K%Nそれとも、引いているのだろうか？%K%P
-Is the tide rising right now?%K Or is it fading away?
+Is the tide rising right now?%K%NOr is it fading away?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2274,7 +2274,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ひんやりと冷たい……。%K%N……そして、とても心地よかった。%K%P
-It's pleasantly cool...%K ...And it's very comfortable.
+It's pleasantly cool...%K%N...And it's very comfortable.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2299,7 +2299,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 まだ、私の心は心細いと言っている。%K%Nまだ、私の手は誠を必要としている。%K%P
-I still feel discouraged.%K I still want Makoto's help.
+I still feel discouraged.%K%NI still want Makoto's help.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2314,7 +2314,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……私はこの笑顔が見たかった。%K%N……私は誠の力になりたかった。%K%P
-...I want to see that smile.%K ...I want to become Makoto's strength.
+...I want to see that smile.%K%N...I want to become Makoto's strength.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2519,7 +2519,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『約束は絶対に守ること』」%K%P
-'Promises must definitely be kept.'
+『Promises must definitely be kept.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2824,7 +2824,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 大口を開けて、あくびを１つする。%K%Nとにかく、死にそうなほど眠い……。%K%P
-I open my mouth widely, and yawn loudly.%K Anyway, I'm dead tired...
+I open my mouth widely, and yawn loudly.%K%NAnyway, I'm dead tired...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

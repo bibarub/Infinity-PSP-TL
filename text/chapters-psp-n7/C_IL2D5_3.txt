@@ -1,5 +1,5 @@
 ﻿いづみ「おっはよぉー、じゃないわよ。今、何時だと思ってるの？」%K%P
-It's not 'Good morning'. What time do you think it is?
+It's not 『Good morning』. What time do you think it is?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -19,7 +19,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「ソザチダカリ、じゃなくて、育ちざかりでしょ？」%K%P
-Wake up! It's 'growth', not 'gross'!
+Wake up! It's 『growth』, not 『gross』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -159,12 +159,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「誠くんは、そこにあるカードの数字を『覚』えてたんじゃない」%K%P
-Makoto-kun, you weren't 'remembering' the numbers of the cards there.
+Makoto-kun, you weren't 『remembering』 the numbers of the cards there.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「ただ………そこにあるカードの数字を『創』っていただけなのよ」%K%P
-Instead... you were just 'creating' the numbers on those cards.
+Instead... you were just 『creating』 the numbers on those cards.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -339,7 +339,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -709,7 +709,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

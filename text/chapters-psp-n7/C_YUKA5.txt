@@ -134,7 +134,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「めでたしめでたし、って感じかな？」%K%P
-Feels like a 'happily ever after' is coming our way.
+Feels like a 『happily ever after』 is coming our way.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -189,7 +189,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 信用されてない……。%K%Nそう思うと、心がシクシクと痛んだ。%K%P
-He doesn't trust me...%K When I think that, a dull pain hurts my heart.
+He doesn't trust me...%K%NWhen I think that, a dull pain hurts my heart.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -209,7 +209,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『２度とここには来ないから』……神社の前で、%Nそう言ったのに……」%K%P
-'Don't come here ever again'...Even though you said that in front of the shrine...
+『Don't come here ever again』... Even though you said that in front of the shrine...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -364,7 +364,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 寒い……。%K%Nそれは何も、風のせいだけではなかった。%K%P
-I'm cold...%K But it's not entirely the wind's fault.
+I'm cold...%K%NBut it's not entirely the wind's fault.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -624,7 +624,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 肩も腕も、ダラリと落として……。%K%N宙を漂う瞳は、何も見ていないようだった。%K%P
-His shoulders slouch...%K He stares off into space, not looking at anything.
+His shoulders slouch...%K%NHe stares off into space, not looking at anything.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -719,7 +719,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 大丈夫じゃなかった……。%K%Nやっぱり平気なんかじゃなかったよ……。%K%P
-I'm not over him...%K I'm really not all right about it...
+I'm not over him...%K%NI'm really not all right about it...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -729,7 +729,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 むしろ、しばりつけられてるのかもしれない。%K%N過去に、あの時間に。%K%P
-Quite the contrary; it's tied me down.%K To the past, to that time.
+Quite the contrary; it's tied me down.%K%NTo the past, to that time.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -774,7 +774,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 好きな人に、好きと伝える。%K%N私も好きだよと、応えてあげる。%K%P
-To tell the person you love that you love them.%K I also wanted to tell him those words.
+To tell the person you love that you love them.%K%NI also wanted to tell him those words.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -809,7 +809,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 それは…………。%K%Nそれは…………？%K%P
-That's...%K That's...
+That's...%K%NThat's...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1179,7 +1179,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 白では明るすぎる。%K%Nかといって、黒では暗すぎる。%K%N………………そんな色。%K%P
-White would be too cheerful.%K On the other hand, black is too gloomy...%K So it's grey.
+White would be too cheerful.%K%NOn the other hand, black is too gloomy...%K%NSo it's grey.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1259,17 +1259,17 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 でも、部屋から出てきた時どんな顔をすればいい？%K%Nどんな言葉をかければいい？%K%P
-But if he does come out of his room, then what kind of face should I show him?%K What words should I use?
+But if he does come out of his room, then what kind of face should I show him?%K%NWhat words should I use?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 にこやかな笑顔で、『おはよう』？%K%N……それとも……%K%Nすまなさそうに視線を落として、『ごめんね』？%K%P
-Should I give him a wide smile and say 「Good morning」?%K ... Or...%K Should I give him an apologetic glance and say 「Sorry」?
+Should I give him a wide smile and say 「Good morning」?%K%N... Or...%K Should I give him an apologetic glance and say 「Sorry」?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 その時、誠はどんな顔をする？%K%Nどんな言葉を返す？%K%P
-At that time, what face would Makoto make?%K What words would he respond with?
+At that time, what face would Makoto make?%K%NWhat words would he respond with?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1334,7 +1334,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 なんだ沙紀か……。%K%N来ていたんだ……。%K%P
-Why did Saki...%K Come here...
+Why did Saki...%K%NCome here...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1349,7 +1349,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………%T030%N……え！？%K%P
-... ...Huh!?
+...%N...Huh!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1449,7 +1449,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「『誠と優夏の様子が、おかしい』ってね」%K%P
-She said, 'Makoto and Yuka are acting strange'.
+She said, 『Makoto and Yuka are acting strange』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1569,7 +1569,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「『彼のことは、もう大丈夫なの？』って」%K%P
-'Are you over him?'
+『Are you over him?』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1604,7 +1604,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「『沙紀には関係ないことだ』って」%K%P
-'It has nothing to do with you, Saki!'
+『It has nothing to do with you, Saki!』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1759,7 +1759,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「でも、普通の『好き』とはちょっと違うのかもしれない……」%K%P
-But it might be a little different than the normal definition of 'like'...
+But it might be a little different than the normal definition of 『like』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1769,7 +1769,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「『投影』って言うのかな……？　うーん、それも違うか……」%K%P
-Would you call it 'projection'...? Mmm, that's not right either...
+Would you call it 『projection』...? Mmm, that's not right either...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1899,7 +1899,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「……あの日、『確かめる』って言ってたのは……？」%K%P
-...So when you were talking about 'confirming' on that day...?
+...So when you were talking about 『confirming』 on that day...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2009,7 +2009,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「『これはチャンスだ！』って思ったわ」%K%P
-And so I thought 'This is my chance!'
+And so I thought 『This is my chance!』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2024,7 +2024,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「それにホラ、よく言うでしょ？　『酔うとつい本音が出る』って」%K%P
-And besides, you know what they say: 'In vino veritas'.
+And besides, you know what they say: 『In vino veritas』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2034,7 +2034,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「『もし、私が誠くんの事、好きって言ったらどうする？』って」%K%P
-And then I said 'If I said I liked you, what would you do?'.
+And then I said 『If I said I liked you, what would you do?』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2074,7 +2074,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「『この合宿が始まる前だったら、答えは変わってたかもな』……なんてさ」%K%P
-'If you had asked me that before the Seminar Camp had begun, my answer might have been different,'...
+『If you had asked me that before the Seminar Camp had begun, my answer might have been different,』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2129,7 +2129,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「『好き』にも、色々あるってことよ」%K%P
-To 'like' someone has many different meanings.
+To 『like』 someone has many different meanings.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2139,7 +2139,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「例えるなら、『Ｌｉｋｅ』と『Ｌｏｖｅ』の違い」%K%P
-For example, in Japanese, the word 'suki' can mean to 'like' or 'love'. It's like the difference between those two.
+For example, in Japanese, the word 『suki』 can mean to 『like』 or 『love』. It's like the difference between those two.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2179,7 +2179,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「なにが『恋』なのか」%K%P
-What 'love' is.
+What 『love』 is.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2279,12 +2279,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「『青春の喜び』。%T030それから……」%K%P
-'The joy of youth' . It also means...
+『The joy of youth』. It also means...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「『若き日の思い出』」%K%P
-'Memories of younger days'.
+『Memories of younger days』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2334,12 +2334,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誰かさん……。%K%Nダレカサン……。%K%Nそれは、誰……？%K%P
-Someone else...%K Someone else...%K Who is that...?
+Someone else...%K%NSomeone else...%K%NWho is that...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「あ……言っとくけど、まだ『若き日』なんて言うほど年とってないわよ」%K%P
-Ah... For your information, I still haven't aged past my 'younger days' just yet.
+Ah... For your information, I still haven't aged past my 『younger days』 just yet.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2354,7 +2354,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「なによぉ？　今の『間』は……？」%K%P
-What was with that 'pause' just now...?
+What was with that 『pause』 just now...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2549,7 +2549,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 私と沙紀だけの空間……。%K%Nシン…と静まり返ったダイニング……。%K%P
-Saki and I are the only ones in the room...%K The dining room is as still as death...
+Saki and I are the only ones in the room...%K%NThe dining room is as still as death...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2564,7 +2564,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『どうなの？』%K%N彼女の目が訴えている。%K%P
-「Well?」%K Her eyes are asking me that.
+「Well?」%K%NHer eyes are asking me that.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2739,7 +2739,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「私には、『Ｌｉｋｅ』も『Ｌｏｖｅ』も見分けがつかないのよ……っ！」%K%P
-I can't tell the difference between 'like' and 'love' either...!
+I can't tell the difference between 『like』 and 『love』 either...!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2819,7 +2819,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「『あの時』から……」%K%P
-Ever since 'that time'...
+Ever since 『that time』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2829,7 +2829,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ズキズキと頭の中が痛み出す。%K%Nブルブルと身体が震えてきた。%K%P
-I start to feel a throbbing pain in my head.%K My body trembles violently.
+I start to feel a throbbing pain in my head.%K%NMy body trembles violently.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3109,7 +3109,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 震えがいっそうひどくなる。%K%N沙紀の握る手に力がこもった。%K%P
-I shake even more violently.%K Saki grasps my hand even tighter.
+I shake even more violently.%K%NSaki grasps my hand even tighter.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3159,7 +3159,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「幻でも見てるかと思ったよ……」%K%P
-I thought I was seeing an illusion....
+I thought I was seeing an illusion...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3179,7 +3179,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『この部屋はまだ大丈夫だ……。すぐに戻ってくるから待ってろ』って」%K%P
-'This room is still safe... I'll be back right away, so wait here.'
+『This room is still safe... I'll be back right away, so wait here.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3224,12 +3224,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『私はまだ平気！　他の子を先に！』って」%K%P
-'I'm still okay! Get the others out first!'
+『I'm still okay! Get the others out first!』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『この部屋はまだ大丈夫なんでしょ？　私はこの%N班の班長だから最後でいい！』って」%K%P
-'This room is still safe, right? I'm this group's leader, so I'll go last!'
+『This room is still safe, right? I'm this group's leader, so I'll go last!』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3239,7 +3239,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「私、信じてたから……『まだ大丈夫』っていう彼の言葉を……」%K%P
-Because I believed in his words... that 'it was still safe'...
+Because I believed in his words... that 『it was still safe』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3974,7 +3974,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「『Ｌｉｋｅ』と『Ｌｏｖｅ』の見分け方」%K%P
-The way to tell the difference between 'like' and 'love'.
+The way to tell the difference between 『like』 and 『love』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4004,7 +4004,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「『Ｌｉｋｅ』と『Ｌｏｖｅ』の見分け方。それは……」%K%P
-The way to tell the difference between 'like' and 'love'...
+The way to tell the difference between 『like』 and 『love』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4019,7 +4019,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「だから、まず相手の事を思いやる気持ち──それを『愛』っていうんじゃないのかな？」%K%P
-So being considerate of the one you like first and foremost rather than yourself―that's 'love', wouldn't you say?
+So being considerate of the one you like first and foremost rather than yourself―that's 『love』, wouldn't you say?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4124,7 +4124,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ベッドに横たわりながら、おもむろに時計を見た。%K%Nそろそろ日付は、６日に変わろうとしている。%K%P
-I slowly look at the clock while lying in bed.%K Soon, the date will change to the 6th.
+I slowly look at the clock while lying in bed.%K%NSoon, the date will change to the 6th.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4139,12 +4139,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ──沙紀はおぼれなかった。%K%N──遙と沙紀がいがみ合う事もなかった。%K%N──くるみちゃんが行方不明になる事もなかった。%K%P
-―Saki didn't get swallowed by the wave.%K ―Haruka and Saki never quarreled.%K ―Kurumi-chan didn't go missing.
+―Saki didn't get swallowed by the wave.%K%N―Haruka and Saki never quarreled.%K%N―Kurumi-chan didn't go missing.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 ──私達があの護符を見る事もなかった。%K%N──そして、あとは私が明日神社に行かないように%Nするだけ……。%K%P
-―We never saw that talisman.%K ―And all we have to do tomorrow is not go to the shrine...
+―We never saw that talisman.%K%N―And all we have to do tomorrow is not go to the shrine...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4194,7 +4194,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4229,7 +4229,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 そう言って、手を差し出す遙。%K%N手には、小ぶりのビンが握られていた。%K%P
-She says that, and stretches her hand out.%K She's grasping a small glass bottle in her hand.
+She says that, and stretches her hand out.%K%NShe's grasping a small glass bottle in her hand.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4269,7 +4269,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 手首に、シュと吹きかけてみた。%K%N甘い香りが漂う。%K%P
-I open it, and give it a sniff.%K A sweet aroma drifts in the air.
+I open it, and give it a sniff.%K%NA sweet aroma drifts in the air.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4319,7 +4319,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『若き日の思い出』……か」%K%P
-'Memories of younger days'...huh?
+『Memories of younger days』...huh?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4339,7 +4339,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『青春の喜び』。%T030それから……『若き日の思い出』」%K%P
-'The joy of youth' . And also... 'memories of younger days'.
+『The joy of youth』. And also... 『memories of younger days』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4359,7 +4359,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 白い、ライラック……。%K%N紫の、ビン……。%K%P
-White lilacs...%K A purple bottle...
+White lilacs...%K%NA purple bottle...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4379,12 +4379,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「紫は……『初恋』」%K%P
-Purple means... 'first love'.
+Purple means... 『first love』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「それと……『愛の芽生え』」%K%P
-And... 'the early emotions of love'.
+And... 『the early emotions of love』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4469,17 +4469,17 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ──紫色の、ライラック。%K%N──紫色の、ビン。%K%P
-―Purple lilacs.%K ―A purple bottle.
+―Purple lilacs.%K%N―A purple bottle.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「紫は……『初恋』」%K%P
-Purple means... 'first love'.
+Purple means... 『first love』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「それと……『愛の芽生え』」%K%P
-And... 'the early emotions of love'.
+And... 『the early emotions of love』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4519,7 +4519,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 なのに……。%K%Nなのにっ…………！%K%P
-Even so...%K Even so...!
+Even so...%K%NEven so...!
 CN PLACEHOLDER
 RU PLACEHOLDER
 

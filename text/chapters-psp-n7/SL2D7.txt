@@ -34,7 +34,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……。%N……………。%N……………………。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -174,7 +174,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -384,7 +384,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「そんなことって……」%K%P
-'That's it'...?
+『That's it』...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

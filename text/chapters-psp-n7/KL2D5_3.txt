@@ -124,7 +124,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみは口をきゅっと結んだまま……%K%Nくるりと背中を向けた。%K%P
-Kurumi remains silent, her mouth shut... She turns around, her back facing me.
+Kurumi remains silent, her mouth shut...%K%NShe turns around, her back facing me.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -394,7 +394,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「忘れた、とか言わないでよ？」%K%P
-Don't say 'I forgot' when it happens! You won't, right?
+Don't say 『I forgot』 when it happens! You won't, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

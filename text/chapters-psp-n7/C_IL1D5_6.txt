@@ -9,7 +9,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「いや、やってたんじゃなくて、これからやろうと思ってた所なんだ」%K%P
-No, we're not 'doing' anything, we were only thinking about where to start.
+No, we're not 『doing』 anything, we were only thinking about where to start.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -254,7 +254,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「っていうかそれ『神経衰弱』だろっ！！」%K%P
-That's 'Concentration'!!
+That's 『Concentration』!!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -734,7 +734,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -789,7 +789,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「もしも仮に、私とくるみが最初にめくったカード……『Ａ』と『３』と『Ｋ』が１組ずつ無かったとしても……」%K%P
-Let's say, for argument's sake, even if the first cards Kurumi and I picked weren't an 'Ace', '3', and 'King'...
+Let's say, for argument's sake, even if the first cards Kurumi and I picked weren't an 『Ace』, 『3』, and 『King』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -934,7 +934,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「ってことはぁ、その『１度だけ』っていうのが、今だったのかもしれないじゃない！」%K%P
-Which means that just now might have been that 'once'!
+Which means that just now might have been that 『once』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -959,7 +959,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「ほとんどゼロに近くっても、ゼロではないんでしょ？」%K%P
-'Almost close to zero' isn't actually zero, is it?
+『Almost close to zero』 isn't actually zero, is it?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1029,7 +1029,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「それに、お姉ちゃんの言ってる『確率』って、ゲームをやる前の話でしょ？」%K%P
-Besides, the 'probability' you mentioned really only mattered before the game started.
+Besides, the 『probability』 you mentioned really only mattered before the game started.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1039,7 +1039,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「ゲームをやる前に『今みたいなことが起こる確率は？』って聞かれたら……」%K%P
-If you were to ask 'What is the probability of something like what happened just now occurring?' before the game started...
+If you were to ask 『What is the probability of something like what happened just now occurring?』 before the game started...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1069,12 +1069,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「『現実に、今みたいなことが、起きた確率は？』ってことになるとぉ……」%K%P
-The question now is 'What is the probability that what happened just now actually happened?'.
+The question now is 『What is the probability that what happened just now actually happened?』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「１回やって、１回そうなったんだから……つまり『１００％起きました』っていうのが事実だよねぇ？」%K%P
-We did it once and that happened once as a result, so... that means it's a fact that 'it happened 100％ of the time', right?
+We did it once and that happened once as a result, so... that means it's a fact that 『it happened 100％ of the time』, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1094,7 +1094,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「『シュレディンガーの猫』の話と、おんなじことなんだよぉ！」%K%P
-This is the same thing as 'Schrödinger's cat'!
+This is the same thing as 『Schrödinger's cat』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1109,7 +1109,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「ほらっ『カンタンアイランド』っていうマンガ、あるじゃない？」%K%P
-But it was in that manga, 'Vain Island'.
+But it was in that manga, 『Vain Island』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1139,7 +1139,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「『箱の中に入ってる猫は、そのフタを開けるまで、生きてるか死んでるかわからない』っていう話だったよねぇ？」%K%P
-'There's a cat put inside a box, and until the lid on that box is opened, it's unknown whether the cat is dead or alive.'
+『There's a cat put inside a box, and until the lid on that box is opened, it's unknown whether the cat is dead or alive.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1179,7 +1179,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「じゃあ、５０％っていうのは何だったのかって言うとぉ……つまりそれは『予測』の値だったってことになるよねぇ？」%K%P
-Well then, if you are to explain what the 50％ means... It was the value of the 'prediction', right?
+Well then, if you are to explain what the 50％ means... It was the value of the 『prediction』, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1189,7 +1189,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「『予測』と『現実』っていうのは、ほんとは一緒にして考えちゃイケナイものなんじゃないのかなぁ？」%K%P
-Isn't it true that one shouldn't actually consider 'prediction' and 'reality' in the same way?
+Isn't it true that one shouldn't actually consider 『prediction』 and 『reality』 in the same way?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1199,7 +1199,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「起こった後には、ひとつの『現実』が残るだけでしょ？」%K%P
-After it's happened, all that remains is one 'reality', correct?
+After it's happened, all that remains is one 『reality』, correct?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1209,12 +1209,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「『フタを開けたら、ニャンコは生きてました』」%K%P
-'When the lid was opened, the kitty was alive.'
+『When the lid was opened, the kitty was alive.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「『ゲームをやったら、お兄ちゃんはすべてのカードを当てることができました』」%K%P
-'When we played the game, Onii-chan was able to get all of the cards right.'
+『When we played the game, Onii-chan was able to get all of the cards right.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1259,7 +1259,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

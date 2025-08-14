@@ -109,7 +109,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「パパは何も悪いことなんかしてない。%N僕はパパに感謝してる。だって、僕の命はパパが与えてくれたものだから……」%K%P
-'Papa didn't do anything wrong. I'm so grateful to Papa. Because Papa is the one who gave me this life...'
+『Papa didn't do anything wrong. I'm so grateful to Papa. Because Papa is the one who gave me this life...』
 CN PLACEHOLDER
 RU PLACEHOLDER
 

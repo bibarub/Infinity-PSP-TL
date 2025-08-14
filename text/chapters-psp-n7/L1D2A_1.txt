@@ -1,5 +1,5 @@
 ﻿……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -314,7 +314,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「５人だけって、じゃあいづみさんも%N行かないんだ？」%K%P
-'You five going alone'... Then you're not coming with us, Izumi-san?
+『You five going alone』... Then you're not coming with us, Izumi-san?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -599,7 +599,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「例えば『どこの馬の骨とも分からないろくでもない連中と、強制的に７泊８日の旅行をしなければならなくなったとき』とかな？」%K%P
-Like, for example, due to being 'forced to spend a whole week with good-for-nothing shady strangers', perhaps?
+Like, for example, due to being 『forced to spend a whole week with good-for-nothing shady strangers』, perhaps?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

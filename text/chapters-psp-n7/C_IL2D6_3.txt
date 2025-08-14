@@ -239,7 +239,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「どうかって……なにが？」%K%P
-'Did something happen'... What do you mean?
+『Did something happen』... What do you mean?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -269,7 +269,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「誰にって、そんなの決まってるでしょ？」%K%P
-'Who'? That's obvious, isn't it?
+『Who』? That's obvious, isn't it?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -299,7 +299,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「くるみ……どうして『誠くん』なんて呼び方……」%K%P
-Kurumi... why are you calling him 'Makoto-kun'...?
+Kurumi... why are you calling him 『Makoto-kun』...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -314,7 +314,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「同い年、って……」%K%P
-'The same age'...?
+『The same age』...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -594,7 +594,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『神社が消えた』って……それ、どういうこと？」%K%P
-What do you mean by... 'the disappearance of the shrine'?
+What do you mean by... 『the disappearance of the shrine』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -609,12 +609,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『鈴が消えた』って、なに？」%K%P
-What do you mean, 'the disappearance of the bell'?
+What do you mean, 『the disappearance of the bell』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『神社が消えた』って、どういうこと？」%K%P
-What do you mean, 'the disappearance of the shrine'?
+What do you mean, 『the disappearance of the shrine』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -669,7 +669,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「じゃあ『神社が消えた』っていうのは！？」%K%P
-Then what about the 'disappearance of the shrine'!?
+Then what about the 『disappearance of the shrine』!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -714,12 +714,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「トランプなんて、絶対にやりたくないと強く想った……」%K%P
-I firmly thought that 'I absolutely don't want to play cards'...
+I firmly thought that 『I absolutely don't want to play cards』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「くるみの傷に触れたときも──『こんなもの消えてしまえばいいのに！』──そう強く想ったんだ」%K%P
-When I touched Kurumi's scar―I firmly thought that―'This thing should just disappear!'
+When I touched Kurumi's scar―I firmly thought that―『This thing should just disappear!』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -729,7 +729,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「くるみの傷を消す為に……『空白の３年間』を消す為に……」%K%P
-In order to erase Kurumi's scar... in order to erase that 'three year blank'...
+In order to erase Kurumi's scar... in order to erase that 『three year blank』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -764,17 +764,17 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「ああ……だから『２０歳』だなんて言ってたんだよ……」%K%P
-Yeah... that's why she said she was 'twenty years old'...
+Yeah... that's why she said she was 『twenty years old』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『空白の３年間』が消えたから……」%K%P
-Because the 'three year blank' disappeared...
+Because the 『three year blank』 disappeared...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「いや、正確に言えば『空白の３年間』が埋まったから！」%K%P
-No, to put it more accurately, the 'three year blank' was buried!
+No, to put it more accurately, the 『three year blank』 was buried!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -984,7 +984,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1344,7 +1344,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1859,7 +1859,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………………………………………。%N………………………………………………。%K%P
-... ...
+...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2064,7 +2064,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「どうする、って……誠はほんとに、平気なの！？」%K%P
-'Now what'... Makoto, are you really okay!?
+『Now what』... Makoto, are you really okay!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2484,7 +2484,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………………………………………。%N………………………………………………。%K%P
-... ...
+...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

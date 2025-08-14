@@ -49,7 +49,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 それまでに、何とかしなければ……！%K%N何とか……！！%K%P
-Until then, I've got to do something...! Anything...!!
+Until then, I've got to do something...!%K%NAnything...!!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -69,7 +69,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 今日は問題の３日だ。%K%Nそう……沙紀が『遙がクローンだということ』を%Nみんなの前で暴露した日……。%K%P
-Today is the problematic 3rd. That's right... the day Saki will reveal to everyone that Haruka is a clone...
+Today is the problematic 3rd.%K%NThat's right... the day Saki will reveal to everyone that Haruka is a clone...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -384,7 +384,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 すると突然……玄関のドアが乱暴に開け放たれた。%K%P
-Just then, all of the sudden... the front door is violently thrown open.
+Just then, all of a sudden... the front door is violently thrown open.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -709,7 +709,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -969,7 +969,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 確かにそうだ。%K%N別に隠すことなんかないんじゃないのか？%K%P
-She's right. I don't really have a reason to hide it, do I?
+She's right.%K%NI don't really have a reason to hide it, do I?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1149,7 +1149,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみさんの顔から、一瞬にして血の気が引いた。%K%Nこんないづみさんの姿を見るのは初めてだ……。%K%P
-Izumi-san's face instantly goes pale. It's the first time I've seen Izumi-san like this...
+Izumi-san's face instantly goes pale.%K%NIt's the first time I've seen Izumi-san like this...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1214,7 +1214,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……。%N…………。%N……事件は何の前触れもなく訪れた。%K%P
-... ... ... It happened without warning.
+...%N...%N... It happened without warning.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1254,7 +1254,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 マスコミにも大々的に報じられたのだが%K%N……結局、くるみは見つからなかった……。%K%P
-The media extensively reported on this, but... In the end, they couldn't find Kurumi...
+The media extensively reported on this, but...%K In the end, they couldn't find Kurumi...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1314,7 +1314,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 この話は、後に両親から直接聞かされた%N話なのだそうだ。%N…………。%N……。%K%P
-It seems this story was just the one her parents told her directly after it had happened. ... ...
+It seems this story was just the one her parents told her directly after it had happened.%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1324,7 +1324,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「だから『こんな子、私の本当の妹じゃない』なんて言って、追いかけて来る妹を突き飛ばしたことが%Nあった」%K%P
-So I said horrible things like 'A kid like this isn't my real sister', and pushed her away one time when she chased after me.
+So I said horrible things like 『A kid like this isn't my real sister』, and pushed her away one time when she chased after me.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1424,7 +1424,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 …………。%N……。%K%P
-... ...
+...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1504,7 +1504,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『彼女達２人が同じじゃないことを証明する！』%K%N……これが最も有効な方法ではないのだろうか？%K%P
-「I just need to prove those two aren't the same!」 ... Isn't that the most effective method?
+「I just need to prove those two aren't the same!」%K%N... Isn't that the most effective method?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

@@ -114,7 +114,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「環境、って……たかがそんなことの為に？」%K%P
-'Atmosphere'... That's your only reason?
+『Atmosphere』... That's your only reason?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -199,7 +199,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「だから来年からはぁ〜、『お兄ちゃん』じゃなくて『先輩』って呼ぶことにするから♪」%K%P
-That's why, starting next year, Kurumi's decided not to call you 'Onii-chan', but rather, 'Senpai'♪
+That's why, starting next year, Kurumi's decided not to call you 『Onii-chan』, but rather, 『Senpai』♪
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -269,7 +269,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「うん。『方丈記』の作者って、誰だったっけ？」%K%P
-Yes. Do you know who wrote 'The Ten Foot Square Hut'?
+Yes. Do you know who wrote 『The Ten Foot Square Hut』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

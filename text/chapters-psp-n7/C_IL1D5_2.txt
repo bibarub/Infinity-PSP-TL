@@ -209,7 +209,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 どうしたんだ？%K%N何かオレ、まずいことでも言ったんだろうか？%K%P
-What's wrong?%K Did I say something I shouldn't have?
+What's wrong?%K%NDid I say something I shouldn't have?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -564,7 +564,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「レグルスは、今も変わらず輝き続けてるんだって……そう信じてたほうが幸せなんだって……思ったの」%K%P
-'Right now, Regulus is still continuing to shine as always'... ... I think it's happier... if you believe that.
+『Right now, Regulus is still continuing to shine as always』... I think it's happier... if you believe that.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -684,7 +684,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『何も言わないで』って、言ったでしょ？」%K%P
-I said 'Don't say anything', didn't I?
+I said 『Don't say anything』, didn't I?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

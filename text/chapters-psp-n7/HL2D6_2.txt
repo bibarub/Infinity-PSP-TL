@@ -19,12 +19,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 可能性は、残されている。%K%Nオレはその最後の可能性に賭けた！%K%P
-There's one possibility remaining. I'll risk everything on that possibility!
+There's one possibility remaining.%K%NI'll risk everything on that possibility!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 可能性は、残されている。%K%Nオレはその最後の可能性に賭けた！%K
-There's one possibility remaining. I'll risk everything on that possibility!
+There's one possibility remaining.%K%NI'll risk everything on that possibility!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -159,7 +159,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「ん〜よろしい。あたしはねぇ〜……%W%Nう〜んと『Ａ』らよ〜」%K%P
-Mmm, very well. Eyam... umm, 'A+'.
+Mmm, very well. Eyam... umm, 『A+』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -169,7 +169,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「あれ？　『Ｂ』らったかな？？」%K%P
-Huh? Or maybe ish 'B+'??
+Huh? Or maybe ish 『B+』??
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -179,7 +179,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「あれ？　『Ｃ』らった気もするぅぅぅなぁ……。%W%Wよくわかんないや。アハハハハ！」%K%P
-Huh? But eye alsho feel ish 'C+'... Eye dunno. Ahahahaha!
+Huh? But eye alsho feel ish 『C+』... Eye dunno. Ahahahaha!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -239,7 +239,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -474,7 +474,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くっ……！%K%Nやはりくるみ以外にはいないのか……。%K%P
-Damn...! So Kurumi really is the only one...?
+Damn...!%K%NSo Kurumi really is the only one...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -889,7 +889,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ……くるみ……どこだ……？%K%N今、お前はどこにいるんだ……？%K%N教えてくれ……くるみ……！%K
-Kurumi... Kurumi... Where are you...? Where are you right now...? Tell me... Kurumi...!
+Kurumi... Kurumi... Where are you...?%K%NWhere are you right now...?%K%NTell me... Kurumi...!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1019,7 +1019,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 オレは、診療所へ……。%K%N遙の傍にいてやりたくなった……。%K
-I want to go to the clinic... I want to be by Haruka's side...
+I want to go to the clinic...%K I want to be by Haruka's side...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1069,7 +1069,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………。%N……。%N…。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1249,7 +1249,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 それとも、まだあきらめないで探すべきなのだろうか……？%K%Nたとえ無駄な努力だとしても……。%K
-Or should I not give up and continue searching...? Even if it's a useless endeavor...
+Or should I not give up and continue searching...?%K Even if it's a useless endeavor...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1279,7 +1279,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………。%N……。%N…。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1304,7 +1304,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『遙を守る』って…………%W%W%W%W%N……そう誓ったんだ……！！！%K%P
-「I'll protect Haruka,」... ... I swore that...!!
+「I'll protect Haruka,」...%N... I swore that...!!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1419,7 +1419,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 突然のひらめきだった。%K%Nその瞬間オレが思い出したこと……それは……。%K%P
-A flash suddenly runs through my head. The thing I remember in that instant... is...
+A flash suddenly runs through my head.%K The thing I remember in that instant... is...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1444,7 +1444,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「うん。その問題の『司紀の杜神社』とか言う所に行ってみてぇ、噂が本当かどうか確かめてみるの」%K%P
-Yep. Kurumi wants to go check out that so-called 'Shiki no Mori Shrine' and see if the rumors are true or not.
+Yep. Kurumi wants to go check out that so-called 『Shiki no Mori Shrine』 and see if the rumors are true or not.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1499,7 +1499,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1509,7 +1509,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1694,7 +1694,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1824,7 +1824,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1914,7 +1914,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

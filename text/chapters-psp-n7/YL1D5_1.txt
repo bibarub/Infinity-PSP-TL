@@ -99,7 +99,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「まずい……%W%Wエネルギーが……%W%Wエネルギーが……%W%W足り……%W%W%Wない……%W%W%W%W……ムニャムニャ……」%K%P
-This is bad... I... don't have... enough... energy...... Zzz...
+This is bad... I... don't have... enough... energy... Zzz...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -304,7 +304,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「こういうきれいな景色とかを見ると『心が洗われる』って、よく言うじゃない？」%K%P
-Wouldn't you say that looking at such a beautiful scene just 'cleanses your heart'?
+Wouldn't you say that looking at such a beautiful scene just 『cleanses your heart』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -669,7 +669,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「きっと片想いなんだ、って……そうやって、ずっと思い込んでたけど……」%K%P
-'It's a completely unrequited love'... I was always under that impression, but...
+『It's a completely unrequited love』... I was always under that impression, but...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

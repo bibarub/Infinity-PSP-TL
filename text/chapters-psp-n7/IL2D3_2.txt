@@ -74,7 +74,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「いいか、億彦。%K%N……低俗っていうのはな……%Kこういうのを言うんだぁ〜〜っ！」%K%P
-Listen, Okuhiko. ... If you're going to call me a 'vulgar bastard'... then take this!
+Listen, Okuhiko... If you're going to call me a 『vulgar bastard』... then take this!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -389,7 +389,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

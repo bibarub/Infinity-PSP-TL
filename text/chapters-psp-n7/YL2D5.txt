@@ -134,7 +134,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「めでたしめでたし、って感じかな？」%K%P
-Feels like a 'happily ever after' is coming our way.
+Feels like a 『happily ever after』 is coming our way.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -209,7 +209,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『２度とここには来ないから』……神社の前で、そう言ったのに……」%K%P
-'Don't come here ever again'... even though you said that in front of the shrine...
+『Don't come here ever again』... even though you said that in front of the shrine...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -979,7 +979,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「その男の子が、蘇ってきたんじゃないかって、思っちゃうときがあるの……」%K%P
-'If he were resurrected'... I find myself thinking that at times.
+『If he were resurrected』... I find myself thinking that at times.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1069,7 +1069,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「修学旅行の宿泊先の、ホテルで……」%K%P
-We were staying at a hotel while on a field trip, when all of the sudden...
+We were staying at a hotel while on a field trip, when all of a sudden...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1239,7 +1239,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 …………。%N……………………。%K%P
-... ...
+...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1254,7 +1254,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N…………。%K%P
-... ...
+...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

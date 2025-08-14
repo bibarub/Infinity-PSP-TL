@@ -699,7 +699,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 これじゃ、らちがあかない。%K%Nただの普通の警告としか取ってもらえないんだ。%K%Nならばと……%K
-This isn't working out. I have to give them a more general warning. With that, I...
+This isn't working out.%K%NI have to give them a more general warning. With that, I...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -714,7 +714,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 これじゃ、らちがあかない。%K%Nただの普通の警告としか取ってもらえないんだ。%K%Nならばと……%K%P
-This isn't working out. I have to give them a more general warning. With that, I...
+This isn't working out.%K%NI have to give them a more general warning. With that, I...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

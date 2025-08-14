@@ -109,7 +109,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「いや、お前ってのはその%W%W……つまり、アレだよ」%K%P
-Well, by 'you'... I meant-
+Well, by 『you』... I meant-
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -119,7 +119,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「いや、だから、遙を、%N追っかけて来たんじゃないか。だから、お前なんだ」%K%P
-No, it's just, I came chasing after you, didn't I? That's what I meant by 'you'.
+No, it's just, I came chasing after you, didn't I? That's what I meant by 『you』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -154,7 +154,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「違うって……」%K%P
-'Different'...
+『Different』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -164,7 +164,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「いいって……」%K%P
-What do you mean, 'fine'...?
+What do you mean, 『fine』...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -249,7 +249,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 手を振り上げた途端、後ろから口を%N押さえつけられた。%K%Nオレは首をひねって抵抗する。%K%P
-Just as I raise my hand to wave, my mouth is covered from behind. I cock my head in puzzlement.
+Just as I raise my hand to wave, my mouth is covered from behind.%K%NI cock my head in puzzlement.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -649,7 +649,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「何がって言われても、ひとりってのは……」%K%P
-Even if you say 'why', being alone is just...
+Even if you say 『why』, being alone is just...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -699,7 +699,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 何なんだ？　オレのほうがわからないよ。%K%N心が無い？%K%N何を言ってるんだ？%K%P
-What was that? I don't get it at all. 「I have no heart」? What is she saying?
+What was that? I don't get it at all.%K%N「I have no heart」?%K%NWhat is she saying?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -709,27 +709,27 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 波打ち際を歩いていく遙の姿に、オレはすっかり目を奪われてしまっていた。%Kどこか人間離れした雰囲気に……。%K%P
-My eyes are completely captivated by the sight of Haruka walking down the beach.
+My eyes are completely captivated by the sight of Haruka walking down the beach.%K The atmosphere is unworldly...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 寄せては返す波が、遙の透き通った素足に何度もぶつかる。%K陽の光を浴びて輝く遙の足。%K%P
-The atmosphere is unworldly...
+The waves go in and out, striking Haruka's nearly transparent bare feet rhythmically.%K Haruka's legs shine as they are bathed by the sunlight.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙の髪をなびかせた風が、オレの顔をやさしく撫でていく。%K%P
-The waves go in and out, striking Haruka's nearly transparent bare feet rhythmically. Haruka's legs shine as they are bathed by the sunlight.
-CN PLACEHOLDER
-RU PLACEHOLDER
-
-オレは、ふっと思った。%K%N……地上の人間じゃないのか？%N海の底から来たとか？%K
 The wind plays with her hair and gently caresses my face.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
+オレは、ふっと思った。%K%N……地上の人間じゃないのか？%N海の底から来たとか？%K
+A wild fancy strikes me.%K ...Is she not human? Did she come from the bottom of the ocean?%K
+CN PLACEHOLDER
+RU PLACEHOLDER
+
 　はたまた別の星とか、%N異次元の存在？　まさか、ね……。%K%P
-A wild fancy strikes me. ... Is she not human? Did she come from the bottom of the ocean? Or is she someone from a different planet or another dimension? Nah, no way...
+ Or is she someone from a different planet or another dimension? Nah, no way...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -774,7 +774,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 まあ、あの寂れた商店街では『繰り出す』という表現は正しくないかもしれないが……。%K%P
-Well, considering how deserted that district is, 'leave for' might not be the best way to put it...
+Well, considering how deserted that district is, 『leave for』 might not be the best way to put it...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

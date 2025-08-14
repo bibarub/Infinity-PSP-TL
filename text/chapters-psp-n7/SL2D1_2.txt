@@ -209,7 +209,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「『朝倉』ですけど、責任者の方、いらっしゃいます？」%K%P
-My name is 'Asakura'. Is the manager here?
+My name is 『Asakura』. Is the manager here?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -399,7 +399,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「いいのいいの。こういうときはアレなんだから」%K%P
-It's fine, it's fine. In times like this, all you have to do is 'that'.
+It's fine, it's fine. In times like this, all you have to do is 『that』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -449,7 +449,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「届けた！　くるみ……『朝倉』さんに届けたんだから！」%K%P
-It did too! Kurumi... delivered it to an 'Asakura-san'!
+It did too! Kurumi... delivered it to an 『Asakura-san』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -459,7 +459,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「くるみ、絶対『朝倉』さんに届けたもん！」%K%P
-Kurumi did deliver it to 'Asakura-san'!
+Kurumi did deliver it to 『Asakura-san』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 

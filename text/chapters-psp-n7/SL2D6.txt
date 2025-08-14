@@ -599,7 +599,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「何って……そんなことどうだっていいだろ！？」%K%P
-'What'... that doesn't matter, does it!?
+『What』... that doesn't matter, does it!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -739,7 +739,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『違う！　沙紀じゃない！』──そう言いたいのに、言えなかった。%K%P
-「You're wrong! It wasn't Saki!」 ―I want to so badly, but I can't.
+「You're wrong! It wasn't Saki!」―I want to so badly, but I can't.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1109,7 +1109,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「それに……人を『信じる』のに理由がいるか！」%K%P
-And besides... you now have a reason to 'trust' people!
+And besides... you now have a reason to 『trust』 people!
 CN PLACEHOLDER
 RU PLACEHOLDER
 

@@ -59,7 +59,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 痛たたたた……。%K%Nモロに額をぶつけた。%K%P
-Owww... We bump our foreheads into each other.
+Owww...%K%NWe bump our foreheads into each other.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -99,12 +99,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「『眠り姫』……読んだことある？」%K%P
-Have you ever read... 'Sleeping Beauty'?
+Have you ever read... 『Sleeping Beauty』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「グリムは『いばら姫』──『眠り姫』はぺロー……だったよな？」%K%P
-The Grimm Brothers' story was 'Briar Rose'―and 'Sleeping Beauty' was by Perrault... right?
+The Grimm Brothers' story was 『Briar Rose』―and 『Sleeping Beauty』 was by Perrault... right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -184,7 +184,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『眠り姫』では、お姫様の方から王子様にキスしちゃダメなんだ」%K%P
-It was the prince that kissed the princess in 'Sleeping Beauty', not the other way around.
+It was the prince that kissed the princess in 『Sleeping Beauty』, not the other way around.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -484,7 +484,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「遙、前に『心がない』って言ってたよな？」%K%P
-Earlier, you said 'I have no heart', right?
+Earlier, you said 『I have no heart』, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -554,7 +554,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『心がない』なんて言って、自分の気持ちを誤魔化してる……」%K%P
-Saying things like 'I have no heart'... That's just you deceiving your own feelings...
+Saying things like 『I have no heart』... That's just you deceiving your own feelings...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -564,7 +564,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『人とは違う……他にも代わりがいる価値の無い存在……』」%K%P
-'I'm different from humans... I'm a worthless existence that's a replacement for another...'
+『I'm different from humans... I'm a worthless existence that's a replacement for another...』
 CN PLACEHOLDER
 RU PLACEHOLDER
 

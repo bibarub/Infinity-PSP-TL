@@ -194,7 +194,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「まず……昨日話した『キュレイシンドローム』のこと……」%K%P
-First... about 'Curé Syndrome'...
+First... about 『Curé Syndrome』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -209,7 +209,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「キュレイシンドローム、って……」%K%P
-'Curé Syndrome'...
+『Curé Syndrome』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -274,7 +274,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「とても重要な『第３の特徴』が、あったのよ……」%K%P
-The very essential 'Third Trait'...
+The very essential 『Third Trait』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -299,12 +299,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「私は昨日、第１と第２の特徴をまとめて『妄想が伝播する』って言ったでしょ？」%K%P
-Yesterday, I summed up the First and Second Traits as the 'spreading of delusions', right?
+Yesterday, I summed up the First and Second Traits as the 『spreading of delusions』, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「だけどね？『妄想が伝播する』っていう現象は、本当はそんなに珍しいことではないの」%K%P
-But you know what? The phenomenon of the 'spreading of delusions' isn't actually something that uncommon.
+But you know what? The phenomenon of the 『spreading of delusions』 isn't actually something that uncommon.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -324,12 +324,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『誰かの抱いた妄想が、%N別の人へとうつっていく』」%K%P
-'The delusion that someone embraces begins to be projected onto another person.'
+『The delusion that someone embraces begins to be projected onto another person.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「そういう精神疾患は、すでに『感応精神病』という名前で呼ばれていて、特に真新しいわけでも珍しいわけでもない、ってことなの」%K%P
-But that mental illness was already called 'Shared Psychotic Disorder', so it wasn't anything particularly new or unusual either.
+But that mental illness was already called 『Shared Psychotic Disorder』, so it wasn't anything particularly new or unusual either.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -339,12 +339,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「つまりキャビン博士は、例の少年の症状を診て『感応精神病』とかいうヤツには無い別の特徴──『第３の特徴』を発見した」%K%P
-In short, when examining Tom's symptoms, Dr. Cabin discovered a different trait that wasn't part of 'Shared Psychotic Disorder'―'The Third Trait'.
+In short, when examining Tom's symptoms, Dr. Cabin discovered a different trait that wasn't part of 『Shared Psychotic Disorder』―『The Third Trait』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「だからこそ『キュレイシンドローム』という新しい名前で定義しなければならなかった」%K%P
-That's precisely why he had to define it with a new name: 'Curé Syndrome'.
+That's precisely why he had to define it with a new name: 『Curé Syndrome』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -354,7 +354,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「で？　その『第３の特徴』っていうのは？」%K%P
-So? What's this 'Third Trait'?
+So? What's this 『Third Trait』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -374,7 +374,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「信じてもらえない、って……さっきもそんなこと言ってたけど……」%K%P
-'Won't believe this'... You said that earlier too...
+『Won't believe this』... You said that earlier too...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -404,7 +404,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「もしも『第３の特徴』が正しいとすれば、この世界の在り方が、根底からくつがえされることになるかもしれない……」%K%P
-If 'The Third Trait' is actually true, then it might overturn the foundation of the way things are in this world...
+If 『The Third Trait』 is actually true, then it might overturn the foundation of the way things are in this world...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -424,12 +424,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「キュレイシンドロームの『第３の特徴』」%K%P
-About Curé Syndrome's 'Third Trait'.
+About Curé Syndrome's 『Third Trait』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「実は、前にくるみが言ってた『シュレディンガーの猫』と、関係があったの」%K%P
-The truth is, it's related to the 'Schrödinger's cat' Kurumi was talking about.
+The truth is, it's related to the 『Schrödinger's cat』 Kurumi was talking about.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -644,7 +644,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「よりによって『先生』を連れ込むなんて……」%K%P
-Bringing the 'Professor' to your room, of all people...
+Bringing the 『Professor』 to your room, of all people...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -724,7 +724,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

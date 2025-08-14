@@ -104,7 +104,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「くるみが実の妹だって……どうしてあの時、そう言い切ったの？」%K%P
-'Kurumi is my real sister'... Why did you declare that back then?
+『Kurumi is my real sister』... Why did you declare that back then?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -274,7 +274,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「だけどね、いづみさん？　その赤ん坊は、間違いなく『くるみ』なんだよ！」%K%P
-But you know, what, Izumi-san? That baby was definitely 'Kurumi'!
+But you know, what, Izumi-san? That baby was definitely 『Kurumi』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -774,7 +774,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「事故って……？」%K%P
-What 'incident'...?
+What 『incident』...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -789,7 +789,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「タイムスリップって……？」%K%P
-'Time travel'...?
+『Time travel』...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1139,7 +1139,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「だから多くの人々は、その赤ん坊がくるみである筈がないと思った」%K%P
-That's why a lot of people thought 'There's no way that baby can be Kurumi'.
+That's why a lot of people thought 『There's no way that baby can be Kurumi』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

@@ -494,7 +494,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -554,7 +554,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 水面に足を浸す。%K%Nそう、昨夜の遙のように。%K%P
-I dip my feet into the water. Just like Haruka last night...
+I dip my feet into the water.%K%NJust like Haruka last night...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -669,7 +669,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「どうして『立派な社会人になれる』なんて、言い切れるんですか？」%K%P
-How can you assert that 'I'll become a splendid adult'?
+How can you assert that 『I'll become a splendid adult』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -699,7 +699,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『あんまり』どころか『全然』ね？」%K%P
-'Much' is an overstatement. Try 'not at all'.
+『Much』 is an overstatement. Try 『not at all』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1349,7 +1349,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「……そう言えば、いづみさんの『守野』っていう名字……」%K%P
-... Now that I think about it, your last name is 'Morino', right?
+... Now that I think about it, your last name is 『Morino』, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1394,7 +1394,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『ウチの父』……って、あの『守野博士』が、いづみさんの父親！？」%K%P
-You said 'my father'... so THE Dr. Morino is your father!?
+You said 『my father』... so THE Dr. Morino is your father!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1539,7 +1539,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「その『ちょっとした軽いジョーク』のせいで……%Nオレは……オレは……」%K%P
-Because of your 'harmless little joke', I... I...
+Because of your 『harmless little joke』, I... I...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1609,7 +1609,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

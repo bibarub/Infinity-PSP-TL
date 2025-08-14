@@ -129,7 +129,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「撫で撫でしてあげるの……つよいつよいって」%K%P
-Stroke it... and say 'You're strong, you're strong'.
+Stroke it... and say 『You're strong, you're strong』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -139,7 +139,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「それでね。負けた方のカニにも撫で撫でしてあげるの……がんばったがんばったって」%K%P
-But that's not all. Kurumi will stroke the losing crab too... and tell it to 'hang in there'.
+But that's not all. Kurumi will stroke the losing crab too... and tell it to 『hang in there』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -309,7 +309,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -529,7 +529,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -574,7 +574,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 もしかして、さっきオレにジャンケンで勝ったカニか？%K%Nよく、あんなんで区別がつくものだ。%K%P
-Wait, is that the crab that beat me in Rock-Paper-Scissors earlier? I guess giving it a name was a good way to distinguish them.
+Wait, is that the crab that beat me in Rock-Paper-Scissors earlier?%K%NI guess giving it a name was a good way to distinguish them.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -644,7 +644,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

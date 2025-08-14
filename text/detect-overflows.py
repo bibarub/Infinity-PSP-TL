@@ -9,7 +9,7 @@ def main():
   # Standard psp engine limit is 480 --dreambottle
   # bibarub: depending on how many visual effects are currently applied,
   # the amount of characters the game can handle is decreased further,
-  # as the buffer where vertices for the graphics are stored may overflow.
+  # as the GE command buffer may overflow.
   # for Never7, i found the maximum "safe" amount of characters to be ~370.
   # just in case, i set the warning threshold even lower, to 350.
   warn_chars_screen = 350;

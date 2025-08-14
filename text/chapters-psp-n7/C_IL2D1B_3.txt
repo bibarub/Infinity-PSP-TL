@@ -164,7 +164,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「それが『キュレイシンドロームの考察』だった」%K%P
-It was 'Curé Syndrome Inquiry'.
+It was 『Curé Syndrome Inquiry』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -214,7 +214,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「じゃあさっき、億彦が『先生』って言ってたのは……」%K%P
-So when Okuhiko said 'Professor' earlier, he meant...
+So when Okuhiko said 『Professor』 earlier, he meant...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -274,12 +274,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『マイケル・キャビン』というアメリカの精神科医が発見した、精神疾患の、ある特殊な症状のことなの」%K%P
-An American psychiatrist named 'Michael Cabin' discovered a certain mental illness with unique symptoms.
+An American psychiatrist named 『Michael Cabin』 discovered a certain mental illness with unique symptoms.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「キャビン博士は、当時自分の勤めていた病院に入院していた『トム・フェイブリン』という少年のカウンセリングにたずさわっていたのね」%K%P
-At the same time, Dr. Cabin participated in the counseling of a boy named 'Tom Faiblin', who was hospitalized at the hospital he worked at.
+At the same time, Dr. Cabin participated in the counseling of a boy named 『Tom Faiblin』, who was hospitalized at the hospital he worked at.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -319,12 +319,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『ボクのなかに『死』は無い』%K%P
-「I have no 'death' in me.」
+「I have no 『death』 in me.」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 『だからボクは『死』なない』%K%P
-「That's why I won't 'die'.」
+「That's why I won't 『die』.」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -374,7 +374,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「日本語にすると『空想虚言』のことなんだけど……」%K%P
-It's also called 'Mythomania'...
+It's also called 『Mythomania』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -394,12 +394,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「要するに……『嘘をついていた本人が、その嘘を、本当の出来事であるかのように思い込んでしまうこと』」%K%P
-In short... 'The liar themself is completely convinced that that lie was a real event.'
+In short... 『The liar themself is completely convinced that that lie was a real event.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「それを『空想虚言』って言うの」%K%P
-That's what's known as 'Mythomania'.
+That's what's known as 『Mythomania』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -419,7 +419,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『ボクは死なない、誰も死なない』と、そんなことを言い続けているうちに……」%K%P
-But as he continued to keep saying things like 'I won't die, and neither will anyone else'...
+But as he continued to keep saying things like 『I won't die, and neither will anyone else』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -434,7 +434,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「思われて、いた？」%K%P
-'Seemed'?
+『Seemed』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -444,7 +444,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「やがて、それが単なる『空想虚言』じゃないということが、わかったのよ」%K%P
-Before long, they realized that it wasn't merely 'Mythomania'.
+Before long, they realized that it wasn't merely 『Mythomania』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -459,7 +459,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「博士はカウンセリングを進めるうちに、少年が妄想を抱き始めるようになった『本当のキッカケ』をつきとめたの」%K%P
-As Dr. Cabin's counseling progressed, he located the 'real trigger' that made Tom reach the point where he began to embrace those delusions.
+As Dr. Cabin's counseling progressed, he located the 『real trigger』 that made Tom reach the point where he began to embrace those delusions.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -474,7 +474,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『実際に少年が、妹の命を助けたこと』……そこにあったのよ」%K%P
-'When Tom actually saved his sister's life'... That was it.
+『When Tom actually saved his sister's life』... That was it.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -599,12 +599,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「誰だって、まわりの人間から『黒い黒い』と%N言われ続けたら『白い』ものでも『黒く』思えてきてしまう、ってことがあるからな」%K%P
-Anyone would turn out like that.%K If the people around them kept telling them that something was 'black' over and over again, even if that thing were actually 'white', it would seem 'black' to that person.
+Anyone would turn out like that.%K If the people around them kept telling them that something was 『black』 over and over again, even if that thing were actually 『white』, it would seem 『black』 to that person.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「少年の場合には『トムは不思議な力を持ってる……トムは不思議な力を持ってる……』」%K%P
-In Tom's case, it was 'Tom possesses a marvelous power... Tom possesses a marvelous power'...
+In Tom's case, it was 『Tom possesses a marvelous power... Tom possesses a marvelous power』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -629,17 +629,17 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「１０才とか、そのぐらいの年齢って『死』というものの意味を、ようやく理解するようになる年頃だから……」%K%P
-10 is the approximate age where you reach the point that you finally understand the meaning of 'death'...
+10 is the approximate age where you reach the point that you finally understand the meaning of 『death』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『死』に対して、とても敏感で、過剰な恐怖や絶望感を抱いたりするものなの」%K%P
-You feel very sensitive towards 'death', and do things such as embracing excessive fear and feelings of despair.
+You feel very sensitive towards 『death』, and do things such as embracing excessive fear and feelings of despair.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「要するに、少年の心の中には、もともと『死』に対する恐怖のようなものがあって……」%K%P
-In short, there was something like a fear towards 'death' in Tom's mind from the start...
+In short, there was something like a fear towards 『death』 in Tom's mind from the start...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -649,7 +649,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「だから彼は『自分は死なない』とか『不死を伝染すことができる』とか……そんなふうに信じ込むようになってしまったのよ」%K%P
-That's why Tom reached the point where he firmly believed things such as 'I won't die' and 'I can infect others with immortality'...
+That's why Tom reached the point where he firmly believed things such as 『I won't die』 and 『I can infect others with immortality』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -659,22 +659,22 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「少年自身は、この『不死を伝染させる行為』のことを『キュア』と呼んでいたの」%K%P
-Tom himself called this 'act of infecting other with immortality,' 'Cure'.
+Tom himself called this 『act of infecting other with immortality,』 『Cure』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『ＣＵＲＥ』%T015……つまり『いやし』とか『救済』とか、そういう意味」%K%P
-'Cure'... as you know, that means 'to heal'.
+『Cure』... as you know, that means 『to heal』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「そこでキャビン博士は、このパラノイアの特殊な類型のことを『キュレイシンドローム』と名づけた」%K%P
-And so Dr. Cabin named this unique type of paranoia 'Curé Syndrome'.
+And so Dr. Cabin named this unique type of paranoia 『Curé Syndrome』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「キュレイのスペルは『Ｃ・%WＵ・%WＲ・%WＥ』%T015……キュアのフランス語読みなのよ」%K%P
-While Tom used the English word 'Cure' to refer to his ability, Dr. Cabin used the French word 'Curé' for Curé Syndrome.
+While Tom used the English word 『Cure』 to refer to his ability, Dr. Cabin used the French word 『Curé』 for Curé Syndrome.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -699,12 +699,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「このとき大事なのは『最初に嘘をついた人も、それを嘘だとは思っていない』ということ」%K%P
-At this time, it's important that 'The first person or people who lied also don't think it's a lie.'
+At this time, it's important that 『The first person or people who lied also don't think it's a lie.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「妄想を抱くようになった本人も、最初に嘘をついた人も、それこそが『真実だ』『本当のことだ』と思い込んでいる……」%K%P
-The person who reached the point where they embraced the delusion and the first person or people who lied are convinced the lie is 'reality' and 'the truth'...
+The person who reached the point where they embraced the delusion and the first person or people who lied are convinced the lie is 『reality』 and 『the truth』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -714,7 +714,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「ある意味『妄想が伝播した』と言ってもいいかもしれないわね」%K%P
-In a sense, you might say that's the 'spreading of the delusion'.
+In a sense, you might say that's the 『spreading of the delusion』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -784,7 +784,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「いづみさん、さっき『知りたかったから』って、そう言ったよね？」%K%P
-Izumi-san, earlier, you said 'Because I wanted to understand it', right?
+Izumi-san, earlier, you said 『Because I wanted to understand it』, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -819,7 +819,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「……『実験』って言葉の意味が」%K%P
-... When he said 'experiment'.
+... When he said 『experiment』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -829,7 +829,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「要するに、この合宿の目的は『キュレイシンドロームの実験』をすることにあった」%K%P
-In short, this Seminar Camp's goal was 'To run an experiment on Curé Syndrome'.
+In short, this Seminar Camp's goal was 『To run an experiment on Curé Syndrome』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -874,12 +874,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『この合宿の目的は、班員の親睦を深めることにある』」%K%P
-'The goal of this Seminar Camp is to deepen the amity between the members.'
+『The goal of this Seminar Camp is to deepen the amity between the members.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『と同時に、出席率の悪い誠くんの、素行調査も兼ねている』」%K%P
-'At the same time, it's also serving as a background check for Makoto-kun, who has a low attendance rate.
+『At the same time, it's also serving as a background check for Makoto-kun, who has a low attendance rate.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -969,17 +969,17 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「オレ自身に『予知能力がある』ってことを信じ込ませようとしてた」%K%P
-... you tried to make me firmly believe that 'I have precognition'.
+... you tried to make me firmly believe that 『I have precognition』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「つまり意図的に、オレに『妄想』を抱かせようとしてた、ってわけだ」%K%P
-In other words, you intentionally tried to make me embrace my 'delusion'.
+In other words, you intentionally tried to make me embrace my 『delusion』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「さっき話してた少年みたいに『キュレイシンドローム』におちいらせようと……」%K%P
-You attempt to cause me to be afflicted with 'Curé Syndrome', just like Tom...
+You attempt to cause me to be afflicted with 『Curé Syndrome』, just like Tom...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -999,7 +999,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「それが、この合宿の本当の目的……『実験』とやらのすべてだ」%K%P
-That's the true goal of this Seminar Camp... All to carry out this so-called 'experiment'.
+That's the true goal of this Seminar Camp... All to carry out this so-called 『experiment』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1514,7 +1514,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「『どうしたの？』なんて呑気なこと言ってる場合じゃないんだからぁ〜！」%K%P
-'What's wrong?' Now's not the time to be saying such carefree things!
+『What's wrong?』 Now's not the time to be saying such carefree things!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1524,7 +1524,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「『あった』んじゃなくてぇ……『ない』んだってば！」%K%P
-It's not 'What happened'... it's what's 'not' happening!
+It's not 『What happened』... it's what's 『not』 happening!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1544,7 +1544,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

@@ -9,7 +9,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『急がなければ！』%K%N──何かがオレを駆り立てていた。%K%P
-(I have to hurry!) ―I urge myself onwards.
+(I have to hurry!)%K%N―I urge myself onwards.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -399,7 +399,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 腹ばいになった体がズルズルと滑っていく。%K%P
-I'm lying on my stomach so I can reach her, but all of the sudden, my body begins to slip forward.
+I'm lying on my stomach so I can reach her, but all of a sudden, my body begins to slip forward.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

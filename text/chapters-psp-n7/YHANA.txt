@@ -44,7 +44,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -209,7 +209,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「優夏先生の恋愛方程式その２%N──『男は押しが肝心』」%K%P
-The Second Law of Professor Yuka's Love Formula: 'Audacity is essential for guys'.
+The Second Law of Professor Yuka's Love Formula: 『Audacity is essential for guys』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -224,7 +224,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「だけど優夏、『恋愛方程式その１』では『しつこい男は嫌われる』って言ってたじゃないかぁ？」%K%P
-But Yuka, didn't you say that the 'First Law of your Love Formula' was to 'dislike persistent men'?
+But Yuka, didn't you say that the 『First Law of your Love Formula』 was to 『dislike persistent men』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -254,7 +254,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「だからぁ！　教えて欲しいってさっきから言って……%W…%W…%W…%T060るじゃないですかぁ？」%K%P
-Yes! I've been saying all day that I... ............ would appreciate it if you would so kindly tell me.
+Yes! I've been saying all day that I......... would appreciate it if you would so kindly tell me.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -664,7 +664,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「いつもの、場所って？」%K%P
-'The usual place'?
+『The usual place』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -874,7 +874,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「そしたらね？　いきなりそこに、見覚えのある１人の生徒が入って来たの」%K%P
-And then, all of the sudden, a certain student I recognized came in.
+And then, all of a sudden, a certain student I recognized came in.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -909,12 +909,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『ダメだな』ってね」%K%P
-'This is no good.'
+『This is no good.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「私、思わずムッとしちゃって、気がついたら…『どこがダメなのよぉ！』…なんて、きつく言い返しちゃってた」%K%P
-I automatically got offended, and when I came to my senses, I had angrily retored, 'What part of it is no good!?'
+I automatically got offended, and when I came to my senses, I had angrily retored, 『What part of it is no good!?』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -934,7 +934,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 …………。%N………………。%K%P
-... ...
+...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1024,7 +1024,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%K%P
-... ...
+...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1754,7 +1754,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「返して、って……何を……かな？」%K%P
-'Give it back'... give... what back?
+『Give it back』... give... what back?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1769,7 +1769,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「え？　……それってもしかして……コレのこと？」%K%P
-Huh? ... By 'that', do you mean... this?
+Huh? ... By 『that』, do you mean... this?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2099,7 +2099,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 そして突如、けたたましい大音量でかん高い叫び声をあげたのだった。%K%P
-And then, all of the sudden, she lets out a loud, shrill scream.
+And then, all of a sudden, she lets out a loud, shrill scream.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2434,7 +2434,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 「なんで誠が持ってるのよ！？」%K%N%N
-「"Why do you have that!?」
+「Why do you have that!?」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2789,7 +2789,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「その猫の名前な？　『ニンニンネコピョン』って言うらしいぞ？」%K%P
-It seems that cat's name is 'Nin-Nin Neko Pyon'.
+It seems that cat's name is 『Nin-Nin Neko Pyon』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2944,7 +2944,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「と、言いたいところだけど、今日は大まけにまけて『荷物持ち』で許してあげよう！」%K%P
-That's what I want to say, but because I'm forgiving today, I'll lighten it to 'baggage carrier'!
+That's what I want to say, but because I'm forgiving today, I'll lighten it to 『baggage carrier』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 

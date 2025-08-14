@@ -109,7 +109,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「と、とぼけてなんかいないよ！　%Nじゃあ何なんだよ、クルミって！？」%K%P
-I-I'm not playing dumb! Why don't YOU tell me what this 'Kurumi' is, then!?
+I-I'm not playing dumb! Why don't YOU tell me what this 『Kurumi』 is, then!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -514,7 +514,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみにとっても、いづみさんにとっても、%Nオレはただの……%W%W%W%N……あかの他人に過ぎないのだから。%K%P
-Because right now, to the Morino sisters, I'm just... ... Nothing more than a stranger.
+Because right now, to the Morino sisters, I'm just...%N... Nothing more than a stranger.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -544,7 +544,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「この店に『くるみ』という名前の折り紙の上手い女の子がいるって……そう聞いたんですよ」%K%P
-That there was a girl named 'Kurumi' at this shop who's an expert at origami... That's what I heard.
+That there was a girl named 『Kurumi』 at this shop who's an expert at origami... That's what I heard.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1339,7 +1339,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「でも、伝票には確かに『シーフードピザ』って書いてあるよ？」%K%P
-But the receipt definitely says you ordered a 'Seafood Pizza', didn't you?
+But the receipt definitely says you ordered a 『Seafood Pizza』, didn't you?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1404,7 +1404,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「でも、伝票には確かに『シーフードピザ』って書いてあるよ？」%K%P
-But the receipt definitely says you ordered a 'Seafood Pizza', didn't you?
+But the receipt definitely says you ordered a 『Seafood Pizza』, didn't you?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1449,7 +1449,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「なあ、くるみ……%T030……ちゃん？　届け先の名前は、何て書いてある？」%K%P
-Hey, Kurumi... chan? What's the name written where it says 'receiver's address'?
+Hey, Kurumi... chan? What's the name written where it says 『receiver's address』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1664,7 +1664,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 例えば、沙紀が波にさらわれること──それを知りながら、見て見ぬフリをするなんてことは、オレにはできない。%K%N
-For example, there's the incident where Saki got swallowed by a wave ―Since I know about it, there's no way I can feign ignorance and watch it happen again.
+For example, there's the incident where Saki got swallowed by a wave―since I know about it, there's no way I can feign ignorance and watch it happen again.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1989,7 +1989,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「今日の朝……『近いうちに必ず来ます』って、約束したからでしょ？」%K%P
-This morning... 'I'll definitely come in the near future'. That's what you promised, right?
+This morning... 『I'll definitely come in the near future』. That's what you promised, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2054,7 +2054,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「ん？『お姉ちゃん』ってことは、もしかして２人は……姉妹？」%K%P
-Huh? You said 'Onee-chan', so does that mean you two are... sisters?
+Huh? You said 『Onee-chan』, so does that mean you two are... sisters?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2114,7 +2114,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『近いうちに』って……こんなに早く来てもらえるとは思わなかったわ♪」%K%P
-'In the near future'... still, I didn't think you'd come back this quickly♪
+『In the near future』... still, I didn't think you'd come back this quickly♪
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2124,7 +2124,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「あっ、申し遅れました。私、この店でバイトをしている『守野いづみ』と言います」%K%P
-Oh, I'm sorry, where are my manners? I'm 'Izumi Morino', a part-time worker for this shop.
+Oh, I'm sorry, where are my manners? I'm 『Izumi Morino』, a part-time worker for this shop.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2144,12 +2144,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「私の妹で、時々お店の手伝いをやってもらってるの。ホラ、くるみもご挨拶して」%K%P
-Kurumi sometimes helps me with the shop. Come on, Kurumi, go ahead and properly say 'Hello'.
+Kurumi sometimes helps me with the shop. Come on, Kurumi, go ahead and properly say 『Hello』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「あ……えっと〜……。『守野くるみ』です。今、学校がお休みなので、お姉ちゃんのところに遊びに来てるの」%K%P
-Ah... Umm... I'm 'Kurumi Morino'. Right now, since Kurumi's on school break, she came here to have fun with Onee-chan.
+Ah... Umm... I'm 『Kurumi Morino』. Right now, since Kurumi's on school break, she came here to have fun with Onee-chan.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2289,7 +2289,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「いつも爽やか好青年、粋でいなせで涙にゃもろい、地球の平和を守る為、神が送った正義の戦士……その名も『飯田億彦』だ！」%K%P
-The always invigorated youth, the gallant man with a tender heart, the warrior of justice sent by God himself for the sake of protecting the Earth... his name is 'Okuhiko Iida'!!!
+The always invigorated youth, the gallant man with a tender heart, the warrior of justice sent by God himself for the sake of protecting the Earth... his name is 『Okuhiko Iida』!!!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2299,7 +2299,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「え？　さっきは確か……『朝倉』って」%K%P
-Huh? But earlier, you said it was... 'Asakura'.
+Huh? But earlier, you said it was... 『Asakura』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2309,12 +2309,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「『朝倉』ですけど、責任者の方、いらっしゃいます？」%K%P
-My name is 'Asakura'. Is the manager here?
+My name is 『Asakura』. Is the manager here?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3069,7 +3069,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

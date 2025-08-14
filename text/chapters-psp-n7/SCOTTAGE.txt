@@ -139,7 +139,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「どうしたって……ええと、これ、きっと沙紀のお気に入りだろうと思って、つまり、何だ、そういう気持ちってのは金に代えられないわけで……」%K%P
-'What about it'... umm, I thought for sure that this was probably your favorite, so I figured that, uhhh, it must have been priceless, so...
+『What about it』... umm, I thought for sure that this was probably your favorite, so I figured that, uhhh, it must have been priceless, so...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -254,7 +254,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「大切にすべきだとでも言うの？」%K%P
-'Sentimental', right?
+『Sentimental』, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -539,7 +539,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「あんなものって何だ？」%K%P
-What is 'that thing'?
+What is 『that thing』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -779,7 +779,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「何って……どっか行くのか？」%K%P
-'What'... Are you going somewhere?
+『What』... Are you going somewhere?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -799,7 +799,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「別にって……」%K%P
-'Nowhere really'...?
+『Nowhere really』...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1019,7 +1019,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「嘘！　嘘！　返して！　あの『鈴』返して！」%K%P
-You're lying! You're lying! Give it back! Give me back that 'bell'!
+You're lying! You're lying! Give it back! Give me back that 『bell』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1339,7 +1339,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「え？　表情って？」%K%P
-Huh? 'Expression'?
+Huh? 『Expression』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1589,7 +1589,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

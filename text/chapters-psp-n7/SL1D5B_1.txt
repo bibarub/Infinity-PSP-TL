@@ -209,7 +209,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「よくないよ！　遙と沙紀──２人の過去に、いったい何があったんだよ？」%K%P
-No it's not! Haruka― what happened between you and Saki in the past?
+No it's not! Haruka! What happened between you and Saki in the past?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -484,7 +484,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「あの子？」%K%P
-'You two'?
+『You two』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -554,7 +554,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『なついちゃって癖になったらどうするの！？』って……」%K%P
-They'd say 'What are you going to do if it gets attached to you!?'
+They'd say 『What are you going to do if it gets attached to you!?』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -959,7 +959,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『見回りに来た用務員が逃げてく沙紀のことを見た』……優夏はさっきそう言ってたけど……」%K%P
-'It seems a janitor on patrol saw Saki running'... Yuka said that, but...
+『It seems a janitor on patrol saw Saki running』... Yuka said that, but...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

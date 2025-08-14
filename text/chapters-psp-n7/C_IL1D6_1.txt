@@ -134,7 +134,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -194,7 +194,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「おはようございます、じゃなくて……」%K%P
-Don't say 'Good morning'...
+Don't say 『Good morning』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -434,7 +434,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「野良犬って言っても、ちっちゃい子犬みたいなんだけど……」%K%P
-Well, I say 'wild dog', but it's actually a little puppy, apparently...
+Well, I say 『wild dog』, but it's actually a little puppy, apparently...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -509,7 +509,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

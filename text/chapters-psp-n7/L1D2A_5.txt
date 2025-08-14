@@ -184,7 +184,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『ト…%W%Wト…%W%Wト…』って、%W%Wまさか……%W%Wトイレ？」%K%P
-'To... To... To...', You don't mean... 'toilet'?
+『To... To... To...』, You don't mean... 『toilet』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -259,7 +259,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「それを言うなら『マグロ、釣りに行こうよ』だろ？」%K%P
-You mean go fishing for 'tuna', right?
+You mean go fishing for 『tuna』, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

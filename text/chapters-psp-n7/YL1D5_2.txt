@@ -249,7 +249,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「どこって……まかせるよ」%K%P
-'Where'... I'll leave that to you.
+『Where』... I'll leave that to you.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -314,7 +314,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「まったくもう、失礼しちゃうよねぇ……。あの女の子、私のこと『おばちゃん』なんて言っちゃってさ」%K%P
-Geez, she was so rude... That little girl called me a 'weirdo'.
+Geez, she was so rude... That little girl called me a 『weirdo』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -534,7 +534,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「正確な時刻や場所は覚えてない。そこにいたのが誰なのかもわからない……」%K%P
-I don't remember the exact time and location. And I don't know who that 'someone' was either...
+I don't remember the exact time and location. And I don't know who that 『someone』 was either...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -564,7 +564,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「まさかその手の平にあったのは……『鈴』？」%K%P
-It couldn't be that in that person's palm was... a 'bell'?
+It couldn't be that in that person's palm was... a 『bell』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -599,7 +599,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「い、いまさら？　いまさらって……何だよ？　どういうことなんだ、優夏！？」%K%P
-N-Now? What do you mean... 'now'? What does that mean!?
+N-Now? What do you mean... 『now』? What does that mean!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -699,7 +699,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『あの朝見た夢の内容は、よく覚えてない』って……私、そう言ったよね？」%K%P
-'I don't remember the details of the dream I had that morning very well'... I said something like that, right?
+『I don't remember the details of the dream I had that morning very well』... I said something like that, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -744,7 +744,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「だってそんなこと、言えるわけないでしょ？%N『誰かが死ぬ夢だった』なんて、そんなこと……」%K%P
-How could I? Saying something as so dreary like 'I had a dream where someone died'...
+How could I? Saying something as so dreary like 『I had a dream where someone died』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -769,7 +769,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「だから私、そのときは本当に『ただの夢だったんだ』って思ったの。『絶望的な夢』って言ったのは、嘘じゃなかったんだよ」%K%P
-Because of that, I really thought it was 'just a dream' at that time. When I said it was a 'hopeless dream', I wasn't lying.
+Because of that, I really thought it was 『just a dream』 at that time. When I said it was a 『hopeless dream』, I wasn't lying.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -794,7 +794,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「でもね？　あるときを境にして、あれは『ただの夢』じゃないんじゃないかって、また思い始めるようになったの」%K%P
-But you know? A few days later, I reached the point where I started to think 'that wasn't just a dream after all, was it?', again.
+But you know? A few days later, I reached the point where I started to think 『that wasn't just a dream after all, was it?』, again.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -849,7 +849,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『ただの夢じゃないかも』って気づいたのは、それがキッカケだったってことか……」%K%P
-And that was when you started to think 'it might not have been just a dream'...
+And that was when you started to think 『it might not have been just a dream』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -889,7 +889,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「あの女の子──『おつきさまのかたちをした、すなはまでひろったの』──そう言ってたでしょ？」%K%P
-That girl―she said 'I picked it up on that sandy beach shaped like a crescent moon'―right?
+That girl―she said 『I picked it up on that sandy beach shaped like a crescent moon』―right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -904,7 +904,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「だけど現実に『あの女の子は夢で見た鈴を持ってる』──それだけは疑いようもない事実だったから……」%K%P
-But the reality that 'that girl has the bell from my dream'―that alone was an undeniable fact...
+But the reality that 『that girl has the bell from my dream』―that alone was an undeniable fact...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1099,7 +1099,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『だから私、そのときは本当に『ただの夢だったんだ』って思ったの』%K%P
-「Because of that, I really thought it was 'just a dream' at that time.」
+「Because of that, I really thought it was 『just a dream』 at that time.」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1674,12 +1674,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「例の『死鬼の神』の話をした時のことだろ？」%K%P
-You mean when she told us about the 'God of the Demons', right?
+You mean when she told us about the 『God of the Demons』, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「そう。あの時いづみさん、この神社では『神隠し』が起こる、って言ったよね？」%K%P
-That's right. At that time, didn't Izumi-san mention 'spiriting away' incidents occurring at this shrine?
+That's right. At that time, didn't Izumi-san mention 『spiriting away』 incidents occurring at this shrine?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1689,7 +1689,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『神隠し』──人がこつ然と姿を消すこと──」%K%P
-'Spirited away'―when a person suddenly disappears―
+『Spirited away』―when a person suddenly disappears―
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1719,7 +1719,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「いづみさんは何も、ここに来たら必ず『神隠し』に会うなんて言ってないんだから」%K%P
-Izumi-san never said that we would definitely be 'spirited away' if we came here.
+Izumi-san never said that we would definitely be 『spirited away』 if we came here.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1729,7 +1729,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「私はむしろ、昨日この神社の中に入ったことで、逆に『神隠し』のことを信じられるようになったよ」%K%P
-In fact, stepping inside the shrine only convinced me that such 'spiriting away' incidents just might be true.
+In fact, stepping inside the shrine only convinced me that such 『spiriting away』 incidents just might be true.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1759,12 +1759,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『はるさめや　みさきのはてに　なりひびく　すずとともにや　ときはとかれん』」%K%P
-'The spring rain/ At the end of the cape/ Together with/ The echoing bell/ Will free you from time.'
+『The spring rain/ At the end of the cape/ Together with/ The echoing bell/ Will free you from time.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「その『ときはとかれん』のところ！」%K%P
-It's the 'Will free you from time' part!
+It's the 『Will free you from time』 part!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1784,7 +1784,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『時』の流れから『解き』放たれて、別の時間へと飛ばされる……」%K%P
-To be 'set free' from the flow of 'time' and to be blown away to a different time...
+To be 『set free』 from the flow of 『time』 and to be blown away to a different time...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1799,7 +1799,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「現実の時間の流れからこつ然と姿を消すこと──それがいづみさんの言ってた『神隠し』の正体だったってわけ」%K%P
-To suddenly disappear from the flow of this reality's time―that's the true identity of the 'spiriting away' Izumi-san was talking about.
+To suddenly disappear from the flow of this reality's time―that's the true identity of the 『spiriting away』 Izumi-san was talking about.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1844,12 +1844,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「ううん。これだけだったから、確信を持てずにいたんだよぉ」%K%P
-No... I 'didn't' feel confident about it.
+No... I 『didn't』 feel confident about it.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「さっきまでずっと考え込んでたのは、その決め手となる何かを探す為だったの」%K%P
-Up until just a few minutes ago, I was at my wits end trying to find that 'something' that would become the deciding factor.
+Up until just a few minutes ago, I was at my wits end trying to find that 『something』 that would become the deciding factor.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1899,7 +1899,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「優夏……おまえまさか、また下らない回文でも思いついたんじゃないだろうな？」%K%P
-Yuka, you said 'playing around with words' just before we left the shop. This isn't another one of your stupid portmanteau jokes like 'Kurumilk' or 'Ishiitakehara,' is it?
+Yuka, you said 『playing around with words』 just before we left the shop. This isn't another one of your stupid portmanteau jokes like 『Kurumilk』 or 『Ishiitakehara,』 is it?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1914,32 +1914,32 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『杜（もり）』は音読みだと、何て読む？」%K%P
-And how do you read 'Mori' (杜) if you're using its Chinese reading?
+And how do you read 『Mori』 (杜) if you're using its Chinese reading?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「……『と』かな？」%K%P
-... 'To', I think?
+... 『To』, I think?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『司（し）』は訓読みだと？」%K%P
-Since the 'Shi' (司) character is its Chinese reading, how would you read that in Japanese?
+Since the 『Shi』 (司) character is its Chinese reading, how would you read that in Japanese?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『つかさ』だっけ？」%K%P
-It's 'Tsukasa', right?
+It's 『Tsukasa』, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「それを通して読んだら？」%K%P
-And the 'Ki' (紀) part is the same in both, so how would you read it now?
+And the 『Ki』 (紀) part is the same in both, so how would you read it now?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「と・%Wき・%Wつかさ……」%K%P
-To-ki-tsukasa... 'to rule time'...
+To-ki-tsukasa... 『to rule time』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1964,12 +1964,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「だとすると、この神社の正式名称は『司紀の杜神社』じゃなくって……」%K%P
-If that's the case, then the shrine's formal name isn't the 'Shiki no Mori Shrine'...
+If that's the case, then the shrine's formal name isn't the 『Shiki no Mori Shrine』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『杜紀司（ときつかさ）神社』……」%K%P
-It's the 'Tokitsukasa Shrine'... the 'Time Ruling Shrine'...
+It's the 『Tokitsukasa Shrine』... the 『Time Ruling Shrine』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1979,7 +1979,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「要するに『時をつかさどる神様』を奉った神社だったんだよ、ほんとは……」%K%P
-In short, it's actually a shrine made to worship the 'God Who Rules Over Time'...
+In short, it's actually a shrine made to worship the 『God Who Rules Over Time』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2009,17 +2009,17 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「正式な名前が『ときつかさ』？　百歩譲ってそうだったとしても、だから何だって言うんだ！？」%K%P
-The shrine's true name is the 'Time Ruling Shrine'? Even if I were to unwillingly give into that point, so what!? It means nothing!
+The shrine's true name is the 『Time Ruling Shrine』? Even if I were to unwillingly give into that point, so what!? It means nothing!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『ときはとかれん』──そう護符に書かれてたからって、タイムスリップの根拠になんか、なりはしない！」%K%P
-'Will free you from time'―How can you say there's a basis for time travel from something that was written on a talisman!?
+『Will free you from time』―How can you say there's a basis for time travel from something that was written on a talisman!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『神隠し』の噂話だってそうだ！」%K%P
-Being 'spirited away' was just a rumor!
+Being 『spirited away』 was just a rumor!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2039,7 +2039,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「な？　どれもこれも明確な証拠としては不十分だ。これだけで納得しろって言うほうが無理があるよ」%K%P
-See? Every clear piece of evidence you have is insufficient. I can't agree with you if this is all the 'proof' you've got.
+See? Every clear piece of evidence you have is insufficient. I can't agree with you if this is all the 『proof』 you've got.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2079,7 +2079,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「……証拠って言うより、証人だけどね？」%K%P
-... Well, more like 'witnesses' than 'proof'.
+... Well, more like 『witnesses』 than 『proof』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2134,7 +2134,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「私、言ったでしょ？　防波堤に着く前に『嫌な予感がする』って……」%K%P
-I said it, right? Before we arrived at the pier, I said I had a 'bad feeling'...
+I said it, right? Before we arrived at the pier, I said I had a 『bad feeling』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2164,7 +2164,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「だから『沙紀が溺れる』ってことや、『お米が切れてる』ってことを、頭の片隅で覚えてたんだよ……」%K%P
-So in the corners of our mind, we remembered that 'Saki almost drowned' and 'there was no rice'...
+So in the corners of our mind, we remembered that 『Saki almost drowned』 and 『there was no rice』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2174,17 +2174,17 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『遙が月浜で転ぶこと』%K%N『いづみさんがプールに落ちること』%K%N『車のバッテリーがあがってたこと』%K%N『３日の夕食の献立がカレーだということ』%K%P
-「Haruka falling onto Moon Beach.」 「Izumi-san falling into the pool.」 「The car's battery was dead.」 「Our dinner on the 3rd would be curry.」
+「Haruka falling onto Moon Beach.」%K%N「Izumi-san falling into the pool.」%K%N「The car's battery was dead.」%K%N「Our dinner on the 3rd would be curry.」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 『遙が月浜で転ぶこと』%K%N『いづみさんがプールに落ちること』%K%N『車のバッテリーがあがってたこと』%K%N『３日の夕食の献立がシチューだということ』%K%P
-「Haruka falling onto Moon Beach.」 「Izumi-san falling into the pool.」 「The car's battery was dead.」 「Our dinner on the 3rd would be stew.」
+「Haruka falling onto Moon Beach.」%K%N「Izumi-san falling into the pool.」%K%N「The car's battery was dead.」%K%N「Our dinner on the 3rd would be stew.」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 『遙が月浜で転ぶこと』%K%N『いづみさんがプールに落ちること』%K%N『車のバッテリーがあがってたこと』%K%N『３日の夕食の献立が肉ジャガだということ』%K%P
-「Haruka falling onto Moon Beach.」 「Izumi-san falling into the pool.」 「The car's battery was dead.」 「Our dinner on the 3rd would be meat-potato stew.」
+「Haruka falling onto Moon Beach.」%K%N「Izumi-san falling into the pool.」%K%N「The car's battery was dead.」%K%N「Our dinner on the 3rd would be meat-potato stew.」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2609,7 +2609,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『だから私、そのときは本当に『ただの夢だったんだ』って思ったの』%K%P
-「Because of that, I really thought it was 'just a dream' at that time.」
+「Because of that, I really thought it was 『just a dream』 at that time.」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2934,12 +2934,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 「だってそんなこと、言えるわけないでしょ？%N『誰かが死ぬ夢だった』なんて、そんなこと……」%K%P
-「"How could I? Saying something as so dreary like 'I had a dream where someone died'...」
+「How could I? Saying something as so dreary like 『I had a dream where someone died』...」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 『誰かが死ぬ夢』──『誰かが』%K%N
-「I had a dream where someone died.」 ―「Someone」.
+「I had a dream where someone died.」―「Someone」.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

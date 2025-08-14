@@ -134,7 +134,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「なんでって……そりゃあ……」%K%P
-'Why'... That's...
+『Why』... That's...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -424,7 +424,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『お姉ちゃんお姉ちゃん』って言って、すごい勢いで入って来たじゃない」%K%P
-You just burst in here loudly shouting 'Onee-chan, Onee-chan', right?
+You just burst in here loudly shouting 『Onee-chan, Onee-chan』, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -484,7 +484,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「『姉妹なんだから、どっちか１人だけオゴるのは不公平だ』って！」%K%P
-'You're sisters, so it would be unfair if one of you had to pay'!
+『You're sisters, so it would be unfair if one of you had to pay』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -804,7 +804,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -939,7 +939,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -999,7 +999,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「つまりこの『新しい妹』ってやつが遙だと……いづみさんはそう言いたいわけだ」%K%P
-So in other words, your 'new sister' was Haruka... That's what you're saying.
+So in other words, your 『new sister』 was Haruka... That's what you're saying.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1014,7 +1014,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「それに生年月日が一緒で、額に傷がある、となれば……『遙がくるみのクローンだ』ってことに、ほぼ間違いはないだろうな……」%K%P
-And her birthdate, plus the scar on her forehead... There's almost no doubt that 'Haruka is Kurumi's clone'...
+And her birthdate, plus the scar on her forehead... There's almost no doubt that 『Haruka is Kurumi's clone』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1034,7 +1034,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『くるみは本当の妹じゃない』なんてさ……」%K%P
-The whole 'Kurumi is not my real sister'...
+The whole 『Kurumi is not my real sister』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1049,7 +1049,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『そんなことはあり得ない。だからきっと、守野博士がＤＮＡの鑑定結果を改ざんして、見ず知らずの他人の赤ん坊をくるみであるかのように見せかけたんだろう』」%K%P
-'That's impossible. So Dr. Morino must have falsified the DNA results and probably pretended that another, unfamiliar baby was Kurumi.'
+『That's impossible. So Dr. Morino must have falsified the DNA results and probably pretended that another, unfamiliar baby was Kurumi.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1059,12 +1059,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『見せかけたんだろう』なんて、言ってないわよ……」%K%P
-I never said 'probably pretended'...
+I never said 『probably pretended』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『見せかけたのかもしれない』『そういう可能性も考えられないことはない』って、そう言っただけ……」%K%P
-I said that he 'might have pretended' and 'the possibility isn't unthinkable'...
+I said that he 『might have pretended』 and 『the possibility isn't unthinkable』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1084,7 +1084,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『３年後、変わらぬ姿で』……それって結局は、ただ単にタイムスリップしたってだけのことなんじゃないかな？」%K%P
-'Three years later, Kurumi hadn't aged'... Can't that simply be explained by time travel?
+『Three years later, Kurumi hadn't aged』... Can't that simply be explained by time travel?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1164,12 +1164,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「だって……私達が経験したのは『意識だけが過去へとさかのぼる』という現象だったでしょ？」%K%P
-Because... the phenomenon we experienced was 'only our consciousnesses went back to the past', right?
+Because... the phenomenon we experienced was 『only our consciousnesses went back to the past』, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「なのに、くるみの場合は『肉体とともに』……しかも『未来へと時間を飛び越えた』んだもの……」%K%P
-But in Kurumi's case, 'her body went as well'... Furthermore, 'she was flung into the future'...
+But in Kurumi's case, 『her body went as well』... Furthermore, 『she was flung into the future』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1269,7 +1269,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「どうすれば、って……そんなの、簡単なことじゃないか！」%K%P
-'What should I do'... That's simple, isn't it!?
+『What should I do』... That's simple, isn't it!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1329,7 +1329,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『でも』なんだよ！？」%K%P
-What's with the 'but'!?
+What's with the 『but』!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1379,7 +1379,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『くるみのことは何でもわかってるから』って……」%K%P
-'I understand everything about you, Kurumi'...
+『I understand everything about you, Kurumi』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1419,7 +1419,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「どうすれば、って……そんなこと言ってるけど……」%K%P
-'What should I do'... You say that, but...
+『What should I do』... You say that, but...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1494,12 +1494,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『真実かどうかよりも……」%K%P
-'What's more important than whether it's true or not...'
+『What's more important than whether it's true or not...』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「……信じられるかどうかのほうが大切』」%K%P
-'... is whether you can believe it or not.'.
+『... is whether you can believe it or not.』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1534,7 +1534,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

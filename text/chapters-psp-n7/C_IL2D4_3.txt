@@ -174,7 +174,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「もうっ、どうしたの？　いきなりこんなとこ連れて来たりしてぇ〜」%K%P
-Geez, what is it? Why'd you take Kurumi here all of the sudden?
+Geez, what is it? Why'd you take Kurumi here all of a sudden?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -234,7 +234,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『一緒に行ってもいい』って、そう言ってたのか？」%K%P
-Didn't you say something like 'It's okay if we go together'?
+Didn't you say something like 『It's okay if we go together』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -329,7 +329,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「『ふ〜ん』じゃないよぉ！　ここ、驚くところなんだからぁ！」%K%P
-Don't just go 'Huh'! It was quite a surprise!
+Don't just go 『Huh』! It was quite a surprise!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -374,7 +374,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 それにだいいち『くるみと遙の父親は同一人物だ』なんてこと、この明るい雰囲気の中で、言えるはずがない！%K%P
-In the first place, there's no way in hell that I could say 'Kurumi's and Haruka's father is the same person', in this cheerful atmosphere!
+In the first place, there's no way in hell that I could say 『Kurumi's and Haruka's father is the same person』, in this cheerful atmosphere!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -394,7 +394,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「オイーッス♪」%K%P
-'Hey dere♪
+Hey dere♪
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -509,12 +509,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「優夏さんは、知ってる？　……お月様とくらげの話」%K%P
-Yuka-san, do you know... about 'The Moon and the Jellyfish'?
+Yuka-san, do you know... about 『The Moon and the Jellyfish』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「えっ？　オクサマと、ムナ毛のハナシ？？？」%K%P
-Huh? 'Da Lunatic Shellfish'?
+Huh? 『Da Lunatic Shellfish』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -789,7 +789,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

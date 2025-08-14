@@ -304,7 +304,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 …………。%N……………………。%K%P
-... ...
+...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -339,7 +339,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N…………。%K%P
-... ...
+...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -619,7 +619,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

@@ -54,7 +54,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『いつか、ルナビーチでタダ働きする』って」%K%P
-'One day, I'll help you out at Lunabeach.'
+『One day, I'll help you out at Lunabeach.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -64,7 +64,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「ダメだよ、いづみさん。『男に二言は無い』んだから」%K%P
-But I do. 'A man never goes back on his word', remember?
+But I do. 『A man never goes back on his word』, remember?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -169,7 +169,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -759,7 +759,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「……『はい』は？」%K%P
-... Isn't this where you say 'yes'?
+... Isn't this where you say 『yes』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

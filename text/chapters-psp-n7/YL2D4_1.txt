@@ -414,7 +414,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「高校の頃なんか『澄空のラプラス』って言われて、怖れられてたぐらいだから」%K%P
-When I was in high school, I was known and feared as 'Sumisora's Laplace'.
+When I was in high school, I was known and feared as 『Sumisora's Laplace』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -429,22 +429,22 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「私の母校『澄空学園』って言って……」%K%P
-My alma mater was 'Sumisora Academy'...
+My alma mater was 『Sumisora Academy』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「ううん。そっちじゃなくて……『らぷらす』の方が……」%K%P
-No. That's not it... I meant 'Laplace'...
+No. That's not it... I meant 『Laplace』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「ああ…『ラプラス』って、知らない？」%K%P
-Oh... you don't know what 'Laplace' is?
+Oh... you don't know what 『Laplace』 is?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『ラプラスの悪魔』」%K
-It refers to 'Laplace's Demon'.
+It refers to 『Laplace's Demon』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -469,12 +469,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『ある瞬間の、世界中のありとあらゆる全ての状態を、正確に知ることができる『悪魔』という生き物がいたとする……」%K%P
-'Suppose there exists a 「demon」, that is, an entity that possesses the ability to know, at a certain moment, the state of all things in the universe...
+『Suppose there exists a 「demon」, that is, an entity that possesses the ability to know, at a certain moment, the state of all things in the universe...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「……たとえそれが、いかに短い瞬間であったとしても、悪魔にとっては未来や過去の状態をうかがい知るには十分なのだ』」%K%P
-... Then, no matter how brief this moment is, it would always be enough for the demon to unravel everything that happened in the past and will happen in the future.'
+... Then, no matter how brief this moment is, it would always be enough for the demon to unravel everything that happened in the past and will happen in the future.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -489,7 +489,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「……『世界中で起こる全ての出来事は、初めから何もかも決まっている』ってことが言いたかったんだな」%K%P
-... 'Everything which occurs in the world has been predetermined from the beginning.' That's what he's saying.
+... 『Everything which occurs in the world has been predetermined from the beginning.』 That's what he's saying.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -504,7 +504,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「哲学の用語では『決定論的世界観』とか言うらしいけど……」%K%P
-I believe that in philosophy, this is called 'causal determinism'...
+I believe that in philosophy, this is called 『causal determinism』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -529,7 +529,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「……みんなの知らないことをズバズバと言い当てた私のことを『澄空のラプラス』と呼んで怖れたの」%K%P
-... I would boldly make predictions about things other people didn't know about that proved to be accurate. So my friends called me 'Sumisora's Laplace'.
+... I would boldly make predictions about things other people didn't know about that proved to be accurate. So my friends called me 『Sumisora's Laplace』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -604,12 +604,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『ある瞬間の、世界中のありとあらゆる全ての状態を、正確に知ることができる『悪魔』という生き物がいたとする……」%K%P
-'Suppose there exists a 'demon', that is, an entity that possesses the ability to know, at a certain moment, the state of all things in the universe...
+『Suppose there exists a 「demon」, that is, an entity that possesses the ability to know, at a certain moment, the state of all things in the universe...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「……たとえそれが、いかに短い瞬間であったとしても、悪魔にとっては未来や過去の状態をうかがい知るには十分なのだ』」%K%P
-... Then, no matter how brief this moment is, it would always be enough for the demon to unravel everything that happened in the past and will happen in the future.'
+... Then, no matter how brief this moment is, it would always be enough for the demon to unravel everything that happened in the past and will happen in the future.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -629,7 +629,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「……『世界中で起こる全ての出来事は、初めから何もかも決まっている』ってことが言いたかったのね」%K%P
-... 'Everything which occurs in the world has been predetermined from the beginning.' That's what he's saying.
+... 『Everything which occurs in the world has been predetermined from the beginning.』 That's what he's saying.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -644,7 +644,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「哲学の用語では『決定論的世界観』とか言うらしいんだけどね？」%K%P
-I believe that in philosophy, this is called 'causal determinism'.
+I believe that in philosophy, this is called 『causal determinism』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -664,7 +664,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「……みんなの知らないことをズバズバと言い当てた私のことを『澄空のラプラス』と呼んで怖れたと……」%K%P
-... I would bluntly make predictions about things other people didn't know about that proved to be accurate. So my friends called me 'Sumisora's Laplace'.
+... I would bluntly make predictions about things other people didn't know about that proved to be accurate. So my friends called me 『Sumisora's Laplace』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

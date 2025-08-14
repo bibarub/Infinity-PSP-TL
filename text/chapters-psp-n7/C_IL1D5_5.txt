@@ -14,7 +14,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「おっはよぉー、じゃないわよ。今、何時だと思ってるの？」%K%P
-It's not 'Good morning'. What time do you think it is?
+It's not 『Good morning』. What time do you think it is?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -34,7 +34,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「ソザチダカリ、じゃなくて、育ちざかりでしょ？」%K%P
-Wake up! It's 'growth', not 'gross'!
+Wake up! It's 『growth』, not 『gross』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -69,7 +69,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「こんなとこで悪かったわね？」%K%P
-What do you mean, 'in a place like this'?
+What do you mean, 『in a place like this』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -149,7 +149,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「ねぇ、お兄ちゃん？　ここ、ここ……痛いの痛いの飛んでけぇ〜……ってやって♪」%K
-Hey, Onii-chan? Can you... say the whole 'Pain, pain, fly away' thing? ... Please♪
+Hey, Onii-chan? Can you... say the whole 『Pain, pain, fly away』 thing? ... Please♪
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -279,12 +279,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「チチンプイプイだって……」%K%P
-'Abracadabra'...
+『Abracadabra』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「アンドロメダの彼方だって……」%K%P
-'Fly away, all the way to Andromeda'...
+『Fly away, all the way to Andromeda』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

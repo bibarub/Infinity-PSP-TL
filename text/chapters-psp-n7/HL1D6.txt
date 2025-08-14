@@ -269,7 +269,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 オレと遙は、ロッジに向かって歩いている。%K%Nしかし、とても来たときのようにすいすいとは歩いていけなかった。%K%P
-Haruka and I walk towards the lodge. However, we walk slowly because of how long we've been out.
+Haruka and I walk towards the lodge.%K%NHowever, we walk slowly because of how long we've been out.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -524,7 +524,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 心が激しくざわめいた。%K%N鈴か……？%K　あの鈴のことなのか……？%K%P
-It disturbs me.%K The bell...?%K Is it because of the bell...?
+It disturbs me.%K%NThe bell...?%K Is it because of the bell...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -659,7 +659,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 突然、沙紀は踵を返した。%K%N来た道を引き返そうとする。%K%P
-Suddenly, Saki turns around. She's trying to head back the way she came.
+Suddenly, Saki turns around.%K%NShe's trying to head back the way she came.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -779,7 +779,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 まるでスローモーションだった。%K%Nゆっくりと、%T030ゆっくりと宙に弧を描いていく遙の身体。%K%P
-It all happens as if it's in slow motion. Haruka's body slowly, slowly draws an arc in midair.
+It all happens as if it's in slow motion.%K%NHaruka's body slowly,%T030 slowly draws an arc in midair.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -849,7 +849,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 嘘だと思った。%K%Nきっとこれは何かの間違いだと……。%Kこんな出来事は信じることが出来なかった。%K%P
-This isn't happening. This has got to be some kind of mistake...%K%PI refuse to believe that this is reality.
+This isn't happening.%K%NThis has got to be some kind of mistake...%K I refuse to believe that this is reality.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1004,7 +1004,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 オレは沙紀を無視して、ドライバーにそう告げた。%K%Nドライバーはうなずいて手を貸してくれた。%K%N
-I ignore Saki and ask the driver this. The driver nods and lends me a hand.
+I ignore Saki and ask the driver this.%K%NThe driver nods and lends me a hand.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1194,7 +1194,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 あぁ……何故だ！%K%N何故こうなってしまうんだ！%K%N
-Fuck... Why!? Why did it have to turn out this way...
+Fuck... Why!?%K Why did it have to turn out this way...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1339,7 +1339,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ああ、時間ってやつは何て残酷なんだろう……。%K%Nこんなにも無情に過ぎ去って行くなんて……。%K%P
-Time is such a harsh mistress... It passes away heartlessly without sympathy...
+Time is such a harsh mistress...%K%NIt passes away heartlessly without sympathy...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1354,7 +1354,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 さっきまで元気だった遙の手……。%K%Nさっきまで笑っていた遙の手……。%Kさっきまでオレを%N見ていた遙の手……。%K%P
-Haruka, who was energetic just a few hours ago... Haruka, who was smiling just hours ago... Haruka, who was looking at me just a few hours ago...
+Haruka, who was energetic just a few hours ago...%K Haruka, who was smiling just hours ago...%K Haruka, who was looking at me just a few hours ago...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1384,7 +1384,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙の手を握った。%K強く、%W強く、%W何よりも強く。%K%Nオレの存在がわかるように……。%K%P
-I grasp Haruka's hand.%K I grasp it strongly, stronger than ever before, hoping that she'll notice my existence...
+I grasp Haruka's hand.%K%NI grasp it strongly, stronger than ever before, hoping that she'll notice my existence...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1509,7 +1509,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 な……何故だ。%K%N……何で遙があの鈴を！！%K%P
-Wh... Why? ... Why does Haruka have that bell?!
+Wh... Why...?%K%NWhy does Haruka have that bell?!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1544,7 +1544,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 涙が、あとからあとから、溢れ出してくる。%K%N止まらない。%K止めたくもなかった。%K%P
-The tears pour out of me one after another. I can't stop. I don't want them to stop.
+The tears pour out of me one after another.%K I can't stop.%K I don't want them to stop.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

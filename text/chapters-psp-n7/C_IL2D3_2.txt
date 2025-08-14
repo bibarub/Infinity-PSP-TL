@@ -44,7 +44,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 （杜紀司祭%T030──ときつかさまつり、%T015か？）%K%P
-((杜紀司) Festival ―The 「Tokitsukasa」 Festival, huh?)
+((杜紀司) Festival―The 「Tokitsukasa」 Festival, huh?)
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -59,7 +59,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 すると突然！%K%P
-All of the sudden!
+All of a sudden!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -104,7 +104,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「ちょっとちょっとぉ？　『殺られたぁ〜』とか言ってよぉ」%K%P
-Hey, hey? This is the part where you say 'I've been killed!'
+Hey, hey? This is the part where you say 『I've been killed!』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -169,12 +169,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『ボクのなかに『死』は無い』%K%P
-「I have no 'death' in me.」
+「I have no 『death』 in me.」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 『だからボクは『死』なない』%K%P
-「That's why I won't 'die'.」
+「That's why I won't 『die』.」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -294,7 +294,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『先生』って、いづみさんのこと？」%K%P
-When you say 'teacher', are you thinking of Izumi-san?
+When you say 『teacher』, are you thinking of Izumi-san?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -489,7 +489,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『前にも』って言った」%K%P
-You said 'last time'.
+You said 『last time』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -499,7 +499,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「オレはただ『まゆ毛ボーン』って言っただけだ」%K%P
-What I said was 'Lash Lines'.
+What I said was 『Lash Lines』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -519,7 +519,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「そうだよ。少なくともオレにはそう見えた」%K%P
-That's right. At the very least, that's what it seems like to me. That's why I nicknamed it 'Lash Lines'.
+That's right. At the very least, that's what it seems like to me. That's why I nicknamed it 『Lash Lines』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -534,7 +534,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「だから、今日からこの猫の名前は『ボンちゃん』だ」%K%P
-Therefore, from today onwards, this cat's name shall be 'Lashy'!
+Therefore, from today onwards, this cat's name shall be 『Lashy』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -554,7 +554,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『ニンニンなんとか』っていう、あれのことか？」%K%P
-'Nin Nin Whatever', or something like that?
+『Nin Nin Whatever』, or something like that?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -599,7 +599,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『シュレッド』くん♪」%K%P
-'Schrödy'♪
+『Schrödy』♪
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -614,7 +614,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『カンタンアイランド』っていうマンガに、そういう名前の猫が出て来るんだって」%K%P
-It's the name of the cat in the manga 'Vain Island'.
+It's the name of the cat in the manga 『Vain Island』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -649,12 +649,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「そのマンガに『シュレディンガーの猫』って話が、出て来るんじゃないのか？」%K%P
-Does that manga feature 'Schrödinger's cat'?
+Does that manga feature 『Schrödinger's cat』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「それで、登場する猫の名前がシュレッド……」%K%P
-After all, it has a cat in it named 'Schrödy'...
+After all, it has a cat in it named 『Schrödy』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -669,7 +669,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「くるみちゃんの話によると、そのマンガのテーマが『シュレディンガーの猫』なんだって」%K%P
-According to Kurumi-chan, the theme of that manga is 'Schrödinger's cat'.
+According to Kurumi-chan, the theme of that manga is 『Schrödinger's cat』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -679,7 +679,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「面白そう、って……じゃあ優夏、知ってるのか！？　『シュレディンガーの猫』が、どんな話なのか！？」%K%P
-'Interesting'... Then you know what it is!? What's 'Schrödinger's cat'!?
+『Interesting』... Then you know what it is!? What's 『Schrödinger's cat』!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -699,7 +699,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『カンタンアイランド』は知ってるのに『シュレディンガーの猫』は知らないんだ？」%K%P
-Even though you know what 'Vain Island' is, you don't know what 'Schrödinger's cat' is?
+Even though you know what 『Vain Island』 is, you don't know what 『Schrödinger's cat』 is?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -714,7 +714,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「だからぁ！　『シュレディンガーの猫』の話だよ！！」%K%P
-About 'Schrödinger's cat', of course!!
+About 『Schrödinger's cat』, of course!!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -814,7 +814,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「で？　『シュレディンガーの猫』って、なんなんだ？」%K%P
-So? What's 'Schrödinger's cat'?
+So? What's 『Schrödinger's cat』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -924,7 +924,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「でぇ、この物理学者の作った話が『シュレディンガーの猫』ってわけ」%K%P
-And so, it was he who came up with the story of 'Schrödinger's cat'.
+And so, it was he who came up with the story of 『Schrödinger's cat』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -934,7 +934,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『もしこうだったら？』って疑問を示すことが、この話の目的だから」%K%P
-Its purpose is to propose a 'what if?' problem.
+Its purpose is to propose a 『what if?』 problem.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1049,7 +1049,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「検出ロボット『信くん１号』が、それを感知して……」%K%P
-The detection robot―let's call him 'Beli-kun Unit 1'―perceives the particles...
+The detection robot―let's call him 『Beli-kun Unit 1』―perceives the particles...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1084,7 +1084,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「う〜ん……でもそれって結局は『α粒子が出ると猫が死ぬ』って、ただそれだけのことなんじゃないのか？」%K%P
-Hmm... but in the end, isn't all that this shows is 'When the α particles are released, the cat dies'?
+Hmm... but in the end, isn't all that this shows is 『When the α particles are released, the cat dies』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1164,7 +1164,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「つまり、放射性物質から『いつα粒子が出るのか？』……それを予測することができれば、猫の生死もわかるんじゃないかな？」%K%P
-In other words 'When did the radioactive material emit α particles?'... If I can predict that, then I could also tell the cat's life or death status, couldn't I?
+In other words 『When did the radioactive material emit α particles?』... If I can predict that, then I could also tell the cat's life or death status, couldn't I?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1279,7 +1279,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「観測する前のα粒子は、放出された状態と放出されてない状態が、その瞬間、ともに『共存』してるってわけ」%K%P
-In conclusion, in that instant before they are observed, the state where the α particles were emitted and the state where they weren't emitted are 'coexisting' together.
+In conclusion, in that instant before they are observed, the state where the α particles were emitted and the state where they weren't emitted are 『coexisting』 together.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1294,7 +1294,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「生きてる状態と死んでる状態が、その瞬間、ともに『共存』してるってことになるのよぉ」%K%P
-In that instant, it's been decided that the state where the cat is alive and the state where the cat is dead are 'coexisting' together.
+In that instant, it's been decided that the state where the cat is alive and the state where the cat is dead are 『coexisting』 together.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1314,7 +1314,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「これが『シュレディンガーの猫』っていうお話」%K%P
-This is the story of 'Schrödinger's cat'.
+This is the story of 『Schrödinger's cat』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1399,7 +1399,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「箱の中には『生きてるか死んでるかわからない猫』が入ってる……いいな？」%K%P
-In the box is 'A cat that I don't know if it's alive or dead'... Got it?
+In the box is 『A cat that I don't know if it's alive or dead』... Got it?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1459,7 +1459,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「半分は生きてた、なんてことはあり得ない。%N%W『%W完%W全%Wに%W』%W死んでたんだ」%K%P
-There was no 50％ chance that it was alive. It was 'completely' dead.'
+There was no 50％ chance that it was alive. It was 『completely』 dead.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1504,12 +1504,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『変わった』って言うよりも『決まった』って言った方が、正しいかな？」%K%P
-Rather than 'changed', it would be more accurate to say 'decided'.
+Rather than 『changed』, it would be more accurate to say 『decided』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「３時５１分──誠は『過去を決めた』のよ」%K%P
-At 3:51 P.M.―you 'decided the past'.
+At 3:51 P.M.―you 『decided the past』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1624,7 +1624,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『──誠は『過去を決めた』のよ』%K%P
-「―You 'decided the past'.」
+「―You 『decided the past』.」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1664,7 +1664,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 さらに『第３の特徴』は、無限ループの原因とも関っているのだと言う。%K%P
-She also said that 'The Third Trait' was related to the cause of the infinite loop.
+She also said that 『The Third Trait』 was related to the cause of the infinite loop.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

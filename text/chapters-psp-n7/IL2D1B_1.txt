@@ -134,12 +134,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「私が『キスして……』って言ったらどうする？」%K%P
-If I were to say 'Kiss me...', what would you do?
+If I were to say 『Kiss me...』, what would you do?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………………………………………。%N………………………………………………。%N………………………………………………。%N……%W%W%Wはい？%K%P
-... ... ... ... What?
+...%N...%N...%N... What?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -189,12 +189,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 笑ってそう言ってくれるって%K%N……そんなもんだとばかり考えていた。%K%P
-She'd laugh as she said it. ... But that's merely what I'd hoped she say, not what she's actually doing.
+She'd laugh as she said it.%K%N... But that's merely what I'd hoped she say, not what she's actually doing.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 だって、オレにはいづみさんっていう人が%K%N……オレのこと好きだって言ってくれた人が%N……いるんだから！%K%P
-After all, there's Izumi-san. ... I already have someone... who told me they love me!
+After all, there's Izumi-san.%K%N... I already have someone... who told me they love me!
 CN PLACEHOLDER
 RU PLACEHOLDER
 

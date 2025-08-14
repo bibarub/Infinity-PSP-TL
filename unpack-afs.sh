@@ -92,6 +92,16 @@ cp ${GAME}_$PKG/FONT00.FNT text/font/${GAME}/FONT00.FNT
 #		$DECOMPRESS ${GAME}_$PKG/$f{.T2P,.GIM} || exit 1
 #done
 
+if [ "$GAME" = "n7" ]; then
+	echo "Unpacking n7_chr"
+	cp $RES_DIR/chr.afs $WORK_DIR/chr.afs && unpack_afs chr || exit 1
+	echo "Decompressing all sprites"
+	for i in ${GAME}_chr/*.BIP; do
+		f=$(basename $i .BIP)
+		$DECOMPRESS ${GAME}_chr/$f{.BIP,.R11} || exit 1
+	done
+fi
+
 cd text/font/${GAME}
 python3 ../../../py-src/extract_font.py pnghalf || exit 1
 cd ../../..

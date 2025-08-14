@@ -49,12 +49,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 「……あっ！　それなら、こういうのはどう？」%K%N
-「"... Oh! If that's the case, then I've got an idea!」
+「... Oh! If that's the case, then I've got an idea!」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 「明日、ここにいる７人みんなで、さっきのプールに行ってみるっていうのは？」%K%N%N
-「"Why don't we try going to the pool tomorrow?」
+「Why don't we try going to the pool tomorrow?」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -64,7 +64,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -229,7 +229,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

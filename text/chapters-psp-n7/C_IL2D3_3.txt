@@ -149,7 +149,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -234,7 +234,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -409,7 +409,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「確かおとといの、夜だったかしら？　『姫ヶ浜で拾ったの』って言って……」%K%P
-It was the night of the 4th. Kurumi said she 'picked it up on Princess Beach'...
+It was the night of the 4th. Kurumi said she 『picked it up on Princess Beach』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -949,7 +949,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

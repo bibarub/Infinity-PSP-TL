@@ -384,7 +384,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「……まだ？　まだってどういうことだよ！？」%K%P
-... 'Yet'? What do you mean by 'yet'!?
+... 『Yet』? What do you mean by 『yet』!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -809,7 +809,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1014,7 +1014,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『だまそうと思ってた』……そう言ったのね？」%K%P
-'Planned to deceive you'... He said that?
+『Planned to deceive you』... He said that?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1074,12 +1074,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『だまそうと思ってたことは……%N事実だけど……』」%K%P
-'It's a fact that I was planning to try to deceive you in the future... but...'
+『It's a fact that I was planning to try to deceive you in the future... but...』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『……まだ……実行には移してない』──そう言ってたよ」%K%P
-'... I still... haven't gotten around to executing it yet...'
+『... I still... haven't gotten around to executing it yet...』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1239,7 +1239,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『１日に決まってるでしょ！』って……そう言ったわ」%K%P
-'Today's the 1st, duh!'... That's what she said.
+『Today's the 1st, duh!』... That's what she said.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1554,7 +1554,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

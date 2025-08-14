@@ -964,7 +964,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 あの火の中に取り残されているのは…………%K%N……きっと、私……。%K%P
-The one left behind in that fire...%K ... was definitely me...
+The one left behind in that fire...%K%N... was definitely me...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1289,7 +1289,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 （それは……私じゃなくて、誠なんだよ！！）%K%P
-(It's not myself....it's Makoto!!)
+(It's not myself... it's Makoto!!)
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1649,7 +1649,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『「自分の不死を解いてくれ」、と』%K%P
-「'Take away my immortality'.」
+「『Take away my immortality』.」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1874,7 +1874,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 醒めない%W…%W…%T030夢………………。%K%P
-This is a dream%T030...%W that cannot be woken from....
+This is a dream%T030...%W that cannot be woken from...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

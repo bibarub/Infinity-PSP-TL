@@ -424,7 +424,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「まんまるお月様は、ひとりぼっちで淋しくて、夜の闇の中で泣きました。%Nしくしく…%W%W%Wしくしく…%W%W%Wと……」%K%P
-Because the moon was all alone, it was lonely, and would cry during the night. 'Sob, sob... sob, sob'...
+Because the moon was all alone, it was lonely, and would cry during the night. 『Sob, sob... sob, sob』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -604,7 +604,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「くるみが勝手に見せたいって、思っただけだから……」%K%P
-All you have to do is think 'Kurumi was selfish for wanting to show it to me'...
+All you have to do is think 『Kurumi was selfish for wanting to show it to me』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

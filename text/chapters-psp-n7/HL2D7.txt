@@ -204,7 +204,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -229,7 +229,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -329,7 +329,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみさんは、遙をまっすぐに見つめていた。%K%Nその瞳が、潤んだ涙で揺れている。%K%N
-Izumi-san looks straight at Haruka. Her eyes are cloudy with tears.
+Izumi-san looks straight at Haruka.%K%NHer eyes are cloudy with tears.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

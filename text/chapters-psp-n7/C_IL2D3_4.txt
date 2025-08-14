@@ -209,7 +209,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『こんなのんびりとかまえてて、ほんとにいいのかな？』って」%K%P
-'Is it really all right for us to stay this carefree?'
+『Is it really all right for us to stay this carefree?』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -229,7 +229,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「一方では、そうは思わない自分もいた……」%K%P
-On the other hand, there's also a 'me' who doesn't think that way...
+On the other hand, there's also a 『me』 who doesn't think that way...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -454,7 +454,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「知ってると言えば、知ってることに、なるのかな？」%K%P
-I didn't so much 'know' it as much as I 'learned' about it.
+I didn't so much 『know』 it as much as I 『learned』 about it.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -479,7 +479,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『どんなふう』って……ひとことじゃ言えないけど……」%K%P
-'How'... That's a bit difficult to summarize...
+『How』... That's a bit difficult to summarize...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -489,12 +489,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「ただ……？」%K%P
-'Just'...?
+『Just』...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『過去を決めた』」%K%P
-'Deciding the past'.
+『Deciding the past』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -514,7 +514,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「要するにそれは──観察者が『過去を決めた』ことになるんだ、って……」%K%P
-In short, it's arranged so that the observer 'decides the past'...
+In short, it's arranged so that the observer 『decides the past』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -564,7 +564,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「フタを開けたときの猫は、観察者が『生きてて欲しい』と願えば生きてるし『死んでて欲しい』と願えば死んでしまっている」%K%P
-When the lid is opened, the cat is alive if the observer wishes 'I hope it's alive', but is dead if the observer wishes 'I hope it's dead'.
+When the lid is opened, the cat is alive if the observer wishes 『I hope it's alive』, but is dead if the observer wishes 『I hope it's dead』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -579,17 +579,17 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「この場合の『意思』とは、ある行為を発生させるための単純な『動機』のこと」%K%P
-In this case 'intention' refers to a simple 'motive' in order to produce a certain act.
+In this case 『intention』 refers to a simple 『motive』 in order to produce a certain act.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『猫の生死を確かめたい』だから『フタを開きたい』……」%K%P
-'I want to confirm the cat's life or death status', so 'I want to open the lid'...
+『I want to confirm the cat's life or death status』, so 『I want to open the lid』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「そう『思うこと』……それ自体を指してるの」%K%P
-It refers to the very fact that you 'think' so.
+It refers to the very fact that you 『think』 so.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -694,7 +694,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「けれど……ある日突然、その異変は起こったの」%K%P
-But... one day, all of the sudden, an unusual event occurred.
+But... one day, all of a sudden, an unusual event occurred.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -724,7 +724,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『自分達の選択した治療法が功を奏したのだろう』……そう思って喜んでいたの」%K%P
-'The treatments we selected probably succeeded.'... They delighted themselves with thoughts like that.
+『The treatments we selected probably succeeded.』... They delighted themselves with thoughts like that.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -774,7 +774,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「まさか……%T030『不死が伝染』……%T030したから？」%K%P
-It couldn't be... the 'Immortality Contagion'... could it?
+It couldn't be... the 『Immortality Contagion』... could it?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -784,7 +784,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「そこから『不死が伝染』して、あっと言う間に病院中に広まっていった……？」%K%P
-From there, the 'Immortality Contagion' spread around the hospital in the blink of an eye...?
+From there, the 『Immortality Contagion』 spread around the hospital in the blink of an eye...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -839,7 +839,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「結局、キャビン博士はひとりで『不死が伝染』するという現象──ＣＵＲＥの原因を、究明することにしたの」%K%P
-In the end, Dr. Cabin decided to investigate the origin of 'Cure'―the phenomenon known as the 'Immortality Contagion'―all alone.
+In the end, Dr. Cabin decided to investigate the origin of 『Cure』―the phenomenon known as the 『Immortality Contagion』―all alone.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -939,7 +939,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「そして、トム少年の場合には『不死を伝染させること』……それが最初の嘘、妄想だったの」%K%P
-And in Tom's case, it was 'I can infect others with immortality'... That was the first lie, his delusion.
+And in Tom's case, it was 『I can infect others with immortality』... That was the first lie, his delusion.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -949,7 +949,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「まあ、本当に不死身になったのかどうかはわからないけど……とにかく『病気が完治した』ということだけは、確かな事実だから」%K%P
-Well, we don't know whether they really became immortal or not... In any case, the only fact we can say for sure is that 'their illnesses were cured'.
+Well, we don't know whether they really became immortal or not... In any case, the only fact we can say for sure is that 『their illnesses were cured』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -974,12 +974,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「キュレイには、フランス語の『聖職者』とか『司祭』とか、そういう意味が込められていたの」%K%P
-In French, the word 'curé' refers to a 'curate', or a 'senior parish priest'.
+In French, the word 『curé』 refers to a 『curate』, or a 『senior parish priest』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「じゃあ、キュレイシンドロームの第３の特徴は……」%K%P
-So that's why he used the French word 'curé' instead of the English word 'cure'... Wait, then The Third Trait of Curé Syndrome is...
+So that's why he used the French word 『curé』 instead of the English word 『cure』... Wait, then The Third Trait of Curé Syndrome is...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

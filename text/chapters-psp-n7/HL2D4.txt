@@ -59,7 +59,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -214,7 +214,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「えっ？　ひいてるって……%W%W%W何が？」%K%P
-Huh? 'Got one'... what do you mean?
+Huh? 『Got one』... what do you mean?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -429,7 +429,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

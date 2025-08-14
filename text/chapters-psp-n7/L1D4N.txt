@@ -49,12 +49,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 （遙と沙紀──あの２人の過去に、いったい何があったと言うのだ？）%K%P
-(Haruka and Saki― What exactly is their history?)
+(Haruka and Saki―What exactly is their history?)
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 （『鈴』……。やはり遙が言っていた『鈴』とは、あの『鈴』のことなのだろうか？）%K%P
-(「Bell」... So was the 「bell」 Haruka mentioned the same as that one'?)
+(「Bell」... So was the 「bell」 Haruka mentioned the same as that one?)
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -89,7 +89,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「嘘！　嘘！　返して！　あの『鈴』返して！」%K%P
-You're lying! You're lying! Give it back! Give me back that 'bell'!
+You're lying! You're lying! Give it back! Give me back that 『bell』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -629,12 +629,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「ここって、まさかあの……神社？」%K%P
-By 'here', you can't mean... that shrine?
+By 『here』, you can't mean... that shrine?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「そう。いづみさんが教えてくれた、例の『司紀の杜神社』だ」%K%P
-Right. It's the 'Shiki no Mori Shrine' Izumi-san told us about.
+Right. It's the 『Shiki no Mori Shrine』 Izumi-san told us about.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -789,7 +789,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1594,7 +1594,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『司紀杜』%K──札にはそう書かれていた。%K%P
-「Shiki no Mori」 ―That's what's written on it.
+「Shiki no Mori」―That's what's written on it.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1779,7 +1779,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「えへっ♪じゃないでしょ！？%Nさんざん心配かけてぇ！」%K%P
-Don't just go 'eheh♪'! I was really worried about you!
+Don't just go 『eheh♪』! I was really worried about you!
 CN PLACEHOLDER
 RU PLACEHOLDER
 

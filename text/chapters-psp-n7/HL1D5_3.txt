@@ -84,7 +84,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 そして遙は、自分のことを誰かのコピーだと言う。%K%N心がないのだと言う。%K%P
-And then Haruka said that she was just somebody's copy. She said that she had no heart.
+And then Haruka said that she was just somebody's copy.%K%NShe said that she had no heart.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -259,7 +259,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙がゆっくりとオレの方に顔を向けた。%K%Nその表情には、何の感情も見えない。%K%P
-Haruka slowly turns her face towards me. There's not a single drop of emotion to be found in her expression.
+Haruka slowly turns her face towards me.%K%NThere's not a single drop of emotion to be found in her expression.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -929,7 +929,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

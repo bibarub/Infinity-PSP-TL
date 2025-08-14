@@ -174,7 +174,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『１歩も外に出ない』なんて不可能でしょ？　お店もあるんだし……」%K%P
-I can't just not 'take a single step outside', right? I have to go back to the shop...
+I can't just not 『take a single step outside』, right? I have to go back to the shop...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -509,7 +509,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「石原が『予知ができる』なんて、たわけたこと言ってるからさ……」%K%P
-To make you say foolish things like, 'I'm able to have premonitions' and all of that...
+To make you say foolish things like, 『I'm able to have premonitions』 and all of that...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -524,7 +524,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「例えばお前が『その車、バッテリーが上がってるから乗れないよ』と言った時は……」%K%P
-For example, there was that time where you said 'The car's battery is dead, so we can't use it'...
+For example, there was that time where you said 『The car's battery is dead, so we can't use it』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -534,17 +534,17 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「例えばお前が『夕飯はカレーでしょ？』と言った時には……」%K%P
-And remember when you asked 'Aren't we having curry tonight?'...
+And remember when you asked 『Aren't we having curry tonight?』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「例えばお前が『夕飯はシチューでしょ？』と言った時には……」%K%P
-And remember when you asked 'Aren't we having stew tonight?'...
+And remember when you asked 『Aren't we having stew tonight?』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「例えばお前が『夕飯は肉ジャガでしょ？』と言った時には……」%K%P
-And remember when you asked 'Aren't we having meat potatoes tonight?'...
+And remember when you asked 『Aren't we having meat potatoes tonight?』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -579,7 +579,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「……ゴメン？　……ゴメンだって？」%K%P
-... 'Sorry'? ... SORRY!?
+... 『Sorry』? ... SORRY!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -854,7 +854,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「優夏先生の最重要恋愛方程式%N──『覆水盆に返らず』」%K%P
-The Most Important Law of Professor Yuka's Love Formula: ―'It's no use crying over spilt milk.'
+The Most Important Law of Professor Yuka's Love Formula: 『It's no use crying over spilt milk.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 

@@ -9,7 +9,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『急がなければ！』──何かがオレを駆り立てていた。%K%P
-(I have to hurry!) ―I urge myself forwards.
+(I have to hurry!)―I urge myself forwards.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -304,7 +304,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみさんの姿が…………%K%N…………消えた。%K%P
-Izumi-san... ... disappears.
+Izumi-san...%K%N... disappears.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

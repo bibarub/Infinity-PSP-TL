@@ -244,7 +244,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙。%K%Nこの合宿で、オレは遙と知り合えた。%Kそれだけで十分だった。%K%P
-Haruka. This Camp is where Haruka and I met and got to know each other. That alone is enough.
+Haruka.%K This Camp is where Haruka and I met and got to know each other. That alone is enough.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -264,7 +264,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 普段の生活……。%K普段って何だ？%K%N何もない生活のことか？%K%N
-Ordinary lives... Just what is 「ordinary」? An empty life where nothing happens?
+Ordinary lives...%K Just what is 「ordinary」?%K%NAn empty life where nothing happens?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -819,7 +819,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 海に限らず……%K%Nプールに限らず……%K水道の蛇口からしたたる水滴に%N限らず……。%K%P
-Not just the ocean... Not just the pool... Not just the drops of water from the dripping faucet...
+Not just the ocean...%K%NNot just the pool...%K%NNot just the drops of water from the dripping faucet...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -874,7 +874,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -954,7 +954,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 上着を取ろうとする遙。%K%Nオレはその手を押さえた。%K%P
-Haruka tries to take the jacket off. I gently grasp her hand to stop her.
+Haruka tries to take the jacket off.%K%NI gently grasp her hand to stop her.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

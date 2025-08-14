@@ -69,7 +69,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 喉はカラカラに渇いてるし……。%K%Nまるで二日酔いの朝みたいだ。%K%P
-My parched throat begs for water... It feels like I'm waking up with a hangover.
+My parched throat begs for water...%K%NIt feels like I'm waking up with a hangover.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -254,7 +254,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 デパートの食料品売り場で『パパ〜♪』と言いながら、オレの太ももにぎゅっとしがみついてきた見ず知らずの幼い女の子に気づいたときのような……%K%Nそんな困惑した空気に似ている。%K
-It's almost like this one time at the grocery store when a little girl I didn't know tightly clinged to my leg while saying 「Daddy〜♪」...%K%PYeah, this situation feels the same.
+It's almost like this one time at the grocery store when a little girl I didn't know tightly clinged to my leg while saying 「Daddy〜♪」...%K%NYeah, this situation feels the same.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -409,7 +409,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 今彼女は確かにそう言った。%K%N『まこと』って……。%K%P
-She definitely said that just now. Saying 'Makoto' just like that...
+She definitely said that just now.%K%NSaying 『Makoto』 just like that...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -489,7 +489,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 そりゃ、いくらなんでも失礼だろ？%K%N昨日会ったばっかりだってえのに……。%K%P
-Isn't that really rude? We just met yesterday...
+Isn't that really rude?%K%NWe just met yesterday...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -529,7 +529,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ？？「ただの『夢』……だったってこと？」%K%P
-It was just a... 'dream'?
+It was just a... 『dream』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -729,7 +729,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……%N…………%N
-... ...
+...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -744,7 +744,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『誠』%K……今彼女は確かにそう言った。%K%N『まこと』って……。%K%P
-「Makoto」.%K She definitely said that just now.%K Like we're best friends, or something...
+「Makoto」.%K She definitely said that just now.%K%NLike we're best friends, or something...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

@@ -24,7 +24,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「私は『優夏』…『川島優夏』。何故だか知らない%Nけど、気がついたら『班長』とかいう厄介な役職に任命されてた」%K%P
-I'm 'Yuka'... 'Yuka Kawashima'. I really don't know why, but before I knew it, I became the 'leader' of this group.
+I'm 『Yuka』... 『Yuka Kawashima』. I really don't know why, but before I knew it, I became the 『leader』 of this group.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -149,7 +149,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -289,7 +289,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「正確な時刻や場所は覚えてない。そこにいたのが誰なのかもわからない……」%K%P
-I don't remember the exact time and location. And I don't know who that 'someone' was either...
+I don't remember the exact time and location. And I don't know who that 『someone』 was either...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -314,7 +314,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「まさかその手の平にあったのは……『鈴』？」%K%P
-It couldn't be that in that person's palm was... a 'bell'?
+It couldn't be that in that person's palm was... a 『bell』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -334,7 +334,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「い、いまさら？　いまさらって……何だよ？　どういうことなんだ、優夏！？」%K%P
-N-Now? What do you mean... 'now'? What does that mean!?
+N-Now? What do you mean... 『now』? What does that mean!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -384,12 +384,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『はるさめや　みさきのはてに　なりひびく　すずとともにや　ときはとかれん』」%K%P
-'The spring rain/ At the end of the cape/ Together with/ The echoing bell/ Will free you from time.'
+『The spring rain/ At the end of the cape/ Together with/ The echoing bell/ Will free you from time.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「その『ときはとかれん』のところ！」%K%P
-It's the 'Will free you from time' part!
+It's the 『Will free you from time』 part!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -409,7 +409,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『時』の流れから『解き』放たれて、別の時間へと飛ばされる……」%K%P
-To be 'set free' from the flow of 'time' and to be blown away to a different time...
+To be 『set free』 from the flow of 『time』 and to be blown away to a different time...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -709,7 +709,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『今後一切、この神社には、近寄らない』──そう誓ったのに……。%K%P
-「After this, with no exceptions, I won't approach this shrine...」 ―Even though I swore that...
+「After this, with no exceptions, I won't approach this shrine...」―Even though I swore that...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

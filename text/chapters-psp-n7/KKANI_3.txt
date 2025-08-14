@@ -99,7 +99,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「な、なにって……別に、僕が何しようと%N勝手だろ？」%K%P
-'What'? ... I'm allowed to do whatever I want, right?
+『What』? ... I'm allowed to do whatever I want, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -519,7 +519,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -609,7 +609,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

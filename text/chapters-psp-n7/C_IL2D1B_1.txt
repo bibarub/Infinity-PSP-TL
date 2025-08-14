@@ -204,7 +204,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「行くって……どこに？」%K%P
-'Going'... Where are we going?
+『Going』... Where are we going?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

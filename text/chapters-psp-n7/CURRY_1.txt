@@ -399,7 +399,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 みんなが口々に『カレー』とつぶやく。%K%P
-Everyone unanimously mutters the word 'curry'.
+Everyone unanimously mutters the word 「curry」.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -559,7 +559,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 みんなが口々に『シチュー』とつぶやく。%K%P
-Everyone unanimously mutters the word 'stew'.
+Everyone unanimously mutters the word 「stew」.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -724,7 +724,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 みんなが口々に『肉ジャガ』とつぶやく。%K%P
-Everyone unanimously mutters the words 'meat potato-stew'.
+Everyone unanimously mutters the words 「meat potato-stew」.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

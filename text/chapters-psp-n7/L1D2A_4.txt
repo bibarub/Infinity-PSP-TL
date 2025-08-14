@@ -479,12 +479,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『絶望的な夢』%K──何だか少し気にかかる。%K%P
-(A hopeless dream.) I'm a little worried for some reason.
+(A hopeless dream.)%K I'm a little worried for some reason.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 『だけど確か』%K──だけど確か%W%W……その後優夏は何て言おうとしたんだろう？%K%P
-「But I do know-」 ―「But I do know」... What was Yuka going to say after that?
+「But I do know-」%K 「But I do know」... What was Yuka going to say after that?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

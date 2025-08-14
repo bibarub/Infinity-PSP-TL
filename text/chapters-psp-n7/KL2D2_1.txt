@@ -186,7 +186,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「予知能力？　予知能力って……あのプレコグニションのこと？」%K%P
-The power of premonitions? By the 'power of premonitions'... are you talking about precognition?
+The power of premonitions? By the 『power of premonitions』... are you talking about precognition?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -306,12 +306,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『そして優夏は、くるみの手にしたマグカップを指差し、下らない回文を作るだろう』%K%P
-「And then Yuka will point to a mug in your hand, and make a dumb joke that ends with the phrase 'Kurumilk'.」
+「And then Yuka will point to a mug in your hand, and make a dumb joke that ends with the phrase 『Kurumilk』.」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 『さらにその後優夏は『新鮮なトロが食べたい』と言い出すだろう』%K%P
-「After that, Yuka will say 'I want to eat fresh toro.'」
+「After that, Yuka will say 『I want to eat fresh toro.』」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -326,7 +326,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『優夏が『トロ』のことを言い出しても、くるみは絶対に『釣りに行こう』なんて言ってはいけない！』%K%P
-「If I'm right, then when Yuka talks about 'toro', you must not say 'let's go fishing!'」
+「If I'm right, then when Yuka talks about 『toro』, you must not say 『let's go fishing!』」
 CN PLACEHOLDER
 RU PLACEHOLDER
 

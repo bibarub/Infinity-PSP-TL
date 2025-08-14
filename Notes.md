@@ -39,11 +39,6 @@ Special Sequences
 BOOT.BIN
 ============
 
-To disasm BOOT.BIN with prxtool:
-`tools/prxtool -n tools/psp-NID-Prometheus.xml -o boot-disasm.txt -w workdir/BOOT.BIN`
-
-`readelf -a BOOT.BIN` info about elf structure
-
 Text occurrences:
 
 Don't forget to add/subtract A0 to table values, which is an elf header size

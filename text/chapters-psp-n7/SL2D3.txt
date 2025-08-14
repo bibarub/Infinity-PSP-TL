@@ -44,7 +44,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「遙。今日は『私、いい』なんて言わせないからね。班長命令なんだから」%K%P
-Haruka, you can't just say 'I'll pass' today. That'd be going against the group leader's orders.
+Haruka, you can't just say 『I'll pass』 today. That'd be going against the group leader's orders.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -534,7 +534,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

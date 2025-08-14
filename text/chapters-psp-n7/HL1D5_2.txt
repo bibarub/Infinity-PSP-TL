@@ -69,7 +69,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 痛たたたた……。%K%Nモロに額をぶつけた。%K%P
-Owww... We bump our foreheads into each other.
+Owww...%K%NWe bump our foreheads into each other.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -104,7 +104,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「『眠り姫』……読んだことある？」%K%P
-Have you ever read... 'Sleeping Beauty'?
+Have you ever read... 『Sleeping Beauty』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -119,7 +119,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「グリムは『いばら姫』──『眠り姫』はぺロー」%K%P
-The Grimm Brothers' story is 'Briar Rose'―'Sleeping Beauty' was written by Perrault.
+The Grimm Brothers' story is 『Briar Rose』―『Sleeping Beauty』 was written by Perrault.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -309,7 +309,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『眠り姫』では、お姫様の方から王子様に%Nキスしちゃダメなんだ」%K%P
-It was the prince that kissed the princess in 'Sleeping Beauty', not the other way around.
+It was the prince that kissed the princess in 『Sleeping Beauty』, not the other way around.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

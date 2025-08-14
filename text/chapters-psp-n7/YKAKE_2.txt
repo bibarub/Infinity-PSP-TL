@@ -254,7 +254,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 そのとたん、オレは唐突に、ある事実に%N気がついてしまった。%K%P
-All of the sudden, I realize something.
+All of a sudden, I realize something.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -449,7 +449,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 そのとたん、オレは唐突に、ある事実に%N気がついてしまった。%K%P
-All of the sudden, I realize something.
+All of a sudden, I realize something.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -739,7 +739,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

@@ -69,7 +69,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「どうしたの、って……ええとぉ……」%K%P
-'What about it'... umm...
+『What about it』... umm...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -234,7 +234,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「嘘じゃない！　言っただろ？　オレは『沙紀だけを信じ続ける』って……」%K%P
-I'm not lying! Didn't I tell you? I said that 'I'll continue to only trust you'...
+I'm not lying! Didn't I tell you? I said that 『I'll continue to only trust you』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

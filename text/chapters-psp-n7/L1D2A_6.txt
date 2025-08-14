@@ -259,7 +259,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「ひと目見ただけで『これじゃ絶対動きっこない』%Nって、そう思ったんだよね」%K%P
-Just by taking one look at it, I figured 'there's no way this thing will move'.
+Just by taking one look at it, I figured 『there's no way this thing will move』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -279,7 +279,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「偶然、って……」%K%P
-A 'coincidence', you say...
+A 『coincidence』, you say...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -364,7 +364,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「おい、石原ぁ〜。まさか、また『予知』なんてバカなことを言い出すんじゃないだろうねぇ」%K%P
-Hey, Ishihara. Don't tell me you're going to start spewing bullshit about how it was a 'premonition' again.
+Hey, Ishihara. Don't tell me you're going to start spewing bullshit about how it was a 『premonition』 again.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -379,7 +379,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「この車の状態を見れば、『動きっこない』って思うのは当然のことだよ」%K%P
-Just by looking at this car's state, it's natural to think that 'there's no way this thing will move'.
+Just by looking at this car's state, it's natural to think that 『there's no way this thing will move』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -464,7 +464,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「今度、って……」%K%P
-'Next time'...
+『Next time』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -484,7 +484,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 どうして『バッテリーが上がっちゃってるんじゃ？』なんて言葉が、口をついて出たのだろう？%K%P
-Why did the words 'The battery's dead, isn't it?' come out of my mouth?
+Why did the words 『The battery's dead, isn't it?』 come out of my mouth?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -614,12 +614,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「せっかく姉妹水入らずの生活をしてたのに、私達が押しかけて来ちゃって迷惑じゃないか？って……そう聞いたの」%K%P
-I asked her 'Aren't we imposing too much on you and your sister?'
+I asked her 『Aren't we imposing too much on you and your sister?』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「だからくるみは『全然嬉しいよ』って……」%K%P
-That's why Kurumi said she was 'completely happy'...
+That's why Kurumi said she was 『completely happy』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

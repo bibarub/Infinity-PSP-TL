@@ -164,7 +164,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『誠、誓ってくれたでしょ？%N今後一切、あそこには近寄らない、って……』%K%P
-「You swore it, didn't you? 'I'll never again go back to the shrine'...」
+「You swore it, didn't you? 『I'll never again go back to the shrine』...」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -344,7 +344,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ──入るべきか？%K　──とどまるべきか？%K%P
-―Should I go in? ―Should I stop here?
+―Should I go in?%K ―Should I stop here?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

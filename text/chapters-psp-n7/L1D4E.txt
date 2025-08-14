@@ -1164,7 +1164,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『やけたいしはらはシイタケや』……ぎゃくからよんれも『やケタイシはらはしいたけや』」%K%P
-Whaa doo yuu call a burnt Ishihara? An 'Ishiitakehara'!
+Whaa doo yuu call a burnt Ishihara? An 『Ishiitakehara』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1259,7 +1259,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「だけど、これぞまさに『水もしたたるいい女』じゃないか？」%K%P
-But I guess you could say she's 'soaking up the beer', right? That's not much of a difference.
+But I guess you could say she's 『soaking up the beer』, right? That's not much of a difference.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1359,7 +1359,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「謝ってない……２回しか」%K%P
-Only apologizing twice... is hardly what you'd call 'countless'.
+Only apologizing twice... is hardly what you'd call 『countless』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1389,12 +1389,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「そうよ！　人間だったらそんなこと、故意にやったりしないのよ！」%K%P
-That's right! If you're a 'human', then you'd never do something like that on purpose!
+That's right! If you're a 『human』, then you'd never do something like that on purpose!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「クローンっていう人種は、どうやら違うみたいだけどね！」%K%P
-But somehow, it seems that 'clones' are different in that regard, aren't they!?
+But somehow, it seems that 『clones』 are different in that regard, aren't they!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1599,7 +1599,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 オレには、くるみの悲しみが痛いほどよく分かった。%K%Nこんな醜い言い争いに、耐えられるような子じゃないのだ、くるみは……。%K%P
-I understand Kurumi's torment so well that it almost hurts. Kurumi's the kind of kid who can't bear such an ugly argument like that...
+I understand Kurumi's torment so well that it almost hurts.%K%NKurumi's the kind of kid who can't bear such an ugly argument like that...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

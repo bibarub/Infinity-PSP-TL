@@ -404,7 +404,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「これで『１５−３０』かぁ……」%K%P
-With this, it's '15-30'...
+With this, it's 『15-30』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1284,7 +1284,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

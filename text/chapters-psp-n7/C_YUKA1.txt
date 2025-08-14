@@ -209,7 +209,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 まこと……。%K%Nまこと…………？%K%N無事だった………………の？%K%P
-Makoto...%K Makoto...?%K He's... all right?
+Makoto...%K%NMakoto...?%K%NHe's... all right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -249,7 +249,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 体の中に沁みてくる、誠の温もり。%K%N耳に聞こえてきそうな、鼓動の音。%K%P
-His warmth seeps into my body. My ears are filled with the sounds of our heartbeats.
+His warmth seeps into my body.%K%NMy ears are filled with the sounds of our heartbeats.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -324,7 +324,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 私はささやき続けた。%K%Nすぐ目の前にいる誠のことを確かめるために……。%K%P
-I continue to whisper this.%K I'm trying to confirm that he's right here, before my eyes...
+I continue to whisper this.%K%NI'm trying to confirm that he's right here, before my eyes...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -469,7 +469,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 あの夜の誓い……。%K%N誠はあの誓いを、守ってくれた……。%K%P
-The vow made that night...%K The vow Makoto made to protect me...
+The vow made that night...%K%NThe vow Makoto made to protect me...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -649,7 +649,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 思いっきりうろたえる誠。%K%N今にもボロを出しそうな危険な予感……。%K%P
-Makoto gets extremely flustered.%K It feels like everything could all fall apart at once...
+Makoto gets extremely flustered.%K%NIt feels like everything could all fall apart at once...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1014,7 +1014,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 今日は４月１日月曜日──誠の時計は正確だったのだ。%K%P
-Today is Monday, April 1st ―Makoto's watch was correct.
+Today is Monday, April 1st―Makoto's watch was correct.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1539,7 +1539,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「……ああ、だから石原『３０分ぐらい待った方がいい』って、そう言ってたのかぁ……」%K%P
-...Oh, so that's why you said 'it'd be best if we waited half an hour'...
+...Oh, so that's why you said 『it'd be best if we waited half an hour』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1689,7 +1689,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「『間違い』なんて言うからびっくりしちゃったよぉ」%K%P
-That was a little alarming when you said it was a 'mistake'.
+That was a little alarming when you said it was a 『mistake』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1984,7 +1984,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「私達は、いったい何を経験し、何を思ってきたの%Nか……」%K%P
-'Just what did we experience, and what are we thinking?'...
+『Just what did we experience, and what are we thinking?』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2074,7 +2074,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「私が今あげた３つの事実……１つ目と２つ目だけだったら、ただの『タイムスリップ』って言っちゃってもいいんだろうけど……」%K%P
-The three facts we know right now... If all we knew were #1 and #2, then it'd probably be all right just to say that it was time travel', but...
+The three facts we know right now... If all we knew were #1 and #2, then it'd probably be all right just to say that it was 『time travel』, but...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2114,17 +2114,17 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「ってことは、今日『４月１日月曜日』という日を、私達は３回経験してる筈じゃない？」%K%P
-Which means that this should be the third time we've experienced today, the day known as Monday, April 1st', correct?
+Which means that this should be the third time we've experienced today, the day known as 『Monday, April 1st』, correct?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『前回の４月１日』と『今日』と……」%K%P
-'The last April 1st' and 'today'...
+『The last April 1st』 and 『today』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「それから、あの夢の前にあったけど『忘れてしまっている４月１日』か……」%K%P
-And the 'forgotten April 1st' that happened before our dream...
+And the 『forgotten April 1st』 that happened before our dream...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2134,7 +2134,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「……誠は、その『忘れてしまっている４月１日』の%N前は、何日だったと思う？」%K%P
-...Makoto, what day do you think it was before that 'forgotten April 1st'?
+...Makoto, what day do you think it was before that 『forgotten April 1st』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2164,7 +2164,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「つまりね？　私が思ったのは、その『「忘れてしまっている４月１日」の前の日は、実は「６日」だったんじゃないかな？』ってことなの」%K%P
-I think that the day before the 'forgotten April 1st' was actually the '6th'.
+I think that the day before the 『forgotten April 1st』 was actually the 『6th』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2174,7 +2174,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「本当は、今日が何回目の『４月１日』なのかなんて%N私達にはわからない」%K%P
-Truthfully, we have no clue how many times we've been through today, 'April 1st'.
+Truthfully, we have no clue how many times we've been through today, 『April 1st』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2334,7 +2334,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 そんな世界……。%K%Nそんな将来……。%K%Nそんな、生き方……。%K%P
-That world...%K That future...%K That way of life...
+That world...%K%NThat future...%K%NThat way of life...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2384,7 +2384,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 違う……。%K%N違うよ……。%K%P
-It's different...%K It's different...
+It's different...%K%NIt's different...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2394,7 +2394,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 私達は同じ出来事を繰り返してなんていない！%K%N……繰り返していないんだよ！！！%K%P
-We didn't repeat the same event!%K ...We didn't repeat it!!!
+We didn't repeat the same event!%K%N...We didn't repeat it!!!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2589,12 +2589,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「いづみさんが前に言ってたじゃない。『沖の方が%N荒れてるから、漁船が出れない』って……」%K%P
-Izumi-san said it earlier didn't she? 'Because a storm's coming from the sea, the fishing boats can't go out'...
+Izumi-san said it earlier didn't she? 『Because a storm's coming from the sea, the fishing boats can't go out』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『熱帯低気圧の移動速度が遅いから、１週間ぐらいはダメかも』……そうも言ってた」%K%P
-'Because the migration velocity of the tropical cyclone is slow, it'll be like this for about a week'... She also said something like that.
+『Because the migration velocity of the tropical cyclone is slow, it'll be like this for about a week』... She also said something like that.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2659,7 +2659,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「時々、何かが起こる直前に予知まがいのことを体験することはあったけど……」%K%P
-At times, just before something happened, we would experience a 'premonition'...
+At times, just before something happened, we would experience a 『premonition』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2724,7 +2724,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「そしたら億彦くんの行動が変わって……最終的には遙が『朝倉』だって嘘をつくことになった……」%K%P
-Then Okuhiko-kun's actions changed... and finally, it was Haruka who lied that her name was 'Asakura'...
+Then Okuhiko-kun's actions changed... and finally, it was Haruka who lied that her name was 『Asakura』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2744,12 +2744,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『ブラジルでチョウが羽ばたくと、数週間後にテキサスで竜巻が起こる』──それがバタフライ効果」%K%P
-'Does the flap of a butterfly's wings in Brazil set off a tornado in Texas?' ―that's the butterfly effect.
+『Does the flap of a butterfly's wings in Brazil set off a tornado in Texas?』―that's the butterfly effect.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「要するに『小さな小さな微少な変化が、巨大な現象にまで影響を及ぼす』って意味なの」%K%P
-In short, it means 'A tiny little microscopic change could affect even an enormous phenomenon'.
+In short, it means 『A tiny little microscopic change could affect even an enormous phenomenon』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2854,7 +2854,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『約束は絶対に守ること』──優夏自身が、あの%N手紙に書いた言葉だ」%K%P
-'Promises must definitely be kept' ―that's what you wrote in your letter.
+『Promises must definitely be kept』―that's what you wrote in your letter.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2944,7 +2944,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「優夏……あの神社の裏で、言ったよな？%N『どうしても過去に戻りたかった』って……」%K%P
-Yuka... you said this behind the shrine, right? 'I wanted to go back to the past, no matter what'...
+Yuka... you said this behind the shrine, right? 『I wanted to go back to the past, no matter what』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2989,7 +2989,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「優夏！　おまえ『その前に』ってセリフがやたらと%N多いぞ！」%K%P
-Yuka! You've been saying 'but before that' way too many times!
+Yuka! You've been saying 『but before that』 way too many times!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2999,7 +2999,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「さっきテニスコートで聞いた……『みんなに真実を%N告げない理由』」%K%P
-Earlier, at the tennis court, I asked you... Why can't we tell the others the truth?'
+Earlier, at the tennis court, I asked you... 『Why can't we tell the others the truth?』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3129,12 +3129,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「その誰かの話には疑う余地が無い……そう誠は思った……さて、誠は次に何を考える？」%K%P
-'There's no room to doubt her story'...You think something along those lines... So then, what would you think next?
+『There's no room to doubt her story』... You think something along those lines... So then, what would you think next?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「……やっぱり、確かめに行くんじゃないか？　その話が本当かどうか……」%K%P
-... 'Shouldn't I go to confirm whether or not that story's true?'
+... 『Shouldn't I go to confirm whether or not that story's true?』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3174,7 +3174,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 無言になる誠………………。%K%Nやがて…………%K%P
-Makoto goes silent...%K But before long...
+Makoto goes silent...%K%NBut before long...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3264,7 +3264,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 まだ、頭の中は不安でいっぱい。%K%Nだけど……。%K%P
-My mind is still full of anxiety.%K However...
+My mind is still full of anxiety.%K%NHowever...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3344,7 +3344,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『すずとともにや　ときは　とかれん』──あの%N護符にも書いてあったことだし……」%K%P
-'The echoing bell/ Will free you from time' ―It was written on that talisman...
+『The echoing bell/ Will free you from time』―It was written on that talisman...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3454,7 +3454,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「それからしばらくの間は『ただの夢』だったんだって思って安心してた……」%K%P
-I felt relieved, and for a little while after that, I thought that 'it was just a dream'...
+I felt relieved, and for a little while after that, I thought that 『it was just a dream』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3629,7 +3629,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『すずとともにや　ときはとかれん』……ってことは鈴を持ってなかったら？」%K%P
-'The echoing bell/ Will free you from time'...so if you didn't have that bell...
+『The echoing bell/ Will free you from time』... so if you didn't have that bell...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3649,7 +3649,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『助かる』って言い方は、正しくないかもしれないけど……」%K%P
-Well, 'saved' might not be the best way to put it, but...
+Well, 『saved』 might not be the best way to put it, but...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3794,7 +3794,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「あの鈴は、私達にとって、最後の砦……って言うか、文字通り『命綱』なわけじゃない？」%K%P
-To us, those bells are our last fortress... They're literally our 'lifelines'.
+To us, those bells are our last fortress... They're literally our 『lifelines』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3804,7 +3804,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『もしも万が一、今度の４月６日に同じ出来事が%N起こったとしたら』」%K%P
-'If, by any chance, the same events occur on this April 6th'...
+『If, by any chance, the same events occur on this April 6th』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3814,7 +3814,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「その『万が一の時』に、私達が鈴を持ってなかったら……」%K%P
-If we don't have the bell at that 'by any chance' time...
+If we don't have the bell at that 『by any chance』 time...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3964,7 +3964,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「あった……って？　見つかったのか？　鈴？」%K%P
-'I... found it'? Did you find the bell?
+『I... found it』? Did you find the bell?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3979,7 +3979,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 冷たい光を放つ、金属製の表面。%K%N頂きに結ばれた、淡くくすんだ紅色のひも。%K%Nそれは間違いなく、あの鈴だった。%K%P
-Its metal surface emits a cold light.%K Tied to it is a light crimson string.%K This is definitely that bell.
+Its metal surface emits a cold light.%K%NTied to it is a light crimson string.%K%NThis is definitely that bell.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4014,7 +4014,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 鈴をかかげる誠。%K%N陽光を浴びて、キラリと鈴が光った。%K%P
-Makoto holds the bell up.%K Bathing in the sunlight, the bell shines.
+Makoto holds the bell up.%K%NBathing in the sunlight, the bell shines.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4029,7 +4029,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「ありがとうとか、サンキューとか、そういうのは%N無いの？」%K%P
-Aren't you going to give me a 'thank you' or something?
+Aren't you going to give me a 『thank you』 or something?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4109,7 +4109,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 けれど…………。%K%Nけれど……………………。%K%P
-But...%K But...
+But...%K%NBut...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4244,7 +4244,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「『朝倉』ですけど、責任者の方、いらっしゃい%Nます？」%K%P
-My name is 'Asakura'. Is the manager here?
+My name is 『Asakura』. Is the manager here?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4274,7 +4274,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「まさかぁ！　大学のゼミ合宿。あの林に囲まれた%N坂道を登って行った所にロッジがあって……」%K%P
-No way! I'm here for my college's 'Seminar Camp'. I'm staying at the lodge on top of the hill road surrounded by the forest...
+No way! I'm here for my college's 『Seminar Camp』. I'm staying at the lodge on top of the hill road surrounded by the forest...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4284,7 +4284,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 このまま、ピザの件を流してしまうつもりだった……。%K%Nが……%K%P
-I plan to keep talking like this to wash away the topic of the pizza...%K But...
+I plan to keep talking like this to wash away the topic of the pizza...%K%NBut...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4319,12 +4319,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「届けた！　くるみ、『朝倉』さんに届けたんだか%Nら！」%K%P
-It did too! Kurumi delivered it to an 'Asakura-san'!
+It did too! Kurumi delivered it to an 『Asakura-san』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「くるみ、絶対『朝倉』さんに届けたもん！」%K%P
-Kurumi did deliver it to 'Asakura-san'!
+Kurumi did deliver it to 『Asakura-san』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4579,7 +4579,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……奇妙な感じがした。%K%Nとても、奇妙な感じが。%K%P
-...This feels strange.%K This feels very strange.
+...This feels strange.%K%NThis feels very strange.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4664,7 +4664,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「怒りっぽいのは、お腹が減ってる証拠だ、って♪」%K%P
-'Anger is proof of an empty stomach'♪
+『Anger is proof of an empty stomach』♪
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4694,7 +4694,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 私は誠を睨み続けていた。%K%Nもちろん、余計な事を言わないように……。%K%P
-I glare at Makoto.%K Of course, it's to tell him to keep his mouth shut right now...
+I glare at Makoto.%K%NOf course, it's to tell him to keep his mouth shut right now...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4819,7 +4819,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……遅い。%K%Nいくらなんでも、遅すぎるんじゃ……？%K%P
-...They're late.%K This would be considered too late no matter what, wouldn't it...?
+...They're late.%K%NThis would be considered too late no matter what, wouldn't it...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -4859,7 +4859,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀は誠におんぶされている。%K%N２人はケガをしてる様子だった……。%K%P
-Saki is being carried on Makoto's back.%K The two of them are hurt...
+Saki is being carried on Makoto's back.%K%NThe two of them are hurt...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -5334,7 +5334,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 バッグの中を探る。%K%N確か、荷物の中にミニボトルを忍ばせてあったはず………。%K%P
-I search my bag.%K I'm sure that I hid a small bottle of beer in my luggage...
+I search my bag.%K%NI'm sure that I hid a small bottle of beer in my luggage...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -5344,7 +5344,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ややあって、目的のボトルが見つかった。%K%N勢いよくそれを取り出す。%K%P
-A short time later, I find the bottle.%K I forcefully pull it out.
+A short time later, I find the bottle.%K%NI forcefully pull it out.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

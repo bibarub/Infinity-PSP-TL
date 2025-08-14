@@ -19,7 +19,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「これって……%Nこの『ゼミ合宿』とかいうやつって、結局何を%N目的として実施されてるんだろう？」%K%P
-It's just... What exactly are we trying to achieve at this so-called 'Seminar Camp' here?
+It's just... What exactly are we trying to achieve at this so-called 『Seminar Camp』 here?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -29,7 +29,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「『各班員の親睦会を兼ねた』ってそう書かれてたじゃないか。つまり、これといった目的なんか無いってことだよ」%K%P
-It's 'an informal social gathering between each member of each group'. That's what was written, right? In short, we don't have a goal.
+It's 『an informal social gathering between each member of each group』. That's what was written, right? In short, we don't have a goal.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

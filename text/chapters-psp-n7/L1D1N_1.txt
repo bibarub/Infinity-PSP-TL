@@ -469,7 +469,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「さっきは確か、こんな事を言ってましたよね？%N『夜になるとこの店はレストランを兼ねた%Nバーになる』って……」%K%P
-You said this earlier, didn't you? 'When it's night time, the shop is both a restaurant and a bar.'...
+You said this earlier, didn't you? 『When it's night time, the shop is both a restaurant and a bar.』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -554,7 +554,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「『月屋』？」%K%P
-'Tsukiya'?
+『Tsukiya』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -604,7 +604,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「ああいうのを『虚飾』っていうのよ」%K%P
-All they have is what's called 'affectation'.
+All they have is what's called 『affectation』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

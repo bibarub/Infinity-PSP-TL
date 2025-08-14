@@ -44,7 +44,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「『誠くん』って言うんでしょ？」%K%P
-It's 'Makoto-kun', right?
+It's 『Makoto-kun』, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -154,7 +154,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「言っちゃったって……億彦くん、まさかあのこと言っちゃったの？」%K%P
-You let it out... Okuhiko-kun, you're not talking about 'that', are you?
+You let it out... Okuhiko-kun, you're not talking about 『that』, are you?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -214,7 +214,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「『敵をあざむくにはまず味方から』ってね」%K%P
-'In order to deceive your enemies, first deceive your allies.'
+『In order to deceive your enemies, first deceive your allies.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -234,7 +234,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「この『実験』の、協力者だよ！」%K%P
-You were to be our assistants for this 'experiment'!
+You were to be our assistants for this 『experiment』!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -259,7 +259,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「……先生って……なんでいづみさんが先生なんだよ」%K%P
-... 'Professor'... Why are you calling Izumi-san 'Professor'?
+... 『Professor』... Why are you calling Izumi-san 『Professor』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -309,7 +309,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

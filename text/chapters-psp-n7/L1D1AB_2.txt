@@ -179,7 +179,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ？？「でも、伝票には確かに『シーフードピザ』って書いてあるよ？」%K%P
-But the receipt definitely says you ordered a 'Seafood Pizza', didn't you?
+But the receipt definitely says you ordered a 『Seafood Pizza』, didn't you?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -364,7 +364,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「……思うんだけど、これ『１』じゃなくて『７』の間違いじゃないか？」%K%P
-... I don't think this is a '1', but a '7', right?
+... I don't think this is a 『1』, but a 『7』, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -604,7 +604,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「さっきまでって……」%K
-What do you mean, 'earlier'...?
+What do you mean, 『earlier』...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 

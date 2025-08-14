@@ -199,7 +199,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「なにニヤニヤしてるのよ！　まさか私にひと目惚れなんて言わないでしょうね！」%K%P
-Why the hell are you smirking!? Don't tell me it's some crap like 'love at first sight'!?
+Why the hell are you smirking!? Don't tell me it's some crap like 『love at first sight』!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -369,7 +369,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「避暑ったってまだ４月だぞ？」%K%P
-You're 'summering' even though it's still April?
+You're 『summering』 even though it's still April?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -424,7 +424,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 沙紀「まだって何よ！　これからどうにかする気なの？」%K%P
-What do you mean, 'yet'!? So are you gonna do something about that later?
+What do you mean, 『yet』!? So are you gonna do something about that later?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -579,7 +579,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

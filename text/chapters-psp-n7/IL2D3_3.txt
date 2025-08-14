@@ -444,12 +444,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 オレ　──　優夏%K%N
-Me - Yuka.
+Me ― Yuka.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙　　──　いづみさん%K%N
-Haruka - Izumi-san.
+Haruka ― Izumi-san.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -669,7 +669,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………………………………………。%N………………………………………………。%N………………………………………………。%N……%W%W%Wはい？%K%P
-... ... ... ... What?
+...%N...%N...%N... What?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -724,7 +724,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 だって、オレにはいづみさんっていう人が……%K%Nオレのこと好きだって言ってくれた人が……%Nいるんだから！%K%P
-After all, there's Izumi-san. ... I already have someone... who told me they love me!
+After all, there's Izumi-san.%K%N... I already have someone... who told me they love me!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -959,7 +959,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

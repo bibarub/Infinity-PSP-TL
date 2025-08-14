@@ -64,7 +64,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「優夏……あの神社の裏で、言ったよな？%N『どうしても過去に戻りたかった』って……」%K%P
-Yuka... you said this behind the shrine, right? 'I wanted to go back to the past, no matter what'...
+Yuka... you said this behind the shrine, right? 『I wanted to go back to the past, no matter what』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -109,7 +109,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「優夏！　おまえ『その前に』ってセリフがやたらと%N多いぞ！」%K%P
-Yuka! You've been saying 'but before that' way too many times!
+Yuka! You've been saying 『but before that』 way too many times!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -119,7 +119,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「さっきテニスコートで聞いた……『みんなに真実を告げない理由』……それだって、まだ答を教えてもらってないんだ」%K%P
-Earlier, at the tennis court, I asked you... 'Why can't we tell the others the truth?'... You still haven't answered that one.
+Earlier, at the tennis court, I asked you... 『Why can't we tell the others the truth?』... You still haven't answered that one.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -234,12 +234,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「その誰かの話には疑う余地が無い……そう誠は思った。……さて、誠は次に何を考える？」%K%P
-'There's no room to doubt her story'... you think something along those lines... So then, what would you think next?
+『There's no room to doubt her story』... you think something along those lines... So then, what would you think next?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「……やっぱり、確かめに行くんじゃないか？　その話が本当かどうか……」%K%P
-... 'Shouldn't I go to confirm whether or not that story's true?'
+... 『Shouldn't I go to confirm whether or not that story's true?』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -459,7 +459,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『すずとともにや　ときはとかれん』%N──あの護符にも書いてあったことだし……」%K%P
-'The echoing bell/ Will free you from time' ―It was written on that talisman...
+『The echoing bell/ Will free you from time』―It was written on that talisman...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -579,7 +579,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「何もわかってない様子の誠を見て……それから%Nしばらくの間は『ただの夢』だったんだって思って%N安心してた……」%K%P
-When I saw that you knew nothing, Makoto... I felt relieved, and for a little while after that, I thought that 'it was just a dream'...
+When I saw that you knew nothing, Makoto... I felt relieved, and for a little while after that, I thought that 『it was just a dream』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -784,7 +784,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『すずとともにや　ときはとかれん』……って%Nことは、鈴を持ってなかったら？」%K%P
-'The echoing bell/ Will free you from time'... so if you didn't have that bell...
+『The echoing bell/ Will free you from time』... so if you didn't have that bell...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -804,7 +804,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『助かる』って言い方は、正しくないかもしれないけど……」%K%P
-Well, 'saved' might not be the best way to put it, but...
+Well, 『saved』 might not be the best way to put it, but...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -949,7 +949,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「あの鈴は、私達にとって、最後の砦……って%N言うか、文字通り『命綱』なわけじゃない？」%K%P
-To us, those bells are our last fortress... they're literally our 'lifelines'.
+To us, those bells are our last fortress... they're literally our 『lifelines』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -959,12 +959,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『もしも万が一、今度の４月６日に同じ出来事が%N起こったとしたら』……誠、港でそんなふうに%N言ってたけど……」%K%P
-'If, by any chance, the same events occur on this April 6th...'... you said that at the harbor...
+『If, by any chance, the same events occur on this April 6th...』... you said that at the harbor...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「その『万が一の時』に、私達が鈴を持って%Nなかったら……」%K%P
-If we don't have the bell at that 'by any chance' time...
+If we don't have the bell at that 『by any chance』 time...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

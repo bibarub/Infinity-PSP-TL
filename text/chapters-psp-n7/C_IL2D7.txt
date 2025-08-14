@@ -44,7 +44,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「あの雨の晩、オレが部屋のドアを開けたとき……『キャー！』って悲鳴をあげたり『２０歳だ』なんて言ったりしただろ？」%K%P
-On that rainy night, when I opened the door to my room... you screamed 'Kyaa!' and said that you were '20 years old', right?
+On that rainy night, when I opened the door to my room... you screamed 『Kyaa!』 and said that you were 『20 years old』, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -79,7 +79,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「だけど、なにもくるみが声をあげることはないだろ？」%K%P
-And that's another thing―you confused me with the way you said 'she was changing clothes'! After all, there was no reason for you to scream, right, Kurumi?
+And that's another thing―you confused me with the way you said 『she was changing clothes』! After all, there was no reason for you to scream, right, Kurumi?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -174,7 +174,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「それに、くるみが『２０歳』っていうのも、事実なんだからしょうがないじゃない」%K%P
-And when Kurumi said that she was '20 years old', that was a fact, so it couldn't be helped.
+And when Kurumi said that she was 『20 years old』, that was a fact, so it couldn't be helped.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -239,12 +239,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「そんなことよりさぁ、例のアレ、いつにする？」%K%P
-More importantly, when are we gonna do 'that'?
+More importantly, when are we gonna do 『that』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「例の……アレって？」%K%P
-'That'?
+『That』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -294,7 +294,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「『姉妹なんだから、みんなにオゴらなきゃ不公平になる』って……そう言ったもんね？」%K%P
-'You're sisters, so it'd be unfair if you had to pay'... You said that, right?
+『You're sisters, so it'd be unfair if you had to pay』... You said that, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -354,7 +354,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「それよりも私は『かぷかぷ・ばぶばぶ・ばびりんこ』のほうがいいなぁ〜」%K%P
-I like 'Popping Deflating Babirinko' more than that.
+I like 『Popping Deflating Babirinko』 more than that.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -369,7 +369,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「『かぷかぷ・ばぶばぶ・ばびりんこ』」%K%P
-It's 'Popping Deflating Babirinko'.
+It's 『Popping Deflating Babirinko』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -379,7 +379,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「ばびりんこ、ばびりんこって、それはもうすごいんだからぁ〜！」%K%P
-But 'Babirinko' is so amazing!
+But 『Babirinko』 is so amazing!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -629,7 +629,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「そのとき借りて、そのまま借りっぱなしにしてたんだって」%K%P
-At that time, she borrowed them, but continued to 'borrow' them after that.
+At that time, she borrowed them, but continued to 『borrow』 them after that.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -854,7 +854,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ………………。%N…………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -909,12 +909,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『７月６日（土）──司紀杜祭』%K%N
-「July 6th (Saturday) ―Shiki no Mori(司紀杜) Festival.」
+「July 6th (Saturday)―Shiki no Mori(司紀杜) Festival.」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 『７月７日（日）──杜紀司祭』%K%N
-「July 7th (Sunday) ―Tokitsukasa (杜紀司) Festival」.
+「July 7th (Sunday)―Tokitsukasa (杜紀司) Festival」.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -939,7 +939,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『トキツカサ祭り』『シキノモリ祭り』」%K%P
-The 'Tokitsukasa Festival' and the 'Shiki no Mori Festival'.
+The 『Tokitsukasa Festival』 and the 『Shiki no Mori Festival』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -979,12 +979,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「どうやら『シキノモリ神社』の隣には『トキツカサ神社』という双子の神社があったらしいのよ」%K%P
-It seems that there were twin shrines built very close to each other: the 'Shiki no Mori Shrine' and the 'Tokitsukasa Shrine'.
+It seems that there were twin shrines built very close to each other: the 『Shiki no Mori Shrine』 and the 『Tokitsukasa Shrine』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「だけど、大昔の地震かなにかで『トキツカサ神社』の方は潰れてしまった」%K%P
-But the 'Tokitsukasa Shrine' was destroyed in an earthquake a very long time ago.
+But the 『Tokitsukasa Shrine』 was destroyed in an earthquake a very long time ago.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -994,12 +994,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「誠くんが見たのは、この『トキツカサ神社』の跡だったってわけ」%K%P
-Meaning what you saw that day were the remains of the 'Tokitsukasa Shrine'.
+Meaning what you saw that day were the remains of the 『Tokitsukasa Shrine』.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「『シキノモリ神社』の方は、今もちゃ〜んとあそこに建ってるはずよ？」%K%P
-The 'Shiki no Mori Shrine' should still be there right now.
+The 『Shiki no Mori Shrine』 should still be there right now.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

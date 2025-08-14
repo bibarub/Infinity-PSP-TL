@@ -329,7 +329,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「盗むって……オレ達の誰かが盗んだって言うのか！？」%K%P
-'Stolen'... Are you saying one of us stole them!?
+『Stolen』... Are you saying one of us stole them!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -459,7 +459,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 震える指先で『１』『１』と押したその時……%K%P
-As my hands tremble, I'm about to dial the number for the police, when all of the sudden...
+As my hands tremble, I'm about to dial the number for the police, when all of a sudden...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

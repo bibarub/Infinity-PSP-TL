@@ -1,5 +1,5 @@
 ﻿──コン、コン！　コン、コン！%K%Nドアをたたく音。%K%P
-―*Knock*, *knock*! *Knock*, *knock*! Someone's knocking on the door.
+―*Knock*, *knock*! *Knock*, *knock*!%K%NSomeone's knocking on the door.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -59,7 +59,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「それにしちゃ、しっかりノックしてたけど」%K%P
-Really? You were knocking rather loudly for someone who was just 'half-asleep'...
+Really? You were knocking rather loudly for someone who was just 『half-asleep』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -94,7 +94,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「意地悪？」%K%P
-'Teasing'?
+『Teasing』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -194,7 +194,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「こういうの、意地悪って言うんだ？」%K%P
-Isn't this what you call being 'teased'?
+Isn't this what you call being 『teased』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -204,7 +204,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 楽しそうだった。%K%Nこんな遙の顔を見るのは初めてだった。%K%P
-She's beaming. It's the first time I've ever seen an expression like that on her face.
+She's beaming.%K%NIt's the first time I've ever seen an expression like that on her face.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -229,7 +229,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙が……オレにお願い？%K%Nいったい何なのだろう？%K%P
-Haruka... wants to ask me a favor? Just what could it be?
+Haruka... wants to ask me a favor?%K%NJust what could it be?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -299,12 +299,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ４時半か……。%K%Nオレは腕時計のアラームをセットして、再びベッドに%Nもぐり込んだ……。%K%P
-4:30, huh... I set my watch alarm to that time before I collapse on the bed...
+4:30, huh...%K%NI set my watch alarm to that time before I collapse on the bed...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 腕時計のアラーム……。%K%Nそれを耳にして、オレはすぐに目を覚ました。%K%Nと、同時に……%K%P
-My watch alarm... When I hear that sound, I immediately wake up. And, at the same time...
+My watch alarm...%K%NWhen I hear that sound, I immediately wake up.%K%NAnd, at the same time...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -384,7 +384,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「まずい……%W%Wエネルギーが……%W%Wエネルギーが……%W%W足り……%W%W%Wない……%W%W%W%W……ムニャムニャ……」%K%P
-This is bad... I... don't have... enough... energy...... Zzz...
+This is bad... I... don't have... enough... energy... ... Zzz...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -474,7 +474,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 オレは思った%K%N──遙は、オレにとって何なんだろう……？%K%P
-That's when it hits me.%K ―What does Haruka mean to me...?
+That's when it hits me.%K%N―What does Haruka mean to me...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -564,7 +564,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「船に乗ってる人を導くように動いていく。%N誰がどこで何のために揺らしているのかわからない。だから不知火って呼ぶんだって……」%K%P
-They move as if they're guiding sailors on ships. No one knows where they came from or why they sway the way they do. That's why they're called shiranui, or 'unknown fire'...
+They move as if they're guiding sailors on ships. No one knows where they came from or why they sway the way they do. That's why they're called shiranui, or 『unknown fire』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -584,7 +584,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「違うって……。%K不知火の正体くらい、%N遙だって知ってるだろ？%Nオレなんかより頭いいんだから」%K%P
-'Wrong'...? But surely you must have known that. You're way smarter than me, after a-
+『Wrong』...? But surely you must have known that. You're way smarter than me, after a-
 CN PLACEHOLDER
 RU PLACEHOLDER
 

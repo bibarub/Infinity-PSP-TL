@@ -114,7 +114,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「ちょっとな……って……」%K%P
-'Kinda'... you say...
+『Kinda』... you say...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -139,7 +139,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「オツ、ねぇ……」%K%P
-'Strange'...
+『Strange』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -514,7 +514,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -559,7 +559,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 もしかして、さっきオレにジャンケンで勝ったカニか？%K%Nよく、あんなんで区別がつくものだ。%K%P
-Wait, is that the crab that beat me in Rock-Paper-Scissors earlier? I guess giving it a name was a good way to distinguish them.
+Wait, is that the crab that beat me in Rock-Paper-Scissors earlier?%K I guess giving it a name was a good way to distinguish them.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -609,7 +609,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 オレの中で、何かが芽生え始めている──そのことに、今ようやく気がついた。%K%P
-Something has begun to sprout within me ―I finally realize what it is now.
+Something has begun to sprout within me―I finally realize what it is now.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -799,7 +799,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「ううんって……平気なのか？　キャビアって、べらぼうに高いんだったよな、確か？」%K%P
-'Nope'... then is it all right? Caviar is ridiculously expensive, isn't it?
+『Nope』... then is it all right? Caviar is ridiculously expensive, isn't it?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -959,7 +959,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「だけど『ありきたり』って、すごく幸せなことだと思うんだぁ……」%K%P
-But even though it's 'ordinary', Kurumi thinks that it's a very happy thing...
+But even though it's 『ordinary』, Kurumi thinks that it's a very happy thing...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1079,7 +1079,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「さっ、早くおもしろいこと、やりに行こっ♪」%K%P
-C'mon, let's hurry up and do that 'something fun'♪
+C'mon, let's hurry up and do that 『something fun』♪
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1134,7 +1134,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「何するんだ？って……折り紙持って来たんだから、折り紙するに決まってるでしょ？」%K%P
-'What'? ... Isn't it obvious what you do when you have origami?
+『What』? ... Isn't it obvious what you do when you have origami?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1419,7 +1419,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「でぇ、これが『武田信玄』で、これが『アサガオ』で、これが『沖縄サミット』……」%K%P
-And this is 'Takeda Shingen', this is a 'Morning Glory', this is the 'Okinawa Summit'...
+And this is 『Takeda Shingen』, this is a 『Morning Glory』, this is the 『Okinawa Summit』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1844,7 +1844,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ──突然、くるみは、上の服を首の所までまくりあげた……。%K%P
-―All of the sudden, Kurumi raises all the clothes off the upper half of her body up to her neck...
+―All of a sudden, Kurumi raises all the clothes off the upper half of her body up to her neck...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1974,7 +1974,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「くるみが勝手に見せたいって、思っただけだから……」%K%P
-All you have to do is think 'Kurumi was selfish for wanting to show it to me'...
+All you have to do is think 『Kurumi was selfish for wanting to show it to me』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2129,7 +2129,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「忘れた、とか言わないでよ？」%K%P
-Don't say 'I forgot' when it happens! You won't, right?
+Don't say 『I forgot』 when it happens! You won't, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2209,7 +2209,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 「ほいでねぇ、ほいでねぇ、カニ大道楽がねぇ♪」%K%N%N
-「"And so then, Mr. Sumo Crab...♪"」
+「And so then, Mr. Sumo Crab...♪」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2264,27 +2264,27 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 「ところで、くるみ？」%K%N%N
-「"By the way, Kurumi?」
+「By the way, Kurumi?」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 「ん？」%K%N%N
-「"Hmm?」
+「Hmm?」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 「冷蔵庫にあったキャビア、知らない？」%K%N%N
-「"Do you know what happened to the caviar in the fridge?」
+「Do you know what happened to the caviar in the fridge?」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 「……………………」%K%N%N
-「"...」
+「...」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 「……………………」%K%P
-「"...」
+「...」
 CN PLACEHOLDER
 RU PLACEHOLDER
 

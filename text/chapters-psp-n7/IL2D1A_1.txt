@@ -39,7 +39,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 記憶は鮮明に残っている。%K%Nあれが夢だとすれば、今こうしていることすらも夢に思えてしまうくらいだ。%K%P
-My memory is clear about what happened... But if that was a dream, then maybe I'm still dreaming now.
+My memory is clear about what happened...%K%NBut if that was a dream, then maybe I'm still dreaming now.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -109,7 +109,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 まだ、はっきりとは自覚していないが……%K%Nこれはまさしく……。%K%P
-I'm still half asleep, but... I must have...
+I'm still half asleep, but...%K%NI must have...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -124,7 +124,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 バカな！%K%Nオレはその考え方を認める事が出来なかった。%K%P
-Impossible! I can't accept this way of thinking.
+Impossible!%K%NI can't accept this way of thinking.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

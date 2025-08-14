@@ -79,7 +79,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 億彦「まずい……%W%Wエネルギーが……%W%Wエネルギーが……%W%W足り……%W%W%Wない……%W%W%W%W……ムニャムニャ……」%K%P
-This is bad... I... don't have... enough... energy...... Zzz...
+This is bad... I... don't have... enough... energy... ... Zzz...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -234,7 +234,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ……………………。%N……………。%N……。%K%P
-... ... ...
+...%N...%N...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

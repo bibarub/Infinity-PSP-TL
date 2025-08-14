@@ -84,7 +84,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「さ、先に、って言われても……%W%W誰が先頭に…%W%W立つのよ…？」%K%P
-'G-Go on ahead'... you say that, but... Who will... lead us...?
+『G-Go on ahead』... you say that, but... Who will... lead us...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -299,12 +299,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「だからぁ、向こうに着いたときに、くるみが『ペア分けのジャンケンをやろう！』って言ってみるから……」%K%P
-That's why, when the time comes, Kurumi will suggest, 'Let's try dividing people into pairs through Rock-Paper-Scissors!'...
+That's why, when the time comes, Kurumi will suggest, 『Let's try dividing people into pairs through Rock-Paper-Scissors!』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「そしたらお兄ちゃんは、グーパーグーパー…の順で手を出してね？」%K%P
-If we do that and it's your turn for 'Rock, Paper, Scissors'... use rock, okay?
+If we do that and it's your turn for 『Rock, Paper, Scissors』... use rock, okay?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -414,12 +414,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「日本肝試し振興会発行の本年度版公式ルールブックによりますと……『肝試しとは、人が恐れるべき場所に行き度胸が有るかどうか試す競技』……となっていますがぁ……」%K%P
-According to the Japanese Test of Courage Awareness Club Official Rulebook, first edition... 'A Test of Courage is a trial held in a scary place to test one's courage.'
+According to the Japanese Test of Courage Awareness Club Official Rulebook, first edition... 『A Test of Courage is a trial held in a scary place to test one's courage.』
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「今回の人が恐れるべき場所は、墓地の奥にある古井戸になっておりまーーす♪」%K%P
-This time around, the 'scary place' has been decided to be an old well in the graveyard♪
+This time around, the 『scary place』 has been decided to be an old well in the graveyard♪
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -619,7 +619,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「かも、じゃなくて、そうなんだろ？」%K%P
-It's not 'may be' right, it is right, isn't it?
+It's not 『may be』 right, it is right, isn't it?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -654,7 +654,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「考えとく、って……%W%W%W結局どっちなのよぉ！？」%K%P
-'Think about it'... are you going to or not!?
+『Think about it』... are you going to or not!?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -934,7 +934,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「あのね？　ここに眠ってるのは、ぜ〜んぶ無縁仏なんだって！」%K%P
-Did you know? Everyone buried here is a 'muenbotoke', someone who died without family or friends to bury them!
+Did you know? Everyone buried here is a 『muenbotoke』, someone who died without family or friends to bury them!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -949,7 +949,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「生きながらにして深い穴の底に放り込まれた無実の罪人とかぁ……%W%W%Wあとはねぇ……」%K%P
-Innocent 'criminals' thrown to the bottom of deep holes while still alive... Let's see, what else...
+Innocent 『criminals』 thrown to the bottom of deep holes while still alive... Let's see, what else...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1629,7 +1629,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「日本肝試し振興会発行の本年度版公式ルールブックによると……『肝だめし中は、常に１人もしくは２人で行動すべし』%N……となってるんだもんね」%K%P
-According to the Japanese Test of Courage Awareness Club Rulebook, this year's Edition... 'During a Test of Courage, there may only be groups of one or two'... that's how it is.
+According to the Japanese Test of Courage Awareness Club Rulebook, this year's Edition... 『During a Test of Courage, there may only be groups of one or two』... that's how it is.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1869,7 +1869,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「なんで、って言われても……。%Nこれは会話の間だろ？」%K%P
-'Why'...? Is this even the time to be chatting?
+『Why』...? Is this even the time to be chatting?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -2479,7 +2479,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『生きながらにして深い穴の底に放り込まれた無実の罪人とかぁ』%K%P
-「Or innocent 'criminals' who were thrown to the bottom of a deep hole while they were still alive.」
+「Or innocent 『criminals』 who were thrown to the bottom of a deep hole while they were still alive.」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -3454,17 +3454,17 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「ムエンボトケって？」%K%P
-'Muenbotoke'?
+『Muenbotoke』?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「知らないのか？　死んだとき家族とか親戚とか、葬ってくれる人が誰もいないと無縁仏になるんだよ。ほら『縁』が『無』い『仏』って書くだろ？」%K%P
-You don't know? When someone dies and they have no family or relatives to bury them, they become muenbotoke.%K%PSee, you write the word with the characters 'nothing' (無), 'relationship' (縁), and 'deceased' (仏)... a dead person with no relationships.
+You don't know? When someone dies and they have no family or relatives to bury them, they become muenbotoke.%K%PSee, you write the word with the characters 『nothing』 (無), 『relationship』 (縁), and 『deceased』 (仏)... a dead person with no relationships.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「『縁』がない……」%K%P
-No 'relationships'...
+No 『relationships』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

@@ -79,7 +79,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙は特に何も言わない。%K%Nどっちでもいいという感じなのだろうか？%K%P
-Haruka says nothing. I guess she fine either way?
+Haruka says nothing.%K%NI guess she fine either way?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -189,7 +189,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 遙「撮ってたの……『すこやかＹＯＵとぴあ』……留守録し忘れていたから」%K%P
-I recorded... 'A Healthy YOUtopia'... and then I accidentally left it running.
+I recorded... 『A Healthy YOUtopia』... and then I accidentally left it running.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
