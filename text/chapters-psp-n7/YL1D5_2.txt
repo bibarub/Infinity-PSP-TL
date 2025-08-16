@@ -1569,7 +1569,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「やっぱりそうだったんだよ！」%K%P
-Playing around with words... that's it!
+That's what it is... that's it!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1674,7 +1674,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「例の『死鬼の神』の話をした時のことだろ？」%K%P
-You mean when she told us about the 『God of the Demons』, right?
+You mean when she told us about the 『Demon of Death』, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1869,7 +1869,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 そう言って、優夏が指差した方向は、神社の軒下のあたりだった。%K%P
-Yuka points her finger towards the roof of the shrine.
+Yuka points her finger towards the eaves of the shrine.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1879,17 +1879,17 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『司紀杜』──札にはそう書かれていた。%K%P
-Shiki no Mori (司紀杜)―that's what's written on it.
+Characters for 「Shi-Ki-Mori」... That's what's written on it.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「しきのもり……それがどうしたんだ？」%K%P
-Shiki no Mori... What about it?
+『Shiki no Mori』... What about it?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「じゃあ、今度は逆から読んでみて？」%K%P
-Could you try reading the characters backwards this time?
+Could you try reading the characters right to left this time?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1899,7 +1899,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「優夏……おまえまさか、また下らない回文でも思いついたんじゃないだろうな？」%K%P
-Yuka, you said 『playing around with words』 just before we left the shop. This isn't another one of your stupid portmanteau jokes like 『Kurumilk』 or 『Ishiitakehara,』 is it?
+Yuka, this isn't another one of your stupid portmanteau jokes like 『Kurumilk』 or 『Ishiitakehara』, is it?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1909,12 +1909,12 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『司紀杜』の逆だから……『杜紀司（もりのきし）』だろ？」%K%P
-Shiki no Mori backwards is... Mori no Kishi (杜紀司), right?
+『Shi-Ki-Mori』 backwards is... 『Mori-Ki-Shi』, right?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『杜（もり）』は音読みだと、何て読む？」%K%P
-And how do you read 『Mori』 (杜) if you're using its Chinese reading?
+And how do you read 『Mori』 if you're using its Chinese reading?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1924,7 +1924,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「『司（し）』は訓読みだと？」%K%P
-Since the 『Shi』 (司) character is its Chinese reading, how would you read that in Japanese?
+And if you read 『Shi』 using its Japanese reading?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1934,17 +1934,17 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「それを通して読んだら？」%K%P
-And the 『Ki』 (紀) part is the same in both, so how would you read it now?
+And if you read it all together like that?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「と・%Wき・%Wつかさ……」%K%P
-To-ki-tsukasa... 『to rule time』...
+『To-Ki-Tsukasa』... 『To rule time』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「──ときつかさ！？」%K%P
-―To rule time!?
+―To rule time?!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1959,17 +1959,17 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「もし仮に、大昔に建てられたものだとしたら、右から左へと読むのが正確な読み方ってことになるよねぇ？」%K%P
-And for argument's sake, if it was something built long ago, then it would have been in a time period when the correct way to read text was from right to left.
+And for argument's sake, if it was something built long ago, then it would have been in a time period when the correct way to read Japanese was still from right to left.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 優夏「だとすると、この神社の正式名称は『司紀の杜神社』じゃなくって……」%K%P
-If that's the case, then the shrine's formal name isn't the 『Shiki no Mori Shrine』...
+If that's the case, then the shrine's proper name isn't the 『Shiki no Mori Shrine』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「『杜紀司（ときつかさ）神社』……」%K%P
-It's the 『Tokitsukasa Shrine』... the 『Time Ruling Shrine』...
+It's the 『Tokitsukasa Shrine』... The 『Time Ruling Shrine』...
 CN PLACEHOLDER
 RU PLACEHOLDER
 

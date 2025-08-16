@@ -74,7 +74,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「ん？　……まさか、お兄ちゃんまで信じてるわけじゃないよねぇ？　あの『死鬼の神』とかいう伝説の話……」%K%P
-Huh? ... Don't tell Kurumi that even you believe that story about 『The God of Demons』...?
+Huh? ... Don't tell Kurumi that even you believe that story about the 『Demon of Death』...?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -329,7 +329,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 くるみ「例えば、あの死鬼の神が神社の中からぬら〜んと現れて、くるみのことを捕まえようとしたら？」%K
-For example, what if that God of Demons appears in the shrine and tries to grab Kurumi?
+For example, what if that Demon of Death appears in the shrine and tries to grab Kurumi?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -504,7 +504,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「死鬼の神だの何だのって話も、今は関係無い」%K%P
-It has nothing to do with the story of the God of Demons either.
+It has nothing to do with the story of the Demon of Death either.
 CN PLACEHOLDER
 RU PLACEHOLDER
 

@@ -1114,7 +1114,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 あの死鬼の神の伝説を、本気で信じてるからか？%K%P
-Does she seriously believe that story about the God of Demons?
+Does she seriously believe that story about the Demon of Death?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1164,7 +1164,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 あの死鬼の神の伝説を、本気で信じてるからか？%K%P
-Does she seriously believe that story about the God of Killer Demons?
+Does she seriously believe that story about the Demon of Death?
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1214,7 +1214,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「誠くん……聞いてなかったの？%Nだからあそこには、死鬼の神がっ」%K%P
-Makoto-kun... Weren't you listening? It's because over there is the God of De-
+Makoto-kun... Weren't you listening? It's because over there is the Demon of De-
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1259,7 +1259,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 『死鬼の神の真相を知っている』
-「I know the truth about the God of Demons.」
+「I know the truth about the Demon of Death.」
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1304,7 +1304,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 誠「いづみさん……実はオレ、死鬼の神の真相を知ってるんだ」%K%P
-Izumi-san... I know the truth about the God of Demons.
+Izumi-san... I know the truth about the Demon of Death.
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1339,7 +1339,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 ──死鬼の神の伝説が、いづみさんの創作だったってことか！？%K%P
-―So that means she created the story about the God of Demons!?
+―So that means she created the story about the Demon of Death?!
 CN PLACEHOLDER
 RU PLACEHOLDER
 
@@ -1464,7 +1464,7 @@ CN PLACEHOLDER
 RU PLACEHOLDER
 
 いづみ「月浜で、私が話した死鬼の神の話……」%K%P
-The story about the God of Demons I told you about on Moon Beach...
+The story about the Demon of Death I told you about on Moon Beach...
 CN PLACEHOLDER
 RU PLACEHOLDER
 
