@@ -631,7 +631,7 @@ CN PLACEHOLDER
 武「ちっともよくねぇよ、つぐみの前でそんな、みっともな……は……は、は」%K%P
 I care. Looking like this in front of you, I... uugh...
 CN PLACEHOLDER
-Мне, например. Такая стыдоба, да ещё перед тобой... я... *кашляет*
+Мне, например. Такая стыдоба, да ещё перед тобой... я... *Кашляет*
 
 つぐみ「は？」%K%P
 Huuuh?
@@ -753,7 +753,7 @@ CN PLACEHOLDER
 武「あ、ああ。げほっ」%K%P
 Y-Yeah... *Cough*...
 CN PLACEHOLDER
-А-ага... *кашляет*
+А-ага... *Кашляет*
 
 いかん、いかんぞ……。%K%P
 It wasn't a good situation...
@@ -858,7 +858,7 @@ CN PLACEHOLDER
 武「なんで、どこでＴＢに！？　……げほっ」%K%P
 Why and where did he get TB...!? *Cough*...
 CN PLACEHOLDER
-Как и где он заразился Tief Blau?! *кашляет*
+Как и где он заразился Tief Blau?! *Кашляет*
 
 俺は少しむせながら呟いた。%K%P
 I mumbled to myself, finding it hard to breathe all of a sudden.
@@ -1383,7 +1383,7 @@ CN PLACEHOLDER
 優「こほっ……ごほっ！」%K%P
 *Cough*... *cough*!
 CN PLACEHOLDER
-*кашляет*
+*Кашляет*
 
 急に、優が咳き込む。%K%P
 Suddenly, she started coughing.
@@ -1398,7 +1398,7 @@ CN PLACEHOLDER
 優「そ、そんなこと……げほっ、言ったって」%K%P
 But, I-I just...*cough*
 CN PLACEHOLDER
-Но я-я просто... *кашляет* ...поперхнулась!..
+Но я-я просто... *Кашляет* ...поперхнулась!..
 
 咳がなかなか止まってくれない。%K%P
 She wouldn't stop coughing.
@@ -1508,7 +1508,7 @@ CN PLACEHOLDER
 優「ちょっと……こほっ、何すん――痛！」%K%P
 Hey... *cough*, what are you doing!? Ouch!
 CN PLACEHOLDER
-Эй... *кашляет* ...Что ты делаешь! Ай!
+Эй... *Кашляет* ...Что ты делаешь! Ай!
 
 武「我慢しとけっ」%K%P
 Stop complaining!
@@ -1918,7 +1918,7 @@ CN PLACEHOLDER
 少年「でも……でもっ……ごほっ」%K%P
 But... But... *cough*...
 CN PLACEHOLDER
-Но... но... *кашляет*
+Но... но... *Кашляет*
 
 武「だいたい、例のアンプルはあとひとつしか残ってないんだぞ！！」%K%P
 Listen, there's only one more shot of the serum left!
@@ -2518,12 +2518,12 @@ CN PLACEHOLDER
 武「俺達は、僅かでも生き延びられる可能性に賭けるしかない」%K%P
 It's better that we take this risk, no matter how small our chance of survival.
 CN PLACEHOLDER
-Уж лучше принять этот риск, насколько бы мизерными не были наши шансы выжить.
+Уж лучше принять этот риск, насколько бы мизерными ни были наши шансы выжить.
 
 武「……ぐぶっ」%K%P
 ...*Cough*...
 CN PLACEHOLDER
-*кашляет*
+*Кашляет*
 
 びしゃっ。
 Splash.
@@ -2895,12 +2895,12 @@ CN PLACEHOLDER
 武「何とでも言ってくれていい」%K%P
 I don't care what you say.
 CN PLACEHOLDER
-Не важно, что бы ты ни говорила...
+Неважно, что бы ты ни говорила...
 
 武「いくらでも罵ってくれ」%K%P
 I don't care how much you curse me.
 CN PLACEHOLDER
-Не важно, как бы ты меня ни проклинала...
+Неважно, как бы ты меня ни проклинала...
 
 つぐみ「ううっ……」%K%P
 Aaaggh...
@@ -4090,7 +4090,7 @@ CN PLACEHOLDER
 ヒンメルを出て、上階を目指す。%K%P
 I left Himmel and started heading up.
 CN PLACEHOLDER
-Я оставил ХИММЕЛ и побежал вверх по ступенькам.
+Я оставил Химмель и побежал вверх по ступенькам.
 
 ＰＤＡの画面を確認した。%K%P
 I checked the screen on my PDA.
@@ -4105,7 +4105,7 @@ CN PLACEHOLDER
 さっきヒンメルのコンソールから、俺はＰＤＡにＬｅＭＵのセンサーとのデータリンク・プログラムをインストールした。%K%P
 From the console at Himmel, I had installed a program to link data from LeMU's sensors to my PDA.
 CN PLACEHOLDER
-Чуть раньше, я установил интерфейсную программу с консоли ХИММЕЛ, что связывает мой КПК с мэйнфреймом LeMU.
+Чуть раньше я установил программу с консоли Химмеля, что отправляет мне данные с датчиков LeMU.
 
 プログラムは空が用意しておいてくれていた。%K%P
 Sora had prepared it for me.
@@ -4125,7 +4125,7 @@ CN PLACEHOLDER
 空「では、私はこのヒンメルに留まり、ＬｅＭＵの状態を監視して、ＰＤＡに転送します」%K%P
 I'll stay here in Himmel to keep track of the situation at LeMU and send updates to your PDA.
 CN PLACEHOLDER
-Я останусь в ХИММЕЛ, чтобы следить за ситуацией в LeMU, и посылать обновления на твой КПК.
+Я останусь в Химмеле, чтобы следить за ситуацией в LeMU и посылать обновления на твой КПК.
 
 空「隔壁をコントロールして、崩落を食い止め……１分１秒でも長く、全館が維持できるように努めておきます。ですから――」%K%P
 I'll do what I can to stop the partitions from failing... to see that this place stays together even a little while longer. So...
@@ -4770,7 +4770,7 @@ CN PLACEHOLDER
 ＲＳＤ画像が歪み、乱れていく。%K%P
 Her RSD image started to warp and break up.
 CN PLACEHOLDER
-Её RSD изображение стало коробить и портиться.
+Её RSD-изображение стало коробить и портиться.
 
 空の背後には、霧がかかっていた。%K%P
 A fog enveloped Sora from behind.
@@ -4835,7 +4835,7 @@ CN PLACEHOLDER
 ヒンメル・コントロールルームに浸水している。%K%P
 Water was flooding into Himmel's control room.
 CN PLACEHOLDER
-Вода затекла в компьютерную комнату ХИММЕЛ.
+Вода затекла в компьютерную комнату Химмеля.
 
 画像が乱れ、消えていく……。%K%P
 Her image broke up and disappeared...

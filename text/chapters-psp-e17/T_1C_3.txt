@@ -756,7 +756,7 @@ CN PLACEHOLDER
 武「ふーん。……っておい、どんなに深呼吸しても窒息したみたいに苦しくなるってことか？」%K%P
 So... No matter how many deep breaths you take, it feels like you're suffocating?
 CN PLACEHOLDER
-То есть... не важно, насколько глубоко ты пытаешься дышать – всё равно задохнёшься?
+То есть... Неважно, насколько глубоко ты пытаешься дышать – всё равно задохнёшься?
 
 空「はい。また、血液中に溶けた窒素が気化すると、血栓を作ってしまうことがあります。血流を塞いでしまい、危険です……」%K%P
 Yes. But also, if any nitrogen which had dissolved in the blood turns to gas, it could produce a thrombus, or blood clot. Of course, this could hinder blood circulation, which is very dangerous...
@@ -1411,7 +1411,7 @@ CN PLACEHOLDER
 武「ふーん。……っておい、どんなに深呼吸しても窒息したみたいに苦しくなるってことか？」%K%P
 So... no matter how many deep breaths you take, it feels like you're suffocating?
 CN PLACEHOLDER
-То есть... не важно, насколько глубоко ты пытаешься дышать – всё равно задохнёшься?
+То есть... Неважно, насколько глубоко ты пытаешься дышать – всё равно задохнёшься?
 
 空「はい。また、血液中に溶けた窒素が気化すると、血栓を作ってしまうことがあります。血流を塞いでしまい、危険です……」%K%P
 That is correct. But also, if any nitrogen which had dissolved in the blood turns to gas, it could produce a thrombus, or blood clot. Of course, this could hinder blood circulation, which is very dangerous...

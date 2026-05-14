@@ -931,7 +931,7 @@ CN PLACEHOLDER
 花壇には、背の低い薔薇とマリーゴールド、マーガレットが一緒に植えられているようだった。%K%P
 In the flowerbed, short roses, marigolds, and marguerites were all planted together.
 CN PLACEHOLDER
-На клумбе вместе посажены миниатюрные розы, ноготки и маргаритки.
+На клумбе вместе посажены миниатюрные розы, бархатцы и маргаритки.
 
 武「しかし、なんか花に元気がないな」%K%P
 Yeah, but they sure don't seem to be doing very well.

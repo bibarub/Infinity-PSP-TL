@@ -301,7 +301,7 @@ CN PLACEHOLDER
 『ＨＩＭＭＥＬ』と書かれた扉――%K%P
 “HIMMEL” was written on the door...
 CN PLACEHOLDER
-На двери написано «ХИММЕЛ».
+На двери написано «HIMMEL».
 
 つぐみは何をするわけでもなく、その扉の前にたたずんでいた。%K%P
 Tsugumi wasn't really doing anything. She just stood in front of the door.
@@ -551,7 +551,7 @@ CN PLACEHOLDER
 俺は水を蹴って走り出した。%K%P
 I kicked up water as I ran.
 CN PLACEHOLDER
-В панике, я побежал туда, где стоит Цугуми...
+Я в панике побежал туда, где стоит Цугуми...
 
 つぐみのもとへと駆け寄り、叫び声をあげる。%K%P
 I ran to where Tsugumi was, shouting.
@@ -816,7 +816,7 @@ CN PLACEHOLDER
 『ＨＩＭＭＥＬ』と書かれた扉――%K%P
 “HIMMEL” was written on the door...
 CN PLACEHOLDER
-На двери написано «ХИММЕЛ».
+На двери написано «HIMMEL».
 
 武「いや、ここじゃないよなぁ」%K%P
 No, this isn't it.

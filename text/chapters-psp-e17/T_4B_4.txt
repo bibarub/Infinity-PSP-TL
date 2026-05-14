@@ -56,7 +56,7 @@ CN PLACEHOLDER
 そんなわけで、空は今、会議室の椅子にちょこんと座り、ホワイトボードを見つめていた。%K%P
 So there she sat, in a chair in the conference room, looking at the white board.
 CN PLACEHOLDER
-Поэтому... она села в кресло... в Комнате переговоров... глядя на белую доску.
+Поэтому она села в кресло в Комнате переговоров, глядя на белую доску.
 
 俺はホワイトボードの前に立って、教鞭を執っていた。%K%P
 I stood at the whiteboard, dry marker in hand, playing professor.
@@ -76,7 +76,7 @@ CN PLACEHOLDER
 『少年さんやココちゃんが、田中さんの弁舌を絶賛していたのですが……』%K%P
 “Coco-chan and Kid-san were giving rave reviews of Tanaka-san's speech...”
 CN PLACEHOLDER
-«Коко и Малой весьма бурно говорили относительно рассказа Ю...»
+Сора: «Коко-тян и Малой-сан весьма бурно обсуждали рассказ Ю...»
 
 『どんなものだったんでしょうか？　田中さんに訊いても、教えていただけなかったんですよ』%K%P
 “What was it like?”, I asked her, but she wouldn't tell me.
@@ -86,27 +86,27 @@ CN PLACEHOLDER
 『倉成さんはご存知ですよね？』%K%P
 “Kuranari-san, do you know?”
 CN PLACEHOLDER
-«Такэси, а ты знаешь?»
+«Куранари-сан, а ты знаешь?»
 
 『ああ……。しかし俺は、優の話を丸暗記してるわけじゃないしな……』%K%P
 “Well, yeah, but... it's not like I have the whole thing memorized...”
 CN PLACEHOLDER
-«Ну, да, только... не целиком, память у меня та ещё...»
+Я: «Ну, да, только... Но я не то чтобы запоминал, о чём она там рассказывала...»
 
 『そうだ、俺が優に匹敵するような、いや、それ以上に面白い講義をひとつぶってみせようじゃないか！』%K%P
 “I know, I'll give you a lecture just as good... no, better than You's!”
 CN PLACEHOLDER
-«Точно, я прочту тебе лекцию, ничуть ни хуже... нет, даже лучше чем Ю!»
+«Точно, я прочту тебе лекцию ни чуть не хуже... нет, даже лучше, чем Ю!»
 
 ――とまぁ、ただそれだけである。%K%P
 —And that was how it started.
 CN PLACEHOLDER
-– вот так всё и началось.
+Вот так всё и началось.
 
 講義のお題目は『恋愛心理学』……。%K%P
 The title of my lecture was “The Psychology of Love”...
 CN PLACEHOLDER
-Тема лекции – «Психология Любви»...
+Тема лекции – «Психология любви»...
 
 ちょっとハッタリをかましてみた。%K%P
 I was playing to the crowd.
@@ -211,17 +211,17 @@ CN PLACEHOLDER
 空「プロトタイプが完成したのが２０００年の１０月です」%K%P
 The prototype was finished in October of 2000.
 CN PLACEHOLDER
-Первый прототип был завершён в Октябре 2000-го.
+Первый прототип был завершён в октябре 2000-го.
 
 空「『空』ＲＳＤシステムが稼動を始めたのは、それから１１年後の４月」%K%P
 Actual operation of the 'Sora' RSD System began in April, 11 years later.
 CN PLACEHOLDER
-Полноценная работа RSD-системы „Сора“ началась в Апреле, 11 лет спустя.
+Полноценная работа RSD-системы „Сора“ началась в апреле, 11 лет спустя.
 
 空「ですので私は、２０１１年４月２日生まれ、ということになります」%K%P
 Which means that I was born on April 2nd, 2011.
 CN PLACEHOLDER
-Иными словами, я родилась 2 апреля 2011-го года.
+Иными словами, я родилась 2 апреля 2011 года.
 
 武「２０１１年？」%K%P
 2011?
@@ -241,7 +241,7 @@ CN PLACEHOLDER
 空「いえ、私は２４歳です」%K%P
 No, I'm 24.
 CN PLACEHOLDER
-Нет, мне двадцать четыре.
+Нет, мне 24.
 
 武「どうして？」%K%P
 How's that?
@@ -256,12 +256,12 @@ CN PLACEHOLDER
 空「去年も一昨年も、３年前も４年前も、ずっと２４歳でした」%K%P
 This year and last, even three and four years ago, I've been 24.
 CN PLACEHOLDER
-Что в этом году, что в прошлом. И три, и четыре года назад, мне было двадцать четыре.
+Что в этом году, что в прошлом. И три, и четыре года назад, мне было 24.
 
 空「生まれたときから、私は２４歳なのです」%K%P
 I've been 24 since I was born.
 CN PLACEHOLDER
-Мне было двадцать четыре с момента рождения.
+Мне было 24 с момента рождения.
 
 空「設定上の年齢ではありますが……」%K%P
 Of course, it's just my programmed age...
@@ -271,22 +271,22 @@ CN PLACEHOLDER
 空「実際、私は人間のように老いることはありませんから……」%K%P
 I don't actually age like humans do...
 CN PLACEHOLDER
-В действительности, я не старею как люди...
+В действительности, я не старею, как люди...
 
 空「したがって、恐らくこれからも、永遠に２４歳のままなのでしょう」%K%P
 So I'll always be 24, eternally, I'm afraid.
 CN PLACEHOLDER
-Поэтому, боюсь, мне всегда будет двадцать четыре.
+Поэтому, боюсь, мне всегда будет 24.
 
 まぁ、確かにその容姿で『私は４１歳です』とか言われたらイヤミだった。%K%P
 I had to admit it would have been strange to hear her say “I'm 41” looking the way she did.
 CN PLACEHOLDER
-Не могу не признать, что было бы странно услышать из её уст нечто вроде «мне сорок один». Особенно, глядя на неё.
+Ну да, если с такой внешностью сказать: «Мне 41», это уже звучало бы как издёвка.
 
 いずれ、そういうときが来ることを想定して、永遠に２４ということにしたのだろう。%K%P
 They must have predicted that such a time would come and fixed her eternally at 24.
 CN PLACEHOLDER
-Должно быть, мозговитые ребята разработчики это предвидели, потому и сделали её вечно молодой.
+Должно быть, мозговитые ребята-разработчики это предвидели, потому и сделали её вечно молодой.
 
 武「ＯＫ、ＯＫ……」%K%P
 Okay, okay...
@@ -296,7 +296,7 @@ CN PLACEHOLDER
 武「なるほど。では２４歳だと認めます、茜ヶ崎君」%K%P
 I see. Then I shall accept that you are 24, Akanegasaki-kun.
 CN PLACEHOLDER
-Понятно. В таком случае придётся свыкнуться, что тебе двадцать четыре, Аканэгасаки-кун.
+Понятно. В таком случае придётся свыкнуться, что тебе 24, Аканэгасаки-кун.
 
 武「でしたら、２４歳なら２４歳らしい立ち居振る舞いを身につけるべきだと、先生は思うのですよ」%K%P
 In that case, I think that you should learn the appropriate behavior for someone your age.
@@ -306,7 +306,7 @@ CN PLACEHOLDER
 空「あ、あの……」%K%P
 Um...
 CN PLACEHOLDER
-Э... То есть...
+Э-э... То есть...
 
 少し戸惑ったように、空は首を傾げる。%K%P
 She cocked her head to the side, a little bewildered.
@@ -316,7 +316,7 @@ CN PLACEHOLDER
 空「つまり、私は今、２４歳らしくない、ということですか？」%K%P
 You mean that I don't seem 24 right now?
 CN PLACEHOLDER
-То есть cейчас не кажется, что мне 24?
+Хочешь сказать, я не веду себя на 24?
 
 武「ええ、もう、それはまったく」%K%P
 Yes, that is exactly my point...
@@ -356,27 +356,27 @@ CN PLACEHOLDER
 武「２４って言ったら、そろそろ結婚を意識しだす年頃なのですよ」%K%P
 24 is when you start thinking about marriage.
 CN PLACEHOLDER
-Просто... 24 – возраст, в котором люди задумываются о замужестве.
+В 24 года девушки обычно задумываются о свадьбе.
 
 空「はぁ……結婚、ですか」%K%P
 Ah... Marriage.
 CN PLACEHOLDER
-Ах... за-му-жест-ве?
+О... свадьбе.
 
 武「２４から交際を始めて、２、３年間付き合って、２６、７で結婚する」%K%P
 You become friends with someone at 24, then date for a few years, and marry around 26 or 27.
 CN PLACEHOLDER
-Ну да. В 24 человек заводит крепкую дружбу, встречается на протяжении нескольких лет, и женится примерно в 26 или 27 лет.
+Ну да. Сначала в 24 заводят крепкую дружбу, встречаются на протяжении нескольких лет и выходят замуж примерно в 26-27 лет.
 
 武「これ、シロガネーゼの鉄則」%K%P
 That's the key, marrying into moolah.
 CN PLACEHOLDER
-Просто, сейчас среднестатистическая девушка женится не на человеке, а на деньгах.
+Просто сейчас среднестатистическая девушка выходит замуж не за человека, а за деньги.
 
 空「しろがねーぜ？」%K%P
 Moolah?
 CN PLACEHOLDER
-Женится на деньгах?
+Выходят за деньги?
 
 空「酵素の一種でしょうか？」%K%P
 Does that have to do with cows?
@@ -391,7 +391,7 @@ CN PLACEHOLDER
 武「ちょっとたとえが古かったかな……」%K%P
 I guess my reference was a little dated...
 CN PLACEHOLDER
-Видимо пример был слегка некорректным...
+Видать, пример был слегка не туда...
 
 武「って言うかきみ、いちいち質問が多いんだよ！」%K%P
 Listen up, you're asking too many questions!
@@ -401,12 +401,12 @@ CN PLACEHOLDER
 武「先生が話し終わるまで、口をつぐんでいたまへ」%K%P
 Be quiet until your teacher stops talking!
 CN PLACEHOLDER
-Пожалуйста веди себя тихо, пока учитель не закончит!
+Пожалуйста, ведите себя тихо, пока учитель не закончит!
 
 武「質問なら後でまとめて受け付ける。よいかね？」%K%P
 I'll take all questions at the end. Alright?
 CN PLACEHOLDER
-В самом конце, я отвечу на все вопросы. Хорошо?
+В самом конце я отвечу на все вопросы. Хорошо?
 
 空は黙って頷いた。%K%P
 Sora nodded silently.
@@ -416,7 +416,7 @@ CN PLACEHOLDER
 武「おっほん」%K%P
 Ahem.
 CN PLACEHOLDER
-Э-кхм.
+Э-хем.
 
 武「では、さっきの話に戻りますけど……」%K%P
 Now then, to go back to what I was saying...
@@ -426,27 +426,27 @@ CN PLACEHOLDER
 武「ギラギラってぇのはつまり……」%K%P
 Sparkle means...
 CN PLACEHOLDER
-Яркость... или, я бы сказал, искра... означает...
+Говоря „более яркой“, я имею в виду...
 
 武「『結婚を前提としたお付き合いをする為の対象を血眼になって捜している目つき』」%K%P
 It's the gleam in your eyes as you frantically search for the object of your affection. All, of course, as a preamble to getting married.
 CN PLACEHOLDER
-Блеск в глазах, когда ты выискиваешь объект своего обожания – разумеется, это начальная стадия на пути к замужеству.
+...что в твоём взгляде должен быть огонёк, как когда девушка начинает искать себе партнёра для серьёзных отношений.
 
 武「のことを言ったのでございますのよ」%K%P
 That is what I am speaking of.
 CN PLACEHOLDER
-Об этом и идёт речь.
+Вот что я хочу сказать.
 
 武「２３までは彼氏として相応しい男性を選び」%K%P
 Until 23, you choose a man who will be an appropriate boyfriend.
 CN PLACEHOLDER
-До 23-х, девушка ищет парня, подходящего на роль любовника.
+До 23 лет девушка ищет себе того, кто подойдёт ей на роль парня.
 
 武「２４からは旦那として相応しい男性を選ぶ」%K%P
 After 24, you choose a man who will be an appropriate husband.
 CN PLACEHOLDER
-После 24-х, девушка уже ищет парня, подходящего на роль мужа.
+После 24 девушка уже ищет парня, подходящего на роль мужа.
 
 武「旦那として相応しいってことはつまり、明るい未来を約束してくれそうな男ってことだったりするのでありまするが」%K%P
 You might think that an appropriate husband would be one who promises a bright future...
@@ -581,7 +581,7 @@ CN PLACEHOLDER
 空「はぁ……」%K%P
 Huh?
 CN PLACEHOLDER
-Хааа?
+А-а?
 
 武「『はい、やってみます』じゃなくてさぁ〜……」%K%P
 Not 'Yes, I will try my very best', but...
@@ -601,7 +601,7 @@ CN PLACEHOLDER
 空「んなもん急にできるわけねぇーだろ！　ぶっ殺すぞ、テメェ、コラ！　コケッ、コケッコー、パタパタ……」%K%P
 The hell!? 'ssif I can do som'n like that right away!? I'll kill you, you bastard! Bwa, bwa, bwaawkk.
 CN PLACEHOLDER
-Чё сказал?! Да как ты смеешь?! Порву как тузика! Кха-ха-ха!
+Чё сказал?! И как, по-твоему, я должна это сделать?! Урою тебя! Кха-ха-ха!
 
 武「う、う〜ん、全然違うね、それ」%K%P
 N-No, no, that's all wrong.
@@ -656,17 +656,17 @@ CN PLACEHOLDER
 武「これはタメ口だと『うん、やってみるよ』になる」%K%P
 In casual conversation, this would be 'Sure, I'll give it a try.'
 CN PLACEHOLDER
-В неформальной беседе это будет „Ладушки, попытка – не пытка“.
+В неформальной беседе это будет „Ладно, попробую“.
 
 空「うん、やってみるよ」%K%P
 Sure, I'll give it a try.
 CN PLACEHOLDER
-Ладушки, попытка – не пытка.
+Ладно, попробую.
 
 武「そうそう、やればできるじゃないか」%K%P
 See, you can do it if you try!
 CN PLACEHOLDER
-Смотри-ка, можешь когда хочешь!
+Смотри-ка, можешь, когда хочешь!
 
 空は満面の笑みを浮かべながら……%K%P
 Sora's face lit up with a smile...
@@ -676,7 +676,7 @@ CN PLACEHOLDER
 空「なんだか面白いですね？　もっと教えてください」%K%P
 This is interesting! Please teach me more.
 CN PLACEHOLDER
-Это очень интересно! Прошу тебя, научи меня!
+Это очень интересно! Прошу, научите ещё!
 
 目を輝かせて言った……。%K%P
 Her eyes shone...
@@ -731,7 +731,7 @@ CN PLACEHOLDER
 ココ「あっ、空さーん♪」%K%P
 Oh, Sooora-san〜
 CN PLACEHOLDER
-Ах, Тётя Сора!
+Ах, тётя Сора!
 
 ピピ「わんわん！」%K%P
 *Woof*! *Woof*!
@@ -751,32 +751,32 @@ CN PLACEHOLDER
 空「そんなことよりさぁ、ココ、誰かいい男紹介してくんない？」%K%P
 Anywayz, Coco, don'tcha know any cute guys you could hook me up with?
 CN PLACEHOLDER
-Слушай, подружка, Коко, у тебя нет, часом, на примете хорошего парня?
+Слушай, Коко, а нет у тебя на примете какого-нибудь милого мальчика?
 
 空「この前のコンパがぁ、マジ最悪でぇ……」%K%P
 The guys at this party last week were, like, such losers...
 CN PLACEHOLDER
-А то те, что тусили здесь на прошлой неделе, такие отстойщики...
+А то ходила на свидание вслепую, и это была такая хрень...
 
 ココ「そ、そ、そ、そら、さん……？？」%K%P
 So-So-So-Sora-san...?
 CN PLACEHOLDER
-Т... т... т... тётя... Сора???
+Т-т-т-тётя... Сора???
 
 空「長男ばっかセットすんじゃね〜よ！　とか思ったしぃ」%K%P
 I was like, I'm sicka eldest sons, man! I want something fresh!
 CN PLACEHOLDER
-Куда ни плюнь, одни старпёры! А молодняк где?! Были и нету!
+Я вот ещё подумала: „Что за фигня? Одних дедов подсаживают!“
 
 空「しかもそこらの飲み屋でさぁ、割り勘とかさせようとすんの」%K%P
 And then they wanted to go Dutch.
 CN PLACEHOLDER
-А ещё, называется, ищут приключений на свою задницу!
+Так ещё и посадили в какой-то дешманский бар и пытались заставить платить пополам!
 
 空「嫌でも盛り下がるっつ〜の、ねぇ？」%K%P
 Can you believe it? It's, like, total junk!?
 CN PLACEHOLDER
-Представляешь? Вот фуфломёты, а?!
+И вот как после такого не расстраиваться?
 
 ココ「…………」%K%P
 .........
@@ -786,7 +786,7 @@ CN PLACEHOLDER
 ココ「ひいいぃぃぃぃっっっ……」%K%P
 Waaaaaahhhhhhh...
 CN PLACEHOLDER
-Иииииииййййййй!..
+И-и-и-и-и...
 
 ココが泣き出した。%K%P
 Coco burst into tears.
@@ -796,7 +796,7 @@ CN PLACEHOLDER
 ピピ「ウーッ……ウーッ……ウーッ……」%K%P
 *Grr*... *grr*... *grr*...
 CN PLACEHOLDER
-Рррррр, грррррр, ррррррр, гррррр!..
+Р-р-р, гр-р-р, р-р-р, гр-р-р!..
 
 ピピは怯えて唸っていた。%K%P
 Pipi let out a terrified growl.
@@ -806,7 +806,7 @@ CN PLACEHOLDER
 空「な、なによぅ〜っ？」%K%P
 Whah, what's the matter?
 CN PLACEHOLDER
-Ч-что за ё-моё?!
+Гра-а, ну и чё вы?!
 
 空「なにがそんなに気に入らないわけぇ〜？」%K%P
 You don't like my new way of talking?
@@ -831,7 +831,7 @@ CN PLACEHOLDER
 空「最近メール来ないんだけどぉ、何、チョー忙しいわけ？」%K%P
 I haven't heard from you for, like, forever, girl. What, are you like, busy like a bee or something?
 CN PLACEHOLDER
-Подруга, да я тебя не видела целую вечность! Падись всё трудишься как пчёлка?
+Сто лет не виделись! Совсем на меня времени нет?
 
 優「……ええええ！？」%K%P
 ...Eeeh!?
@@ -871,7 +871,7 @@ CN PLACEHOLDER
 優「くらなりっ！　あんたの仕業かぁ〜っ！！」%K%P
 Kuranari! Did you do this!?
 CN PLACEHOLDER
-Куранариии!!! Твояяя работааа?!
+Ку-ра-на-ри!!! Твоих рук дело?!
 
 そんなわけで……。%K%P
 So...

@@ -1435,7 +1435,7 @@ CN PLACEHOLDER
 急に、優が角を右に折れた。%K%P
 Suddenly, You turned right.
 CN PLACEHOLDER
-Вскоре, Ю свернула направо.
+Вскоре Ю свернула направо.
 
 勢い余って直進を続けていたぼくは、慌ててコーナーのふちに手をかけると、反転して優の後を追った。%K%P
 Inertia kept me going forward. Afraid I would miss the turn, I grabbed the corner with my hand, yanking myself around and chasing after You again.
@@ -2015,7 +2015,7 @@ CN PLACEHOLDER
 じりじりと、上から鉄の隔壁が下りて来る。%K%P
 A steel partition gradually slid down from above.
 CN PLACEHOLDER
-Постепенно, стальная конструкция накренилась.
+Стальная конструкция постепенно накренилась.
 
 下からも、隔壁が水を押し退けてせり上がって行く。%K%P
 Another one came up from below, pushing away water as it moved.
@@ -2877,7 +2877,7 @@ CN PLACEHOLDER
 そう考えたとたん、凍りつくような不安がぼくを襲った。%K%P
 The instant that thought went through my mind, I was frozen by an icy wave of unease.
 CN PLACEHOLDER
-С этой мыслью, меня заморозило ледяной волной тревоги.
+С этой мыслью меня заморозило ледяной волной тревоги.
 
 怖くて、心細くて、寂しくて……。%K%P
 Scared, isolated, lonely...

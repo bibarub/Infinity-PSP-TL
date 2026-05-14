@@ -6,12 +6,12 @@ CN PLACEHOLDER
 優は『Ｌ−ＭＲＩ』を指差す。%K%P
 You pointed to the L-MRI.
 CN PLACEHOLDER
-Ю показала на «L-MRI».
+Ю показала на L-MRI.
 
 俺とつぐみが、ココを装置の平たい台へと担ぎ上げた。%K%P
 Tsugumi and I laid Coco down on the flat table.
 CN PLACEHOLDER
-Цугуми и я опустили Коко на плоский стол.
+Мы с Цугуми уложили туда Коко.
 
 ココは小刻みに浅い呼吸を繰り返していた。吐血は止まっているが、かなり辛そうだ。%K%P
 Coco continued to breathe in her short, shallow manner. Although she had stopped coughing up blood, she seemed to be in a lot of pain.
@@ -26,7 +26,7 @@ CN PLACEHOLDER
 程なく『Ｌ−ＭＲＩ』のアームが稼動し、レーザースキャンが開始された。%K%P
 The arm of the L-MRI soon came to life and started a laser scan.
 CN PLACEHOLDER
-Вскоре, рука «L-MRI» ожила и начала лазерное сканирование.
+Вскоре рука L-MRI ожила и начала лазерное сканирование.
 
 少年は台の横に寄り添って、今にも泣き出しそうな顔でココを見ている。%K%P
 The Kid came up to the side of the table and stared at Coco, looking as if he would burst into tears.
@@ -86,12 +86,12 @@ CN PLACEHOLDER
 空「ティーフブラウ……！」%K%P
 Tief Blau...!
 CN PLACEHOLDER
-Tief Blau...!
+Tief Blau!..
 
 優「……えっ？」%K%P
 ...Huh?
 CN PLACEHOLDER
-...а?
+...А?
 
 武「なんだって？」%K%P
 What'd you say?
@@ -121,7 +121,7 @@ CN PLACEHOLDER
 事態が深刻であることは、表情からわかる。%K%P
 Her expression showed how serious the situation was.
 CN PLACEHOLDER
-(Tief Blau? Мне кажется, или я правда где-то это слышал?..)%K%PНо её подавленный вид говорит о том, что всё серьёзно как никогда.
+Её подавленный вид говорит о том, что всё серьёзно как никогда.
 
 武「空……？」%K%P
 Sora...?
@@ -181,7 +181,7 @@ CN PLACEHOLDER
 空「……それは……」%K%P
 ...It's...
 CN PLACEHOLDER
-...это...
+Это...
 
 空は動揺を抑えられないまま、ためらいがちに口を開いた。%K%P
 Sora was unable to suppress her agitation and opened her mouth hesitantly.
@@ -206,12 +206,12 @@ Tief... Blau...
 ティーフブラウ……？%K%P
 Tief Blau...?
 CN PLACEHOLDER
-Пытаясь успокоиться, я несколько раз прокрутил в голове название вируса.%K%PПо-немецки оно означает... Голубая Синева.
+Что же это за «Тиф Блау»?
 
 つぐみの持つウイルスとはまったく別の、ウイルス……？%K%P
 A virus that was totally different than the one Tsugumi had...?
 CN PLACEHOLDER
-Стоп... этот вирус – полная противоположность того, что носит в себе Цугуми...
+Этот вирус же совсем не такой, как у Цугуми...
 
 少年「ココ、ココっ！」%K%P
 Coco, Coco!
@@ -491,7 +491,7 @@ CN PLACEHOLDER
 ピピが俺のそばに来て、小さく鳴いた。%K%P
 Pipi came over to me and whined softly.
 CN PLACEHOLDER
-Пипи подошёл ко мне и грустно запищал.
+Пипи подошёл ко мне и грустно заскулил.
 
 空「……あっ！！」%K%P
 ...Oh!
@@ -586,7 +586,7 @@ CN PLACEHOLDER
 徐々にではあるが、彼女の呼吸は穏やかになり、身体の震えもなく落ち着いてきた。%K%P
 Although it was gradual, Coco's breathing became more even, and the tremors in her body settled down.
 CN PLACEHOLDER
-Постепенно, Коко задышала более ровно, а спазмы прекратились.
+Постепенно Коко задышала более ровно, а спазмы прекратились.
 
 空「効果、あったようです」%K%P
 It looks like it is taking effect.
@@ -656,7 +656,7 @@ CN PLACEHOLDER
 ピピは哀しげに、鼻を鳴らしていた。%K%P
 Pipi whined pitifully.
 CN PLACEHOLDER
-Грустно пропищал Пипи.
+Грустно проскулил Пипи.
 
 武「さて……」%K%P
 Alright...
@@ -666,7 +666,7 @@ CN PLACEHOLDER
 ココの眠る『Ｌ−ＭＲＩ』を囲んで、皆が集まる。%K%P
 Everyone gathered around the L-MRI where Coco slept.
 CN PLACEHOLDER
-Все собрались вокруг «L-MRI», где спит Коко.
+Все собрались вокруг L-MRI, где спит Коко.
 
 武「空、ティーフブラウとやらについて教えてくれ」%K%P
 Sora, tell us what you can about the Tief Blau virus.
@@ -746,7 +746,7 @@ CN PLACEHOLDER
 時折、『Ｌ−ＭＲＩ』のリードセンサーがココの生体反応音を鳴らし、その音だけが響いている。%K%P
 Every once in a while, the sensor from the L-MRI would sound out Coco's vital signs, the only noise to echo through the room.
 CN PLACEHOLDER
-Лишь изредка сенсор «L-MRI» пищит, отображая показатели состояния организма Коко – это единственный звук, что раздаётся во всём помещении.
+Лишь изредка сенсор L-MRI пищит, отображая показатели состояния организма Коко – это единственный звук, что раздаётся во всём помещении.
 
 空「ティーフブラウ（ＴＢ）……」%K%P
 Tief Blau, or TB, was...
@@ -836,7 +836,7 @@ CN PLACEHOLDER
 ＬｅＭＵの下、水深１１９ｍの海底に熱水噴出孔がある。%T030%K%N
 119 meters beneath LeMU, there were thermal seafloor vents.
 CN PLACEHOLDER
-В 119 метрах под LeMU, на морском дне, находятся горячие источники.
+В 119 метрах под LeMU, на морском дне, находятся гидротермальные источники.
 
 そこには、他の環境では見られない特殊な微生物が棲息していて、ライプリヒ製薬はそれを研究すべく海底に研究所を作った。%T030%K%N
 Living there were special microbes, which couldn't be found in any other environment, and Leiblich Pharmaceuticals created a research institute in order to study them.
@@ -846,12 +846,12 @@ CN PLACEHOLDER
 名称は『ＩＢＦ』――%T030%K%N
 It was called “IBF”—
 CN PLACEHOLDER
-«IBF»...
+И называется она «IBF»...
 
 『Ｉｎｓｔｉｔｕｔｅ⑳ｆüｒ⑳Ｂｉｏｌｏｇｉｓｃｈｅ⑳Ｆｏｒｓｃｈｕｎｇ』%T030%K%N
 “Institut für biologische Forschung”.
 CN PLACEHOLDER
-«Institut für biologische Forschung».
+Institut für biologische Forschung.
 
 和訳すると、そのまま『生物学の研究所』のことを表していると言う。%K%O
 Translated, it meant “The Institute for Biological Research”.
@@ -881,12 +881,12 @@ CN PLACEHOLDER
 また、資金調達という目的も、なかったわけではない。%T030%K%N
 At the same time, they could also get much-needed funds for research.
 CN PLACEHOLDER
-В то же время, это отличный способ сокрытия доходов.
+В то же время, это отличный источник для финансирования исследований.
 
 テーマパークを併設することによって、いくらかでも研究所の運営費を補えれば……と、そんな思惑もあったようだ。%T030%K%N
 If they set up a successful theme park, they could get pretty much all the money they needed to run the research facility...
 CN PLACEHOLDER
-Владея сверхпопулярным парком развлечений... не стоит задумываться, где взять деньги на исследования...
+Судя по всему, они за счёт доходов от парка планировали покрыть хотя бы часть расходов на исследовательский центр...
 
 ともかくライプリヒ製薬は、この真下……水深１１９ｍの海底で、ずっと細菌やウイルスの研究を続けてきていたのだ。%K%O
 So Leiblich Pharmaceuticals continued to carry out research into bacteria and viruses on the bottom of the ocean... 119 meters underwater.
@@ -951,7 +951,7 @@ CN PLACEHOLDER
 空「ＩＢＦの診療室には、最新型の『高圧酸素治療装置』があるようです」%K%P
 It appears that they have a new type of 'high-pressure oxygen treatment device' there...
 CN PLACEHOLDER
-В IBF имеется новый тип „Устройств кислородного лечения высокого давления“...
+В IBF имеется новый тип системы оксигенотерапии высокого давления...
 
 空「その治療装置を使えば、白血球の殺菌作用が増大します」%K%P
 And if we can treat her with that, her leukocyte, er, white blood cell activity should increase.
@@ -966,7 +966,7 @@ CN PLACEHOLDER
 空「症状を抑える効果のあるアンプル……先程のオレンジのアンプルも、新たに入手できるでしょう」%K%P
 We might even encounter more of the serum that is effective in stabilizing the symptoms... the orange one that we found previously.
 CN PLACEHOLDER
-Мы можем обнаружить ещё несколько ампул с сывороткой... такие же как та, оранжевого цвета, для снятия симптомов.
+Мы можем обнаружить ещё несколько ампул с сывороткой... таких же, как та оранжевая для снятия симптомов.
 
 武「ＩＢＦ、か……」%K%P
 IBF, huh...?
@@ -1121,7 +1121,7 @@ CN PLACEHOLDER
 空「でも……ＩＢＦに行くには、ヒンメルを通らないと……ヒンメルの扉は開かないんですよ？」%K%P
 However, in order to get to IBF, we have to get through Himmel... and Himmel's door isn't opening.
 CN PLACEHOLDER
-Однако чтобы добраться до IBF, нужно пройти через ХИММЕЛ... Но дверь в него заперта.
+Однако чтобы добраться до IBF, нужно пройти через Химмель... Но дверь в него заперта.
 
 武「とにかく行くんだよ。他に道はないんだ。案内してくれ」%K%P
 I don't care, we're going! We don't have any other options. Show me the way.

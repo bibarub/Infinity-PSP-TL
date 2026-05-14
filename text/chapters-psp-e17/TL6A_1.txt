@@ -251,7 +251,7 @@ CN PLACEHOLDER
 優「ヒンメル、レミ、そして……空。彼の手になるものは、ＬｅＭＵにあった」%K%P
 Himmel, LeMMIH, and... Sora. Everything he left behind is here in LeMU.
 CN PLACEHOLDER
-ХИММЕЛ, LeMMIH и... Сора. Всё, что он оставил после себя здесь. В LeMU.
+Химмель, LeMMIH и... Сора. Всё, что он оставил после себя здесь. В LeMU.
 
 優「プログラマーにとっては――」%K%P
 Being a programmer...
@@ -486,7 +486,7 @@ CN PLACEHOLDER
 武「空……ヒンメル！？」%K%P
 Sora... Himmel!?
 CN PLACEHOLDER
-Сора... ХИММЕЛ?!
+Сора... Химмель?!
 
 武「じゃ、じゃあっ！　もしかして――」%K%P
 So then, that means...
@@ -496,7 +496,7 @@ CN PLACEHOLDER
 武「ヒンメルに、空の頭脳も、心も、あるってことか！？」%K%P
 Sora's mind and spirit are here in Himmel!?
 CN PLACEHOLDER
-Её разум и душа в ХИММЕЛ?!
+Её разум и душа в Химмеле?!
 
 抑え切れず俺が訊くと、優は頷いた。%K%P
 I couldn't hold back. You gave me a nod when I asked that question.
@@ -883,7 +883,7 @@ CN PLACEHOLDER
 武「あ、ああ。げほっ」%K%P
 Uh, yeah. *Cough*...
 CN PLACEHOLDER
-А-ага... *кашляет*
+А-ага... *Кашляет*
 
 いかん、いかんぞ……。%K%P
 It wasn't a good situation...
@@ -988,7 +988,7 @@ CN PLACEHOLDER
 武「なんで、どこでＴＢに！？　……げほっ」%K%P
 Why and where did he get TB...!? *Cough*...
 CN PLACEHOLDER
-Как и где он заразился Tief Blau?! *кашляет*
+Как и где он заразился Tief Blau?! *Кашляет*
 
 俺は少しむせながら呟いた。%K%P
 I mumbled to myself, finding it hard to breathe all of a sudden.
@@ -1543,7 +1543,7 @@ CN PLACEHOLDER
 優「こほっ……ごほっ！」%K%P
 *Cough*... *cough*!
 CN PLACEHOLDER
-*кашляет*
+*Кашляет*
 
 急に、優が咳き込む。%K%P
 Suddenly, she started coughing.
@@ -1558,7 +1558,7 @@ CN PLACEHOLDER
 優「そ、そんなこと……げほっ、言ったって」%K%P
 But I-I just... *cough*...
 CN PLACEHOLDER
-Но я-я просто... *кашляет* ...поперхнулась!..
+Но я-я просто... *Кашляет* ...поперхнулась!..
 
 咳がなかなか止まってくれない。%K%P
 She wouldn't stop coughing.
@@ -1668,7 +1668,7 @@ CN PLACEHOLDER
 優「ちょっと……こほっ、何すん――痛！」%K%P
 Hey... *cough*, what are you doing!? Ouch!
 CN PLACEHOLDER
-Эй... *кашляет* ...Что ты делаешь! Ай!
+Эй... *Кашляет* ...Что ты делаешь! Ай!
 
 武「我慢しとけっ」%K%P
 Stop complaining!
@@ -1998,7 +1998,7 @@ CN PLACEHOLDER
 優「そうだ、ヒンメルからなら……」%K%P
 Hey, if it's from Himmel...
 CN PLACEHOLDER
-Конечно, если вернуться в ХИММЕЛ...
+Конечно, если вернуться в Химмель...
 
 優「テラバイトディスクに、コピーして……」%K%P
 We could copy it to a terabyte disc...
@@ -3413,7 +3413,7 @@ CN PLACEHOLDER
 続いて、ヒンメルのコンソールが間抜けな音を奏でた。%K%P
 And soon, an alarm rang from the Himmel console.
 CN PLACEHOLDER
-Консоль ХИММЕЛ издала сигнал тревоги.
+Консоль Химмеля издала сигнал тревоги.
 
 武「何の音だ？」%K%P
 What was that sound?
@@ -3558,7 +3558,7 @@ CN PLACEHOLDER
 俺はヒンメルのコンソールに飛びつき、モニターに映った被害状況を改めて確認した。%K%P
 I sprang to the Himmel console, checking once more the damage shown there.
 CN PLACEHOLDER
-Я отпружинил к консоли ХИММЕЛ, ещё раз проверив схему повреждений.
+Я отпружинил к консоли Химмеля, ещё раз проверив схему повреждений.
 
 ＩＢＦ用リフトはシャフト破損につき昇降不能。%K%P
 The IBF elevator wasn't moving due to a break in the shaft.
@@ -3843,7 +3843,7 @@ CN PLACEHOLDER
 武「ドリットシュトックが浸水するってことは、ヒンメルのコンピュータールームも水没するってことなんだぞ？」%K%P
 If we flood Dritter Stock, the Himmel computer room will be flooded too.
 CN PLACEHOLDER
-Если вода затопит Дритте Шток, она прихватит с собой и серверную ХИММЕЛ.
+Если вода затопит Дритте Шток, она прихватит с собой и серверную Химмеля.
 
 空「はい」%K%P
 Yes.
@@ -3913,7 +3913,7 @@ CN PLACEHOLDER
 武「ヒンメルが水没したら、お前はどうなる？」%K%P
 If Himmel floods, what happens to you?
 CN PLACEHOLDER
-Если ХИММЕЛ затопит, что станет с тобой?!
+Если Химмель затопит, что станет с тобой?!
 
 武「お前の記憶は、思い出は……ここにあるんじゃないのか？」%K%P
 Your memory, your recollections... aren't they all here?
@@ -4093,7 +4093,7 @@ CN PLACEHOLDER
 空「その時が来るまで……私はこのヒンメルに留まり、ＬｅＭＵの状態を監視します」%K%P
 Until then... I'll stay at Himmel and keep watch on LeMU.
 CN PLACEHOLDER
-До этого момента... я останусь в ХИММЕЛ и буду мониторить LeMU.
+До этого момента... я останусь в Химмеле и буду мониторить LeMU.
 
 空「排水ダクトをコントロールして、崩落を食い止め……１分１秒でも長く、全館が維持できるように努めておきます。ですから――」%K%P
 I'll control the drainage duct and try to stop the fall... I'll try to keep the whole place going for as long as I can, even a minute, even a second longer. So...
@@ -4113,7 +4113,7 @@ CN PLACEHOLDER
 ヒンメルを出て、上階を目指す。%K%P
 I left Himmel and started heading up.
 CN PLACEHOLDER
-Я оставил ХИММЕЛ и побежал вверх по ступенькам...
+Я оставил Химмель и побежал вверх по ступенькам...
 
 ＰＤＡの画面を確認した。%K%P
 I checked the screen on my PDA.
@@ -4128,7 +4128,7 @@ CN PLACEHOLDER
 さっきヒンメルのコンソールから、俺はＰＤＡにＬｅＭＵのセンサーとのデータリンク・プログラムをインストールした。%K%P
 From the console at Himmel, I had installed a program to link data from LeMU's sensors to my PDA.
 CN PLACEHOLDER
-Чуть раньше я установил интерфейсную программу с консоли ХИММЕЛ, что связывает мой КПК с мэйнфреймом LeMU.
+Чуть раньше я установил программу с консоли Химмеля, что отправляет мне данные с датчиков LeMU.
 
 段取りはすべて、空が用意してくれた。%K%P
 Sora had prepared it for me.
@@ -4583,7 +4583,7 @@ CN PLACEHOLDER
 空「ドリットシュトック浸水後も、ヒンメルはしばらく耐えられるはずです」%K%P
 Even after Dritter Stock is flooded, Himmel should be alright for a little while.
 CN PLACEHOLDER
-Даже после затопления Дритте Шток с ХИММЕЛ некоторое время всё будет в порядке.
+Даже после затопления Дритте Шток с Химмелем некоторое время всё будет в порядке.
 
 空「倉成さんが地上に脱出するまでは、確実に……いえ、絶対に、耐えてみせます」%K%P
 I'll make sure that I can... no, I absolutely will hang on until you make it to the top.
@@ -5383,7 +5383,7 @@ CN PLACEHOLDER
 空「ヒンメルの外は、すべて海水に満たされるんです」%K%P
 Everything outside of Himmel will be covered in seawater.
 CN PLACEHOLDER
-Всё, что вне ХИММЕЛ, окажется под водой.
+Всё, что вне Химмеля, окажется под водой.
 
 空「そうしたら、倉成さんは、もう二度と……」%K%P
 If I do that, you'll never again be able to...
@@ -5398,7 +5398,7 @@ CN PLACEHOLDER
 ヒンメルのコンソールに手をかける。%K%P
 I grabbed Himmel's console.
 CN PLACEHOLDER
-Я взялся за консоль ХИММЕЛ.
+Я взялся за консоль Химмеля.
 
 空「無駄です。そこからのコントロールはできません」%K%P
 Forget it. You can't control things from there.
@@ -5578,7 +5578,7 @@ CN PLACEHOLDER
 俺は転倒しながらも、ヒンメルの入り口にすっ飛んで行った。%K%P
 I wobbled as I moved but ran swiftly to the entrance of Himmel.
 CN PLACEHOLDER
-Шатаясь из стороны в сторону, я быстро подбежал ко входу в ХИММЕЛ.
+Шатаясь из стороны в сторону, я быстро подбежал ко входу в Химмель.
 
 重い扉を、全力で閉めにかかる。%K%P
 I tried to close the heavy door with the full force of my weight.
@@ -5598,7 +5598,7 @@ CN PLACEHOLDER
 武「ぐあっ、げほげほっ……」%K%P
 Gaagh, *cough*, *cough*...
 CN PLACEHOLDER
-О нет... *кашляет*
+О нет... *Кашляет*
 
 急にひどい目眩と胸焼けがして、俺は床に座り込んでしまった。%K%P
 I suddenly felt terribly dizzy, a burning sensation in my chest, and collapsed to the floor.
@@ -5648,7 +5648,7 @@ CN PLACEHOLDER
 濁流はヒンメルへの通路を呑み込み、天井までを覆い隠そうと迫っている。%K%P
 A flow of dirty water had swallowed the path to Himmel and was on the verge of reaching the ceiling.
 CN PLACEHOLDER
-Бурлящий поток воды, вперемешку с грязью, приближается к ХИММЕЛ, заглатывая всё на своём пути.
+Бурлящий поток воды вперемешку с грязью приближается к Химмелю, заглатывая всё на своём пути.
 
 ダメだ……扉を、扉を閉めないと……！！%K%P
 (No! I've got to get the door closed...!)
@@ -5703,7 +5703,7 @@ CN PLACEHOLDER
 空をかばうようにして、開いたままのヒンメルの扉を背負う位置へと這った。%K%P
 Trying to cover Sora, I put my back against the open door to Himmel.
 CN PLACEHOLDER
-Пытаясь заслонить Сору, я прижался спиной к открытому дверному проёму ХИММЕЛ...
+Пытаясь заслонить Сору, я прижался спиной к открытому дверному проёму Химмеля...
 
 立ち塞がってやる。%K%P
 I was determined to block the entrance.

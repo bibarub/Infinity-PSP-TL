@@ -126,7 +126,7 @@ CN PLACEHOLDER
 救護室の『Ｌ−ＭＲＩ』が、ココの症状をそう診断した。%K%P
 The L-MRI was scanning Coco's condition.
 CN PLACEHOLDER
-«L-MRI» просканировал Коко.
+L-MRI просканировал Коко.
 
 ティーフブラウ・ウイルス――。%K%P
 The Tief Blau virus—
@@ -261,7 +261,7 @@ CN PLACEHOLDER
 空「ＩＢＦの診療室には、最新型の『高圧酸素治療装置』があるようです」%K%P
 It appears that they have a new type of 'high-pressure oxygen treatment device' there...
 CN PLACEHOLDER
-В IBF имеется новый тип „Устройств кислородного лечения высокого давления“...
+В IBF имеется новый тип системы оксигенотерапии высокого давления...
 
 空「その治療装置を使えば、白血球の殺菌作用が増大します」%K%P
 And if we can treat her with that, her leukocyte, er, white blood cell activity should increase.
@@ -291,7 +291,7 @@ CN PLACEHOLDER
 空「でも、ＩＢＦに行くには、ヒンメルを通らないと……。ヒンメルの扉は開かないんですよ？」%K%P
 However, in order to get to IBF, we have to get through Himmel... and Himmel's door isn't opening.
 CN PLACEHOLDER
-Однако чтобы добраться до IBF, нужно пройти через ХИММЕЛ... Но дверь в него заперта.
+Однако чтобы добраться до IBF, нужно пройти через Химмель... Но дверь в него заперта.
 
 武「とにかく行くんだよ！」%K%P
 I don't care, we're going!
@@ -341,7 +341,7 @@ CN PLACEHOLDER
 彼らはヒンメルの前についた。%K%P
 They arrived at Himmel.
 CN PLACEHOLDER
-Они оказались перед ХИММЕЛ.
+Они оказались перед Химмелем.
 
 だが扉は固く閉ざされている。%K%P
 The door was shut fast.
@@ -421,7 +421,7 @@ CN PLACEHOLDER
 空「この部屋の中……ヒンメルの端末からです！」%K%P
 From inside the room... From a terminal inside Himmel!
 CN PLACEHOLDER
-Внутри того помещения... с терминала в ХИММЕЛ!
+Внутри того помещения... с терминала в Химмеле!
 
 武「何だって！？」%K%P
 What!?
@@ -566,7 +566,7 @@ CN PLACEHOLDER
 口元を歪めて苦笑すると、そこから血がこぼれた。%K%P
 Blood trickled from his mouth, and he smiled wryly.
 CN PLACEHOLDER
-Кровь тонкой струйкой сочится из его рта, но он улыбнулся... с трудом... улыбка вперемешку с гримасой боли.
+Стоило ему горько усмехнуться, как с его губ вновь потекла кровь.
 
 武「お、おいっ、あんま無理にしゃべるな！」%K%P
 H-Hey! Don't strain yourself. You don't have to talk!
@@ -646,7 +646,7 @@ CN PLACEHOLDER
 空「皆さん、この部屋の奥にもうひとつ、部屋があります。見えますか？」%K%P
 Everyone, at the far end of this room is another room. Can you see it?
 CN PLACEHOLDER
-Ребята, в дальнем конце помещения есть ещё одно. Видите?
+Ребята, в дальнем конце помещения есть ещё одна дверь. Видите?
 
 空「あれはＩＢＦ用の、加減圧室です」%K%P
 That is the compression chamber for IBF.
@@ -666,7 +666,7 @@ IBF заполнен газом под ещё более высоким давл
 空「そのほうが特殊な細菌の研究に適しているということもあるのでしょう……ＩＢＦの内部気圧は、実に、約１２．５気圧……」%K%P
 This type of area is also probably more suitable for research with bacteria... The atmospheric pressure of IBF is actually at about 12.5 atmospheres.
 CN PLACEHOLDER
-Зоны как эта действительно более подходящи для изучения микроорганизмов... Давление в IBF составляет примерно 12,5 атмосфер.
+Зоны, как эта, действительно больше подходят для изучения микроорганизмов... Давление в IBF составляет примерно 12,5 атмосфер.
 
 空「皆さんには、あの部屋に入っていただきます」%K%P
 I want all of you to enter that room.
@@ -796,12 +796,12 @@ CN PLACEHOLDER
 診療室にはＬｅＭＵの救護室と同じタイプの『Ｌ−ＭＲＩ』が置いてあった。%K%P
 An L-MRI, the same type that had been in LeMU's infirmary, was in the room.
 CN PLACEHOLDER
-В смотровом зале находится аналог «L-MRI», что стоит в лазарете LeMU.
+В смотровом зале находится аналог L-MRI, что стоит в лазарете LeMU.
 
 武「なあ、優？　空の言ってた『高圧酸素治療装置』ってのはどれなんだ？」%K%P
 Hey, You? Where is that high-pressure oxygen thing that Sora was talking about?
 CN PLACEHOLDER
-Эй, Ю? Где та штуковина „кислородного лечения высокого давления“, о которой говорила Сора?
+Эй, Ю? Где та штуковина „оксигенотерапии высокого давления“, о которой говорила Сора?
 
 優「わ、わかんないよ、そんなの……」%K%P
 H-How should I know...?
@@ -821,7 +821,7 @@ CN PLACEHOLDER
 研究員「ぐっ……ま、待て……！」%K%P
 *Gagh*... W-Wait!
 CN PLACEHOLDER
-*кашляет* По-постойте!
+*Кашляет* По-постойте!
 
 咳き込みながら、研究員が口を開いた。%K%P
 The researcher coughed as he spoke.
@@ -846,12 +846,12 @@ CN PLACEHOLDER
 研究員「この匂い……ここは、ＩＢＦか……？」%K%P
 This smell... Is this IBF?
 CN PLACEHOLDER
-Этот запах... это...IBF?
+Этот запах... это IBF?..
 
 研究員「戻ってきてしまったな……ゴホッ」%K%P
 So I'm back where I started... *cough*
 CN PLACEHOLDER
-Значит, я вернулся... *кашляет*
+Значит, я вернулся... *Кашляет*
 
 武「あんた、やっぱりここの人間だったのか……」%K%P
 So you WERE working here...
@@ -861,7 +861,7 @@ CN PLACEHOLDER
 武「いや、それなら訊きたいことがある。高圧酸素治療装置ってのを探してるんだ」%K%P
 Well then, there's something I want to ask you. We're looking for some kind of high-pressure oxygen treatment device.
 CN PLACEHOLDER
-Ну что же, тогда нам нужна ваша помощь. Мы ищем штуковину под названием „устройство кислородного лечения высокого давления“.
+Ну, тогда нам нужна ваша помощь. Мы ищем штуковину под названием „системы оксигенотерапии высокого давления“.
 
 武「診療室まで来たのはいいが、俺達にはどれがその装置かわからない。頼む、教えてくれ」%K%P
 We've come as far as the examination room, but we don't have a clue what to look for. Can you help us? Please!
@@ -881,7 +881,7 @@ CN PLACEHOLDER
 研究員「円筒形の柱にくっついてるやつだ……見えるかい？」%K%P
 They look like a bunch of cylinders stuck to a pillar... You see them?
 CN PLACEHOLDER
-Чем-то напоминает кучу цилиндров, приваренных к колонне... Видите?
+Они прикреплены к цилиндрической колонне... Видите?
 
 武「ああ、目の前にある」%K%P
 Yeah, they're right in front of me.
@@ -891,7 +891,7 @@ CN PLACEHOLDER
 研究員「そいつが、そうだ……っ、ゲホッ」%K%P
 That's them... *cough*...
 CN PLACEHOLDER
-Это они... *кашляет*
+Это они... *Кашляет*
 
 武「しっかりしろ！　……わかった。もうあまりしゃべらないでくれ」%K%P
 Hang in there...! We found them. So don't waste your energy talking anymore, okay?
@@ -1761,7 +1761,7 @@ CN PLACEHOLDER
 優「ヒンメル、レミ、そして……空。彼の手になるものは、ＬｅＭＵにあった」%K%P
 Himmel, LeMMIH, and... Sora. Everything he left behind is here in LeMU.
 CN PLACEHOLDER
-ХИММЕЛ, LeMMIH и... Сора. Всё, что он оставил после себя здесь. В LeMU.
+Химмель, LeMMIH и... Сора. Всё, что он оставил после себя здесь. В LeMU.
 
 優「プログラマーにとっては――」%K%P
 Being a programmer...
@@ -1921,7 +1921,7 @@ CN PLACEHOLDER
 武「空は……『ヒンメル』に……」%K%P
 Sora is... in 'Himmel'...
 CN PLACEHOLDER
-Сора... ХИММЕЛ?..
+Сора... в Химмеле?..
 
 優美清春香菜は頷いた。%K%P
 You nodded.
@@ -2141,17 +2141,17 @@ CN PLACEHOLDER
 武「ちっともよくねぇよ、つぐみの前で、そんな、みっとも、な……………………うっ……」%K%P
 I care. Looking like this in front of you, I... uugh...
 CN PLACEHOLDER
-Мне, например. Такая стыдоба, да ещё перед тобой... я... *кашляет*
+Мне, например. Такая стыдоба, да ещё перед тобой... я... *Кашляет*
 
 武「う、ううぅぅぅっ……」%K%P
 Aaaaagh...
 CN PLACEHOLDER
-*кашляет*
+*Кашляет*
 
 武「うえっっっ！」%K%P
 Uuurgh!
 CN PLACEHOLDER
-*кашляет*
+*Кашляет*
 
 武は血を吐いた。%K%P
 Takeshi spat out blood.
@@ -2231,7 +2231,7 @@ CN PLACEHOLDER
 武「あ、ああ……げほっげほっ……」%K%P
 Y-Yeah... *Cough*...
 CN PLACEHOLDER
-А-ага... *кашляет*
+А-ага... *Кашляет*
 
 つぐみが武の肩を支え、通路の入り口へと引きずって行く。%K%P
 Tsugumi supported Takeshi with her shoulder and pulled him along into the entrance of the corridor.
@@ -3121,12 +3121,12 @@ CN PLACEHOLDER
 武「俺達は、わずかでも生き延びられる可能性に賭けるしかない」%K%P
 It's better that we take this risk, no matter how small our chance of survival.
 CN PLACEHOLDER
-Уж лучше принять этот риск, насколько бы мизерными не были наши шансы выжить.
+Уж лучше принять этот риск, насколько бы мизерными ни были наши шансы выжить.
 
 武「……うっ……ぐぶっ」%K%P
 ...Uuh... *cough*...
 CN PLACEHOLDER
-*кашляет*
+*Кашляет*
 
 鮮血が、武の口から飛び散った。%K%P
 Fresh blood flew from Takeshi's mouth.
@@ -4051,7 +4051,7 @@ CN PLACEHOLDER
 空「では、私はこのヒンメルに留まり、ＬｅＭＵの状態を監視して、ＰＤＡに転送します」%K%P
 I'll stay here in Himmel to keep track of the situation at LeMU and send updates to your PDA.
 CN PLACEHOLDER
-Я останусь в ХИММЕЛ, чтобы следить за ситуацией в LeMU, и посылать обновления на твой КПК.
+Я останусь в Химмеле, чтобы следить за ситуацией в LeMU и посылать обновления на твой КПК.
 
 空「隔壁をコントロールして、崩落を食い止め……１分１秒でも長く、全館が維持できるように努めておきます。ですから――」%K%P
 I'll do what I can to stop the partitions from failing... to see that this place stays together even a little while longer. So...
@@ -4411,7 +4411,7 @@ CN PLACEHOLDER
 救護室から無事につぐみを救出した武は、ヒンメルへと到着した。%K%P
 Having rescued Tsugumi from the infirmary, Takeshi made it safely back to Himmel.
 CN PLACEHOLDER
-Вызволив Цугуми из лазарета, Такэси благополучно вернулся в ХИММЕЛ.
+Вызволив Цугуми из лазарета, Такэси благополучно вернулся в Химмель.
 
 部屋の中には空が待っていた。%K%P
 Sora was waiting for them back in the room.
@@ -4461,7 +4461,7 @@ CN PLACEHOLDER
 武はヒンメルのコンソールを指差した。%K%P
 Takeshi pointed to Himmel's console.
 CN PLACEHOLDER
-Такэси показал на консоль ХИММЕЛ.
+Такэси показал на консоль Химмеля.
 
 そのモニターには、次のような文字が浮かんでいる。%K%P
 There were letters written on the monitor.
@@ -4541,7 +4541,7 @@ CN PLACEHOLDER
 優「ヒンメルにあった、空の記憶も――」%K%P
 It was in Himmel, along with Sora's memory...
 CN PLACEHOLDER
-Это было в ХИММЕЛ, вместе с памятью Соры...
+Это было в Химмеле, вместе с памятью Соры...
 
 優「あのテラバイトディスクの中にある」%K%P
 It's on that terabyte disc.
@@ -4781,7 +4781,7 @@ CN PLACEHOLDER
 ＲＳＤ画像が歪み、乱れていく。%K%P
 The RSD image started to warp and break up.
 CN PLACEHOLDER
-Её RSD изображение стало коробить и портиться.
+Её RSD-изображение стало коробить и портиться.
 
 空の背後には、霧がかかっている。%K%P
 A fog enveloped Sora from behind.

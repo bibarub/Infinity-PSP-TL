@@ -1141,7 +1141,7 @@ CN PLACEHOLDER
 ミスは誰にもあるよ
 Everybody makes mistakes
 CN PLACEHOLDER
-Да ладно, все делают ошибки
+Да ладно, все совершают ошибки
 
 空の責任じゃないよ
 It's not your fault, Sora
@@ -1151,7 +1151,7 @@ CN PLACEHOLDER
 武「ミスは誰にもあるよ」%K%P
 Everybody makes mistakes.
 CN PLACEHOLDER
-Да ладно, все делают ошибки.
+Да ладно, все совершают ошибки.
 
 武「まぁ、俺達もさっきの見回りで、原因を見落としてたかもしれないし……。それをお互いさまって言っていいかどうか微妙だけど」%K%P
 We may have even overlooked the cause of this when we were checking around a little bit ago... We're in this together.
@@ -1176,7 +1176,7 @@ CN PLACEHOLDER
 空「すみません、倉成さん。なんだか気を遣っていただいて」%K%P
 Thank you for being so kind, Kuranari-san.
 CN PLACEHOLDER
-Спасибо за честность, Куранари-сан.
+Простите, Куранари-сан, и спасибо за вашу доброту.
 
 武「そんなんじゃねぇよ……」%K%P
 It's nothing...

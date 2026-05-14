@@ -21,7 +21,7 @@ CN PLACEHOLDER
 アセトンの匂いはもう、辺りに漂ってはいなかった。%K%P
 You couldn't even smell the stench of acetone anymore.
 CN PLACEHOLDER
-Вони ацетона теперь даже не учуять.
+Вонь ацетона на этаже уже не чувствуется.
 
 俺は気合を入れ直し、通路の先へと歩を進めた。%K%P
 I walked toward the end of the hallway, marshaling my wits.
@@ -36,7 +36,7 @@ CN PLACEHOLDER
 停電のときには気づかなかった部屋が、通路の左手にあることがわかった。%K%P
 I realized that there was a room on the left side of the corridor that I hadn't seen during the power outage.
 CN PLACEHOLDER
-До меня дошло, что с левой части коридора есть помещение, которое я не видел во время поломки генератора.
+До меня дошло, что в левой части коридора есть помещение, которое я не заметил во время поломки генератора.
 
 少し覗いてみようと、俺はその中に足を踏み入れた。%K%P
 Thinking to explore a little, I set my foot inside.
@@ -156,7 +156,7 @@ CN PLACEHOLDER
 そう言えば、ここの修理はつぐみがしたのだ……。%K%P
 Come to think of it, Tsugumi had done the repairs in there...
 CN PLACEHOLDER
-Точно, Цугуми же делала здесь починки...
+Точно, Цугуми же проводила здесь ремонт...
 
 そう、ちょうど、あの辺りに屈んで、工具を広げて、バルブを閉め直して……。%K%P
 I remembered her bending down and using her tools to close off a valve...
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 僅かな水音と共に、壁際のダクトの隙間を小さなネジだかナットだかが、いくつか転げ落ちていった。%K%P
 Along with a small splash of water, several screws or nuts fell into the crevice between ducts.
 CN PLACEHOLDER
-Издав лёгкий «звяк», в щель меж труб упало несколько... ни то болтов, ни то орехов.
+Издав лёгкий звон, в щель меж труб упало несколько... не то болтов, не то орехов.
 
 つぐみ「…………」%K%P
 .........
@@ -586,7 +586,7 @@ CN PLACEHOLDER
 つぐみ「勝手に仲間扱いしないでくれる？」%K%P
 So don't treat me like one of your gang.
 CN PLACEHOLDER
-Не веди себя, словно я твой приятель!
+Не веди себя так, словно мы друзья!
 
 武「つぐみっ！！　いい加減にしろっ！！」%K%P
 Tsugumi! Cut it out!
@@ -681,7 +681,7 @@ CN PLACEHOLDER
 武「一応同じ船に乗り合わせちまった以上は仲間なんだよ」%K%P
 As long as we're in the same boat, we're friends.
 CN PLACEHOLDER
-У нас одна и та же цель, мы все в одной лодке, а значит мы друзья.
+У нас одна и та же цель, мы все в одной лодке, а значит мы – друзья.
 
 武「日本では、共通の目的を持った者同士のことを仲間って呼ぶんだよ……」%K%P
 In Japan, people with the same goal are called friends...
@@ -696,17 +696,17 @@ CN PLACEHOLDER
 つぐみ「仲間、仲間、仲間、仲間……」%K%P
 Friends, friends, friends, friends...
 CN PLACEHOLDER
-Друзья... друзья... друзья, друзья...
+Друзья, друзья, друзья, друзья...
 
 つぐみ「また、そう。あなたは……そんなことを言ってばかり」%K%P
 There you go again, just saying that.
 CN PLACEHOLDER
-Знаешь что?.. Ты... меня ДОСТАЛ!
+Опять ты за своё... всё никак не заткнёшься.
 
 つぐみ「そういう馴れ馴れしい偽善的な関係、吐き気がするの」%K%P
 That kind of tired, hypocritical crap makes me sick.
 CN PLACEHOLDER
-Я устала от этих бредней... мне уже тошно!
+Я устала от этих бредней... Мне уже тошно.
 
 武「…………」%K%P
 .........
@@ -731,7 +731,7 @@ CN PLACEHOLDER
 つぐみ「あなた、昨日私が言ったこと、聞いてなかったの？」%K%P
 Weren't you listening to me yesterday?
 CN PLACEHOLDER
-Ты... не слушал меня вчера, правда?
+Ты вчера меня не слушал?
 
 つぐみ「私は脱出したいなんて、思ってないから」%K%P
 I don't want to escape.
@@ -741,12 +741,12 @@ CN PLACEHOLDER
 つぐみ「だから、仲間なんかじゃないの」%K%P
 So I'm not your 'friend'.
 CN PLACEHOLDER
-Так что я тебе не „друг“.
+Так что никакая я тебе не „подруга“.
 
 つぐみ「日本でもドイツでもアメリカでも同じ」%K%P
 I don't care if you're from Germany, America, or Japan.
 CN PLACEHOLDER
-Мне плевать, кто ты – японец, русский, немец...
+Мне плевать, кто ты – немец, американец, японец...
 
 つぐみ「いい？」%K%P
 Got it?
@@ -756,12 +756,12 @@ CN PLACEHOLDER
 つぐみ「私は・仲間じゃ・ない」%K%P
 I. Am. Not. Your. Friend.
 CN PLACEHOLDER
-Я... ТЕБЕ... НЕ... ДРУГ.
+Я... ТЕБЕ... НЕ... ПОДРУГА.
 
 つぐみ「だから・もう二度と・話しかけないで」%K%P
 So. Do. Not. Talk. To. Me. Again.
 CN PLACEHOLDER
-ТАК... ЧТО... ОСТАВЬ... МЕНЯ... В... ПОКОЕ.
+ТАК ЧТО... ОСТАВЬ... МЕНЯ... В ПОКОЕ.
 
 武「…………」%K%P
 .........
@@ -846,7 +846,7 @@ CN PLACEHOLDER
 つぐみ「えっ？」%K%P
 What?
 CN PLACEHOLDER
-Э-э?
+Что?
 
 武「その、足……」%K%P
 Your foot...
@@ -866,7 +866,7 @@ CN PLACEHOLDER
 武「昨日怪我したの、確か――右の腿だったよな？」%K%P
 The leg you hurt the other day... was your right leg, wasn't it?
 CN PLACEHOLDER
-Нога... вчера ты повредила правую ногу, разве не так?
+Нога... ты же вчера повредила правую ногу?
 
 つぐみ「…………」%K%P
 .........
@@ -946,12 +946,12 @@ CN PLACEHOLDER
 遠ざかるのは足音。そして影。通路の向こうへと、それは消えていく。%K%P
 The sound of her footfalls grew faint. As did her shadow, disappearing down the hallway.
 CN PLACEHOLDER
-Эхо её шагов постепенно ослабло. Секундой позже, она скрылась в дальнем коридоре.
+Эхо её шагов постепенно ослабло. Секундой позже она скрылась в дальнем коридоре.
 
 そこに残るのは、呆然とする俺。%K%P
 What was left was me, stunned.
 CN PLACEHOLDER
-Я остался в одиночестве, и в глубоком шоке.
+Я остался в одиночестве и в глубоком шоке.
 
 頬をしたたかに打たれた。%K%P
 She had hammered my cheek.
@@ -961,7 +961,7 @@ CN PLACEHOLDER
 もしかすると、歯が折れたかもしれない。%K%P
 I might have had broken teeth.
 CN PLACEHOLDER
-Кажется один из зубов шатается.
+Кажется, один из зубов шатается.
 
 鼻血も出たかもしれない。%K%P
 I might have had a nosebleed.
@@ -986,7 +986,7 @@ CN PLACEHOLDER
 （４０針を縫う大怪我――）%K%P
 (Injuries requiring 40 stitches—)
 CN PLACEHOLDER
-(Раны потребовали наложить 40 швов –)
+(На рану потребовалось наложить 40 швов...)
 
 （それがたった１日で、走れるように……？？？）%K%P
 (And she could run a day later...?)
@@ -1206,12 +1206,12 @@ CN PLACEHOLDER
 もしかすると、俺はつぐみの領域に近づき過ぎたのだろうか。%K%P
 Maybe I had gotten a little too close to her boundaries.
 CN PLACEHOLDER
-Наверное я подошёл к психологической грани Цугуми практически вплотную.
+Наверное, я вторгся слишком глубоко в личное пространство Цугуми.
 
 立ち入られたくない領域。%K%P
 Boundaries she didn't want invaded.
 CN PLACEHOLDER
-К той грани, за которую она не хотела никого впускать.
+Так глубоко, куда она не хотела никого впускать.
 
 知られたくない事情と、気持ち。%K%P
 Whatever feelings and reasons she didn't want us to know about.

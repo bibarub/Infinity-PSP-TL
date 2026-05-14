@@ -196,7 +196,7 @@ CN PLACEHOLDER
 特製ソースを適量塗り、なるべくいいレタスを選んで挟む。%K%P
 I spread on the special sauce and chose the best piece of lettuce.
 CN PLACEHOLDER
-Намазал немного особого соуса и полодил сверху самый свежий листик салата, который только смог найти.
+Намазал немного особого соуса и положил сверху самый свежий листик салата, который только смог найти.
 
 包みを閉じるのもそこそこに、熱々のサンドを手にして、俺は売店を出た。%K%P
 Hurriedly wrapping the hot sandwich, I left the kiosk.
@@ -266,7 +266,7 @@ CN PLACEHOLDER
 武「おいしいサンドですよー、ほっくほくですよー……」%K%P
 A delicious sandwich, get it while it's hot...
 CN PLACEHOLDER
-Вкусняшка из вкусняшек, бери пока не остыла...
+Вкусняшка из вкусняшек, бери, пока не остыла...
 
 小声で叫んでみても、やはり応答はない。%K%P
 I called softly, but there was no response.
@@ -276,7 +276,7 @@ CN PLACEHOLDER
 武「つーぐーみーーっ！」%K%P
 TSUGUMI!
 CN PLACEHOLDER
-ЦУГУМИ!!!!
+ЦУГУМИ!!!
 
 怒鳴ってみた。%K%P
 I tried yelling.
@@ -351,7 +351,7 @@ CN PLACEHOLDER
 思わず俺は、地団駄を踏んだ。%K%P
 Without thinking about it, I stamped my foot.
 CN PLACEHOLDER
-Со злости, я стукнул ногой по полу.
+Со злости я топнул ногой.
 
 がりっ。%K%P
 Crunch!
@@ -361,7 +361,7 @@ CN PLACEHOLDER
 靴の裏に、何か硬いものを踏みつけた違和感があった。%K%P
 I felt something hard under my shoe.
 CN PLACEHOLDER
-Почувствовав под ногой что-то твёрдое...
+Почувствовав под ней что-то твёрдое...
 
 武「ん……？」%K%P
 Huh...?
@@ -636,7 +636,7 @@ CN PLACEHOLDER
 キーを叩く。%K%P
 She hit the key.
 CN PLACEHOLDER
-Она нажала Ввод.
+Она что-то нажала на клавиатуре.
 
 画面の一部が切り替わり、生体反応へとリモートカメラがズームインした。%K%P
 One portion of the screen changed, and the remote camera zoomed in on whatever was reacting.
@@ -651,7 +651,7 @@ CN PLACEHOLDER
 つぐみ「ふぅ……」%K%P
 Phew...
 CN PLACEHOLDER
-Уф-ф-ф...
+Фух...
 
 つぐみは安堵したように溜め息をついた。%K%P
 Tsugumi breathed a sigh of relief.
@@ -761,7 +761,7 @@ CN PLACEHOLDER
 つぐみ「あれは、ジャンガリアンハムスター！」%K%P
 It's a Djungarian hamster!
 CN PLACEHOLDER
-Это Джунгарский хомяк!
+Это джунгарский хомяк!
 
 つぐみ「……だと思う」%K%P
 ...I think...
@@ -776,7 +776,7 @@ CN PLACEHOLDER
 武「そっかそっかぁ、ジャンガリアンハムスターって言うのかぁ……」%K%P
 Oh, so that's what it's called, a Djungarian, huh...?
 CN PLACEHOLDER
-Ох, так вот как он называется, Джунгарский, хм-м?..
+Ох, так он называется, джунгарским?..
 
 武「よく知ってるなぁ、つぐみ」%K%P
 You're pretty knowledgeable, Tsugumi.
@@ -856,7 +856,7 @@ CN PLACEHOLDER
 つぐみ「電気ケーブルが収容されてるパイプとか、細い通気孔とか」%K%P
 The pipes with the electric cables or the power sockets.
 CN PLACEHOLDER
-По трубе с электропроводкой, или через сетевые разьёмы.
+По трубе с электропроводкой или через сетевые разъёмы.
 
 武「なるほどねぇ〜」%K%P
 Oh, I see.
@@ -871,7 +871,7 @@ CN PLACEHOLDER
 ハムスターが逃げ込んだのは、歩いて行くことができない場所だ。%K%P
 Nobody could walk to where the hamster was.
 CN PLACEHOLDER
-Дотуда, где сейчас находится этот хомка, дойти нельзя.
+Туда, где сейчас находится этот хомяк, дойти нельзя.
 
 画面右上……水没エリアの中で、空き部屋ひとつだけが健在らしい。%K%P
 The top right of the screen showed an area underwater. It seemed there was one room still empty.
@@ -886,7 +886,7 @@ CN PLACEHOLDER
 このマップにはうまく表示されていないが、非常通路は一応繋がっているようだ。%K%P
 It wasn't very clear on the map, but there was one emergency corridor in the sector.
 CN PLACEHOLDER
-Глядя на карту это понять сложно, но в секторе есть один аварийный коридор.
+Глядя на карту, это понять сложно, но в секторе есть один аварийный коридор.
 
 （ふむふむ……）%K%P
 (Hmmmm...)
@@ -1181,12 +1181,12 @@ CN PLACEHOLDER
 武「日本ではなぁ、共通の目的を持った者同士のことを仲間って呼ぶんだよ」%K%P
 In Japan, people with the same goal are called friends...
 CN PLACEHOLDER
-У нас одна цель, мы все в одной лодке, а значит мы друзья...
+У нас одна цель, мы все в одной лодке, а значит мы – друзья...
 
 つぐみ「……バカみたい」%K%P
 ...You're an idiot.
 CN PLACEHOLDER
-...... идиот.
+...идиот.
 
 武「バカで結構」%K%P
 That doesn't bother me.
@@ -1251,27 +1251,27 @@ CN PLACEHOLDER
 つぐみ「はぐっ」%K%P
 *MUNCH*
 CN PLACEHOLDER
-*ХАААВ*
+Ам.
 
 唐突に、つぐみは大口でかぶりついた。%K%P
 Tsugumi suddenly took a huge bite.
 CN PLACEHOLDER
-И неожиданно произвела огромный укус.
+Цугуми резко откусила большой кусок.
 
 つぐみ「もぐもぐ……」%K%P
 Mmm...
 CN PLACEHOLDER
-М... ммм...
+М-м...
 
 つぐみ「んくっ……むぐもぐ……」%K%P
 Mmmff... nnn...
 CN PLACEHOLDER
-Ммм-мм-мм...
+М-м-м... М-м-м...
 
 かなりのスピードで食べている。%K%P
 She ate it fast.
 CN PLACEHOLDER
-Она съела его быстро.
+Она справилась очень быстро.
 
 サンドはみるみるうちに、俺の目の前から消えていった。%K%P
 The sandwich disappeared before my eyes.
@@ -1281,7 +1281,7 @@ CN PLACEHOLDER
 つぐみ「……ふぅ」%K%P
 ...Whew.
 CN PLACEHOLDER
-...... Ххаа.
+...Фух.
 
 武「どうだ？　うまかったろ？」%K%P
 How was it? Good, huh?
@@ -1326,12 +1326,12 @@ CN PLACEHOLDER
 直径７０ｃｍ程度のチューブが下へと伸びている。%K%P
 A tube of about 70 centimeters in diameter stretched down below us.
 CN PLACEHOLDER
-Прямо под нас уходит труба, примерно 70 сантиметров в диаметре.
+Вниз уходит труба, примерно 70 сантиметров в диаметре.
 
 チューブの側面には簡素な造りのハシゴがついており、２ｍ程下った所に、水没した非常灯がキラキラ輝いて見えた。%K%P
 A simple ladder was fixed on one side of the tube. About two meters down, we could see the submerged emergency light shining.
 CN PLACEHOLDER
-С одной из её сторон закреплена простенькая лестница. Вдали, под водой, сияет аварийное освещение.
+К ней была прикреплена простенькая лестница. В паре метров внизу, под водой, сияет аварийное освещение.
 
 足元のハッチから、水が逆流してくる気配はない。%K%P
 We could find no signs that the water was backflowing as we peered through the hatch.
@@ -1351,12 +1351,12 @@ CN PLACEHOLDER
 幸い、手近に作業員用の命綱らしきフック付きロープが転がっていた。これを持って通路に入ることにする。%K%P
 Fortunately, there was a rope with a hook on it which looked as if it was a lifeline for the maintenance crew. I decided to hold onto it when I went in.
 CN PLACEHOLDER
-К счастью, неподалёку лежит канат с крюком... Похоже на страховочный тросс, используемый ремонтниками. Я решил держаться за него, когда туда прыгну.
+К счастью, неподалёку лежит верёвка с крюком, что-то вроде страховочного троса, используемый рабочими. Я решил держаться за неё, когда туда прыгну.
 
 ロープの長さが充分あることを確認し、一方の端を近くのパイプへガッチリ固定した。%K%P
 Checking that the rope was long enough, I firmly tied it to a pipe nearby.
 CN PLACEHOLDER
-Убедившись, что канат достаточно длинный, я крепко привязал его к близлежащей трубе.
+Убедившись, что верёвка достаточно длинная, я крепко привязал её к трубе рядом.
 
 対岸にもう一方のフックを引っかけてロープを張れば、戻るとき楽になるだろう。%K%P
 If I tied it to the hook where I came out, then it should be easy to return.
@@ -1436,7 +1436,7 @@ CN PLACEHOLDER
 つぐみ「えっ？」%K%P
 What?
 CN PLACEHOLDER
-Э-э?
+А?
 
 武「俺が向こうについたら、ハム吾郎の居場所を教えてくれればいい」%K%P
 When I get through to the other side, you can tell me where Hammy is.
@@ -1671,7 +1671,7 @@ CN PLACEHOLDER
 すかさず、そこへロープのフックを固定した。%T030%K%N
 I wasted no time in fixing the rope on the hook.
 CN PLACEHOLDER
-Привязывать канат на крюк некогда.
+Привязывать верёвку на крюк некогда.
 
 そのまま一気に身体を引き寄せる。%K%O
 I pulled myself upward.
@@ -1756,7 +1756,7 @@ CN PLACEHOLDER
 『ジャンガリアーッ！』と呼ぶよりはマシだろう。%K%P
 It was better than yelling “Djungariaaan!”
 CN PLACEHOLDER
-В любом случае, это лучше, чем кричать «Джунгарский»!
+В любом случае, это лучше, чем кричать «джунгарский»!
 
 つぐみ「武、大丈夫？」%K%P
 Takeshi, are you alright?
@@ -1986,7 +1986,7 @@ CN PLACEHOLDER
 張っておいたロープを手繰ることで、帰路は往路よりも格段に早いスピードで移動できるはずだが……。%K%P
 If I followed the rope, I would be able to get back faster than I had come.
 CN PLACEHOLDER
-Если буду следовать по канату, то вернусь быстрее, чем пришёл.
+Если буду следовать по верёвке, то вернусь быстрее, чем пришёл.
 
 俺はビニール袋を腰に結わえつけ、大きく息を吸い込んで、水の中に飛び込んだ。%K%P
 I tied the bag to my waist, took a deep breath, and jumped into the water.
@@ -2306,7 +2306,7 @@ CN PLACEHOLDER
 武「そうねぇ、じゃないだろ。その俺よりキレるってゆー頭で考えてみろよ」%K%P
 Hmmm, yeah, is it? Why don't you use that superior intellect of yours to think of something?
 CN PLACEHOLDER
-Хм-м-м, что, правда? Почему бы тебе не воспользоваться своим супер-пупер интеллектом и, хоть раз в жизни подумать как следует?
+Хм-м, что, правда? Почему бы тебе не воспользоваться своим супер-пупер интеллектом и хоть раз в жизни подумать как следует?
 
 武「レミを扱える人間がこっちに残らないと意味ないんだ」%K%P
 Unless someone who can operate LeMMIH stays behind, it won't work.
@@ -2371,7 +2371,7 @@ CN PLACEHOLDER
 つぐみはロープのフックを持ち、ハシゴを下りて行ってしまう。%K%P
 Tsugumi took the rope hook and went down the ladder.
 CN PLACEHOLDER
-Цугуми взяла канат за крюк и спустилась по лестнице.
+Цугуми взяла верёвку за крюк и спустилась по лестнице.
 
 やがて、その姿は見えなくなった。%K%P
 Before long, she disappeared from view.
@@ -2381,7 +2381,7 @@ CN PLACEHOLDER
 ロープは水中へと伸びていく。%K%P
 The rope stretched into the water.
 CN PLACEHOLDER
-Канат устремился в воду.
+Верёвка устремилась в воду.
 
 俺は腹を押さえ、その場にひざまずいた。%K%P
 Holding my stomach, I sunk to my knees.
@@ -2411,7 +2411,7 @@ CN PLACEHOLDER
 （あれは、つぐみだったの……ううっ！？）%K%P
 (Was that Tsugumi...!? Ughg...)
 CN PLACEHOLDER
-(Так это была Цугуми?!... Угх...)
+(Так это была Цугуми?! Угх...)
 
 突如、猛烈な目眩に襲われた。%K%P
 I was suddenly dizzy.
@@ -2456,7 +2456,7 @@ CN PLACEHOLDER
 武「……うげぇっ」%K%P
 ...Gagh...
 CN PLACEHOLDER
-*блюэ*
+*Рвёт*
 
 俺の口から滝のように流れ出たものは、ペースト状に溶けたホットドッグの残骸だった。%K%P
 What erupted from my mouth were the semi-liquid remains of my hotdog.
@@ -2496,7 +2496,7 @@ CN PLACEHOLDER
 目の前にあるロープの一端は、ハッチの中へ伸びきっていた。%K%P
 In front of me, I could see the rope disappearing into the hatch.
 CN PLACEHOLDER
-Передо мной канат, исчезающий в люке.
+Передо мной верёвка, исчезающая в люке.
 
 武「そうだ！　ハム吾郎捜し！」%K%P
 That's right! She's looking for Hammy!
@@ -2536,7 +2536,7 @@ CN PLACEHOLDER
 それからロープを手繰りつつ立ち上がって、ハッチを閉める。%K%P
 She pulled up the rope as she stood up and closed the hatch.
 CN PLACEHOLDER
-Вытянув канат, она встала и закрыла его.
+Вытянув верёвку, она встала и закрыла его.
 
 俺も床から身体を起こした。%K%P
 I slowly got off the floor.
@@ -2866,5 +2866,5 @@ CN PLACEHOLDER
 俺はしばし呆気に取られつつ、そこから遠ざかる足音を聞いていた。%K%P
 Stunned, I listened to her footsteps grow fainter.
 CN PLACEHOLDER
-В потрясении, я лишь услышал как её шаги становятся всё тише и тише.
+В потрясении я лишь услышал, как её шаги становятся всё тише и тише.
 

@@ -3,6 +3,12 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
+@strcpy equ 0x088C0250
+@strcat equ 0x088C0140
+@inhouse_sprintf equ 0x0887D3C4
+@get_runtime_var equ 0x0880D5CC
+@get_system_var equ 0x08806D8C ;; not sure if that's what it does
+
 ;; Swap date order. YYYY/MM/DD -> DD.MM.YYYY
 ; pause menu
 .org 0x08827930
@@ -13,6 +19,38 @@
 .area 4*1
 	li	a0,0x6009
 .endarea
+.org 0x0882794C
+.area 4*1
+	jal	@strcpy
+.endarea
+.org 0x08827988
+.area 4*2
+	j	@PAUSE_MENU_YEAR_HACK
+	nop
+@PAUSE_MENU_YEAR_HACK_RETURN:
+.endarea
+.org 0x088278E4
+.area 4*15
+	b	0x0882792C
+@PAUSE_MENU_APPEND:
+	move	a0,s1
+	jal		@strcat
+	addiu	a1,s0,0x3A38
+	jal		@get_runtime_var
+	li		a0,0x6008
+	addiu	a0,v0,0x7D0
+	addiu	a2,s0,0x3A30
+	jal		@inhouse_sprintf
+	move	a1,sp
+	move	a0,s1
+	jal		@strcat
+	move	a1,sp
+	j		@PAUSE_MENU_YEAR_HACK_OVER
+	nop
+.endarea
+.orga 0x1525A0 :: .fill 8*9
+.orga 0x152608 :: .fill 8*1
+.orga 0x152648 :: .fill 8*1
 
 ; save creation date contracted
 .org 0x0884FD44
@@ -59,6 +97,37 @@
 .area 4*1
 	li	a1,0x6009
 .endarea
+.org 0x0884FFD8
+.area 4*1
+	b	0x0884FFE8
+.endarea
+.org 0x08850050
+.area 4*2
+	j	@SAVE_MENU_YEAR_HACK
+	nop
+@SAVE_MENU_YEAR_HACK_RETURN:
+.endarea
+.org 0x08850570
+.area 4*13
+@SAVE_MENU_YEAR_APPEND:
+	move	a0,s6
+	jal		@strcat
+	addiu	a1,v1,0x5EBC
+	lui		v0,0x892
+	addiu	a2,v0,0x5ED0
+	addiu	a0,s0,0x7D0
+	jal		@inhouse_sprintf
+	move	a1,sp
+	move	a0,s6
+	jal		@strcat
+	move	a1,sp
+	j		@SAVE_MENU_YEAR_HACK_OVER
+	nop
+.endarea
+.orga 0x163050 :: .fill 8*1
+.orga 0x1632A8 :: .fill 8*6
+.orga 0x162A30 :: .fill 8*1
+.orga 0x162FE0 :: .fill 8*1
 
 ; real time
 .org 0x08852CFC
@@ -138,8 +207,6 @@
 ; @inhouse_sprintf - some sort of in-house sprintf. a2 - format, a1 - dest, a0 - argument. no idea if multiple "arguments" can be passed.
 ; @clock_unk1 - a3 seems to affect the height of the white blinking rectangle.
 ; @clock_unk2 - a2 affects the size of the clock.
-@strcat equ 0x088C0140
-@inhouse_sprintf equ 0x0887D3C4
 @clock_unk1 equ 0x08862C74
 @clock_unk2 equ 0x08863F38
 .org 0x08837988
@@ -678,26 +745,30 @@ C: adjust the memory location at which the container with graphics for the text 
 	subu	a2,a2,s1; original code that was replaced with function call
 	j		@WHITESPACE_HACK_RETURN; 0x884C984: relocation-moved(0x884C964)
 	addu	s0,a2,a1; original code that was replaced with function call
+@PAUSE_MENU_YEAR_HACK:
+	jal		@get_runtime_var
+	li		a0,-0x7FE4
+	beql	v0,zero,@PAUSE_MENU_YEAR_HACK_OVER
 	nop
+	j		@PAUSE_MENU_APPEND
 	nop
+@PAUSE_MENU_YEAR_HACK_OVER:
+	jal		@get_runtime_var
+	li		a0,0x600B
+	j		@PAUSE_MENU_YEAR_HACK_RETURN
 	nop
+@SAVE_MENU_YEAR_HACK:
+	jal		@get_system_var
+	li		a0,-0x7FE4
+	beql	v0,zero,@SAVE_MENU_YEAR_HACK_OVER
 	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
+	j		@SAVE_MENU_YEAR_APPEND
+	lui		v1,0x892
+@SAVE_MENU_YEAR_HACK_OVER:
+	move	a0,s5
+	jal		0x0884EF04
+	li		a1,0x600B
+	j		@SAVE_MENU_YEAR_HACK_RETURN
 	nop
 	nop
 	nop

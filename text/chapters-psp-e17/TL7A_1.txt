@@ -491,7 +491,7 @@ CN PLACEHOLDER
 そして、ヒンメルのコンソールに向かった。%K%P
 I went over to the Himmel console.
 CN PLACEHOLDER
-Я подошёл к консоли ХИММЕЛ.
+Я подошёл к консоли Химмеля.
 
 空「用事？　なんですか？」%K%P
 Unfinished business? What do you mean?
@@ -701,7 +701,7 @@ CN PLACEHOLDER
 空「方法や手段なんて、稚拙でいい」%K%P
 It doesn't matter if your method is primitive.
 CN PLACEHOLDER
-Не важно, даже если она примитивна.
+Неважно, даже если она примитивна.
 
 空「意味や目的なんて、求めなくていい」%K%P
 It isn't necessary to seek a meaning or objective for it.
@@ -1191,7 +1191,7 @@ CN PLACEHOLDER
 やがて、ヒンメルはぐらりと揺らいだ。%K%P
 Soon, Himmel began to shake.
 CN PLACEHOLDER
-Вскоре ХИММЕЛ стало трясти.
+Вскоре Химмель начало трясти.
 
 部屋の壁に亀裂が走る。%K%P
 Large cracks ran down the walls.

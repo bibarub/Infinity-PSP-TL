@@ -101,7 +101,7 @@ CN PLACEHOLDER
 武「煙！　煙！　熱〜〜〜っ！」%K%P
 Smoke! Smoke! Aaaggggh, that's hot...!
 CN PLACEHOLDER
-Горю! Горю! Чёёёёёрт, горячо!
+Горю! Горю! Ай-ай-ай-ай, горячо!
 
 思いっきりフライヤーの鉄板に触ってしまっていた。%K%P
 I had been firmly pressing it against the grill.
@@ -121,7 +121,7 @@ CN PLACEHOLDER
 武「あっついなぁ、もうっ……」%K%P
 Ooooooww, that hurts...
 CN PLACEHOLDER
-Оооооойй, больно...
+О-о-ой, больно...
 
 武「俺ってマヌケだなぁ……」%K%P
 I'm such an idiot...
@@ -281,7 +281,7 @@ CN PLACEHOLDER
 しばらくするとその音は聞こえなくなった。%K%P
 Moments later, I couldn't hear it anymore.
 CN PLACEHOLDER
-Через мгновение, звук стих и я уже ничего не слышал.
+Через мгновение звук стих, и я уже ничего не слышал.
 
 それを待っていたかのように、空はゆっくりと口を開いた。%K%P
 As if Sora was waiting for that cue, she slowly opened her mouth.
@@ -446,7 +446,7 @@ CN PLACEHOLDER
 彼女はいったい、どちらの空なのだろう……。%K%P
 Which Sora was she? The real one or the fake one...?
 CN PLACEHOLDER
-Какая это Сора? Настоящая, или фальшивка?..
+Какая это Сора? Настоящая или фальшивка?..
 
 いや……%K%P
 But...
@@ -646,7 +646,7 @@ CN PLACEHOLDER
 そもそも、今まで何度も繰り返されてきた議論のはずだ。%K%P
 From the beginning, it was the same debate repeated over and over again.
 CN PLACEHOLDER
-С самого начала, продолжается один и тот же разговор.
+Этот разговор повторялся из раза в раз.
 
 どうやって救助を待つのか。%K%P
 Should we wait for help?
@@ -696,7 +696,7 @@ CN PLACEHOLDER
 低い唸りのような音がどこからか聞こえて、フロアは少し揺れた。%K%P
 A deep moan rumbled through the room as the floor began to shake.
 CN PLACEHOLDER
-Вместе с тряской, по помещению пронёсся низкий стон.
+Вместе с тряской по помещению пронёсся глухой стон.
 
 緊張が皆の間に走る。%K%P
 A wave of fear ran through us.
@@ -766,7 +766,7 @@ CN PLACEHOLDER
 武「よーし！　聞けい！　皆の衆！！」%K%P
 Alright! Listen up, everyone!
 CN PLACEHOLDER
-Значит, так, слушайте все!
+Значит так, слушайте все!
 
 いきなり立ち上がって、全員を見回しながら叫んだ。%K%P
 I rose to my feet and shouted to everyone.
@@ -1046,7 +1046,7 @@ CN PLACEHOLDER
 ココ「おー！」%K%P
 Okay!
 CN PLACEHOLDER
-Дяяяя!
+Дя-я-я-я!
 
 少年「おー！」%K%P
 Alright!
@@ -1056,7 +1056,7 @@ CN PLACEHOLDER
 空「おー！」%K%P
 Yes!
 CN PLACEHOLDER
-Вау!
+О-о!
 
 ピピ「わん！」%K%P
 *Woof*!
@@ -1066,7 +1066,7 @@ CN PLACEHOLDER
 武「お、おう！」%K%P
 Y-Yeah!
 CN PLACEHOLDER
-Т-точняяяк!
+Т-точняк!
 
 ココ「宴会しよう♪　そうしよう♪」%K%P
 Let's party〜 Party〜
@@ -1106,17 +1106,17 @@ CN PLACEHOLDER
 ココ「ぱっぴぷっぺぽー♪」%K%P
 Laaaalala... lalalala〜
 CN PLACEHOLDER
-Па-пи-пу-пи-поо!..
+Па-пи-пу-пи-по-о!..
 
 ココ「ぽっぺぱっぺぽー♪」%K%P
 Falalalala... lalalala〜
 CN PLACEHOLDER
-По-пе-па-пе-поо!..
+По-пе-па-пе-по-о!..
 
 ココ「ぽっぴぱっぴぷー♪」%K%P
 Falala... falala〜
 CN PLACEHOLDER
-По-пи-па-пи-пуу!..
+По-пи-па-пи-пу-у!..
 
 ココ「ぴっぴぱっぴぴー♪」%K%P
 LALALA〜
@@ -1131,7 +1131,7 @@ CN PLACEHOLDER
 階段を上りながら、ココは得体のしれない歌を唄っていた。%K%P
 As we climbed the stairs, Coco sang some crazy song.
 CN PLACEHOLDER
-Пока мы поднимаемся, Коко поёт на кокойском, языке что понимает лишь она... ну, и Пипи.
+Поднимаясь по лестнице, Коко напевала странную песенку.
 
 武「ご機嫌だなぁ、ココ」%K%P
 You seem like you're in a good mood, Coco.
@@ -1151,27 +1151,27 @@ CN PLACEHOLDER
 ココ「ヒロイン達の絶体絶命のピンチに、颯爽とヒーローは現れるっ！」%K%P
 The damsel in distress is in a pinch and in waltzes our dashing hero!
 CN PLACEHOLDER
-Девушка в тоске-печали, дома и у своего крыльца... ждёт молодого удальца!
+Прекрасная девушка оказалась в западне, но тут, словно в вальсе, вышел наш герой!
 
 ココ「お嬢さん、大丈夫ですか？　お怪我はありませんか？」%K%P
 Young lady, are you alright? Are you not injured?
 CN PLACEHOLDER
-Красна девица, что ж те свет ни мил, али хворь какая?
+Юная леди, как вы? Не ранены?
 
 ココ「そこまでだ、仮面怪人ドッペル男！！　悪は許さん！」%K%P
 And there is our masked villain. I can't forgive you for this, you evil scoundrel!
 CN PLACEHOLDER
-Ах убийца, ах злодей, не боюсь его когтей! Ну, Горыныч, выходи! Шейку ближе подноси!
+Ну всё, злодей, сними же маску! Зло не будет прощено!
 
 ココ「このニュートリノエナジーパウァーにかけて、貴様を倒す！　とうっ！」%K%P
 Using my neutrino energy power, I'll kill you! Ayah!
 CN PLACEHOLDER
-Как заеду ему в репу – улетит на километр! Буду гнать по лесной чаще – жизнь чтоб не казалась СЛАЩЕ!
+Я одолею тебя с помощью энергии нейтрино! Получай!
 
 ココ「……な〜んて、思ったりして♪」%K%P
 ...Oh, I can pretend, can't I〜
 CN PLACEHOLDER
-Ой... кого я обманываю?..
+...Ну всё, куда-то меня занесло.
 
 武「…………」%K%P
 .........
@@ -1181,7 +1181,7 @@ CN PLACEHOLDER
 ココ「あ、たけぴょん呆れたでしょ？　呆れかえってるでしょ？」%K%P
 Huh, Takepyon? Are you fed up with me?
 CN PLACEHOLDER
-Э-э, Такэпён... наверное, я тебе уже всю бошку заморочила?
+А, Такэпён... Ты, наверное, уже устал всё это слушать?
 
 武「い、いや……」%K%P
 N-No...
@@ -1211,7 +1211,7 @@ CN PLACEHOLDER
 ココ「誰かがね、ココ達のピンチに颯爽と、現れてくれるの！」%K%P
 If I were in a pinch like that, I'm sure someone would come to my rescue!
 CN PLACEHOLDER
-Если бы Коко была красной девицей, её бы обязательно кто-нибудь спас!
+Если бы я была дамой в беде, меня бы обязательно кто-нибудь спас!
 
 ココ「そう思ってて、ほんとにそうなるといいなぁ〜……」%K%P
 I just can't help but think of how wonderful that would be...
@@ -1241,7 +1241,7 @@ CN PLACEHOLDER
 武「ニュートリノ何とかかどうかはともかくとして、な？」%K%P
 I don't know about the neutrino stuff though.
 CN PLACEHOLDER
-Правда, будет ли это богатырь, не знаю. Хе-хе.
+Правда, не уверен, что в этом будет замешана штука с нейтрино.
 
 ココ「うんうん！　そうだよねっ♪」%K%P
 Yeah, yeah! You're right〜
@@ -1256,7 +1256,7 @@ CN PLACEHOLDER
 誰かが颯爽と、俺達を救出してくれる……。%K%P
 We wanted to believe that a hero was on the way...
 CN PLACEHOLDER
-Мы хотим верить, что наш спаситель уже в пути...
+Мы хотим верить, что наши спасители уже в пути...
 
 ココだって、俺だって、勿論ピピだってきっと、そう信じて願いたかったのだ。%K%P
 ...And that went for Coco, Pipi, and me too.
@@ -1296,7 +1296,7 @@ CN PLACEHOLDER
 つぐみ「で、どれを持っていけばいいの？」%K%P
 Well, what is it you want me to carry?
 CN PLACEHOLDER
-И, что же мне потащить?
+Ну, и что мне с собой взять?
 
 武「…………」%K%P
 .........
@@ -1326,7 +1326,7 @@ CN PLACEHOLDER
 それから約１時間後――%T030%K%N
 One hour later—
 CN PLACEHOLDER
-Час спустя –
+Час спустя...
 
 憩いの間の円の上で、宴会は開始された。%T030%K%N
 We began our party in an elevated part of the rest area.
@@ -1336,7 +1336,7 @@ CN PLACEHOLDER
 確かに酒はなかったが、それなりに盛り上がった。%T030%K%N
 Even without alcohol, the party was lively.
 CN PLACEHOLDER
-Даже без алкоголя, вечеринка удалась.
+Вечеринка удалась, и даже без алкоголя.
 
 少年と俺は、お菓子とドリンクを皆に配る。%T030%K%N
 The Kid and I distributed the snacks and drinks to everyone.
@@ -1551,12 +1551,12 @@ CN PLACEHOLDER
 ……………………。%K%P
 .........
 CN PLACEHOLDER
-...............
+......
 
 …………。%K%P
 ......
 CN PLACEHOLDER
-.........
+...
 
 武「空……」%K%P
 Sora...
@@ -1576,7 +1576,7 @@ CN PLACEHOLDER
 にっこりと微笑んで、空は俺を見つめた。%K%P
 With a slight smile, Sora gazed at me.
 CN PLACEHOLDER
-С лёгкой улыбкой на лице, Сора взглянула на меня.
+Сора с лёгкой улыбкой взглянула на меня.
 
 曇りのない、澄んだ目だった。%K%P
 Her eyes were like a clear, cloudless sky.
@@ -1596,7 +1596,7 @@ CN PLACEHOLDER
 武「昨日のことなんだけど……」%K%P
 About yesterday...
 CN PLACEHOLDER
-Мм, вчера...
+М-м, вчера...
 
 武「すまん、何と言ったらいいかまだわからない。でも……」%K%P
 I'm sorry. I don't know what to say, but...
@@ -1681,7 +1681,7 @@ CN PLACEHOLDER
 空「忘れちゃったんですよ。数時間の間、記憶がないんです」%K%P
 I forgot them. There is a gap in my memory of a few hours.
 CN PLACEHOLDER
-Я забыла. В моей памяти дыра, длиной в несколько часов.
+Я забыла. В моей памяти провал длиной в несколько часов.
 
 武「……そんな……どうして」%K%P
 How... Why?
@@ -1886,7 +1886,7 @@ CN PLACEHOLDER
 ふたりとも真剣な顔をして、連れ立って舞台を降りて行く。%K%P
 The two got down from the stage and set off with very serious looks on their faces.
 CN PLACEHOLDER
-С серьёзными лицами, они две перешагнули платформу и направились в сторону выхода.
+Они обе с серьёзными лицами перешагнули платформу и направились в сторону выхода.
 
 武「おい待てよ！　ふたりとも！　勝手なことすんな！」%K%P
 Hey, wait, you two! What about us!?
@@ -1896,7 +1896,7 @@ CN PLACEHOLDER
 武「話なら別に、ここでやったって――」%K%P
 Why can't you just talk here!?
 CN PLACEHOLDER
-Может всё-таки лучше здесь поговорить?!
+Может, всё-таки лучше поговорить здесь?!
 
 つぐみ「武……！」%K%P
 Takeshi...!
@@ -1916,7 +1916,7 @@ CN PLACEHOLDER
 つぐみ「黙っててって、言ったでしょ？」%K%P
 I told you to shut up, didn't I?
 CN PLACEHOLDER
-Я кажется просила... помолчать.
+Кажется, я просила... помолчать.
 
 武「…………」%K%P
 .........

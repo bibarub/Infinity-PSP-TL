@@ -31,7 +31,7 @@ CN PLACEHOLDER
 慌てて腕を振ってもがく。%K%P
 Panicking, I flailed my arms.
 CN PLACEHOLDER
-В панике, я замолотил руками.
+Я в панике замолотил руками.
 
 だが、掻き分けるべき水がそこにはなかった。%K%P
 But there was no water in which to swim.
@@ -301,7 +301,7 @@ CN PLACEHOLDER
 本当は、何を考えているのか……。%K%P
 What was she really thinking?
 CN PLACEHOLDER
-И, главное, что чувствует...
+И главное, что чувствует...
 
 空「倉成さんは……」%K%P
 Kuranari-san...
@@ -676,7 +676,7 @@ CN PLACEHOLDER
 ようやく目を開けられるようになった。%K%P
 I finally was able to open up my eyes again.
 CN PLACEHOLDER
-Наконец, я смог вновь открыть глаза.
+Наконец я вновь смог открыть глаза.
 
 空は、真面目な顔で待っていた。%K%P
 Sora had a serious expression on her face.
@@ -1121,7 +1121,7 @@ CN PLACEHOLDER
 武「……それは……」%K%P
 ...I was...
 CN PLACEHOLDER
-...я...
+Я...
 
 言えなかった。%K%P
 I couldn't say it.
@@ -1171,7 +1171,7 @@ CN PLACEHOLDER
 いくらでも息の続くこの海の中で、言葉は次々と泡に変わり、消えていく。%K%P
 No matter how much I could breathe in the center of that ocean, my words changed to bubbles and faded away.
 CN PLACEHOLDER
-Не важно, сколько бы я не дышал посреди океана, мои слова превращаются в пузырьки и исчезают.
+Сколько бы я не дышал посреди океана, мои слова превращаются в пузырьки и исчезают.
 
 空「忘れたい」%K%P
 I want to forget it.
@@ -1656,7 +1656,7 @@ CN PLACEHOLDER
 空「好きになったら、おかしいですか！？」%K%P
 Is it abnormal for me to love someone!?
 CN PLACEHOLDER
-Неужели это „неприемлимо“ для меня, любить кого-то?!
+Неужели для меня неприемлимо любить кого-то?!
 
 空「異常です」%K%P
 Yes, it is.
@@ -1716,7 +1716,7 @@ CN PLACEHOLDER
 空は言い淀んで、うつむいた。%K%P
 Sora hesitated and looked down.
 CN PLACEHOLDER
-Сора не решилась продолжить, и опустила взгляд.
+Сора не решилась продолжить и опустила взгляд.
 
 空「あなたは、倉成武と小町つぐみがクヴァレで会っているのを覗き見た」%K%P
 You spied on Kuranari Takeshi and Komachi Tsugumi when they were at Qualle.
@@ -1766,7 +1766,7 @@ CN PLACEHOLDER
 空「アーティフィシャル・インテリジェンスとしてあるまじき発想ですね」%K%P
 That is not a thought worthy of artificial intelligence.
 CN PLACEHOLDER
-Недостойное поведение для Искусственного Интеллекта.
+Недостойное поведение для искусственного интеллекта.
 
 空「違うっ、そんなこと、私は思ってない……！」%K%P
 No, I never thought that...!
@@ -1906,7 +1906,7 @@ CN PLACEHOLDER
 空「倉成先生の授業を、もう一度受けたかっただけなんですぅっ……」%K%P
 I just wanted to take Professor Kuranari's class one more time...
 CN PLACEHOLDER
-Я просто хотела ещё раз позаниматься с Куранари-сенсеем...
+Я просто хотела ещё раз позаниматься с Куранари-сэнсэем...
 
 武「…………！」%K%P
 ...!
@@ -1916,7 +1916,7 @@ CN PLACEHOLDER
 その台詞に俺は、弾かれたように顔をあげた。%K%P
 With that one line, I jerked up my head as if I'd been shot.
 CN PLACEHOLDER
-От этих слов, я поднял голову, словно от выстрела.
+От этих слов я вздрогнул и поднять голову.
 
 背筋に電撃が走ったかに思えた。%K%P
 I felt a shock course down my back.
@@ -1931,7 +1931,7 @@ CN PLACEHOLDER
 武「あかねがさきクンっ！」%K%P
 Akanegasaki-kuuuun!
 CN PLACEHOLDER
-Аканэгасаки-кууун!
+Аканэгасаки-кун!
 
 空「……はい、先生」%K%P
 ...Yes, Professor?
@@ -1956,7 +1956,7 @@ CN PLACEHOLDER
 俺の声も、いつしか震えていた。%K%P
 My voice had started shaking at some point.
 CN PLACEHOLDER
-В какое-то мгновение мой голос задрожал.
+На какое-то мгновение мой голос задрожал.
 
 空「はい……」%K%P
 Yes...
@@ -1976,7 +1976,7 @@ CN PLACEHOLDER
 偽空「質問の意図が不明です」%K%P
 The intent of the question is unclear.
 CN PLACEHOLDER
-Смысл вопроса не понятен.
+Смысл вопроса непонятен.
 
 武「黙れっ！　ニセモノっ！」%K%P
 Silence! Impostor!
@@ -1996,7 +1996,7 @@ CN PLACEHOLDER
 偽空「私は『ＬＭ−ＲＳＤＳ−４９１３Ａ』、茜ヶ崎空」%K%P
 I am 'LM-RSDS-4913A', Akanegasaki Sora.
 CN PLACEHOLDER
-Я "LM-RSDS-4913A", Аканэгасаки Сора.
+Я LM-RSDS-4913A, Аканэгасаки Сора.
 
 偽空「レミシステム内に機能の一部として組み込まれた、ＡＩプログラムです」%K%P
 An AI program contained in one area of the LeMMIH system.
@@ -2176,7 +2176,7 @@ CN PLACEHOLDER
 空「ううん、愛しています……」%K%P
 Nooo, I love you...
 CN PLACEHOLDER
-Нееет, я люблю тебя...
+Не-е-ет, я люблю тебя...
 
 空「ううっ……」%K%P
 Aaagh...
@@ -2351,7 +2351,7 @@ CN PLACEHOLDER
 俺はそれを手で振り払おうとした。%K%P
 I tried to fan it away from me with my hand.
 CN PLACEHOLDER
-Я попытался развеять её рукой.
+Я попытался развеять его рукой.
 
 伸ばした手は、突然、壁に突き当たった。%K%P
 My hand suddenly whacked against the wall.
@@ -2421,7 +2421,7 @@ CN PLACEHOLDER
 水密扉は既に開放されている。%K%P
 The watertight door was wide open.
 CN PLACEHOLDER
-Водоупорная дверь открыта нараспашку.
+Водоупорная дверь уже открыта.
 
 スプリンクラーも、停止していた。%K%P
 The sprinklers had also stopped.

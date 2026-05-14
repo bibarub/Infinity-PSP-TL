@@ -788,7 +788,7 @@ CN PLACEHOLDER
 ぼくは優を背からおろし、ヒンメルの扉を開こうとする。%K%P
 I lowered You and tried to open the door of Himmel.
 CN PLACEHOLDER
-Я опустил Ю и попытался открыть дверь Химмела.
+Я опустил Ю и попытался открыть дверь Химмеля.
 
 しかし扉はビクとも動かない。%K%P
 But the door wouldn't budge.
@@ -1133,7 +1133,7 @@ CN PLACEHOLDER
 開け放たれるヒンメルの扉――。%K%P
 The door of Himmel started to open...
 CN PLACEHOLDER
-Дверь Химмела начала открываться...
+Дверь Химмеля начала открываться...
 
 その向こうは、光まばゆき白い世界だった。%K%P
 Beyond the door spread a dazzling white world.

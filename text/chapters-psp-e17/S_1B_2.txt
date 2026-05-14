@@ -581,7 +581,7 @@ CN PLACEHOLDER
 何度確認したって、人数が増えたり減ったりするようなことはない。%K%P
 No matter how many times I checked, the number stayed the same.
 CN PLACEHOLDER
-Не важно, сколько бы раз я не проверял, номер остаётся неизменным.
+Сколько бы раз я ни проверял, номер остаётся неизменным.
 
 やっぱり優が言ったように、センサーが誤作動を起こしただけだったんだ、きっと。%K%P
 It was probably like You said—the sensor was just malfunctioning.

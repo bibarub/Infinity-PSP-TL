@@ -51,7 +51,7 @@ CN PLACEHOLDER
 時折、混信気味に外から一方的な通信が入ってきては切れた。%K%P
 Every once in a while, static would come through the receiver from the outside.
 CN PLACEHOLDER
-Время от времени, приёмник ловит статические помехи снаружи.
+Время от времени приёмник ловит статические помехи снаружи.
 
 回路は生きているはずなのだが……コンピューター上の通信ソフトウェアが機能していない。%K%P
 Which meant that the lines were functioning... but the computer's communication software wasn't working.
@@ -81,7 +81,7 @@ CN PLACEHOLDER
 そう思いながら、俺はゆっくりと目を覚ました。%K%P
 Thinking that, I closed my eyes slowly.
 CN PLACEHOLDER
-С этой мыслью, я медленно закрыл свои глаза.
+С этой мыслью я медленно закрыл свои глаза.
 
 アナウンス「Ｄｒｅｉ⑳Ｍｉｎｕｔｅｎ⑳
 <Drei Minuten 
@@ -211,7 +211,7 @@ CN PLACEHOLDER
 つぐみ「ああ、これ？」%K%P
 Oh, this?
 CN PLACEHOLDER
-Ахх... это?
+Ах... это?
 
 つぐみ「…………」%K%P
 .........
@@ -431,17 +431,17 @@ vor der Implosion.»%N(Одна минута до затопления.)
 ピーーーーーー…………。%K%P
 Beeeeeeeep...
 CN PLACEHOLDER
-Пииииииииииск...
+Пи-и-и-и-иск...
 
 ポッドのコントロールパネルが、甲高い電子音を鳴らす。%K%P
 The alarm from the pod's control panel started shrieking a high-pitched warning.
 CN PLACEHOLDER
-Динамик на панели управления модулем издал пронзительный писк.
+Динамик на панели управления модулем издал пронзительный звук.
 
 その音にぎごちなく首を動かし、振り向いた。%K%P
 I turned my head to look over at the source of the noise.
 CN PLACEHOLDER
-Я повернул голову в сторону источника шума...
+Я повернул голову в сторону его источника...
 
 モニターに出ていたはずの生体反応は、もう動いていなかった。%K%P
 The vital signs, which should have been displayed on the monitor, were no longer moving.
@@ -551,7 +551,7 @@ CN PLACEHOLDER
 ままならない滑りの上で、腕をかろうじて届かせる。%K%P
 I somehow slid my arm over to her.
 CN PLACEHOLDER
-С трудом, я протянул к ней свою руку.
+С трудом я протянул к ней свою руку.
 
 優の両手は、俺の右手を柔らかく受け止め、包み込んだ。%K%P
 Both of You's hands took my right hand, closing around it gently.
@@ -646,7 +646,7 @@ CN PLACEHOLDER
 俺は指先に、張り裂けそうなくらい、優の鼓動を感じた。%K%P
 You's heart was beating so hard, it felt like it would explode.
 CN PLACEHOLDER
-Сердце Ю бъётся так сильно, будто действительно вот-вот взорвётся.
+Сердце Ю бьётся так сильно, будто действительно вот-вот взорвётся.
 
 優「怖い……」%K%P
 I'm scared...
@@ -756,7 +756,7 @@ CN PLACEHOLDER
 それきり――%K%P
 And after that—
 CN PLACEHOLDER
-И –
+И...
 
 何も、聞こえなくなった。%K%P
 I heard nothing.
@@ -771,7 +771,7 @@ CN PLACEHOLDER
 もう鼓動は、永遠に感じられなかった。%K%P
 The beating of her heart lost forever.
 CN PLACEHOLDER
-Биение её сердца пропало навеки.
+Биение её сердца затихло навсегда.
 
 武「！！」%K%P
 !
@@ -781,12 +781,12 @@ CN PLACEHOLDER
 瞬間、俺の視界は真っ赤に染まった。%K%P
 In that moment, my vision went red.
 CN PLACEHOLDER
-В тот же миг, моё поле зрения окрасилось красным.
+В тот же миг моё поле зрения окрасилось красным.
 
 慌てて顔を拭ってみようとする。%K%P
 Panicking, I wiped my face with my hands.
 CN PLACEHOLDER
-В панике, я вытер лицо руками.
+Я в панике вытер лицо.
 
 赤い。%K%P
 Red.

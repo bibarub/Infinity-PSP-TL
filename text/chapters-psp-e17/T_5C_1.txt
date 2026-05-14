@@ -16,12 +16,12 @@ CN PLACEHOLDER
 中央の円形の舞台に集まり、そこで食事をすることになった。%K%P
 We gathered on the circular stage in the center of the room and began eating.
 CN PLACEHOLDER
-Собравшись в центре того, что некогда было искусственным прудом, мы взялись за трапезу.
+Собравшись в центре того, что некогда было искусственным прудом, мы принялись за трапезу.
 
 空が手をかざすと、天井のスプリンクラーから花壇へと、優しい雨が注いだ。%K%P
 At a wave of Sora's hand, a gentle rain started pouring from the ceiling sprinklers onto the flowerbeds.
 CN PLACEHOLDER
-По взмаху руки Соры, из разбрызгивателей на потолке, на цветочные клумбы полился лёгкий дождик.
+По взмаху руки Соры с потолка из разбрызгивателей на цветочные клумбы полился лёгкий дождик.
 
 小さな虹もそこに生まれる。%K%P
 There was even a small rainbow.
@@ -106,12 +106,12 @@ CN PLACEHOLDER
 優「タツタサンドぉ、もう１個食べたいなぁ〜ん♪」%K%P
 I want another sandwich. Pleeeeeeaaase〜
 CN PLACEHOLDER
-Ещё хочу куфать. Ну позаааалуйфтяяяя!
+Ещё хочу куфать. Ну поза-а-а-алуйфтя!
 
 優「今すぐ作って持ってきてぇ〜ん……お・ね・が・い♪　ちゅっ♪」%K%P
 Would you be so kind as to make another one and bring it here...? Pretty pleeeeaaase?
 CN PLACEHOLDER
-Не откази в любефнофти, фделай ефё одну фтуську... По-жа-луй-стяяя?
+Не откази в любефнофти, фделай ефё одну фтуську... По-жа-луй-стя!
 
 甘ったるい声で言ってのける。%K%P
 She called out to me in a voice that seemed just a little TOO sweet.
@@ -146,7 +146,7 @@ CN PLACEHOLDER
 渋々、俺は隣の部屋のタツタ売店へと戻る。%K%P
 Reluctantly, I trudged back into the kitchen.
 CN PLACEHOLDER
-С неохотой, я потащился обратно на кухню.
+Я с неохотой потащился обратно на кухню.
 
 （ああ、まったくあんにゃろめ……）%K%P
 (I can't believe that girl...)
@@ -191,7 +191,7 @@ CN PLACEHOLDER
 不意に、売店の軒先に客が現れた。%K%P
 A “customer” had showed up without warning.
 CN PLACEHOLDER
-Без предупреждения, пришёл «клиент».
+Без предупреждения пришёл «клиент».
 
 つぐみ「私もひとつ、追加を頼みたいんだけど」%K%P
 I'd like to ask for another one if that's okay.
@@ -201,7 +201,7 @@ CN PLACEHOLDER
 武「なんだとうっ！」%K%P
 GEEZ!
 CN PLACEHOLDER
-ЧЁЁЁРТ!
+ЧЁРТ!
 
 つぐみ「な、何よ、武……」%K%P
 Wh-What, Takeshi...?
@@ -296,12 +296,12 @@ CN PLACEHOLDER
 ココ「ちょこっとだけ、なんか食べよっかな」%K%P
 Maybe I'll eat just a little something.
 CN PLACEHOLDER
-Наверное перекушу что-нибудь по мелочи.
+Наверное, перекушу что-нибудь по мелочи.
 
 つぐみ「そうねぇ……じゃ、パンを半分食べる？」%K%P
 Well... How about some bread?
 CN PLACEHOLDER
-Ну... Тогда, как насчёт хлеба?
+Ну... Тогда как насчёт хлеба?
 
 ココ「うん。ココ、そうするよ！」%K%P
 Okay, sounds good!
@@ -386,7 +386,7 @@ CN PLACEHOLDER
 今のつぐみは、『死』なんて間違っても口にしそうにない。%K%P
 The Tsugumi right then seemed like she would never talk about “dying”, even by accident.
 CN PLACEHOLDER
-Кажется, словно Цугуми больше никогда не заговорит о «смерти», даже ненароком.
+Кажется, словно Цугуми больше никогда не заговорит о смерти, даже ненароком.
 
 あれから、吹っ切れたのだろうか？%K%P
 I wondered if she had resolved her feelings.
@@ -436,7 +436,7 @@ CN PLACEHOLDER
 （まぁ、気にしてないのなら、いいか……）%K%P
 (Well, if she doesn't care, then I suppose that's best...)
 CN PLACEHOLDER
-(Что же, если ей всё равно, полагаю оно и к лучшему...)
+(Что же, если ей всё равно, полагаю, оно и к лучшему...)
 
 今のつぐみは、『死』なんて間違っても口にしそうにない。%K%P
 The Tsugumi right then seemed like she would never talk about “dying”, even by accident.
@@ -481,7 +481,7 @@ CN PLACEHOLDER
 ココ「でね、クジラが、ぼいんぼいんと跳ねてぇ……」%K%P
 And the whale was, like, totally bouncing all over the place...
 CN PLACEHOLDER
-А кит ёрзал туда-сюда, туда-сюда...
+А кит извивался вверх-вниз...
 
 ココ「ホップ、ステップ、ジャーンプ！　とばかりに……」%K%P
 I just kept hopping and jumping...!
@@ -491,7 +491,7 @@ CN PLACEHOLDER
 ココ「宇宙の彼方イカスンデルに、ばびゅーんと飛んでいってぇ……」%K%P
 And we were in outer space going to this place called Planet Squid, and were flying all around.
 CN PLACEHOLDER
-Мы были в открытом космосе и плыли на Планету Кальмаров, плыли и летели.
+Мы были в открытом космосе и плыли на планету Кальмаров, плыли и летели.
 
 ココ「ほいでね、そしたらね？」%K%P
 And then guess what?
@@ -506,7 +506,7 @@ CN PLACEHOLDER
 つぐみ「ふぅん……そっかぁ……」%K%P
 Hmmm... Oh really...
 CN PLACEHOLDER
-Хм-м-м... вот как...
+Хм-м-м... Вот как...
 
 つぐみ「ココは、クィクィ星人に会ってきたんだ？」%K%P
 So you met someone from planet Kuikui, eh?
@@ -541,7 +541,7 @@ CN PLACEHOLDER
 俺は、ふたりのやり取りを静かに眺めながら……%K%P
 I watched their interaction quietly...
 CN PLACEHOLDER
-Меж тем, я молча наблюдаю за ней и Цугуми...
+Меж тем я молча наблюдаю за ней и Цугуми...
 
 ちょっぴり感慨深いものを感じてみたりしていた……。%K%P
 I tried to sense what they were feeling...
@@ -701,7 +701,7 @@ CN PLACEHOLDER
 優「あーっ！」%K%P
 Ah!
 CN PLACEHOLDER
-АА-а-а!
+А-а-а!
 
 包装紙の中を見たら、また優は膨れた。%K%P
 You looked at the contents and puffed up again.
@@ -771,7 +771,7 @@ CN PLACEHOLDER
 武「それ、冷めちまってるだろ。温め直して持って来ようか？」%K%P
 It's probably cold by now. You want me to heat it up again for you?
 CN PLACEHOLDER
-Наверное он уже остыл. Если хочешь, могу слегка подогреть...
+Наверное, он уже остыл. Если хочешь, могу слегка подогреть...
 
 俺は手を差し出した。%K%P
 I put out my hand.
@@ -1001,7 +1001,7 @@ CN PLACEHOLDER
 しかし、どこにもそのやり場がなく、拳を下ろす。%K%P
 But not finding any direction to launch it, he lowered it again.
 CN PLACEHOLDER
-Но, не найдя, куда им ударить, опустил.
+Но не найдя, куда им ударить, опустил.
 
 ココ「…………」%K%P
 .........
@@ -1066,7 +1066,7 @@ CN PLACEHOLDER
 やっとの思いで顔をあげ、俺は叫んだ。%K%P
 Finally, I looked up, shouting.
 CN PLACEHOLDER
-Наконец, я взглянул ему в глаза и закричал.
+Наконец я взглянул ему в глаза и закричал.
 
 武「できないこと言うんじゃねぇよ！」%K%P
 Don't ask for the impossible!
@@ -1171,7 +1171,7 @@ CN PLACEHOLDER
 ドオオォォォン！！%K%P
 BOOOOOoooom!
 CN PLACEHOLDER
-БУУУУууух!
+БУ-У-У-Уу-у-ух!
 
 突如、低い金属音が響いた。%K%P
 Suddenly, a low metallic sound reverberated throughout the complex.
@@ -1236,7 +1236,7 @@ CN PLACEHOLDER
 それは、水面にぽちゃりと音を立て、それからゆっくりと沈んだ。%K%P
 It fell into the water with a splash and sank slowly.
 CN PLACEHOLDER
-Брызнув о воду, он медленно затонул.
+Он плюхнулся о воду, после чего медленно затонул.
 
 優「…………！！」%K%P
 ...!
@@ -1276,7 +1276,7 @@ CN PLACEHOLDER
 ――パシンッ！！%K%P
 —Whack!
 CN PLACEHOLDER
-– Шмяк!
+Шмяк!
 
 俺は、少年の頬をしたたかに打った。%K%P
 I struck the Kid hard on his cheek.
@@ -1866,7 +1866,7 @@ CN PLACEHOLDER
 空は踵を返すと俺達から遠ざかり、部屋の出口から駆け去って行く。%K%P
 Sora kept her distance from us and ran out the exit of the room.
 CN PLACEHOLDER
-Сора побежала в противную от нас сторону, и скрылась из виду в ближайшем выходе.
+Сора резко развернулась, отошла от нас и выбежала через выход.
 
 武「空……！？」%K%P
 Sora...!?
@@ -1976,7 +1976,7 @@ CN PLACEHOLDER
 『ＨＩＭＭＥＬ』%K%P
 “HIMMEL”.
 CN PLACEHOLDER
-«ХИММЕЛ».
+«HIMMEL».
 
 袋小路。どこにも行くことはできない。%K%P
 Dead end. Nowhere to go.
@@ -2126,7 +2126,7 @@ CN PLACEHOLDER
 ざあああああああああ…………っ。%K%P
 Fwwwaaaaaaaashhhh...
 CN PLACEHOLDER
-Пффшшшшшшшш...
+Пф-фш-ш-ш-ш...
 
 天井から大量の水滴が降り注いだ。%K%P
 Massive amounts of water rained down from the ceiling.
@@ -2141,7 +2141,7 @@ CN PLACEHOLDER
 武「……スプリンクラー？」%K%P
 ...The sprinkler?
 CN PLACEHOLDER
-...разбрызгиватели?
+...Разбрызгиватели?
 
 天井のパネルラインの隙間のノズルから、水が噴き出していた。%K%P
 Water was blowing out of nozzles in the crevice between panel lines on the ceiling.
@@ -2351,7 +2351,7 @@ CN PLACEHOLDER
 武「空っ！！」%K%P
 Soraaa!!
 CN PLACEHOLDER
-Сорааа!
+Сора-а-а!
 
 武「やめてくれ！　スプリンクラーを止めろ！！」%K%P
 Stop it! Stop the sprinklers!
@@ -2411,12 +2411,12 @@ CN PLACEHOLDER
 ……………………。%K%P
 .........
 CN PLACEHOLDER
-...............
+......
 
 …………。%K%P
 ......
 CN PLACEHOLDER
-.........
+...
 
 俺は恐る恐る目を開く。%K%P
 Terrified, I opened my eyes.
@@ -2936,7 +2936,7 @@ CN PLACEHOLDER
 武「ふぅーーーーーーっ、助かったぁ……」%K%P
 Wheeeew... Thank heavens...
 CN PLACEHOLDER
-А-а-ай... слава тебе, Господи...
+А-а-ай... хвала небесам...
 
 武「て言うか、いきなりなにすんだよっ！！　コノヤローッ！！」%K%P
 I mean... What are you doing!? Are you crazy!?

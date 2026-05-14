@@ -816,7 +816,7 @@ CN PLACEHOLDER
 天井を一度見上げて、すぐに彼女は視線を戻した。%K%P
 She looked up for a second, then quickly returned her gaze.
 CN PLACEHOLDER
-На мгновение, она посмотрела наверх, а затем быстро вернула взгляд ко мне.
+На мгновение она посмотрела наверх, а затем быстро вернула взгляд ко мне.
 
 つぐみ「安心して？」%K%P
 Don't worry, alright?
@@ -2831,7 +2831,7 @@ CN PLACEHOLDER
 少し考える……。%K%P
 I thought for a bit...
 CN PLACEHOLDER
-На мгновение, я задумался...
+На мгновение я задумался...
 
 それから、ゆっくり口を開く。%K%P
 And slowly opened my mouth.
@@ -3021,7 +3021,7 @@ CN PLACEHOLDER
 いくら彼女が拳で叩いても、ガラスは割れない。%K%P
 No matter how hard she pounded on the glass, it didn't break.
 CN PLACEHOLDER
-Не важно, как сильно она ни бьёт по стеклу, оно не ломается.
+Как бы сильно она ни била по стеклу, оно не ломается.
 
 ハッチも開かないし、壊れない。%K%P
 The hatch wouldn't open, and it wouldn't break either.

@@ -3175,12 +3175,12 @@ CN PLACEHOLDER
 器質的病変に基づく健忘を器質健忘というのに対して、心因に基づくものを心因健忘といい、全般健忘（全生活史健忘）が代表的なものである。%T030%K%N
 Amnesia caused by inherent mental factors is referred to as “organic amnesia”, while that induced by psychological stress is typically known as “psychogenic amnesia”, with “hysterical amnesia” being the most typical example.
 CN PLACEHOLDER
-Амнезия, вызванная физическими повреждениями мозга, рассматривается как «органическая», тогда как вызванная психогенными факторами называется «диссоциативной» амнезией. Её примером является «автобиографическая» амнезия.
+Амнезия, вызванная физическими повреждениями мозга, называется органической, тогда как воозникшая вследствие психогенных факторов – диссоциативной.
 
 これは社会的事実についての知識はよく保たれていながら、名前・生いたち・家族や友人のことなど自分の全生活史にわたるすべてを想起できない状態であり……%T030%K%N
 This is an affliction in which the victim often cannot recall knowledge relating to his or her personal history, such as one's name, history, family, or friends...%T030%K%O
 CN PLACEHOLDER
-Этот вид отличается тем, что больной часто не может вспомнить вещи, относящиеся непосредственно к его или её личной жизни, например имя, семью или друзей...
+Её примером является автобиографическая амнезия. Пациент часто не может вспомнить вещи, относящиеся к личной жизни, например имя, семью или друзей...
 
 耐えがたい体験や事件の直後にこれから逃れたい、思い出したくない、抑圧したいという無意識的欲求のもとに発生してくる。%K%O
 And is often a reaction to incidents too hard to endure: those which incite an unconscious desire to escape, forget, or repress those experiences or events.

@@ -6,7 +6,7 @@ CN PLACEHOLDER
 恐る恐る一歩を踏み出す。%K%P
 Fearfully, I took a step forward.
 CN PLACEHOLDER
-Боязненно, я сделал шаг вперёд.
+Я боязливо сделал шаг вперёд.
 
 すると、俺達の到着を察知したかのように、部屋の照明が点いた。%K%P
 And suddenly, as if someone had noticed our arrival, the lights went on in the room.
@@ -51,7 +51,7 @@ CN PLACEHOLDER
 水浸しのドリットシュトックより快適かもしれないくらいだ。%K%P
 Perhaps the place was even more comfortable than the flooded Dritter Stock.
 CN PLACEHOLDER
-Пожалуй, здесь ещё уютнее, чем на подтопленном Дритте Шток.
+Пожалуй, в этом доке даже уютнее, чем на вечно сыром Дритте Шток.
 
 しかし……人の気配だけは、まったく感じられない。%K%P
 But... there was no sign of anyone.
@@ -131,7 +131,7 @@ CN PLACEHOLDER
 診療室には普通のベッドが数台あり、ＬｅＭＵの救護室と同じタイプの『Ｌ−ＭＲＩ』も置いてあった。%K%P
 There were a few ordinary beds in the examination room and the same kind of L-MRI that we had found in LeMU's infirmary.
 CN PLACEHOLDER
-В смотровом зале находятся несколько обычных кроватей, а также аналог «L-MRI», что мы обнаружили в лазарете LeMU.
+В смотровом зале находятся несколько обычных кроватей, а также аналог L-MRI, что мы обнаружили в лазарете LeMU.
 
 他には、フィクションでしかお目にかかったことがないような謎の医療器械……。%K%P
 There were numerous medical instruments that looked like things you might only see in a science fiction movie.
@@ -151,7 +151,7 @@ CN PLACEHOLDER
 武「なぁ優、空の言ってた『高圧酸素治療装置』ってのはどれなんだ？」%K%P
 Hey, You? Where is that high-pressure oxygen thing that Sora was talking about?
 CN PLACEHOLDER
-Эй, Ю? Где та штуковина „кислородного лечения высокого давления“, о которой говорила Сора?
+Эй, Ю? Где та штуковина „оксигенотерапии высокого давления“, о которой говорила Сора?
 
 優「わ、わかんないよ、そんなの……」%K%P
 H-How should I know...?
@@ -171,7 +171,7 @@ CN PLACEHOLDER
 研究員「ぐっ……ま、待て……！」%K%P
 *Gagh*... W-Wait!
 CN PLACEHOLDER
-*кашляет* По-постойте!
+*Кашляет* По-постойте!
 
 咳き込みながら、研究員が口を開いた。%K%P
 The researcher coughed as he spoke.
@@ -196,12 +196,12 @@ CN PLACEHOLDER
 研究員「この匂い……ここは、ＩＢＦか……？」%K%P
 This smell... Is this IBF?
 CN PLACEHOLDER
-Этот запах... это...IBF...?
+Этот запах... это IBF?..
 
 研究員「戻ってきてしまったな……ゴホッ」%K%P
 So I'm back where I started... *cough*...
 CN PLACEHOLDER
-Значит, я вернулся... *кашляет*
+Значит, я вернулся... *Кашляет*
 
 武「あんた、やっぱりここの人間だったのか……」%K%P
 So you WERE working here...
@@ -211,7 +211,7 @@ CN PLACEHOLDER
 武「いや、それなら訊きたいことがある。高圧酸素治療装置ってのを探してるんだ」%K%P
 Well then, there's something I want to ask you. We're looking for some kind of high-pressure oxygen treatment device.
 CN PLACEHOLDER
-Ну что же, тогда нам нужна ваша помощь. Мы ищем штуковину под названием „устройство кислородного лечения высокого давления“.
+Ну, тогда нам нужна ваша помощь. Мы ищем штуковину под названием „система оксигенотерапии высокого давления“.
 
 武「診療室まで来たのはいいが、俺達にはどれがその装置かわからない。頼む、教えてくれ」%K%P
 We've come as far as the examination room, but we don't have a clue what to look for. Can you help us? Please!
@@ -231,7 +231,7 @@ CN PLACEHOLDER
 研究員「円筒形の柱にくっついてる奴だ……見えるかい？」%K%P
 They look like a bunch of cylinders stuck to a pillar... You see them?
 CN PLACEHOLDER
-Чем-то напоминает кучу цилиндров, приваренных к колонне... Видите?
+Они прикреплены к цилиндрической колонне... Видите?
 
 武「ああ、目の前にある」%K%P
 Yeah, they're right in front of me.
@@ -241,7 +241,7 @@ CN PLACEHOLDER
 研究員「そいつが、そうだ……っ、ゲホッ」%K%P
 That's them... *cough*...
 CN PLACEHOLDER
-Это они... *кашляет*
+Это они... *Кашляет*
 
 武「しっかりしろ！　……わかった。もうあまりしゃべらないでくれ」%K%P
 Hang in there...! We found them. So don't waste your energy talking anymore, okay?
@@ -301,7 +301,7 @@ CN PLACEHOLDER
 その中へと彼を、そっと運び入れる。%K%P
 I put him down gently inside.
 CN PLACEHOLDER
-Я осторожно положил его внутрь.
+Я осторожно положил учёного внутрь.
 
 再びボタンを押すと、カプセル・ポッドは静かに閉じた。%K%P
 When I pressed the button again, the capsule pod closed again silently.
@@ -316,7 +316,7 @@ CN PLACEHOLDER
 すぐにそのポッドのハッチを閉じる。%K%P
 The hatch to the pod closed soon after.
 CN PLACEHOLDER
-Вскоре его камера закрылась.
+Вскоре закрылся и он.
 
 武「マニュアルは？」%K%P
 Did you find the manual?
@@ -536,7 +536,7 @@ CN PLACEHOLDER
 名称：Ｔｉｅｆ　Ｂｌａｕ%K%N
 Name: Tief Blau
 CN PLACEHOLDER
-Название : Tief Blau.
+Название: Tief Blau.
 
 症状：発熱、悪寒、頭痛、筋肉痛、食欲不振などにはじまり、さらに嘔吐、下痢、腹痛など。%K%N
 Symptoms: Fever, chills, headache, aching muscles, loss of appetite, vomiting, diarrhea, stomach pains, etc.
@@ -581,7 +581,7 @@ CN PLACEHOLDER
 業務日誌の片隅に……%K%N
 In the corner of a business log...
 CN PLACEHOLDER
-Почти в самом конце одного из документов, нас ждал большой сюрприз...
+Почти в самом конце одного из документов нас ждал большой сюрприз...
 
 『ＩＢＦ来館ゲスト登録：八神ココ』%K%N
 “IBF Visitor Registry: Yagami Coco”
@@ -636,7 +636,7 @@ CN PLACEHOLDER
 Ｔ．Ｙ……恐らく、八神氏のイニシャルだろう。%K%N
 T.Y.... I thought they were probably the initials of Doctor Yagami, Coco's dad.
 CN PLACEHOLDER
-T. Y.... Должно быть, это латинские инициалы господина Ягами, отца Коко.
+T. Y... Должно быть, это латинские инициалы господина Ягами, отца Коко.
 
 つまり、ココは５月１日以前に、ＩＢＦを一度訪れていたのだ。%K%N
 Which meant that Coco had visited IBF once before May 1st.
@@ -1236,7 +1236,7 @@ CN PLACEHOLDER
 こうなっては、一刻も早く脱出するしかない。%K%P
 We had to find a way out as soon as possible.
 CN PLACEHOLDER
-Мы должны найти выход отсюда, и как можно скорее.
+Мы должны найти выход отсюда и как можно скорее.
 
 再度の探索……。%K%P
 After searching again...

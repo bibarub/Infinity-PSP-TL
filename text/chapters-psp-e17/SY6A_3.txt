@@ -66,7 +66,7 @@ CN PLACEHOLDER
 しばらくするとその音は聞こえなくなった。%K%P
 Moments later, I couldn't hear it anymore.
 CN PLACEHOLDER
-Через мгновение, звук стих и я уже ничего не слышал.
+Через мгновение звук стих, и я уже ничего не слышал.
 
 それを待っていたかのように、空はゆっくりと口を開いた。%K%P
 As if Sora was waiting for that cue, she slowly opened her mouth.
@@ -496,7 +496,7 @@ CN PLACEHOLDER
 ふたりとも真剣な顔をして、連れ立って出口へと向かう。%K%P
 With serious looks on their faces, the two of them headed out of the room.
 CN PLACEHOLDER
-С серьёзными лицами, они обе вышли из комнаты.
+Они обе с серьёзными лицами вышли из комнаты.
 
 武「おい待てよ！　ふたりとも！　勝手なことすんな！」%K%P
 Hey, wait, you two! What about us!?
@@ -1038,7 +1038,7 @@ CN PLACEHOLDER
 優「マズいね……こんなときにっ」%K%P
 This is bad news... at a time like this.
 CN PLACEHOLDER
-Кошмар... в такие минуты...
+Кошмар... Так не вовремя...
 
 沙羅「い、行こう！　止めようよっ！」%K%P
 L-Let's go! We've got to stop them!
@@ -1138,7 +1138,7 @@ CN PLACEHOLDER
 つぐみ「あのヒンメルは、一体なんなのよ！！」%K%P
 What is that Himmel about!?
 CN PLACEHOLDER
-Химмел. Что это за помещение?!
+Химмель. Что это за помещение?!
 
 ……？%K%P
 ...?
@@ -1148,7 +1148,7 @@ CN PLACEHOLDER
 ヒンメル？%K%P
 Himmel?
 CN PLACEHOLDER
-Химмел?
+Химмель?
 
 なんとなく聞き覚えが……いや、見た覚えがあるはずだった。%K%P
 I thought I had heard... No, I had seen it before.

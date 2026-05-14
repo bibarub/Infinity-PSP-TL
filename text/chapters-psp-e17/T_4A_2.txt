@@ -71,7 +71,7 @@ CN PLACEHOLDER
 どんなに悪口雑言を吐こうと、つぐみは全治数ヶ月の傷を負っているのだ。%K%P
 No matter how badly she had treated me, Tsugumi would still be bedridden for months recovering.
 CN PLACEHOLDER
-Не важно, как плохо бы она со мной не обращалась, Цугуми будет несколько месяцев прикована к постели, прежде чем поправится.
+Как плохо бы она со мной не обращалась, Цугуми будет несколько месяцев прикована к постели, прежде чем поправится.
 
 武「そうだな……そうだよな。悪かった。なんか言い方がキツかったな」%K%P
 You're right. I'm sorry. That came out a little harsh.
@@ -571,7 +571,7 @@ CN PLACEHOLDER
 武「おっ、そうそう、ビートル」%K%P
 Right, right. Just like that Beetle.
 CN PLACEHOLDER
-О, точняк. Прямо как этот „Жук”.
+О, точняк. Прямо как этот „Жук“.
 
 武「そのビートルおばちゃんの作った味噌煮込みうどんが、これまた絶品で……」%K%P
 That Aunt Beetle makes a mean bowl of miso ramen.

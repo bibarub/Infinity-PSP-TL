@@ -626,7 +626,7 @@ CN PLACEHOLDER
 優「Ｃ通路にたまってた水も、第８区画にあふれ出した水も、全部第４区画に移動する、みたいなことになるのかな？」%K%P
 All the water in Corridor C, as well as Sector Eight, will flow into Sector Four, I guess.
 CN PLACEHOLDER
-Видимо, вся вода из коридора „В“ вместе с водой из Сектора 8, перетечёт в Сектор 4.
+Видимо, вся вода из коридора „В“ вместе с водой из Сектора 8 перетечёт в Сектор 4.
 
 少年「うん、そういうこと」%K%P
 Yep, that's the plan.
@@ -1261,7 +1261,7 @@ CN PLACEHOLDER
 はっと我に返り、ヒンメルの扉を開こうとした。%K%P
 Coming back to myself, I tried to open the door to Himmel.
 CN PLACEHOLDER
-Придя в себя, я попытался открыть дверь, ведущую в ХИММЕЛ.
+Придя в себя, я попытался открыть дверь, ведущую в Химмель.
 
 しかし扉はビクとも動かない。%K%P
 But the door wouldn't budge.
@@ -1356,7 +1356,7 @@ CN PLACEHOLDER
 いつまでも、この場に踏みとどまっていたって、どうにもならない。%K%P
 But no matter how hard I tried, it was in vain.
 CN PLACEHOLDER
-Но не важно, как бы сильно я не пытался, всё бесполезно.
+Но неважно, как бы сильно я ни пытался, всё бесполезно.
 
 やっぱりあの少女は……ただの幻だったのかもしれない。%K%P
 (Is she just... Just my imagination?)

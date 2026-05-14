@@ -221,7 +221,7 @@ CN PLACEHOLDER
 武「それって……どんなに深呼吸しても、窒息したみたいに苦しくなるってことか？」%K%P
 So... No matter how many deep breaths you take, it feels like you're suffocating?
 CN PLACEHOLDER
-То есть... не важно, насколько глубоко ты пытаешься дышать – всё равно задохнёшься?
+То есть... Неважно, насколько глубоко ты пытаешься дышать – всё равно задохнёшься?
 
 空「はい」%K%P
 Yes.

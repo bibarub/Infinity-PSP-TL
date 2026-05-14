@@ -186,7 +186,7 @@ CN PLACEHOLDER
 少年「そ、そんなわけないだろ。いくら記憶がないからって、それくらいわかるって」%K%P
 I... I don't think so. No matter how much memory I've lost, I know that much.
 CN PLACEHOLDER
-А... мне так не кажется. И не важно, сколько памяти я потерял. Это уж точно.
+А... мне так не кажется. И неважно, как много я забыл. Это уж точно.
 
 沙羅「じゃ、武に訊いてみようか？」%K%P
 Do you want me to ask Takeshi?
@@ -246,7 +246,7 @@ CN PLACEHOLDER
 少年「なに持ってきても、文句言わないでよ？」%K%P
 You can't complain no matter what I bring back, okay?
 CN PLACEHOLDER
-И не вздумай жаловаться. Не важно, что бы я ни принёс, ясно?
+И не вздумай жаловаться. Неважно, что бы я ни принёс, ясно?
 
 沙羅「ＯＫ」%K%P
 Okay.

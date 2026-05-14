@@ -21,7 +21,7 @@ CN PLACEHOLDER
 『ＨＩＭＭＥＬ』――%K%P
 “HIMMEL”—
 CN PLACEHOLDER
-«ХИММЕЛ»...
+«HIMMEL»...
 
 開かずの扉。%K%P
 The door that wouldn't open.
@@ -41,17 +41,17 @@ CN PLACEHOLDER
 武「ヒンメルって、なんだ？」%K%P
 What does Himmel mean?
 CN PLACEHOLDER
-Как переводится „ХИММЕЛ“?
+Как переводится „HIMMEL“?
 
 空「ドイツ語で『空』」%K%P
 It means 'sky' in German.
 CN PLACEHOLDER
-По немецки это „Небо“.
+По-немецки это „небо“.
 
 空「それに、『天国』……」%K%P
 Or 'heaven'...
 CN PLACEHOLDER
-А также... „Рай“...
+Или „рай“...
 
 武「天国、か……」%K%P
 Heaven, huh...?
@@ -121,7 +121,7 @@ CN PLACEHOLDER
 空「ヒンメルのプロテクトキーを解除します」%K%P
 Bypassing Himmel's protection key.
 CN PLACEHOLDER
-Обход защитного ключа ХИММЕЛ.
+Обход защитного ключа Химмель.
 
 扉の電子キーのボタンが明滅し始めた。%K%P
 The buttons on the electronic lock started to flash.
@@ -351,7 +351,7 @@ CN PLACEHOLDER
 結局、優は突き指をしてしまったらしく、とぼとぼと救急箱のところへ戻って行った。%K%P
 In the end, You ended up with a sprained finger and went back to the first aid kit.
 CN PLACEHOLDER
-В конце концов, Ю вывихнула палец и пошла за аптечкой.
+В конце концов Ю вывихнула палец и пошла за аптечкой.
 
 次なる手は……%K%p
 Next, I...
@@ -601,7 +601,7 @@ CN PLACEHOLDER
 空「この部屋の中……ヒンメルの端末からです！」%K%P
 From inside the room... From a terminal inside Himmel!
 CN PLACEHOLDER
-Внутри того помещения... с терминала в ХИММЕЛ!
+Внутри того помещения... с терминала в Химмеле!
 
 武「何だって！？」%K%P
 What!?
@@ -651,12 +651,12 @@ CN PLACEHOLDER
 ヒンメル――天国という名はあながち間違いではないようだ。%K%P
 Himmel—it didn't necessarily seem like a mistake to have named the room heaven.
 CN PLACEHOLDER
-ХИММЕЛ. Не удивительно, что это помещение назвали «раем».
+Химмель. Неудивительно, что это помещение назвали «раем».
 
 『ＨＩＭＭＥＬ』と書かれたプレートが、機械に貼りつけられている。%K%P
 The machines displayed nameplates with “HIMMEL” written on them.
 CN PLACEHOLDER
-На многих установках также висят таблички и наклейки с надписью «ХИММЕЛ».
+На многих установках также висят таблички и наклейки с надписью «HIMMEL».
 
 ここはコンピューターのコントロールルームらしい。%K%P
 It seemed that we were in the computer control room.
@@ -736,12 +736,12 @@ CN PLACEHOLDER
 彼の名前や身分を示すものがないかどうか、白衣や衣服を見た。%K%P
 I looked over his white clothing to see if he had any name tags or other way to determine his name.
 CN PLACEHOLDER
-И рассмотрел белый халат на наличие нашивок, наклеек и карточек, что могло бы дать хоть какое-то предположение о его имени.
+Я осмотрел его белый халат и одежду – нет ли чего-нибудь, что указывало бы на его имя или личность.
 
 だが、ＩＤカードやネームプレートの類は確認できない。%K%P
 But he didn't have any ID card or nameplate to check.
 CN PLACEHOLDER
-Но ни того, ни другого, ни третьего не оказалось.
+Но ни пропуска, ни именного бейджа при нём не оказалось.
 
 研究員「ううっ……」%K%P
 Uuugh...
@@ -796,7 +796,7 @@ CN PLACEHOLDER
 口元を歪めて苦笑すると、そこからまた血がこぼれる。%K%P
 Blood trickled from his mouth, and he smiled wryly.
 CN PLACEHOLDER
-Кровь тонкой струйкой сочится из его рта, но он улыбнулся... с трудом... улыбка вперемешку с гримасой боли.
+Стоило ему горько усмехнуться, как с его губ вновь потекла кровь.
 
 武「お、おいっ、あんま無理にしゃべるな！」%K%P
 H-Hey! Don't strain yourself. You don't have to talk!
@@ -891,7 +891,7 @@ CN PLACEHOLDER
 ヒンメルの入り口付近に立ち尽くしていた優が、ピピと共に室内に入った。%K%P
 You, who had been waiting at the entrance to Himmel, went inside with Pipi.
 CN PLACEHOLDER
-Ю, что ждала у входа в ХИММЕЛ, зашла внутрь вместе с Пипи.
+Ю, что ждала у входа в Химмель, зашла внутрь вместе с Пипи.
 
 少年がココを抱えながら、後に続く。%K%P
 The Kid followed behind, carrying Coco.
@@ -906,7 +906,7 @@ CN PLACEHOLDER
 空「皆さん、この部屋の奥にもうひとつ、部屋があります。見えますか？」%K%P
 Everyone, at the far end of this room is another room. Can you see it?
 CN PLACEHOLDER
-Ребята, в дальнем конце помещения есть ещё одно. Видите?
+Ребята, в дальнем конце помещения есть ещё одна дверь. Видите?
 
 武「ＯＫ……」%K%P
 Yeah...
@@ -951,7 +951,7 @@ IBF заполнен газом под ещё более высоким давл
 空「そのほうが特殊な細菌の研究に適しているということもあるのでしょう……ＩＢＦの内部気圧は、実に、約１２．５気圧……」%K%P
 This type of area is also probably more suitable for research with bacteria... The atmospheric pressure of IBF is actually at about 12.5 atmospheres.
 CN PLACEHOLDER
-Зоны как эта действительно более подходящи для изучения микроорганизмов... Давление в IBF составляет примерно 12,5 атмосфер.
+Зоны, как эта, действительно больше подходят для изучения микроорганизмов... Давление в IBF составляет примерно 12,5 атмосфер.
 
 空「皆さんには、あの部屋に入っていただきます」%K%P
 I want all of you to enter that room.
@@ -1126,7 +1126,7 @@ CN PLACEHOLDER
 空が端末のパネルを操作して、扉を開く。%K%P
 Sora used the control panel on a terminal to open it up.
 CN PLACEHOLDER
-С помощью панели управления на терминале, Сора открыла её.
+С помощью панели управления на терминале Сора открыла её.
 
 全員が揃って、奥の部屋に進んだ。%K%P
 All of us entered the room together.
@@ -1136,17 +1136,17 @@ CN PLACEHOLDER
 ヒンメルのコントロールルームから強化ガラス一枚を隔てて、加減圧室はある。%K%P
 A single panel of reinforced glass lay in between the control room and the compression chamber.
 CN PLACEHOLDER
-От остального пространства компьютерной комнаты её отделяет лишь слой бронированного стекла.
+Она располагалась за бронированным стеклом по другую сторону от Химмеля. 
 
 正確には、部屋の中央にチャンバーが置かれ……部屋の中に部屋が作られているような格好だ。%K%P
 More precisely, a chamber was set in the middle of the room... It had been constructed there.
 CN PLACEHOLDER
-Точнее, барокамера, установленная посреди этой комнаты... в ней и была построена.
+Точнее говоря, в центре помещения находилась отдельная камера – так что всё выглядело как комната внутри комнаты.
 
 ココと研究員を先に運び入れ、椅子に寝かせる。%K%P
 We brought Coco and the researcher into the room first and sat them down on chairs.
 CN PLACEHOLDER
-Мы внесли Коко и учёного в комнату и усадили их в кресла.
+Внеся туда Коко и учёного, мы усадили их в кресла.
 
 ふたりとも呼吸が不安定で、苦しそうだ。顔色もすぐれない。%K%P
 Both of them had ragged breathing, and they looked to be in pain. Their faces were extremely pale and sickly.
@@ -1166,7 +1166,7 @@ CN PLACEHOLDER
 空いているスペースに優・少年・つぐみ・ピピが並んで立った。%K%P
 You, the Kid, Tsugumi, and Pipi all stood in the open space available.
 CN PLACEHOLDER
-Ю, Малой, Цугуми и Пипи стоят на небольшом пяточке.
+Ю, Малой, Цугуми и Пипи стоят на небольшом пятачке.
 
 部屋は定員を越えていて、やはり狭かった。%K%P
 With everyone in there, it was fairly crowded.
@@ -1256,7 +1256,7 @@ CN PLACEHOLDER
 驚いて俺が手を引っ込めると、すぐに入り口の扉が閉まってしまった。%K%P
 Alarmed, I drew back my hand, and the door closed.
 CN PLACEHOLDER
-Я машинально отринул руку, и дверь закрылась.
+Я машинально одёрнул руку, и дверь закрылась.
 
 武「空、空っ！　今のは……」%K%P
 Sora! Sora! What was...?

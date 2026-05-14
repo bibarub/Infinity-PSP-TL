@@ -391,7 +391,7 @@ CN PLACEHOLDER
 今や手の中にすっぽりと、チャミの身体は隠れていた。%K%P
 His body disappeared entirely in her hands.
 CN PLACEHOLDER
-Вскоре, его тело полностью исчезло в её руках.
+Вскоре его тело полностью исчезло в её руках.
 
 つぐみ「どうなるか、知ってる？」%K%P
 Do you know what will happen?
@@ -1443,7 +1443,7 @@ CN PLACEHOLDER
 それじゃあ、君の血液を少しもらおうかな。%K%P
 Alright, I'd like to take a little of your blood.
 CN PLACEHOLDER
-Значит, так, мне необходимо взять у тебя кровь.
+Значит так, мне необходимо взять у тебя кровь.
 
 どうして？%K%P
 Why?

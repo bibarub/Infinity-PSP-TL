@@ -221,7 +221,7 @@ CN PLACEHOLDER
 （……誰だ？）%K%P
 (...Who was that?)
 CN PLACEHOLDER
-(... чёрт, кто это был??)
+(...И кто это был?)
 
 すぐに振り返って、背後へ去る足音の主を確かめる。%K%P
 I whipped around quickly, trying to see who the person was.
@@ -256,7 +256,7 @@ CN PLACEHOLDER
 だがそうしている間にも、彼女の背中はどんどん遠くなっていく。%K%P
 In the meantime, all I could see was Tsugumi's back fading farther away.
 CN PLACEHOLDER
-Секундой позже, всё, что я увидел – спина Цугуми, удаляющаяся всё дальше и дальше.
+Секундой позже всё, что я увидел – спина Цугуми, удаляющаяся всё дальше и дальше.
 
 武「ま、待てよ！　どこ行くんだ？」%K%P
 Hey, wait up! Where are you going?
@@ -306,7 +306,7 @@ CN PLACEHOLDER
 聞こえているわけはないだろうが、俺は抗議した。%K%P
 I grumbled after her although she was well out of earshot.
 CN PLACEHOLDER
-Прохрипел я ей в след. Правда, на таком расстоянии она меня вряд ли услышит.
+Прохрипел я ей вслед. Правда, на таком расстоянии она меня вряд ли услышит.
 
 まったく追いつける気がしなかった。%K%P
 It didn't feel like I could catch up with her at all.
@@ -331,12 +331,12 @@ CN PLACEHOLDER
 一応叫んでみたけれど、それは届かない。%K%P
 I called her name without much hope, but there was no answer.
 CN PLACEHOLDER
-Попытав удачу, я позвал её.
+Попытав удачу я позвал её.
 
 結局、つぐみは気づかないままだったようだ。%K%P
 In the end, it seemed Tsugumi hadn't noticed.
 CN PLACEHOLDER
-Удача повернулась ко мне задом – Цугуми меня даже не заметила.
+В конце концов, кажется, Цугуми меня так и не заметила.
 
 俺を避けているわけではなさそうだが……。%K%P
 It hadn't seemed that she was trying to avoid me...
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 幸いと言うべきだろうか。%K%P
 But maybe I was better off that way.
 CN PLACEHOLDER
-Но наверное лучше сейчас её не трогать.
+Но, наверное, лучше сейчас её не трогать.
 
 俺は諦めて階段を下り、通常通路に戻った。%K%P
 Giving up, I went back down the stairs and returned to the corridor.
@@ -396,7 +396,7 @@ CN PLACEHOLDER
 優「煙草は、はたちになってから、だよ」%K%P
 You know the rules... No smoking until you're legal.
 CN PLACEHOLDER
-Ты же знаешь, что до 20 – никаких сигарет.
+Ты же знаешь, что до 20 никаких сигарет.
 
 優「それを差っ引いたとしてもさぁ、よくもまぁそんなことが言えるわねぇ〜」%K%P
 You can joke if you want, but I can't believe you'd say that.
@@ -406,7 +406,7 @@ CN PLACEHOLDER
 優「ほれっ、この私の、ピチピチフレッシュなモチ肌を見てごらんなさいな！」%K%P
 I mean, just take a look at my fresh silky skin!
 CN PLACEHOLDER
-Вот взгляни на мою нежную, шелковистую кожу!
+Вот, взгляни на мою нежную шелковистую кожу!
 
 優「これぞまさに、乙女の柔肌ってやつよ！」%K%P
 This is the soft skin of a lady!
@@ -796,7 +796,7 @@ CN PLACEHOLDER
 優「私達から見れば、文字通り、空は『空』にいる、ってことになるわけ」%K%P
 So from our point of view... just like her name's meaning, 'Sora' is in the 'sky'.
 CN PLACEHOLDER
-Её имя говорит само за себя – по-японски „Сора“ значит „Небо“.
+Её имя говорит само за себя – по-японски „Сора“ значит „небо“.
 
 そう言って、優は天井を指差した。%K%P
 With that, You pointed her finger toward the ceiling.
@@ -816,7 +816,7 @@ CN PLACEHOLDER
 当然ではあるが……。%K%P
 Naturally, she was nowhere to be seen...
 CN PLACEHOLDER
-Разумеется, её там нет...%K%P... стоп. Её там нет?!
+Разумеется, её там нет...%K%P...Стоп. Её там нет?!
 
 武「って、おいおいおいおい！　でもなぁ！」%K%P
 Hey, hey, hey, hold on a second! How could that be!?
@@ -1026,7 +1026,7 @@ CN PLACEHOLDER
 首を鳴らし、凝り固まった肩を回す。%K%P
 She then popped her neck and rotated her stiff shoulders.
 CN PLACEHOLDER
-Затем она хрустнула шеей и повернула затёкшие плечи.
+Затем она хрустнула шеей и расправила плечи.
 
 優「さて、と……」%K%P
 Now then...
@@ -1086,7 +1086,7 @@ CN PLACEHOLDER
 優はずっと、モニターだけを見ていた。%K%P
 For a long time, You stared at the monitor.
 CN PLACEHOLDER
-Всё это время, Ю смотрела в монитор.
+Всё это время Ю смотрела в монитор.
 
 こちらに顔を見せようとしない。%K%P
 She didn't look my way.
@@ -1126,7 +1126,7 @@ CN PLACEHOLDER
 ＬｅＭＵが圧潰しようと沈没しようと、空だけは助かる……。%K%P
 No matter whether LeMU was crushed or not, she'd still be okay...
 CN PLACEHOLDER
-Не важно, раздавит ли LeMU или нет, с ней всё будет в порядке...
+Неважно, раздавит ли LeMU или нет, с ней всё будет в порядке...
 
 『そうだ、倉成さん。ここから脱出できたら、まず何がしたいですか？』%K%P
 “Tell me, Kuranari-san, after you escape from here, what's the first thing you want to do?”
@@ -1136,7 +1136,7 @@ CN PLACEHOLDER
 …………。%K%P
 .........
 CN PLACEHOLDER
-......
+...
 
 あの言葉は、ただの薄っぺらい同情だったのだろうか？%K%P
 Were her words just a flimsy attempt at compassion?
@@ -1151,7 +1151,7 @@ CN PLACEHOLDER
 『みんな、明日を信じて、生きてるんですよね……』%K%P
 “Come on, everybody! Believe in tomorrow so you can live today...”
 CN PLACEHOLDER
-«... люди верят в завтрашний день, чтобы прожить сегодняшний...»
+«...люди верят в завтрашний день, чтобы прожить сегодняшний...»
 
 すべてただの、プログラムされた言葉だと……。%K%P
 Were those words just robotic, programmed phrases...?

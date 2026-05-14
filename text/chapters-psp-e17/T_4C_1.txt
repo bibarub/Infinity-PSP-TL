@@ -36,27 +36,27 @@ CN PLACEHOLDER
 ドッグパンはなかったので、サンドのバンズにソーセージを挟み込む。%K%P
 There were no hotdog buns, so I stuffed the sausage into a bread roll.
 CN PLACEHOLDER
-Булочек для хот-догов не осталось, поэтому я запихнул сосиску в сдобную булку.
+Булочек для хот-догов не осталось, поэтому я запихнул сосиску между кусков хлеба для сэндвича.
 
 そしてケチャップとマスタードを塗りたくり、大口開けてかぶりついた。%K%P
 I slapped on ketchup and mustard and took a big bite.
 CN PLACEHOLDER
-Полил сверху горчицей с кетчупом и сделал большой укус.
+Полил сверху горчицей с кетчупом и откусил побольше.
 
 武「むふふ……やべぇ、美味過ぎる……♪」%K%P
 Mmm... Mmm... This is so good...!
 CN PLACEHOLDER
-М-м... м-м... фкуфнотифяяя!..
+М-м... м-м... фкуфнотифя-я-я!..
 
 バリっとした歯ごたえとジューシーな旨みが、お口一杯に広がる。%K%P
 My mouth filled with the juicy flavor as I bit down.
 CN PLACEHOLDER
-В мгновение ока, рот заполонило сочным аппетитным вкусом.
+В мгновение ока сочный аппетитный вкус наполнил весь мой рот.
 
 武「ああ、おいちい、肉おいちい……♪」%K%P
 Mmmm... Meat... Mmm... Yum...
 CN PLACEHOLDER
-Мммм... мясо... ммм... ням...
+М-м-м-м... мясо... м-м-м... ням...
 
 タツタサンドも美味いが、やっぱり毎食毎食あれでは飽きるからなぁ……。%K%P
 Fried tuna sandwiches were good, but not for every meal every single day...
@@ -76,12 +76,12 @@ CN PLACEHOLDER
 武「んぐぁ！？」%K%P
 Mmmf!?
 CN PLACEHOLDER
-Мммф?!
+М-м-мф?!
 
 いきなり話しかけられて、俺はソーセージの欠片を喉に詰まらせた。%K%P
 Surprised by Sora's voice, I choked on a piece of sausage.
 CN PLACEHOLDER
-В испуге от возгласа Соры, я подавился куском сосиски.
+Испугавшись возгласа Соры, я подавился куском сосиски.
 
 空はすぐ目の前に現れていた……。%K%P
 Sora appeared in front of me.
@@ -91,7 +91,7 @@ CN PLACEHOLDER
 武「……！？　…………！！」%K%P
 ......!? ......!
 CN PLACEHOLDER
-......?! ......!
+...?! ...!
 
 空「く、倉成さん！？　しっかりしてください！」%K%P
 Kuranari-san? Are you alright?
@@ -101,12 +101,12 @@ CN PLACEHOLDER
 武「〜〜〜〜〜〜〜〜っ！！」%K%P
 Aaaaaaaaagh!
 CN PLACEHOLDER
-〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜агх!
+...агх!
 
 武「っぁあ！！　ぐえっ、ごほっ、がはぁ……」%K%P
 A-Ahgh... *cough*, *cough*...
 CN PLACEHOLDER
-А, кхха... *кххха* *кххха*...
+Акх-ха... *Кашляет*
 
 俺は目を白黒させながらもがき、喉の奥の肉片を胃袋へと脱出させる。%K%P
 Blinking and struggling, I finally managed to swallow the chunk of meat.
@@ -336,7 +336,7 @@ CN PLACEHOLDER
 武「なぁ、つぐみが勝手に出歩いたりしてないか、チェックしてくれないか？」%K%P
 Can you check to make sure Tsugumi isn't wandering around instead of taking it easy?
 CN PLACEHOLDER
-Слушай, может лучше удостоверимся, что Цугуми действительно не шатается где ни попади?
+Слушай, может, лучше удостоверимся, что Цугуми действительно не шатается где ни попадя?
 
 俺が訊くと、何故か空は困ったような顔になった。%K%P
 I nodded, but Sora looked troubled.
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 武「どうしたんだ？　スキャンすればすぐわかるだろ？」%K%P
 What's wrong? All it takes is a quick scan.
 CN PLACEHOLDER
-Что стряслось? Это же просто быстрое сканирование.
+Что такое? Это же просто быстрое сканирование.
 
 空「あの……」%K%P
 Yes, well...
@@ -371,17 +371,17 @@ CN PLACEHOLDER
 空「ほら……倉成さんにも、ひとりになりたいときって、あるでしょう？」%K%P
 There are times when even you want to be alone, right, Kuranari-san?
 CN PLACEHOLDER
-Бывает время, когда и ты хочешь побыть один. Правда, Куранари-сан?
+Ну... даже у тебя, Куранари-сан, наверняка бывают моменты, когда хочется побыть одному?
 
 空「他にも、内緒話したいときとか、ふたりきりになりたいときとか……」%K%P
 And times when you want to talk about something secret or be alone with somebody...?
 CN PLACEHOLDER
-И когда ты хочешь поговорить о чём-то сокровенном, или же уединиться с кем бы то ни было?..
+Или когда нужно поговорить или побыть наедине с кем-то?..
 
 空「私も皆さんのプライバシーは、守りたいと思いまして……」%K%P
 I want to protect people's privacy.
 CN PLACEHOLDER
-Я не хочу, чтобы вторгались в личную жизнь.
+Я хочу сохранить право на частную жизнь.
 
 空「スキャンすると、全部わかってしまいますから。ね？」%K%P
 If I scan, then I know everything.
@@ -396,7 +396,7 @@ CN PLACEHOLDER
 レミの様子を見に行った空と別れ、俺は２階の救護室にやって来た。%K%P
 Sora went to check on LeMMIH, and I went to the second floor infirmary.
 CN PLACEHOLDER
-Сора ушла, чтобы провести очередное обслуживание LeMMIH, а я пошёл на второй этаж, в лазарет.
+Сора ушла, чтобы провести очередное обслуживание LeMMIH, а я пошёл на второй этаж в лазарет.
 
 さらに数時間が経った。%K%P
 Several hours went by...
@@ -451,27 +451,27 @@ CN PLACEHOLDER
 ドッグパンはなかったので、サンドのバンズにソーセージを挟み込む。%K%P
 There were no hotdog buns, so I stuffed the sausage into a bread roll.
 CN PLACEHOLDER
-Булочек для хот-догов не осталось, поэтому я запихнул сосиску в сдобную булку.
+Булочек для хот-догов не осталось, поэтому я запихнул сосиску между кусков хлеба для сэндвича.
 
 そしてケチャップとマスタードを塗りたくり、大口開けてかぶりついた。%K%P
 I slapped on the ketchup and mustard and took a big bite.
 CN PLACEHOLDER
-Полил сверху горчицей с кетчупом и сделал большой укус.
+Полил сверху горчицей с кетчупом и откусил побольше.
 
 武「むふふ……やべぇ、美味過ぎる……♪」%K%P
 Mmm... Mmm... This is so good...!
 CN PLACEHOLDER
-М-м... м-м... фкуфнотифяяя!..
+М-м... м-м... фкуфнотифя-я-я!..
 
 バリっとした歯ごたえとジューシーな旨みが、お口一杯に広がる。%K%P
 My mouth filled with the juicy flavor as I bit down.
 CN PLACEHOLDER
-В мгновение ока, рот заполонило сочным аппетитным вкусом.
+В мгновение ока сочный аппетитный вкус наполнил весь мой рот.
 
 武「ああ、おいちい、肉おいちい……♪」%K%P
 Mmmm... Meat... Mmm... Yum...
 CN PLACEHOLDER
-Мммм... мясо... ммм... ням...
+М-м-м-м... мясо... м-м-м... ням...
 
 タツタサンドも美味いが、やっぱり毎食毎食あれでは飽きるからなぁ……。%K%P
 Fried tuna sandwiches were good, but not for every meal every single day...
@@ -491,12 +491,12 @@ CN PLACEHOLDER
 武「んぐぁ！？」%K%P
 Mmmf!?
 CN PLACEHOLDER
-Мммф?!
+М-м-мф?!
 
 いきなり話しかけられて、俺はソーセージの欠片を喉に詰まらせた。%K%P
 Surprised by Coco's voice, I choked on a piece of sausage.
 CN PLACEHOLDER
-В испуге от возгласа Коко, я подавился куском сосиски.
+Испугавшись возгласа Коко, я подавился куском сосиски.
 
 ココはすぐ目の前に立っていた……。%K%P
 Coco appeared in front of me.
@@ -506,7 +506,7 @@ CN PLACEHOLDER
 武「……！？　…………！！」%K%P
 ......!? ......!
 CN PLACEHOLDER
-......?! ......!
+...?! ...!
 
 ココ「た、たけぴょん！？　どうしたの、しっかりして！」%K%P
 Takepyon? Are you alright?
@@ -516,12 +516,12 @@ CN PLACEHOLDER
 武「〜〜〜〜〜〜〜〜っ！！」%K%P
 Aaaaaaaaagh!
 CN PLACEHOLDER
-〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜агх!
+...агх!
 
 武「っぁあ！！　ぐえっ、ごほっ、がはぁ……」%K%P
 A-Ahgh...*cough*, *cough*...
 CN PLACEHOLDER
-А, кхха... *кххха* *кххха*...
+Акх-ха... *Кашляет*
 
 俺は目を白黒させながらもがき、喉の奥の肉片を胃袋へと脱出させる。%K%P
 Blinking and struggling, I finally managed to swallow the chunk of meat.
@@ -551,12 +551,12 @@ CN PLACEHOLDER
 武「今ここで見たことは他言無用。わかったな？」%K%P
 Not a word about what you just saw, okay?
 CN PLACEHOLDER
-Никому ни слова о том, что здесь видела, ладушки?
+Никому не говори о том, что здесь видела, ладно?
 
 ココ「う、うん。いいけど……？」%K%P
 Um, okay sure, but...
 CN PLACEHOLDER
-Мм... угу, только...
+М-м... угу, только...
 
 ココ「たけぴょん、さっきサンド食べてなかったみたいだったから……」%K%P
 Takepyon, you didn't eat your sandwich before...
@@ -566,7 +566,7 @@ CN PLACEHOLDER
 ココ「そっか。みんなの食事が終わってから、ゆっくり食べるつもりだったんだね？」%K%P
 Oh, I see. You were saving it to eat later?
 CN PLACEHOLDER
-Понятненько! Значит, ты собирался перекусить чуток попозже?
+Понятненько! Значит, ты собирался перекусить попозже?
 
 武「あ、ああ。そういうこった」%K%P
 Ah, yeah. That's it.
@@ -576,7 +576,7 @@ CN PLACEHOLDER
 ココ「なーんだ、そっかそっか。よかったよかった♪」%K%P
 That was all? Oh, good〜
 CN PLACEHOLDER
-Дааа нууу? Ну да, ну да. Вижу, вижу.
+Да-а ну-у? Ну да, ну да. Вижу, вижу.
 
 ココ「食欲ないのかと思って、ココちょっぴり気にしてたんだぁ〜」%K%P
 I was worried about you. I thought you'd lost your appetite.
@@ -661,7 +661,7 @@ CN PLACEHOLDER
 ココ「うん、ココはそう聞いたよ」%K%P
 Yup. That's what I heard.
 CN PLACEHOLDER
-Ага. Коко сама слышала.
+Ага. Сора так мне сказала.
 
 驚いた……。%K%P
 I was surprised.
@@ -676,12 +676,12 @@ CN PLACEHOLDER
 武「ほ、他には！？　何か聞いてるか？」%K%P
 What else? Did you hear anything else?
 CN PLACEHOLDER
-А ещё? Коко, что ты слышала?
+А ещё? Коко, что она тебе ещё сказала?
 
 ココ「他に？　んーと、えっとぉ……」%K%P
 Anything else? Umm... Well...
 CN PLACEHOLDER
-Что я слышала? Эмм... ну...
+Что ещё? Эм-м... ну...
 
 ココ「空さん、つぐみんに質問されたんだって」%K%P
 Sora-san said Tsugumin was asking questions and stuff.
@@ -696,12 +696,12 @@ CN PLACEHOLDER
 ココ「うん、ちょっと変わった質問」%K%P
 Yeah, she asked her a really silly question.
 CN PLACEHOLDER
-Ага, она задала Соре какой-то глупый вопрос.
+Ага, она задала Соре какой-то странный вопрос.
 
 武「か、変わった……質問って？」%K%P
 A strange... question?
 CN PLACEHOLDER
-Глупый... вопрос?
+Странный... вопрос?
 
 武「どんな……？」%K%P
 What'd she ask?
@@ -711,12 +711,12 @@ CN PLACEHOLDER
 ココ「うーん、どんなのだったかな……あっ、そうそう！」%K%P
 Um, what was it...? Oh, yeah!
 CN PLACEHOLDER
-Это, как же там... Ах, да!
+Ну, как же там... Ах, да!
 
 ココ「『私の過去について、何か知っているか？』」%K%P
 She said, 'What do you know about my past?'
 CN PLACEHOLDER
-„Что ты знаешь о моём прошлом?“
+Она спросила: „Что ты знаешь о моём прошлом?“
 
 ココ「ってな感じなことを、つぐみんが空さんに訊いて……」%K%P
 Or something like that...
@@ -766,12 +766,12 @@ CN PLACEHOLDER
 ココ「確かに、ちょこっと変な質問かもね」%K%P
 Come to think about it, that is kind of a silly question.
 CN PLACEHOLDER
-Я вот думаю, какой-то дурацкий этот вопрос.
+Я вот думаю, какой-то странный этот вопрос.
 
 そうだな……確かに、変な感じだ。%K%P
 Yes... It was very weird.
 CN PLACEHOLDER
-Да... я бы даже сказал СТРАННЫЙ.
+Да... я бы даже сказал ОЧЕНЬ.
 
 武「なぁココ。つぐみが今どこにいるか、知ってるか？」%K%P
 Coco, where's Tsugumi now?
@@ -786,7 +786,7 @@ CN PLACEHOLDER
 ココ「救護室にいると思うよ？」%K%P
 I think she's still in the infirmary.
 CN PLACEHOLDER
-Должно быть по-прежнему в лазарете.
+Должно быть, по-прежнему в лазарете.
 
 ココ「ベッドに寝てるんだって。空さんが、そう言ってた」%K%P
 She went to bed. At least that's what Sora-san said.
@@ -816,7 +816,7 @@ CN PLACEHOLDER
 ココ「うーん、たぶん」%K%P
 Uuum, probably.
 CN PLACEHOLDER
-Мммм... наверное.
+М-м... Наверное.
 
 武「たぶん、か……」%K%P
 Probably, huh...
@@ -826,7 +826,7 @@ CN PLACEHOLDER
 武「わかった。じゃ、一応見に行ってみるかなぁ……」%K%P
 Alright then. I think I'll go and check on her.
 CN PLACEHOLDER
-Ну ладушки. Пожалуй пойду проведать её.
+Ну ладно. Пожалуй, пойду проведать её.
 
 ココ「…………」%K%P
 .........
@@ -861,7 +861,7 @@ CN PLACEHOLDER
 武「ば、バカなこと言うなよ。そんなわけないだろ？」%K%P
 Y-You gotta be kidding me! There's no way!
 CN PLACEHOLDER
-Т-ты что, шутишь?! Да ни в коем разе!
+Т-ты что, шутишь?! Да ни в жизнь!
 
 ココ「そう？　そうかなぁ？」%K%P
 Really? I wonder?
@@ -871,7 +871,7 @@ CN PLACEHOLDER
 ココ「ココには、たけぴょんの顔に、そう書いてあるみたいに見えたんだけどなぁ〜」%K%P
 It seems to me like it's written aaAAaall over your face.
 CN PLACEHOLDER
-Такэпён, а по-моему, у тебя всё-ё-ё-ё это на лице написано.
+Такэпён, а по-моему, у тебя всё-всё на лице написано.
 
 武「えっ！？」%K%P
 Huh!?
@@ -901,7 +901,7 @@ CN PLACEHOLDER
 それからココと別れ、俺は２階の救護室にやって来た。%K%P
 I left Coco and went to the second floor infirmary.
 CN PLACEHOLDER
-Оставив Коко, я пошёл на второй этаж, в лазарет.
+Оставив Коко, я пошёл на второй этаж в лазарет.
 
 （あいつ、ちゃんと寝てりゃあいいんだけど……）%K%P
 I hope she's resting properly...
@@ -911,7 +911,7 @@ CN PLACEHOLDER
 武「おーい、つぐみ、入るぞーっ」%K%P
 Heeey, Tsugumi, can I come in?
 CN PLACEHOLDER
-Ауууу, Цугуми, можно войти?
+Ау-у, Цугуми, можно войти?
 
 インターホンボタンで声をかけ、俺は扉をオープンした。%K%P
 I spoke into the intercom and opened the door.

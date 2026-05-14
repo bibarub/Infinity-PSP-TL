@@ -236,7 +236,7 @@ CN PLACEHOLDER
 一瞬、それに果てがないような錯覚を受ける。%K%P
 For a moment, I had the illusion that it went on forever.
 CN PLACEHOLDER
-На мгновение, мне показалось что он и вправду продолжается в никуда.
+На мгновение мне показалось, что он и вправду продолжается в никуда.
 
 （バカバカしい……）%K%P
 (Stop being stupid...)
@@ -246,7 +246,7 @@ CN PLACEHOLDER
 冷たい水を湛えた道に、ためらわず足を浸す。%K%P
 Without hesitation, I stepped into the cold water filling the hallway.
 CN PLACEHOLDER
-Без сожалений, я ступил в холодную воду, разлитую по коридору.
+Я без сожалений ступил в холодную воду, стелющуюся по коридору.
 
 この光景、この状況にすっかり馴染みきっている自分自身に気づく。%K%P
 I realized how oddly accustomed I'd grown to that spectacle, that strange situation.
@@ -311,7 +311,7 @@ CN PLACEHOLDER
 つぐみがやったのか、それとも他の誰かか……それはわからない。%K%P
 I wondered whether Tsugumi had been the one to clean them up or if it was someone else...
 CN PLACEHOLDER
-Должно быть, Цугуми прибралась здесь... хотя, может и не она...
+Должно быть, Цугуми прибралась здесь... хотя, может, и не она...
 
 ひとまず、ここには誰もいなかった。%K%P
 Regardless, no one was in the room.
@@ -331,7 +331,7 @@ CN PLACEHOLDER
 警備室に向かう。あそこの端末なら動くかもしれない。%K%P
 I walked toward the security office. I thought that maybe the terminal there would be online.
 CN PLACEHOLDER
-Пройдусь пожалуй до Офиса охраны. Может хоть тамошний терминал работает.
+Пройдусь, пожалуй, до Офиса охраны. Может, хоть тамошний терминал работает.
 
 扉を開けると少し淀んだ、こもった空気が香った。%K%P
 Opening the door, I hesitated at the smell.
@@ -341,7 +341,7 @@ CN PLACEHOLDER
 相変わらずヤニ臭い部屋だ。%K%P
 As always, the room smelled like smoke.
 CN PLACEHOLDER
-И не удивительно – в этой комнате постоянно воняет куревом.
+И не удивительно: в этой комнате постоянно воняет куревом.
 
 端末を操作してみる。%K%P
 I tried the terminal.
@@ -351,7 +351,7 @@ CN PLACEHOLDER
 画面には『定期メンテナンス中』のメッセージが表示された。%K%P
 The screen read “Periodic Maintenance in Progress.”
 CN PLACEHOLDER
-На экране отобразилось «Проведение планового обслуживания... выполняется».
+На экране отобразилось сообщение: «Проводится плановое техническое обслуживание».
 
 その下を読み進める。%K%P
 The message continued.
@@ -371,7 +371,7 @@ CN PLACEHOLDER
 『メンテナンス終了時刻は、午前６時を予定しています』%K%P
 “Estimated completion time: 6 a.m.”
 CN PLACEHOLDER
-«Расчётное время завершения: 6 утра.»
+«Расчётное время завершения: 6:00.»
 
 『その間、全館の自動管制システムは半休止していますが、各施設・アトラクション等の使用は通常どおり可能です』%K%P
 “While under maintenance, automatic control systems throughout the compound will be partially offline. However, facilities and attractions will operate normally.”
@@ -381,7 +381,7 @@ CN PLACEHOLDER
 『しかし各種センサー、状態記録システムはメンテナンス中に動作状態チェックを行う為、正常に機能していません』%K%P
 “Note: Since all sensors and recording systems operations will be checked during maintenance, function may be erratic.”
 CN PLACEHOLDER
-«Заметка: поскольку все сенсоры и системы слежения также подвергнутся проверке, они могут функционировать с перебоями.»
+«Примечание: поскольку все сенсоры и системы слежения также подвергнутся проверке, они могут функционировать с перебоями.»
 
 『よって端末からのデータ参照は、現在不可能となっています』%K%P
 “Therefore, it will not be possible to access data through the terminals.”
@@ -391,12 +391,12 @@ CN PLACEHOLDER
 『緊急時に限りメンテナンスを強制中断することはできますが、その後のレミの状態が不安定になってしまう危険があり……』%K%P
 “WARNING: This maintenance program should not be aborted except in cases of emergency. If aborted, there is the danger of making the LeMMIH system unstable...”
 CN PLACEHOLDER
-«ВНИМАНИЕ: Программу диагностики нельзя отменить, за исключением экстренных случаев. При отмене есть реальный риск вызвать нестабильную работу системы LeMMIH...»
+«ВНИМАНИЕ: Программу диагностики нельзя отменить за исключением экстренных случаев. При отмене есть реальный риск вызвать нестабильную работу системы LeMMIH...»
 
 『……ですので、どうかメンテナンス終了まではレミへのアクセスを控えてください』%K%P
 “...Therefore, please refrain from accessing LeMMIH until after maintenance completion.”
 CN PLACEHOLDER
-«... По этой причине, пожалуйста воздержитесь от работы с ней до завершения процедуры.»
+«...По этой причине, пожалуйста, воздержитесь от работы с ней до завершения процедуры.»
 
 『以上、宜しくお願いします』%K%P
 “Thank you for your cooperation.”
@@ -406,7 +406,7 @@ CN PLACEHOLDER
 『追伸：――』%K%P
 “Additional note:”
 CN PLACEHOLDER
-«Дополнительная заметка:»
+«P.S.:»
 
 『メンテ終了まで、私も現れることができません。皆さん同様、夜の間眠っていることになりますね』%K%P
 “Until the maintenance completes, I will be unavailable. Everybody should be asleep at this time anyway, right?”
@@ -421,7 +421,7 @@ CN PLACEHOLDER
 『それでは、おやすみなさい。――茜ヶ崎空』%K%P
 “That is all, good night.—Akanegasaki Sora”
 CN PLACEHOLDER
-«Ладушки, спокойной всем ночи. – Сора»
+«На этом всё. Спокойной всем ночи. – Аканэгасаки Сора»
 
 （はあぁ……）%K%P
 (Well, how about that?)
@@ -436,12 +436,12 @@ CN PLACEHOLDER
 いや、俺が聞き忘れてたのか？%K%P
 Then again, maybe I just wasn't listening...
 CN PLACEHOLDER
-(Хотя, может я действительно пропустил всё мимо ушей...)
+(Хотя, может, я действительно пропустил всё мимо ушей...)
 
 あのとき、冷蔵庫の奥のたった１本のソーセージに気を取られていたせいだろうか。%K%P
 I was probably busy eyeing that extra piece of sausage in the refrigerator.
 CN PLACEHOLDER
-Видимо когда пялился на ту единственную сосиску, остававшуюся в холодильнике.
+Видимо, когда пялился на ту единственную сосиску, оставшуюся в холодильнике.
 
 皆に見つからないように、ソーセージを隠して……。%K%P
 Trying not to be seen by the others as I hid the sausage...
@@ -476,7 +476,7 @@ CN PLACEHOLDER
 なんだか行き場をなくした俺は、意味もなくエレベーターの前に立った。%K%p
 Anyway, having no particular place to go, I found myself in front of an elevator.
 CN PLACEHOLDER
-Как бы там ни было, не зная куда податься, я оказался перед лифтом.
+Как бы там ни было, не зная, куда податься, я оказался перед лифтом.
 
 ボタンを押す
 Push the button
@@ -516,7 +516,7 @@ CN PLACEHOLDER
 エレベーターを呼ぶ為のボタンを眺めた。%K%P
 Absentmindedly, I stared at the elevator call button.
 CN PLACEHOLDER
-Пространным взглядом, я уставился на кнопку вызова лифта.
+Мой взгляд задержался на кнопке вызова лифта.
 
 今は何の意味もなさないボタン。%K%P
 At that moment, the button was truly meaningless.
@@ -621,17 +621,17 @@ CN PLACEHOLDER
 一瞬、つぐみは顔をしかめて……%K%P
 At first, Tsugumi started to frown...
 CN PLACEHOLDER
-На секунду, Цугуми нахмурилась...
+На секунду Цугуми нахмурилась...
 
 それから、俺に笑い返した。%K%P
 But then she laughed back at me.
 CN PLACEHOLDER
-Но через мгновение, засмеялась в ответ.
+Но через мгновение засмеялась в ответ.
 
 つぐみ「少しはあなたも、わかるようになったのね」%K%P
 You've started to catch on, haven't you?
 CN PLACEHOLDER
-Ну... с какой-то стороны, ты прав.
+Теперь ты начал понимать.
 
 武「まぁね……」%K%P
 I suppose...
@@ -646,7 +646,7 @@ CN PLACEHOLDER
 武「……あ、別に答えなくてもいいぞ？」%K%P
 ...Ah, that's okay, you don't have to answer.
 CN PLACEHOLDER
-Хотя, ничего страшного, можешь не отвечать.
+Хотя ничего страшного, можешь не отвечать.
 
 つぐみ「だったら、訊かないでよ……」%K%P
 In that case, don't ask...
@@ -671,7 +671,7 @@ CN PLACEHOLDER
 それからゆっくりと顔をあげ、口を開いた。%K%P
 After a moment, she lifted her eyes and spoke.
 CN PLACEHOLDER
-Через мгновение, она подняла взгляд.
+Через мгновение она подняла взгляд.
 
 つぐみ「ねぇ武、クヴァレ、って知ってる？」%K%P
 Say, Takeshi, do you know what 'Qualle' is?
@@ -801,7 +801,7 @@ CN PLACEHOLDER
 つぐみが先に、クヴァレの乗り場の入り口に立った。%K%P
 With Tsugumi in the lead, we headed for the Qualle entrance.
 CN PLACEHOLDER
-Вместе с Цугуми, я направился ко входу в Qualle.
+Я вместе с Цугуми направился ко входу в Qualle.
 
 武「なぁ、これ、どうやって動かすんだ？」%K%P
 Say, how do you make this thing work?
@@ -866,7 +866,7 @@ CN PLACEHOLDER
 武「じゃあ、誰かと？」%K%P
 Then who was with you?
 CN PLACEHOLDER
-Тогда, кто был с тобой?
+Тогда кто был с тобой?
 
 つぐみ「誰かと、じゃない……」%K%P
 It's not 'who' I was with...
@@ -886,7 +886,7 @@ CN PLACEHOLDER
 つぐみ「そ、そうよ……」%K%P
 Y-Yeah...
 CN PLACEHOLDER
-Н... ну да...
+Н-ну да...
 
 武「てことは、ひとりと１匹だなぁ」%K%P
 In other words, one adult and one 'critter'.
@@ -901,7 +901,7 @@ CN PLACEHOLDER
 武「つぐみはチャミと一緒に、クヴァレに乗ったわけだ？」%K%P
 You rode Qualle with Chami?
 CN PLACEHOLDER
-Значит, ты каталась на „Qualle“ с Чами...
+Значит, ты каталась на Qualle с Чами...
 
 つぐみ「そうよ。……何度も言わせないで」%K%P
 Yes... Don't make me repeat myself.
@@ -931,7 +931,7 @@ CN PLACEHOLDER
 つぐみ「そんなこと、どうでもいいでしょ？」%K%P
 Who cares?
 CN PLACEHOLDER
-Хотя, кому какое дело?
+Хотя кому какое дело?
 
 つぐみ「意味がない質問よ」%K%P
 It's a meaningless question.
@@ -941,7 +941,7 @@ CN PLACEHOLDER
 そう言いつつも、つぐみはよくしゃべっていた。%K%P
 Tsugumi hadn't said much, which was a lot more than usual.
 CN PLACEHOLDER
-Цугуми скупится на слова. Однако сейчас она гораздо более красноречива, чем обычно (ну, если можно так сказать).
+Пусть она так и сказала, но сейчас она говорит даже больше обычного.
 
 武「はあぁ〜〜っ」%K%P
 Hmm...
@@ -951,12 +951,12 @@ CN PLACEHOLDER
 武「まったく、寂しいやっちゃなぁ……」%K%P
 In other words, you were lonely, huh...?
 CN PLACEHOLDER
-Говоря начистоту, тебе было одиноко?..
+Иными словами, тебе было одиноко?..
 
 武「まぁ、俺さえいれば退屈しないし、ひと安心だな」%K%P
 If I was there, I could have cheered you up.
 CN PLACEHOLDER
-Будь я там, я бы поднял твоё настроение.
+Будь я там, я бы поднял тебе настроение.
 
 つぐみ「何が安心なのよ」%K%P
 What do you mean, cheered me up?
@@ -966,7 +966,7 @@ CN PLACEHOLDER
 武「え？　そりゃあお前、いろんなことが、いろいろとだなぁ」%K%P
 Well, you know... You've been through a lot...
 CN PLACEHOLDER
-Да в самом прямом... через что мы только ни прошли...
+Да в самом прямом... через что мы только не прошли...
 
 武「こう、ふたり一緒なら安心で、大丈夫になるわけであって……」%K%P
 And I thought maybe the two of us together would...
@@ -996,7 +996,7 @@ CN PLACEHOLDER
 いきなり声を立てて笑い出した。%K%P
 All of a sudden, she let out a laugh.
 CN PLACEHOLDER
-Она смеётся... нет, Цугуми ржёт.
+Она разразилась смехом.
 
 武「お、おい……どうしちゃったんだよ……？」%K%P
 Hey... What's going on with you...?
@@ -1011,12 +1011,12 @@ CN PLACEHOLDER
 つぐみ「ううん、別に」%K%P
 Nah, not really.
 CN PLACEHOLDER
-Ммм... да нет.
+М-м... да нет.
 
 つぐみ「全然、意味なんてないの」%K%P
 It's nothing important.
 CN PLACEHOLDER
-Вовсе нееет.
+Вовсе нет.
 
 つぐみ「笑ってみたかっただけ……」%K%P
 It's just that... I needed to laugh...
@@ -1056,12 +1056,12 @@ CN PLACEHOLDER
 ハッチを閉めると間もなく、ゴンドラは滑るように動き出した。%K%P
 Immediately after the hatch closed, the gondola began to move forward smoothly.
 CN PLACEHOLDER
-Сразу после закрытия люка, она ровно поплыла вперёд.
+Сразу после закрытия люка она плавно пришла в движение.
 
 つぐみの言った通りだった。%K%P
 It was just as Tsugumi had said.
 CN PLACEHOLDER
-На этом судне, нам выпала каюта класса люкс.%K%PКонечно, я преувеличиваю. Обычные сидения из заменителя кожи – вот и все удобства.
+Цугуми и правда заставила её работать.
 
 クラゲを模したゴンドラはそのまま、ツヴァイトシュトックの外縁部に向かう。%K%P
 The jellyfish-shaped gondola picked up speed and headed toward the outskirts of Zweiter Stock.
@@ -1106,7 +1106,7 @@ CN PLACEHOLDER
 武「やけに念のいったことだな……」%K%P
 It must really be something important...
 CN PLACEHOLDER
-Видимо это правда что-то важное...
+Видимо, это правда что-то важное...
 
 武「大事な、ことなんだな？」%K%P
 Something serious...?
@@ -1126,7 +1126,7 @@ CN PLACEHOLDER
 真っ直ぐな目で、つぐみは俺を見据える。%K%P
 Tsugumi fixed her eyes firmly on mine.
 CN PLACEHOLDER
-Цугуми не отводя взгляда, уставилась мне прямо в глаза.
+Цугуми, не отводя взгляда, уставилась мне прямо в глаза.
 
 真剣だった。%K%P
 Her eyes were serious.
@@ -1336,7 +1336,7 @@ CN PLACEHOLDER
 唇から、滑らかな舌先が少しだけ覗くのが見えた。%K%P
 I could just glimpse the tip of her tongue, wet and smooth.
 CN PLACEHOLDER
-А чуть ниже блестнул влажный и гладкий кончик её языка.
+А чуть ниже блеснул влажный и гладкий кончик её языка.
 
 つぐみ「いいから……」%K%P
 Just answer, okay...?
@@ -1366,7 +1366,7 @@ CN PLACEHOLDER
 つぐみ「爪に、あなたはいるの？」%K%P
 I mean, are you there in the nail?
 CN PLACEHOLDER
-То есть, ты в нём есть?
+То есть ты в нём есть?
 
 武「いや……俺の肉体を離れたら、それはもう俺じゃないよ」%K%P
 No... I guess once it's gone from my body, it's not me anymore.
@@ -1381,7 +1381,7 @@ CN PLACEHOLDER
 武「髪もだ」%K%P
 The same goes for hair.
 CN PLACEHOLDER
-Также и с ними.
+Так же и с ними.
 
 つぐみ「だったら、ここにくっついてる髪の毛は武だけど、こうやって抜いたとたん」%K%P
 In that case, this hair here is you, right? But if I pull it out...
@@ -1431,7 +1431,7 @@ CN PLACEHOLDER
 つぐみ「じゃあ……腕を引きちぎったら？」%K%P
 Okay then... What if I ripped your arm off?
 CN PLACEHOLDER
-Ладно... тогда, что если я оторву твою руку?
+Ладно... тогда что если я оторву твою руку?
 
 武「えっ？」%K%P
 What?
@@ -1541,7 +1541,7 @@ CN PLACEHOLDER
 目を見開きながら、つぐみはその手で俺の首を掴まえる。%K%P
 Still gazing at me, she moved her hands and put them on my neck.
 CN PLACEHOLDER
-Не отводя остекленевший взгляд, она протянула свои руки к моей шее.
+Широко раскрыв глаза, Цугуми протянула свои руки к моей шее.
 
 このまま、俺は狩られるのではないか。%K%P
 It felt like I was being hunted.
@@ -1566,7 +1566,7 @@ CN PLACEHOLDER
 俺は、彼女の瞳の奥をじっと見つめた。%K%P
 I peered deeply into her eyes.
 CN PLACEHOLDER
-И, в ответ, смотрю в глубину её глаз.
+И в ответ смотрю в глубину её глаз.
 
 このまま吸い込まれてしまうのではないか。%K%P
 I felt like I was being sucked inside her.
@@ -1621,12 +1621,12 @@ CN PLACEHOLDER
 大昔の人は、それはハート、つまり心臓に宿ると信じていた。%T030%K%N
 In the past, people thought the soul existed in a person's heart.
 CN PLACEHOLDER
-В былые времена, люди думали, что душа живёт в сердце.
+В былые времена люди думали, что душа живёт в сердце.
 
 デカルトは、脳内の松果体に魂の座があると言った。%K%O
 Descartes believed the soul inhabited the pineal gland in the brain.
 CN PLACEHOLDER
-Декарт верил, что душа живёт в шишковидной железе, в мозгу.
+Рене Декарт верил, что душа живёт в шишковидной железе, в мозгу.
 
 脳。%T030%K%N
 The brain.
@@ -1636,7 +1636,7 @@ CN PLACEHOLDER
 俺という存在は、記憶にあるのだろうか？%T030%K%N
 I wondered briefly if I existed only in my memories.
 CN PLACEHOLDER
-А что если я существую лишь в собственных воспоминаниях?
+А что, если я существую лишь в собственных воспоминаниях?
 
 ならば、あの少年のように記憶を一切失ってしまったら、それはもう、倉成武ではないのだろうか？%T030%K%N
 But if that were the truth, then if I lost my memory like the Kid, wouldn't that mean I was no longer “Kuranari Takeshi”?
@@ -1666,7 +1666,7 @@ CN PLACEHOLDER
 細胞は、日々生まれ変わっている。%T030%K%N
 Cells died and were replaced daily.
 CN PLACEHOLDER
-День за днём, старые клетки умирают и замещаются новыми.
+День за днём старые клетки умирают и замещаются новыми.
 
 生まれ変わり、そして死んでいく。%K%O
 Every cell that was replaced would also die.
@@ -1676,12 +1676,12 @@ CN PLACEHOLDER
 人間の身体を構成するすべての細胞は、３〜５年後には、全部入れ替わっていると言う。%T030%K%N
 They said the cells in the entire human body were completely replaced every three to five years.
 CN PLACEHOLDER
-Говорят, что примерно каждые три или пять лет клетки в человеческом теле полностью обновляются.
+Говорят, что примерно каждые три-пять лет клетки в человеческом теле полностью обновляются.
 
 その辺に転がっている石は、５年前も、５年後も、同一の分子によって構成されている。%T030%K%N
 By comparison, a rock would be composed of the exact same molecules five years before or five years hence.
 CN PLACEHOLDER
-К примеру, камень будет состоять из одних и тех же молекул. Что пять лет назад – что пять лет спустя.
+К примеру, камень будет состоять из одних и тех же молекул. Что пять лет назад, что пять лет спустя.
 
 しかし、人間は違う。%T030%K%N
 But a human body was different.
@@ -2231,7 +2231,7 @@ CN PLACEHOLDER
 優「そっか、よかったぁ」%K%P
 Well, that's good to hear.
 CN PLACEHOLDER
-Вот как! Слава тебе, Господи!
+Здоворо слышать!
 
 空「私、茜ヶ崎空については、診断の結果、若干の思考ノイズがあることが発見されましたが……」%K%P
 After carefully assessing the situation, I have found a slight noise in my thought processor...
@@ -2256,12 +2256,12 @@ CN PLACEHOLDER
 空「時々、私にイタズラをしようとするお客さんがいるんですよ。嘘を教えたり、意地悪をして混乱させたり……」%K%P
 You see, sometimes certain customers want to play pranks on me. They tell lies, or try to confuse me.
 CN PLACEHOLDER
-Иногда посетители разыгрывают меня. Говорят неправду, или пытаются запутать.
+Иногда посетители разыгрывают меня. Говорят неправду или пытаются запутать.
 
 空「それで、私の記憶や反応が、ちょっと変になってしまうことがあるんです。そういうのが、思考ノイズなんです」%K%P
 And because of that, my memories or programmed responses get a little out of alignment. It tends to cause issues in my thought processing.
 CN PLACEHOLDER
-Из-за этого, моя память и реакции на какое-то время становятся слегка неадекватными. То есть, зашумлёнными.
+Из-за этого моя память и реакции на какое-то время становятся слегка неадекватными. Подобное называют когнитивным шумом.
 
 空「予め持っている知識と、新しい情報と、どちらが正しいのか、判断できなくなってしまって……」%K%P
 Sometimes older data gets mixed with newer information, making it difficult to determine which is correct.
@@ -2291,12 +2291,12 @@ CN PLACEHOLDER
 空「新たな浸水などは起こっていないと思いますけど……早めに記録を確認して、状況をご報告しますね」%K%P
 I doubt any new leakage has occurred... but I will report back to you once I've checked the sensor data.
 CN PLACEHOLDER
-Сомневаюсь, что произошла новая течь, но... как только данные будут проверены, я всё Вам расскажу.
+Сомневаюсь, что произошла новая течь, но... как только данные будут проверены, я всё вам расскажу.
 
 少年「うん、空。頼んだよ」%K%P
 Thanks, Sora. We're counting on you.
 CN PLACEHOLDER
-Ммм... Сора, молодчина!
+Спасибо, Сора. Рассчитываем на тебя.
 
 空「はい。お任せください」%K%P
 Yes, leave it to me.

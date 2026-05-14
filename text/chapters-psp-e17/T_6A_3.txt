@@ -366,17 +366,17 @@ CN PLACEHOLDER
 ＹＥＳかＮＯか、デジタルな判断をするはずのプログラムは、必死で矛盾を受け入れようとした……。%K%P
 A computer program that could only accept “yes” or “no”, “ones” and “zeroes”, had tried desperately to accept a contradiction...
 CN PLACEHOLDER
-Компьютерная программа, что способна принять лишь «да» и «нет», «нули» и «единицы», отчаянно пыталась принять противоречие.
+Компьютерная программа, что способна принять лишь «да» и «нет», нули и единицы, отчаянно пыталась принять противоречие.
 
 優「ＡＩも、人とおんなじなんだよ」%K%P
 In a sense, AI is similar to people.
 CN PLACEHOLDER
-По чувствам, ИИ мало чем отличается от людей.
+В каком-то смысле ИИ похож на людей.
 
 優「知らん振りはできるけど、そうそう簡単に忘れることはできない……」%K%P
 It can pretend that it didn't notice something, but it's not easy for it to forget things...
 CN PLACEHOLDER
-Оно может притвориться, будто ничего не замечает, вот только забыть не сможет...
+Он может притвориться, будто ничего не замечает, вот только забыть не сможет...
 
 武「なんで、そんな話を俺にするんだよ」%K%P
 Why are you telling me this?
@@ -456,7 +456,7 @@ CN PLACEHOLDER
 その走る水音が、辺りにこだましていた。%K%P
 I could hear splashes as they ran.
 CN PLACEHOLDER
-От их бега раздаётся звук брызг.
+Я слышу, как под их ногами плещется вода.
 
 優「そうだ……私の恩人みたいな人がいて、その人から聞いた話があるの」%K%P
 Actually, a close friend of mine told me this once, but...
@@ -481,7 +481,7 @@ CN PLACEHOLDER
 優「ううん、違うの」%K%P
 Well... not exactly.
 CN PLACEHOLDER
-Ммм... не-а.
+М-м... не-а.
 
 優「そんなことが現象として、本当にあるとしたら……その仮説」%K%P
 It's a sort of phenomenon. I don't know if it's true or not. It's just a kind of hypothesis.
@@ -936,7 +936,7 @@ CN PLACEHOLDER
 優「マズいね……こんなときにっ」%K%P
 This is bad news... at a time like this.
 CN PLACEHOLDER
-Кошмар... в такие минуты...
+Кошмар... Так не вовремя...
 
 ココ「い、行こう！　止めようよっ！」%K%P
 L-Let's go! We've got to stop them!
@@ -1041,7 +1041,7 @@ CN PLACEHOLDER
 つぐみ「ううん、ＬｅＭＵとは別の施設……それがこの真下にあるの。ずーっと下のほうによ」%K%P
 No, there's another facility other than LeMU... and it's right below us. Really far down.
 CN PLACEHOLDER
-Нееет, кроме него, есть ещё одно сооружение... прямо под нами. На самом дне.
+Нет, кроме него есть ещё одно сооружение... прямо под нами. На самом дне.
 
 つぐみ「ね、そうでしょう？」%K%P
 I'm right, aren't I?
@@ -1066,12 +1066,12 @@ CN PLACEHOLDER
 つぐみ「チューリング・テストをしてみて、あなたが本物のＡＩだってことはよくわかったわ」%K%P
 I did a Turing test, and I found out that you really are AI.
 CN PLACEHOLDER
-Я провела тест Тьюринга, и поняла, что ты действительно ИИ.
+Я провела тест Тьюринга и поняла, что ты действительно ИИ.
 
 つぐみ「だとしたら、プロテクトでブロックされていない限り、人間に訊かれたことには正直に答えてくれるはずよね？」%K%P
 As long as you aren't blocked by a protection routine, you have to answer humans honestly, right?
 CN PLACEHOLDER
-Просто... если в систему не встроен ограничитель... ты должна отвечать людям честно.
+Просто, если в систему не встроен ограничитель, ты должна отвечать людям честно.
 
 つぐみ「それがあなたの『機能』なんだから」%K%P
 That's part of your functioning.
@@ -1101,7 +1101,7 @@ CN PLACEHOLDER
 つぐみ「ＨＩＭＭＥＬ……それは空、あなたの名前でしょう？」%K%P
 HIMMEL... That's your name, isn't it, Sora?
 CN PLACEHOLDER
-ХИММЕЛ... означает „небо“. Тебя ведь так зовут?
+HIMMEL... означает „небо“. Тебя ведь так зовут?
 
 空「…………」%K%P
 .........
@@ -1126,7 +1126,7 @@ CN PLACEHOLDER
 つぐみ「あの扉……ヒンメルの扉のパスワードを教えなさい、空！！」%K%P
 Tell us the password to that door... the one leading to Himmel, Sora!
 CN PLACEHOLDER
-Прошу тебя, скажи нам пароль, что открывает ХИММЕЛ, Сора!
+Прошу тебя, скажи нам пароль, что открывает Химмель, Сора!
 
 空「確かに……」%K%P
 It is true...
@@ -1136,7 +1136,7 @@ CN PLACEHOLDER
 空「ヒンメルは……ドイツ語で『空』……私の名前です」%K%P
 'Himmel' in German... means 'sky'—my name.
 CN PLACEHOLDER
-ХИММЕЛ... по-немецки... означает „Сора“... так меня зовут...
+„Химмель“ с немецкого... означает „небо“... как и моё имя с японского...
 
 空「ですが、小町さん、私は……」%K%P
 But, Komachi-san, I...
@@ -1368,7 +1368,7 @@ CN PLACEHOLDER
 少年が大きく目を見開いて、驚愕した。%K%P
 The Kid opened his eyes wide, looking shocked.
 CN PLACEHOLDER
-От шока у Малого выпятили глаза.
+От шока у Малого округлились глаза.
 
 ココ「うーっ……うーっ……ううっ……」%K%P
 Agh... Ah... Uugh...
@@ -1438,7 +1438,7 @@ CN PLACEHOLDER
 空はパニックになりそうだった。%K%P
 Sora looked as if she was about to panic.
 CN PLACEHOLDER
-Ещё немного, и Сора впадёт в панику.
+Ещё немного – и Сора поддастся панике.
 
 つぐみ「症状！？　そんなのどうでもいいっ！」%K%P
 Symptoms!? Who cares about symptoms!?

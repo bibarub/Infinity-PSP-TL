@@ -121,7 +121,7 @@ CN PLACEHOLDER
 沙羅「あのねぇ……いくら強がってたって、女の子はいつも待ってるんだよ？」%K%P
 Listen... No matter how much a girl pretends to be strong, she's always waiting.
 CN PLACEHOLDER
-Да пойми ты наконец... как бы девушка ни старалась притворяться сильной, она всегда ждёт.
+Да пойми ты наконец... Как бы девушка ни старалась притворяться сильной, она всегда ждёт.
 
 少年「何を？」%K%P
 For what?

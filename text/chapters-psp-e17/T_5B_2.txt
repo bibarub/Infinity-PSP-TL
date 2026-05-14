@@ -456,7 +456,7 @@ CN PLACEHOLDER
 優「煙草は、はたちになってから、だよ」%K%P
 You know the rules... No smoking until you're legal.
 CN PLACEHOLDER
-Ты же знаешь, что до 20 – никаких сигарет.
+Ты же знаешь, что до 20 никаких сигарет.
 
 優「それを差っ引いたとしてもさぁ、よくもまぁそんなことが言えるわねぇ〜」%K%P
 You can joke if you want, but I can't believe you'd say that.
@@ -466,7 +466,7 @@ CN PLACEHOLDER
 優「ほれっ、この私の、ピチピチフレッシュなモチ肌を見てごらんなさいな！」%K%P
 I mean, just take a look at my fresh silky skin!
 CN PLACEHOLDER
-Вот взгляни на мою нежную, шелковистую кожу!
+Вот, взгляни на мою нежную шелковистую кожу!
 
 優「これぞまさに、乙女の柔肌ってやつよ！」%K%P
 This is the soft skin of a lady!
@@ -911,7 +911,7 @@ CN PLACEHOLDER
 首を鳴らし、凝り固まった肩を回す。%K%P
 She then popped her neck and rotated her stiff shoulders.
 CN PLACEHOLDER
-Затем она хрустнула шеей и повернула затёкшие плечи.
+Затем она хрустнула шеей и расправила плечи.
 
 優「さて、と……」%K%P
 Now then...
@@ -971,7 +971,7 @@ CN PLACEHOLDER
 優はずっと、モニターだけを見ていた。%K%P
 For a long time, You stared at the monitor.
 CN PLACEHOLDER
-Всё это время, Ю смотрела в монитор.
+Всё это время Ю смотрела в монитор.
 
 こちらに顔を見せようとしない。%K%P
 She didn't look my way.

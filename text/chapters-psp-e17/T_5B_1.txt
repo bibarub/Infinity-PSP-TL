@@ -16,12 +16,12 @@ CN PLACEHOLDER
 俺達はいつしか、憩いの間に集合していた。%K%P
 So, without any reason, we all just ended up gathering in the rest area.
 CN PLACEHOLDER
-В общем, не знаю как это получилось, но мы собрались в мини-парке.
+В общем, не знаю, как это получилось, но мы собрались в мини-парке.
 
 花壇の花々は変わらずに咲いている。%K%P
 As always, the vases were filled with blossoming flowers.
 CN PLACEHOLDER
-Как всегда, рядом расположились клумбы с распустившимися цветами.
+Как и обычно, цветы в клумбе продолжали цвести.
 
 マーガレット。マリーゴールド。そして薔薇。%K%P
 Marguerites, marigolds, and roses.
@@ -96,7 +96,7 @@ CN PLACEHOLDER
 それにしても……つぐみはまだ俺達の前に現れない。%K%P
 And at any rate... Tsugumi had yet to make an appearance that morning.
 CN PLACEHOLDER
-Да и, в любом случае... Цугуми сегодня так и не объявилась.
+Да и в любом случае... Цугуми сегодня так и не объявилась.
 
 売店には一応、サンドをひとつ残しておいた。%K%P
 Just in case, I had left a sandwich for her at the kiosk.
@@ -211,7 +211,7 @@ CN PLACEHOLDER
 少年が何やらハラハラした表情でココのことを眺めている。%K%P
 With a worried look on his face, the Kid was watching Coco intently.
 CN PLACEHOLDER
-Взволнованным взглядом, Малой внимательно следит за Коко.
+Малой взволнованным взглядом внимательно следит за Коко.
 
 ピピもハラハラして見ていた。%K%P
 Pipi, too, had his eyes on her.
@@ -221,7 +221,7 @@ CN PLACEHOLDER
 ココはおもむろに、憩いの間の４体の石像のうちひとつに近づくと、その台座に手をかけ……%K%P
 In the middle of the rest area stood four stone statues. Coco was deliberately attempting to scale one of the pedestals...
 CN PLACEHOLDER
-Посреди мини-парка стоят четыре каменных статуи. Коко аккуратно пытается забраться на один из пьедесталов...
+Посреди мини-парка стоят четыре каменных статуи. Коко неторопливо подошла к одной из них, положив руку на её пьедестал...
 
 ココ「よいしょ！」%K%P
 Here I go!
@@ -231,12 +231,12 @@ CN PLACEHOLDER
 ……とばかりによじ登り始めた。%K%P
 ...With a heave, she began to climb up the side.
 CN PLACEHOLDER
-...С трудом, она стала забираться выше.
+...И полезла вверх.
 
 （……？？）%K%P
 (...?)
 CN PLACEHOLDER
-(..?)
+(А?)
 
 奇妙な行動だった。%K%P
 It was an odd sight.
@@ -286,7 +286,7 @@ CN PLACEHOLDER
 台座の上に立ったココは、得意満面で言った。%K%P
 Perched on top of the pedestal, Coco said that while smiling triumphantly.
 CN PLACEHOLDER
-Забравшись на пьедестал, с улыбкой, триумфально произнесла Коко.
+Забравшись на пьедестал, триумфально улыбаясь, произнесла Коко.
 
 武「…………？」%K%P
 ...?
@@ -306,7 +306,7 @@ CN PLACEHOLDER
 ココ「あー……。ううん、違うよ……」%K%P
 Well... Ummm, actually, no...
 CN PLACEHOLDER
-Нууу... ммм, да так...
+Ну-у... м-м, да так...
 
 少し首を傾げて、ココは答える。%K%P
 Coco answered with her head cocked.
@@ -336,7 +336,7 @@ CN PLACEHOLDER
 ココ「背中が寂しいかなぁ、と思ったの」%K%P
 I kind of thought its back looked lonely.
 CN PLACEHOLDER
-Мне показалось, что её спина кажется скучной.
+Я подумала, что её спина какая-то пустая.
 
 石像の背を、ココは小さな手の平でいたわるように撫でた。%K%P
 Coco stroked the statue's back sympathetically with her tiny hand.
@@ -356,7 +356,7 @@ CN PLACEHOLDER
 ココ「まぁーいなぁすどらいばぁーーー！！」%K%P
 SCREWDRIVER AT YA———!
 CN PLACEHOLDER
-ОТВЁРТКОЙ ПО СПИНКЕ ТРЯМ ––!!
+ОТВЁРТКОЙ ПО СПИНКЕ ТРЯМ!
 
 謎の怪音と共に、マイナスドライバーがココの右手に握られる。%K%P
 Uttering a stream of nonsense, Coco suddenly produced a flat-head screwdriver in her right hand.
@@ -366,12 +366,12 @@ CN PLACEHOLDER
 ココ「かける、にー！！」%K%P
 TIMES TWO—!
 CN PLACEHOLDER
-ПОЕХАЛИ ––!!
+ПОЕХАЛИ!
 
 さらに、もう１本、左手にドライバー。%K%P
 And then another one appeared in her left hand.
 CN PLACEHOLDER
-А затем, ещё одну в левую руку.
+А затем ещё одну в левую руку.
 
 お前それ、どっから出したんだ……？%K%P
 Where did she get those...?
@@ -381,7 +381,7 @@ CN PLACEHOLDER
 と、俺が疑問に思う間もなく、ココはふたつのドライバーを振りかざした。%K%P
 But before I could ask her anything, Coco was gripping two screwdrivers.
 CN PLACEHOLDER
-Но прежде чем я успел хоть что-либо спросить, Коко зажала обе отвёртки...
+Но прежде чем я успел хоть что-либо спросить, Коко сжала в руках обе отвёртки...
 
 そして……。%K%P
 And then...
@@ -396,7 +396,7 @@ CN PLACEHOLDER
 ドライバーの先っちょで、ゴリゴリゴリゴリと、彫り始めた……。%K%P
 ...She began to carve the stone using the tip of the screwdriver...
 CN PLACEHOLDER
-...и стала царапать её кончиками отвёрток...
+...и стала царапать по ней кончиками отвёрток...
 
 ココ「うんしょ、よいしょ……」%K%P
 Here we go...
@@ -416,12 +416,12 @@ CN PLACEHOLDER
 みるみる、背中は傷だらけになっていく。%K%P
 And within moments, the back of the statue was covered with gashes.
 CN PLACEHOLDER
-Буквально через несколько мгновений, спина статуи покрылась выбоинами.
+Буквально через несколько мгновений спина статуи покрылась выбоинами.
 
 武「……？？？？」%K%P
 ...?
 CN PLACEHOLDER
-..?
+???
 
 不可解だった。%K%P
 It was incomprehensible.
@@ -441,7 +441,7 @@ CN PLACEHOLDER
 しばし、俺と少年はココの姿をぼんやりと見つめる。%K%P
 For a while, the Kid and I just gazed at her with our jaws dropped.
 CN PLACEHOLDER
-Какое-то время, мы с Малым просто стояли и пялились на неё с отвисшими челюстями.
+Какое-то время мы с Малым просто стояли и пялились на неё с отвисшими челюстями.
 
 少年「ななな、何やってるの！？」%K%P
 Hey, hey! What are you doing!?
@@ -516,7 +516,7 @@ CN PLACEHOLDER
 ココ「悔しかったんだ、ココは……」%K%P
 I was feeling sad...
 CN PLACEHOLDER
-Коко... просто стало грустно...
+Мне просто стало грустно...
 
 小さく、ココは呟く。%K%P
 She muttered in a tiny voice.
@@ -526,7 +526,7 @@ CN PLACEHOLDER
 ２本のドライバーを、両手で同時に、器用に扱っている。%K%P
 She worked with great dexterity, using a screwdriver in each hand.
 CN PLACEHOLDER
-Она работает с большой сноровкой, двумя отвёртками одновременно.
+Она управляется с двумя отвёртками с впечатляющей сноровкой.
 
 ドライバーの先端はコリコリと音を立て、石像の背中に溝を生み、線を作っていく。%K%P
 The tips of the screwdrivers dug into the stone, screeching and forming tiny grooves.
@@ -541,12 +541,12 @@ CN PLACEHOLDER
 ココ「今日まで誰も助けに来てくれないってことは、ココ達、見捨てられちゃったってことでしょ？」%K%P
 Well, nobody's coming to rescue us, right? We've been abandoned.
 CN PLACEHOLDER
-Просто, никто ведь нас не спасёт, правда? Мы никому не нужны. Нас забросили.
+Нас ведь никто не спасёт? Мы никому не нужны. Нас бросили.
 
 ココ「だから、ちょっとイタズラしてやれぇ〜って、そう思って♪」%K%P
 So what harm is there in wrecking the place a little〜
 CN PLACEHOLDER
-Поэтому... какая разница, если мы учиним здесь мелкое хулиганство?
+Поэтому какая разница, если мы немного здесь похулиганим?
 
 少年「…………」%K%P
 .........
@@ -566,7 +566,7 @@ CN PLACEHOLDER
 再び、ココの手元に視線を向ける。%K%P
 Coco looked back at her handiwork.
 CN PLACEHOLDER
-Коко не отрывает взгляда от своей ручной работы.
+Коко не отрывает взгляд от своей ручной работы.
 
 傷は人間の形をしていた。%K%P
 They were in the shape of people.
@@ -576,7 +576,7 @@ CN PLACEHOLDER
 簡単な人型。針金人形みたいだった。%K%P
 Really simple-looking, like stick people.
 CN PLACEHOLDER
-Палка, палка, огуречек – получился человечек.
+Палка, палка, огуречик – получился человечек.
 
 針金の先には、丸い顔がひとつ……。%K%P
 At the end of each stick was a little round head...
@@ -661,7 +661,7 @@ CN PLACEHOLDER
 ココ「むふふっ、むふふっ、ふふりのふ♪」%K%P
 Tralala... tralalalala〜
 CN PLACEHOLDER
-У-ху-ху, у-ху-ху, сварим мы у-хууу!
+У-ху-ху, у-ху-ху, сварим мы уху-у-у!
 
 ココは奇妙な歌を唄いながら、傷を刻んでいく。%K%P
 Singing a cute little song, Coco continued to carve.
@@ -671,7 +671,7 @@ CN PLACEHOLDER
 張り切っているみたいだった。%K%P
 She seemed entirely absorbed by what she was doing.
 CN PLACEHOLDER
-Кажется, словно она целиком поглощена своим занятием.
+Похоже, она целиком поглощена своим занятием.
 
 少しだけ、張り切りたくなる理由がわかったような気もする……。%K%P
 Somehow, I could relate to her desire to throw herself into something...
@@ -681,7 +681,7 @@ CN PLACEHOLDER
 少年「器物損壊かなぁ、こういうの」%K%P
 That's destroying private property... It's vandalism.
 CN PLACEHOLDER
-Я чувствую себя вандалом...
+А разве это не порча имущества?..
 
 武「この期に及んで細かいこと気にすんなよ、少年」%K%P
 Hey, relax, Kid. Now's not the time to be so uptight.
@@ -696,7 +696,7 @@ CN PLACEHOLDER
 少年「うん……」%K%P
 Um... Right...
 CN PLACEHOLDER
-Ммм...
+М-м...
 
 ココ「よーし、次はぁ……」%K%P
 Here we go, next...
@@ -706,12 +706,12 @@ CN PLACEHOLDER
 ココ「あっ！？」%K%P
 Uh-oh!
 CN PLACEHOLDER
-Оой-йей!
+Ой-ёй!
 
 不安定な格好で台座に立っていたココが、バランスを崩す。%K%P
 Because of her unsteady position on the pedestal, Coco suddenly lost her balance.
 CN PLACEHOLDER
-Из-за неустойчивого положения, Коко потеряла равновесие и стала падать с пьедестала.
+Из-за неустойчивого положения Коко потеряла равновесие и стала падать с пьедестала.
 
 少年「あ、危ない！！」%K%P
 L-Look out!
@@ -721,22 +721,22 @@ CN PLACEHOLDER
 咄嗟に少年が後ろから、ココの身体を支えた。%K%P
 Without hesitating, the Kid jumped forward, steadying her body.
 CN PLACEHOLDER
-Без колебаний, Малой подскочил вперёд, чтобы поддержать её тело.
+Малой без промедления подскочил, чтобы поддержать её.
 
 ずり落ちないように彼女の腰に手を添えて、そっと台座へと押し戻す。%K%P
 He grabbed her by the hips to prevent her from slipping down, then carefully lowered her to sit on the pedestal.
 CN PLACEHOLDER
-Ухватив её за бёдра, он не дал Коко свалиться и осторожно усадил её на пьедестал.
+Ухватив Коко за талию, он не дал ей свалиться и осторожно усадил на пьедестал.
 
 ココ「あ、ありがと……」%K%P
 Th-Thank you...
 CN PLACEHOLDER
-Ой... спасибо...
+Ой... Спасибо...
 
 少年「足元、気をつけてね」%K%P
 Watch your step, okay?
 CN PLACEHOLDER
-Смотри, куда ступаешь, хорошо?
+Смотри куда ступаешь, хорошо?
 
 ココ「うん♪」%K%P
 Okay〜
@@ -746,7 +746,7 @@ CN PLACEHOLDER
 ココ「あ、そうだ……少ちゃんも一緒にやろうか？」%K%P
 Ah, I know... Why don't you join me, Kiddo?
 CN PLACEHOLDER
-Ну конечно... Малой-тян, ты не против составить мне компанию?
+Ой, кстати... Малой-тян, ты не против составить мне компанию?
 
 少年「え？」%K%P
 You mean...?
@@ -771,7 +771,7 @@ CN PLACEHOLDER
 ココ「はい。ドライバー、１個貸したげる」%K%P
 Okay? Here's one of my screwdrivers.
 CN PLACEHOLDER
-Вот, дееержи! У меня есть ещё одна отвёртка.
+Вот. Держи одну из отвёрток.
 
 少年「あ、うん。サンキュー……」%K%P
 Well okay. Thanks...
@@ -806,7 +806,7 @@ CN PLACEHOLDER
 ココ「へ？　うーん、どうしよっかな……」%K%P
 Huh? I wonder if that's the...?
 CN PLACEHOLDER
-Э-э? Нууу... даже не знаю...
+Э-э? Ну-у, даже не знаю...
 
 少年「大丈夫だよ！」%K%P
 She'll be alright!
@@ -836,7 +836,7 @@ CN PLACEHOLDER
 そして互いのもう一方の手で、少しずつ、描くべきものを彫り進めていった。%K%P
 And using their free hands, they both began carving shapes.
 CN PLACEHOLDER
-Используя оставшиеся руки, они стали чертить фигурки.
+Используя свободные руки, они стали чертить фигурки.
 
 石像は何も言わず、ただ黙って南を指差して立ち尽くしている。%K%P
 The statue stood there without complaint, pointing to the south.
