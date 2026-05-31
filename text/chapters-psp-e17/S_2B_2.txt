@@ -11,22 +11,22 @@ CN PLACEHOLDER
 『通常、発電室のコンディションを保っているのはレミなのだが、さすがのレミと言えども、発電機自体が故障してしまったらどうすることもできない』%K%P
 “Normally, LeMMIH is responsible for maintaining the generator room, but even it can't do much when the generator itself goes out.”
 CN PLACEHOLDER
-«Обычно LeMMIH следит за работоспособностью генератора, но даже LeMMIH бессилен, если тот накрылся.»
+'Обычно ЛеММИХ следит за выработкой тока, но даже ЛеММИХ бессилен, если генератор накрылся.'
 
 『何しろ、電力が供給されなくなってしまうのだから』%K%P
 “Anyhow, this is all because the power supply is down.”
 CN PLACEHOLDER
-«Как бы там ни было, всё из-за того, что сейчас нет тока.»
+'Как бы там ни было, всё из-за того, что сейчас нет тока.'
 
 『そこで、停電になったときでも、発電室のメンテナンスを手動で行なうことができるよう、この部屋は設けられたのだろう』%K%P
 “This room is designed so that maintenance can be performed manually during blackouts.”
 CN PLACEHOLDER
-«Это помещение было сконструировано так, чтобы можно было вручную обслужить генератор даже при отключении электропитания.»
+'Это помещение было сконструировано для тех. обслуживания, и, в особенности, для случаев, подобных нашему.'
 
 ……という話を、ぼくは優から聞いた。%K%P
 ...That was what You told me.
 CN PLACEHOLDER
-Вот что мне сказала Ю.
+...Вот что мне сказала Ю.
 
 優は立ち並ぶ無数のパイプの中から目的の１本を選び出すと、それを閉めるよう、ぼくに指示した。%K%P
 You selected one pipe from the countless rows of them and instructed me to close its valve.
@@ -86,17 +86,17 @@ CN PLACEHOLDER
 優「でなきゃ、目の病気よ」%K%P
 Maybe you've got some kind of eye disease.
 CN PLACEHOLDER
-Может, у тебя какое-то заболевание глаз.
+Может у тебя с глазами какой-нибудь недуг.
 
 少年「えっ？　びょ、びょうき……？」%K%P
 Huh? Di-Disease...?
 CN PLACEHOLDER
-Что? За... заболевание?
+Что? Не....недуг...?
 
 優「うそうそ……冗談だって。どうしてすぐ本気にするかなぁ〜？」%K%P
 I'm kidding... It's a joke. Why do you always take everything seriously?
 CN PLACEHOLDER
-Я шучу... это шутка. Почему ты всё принимаешь за чистую монету?
+Я шучу...это шутка. Почему ты всё принимаешь за чистую монету?
 
 少年「もうっ、ふざけないでよ！」%K%P
 Enough already!
@@ -106,17 +106,17 @@ CN PLACEHOLDER
 優「はいはいはい……その話はあとでゆーっくり聞いてあげるから」%K%P
 Alright, alright... I'll listen to your stories of unidentified survivors later.
 CN PLACEHOLDER
-Ладно, ладно... Потом выслушаю твои байки о неопознанных выживших.
+Ладно, ладно.... Потом выслушаю твои байки о неопознанных выживших.
 
 優「今はお仕事、お仕事」%K%P
 Right now, we have to work.
 CN PLACEHOLDER
-А сейчас у нас есть дела поважнее.
+А сейчас у нас есть дела поважней.
 
 少年「…………」%K%P
-.........
-CN PLACEHOLDER
 ...
+CN PLACEHOLDER
+.........
 
 やがて、バルブの閉塞は完了した。%K%P
 Finally, the valve was completely shut.
@@ -131,7 +131,7 @@ CN PLACEHOLDER
 少年「ねえ優、終わったから、話を……」%K%P
 You, can we talk now...?
 CN PLACEHOLDER
-Ю, может сейчас поговорим?..
+Ю, может сейчас поговорим...?
 
 優「さーてと。それじゃ、ふたりのところに戻りますか」%K%P
 Let's get back to Kuranari and Sara.

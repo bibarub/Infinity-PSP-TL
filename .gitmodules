@@ -10,3 +10,4 @@
 [submodule "assets"]
 	path = assets
 	url = https://github.com/bibarub/Infinity-PSP-TL-assets.git
+	branch = alt

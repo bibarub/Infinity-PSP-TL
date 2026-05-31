@@ -1,7 +1,7 @@
 ﻿そう、夢――%K%P
 Yes, a dream―
 CN PLACEHOLDER
-Сон...
+Сон ―
 
 夢はなかなか覚めない。%K%P
 A dream he couldn't wake up from.
@@ -21,27 +21,27 @@ CN PLACEHOLDER
 肌に感じている温度との差……。%K%P
 He felt a chill on his skin...
 CN PLACEHOLDER
-Он почувствовал холод на своей коже...
+Он почувствовал разницу температур на своей коже...
 
 その違和感に、ようやく目を開けた。%K%P
 That iciness finally forced him to open his eyes.
 CN PLACEHOLDER
-Прохлада заставила его открыть глаза.
+В конце концов, от шока его глаза открылись.
 
 少年「…………」%K%P
 ...
 CN PLACEHOLDER
-;Мальчик«...»%K%P
+.........
 
 ここに座ってから、どのくらい経っただろうか。%K%P
 How long had it been since he sat down here?
 CN PLACEHOLDER
-Он думает о том, сколько уже здесь сидит.
+Он думает о том, как долго здесь сидит.
 
 そう長くはないはずだった。%K%P
 It couldn't have been that long.
 CN PLACEHOLDER
-Вроде бы не так и долго.
+Не так уж и давно.
 
 入場してから、ほんの１時間。%K%P
 He had only been in the park an hour.
@@ -61,12 +61,12 @@ CN PLACEHOLDER
 少年「冷たい」%K%P
 It's cold.
 CN PLACEHOLDER
-;Мальчик«Холодное.»%K%P
+Холодно.
 
 当然だった。%K%P
 Of course it was.
 CN PLACEHOLDER
-Конечно холодное.
+Конечно, холодно.
 
 ドロドロだった。%K%P
 It had melted into a muddy mess.
@@ -81,7 +81,7 @@ CN PLACEHOLDER
 少年「冷たい……」%K%P
 Wooh, that's cold.
 CN PLACEHOLDER
-;Мальчик«Какое холодное...»%K%P
+Холодное...
 
 ズボンの膝に白いアイスが、じんわりと染みてくる。%K%P
 The ice cream slowly soaked into the fabric of his pants.
@@ -96,7 +96,7 @@ CN PLACEHOLDER
 そのくらい、長い時間。%K%P
 That was how long he had been sitting there for.
 CN PLACEHOLDER
-Вот настолько долго он здесь сидит.
+Он всё ещё сидит на одном месте.
 
 彼はずっと、そこに座っていた。%K%P
 He had been sitting so long.
@@ -116,7 +116,7 @@ CN PLACEHOLDER
 （どうして来ないのだろう？）%K%P
 (Why isn't she here?)
 CN PLACEHOLDER
-(Почему она ещё не пришла?)
+(Я волнуюсь, почему она не пришла?)
 
 わからなかった。%K%P
 He didn't know.
@@ -131,12 +131,12 @@ CN PLACEHOLDER
 わからなくなってしまいそうだ。%K%P
 He felt like he was on the verge of forgetting even that.
 CN PLACEHOLDER
-Он чувствует, что почти забыл и это.
+Он чувствует, что колеблется на грани стены непонимания.
 
 少年「やれやれ……」%K%P
 Oh well...
 CN PLACEHOLDER
-;Мальчик«Эх...»%K%P
+Досадно...
 
 かぶりを振って、溜め息をついた。%K%P
 He shook his head and let out a sigh.
@@ -146,17 +146,17 @@ CN PLACEHOLDER
 濡れたズボンはまだ、乾きそうになかった。%K%P
 It didn't seem his pants would dry any time soon.
 CN PLACEHOLDER
-Непохоже, что его штаны высохнут в ближайшее время.
+Не похоже, что его штаны высохнут в ближайшее время.
 
 係員「どうしたの？」%K%P
 What's wrong?
 CN PLACEHOLDER
-Что случилось?
+Как дела?
 
 ふわり、と柔らかな気配がして、彼女は彼の隣にやって来る。%K%P
 A girl came over to him with gentle steps.
 CN PLACEHOLDER
-Он ощутил чьё-то присутствие. К нему мягким шагом подошла девушка.
+Он почувствовал дуновение ветра, когда рядом подсела девушка.
 
 このテーマパークの制服を着ていた。%K%P
 She was sporting the theme park uniform.
@@ -171,17 +171,17 @@ CN PLACEHOLDER
 どうやら案内係らしい。%K%P
 She looked like a guide.
 CN PLACEHOLDER
-Похоже, она работает гидом.
+Похожа на гида.
 
 係員「もしかして、迷子かな？」%K%P
 Are you lost?
 CN PLACEHOLDER
-Наверное, ты заблудился?
+Наверно, ты заблудился?
 
 にこにこと、彼女は屈託のない笑顔を浮かべていた。%K%P
 A beaming smile appeared on her shining face.
 CN PLACEHOLDER
-Лучезарная, беззаботная улыбка появилась на её сияющем лице.
+Лучезарная, невинная улыбка появилась на её сияющем лице.
 
 係員「友達とはぐれちゃったのかな？」%K%P
 Did you lose your friends or something?
@@ -191,12 +191,12 @@ CN PLACEHOLDER
 少年「ううん」%K%P
 No...
 CN PLACEHOLDER
-;Мальчик«Нет.»%K%P
+У〜гу.
 
 少年「待ってるんだ」%K%P
 I've been waiting.
 CN PLACEHOLDER
-;Мальчик«Я ждал.»%K%P
+Я ждал.
 
 係員「待ってる？」%K%P
 Waiting?
@@ -206,12 +206,12 @@ CN PLACEHOLDER
 少年「いや……」%K%P
 Well...
 CN PLACEHOLDER
-;Мальчик«Ну...»%K%P
+Ну...
 
 少年「待ってたんだ」%K%P
 I'm waiting.
 CN PLACEHOLDER
-;Мальчик«Я сидел ждал.»%K%P
+Я ждал кое-кого.
 
 係員「待ってた……」%K%P
 Waiting...
@@ -226,27 +226,27 @@ CN PLACEHOLDER
 少年「ち、違うよ……」%K%P
 N-No...
 CN PLACEHOLDER
-;Мальчик«Д-да нет...»%K%P
+Д-Да нет...
 
 微笑む彼女に顔を覗き込まれて、彼は照れたようにうろたえた。%K%P
 She grinned and leaned in closer, making him feel flustered.
 CN PLACEHOLDER
-Он смутился, когда та с улыбкой уставилась ему в лицо.
+Он смутился и заулыбался, когда та уставилась ему в лицо.
 
 少年「ここで待ってるように、言われたから……」%K%P
 I was told to wait here, so...
 CN PLACEHOLDER
-;Мальчик«Мне сказали ждать здесь, ну и...»%K%P
+Мне сказали ждать здесь, ну и...
 
 係員「ふーん……」%K%P
 I see...
 CN PLACEHOLDER
-Хм-м-м...
+Хмм...
 
 係員「でも、待ち人来たらずって感じねぇ」%K%P
 But it looks like they're not coming.
 CN PLACEHOLDER
-Но непохоже, что те, кого ты ждал, придут.
+Но, не похоже что те, кого ты ждал, пришли.
 
 係員の彼女は、首を傾げる。%K%P
 She tilted her head.
@@ -256,7 +256,7 @@ CN PLACEHOLDER
 係員「見るからに待ちぼうけの待ちくたびれな、少年……」%K%P
 Listen, whoever you're waiting for isn't coming, and you're cleary tired of waiting...
 CN PLACEHOLDER
-Слушай, малой, ты, очевидно, уже просто устал и не находишь себе места...
+Слушай, малый, ты, очевидно, уже просто устал и не находишь себе места...
 
 係員「そうだっ！」%K%P
 Oh, I know!
@@ -266,17 +266,17 @@ CN PLACEHOLDER
 突然顔を輝かせ、彼女はぽんと手を合わせた。%K%P
 Her face suddenly lit up, and she clapped her hands together.
 CN PLACEHOLDER
-Её глаза игриво засверкали, и она хлопнула в ладоши.
+Её глаза игриво засверкали и она хлопнула в ладоши.
 
 係員「ねえねえ、きみ、ひとりなんでしょ？」%K%P
 Hey, you're alone, right?
 CN PLACEHOLDER
-Слушай, ты ведь один, да?
+Слушай, ты ведь один, я права?
 
 少年「えっ」%K%P
 Huh?
 CN PLACEHOLDER
-;Мальчик«Э-э?»%K%P
+Эээ?
 
 係員「退屈してたんじゃない？　ＬｅＭＵの中、案内してあげようか？」%K%P
 Well, you're bored, right? How about I show you around LeMU?
@@ -296,7 +296,7 @@ CN PLACEHOLDER
 少年「で、でも、待ち合わせがっ」%K%P
 B-But I'm waiting for someone.
 CN PLACEHOLDER
-;Мальчик«Н-но я жду кое-кого.»%K%P
+Н... Но я жду кое-кого.
 
 係員「待ち合わせ？　誰と？」%K%P
 Waiting? For who?
@@ -306,7 +306,7 @@ CN PLACEHOLDER
 少年「……えーと……」%K%P
 Uh...
 CN PLACEHOLDER
-;Мальчик«...Ну-у-у...»%K%P
+...это...
 
 それはいったい、誰だったのか？%K%P
 Who was it again?
@@ -316,7 +316,7 @@ CN PLACEHOLDER
 名前がすぐに出てこない。%K%P
 He couldn't think of the name.
 CN PLACEHOLDER
-Он не мог вспомнить имени.
+Он не смог вспомнить имени.
 
 係員「ま、誰だか知らないけどぉ……」%K%P
 Well, I dunno who you're waiting for, but...
@@ -326,7 +326,7 @@ CN PLACEHOLDER
 係員「いつまで経っても来ないんなら、もう待たなくてもいいんじゃない？」%K%P
 If they haven't shown up yet, don't you think you've waited long enough?
 CN PLACEHOLDER
-Если никто так и не появился, не думаешь, что с тебя хватит?
+Если никто так и не появился, не думаешь что с тебя хватит, разве нет?
 
 楽しげに、跳ねるように、彼女が言う。%K%P
 She said so cheerfully, almost prancing around.
@@ -341,23 +341,22 @@ CN PLACEHOLDER
 少年「う、うん……」%K%P
 O-Okay...
 CN PLACEHOLDER
-;Мальчик«У-угу...»%K%P
+У〜гу...
 
 小さく彼は頷く。%K%P
 He gave a small nod.
 CN PLACEHOLDER
-Он слегка кивнул.
+Он кивнул слегка.
 
 彼女の白い胸元には、ネームプレートがひらひらと踊っている。%K%P
 The girl's nametag danced around on the white fabric of her uniform.
 CN PLACEHOLDER
-Бирка девушки колышется на её бело-жёлтом костюме.
+Бирка девушки ярко отсвечивает на её бело-жёлтый костюм.
 
 少年「Ｙ・Ｏ・Ｕ……？」%K%P
 <Y-O-U>...?
 CN PLACEHOLDER
-;Мальчик«"Y-O-U"?..»%K%P
-//;Мальчик«„Y-O-U“?..»%K%P
+Y-O-U...?
 
 そう書いてあった。%K%P
 That was what it said.
@@ -372,12 +371,12 @@ CN PLACEHOLDER
 少年「？？？」%K%P
 ...?
 CN PLACEHOLDER
-;Мальчик«???»%K%P
+???
 
 ワタシはアナタ……？%K%P
 (She's me...?)
 CN PLACEHOLDER
-(Ай эм ю?.. Если не ошибаюсь, на английском это значит... «я – это ты»?..)
+Ай эм ю...? Если не ошибаюсь, на английском это значит... 'я - это ты'...?
 
 優「うん」%K%P
 Mmh-hm!
@@ -392,37 +391,37 @@ CN PLACEHOLDER
 優「私は田中……」%K%P
 My last name is Tanaka...
 CN PLACEHOLDER
-Моя фамилия – Танака...
+Моя фамилия - Танака...
 
 優「下の名前は優……」%K%P
 And my first name is You...
 CN PLACEHOLDER
-А звать – Ю...
+А звать - Ю...
 
 少年「ゆう……？」%K%P
 You...?
 CN PLACEHOLDER
-;Мальчик«Ю?..»%K%P
+Ю...?
 
 優「本当はもっと長い名前なんだけどね？」%K%P
 My real name's much longer, though.
 CN PLACEHOLDER
-Просто моё настоящее имя гораздо длиннее.
+Просто, моё настоящее имя гораздо длиннее.
 
 少年「長い？」%K%P
 Longer?
 CN PLACEHOLDER
-;Мальчик«Длиннее?»%K%P
+Длиннее?
 
 優「そう、果てしなく長い名前。だけど――」%K%P
 Yeah, like, endlessly long. But...
 CN PLACEHOLDER
-Ага, оно длинное, как бесконечность. Но...
+Ага, длинное как бесконечность. Но...
 
 優「めんどくさいから……『優』でいいよ」%K%P
 It's such a hassle... Just call me 'You'.
 CN PLACEHOLDER
-Но об него язык сломаешь... Зови меня „Ю“.
+Но, об него язык сломаешь... зови меня 'Ю'.
 
 優「よろしく！」%K%P
 Nice to meet you!
@@ -432,22 +431,22 @@ CN PLACEHOLDER
 勢いよく差し出された、彼女の手。%K%P
 With that, she enthusiastically stuck out her hand.
 CN PLACEHOLDER
-С этими словами она быстро протянула свою руку.
+С этими словами, она быстро протянула свою руку.
 
 少年「よ、よろしく……」%K%P
 Y-Yeah, same here...
 CN PLACEHOLDER
-;Мальчик«Д-держу.»%K%P
+Д-Держу.
 
 ついついその手を握り返してしまう。%K%P
 Without thinking, he shook her hand.
 CN PLACEHOLDER
-Он, не задумываясь, пожал ей руку.
+Без раздумий, он пожал ей руку.
 
 いつの間にかしっかりと、彼女のペースになっていた。%K%P
 Before he knew it, he'd been sucked along into her rhythm.
 CN PLACEHOLDER
-И с этого момента его засосало в ритм этой девушки.
+И прежде чем он успел осознать, его засосало в ритм этой девушки.
 
 優「じゃ、行こっか？」%K%P
 Will we get going, then?
@@ -457,7 +456,7 @@ CN PLACEHOLDER
 握手は少しだけ名残惜しそうに離れる。%K%P
 They reluctantly released hands.
 CN PLACEHOLDER
-Они нехотя отпустили руки.
+Они нехотя опустили свои руки.
 
 彼は今まで繋いでいた、自分の手を改めて見た。%K%P
 He looked once again at his own, which had connected them moments before.
@@ -472,12 +471,12 @@ CN PLACEHOLDER
 優「ふーん、じゃあきみ、ひとりでＬｅＭＵに来たんだ？」%K%P
 Hmm. So you came to LeMU by yourself?
 CN PLACEHOLDER
-Хм-м-м. Так ты пришёл в LeMU в одиночку?
+Хмммм. Так ты пришёл в LeMU своим ходом?
 
 少年「うん、そうだよ」%K%P
 Yeah, that's right.
 CN PLACEHOLDER
-;Мальчик«Ну да. Так и есть.»%K%P
+Ну да. Так и есть.
 
 優「それにしてもさぁー」%K%P
 Still, though...
@@ -487,7 +486,7 @@ CN PLACEHOLDER
 屈み込んで彼のズボンの白いシミを拭いていた優は、立ち上がった。%K%P
 After bending down to wipe away the white stain on his pants, You stood up.
 CN PLACEHOLDER
-Закончив оттирать белое пятно от мороженого с его штанов, Ю встала.
+Закончив стирать белую грязь с его штанов, Ю сказала...
 
 優「珍しいよねぇ。男ひとりで遊びに来るなんてさ」%K%P
 That's not something you see super often. A guy coming to a park like this alone, I mean.
@@ -502,17 +501,17 @@ CN PLACEHOLDER
 ここは楽園――遊園地だったのだ。%K%P
 It was a utopia—an amusement park.
 CN PLACEHOLDER
-Это же рай – парк развлечений.
+Это же рай — парк развлечений.
 
 彼は束の間、そんなことさえも忘れそうになっていた。%K%P
 For a moment, he had almost forgotten even that.
 CN PLACEHOLDER
-Он чуть ли не забыл и это.
+А сейчас он уже практически забыл об этом.
 
 優「でもどうして、連れの人と一緒に入場しなかったの？」%K%P
 So why didn't you come into the park with who you were waiting for?
 CN PLACEHOLDER
-Так почему ты не пошёл в парк вместе с тем, кого ждал?
+Так почему ты не пошёл в парк вместе со своими друзьями?
 
 優「わざわざＬｅＭＵの中で、待ち合わせなんて……？」%K%P
 Why arrange to meet up inside LeMU?
@@ -522,17 +521,17 @@ CN PLACEHOLDER
 少年「え？　そ、それは……」%K%P
 Huh? W-Well...
 CN PLACEHOLDER
-;Мальчик«Э-э? П-потому что...»%K%P
+Эээ? П-Потому что...
 
 そう言えば……。%K%P
 Now that she mentioned it...
 CN PLACEHOLDER
-А ведь и правда...
+Она практически добралась до сути...
 
 あの場所で、ベンチで待つように言っていたのは……。%K%P
 Who HAD said to wait on that bench...?
 CN PLACEHOLDER
-КТО сказал ждать на той скамейке?..
+КТО сказал ждать на той скамейке...?
 
 いったい、誰だったのか？%K%P
 Whose idea was it anyway?
@@ -547,57 +546,57 @@ CN PLACEHOLDER
 少年「…………」%K%P
 ...
 CN PLACEHOLDER
-;Мальчик«...»%K%P
+...........
 
 誰だったのか……。%K%P
 Who was it...?
 CN PLACEHOLDER
-Кто же это был?..
+Кто же это...?
 
 優「しかし、あれだ。要するに、きみは――」%K%P
 But I suppose that... Well, I mean...
 CN PLACEHOLDER
-Но я думаю, что... хочу сказать, ну...
+Но, я думаю что... хочу сказать, ну...
 
 優「ふられちゃった、みたいだねぇ……？」%K%P
 You've kind of been stood up... right?
 CN PLACEHOLDER
-Тебя вроде как обманули... Я права?
+Ты здесь вроде как застрял... Я права?
 
 少年「えっ！？」%K%P
 Huh?!
 CN PLACEHOLDER
-;Мальчик«Ч-что?!»%K%P
+Эээ?
 
 少年「ふ、ふられ……た？」%K%P
 Stood... up?
 CN PLACEHOLDER
-;Мальчик«О... обманули?»%K%P
+За... застрял?
 
 ふられた。%K%P
 Stood up...
 CN PLACEHOLDER
-Обманули...
+Застрял...
 
 その言葉の意味を認識するまで、少し時間がかかった。%K%P
 It took a moment for the meaning of the phrase to register.
 CN PLACEHOLDER
-Он не сразу осознал, что она имела в виду.
+Слово знакомое, но понять, что именно она имеет в виду...
 
 少年「…………」%K%P
 ...
 CN PLACEHOLDER
-;Мальчик«...»%K%P
+............
 
 優「わっ！　ず、図星だったのかな……ごっ、ごめんなさい……」%K%P
 Whoa! I-I hit the nail on the head, didn't I? Uh... Sorry...
 CN PLACEHOLDER
-Ой! Я что, и правда угадала? Прости, пожалуйста...
+Ой! Я сказала что-то не то? Боже мой... прости пожалуйста...
 
 気まずそうに、彼女は肩をすくめる。%K%P
 She awkwardly shrugged her shoulders.
 CN PLACEHOLDER
-Она неловко пожала плечами.
+В смущении, она свела руки вместе.
 
 優「ま、まあまあ。そう落ち込みなさんな！」%K%P
 Oh, well. Don't get depressed over it!
@@ -622,12 +621,12 @@ CN PLACEHOLDER
 少年「う、うん」%K%P
 A-All right...
 CN PLACEHOLDER
-;Мальчик«У... угу.»%K%P
+У... угу.
 
 なんだか気圧されて、彼は頷いた。%K%P
 He nodded, a little overwhelmed.
 CN PLACEHOLDER
-Он растерянно кивнул.
+Он кивнул, слегка пошатнувшись.
 
 （そうか……）%K%P
 (So...)
@@ -637,52 +636,52 @@ CN PLACEHOLDER
 （ふられた……）%K%P
 (I was stood up...)
 CN PLACEHOLDER
-(Меня обманули...)
+(Я здесь застрял...)
 
 （ぼくはきっと、ふられたのだ……）%K%P
 (I must've been...)
 CN PLACEHOLDER
-(Меня, наверное, и вправду...)
+(Нет! Меня тут бросили...)
 
 （あれ……？）%K%P
 (Huh...?)
 CN PLACEHOLDER
-(А?..)
+(Хмм...?)
 
 本当にそうなのだろうか。%K%P
 Was that really what had happened?
 CN PLACEHOLDER
-А так ли было на самом деле?
+И всё же он не понял, почему его так никто и не встретил.
 
 少年「でもさぁ……」%K%P
 But...
 CN PLACEHOLDER
-;Мальчик«Но...»%K%P
+Но...
 
 優「ん？　なに？」%K%P
 Huh? What is it?
 CN PLACEHOLDER
-М-м? Чего?
+Эээ? Чего?
 
 少年「優は今、仕事中じゃなかったの？」%K%P
 Aren't you meant to be working right now, You?
 CN PLACEHOLDER
-;Мальчик«Ю, разве сейчас ты не должна работать?»%K%P
+Ю, разве сейчас ты не должна работать?
 
 優「固いこと言わないの」%K%P
 You'd make a scary boss.
 CN PLACEHOLDER
-Не будь таким занудой.
+Ты похож на злющего босса.
 
 彼女の着ているものは何度見ても、やっぱりＬｅＭＵのユニフォームだった。%K%P
 No matter how many times he checked, she was definitely still wearing a staff uniform.
 CN PLACEHOLDER
-И как бы он ни смотрел, на Ю по-прежнему была униформа LeMU.
+И сколько бы раз он ни проверял, Ю всё ещё одета в униформу LeMU.
 
 優「ヒマだったし、ちょうどよかったのよ。うん」%K%P
 I didn't have anything to do anyway. It's perfect timing. Yeah.
 CN PLACEHOLDER
-Мне сейчас всё равно уже нечем заняться. А тут ты как раз появился.
+Мне сейчас всё равно уже нечем заняться. Так скучно.
 
 卵のようなエレベーターに、彼は優と一緒に乗り込む。%K%P
 They got in an egg-shaped elevator together.
@@ -712,7 +711,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 ...
 CN PLACEHOLDER
-;Мальчик«...»%K%P
+............
 
 中はひどく混んでいた。%K%P
 The elevator was terribly crowded.
@@ -727,12 +726,12 @@ CN PLACEHOLDER
 優「はぁ……ちょっと暑いねぇ」%K%P
 Whoa... It's a little hot in here, huh?
 CN PLACEHOLDER
-Ох... А здесь жарковато...
+Эй... А здесь жарковато.
 
 少年「うん……」%K%P
 Yeah...
 CN PLACEHOLDER
-;Мальчик«Угу...»%K%P
+У〜гу...
 
 彼女の顔が、くっつきそうなくらい近かった。%K%P
 Her face was so close that he almost bumped into it.
@@ -747,32 +746,32 @@ CN PLACEHOLDER
 どきりとした。%K%P
 He was surprised.
 CN PLACEHOLDER
-Он сильно этому удивился.
+От неожиданности он сильно удивился.
 
 急に彼は気恥ずかしさを覚え、もじもじとし始めた。%K%P
 All of a sudden, he felt embarrassed and started to squirm.
 CN PLACEHOLDER
-Вскоре он почувствовал себя неловко и начал ёрзать.
+И, в конце концов, почувствовал себя, словно уж на сковородке.
 
 優「ち、ちょっと、少年」%K%P
 Hey, kid...
 CN PLACEHOLDER
-Эй, малой...
+Т-Ты чего, киндер-сюрприз...?
 
 優「変なとこ触らないでよ……」%K%P
 Don't go touching places you shouldn't...
 CN PLACEHOLDER
-Не трогай там, где не надо...
+Эй, не дотрагивайся, куда не следует...
 
 彼の耳元で、少し膨れて優はささやく。%K%P
 She whispered into his ear, puffing out her cheeks.
 CN PLACEHOLDER
-Прошептала она ему на ухо, надув щёки.
+Прошептала она ему на ухо, краснея на обе щеки.
 
 身動きなんか取れないくらい、エレベーターは狭かった。%K%P
 Crammed in the elevator, he couldn't move at all.
 CN PLACEHOLDER
-Будучи вдавленным в лифт, он не мог сдвинуться ни на миллиметр.
+Вдавленный в лифт, он не смог сдвинуться ни на тютельку.
 
 優「くすぐったい……あんまり動かないで」%K%P
 That tickles... Don't move so much.
@@ -782,17 +781,17 @@ CN PLACEHOLDER
 少年「そんなこと、言われても」%K%P
 I don't have much of a choice.
 CN PLACEHOLDER
-;Мальчик«Это не так просто...»%K%P
+Это не так... просто...
 
 少年「息が……できないんだ」%K%P
 I can't... breathe...
 CN PLACEHOLDER
-;Мальчик«Мне нечем... дышать!..»%K%P
+Мне нечем... дышать...!
 
 動けないけど、もう居ても立ってもいられない。%K%P
 He couldn't move, but he couldn't bear standing still either.
 CN PLACEHOLDER
-Стоять на месте стало невыносимо, но и подвинуться он не может.
+Он не может двигаться, но и смирно стоять не может тем более.
 
 鼻先に彼女の香りを感じながら、彼はぱくぱくと口で息をついだ。%K%P
 As he gasped for breath, he noticed her light perfume.
@@ -807,12 +806,12 @@ CN PLACEHOLDER
 少年「ああっ！！」%K%P
 Ah!
 CN PLACEHOLDER
-;Мальчик«Ах!»%K%P
+Аагх!
 
 彼は声をあげた。扉から、弾かれるように飛び出す。%K%P
 He let out a cry and bolted from the elevator.
 CN PLACEHOLDER
-Он вскрикнул и пулей выскочил из лифта.
+Он воскликнул и пулей выскочил из лифта.
 
 優「ど、どうしたの、いきなり！？」%K%P
 What... What's with you all of a sudden?
@@ -822,7 +821,7 @@ CN PLACEHOLDER
 優「ま、待ってよ少年！　少年――！」%K%P
 Hey! Wait! Kid!
 CN PLACEHOLDER
-Эй, подожди! Малой! Ты куда?!
+Эй, подожди! Малый! Ты куда?!
 
 後ろに遠く優を置き去りにして、彼は駆け出した。%K%P
 He sprinted away, leaving You far behind.
@@ -832,7 +831,7 @@ CN PLACEHOLDER
 彼女から逃げたかったわけではない。%K%P
 It wasn't that he was trying to run away from her.
 CN PLACEHOLDER
-Непохоже, что он хочет убежать от неё.
+Не похоже, что он хочет убежать от неё.
 
 何かを見つけたのだ。%K%P
 He'd seen something.
@@ -842,7 +841,7 @@ CN PLACEHOLDER
 視線の端で、確かに見た気がした。%K%P
 He was sure he'd caught someone out of the corner of his eye.
 CN PLACEHOLDER
-Ему показалось, что он краем глаза кого-то заметил.
+Ему показалось, что краем глаза он кого-то заметил.
 
 通路の先に……まだ見える。%K%P
 And at the end of the hallway... that someone was still visible.
@@ -852,7 +851,7 @@ CN PLACEHOLDER
 夢中で追いかけた。%K%P
 He chased after whoever it was like a man possessed.
 CN PLACEHOLDER
-Он преследует этого человека, как одержимый.
+Он преследует эту персону, как одержимый.
 
 （見覚えがある……）%K%P
 (I've seen that face before...)
@@ -867,12 +866,12 @@ CN PLACEHOLDER
 直感がそう告げていた。%K%P
 That was what his instincts were telling him.
 CN PLACEHOLDER
-Так ему твердили инстинкты.
+Так ему подсказывает интуиция.
 
 いったい、どこで見たのだろう？%K%P
 But where had he seen it?
 CN PLACEHOLDER
-Но где он мог видеть этого человека?
+Но, где он мог видеть этого человека?
 
 おぼろげな記憶を手繰る。%K%P
 He tried to sort through his foggy memory.
@@ -882,27 +881,27 @@ CN PLACEHOLDER
 手繰り寄せながら、前へ前へと走る。%K%P
 As he sifted, he kept running forward.
 CN PLACEHOLDER
-Думая, он продолжал бежать вперёд.
+Поднявшись, он продолжил бежать вперёд.
 
 少年「待って……！」%K%P
 Wait...!
 CN PLACEHOLDER
-;Мальчик«Постой!..»%K%P
+Постой...!
 
 逢わなければいけない気がする。%K%P
 He felt a desperate need to meet this person.
 CN PLACEHOLDER
-Он отчаянно пытается догнать её.
+Он отчаянно пытается догнать эту персону.
 
 早く、早く行かないと。%K%P
 He had to hurry.
 CN PLACEHOLDER
-Но ему придётся поторопиться.
+Но, ему придётся поторопиться.
 
 少年「はぁ……はぁ……」%K%P
 Haah... haah...
 CN PLACEHOLDER
-;Мальчик«Хух... хух...»%K%P
+Хее〜хее〜хее〜хее〜хее...
 
 いつしか、息を切らしていた。%K%P
 Before long, he was out of breath.
@@ -917,22 +916,22 @@ CN PLACEHOLDER
 少年「あっ！」%K%P
 Ah!
 CN PLACEHOLDER
-;Мальчик«Агх!»%K%P
+Агх〜!
 
 （いた！！）%K%P
 (There she is!)
 CN PLACEHOLDER
-(Вот она!)
+(Ах, вот и она!)
 
 ひとりの女の子が人込みに紛れて、たたずんでいた。%K%P
 Mixed in amongst the other people was a girl, standing still.
 CN PLACEHOLDER
-В движущейся толпе стоит девушка.
+В движущейся толпе стоит молодая девушка.
 
 捜していたのは紛れもなく、彼女だった。%K%P
 There was no doubt about it—she was the one he'd been looking for.
 CN PLACEHOLDER
-Он уверен, что искал именно её.
+Он уверен, что человек, которого должен встретить, это именно она.
 
 連休中だと言うのに、何故か彼女は、学校の制服を着ている……。%K%P
 It was the middle of the holidays, but for some reason she was wearing her school uniform...
@@ -947,7 +946,7 @@ CN PLACEHOLDER
 （そうだ……話しかけなきゃ……）%K%P
 (Oh yeah... I've got to talk to her...)
 CN PLACEHOLDER
-(Ах, да... Я должен с ней поговорить...)
+(Ох, да... я должен с ней поговорить...)
 
 彼女は今、ひとりきりだった。%K%P
 She was alone.
@@ -962,12 +961,12 @@ CN PLACEHOLDER
 （何を言おう……）%K%P
 (What should I say...?)
 CN PLACEHOLDER
-(Что я должен сказать?..)
+(Что я должен сказать...?)
 
 （何から話そうか……えーと）%K%P
 (Where should I start...? Uh...)
 CN PLACEHOLDER
-(С чего начать?.. Так, посмотрим...)
+(С чего начать...? Так, посмотрим...)
 
 落ち着いて考えなければいけない。%K%P
 He needed to calm down and think.
@@ -977,17 +976,17 @@ CN PLACEHOLDER
 （あれっ……？）%K%P
 (Huh...?)
 CN PLACEHOLDER
-(Хм-м-м?..)
+(Хмм...?)
 
 （『話しかけなきゃ』って……）%K%P
 (Wait, I have to talk to her...?)
 CN PLACEHOLDER
-(Почему я должен с ней поговорить?..)
+(Почему я должен поговорить с ней...?)
 
 （なんでだろう？）%K%P
 (Why?)
 CN PLACEHOLDER
-(Зачем?)
+(Почему, в конце концов?)
 
 彼女は誰だろう。%K%P
 Who was she?
@@ -997,7 +996,7 @@ CN PLACEHOLDER
 あれは……誰だろう。%K%P
 Who was... she...?
 CN PLACEHOLDER
-Кто... она?..
+Кто... она...?
 
 あれは……。%K%P
 She was...
@@ -1007,24 +1006,24 @@ CN PLACEHOLDER
 つまり、あれは、%K%P
 Well, she was...
 CN PLACEHOLDER
-Ну, она...
+То есть, она...
 
 少年「うわぁっ！」
 Aaagh!
 CN PLACEHOLDER
-;Мальчик«А-а-а!»
+Ааагх!
 
 %K%P
 
 人波に、流されて。%K%P
 He was swept away by a wave of people.
 CN PLACEHOLDER
-Толпа снесла его в сторону.
+Людская толпа снесла его в сторону.
 
 少年「…………」%K%P
 ...
 CN PLACEHOLDER
-;Мальчик«...»%K%P
+.........
 
 うっかり乗ってしまったエレベーターは、より海上へと近づいている。%K%P
 He was pushed into an elevator, which started to rise toward the surface.
@@ -1034,17 +1033,17 @@ CN PLACEHOLDER
 海面下１７ｍ。エレベーターは地下１階に着く。%K%P
 17 meters below sea level, the elevator stopped at the first basement floor.
 CN PLACEHOLDER
-Лифт встал на первом подводном этаже, 17 метров ниже уровня моря.
+17 метров ниже уровня моря, лифт встал на первом подводном этаже.
 
 無理矢理吐き出されるように、彼も降りた。%K%P
 He was practically spat out.
 CN PLACEHOLDER
-Его буквально выплюнуло из лифта.
+Он вылез из лифта так, будто его выплюнули.
 
 エルストボーデンと呼ばれている、このフロア……。%K%P
 This floor was called Erster Boden...
 CN PLACEHOLDER
-Этот этаж называется «Эрсте Боден»...
+Этот этаж называется Эрсте боден...
 
 すぐに辺りをきょろきょろと見回す。%K%P
 He glanced around at his surroundings.
@@ -1054,32 +1053,32 @@ CN PLACEHOLDER
 彼女は、そこにいなかった。%K%P
 She wasn't anywhere to be seen.
 CN PLACEHOLDER
-Её нигде не видно.
+Но её нигде не видно.
 
 一緒に乗ったと思ったのだが……。%K%P
 He thought she'd gotten on the same elevator he had...
 CN PLACEHOLDER
-Он думал, что они проехали на лифте вместе...
+Он думал, что они проехали на лифте вместе, но...
 
 降りるときに見失ってしまったらしい。%K%P
 But he must have lost sight of her in the crowd when he got off.
 CN PLACEHOLDER
-Но он, по всей видимости, потерял её из виду в толпе, когда выходил из лифта.
+Он окончательно потерял её из виду в толпе, когда вылезал.
 
 見失った……。%K%P
 He lost her...
 CN PLACEHOLDER
-Он потерял её из виду...
+(Я потерял её...)
 
 逢うことができなかった……。%K%P
 He hadn't even been able to say a word.
 CN PLACEHOLDER
-Он не смог сказать ей ни слова.
+Он не смог выдавить из себя ни слова.
 
 それがなんだか、哀しく感じられた。%K%P
 Something about it made him deeply sad.
 CN PLACEHOLDER
-Он почувствовал прилив глубокой грусти.
+Его охватила депрессия.
 
 （もしかして――）%K%P
 (Was...)
@@ -1089,17 +1088,17 @@ CN PLACEHOLDER
 （彼女が、ぼくを呼んだのだろうか？）%K%P
 (Was she the one who called me here?)
 CN PLACEHOLDER
-(Может, это она меня сюда позвала?)
+(Может, она звала меня?)
 
 唐突に、そう考える。%K%P
 The idea suddenly popped into his head.
 CN PLACEHOLDER
-Эта мысль внезапно вспыхнула в его голове.
+Вскоре, эта мысль вспыхнула в его голове.
 
 少年「なんだろう……、この感じ……」%K%P
 What is this... This feeling...?
 CN PLACEHOLDER
-;Мальчик«Что это... за чувство?..»%K%P
+Что это... за ощущение...?
 
 まだ彼の心臓は、高らかに音を鳴らしていた。%K%P
 His heart was still pounding furiously.
@@ -1109,7 +1108,7 @@ CN PLACEHOLDER
 係員「どうかされましたか、お客様？」%K%P
 Is something the matter, sir?
 CN PLACEHOLDER
-Что-то случилось, дорогой посетитель?
+Что-то случилось, господин посетитель?
 
 そこへ不意に話しかけて来たのは、優とは別のユニフォームを着た係員だった。%K%P
 A staff member wearing a different uniform than You suddenly spoke to him.
@@ -1119,7 +1118,7 @@ CN PLACEHOLDER
 係員「どなたかお捜しですか？」%K%P
 Are you looking for someone?
 CN PLACEHOLDER
-Вы кого-то ищете?
+Ты кого-то ищешь?
 
 穏やかに笑みながら、係員は言う。%K%P
 She wore a warm smile as she asked.
@@ -1129,32 +1128,32 @@ CN PLACEHOLDER
 少年「えっ！　あ、ああ、そうです」%K%P
 Huh?! U-Uh, y-yes, I am.
 CN PLACEHOLDER
-;Мальчик«Э-э?! Ой, да... Да, я ищу!»%K%P
+Эээ?! Ой, да... да, я ищу!
 
 見透かされた気がして、咄嗟にそう返事した。%K%P
 A little shocked that she seemed to have read his mind, he stammered and blurted out an answer.
 CN PLACEHOLDER
-Удивлённый тем, что девушка будто бы прочитала его мысли, растерянно выпалил он.
+Чувствуя себя на грани отчаяния, ответил он.
 
 少年「人を捜しているんです！」%K%P
 I'm trying to find someone!
 CN PLACEHOLDER
-;Мальчик«Я пытаюсь кое-кого найти!»%K%P
+Я пытаюсь кое-кого найти!
 
 少年「待ち合わせをしてて、でも、逢えなくて」%K%P
 I was supposed to meet up with them, but we must have missed each other.
 CN PLACEHOLDER
-;Мальчик«Мы должны были встретиться, но потеряли друг друга из виду.»%K%P
+Мы должны были встретиться, но потеряли друг друга из виду.
 
 係員「どんな方です？　お名前は？」%K%P
 Who is it? What's their name?
 CN PLACEHOLDER
-Кто этот человек? Как его зовут?
+Кто это? Как их зовут?
 
 少年「えーと、それは――」%K%P
 Uh, their name...
 CN PLACEHOLDER
-;Мальчик«Ну, видите ли...»%K%P
+Эээ, видите ли...
 
 ？？「ちょっとっ！　そこにいる奴っ！！」%K%P
 Hey! You there! Hang on a second!
@@ -1164,22 +1163,22 @@ CN PLACEHOLDER
 だだだっ！%K%P
 Patter, patter, patter!
 CN PLACEHOLDER
-Топ-топ-топ!
+Раздались чьи-то шаги.
 
 いきなり慌しく走り込んでくる足音。%K%P
 Suddenly, the sounds of footsteps came rushing toward him.
 CN PLACEHOLDER
-Внезапно он услышал звук чьих-то шагов.
+Вскоре, звук шагов нагнал его.
 
 少年「ええっ？　ぼ、ぼくのこと……？」%K%P
 Huh? You mean me?
 CN PLACEHOLDER
-;Мальчик«Э-э? Кто, я?»%K%P
+Эээ? Кто, я?
 
 男の人「あ、ああ。そうだ……」%K%P
 Yeah, you...
 CN PLACEHOLDER
-Д-да, ты...
+Ха〜〜〜ах〜, да, ты...
 
 足音の主は急ブレーキをかけて止まった。%K%P
 A man skidded to a stop right in front of him.
@@ -1189,7 +1188,7 @@ CN PLACEHOLDER
 その男性も、息を切らせていた。%K%P
 He was totally out of breath.
 CN PLACEHOLDER
-Парень явно полностью выдохся.
+У парня явно одышка.
 
 男の人「実は、訊きたいことがある」%K%P
 I want to ask you something.
@@ -1199,10 +1198,10 @@ CN PLACEHOLDER
 少年「は？」%K%P
 Huh?
 CN PLACEHOLDER
-;Мальчик«А?»%K%P
+Эээ?
 
 面食らっていると、彼はおもむろに口を開く。%K%P
 He continued...
 CN PLACEHOLDER
-Не заметив удивления на его лице, парень продолжил...
+От удивления, у него отвисла челюсть.
 

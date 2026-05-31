@@ -1,12 +1,12 @@
 ﻿武「――というようなことがあったんだ」%K%P
 ...So that's what happened.
 CN PLACEHOLDER
-...Ну, вот так всё и было.
+...ну, вот так всё и было.
 
 空「そうだったんですか……」%K%P
 Oh, I see...
 CN PLACEHOLDER
-Вот как...
+Вот как....
 
 チャミ探しから数時間が経過した。%K%P
 Several hours had elapsed since the hunt for Chami.
@@ -16,12 +16,12 @@ CN PLACEHOLDER
 俺は空を呼び出して、一緒に２階のキャラクターグッズの売店を訪れていた。%K%P
 I had asked to Sora to come with me to the souvenir kiosk on the second floor.
 CN PLACEHOLDER
-Я попросил Сору пройтись со мной до сувенирной лавки на втором этаже.
+Я попросил Сору пройтись со мной до сувенирного киоска на втором этаже.
 
 空「でもよかったですね。小町さんのお友達が無事に見つかって」%K%P
 Isn't it great that Komachi-san found her friend?
 CN PLACEHOLDER
-Комати-сан нашла своего друга. Это здорово, правда?
+Комачи-сан нашла своего друга. Это здорово, правда?
 
 武「ああ、そうだな」%K%P
 Ahh, yeah.
@@ -31,12 +31,12 @@ CN PLACEHOLDER
 友達、か……。確かに、あいつにとってはそうだろう。%K%P
 Her friend, huh... Well, as far as Tsugumi was concerned, it was her friend.
 CN PLACEHOLDER
-Своего друга, хм-м... ну, судя по реакции Цугуми, он действительно ей друг.
+Своего друга, хмм.....ну, судя по реакции Цугуми, он действительно ей друг.
 
 空「ところで、倉成さん……」%K%P
 Anyway, Kuranari-san...
 CN PLACEHOLDER
-Да... Куранари-сан?..
+Да... Куранари-сан...?
 
 空「この売店で食料を探す、という話だったと思いますが」%K%P
 Weren't we going to search this kiosk for food?
@@ -46,7 +46,7 @@ CN PLACEHOLDER
 武「あ、そうだったっけ？」%K%P
 Uh, was that right?
 CN PLACEHOLDER
-Э-э, правда?
+Эээ, правда?
 
 辺りは静かだった。%K%P
 It was quiet all around.
@@ -61,12 +61,12 @@ CN PLACEHOLDER
 優と少年、ココは会議室で眠ろうとしていた。%K%P
 You, the Kid, and Coco were in the conference room, preparing for bed.
 CN PLACEHOLDER
-Ю, Малой и Коко в Комнате переговоров, готовятся ко сну.
+Ю, Кид и Коко в Комнате Переговоров, готовятся ко сну.
 
 つぐみも恐らく、今は救護室で休んでいるのではないだろうか。%K%P
 Tsugumi was probably asleep in the infirmary.
 CN PLACEHOLDER
-Цугуми, скорее всего, спит в лазарете.
+Цугуми скорее всего спит в лазарете.
 
 武「前の探索のときには、ろくなもんが見つからなかったからなぁ。あんまり気合入れて探しても……」%K%P
 We looked pretty thoroughly last time and didn't find anything...
@@ -76,12 +76,12 @@ CN PLACEHOLDER
 空「ですけど、ここにナッツやクッキーが置いてあるって、私、ひと目見てすぐにわかりましたよ。ほら」%K%P
 But there are nuts and cookies here. I saw them right away, look.
 CN PLACEHOLDER
-Но здесь есть орешки и печенье. Я видела их только что. Смотри.
+Но, здесь есть орешки и печенье. Я видела их только что. Смотри.
 
 そう言って空は、売店に積んであるパッケージを指差す。%K%P
 Sora pointed to the packets in the kiosk.
 CN PLACEHOLDER
-Сора показала на упаковки, лежащие в лавке.
+Сора показала на упаковки, лежащие в киоске.
 
 武「あら、ほんと？」%K%P
 Oh, really?
@@ -106,12 +106,12 @@ CN PLACEHOLDER
 空「タツタサンドも、まだしばらくは食べられるんですよね？」%K%P
 You can all keep eating the fried tuna sandwiches, can't you?
 CN PLACEHOLDER
-Значит, мы можем продолжать есть сэндвичи с тунцом?
+Значит мы можем продолжать есть бутерброды с курятиной?
 
 武「そうだなぁ。量は充分ある。賞味期限なんてのはわからないが、あと２、３日はもつと思う」%K%P
 Yes, there are plenty. I don't know what the expiration date on them is, but there should be enough for two or three more days.
 CN PLACEHOLDER
-Да, их ещё много. Не знаю, когда у них выйдет срок годности, но, наверное, ещё дня два-три они точно не испортятся.
+Да, их ещё много. Не знаю, когда у них выйдет срок годности, но, наверно, ещё дня два-три они точно не испортятся.
 
 空「そうですか……」%K%P
 Oh...
@@ -131,7 +131,7 @@ CN PLACEHOLDER
 『脱出』という目的からは縁遠く、いまひとつ要点のはっきりしない、多少のらりくらりとした日常の会話。%K%P
 It was an ordinary conversation with no fixed theme and nothing to do with the topic of escape.
 CN PLACEHOLDER
-Обычный разговор без конкретной темы и без попыток придумать какой-либо план побега отсюда.
+Обычный разговор без конкретной темы, и без упоминаний о возможности побега из этого холодного ада.
 
 武「天気って、どうなのかな。上の天気……」%K%P
 I wonder what the weather is like up there...
@@ -161,12 +161,12 @@ CN PLACEHOLDER
 意味は半ば失われていたかもしれない。%K%P
 Half the meaning was probably lost.
 CN PLACEHOLDER
-Наверное, часть значения этих слов потерялась.
+Наверно, часть значения этих слов потерялась.
 
 会話はある種の方便であるようにさえ思えた。%K%P
 I thought that perhaps that conversation could be an opportunity.
 CN PLACEHOLDER
-Мне кажется, что эта беседа – хороший шанс.
+Мне кажется, что эта беседа - хороший шанс.
 
 それでも俺は、空に語るべき言葉を探した。%K%P
 I searched for the right words.
@@ -186,12 +186,12 @@ CN PLACEHOLDER
 空「え？　倉成さんもですか？」%K%P
 You do too, Kuranari-san?
 CN PLACEHOLDER
-Э-э?.. Куранари-сан, и ты тоже?
+Эээ...?! Куранари-сан, и ты тоже?
 
 空「実は……私もなんです」%K%P
 Actually... so do I.
 CN PLACEHOLDER
-Просто... я тоже хотела.
+Просто...я тоже хотела.
 
 武「え、そうなの？」%K%P
 R-Really?
@@ -216,7 +216,7 @@ CN PLACEHOLDER
 空「私だって、恥ずかしいです……」%K%p
 So am I...
 CN PLACEHOLDER
-И я... тоже смущаюсь...
+И я...тоже смущаюсь...
 
 じゃ、俺から
 Okay, me first
@@ -246,7 +246,7 @@ CN PLACEHOLDER
 武「えーと、つまり『恋愛心理学』だな……」%K%P
 The 'Love Psychology' lecture.
 CN PLACEHOLDER
-„Психология любви“.
+'Психология Любви'.
 
 鼻の頭を掻きながら、俺は言った。%K%P
 I scratched my head as I spoke.
@@ -256,7 +256,7 @@ CN PLACEHOLDER
 武「空、もう忘れちゃったかな……？」%K%P
 Did you forget it already...?
 CN PLACEHOLDER
-Наверное, ты уже о ней забыла...
+Наверно ты уже о ней забыла...
 
 空「いいえ……」%K%P
 No...
@@ -271,7 +271,7 @@ CN PLACEHOLDER
 空は頬を赤らめた。%K%P
 Sora's cheeks were bright red.
 CN PLACEHOLDER
-Щёки Соры налились румянцем.
+Щёки Соры стали ярко красными.
 
 武「じゃ、空からどうぞ」%K%P
 You go first.
@@ -281,12 +281,12 @@ CN PLACEHOLDER
 空「私から、ですか……」%K%P
 Me first...?
 CN PLACEHOLDER
-Я первая?..
+Я первая...?
 
 空「そうですね、ええと……」%K%P
 Well, um...
 CN PLACEHOLDER
-Ну, м-м...
+Ну, ммм....
 
 空「昼間の、あの講義のことなんですけど……」%K%P
 It's about today's lecture...
@@ -296,17 +296,17 @@ CN PLACEHOLDER
 空「恋愛心理学……」%K%P
 'Love Psychology'...
 CN PLACEHOLDER
-„Психология любви“...
+'Психология Любви'...
 
 空は頬を赤らめた。%K%P
 Sora's cheeks were bright red.
 CN PLACEHOLDER
-Щёки Соры налились румянцем.
+Щёки Соры стали ярко красными.
 
 武「ああ……」%K%P
 Ah...
 CN PLACEHOLDER
-Ах...
+Ах....
 
 武「俺もそれを言いたかった」%K%P
 That's what I wanted to talk about too.
@@ -341,7 +341,7 @@ CN PLACEHOLDER
 空「――昼間の、講義のことなんですけど」%K%P
 ...It's about the lecture today.
 CN PLACEHOLDER
-...Насчёт сегодняшней лекции.
+...насчёт сегодняшней лекции.
 
 ああ、俺のほうが少し先になってしまった。%K%P
 Ah, I had spoken a moment sooner.
@@ -351,17 +351,17 @@ CN PLACEHOLDER
 ……ま、いいか。%K%P
 ...Well, okay.
 CN PLACEHOLDER
-...Ну, ладно.
+...ну, ладно.
 
 空「恋愛心理学……」%K%P
 'Love Psychology'...
 CN PLACEHOLDER
-„Психология Любви“...
+'Психология Любви'...
 
 空は頬を赤らめた。%K%P
 Sora's cheeks were bright red.
 CN PLACEHOLDER
-Щёки Соры налились румянцем.
+Щёки Соры стали ярко красными.
 
 武「ああ、それだ……」%K%P
 Ah, that...
@@ -376,12 +376,12 @@ CN PLACEHOLDER
 空「ふふっ……」%K%P
 Teehee...
 CN PLACEHOLDER
-А-ха-ха...
+А〜ха〜ха...
 
 売店のガラスのあちこちに像は映る。%K%P
 We were reflected on the glass of the kiosk.
 CN PLACEHOLDER
-Мы отражаемся в стекле лавки.
+Мы отражаемся в стекле киоска.
 
 姿を煌めかせながら、空は微笑んでいた。%K%P
 Sora twinkled as she spoke.
@@ -391,7 +391,7 @@ CN PLACEHOLDER
 空「私ね……あの講義についてですけど」%K%P
 I... wanted to speak about the lecture.
 CN PLACEHOLDER
-Я... хотела поговорить об этой лекции.
+Я...хотела поговорить об этой лекции.
 
 空「ココちゃんはなんだか怖がってましたし、田中さんは少し怒っていらしたんですけど……」%K%P
 Coco-chan was afraid of me, and Tanaka-san seemed mad about something...
@@ -401,17 +401,17 @@ CN PLACEHOLDER
 空「でも、倉成さんが間違ったことを言ったわけではないんじゃないかな？　って、そう思ってたんです」%K%P
 But what you said wasn't wrong... At least I don't think so.
 CN PLACEHOLDER
-Но я не думаю, что ты говорил неправильные вещи... по крайней мере, мне так не кажется.
+Но, я не думаю, что ты говорил неправильные вещи...по крайней мере, мне так не кажется.
 
 武「うん、俺もね……」%K%P
 Hmm, neither do I...
 CN PLACEHOLDER
-Хм-м, как и мне...
+Хмм, как и мне...
 
 武「ちょっと極端な事例をいきなり出したのは失敗だったけど、空に間違ったことを教えたとは思ってない」%K%P
 I think my examples may have been a little extreme, but I think my basic message was right.
 CN PLACEHOLDER
-Наверное, мои примеры были просто слишком специфичными, но главный смысл правильный.
+Наверно, мои примеры были просто слишком специфичными, но главный смысл правильный.
 
 空「ですよね？」%K%P
 Yeah?
@@ -426,7 +426,7 @@ CN PLACEHOLDER
 空「ええ、倉成先生……」%K%P
 Professor...
 CN PLACEHOLDER
-Сэнсэй...
+Сенсей...
 
 空「続きをして欲しいです」%K%P
 I would like you to finish the lecture...
@@ -446,7 +446,7 @@ CN PLACEHOLDER
 武「ああ、いいとも。茜ヶ崎君」%K%P
 Alright then, Akanegasaki-kun.
 CN PLACEHOLDER
-Хорошо, Аканэгасаки-кун.
+Хорошо, Аканегасаки-кун.
 
 そうして講義が再開される。%K%P
 The lecture resumed.
@@ -471,7 +471,7 @@ CN PLACEHOLDER
 武「それでは、茜ヶ崎君。初歩の初歩に立ち返って、もう一度考えてみようではないかね？」%K%P
 Well, Akanegasaki-kun, we're going to get back to the basics.
 CN PLACEHOLDER
-Итак, Аканэгасаки-кун, давайте ненадолго вернёмся к основам.
+Итак, Сора, давайте ненадолго вернёмся к основам.
 
 少々勿体つけながら、俺先生は大げさに述べてみる。%K%P
 I played it up a little.
@@ -481,7 +481,7 @@ CN PLACEHOLDER
 空「先生！　質問です！」%K%P
 Professor! I have a question!
 CN PLACEHOLDER
-Сэнсэй! У меня вопрос!
+Сенсей! У меня вопрос!
 
 武「うむ、なんだね？」%K%P
 Mm, what is it?
@@ -491,7 +491,7 @@ CN PLACEHOLDER
 空「先生、お昼のときとなんだかキャラが違うみたいですが」%K%P
 You weren't acting like this earlier today!
 CN PLACEHOLDER
-Раньше вы так себя не вели!
+Раньше Вы так себя не вели!
 
 武「うおっほん！」%K%P
 Ahem!
@@ -506,7 +506,7 @@ CN PLACEHOLDER
 武「先生は、先生っぽいしゃべり方を実践しているだけだ！」%K%P
 The professor is practicing speaking like a professor!
 CN PLACEHOLDER
-Сэнсэй практикует профессорскую манеру речи!
+Сенсей практикует профессорскую манеру речи!
 
 武「しゃべり方うんぬんは、この際置いておこうではないか！」%K%P
 Let's not worry about how to talk!
@@ -516,22 +516,22 @@ CN PLACEHOLDER
 武「茜ヶ崎君の話し方もね、ひとまずそのままでいい。おっとりとした口調が好きだという殿方達もいるだろうからね……」%K%P
 The way you're talking is fine. There are gentlemen who prefer gentle voices.
 CN PLACEHOLDER
-То, как говорите вы, Аканэгасаки-кун, вполне нормально. Многие господа предпочитают нежные женские голоса.
+То, как говорите вы, Аканегасаки-кун, вполне нормально. Многие господа предпочитают нежные женские голоса.
 
 言いながら、俺はひとり売店の中へと入っていく。%K%P
 I went into the kiosk alone.
 CN PLACEHOLDER
-Я один забрался в лавку.
+В одиночку, я забрался в киоск.
 
 ２次浸水以来、そのままの形で放置してあった店内には、色とりどりの文房具や雑貨が散乱していた。%K%P
 The inside of the kiosk, which had not been used since the second flood, was strewn with colorful stationery and merchandise.
 CN PLACEHOLDER
-Внутри лавки, что была нетронута с момента второго затопления, валяются цветные канцелярские принадлежности, талисманы и прочая рекламная мишура.
+Внутри киоска, что был нетронут с момента второго затопления, валяются цветные канцелярские принадлежности, талисманы и прочая рекламная мишура.
 
 空「倉成先生？　あの、私はどうしたらいいんでしょうか……？」%K%P
 Professor, what should I do?
 CN PLACEHOLDER
-Сэнсэй, что я должна делать?
+Сенсей, что я должна делать?
 
 武「とりあえずそこに立ってなさい」%K%P
 Just stand there.
@@ -546,7 +546,7 @@ CN PLACEHOLDER
 売店のすぐ外側で、空は待っていた。%K%P
 Sora was waiting just outside the kiosk.
 CN PLACEHOLDER
-Сора ждёт снаружи, у лавки.
+Сора ждёт снаружи, у киоска.
 
 俺はレジカウンターによじ登り、飛び越える。%K%P
 I jumped over the counter.
@@ -561,12 +561,12 @@ CN PLACEHOLDER
 武「それでは、茜ヶ崎君……」%K%P
 Alright then, Akanegasaki-kun...
 CN PLACEHOLDER
-Хорошо. Аканэгасаки-кун?
+Хорошо. Сора?
 
 空「はい、なんでしょうか、先生」%K%P
 Yes? What is it, Professor?
 CN PLACEHOLDER
-Да? Слушаю, сэнсэй.
+Да? Слушаю, сенсей.
 
 武「もうちょっとこっちにいらっしゃい」%K%P
 Come a little closer.
@@ -576,7 +576,7 @@ CN PLACEHOLDER
 俺は売店の中から、ガラスの向こう側の空に手招きする。%K%P
 From inside the kiosk, I beckoned to Sora.
 CN PLACEHOLDER
-Стоя в лавке, я позвал Сору.
+Стоя в киоске, я позвал Сору.
 
 空はガラス面に歩み寄った。%K%P
 Sora approached the glass.
@@ -591,7 +591,7 @@ CN PLACEHOLDER
 空「倉成さん、これ以上近づくと、ＲＳＤ映像の表示限界が……」%K%P
 Kuranari-san, if I go any closer, the RSD image will...
 CN PLACEHOLDER
-Куранари-сан, если я подойду ещё ближе, RSD-изображение...
+Куранари-сан, если я подойду ещё ближе, RSD изображение....
 
 武「そういう無粋なことを言って欲しくないものだねぇ〜」%K%P
 Don't be so unromantic or you'll spoil the mood.
@@ -601,12 +601,12 @@ CN PLACEHOLDER
 空「だって、私……平べったく映ってしまうかもしれませんよ……」%K%P
 But I'll probably start to look flat...
 CN PLACEHOLDER
-Но... скорее всего, я стану выглядеть плоской.
+Но...скорее всего я стану выглядеть плоской.
 
 彼女は恥ずかしそうにうつむいた。%K%P
 Embarrassed, she bowed her head.
 CN PLACEHOLDER
-Она застенчиво опустила взгляд.
+В смущении, она поникла головой.
 
 武「大丈夫、大丈夫。気にしない、気にしない」%K%P
 It's fine, it's fine. It doesn't matter, it doesn't matter.
@@ -616,12 +616,12 @@ CN PLACEHOLDER
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.......
 
 武「リピートアフターミー！　大丈夫、大丈夫……はい！」%K%P
 Repeat after me: 'It's fine, it's fine!'
 CN PLACEHOLDER
-Повторяй за мной: „Всё в порядке!“
+Повторяй за мной -- 'Всё в порядке!'
 
 空「だ、大丈夫、大丈夫……」%K%P
 I-It's fine, it's fine...
@@ -661,7 +661,7 @@ CN PLACEHOLDER
 空「あの、先生。私の格好、変じゃありませんか？」%K%P
 Um, do I look strange, Professor?
 CN PLACEHOLDER
-Эм-м, я выгляжу странно, сэнсэй?
+Эмм, я выгляжу странно, сенсей?
 
 武「君は心配性だな」%K%P
 Don't worry.
@@ -676,7 +676,7 @@ CN PLACEHOLDER
 確かに空の姿は少し歪んで見えたが、気にするほどではなかった。%K%P
 Her image was warping a little, but it was nothing serious.
 CN PLACEHOLDER
-Её изображение слегка искажается, но не настолько, чтобы кричать «караул».
+Её изображение слегка искажается, но не настолько, чтобы кричать 'караул'.
 
 武「さて、早速だが実習だ」%K%P
 Alright then, practice.
@@ -686,12 +686,12 @@ CN PLACEHOLDER
 空「は、はいっ。緊張しますね……」%K%P
 Uh, um, I'm a little nervous...
 CN PLACEHOLDER
-А, ну... Я слегка нервничаю...
+Да. Эмм, я слегка нервничаю...
 
 武「と言ったそばからカチコチに固まらないでくれないか」%K%P
 Well, don't let me make you nervous.
 CN PLACEHOLDER
-Так... не давай мне заставлять тебя нервничать.
+Так...не давай мне заставлять тебя нервничать.
 
 武「リラックス、リラックス。はい、リピート」%K%P
 Relax, relax. Okay, repeat.
@@ -716,7 +716,7 @@ CN PLACEHOLDER
 武「いいかい、茜ヶ崎君？　先生は君のことを、やまとなでしこだと思っていた……」%K%P
 Alright then. You know, I thought you were a traditional Japanese girl.
 CN PLACEHOLDER
-Знаешь, а я ведь считаю тебя настоящей японской красавицей.
+Так-с... Знаешь, а ведь я думал, что ты нормальная японская девушка.
 
 空「そ、そうなんですか？」%K%P
 R-Really?
@@ -726,22 +726,22 @@ CN PLACEHOLDER
 武「ああ。純情純真、大いに結構」%K%P
 Ah. Pure and sincere. Lovely.
 CN PLACEHOLDER
-Ну да. Чистая и искренняя.
+Угу. Чистая и искренняя. Красивая.
 
 武「しかし２４歳の女性としては、ちびっとばかし欠けているものがあるように感じられるのだよ」%K%P
 But I felt that, as a 24-year-old, you were lacking a little something.
 CN PLACEHOLDER
-Но мне кажется, что в твоём образе 24-летней девушки чего-то не хватает.
+Однако, мне казалось, что в твоём образе 24-летней девушки чего-то не хватает.
 
 空「えっ……？」%K%P
 What...?
 CN PLACEHOLDER
-Чего?..
+Эээ...?
 
 武「つまり……それは色香だ。大人の女の色香」%K%P
 Color... The look of a grown woman.
 CN PLACEHOLDER
-Цвета... Внешности взрослой женщины.
+Цвета...внешности взрослой женщины.
 
 綺麗に磨かれたガラスのすぐ向こう側に、空は立っている。%K%P
 Sora was standing on the other side of the spotless glass.
@@ -756,7 +756,7 @@ CN PLACEHOLDER
 武「女の色香を身につける為のてっとり早い方法は――」%K%P
 The fastest way to give you color...
 CN PLACEHOLDER
-Самый быстрый способ прибавить тебе цвету – макияж!
+Самый быстрый способ прибавить тебе цвету -- макияж!
 
 武「――メイクだ！」%K%P
 ...Is with makeup!
@@ -771,12 +771,12 @@ CN PLACEHOLDER
 武「もっとギャルっぽいメイクをしなくちゃならん！」%K%P
 Your makeup has to be more... feminine.
 CN PLACEHOLDER
-Твой макияж должен быть более... женственным.
+Твой макияж должен быть более...женственным.
 
 空「先生……」%K%P
 Professor...
 CN PLACEHOLDER
-Сэнсэй...
+Сенсей...
 
 空「おっしゃっている意味がよくわからないのですが？」%K%P
 I don't understand what you mean.
@@ -811,12 +811,12 @@ CN PLACEHOLDER
 空「え？　私、動いてませんよ？」%K%P
 I'm not moving!
 CN PLACEHOLDER
-Э-э? Я не шевелюсь!
+Эээ? Я не шевелюсь!
 
 不自然な格好で筆を走らしているせいか、俺の手は少し震えた。%K%P
 Maybe my hand wasn't used to the angle; anyway, it was shaking a little.
 CN PLACEHOLDER
-Моя рука слегка трясётся. Должно быть, я просто не привык рисовать под таким углом.
+Должно быть моя рука просто не привыкла рисовать под таким углом. Как бы там ни было, она слегка трясётся.
 
 続いて、アイラインを引き、マスカラをつけ、チークをさし、眉を描く。%K%P
 I drew her eyeline, gave her mascara and rouge, and colored in her eyebrows.
@@ -851,27 +851,27 @@ CN PLACEHOLDER
 そう、題名は……%K%P
 Yes, I'd call it...
 CN PLACEHOLDER
-Точно, назвал его...
+Точно, назвал его....
 
 『夜の蝶』……。%K%P
 “Butterfly of the Night”.
 CN PLACEHOLDER
-«Бабочка в ночи».
+'Ночная Бабочка'.
 
 空「せ、先生……」%K%P
 Uh, Professor...
 CN PLACEHOLDER
-Э-э, сэнсэй...
+Эээ, сенсей...
 
 空「これが……ギャルっぽいメイクなのでしょうか？」%K%P
 Is... this feminine makeup?
 CN PLACEHOLDER
-Это... женский макияж?
+Это...женский макияж?
 
 武「い、いや……ちょっと……」%K%P
 Um, well...
 CN PLACEHOLDER
-Э-э, как бы...
+Эээ, то есть....
 
 武「失敗かも……」%K%P
 Not quite...
@@ -881,12 +881,12 @@ CN PLACEHOLDER
 空「え？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 武「いや……」%K%P
 Um...
 CN PLACEHOLDER
-Эм-м...
+Эмм....
 
 武「かなり……」%K%P
 It's actually...
@@ -896,12 +896,12 @@ CN PLACEHOLDER
 ケバい。%K%P
 Over the top.
 CN PLACEHOLDER
-...чересчур.
+Черезчур.
 
 ケバ過ぎる。%K%P
 REALLY over the top.
 CN PLACEHOLDER
-Даже СЛИШКОМ чересчур.
+Даже СЛИШКОМ черезчур.
 
 ……大失敗だった。%K%P
 It was a complete failure.
@@ -921,12 +921,12 @@ CN PLACEHOLDER
 武「ああ、俺も見たことないよ……」%K%P
 I've never seen anything, uh, quite like this...
 CN PLACEHOLDER
-Я никогда не видел ничего подобного, э-э, то есть...
+Я никогда не видел ничего подобного, эээ, то есть...
 
 空「ひょっとすると、素敵かもしれません……！」%K%P
 I think I like it.
 CN PLACEHOLDER
-А по-моему очень даже ничего.
+А по-моему, очень даже ничего.
 
 武「そ、それはどうかなぁ、茜ヶ崎君」%K%P
 I wouldn't be so sure about that, Akanegasaki-kun.
@@ -936,17 +936,17 @@ CN PLACEHOLDER
 武「本心からそう思ってるのかい……？」%K%P
 You really, truly think so...?
 CN PLACEHOLDER
-Ты правда так думаешь?..
+Ты правда так думаешь...?
 
 空「ええっ！？　せ、先生……違うんですか？」%K%P
 What!? You don't... like it?
 CN PLACEHOLDER
-Э-э? С-сэнсэй... тебе не нравится?
+Эээ? С-Сенсей...тебе не нравится?
 
 空「……や、やっぱり！？」%K%P
 ...I-I thought so!
 CN PLACEHOLDER
-...к... как ты мог...
+...к...как ты мог...
 
 武「な、なんだね。その『やっぱり』というのは」%K%P
 What do you mean?
@@ -956,27 +956,27 @@ CN PLACEHOLDER
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「……茜ヶ崎君……？」%K%P
 ...Akanegasaki-kun...?
 CN PLACEHOLDER
-...Аканэгасаки-кун?..
+...Аканегасаки-кун...?
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「あーーーーーーーーー！！」%K%P
 Aaaargh!
 CN PLACEHOLDER
-А-а-а-агр-р!
+Аааагрр!
 
 武「ダメだーーーーーーー！！」%K%P
 It's all wrong!
 CN PLACEHOLDER
-Что за бред!
+Что за бред!!
 
 手で慌てて口紅を消そうとする俺。%K%P
 I tried to rub the lipstick off with my hand.
@@ -991,12 +991,12 @@ CN PLACEHOLDER
 拭おうとすればするほど、口紅は伸び広がり、ぼやけていく。%K%P
 The more I tried to wipe it off, the more the lipstick spread on her face.
 CN PLACEHOLDER
-Чем больше я пытался её стереть, тем сильнее та размазывалась по лицу Соры.
+Чем больше я пытался её стереть, тем сильней та размазывалась по лицу Соры.
 
 空「せ、先生！」%K%P
 Professor!
 CN PLACEHOLDER
-Сэнсэй!
+Сенсей!
 
 空「これが……これこそが、ギャルっぽいメイクなのでしょうか？」%K%P
 Is this feminine makeup?
@@ -1011,7 +1011,7 @@ CN PLACEHOLDER
 武「あ、茜ヶ崎君っ……」%K%P
 Akanegasaki-kun...
 CN PLACEHOLDER
-Аканэгасаки-кун...
+Аканегасаки-кун...
 
 武「そんなわけないだろうっ」%K%P
 Not exactly.
@@ -1021,27 +1021,27 @@ CN PLACEHOLDER
 俺、思わず笑ってしまう。%K%P
 Without meaning to, I laughed.
 CN PLACEHOLDER
-Без задней мысли я засмеялся.
+Без задней мысли, я засмеялся.
 
 空「せ、先生！？」%K%P
 P-Professor?
 CN PLACEHOLDER
-С-сэнсэй?..
+С-Сенсей...?
 
 武「くくくっ、うくくくっ……」%K%P
 Mm... mhhh... haaa... haaaa...
 CN PLACEHOLDER
-М-м... ф-ф-ф-ф... ха-а-а... ха-а-а-а...
+Мм...фффф...хааа....хаааа...
 
 武「ゴメン、ゴメン……」%K%P
 I'm sorry...
 CN PLACEHOLDER
-Прости...
+Прости....
 
 武「しかし確かに斬新なメイクだ……ははははっ！」%K%P
 But it's certainly a change. Haaa... haaa!
 CN PLACEHOLDER
-Но так ты и вправду выглядишь по-новому. Ха-ха!
+Но так ты и вправду выглядишь по-новому. Хааа〜хааа!
 
 謝りながらも笑いが止まらない。%K%P
 I was apologizing, but I couldn't stop laughing.
@@ -1051,7 +1051,7 @@ CN PLACEHOLDER
 空「もうっ！　倉成先生……」%K%P
 Ooohh! Professor!
 CN PLACEHOLDER
-Да ну! Куранари-сэнсэй!
+Ммффффх! Куранари-сенсей!
 
 空「ひとの顔で遊ばないでください！」%K%P
 Stop playing with my face!
@@ -1066,17 +1066,17 @@ CN PLACEHOLDER
 空「ふふふっ……」%K%P
 Teeheehee...
 CN PLACEHOLDER
-Ха-ха-ха...
+Ха〜ха〜ха...
 
 空「あはははははっ……」%K%P
 Hahaha...!
 CN PLACEHOLDER
-Ха-ха-ха, ха-ха-ха!..
+Ха〜ха〜ха, ха〜ха〜ха...!
 
 ふたりして、笑い転げる。%K%P
 We both collapsed laughing.
 CN PLACEHOLDER
-Мы оба покатились со смеху.
+Мы оба загнулись от смеха.
 
 静かな夜の売店に、俺達の笑い声だけがこだましていた。%K%P
 The sound of our laughter filled the silence of the nighttime kiosk.
@@ -1091,7 +1091,7 @@ CN PLACEHOLDER
 そうして、ひとしきり笑った後……%K%P
 And after we had laughed for a while...
 CN PLACEHOLDER
-После того, как мы немного посмеялись...
+После того как мы немного посмеялись...
 
 空は隣のガラスへと移動する。%K%P
 Sora moved over to the next window.
@@ -1111,12 +1111,12 @@ CN PLACEHOLDER
 武「よーし、ＯＫ、ＯＫ……」%K%P
 Alright, okay, okay...
 CN PLACEHOLDER
-Хорошо. Ладушки, тогда...
+Хорошо. Ладушки, тогда....
 
 武「今度こそ、完璧ギャルに仕上げてやるからな」%K%P
 This time, I promise you perfect feminine beauty...
 CN PLACEHOLDER
-Наш салон гарантирует вам первоклассный макияж...
+Наш салон гарантирует Вам первоклассный макияж...
 
 再びサインペンを手にして、俺はガラスに向かった。%K%P
 I picked up the pen again and faced the glass.
@@ -1126,12 +1126,12 @@ CN PLACEHOLDER
 武「…………」%K%P
 ........
 CN PLACEHOLDER
-...
+........
 
 向かったのだが……。%K%P
 I faced it, but...
 CN PLACEHOLDER
-Я подошёл, но...
+Я подошёл, но....
 
 空「どうしたんですか？」%K%P
 What's wrong?
@@ -1156,7 +1156,7 @@ CN PLACEHOLDER
 空「くらなり……せんせい？」%K%P
 Professor... Kuranari?
 CN PLACEHOLDER
-Куранари... сэнсэй?
+Куранари...сенсей?
 
 空の艶やかな唇は、俺の名前を紡いだ。%K%P
 Her glossy lips were forming my name.
@@ -1166,7 +1166,7 @@ CN PLACEHOLDER
 空「あ、あのぉ……」%K%P
 Uummmm...
 CN PLACEHOLDER
-А... но...
+А...но.....
 
 武「やっぱり、やめだ」%K%P
 Let's not do this.
@@ -1176,7 +1176,7 @@ CN PLACEHOLDER
 空「えっ？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 武「メイクなんかしなくったっていい……」%K%P
 You don't need makeup...
@@ -1191,7 +1191,7 @@ CN PLACEHOLDER
 空「先生……」%K%P
 Professor...
 CN PLACEHOLDER
-Сэнсэй...
+Сенсей...
 
 空「からかわないでください」%K%P
 Don't tease me.
@@ -1206,7 +1206,7 @@ CN PLACEHOLDER
 空「ダメですよ、先生……そんなことを言ったら」%K%P
 Don't say that, Professor.
 CN PLACEHOLDER
-Не говорите так, сэнсэй. Потому что...
+Не говорите так, сенсей. Потому что...
 
 空の頬がうっすらと染まっていくのがわかった。%K%P
 I could see Sora blushing.
@@ -1216,7 +1216,7 @@ CN PLACEHOLDER
 空「先生に言われたら、生徒は本気にします……」%K%P
 If you say that, Professor, I'll start to take you seriously...
 CN PLACEHOLDER
-Сэнсэй... потому что... я начну воспринимать вас всерьёз.
+Сенсей...потому что...я начну воспринимать вас всерьёз.
 
 うつむいて視線をさまよわせる。%K%P
 She bowed her head, her eyes searching around.
@@ -1236,12 +1236,12 @@ CN PLACEHOLDER
 空「えっ、先生？」%K%P
 Professor?
 CN PLACEHOLDER
-Э-э... сэнсэй?
+Эээ...сенсей?
 
 空「……いえ、倉成さん……」%K%P
 Uh... Kuranari-san?
 CN PLACEHOLDER
-То есть... Куранари-сан?
+То есть....Куранари-сан?
 
 空はゆっくりと顔をあげて、俺の眼を見つめた。%K%P
 Sora slowly raised her head and looked me in the eyes.
@@ -1261,7 +1261,7 @@ CN PLACEHOLDER
 空「えっ？」%K%P
 Hmmm?
 CN PLACEHOLDER
-Хм-м-м?
+Хммм?
 
 武「手の平を、ここに……」%K%P
 Put your hands here.
@@ -1271,12 +1271,12 @@ CN PLACEHOLDER
 俺は窓ガラスに手の平を当てた。%K%P
 I put my hands against the glass.
 CN PLACEHOLDER
-Я прислонил ладони к стеклу.
+Я прислонил свои руки к стеклу.
 
 窓の向こう側で、空は俺の手の位置に、自分の手の平を重ねた。%K%P
 Sora placed her hands where mine were.
 CN PLACEHOLDER
-Сора прислонила свои ладони к моим.
+Сора прислонила свои руки к моим.
 
 右手と左手、左手と右手。%K%P
 Right against left, left against right.
@@ -1296,7 +1296,7 @@ CN PLACEHOLDER
 ふたりの間を遮断するはずの物質が、今はたったひとつの接点として、その役割を果たしている。%K%P
 What should be a barrier between us was actually the only thing joining us.
 CN PLACEHOLDER
-То, что служит барьером между нами – единственное, что нас соединяет.
+То, что служит барьером между нами -- единственное, что нас соединяет.
 
 ふたりの間に何もなければ、俺達は触れ合うことさえできない。%K%P
 Without something between us, we couldn't touch.
@@ -1306,7 +1306,7 @@ CN PLACEHOLDER
 しかしこうして、１枚のガラスを境にして向かい合うことにより、俺達はお互いの存在を確かめることができる。%K%P
 But on either side of the glass, we were able to confirm the existence of the other.
 CN PLACEHOLDER
-Но с обеих сторон этого стекла мы можем подтвердить существование друг друга.
+Но, с обеих сторон этого стекла, мы можем подтвердить существование друг друга.
 
 俺のふたつの手の平には、空の身体に触れているという確かな実感があった。%K%P
 It felt as if my hands were touching Sora's body.
@@ -1331,12 +1331,12 @@ CN PLACEHOLDER
 空「ねぇ、倉成さん」%K%P
 Kuranari-san...
 CN PLACEHOLDER
-Э-э... Куранари-сан...
+Эээ...Куранари-сан...
 
 空「質問しても、いいですか？」%K%P
 May I ask you something?
 CN PLACEHOLDER
-Можно... тебя спросить?
+Можно....тебя спросить?
 
 武「どうぞ……」%K%P
 Go ahead...
@@ -1346,32 +1346,32 @@ CN PLACEHOLDER
 空「なんだか、あたたかい……」%K%P
 I feel warm...
 CN PLACEHOLDER
-Я... чувствую тепло...
+Я...чувствую тепло...
 
 空「とってもあたたかいんですよ……」%K%P
 I feel really warm...
 CN PLACEHOLDER
-Тепло... очень тепло...
+Тепло...очень тепло...
 
 空「指先から……心の中も……」%K%P
 From my fingers... and in my heart...
 CN PLACEHOLDER
-На кончиках пальцев... и в моём сердце...
+На кончиках пальцев...и в моём сердце...
 
 空「これって、何故なんでしょう……」%K%P
 What's happening...?
 CN PLACEHOLDER
-Это... что происходит?..
+Это......что происходит...?
 
 空「どうしてなんでしょうね……？」%K%P
 Why do you think...?
 CN PLACEHOLDER
-Что со мной?..
+Что со мной....?
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 答えることは、できなかった。%K%P
 I couldn't answer.
@@ -1406,7 +1406,7 @@ CN PLACEHOLDER
 ただ手の平に、陽だまりのような温もり。%K%P
 But in my hand I could feel the warmth like sunshine.
 CN PLACEHOLDER
-Но в своих руках я чувствую тепло... тепло, то самое, с каким сияет солнце.
+Но, в своих руках я чувствую тепло... тепло, то самое, с каким сияет солнце.
 
 いや……この温もりさえ幻だとしても……。%K%P
 Even if the warmth was just an illusion...

@@ -26,7 +26,7 @@ CN PLACEHOLDER
 ぼくと沙羅はそこに浮かんでいた。%K%P
 Sara and I were floating there.
 CN PLACEHOLDER
-А в этом «стакане» плывём мы с Сарой.
+А в этом 'стакане' плывём мы с Сарой.
 
 少年「ちょっとした小康状態ってところかな……」%K%P
 It looks like things have quieted down a bit...
@@ -51,7 +51,7 @@ CN PLACEHOLDER
 沙羅「うん、大丈夫……。ちょっと……、寒いかな」%K%P
 Yeah. I'm okay... Just... a little cold.
 CN PLACEHOLDER
-Да, всё в порядке... только чуток холодно.
+Да, всё в порядке......только чуток холодно.
 
 沙羅は無理に笑顔を作ろうとする。%K%P
 Sara forced a smile for me.
@@ -61,7 +61,7 @@ CN PLACEHOLDER
 少年「沙羅……、何だって戻ったりしたんだ」%K%P
 Sara... why did you come back?
 CN PLACEHOLDER
-Сара... зачем ты вернулась?
+Сара...зачем ты вернулась?
 
 少年「あと少し、あとほんの少しで助かったのに……」%K%P
 All you had to do was go a little farther, and you would have been safe...
@@ -71,12 +71,12 @@ CN PLACEHOLDER
 沙羅「うん……、あのね……」%K%P
 Uh... I...
 CN PLACEHOLDER
-Ммм... Э-э...
+Ммм......эээ...
 
 沙羅「お兄ちゃん、怒らない？」%K%P
 Do you promise you won't get mad?
 CN PLACEHOLDER
-Братик... только не сердись.
+Братик...только не сердись.
 
 少年「怒る？　なんで？」%K%P
 Mad? Why would I get mad?
@@ -106,17 +106,17 @@ CN PLACEHOLDER
 それが、兄と妹なのだと認めてしまった今では%N逆転していた。%K%N
 But once we knew that we were brother and sister, it felt like things had been reversed.
 CN PLACEHOLDER
-Но теперь, когда мы знаем, что мы брат и сестра, кажется, будто всё перевернулось с ног на голову.
+Но, теперь, когда мы знаем...что мы брат и сестра...кажется, будто всё перевернулось с ног на голову.
 
 幼い頃のように、沙羅はぼくに頼りきっている。%K%O
 Sara was relying on me... like when we were kids.
 CN PLACEHOLDER
-Сара полагается на меня... прямо как когда мы были маленькими.
+Теперь Сара полагается на меня...точно также, когда мы были маленькими.
 
 沙羅「あのね、お兄ちゃん」%K%P
 Well...
 CN PLACEHOLDER
-Э-э... братик...
+Эээ...братик...
 
 沙羅「これ……」%K%P
 This...
@@ -136,17 +136,17 @@ CN PLACEHOLDER
 少年「これは……、あの、カケラじゃないか」%K%P
 Hey... it's that piece of the mirror.
 CN PLACEHOLDER
-Это же... тот самый осколок.
+Погоди...это же тот самый осколок.
 
 沙羅「うん、途中で、これを置きっぱなしだったのに気がついたの」%K%P
 Yeah. I realized when we were running that this had been left here.
 CN PLACEHOLDER
-Угу. Когда мы бежали, я вспомнила, что он остался здесь.
+Угу...когда мы бежали, я вспомнила, что он остался здесь.
 
 少年「こんな物のために」%K%P
 So you came back for something like this!?
 CN PLACEHOLDER
-И ты вернулась за этой безделушкой?!
+И ты вернулась за этой безделушкой!?
 
 沙羅「こんな物じゃないよ！」%K%P
 It's not just anything!
@@ -156,7 +156,7 @@ CN PLACEHOLDER
 沙羅「お兄ちゃんが必死で守ってくれた、大事な、大事な物だよ！」%K%P
 This was something that you fought so hard to protect!
 CN PLACEHOLDER
-Братик, это то, за что ты так тяжело сражался!
+Братик...это...это то, за что ты так тяжело сражался!
 
 少年「沙羅……」%K%P
 Sara...
@@ -166,7 +166,7 @@ CN PLACEHOLDER
 少年「でも、命を賭けてまで取りに戻るようなものじゃないだろ！」%K%P
 But this isn't something worth risking your life to come back for!
 CN PLACEHOLDER
-Но этот кусок стекла не стоит твоей жизни!
+Но, этот кусок стекла не стоит твоей жизни!
 
 少年「ペンダントはちゃんとあるんだし！」%K%P
 You had the pendant anyway!
@@ -176,12 +176,12 @@ CN PLACEHOLDER
 沙羅「うん……、ゴメンね」%K%P
 You're right... I'm sorry.
 CN PLACEHOLDER
-М-м... Прости.
+*Мммгх*...прости...
 
 沙羅「お兄ちゃんまで、巻き添えにしちゃって……」%K%P
 I got you involved in all of this...
 CN PLACEHOLDER
-От меня одни неприятности...
+Братик...от меня одни неприятности...
 
 少年「ぼくは勝手に引き返してきたんだ。そんなこと気にしなくていいよ」%K%P
 I chose to turn back. You can't blame yourself for that.
@@ -191,12 +191,12 @@ CN PLACEHOLDER
 沙羅「ううん、ゴメン……」%K%P
 No, I'm sorry...
 CN PLACEHOLDER
-Нет, прости меня...
+*Мммгх*...прости...
 
 それきり、沙羅はしばらく黙ってしまった。%K%P
 After that, Sara didn't speak for a while.
 CN PLACEHOLDER
-После этих слов Сара замолчала.
+После этих слов, Сара замолчала.
 
 少年「沙羅？」%K%P
 Sara?
@@ -206,37 +206,37 @@ CN PLACEHOLDER
 沙羅「本当は……、それだけじゃないの……」%K%P
 To tell the truth... it wasn't just that...
 CN PLACEHOLDER
-Честно говоря... не в этом дело...
+В действительности...не в этом дело...
 
 少年「え？」%K%P
 Huh?
 CN PLACEHOLDER
-А?
+???
 
 沙羅「外に出るのが……、怖かったの」%K%P
 I was scared... to go outside...
 CN PLACEHOLDER
-Я боялась... выйти на поверхность...
+Я боялась...выйти на поверхность...
 
 少年「怖い？　何で……」%K%P
 Scared? Of what...?
 CN PLACEHOLDER
-Боялась? Чего?..
+Боялась? Чего...?
 
 沙羅「外に出たら、また、元のような日々が戻ってくるんだって思ったら……」%K%P
 I thought that once I got outside, everything would return to like it was...
 CN PLACEHOLDER
-Я боялась... что, как только окажусь там... что всё вернётся на круги своя...
+Я боялась...что, как только окажусь там...что всё вернётся на круги своя...
 
 沙羅「それ以上、足が動かなくなったの……」%K%P
 And once I thought about that, I couldn't move anymore...
 CN PLACEHOLDER
-Вот почему... я не пошла дальше...
+Вот почему...я не пошла дальше...
 
 少年「元のようなって、いったい何が……」%K%P
 Like it was? What are you talking about...?
 CN PLACEHOLDER
-То есть? О чём ты, Сара?..
+То есть? О чём ты, Сара...?
 
 沙羅「また、ライプリヒに監視されて、自由も何もない世界に戻るのかと思ったら……」%K%P
 I thought that Leiblich would start controlling us again. And all my freedom would be taken away...
@@ -246,32 +246,32 @@ CN PLACEHOLDER
 沙羅「もう二度と、こんな自由を味わえないのかと思ったら、動けなかった」%K%P
 When I thought that I'd never be free again, I was paralyzed.
 CN PLACEHOLDER
-Когда я это поняла... меня парализовало...
+Когда я это поняла...меня парализовало...
 
 少年「動けないって……」%K%P
 Paralyzed...?
 CN PLACEHOLDER
-Парализовало?..
+Парализовало...?
 
 沙羅「ＬｅＭＵに閉じこめられてから……、みんなは何とか脱出しようとしてたみたいだけど……」%K%P
 Ever since we've been trapped in LeMU... everyone has been trying to escape, but...
 CN PLACEHOLDER
-Пока мы были здесь в ловушке... все пытались выбраться, но...
+Пока мы были здесь в ловушке...все пытались выбраться, но...
 
 沙羅「私は……、うれしかった」%K%P
 But... I was happy.
 CN PLACEHOLDER
-Я... была счастлива.
+Я......была счастлива.
 
 沙羅「どこにも、監視する人もいない、私が、私の意志で何でも決めていいんだって……」%K%P
 Nobody was looking over me, and I've been able to decide things for myself...
 CN PLACEHOLDER
-Никто не следил за мной... я... я могла решать всё сама за себя...
+Никто не следил за мной...я...я могла решать всё сама за себя...
 
 沙羅「そう思ったら、すごくうれしかった」%K%P
 When I thought about that, I was so happy.
 CN PLACEHOLDER
-Когда я это поняла... то была счастлива...
+Когда я это поняла...то была счастлива...
 
 沙羅「ライプリヒの研究所に入ってから、こんな自由を感じたことは一度も無かったから……」%K%P
 Ever since I entered Leiblich's research institute, I haven't felt free even once...
@@ -291,17 +291,17 @@ CN PLACEHOLDER
 ぼくは、早い内にライプリヒに見限られた。%K%N
 Leiblich had written me off early on.
 CN PLACEHOLDER
-Лейблих «избавились» от меня, что называется, на ранней стадии.
+Лейблих 'избавились' от меня, что называется, на ранней стадии.
 
 たぶん、ぼくにはこれといった特殊な能力が、%N赤外線視力ぐらいしか無かったからだ。%K%O
 I figured that it was probably because the only special power I had was seeing infrared light.
 CN PLACEHOLDER
-Должно быть потому, что единственная «сверхспособность», которой я обладаю – инфракрасное зрение.
+Должно быть, потому что единственная 'сверхспособность', которой я обладаю - инфракрасное зрение.
 
 しかし、たぶん沙羅は違ったんだ。%K%N
 But Sara was probably different.
 CN PLACEHOLDER
-Но с Сарой, видимо, всё иначе.
+Но, с Сарой, видимо, всё иначе.
 
 あの、コンピューターの扱い……、%N優がハッカーと呼んだほどの手腕。%K%N
 The way that she had been able to use computers... You had called her a first-rate hacker.
@@ -311,7 +311,7 @@ CN PLACEHOLDER
 それはその一端なのだろう。%K%N
 It was probably only the beginning.
 CN PLACEHOLDER
-Но, видимо, это только вершина айсберга.
+Но, видимо это только вершина айсберга.
 
 ぼくがあの研究所を離れてからも、沙羅は果てしない実験と、厳しい監視の元でずっと生きてきたんだ……。%K%O
 After I had left the institute, Sara must have lived under constant observation and undergone experiments.
@@ -326,17 +326,17 @@ CN PLACEHOLDER
 沙羅「最初は、この事故も私の能力を試すための実験かなにかかと思ったの……」%K%P
 When all of this started, I thought this accident was just some kind of test of my abilities or something...
 CN PLACEHOLDER
-Когда всё это началось, я думала, что эта авария – нечто вроде испытания моих способностей или типа того...
+Когда всё это началось, я думала что эта авария - нечто вроде испытания моих способностей или вроде того...
 
 沙羅「空が、ＲＳＤだってわかった後は、私の監視役なんじゃないかって、疑ったりもしたんだ」%K%P
 And when I found out that Sora was RSD-generated, I suspected that she was here to observe me...
 CN PLACEHOLDER
-И когда я поняла, что Сора является RSD-изображением, я подозревала, что она здесь для наблюдения за мной...
+И, когда я поняла, что Сора является RSD-изображением, я подозревала, что она здесь для наблюдения за мной...
 
 沙羅「でも、なっきゅ先輩もいたし……、どうも、そうではなくて本当の事故なんだってわかった後は……」%K%P
 But since Nakkyu-senpai was here... I realized that it was probably just an accident...
 CN PLACEHOLDER
-Но раз здесь оказалась и Няку-сэмпай... я поняла, что это действительно просто спонтанная авария...
+Но, раз здесь оказалась и Няку...я поняла, что это действительно просто спонтанная авария...
 
 沙羅「うれしかった……」%K%P
 And it made me happy...
@@ -346,42 +346,42 @@ CN PLACEHOLDER
 沙羅「今まで、ずっと、どこにいても誰かが私の事を監視してた……」%K%P
 Until now, everywhere I've gone, there's been someone watching me...
 CN PLACEHOLDER
-До этого, куда бы я ни шла, за мной постоянно следили...
+До этого...куда бы я ни шла...за мной постоянно следили...
 
 沙羅「高校の中ででも、街に出てもずうっと」%K%P
 Even in high school or when I went out around town.
 CN PLACEHOLDER
-Даже в старшей школе, даже когда я гуляла по городу.
+Даже в колледже, даже когда я гуляла по городу.
 
 沙羅「逃げだそうとしても無駄だった……。私は、研究所に帰るしかなかった」%K%P
 It was pointless trying to escape... The only place I had to go back to was the research lab.
 CN PLACEHOLDER
-Пытаться убежать было бессмысленно... потому что... я... могла пойти лишь в одно место... в лабораторию.
+Пытаться убежать было бессмысленно...потому что...я...могла пойти лишь в одно место...в лабораторию.
 
 沙羅「研究所に帰れば、また実験や、検査の繰り返し……」%K%P
 And back at the lab, the only thing waiting for me was more experiments and tests...
 CN PLACEHOLDER
-А там меня ждали бесконечные тесты и эксперименты...
+А там...меня ждали бесконечные тесты и эксперименты...
 
 沙羅「私には、自由なんかどこにも無かった」%K%P
 I've never had a taste of freedom.
 CN PLACEHOLDER
-У меня совершенно не было свободы.
+У меня не было ни грамма свободы.
 
 沙羅「だからね、私には、あの事故がうれしかったの……」%K%P
 I suppose that's why I was happy about the accident...
 CN PLACEHOLDER
-Вот почему... я... была счастлива случившемуся...
+Вот почему...я...была счастлива случившемуся...
 
 沙羅「そんなこと言ったらいけないのかもしれないね……。みんなは必死だったんだし……」%K%P
 Maybe I shouldn't say it... I mean, everyone was so desperate and everything...
 CN PLACEHOLDER
-Наверное, не стоит так говорить... все были в таком отчаянии...
+Наверно, не стоит так говорить...все были в таком отчаянии...
 
 沙羅「でも、私には今まで……こんな自由は無かったから……」%K%P
 But I've never had freedom like this...
 CN PLACEHOLDER
-Но... о такой свободе... я и мечтать не могла...
+Но...о такой свободе...я и мечтать не могла...
 
 少年「沙羅……」%K%P
 Sara...
@@ -396,7 +396,7 @@ CN PLACEHOLDER
 沙羅の一言一言が、ぼくの心に突き刺さる。%K%P
 Sara's each and every word made my heart ache.
 CN PLACEHOLDER
-От каждого слова Сары у меня в сердце ёкает.
+От каждого слова Сары, моё сердце ёкает.
 
 沙羅は、そんなつもりがあって言っている訳ではないだろう。%K%P
 I knew that wasn't Sara's intention.
@@ -406,37 +406,37 @@ CN PLACEHOLDER
 だけど、その一言一言が、ぼくに対する告発のように思えた。%K%P
 But it felt like every word of hers was a confession to me.
 CN PLACEHOLDER
-Но каждое её слово как исповедь для меня.
+Но, каждое её слово как исповедь для меня.
 
 もちろんぼくにも監視はついていたけど、そんなに厳しいものじゃない。%K%P
 Of course, I had been under surveillance as well, but it had been nowhere near as strict.
 CN PLACEHOLDER
-Конечно, за мной тоже велось наблюдение, но оно ни в коем разе не было настолько строгим.
+Конечно, за мной тоже велось наблюдение, но оно ни в коем разе не было столь строгим.
 
 ぼくがよけいな事をしたりしない限りは、ほとんど無いに等しいものだった。%K%P
 As long as I didn't do anything out of the ordinary, it was like there was no one there.
 CN PLACEHOLDER
-Пока я не вёл себя подозрительно, казалось, будто за мной вообще никто не смотрит.
+Пока я не вёл себя подозрительно, казалось будто за мной вообще никто не смотрит.
 
 そんな中でのうのうとぼくは生きてきたんだ。%K%P
 I had been living carefree the entire time.
 CN PLACEHOLDER
-Но даже так, я жил в комфорте.
+Всё это время я жил...беззаботно что ли.
 
 なのに沙羅はずっと……、ずっとライプリヒにとらわれ、モルモットのように研究材料にされて……。%K%P
 But Sara had... been under Leiblich's careful watch the whole time... She was their guinea pig.
 CN PLACEHOLDER
-Но Сара... всегда была под пристальным вниманием Лейблих, их морской свинкой.
+Но Сара...всегда была под пристальным вниманием Лейблих, их морской свинкой.
 
 なぜ、もっと早く沙羅を助けに行ってやれなかったのか……。%K%P
 Why hadn't I gone to help Sara earlier...?
 CN PLACEHOLDER
-Почему я не бросился Саре на помощь раньше?..
+Почему я не бросился Саре на помощь раньше...?
 
 迎えに行くって……、必ず迎えに行くって約束したのに……。%K%P
 I promised that I would... but I hadn't...
 CN PLACEHOLDER
-Я же обещал... но не сдержал своё обещание...
+Я же обещал...но не сдержал своё обещание...
 
 もちろん、ぼくだって何もしてこなかった訳じゃない。%K%P
 Of course, I had tried.
@@ -446,7 +446,7 @@ CN PLACEHOLDER
 だけど、何をしても、その強大な力に握りつぶされてしまったんだ。%K%P
 But everything I did was blocked by Leiblich's far-reaching influence.
 CN PLACEHOLDER
-Но всё, что я делал, блокировалось длиннорукими Лейблих.
+Но, всё что я делал, блокировалось длиннорукими Лейблих.
 
 しかし、そんなこといいわけにならない。%K%P
 Still, I knew there could be no excuses.
@@ -456,17 +456,17 @@ CN PLACEHOLDER
 なぜもっと必死になれなかったんだ。%K%P
 Why hadn't I tried harder?
 CN PLACEHOLDER
-Почему я не пытался сильнее?
+Почему я не пытался сильней?
 
 なぜ……。%K%P
 Why...?
 CN PLACEHOLDER
-Почему?..
+Почему...?
 
 沙羅「お兄ちゃん……？」%K%P
 Onii-chan...?
 CN PLACEHOLDER
-Братик?..
+Братик...?
 
 沙羅の声にふと気づく。%K%P
 Sara was calling to me.
@@ -481,17 +481,17 @@ CN PLACEHOLDER
 沙羅「お兄ちゃん、ありがとう」%K%P
 Onii-chan, thank you.
 CN PLACEHOLDER
-Братик, спасибо тебе...
+Братик...спасибо тебе...
 
 少年「なんで……」%K%P
 For what...?
 CN PLACEHOLDER
-За что?..
+За что...?
 
 沙羅「来て……、くれたから……」%K%P
 Because... you came...
 CN PLACEHOLDER
-За то... что ты пришёл...
+За то...что ты пришёл...
 
 少年「違う！　ぼくは行けなかったんだ」%K%P
 No! I left you there by yourself.
@@ -501,17 +501,17 @@ CN PLACEHOLDER
 少年「迎えに……、行けなかったんだよ！」%K%P
 I didn't... come for you.
 CN PLACEHOLDER
-Я не... пришёл за тобой.
+Я не...пришёл за тобой.
 
 沙羅「ううん、来てくれたよ」%K%P
 Yes, you did.
 CN PLACEHOLDER
-Нет... ты пришёл.
+Нет...ты пришёл.
 
 沙羅「ありがとう、来てくれて……」%K%P
 And I want to thank you...
 CN PLACEHOLDER
-Спасибо... тебе...
+Спасибо...тебе...
 
 沙羅は、そう言ってほほえんだ。%K%P
 Sara said that and smiled.
@@ -521,7 +521,7 @@ CN PLACEHOLDER
 その笑みは、あきらめの笑みにも見えた。%K%P
 The smile also seemed tinged with resignation.
 CN PLACEHOLDER
-Однако её улыбка окрасилась... в смирение.
+Однако, её улыбка окрасилась...в смирение.
 
 沙羅「もういいんだ……」%K%P
 I don't care anymore...
@@ -531,37 +531,37 @@ CN PLACEHOLDER
 沙羅「私は、ここで死んでもいい……」%K%P
 It's okay to die here...
 CN PLACEHOLDER
-Здесь... можно умереть...
+Здесь...можно умереть...
 
 少年「沙羅、なんて事言うんだ！」%K%P
 Sara, what are you saying!?
 CN PLACEHOLDER
-Сара, о чём ты?!
+Сара, о чём ты!?
 
 沙羅「だって、最後に自由を味わえたし……」%K%P
 I've finally tasted freedom...
 CN PLACEHOLDER
-Потому что наконец я узнала, что такое свобода...
+Потому что...наконец я узнала, что такое свобода...
 
 沙羅「お兄ちゃんにもこうして会えたんだもん」%K%P
 And I was able to meet you.
 CN PLACEHOLDER
-Братик... и я наконец встретила тебя...
+Братик...и я наконец встретила тебя...
 
 沙羅「あんな生活に戻るくらいなら、いっそ……」%K%P
 If it means going back to the life I had before, then I'd rather...
 CN PLACEHOLDER
-И если после всего этого придётся вернуть всё как было, то лучше...
+Если после всего этого вернуться к тому, что было раньше...тогда лучше...
 
 沙羅「このままここで死んでしまった方が……いいよ……」%K%P
 Dying here and now would be... better...
 CN PLACEHOLDER
-Умереть... в таком месте...
+Умереть...в таком месте...
 
 沙羅「私には今まで……死ぬ自由も無かったから……」%K%P
 Up until now... I never even had the freedom to die...
 CN PLACEHOLDER
-До этого момента... мне ещё никогда не было так легко умирать...
+До этого момента...мне ещё никогда не было так легко умирать...
 
 その言葉はぼくに激しい衝撃をもたらした。%K%P
 Her words shocked me into silence.
@@ -586,7 +586,7 @@ CN PLACEHOLDER
 沙羅「お兄ちゃん？」%K%P
 Onii-chan?
 CN PLACEHOLDER
-Братик?..
+Братик...?
 
 少年「そんな事言っちゃだめだ！」%K%P
 Don't talk like that!
@@ -611,7 +611,7 @@ CN PLACEHOLDER
 少年「死んでしまったら何にもならない！　あんな奴らに負けたことになるんだぞ！」%K%P
 If you die here, then it means you've lost to THEM!
 CN PLACEHOLDER
-Если ты умрёшь здесь, значит, ОНИ победят!
+Если ты умрёшь здесь, значит ОНИ победят!
 
 少年「生き抜くんだ。生きるんだ！　絶対に！」%K%P
 You're going to live! Survive! No matter what!
@@ -636,7 +636,7 @@ CN PLACEHOLDER
 沙羅「どこに？」%K%P
 Where?
 CN PLACEHOLDER
-Куда?..
+Куда...?
 
 少年「海の上に」%K%P
 To the ocean surface.
@@ -646,7 +646,7 @@ CN PLACEHOLDER
 沙羅「どうやって？」%K%P
 How?
 CN PLACEHOLDER
-Но как?..
+Но как...?
 
 少年「泳いでだ」%K%P
 We'll swim.
@@ -661,12 +661,12 @@ CN PLACEHOLDER
 少年「大丈夫。今のここの空気は、水圧で圧縮されている」%K%P
 We'll be okay. The air pressure here's been compressed by the water pressure.
 CN PLACEHOLDER
-Всё будет в порядке. Из-за давления воды воздух здесь сжат.
+Всё будет в порядке. Из-за давления воды, воздух здесь сжат.
 
 少年「ここは、今４．５気圧なんだ」%K%P
 We're at about 4.5 atmospheres here.
 CN PLACEHOLDER
-Сейчас мы дышим при 4,5 атмосферах.
+Сейчас мы дышим при 4.5 атмосферах.
 
 少年「このまま海に出ても、肺がつぶれることはない」%K%P
 Even if we go out into the ocean from here, our lungs will be okay.
@@ -681,7 +681,7 @@ CN PLACEHOLDER
 少年「このまま、救助を待っていても救助隊が来るとは限らないし、いつ来るのかもわからない……」%K%P
 We don't know that help will come for us. And even if it does, it might be too late...
 CN PLACEHOLDER
-Мы не знаем, придут ли нас спасать. Но даже если придут, может уже быть поздно...
+Мы не знаем, придут ли нас спасать. Но, даже если придут, может уже быть поздно...
 
 少年「それにこのままここにいるのは危険なんだ」%K%P
 Besides, it's too dangerous for us to stay here.
@@ -691,7 +691,7 @@ CN PLACEHOLDER
 少年「いいか、沙羅？　ぼくらは今、４．５倍に圧縮された空気を吸ってるんだよ」%K%P
 Listen, Sara. We're breathing at 4.5 atmospheres.
 CN PLACEHOLDER
-Сара, пойми. Мы дышим при 4,5 атмосферах.
+Сара, пойми. Мы дышим при 4.5 атмосферах.
 
 少年「ここにずっといると、酸素中毒や窒素酔いになる恐れがある」%K%P
 If we stay here, we're in danger of oxygen poisoning or nitrogen narcosis.
@@ -716,12 +716,12 @@ CN PLACEHOLDER
 沙羅「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 沙羅「ねえ……」%K%P
 Hey...
@@ -736,7 +736,7 @@ CN PLACEHOLDER
 沙羅「私が、泳げないの知ってるでしょ？」%K%P
 You know I can't swim, right?
 CN PLACEHOLDER
-Я же не умею плавать...
+Я же... не умею плавать...
 
 少年「大丈夫、今だって泳いでるようなもんじゃないか」%K%P
 You'll be okay. You're kind of swimming right now, aren't you?
@@ -751,7 +751,7 @@ CN PLACEHOLDER
 沙羅「でも……、違うよ」%K%P
 But... it isn't the same.
 CN PLACEHOLDER
-Но... это не одно и то же...
+Но... нет...
 
 沙羅「今は浮かんでるだけだもん」%K%P
 I'm just floating right now.
@@ -761,7 +761,7 @@ CN PLACEHOLDER
 沙羅「外に出て、泳ぐのとは違うよ！」%K%P
 It's different than swimming in the ocean!
 CN PLACEHOLDER
-Это ведь не то же самое, что плыть в океане!
+Это не то... нет!
 
 少年「沙羅、大丈夫、心配するな！」%K%P
 Sara, you'll be okay! Don't worry!
@@ -781,7 +781,7 @@ CN PLACEHOLDER
 沙羅「そんなの……、無理だよ」%K%P
 No... It's not possible.
 CN PLACEHOLDER
-Нет... это невозможно.
+Нет...это невозможно.
 
 少年「無理じゃない」%K%P
 We can do it.
@@ -796,7 +796,7 @@ CN PLACEHOLDER
 少年「ぼくは沙羅を……、沙羅を助けに来たんだ！」%K%P
 I came here... I came to help you, Sara!
 CN PLACEHOLDER
-Я пришёл сюда... я пришёл спасти тебя, Сара!
+Я пришёл сюда...я пришёл спасти тебя, Сара!
 
 沙羅「お兄ちゃん……」%K%P
 Onii-chan...
@@ -816,17 +816,17 @@ CN PLACEHOLDER
 少年「行こう、沙羅！」%K%P
 Let's go, Sara!
 CN PLACEHOLDER
-Поплыли, Сара!
+Пойдём, Сара!
 
 沙羅「うん、お兄ちゃん！」%K%P
 Okay, onii-chan!
 CN PLACEHOLDER
-Да... братик!..
+Да...братик...!
 
 ぼくは沙羅を引っ張って救護室を出た。%K%P
 I pulled Sara along with me, and we left the infirmary.
 CN PLACEHOLDER
-Я потащил Сару за собой, и мы оставили лазарет.
+Я потащил Сару за собой и мы оставили лазарет.
 
 所々にある空気だまりを伝いながら、壁の崩壊しているところを探す。%K%P
 We moved from air pocket to air pocket, looking desperately for a place where the wall had collapsed in.
@@ -836,7 +836,7 @@ CN PLACEHOLDER
 外に出られるほど、大きな亀裂のあいた箇所を見つけると、ぼくらはいったん、一番近い空気だまりまで引き返した。%K%P
 When we finally found a tear big enough for us to squeeze through, we doubled back to the nearest air pocket.
 CN PLACEHOLDER
-Когда мы наконец обнаружили разлом, достаточный, чтобы протиснуться нам двоим, мы вернулись к ближайшему воздушному мешку.
+Когда мы наконец обнаружили разлом, достаточный чтобы протиснуться нам двоим, мы вернулись к ближайшему воздушному мешку.
 
 そこで、小刻みに呼吸を繰り返し、血液に酸素を充満させる。%K%P
 We took a number of short breaths to boost the oxygen level in our blood.
@@ -846,7 +846,7 @@ CN PLACEHOLDER
 最後に大きく息を吸い込み、ぼくは沙羅の手を引いて、亀裂から、外へと泳ぎだした。%K%P
 Finally, taking a big breath, I grabbed onto Sara's hand and led her through the hole and into the ocean.
 CN PLACEHOLDER
-И наконец, сделав глубокий вдох, я крепко схватил Сару за руку и через дыру вытащил её в океан.
+И, наконец, сделав глубокий вдох, я крепко схватил Сару за руку и через дыру вытащил её в океан.
 
 壁や床と言った比較物が無くなり、一瞬、どちらが上でどちらが下なのかわからなくなる。%K%P
 With the walls and floor gone, I lost sense of which way was up and which way was down.
@@ -891,7 +891,7 @@ CN PLACEHOLDER
 その光の元に行ければ、すべてが解決する、すべてがうまくいくんだと、そう信じてぼくは水を蹴り続ける。%K%P
 I kept kicking, believing that everything would be okay if I could make it to the source of the light.
 CN PLACEHOLDER
-Я продолжаю барахтаться, потому что верю. Я верю – если я доберусь до источника этого света, всё будет хорошо.
+Я продолжаю барахтаться, потому что верю. Я верю - если я доберусь до источника этого света, всё будет хорошо.
 
 肺の中の酸素がすべて絞り尽くされても、こんなところで沙羅を死なせたりは絶対にしない。%K%P
 Even if all of the oxygen was squeezed out of my lungs, I was not about to let Sara die there.
@@ -906,7 +906,7 @@ CN PLACEHOLDER
 徐々に、徐々に、
 Slowly. Gradually.
 CN PLACEHOLDER
-Медленно. Постепенно. 
+Медленно. Постепенно.
 
 光が大きくなってくる。%K%P
 The light was getting bigger.
@@ -946,7 +946,7 @@ CN PLACEHOLDER
 あの光の元へ……。%K%P
 (Toward the light...)
 CN PLACEHOLDER
-У нас всё получится... свет уже близко...
+У нас всё получится...свет уже близко...
 
 ぼくは沙羅を二度と手放したりはしない。%K%P
 I was never going to let Sara go again.

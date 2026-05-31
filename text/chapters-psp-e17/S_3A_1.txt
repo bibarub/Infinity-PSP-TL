@@ -11,12 +11,12 @@ CN PLACEHOLDER
 途端に、鮮烈な冷気が脳髄を突き抜けた。%K%P
 The instant it made contact, it sent a sharp shock to my brain.
 CN PLACEHOLDER
-В то же мгновение контакт с водой послал в мозг электрический разряд.
+В то же мгновение, контакт с водой послал в мозг электрический разряд.
 
 少年「くぅーーーっ！」%K%P
 Gaaaah!
 CN PLACEHOLDER
-Га-а-а-ах!
+Гаааах!
 
 思いっきり目が覚めた。%K%P
 I snapped open my eyes, completely awake.
@@ -26,7 +26,7 @@ CN PLACEHOLDER
 今まで（たぶん）何千回と繰り返してきたであろう、この儀式によって、ぼくは爽快な朝を迎えた。%K%P
 I thought I had (probably) repeated that ritual several thousands of times. It was my way of refreshing myself in the morning.
 CN PLACEHOLDER
-Не знаю, сколько раз я повторил сей ритуал... Может, несколько сотен раз. Таким незатейливым способом я придал бодрость самому себе.
+Не знаю, сколько раз я повторил сей ритуал... может несколько сотен раз. Таким незатейливым способом я придал бодрость самому себе.
 
 顔をあげ、タオルで顔をふき取る。%K%P
 I lifted my face and wiped it with the towel.
@@ -36,7 +36,7 @@ CN PLACEHOLDER
 白くツルリとした作りの流し台……その上には、細かくひび割れた鏡。%K%P
 A smooth white counter, a sink... and a finely cracked mirror.
 CN PLACEHOLDER
-Гладкая белая стойка, раковина... и тонко растрескавшееся зеркало.
+Гладкая белая стойка, раковина...и тонко растрескавшееся зеркало.
 
 その鏡は、ぼくの顔をボンヤリと映していた。%K%P
 I stared foggily at my reflection in the mirror.
@@ -46,7 +46,7 @@ CN PLACEHOLDER
 通路を戻っている途中、武とすれ違った。%K%P
 I passed Takeshi as I was returning to the corridor.
 CN PLACEHOLDER
-Я прошёл мимо Такэси, пока возвращался в коридор.
+Я прошёл мимо Такеши, пока возвращался в коридор.
 
 少年「やぁ」%K%P
 Hey.
@@ -56,12 +56,12 @@ CN PLACEHOLDER
 武「……おはよう、少年」%K%P
 ...Oh, mornin', Kid.
 CN PLACEHOLDER
-...Утречка, Малой.
+...Доброе утро, Кид.
 
 少年「武、なんか不景気そうな顔してる」%K%P
 Hey, don't look so depressed, Takeshi.
 CN PLACEHOLDER
-Слушай, Такэси, а чё ты хмурый как туча?
+Слушай, Такеши, а чё ты хмурый как туча?
 
 武「そんなこたぁねーよ。まだ眠いだけだ」%K%P
 I'm still sleepy.
@@ -86,7 +86,7 @@ CN PLACEHOLDER
 会議室では、優と沙羅が待っていた。%K%P
 Sara and You were waiting in the conference room.
 CN PLACEHOLDER
-Сара и Ю уже сидят в Комнате переговоров.
+Сара и Ю уже сидят в Комнате Переговоров.
 
 優「おっはよーん♪」%K%P
 GOOD MORNING!
@@ -111,7 +111,7 @@ CN PLACEHOLDER
 優「なんだなんだ、少年。元気ないぞぉ？　まだ目が覚めてないとか？」%K%P
 Hey, Kid. You don't seem very well. You having trouble waking up?
 CN PLACEHOLDER
-Слушай, Малой. Неважно выглядишь. Плохо спал, было тяжело вставать?
+Слушай, Кид. Неважно выглядишь. Плохо спал, было тяжело вставать?
 
 少年「もうバッチリ覚めてるよ」%K%P
 No. I'm awake.
@@ -126,7 +126,7 @@ CN PLACEHOLDER
 沙羅「あっ、わかった。少年って低血圧なんでしょ？　私もそうなんだよぉ」%K%P
 I know, he's not a morning person, or maybe he's got low blood pressure like me.
 CN PLACEHOLDER
-Знаю. Либо он – сова, либо у него низкое кровяное давление. Как у меня.
+Знаю. Либо он - сова, либо у него низкое кровяное давление. Как у меня.
 
 少年「さ、さあ？　どうなんだろう……」%K%P
 I don't know about that...
@@ -146,7 +146,7 @@ CN PLACEHOLDER
 沙羅「わかるわかる。朝は辛いよねぇ。なんて言うか、生き地獄ってやつ？　今まで、目覚まし時計を何個叩き壊したことか……」%K%P
 I know all about it. I hate mornings. They're like hell on earth. I've destroyed more alarm clocks than I can count...
 CN PLACEHOLDER
-Да знаю, как это. Терпеть не могу утро. Это какой-то ад земной. Я сломала о стену столько будильников, что уже сбилась со счёта...
+Да знаю, как это. Терпеть не могу утро. Это какой-то ад земной. Я сломала об стену столько будильников, что уже сбилась со счёта...
 
 優「マヨって、寝起きがすこぶる悪いよねぇ。今朝なんか、危うく絞め殺されるかと思ったよ」%K%P
 Mayo is always in the worst mood in the morning. I thought she might kill me today.
@@ -156,12 +156,12 @@ CN PLACEHOLDER
 沙羅「でも、先輩の反撃の方が凄かったですよ……一瞬で、寝技に持ってかれて……」%K%P
 But Senpai got me in this wrestling hold...
 CN PLACEHOLDER
-Но сэмпай, не забывай, что ты сама, и больше никто, затеяла ту драку...
+Но, Няку, не забывай, что ты сама, и больше никто, затеяла ту драку...
 
 優「これ、よさないか。子供のいる前で」%K%P
 Enough. There are children around.
 CN PLACEHOLDER
-Цыц. Мы подаём детям плохой пример.
+Цыц. Мы подаём присутствующим детям плохой пример.
 
 ……頭痛がしてきた。%K%P
 ...I was getting a headache.
@@ -171,27 +171,27 @@ CN PLACEHOLDER
 これもまた、低血圧のせいなのだろうか。%K%P
 Maybe it WAS low blood pressure that made me not a morning person...
 CN PLACEHOLDER
-Может, ДЕЙСТВИТЕЛЬНО мне так тяжело утром из-за низкого кровяного давления...
+Может ДЕЙСТВИТЕЛЬНО мне так тяжело утром из-за низкого кровяного давления....?
 
 ………………。%K%P
 ......
 CN PLACEHOLDER
-...
+....
 
 やがて、武が戻ってくると、そろそろ食事に行こうかという話になった。%K%P
 Finally, when Takeshi came back, conversation turned to breakfast.
 CN PLACEHOLDER
-Наконец, когда Такэси вернулся, зашла речь о завтраке.
+Наконец, когда Такеши вернулся, зашла речь о завтраке.
 
 武「つぐみと空がいないみたいだけど、いいのか？」%K%P
 Tsugumi and Sora aren't here. You sure it's okay?
 CN PLACEHOLDER
-Но Цугуми и Сора ещё не пришли.
+Но, Цугуми и Сора ещё не пришли.
 
 優「そうだね……でも、きっとそのうち現れるよ」%K%P
 That's true... but they'll probably show up eventually.
 CN PLACEHOLDER
-И правда... придут, никуда не денутся.
+И правда...придут, никуда не денутся.
 
 武「まあ、あのふたりなら、そうだな」%K%P
 Yeah, knowing those two, you're probably right.
@@ -221,12 +221,12 @@ CN PLACEHOLDER
 武「冷蔵庫の奥に少しだけあったんだ。隠しメニューって奴だな」%K%P
 Well, I found a few in the back of the fridge. Must've been on the stealth menu.
 CN PLACEHOLDER
-Ну, я нашёл упаковку сосисок у дальней стенки холодильника. Наверное, были в „секретном меню“.
+Ну, я нашёл упаковку сосисок у дальней стенки холодильника. Наверно были в 'секретном меню'.
 
 そう答え、武は店の中へと姿を消した。%K%P
 With that, Takeshi disappeared inside the kiosk.
 CN PLACEHOLDER
-С этими словами Такэси исчез внутри киоска.
+С этими словами Такеши исчез внутри киоска.
 
 今日もまた、調理は武が担当することになったのだ。%K%P
 It looked like Takeshi would be chef for another day.
@@ -241,12 +241,12 @@ CN PLACEHOLDER
 武「あ、あれぇーっ！？」%K%P
 What in the...?
 CN PLACEHOLDER
-Что за?..
+Что за...?
 
 店内から、武の叫び声があがった。%K%P
 Takeshi had let out a surprised yelp from inside.
 CN PLACEHOLDER
-Изнутри донёсся удивлённый крик Такэси.
+Изнутри донёсся удивлённый крик Такеши.
 
 ビックリして中を覗き込むと、冷蔵庫のドアを開けたままの姿勢で、武が硬直していた。%K%P
 Looking into the shop, there was Takeshi, frozen in front of the freezer with the door open.
@@ -276,7 +276,7 @@ CN PLACEHOLDER
 優「最初からなかったんじゃないの？」%K%P
 I'll bet they weren't there to start with.
 CN PLACEHOLDER
-Может, их там вообще не было?
+Может их там вообще не было?
 
 武「いや、昨夜までは確かにあったんだって。晩飯作ってたときに見つけたんだからな」%K%P
 No. They were here when I checked last night. I found them when I made dinner last night.
@@ -306,12 +306,12 @@ CN PLACEHOLDER
 吐き捨てながら、冷蔵庫のドアを乱暴に閉める武。%K%P
 Takeshi slammed the door violently shut.
 CN PLACEHOLDER
-Такэси со злости хлопнул дверью.
+Такеши со злости хлопнул дверью.
 
 優「まあまあ。別に、食料が底をついたわけでもないし、いつものメニューでいいんじゃないの？」%K%P
 Calm down. We're not out of food. We'll just go with the regular menu.
 CN PLACEHOLDER
-Успокойся. Мы же не пухнем с голоду. Просто придётся есть то же, что и всегда.
+Успокойся. Мы же не пухнем с голоду. Просто, придётся есть то же, что и всегда.
 
 武「むぅ……」%K%P
 Geez...
@@ -336,12 +336,12 @@ CN PLACEHOLDER
 もともとホットドッグなんてものは、ぼくらの予定になかったわけだし……それに、ぼくも腹ぺこだった。%K%P
 We weren't expecting hotdogs to begin with... and I was hungry.
 CN PLACEHOLDER
-И, хотя с хот-догами мы обломались... кушать-то хочется.
+И, хотя с хот-догами мы обломались...кушать-то хочется.
 
 まだ武は腹を立てているようだが、それも空腹のせいかもしれない。%K%P
 Takeshi still looked peeved. Maybe it was because he was hungry too.
 CN PLACEHOLDER
-Такэси всё ещё на нервах. Наверное, тоже голодный.
+Такеши всё ещё на нервах. Наверное, тоже голодный.
 
 ひとまず、この空腹を満たすのが先決なのだ。%K%P
 The first thing we had to do was fill our stomachs.
@@ -351,5 +351,5 @@ CN PLACEHOLDER
 結局、ホットドッグの件は諦めることになり、朝食は恒例のタツタサンドに決定した。%K%P
 In the end, we gave up on hotdogs and went with our standby menu (tuna sandwiches) for breakfast.
 CN PLACEHOLDER
-В конце концов, мы забыли о хот-догах и вернулись к обычному меню – сэндвичам с тунцом.
+В конце концов, мы забыли о хот-догах и вернулись к обычному меню - бутербродам с курятиной.
 

@@ -21,7 +21,7 @@ CN PLACEHOLDER
 な、何が……。%K%P
 Wh-What...
 CN PLACEHOLDER
-Ч-что?..
+Ч-что...?!
 
 ぼくは、部屋を飛び出した。%K%P
 I ran out of the room.
@@ -46,12 +46,12 @@ CN PLACEHOLDER
 まさか、浸水が始まったのか？%K%P
 I couldn't believe that water could have reached there.
 CN PLACEHOLDER
-Невозможно... она добралась даже сюда.
+Невозможно...она добралась даже сюда.
 
 優「少年！」%K%P
 Kid!
 CN PLACEHOLDER
-Малой!
+Кид!
 
 少年「優、いったいどうしたの？　何があったの！」%K%P
 You, what is this? Did something happen!?
@@ -61,7 +61,7 @@ CN PLACEHOLDER
 優「説明はあと、とにかく早くこっちに」%K%P
 I'll explain later. For now, just hurry over here.
 CN PLACEHOLDER
-Некогда объяснять. Скорее, сюда!
+Некогда объяснять. Скорей, сюда!
 
 少年「ど、どういう事？」%K%P
 Wh-What?
@@ -81,7 +81,7 @@ CN PLACEHOLDER
 優「説明は後、とにかくもうやばいのよ！」%K%P
 I'll explain later, just hurry!
 CN PLACEHOLDER
-Потом расскажу. Скорее, бежим!
+Потом расскажу. Скорей, бежим!
 
 優は、そう言ってぼくを促して走り始めた。%K%P
 With those words of encouragement, You started running.
@@ -116,12 +116,12 @@ CN PLACEHOLDER
 そこにはすでに武とつぐみ、それに沙羅も集まっていた。%K%P
 Takeshi, Tsugumi, and Sara were already gathered there.
 CN PLACEHOLDER
-Такэси, Цугуми и Сара уже ждут нас.
+Такеши, Цугуми и Сара уже ждут нас.
 
 武「急げ、時間がないぞ」%K%P
 Hurry, we don't have much time.
 CN PLACEHOLDER
-Скорее, у нас мало времени!
+Скорей, у нас мало времени!
 
 少年「いったいどうしたの？」%K%P
 What happened?
@@ -131,12 +131,12 @@ CN PLACEHOLDER
 武「いいから急げ」%K%P
 Just hurry.
 CN PLACEHOLDER
-Не мешкай.
+Скорей, твою мать.
 
 そう言って、先に立って走り出す。%K%P
 Saying that, he started running ahead of everyone else.
 CN PLACEHOLDER
-Сказав это, он побежал впереди всех.
+С этими словами, он побежал впереди всех.
 
 つぐみも後に続く。%K%P
 Tsugumi followed suit.
@@ -166,7 +166,7 @@ CN PLACEHOLDER
 優「でも、急がないとそこもまた浸水してしまうかもしれない」%K%P
 But if we don't hurry, they're going to flood.
 CN PLACEHOLDER
-Но если мы не поспешим, его затопит.
+Но, если мы не поспешим, его затопит.
 
 優「だから、とにかく急いで」%K%P
 So just hurry.
@@ -181,7 +181,7 @@ CN PLACEHOLDER
 ぼくは、武とつぐみの後に続いて、とにかく非常階段までの距離を走り抜けた。%K%P
 I followed Takeshi and Tsugumi as we sprinted the distance of the emergency stairs.
 CN PLACEHOLDER
-Я следовал за Такэси и Цугуми, пока мы бежали до аварийной лестницы.
+Я следовал за Такеши и Цугуми, пока мы бежали до аварийной лестницы.
 
 すぐに非常階段に達する。%K%P
 We soon reached the stairs.
@@ -191,17 +191,17 @@ CN PLACEHOLDER
 武とつぐみは、すでに上り始めていた。%K%P
 Takeshi and Tsugumi were already climbing.
 CN PLACEHOLDER
-Такэси и Цугуми уже поднимаются.
+Такеши и Цугуми уже поднимаются.
 
 武「急げ！　こっちだ」%K%P
 Hurry! This way!
 CN PLACEHOLDER
-Скорее! Сюда!
+Скорей! Сюда!
 
 武の声が上から降ってくる。%K%P
 Takeshi's voice rang down from above.
 CN PLACEHOLDER
-Прозвучал сверху голос Такэси.
+Прозвучал сверху голос Такеши.
 
 ふたりの足音を追って、ぼくも走り出した。%K%P
 I ran, following the sound of their footsteps.
@@ -211,12 +211,12 @@ CN PLACEHOLDER
 そうしている間にもＬｅＭＵは金属のこすれあう悲鳴をあげ、激しくゆれている。%K%P
 As we were trying to escape, LeMU began to shake and screech as metal clashed with metal.
 CN PLACEHOLDER
-Пока мы пытаемся убежать, LeMU трясётся и хрипит, словно умирающий монстр, «тело» которого распадается на металлические обломки.
+Пока мы пытаемся убежать, LeMU трясётся и хрипит, словно умирающий монстр, 'тело' которого распадается на металлические обломки.
 
 ぼくらは、ひたすら上に向かって階段を上り続けた。%K%P
 But we just kept climbing, moving toward the top.
 CN PLACEHOLDER
-Но мы продолжаем взбираться, всё выше и выше.
+Но, мы продолжаем взбираться, всё выше и выше.
 
 みんなの息づかいと、鉄の階段を踏む足音だけが、非常階段内に響いていた。%K%P
 Only the sound of everyone's labored breathing and running footsteps echoed throughout the emergency stairs.
@@ -236,7 +236,7 @@ CN PLACEHOLDER
 先を行く武が叫ぶ。%K%P
 Takeshi shouted up ahead.
 CN PLACEHOLDER
-Процедил сквозь зубы Такэси.
+Процедил сквозь зубы Такеши.
 
 武の声は希望にあふれていた。%K%P
 Takeshi's voice was full of hope.
@@ -246,12 +246,12 @@ CN PLACEHOLDER
 そのとき。%K%P
 It was then that we realized it.
 CN PLACEHOLDER
-Но тут мы поняли, что...
+Но, тут мы поняли, что...
 
 優「マヨ……マヨ……、マヨがいない！」%K%P
 Mayo... Mayo... Mayo isn't here!
 CN PLACEHOLDER
-Майо... Майо... Майо пропала!
+Майо......Майо...Майо пропала!
 
 優が叫んだ。%K%P
 You shouted that.
@@ -261,12 +261,12 @@ CN PLACEHOLDER
 少年「え？」%K%P
 Huh?
 CN PLACEHOLDER
-А?
+---?!
 
 武「何だって？」%K%P
 What'd you say?
 CN PLACEHOLDER
-Что ты сказала?
+Что?!
 
 ぼくは立ち止まり、後ろを振り返る。%K%P
 I stopped and looked back.
@@ -276,32 +276,32 @@ CN PLACEHOLDER
 そこには、階段を見下ろして優が呆然と立ちつくしていた。%K%P
 You stood on the stairs, stunned and looking downward.
 CN PLACEHOLDER
-Оглушённая, Ю стоит на ступенях и смотрит вниз.
+Оглушённая Ю стоит на ступенях и смотрит вниз.
 
 優「そんな！　後ろにいたはずなの。私の後ろに！」%K%P
 What happened? She was right behind me!
 CN PLACEHOLDER
-Что произошло?! Она же... была прямо за мной!
+Что произошло?! Она же...была прямо за мной!
 
 武「なんだ、いったいどうした」%K%P
 What happened?
 CN PLACEHOLDER
-Что... что случилось?!
+Что...что случилось?!
 
 武達も、下に降りてきた。%K%P
 Takeshi and the others came down the stairs.
 CN PLACEHOLDER
-Такэси и остальные спустились по ступеням.
+Такеши и остальные спустились по ступеням.
 
 優「倉成、マヨが……マヨがいないの！」%K%P
 Kuranari, Mayo... Mayo isn't here!
 CN PLACEHOLDER
-Куранари, Майо... Майо пропала!
+Куранари, Майо...Майо пропала!
 
 武「なんて事だ……。ついてくるのを確認しなかったのか？」%K%P
 God damn it... Didn't you check to see that she was behind you?
 CN PLACEHOLDER
-Чёрт... почему ты не проверила, идёт ли она за тобой?!
+Чёрт...почему ты не проверила, идёт ли она за тобой?!
 
 優「最初は後ろにいたの！」%K%P
 She was right behind me from the start!
@@ -311,7 +311,7 @@ CN PLACEHOLDER
 優「途中から、私も上るのに夢中で……」%K%P
 Partway up, I got so into climbing...
 CN PLACEHOLDER
-Когда мы стали подниматься... я не оглядывалась...
+Когда мы стали подниматься...я не оглядывалась...
 
 音とともに、非常階段が大きく揺れた。%K%P
 The stairs shook violently, and there was a large sound.
@@ -321,7 +321,7 @@ CN PLACEHOLDER
 同時に、階段を照らしていた薄暗い照明が切れる。%K%P
 At the same time, the lights that dimly lit the stairs went out.
 CN PLACEHOLDER
-В тот же миг лампы, едва освещающие лестницу, погасли.
+В тот же миг, лампы, едва освещающие лестницу, погасли.
 
 武「くそっ！　停電か。今更引き返す訳にはいかないぞ」%K%P
 Damn! A blackout. We can't go back now.
@@ -336,7 +336,7 @@ CN PLACEHOLDER
 優「でも！」%K%P
 But!
 CN PLACEHOLDER
-Но!..
+Но...!
 
 少年「ぼくが行く」%K%P
 I'll go.
@@ -346,12 +346,12 @@ CN PLACEHOLDER
 優「えっ？」%K%P
 Huh?
 CN PLACEHOLDER
-А?
+---?
 
 少年「ぼくが戻るよ。みんなはこのまま上にのぼって」%K%P
 I'll go back. Everybody keep going.
 CN PLACEHOLDER
-Я возвращаюсь. А вы – бегите.
+Я возвращаюсь. А вы - бегите.
 
 返事を待たずに、ぼくは今までのぼって来た階段を駆け下り始めた。%K%P
 Without waiting for a reply, I started rushing down the stairs I had just climbed.
@@ -361,7 +361,7 @@ CN PLACEHOLDER
 武「おい、少年！」%K%P
 Hey, Kid!
 CN PLACEHOLDER
-Эй, Малой!
+Эй, Кид!
 
 優「無理よ！　浸水が始まってるのよ？　どうやって行くつもり！？」%K%P
 It's impossible! It's already starting to flood. What do you think you're going to do?
@@ -406,7 +406,7 @@ CN PLACEHOLDER
 階段を下り、ツヴァイトシュトックの避難用通路まで出る。%K%P
 I went down the stairs and came out at Zweiter Stock's emergency corridor.
 CN PLACEHOLDER
-Я спустился по ступеням и оказался в аварийном коридоре на Цвайте Шток.
+Я спустился по ступеням и оказался в аварийном коридоре на Цвайте шток.
 
 非常用の電源もすでに死んでいる様だ。%K%P
 It looked like the emergency power had already died.
@@ -426,27 +426,27 @@ CN PLACEHOLDER
 途中から戻ったのだとしたら、ドリットシュトックまでは降りていないのではないだろうか。%K%P
 If she had turned back partway, then she probably wouldn't have made it to Dritter Stock.
 CN PLACEHOLDER
-Если она повернула назад на полпути, то, скорее всего, даже не добралась до Дритте Шток.
+Если она повернула назад на пол пути, то скорее всего даже не добралась до Дритте Шток.
 
 しかし、本当にそうだろうか？%K%P
 But I couldn't be sure.
 CN PLACEHOLDER
-Но я не уверен.
+Но, я не уверен.
 
 もしドリットシュトックまで降りてしまっていたら……。%K%P
 If she had gone all the way down to Dritter Stock...
 CN PLACEHOLDER
-Если она всё-таки спустилась на Дритте Шток...
+Если она всё-таки спустилась на Дритте шток...
 
 ツヴァイトシュトックを捜していたら間に合わないだろう。%K%P
 ...Then I would never make it in time if I looked around Zweiter Stock first.
 CN PLACEHOLDER
-...тогда я не успею найти её вовремя, если сначала стану искать на Цвайте Шток.
+...тогда я не успею найти её вовремя, если сначала стану искать на Цвайте шток.
 
 どうしたらいい……。%K%P
 I didn't know what to do...
 CN PLACEHOLDER
-Что же делать?..
+Что же делать...?
 
 ドリットシュトックから捜すべきか、それともツヴァイトシュトックから……。%K%p
 I had to decided whether I would start looking on Dritter Stock or from Zweiter Stock...
@@ -456,17 +456,17 @@ CN PLACEHOLDER
 ドリットシュトックから捜す
 Start with Dritter Stock
 CN PLACEHOLDER
-Начать с Дритте Шток
+Начать с Дритте шток
 
 ツヴァイトシュトックから捜す
 Start with Zweiter Stock
 CN PLACEHOLDER
-Начать с Цвайте Шток
+Начать с Цвайте шток
 
 ドリットシュトックから捜そう。%K%P
 I decided to start searching from Dritter Stock.
 CN PLACEHOLDER
-Я решил начать поиск с Дритте Шток.
+Я решил начать поиск с Дритте шток.
 
 向こうの方が水圧が高く、浸水もより進んでいるかもしれない。%K%P
 I figured the water pressure would be higher there, and the flooding more serious.
@@ -476,12 +476,12 @@ CN PLACEHOLDER
 もし、ドリットシュトックにいるのだとしたら、そっちから捜さないと間に合わない。%K%P
 If she was in Dritter Stock, then I'd have to start there to have any hope of finding her.
 CN PLACEHOLDER
-Если она на Дритте Шток, тогда следует начать там, где есть хоть малейшая надежда найти её.
+Если она на Дритте шток, тогда следует начать там, где есть хоть малейшая надежда найти её.
 
 ぼくは、ドリットシュトックに向かって、階段を駆け下りた。%K%P
 I headed down the stairs to Dritter Stock.
 CN PLACEHOLDER
-Я направился вниз по ступенькам на Дритте Шток.
+Я направился вниз по ступенькам на Дритте шток.
 
 ぼくは、ドリットシュトックの非常通路まで降りてきた。%K%P
 Reaching the emergency corridor, I arrived at Dritter Stock.
@@ -491,12 +491,12 @@ CN PLACEHOLDER
 沙羅がいるとしたらどこだろう……。%K%P
 If Sara was there, where would she be...?
 CN PLACEHOLDER
-Если Сара здесь, то где именно она может быть?..
+Если Сара здесь, то где именно она может быть...?
 
 会議室か制御室か？%K%P
 The conference room or the control room?
 CN PLACEHOLDER
-В Комнате переговоров или в Центре управления?
+В Комнате Переговоров или в Центре Управления?
 
 それとも、アトラクションの方だろうか？%K%P
 Or could she have been at one of the attractions?
@@ -511,7 +511,7 @@ CN PLACEHOLDER
 非常ハッチから下をのぞくと、かなり浸水してきているのがわかる。%K%P
 Peering down through the emergency hatch, I realized that the flooding had already progressed a lot.
 CN PLACEHOLDER
-Взглянув в аварийный люк, я понял, что Дритте Шток уже практически затоплен.
+Взглянув в аварийный люк, я понял, что Дритте шток уже практически затоплен.
 
 下には降りずに、非常通路から各部屋を確認していく方が良さそうだ。%K%P
 It seemed best to check each room from the emergency corridor rather than going all the way down.
@@ -521,12 +521,12 @@ CN PLACEHOLDER
 だが、本当に沙羅はこのフロアにいるんだろうか……？%K%P
 I wondered if Sara really was on that floor...
 CN PLACEHOLDER
-Может Сары всё-таки нет на этом этаже?..
+Может Сары всё-таки нет на этом этаже...?
 
 ここまで来てしまった以上、もう戻るわけにはいかない。%K%P
 But having come so far, I knew there was no going back.
 CN PLACEHOLDER
-Но я зашёл слишком далеко, и отступать уже поздно.
+Но, я зашёл слишком далеко, и отступать уже поздно.
 
 ぼくは、非常通路を駆けだした。%K%P
 I ran through the emergency corridor.
@@ -551,12 +551,12 @@ CN PLACEHOLDER
 会議室、制御室、と続けてのぞき込むが、沙羅らしき人影はなく、水だけがどんどん増えていくのがわかった。%K%P
 I looked in the conference room and the control room, but there was no sign of her there. The water only continued to rise.
 CN PLACEHOLDER
-Я заглянул в Комнату переговоров и в Центр управления, но никого не обнаружил. А вода всё прибывает и прибывает.
+Я заглянул в Комнату Переговоров и в Центр Управления, но никого не обнаружил. А вода всё прибывает и прибывает.
 
 エレベーターホールから先は扉が開かない。%K%P
 The doors beyond the elevator hall didn't open.
 CN PLACEHOLDER
-Двери за лифтами не открылись.
+Двери за лифтовой не открылись.
 
 ぼくは、アトラクションの方に回り込む様に、非常通路を走った。%K%P
 I frantically ran down the emergency corridor, moving from one attraction to the next.
@@ -566,7 +566,7 @@ CN PLACEHOLDER
 憩いの間を確認し、レムリア遺跡を見下ろすが、沙羅はいない。%K%P
 I checked the rest area and then looked down into the Lemurian Ruins, but Sara wasn't there.
 CN PLACEHOLDER
-Я проверил мини-парк и заглянул в Лемурийские развалины, но Сары там нет.
+Я проверил мини-парк и заглянул в Лемурийские Развалины, но Сары там нет.
 
 結局このフロアにはいなかったのか……？%K%P
 Maybe she wasn't on that floor...?
@@ -581,17 +581,17 @@ CN PLACEHOLDER
 急がなくては、ツヴァイトシュトックに戻れなくなる。%K%P
 If I didn't hurry, I wouldn't make it back to Zweiter Stock.
 CN PLACEHOLDER
-Если я не поспешу, то не вернусь на Цвайте Шток.
+Если я не поспешу, то не вернусь на Цвайте шток.
 
 急いで非常階段に戻らないと！%K%P
 I knew I had to hurry to the emergency stairs.
 CN PLACEHOLDER
-Чёрт, где же аварийный лестничный проход?..
+Чёрт, где же аварийный лестничный проход...?!
 
 非常階段を、ツヴァイトシュトックまで駆け戻る。%K%P
 I sprinted to the stairs and up to Zweiter Stock.
 CN PLACEHOLDER
-Я побежал по ступеням на Цвайте Шток.
+Я побежал по ступеням на Цвайте шток.
 
 かなりの時間をロスしてしまった。%K%P
 I had lost a lot of time.
@@ -606,7 +606,7 @@ CN PLACEHOLDER
 やっとの事で、ツヴァイトシュトックにもどった。%K%P
 Finally, I arrived back at Zweiter Stock.
 CN PLACEHOLDER
-Наконец, я оказался на Цвайте Шток.
+Наконец, я оказался на Цвайте шток.
 
 ＬｅＭＵの揺れはひどく、非常用ハッチの下は、すでに水で満たされている。%K%P
 LeMU was shaking terribly, and the area below the emergency hatch had already filled with water.
@@ -626,7 +626,7 @@ CN PLACEHOLDER
 腕の痛みさえも忘れ警備室まで必死で泳ぎ、中をのぞく。%K%P
 Swimming desperately to the security office, I forgot the pain in my arm and looked inside.
 CN PLACEHOLDER
-Забыв о боли в руке, я отчаянно поплыл к Офису охраны и заглянул внутрь.
+Забыв о боли в руке, я отчаянно поплыл к Офису Охраны и заглянул внутрь.
 
 沙羅の姿はない。%K%P
 Sara wasn't there.
@@ -641,7 +641,7 @@ CN PLACEHOLDER
 沙羅は……、どこに……。%K%P
 (Where could... Sara... be...?)
 CN PLACEHOLDER
-(Где же... Сара... может быть?..)
+(Где же...Сара...может быть...?)
 
 ぼくは、再度水に潜り、救護室へと泳ぎ進む。%K%P
 I dove into the water again and swam for the infirmary.
@@ -686,7 +686,7 @@ CN PLACEHOLDER
 いや、沙羅はツヴァイトシュトックのどこかにいる。%K%P
 No, I thought Sara was somewhere in Zweiter Stock.
 CN PLACEHOLDER
-Нет, думаю Сара где-то на Цвайте Шток.
+Нет, думаю Сара где-то на Цвайте шток.
 
 なぜかぼくはそう確信した。%K%P
 I didn't know why, but I was sure of it.
@@ -701,17 +701,17 @@ CN PLACEHOLDER
 それは無意味な確信なのかもしれない。%K%P
 I knew it might be a meaningless hunch.
 CN PLACEHOLDER
-Я знаю, возможно, это просто бессмысленное предчувствие.
+Я знаю, возможно это просто бессмысленное предчувствие.
 
 でも、ぼくと沙羅の、兄弟の絆が教えてくれている。%K%P
 But maybe it was our sibling bond talking to me.
 CN PLACEHOLDER
-Но, может, во мне говорят родственные связи?
+Но, может во мне говорят родственные связи?
 
 同じ血の流れる、沙羅の事を。%K%P
 Sara and I had the same blood in our veins.
 CN PLACEHOLDER
-У нас с Сарой в жилах одна кровь.
+У нас с Сарой в жилах течёт одна и таже кровь.
 
 そう思った。%K%P
 That was my thinking.
@@ -721,7 +721,7 @@ CN PLACEHOLDER
 ばかげた幻想かもしれないが、今はそれに賭けるしかない。%K%P
 It was probably my imagination, but it was all I had to bet on.
 CN PLACEHOLDER
-Но это единственное, на что я сейчас могу рассчитывать.
+Но, это единственное, на что я сейчас могу рассчитывать.
 
 非常ハッチをあけると、水はすでに通路を７、８割方埋めていた。%K%P
 I opened the emergency hatch and saw that water had already covered three-quarters of the corridor.
@@ -746,7 +746,7 @@ CN PLACEHOLDER
 ぼくはまず、警備室をのぞく。%K%P
 First, I looked in the security office.
 CN PLACEHOLDER
-Сперва я заглянул в Офис охраны.
+Сперва я заглянул в Офис Охраны.
 
 沙羅のものらしき熱源はない。%K%P
 There was no source of heat that looked like Sara.
@@ -766,7 +766,7 @@ CN PLACEHOLDER
 この先はエレベーターホールだし、そっちにはいないだろう。%K%P
 Ahead of me was the elevator hall. Again, no Sara.
 CN PLACEHOLDER
-Впереди лифты. И опять безрезультатно.
+Впереди лифтовая. И опять безрезультатно.
 
 ぼくは通路を泳ぎ戻る。%K%P
 I swam back up the corridor.
@@ -816,17 +816,17 @@ CN PLACEHOLDER
 沙羅「少年……、ううん、お兄ちゃん」%K%P
 Kid... I mean, onii-chan.
 CN PLACEHOLDER
-Малой... то есть братик.
+Кид.........то есть, братик.
 
 少年「沙羅……、無事だったか」%K%P
 Sara... You're alright.
 CN PLACEHOLDER
-Сара... ты цела.
+Сара....ты цела.
 
 沙羅「お兄ちゃん、どうして……」%K%P
 Why are you...?
 CN PLACEHOLDER
-Братик... зачем?..
+Братик......зачем...?
 
 少年「約束しただろ」%K%P
 I promised, didn't I?

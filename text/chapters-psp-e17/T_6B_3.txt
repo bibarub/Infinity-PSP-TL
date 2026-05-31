@@ -6,12 +6,12 @@ CN PLACEHOLDER
 恐る恐る一歩を踏み出す。%K%P
 Fearfully, I took a step forward.
 CN PLACEHOLDER
-Я боязливо сделал шаг вперёд.
+Боязненно, я сделал шаг вперёд.
 
 すると、俺達の到着を察知したかのように、部屋の照明が点いた。%K%P
 And suddenly, as if someone had noticed our arrival, the lights went on in the room.
 CN PLACEHOLDER
-И тут... зажглось освещение. Такое впечатление, словно кто-то заметил наше прибытие.
+И тут...зажглось освещение. Такое впечатление, словно кто-то заметил наше прибытие.
 
 武「誰かいるのか？」%K%P
 Is someone there?
@@ -31,7 +31,7 @@ CN PLACEHOLDER
 少年「わからないけど……ありうるね」%K%P
 I'm not sure, but... it's possible.
 CN PLACEHOLDER
-Не знаю, но... наверное.
+Не знаю, но...наверно.
 
 ここは潜水艇発着用のプールのようだった。%K%P
 It seemed that there was a pool where a small submarine could dock.
@@ -41,7 +41,7 @@ CN PLACEHOLDER
 プールは２層構造になっているらしく、海水が流入してくる様子はない。%K%P
 The pool was a two-layer structure, but there was no sign that seawater would flow in.
 CN PLACEHOLDER
-Бассейн, по-видимому, выполнен в виде двухслойной конструкции, исключающей приток морской воды.
+Несмотря на то, что помещение напрямую связано с океаном, внутри и снаружи одинаковое давление, что не даёт морской воде хлынуть вовнутрь.
 
 湿度は少し高いようだが、空調が充分に機能しているので不快感はなかった。%K%P
 It felt a little hot in there, but it seemed as if the air conditioning was still working properly.
@@ -51,12 +51,12 @@ CN PLACEHOLDER
 水浸しのドリットシュトックより快適かもしれないくらいだ。%K%P
 Perhaps the place was even more comfortable than the flooded Dritter Stock.
 CN PLACEHOLDER
-Пожалуй, в этом доке даже уютнее, чем на вечно сыром Дритте Шток.
+Пожалуй, здесь ещё уютней, чем на подтопленном Дритте шток.
 
 しかし……人の気配だけは、まったく感じられない。%K%P
 But... there was no sign of anyone.
 CN PLACEHOLDER
-Вот только... никого нет.
+Вот только...никого нет.
 
 武「とにかく、先へ行こう」%K%P
 Anyway, let's get to where we have to go.
@@ -66,27 +66,27 @@ CN PLACEHOLDER
 部屋の奥にあった水密扉を開けて、その向こうへと進む。%K%P
 We opened a watertight door at the other side of the room and continued deeper into the installation.
 CN PLACEHOLDER
-Мы открыли водоупорные двери на другом конце помещения и прошли вглубь сооружения.
+На другом конце помещения, мы открыли водоупорные двери и прошли вглубь сооружения.
 
 ＬｅＭＵの非常用通路と同じ……いや、それより狭いかもしれない通路が続いている。%K%P
 A passageway the same size as LeMU's emergency corridors... no, maybe even smaller, led off into the distance.
 CN PLACEHOLDER
-Проход здесь примерно таких же габаритов, что и аварийные коридоры LeMU... нет, наверное, даже уже.
+Проход здесь примерно таких же габаритов, что и аварийные коридоры LeMU...нет, наверно даже уже.
 
 なんとなく上の建物よりも無機的で、冷たい印象を受けた。%K%P
 For some reason, the whole place seemed colder, less alive than the structure above.
 CN PLACEHOLDER
-Складывается ощущение, что это место гораздо холоднее, менее «живое», чем строения наверху.
+Складывается ощущение, что это место гораздо холодней, менее 'живое', чем строения наверху.
 
 俺達が通路に足を踏み入れると、数歩先までの照明が自動的に点灯する。%K%P
 As we continued down the corridor, lights would go on automatically a few meters in front of us.
 CN PLACEHOLDER
-Мы идём всё дальше и дальше по коридору, а свет автоматически зажигается в нескольких метрах перед нами.
+Мы идём всё дальше и дальше по коридору, а свет автоматически зажигается, в нескольких метрах перед нами.
 
 確かに……これはコンピューター制御なのだろう。%K%P
 Well... it certainly seemed computer-controlled.
 CN PLACEHOLDER
-(Ну да... стопудово освещением управляет компьютер.)
+(Ну да...стопудово освещением управляет компьютер.)
 
 俺達の移動にあわせて、照明のあたる場所も少しずつ移動していく。%K%P
 As we continued moving, the lights followed us, lighting up only the areas around us.
@@ -101,7 +101,7 @@ CN PLACEHOLDER
 ＩＢＦも一部を除いて、水没してしまったのだろうか？%K%P
 I wondered if IBF had entirely flooded except for one part.
 CN PLACEHOLDER
-Неужели IBF тоже затопило за исключением одной части?
+Неужели IBF тоже затопило, за исключением одной части?
 
 ともかく、入れる部屋は限られている。%K%P
 Anyway, the number of areas that we could enter was limited.
@@ -116,22 +116,22 @@ CN PLACEHOLDER
 ハンドルを素早く廻し、扉を押し開ける。%K%P
 I quickly turned the handle and opened the door.
 CN PLACEHOLDER
-Впопыхах я повернул рычаг и открыл дверь.
+Впопыхах, я повернул рычаг и открыл дверь.
 
 少年と優が、抱えていたココを手近なベッドへと寝かせる。%K%P
 You and the Kid laid Coco down on a nearby table.
 CN PLACEHOLDER
-Ю и Малой уложили Коко на ближайший стол.
+Ю и Кид уложили Коко на ближайший стол.
 
 つぐみと俺は、研究員をゆっくり椅子に座らせる。%K%P
 Tsugumi and I slowly lowered the researcher down into a chair.
 CN PLACEHOLDER
-Мы с Цугуми осторожно усадили учёного в кресло.
+Цугуми и я осторожно усадили учёного в кресло.
 
 診療室には普通のベッドが数台あり、ＬｅＭＵの救護室と同じタイプの『Ｌ−ＭＲＩ』も置いてあった。%K%P
 There were a few ordinary beds in the examination room and the same kind of L-MRI that we had found in LeMU's infirmary.
 CN PLACEHOLDER
-В смотровом зале находятся несколько обычных кроватей, а также аналог L-MRI, что мы обнаружили в лазарете LeMU.
+В смотровом зале находятся несколько обычных кроватей, а также аналог 'Л-МРИ', что мы обнаружили в лазарете LeMU.
 
 他には、フィクションでしかお目にかかったことがないような謎の医療器械……。%K%P
 There were numerous medical instruments that looked like things you might only see in a science fiction movie.
@@ -151,12 +151,12 @@ CN PLACEHOLDER
 武「なぁ優、空の言ってた『高圧酸素治療装置』ってのはどれなんだ？」%K%P
 Hey, You? Where is that high-pressure oxygen thing that Sora was talking about?
 CN PLACEHOLDER
-Эй, Ю? Где та штуковина „оксигенотерапии высокого давления“, о которой говорила Сора?
+Эй, Ю? Где та штуковина 'кислородного лечения высокого давления', о которой говорила Сора?
 
 優「わ、わかんないよ、そんなの……」%K%P
 H-How should I know...?
 CN PLACEHOLDER
-П-понятия не имею...
+П-Понятия не имею...
 
 武「つぐみ、どうする？」%K%P
 Tsugumi, what should we do?
@@ -171,7 +171,7 @@ CN PLACEHOLDER
 研究員「ぐっ……ま、待て……！」%K%P
 *Gagh*... W-Wait!
 CN PLACEHOLDER
-*Кашляет* По-постойте!
+*кх кхе*.... По-постойте!
 
 咳き込みながら、研究員が口を開いた。%K%P
 The researcher coughed as he spoke.
@@ -181,37 +181,37 @@ CN PLACEHOLDER
 武「お、おいオッサン！　あんま動くな、大丈夫か！？」%K%P
 H-Hey, don't move! Are you okay!?
 CN PLACEHOLDER
-Э-эй, не шевелитесь! Вы в порядке?!
+Э-Эй, не шевелитесь! Вы в порядке!?
 
 研究員「無事とは言えんが、まだ生きてるよ……」%K%P
 I've been better... but at least I'm alive...
 CN PLACEHOLDER
-Бывало и лучше... хорошо хоть жив...
+Бывало и лучше...хорошо хоть жив...
 
 彼は目を閉じたままで、軽く手を上げて答える。%K%P
 With his eyes closed, he raised his hands weakly in response.
 CN PLACEHOLDER
-В ответ он вяло приподнял руки, не открывая глаз.
+С закрытыми глазами, в ответ он вяло приподнял руки.
 
 研究員「この匂い……ここは、ＩＢＦか……？」%K%P
 This smell... Is this IBF?
 CN PLACEHOLDER
-Этот запах... это IBF?..
+Этот запах...это...IBF...?
 
 研究員「戻ってきてしまったな……ゴホッ」%K%P
 So I'm back where I started... *cough*...
 CN PLACEHOLDER
-Значит, я вернулся... *Кашляет*
+Значит я вернулся... *кхе кх кх*
 
 武「あんた、やっぱりここの人間だったのか……」%K%P
 So you WERE working here...
 CN PLACEHOLDER
-Значит, вы всё-таки работали здесь...
+Значит вы всё-таки работали здесь...
 
 武「いや、それなら訊きたいことがある。高圧酸素治療装置ってのを探してるんだ」%K%P
 Well then, there's something I want to ask you. We're looking for some kind of high-pressure oxygen treatment device.
 CN PLACEHOLDER
-Ну, тогда нам нужна ваша помощь. Мы ищем штуковину под названием „система оксигенотерапии высокого давления“.
+Ну что же, тогда нам нужна ваша помощь. Мы ищем штуковину под названием 'устройство кислородного лечения высокого давления'.
 
 武「診療室まで来たのはいいが、俺達にはどれがその装置かわからない。頼む、教えてくれ」%K%P
 We've come as far as the examination room, but we don't have a clue what to look for. Can you help us? Please!
@@ -221,17 +221,17 @@ CN PLACEHOLDER
 研究員「酸素治療……ああ、ポッドだな」%K%P
 Oxygen treatment... Yeah, you're looking for the pods.
 CN PLACEHOLDER
-Кислородного лечения... да, вы говорите о модулях.
+Кислородного лечения...да, вы говорите о модулях.
 
 研究員「合金製のカプセルがあるはずだ、中にマットが敷いてある」%K%P
 There should be some alloy capsules with mats set inside of them.
 CN PLACEHOLDER
-Здесь должны стоять металлические капсулы с ковриками внутри.
+Здесь должны стоять металлические капсулы, с ковриками внутри.
 
 研究員「円筒形の柱にくっついてる奴だ……見えるかい？」%K%P
 They look like a bunch of cylinders stuck to a pillar... You see them?
 CN PLACEHOLDER
-Они прикреплены к цилиндрической колонне... Видите?
+Чем-то напоминает кучу цилиндров, приваренных к колонне... видите?
 
 武「ああ、目の前にある」%K%P
 Yeah, they're right in front of me.
@@ -241,12 +241,12 @@ CN PLACEHOLDER
 研究員「そいつが、そうだ……っ、ゲホッ」%K%P
 That's them... *cough*...
 CN PLACEHOLDER
-Это они... *Кашляет*
+Это они... *кхе*
 
 武「しっかりしろ！　……わかった。もうあまりしゃべらないでくれ」%K%P
 Hang in there...! We found them. So don't waste your energy talking anymore, okay?
 CN PLACEHOLDER
-Держитесь! Мы нашли их. Так что не тратьте силы на разговоры, хорошо?
+Держитесь...! Мы нашли их. Так что, не тратьте силы на разговоры, хорошо?
 
 咳き込んで口元を拭った研究員の手は、新たな血に染まっていた。%K%P
 New blood appeared on the researcher's closed hand as he wiped his mouth.
@@ -256,7 +256,7 @@ CN PLACEHOLDER
 研究員「あとはマニュアルを見てくれ……操作は……簡単なはずだ」%K%P
 Just take a look at the manual... They should be... easy to operate.
 CN PLACEHOLDER
-Просто прочтите инструкцию... с ними... легко обращаться.
+Просто прочтите инструкцию...с ними...легко обращаться.
 
 武「ああ。了解した……」%K%P
 Okay, I gotcha...
@@ -266,7 +266,7 @@ CN PLACEHOLDER
 研究員の腕から力が抜けていく。%K%P
 The strength left the researcher's hand...
 CN PLACEHOLDER
-Силы оставили руки учёного...
+Сила оставила руки учёного...
 
 倒れ込む寸前、俺は彼の肩を抱き止めて身体を支える。%K%P
 Just before he collapsed, I grabbed onto his shoulder to support his body.
@@ -301,7 +301,7 @@ CN PLACEHOLDER
 その中へと彼を、そっと運び入れる。%K%P
 I put him down gently inside.
 CN PLACEHOLDER
-Я осторожно положил учёного внутрь.
+Я осторожно положил его внутрь.
 
 再びボタンを押すと、カプセル・ポッドは静かに閉じた。%K%P
 When I pressed the button again, the capsule pod closed again silently.
@@ -311,12 +311,12 @@ CN PLACEHOLDER
 少年と優は、別のポッドにココを搬入し、横たえた。%K%P
 The Kid and You laid Coco down in another pod.
 CN PLACEHOLDER
-Малой и Ю уложили Коко во второй модуль.
+Кид и Ю уложили Коко во второй модуль.
 
 すぐにそのポッドのハッチを閉じる。%K%P
 The hatch to the pod closed soon after.
 CN PLACEHOLDER
-Вскоре закрылся и он.
+Вскоре его камера закрылась.
 
 武「マニュアルは？」%K%P
 Did you find the manual?
@@ -346,12 +346,12 @@ CN PLACEHOLDER
 優「これで大丈夫なはずよ」%K%P
 That should do it.
 CN PLACEHOLDER
-Надеюсь... всё обойдётся.
+Надеюсь...всё обойдётся.
 
 武「ＯＫ……」%K%P
 Okay...
 CN PLACEHOLDER
-Я тоже...
+Я тоже......
 
 コントロールパネルには、ポッドの中の様子がモニタリングされている。%K%P
 The condition of the people inside the pods was monitored and appeared on the control panel.
@@ -371,7 +371,7 @@ CN PLACEHOLDER
 俺達は数分間、それを眺めた。%K%P
 I watched them for a few minutes.
 CN PLACEHOLDER
-Несколько минут я неотрывно смотрел на них.
+Несколько минут я смотрел на них, неотрывно.
 
 ココと、名も知らぬ研究員……。%K%P
 Coco and the researcher whose name we didn't know...
@@ -381,7 +381,7 @@ CN PLACEHOLDER
 徐々にではあるが、正常な状態を取り戻しつつある。%K%P
 It was a slow process, but they both seemed to be gradually returning to normal.
 CN PLACEHOLDER
-Это долгий процесс, но кажется, будто они оба постепенно приходят в норму.
+Это долгий процесс, но, кажется, будто они оба постепенно приходят в норму.
 
 優「よかった……」%K%P
 I'm so relieved...
@@ -391,7 +391,7 @@ CN PLACEHOLDER
 つぐみ「ええ……よかったわ、本当に」%K%P
 Yeah... Tell me about it.
 CN PLACEHOLDER
-Да... ты права, обошлось.
+Да...ты права, обошлось.
 
 少年「うん……」%K%P
 Yeah...
@@ -416,27 +416,27 @@ CN PLACEHOLDER
 これで最悪の事態は、ひとまず免れたわけだ。%K%P
 It seemed as if we had escaped the worst for the moment.
 CN PLACEHOLDER
-Похоже, что самое худшее позади... по крайней мере, пока.
+Похоже, что самое худшее позади...по крайней мере, пока.
 
 武「さぁ……」%K%P
 Well...
 CN PLACEHOLDER
-Так...
+Ладушки......
 
 武「後は俺達、できるだけのことをしよう」%K%P
 We don't have time to hang around, you know?
 CN PLACEHOLDER
-Давайте только не будем слоняться тут без дела?
+Только, чур без дела не шататься, договорились?
 
 ＩＢＦは、ＬｅＭＵのほうとは状況が違うかもしれない。%K%P
 We didn't know if the situation at IBF was any different than LeMU.
 CN PLACEHOLDER
-Мы не знаем, хуже ли ситуация в IBF по сравнению с LeMU, или наоборот...
+Мы не знаем, хуже ли ситуация в IBF, по сравнению с LeMU, или наоборот...
 
 生存者が他にいないか、脱出経路、通信……。%K%P
 There might have been other survivors, or a way out, even communications...
 CN PLACEHOLDER
-В конце концов, могут быть ещё выжившие... или способ выбраться отсюда... или даже средства связи...
+В конце концов, могут быть ещё выжившие...или способ выбраться отсюда...или даже средства связи...
 
 例のＴＢに関する情報も手に入れておいたほうがいい。%K%P
 We could possibly even find information about TB.
@@ -451,12 +451,12 @@ CN PLACEHOLDER
 全員が意見一致し、俺・つぐみ・少年がＩＢＦ内を調べることになった。%K%P
 Everyone agreed, so Tsugumi, the Kid, and I went looking around IBF.
 CN PLACEHOLDER
-Все согласились, поэтому Цугуми, Малой и я начали обход.
+Все согласились, поэтому Цугуми, Кид и я начали обход.
 
 メンバー内で一番医療知識のありそうな優が、ピピと一緒に、ココと研究員の付き添いとして診療室に残った。%K%P
 You had the most medical knowledge, so she stayed in the examination room with Pipi to look after Coco and the researcher.
 CN PLACEHOLDER
-Поскольку у Ю ощутимый багаж медицинских знаний, она осталась в смотровом зале вместе с Пипи приглядывать за Коко и учёным.
+Поскольку у Ю ощутимый багаж медицинских знаний, она осталась в смотровом зале вместе с Пипи, приглядывать за Коко и учёным.
 
 未知の場所と言うこともあり、俺達３人は固まって行動した。%K%P
 Because we were unfamiliar with the area, the three of us set out together to look around.
@@ -501,7 +501,7 @@ CN PLACEHOLDER
 僅かな隙間から垣間見たその部屋の中では……%K%P
 From what I had seen during the brief moment the door was open...
 CN PLACEHOLDER
-Однако пока та была открыта, я увидел...
+Однако, пока та была открыта, я увидел...
 
 数人の研究員が、全員喉を掻きむしって、血まみれになって絶命していたのだ。%K%P
 A few researchers covered in blood had died while clawing at their throats.
@@ -516,12 +516,12 @@ CN PLACEHOLDER
 ＬｅＭＵと同等か、それ以上の非常事態が発生したであろうことは、想像に難くなかった。%K%P
 It wasn't hard to imagine that the situation had been the same or worse than what happened at LeMU.
 CN PLACEHOLDER
-Несложно представить, что ситуация здесь была точно такая же, как и в LeMU, если не хуже.
+Не сложно представить, что ситуация здесь была точно такая же, как и в LeMU, если не хуже.
 
 別の部屋はまったくの無人で、複数のコンピューター端末が置いてあった。%K%N
 Another room was empty of people, and there were a few computer terminals there.
 CN PLACEHOLDER
-В другой комнате никого нет – лишь несколько компьютерных терминалов.
+В другой комнате никого нет - лишь несколько компьютерных терминалов.
 
 端末を操作すると、そこに残された資料を、少しだが閲覧することができた。%K%N
 Operating the terminals, we were able to scan through some of the information left there.
@@ -531,22 +531,22 @@ CN PLACEHOLDER
 ティーフブラウに関しての情報はこうだ――%K%O
 There was some information about Tief Blau...
 CN PLACEHOLDER
-В одном из них оказалась информация касательно Tief Blau...
+В одном из них оказалась информация касательно Tief Blau—
 
 名称：Ｔｉｅｆ　Ｂｌａｕ%K%N
 Name: Tief Blau
 CN PLACEHOLDER
-Название: Tief Blau.
+Название : Tief Blau.
 
 症状：発熱、悪寒、頭痛、筋肉痛、食欲不振などにはじまり、さらに嘔吐、下痢、腹痛など。%K%N
 Symptoms: Fever, chills, headache, aching muscles, loss of appetite, vomiting, diarrhea, stomach pains, etc.
 CN PLACEHOLDER
-Симптомы: жар, озноб, головная боль, спазмы в мышцах, потеря аппетита, рвота, диарея, боль в желудке...
+Симптомы: Жар, озноб, головная боль, спазмы в мышцах, потеря аппетита, рвота, диарея, желудочные колики...
 
 進行すると口腔、歯肉、結膜、鼻腔、皮膚、消化管など全身に出血傾向がみられ死亡。%K%N
 As it progresses, the patient begins to hemorrhage from the mouth, gums, conjunctiva, nasal cavity, the skin, and the alimentary canal, and has a high probability of dying.
 CN PLACEHOLDER
-По мере развития болезни у пациента начинают кровоточить рот, дёсны, слизистые оболочки глаз, носовая полость, кожа, а также пищеварительный тракт, что чаще всего приводит к смерти.
+Во время течения, у пациента начинает кровоточить рот, дёсны, слизистые оболочки глаз, носовая полость, кожа, а так же пищеварительный тракт, что приводит к смерти.
 
 発症後の死亡率は８５％以上。%K%N
 Death rate after contracting the disease: over 85％.%K%O
@@ -566,7 +566,7 @@ CN PLACEHOLDER
 …………。%K%N
 .........
 CN PLACEHOLDER
-...
+.........
 
 それ以上のことは、データの一部が破損してしまっていて、わからなかった。%K%O
 After that point, all the data was corrupted, and it was not clear what else was written.
@@ -576,17 +576,17 @@ CN PLACEHOLDER
 他には――偶然だが、興味深い記述が見つかった。%K%N
 Other than that, we came across some interesting information by accident.
 CN PLACEHOLDER
-Но... когда мы случайно наткнулись на деловые записи...
+Но...когда мы случайно наткнулись на деловые записи...
 
 業務日誌の片隅に……%K%N
 In the corner of a business log...
 CN PLACEHOLDER
-Почти в самом конце одного из документов нас ждал большой сюрприз...
+Почти в самом конце одного из документов, нас ждал большой сюрприз...
 
 『ＩＢＦ来館ゲスト登録：八神ココ』%K%N
 “IBF Visitor Registry: Yagami Coco”
 CN PLACEHOLDER
-«Реестр посещений IBF: Ягами Коко»
+'Реестр Посещений IBF: Ягами Коко'
 
 ココの名前が記されていたのだ……。%K%N
 Coco's name had been listed...
@@ -596,52 +596,52 @@ CN PLACEHOLDER
 それを少し遡ると、さらに、誰かが書いた個人的なメモらしきものが残っていた。%K%O
 Looking further into the file, there seemed to be a personal memo written by somebody.
 CN PLACEHOLDER
-Изучив файл более тщательно, мы обнаружили нечто вроде чьей-то личной заметки.
+Изучив файл более тщательно, мы обнаружили нечто вроде чьей-то личной памятки.
 
 『久し振りに娘に会う』%K%N
 “I get to see my daughter for the first time in a while.”
 CN PLACEHOLDER
-«Да уж, давненько я не виделся со своей дочкой.»
+'Да уж, давненько я не виделся со своей дочкой.'
 
 『娘の学校はこの連休絡みで、１０日間ほど休みらしい』%K%N
 “Her school is on vacation, so she has a ten-day break.”
 CN PLACEHOLDER
-«Сейчас в её школе каникулы, поэтому эти 10 дней она отдыхает.»
+'Сейчас в её школе каникулы, поэтому эти 10 дней она отдыхает.'
 
 『私は随分長いことウイルス研究でここに缶詰になっているから、うらやましい話ではある……』%K%O
 “I've been trapped for so long in this tin can doing virus research that I'm jealous...”
 CN PLACEHOLDER
-«Честно говоря, я так долго торчал в этой тесной консервной банке на пару с треклятым вирусом, что завидую своей малышке...»
+'Честно говоря, я так долго торчал в этой тесной консервной банке на пару с треклятым вирусом, что завидую своей крохе...'
 
 『さておき、ＩＢＦの見学許可が特別に下りたと伝えたら、すぐに行くからと明るい返事がかえってきた』%K%N
 “That aside, when I told her that special permission had been granted for her to come down and see IBF, she sent me a happy reply saying she would.”
 CN PLACEHOLDER
-«Одно хорошо – когда я сказал ей, что выбил для неё особое разрешение на посещение IBF, она прислала радостный ответ, в котором дала согласие на свой визит.»
+'Одно хорошо -- когда я сказал ей, что выбил для неё особое разрешение на посещение IBF, она прислала радостный ответ, в котором дала согласие на свой визит.'
 
 『メールは度々交換していると思うが、顔を合わせるのは何ヶ月振りだろう？』%K%N
 “We've exchanged mail every once in a while, but I wonder how long it's been since we've actually seen each other?”
 CN PLACEHOLDER
-«Мы переписываемся довольно часто, но если подумать, в действительности мы не виделись очень и очень давно.»
+'Мы переписываемся довольно часто, но, если подумать, в действительности мы не виделись очень и очень давно.'
 
 『父親の顔を忘れていなければいいのだが』%K%N
 “I'll just be happy if she hasn't forgotten what I look like.”
 CN PLACEHOLDER
-«Буду счастлив, если она помнит, как я выгляжу.»
+'Буду счастлив, если она помнит, как я выгляжу.'
 
 『Ｔ．Ｙ』%K%O
 “T.Y.”
 CN PLACEHOLDER
-«T. Y.»
+'T.Y.'
 
 Ｔ．Ｙ……恐らく、八神氏のイニシャルだろう。%K%N
 T.Y.... I thought they were probably the initials of Doctor Yagami, Coco's dad.
 CN PLACEHOLDER
-T. Y... Должно быть, это латинские инициалы господина Ягами, отца Коко.
+T.Y.... Должно быть, это латинские инициалы господина Ягами, отца Коко.
 
 つまり、ココは５月１日以前に、ＩＢＦを一度訪れていたのだ。%K%N
 Which meant that Coco had visited IBF once before May 1st.
 CN PLACEHOLDER
-Это значит, что Коко была в IBF ещё до 1 мая.
+А это значит, что Коко была в IBF ещё до 1 Мая.
 
 自分の父親に会う為に……。%K%O
 To meet her father...
@@ -656,7 +656,7 @@ CN PLACEHOLDER
 俺・少年・つぐみは揃って、診療室に戻った。%K%P
 The Kid, Tsugumi, and I all went back to the examination room.
 CN PLACEHOLDER
-Мы с Цугуми и Малым вернулись в смотровой зал.
+Поэтому Кид, Цугуми и я вернулись в смотровой зал.
 
 武「優、状況は？」%K%P
 You, how're they doing?
@@ -666,12 +666,12 @@ CN PLACEHOLDER
 優「あ……うん。今のところは大丈夫だよ」%K%P
 Ah... Yeah. It looks like they're doing okay for now.
 CN PLACEHOLDER
-Э-э... ага. Кажется, пока с ними всё в порядке.
+Эээ...ага. Кажется, пока с ними всё в порядке.
 
 優は少し疲れた様子で椅子に座って、ポッドのコントロールパネルに向かっていた。%K%P
 You looked tired as she sat down and faced the pod's control panel.
 CN PLACEHOLDER
-Сидя лицом к панели управления модулем, устало ответила Ю.
+Устало, сидя лицом к панели управления модулем, ответила Ю.
 
 ポッドから送られてくる生体反応モニターを、俺も覗いてみる。%K%P
 I looked at the monitor showing vital signs.
@@ -681,17 +681,17 @@ CN PLACEHOLDER
 血圧、脈拍、呼吸……どれも安定に向かっているようだ。%K%P
 Blood pressure, heart rate, respiration rate... They all seemed to have stabilized for the moment...
 CN PLACEHOLDER
-Кровяное давление, частота сердечных сокращений, интенсивность дыхания... пока что все они стабилизировались...
+Кровяное давление, частота сердечных сокращений, интенсивность дыхания...пока что все они стабилизировались...
 
 優「そうだ、倉成。さっきここの端末で、医療用データベースを確認したんだけど……」%K%P
 Oh yeah, Kuranari. I checked the medical database on this terminal earlier, but...
 CN PLACEHOLDER
-Ах да, Куранари. Я проверила медицинскую базу данных на этом терминале, но...
+Ах да, Куранари. Чуть раньше, я проверила медицинскую базу данных на этом терминале, но...
 
 ためらいがちに、優は口を開く。%K%P
 I hesitantly asked You...
 CN PLACEHOLDER
-(Но?..)
+(Но...?)
 
 武「ああ、何かわかったのか？」%K%P
 Yeah, did you find something?
@@ -706,7 +706,7 @@ CN PLACEHOLDER
 優「ＴＢウイルスの治療法……決定的なものはまだ発見されていないみたい」%K%P
 It looks as if they still haven't found any definite way... to treat the Tief Blau virus.
 CN PLACEHOLDER
-Похоже, что они так и не нашли действенного лечения... вируса Tief Blau.
+Похоже, что они так и не нашли действенной вакцины...против вируса Tief Blau.
 
 優「対処療法として、例のオレンジ・アンプルの注射で症状を一時的に緩和することはできるけど……」%K%P
 Although the symptoms can be temporarily treated by injecting that orange serum...
@@ -716,32 +716,32 @@ CN PLACEHOLDER
 優「あとは確率の低い自然治癒を待つしか、方法はないらしいの」%K%P
 Otherwise, the only option is to hope for the small chance that it will clear up by itself.
 CN PLACEHOLDER
-Остаётся только надеяться, что организм справится сам.
+Выходит, можно лишь надеяться на маленький шанс, что организм переболеет сам.
 
 武「そうか……」%K%P
 Oh...
 CN PLACEHOLDER
-Вот как...
+Боже...
 
 武「辛いな……」%K%P
 That sucks...
 CN PLACEHOLDER
-Чёрт...
+Только не это...
 
 少年「えっ？」%K%P
 Huh?
 CN PLACEHOLDER
-Что?
+〜〜〜?
 
 少年「それって、どういうこと？」%K%P
 What do you mean?
 CN PLACEHOLDER
-Что это значит?
+Что это...значит?
 
 優「えーと……」%K%P
 Um...
 CN PLACEHOLDER
-Э-э...
+Эээ〜тооо...
 
 優が言い淀むと、つぐみが代わりに答える。%K%P
 You had trouble finding the words, so Tsugumi took over for her.
@@ -756,12 +756,12 @@ CN PLACEHOLDER
 つぐみ「ココが治るには、ココ自身の免疫機能が頑張るしかないってこと」%K%P
 If Coco is going to heal, her immune system is going to have to work a little harder.
 CN PLACEHOLDER
-Чтобы Коко поправилась, её иммунная система должна как следует постараться.
+Чтобы Коко поправилась, её имунная система должна как следует поработать.
 
 つぐみ「私達は彼女をポッドに入れて、あとは祈るしかない」%K%P
 We've brought her to the treatment pod, so all we can do now is hope.
 CN PLACEHOLDER
-Мы донесли её до лечебного модуля. Всё, что нам остаётся – надеяться на лучшее.
+Мы донесли её до лечебного модуля. Всё, что нам остаётся - надеяться на лучшее.
 
 優「そうだね、そういうことになる」%K%P
 Yeah, that's all we can do.
@@ -776,12 +776,12 @@ CN PLACEHOLDER
 少年「ココは、治らないの？」%K%P
 Coco isn't going to get better?
 CN PLACEHOLDER
-Коко... не поправится?
+Коко...не поправится?
 
 少年は泣きそうな顔になっていた。%K%P
 The Kid looked like he was about to cry.
 CN PLACEHOLDER
-Похоже, Малой на грани истерики.
+Похоже, Кид на грани истерики.
 
 武「治らないとは言ってない」%K%P
 Nobody said that.
@@ -791,17 +791,17 @@ CN PLACEHOLDER
 武「ただ、治るかどうかは……ココ本人の生きる力に、賭けるしかないんだ」%K%P
 Whether she gets better or not... is up to Coco's will to live.
 CN PLACEHOLDER
-Поправится ли Коко или нет... зависит от неё самой, от её воли.
+Поправится ли Коко или нет...зависит от неё самой, от её воли.
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年はココの眠るカプセル・ポッドに歩み寄っていく。%K%P
 The Kid walked over to the pod where Coco was sleeping.
 CN PLACEHOLDER
-Малой подошёл к капсулевидному модулю.
+Кид подошёл к капсулевидному модулю.
 
 少年「ココ……」%K%P
 Coco...
@@ -831,7 +831,7 @@ CN PLACEHOLDER
 優「高圧酸素治療の他にも、レーザーでの減菌やら、簡単な手術のできる機能も備わってるらしいし……」%K%P
 It seems that this pod can also do laser disinfecting, as well as simple surgery, in addition to the oxygen treatment.
 CN PLACEHOLDER
-Кажется, помимо кислородного лечения этот модуль может ещё производить лазерное обеззараживание, а также простейшую хирургию...
+Кажется, помимо кислородного лечения, ещё этот модуль может производить лазерное обеззараживание, а также простейшую хирургию...
 
 優「使い方によっては、ハイバネーションすら可能のようだけど……」%K%P
 And depending on how you use it, even cryogenic suspension...
@@ -846,7 +846,7 @@ CN PLACEHOLDER
 武「なんだ、それは……優？」%K%P
 What's that... You?
 CN PLACEHOLDER
-Это ещё что... Ю?
+Это ещё что...Ю?
 
 優「わからない、マニュアルにそうあっただけ……」%K%P
 I'm not sure. It was just in the manual...
@@ -861,27 +861,27 @@ CN PLACEHOLDER
 優「今は信じて、待つしかないの」%K%P
 All we can do is have faith and wait.
 CN PLACEHOLDER
-Всё, что нам остаётся – верить и ждать.
+Всё, что нам остаётся - верить и ждать.
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ピピ「く〜ん……」%K%P
 *Whine*...
 CN PLACEHOLDER
-*писк*
+*писк*...
 
 ピッ！！%K%P
 Beeep!
 CN PLACEHOLDER
-*писк*
+— Писк!
 
 コントロールパネルのモニターから、鋭い電子音が返ってきた。%K%P
 A sharp alarm sounded from the control panel monitor.
@@ -896,12 +896,12 @@ CN PLACEHOLDER
 少年もこちらに走って来る。%K%P
 The Kid ran over to where we were.
 CN PLACEHOLDER
-Малой подбежал к нам.
+Кид подбежал к нам.
 
 研究員「ぐうっ……！！」%K%P
 Aagh...!
 CN PLACEHOLDER
-Гха-а-а!!!
+*кху кхо гхааа*...!
 
 苦悶の表情を浮かべた研究員の顔が、映し出された。%K%P
 An agonized expression came over the face of the researcher.
@@ -916,12 +916,12 @@ CN PLACEHOLDER
 優「ああっ！！」%K%P
 Aaah!
 CN PLACEHOLDER
-А-а-агх!
+Ааагх!
 
 武「お、オッサン！！」%K%P
 H-Hey, man!
 CN PLACEHOLDER
-Э-эй, вы чего?!
+Г-Господи!!!
 
 彼は激しく咳き込み、喉を掻きむしるようにして……%K%P
 The researcher coughed violently and clawed at his throat.
@@ -936,7 +936,7 @@ CN PLACEHOLDER
 研究員「おおおおお……！！」%K%P
 Aaaaaaghhh...!
 CN PLACEHOLDER
-Гха-а-а-агх-х-х-х-х!..
+Гххооооооо...! Гхааааааааагххххххх...!
 
 肌からは血色が急速に失われていく。%K%P
 The color quickly drained from his skin.
@@ -946,27 +946,27 @@ CN PLACEHOLDER
 呼吸は荒くなり、低くうめくような声を吐いている。%K%P
 His breathing became shallow, and he groaned in a low voice.
 CN PLACEHOLDER
-Дыхание участилось, и он застонал низким голосом.
+Дыхание стало учащённым, и он застонал низким голосом.
 
 優「そんな……！　いきなり容態が変わるなんて！」%K%P
 No! I can't believe his condition would change like this!
 CN PLACEHOLDER
-Нет!.. Так быстро?.. Я не верю!
+Нет...! Так быстро...?! Я не верю!
 
 武「オッサン！　それ以上喉をひっかくな！　破れちまうぞ！」%K%P
 Hey, man! Stop grabbing at your throat like that! You'll crush it!
 CN PLACEHOLDER
-Э-эй! Не хватайтесь так за своё горло! Вы его раздавите!
+Э-Эй! Не хватайтесь так за своё горло! Вы его раздавите!
 
 研究員「ぐが……っ」%K%P
 Gaaguh...
 CN PLACEHOLDER
-Гха-а-а-а-а!!!
+*гххах*...*кхе кхе*...
 
 研究員「は……はぁ……はぁ」%K%P
 *Huuugh*... *Huuugh*... *Huuugh*...
 CN PLACEHOLDER
-*тяжело дышит*
+*гххххх*...*гххххх*...*гххххх*...
 
 自らの首を苦しめていた手を、彼はゆっくりと退ける。%K%P
 He slowly lowered the hands which he been thrashing at his throat with.
@@ -976,7 +976,7 @@ CN PLACEHOLDER
 武「オッサン、大丈夫かっ！？」%K%P
 Hey, man, are you alright!?
 CN PLACEHOLDER
-Вы в порядке?!
+Вы в порядке!?
 
 研究員「いや……」%K%P
 No...
@@ -986,7 +986,7 @@ CN PLACEHOLDER
 研究員「も……ここ、まで、だ……な」%K%P
 This... is as far... as I make it.
 CN PLACEHOLDER
-Моё... время... на исходе.
+Моё...время...на исходе.
 
 研究員はかろうじて、息を繋いでいた。%K%P
 The researcher was barely breathing.
@@ -1006,27 +1006,27 @@ CN PLACEHOLDER
 だが、新たな呼吸が続いてくれない。%K%P
 But wasn't able to bring in air.
 CN PLACEHOLDER
-...но лёгкие уже не усваивают кислород...
+...но, лёгкие уже не усваивают кислород....
 
 研究員「これ、も、報い、か……」%K%P
 This... is... my... reward...
 CN PLACEHOLDER
-Значит... я... это... заслужил...
+Значит...я...это...заслужил...
 
 優「！！」%K%P
 !
 CN PLACEHOLDER
-!
+〜〜〜!!
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優が必死でマニュアルをめくり、コントロールパネルを探る。%K%P
 You pored over the manual and desperately searched the control panel.
 CN PLACEHOLDER
-Ю отчаянно листала инструкцию и пыталась разобраться с панелью управления.
+Ю вцепилась в инструкцию и отчаянно просматривает панель управления.
 
 だが……。%K%P
 But...
@@ -1056,7 +1056,7 @@ CN PLACEHOLDER
 優「ううっ……」%K%P
 Aaah...
 CN PLACEHOLDER
-А-а-ах...
+〜〜...〜〜〜〜〜〜〜〜〜...!
 
 彼女は、嗚咽を漏らしていた。%K%P
 She burst into tears.
@@ -1066,17 +1066,17 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみと少年も、張り詰めた表情でモニターを見つめていた。%K%P
 Tsugumi and the Kid gazed at the monitor with strained expressions.
 CN PLACEHOLDER
-Цугуми и Малой напряжённо уставились в монитор.
+Цугуми и Кид напряжённо уставились в монитор.
 
 研究員の生体反応が、弱まっていく。%K%P
 The researcher's vital signs were getting weaker.
@@ -1086,17 +1086,17 @@ CN PLACEHOLDER
 研究員「……むすめ、を……」%K%P
 ...My daughter...
 CN PLACEHOLDER
-...Моя дочь...
+...моя дочь...
 
 研究員「娘を……頼む……ぞ」%K%P
 Take care of... My daughter...
 CN PLACEHOLDER
-Дочь... Позаботьтесь... о ней...
+Дочь...берегите...её...
 
 研究員「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ふと、彼は笑ったように見えた。%K%P
 He looked as though he was smiling.
@@ -1121,7 +1121,7 @@ CN PLACEHOLDER
 ピーーーー…………。%K%P
 Beeeeeeeep...
 CN PLACEHOLDER
-*писк*
+Пииииииииск......
 
 カプセル・ポッドの生体リードは空しく、長い無機質な電子音を鳴らした。%K%P
 The life readings from the capsule pod went blank, and an electronic alarm sounded for what seemed like forever.
@@ -1131,7 +1131,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 救えなかった。%K%P
 We couldn't save him.
@@ -1146,27 +1146,27 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ピピ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 俺はパネルに手を伸ばして、鳴り続ける電子音を止めた。%K%P
 I reached out my hand to the panel and turned off the alarm.
@@ -1176,7 +1176,7 @@ CN PLACEHOLDER
 武「ココの……容態は？」%K%P
 How is... Coco?
 CN PLACEHOLDER
-Как... Коко?
+Как...Коко?
 
 優「正常……」%K%P
 Normal...
@@ -1191,17 +1191,17 @@ CN PLACEHOLDER
 優「今のところは、問題、ないよ……」%K%P
 There doesn't seem to be anything wrong for the moment...
 CN PLACEHOLDER
-Сейчас ей... ничего не угрожает...
+Сейчас ей...ничто не угрожает...
 
 武「そうか……わかった」%K%P
 Okay... Thanks.
 CN PLACEHOLDER
-Хорошо... спасибо.
+Хорошо...спасибо.
 
 武「オッサン……後で丁重に、葬ってやらないとな……」%K%P
 We'll have to make sure... he gets a proper burial...
 CN PLACEHOLDER
-Мы должны позаботиться... чтобы его похоронили по-человечески...
+Мы должны позаботиться...чтобы его похоронили по-человечески...
 
 優「……うん」%K%P
 ...Yeah.
@@ -1221,12 +1221,12 @@ CN PLACEHOLDER
 だが、時間は確実に過ぎていく。%K%P
 But time rolled ever forward.
 CN PLACEHOLDER
-Но время не щадит никого.
+Но, время не щадит никого.
 
 俺達が停滞し続けることを許してはくれない。%K%P
 We didn't have any more room to play around.
 CN PLACEHOLDER
-Мы больше не можем позволить себе бездействовать.
+У нас больше нет времени на забавы.
 
 重くなる足を引きずって、もう一度ＩＢＦの行ける場所すべてを確認した。%K%P
 Dragging my legs, which seemed suddenly very heavy, I went to check all the areas in IBF once again.
@@ -1236,12 +1236,12 @@ CN PLACEHOLDER
 こうなっては、一刻も早く脱出するしかない。%K%P
 We had to find a way out as soon as possible.
 CN PLACEHOLDER
-Мы должны найти выход отсюда и как можно скорее.
+Мы должны найти выход отсюда, и как можно скорей.
 
 再度の探索……。%K%P
 After searching again...
 CN PLACEHOLDER
-Но после повторного обхода...
+Но, после повторного обхода...
 
 その結果、わかったことだが……%K%P
 The only thing we realized was...
@@ -1266,7 +1266,7 @@ CN PLACEHOLDER
 つまり――%K%P
 Meaning—
 CN PLACEHOLDER
-Значит...
+Значит —
 
 退路は完全に断たれた。%K%P
 All routes of escape had been cut off.
@@ -1276,5 +1276,5 @@ CN PLACEHOLDER
 時刻は間もなく、ＬｅＭＵの最速圧潰推定時刻……５月６日午後４時３０分を過ぎようとしていた。%K%P
 We were quickly approaching the earliest estimated time for LeMU's implosion... It was almost May 6th, 4:30 p.m.
 CN PLACEHOLDER
-Мы быстро приближаемся к первой расчётной временной точке, за которой последует затопление LeMU... 6 мая, 16:30.
+Мы быстро приближаемся к первой расчётной временной точке, за которой последует затопление LeMU....6 Мая, 16:30.
 

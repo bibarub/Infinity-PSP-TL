@@ -6,7 +6,7 @@ CN PLACEHOLDER
 ぼくと優は会議室に向かった。%K%N
 You and I headed to the conference room.
 CN PLACEHOLDER
-Мы с Ю пошли в сторону Комнаты переговоров.
+Мы с Ю пошли в сторону Комнаты Переговоров.
 
 特に目的があったわけじゃない。%K%N
 We didn't have any specific objective in mind.
@@ -21,42 +21,42 @@ CN PLACEHOLDER
 誰が言い出したわけでもないけれど、いつの間にか、会議室はぼくらにとっての『集合場所的な存在』になっていた。%K%O
 It wasn't that anyone had said we would meet there; somehow, it had just become our meeting place and hangout.
 CN PLACEHOLDER
-Так уж вышло, что Комната переговоров стала для нас чем-то вроде «места сбора».
+И уж тем более, никто и не договаривался вновь устроить там сбор.
 
 会議室にはみんなが揃っていた。%K%N
 We were all there.
 CN PLACEHOLDER
-И сейчас там уже были все.
+Но, как бы то ни было, пришли все.
 
 空と武は、昨夜のぼくの様子を『カニみたいだった』と言って冷やかした。%K%N
 Sora and Takeshi teased me, saying that the night before, I had been flailing around like a crab on its back.
 CN PLACEHOLDER
-Сора с Такэси подшучивали надо мной, говоря, что я бился в конвульсиях как краб брюхом кверху.
+Сора с Такеши достали меня рассказами о том, как я бился в конвульсиях как краб кверху брюхом.
 
 『心配したけど、その感じなら大丈夫そうだ』というようなことも言った。%K%N
 They said that I had worried them, but that they thought I seemed better.
 CN PLACEHOLDER
-Добавив при этом, что сильно из-за меня поволновались, но сейчас всё уже вроде в порядке.
+Сказали, что сильно из-за меня поволновались, и что теперь внешне мне вроде как лучше.
 
 ふたりの話は、沙羅から聞いた内容とほとんど同じだった。%K%N
 It was almost exactly the same thing I had heard from Sara.
 CN PLACEHOLDER
-Сказанное ими совпадало с тем, что я уже слышал от Сары.
+Вообще-то почти то же самое я сегодня слышал из уст Сары.
 
 『なぜ鏡を見て錯乱したのか？』――ふたりは尋ねたが、ぼくは適当にお茶を濁して切り抜けた。%K%O
 They asked why I had gone crazy when I saw the mirror—I avoided giving a clear-cut answer.
 CN PLACEHOLDER
-Ещё они спросили, что же такого я увидел в зеркале. Я дал расплывчатый ответ, чтобы уйти от их вопроса.
+И, конечно же, они спросили, что на меня нашло, когда я посмотрел в зеркало -- но я дал им чёткий ответ - 'приступ эпилепсии'.
 
 本当の理由を説明したところで、この複雑な状況を理解してもらえるとは思えなかったからだ。%K%N
 I didn't think that I could get them to understand a situation as complex as that by just telling them the real reason up front.
 CN PLACEHOLDER
-Не думаю, что они смогли бы понять всю сложность ситуации, даже если бы я сказал им правду.
+Не думаю, что они смогут понять и, главное, проникнуться, если рассказать им правду.
 
 空と武は、ぼくの適当な説明に一応は納得してくれたようだった。%K%O
 It appeared that Takeshi and Sora were satisfied with my evasive explanation.
 CN PLACEHOLDER
-Такэси и Сору, судя по всему, устроил мой ответ.
+Видимо Такеши и Сору устроил мой уклончивый ответ.
 
 その後……。%K%N
 After that...
@@ -66,7 +66,7 @@ CN PLACEHOLDER
 ぼくと沙羅は会議室に向かった。%K%N
 Sara and I headed to the conference room.
 CN PLACEHOLDER
-Мы с Сарой пошли в сторону Комнаты переговоров.
+Мы с Сарой пошли в сторону Комнаты Переговоров.
 
 特に目的があったわけじゃない。%K%N
 We didn't have any specific objective in mind.
@@ -81,67 +81,67 @@ CN PLACEHOLDER
 誰が言い出したわけでもないけれど、いつの間にか、会議室はぼくらにとっての『集合場所的な存在』になっていた。%K%O
 It wasn't that anyone had said we would meet there; somehow, it had just become our meeting place and hangout.
 CN PLACEHOLDER
-Так уж вышло, что Комната переговоров стала для нас чем-то вроде «места сбора».
+И уж тем более, никто и не договаривался вновь устроить там сбор.
 
 会議室にはみんなが揃っていた。%K%N
 We were all there.
 CN PLACEHOLDER
-И сейчас там уже были все.
+Но, как бы то ни было, пришли все.
 
 優と空と武は、昨夜のぼくの様子を『カニみたいだった』と言って冷やかした。%K%N
 Sora and Takeshi teased me, saying that the night before, I had been flailing around like a crab on its back.
 CN PLACEHOLDER
-Ю, Сора и Такэси подшучивали надо мной, говоря, что я бился в конвульсиях как краб брюхом кверху.
+Сора с Такеши достали меня рассказами о том, как я бился в конвульсиях как краб кверху брюхом.
 
 『心配したけど、その感じなら大丈夫そうだ』というようなことも言った。%K%N
 They said that I had worried them, but that they thought I seemed better.
 CN PLACEHOLDER
-Добавив при этом, что сильно из-за меня поволновались, но сейчас всё уже вроде в порядке.
+Сказали, что сильно из-за меня поволновались, и что теперь внешне мне вроде как лучше.
 
 ３人の話は、沙羅から聞いた内容とほとんど同じだった。%K%N
 It was almost exactly the same thing I had heard from Sara.
 CN PLACEHOLDER
-Сказанное ими совпадало с тем, что я уже слышал от Сары.
+Вообще-то почти то же самое я сегодня слышал из уст Сары.
 
 『なぜ鏡を見て錯乱したのか？』――３人は尋ねたが、ぼくは適当にお茶を濁して切り抜けた。%K%O
 They asked why I had gone crazy when I saw the mirror—I avoided giving a clear-cut answer.
 CN PLACEHOLDER
-Ещё они спросили, что же такого я увидел в зеркале. Я дал расплывчатый ответ, чтобы уйти от их вопроса.
+И, конечно же, они спросили, что на меня нашло, когда я посмотрел в зеркало -- но я дал им чёткий ответ - 'приступ эпилепсии'.
 
 本当の理由を説明したところで、この複雑な状況を理解してもらえるとは思えなかったからだ。%K%N
 I didn't think that I could get them to understand a situation as complex as that by just telling them the real reason up front.
 CN PLACEHOLDER
-Не думаю, что они смогли бы понять всю сложность ситуации, даже если бы я сказал им правду.
+Не думаю, что они смогут понять и, главное, проникнуться, если рассказать им правду.
 
 優と空と武は、ぼくの適当な説明に一応は納得してくれたようだった。%K%O
 It appeared that Takeshi and Sora were satisfied with my evasive explanation.
 CN PLACEHOLDER
-Ю, Такэси и Сору, судя по всему, устроил мой ответ.
+Видимо Такеши и Сору устроил мой уклончивый ответ.
 
 そして……他愛無い会話が始まった。%K%N
 And then... small talk started.
 CN PLACEHOLDER
-А затем... мы стали говорить о всяком.
+А затем...началась беседа по мелочам.
 
 内容は、不思議なことにＬｅＭＵに関する事柄は一切無く、日常的な雑談に終始した。%K%N
 Strangely, we only talked idly, gossiping about things and not touching on LeMU at all.
 CN PLACEHOLDER
-Примечательно, что мы не говорили о LeMU – всё свелось к повседневной болтовне.
+Единственное, что странно - никто ни слова не произнёс о LeMU.
 
 『今まで観た映画の中で一番好きなのは何？』とか『クジラの集団座礁はなぜ起こるのか？』とか……%K%N
 We talked about the best movies we'd ever seen, and why whales stranded themselves on the beach in groups...
 CN PLACEHOLDER
-Мы говорили о любимом кино, рассуждали о том, почему киты иногда массово выбрасываются на берег...
+Мы беседовали о кинофильмах, что когда-либо смотрели; о том, почему киты группами ходят рядом с пляжем....
 
 『弁当に入っているビニール製の草みたいなやつは不要なのではないか？』とか『ＫＦＪ暗殺の真相は？』とか……。%K%O
 And what the truth behind the assassination of JFK was, as well as whether forks or chopsticks were better.
 CN PLACEHOLDER
-О том, что лучше: вилки или палочки, или что скрывается за убийством Джона Ф. Кеннеди...
+О том, кому была выгодна смерть Влада Листьева; о том, что лучше - вилки или палочки....
 
 話題はコロコロと移り変わり、真剣なテーマから下らない冗談まで多岐にわたった。%K%N
 Topics changed often, and we talked about a wide range of things, from the serious to the silly.
 CN PLACEHOLDER
-Разговор прыгал с темы на тему, охватывая всё – от серьёзных вопросов до пустых шуток.
+Темы беседы сменялись столь часто, что усмотреть в ней какую-либо логику оказалось просто невозможно - всё прыгало от серьёзного до глупого.
 
 要するに、みんなはヒマをもてあましていたのだった。%K%N
 In short, we were just killing time.
@@ -151,22 +151,22 @@ CN PLACEHOLDER
 口を動かし続けることによって、白紙の時間を塗りつぶそうとしていたのだ。%K%N
 We tried to fill in the time by keeping our mouths moving.
 CN PLACEHOLDER
-По итогу мы просто болтали без умолку.
+Мы пытались забить непонятно откуда взявшуюся пустоту болтовнёй.
 
 ぼくは話の輪の中へと積極的に加わるようなことはせず、時折相づちを打ったり、笑ってみせたりして、飛び交う声を聞き流していた。%K%O
 I didn't participate much in the conversation, just kind of nodding from time to time and laughing along with everyone.
 CN PLACEHOLDER
-Я не принимал особого участия в разговоре... лишь кивал время от времени и смеялся вместе со всеми.
+Не то что бы я не участвовал в разговоре... лишь кивал время от времени и смеялся вместе со всеми.
 
 だからと言って、別のことを考えていたというわけでもなく、ただ白紙の時間を、白紙のままに受け入れていただけだった。%K%N
 It wasn't that I was necessarily thinking about anything else, I just thought of it all as a painless way to kill time.
 CN PLACEHOLDER
-Не то что бы я в тот момент думал о чём-то ещё. Просто понял, что это единственный безболезненный способ убить время.
+Не то что бы я в этот момент думал о чём-то. Просто понял, что это - единственный безболезненный способ убить время.
 
 そんな中、ぼくと同じように口数の少ない……と言うか、一度も口を開かなかった女の子がいた。%K%N
 In the group, there was one other person who was just as quiet as myself... even more so, since she didn't open her mouth once.
 CN PLACEHOLDER
-В этой обстановке была девушка, такая же молчаливая, как и я... или даже более, ибо она ни разу не открыла рта.
+В этой компании был ещё один человек, что был столь же тих, как и я... скорее даже тише меня, потому что она вообще ни разу не раскрыла рта.
 
 %N
 
@@ -178,7 +178,7 @@ CN PLACEHOLDER
 つぐみは相変わらず御立腹の様子だった。%K%N
 Tsugumi looked as furious as ever.
 CN PLACEHOLDER
-Цугуми, как всегда, выглядела очень сердитой.
+Цугуми, как обычно, в ярости.
 
 それは『生まれたときからすべてが不満だったしこれから一生すべてが不満なのよ』というような、慢性的な、恒常的な不満顔に見えた。%K%N
 She had a constantly dissatisfied look, making it seem as if she had been dissatisfied from the day she was born and was probably destined to stay that way.
@@ -188,12 +188,12 @@ CN PLACEHOLDER
 『そんなに腹立たしいなら、みんなのところになんか来なきゃいいのに……』と思ったりもしたが、当然そんなことを口にするわけにはいかない。%K%N
 I figured if she was that annoyed, she shouldn't come to where everyone had gathered, but of course, I couldn't say that to her.
 CN PLACEHOLDER
-«Слушайте, если все её так достали, зачем она вообще пришла сюда вместе с остальными?» – подумал я, но, конечно, не могу озвучить это вслух.
+Слушайте, если все её так достали, тогда зачем она вообще пришла сюда вместе с остальными? Конечно, я не могу ей так сказать.
 
 つぐみは２分に１回の割り合いで、ぼくの顔をチラリと盗み見た。%K%O
 Tsugumi glanced at me at a rate of once every two minutes. I counted.
 CN PLACEHOLDER
-Она бросает на меня взгляд чуть ли не через каждые пару минут.
+Но, что странно, она бросает на меня взгляд чуть ли не через каждые пару минут.
 
 ２日前の午後、つまり５月１日の午後、彼女はぼくにこう言った。%K%N
 In the afternoon two days before, May 1st, she had been short with me.
@@ -212,17 +212,17 @@ CN PLACEHOLDER
 その発言とは裏腹に、２分に１回の『盗み見』は、どう考えても『私に話しかけてよ』と言ってるように思えてならなかった。%K%N
 However, her looking at me about once every two minutes was totally at odds with those words and seemed like a sign saying, “Speak with me.”
 CN PLACEHOLDER
-Однако её косые подглядки в мою сторону идут в полный разрез с её же словами... В них так и читается: «нам нужно поговорить».
+Однако, её косые подглядки в мою сторону идут в полный разрез с её же словами... в них так и читается 'нам нужно поговорить'.
 
 ぼくがみんなの会話に集中できなかったのは、その視線が気になったからでもある。%K%O
 Her glances unnerved me, and I was unable to focus my attention on the conversation.
 CN PLACEHOLDER
-Из-за неё я уже не мог сфокусироваться на поддержании беседы.
+Её подглядки расшатали моё внимание и я уже не мог поддерживать беседу.
 
 ……………………………………………………。%K%N
 .........
 CN PLACEHOLDER
-...
+......
 
 さすがに話し疲れたのか、他の４人の口数は徐々に徐々に減っていった。%K%N
 Eventually, the four others got tired of talking, and gradually the conversation slowed down.
@@ -237,62 +237,62 @@ CN PLACEHOLDER
 ぼくらが会議室を訪れてから、すでに５時間が経過していた。%K%O
 Five hours had passed since we had come to the conference room.
 CN PLACEHOLDER
-С тех пор, как мы пришли в Комнату переговоров, минуло пять часов.
+С тех пор, как мы пришли в Комнату Переговоров, минуло пять часов.
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 沙羅「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 無言だった。%K%P
 Everyone was silent.
 CN PLACEHOLDER
-Воцарилось молчание.
+Все замолчали.
 
 優は頬杖をついて、部屋の隅に置かれた観葉植物を眺めている。%K%P
 You rested her chin on her hands and watched a plant in the corner of the room.
 CN PLACEHOLDER
-Ю опёрлась рукой о щёку и смотрит на растение в углу комнаты.
+Ю руками разминает подбородок и смотрит на растение в углу комнаты.
 
 沙羅はテーブルの上に突っ伏して、まぶたを閉じている。%K%P
 Sara put her face on the table and closed her eyes.
 CN PLACEHOLDER
-Сара опустила голову на стол и закрыла глаза.
+Сара положила лицо на стол и закрыла глаза.
 
 武は窓際に立って、海の中をのぞき込んでいる。%K%P
 Takeshi stood by the window and stared at the ocean.
 CN PLACEHOLDER
-Такэси встал у окна и смотрит в океан.
+Такеши встал у окна и смотрит на океан.
 
 空はいない。制御室に戻ったのだ。%K%P
 Sora wasn't there. She had gone back to the control room.
 CN PLACEHOLDER
-Соры здесь нет. Она вернулась в Центр управления.
+Соры здесь нет. Она вернулась в Центр Управления.
 
 つぐみは……今ちょうど立ち上がったところだった。%K%P
 Tsugumi... had just stood up.
 CN PLACEHOLDER
-Цугуми... только что встала.
+Цугуми...только что встала.
 
 出口に向かって歩いて行く。%K%P
 She headed toward the exit.
@@ -307,7 +307,7 @@ CN PLACEHOLDER
 部屋を出る間際、つぐみはチラリと、またもやぼくのことを見た。%K%P
 Just before she left the room, she looked at me again.
 CN PLACEHOLDER
-Но прежде, чем выйти, она вновь бросила на меня взгляд.
+Но, прежде чем выйти, она вновь на меня взглянула.
 
 気になる。気にならないわけがない。%K%P
 It bothered me. I couldn't let it not bother me.
@@ -327,7 +327,7 @@ CN PLACEHOLDER
 みんなにそう告げて、つぐみの後を追った。%K%P
 Saying that to everybody, I followed Tsugumi.
 CN PLACEHOLDER
-Сказав это, я, разумеется, пошёл за Цугуми.
+Разумеется, я пошёл отнюдь не туда, куда сказал всем.
 
 バシャバシャと水のはねる音をたどって行くと、すぐにつぐみの姿は見つかった。%K%P
 I followed the sound of water splashing and soon found Tsugumi.
@@ -347,7 +347,7 @@ CN PLACEHOLDER
 少年「ねえ？　なんでチラチラ見てたの？」%K%P
 Hey, why did you keep looking at me?
 CN PLACEHOLDER
-Слушай, зачем ты смотрела на меня?
+Эй, почему ты продолжаешь смотреть на меня?
 
 つぐみは足を止めない。ぼくの方を見ようともしなかった。%K%P
 Tsugumi didn't stop walking. She didn't even look at me.
@@ -362,12 +362,12 @@ CN PLACEHOLDER
 少年「さっきぼくのこと、横目で見てたでしょ？」%K%P
 You were shooting sideway glances at me, right?
 CN PLACEHOLDER
-Ты же несколько раз бросала на меня взгляд, разве нет?
+Ты же сделала в мою сторону несколько косых подглядок, так ведь?
 
 少年「それから会議室を出る前も、チラッて見たじゃん」%K%P
 And then you glanced at me when you left the conference room.
 CN PLACEHOLDER
-А затем ты посмотрела на меня, когда уходила из Комнаты переговоров.
+А затем ты посмотрела на меня, когда уходила из Комнаты Переговоров.
 
 つぐみ「だから？」%K%P
 So what?
@@ -377,7 +377,7 @@ CN PLACEHOLDER
 少年「だから……えーっと……」%K%P
 So... well...
 CN PLACEHOLDER
-Ну... то есть...
+Это...то есть...
 
 つぐみ「ええ、私は確かにあなたを見てたわ」%K%P
 Yes, I was looking at you.
@@ -387,7 +387,7 @@ CN PLACEHOLDER
 つぐみ「でも、だったらあなただって私のことを見てたんじゃないの？」%K%P
 But you watched me as well, didn't you?
 CN PLACEHOLDER
-Но и ты смотрел на меня.
+Но и ты смотрел на меня, не так ли?
 
 つぐみ「そうじゃなければ、私の視線に気づくわけがないんだから」%K%P
 If not, you wouldn't have noticed my glance.
@@ -402,12 +402,12 @@ CN PLACEHOLDER
 つぐみ「じゃあ、お互い様じゃない」%K%P
 So we're even.
 CN PLACEHOLDER
-Значит, мы квиты.
+Значит мы квиты.
 
 少年「でも、最初に見たのはつぐみの方じゃないかぁ」%K%P
 But you started watching me first.
 CN PLACEHOLDER
-Но ты первая стала на меня смотреть.
+Но, ты первая стала на меня смотреть.
 
 つぐみ「見ちゃいけないの？」%K%P
 Is that a problem?
@@ -422,7 +422,7 @@ CN PLACEHOLDER
 つぐみ「あなたは誰かに見つめられると、塩の柱になってしまうような特異体質の持ち主？」%K%P
 What? Are you afraid you'll turn into a pillar of salt if someone looks at you?
 CN PLACEHOLDER
-У тебя что, такая особенность, что ты замираешь, если кто-то на тебя смотрит?
+Что? Боишься, что своим взглядом я тебя испепелю?
 
 少年「まさか……」%K%P
 No...
@@ -477,7 +477,7 @@ CN PLACEHOLDER
 つぐみ「じゃあ、あなたはどうしてそんな下らない質問をするの？」%K%P
 Then why are you asking me such a stupid question?
 CN PLACEHOLDER
-Тогда зачем ты задаёшь мне такой дурацкий вопрос?
+Тогда зачем ты задаёшь мне столь дурацкий вопрос?
 
 少年「気になるからだよ」%K%P
 Because I want to know.
@@ -492,12 +492,12 @@ CN PLACEHOLDER
 少年「つぐみのことが……」%K%P
 About you, Tsugumi...
 CN PLACEHOLDER
-О тебе, Цугуми...
+Кто ты, Цугуми...
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「つぐみ、本当はぼくに、何か言いたいんじゃないの？」%K%P
 Tsugumi, you want to say something to me, don't you?
@@ -547,7 +547,7 @@ CN PLACEHOLDER
 つぐみ「でも今はまだ、言えないの」%K%P
 But I can't say them yet.
 CN PLACEHOLDER
-Но пока не могу.
+Но, пока не могу.
 
 穏やかな口調だった。%K%P
 She spoke in a mild, calm tone.
@@ -557,7 +557,7 @@ CN PLACEHOLDER
 少年「ねえ、つぐみ？　なんでそんなにいろんなことを隠そうとするの？」%K%P
 Hey, Tsugumi? Why do you keep trying to hide so many things?
 CN PLACEHOLDER
-Цугуми... почему ты столько всего скрываешь?
+Цугуми...почему ты пытаешься держать в себе столько вещей?
 
 少年「ぼくらのこと、まだ信用できない？」%K%P
 You can't trust us yet?
@@ -617,7 +617,7 @@ CN PLACEHOLDER
 つぐみ「別に恨んでるわけでも憎んでるわけでもない」%K%P
 It's not that I have a grudge against you.
 CN PLACEHOLDER
-Не то что бы я испытывала неприязнь по отношению к вам.
+Не то, чтобы я испытывала неприязнь по отношению к вам.
 
 つぐみ「危険な事態が発生したら、協力するのは当たり前でしょ？」%K%P
 There's nothing special about helping someone during an emergency, is there?
@@ -672,17 +672,17 @@ CN PLACEHOLDER
 少年「つぐみ……ほんとはぼくらと『なかよし』になりたいんじゃないの？」%K%P
 Tsugumi... you actually want to be 'buddies' with us, don't you?
 CN PLACEHOLDER
-Цугуми... на самом деле ты всё-таки хочешь с нами подружиться, или я не прав?
+Цугуми...на самом деле ты ведь хочешь стать 'корешем' для нас, или я не прав?
 
 ちょっとした賭けではあった。%K%P
 I was kind of taking a gamble.
 CN PLACEHOLDER
-Я рискую.
+Игра в рулетку...боже, что я делаю...
 
 『そんなことを言うなら、もう二度と顔を出さないわ』――そう切り返されたら終わりなのだ。%K%P
 If she had answered back like something like “Fine. If that's what you want, I'll never show my face again”—then that would have been the end of things.
 CN PLACEHOLDER
-Если сейчас она ответит нечто вроде «Ладно. Если вы действительно того хотите, тогда больше меня не увидите», тогда всё кончено.
+Если сейчас она ответит нечто вроде 'Ладно. Если вы действительно того хотите, тогда больше меня не увидите', тогда всё кончено.
 
 ぼくはつぐみの反応をうかがった。%K%P
 I waited for her reaction.
@@ -692,7 +692,7 @@ CN PLACEHOLDER
 つぐみ「ふふふっ……」%K%P
 Heh heh...
 CN PLACEHOLDER
-Хи-хи...
+Хии〜хии...
 
 つぐみは笑った。%K%P
 Tsugumi laughed.
@@ -702,7 +702,7 @@ CN PLACEHOLDER
 つぐみ「ふふふふふふふふっ……」%K%P
 Hehehehehehehehe...
 CN PLACEHOLDER
-Ха-ха... Ха-ха-ха...
+Хии〜хии....хии〜хииии....
 
 首を何度も何度も振りながら、肩を揺すって笑っていた。%K%P
 She kept shaking her head and laughing hard.
@@ -717,7 +717,7 @@ CN PLACEHOLDER
 つぐみ「だって……『なかよし』って……」%K%P
 Because... you said 'buddy'...
 CN PLACEHOLDER
-Потому что... ты сказал «подружиться»...
+Потому что...ты сказал 'кореш'...
 
 つぐみ「小学生じゃあるまいし……」%K%P
 We're not school kids, you know...
@@ -732,7 +732,7 @@ CN PLACEHOLDER
 つぐみは手を口にあて、なおも笑い続けていた。%K%P
 Tsugumi covered her mouth as she kept laughing.
 CN PLACEHOLDER
-Цугуми прикрыла рот ладонью, продолжая смеяться.
+Цугуми прикрыла рот ладонью, но продолжает смеяться.
 
 少年「わ、笑わないでよぉ！」%K%P
 H-Hey, stop laughing!
@@ -742,22 +742,22 @@ CN PLACEHOLDER
 少年「ぼくは……ぼくは、本気で言ってるんだぞ！」%K%P
 I... I'm being serious!
 CN PLACEHOLDER
-Я... я же серьёзно!
+Я...я же серьёзно!
 
 つぐみ「ふふふふふふふふっ……」%K%P
 Heeheehee...
 CN PLACEHOLDER
-Ха-ха-ха...
+Хии〜хии〜хии...
 
 少年「だったら、どうしてなんだよぉ……」%K%P
 If I'm wrong, then what is it...?
 CN PLACEHOLDER
-Если я не прав, то в чём тогда дело?..
+Если я не прав, то в чём тогда дело...?
 
 少年「『なかよし』になりたいんじゃないんなら、なんでみんなのところになんか……」%K%P
 If you don't want to be 'buddies' with us then why do you come to where everybody is?
 CN PLACEHOLDER
-Если тебе не нужны «друзья», тогда почему ты пришла туда же, куда и все?
+Если тебе не нужны 'кореша', тогда почему ты пришла туда же, куда и все?
 
 つぐみ「教えて欲しい？」%K%P
 Do you really want to know?
@@ -787,7 +787,7 @@ CN PLACEHOLDER
 つぐみ「あなた、ジュエルチョコって知ってる？」%K%P
 Do you know about Jewel chocolate?
 CN PLACEHOLDER
-Ты знаешь, что такое «Шоколад с сюрпризом»?
+Ты знаешь, что такое Шоколад-сюрприз?
 
 少年「……は？」%K%P
 ...What?
@@ -797,7 +797,7 @@ CN PLACEHOLDER
 つぐみ「ジュエル・チョコ」%K%p
 Jewel chocolate.
 CN PLACEHOLDER
-Шоколад с сюрпризом.
+Шоколад-сюрприз.
 
 知ってる
 I know about it
@@ -812,7 +812,7 @@ CN PLACEHOLDER
 少年「う、うん……お菓子のことでしょ？」%K%P
 Y-Yeah... It's a kind of chocolate bar, right?
 CN PLACEHOLDER
-К-конечно... шоколадная конфета, верно?
+К-конечно...шоколадная конфета, верно?
 
 少年「オモチャの指輪が、オマケについてくるやつ……」%K%P
 A toy ring comes with it as an extra surprise...
@@ -837,7 +837,7 @@ CN PLACEHOLDER
 つぐみ「ジュエルチョコは、なんの変哲もないただのチョコレート」%K%P
 Jewel chocolate is an ordinary chocolate bar.
 CN PLACEHOLDER
-Шоколад с сюрпризом – это обычная шоколадная конфета.
+Шоколад-сюрприз - это обычная шоколадная конфета.
 
 つぐみ「たったひとつの特徴は、オマケとしてオモチャの指輪が付いてくること」%K%P
 But the special thing is that a toy ring comes with it as an extra surprise.
@@ -857,12 +857,12 @@ CN PLACEHOLDER
 つぐみ「それらをすべて集めようと思ったら、ひたすらチョコを買い続けなくちゃいけない」%K%P
 If you want to collect all of the rings, then you have to keep buying the chocolate.
 CN PLACEHOLDER
-Если ты хочешь собрать их полную коллекцию, тебе придётся продолжать покупать эти конфеты.
+Если ты хочешь собрать их полную коллекцию, тогда тебе придётся продолжать покупать эти конфеты.
 
 つぐみ「でも、これってちょっと変だと思わない？」%K%P
 But don't you think that's a little odd?
 CN PLACEHOLDER
-Но тебе ничего здесь не кажется странным?
+Но, тебе ничего здесь не кажется странным?
 
 つぐみ「主従関係が逆転しちゃってるのよ」%K%P
 The relationship is backwards here.
@@ -872,17 +872,17 @@ CN PLACEHOLDER
 つぐみ「本来なら、チョコの方が『主』で、指輪の方が『従』だったはずなのに……」%K%P
 Really, the chocolate should be the primary reason for buying it, and the ring should be secondary.
 CN PLACEHOLDER
-Ведь шоколад должен быть первичной причиной для покупки конфеты, а кольцо – вторичной.
+Ведь шоколад должен быть первичной причиной для покупки конфеты, а кольцо - вторичной.
 
 つぐみ「指輪を集めている人にとっては、チョコの方が副次的な存在なの」%K%P
 But for people that collect rings, the chocolate is kind of a secondary benefit.
 CN PLACEHOLDER
-Однако для тех, кто собирает кольца, шоколад становится побочной выгодой.
+Однако, для тех, кто собирает кольца, шоколад становится побочной выгодой.
 
 少年「つまり、チョコがオマケになっちゃってる、ってことだね？」%K%P
 So you mean that chocolate becomes 'something extra' after the rings?
 CN PLACEHOLDER
-То есть ты хочешь сказать, что шоколад становится „сюрпризом“ к кольцу?
+То есть, ты хочешь сказать, что шоколад становится 'сюрпризом' к кольцу?
 
 つぐみ「そういうこと」%K%P
 That's right.
@@ -892,7 +892,7 @@ CN PLACEHOLDER
 少年「でも……それがどうしたの？　……何の関係があるの？」%K%P
 But... so what...? What does that have to do with what we were talking about?
 CN PLACEHOLDER
-Но... И что дальше?.. Какое это имеет отношение к тому, о чём мы говорили?
+Но...не понял...какое это имеет отношение к тому, о чём мы говорили?
 
 つぐみ「わからない？」%K%P
 Don't you get it?
@@ -907,7 +907,7 @@ CN PLACEHOLDER
 つぐみ「私がみんなのところに行くのは、みんなに会うことを目的としてるわけじゃないの」%K%P
 The primary reason that I go to everybody is not to see them.
 CN PLACEHOLDER
-Встречаться со всеми остальными не является моей основной причиной приходить туда же.
+Главная причина, что я бываю там же, где и все остальные, не для того чтобы видеться с ними.
 
 少年「？？？」%K%P
 ?
@@ -927,7 +927,7 @@ CN PLACEHOLDER
 彼女は真剣な眼差しで、ぼくのことをじっと見つめた。%K%P
 She stared at me with a serious look.
 CN PLACEHOLDER
-Она с серьёзным видом посмотрела на меня.
+Она с серьёзным взглядом посмотрела на меня.
 
 視線が熱い。%K%P
 It was a tense look.
@@ -937,12 +937,12 @@ CN PLACEHOLDER
 瞳の色は深く、濃く、見ているだけで吸い込まれてしまいそうだった。%K%P
 Just looking at her deep and dark-colored eyes, I felt as if I were about to be absorbed.
 CN PLACEHOLDER
-Её глаза такие глубокие и тёмные, что, глядя в них, казалось, можно полностью утонуть.
+Один только взгляд в её глубокие, чёрные словно бездна, глаза, повергает в ментальный шок.
 
 でも、目をそらすことはできない。それどころか身動きひとつ取れなかった。%K%P
 But I couldn't look away. I couldn't even budge.
 CN PLACEHOLDER
-Но я не в силах отвернуться. Даже шелохнуться.
+Но, я не в силах отвернуться. Даже шелохнуться.
 
 ぼくの体は塩の柱のように固まっていた。%K%P
 My body was stiff, like a pillar of salt.
@@ -962,7 +962,7 @@ CN PLACEHOLDER
 つぐみ「チョコはオマケなのよ」%K%P
 The chocolate is an added benefit.
 CN PLACEHOLDER
-Шоколад – это побочная выгода.
+Шоколад - это побочная выгода.
 
 そう言って、なぜか唐突に、つぐみはぼくの耳に触れた。%K%P
 As she said that, I didn't know why, but she suddenly touched my ear.
@@ -977,7 +977,7 @@ CN PLACEHOLDER
 瞬間、ぼくの体は粉々に砕け散った。%K%P
 In that moment, my body burst into fragments.
 CN PLACEHOLDER
-В то же мгновение моё тело распалось на части.
+В то же мгновение, моё тело распалось на части.
 
 その後のことは、よく覚えていない。%K%P
 I didn't remember what happened after that.
@@ -987,7 +987,7 @@ CN PLACEHOLDER
 気がつくと、ぼくは通路の真ん中に茫然と立ち尽くしていた。%K%P
 I just found myself in the middle of the corridor standing in a daze.
 CN PLACEHOLDER
-Я обнаружил себя посреди коридора, ошарашенный.
+Сейчас я в шоковом состоянии стою посреди коридора.
 
 つぐみの姿は、いつの間にか消え失せていた。%K%P
 Tsugumi had disappeared at some point.

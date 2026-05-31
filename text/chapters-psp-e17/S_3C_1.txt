@@ -16,7 +16,7 @@ CN PLACEHOLDER
 ぼくと沙羅がそのあとに続き、最後尾は武と空だった。%K%P
 Sara and I followed her while Takeshi and Sora lagged behind.
 CN PLACEHOLDER
-Мы с Сарой идём рядом, а Такэси и Сора плетутся в хвосте.
+Сара и я идём рядом, а Такеши и Сора плетутся в хвосте.
 
 少年「ねえ、つぐみ？」%K%P
 Hey, Tsugumi?
@@ -56,7 +56,7 @@ CN PLACEHOLDER
 あの時のつぐみの行動……ぼくには何となく腑に落ちていなかった。%K%P
 I still couldn't figure it out... Tsugumi's behavior was incomprehensible to me.
 CN PLACEHOLDER
-Я всё ещё не понимаю... её поступки кажутся мне просто непостижимыми.
+Я всё ещё не понимаю...её поступки кажутся мне просто непостижимыми.
 
 そう。まるで、ぼくらに見せつけるような素振りだったから。%K%P
 Then I hit upon it. It was like she had been showing off.
@@ -66,7 +66,7 @@ CN PLACEHOLDER
 しかし、返ってきた答えは……%K%P
 But what she said was...
 CN PLACEHOLDER
-Но в ответ она сказала...
+Но, в ответ она сказала...
 
 つぐみ「食べたかったからよ」%K%P
 Because I wanted to eat a hotdog.
@@ -91,7 +91,7 @@ CN PLACEHOLDER
 沙羅「でも、武が怒るって思わなかったの？」%K%P
 But didn't you think that it might make Takeshi angry?
 CN PLACEHOLDER
-Но ты не думала, что это могло рассердить Такэси?
+Но, ты не думала, что это могло рассердить Такеши?
 
 そこへ沙羅が質問を重ねていた。%K%P
 Sara chimed in with a question of her own.
@@ -106,7 +106,7 @@ CN PLACEHOLDER
 沙羅「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「まあ、ぼくらだって直前まで知らなかったけどさ」%K%P
 I suppose you're right. We didn't know about them until right before either.
@@ -121,7 +121,7 @@ CN PLACEHOLDER
 後ろの方では、武と空が少し和やかな会話を交わしているようだった。%K%P
 It looked like Takeshi and Sora were having a low-key conversation behind us.
 CN PLACEHOLDER
-А Такэси и Сора сдержанно о чём-то беседуют за нашими спинами.
+А Такеши и Сора сдержанно о чём-то беседуют за нашими спинами.
 
 つぐみ「そうね。でも……」%K%P
 Well...
@@ -136,7 +136,7 @@ CN PLACEHOLDER
 つぐみ「ちょっとイタズラしたかったのかも」%K%P
 Maybe I did want to play a trick on him, just a little bit.
 CN PLACEHOLDER
-Наверное я решила слегка над ним подшутить.
+Наверно я решила слегка над ним подшутить.
 
 少年「？」%K%P
 ?
@@ -151,7 +151,7 @@ CN PLACEHOLDER
 なんのことか、一瞬わからなかった。%K%P
 For a second, I didn't know what she was talking about.
 CN PLACEHOLDER
-Сначала до меня не дошло, о чём она говорит.
+На мгновение, я понятия не имел, о чём она говорит.
 
 が、すぐに、ホットドッグの件だと理解する。%K%P
 Then I realized she meant the whole hotdog thing.
@@ -161,7 +161,7 @@ CN PLACEHOLDER
 つぐみ「ふふっ……思ったより手強いわね、アイツ」%K%P
 Heehee... He's even more stubborn than I thought.
 CN PLACEHOLDER
-Хи-хи... А он ещё более упрямый, чем я думала.
+Хии〜хии...а он ещё более упрямый, чем я думала.
 
 珍しく、つぐみが笑った。%K%P
 Tsugumi gave a rare laugh.
@@ -171,12 +171,12 @@ CN PLACEHOLDER
 けれどそれは、つららから滴り落ちる雫のように、背筋のヒヤリとする笑みだった。%K%P
 But it was the kind of laugh that would raise the hair on the back of your neck.
 CN PLACEHOLDER
-Но от её смеха почему-то волосы встают дыбом.
+Но, от её смеха почему-то волосы встают дыбом.
 
 ツヴァイトシュトックに到着した。%K%P
 We finally arrived at Zweiter Stock.
 CN PLACEHOLDER
-Мы добрались до Цвайте Шток.
+Мы добрались до Цвайте шток.
 
 フロアに異状はみられないが、小さくシューシューという音がどこからかしているのに気づいた。%K%P
 Looking around the floor, everything seemed normal, but we could hear a hissing sound coming from somewhere.
@@ -206,7 +206,7 @@ CN PLACEHOLDER
 つぐみ「みんなが飛び跳ねたからじゃないの？」%K%P
 It's probably because you were all running around like lunatics.
 CN PLACEHOLDER
-Наверное потому, что вы бегали туда-сюда, как чокнутые.
+Наверно потому, что вы бегали туда-сюда, как чокнутые.
 
 少年「え？」%K%P
 Huh?
@@ -221,7 +221,7 @@ CN PLACEHOLDER
 つぐみ「だからＬｅＭＵが傾いちゃったのかな？」%K%P
 It probably threw LeMU off its axis.
 CN PLACEHOLDER
-Наверное, из-за этого LeMU с оси сорвался.
+Наверно, из-за этого LeMU с оси сорвался.
 
 みんな「………………」%K%P
 ...
@@ -236,12 +236,12 @@ CN PLACEHOLDER
 みんな「………………………………………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみの何気ないセリフに、周囲の空気は凍りついてしまっていた。%K%P
 Tsugumi's flippant remark had frozen the air around us.
 CN PLACEHOLDER
-Беспечное высказывание Цугуми насторожило нас не на шутку.
+Беспечное высказывание Цугуми насторожило нас ни на шутку.
 
 つぐみ「どうしたの？　置いていくわよ」%K%P
 What's wrong? If you don't hurry, I'll leave you behind.
@@ -256,7 +256,7 @@ CN PLACEHOLDER
 少年「ね、ねえ……つぐみ、どうしちゃったのかな？」%K%P
 H-Hey... What's the matter with her?
 CN PLACEHOLDER
-С-слушайте... что это с ней?
+С-слушайте...что это с ней?
 
 沙羅「わ、私に訊かれたって……」%K%P
 How would I know?
@@ -266,7 +266,7 @@ CN PLACEHOLDER
 武「ひょっとして、頭でも打ったんじゃねぇのか？」%K%P
 She probably fell on her head.
 CN PLACEHOLDER
-Похоже, она спятила.
+Похоже она спятила.
 
 空「驚きましたね……」%K%P
 She really is quite unpredictable...
@@ -301,7 +301,7 @@ CN PLACEHOLDER
 武「開けたら蒸気が大爆発、とかしないよな？」%K%P
 The steam in there isn't going to explode if we open the door, right?
 CN PLACEHOLDER
-Слушайте, а если мы откроем эту дверь, наружу пар, случаем, не вырвется?
+Слушайте, а если мы откроем эту дверь, наружу пар случаем не вырвется?
 
 武がつぐみに訊くと、つぐみは扉に目を凝らした。%K%P
 Tsugumi fixed her eyes on the door.
@@ -311,7 +311,7 @@ CN PLACEHOLDER
 つぐみ「そうねぇ……」%K%P
 Hmmm...
 CN PLACEHOLDER
-Хм-м-м...
+Хммм...
 
 つぐみ「平気なんじゃない？」%K%P
 It's probably fine.
@@ -321,7 +321,7 @@ CN PLACEHOLDER
 武「わかるのか？　もしかして……」%K%P
 How would you know? Do you...?
 CN PLACEHOLDER
-Откуда ты знаешь? Погоди, а ты не...
+Откуда ты знаешь? Погоди,а ты не...
 
 つぐみ「適当に言ってみただけよ」%K%P
 I'm just saying what you want to hear.
@@ -351,7 +351,7 @@ CN PLACEHOLDER
 つぐみ「はぁ……そんなことだろうと思ったわ」%K%P
 *Sigh*... Exactly as I thought.
 CN PLACEHOLDER
-*вздох*%NТак я и знала.
+*вздох*...Так я и знала.
 
 空「はい？」%K%P
 What?
@@ -376,7 +376,7 @@ CN PLACEHOLDER
 空「はい。お願いします」%K%P
 Yes. Please hurry.
 CN PLACEHOLDER
-Да. Прошу, скорее.
+Да. Прошу, скорей.
 
 扉を開く。%K%P
 I opened the door.
@@ -396,7 +396,7 @@ CN PLACEHOLDER
 沙羅「ほ、本当に大丈夫なの？」%K%P
 Are... Are you sure this is okay?
 CN PLACEHOLDER
-Вы... у-уверены, что мы с этим справимся?
+Вы...у-уверены, что мы с этим справимся?
 
 武「たぶん……」%K%P
 Maybe...
@@ -421,7 +421,7 @@ CN PLACEHOLDER
 つぐみ「パイプが少し歪んでしまっているわ……金具を締め直すから、パイプを持って支えてくれる？」%K%P
 The pipe is bent a little bit... I'm going to clamp a metal sleeve on it. Would you support the pipe for me?
 CN PLACEHOLDER
-Труба слегка погнута... Я собираюсь распрямить металлическую муфту на ней. Ты не мог бы подержать трубу?
+Труба слегка погнута...я собираюсь распрямить металлическую муфту на ней. Ты не мог бы подержать мне трубу?
 
 武「ああ、了解！」%K%P
 Roger that!
@@ -436,7 +436,7 @@ CN PLACEHOLDER
 つぐみ「向こうの……このパイプが繋がってるバルブがあるの。わかる？　あれを少しだけ緩めて欲しいの」%K%P
 On the other side of this... there should be a valve attached to this pipe. You see it? I want you to loosen that a bit.
 CN PLACEHOLDER
-Вон там... к этой трубе присоединён вентиль. Видишь его? Я хочу, чтобы ты его слегка ослабила.
+Вон там...к этой трубе присоединён вентиль. Видишь его? Я хочу, чтобы ты его слегка ослабила.
 
 沙羅「御意でござる！」%K%P
 At your service!
@@ -466,7 +466,7 @@ CN PLACEHOLDER
 いくつかのパイプのバルブを閉めたり開いたり、パイプを取り付けなおしたり、穴を溶接して塞いだり……。%K%P
 We opened and closed a number of valves, connected and repaired pipes, and welded shut cracks...
 CN PLACEHOLDER
-Мы открываем и закрываем вентили на куче труб, пересоединяем трубы и завариваем трещины...
+Мы открываем и закрываем вентили на куче труб, пере-соединяем трубы и завариваем трещины...
 
 武「それにしても手馴れてるな」%K%P
 You seem really used to all this.
@@ -491,7 +491,7 @@ CN PLACEHOLDER
 武「いや、そりゃお前……」%K%P
 Uh, well, it's just that...
 CN PLACEHOLDER
-Нет. Ну, просто... я...
+Нет. Ну, просто...я...
 
 つぐみ「どうでもいいことを訊くの、悪い癖よね」%K%P
 You know, asking meaningless questions is a bad habit of yours.
@@ -501,7 +501,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「こう言えば、満足？」%K%P
 Satisfied?
@@ -511,12 +511,12 @@ CN PLACEHOLDER
 武「はぁ？？　なんだそりゃ？」%K%P
 Huh? What does that mean?
 CN PLACEHOLDER
-Э-э? Ты о чём?
+Эээ? Ты о чём?
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「わかったよ。もう訊かねぇよ」%K%P
 Alright. I won't ask anymore.
@@ -526,7 +526,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 時折感じる、つぐみの発言の不思議な違和感。%K%P
 Every once in a while, I felt that Tsugumi's words seemed out of place.
@@ -546,7 +546,7 @@ CN PLACEHOLDER
 空はしばらく、ぼくらの横で見ていた。%K%P
 Sora watched us for a while from the side.
 CN PLACEHOLDER
-А что до Соры, то она смотрит на нас со стороны.
+А что Сора? Стоит рядом, наблюдает.
 
 やがて、部屋の隅にあるインターホンが鳴った。%K%P
 After a while, an intercom in the corner of the room sounded.
@@ -556,17 +556,17 @@ CN PLACEHOLDER
 武「あれ、何だ？　呼び出しか？」%K%P
 What's that? Somebody calling?
 CN PLACEHOLDER
-Э-э, кто-то звонит?
+Эээ, кто-то звонит?
 
 空「田中さんからです。どうやら警備室の方にいらっしゃるようです」%K%P
 It's from Tanaka-san. It appears that she is in the security office.
 CN PLACEHOLDER
-Это Танака-сан. Кажется, сейчас она находится в Офисе охраны.
+Это Танака-сан. Кажется, сейчас она находится в Офисе Охраны.
 
 沙羅「ああ、先輩、無事だったんだ」%K%P
 So Senpai is alright?
 CN PLACEHOLDER
-Значит, с Няку всё в порядке?
+Значит с Няку всё в порядке?
 
 少年「とりあえず、ひと安心だね」%K%P
 That's a relief.
@@ -596,17 +596,17 @@ CN PLACEHOLDER
 空が瞬間移動できるのはもうわかっていたが……奇妙な光景だった。%K%P
 I knew she could travel instantly, but... it was still an odd sight.
 CN PLACEHOLDER
-Хоть мы и знаем, что она может перемещаться мгновенно, но всё же... это сбивает с толку.
+Хоть мы и знаем, что она может перемещаться мгновенно, но всё же...это сбивает с толку.
 
 つぐみ「少年？　こっちの方はもういいから、向こうのバルブの操作をお願い」%K%P
 Kid? I'm all set here, so please work on the valves for me.
 CN PLACEHOLDER
-Малой? Я здесь закончила, так что, пожалуйста, помоги мне с вентилями.
+Кид? Я здесь закончила, так что, пожалуйста, помоги мне с вентилями.
 
 少年「えっ？　うん、わかった」%K%P
 Huh? Sure. No problem.
 CN PLACEHOLDER
-Что?.. К-конечно! Нет проблем.
+Что...? К-конечно! Нет проблем.
 
 指示されたパイプのところまで移動する。%K%P
 I moved over to the area by the pipes that she indicated.
@@ -646,12 +646,12 @@ CN PLACEHOLDER
 （さっきの感覚……確か、前にも一度……）%K%P
 (That feeling I just had... that was like before...)
 CN PLACEHOLDER
-(Это чувство... то же самое, что было до того...)
+(Это чувство...то же самое, что было до того...)
 
 （そう！　今朝、売店から会議室に戻るときの、あれに）%K%P
 (I know! It was like when I was going to the conference room from the kiosk this morning.)
 CN PLACEHOLDER
-(Точно! Когда я утром шёл от киоска до Комнаты переговоров.)
+(Точно! Когда я утром шёл от киоска до Комнаты Переговоров.)
 
 つぐみ「それじゃ沙羅、少しそこで待ってて」%K%P
 Now, Sara, wait just a bit.
@@ -666,7 +666,7 @@ CN PLACEHOLDER
 つぐみ「少年、今言った順番でバルブをお願い」%K%P
 Kid, turn the valves in the order I told you.
 CN PLACEHOLDER
-Малой, поверни вентили в том порядке, как я тебе сказала.
+Кид, поверни вентили в том порядке, как я тебе сказала.
 
 少年「…………」%K%P
 ...
@@ -676,7 +676,7 @@ CN PLACEHOLDER
 つぐみ「ちょっと少年、聞いてるの？」%K%P
 Hey, Kid, are you listening?
 CN PLACEHOLDER
-Эй, Малой, ты меня слышишь?
+Эй, Кид, ты меня слышишь?
 
 少年「え？　うん、わかってるよ。ゴメンゴメン。青、赤の順番だよね？」%K%P
 Huh? Yeah, I got it. Sorry. The blue and then the red, right?
@@ -716,7 +716,7 @@ CN PLACEHOLDER
 （な、なんだ……これ？）%K%P
 (Wh-What was that?)
 CN PLACEHOLDER
-(Ч-что это было?)
+(Ч... что это было?)
 
 脳裏に、閃光のように、叩きつけられるように、何かが映し出される。%K%P
 An image flashed at the back of my mind, and it felt like my brain was being hammered by light.
@@ -746,7 +746,7 @@ CN PLACEHOLDER
 少年「…………………………………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ぼくは急激な脱力感を覚え、ずるずるとその場にへたり込んだ。%K%P
 I remembered losing all power to stand and crumpling right there on the spot.
@@ -761,12 +761,12 @@ CN PLACEHOLDER
 （今の………………）%K%P
 (That was......)
 CN PLACEHOLDER
-(Это была...)
+(Это была.........)
 
 （まさか…………！）%K%P
 (It can't be...!)
 CN PLACEHOLDER
-(Не может быть!)
+(Не может быть.......!)
 
 武「おい！　どうしたんだ？　おいっ！」%K%P
 Hey! What's the matter? Hey!
@@ -776,22 +776,22 @@ CN PLACEHOLDER
 肩をガクガクと揺すられ、ハッと我に返った。%K%P
 Takeshi shook my shoulders, bringing me back from wherever I'd been.
 CN PLACEHOLDER
-Такэси потряс меня за плечи, пытаясь вернуть к реальности.
+Такеши потряс меня за плечи, пытаясь вернуть к реальности.
 
 少年「たけし……？」%K%P
 Takeshi...?
 CN PLACEHOLDER
-Такэси?..
+Такеши...?
 
 武「おう、俺だ。大丈夫か？」%K%P
 It's me, Kid. You okay?
 CN PLACEHOLDER
-Это я, Малой. Ты как?
+Это я, Кид. Ты как?
 
 少年「武……大変だ……」%K%P
 Takeshi... Trouble...
 CN PLACEHOLDER
-Такэси... беда...
+Такеши...беда...
 
 武「え？」%K%P
 Huh?
@@ -801,7 +801,7 @@ CN PLACEHOLDER
 少年「ここにいたら大変なんだ……早く、逃げないと……」%K%P
 If we stay here, there's going to be trouble... We have to escape... Now...
 CN PLACEHOLDER
-Если мы останемся здесь, случится беда... мы должны бежать... скорее...
+Если мы останемся здесь, случится беда...мы должны бежать...скорей...
 
 うわごとのように、ぼくは呟き続ける。%K%P
 I coughed the words out deliriously.
@@ -811,17 +811,17 @@ CN PLACEHOLDER
 少年「物が崩れ落ちてきて……水が溢れてくる…………それに誰かが、大怪我を……」%K%P
 Things are going to fall... and water will flood in... and someone will get really hurt...
 CN PLACEHOLDER
-Всё начнёт падать... хлынет вода... и кто-то серьёзно поранится...
+Всё начнёт падать...хлынет вода...и кто-то серьёзно поранится...
 
 武「な、何言ってんだ……？　わけわかんねぇよ」%K%P
 What're you talking about...? You aren't making sense.
 CN PLACEHOLDER
-О чём ты говоришь?.. Ты несёшь полный бред.
+О чём ты говоришь...? Ты несёшь полный бред.
 
 少年「早く……逃げよう……早く！」%K%P
 Right now... We have to escape!
 CN PLACEHOLDER
-Сейчас же... надо сматываться отсюда!
+Сейчас же...надо сматываться отсюда!
 
 恐怖と焦りが、どんどんと溢れるように、膨れあがっていく。%K%P
 I felt like I was filling up with fear and panic.
@@ -841,7 +841,7 @@ CN PLACEHOLDER
 少年「……………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 左頬が、焼けるように熱い。%K%P
 My left cheek burned like it had been scalded.
@@ -856,7 +856,7 @@ CN PLACEHOLDER
 少年「…………………………………………」%K%P
 ......
 CN PLACEHOLDER
-...
+......
 
 痛む頬を押さえながら、ぼくは立ち上がった。%K%P
 Pressing my hand on my hurting face, I stood up.
@@ -896,7 +896,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「な、なぁ、それはちょっと言い過ぎだろ？　少年は、疲れてるだけなんだよ」%K%P
 Hey, that's a little harsh, don't you think? I mean, he's probably tired, that's all.
@@ -911,7 +911,7 @@ CN PLACEHOLDER
 つぐみ「いい？　こういう時に、この子みたいなのがいると迷惑なの」%K%P
 Listen. At times like this, people like him are a liability.
 CN PLACEHOLDER
-И слушай. В таких ситуациях такие люди, как он, абсолютно безответственны.
+И слушай. В таких ситуациях, такие люди, как он, абсолютно безответственны.
 
 つぐみ「きっと今に、つまらないミスを犯すに決まっているわ」%K%P
 He's going to make a costly mistake.
@@ -921,7 +921,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「あなただって、こんな場所で事故なんて起こされたくないでしょう？」%K%P
 You don't want to cause an accident here, do you?
@@ -956,7 +956,7 @@ CN PLACEHOLDER
 その後、作業は滞りなく進行し……やがて、何事もなく異常箇所の修繕は完了した。%K%P
 After that, the work went smoothly... and finally, we succeeded in getting everything back to normal.
 CN PLACEHOLDER
-После этого работа пошла гладко... И по итогу мы закончили устранять неисправности.
+После этого, работа пошла быстрей...и наконец, всё было починено.
 
 結局、ぼくの見たものは現実にならなかった。%K%P
 What I had seen hadn't been real.

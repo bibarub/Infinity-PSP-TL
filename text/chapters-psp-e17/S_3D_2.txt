@@ -6,12 +6,12 @@ CN PLACEHOLDER
 しかし彼女は、ぼくらの姿を見つけると……%K%P
 But when she saw us, she...
 CN PLACEHOLDER
-Но едва она успела нас завидеть...
+Но, едва она успела нас завидеть...
 
 つぐみ「ちっ」%K%P
 Tsk.
 CN PLACEHOLDER
-Тц.
+Ха.
 
 そう舌打ちし、きびすを返して部屋を出て行こうとする。%K%P
 She clicked her tongue in an irritated way and turned to leave the room.
@@ -31,7 +31,7 @@ CN PLACEHOLDER
 気のせいか、少し険しい表情の彼女。%K%P
 It could have been my imagination, but she looked kind of angry about something.
 CN PLACEHOLDER
-Может, мне показалось, но она выглядит так, будто сильно чем-то рассержена.
+Может мне показалось, но она выглядит так, будто сильно чем-то рассержена.
 
 沙羅はそのまま、つぐみを通せんぼするように、入り口の前に立ちふさがった。%K%P
 Sara stood her ground, blocking the exit so that Tsugumi couldn't leave.
@@ -66,7 +66,7 @@ CN PLACEHOLDER
 （でも、なぜだろう……？）%K%P
 (But I wonder why...)
 CN PLACEHOLDER
-(Но с чего это вдруг...)
+(Но, с чего это вдруг...)
 
 つぐみと沙羅がいがみ合うような理由……ぼくには思い浮かばなかった。%K%P
 I couldn't think of any reason the two of them would want to fight.
@@ -86,17 +86,17 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「お、おい……ふたりとも、どうしたんだよ？」%K%P
 Hey... You two, what's up?
 CN PLACEHOLDER
-Эй... девушки, что происходит?
+Эй...девушки, что происходит?
 
 武が近寄り、ふたりに尋ねた。%K%P
 Takeshi asked that as he approached them.
 CN PLACEHOLDER
-Спросил Такэси, пока приближался к ним.
+Спросил Такеши, пока приближался к ним.
 
 つぐみ「それは、こっちが訊きたいわね」%K%P
 That's what I want to know.
@@ -111,7 +111,7 @@ CN PLACEHOLDER
 それからすかさず、武をギロリと睨む。%K%P
 And then, she gave Takeshi the evil eye.
 CN PLACEHOLDER
-А затем злобно уставилась на Такэси.
+А затем злобно уставилась на Такеши.
 
 つぐみ「あなた達、いったい何を企んでいるの？」%K%P
 What are you all planning anyway?
@@ -121,12 +121,12 @@ CN PLACEHOLDER
 武「な、何を、って……それこそ何だよ？　意味わかんねぇこと言うなよ……」%K%P
 Wh-What... are we? What are YOU planning? Stop with the nonsense already.
 CN PLACEHOLDER
-Ч-что... мы? Что ТЫ задумала? Кончай бредить.
+Ч-что...мы? Что ТЫ задумала? Кончай бредить.
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「どうしたの？　マヨ……」%K%P
 Hey, Mayo, what happened?
@@ -136,7 +136,7 @@ CN PLACEHOLDER
 沙羅「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優が沙羅をなだめようとしていた。%K%P
 You said it as if to calm Sara's nerves.
@@ -161,17 +161,17 @@ CN PLACEHOLDER
 つぐみ「……………………」%K%P
 ............
 CN PLACEHOLDER
-...
+............
 
 （……え？）%K%P
 (...Huh?)
 CN PLACEHOLDER
-(...Э-э?)
+(...Эээ?)
 
 一瞬、つぐみが哀しそうに顔を歪めた……そんな気がした。%K%P
 For an instant, I thought that... Tsugumi's face twisted sadly.
 CN PLACEHOLDER
-На мгновение мне показалось... что Цугуми грустит.
+На мгновение мне показалось...что Цугуми грустит.
 
 つぐみ「さあ、どきなさい！」%K%P
 Now get out of my way!
@@ -186,17 +186,17 @@ CN PLACEHOLDER
 抵抗する沙羅。%K%P
 Sara resisted.
 CN PLACEHOLDER
-Но Сара сопротивляется.
+Но, Сара сопротивляется.
 
 沙羅「そうやって、あの人からも逃げたんだ？」%K%P
 So what? Did you run away from him the same as you're trying to run from me now?
 CN PLACEHOLDER
-И что? Ты сбежишь от него точно так же, как сейчас пытаешься сбежать от меня?
+И что? Ты сбежишь от него точно также, как сейчас пытаешься сбежать от меня?
 
 揉み合いながら沙羅は、そんな言葉を投げかけた。%K%P
 Sara said that as the two of them wrestled.
 CN PLACEHOLDER
-Сказала Сара, пока они обе борются.
+Сказала Сара, пока они две борются.
 
 つぐみ「…………」%K%P
 ...
@@ -211,7 +211,7 @@ CN PLACEHOLDER
 沙羅「やっぱり、そうなんだ……」%K%P
 So you did...
 CN PLACEHOLDER
-Значит, я права...
+Значит я права...
 
 つぐみ「…………」%K%P
 ...
@@ -226,12 +226,12 @@ CN PLACEHOLDER
 沙羅「最低……」%K%P
 You're disgusting...
 CN PLACEHOLDER
-У тебя нет сердца...
+Ты дерьмо...
 
 沙羅「最低だ！　この人でなし！」%K%P
 You're inhuman!
 CN PLACEHOLDER
-У тебя нет сердца! Ты чудовище!
+Ты бесчувственная!
 
 つぐみ「！」%K%P
 !
@@ -246,7 +246,7 @@ CN PLACEHOLDER
 だが、武がとっさにつぐみの腕をつかんでそれを制する。%K%P
 But Takeshi grabbed her hand.
 CN PLACEHOLDER
-Но Такэси схватил её.
+Но Такеши схватил её.
 
 武「おい！　落ち着けって！」%K%P
 Hey! Calm down!
@@ -276,17 +276,17 @@ CN PLACEHOLDER
 沙羅「あ！」%K%P
 Ah!
 CN PLACEHOLDER
-А-а!
+Аа!
 
 逆上したつぐみは、武を振りきり、沙羅がもう一方の手に握りしめていた何かを奪い取った。%K%P
 The raging Tsugumi threw off Takeshi and stole from Sara whatever it was she was holding.
 CN PLACEHOLDER
-Свирепая Цугуми отбросила Такэси и выхватила нечто, что Сара держала в руках.
+Свирепая Цугуми отбросила Такеши и выхватила нечто, что Сара держала в руках.
 
 そして、その何かを思い切り壁に叩きつけようとして……%K%P
 She went to throw whatever it was she had against the wall...
 CN PLACEHOLDER
-Она собралась бросить это нечто о стену...
+Она собралась бросить это нечто об стену...
 
 つぐみ「っ！」%K%P
 Agh!
@@ -296,7 +296,7 @@ CN PLACEHOLDER
 しかし寸前で、それを思いとどまる。%K%P
 But she stopped an instant before.
 CN PLACEHOLDER
-Но почему-то остановилась.
+Но, почему-то остановилась.
 
 武「やめろ！」%K%P
 Stop!
@@ -306,12 +306,12 @@ CN PLACEHOLDER
 再び武が腕を掴みにいく。%K%P
 Takeshi went to grab her arm.
 CN PLACEHOLDER
-Такэси подошёл, чтобы схватить её за руку.
+Такеши подошёл чтобы схватить её за руку.
 
 つぐみの手から力が抜け、何かがするりと滑り落ちた。%K%P
 Tsugumi's arm went slack, and something slipped to the floor.
 CN PLACEHOLDER
-Рука Цугуми ослабла, и нечто соскользнуло на пол.
+Рука Цугуми ослабла и нечто соскользнуло на пол.
 
 カンッ、カンカンカンカンカン……。%K%P
 It clattered loudly...
@@ -331,7 +331,7 @@ CN PLACEHOLDER
 沙羅はひざまずき、薄氷をすくうような手つきで、そのペンダントを拾いあげた。%K%P
 Sara scooped up the pendant as if she were picking up a fragile piece of ice.
 CN PLACEHOLDER
-Сара подняла кулон словно хрупкий кусочек льда.
+Сара подняла кулон, словно хрупкий кусочек льда.
 
 沙羅「………………」%K%P
 ...
@@ -376,17 +376,17 @@ CN PLACEHOLDER
 その両目にはあふれんばかりの涙が浮かんでいた。%K%P
 Both of her eyes were welling up with tears.
 CN PLACEHOLDER
-Её глаза переполнены слезами.
+Оба её глаза переполняют слёзы.
 
 沙羅「……………………」%K%P
 ............
 CN PLACEHOLDER
-...
+............
 
 つぐみ「……………………」%K%P
 ............
 CN PLACEHOLDER
-...
+............
 
 沙羅を高みから見下ろす、つぐみの冷ややかな目。%K%P
 Tsugumi stared coldly at Sara as if looking down at her from far above.
@@ -396,7 +396,7 @@ CN PLACEHOLDER
 その視線に屈しまいと、沙羅は涙を堪え、込み上げる嗚咽を押し殺し、憤然たる眼差しをもって、なおも無言の抵抗を続けている。%K%P
 Sara withstood the glare and stared back at Tsugumi, enraged. She continued to resist silently, trying not to shed tears, not to sob.
 CN PLACEHOLDER
-Сара вынесла её взгляд и яростно уставилась на Цугуми в ответ. Она продолжила молча сопротивляться, стараясь ни ронять слёз, ни хныкать.
+Сара вынесла её взгляд, и яростно уставилась на Цугуми в ответ. Она продолжила молча сопротивляться, стараясь ни ронять слёз, ни хныкать.
 
 そんな光景は、まるで……%K%P
 The scene was just like...
@@ -411,7 +411,7 @@ CN PLACEHOLDER
 まるで……なんだというのだろう？%K%P
 Just like... How to put it?
 CN PLACEHOLDER
-Похоже на... как бы это объяснить?
+Похоже на...как бы это объяснить?
 
 そこで、ふつふつと沸き上がりつつあった激情は、瞬く間に消えてなくなっていった。%K%P
 It was like the emotion that was about to explode to the surface had sunk away to nothingness.
@@ -421,7 +421,7 @@ CN PLACEHOLDER
 気がつくと、すでにつぐみは背を向け、部屋を出て行こうとしている。%K%P
 The next thing I knew, Tsugumi had turned to leave the room.
 CN PLACEHOLDER
-Следующее, что я понял – Цугуми развернулась, чтобы выйти из комнаты.
+Следующее, что я понял - Цугуми развернулась, чтобы выйти из комнаты.
 
 沙羅は今も、つぐみに睨みをきかせている。%K%P
 Sara still focused her glare on Tsugumi.
@@ -446,7 +446,7 @@ CN PLACEHOLDER
 だからまずぼくは、このケンカの原因を突き止めておきたかったのだ。%K%P
 But first, I wanted to find out what the fight was all about.
 CN PLACEHOLDER
-Но сперва я хотел понять, из-за чего была эта драка.
+Но, сперва я хотел понять, из-за чего была эта драка.
 
 救護室を飛び出して、つぐみの背に呼びかけた。%K%P
 I ran out of the infirmary and called out to Tsugumi.
@@ -461,17 +461,17 @@ CN PLACEHOLDER
 しかし、つぐみは無視して通路の方へと出て行ってしまう。%K%P
 But she ignored me and headed for the corridor.
 CN PLACEHOLDER
-Но она проигнорировала меня и направилась дальше по коридору.
+Но, она проигнорировала меня и направилась дальше по коридору.
 
 （はぁ……なんで、いつもこうなんだろう）%K%P
 (Ahhh... Why does it always turn out like this?)
 CN PLACEHOLDER
-(А-а-а-а!.... И почему всё это получается вот так?)
+(Аааа!.... И почему всё это получается вот так?)
 
 ぼくは内心呆れつつも、彼女を追いかけるしかなかった。%K%P
 Even if I was tired of everything, I had no choice but to chase after her.
 CN PLACEHOLDER
-Даже если я вусмерть устал, у меня нет иного выхода – придётся бежать за ней.
+Даже если я вусмерть устал, у меня нет иного выхода - придётся бежать за ней.
 
 少年「ねえ、待ってよ！」%K%P
 Hey, wait!
@@ -481,7 +481,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 彼女はチラリとぼくを見やっただけで、歩みを緩めようとしない。%K%P
 She shot me a glance but didn't slow her step.
@@ -501,7 +501,7 @@ CN PLACEHOLDER
 が、それは打ち払われる。%K%P
 But she shook off my hand.
 CN PLACEHOLDER
-Но она стряхнула её.
+Но, она стряхнула её.
 
 つぐみ「触らないでって、言ったでしょ？」%K%P
 I told you never to touch me.
@@ -516,7 +516,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 そのままつぐみは、何事もなかったかのように歩き出した。%K%P
 Then Tsugumi started walking again, as if nothing had happened.
@@ -561,7 +561,7 @@ CN PLACEHOLDER
 そこまで言ってハッと思う。%K%P
 I thought I had said enough.
 CN PLACEHOLDER
-Наверное я и так сказал достаточно.
+Наверно я и так сказал достаточно.
 
 （確かに、ぼくには関係ないことじゃないか）%K%P
 (It really probably doesn't have anything to do with me.)
@@ -576,12 +576,12 @@ CN PLACEHOLDER
 （けど……）%K%P
 (But still...)
 CN PLACEHOLDER
-(Но всё же...)
+(Но, всё же...)
 
 つぐみ「いえ……やっぱり、関係あるかもしれない、か」%K%P
 No... Well, actually, it might have something to do with you.
 CN PLACEHOLDER
-Нет... ну, в действительности это касается и тебя.
+Нет...ну, в действительности это касается и тебя.
 
 少年「え？」%K%P
 What?
@@ -591,7 +591,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ツカツカと歩み去るつぐみ。%K%P
 Tsugumi strode away.
@@ -601,17 +601,17 @@ CN PLACEHOLDER
 ぼくはしばし呆然と立ちすくんでいたが、すぐに気を取り直し、あとを追いかけた。%K%P
 I stood stunned for a moment. I soon pulled myself together and started after her again.
 CN PLACEHOLDER
-На секунду я был оглушён. Но вскоре взял себя в руки и снова направился следом.
+На секунду я был оглушён. Но, вскоре взял себя в руки и снова направился следом.
 
 いくら呼びかけても反応を返してくれないつぐみ。%K%P
 No matter how much I called out to her, Tsugumi didn't respond.
 CN PLACEHOLDER
-Но как громко я ни пытаюсь её звать, Цугуми не отзывается.
+Но, как громко я не пытаюсь её звать, Цугуми не отзывается.
 
 やがてぼくは、そんな彼女を追って……%K%P
 At last, I caught up with her again...
 CN PLACEHOLDER
-И вот, наконец, мне удалось догнать её...
+И вот, наконец мне удалось догнать её...
 
 ……クラゲゴンドラの搭乗ゲートまでやってきた。%K%P
 ...We were at the gate for boarding the Jellyfish Gondola.
@@ -626,12 +626,12 @@ CN PLACEHOLDER
 別にゴンドラに乗りたくて、ここへやってきたわけではなさそうだった。%K%P
 And it didn't look as though she had stopped there with any intention of riding the gondola.
 CN PLACEHOLDER
-Но непохоже, что она остановилась здесь ради того, чтобы прокатиться в гондоле.
+Но, не похоже, что она остановилась здесь ради того, чтобы прокатиться в гондоле.
 
 かといって、どこかへ移動する様子もなく、どこかへ座るわけでもなく……%K%P
 But it didn't look like she was going to move elsewhere either, or even sit down for that matter.
 CN PLACEHOLDER
-Правда, непохоже и на то, что она собирается идти куда-то ещё, или вообще присесть там и отдохнуть.
+Правда, не похоже и на то, что она собирается идти куда-то ещё, или вообще присесть там и отдохнуть.
 
 ただじっと、ゲートの先に見え隠れする、半透明のゴンドラに視線を向けている。%K%P
 Her eyes were just trained on the half-transparent gondola, which was partially visible beyond the gate.
@@ -646,7 +646,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 彼女は、ぼくという存在を完全に無視しているようだ。%K%P
 It looked like she was completely ignoring me.
@@ -661,7 +661,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「もう、ぼくらを信用してくれなんて言わない」%K%P
 I won't ask you to trust us anymore.
@@ -671,7 +671,7 @@ CN PLACEHOLDER
 少年「でもお願いだから、ケンカだけはしてほしくないんだ」%K%P
 But that doesn't mean that you have to fight with anyone.
 CN PLACEHOLDER
-Но это не значит, что ты должна драться с кем бы то ни было.
+Но, это не значит, что ты должна драться с кем бы то ни было.
 
 少年「こういった状況なんだから、ぼくらは助け合っていかなきゃいけないんだよ」%K%P
 We're all in the same situation here. We have to help each other.
@@ -701,7 +701,7 @@ CN PLACEHOLDER
 しかし、彼女が応答してくれたということは、多少は事態が好転したと考えるべきだろう。%K%P
 I figured that I should take the fact that she responded to me as a slight change in attitude.
 CN PLACEHOLDER
-Так, если она ответила, значит, её настроение изменилось, значит, пора брать быка за рога. Даже если это всего лишь маленький, ничтожный шанс.
+Так, если она ответила, значит её настроение изменилось, значит пора брать быка за рога. Даже если это всего лишь маленький, ничтожный шанс.
 
 ぼくは質問を重ねた。%K%P
 I shot her another question.
@@ -726,7 +726,7 @@ CN PLACEHOLDER
 つぐみ「自分の意志で、そうやっているのかどうかは別としてね」%K%P
 I don't know whether you're acting of your own will, but still.
 CN PLACEHOLDER
-Я не знаю, действуете ли вы так по собственной воле или нет, но...
+Я не знаю, действуете ли Вы так по собственной воле или нет, но...
 
 少年「よくわからないよ。具体的に、どう尋常じゃないの？」%K%P
 I don't get you. What EXACTLY is suspicious?
@@ -766,7 +766,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ジロリと、ぼくを睨みつけるつぐみ。%K%P
 Tsugumi stared at me intensely.
@@ -776,7 +776,7 @@ CN PLACEHOLDER
 ぼくはそれを肯定と受け止めた。%K%P
 I took her look as an affirmation.
 CN PLACEHOLDER
-Я принял её взгляд как «Да».
+Я принял её взгляд как 'Да'.
 
 だとしたら……%K%P
 In that case...
@@ -801,12 +801,12 @@ CN PLACEHOLDER
 つぐみ「えっ？」%K%P
 Huh?
 CN PLACEHOLDER
-А?
+Эээ?
 
 少年「そうなんだね？」%K%P
 I'm right, aren't I?
 CN PLACEHOLDER
-Значит, я прав...
+Значит я прав...
 
 少年「そうか、これは、ぼくだけじゃなかったんだ」%K%P
 So it's not just me then.
@@ -816,22 +816,22 @@ CN PLACEHOLDER
 少年「でも、なんで突然、予知なんてできるようになったんだろう……」%K%P
 But how come I can see into the future all of a sudden...?
 CN PLACEHOLDER
-Но тогда с чего это вдруг я могу видеть будущее?..
+Но, тогда, с чего это вдруг я могу видеть будущее...?
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「うーん、うーーーん……」%K%P
 Hmmm... Hmmm...
 CN PLACEHOLDER
-Хм-м-м... Хм-м-м...
+Хммм...хммм...
 
 予知……予知……。%K%P
 See... the future...
 CN PLACEHOLDER
-Видеть... будущее...
+Видеть...будущее...
 
 いや、でもあの感覚は、未来を先読みしたというよりも……%K%P
 No, the feeling I had was less one of seeing it and more like...
@@ -841,12 +841,12 @@ CN PLACEHOLDER
 『未来を知っていた』あるいは『過去にも同じことがあった』……%K%P
 ...Knowing the future, or possibly having experienced it before...
 CN PLACEHOLDER
-...знание будущего... словно я когда-то уже пережил всё это...
+...знание будущего... словно я когда-то пережил всё это раньше...
 
 知っていた？　前にも同じことがあった？%K%P
 Did I know it? Had I experienced it?
 CN PLACEHOLDER
-Я знаю? Или пережил всё это?
+Я знаю? Или пережил всё это раньше?
 
 なぜ？%K%P
 Why?
@@ -861,12 +861,12 @@ CN PLACEHOLDER
 ――同じ出来事を繰り返しているから。%K%P
 —Because the same thing was happening again.
 CN PLACEHOLDER
-...потому что то же самое происходит опять.
+...потому, что то же самое происходит опять.
 
 少年「そ、そうかぁっ！」%K%P
 Th-That's it!
 CN PLACEHOLDER
-К-конечно же!
+К-Конечно же!
 
 少年「つぐみとぼくは、過去にタイムスリップしたんだ！」%K%P
 You and I must have traveled to the past, Tsugumi!
@@ -876,7 +876,7 @@ CN PLACEHOLDER
 つぐみ「……タイム……スリップ？」%K%P
 ...Traveled... to the past?
 CN PLACEHOLDER
-...провал... во времени?
+...провал...во времени?
 
 少年「うん」%K%P
 Yup.
@@ -921,7 +921,7 @@ CN PLACEHOLDER
 少年「たぶんぼくも、今回と同じようなことを過去に経験したことがあって……」%K%P
 I think I've probably experienced this same thing in my past...
 CN PLACEHOLDER
-Наверное, мне так казалось, потому что я пережил нечто подобное в прошлом...
+Наверно, мне так казалось, потому что я пережил нечто подобное в прошлом...
 
 つぐみは、じっとぼくの方を見つめていた。%K%P
 Tsugumi just stared at me.
@@ -931,7 +931,7 @@ CN PLACEHOLDER
 明らかに動揺の色がうかがえる。%K%P
 I could clearly see that she was flustered.
 CN PLACEHOLDER
-Единственное, что видно – она взволнованна.
+Единственное, что видно - она взволнованна.
 
 少年「ねえ？　話を聞かせてよ」%K%P
 Hey. Tell me your story.
@@ -956,7 +956,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ようやく見つけた同胞に拒絶されたかのようで、ぼくは激しく落胆してしまう。%K%P
 I felt dejected, like I had finally found someone that could share my feelings but wouldn't.
@@ -966,7 +966,7 @@ CN PLACEHOLDER
 つぐみ「いいこと？　前にも言ったけど、これ以上、奴らには関わらない方が身のためよ」%K%P
 Listen. I told you before, it would be best for you if you stayed away from them.
 CN PLACEHOLDER
-Слушай. Я же говорила, для тебя самого будет лучше – держись от них подальше.
+Слушай. Я же говорила, для тебя самого будет лучше - держись от них подальше.
 
 つぐみ「もちろん、私にも」%K%P
 And me too.
@@ -991,12 +991,12 @@ CN PLACEHOLDER
 つぐみ「でも、あえて理由があるとしたら……それが、あなた自身にとって最もいい結果をもたらすからよ」%K%P
 But if there is a reason... It's so that things turn out the best for you.
 CN PLACEHOLDER
-Но хорошо. Причина такова... для твоего же собственного блага.
+Но, хорошо. Причина такова... для твоего же собственного блага.
 
 少年「………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「例えば……」%K%P
 For example...
@@ -1011,7 +1011,7 @@ CN PLACEHOLDER
 少年「え……？」%K%P
 ...Huh?
 CN PLACEHOLDER
-...а?
+...эээ?
 
 ドキリとする。%K%P
 That was a shocking idea.
@@ -1026,7 +1026,7 @@ CN PLACEHOLDER
 （え、え、え…………そん、な……）%K%P
 (What... There's no way...)
 CN PLACEHOLDER
-(Что... не может быть...)
+(Что...не может быть....)
 
 そんなこと、今まで考えもしなかった。%K%P
 I had never even entertained that idea.
@@ -1046,7 +1046,7 @@ CN PLACEHOLDER
 つぐみ「ああそうだ……それと、もうひとつ」%K%P
 Oh... and there is one more thing.
 CN PLACEHOLDER
-Ох... да, и ещё кое-что.
+Ох...да, и ещё кое-что.
 
 つぐみ「お喋りついでに、私も、その未来予知とやらをしてあげましょうか？」%K%P
 As long as we're shooting the breeze, shall I predict a bit of the future for you?
@@ -1056,7 +1056,7 @@ CN PLACEHOLDER
 少年「………………」%K%P
 .........
 CN PLACEHOLDER
-...
+............
 
 ゆっくりと顔をあげて、つぐみを見る。%K%P
 I slowly lifted up my face and looked at Tsugumi.
@@ -1066,7 +1066,7 @@ CN PLACEHOLDER
 彼女は、いつになく真剣な顔だった。%K%P
 She looked serious all of a sudden.
 CN PLACEHOLDER
-Ни с того ни с сего она выглядит серьёзной.
+Ни с того ни с сего, она выглядит серьёзной.
 
 つぐみの予知……。%K%P
 Tsugumi predicted that...
@@ -1103,7 +1103,7 @@ CN PLACEHOLDER
 少年「て、てめぇ……」%K%P
 Y-You...
 CN PLACEHOLDER
-Т-ты...
+Т...ты...
 
 熱くたぎるような憎悪の塊が、ぼくの中で弾け飛んだ。%K%P
 A hot surge of hate raced through me.
@@ -1113,7 +1113,7 @@ CN PLACEHOLDER
 少年「ふざけんじゃねーぞ！　このやろう！」%K%P
 Who the hell do you think you are!? You good-for-nothing...!
 CN PLACEHOLDER
-Кем ты себя возомнила?! Ничтожество!..
+Кем ты себя возомнила?! Ничтожество...!
 
 咆哮をあげ、ぼくはつぐみの胸ぐらへとつかみかかった。%K%P
 I screamed and grabbed Tsugumi by the collar.
@@ -1133,7 +1133,7 @@ CN PLACEHOLDER
 少年「放せよ！　放せ！　放せっつってんだろ！」%K%P
 Let go! Let go! I said, let go of me!
 CN PLACEHOLDER
-Отпусти! Отпусти! Отпусти, говорю!
+Отпусти! Отпусти! Отпусти говорю!
 
 ぼくは暴れもがき続けた。%K%P
 I continued to struggle violently.
@@ -1153,17 +1153,17 @@ CN PLACEHOLDER
 そこにいたのは、すでにぼくではなかった。%K%P
 What was left of my mind had ceased to be “me”.
 CN PLACEHOLDER
-То, что осталось в моём разуме, перестало быть «мной».
+То, что осталось в моём разуме, перестало быть 'мной'.
 
 ………………。%K%P
 .........
 CN PLACEHOLDER
-.........
+.......
 
 …………。%K%P
 ......
 CN PLACEHOLDER
-......
+....
 
 ……。%K%P
 ...

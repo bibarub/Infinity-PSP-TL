@@ -21,17 +21,17 @@ CN PLACEHOLDER
 その事実に打ちのめされ、気力を失い、ただ時計の針が進んでいくのを眺めている。%K%P
 Hit by that reality, all of my remaining strength drained away. All I could do was watch the seconds on the clock slip by.
 CN PLACEHOLDER
-Под тяжестью реальности, я надломился, и через эту трещину вытекли все остатки силы. Всё, что осталось – наблюдать как на часах проскакивают секунды.
+Под тяжестью реальности, я надломился, и через эту трещину вытекли все остатки силы. Всё, что осталось - наблюдать как на часах проскакивают секунды.
 
 少年は体調不良を訴え、カプセル・ポッドに入り、今は眠っている。%K%P
 The Kid's condition had gotten worse, and he was sleeping in a capsule pod.
 CN PLACEHOLDER
-Состояние Малого ухудшилось, поэтому сейчас тот спит в капсулевидном модуле.
+Состояние Кида ухудшилось, поэтому сейчас тот спит в капсулевидном модуле.
 
 せめてどこか外部と連絡を取ろうと、俺達は通信回線の接続を試みた。%K%P
 We had tried contacting the outside using the communication lines.
 CN PLACEHOLDER
-Мы пытались подать сигнал SOS по линиям связи.
+Мы пытались подать сигнал СОС по линиям связи.
 
 しかし……%K%P
 But...
@@ -51,12 +51,12 @@ CN PLACEHOLDER
 時折、混信気味に外から一方的な通信が入ってきては切れた。%K%P
 Every once in a while, static would come through the receiver from the outside.
 CN PLACEHOLDER
-Время от времени приёмник ловит статические помехи снаружи.
+Время от времени, приёмник ловит статические помехи снаружи.
 
 回路は生きているはずなのだが……コンピューター上の通信ソフトウェアが機能していない。%K%P
 Which meant that the lines were functioning... but the computer's communication software wasn't working.
 CN PLACEHOLDER
-А это значит, что линии связи функционируют... вот только ПО на компьютерах – нет.
+А это значит, что линии связи функционируют... вот только ПО на компьютерах - нет.
 
 このＩＢＦの存在や記録を外部から隠す為、ライプリヒ製薬はあえて、俺達を孤立させたとでも言うのか。%K%P
 We had been trapped there by Leiblich Pharmaceuticals to hide the existence of IBF and its records from the outside world.
@@ -66,7 +66,7 @@ CN PLACEHOLDER
 悪夢に等しい、現実。%K%P
 Our reality was a nightmare.
 CN PLACEHOLDER
-Наша реальность – кошмар наяву.
+Наша реальность - кошмар наяву.
 
 これが……%K%P
 How I wished...
@@ -81,17 +81,17 @@ CN PLACEHOLDER
 そう思いながら、俺はゆっくりと目を覚ました。%K%P
 Thinking that, I closed my eyes slowly.
 CN PLACEHOLDER
-С этой мыслью я медленно закрыл свои глаза.
+С этой мыслью, я медленно закрыл свои глаза.
 
 アナウンス「Ｄｒｅｉ⑳Ｍｉｎｕｔｅｎ⑳
 <Drei Minuten 
 CN PLACEHOLDER
-Drei Minuten 
+Три минуты 
 
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
 vor der Implosion.>”
 CN PLACEHOLDER
-vor der Implosion.»%N(Три минуты до затопления.)
+до затопления.»
 
 部屋のスピーカーから、無機質なアナウンスが聞こえる。%K%P
 An announcement grated mechanically from the room's speakers.
@@ -111,7 +111,7 @@ CN PLACEHOLDER
 つぐみ「どうやら……始まったみたい」%K%P
 Looks like... it's started.
 CN PLACEHOLDER
-Похоже... началось.
+Похоже...началось.
 
 つぐみは天井を見上げて、呟いた。%K%P
 Tsugumi looked at the ceiling and murmured that.
@@ -121,12 +121,12 @@ CN PLACEHOLDER
 武「始まった……？」%K%P
 Started...?
 CN PLACEHOLDER
-Началось?..
+Началось...?
 
 つぐみ「あるいは、終わり、ね」%K%P
 Or I guess you could say it's finished.
 CN PLACEHOLDER
-Точнее... всё... кончено.
+Точнее......всё...кончено.
 
 武「終わり……」%K%P
 Finished...
@@ -166,12 +166,12 @@ CN PLACEHOLDER
 優「つぐみ……何言ってるの」%K%P
 Tsugumi... what are you talking about?
 CN PLACEHOLDER
-Цугуми... о чём ты?
+Цугуми...о чём ты?
 
 優「場所って、何？」%K%P
 Place? What place?
 CN PLACEHOLDER
-Что значит... здесь?
+Что значит...здесь?
 
 床にへたり込んだ優が、おずおずと顔をあげて言った。%K%P
 From her spot on the floor, You raised her head feebly.
@@ -201,22 +201,22 @@ CN PLACEHOLDER
 右足を……引きずっている……。%K%P
 She dragged... her right leg...
 CN PLACEHOLDER
-Волоча... свою правую ногу...
+Волоча...свою правую ногу....
 
 武「つぐみ、その足は……？」%K%P
 Tsugumi, what happened to your leg...?
 CN PLACEHOLDER
-Цугуми, что стало с твоей... ногой?
+Цугуми, что стало с твоей...ногой?
 
 つぐみ「ああ、これ？」%K%P
 Oh, this?
 CN PLACEHOLDER
-Ах... это?
+Ахх...это?
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+......
 
 つぐみは、俺に言われて初めて気づいたかのように、自分の足を見た。%K%P
 Tsugumi looked at her leg as if it was the first time that she had noticed.
@@ -236,17 +236,17 @@ CN PLACEHOLDER
 つぐみ「それもまた、間違いだったのかも……しれない」%K%P
 But it looks like I was wrong again...
 CN PLACEHOLDER
-Похоже, что... я... ошиблась...
+Похоже, что...я...ошиблась...
 
 アナウンス「Ｚｗｅｉ⑳Ｍｉｎｕｔｅｎ⑳
 <Zwei Minuten 
 CN PLACEHOLDER
-Zwei Minuten 
+Две минуты 
 
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
 vor der Implosion.>”
 CN PLACEHOLDER
-vor der Implosion.»%N(Две минуты до затопления.)
+до затопления.»
 
 足を引きつらせながら、つぐみは扉へと歩いて行く。%K%P
 Dragging her leg, Tsugumi hobbled toward the door.
@@ -261,7 +261,7 @@ CN PLACEHOLDER
 武「ま、待てよっ！」%K%P
 W-Wait!
 CN PLACEHOLDER
-С-стой!
+С-Стой!
 
 俺は彼女を追おうとして、無様に転んだ。%K%P
 I tried to chase after her but tripped awkwardly.
@@ -281,27 +281,27 @@ CN PLACEHOLDER
 床に突っ伏したまま、全身が痺れて動けない。%K%P
 Sprawled out on the floor, my whole body was numb, and I couldn't move.
 CN PLACEHOLDER
-Растянувшись на полу, всё моё тело онемело... Не могу пошевелиться.
+Растянувшись на полу, всё моё тело онемело... не могу пошевелиться.
 
 武「……！？」%K%P
 ...!?
 CN PLACEHOLDER
-?!
+〜〜〜!?
 
 武「お、俺の身体は……どうしちまったんだ」%K%P
 Wh-What's happening... to me?
 CN PLACEHOLDER
-Ч-что со... мной?..
+Ч-Что со...мной...?
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+......
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+......
 
 武「げほっ」%K%P
 *Cough*...
@@ -311,7 +311,7 @@ CN PLACEHOLDER
 唐突に咳き込んで、俺は口元を手で覆った。%K%P
 I suddenly started coughing and put my hand to my mouth.
 CN PLACEHOLDER
-Ни с того ни с сего на меня напал кашель. Я прислонил свою руку ко рту.
+Ни с того ни с сего, на меня напал кашель. Я прислонил свою руку ко рту.
 
 その手を静かに退けると……。%K%P
 Removing it slowly...
@@ -326,7 +326,7 @@ CN PLACEHOLDER
 武「つぐみ……どこへ……行くんだ？」%K%P
 Tsugumi... where are... you going?
 CN PLACEHOLDER
-Цугуми... куда... ты?..
+Цугуми...куда...ты...?
 
 視界が霞み始めた。%K%P
 My vision began to grow dim.
@@ -341,12 +341,12 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+......
 
 つぐみ「さぁ……？」%K%P
 Who knows...?
 CN PLACEHOLDER
-Кто знает?..
+Кто знает...?
 
 つぐみは、首を傾げた。%K%P
 Tsugumi tilted her head.
@@ -366,7 +366,7 @@ CN PLACEHOLDER
 つぐみ「もう逢うこともないでしょう」%K%P
 This is probably the last time we'll see each other.
 CN PLACEHOLDER
-Наверное, мы больше не увидимся.
+Наверно, мы больше не увидимся.
 
 彼女の姿は、ゆらゆらと揺らめいているようだった。%K%P
 Her outline seemed to flicker faintly.
@@ -376,12 +376,12 @@ CN PLACEHOLDER
 つぐみ「じゃあね……」%K%P
 Goodbye...
 CN PLACEHOLDER
-Прощай...
+Пока...
 
 扉の向こう側の通路に、やがてつぐみは……見えなくなった。%K%P
 As Tsugumi walked down the hallway... I lost sight of her.
 CN PLACEHOLDER
-Цугуми пошла по коридору... и я потерял её из виду.
+Цугуми пошла по коридору...и я потерял её из виду.
 
 彼女は部屋の外側から、扉を閉めていく。%K%P
 She closed the hatch from the outside.
@@ -396,7 +396,7 @@ CN PLACEHOLDER
 直後――%K%P
 In that instant—
 CN PLACEHOLDER
-И тут...
+И тут —
 
 壁を隔てた通路の向こうで、恐ろしい濁流の音が聞こえた。%K%P
 I heard the terrible roar of water from the passageway on the other side of the wall.
@@ -411,37 +411,37 @@ CN PLACEHOLDER
 武「つ……つぐみ……！！」%K%P
 Tsu... Tsugumi...!
 CN PLACEHOLDER
-Ц... Цугуми!
+Ц...Цугуми...!!
 
 優「つぐみっ……！！」%K%P
 Tsugumi...!
 CN PLACEHOLDER
-Цугуми!
+Цугуми...!!
 
 アナウンス「Ｅｉｎｅ⑳Ｍｉｎｕｔｅ⑳
 <Eine Minute 
 CN PLACEHOLDER
-Eine Minute 
+Одна минута 
 
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
 vor der Implosion.>”
 CN PLACEHOLDER
-vor der Implosion.»%N(Одна минута до затопления.)
+до затопления.»
 
 ピーーーーーー…………。%K%P
 Beeeeeeeep...
 CN PLACEHOLDER
-Пи-и-и-и-иск...
+Пииииииииииск......
 
 ポッドのコントロールパネルが、甲高い電子音を鳴らす。%K%P
 The alarm from the pod's control panel started shrieking a high-pitched warning.
 CN PLACEHOLDER
-Динамик на панели управления модулем издал пронзительный звук.
+Динамик на панели управления модулем издал пронзительный писк.
 
 その音にぎごちなく首を動かし、振り向いた。%K%P
 I turned my head to look over at the source of the noise.
 CN PLACEHOLDER
-Я повернул голову в сторону его источника...
+Я повернул голову в сторону источника шума...
 
 モニターに出ていたはずの生体反応は、もう動いていなかった。%K%P
 The vital signs, which should have been displayed on the monitor, were no longer moving.
@@ -451,12 +451,12 @@ CN PLACEHOLDER
 優「少年……っ」%K%P
 Kid...
 CN PLACEHOLDER
-Малой...
+Кид...
 
 武「少年が……そんな……」%K%P
 Kid... No...
 CN PLACEHOLDER
-Малой... нет...
+Кид...нет...
 
 電子音は止まない。%K%P
 The alarm wouldn't stop...
@@ -476,32 +476,32 @@ CN PLACEHOLDER
 優「嘘……」%K%P
 It can't be...
 CN PLACEHOLDER
-Ложь!..
+Ложь...!
 
 優「こんなの、嘘だよおっ……」%K%P
 It's got to be wrong...
 CN PLACEHOLDER
-Гх... этого... не может быть!
+Гх......этого......не может быть...!!
 
 優「ううっ……」%K%P
 Aaagh...
 CN PLACEHOLDER
-А-а-а-а-агх...
+〜〜〜〜〜...〜〜〜...!
 
 優「誰か、嘘だって言って……」%K%P
 Somebody tell me this is all just a bad joke...
 CN PLACEHOLDER
-Кто-нибудь, скажите, что это неправда...
+...кто-нибудь, скажите что это неправда...
 
 優「倉成……」%K%P
 Kuranari...
 CN PLACEHOLDER
-Куранари!..
+...Куранари...!
 
 優「嘘だって、言ってよおっ……」%K%P
 Tell me it's a lie...
 CN PLACEHOLDER
-Скажи... что это ложь!
+......скажи...что это ложь...!!
 
 床に這いつくばったまま、優は声をあげて泣いていた。%K%P
 Lying flat on the floor, You started sobbing.
@@ -526,12 +526,12 @@ CN PLACEHOLDER
 優「倉成……どこにいるの……？」%K%P
 Kuranari... where are you...?
 CN PLACEHOLDER
-Куранари... где ты?..
+...Куранари.........где ты...?
 
 武「俺は……ここだ……」%K%P
 I'm... here...
 CN PLACEHOLDER
-Я... здесь...
+Я...здесь...
 
 優「どこにいるの？」%K%P
 Where are you?
@@ -541,7 +541,7 @@ CN PLACEHOLDER
 優「手を、出して……」%K%P
 Give me your hand...
 CN PLACEHOLDER
-Дай... руку...
+Дай...руку...
 
 床は既に、血に赤く濡れていた。%K%P
 The floor was wet with blood.
@@ -551,7 +551,7 @@ CN PLACEHOLDER
 ままならない滑りの上で、腕をかろうじて届かせる。%K%P
 I somehow slid my arm over to her.
 CN PLACEHOLDER
-С трудом я протянул к ней свою руку.
+С трудом, я протянул к ней свою руку.
 
 優の両手は、俺の右手を柔らかく受け止め、包み込んだ。%K%P
 Both of You's hands took my right hand, closing around it gently.
@@ -566,7 +566,7 @@ CN PLACEHOLDER
 優「倉成……っ」%K%P
 Kuranari...
 CN PLACEHOLDER
-Куранари...
+......Куранари...!
 
 這うようにこちらに近づいた優は、握った俺の手を引き寄せる。%K%P
 You came crawling over to me, pulling the hand in her grasp closer.
@@ -591,22 +591,22 @@ CN PLACEHOLDER
 優「嫌だよっ……」%K%P
 I hate this...
 CN PLACEHOLDER
-Ненавижу...
+.........ненавижу...
 
 優「寒いよおっ……」%K%P
 It's so cold...
 CN PLACEHOLDER
-Холодно...
+...холод...!
 
 優「私……」%K%P
 I...
 CN PLACEHOLDER
-Я...
+...я...
 
 優「私、死にたくない……」%K%P
 I don't want to die...
 CN PLACEHOLDER
-Я... не хочу умирать...
+...я...не хочу умирать...!
 
 がたがたと、優は身を震わせていた。%K%P
 You's body was starting to shake.
@@ -621,7 +621,7 @@ CN PLACEHOLDER
 優「くらなりぃっ……」%K%P
 Kuranariii...
 CN PLACEHOLDER
-Куранари...
+Куранари〜〜...
 
 優「心臓が……」%K%P
 My heart...
@@ -631,7 +631,7 @@ CN PLACEHOLDER
 優「私の心臓が……破裂しそうだよ……」%K%P
 My heart... feels like it's going to burst...
 CN PLACEHOLDER
-Моё сердце... сейчас взорвётся!..
+Моё сердце...сейчас взорвётся...!
 
 肌も衣服も、冷え切っていた。%K%P
 Her skin and clothes were freezing cold.
@@ -641,12 +641,12 @@ CN PLACEHOLDER
 手と手が接している彼女の胸元だけが、ほのかに熱を持っていた。%K%P
 The only place where warmth remained was her chest, where our hands were touching.
 CN PLACEHOLDER
-Единственное место, где ещё есть тепло – её грудь, где соприкасаются наши руки.
+Единственное место, где ещё есть тепло - её грудь, где соприкасаются наши руки.
 
 俺は指先に、張り裂けそうなくらい、優の鼓動を感じた。%K%P
 You's heart was beating so hard, it felt like it would explode.
 CN PLACEHOLDER
-Сердце Ю бьётся так сильно, будто действительно вот-вот взорвётся.
+Сердце Ю бъётся так сильно, будто действительно вот-вот взорвётся.
 
 優「怖い……」%K%P
 I'm scared...
@@ -661,7 +661,7 @@ CN PLACEHOLDER
 優「助けて、倉成」%K%P
 Help me, Kuranari.
 CN PLACEHOLDER
-Помоги мне... Куранари!..
+...помоги мне...Куранари...!
 
 声は次々に乾いていく。息は擦れるようだ。%K%P
 Her voice was getting hoarse, and she was having trouble breathing.
@@ -686,12 +686,12 @@ CN PLACEHOLDER
 優「んっ……」%K%P
 Aagh...
 CN PLACEHOLDER
-Агх...
+〜〜〜〜...!!
 
 優「痛っ……」%K%P
 It hurts...
 CN PLACEHOLDER
-Больно...
+Больно...〜〜〜〜!!
 
 彼女は全身を強く痙攣させた。%K%P
 Her whole body was wracked with spasms...
@@ -706,12 +706,12 @@ CN PLACEHOLDER
 やがて、その震えも弱まっていく。%K%P
 But soon, even her shaking became weaker.
 CN PLACEHOLDER
-Но вскоре... Даже тряска стала ослабевать.
+Но, вскоре...даже тряска стала ослабевать.
 
 どんどん、彼女は冷たくなっていく。%K%P
 She became colder and colder with each passing moment.
 CN PLACEHOLDER
-С каждой секундой она становится всё холоднее и холоднее.
+С каждой секундой, она становится всё холодней и холодней.
 
 心臓だけが、激しく早鐘を打っている。%K%P
 Only her heart remained beating ferociously.
@@ -726,12 +726,12 @@ CN PLACEHOLDER
 優「くらなり……」%K%P
 Kuranari...
 CN PLACEHOLDER
-Куранари...
+...Куранари...
 
 優「私のことなんか、何とも……思ってなかっただろうけど、さ……」%K%P
 You probably didn't... feel anything about me, but...
 CN PLACEHOLDER
-Должно быть... я... ничего для тебя... не значу, но...
+Должно быть...я...ничего для тебя...не значу, но...
 
 枯れ果てた声。%K%P
 Her voice was devoid of strength.
@@ -746,7 +746,7 @@ CN PLACEHOLDER
 優「本当はね、わたし、倉成の、こ……と」%K%P
 But I... really liked...
 CN PLACEHOLDER
-Но... ты мне... правда... нравил... ся...
+Но...ты мне...всегда...нравил...ся....
 
 優の心臓が、ひときわ大きく爆ぜた。%K%P
 You's heart made one last frantic burst.
@@ -756,7 +756,7 @@ CN PLACEHOLDER
 それきり――%K%P
 And after that—
 CN PLACEHOLDER
-И...
+И —
 
 何も、聞こえなくなった。%K%P
 I heard nothing.
@@ -771,22 +771,22 @@ CN PLACEHOLDER
 もう鼓動は、永遠に感じられなかった。%K%P
 The beating of her heart lost forever.
 CN PLACEHOLDER
-Биение её сердца затихло навсегда.
+Биение её сердца пропало навеки.
 
 武「！！」%K%P
 !
 CN PLACEHOLDER
-!
+!!
 
 瞬間、俺の視界は真っ赤に染まった。%K%P
 In that moment, my vision went red.
 CN PLACEHOLDER
-В тот же миг моё поле зрения окрасилось красным.
+В тот же миг, моё поле зрения окрасилось красным.
 
 慌てて顔を拭ってみようとする。%K%P
 Panicking, I wiped my face with my hands.
 CN PLACEHOLDER
-Я в панике вытер лицо.
+В панике, я вытер лицо руками---
 
 赤い。%K%P
 Red.
@@ -796,17 +796,17 @@ CN PLACEHOLDER
 赤い……。%K%P
 Everything was red...
 CN PLACEHOLDER
-Вокруг всё красное...
+Вокруг всё красное......
 
 目には何も見えない……。%K%P
 I couldn't see anything...
 CN PLACEHOLDER
-Я ничего не вижу...
+Я ничего не вижу---
 
 手には、ぬるりとした生暖かい感触だけ。%K%P
 All I could feel was slippery warmth.
 CN PLACEHOLDER
-Всё, что я чувствую – ускользающая теплота.
+Всё, что я чувствую -- ускользающую теплоту.
 
 激しく叩きつけられるように、俺は顔を床に埋めた。%K%P
 My face was pressed into the floor so hard that I thought it would become part of it.

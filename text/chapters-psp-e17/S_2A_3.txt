@@ -1,7 +1,7 @@
 ﻿ぼくと沙羅は、憩いの間のベンチの上で、アグラをかいて座っていた。%K%P
 Sara and I sat cross-legged on a bench in the rest area.
 CN PLACEHOLDER
-Мы с Сарой сели на скамейку в мини-парке.
+Сара и я сели на скамейку в мини-парке.
 
 床は一面水浸しだったから……。%K%P
 The floor was covered with water.
@@ -21,7 +21,7 @@ CN PLACEHOLDER
 そして、ぼくらは今、武が作ってくれたタツタサンドを食べ終えたところだった。%K%P
 We had just polished off the fried tuna sandwiches that Takeshi had made for us.
 CN PLACEHOLDER
-Мы только что прикончили сэндвичи с тунцом, что приготовил для нас Такэси.
+Мы только что прикончили бутерброды с курятиной, что приготовил для нас Такеши.
 
 他の４人はと言うと……。%K%P
 As for the other four...
@@ -31,22 +31,22 @@ CN PLACEHOLDER
 空は、制御室にこもって、あいかわらずレミとのコンタクトを続けている。%K%P
 Sora was, as usual, cooped up in the control room and trying to make contact via LeMMIH.
 CN PLACEHOLDER
-Сора, как обычно, заперлась в Центре управления, пытаясь наладить соединение с LeMMIH.
+Сора, как обычно, заперлась в Центре Управления, пытаясь наладить соединение с ЛеММИХ.
 
 つぐみは、行き先を告げずにどこかへ消えてしまった。%K%P
 Tsugumi had vanished without saying where she was going.
 CN PLACEHOLDER
-Цугуми испарилась без предупреждения... даже не сказала, куда пойдёт.
+Цугуми испарилась без предупреждения...даже не сказала, куда пойдёт.
 
 武は、作ったタツタサンドを空とつぐみに届けに行った。%K%P
 Takeshi had gone to deliver sandwiches to Sora and Tsugumi.
 CN PLACEHOLDER
-Такэси пошёл относить сэндвичи Соре и Цугуми.
+Такеши пошёл относить бутерброды Соре и Цугуми.
 
 武は、作ったタツタサンドをつぐみに届けに行った。%K%P
 Takeshi had gone to deliver a sandwich to Tsugumi.
 CN PLACEHOLDER
-Такэси пошёл относить сэндвич Цугуми.
+Такеши пошёл относить бутерброд Цугуми.
 
 優は、着替えに行っている。食事中にソースをこぼしてしまったらしいのだ。%K%P
 You was changing clothes. Apparently, she had spilled something on them while eating.
@@ -56,12 +56,12 @@ CN PLACEHOLDER
 幸い彼女の普段着は、更衣室とともにこのドライエリア内に健在だったのだ。%K%P
 Fortunately, her normal clothes were safe in the changing room in the dry area.
 CN PLACEHOLDER
-К счастью, с её повседневной одеждой всё в порядке, и она лежит в незатопленной раздевалке.
+К счастью, её повседневная одежда не пострадала, и лежит в незатопленной раздевалке.
 
 沙羅「ねえ？　お腹もいっぱいになったことだし、ゲームでもやらない？」%K%P
 Hey, I'm full now. Why don't we play a game?
 CN PLACEHOLDER
-Слушай, теперь, когда мы сытые и довольные, может, во что-нибудь сыграем?
+Слушай, теперь когда мы сытые и довольные, может во что-нибудь сыграем?
 
 少年「ゲーム？」%K%P
 A game?
@@ -71,17 +71,17 @@ CN PLACEHOLDER
 沙羅「うん、山手線ゲームとか、３文字シリトリとか……」%K%P
 Yeah. The Yamanote Line game or a word game...
 CN PLACEHOLDER
-Ну, например, в слова. Это японская разновидность, называется „Строка Яманоте“...
+Ну, например, в слова. Это японская разновидность, называется 'Строка Яманоте'...
 
 沙羅「そうだ！　ジャンケンモノマネゲームやろうよ！」%K%P
 I know! Rock, paper, scissors charades!
 CN PLACEHOLDER
-О, давай-ка лучше в „Камень-ножницы-бумага“ с пародиями!
+О, давай-ка лучше в 'Камень-ножницы-бумага' с шарадами!
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 沙羅「ジャンケンして、勝った方がお題を出すのね？」%K%P
 We play, and the winner gets to choose something.
@@ -96,7 +96,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 沙羅「せーの、チッケッピ！」%K%P
 Ready, Ro Sham Bo!
@@ -106,7 +106,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 沙羅「ちょっと、ちゃんと手、出してよぉ」%K%P
 Come on! Put your hand out.
@@ -116,7 +116,7 @@ CN PLACEHOLDER
 少年「ぼくはまだ、やるなんて言ってないけど？　それから、チッケッピって何？」%K%P
 I haven't said I'm going to play. And what is that 'Ro Sham Bo'?
 CN PLACEHOLDER
-Я не говорил, что буду играть. И что ещё за „камень-ножницы-бумага“?
+Я не говорил, что буду играть. И что ещё за камень-ножницы-бумага?
 
 沙羅「チッケッピは、ジャンケンのかけ声」%K%P
 It's what you say when you play rock, paper, scissors.
@@ -146,17 +146,17 @@ CN PLACEHOLDER
 少年「わ、わかったよ……」%K%P
 Oh... Alright...
 CN PLACEHOLDER
-Ну... если так...
+Ну...если так...
 
 沙羅「うむうむ、素直でよろしい」%K%P
 That's more like it.
 CN PLACEHOLDER
-Так-то лучше!
+У〜гу, вот и славненько!
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 沙羅「それじゃあ、いくよ？」%K%P
 Okay, here we go.
@@ -176,22 +176,22 @@ CN PLACEHOLDER
 沙羅「やったね♪　私の勝ち♪」%K%P
 Haha. I won!
 CN PLACEHOLDER
-Ха-ха! Я победила.
+Ха〜ха. Я победила.
 
 沙羅「というわけで……お題はねぇ……」%K%P
 So... I pick...
 CN PLACEHOLDER
-Так... изобрази...
+Так...изобрази...
 
 沙羅「サバ」%K%P
 Salmon.
 CN PLACEHOLDER
-Лосося.
+Лосось.
 
 少年「サ、サバ！？　サバって魚の！？」%K%P
 S-Salmon!? You mean like a fish!?
 CN PLACEHOLDER
-Л-лосося? То есть рыбу?
+Л...лосось? То есть рыбу?
 
 沙羅「うん」%K%P
 Yup.
@@ -206,22 +206,22 @@ CN PLACEHOLDER
 少年「サバ……サバ……」%K%P
 Salmon... Salmon...
 CN PLACEHOLDER
-Лосось... лосось...
+Лосось...лосось...
 
 少年「サバサバサバサバサバサバサバサバァ……」%K%P
 Salmon salmon salmon salmon salmon...
 CN PLACEHOLDER
-Лосось-лосось-лосось-лосось-лосось...
+Лосось лосось лосось лосось лосось...
 
 ぼくは口をパクパクさせ、腰を左右に振って、サバになり切ってみた。%K%P
 I opened and closed my mouth like a fish, gyrating my hips around and doing my best to become a salmon.
 CN PLACEHOLDER
-Я открываю и закрываю рот, как рыба, барахтаюсь... В общем, стараюсь как могу...
+Я открываю и закрываю рот как рыба, барахтаюсь...в общем, стараюсь как могу...
 
 沙羅「きゃはははははははは♪」%K%P
 Kyahahahaha〜
 CN PLACEHOLDER
-А-ах-ха-ха-ха-ха.
+Аах〜ха〜ха〜ха〜ха.
 
 沙羅は腹を抱えて笑ってくれた。%K%P
 Sara was laughing and holding her stomach.
@@ -251,12 +251,12 @@ CN PLACEHOLDER
 沙羅「うわ〜ん、負けたぁ〜、くぅ〜」%K%P
 Ooooh, I lost.
 CN PLACEHOLDER
-Ну вот, я продула. У-у-у...
+Оооой, я продула.
 
 沙羅「お願い、お願いだから、変なお題出さないでよ？」%K%P
 Don't give me a weird one, okay? Please, please.
 CN PLACEHOLDER
-Давай только что-нибудь попроще, ладно? Пожалуйста, пожалуйста.
+Только что-нибудь попроще, ладно? Пожалуйста, пожалуйста.
 
 ぼくがお題に選んだものは……%K%p
 I decided to make her act like...
@@ -271,7 +271,7 @@ CN PLACEHOLDER
 毛利元就
 Caesar
 CN PLACEHOLDER
-Цезаря
+Цезарь
 
 優
 You
@@ -281,7 +281,7 @@ CN PLACEHOLDER
 生意気な赤ちゃん
 A spoiled baby
 CN PLACEHOLDER
-Испорченного ребёнка
+Испорченный ребёнок
 
 少年「『胸ふぢこ』でお願いします」%K%P
 I choose Mynnie!
@@ -301,17 +301,17 @@ CN PLACEHOLDER
 沙羅「うぅ……わかったよ、やればいいんでしょ、やればぁ……」%K%P
 Oh... Alright. I'll do it...
 CN PLACEHOLDER
-Да поняла, поняла! Сейчас сделаю, не канючь...
+Ну...ладно. Ладно...
 
 少年「では、松永沙羅さんで『胸ふぢこ』……ハリキッテ、どうぞ！」%K%P
 Okay then. Matsunaga Sara-san... become 'Mynnie'!
 CN PLACEHOLDER
-Итак, Мацунага Сара... „Минни“!
+Итак, Мацунага Сара...Минни!
 
 沙羅「ラパ〜ン♪　ディゲ〜ン♪　ガジエモ〜ン♪」%K%P
 M-Y-C... K-E-Y... M-O-U-S-E-Y...! Myckey Mousey! Myckey Mousey!
 CN PLACEHOLDER
-М-И-К... К-И... М-А-У-С... Микки Маус, Микки Маус!
+М〜И〜К...К〜И...М〜А〜У〜С...Микки Маус, Микки Маус!
 
 沙羅「お宝は、いただくわよぉ〜ん♪」%K%P
 Who's the leader of the club that's made for you and me〜
@@ -321,7 +321,7 @@ CN PLACEHOLDER
 少年「ククククククククッ……」%K%P
 Hehehe...
 CN PLACEHOLDER
-Хи-хи-хи...
+Хи〜хи〜хи...
 
 少年「『毛利元就』でお願いします」%K%P
 Caesar, please.
@@ -351,12 +351,12 @@ CN PLACEHOLDER
 少年「では、松永沙羅さんで『毛利元就』……ハリキッテ、どうぞ！」%K%P
 Okay then. Matsunaga Sara-san... become 'Caesar'!
 CN PLACEHOLDER
-Итак, Мацунага Сара... „Цезарь“.
+Итак, Мацунага Сара...'Цезарь'.
 
 沙羅「お、おほんっ……」%K%P
 Ah... hem.
 CN PLACEHOLDER
-Э-э... кхм.
+Ээ...кхм.
 
 沙羅「拙者、毛利元就と申す」%K%P
 My name is Caesar.
@@ -366,7 +366,7 @@ CN PLACEHOLDER
 沙羅「疾きこと風の如く、徐かなること林の如く、侵掠すること火の如く、動かざること山の如し」%K%P
 Doth you, Hamlet, defy your lord? Et tu, my friend, Hamlet? Lend me some ears. Not in my empire!
 CN PLACEHOLDER
-Скажи, что хочешь ты от государя, Гамлет? Шепни же на ухо, друг мой... Нет, уж не в нашем ль царстве?!
+Скажи, что хочешь ты от государя, Гамлет? Шепни же на ухо, друг мой... Нет, уж не в нашем ль царстве!?
 
 沙羅「いざ、出陣！」%K%P
 Then it's war!
@@ -376,17 +376,17 @@ CN PLACEHOLDER
 沙羅「パカラッパカラッパカラッパカラッ……」%K%P
 Giddy up, giddy up, giddy up...
 CN PLACEHOLDER
-Цок-цок, цок-цок, цок-цок...
+Цок цок, цок цок, цок цок...
 
 少年「ギャハハハハハハハ……」%K%P
 Kyahahahaha...
 CN PLACEHOLDER
-А-ах-ха-ха-ха-ха...
+Аах〜ха〜ха〜ха〜ха...
 
 少年「うーっ、お腹痛いよぉ、片腹痛いよぉ、二重でオモシロイよぉ……」%K%P
 Heeee, my stomach hurts. It really hurts. You're too funny...
 CN PLACEHOLDER
-Хи-и-и, я чуть живот не надорвал...
+Хииии, я чуть живот не надорвал...
 
 沙羅「そ、そんなに笑わなくてもいいでしょ……」%K%P
 You don't have to laugh that much...
@@ -396,27 +396,27 @@ CN PLACEHOLDER
 少年「だって……だって……それ……」%K%P
 But... Because... That's...
 CN PLACEHOLDER
-Но... это потому... что...
+Но...это потому...что...
 
 少年「風林火山って……毛利元就じゃなくて、武田信玄だよぉ……」%K%P
 That wasn't... Caesar... but a mixed up Hamlet...
 CN PLACEHOLDER
-Это был не... Цезарь... а пародия на Гамлета...
+Это был не...Цезарь...а пародия на Гамлета...
 
 少年「ギャハハハハハハハ……」%K%P
 Kyahahahaha...
 CN PLACEHOLDER
-Хи-и-хи-хи...
+Хиии〜хи〜хи....
 
 少年「『優』でお願いします」%K%P
 I choose for you to act out 'You'.
 CN PLACEHOLDER
-Я хочу, чтобы ты изобразила „Ю“.
+Я хочу, чтобы ты изобразила 'Ю'.
 
 沙羅「優って……なっきゅ先輩のこと？」%K%P
 By You... you mean Nakkyu-senpai?
 CN PLACEHOLDER
-Ю... то есть Няку?
+Ю...то есть Няку?
 
 少年「うん」%K%P
 Yup.
@@ -446,22 +446,22 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 沙羅「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「……………………」%K%P
 ............
 CN PLACEHOLDER
-...
+............
 
 沙羅「……………………」%K%P
 ............
 CN PLACEHOLDER
-...
+............
 
 少年「ゆ、優って……」%K%P
 You is...
@@ -511,7 +511,7 @@ CN PLACEHOLDER
 少年「では、松永沙羅さんで『生意気な赤ちゃん』……ハリキッテ、どうぞ！」%K%P
 Okay then. Matsunaga Sara-san... become a spoiled baby!
 CN PLACEHOLDER
-Ну ладно. Мацунага Сара... „испорченный ребёнок“!
+Ну ладно. Мацунага Сара...испорченный ребёнок!!
 
 沙羅「ぼくはイワン……」%K%P
 I'm little Sara...
@@ -521,7 +521,7 @@ CN PLACEHOLDER
 沙羅「うーん、ミルクが冷たいよ」%K%P
 That milk's cold.
 CN PLACEHOLDER
-О-о-ой, какое молоко холодное.
+Оооой, какое молоко холодное.
 
 沙羅「ちゃんと人肌にあっためてくんなきゃ」%K%P
 I won't drink that milk unless you warm it up to body temperature!
@@ -531,22 +531,22 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........чьего тела...?
 
 沙羅「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+...............
 
 少年「えーっと…………」%K%P
 Uh...
 CN PLACEHOLDER
-Э-э...
+Эээ...
 
 少年「ご、ごめん……記憶がないから、似てるかわからないよ……」%K%P
 Sorry, sorry... I can't remember what babies are like, so I don't know if that was close...
 CN PLACEHOLDER
-Прости... Я не помню, на что похожи дети. Так что не уверен, насколько вышло похоже...
+Прости... я не помню, на что похожи дети... прости пожалуйста...
 
 するとそこに……。%K%P
 And then...
@@ -566,12 +566,12 @@ CN PLACEHOLDER
 少年「あ、ああ……えっとぉ……ジャンケンモノマネゲームを……」%K%P
 Uh... We... Um... We're playing rock, paper, scissors charades...
 CN PLACEHOLDER
-Это... мы... э-э... играем в „камень-ножницы-бумага“ с пародиями...
+Это...мы...ээ...играем в камень-ножницы-бумагу с шарадами...
 
 優「ジャンケンモノマネゲーム？　なんかオモシロそうだね？　私も入れて？」%K%P
 You're playing rock, paper, scissors charades? That sounds fun. Can I play?
 CN PLACEHOLDER
-В „камень-ножницы-бумага“ с пародиями? Звучит прикольно! А мне можно?
+Слушайте, так это здорово! А мне можно?
 
 沙羅「いいですよぉ」%K%P
 Sure.
@@ -611,7 +611,7 @@ CN PLACEHOLDER
 反射的に天井を見る。%K%P
 Instinctively, I looked to the ceiling.
 CN PLACEHOLDER
-Мы инстинктивно взглянули на потолок.
+Инстинктивно, мы взглянули на потолок.
 
 聴覚を研ぎ澄ますと、どこか遠くのほうで地響きにも似た鈍い音が……。%K%P
 Listening carefully, I heard a sound like the rumble of thunder far away.
@@ -621,7 +621,7 @@ CN PLACEHOLDER
 沙羅「な、なにかなぁ……？」%K%P
 What could that be...?
 CN PLACEHOLDER
-Ч-что это было?..
+Ч... что это было...?
 
 床に溜まった水に細波が立っている。%K%P
 Tiny waves formed in the water pooled on the floor.
@@ -636,22 +636,22 @@ CN PLACEHOLDER
 優「ま、まさか……」%K%P
 No... It couldn't be...
 CN PLACEHOLDER
-Нет... Только не это...
+Т...только не это...
 
 少年「まさか、なに？」%K%P
 Couldn't be what?
 CN PLACEHOLDER
-Э-э?..
+Эээ...?
 
 優「ほらっ、昨日の浸水のときと似てない？　これ」%K%P
 Doesn't that sound a lot like when the water flooded in yesterday?
 CN PLACEHOLDER
-Это же прямо как вчера, когда всё затопило, похоже ведь?
+Смахивает на воду, что чуть не затопила нас вчера!
 
 カチカチと明滅を繰り返す照明の中で、優の顔からも、沙羅の顔からも、血の気がすーっと失せていった。%K%P
 The blood appeared to drain from the faces of You and Sara in the flickering light.
 CN PLACEHOLDER
-В мерцающем свете Ю и Сара мгновенно побледнели.
+В мерцающем свете, Ю и Сара мгновенно побледнели.
 
 そして、その直後……。%K%P
 Immediately after that...
@@ -686,7 +686,7 @@ CN PLACEHOLDER
 少年「武は、つぐみと空のところに……」%K%P
 Where are Takeshi, Tsugumi, and Sora...?
 CN PLACEHOLDER
-Где Такэси, Цугуми и Сора?..
+Где Такеши, Цугуми и Сора...?
 
 優「つぐみと……空……」%K%P
 Tsugumi and... Sora...
@@ -696,7 +696,7 @@ CN PLACEHOLDER
 少年「武は、つぐみのところに……」%K%P
 Takeshi went to look for Tsugumi...
 CN PLACEHOLDER
-Такэси пошёл искать Цугуми...
+Такеши пошёл искать Цугуми...
 
 優「で、つぐみはどこに？」%K%P
 Well, where is Tsugumi?
@@ -711,12 +711,12 @@ CN PLACEHOLDER
 優「とにかく、倉成とつぐみを捜しに行こう」%K%P
 Anyway, let's go looking for Kuranari and Tsugumi.
 CN PLACEHOLDER
-Ладно, надо как можно скорее найти этих двоих.
+Ладно, надо как можно скорей найти этих двоих.
 
 沙羅「空は……？」%K%P
 And Sora...?
 CN PLACEHOLDER
-А Сора?..
+А Сора...?
 
 優「空は……」%K%P
 Sora is...
@@ -726,12 +726,12 @@ CN PLACEHOLDER
 優「……今はいいの」%K%P
 ...Let's not worry about her for now.
 CN PLACEHOLDER
-Сейчас о ней не стоит беспокоиться.
+...Сейчас о ней не стоит беспокоиться.
 
 少年「えっ？」%K%P
 What?
 CN PLACEHOLDER
-Э-э?..
+Эээ...?
 
 優「話は後。今はふたりを捜す方が先よ」%K%P
 I'll tell you later. Looking for those two is the top priority right now.
@@ -746,7 +746,7 @@ CN PLACEHOLDER
 わけがわからないまま、ぼくと沙羅もその後を追った。%K%P
 Sara and I followed her without knowing what was going on.
 CN PLACEHOLDER
-Мы с Сарой побежали следом, не понимая, что происходит.
+Сара и я побежали следом, не понимая, что происходит.
 
 優「マヨ？　今は停電なのよ？」%K%P
 Mayo. We're in the middle of a blackout now.
@@ -766,12 +766,12 @@ CN PLACEHOLDER
 少年「空の頭脳はＡＩ、姿はＲＳＤで形成されてる」%K%P
 Sora's brain is AI, and her body is made by RSD.
 CN PLACEHOLDER
-Мозг Соры – компьютер, а тело – лазерное изображение.
+Мозг Соры - компьютер, а тело - лазерное изображение.
 
 少年「だから、電気が無ければ……空は出現することができないんだ」%K%P
 Which means... if the power is down, then Sora can't appear.
 CN PLACEHOLDER
-Это значит... что без электричества и Соры больше нет.
+Это значит...если электричество кончилось, Соры больше нет.
 
 優「そういうこと」%K%P
 That's right.
@@ -791,22 +791,22 @@ CN PLACEHOLDER
 武とつぐみがどこに行ったのかはわからない。%K%P
 I didn't know where Takeshi and Tsugumi were.
 CN PLACEHOLDER
-Интересно, а где Такэси и Цугуми?
+Стоп, а куда подевались наши 'заклятые друзья'?
 
 だが、停電という非常事態に直面して、その辺をぶらぶらしているとも思えなかった。%K%P
 And I couldn't imagine that they would be just wandering around during a blackout.
 CN PLACEHOLDER
-Невозможно представить, что они шатаются без дела во время такого кризиса.
+Невозможно представить, что Цугуми с Такеши бесцельно шатаются во время такого кризиса.
 
 では、ふたりが真っ先に向かうであろう場所とはどこか？%K%P
 So where would they have gone first?
 CN PLACEHOLDER
-Куда же они могли подеваться?
+Куда же они могли податься?
 
 ――制御室。%K%P
 —The control room.
 CN PLACEHOLDER
-– Центр управления.
+—Центр Управления.
 
 ここ以外には考えられなかった。%K%P
 I couldn't think of anywhere else.
@@ -841,7 +841,7 @@ CN PLACEHOLDER
 それにしても、どうして『武とつぐみ』だけなんだろう？%K%P
 I wondered why she only called out for Takeshi and Tsugumi.
 CN PLACEHOLDER
-Но почему она позвала только Такэси с Цугуми?
+Но, почему она позвала только Такеши с Цугуми?
 
 少年「空ーっ！　空ーっ！」%K%P
 Sora! Sora!
@@ -861,12 +861,12 @@ CN PLACEHOLDER
 少年「おーい！」%K%P
 Hello!
 CN PLACEHOLDER
-Э-э-эй!
+Ээээй!
 
 沙羅「武ーっ！　つぐみーっ！」%K%P
 Takeshi! Tsugumi!
 CN PLACEHOLDER
-Такэси! Цугуми!
+Такеши! Цугуми!
 
 返事はなかった。%K%P
 There was no answer.
@@ -881,7 +881,7 @@ CN PLACEHOLDER
 制御室のどこかから、探し出して来たのだろう。%K%P
 I imagined she had gotten it somewhere in the control room.
 CN PLACEHOLDER
-Наверное она нашла его где-то в комнате.
+Наверно она нашла его где-то в комнате.
 
 スイッチを入れる優……。%K%P
 You turned it on...
@@ -916,7 +916,7 @@ CN PLACEHOLDER
 沙羅「誰も……いないみたいね……」%K%P
 It doesn't seem... like there's anyone here...
 CN PLACEHOLDER
-Кажется... здесь ни души...
+Кажется...здесь ни души...
 
 ぼくらは部屋を出た。%K%P
 We left the room.
@@ -931,7 +931,7 @@ CN PLACEHOLDER
 優は懐中電灯をぼくに手渡し、制御室のドアを閉めた。%K%P
 You handed me the flashlight and shut the control room door.
 CN PLACEHOLDER
-Ю передала мне фонарик, словно эстафетную палочку, когда мы вышли из Центра управления.
+Ю передала мне фонарик, словно эстафетную палочку, когда мы вышли из Центра Управления.
 
 すると……。%K%P
 Just then...
@@ -956,7 +956,7 @@ CN PLACEHOLDER
 少年「あっ、武！」%K%P
 Oh, Takeshi!
 CN PLACEHOLDER
-Ох, Такэси!
+Ох, Такеши!
 
 沙羅「つぐみ！」%K%P
 Tsugumi!
@@ -976,7 +976,7 @@ CN PLACEHOLDER
 武「制御室にいたんじゃないのか？」%K%P
 Wasn't she in the control room?
 CN PLACEHOLDER
-Я думал, что она была в Центре управления.
+Я думал, что она была в Центре Управления.
 
 沙羅「それが、もぬけの殻で……」%K%P
 It was empty...
@@ -991,7 +991,7 @@ CN PLACEHOLDER
 武はレバーを引き、ドアを開いた。%K%P
 Takeshi used the manual lever to open the door.
 CN PLACEHOLDER
-Такэси вручную открыл дверь.
+Такеши вручную открыл дверь.
 
 中をのぞき込む武……。%K%P
 He looked inside...
@@ -1011,27 +1011,27 @@ CN PLACEHOLDER
 武は懐中電灯を受け取り、スイッチを入れ、部屋の中へと入っていった。%K%P
 Takeshi took the flashlight, turned it on, and went into the room.
 CN PLACEHOLDER
-Такэси взял фонарик, включил его и зашёл в комнату.
+Такеши взял фонарик, включил и зашёл в комнату.
 
 ……………………………………。%K%P
 .....................
 CN PLACEHOLDER
-...
+.....................
 
 武「ったく、こんなときにどこ行っちまったんだ、空のやつ」%K%P
 Geez... Where would Sora go at a time like this?
 CN PLACEHOLDER
-Блин... куда Сора могла пойти в такой час?
+Блин...куда Сора могла пойти в такой час?
 
 しばらくして、制御室から出て来た武はそう言った。%K%P
 Takeshi said that when he emerged from the control room.
 CN PLACEHOLDER
-Сказал Такэси, пока выбирался из Центра управления.
+Сказал Такеши, пока выбирался из Центра Управления.
 
 優「さてと……どうしますか？」%K%P
 So... what are we going to do?
 CN PLACEHOLDER
-Так... и что же нам делать?
+Так...и что же нам делать?
 
 優は落ち着いた様子で、腰に手を当てていた。%K%P
 You said that calmly, with her hands on her hips.
@@ -1046,7 +1046,7 @@ CN PLACEHOLDER
 もはや慣れきってしまったのか、ぼくらの中に取り乱す者はひとりもいなかった。%K%P
 Maybe we were all completely used to it. In any case, none of us were freaking out.
 CN PLACEHOLDER
-И, видимо, привыкли. Сегодня никто уже не паниковал.
+И, видимо, привыкли. Иначе, как объяснить всеобщее мертвецкое спокойствие.
 
 沙羅「とりあえず……」%K%P
 For now...
@@ -1061,7 +1061,7 @@ CN PLACEHOLDER
 沙羅「空がいなかったら、なんで停電したのかだって、わかんないんだし……」%K%P
 Without Sora, we won't know why there's been a blackout...
 CN PLACEHOLDER
-Без Соры мы не узнаем, почему вырубилось электричество...
+Без Соры, мы не узнаем, почему вырубилось электричество...
 
 少年「そうだね、ＬｅＭＵに一番詳しいのは、空なんだから」%K%P
 Yeah. Sora knows more about LeMU than anyone.
@@ -1071,7 +1071,7 @@ CN PLACEHOLDER
 優「う〜ん……空、ねぇ……」%K%P
 Uh... Sora...
 CN PLACEHOLDER
-Э-э... Сора...
+Ээ...Сора...
 
 優「空、かぁ……」%K%P
 Sora...
@@ -1096,7 +1096,7 @@ CN PLACEHOLDER
 優「はぁ、もうしょうがないかな」%K%P
 Maybe it's time...
 CN PLACEHOLDER
-Может, уже пора рассказать...
+Может уже пора рассказать...
 
 優「この際だから、言っちゃうけど……」%K%P
 Since it's come to this, I'll tell you...
@@ -1161,7 +1161,7 @@ CN PLACEHOLDER
 優「必ず、戻って来るから」%K%P
 And she'll come back for sure.
 CN PLACEHOLDER
-И она обязательно вернётся.
+И, она обязательно вернётся.
 
 少年「戻って来る？」%K%P
 Come back?
@@ -1196,7 +1196,7 @@ CN PLACEHOLDER
 武「でも……空がいないぞ！」%K%P
 But... Sora's missing!
 CN PLACEHOLDER
-Но... Сора пропала!
+Но...Сора пропала!
 
 少年「空は、停電だから……」%K%P
 It's a blackout, so Sora is...
@@ -1211,7 +1211,7 @@ CN PLACEHOLDER
 武「知ってるけど……えーと……あれだ……」%K%P
 I know that, but... let's see...
 CN PLACEHOLDER
-Знаю, но... что если...
+Знаю, но...что если...
 
 武「このまま停電が続いたら、空は永遠に、姿を現すことができなくなっちまうんじゃないのか？」%K%P
 If this blackout goes on, don't you think that Sora might never appear again?
@@ -1261,12 +1261,12 @@ LeMU не получает электроэнергию снаружи, а со�
 海底にある熱水噴出孔から高温の水を汲み上げ、その熱を利用して発電機を稼動させている、と……。%K%P
 There was a thermal seafloor vent where hot water was pumped out of the seabed, and heat from that was used to operate the generator.
 CN PLACEHOLDER
-На дне океана находятся гидротермальные источники, в которых вода разогрета до нескольких сотен градусов. Этот жар используется в электрогенераторах.
+На дне океана находятся геотермальные источники, в которых вода разогрета до нескольких сотен градусов. Этот жар используется в электрогенераторах.
 
 優「つぐみも、一緒に来てくれるでしょ？」%K%P
 Tsugumi, you'll come along, won't you?
 CN PLACEHOLDER
-Цугуми, ты с нами или как?
+Цугуми, ты с нами, или как?
 
 つぐみ「あいにくだけど、その手には乗らないから」%K%P
 Sorry, but I'm not up for it.
@@ -1286,12 +1286,12 @@ CN PLACEHOLDER
 つぐみ「行きたいなら勝手にどうぞ？」%K%P
 If you want to go, be my guest.
 CN PLACEHOLDER
-Хотите идти – пожалуйста.
+Если хотите, чувствуйте себя как дома.
 
 そう言って、つぐみは去って行った。%K%P
 Saying that, Tsugumi left.
 CN PLACEHOLDER
-Сказав это, Цугуми ушла.
+С этими словами, Цугуми ушла.
 
 呼び止めても無駄だろう。%K%P
 It didn't look like it would be any use calling after her.
@@ -1306,27 +1306,27 @@ CN PLACEHOLDER
 優「しょうがない、４人で行くしかないね？」%K%P
 Oh well. The four of us will have to go.
 CN PLACEHOLDER
-Ладно. Придётся идти вчетвером.
+Лааадно. Придётся идти вчетвером.
 
 沙羅「なっきゅ先輩。その発電室っていうのはどこにあるんですか？」%K%P
 Nakkyu-senpai, where is the generator room?
 CN PLACEHOLDER
-Няку-сэмпай, а где Генераторная?
+Няку, дружище, а где Генераторная?
 
 優「発電室は、ここ――ドリットシュトックにあるの」%K%P
 The generator room is here—in Dritter Stock.
 CN PLACEHOLDER
-Да здесь – на Дритте Шток.
+Да здесь - на Дритте шток.
 
 武「よーしっ！　それでは、早速行こうではないか、皆の衆！」%K%P
 Okay! Let's hop to it, everybody!
 CN PLACEHOLDER
-Так-с! Чем скорее мы туда доберёмся, тем лучше!
+Так-с! Чем скорей мы туда доберёмся, тем лучше!
 
 通路の方へと歩き出す武。%K%P
 Takeshi started walking toward the corridor.
 CN PLACEHOLDER
-Такэси пошёл вперёд по коридору.
+Такеши пошёл вперёд по коридору.
 
 優「ちょっと倉成、どこ行くつもりなのよ」%K%P
 Hey, Kuranari, where do you think you're going?
@@ -1346,17 +1346,17 @@ CN PLACEHOLDER
 武「あん？　そんなの『通路を歩いて』に決まってるじゃないかぁ〜」%K%P
 Huh? By walking through the corridors, dummy.
 CN PLACEHOLDER
-А? Через коридор, глупая.
+Ч-Чего?! Через коридор, глупая.
 
 優「やれやれ……。やっぱり、ちっともわかってないんじゃない」%K%P
 Oh, please... You really don't get anything, do you?
 CN PLACEHOLDER
-Да ладно... Ты правда не догадываешься?
+Это я-то глупая?! ...ты действительно тупой или прикидываешься?
 
 武「へ？　それ、どういう意味だよ？」%K%P
 Huh? What's that supposed to mean?
 CN PLACEHOLDER
-А? И что это значит?
+Что? И что это значит?
 
 少年「ねぇ、優。ぼくにもよくわからないんだけど……」%K%P
 Hey, You. I don't think I get it either...
@@ -1376,17 +1376,17 @@ CN PLACEHOLDER
 武「マップ？　マップ、マップねぇ……」%K%P
 Map? Map... Map...
 CN PLACEHOLDER
-Карту? Карта... карта...
+Карту? Карта...карта...
 
 沙羅「えーと……確か、３階のマップは、エリアがふたつに分断されていましたよね？」%K%P
 Oh... You mean the three-story map that was split into two areas?
 CN PLACEHOLDER
-Ой... ты говоришь о трёхэтажной карте, что разделена на две зоны?
+Ой...ты говоришь о трёхэтажной карте, что разделена на две зоны?
 
 少年「ああ、そういえば……」%K%P
 Oh, that's right...
 CN PLACEHOLDER
-Ну конечно же...
+Ну, конечно же...
 
 優「倉成も思い出せた？」%K%P
 You remember it too, Kuranari?
@@ -1396,7 +1396,7 @@ CN PLACEHOLDER
 武「鮮明に、とまではいかないけど……ある程度は」%K%P
 I can't say I remember it exactly... but kinda, yeah.
 CN PLACEHOLDER
-Не уверен, помню ли я её точно... вроде да.
+Не знаю, помню ли я её точно...вроде да.
 
 優「じゃあ、そのふたつのエリアの間には、何があった？」%K%P
 And what was between those two areas?
@@ -1406,12 +1406,12 @@ CN PLACEHOLDER
 武「何が？　何がって言われてもなぁ……」%K%P
 Between them? How am I supposed to know...?
 CN PLACEHOLDER
-Между зонами? Откуда, по-твоему, мне знать?..
+Между зонами? Откуда по-твоему мне знать...?
 
 少年「うーん……何もなかったと思うけど」%K%P
 Hmmm... I don't think there was anything.
 CN PLACEHOLDER
-Хм-м-м... кажется, там вообще ничего не было.
+Хммм...кажется, там вообще ничего не было.
 
 優「そう」%K%P
 Bingo.
@@ -1426,7 +1426,7 @@ CN PLACEHOLDER
 少年「ふたつのエリアは、水没した区画で隔てられている……？」%K%P
 The two areas are divided by a block which is now underwater...?
 CN PLACEHOLDER
-Две зоны разделены блоком, который затоплен?..
+Две зоны разделены блоком, который затоплен...?
 
 優「だから？」%K%P
 So?
@@ -1436,7 +1436,7 @@ CN PLACEHOLDER
 沙羅「制御室のあるエリアから、発電室のあるエリアへは、直接移動することができない」%K%P
 We can't move directly from the control room area to the generator room area.
 CN PLACEHOLDER
-Поэтому мы не можем напрямик пройти от Центра управления до Генераторной.
+Поэтому мы не можем напрямик пройти от Центра Управления до Генераторной.
 
 少年「それに、もう一方のエリアの非常階段は水没していた……」%K%P
 Besides that, the emergency stairs of one of those areas was also flooded...
@@ -1451,7 +1451,7 @@ CN PLACEHOLDER
 武「ああ、そういうことか……」%K%P
 Oh, I see...
 CN PLACEHOLDER
-Ох, да... понял...
+Ох, да...понял...
 
 武「発電室のあるエリアに下りるには、２階の――」%K%P
 To get to the generator room's area, we have to access the second floor...
@@ -1461,7 +1461,7 @@ CN PLACEHOLDER
 武「中性浮力式エレベーターを利用する以外、方法はないんだ」%K%P
 And the only way we can do that is by using the neutral buoyancy elevator.
 CN PLACEHOLDER
-И единственный способ туда добраться – воспользоваться механическим плавучим лифтом.
+И единственный способ туда добраться - воспользоваться механическим плавучим лифтом.
 
 優「ご名答」%K%P
 Correct.
@@ -1486,12 +1486,12 @@ CN PLACEHOLDER
 優「さて、理解してもらったということで……いざ、行動開始！」%K%P
 Now that you've got it... let's get going!
 CN PLACEHOLDER
-Ну что ж, раз разобрались... приступаем!
+Теперь, когда всем всё ясно...хватит торчать на одном месте!
 
 沙羅「御意、でござるよ、ニンニン！」%K%P
 Ready, set, go! Nin! Nin! Ninja!
 CN PLACEHOLDER
-Есть! К вашим услугам! Нин-нин!
+Точняк, дэ〜гозару〜йо, нин〜нин!
 
 沙羅は印を結び、その場でくるくるとまわり始めた。%K%P
 Sara took a bizarre kung fu pose and started spinning like a top.
@@ -1501,17 +1501,17 @@ CN PLACEHOLDER
 その『くるくる』が何を示すのか……ぼくにはよくわからなかったけど。%K%P
 I had no clue what she was trying to do.
 CN PLACEHOLDER
-И что у неё на уме?.. Чужая душа – потёмки.
+И что у неё на уме...? Чужая душа - потёмки.
 
 優「とにかく、倉成とつぐみを捜しに行こう」%K%P
 Anyway, let's go looking for Kuranari and Tsugumi.
 CN PLACEHOLDER
-Ладно, надо как можно скорее найти этих двоих.
+Ладно, надо как можно скорей найти этих двоих.
 
 沙羅「空は……？」%K%P
 And Sora...?
 CN PLACEHOLDER
-А Сора?..
+А Сора...?
 
 優「空は……」%K%P
 Sora is...
@@ -1521,12 +1521,12 @@ CN PLACEHOLDER
 優「……今はいいの」%K%P
 ...Let's not worry about her for now.
 CN PLACEHOLDER
-Сейчас о ней не стоит беспокоиться.
+...Сейчас о ней не стоит беспокоиться.
 
 少年「えっ？」%K%P
 What?
 CN PLACEHOLDER
-Э-э?..
+Эээ...?
 
 優「話は後。今はふたりを捜す方が先よ」%K%P
 I'll tell you later. Looking for those two is the top priority right now.
@@ -1541,12 +1541,12 @@ CN PLACEHOLDER
 わけがわからないまま、ぼくと沙羅もその後を追った。%K%P
 Sara and I followed her without knowing what was going on.
 CN PLACEHOLDER
-Мы с Сарой побежали следом, не понимая, что происходит.
+Сара и я побежали следом, не понимая, что происходит.
 
 ――制御室の前。%K%P
 —In front of the control room.
 CN PLACEHOLDER
-Пока не оказались перед Центром управления.
+Пока не оказались перед Центром Управления.
 
 電力が途絶えている為、ドアは自動では開かない。%K%P
 The power was out, so the door didn't open automatically.
@@ -1576,7 +1576,7 @@ CN PLACEHOLDER
 どうして『武とつぐみ』だけなんだろう？%K%P
 I wondered why she only called out for Takeshi and Tsugumi.
 CN PLACEHOLDER
-Но почему она позвала только Такэси с Цугуми?
+Но, почему она позвала только Такеши с Цугуми?
 
 少年「空ーっ！　空ーっ！」%K%P
 Sora! Sora!
@@ -1601,7 +1601,7 @@ CN PLACEHOLDER
 制御室のどこかから、探し出して来たのだろう。%K%P
 I imagined she had gotten it somewhere in the control room.
 CN PLACEHOLDER
-Наверное она нашла его где-то в комнате.
+Наверно она нашла его где-то в комнате.
 
 スイッチを入れる優……。%K%P
 You turned it on...
@@ -1636,7 +1636,7 @@ CN PLACEHOLDER
 沙羅「誰も……いないみたいね……」%K%P
 It doesn't seem... like there's anyone here...
 CN PLACEHOLDER
-Кажется... здесь ни души...
+Кажется...здесь ни души...
 
 ぼくらは部屋を出た。%K%P
 We left the room.
@@ -1651,7 +1651,7 @@ CN PLACEHOLDER
 優は懐中電灯をぼくに手渡し、制御室のドアを閉めた。%K%P
 You handed me the flashlight and shut the control room door.
 CN PLACEHOLDER
-Ю передала мне фонарик, словно эстафетную палочку, когда мы вышли из Центра управления.
+Ю передала мне фонарик, словно эстафетную палочку, когда мы вышли из Центра Управления.
 
 すると……。%K%P
 Just then...
@@ -1676,7 +1676,7 @@ CN PLACEHOLDER
 少年「あっ、武！」%K%P
 Oh, Takeshi!
 CN PLACEHOLDER
-Ох, Такэси!
+Ох, Такеши!
 
 沙羅「つぐみ！」%K%P
 Tsugumi!
@@ -1696,7 +1696,7 @@ CN PLACEHOLDER
 武「制御室にいたんじゃねぇのか？」%K%P
 I thought she was in the control room.
 CN PLACEHOLDER
-Я думал, что она была в Центре управления.
+Я думал, что она была в Центре Управления.
 
 沙羅「それが、もぬけの殻で……」%K%P
 It was empty...
@@ -1711,7 +1711,7 @@ CN PLACEHOLDER
 武はレバーを引き、ドアを開いた。%K%P
 Takeshi used the manual lever to open the door.
 CN PLACEHOLDER
-Такэси вручную открыл дверь.
+Такеши вручную открыл дверь.
 
 中をのぞき込む武……。%K%P
 He looked inside...
@@ -1731,27 +1731,27 @@ CN PLACEHOLDER
 武は懐中電灯を受け取り、スイッチを入れ、部屋の中へと入っていった。%K%P
 Takeshi took the flashlight, turned it on, and went into the room.
 CN PLACEHOLDER
-Такэси взял фонарик, включил его и зашёл в комнату.
+Такеши взял фонарик, включил и зашёл в комнату.
 
 ……………………………………。%K%P
 .....................
 CN PLACEHOLDER
-...
+.....................
 
 武「ったく、こんなときにどこ行っちまったんだ、空のやつ」%K%P
 Geez... Where would Sora go at a time like this?
 CN PLACEHOLDER
-Блин... куда Сора могла пойти в такой час?
+Блин...куда Сора могла пойти в такой час?
 
 しばらくして、制御室から出て来た武はそう言った。%K%P
 Takeshi said that when he emerged from the control room.
 CN PLACEHOLDER
-Сказал Такэси, пока выбирался из Центра управления.
+Сказал Такеши, пока выбирался из Центра Управления.
 
 優「さてと……どうしますか？」%K%P
 So... what are we going to do?
 CN PLACEHOLDER
-Так... и что же нам делать?
+Так...и что же нам делать?
 
 優は落ち着いた様子でそう言った。%K%P
 You said that calmly.
@@ -1766,7 +1766,7 @@ CN PLACEHOLDER
 もはや慣れきってしまったのか、ぼくらの中に取り乱す者はひとりもいなかった。%K%P
 Maybe we were all completely used to it. In any case, none of us were freaking out.
 CN PLACEHOLDER
-И, видимо, привыкли. Сегодня никто уже не паниковал.
+И, видимо, привыкли. Иначе, как объяснить всеобщее мертвецкое спокойствие.
 
 沙羅「とりあえず……」%K%P
 For now...
@@ -1781,7 +1781,7 @@ CN PLACEHOLDER
 沙羅「空がいなかったら、なんで停電したのかだって、わかんないんだし……」%K%P
 Without Sora, we won't know why there's been a blackout...
 CN PLACEHOLDER
-Без Соры мы не узнаем, почему пропало электричество...
+Без Соры, мы не узнаем, почему пропало электричество...
 
 少年「そうだね、ＬｅＭＵに一番詳しいのは、空なんだから」%K%P
 Yeah. Sora knows more about LeMU than anyone.
@@ -1791,7 +1791,7 @@ CN PLACEHOLDER
 優「う〜ん……空、ねぇ……」%K%P
 Uh... Sora...
 CN PLACEHOLDER
-Э-э... Сора...
+Ээ...Сора...
 
 優「空、かぁ……」%K%P
 Sora...
@@ -1816,7 +1816,7 @@ CN PLACEHOLDER
 優「はぁ、もうしょうがないかな」%K%P
 Maybe it's time...
 CN PLACEHOLDER
-Может, уже пора рассказать...
+Может уже пора рассказать...
 
 優「この際だから、言っちゃうけど……」%K%P
 Since it's come to this, I'll tell you...
@@ -1881,7 +1881,7 @@ CN PLACEHOLDER
 優「必ず、戻って来るから」%K%P
 And she'll come back for sure.
 CN PLACEHOLDER
-И она обязательно вернётся.
+И, она обязательно вернётся.
 
 少年「戻って来る？」%K%P
 Come back?
@@ -1931,12 +1931,12 @@ LeMU не получает электроэнергию снаружи, а со�
 海底にある熱水噴出孔から高温の水を汲み上げ、その熱を利用して発電機を稼動させている、と……。%K%P
 There was a thermal seafloor vent where hot water was pumped out of the seabed, and heat from that was used to operate the generator.
 CN PLACEHOLDER
-На дне океана находятся гидротермальные источники, в которых вода разогрета до нескольких сотен градусов. Этот жар используется в электрогенераторах.
+На дне океана находятся геотермальные источники, в которых вода разогрета до нескольких сотен градусов. Этот жар используется в электрогенераторах.
 
 優「つぐみも、一緒に来てくれるでしょ？」%K%P
 Tsugumi, you'll come along, won't you?
 CN PLACEHOLDER
-Цугуми, ты с нами или как?
+Цугуми, ты с нами, или как?
 
 つぐみ「あいにくだけど、その手には乗らないから」%K%P
 Sorry, but I'm not up for it.
@@ -1956,7 +1956,7 @@ CN PLACEHOLDER
 つぐみ「行きたいなら勝手にどうぞ？」%K%P
 If you want to go, be my guest.
 CN PLACEHOLDER
-Хотите идти – пожалуйста.
+Если хотите, чувствуйте себя как дома.
 
 そう言って、つぐみは去って行った。%K%P
 Saying that, Tsugumi left.
@@ -1976,27 +1976,27 @@ CN PLACEHOLDER
 優「しょうがない、４人で行くしかないね？」%K%P
 Oh well. The four of us will have to go.
 CN PLACEHOLDER
-Ладно. Придётся идти вчетвером.
+Лааадно. Придётся идти вчетвером.
 
 沙羅「なっきゅ先輩。その発電室っていうのはどこにあるんですか？」%K%P
 Nakkyu-senpai, where is the generator room?
 CN PLACEHOLDER
-Няку-сэмпай, а где Генераторная?
+Няку, дружище, а где Генераторная?
 
 優「発電室は、ここ――ドリットシュトックにあるの」%K%P
 The generator room is here—in Dritter Stock.
 CN PLACEHOLDER
-Да здесь – на Дритте Шток.
+Да здесь - на Дритте шток.
 
 武「よーし！　そんじゃ、早速行くとするか。優、案内してくれ」%K%P
 Alright! Let's get a move on. You, can you lead the way?
 CN PLACEHOLDER
-Так-с! Чем скорее мы туда доберёмся, тем лучше. Ю, не покажешь дорогу?
+Так-с! Чем скорей мы туда доберёмся, тем лучше. Ю, не покажешь дорогу?
 
 通路の方へと歩き出す武。%K%P
 Takeshi started walking toward the corridor.
 CN PLACEHOLDER
-Такэси пошёл вперёд по коридору.
+Такеши пошёл вперёд по коридору.
 
 優「ちょっと倉成、どこ行くつもりなのよ」%K%P
 Hey, Kuranari, where do you think you're going?
@@ -2016,17 +2016,17 @@ CN PLACEHOLDER
 武「あん？　そんなの『通路を歩いて』に決まってるじゃないかぁ〜」%K%P
 Huh? By walking through the corridors, dummy.
 CN PLACEHOLDER
-А? Через коридор, глупая.
+Ч-Чего?! Через коридор, глупая.
 
 優「やれやれ……。やっぱり、ちっともわかってないんじゃない」%K%P
 Oh, please... You really don't get anything, do you?
 CN PLACEHOLDER
-Да ладно... Ты правда не догадываешься?
+Это я-то глупая?! ...ты действительно тупой или прикидываешься?
 
 武「ん？　それ、どういう意味だよ？」%K%P
 Huh? What's that supposed to mean?
 CN PLACEHOLDER
-А? И что это значит?
+Что? И что это значит?
 
 少年「ねぇ、優。ぼくにもよくわからないんだけど……」%K%P
 Hey, You. I don't think I get it either...
@@ -2046,17 +2046,17 @@ CN PLACEHOLDER
 武「マップ？　マップ、マップねぇ……」%K%P
 Map? Map... Map...
 CN PLACEHOLDER
-Карту? Карта... карта...
+Карту? Карта...карта...
 
 沙羅「えーと……確か、３階のマップは、エリアがふたつに分断されてましたよね？」%K%P
 Oh... You mean the three-story map that was split into two areas?
 CN PLACEHOLDER
-Ой... ты говоришь о трёхэтажной карте, что разделена на две зоны?
+Ой...ты говоришь о трёхэтажной карте, что разделена на две зоны?
 
 少年「ああ、そういえば……」%K%P
 Oh, that's right...
 CN PLACEHOLDER
-Ну конечно же...
+Ну, конечно же...
 
 優「倉成も思い出せた？」%K%P
 You remember it too, Kuranari?
@@ -2066,7 +2066,7 @@ CN PLACEHOLDER
 武「鮮明に、とまではいかないけど……ある程度は」%K%P
 I can't say I remember it exactly... but kinda, yeah.
 CN PLACEHOLDER
-Не уверен, помню ли я её точно... вроде да.
+Не знаю, помню ли я её точно...вроде да.
 
 優「じゃあ、そのふたつのエリアの間には、何があった？」%K%P
 And what was between those two areas?
@@ -2076,12 +2076,12 @@ CN PLACEHOLDER
 武「何が？　何がって言われてもなぁ……」%K%P
 Between them? How am I supposed to know...?
 CN PLACEHOLDER
-Между зонами? Откуда, по-твоему, мне знать?..
+Между зонами? Откуда по-твоему мне знать...?
 
 少年「うーん……何もなかったと思うけど」%K%P
 Hmmm... I don't think there was anything.
 CN PLACEHOLDER
-Хм-м-м... кажется, там вообще ничего не было.
+Хммм...кажется, там вообще ничего не было.
 
 優「そう」%K%P
 Bingo.
@@ -2096,7 +2096,7 @@ CN PLACEHOLDER
 少年「ふたつのエリアは、水没した区画で隔てられている……？」%K%P
 The two areas are divided by a block which is now underwater...?
 CN PLACEHOLDER
-Две зоны разделены блоком, который затоплен?..
+Две зоны разделены блоком, который затоплен...?
 
 優「だから？」%K%P
 So?
@@ -2106,7 +2106,7 @@ CN PLACEHOLDER
 沙羅「制御室のあるエリアから、発電室のあるエリアへは、直接移動することができない」%K%P
 We can't go directly from the control room area to the generator room area.
 CN PLACEHOLDER
-Поэтому мы не можем напрямик пройти от Центра управления до Генераторной.
+Поэтому мы не можем напрямик пройти от Центра Управления до Генераторной.
 
 少年「それに、もう一方のエリアの非常階段は水没していた……」%K%P
 Besides that, the emergency stairs of one of those areas was also flooded...
@@ -2121,7 +2121,7 @@ CN PLACEHOLDER
 武「ああ、そういうことか……」%K%P
 Oh, I get it...
 CN PLACEHOLDER
-Ох, да... понял...
+Ох, да...понял...
 
 武「発電室のあるエリアに下りるには、２階の――」%K%P
 To get to the generator room's area, we have to access the second floor...
@@ -2131,7 +2131,7 @@ CN PLACEHOLDER
 武「中性浮力式エレベーターを利用する以外、方法はないんだ」%K%P
 And the only way we can do that is by using the neutral buoyancy elevator.
 CN PLACEHOLDER
-И единственный способ туда добраться – воспользоваться механическим плавучим лифтом.
+И единственный способ туда добраться - воспользоваться механическим плавучим лифтом.
 
 優「ご名答」%K%P
 Correct.
@@ -2156,12 +2156,12 @@ CN PLACEHOLDER
 優「さて、理解してもらったということで……いざ、行動開始！」%K%P
 Now that you've got it... let's get going!
 CN PLACEHOLDER
-Ну что ж, раз разобрались... приступаем!
+Теперь, когда всем всё ясно...хватит торчать на одном месте!
 
 沙羅「御意、でござるよ、ニンニン！」%K%P
 Ready, set, go! Nin! Nin! Ninja!
 CN PLACEHOLDER
-Есть! К вашим услугам! Нин-нин!
+Точняк, дэ〜гозару〜йо, нин〜нин!
 
 沙羅は印を結び、その場でくるくるとまわり始めた。%K%P
 Sara took a bizarre kung fu pose and started spinning like a top.
@@ -2171,5 +2171,5 @@ CN PLACEHOLDER
 その『くるくる』が何を示すのか……ぼくにはよくわからなかったけど。%K%P
 I had no clue what she was trying to do.
 CN PLACEHOLDER
-И что у неё на уме?.. Чужая душа – потёмки.
+И что у неё на уме...? Чужая душа - потёмки.
 

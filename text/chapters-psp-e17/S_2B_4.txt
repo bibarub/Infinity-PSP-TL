@@ -21,7 +21,7 @@ CN PLACEHOLDER
 発電機のスイッチを前にして、武は厳かにそう宣言した。%K%P
 Takeshi whispered the question as we stood in front of the generator switch.
 CN PLACEHOLDER
-Прошептал Такэси, когда мы встали перед кнопкой запуска генератора.
+Прошептал Такеши, когда мы встали перед кнопкой запуска генератора.
 
 武「スイッチ、入れるぞ？」%K%P
 I'm turning it on.
@@ -31,7 +31,7 @@ CN PLACEHOLDER
 黙って頷く、ぼく、優、沙羅。%K%P
 Sara, You, and I nodded silently.
 CN PLACEHOLDER
-Мы с Сарой и Ю молча кивнули.
+Сара, Ю и я молча кивнули.
 
 武「心の準備はできたかな？」%K%P
 You ready?
@@ -41,12 +41,12 @@ CN PLACEHOLDER
 少年「いいから早くやってよ」%K%P
 Just do it.
 CN PLACEHOLDER
-Да давай уже.
+А по-быстрее нельзя?
 
 武「そこ、うるさいよ」%K%P
 Pipe down, Kid.
 CN PLACEHOLDER
-Заглохни, Малой.
+Заглохни, Кид.
 
 武「では、カウントダウンを始めよう」%K%P
 Let's start the countdown...
@@ -71,7 +71,7 @@ CN PLACEHOLDER
 無視して武は続ける。%K%P
 Takeshi continued, ignoring her.
 CN PLACEHOLDER
-Продолжил Такэси, игнорируя её.
+Продолжил Такеши, игнорируя её.
 
 優「倉成ぃ〜、いくらなんでも長すぎるってば」%K%P
 Kuranari, that's too long...
@@ -81,7 +81,7 @@ CN PLACEHOLDER
 武「４０……３９……３８」%K%P
 40... 39... 38...
 CN PLACEHOLDER
-40... 39... 38...
+40...39...38...
 
 イライラ……。%K%P
 It was irritating.
@@ -91,12 +91,12 @@ CN PLACEHOLDER
 武「３７……３６……３５」%K%P
 37... 36... 35...
 CN PLACEHOLDER
-37... 36... 35...
+37...36...35...
 
 イライライライラ…………。%K%P
 So irritating...
 CN PLACEHOLDER
-Конкретно раздражает...
+Конкретно раздражает....
 
 武「３４」%K%P
 34...
@@ -111,7 +111,7 @@ CN PLACEHOLDER
 武を除くぼくら３人は、同時にボタンを押した。%K%P
 All three of us except Takeshi pushed the button.
 CN PLACEHOLDER
-Мы втроём – кроме Такэси – одновременно нажали кнопку.
+Мы трое - кроме Такеши - одновременно нажали кнопку.
 
 武「こらっ！　勝手にスイッチ入れんなよ！　まだ３４秒前じゃねぇーか！」%K%P
 Hey! What're you doing? We still have 34 seconds to go!
@@ -136,7 +136,7 @@ CN PLACEHOLDER
 武「こういうのはだなぁ、ある種の儀式と言うか、形式と言うか、とにかく非常に大切なことであって……」%K%P
 This... This is kind of like a ritual... Anyway, it's very important...
 CN PLACEHOLDER
-Это... это вроде как ритуал... для меня это важно...
+Это...это вроде как ритуал...для меня это важно...
 
 照明がいっせいに灯った。%K%P
 The lights lit up all at once.
@@ -181,7 +181,7 @@ CN PLACEHOLDER
 少年「ああ、そうか……」%K%P
 Oh, I see...
 CN PLACEHOLDER
-А-а, я понял...
+Аа, я понял...
 
 ぼくには、沙羅の考えがわかった。%K%P
 I understood what she was saying.
@@ -201,22 +201,22 @@ CN PLACEHOLDER
 優「あっはは♪　それはケッサクね」%K%P
 Ahaha! That would have been something.
 CN PLACEHOLDER
-Ах-ха-ха. Это было бы что-то.
+Ах〜ха〜ха. Это было бы что-то.
 
 武「ちぇっ」%K%P
 Tsk.
 CN PLACEHOLDER
-Тьфу.
+Чёрт...
 
 もはや怒る気力もなくなったのか、武は重たい工具箱を肩に担ぐと、部屋を出て行った。%K%P
 I wasn't sure if Takeshi was over his anger, but he shouldered the heavy toolbox and left the room.
 CN PLACEHOLDER
-Не в силах больше спорить, Такэси взвалил тяжёлый ящик с инструментами на плечо и вышел из помещения.
+Не знаю, пытается ли Такеши побороть свою ярость, но он тряхнул тяжёлым ящиком с инструментами и вышел из помещения.
 
 ぼくらは来た道を戻り、ここ中性浮力式エレベーターの前までやってきた。%K%P
 We retraced our path until we were in front of the neutral buoyancy elevator.
 CN PLACEHOLDER
-Мы пошли следом, пока не оказались перед лифтами.
+Мы пошли следом, пока не оказались перед лифтовой.
 
 例の冷凍マグロが虚ろな目で、ぼくらを迎えてくれた。%K%P
 The frozen tuna's empty eyes were waiting for us.
@@ -226,12 +226,12 @@ CN PLACEHOLDER
 降りてきたときに使用したＥＩは、すでにツヴァイトに浮き上がってしまっている。%K%P
 The elevator we had used coming down had already floated up to Zweiter Stock.
 CN PLACEHOLDER
-Лифт, на которым мы прибыли сюда, уже поднялся на Цвайте Шток.
+Лифт, на которым мы прибыли сюда, уже поднялся на Цвайте шток.
 
 だがその左隣では……階数表示の明かりが『３』のところに点灯していた。%K%P
 But to the left... the floor display was lit up with a number three.
 CN PLACEHOLDER
-А слева... на дисплее горит цифра три.
+А слева...на дисплее горит цифра три.
 
 武「はぁ、よっこらどっこいしょと」%K%P
 Oh, this is heavy.
@@ -241,7 +241,7 @@ CN PLACEHOLDER
 卵に乗り込んだ武は、工具箱を床の上に置いた。%K%P
 Takeshi groaned as he put the toolbox on the floor of the elevator.
 CN PLACEHOLDER
-Пропыхтел Такэси, поставив ящик с инструментами на пол лифта.
+Пропыхтел Такеши и в лифте поставил ящик на пол.
 
 沙羅「オッサンみたい……」%K%P
 You sound like an old man...
@@ -286,7 +286,7 @@ CN PLACEHOLDER
 床下から聞こえていた音はいつの間にか消え失せ、辺りはひっそりと静まり返っていた。%K%P
 The sound beneath the floor had stopped, and silence had returned.
 CN PLACEHOLDER
-Исходящий из-под пола звук прекратился, вернулась тишина.
+Звук, исходящий из-под пола, прекратился и вернулась тишина.
 
 沙羅「えぇ〜、またなのぉ……」%K%P
 Not again...
@@ -311,7 +311,7 @@ CN PLACEHOLDER
 少年「さてと、どうしようかな……」%K%P
 Alright, so what do we do...?
 CN PLACEHOLDER
-Ладно, и что будем делать?..
+Ладно, и что будем делать...?
 
 ぼくが呟いた瞬間……。%K%P
 Just as I said that...
@@ -326,7 +326,7 @@ CN PLACEHOLDER
 空「倉成さん、田中さん、松永さん、少年さん」%K%P
 Kuranari-san, Tanaka-san, Matsunaga-san, Kid-san.
 CN PLACEHOLDER
-Куранари-сан, Танака-сан, Мацунага-сан, Малой-сан!..
+Куранари-сан, Танака-сан, Мацунага-сан, Кид-сан...!
 
 武「空！　お前、どこ行ってたんだよ！　捜したんだぞ！」%K%P
 Sora! Where have you been? We looked everywhere for you!
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 優「まあ、そんなことはどうでもいいじゃない？」%K%P
 That's not important right now.
 CN PLACEHOLDER
-Не извиняйся. У нас есть кое-что поважнее.
+Не извиняйся. У нас есть кое-что поважней.
 
 停電の間、空が消えていたことには特に疑問を感じない。%K%P
 I didn't have any major suspicions about Sora's disappearance during the blackout.
@@ -361,7 +361,7 @@ CN PLACEHOLDER
 優「空？　発電機の方は、私達で直しといたから」%K%P
 Sora? So we fixed the generator?
 CN PLACEHOLDER
-Сора, мы починили генератор.
+Сора, мы все починили генератор.
 
 空「そのようですね」%K%P
 It would appear so.
@@ -376,7 +376,7 @@ CN PLACEHOLDER
 武「でだ。わかってると思うけど、今俺達は、卵……えーっと『ＥＩ』の中にいて……」%K%P
 I think you know this, but we're in this egg... Uh, this Ei...
 CN PLACEHOLDER
-Наверное, ты в курсе, но мы в этом яйце... э-э, этом EI...
+Наверно ты в курсе, но мы в этом яйце...ээ, этом EI...
 
 空「ええ、わかっています」%K%P
 Yes, I know.
@@ -401,7 +401,7 @@ CN PLACEHOLDER
 空「恐らく内部気圧が減少した関係で、バラストタンク内の海水を、充分に排出することができないからだと思われます」%K%P
 It is likely the result of a decrease in internal air pressure that has made the device incapable of sufficiently expelling the seawater in the ballast tank.
 CN PLACEHOLDER
-Видимо, из-за падения внутреннего давления воздуха механизм не может окончательно вытолкнуть воду из балластного бака.
+Видимо, из-за падения внутреннего давления воздуха, механизм не может окончательно вытолкнуть воду из балластного бака.
 
 空「つまり……」%K%P
 In other words...
@@ -441,7 +441,7 @@ CN PLACEHOLDER
 ツヴァイトシュトックでは、空とつぐみが待っていた。%K%P
 Sora and Tsugumi were waiting at Zweiter Stock.
 CN PLACEHOLDER
-Сора и Цугуми уже ожидают нас на Цвайте Шток.
+Сора и Цугуми уже ожидают нас на Цвайте шток.
 
 空「おふたりとも、本当にご苦労様でした」%K%P
 Good work, you two.
@@ -451,7 +451,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 笑顔で出迎えてくれる空。%K%P
 Sora beamed a welcoming smile at us.
@@ -476,17 +476,17 @@ CN PLACEHOLDER
 優「ち、ちべたいぃ……」%K%P
 This is... c-c-cold...
 CN PLACEHOLDER
-Какой... х-х-холодный...
+Какой...х-х-холодный...
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ふと気がつくと、マグロを抱きかかえる優を見て、つぐみが初めて笑みを浮かべていた。%K%P
 I noticed that when Tsugumi saw You cradling the frozen fish, she grinned for the first time.
 CN PLACEHOLDER
-Увидев, как Ю тащит мороженую рыбу, Цугуми впервые за всё это время улыбнулась.
+Увидев, как Ю тащит мороженую рыбу, Цугуми, впервые за всё это время, улыбнулась.
 
 一方空は……%K%P
 Sora, on the other hand...
@@ -496,7 +496,7 @@ CN PLACEHOLDER
 空「だ、だ、だ、だいじょうぶですか！？　倉成さん！！」%K%P
 A-A-Are you alright!? Kuranari-san!
 CN PLACEHOLDER
-Ч-ч-что с тобой, Кунарани-сан?!
+Куранари-сан! Ты в порядке?!
 
 ……マグロの傍に駆け寄って、オロオロとうろたえていた。%K%P
 ...Sora ran up next to the fish in a panic.
@@ -506,7 +506,7 @@ CN PLACEHOLDER
 沙羅「あの、先輩……そのマグロ、持ってきたんですか？」%K%P
 Uh, Senpai... You brought along the fish?
 CN PLACEHOLDER
-Э-э, сэмпай... Ты прихватила с собой эту рыбину?
+Ээ, Няку, дружище...ты прихватила с собой эту рыбину?
 
 優「大切な食糧なんだから当然でしょ？　食べ物を粗末にするとバチがあたるよ？」%K%P
 Of course. It's food, after all. Waste not, want not, right?
@@ -516,7 +516,7 @@ CN PLACEHOLDER
 空「あ、あの……そ、そんなことよりも……倉成さんが……倉成さんが……」%K%P
 Forget that for now... More importantly... Kuranari-san...
 CN PLACEHOLDER
-Сейчас это не важно... Но что с ним стало... Куранари-сан...
+Сейчас это не важно...но, что с ним стало... Куранари-сан...
 
 まだ空は、マグロの傍で錯乱している。%K%P
 Sora was still flustered and babbling next to the fish.
@@ -526,25 +526,25 @@ CN PLACEHOLDER
 ひょっとして、本気で武がマグロになってしまったとでも思っているのだろうか？%K%P
 I wondered if she really thought that Takeshi had turned into a tuna.
 CN PLACEHOLDER
-Неужели она действительно решила, что Такэси превратился в тунца?
+Неужели она действительно решила, что Такеши превратился в тунца?
 
 空「私のせいで倉成さんが……。ああっ！　一体どうしたらいいのでしょう！？」%K%P
 This is all my fault... Oh my gosh! What can I do?
 CN PLACEHOLDER
-Это я виновата... Боже мой! Что же делать?
+Это я виновата.... Боже мой! Что же делать?
 
 武「あのぉ……お取り込み中、申し訳ないんだが……」%K%P
 Uh... I know you're occupied, but...
 CN PLACEHOLDER
-Э-э... я понимаю, что ты занята, но...
+Ээ...я понимаю, что ты занята, но...
 
 空「え？」%K%P
 Huh?
 CN PLACEHOLDER
-А?
+Эээ?
 
 武「俺の方こそ、どうしたらいいのでしょう？　って感じなんですがね……」%K%P
 I think the question is more what should I do.
 CN PLACEHOLDER
-Вообще-то вопрос в том, что делать мне.
+Вообще-то, вопрос в том, что делать мне.
 

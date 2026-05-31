@@ -11,17 +11,17 @@ CN PLACEHOLDER
 ぼくと優は船に揺られていた。%K%P
 You and I were riding on a boat.
 CN PLACEHOLDER
-Мы с Ю плывём на лодке.
+Ю и я плывём на лодке.
 
 視界は、見渡す限り紺碧の海原……。%K%P
 The infinitely deep, blue ocean spread as far as we could see.
 CN PLACEHOLDER
-Бесконечно глубокий лазурный океан раскинулся во всё поле видимости.
+Бесконечно глубокий, лазурный океан раскинулся во всё поле видимости.
 
 上空には抜けるような青空が広がっている。%K%P
 A clear blue sky unfolded above us.
 CN PLACEHOLDER
-В вышине раскинулось чистое голубое небо.
+В вышине раскинулось чистое, ясное небо.
 
 そこには、対になって飛ぶ２羽のカモメの姿があった。%K%P
 There was a pair of seagulls flying overhead.
@@ -31,7 +31,7 @@ CN PLACEHOLDER
 海風は少し強く、優は片手で髪を押さえている。%K%P
 The sea breeze whipped at us a little strongly, and You used her hand to hold her hair in check.
 CN PLACEHOLDER
-Бриз подул на нас чуть-чуть сильнее, поэтому Ю придерживает волосы рукой, чтобы не растрепались.
+Бриз подул на нас чуть-чуть сильней, поэтому Ю придерживает волосы рукой, чтобы не растрепались.
 
 優は最近になって、少しずつ髪を伸ばし始めていた。%K%P
 She had recently started to grow her hair out.
@@ -46,12 +46,12 @@ CN PLACEHOLDER
 それから……ちょっぴり、素直で女らしくなってきたようにも……。%K%P
 That, and... she seemed to have become a bit more easygoing and ladylike...
 CN PLACEHOLDER
-Ну, и... она стала более жизнерадостной и женственной...
+Ну, и...её характерец стал более жизнерадостным и женственным...
 
 優「ところで、大学の方はどう？」%K%P
 So how is college going?
 CN PLACEHOLDER
-Как дела в универе?
+Как дела в колледже?
 
 少年「ぼちぼちかな？」%K%P
 It's alright, I guess.
@@ -61,12 +61,12 @@ CN PLACEHOLDER
 そう。ぼくは今年、めでたく大学に進学した。%K%P
 Yes. I had somehow gotten into college and was in my first year.
 CN PLACEHOLDER
-Да. Я как-то умудрился поступить в университет.
+Да. Я как-то умудрился поступить в колледж. Сейчас я первокурсник.
 
 もちろん、優とは違う大学だから、キャンパスで会う機会はないけれど。%K%P
 Of course, I was going to a different school than You, so we never had a chance to meet on campus.
 CN PLACEHOLDER
-Разумеется, я поступил в другое заведение, нежели Ю, поэтому мы не могли встретиться в кампусе.
+Разумеется, я поступил в другое заведение, нежели Ю, поэтому мы не могли встретиться в студ-городке.
 
 優「なんで考古学なんか専攻しようと思ったの？」%K%P
 Why on earth did you decide to major in archaeology?
@@ -86,7 +86,7 @@ CN PLACEHOLDER
 少年「でも、聞かない方がいいかもしれないよ？」%K%P
 You know, it might be better if you didn't ask.
 CN PLACEHOLDER
-Знаешь, наверное лучше тебе не спрашивать.
+Знаешь, наверно лучше тебе не спрашивать.
 
 優「え？」%K%P
 Huh?
@@ -111,7 +111,7 @@ CN PLACEHOLDER
 少年「うん、わかった、言わない」%K%P
 Alright. I won't tell.
 CN PLACEHOLDER
-Ну ладно. Я не скажу.
+Ладушки. Я не скажу.
 
 優「は？」%K%P
 Huh?
@@ -126,7 +126,7 @@ CN PLACEHOLDER
 少年「だって……『訊かない』って言ったじゃないか」%K%P
 But... you just said you weren't going to ask.
 CN PLACEHOLDER
-Но... ты же только что сказала, что не будешь спрашивать.
+Но...ты же только что сказала, что не будешь спрашивать.
 
 優「それは、少年が『聞かない方がいい』って言ったから……」%K%P
 That's because you said I probably shouldn't...
@@ -146,7 +146,7 @@ CN PLACEHOLDER
 優「まあいいや、とにかく聞いてあげよう」%K%P
 Anyway, I guess I'll listen to your reasoning.
 CN PLACEHOLDER
-Ладно, наверное тогда я выслушаю тебя.
+Ладно, наверно тогда я выслушаю тебя.
 
 やっぱり、前言撤回。%K%P
 There she went changing her mind again.
@@ -171,17 +171,17 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「ん〜？　『ぼくなんか』……なんなのかな？　真性純情少年くん？」%K%P
 Huh? You would be... what? Then you'd be 'the pure-hearted Kid'?
 CN PLACEHOLDER
-Что ты? Кем бы ты был... что? „Наивным мальчишкой“?
+Что ты? Кем бы ты был...что? 'Наивным мальчишкой'?
 
 少年「よ……よしてよ」%K%P
 Hey... Stop it.
 CN PLACEHOLDER
-Эй... перестань.
+Эй...перестань.
 
 少年「ぼくはもう、あの時のぼくじゃ……」%K%P
 I've changed since then...
@@ -191,7 +191,7 @@ CN PLACEHOLDER
 だがそこから先、ぼくは言うのをためらう。%K%P
 But after that, I was reluctant to speak.
 CN PLACEHOLDER
-Но после этих слов я замолчал.
+Но, после этих слов, я замолчал.
 
 今のぼくは、あの時のぼくと、違うのだろうか。%K%P
 I wondered if I really was different from the person I was at that time.
@@ -206,7 +206,7 @@ CN PLACEHOLDER
 あれからぼくの身に、不可解な現象は起きなくなった。%K%P
 Since then, no inexplicable, mysterious things had happened to me.
 CN PLACEHOLDER
-С той самой поры ничего необъяснимого или загадочного со мной не происходило.
+С той самой поры, ничего необъяснимого или загадочного со мной не происходило.
 
 予知もできなくなった。%K%P
 I couldn't predict things anymore.
@@ -221,7 +221,7 @@ CN PLACEHOLDER
 ……あるいは、同じなのかもしれない。%K%P
 ...Or maybe... Maybe I was the same.
 CN PLACEHOLDER
-...Или... может, я был таким всегда.
+...Или...может я был таким всегда.
 
 ぼくは相変わらずの、ぼくだった。%K%P
 Maybe I was the same as ever.
@@ -231,12 +231,12 @@ CN PLACEHOLDER
 人は、ものを知り、傷つき、失いながら……変わりながら、生きていく。%K%P
 I knew that people learned, got hurt, and lost things... and that they changed as they lived life.
 CN PLACEHOLDER
-Я знаю, что люди учатся, страдают и несут утраты... что они меняются, проживая свою жизнь.
+Я знаю, что люди учатся, страдают, и несут утраты... что они меняются, проживая свою жизнь.
 
 けれど、ぼくの本質そのものは変わらない。%K%P
 But my basic nature hadn't changed.
 CN PLACEHOLDER
-Но мой характер не изменился.
+Но, мой характер не изменился.
 
 変わるものと、変わらないもの。%K%P
 Some things changed. Some things never did.
@@ -246,17 +246,17 @@ CN PLACEHOLDER
 ぼくは、ぼくであり……けれど過去のぼくは、別のぼくで……。%K%P
 I was still “me”... but myself in the past was different...
 CN PLACEHOLDER
-Я – это по-прежнему «я»... но я в прошлом был другим...
+Я - это по-прежнему 'я'...но, я в прошлом был другим...
 
 例えるなら、『別の世界のぼく』みたいなもので……。%K%P
 If I had to explain it, I might say that it was like “me in another world”...
 CN PLACEHOLDER
-Если бы мне пришлось объяснить в двух-трёх словах, я бы сказал «я из другого мира»...
+Если бы мне пришлось объяснить в двух-трёх словах, я бы сказал 'я из другого мира'...
 
 つまりは、そういうことなのかもしれない。%K%P
 Maybe that was it.
 CN PLACEHOLDER
-Наверное так оно и есть.
+Наверно так оно и есть.
 
 優「そうだね。もう、あの時のきみじゃないかもね？」%K%P
 You're right. You're not like you used to be.
@@ -286,7 +286,7 @@ CN PLACEHOLDER
 優「さて、と。それじゃ聞かせてもらいましょうか？」%K%P
 So are you going to tell me or not?
 CN PLACEHOLDER
-Ну, так ты скажешь мне или нет?
+Ну, так ты скажешь мне, или нет?
 
 少年「え？」%K%P
 What?
@@ -301,7 +301,7 @@ CN PLACEHOLDER
 少年「ああ、うん……それはね？」%K%P
 Alright... It's because...
 CN PLACEHOLDER
-Хорошо... потому что...
+Хорошо...потому что...
 
 少年「もっと、自分を知るためさ」%K%P
 I want to know myself better.
@@ -326,7 +326,7 @@ CN PLACEHOLDER
 少年「あの時、ぼくの身に起きていた不可解な事象を理解するためには、優と同じ考古学を学ぶのが一番だと思ったんだ」%K%P
 At that time, I thought that it would be best to major in archaeology, the same as you, to better understand the weird stuff that was happening to me.
 CN PLACEHOLDER
-Тогда... я думал, что лучше всего будет изучать именно археологию. Точно так же, как и ты, чтобы лучше понять те странности, что со мной происходили.
+Тогда...я думал, что лучше всего будет изучать именно археологию, точно также как и ты, чтобы лучше понять те странности, что со мной происходили.
 
 優「まさか……きみ……」%K%P
 You're not going to...
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 優「………………」%K%P
 ............
 CN PLACEHOLDER
-...
+............
 
 少年「ほら、呆れた」%K%P
 I told you...
@@ -361,12 +361,12 @@ CN PLACEHOLDER
 優「きみって子は、相変わらずと言うか、なんと言うか……」%K%P
 You haven't changed... A bit, I mean...
 CN PLACEHOLDER
-Ты... ни капли не изменился... то есть...
+Ты...ни капли не изменился...то есть...
 
 優「やっぱり……何も変わってないよ」%K%P
 Nope... You haven't changed at all.
 CN PLACEHOLDER
-Нееет... ты совсем не изменился.
+Нееет...ты совсем не изменился.
 
 少年「……優もね」%K%P
 Neither have you.
@@ -376,12 +376,12 @@ CN PLACEHOLDER
 少年「あ、そういえばさ、その服……」%K%P
 That reminds me. Your clothes are...
 CN PLACEHOLDER
-Я тут вспомнил... Ю... твоя одежда...
+Я тут вспомнил...Ю...твоя одежда...
 
 優「ん？」%K%P
 Huh?
 CN PLACEHOLDER
-А?
+Эээ?
 
 少年「あの時の服だよね」%K%P
 The same ones you wore then, right?
@@ -391,7 +391,7 @@ CN PLACEHOLDER
 優「うん……まあね」%K%P
 Yeah... You're right.
 CN PLACEHOLDER
-Да... ты прав.
+Да...ты прав.
 
 優の上着の裾には、うっすらと黒いシミが残っている。%K%P
 There was a thin black stain on the hem of her jacket that had remained.
@@ -406,7 +406,7 @@ CN PLACEHOLDER
 思い出の……。%K%P
 Our memory...
 CN PLACEHOLDER
-Наше воспоминание...
+Наше воспоминание....
 
 ぼくは海を見つめながら考え始めた。%K%P
 I started to think as I gazed at the ocean.
@@ -426,7 +426,7 @@ CN PLACEHOLDER
 そうだ、あのあとのことを少しだけ話そうと思う。%K%P
 But I should talk about the things that happened after that.
 CN PLACEHOLDER
-Но, наверное, стоит вспомнить о том, что было после того.
+Но, наверно стоит вспомнить о том, что было после того.
 
 あのあと…………%K%P
 After that...
@@ -436,12 +436,12 @@ CN PLACEHOLDER
 しばらくの間、ぼくらは浮島の上で、太陽の匂いをかいでいた。%K%P
 For some time, we just stood there enjoying the sunshine on the floating island.
 CN PLACEHOLDER
-Какое-то время мы просто стояли на плавучем острове и наслаждались сиянием солнца.
+Какое-то время, мы просто стояли и наслаждались сиянием солнца на плавучем острове.
 
 久しぶりに見る太陽はとても眩しく、陽射しはぽかぽかと暖かかった。%K%P
 The sun looked extremely bright after a week without it. Its rays were warm.
 CN PLACEHOLDER
-Солнце выглядело ослепительно ярким... особенно после недели без него. Его лучи были тёплыми как никогда.
+Солнце выглядело ослепительно ярким...особенно после недели без него. Его лучи были тёплыми как никогда.
 
 そんな時だ。%K%P
 At that moment...
@@ -471,7 +471,7 @@ CN PLACEHOLDER
 少年「――そ、そ、そ、空！？」%K%P
 ...So-So-So-Sora!?
 CN PLACEHOLDER
-...Со-Со-Со-Сора?!
+...Со-Со-Со-Сора!?
 
 空「近いうちに必ず会えるって、約束しましたよね？」%K%P
 I promised you that I would see you again soon, didn't I?
@@ -481,7 +481,7 @@ CN PLACEHOLDER
 少年「で、で、で、でも……どうして、ここに！？」%K%P
 Bu-But... why are you here?
 CN PLACEHOLDER
-Н-но... почему ты здесь?
+Н-но...почему ты здесь?
 
 空「御迷惑でした？」%K%P
 Am I bothering you?
@@ -511,7 +511,7 @@ CN PLACEHOLDER
 透き通った青空が、どこまでもどこまでも、広がっていた。%K%P
 The clear blue sky seemed to spread on forever.
 CN PLACEHOLDER
-Чистое, лазурное... оно простирается в вечность.
+Чистое, лазурное...оно простирается в вечность.
 
 空「田中先生がお待ちになってます」%K%P
 Doctor Tanaka is waiting for you.
@@ -541,17 +541,17 @@ CN PLACEHOLDER
 優「お、お母さん……」%K%P
 M-Mother...
 CN PLACEHOLDER
-М-мама...
+М... мама...
 
 田中先生「優……よく無事で……」%K%P
 You... I'm so happy you're alive...
 CN PLACEHOLDER
-Ю... Как же я рада, что с тобой всё в порядке...
+Ю... слава тебе, господи...
 
 優「どうして……？」%K%P
 Why are you...?
 CN PLACEHOLDER
-Почему ты...
+Почему...?
 
 田中先生「約束したでしょ？　浮島にあがってきたら、すべて教えるって」%K%P
 I promised that I would tell you everything when you got to the floating island, right?
@@ -561,7 +561,7 @@ CN PLACEHOLDER
 優「………………」%K%P
 ...............
 CN PLACEHOLDER
-...
+...............
 
 田中先生「久しぶりね……」%K%P
 It's been a long time...
@@ -571,7 +571,7 @@ CN PLACEHOLDER
 少年「え？」%K%P
 What?
 CN PLACEHOLDER
-Чего?
+Эээ?
 
 今のは、ぼくに言ったのだろうか？%K%P
 I wondered if she was talking to me.
@@ -586,7 +586,7 @@ CN PLACEHOLDER
 それとも、ぼくは過去にこの人と……？%K%P
 Or had I met her in the past...?
 CN PLACEHOLDER
-Или, возможно, мы встречались и раньше?..
+Или, возможно, мы встречались и раньше...?
 
 田中先生「どうしたの？　聞きたいこと、あるんじゃないの？」%K%P
 What's wrong? Is there something that you would like to ask?
@@ -596,7 +596,7 @@ CN PLACEHOLDER
 少年「そ、そうだよ！　聞きたいことなんか、山ほどあるよ！」%K%P
 Y-Yes! I have tons of things I want to ask.
 CN PLACEHOLDER
-Д-да! Я хочу спросить о многих вещах.
+Д-Да! Я хочу спросить о многих вещах.
 
 田中先生「ええ、ひとつ残らず全部話すつもりですから、ご心配なく」%K%P
 Fine. Don't worry, I'll tell you everything.
@@ -606,7 +606,7 @@ CN PLACEHOLDER
 少年「そ、そうだな……ま、まずはっ」%K%P
 Alright then... F-First, I want to...
 CN PLACEHOLDER
-Х-хорошо, тогда... В-во-первых...
+Х-Хорошо, тогда... В-Во-первых...
 
 優「ちょっと待って！」%K%P
 Hold on!
@@ -616,7 +616,7 @@ CN PLACEHOLDER
 優「ちょっと……待ってよ」%K%P
 Wait just a minute...
 CN PLACEHOLDER
-Одну... минутку!..
+Одну... минутку...!
 
 少年「……優？」%K%P
 ...You?
@@ -641,7 +641,7 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「あなたは……私の本当のお母さんじゃないと言った」%K%P
 You said... that you're not my real mother.
@@ -651,12 +651,12 @@ CN PLACEHOLDER
 優「それでも私は、あなたの子供なのだ、とも言った」%K%P
 You also said that I was your child.
 CN PLACEHOLDER
-Но ещё ты сказала... что я твой ребёнок.
+Но, ещё ты сказала... что я - твой ребёнок.
 
 田中先生「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「私が訊きたいのは、ただひとつ」%K%P
 There's only one thing I want to ask.
@@ -666,12 +666,12 @@ CN PLACEHOLDER
 優「あなたは……私の『お母さん』なの？」%K%P
 Are you... my real 'mother'?
 CN PLACEHOLDER
-Ты... действительно моя „мама“?
+Ты... действительно моя 'мама'?
 
 田中先生「……………………」%K%P
 ...............
 CN PLACEHOLDER
-...
+...............
 
 顔を伏せる田中先生。%K%P
 Doctor Tanaka looked down.
@@ -701,27 +701,27 @@ CN PLACEHOLDER
 田中先生「．．．Ｉ⑳ａｍ⑳ＹＯＵ．．．」%K%P
 ...<I am You>...
 CN PLACEHOLDER
-...ай... эм... Ю...
+...ай...эм...Ю...
 
 優「……え？」%K%P
 ...Huh?
 CN PLACEHOLDER
-...а?
+...〜〜〜?!
 
 田中先生「今なら、間違いなく言えるわ……」%K%P
 I can say this for certain now...
 CN PLACEHOLDER
-Теперь я в этом уверена...
+Теперь...я в этом уверена...
 
 田中先生「私は……あなたの……」%K%P
 I am... your...
 CN PLACEHOLDER
-Я... твоя...
+Я...твоя...
 
 田中先生「『母親』よ……優……」%K%P
 'Mother'... You...
 CN PLACEHOLDER
-„Мама“... Ю...
+'Мама'.... Ю...
 
 優の目をしっかり見定めながら、彼女は言った。%K%P
 She stared You in the eye as she said that.
@@ -731,77 +731,77 @@ CN PLACEHOLDER
 優「……お母さん……」%K%P
 ...Mother...
 CN PLACEHOLDER
-Мама...
+Мама...!
 
 …………………………。%K%P
 ..................
 CN PLACEHOLDER
-...
+".................."
 
 やがてぼくらは、田中先生に、次から次へと質問をぶつけた。%K%O
 After a while, we asked Doctor Tanaka question after question.
 CN PLACEHOLDER
-Через несколько мгновений мы засыпали доктора Танаку вопросами.
+Через несколько мгновений, мы засыпали Доктора Танаку вопросами.
 
 ――ぼくらはどうして閉じ込められたのか？%K%N
 ...How did we get trapped?
 CN PLACEHOLDER
-Как мы оказались в заточении?
+...Как мы оказались в заточении?
 
 ――事故だったのか？　そうじゃないのか？%K%N
 ...Was it an accident or not?
 CN PLACEHOLDER
-Была ли это случайная или подстроенная авария?
+...Была ли это случайная или подстроенная авария?
 
 ――ぼくはどうして予知ができたのか？%K%N
 ...Why could I predict things?
 CN PLACEHOLDER
-Почему у меня были предчувствия о будущем?
+...Почему у меня были предчувствия о будущем?
 
 ――記憶を失ってしまったのは、なぜなのか？%K%N
 ...Why did I lose my memory?
 CN PLACEHOLDER
-Как я потерял память?
+...Как я потерял память?
 
 ――ぼくの過去には、いったい何があったのか？%K%N
 ...What had happened in my past?
 CN PLACEHOLDER
-Что произошло в моём прошлом?
+...Что произошло в моём прошлом?
 
 ――幻の少女は実在するのか？　その正体は？%K%N
 ...Did the girl I'd seen really exist? Who was she?
 CN PLACEHOLDER
-Существовала ли девочка, что я видел, на самом деле? И кто она?
+...Существовала ли девочка, что я видел, на самом деле? И кто она?
 
 ――優の過去にはなにがあったのか？%K%O
 ...What had happened in You's past?
 CN PLACEHOLDER
-Что произошло в прошлом Ю?
+...Что произошло в прошлом Ю?
 
 ――優の父親と母親は本当に死んでしまったのか？%K%N
 ...Did You's father and mother really die?
 CN PLACEHOLDER
-Правда ли, что отец и мать Ю мертвы?
+...Правда ли, что отец и мать ю мертвы?
 
 ――ならば、あなた……『田中先生』は何者なのか？%K%N
 ...If so, then who was she... “Doctor Tanaka”?
 CN PLACEHOLDER
-Если так, тогда кто же она... эта «доктор Танака»?
+...Если так, тогда кто же она, эта...'Доктор Танака'?
 
 ――あの俳句のパスワードに込められた意味は何なのか？%K%N
 ...What was the meaning of the haiku password?
 CN PLACEHOLDER
-Что означало хайку-пароль?
+...Что означала хайку-пароль?
 
 ――ブリック・ヴィンケルとは何なのか？%K%N
 ...What was Blick Winkel?
 CN PLACEHOLDER
-Что такое Блик Винкель?
+...Что такое Блик Винкель?
 
 ――ＴＢウイルスと事故の繋がりは？%K%N
 ...What was the connection between the TB virus and the accident?
 CN PLACEHOLDER
-Какая связь между вирусом Tief Blau и аварией?
+...Какая связь между вирусом Tief Blau и аварией?
 
 そして……%K%O
 And...
@@ -811,7 +811,7 @@ CN PLACEHOLDER
 『第３視点』とは何なのか？%K%N
 What was “the third eye”?
 CN PLACEHOLDER
-Что такое «третий глаз»?
+Что такое 'третий глаз'?
 
 ………………。%K%N
 .........
@@ -843,7 +843,7 @@ CN PLACEHOLDER
 少年「ん？　うん……」%K%P
 Huh? Yeah...
 CN PLACEHOLDER
-Э-э? Да...
+Эээ? Да...
 
 少年「ねえ？　優？」%K%P
 Hey, You?
@@ -853,7 +853,7 @@ CN PLACEHOLDER
 少年「『水の流れと人の身』ってコトワザ、知ってる？」%K%P
 Do you know the proverb 'Water flows and people live'?
 CN PLACEHOLDER
-Ты слышала выражение „Всё течёт, всё изменяется“?
+Ты знаешь пословицу 'Всё течёт, всё изменяется'?
 
 優「？」%K%P
 ?
@@ -868,12 +868,12 @@ CN PLACEHOLDER
 少年「けれど、その道すじには無限の可能性があるんだ」%K%P
 But the flow, its path has an infinite number of possibilities.
 CN PLACEHOLDER
-Но её течение – это бесконечное количество вариантов.
+Но, её течение - это бесконечное количество вариантов.
 
 少年「人の身……つまり人生も、水の流れと同じように無限の可能性を秘めている」%K%P
 People live... Just like water, there are infinite ways for life to flow.
 CN PLACEHOLDER
-Наши жизни... они как вода, их тоже можно прожить бесчисленным количеством способов.
+Наши жизни...они как вода, их тоже можно прожить бесчисленным количеством способов.
 
 少年「そういう意味なんだって」%K%P
 That's what it means.
@@ -883,12 +883,12 @@ CN PLACEHOLDER
 優「ふ〜ん」%K%P
 Hmmmm.
 CN PLACEHOLDER
-Хм-м-м-м...
+Хмммм...
 
 少年「人生に無限の可能性があるなら、今ここにいるぼくとは別の歴史を持った自分も、この世界のどこかにいるのかもしれないよね？」%K%P
 If life has infinite possibilities, there might be another me somewhere who has a different history than the me in the present.
 CN PLACEHOLDER
-Если у жизни бесконечное число вариантов, значит, где-то может существовать другой я, с другой историей, отличной от моей.
+Если у жизни бесконечное число вариантов, значит где-то может существовать другой я, с другой историей, отличной от моей.
 
 優「どこか？」%K%P
 Somewhere?
@@ -918,7 +918,7 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「ぼくは、そのもうひとりの自分のことを考えてたんだ」%K%P
 I was thinking about that other me.
@@ -928,7 +928,7 @@ CN PLACEHOLDER
 優「別の宇宙、か……」%K%P
 Another universe, huh?
 CN PLACEHOLDER
-Другая вселенная?
+Другая вселенная, хмм?
 
 優「ねえ？　もしもそんな別の宇宙があるとして……」%K%P
 Hey, if there is another universe like you say...
@@ -993,7 +993,7 @@ CN PLACEHOLDER
 まさにそれは……第３の眼。%K%P
 It was exactly... the third eye.
 CN PLACEHOLDER
-Это и есть... третий глаз.
+Это и есть...третий глаз.
 
 最高の叡智。%K%P
 Ultimate wisdom.

@@ -6,7 +6,7 @@ CN PLACEHOLDER
 朝食を終えたぼくら全員は、会議室に集合した。%K%P
 After breakfast, we all gathered in the conference room.
 CN PLACEHOLDER
-После завтрака мы все собрались в Комнате переговоров.
+После завтрака мы все собрались в Комнате Переговоров.
 
 いや正確には、空によって呼び出されたのだ。%K%P
 More accurately, we gathered because Sora had called us together.
@@ -26,17 +26,17 @@ CN PLACEHOLDER
 空「一刻も早くお知らせしなければならないことがあったのです」%K%P
 There is something that I wanted to inform you about as soon as possible.
 CN PLACEHOLDER
-Есть нечто, о чём я хочу проинформировать вас как можно скорее.
+Есть нечто, о чём я хочу проинформировать вас как можно скорей.
 
 空「辛いでしょうが、現在の状況を正しく把握する必要があります」%K%P
 I know it is difficult, but it is important for you to accurately realize the full gravity of this situation.
 CN PLACEHOLDER
-Я понимаю, что это сложно. Однако это необходимо вам для полного осознания всей сложности нашего положения.
+Я понимаю, что это сложно. Однако, это необходимо вам для полного осознания всей сложности нашего положения.
 
 空「取り乱さず、落ち着いて……心して聞いてください」%K%P
 Please don't panic, settle down... and listen carefully.
 CN PLACEHOLDER
-Прошу вас, не паникуйте, присядьте... и внимательно выслушайте меня.
+Прошу вас, не паникуйте, присядьте...и внимательно выслушайте меня.
 
 空の言葉は、そこで途切れた。%K%P
 Sora paused for a second.
@@ -46,12 +46,12 @@ CN PLACEHOLDER
 優・つぐみ・沙羅・武・そしてぼく……集まった５人の顔を、空は順番に確かめて行く。%K%P
 Sora looked at all five of us in turn... You, Tsugumi, Sara, Takeshi, and me.
 CN PLACEHOLDER
-Она оглядела нас пятерых – Ю, Цугуми, Сару, Такэси, затем%Nменя – прежде чем продолжить.
+Она оглядела нас пятерых - Ю, Цугуми, Сару, Такеши, затем%Nменя - прежде чем продолжить.
 
 会議室は静寂に包まれていた。%K%P
 The conference room was silent.
 CN PLACEHOLDER
-Комната переговоров затихла.
+Комната Переговоров затихла.
 
 だがどこからか微かに、水の音が聞こえるような気がする。%K%P
 But I could hear the sound of water coming faintly from somewhere.
@@ -61,12 +61,12 @@ CN PLACEHOLDER
 通路の床の水が、波打っているのだろうか……？%K%P
 Was it water lapping in the hallways...?
 CN PLACEHOLDER
-Неужели вода прорвалась в коридоры?..
+Неужели вода прорвалась в коридоры...?
 
 しばらくするとその音は聞こえなくなった。%K%P
 Moments later, I couldn't hear it anymore.
 CN PLACEHOLDER
-Через мгновение звук стих, и я уже ничего не слышал.
+Через мгновение, звук стих и я уже ничего не слышал.
 
 それを待っていたかのように、空はゆっくりと口を開いた。%K%P
 As if Sora was waiting for that cue, she slowly opened her mouth.
@@ -76,7 +76,7 @@ CN PLACEHOLDER
 空「現況は……芳しくありません」%K%P
 The situation... is not good.
 CN PLACEHOLDER
-Ситуация... не сулит ничего хорошего.
+Ситуация...не сулит ничего хорошего.
 
 空がさっと手をかざすと、ホログラムウィンドウが現れ、宙に浮かぶ。%K%P
 Sora extended her hand, and a holographic window appeared in the space in front of us.
@@ -91,12 +91,12 @@ CN PLACEHOLDER
 空「今のところ、新たな浸水の兆候がはっきり現れている箇所はありません」%K%P
 Currently, there are no areas that show signs of new flooding.
 CN PLACEHOLDER
-На текущий момент зоны, подающие признаки протечки воды, отсутствуют.
+В данный момент, зоны, подающие признаки протечки воды, отсутствуют.
 
 空「昨夜のドリットシュトックの『コスミッシャー・ヴァル』浸水以来、際立った被害は出ていませんが……」%K%P
 Since the flooding of the Cosmic Whale area in Dritter Stock last night, there have been no further reports of significant damage.
 CN PLACEHOLDER
-С тех пор, как произошло затопление зала Космического кита на Дритте Шток, новые прорывы обшивки не зафиксированы.
+С тех пор, как произошло затопление Зала Космического Кита на Дритте шток, новые прорывы обшивки не зафиксированы.
 
 空「その浸水によって、ＬｅＭＵを支える支柱への負担は増大しました」%K%P
 The burden being placed on LeMU's support columns has increased due to the flooding.
@@ -121,7 +121,7 @@ CN PLACEHOLDER
 空「つまり……油断のならない状況となっています」%K%P
 In other words... we can't afford to be careless. Things are critical.
 CN PLACEHOLDER
-Иными словами... мы не можем позволить себе небрежности. Ситуация критическая.
+Иными словами...мы не можем позволить себе небрежности. Ситуация критическая.
 
 空「以前、お伝えしたと思いますが……」%K%P
 I think that I told you this before...
@@ -131,7 +131,7 @@ CN PLACEHOLDER
 空「ＬｅＭＵの完全圧潰推定時刻は『５月７日午前４時３０分前後』となっています」%K%P
 Implosion of LeMU is estimated to occur at 4:30 a.m. on May 7th.
 CN PLACEHOLDER
-Затопление LeMU ожидается примерно 7 мая в 4:30 утра.
+Затопление LeMU ожидается примерно в 4:30 утра 7 Мая.
 
 空「推定誤差は±１２時間程度です」%K%P
 The calculation has a margin of error of plus or minus twelve hours.
@@ -156,7 +156,7 @@ CN PLACEHOLDER
 空「それはもう……時間の問題です」%K%P
 It is... only a matter of time.
 CN PLACEHOLDER
-Это лишь... вопрос времени.
+Это лишь...вопрос времени.
 
 淡々と無感情に、空の状況報告は行われている。%K%P
 Sora told all of us that with a calm look on her face.
@@ -191,12 +191,12 @@ CN PLACEHOLDER
 空「ですが万が一、発電機が停止してしまった場合は……非常電源、蓄電池を使用します」%K%P
 However, if by chance there is a blackout... we will switch to the emergency power source battery.
 CN PLACEHOLDER
-Однако, если произойдёт обесточивание сооружения... мы переключимся на аварийный аккумуляторный запас.
+Однако, если произойдёт обесточивание сооружения...мы переключимся на аварийный аккумуляторный запас.
 
 空「通常は非常灯の点灯とシステムの保持に使われている程度のものですが、……２時間くらいは持つものと思います」%K%P
 This is generally meant for supporting the emergency lighting and the maintenance on LeMU's system... It should last for about two hours.
 CN PLACEHOLDER
-В частности, это означает, что аварийного питания хватит для поддержки слабого освещения и работы компьютерной подсистемы LeMU... примерно в течение двух часов.
+В частности, это означает, что аварийного питания хватит для поддержки слабого освещения и работы компьютерной подсистемы LeMU... примерно в течении двух часов.
 
 淡々と語る空に、こちらも緊迫感を覚える。%K%P
 Sora's matter-of-fact way of speaking only raised the tension in our minds.
@@ -206,7 +206,7 @@ CN PLACEHOLDER
 武も、沙羅も、つぐみも。%K%P
 For Takeshi, Sara, and Tsugumi.
 CN PLACEHOLDER
-Такэси, Сара, Цугуми.
+Такеши, Сара, Цугуми.
 
 そして、優も。%K%P
 And for You.
@@ -226,7 +226,7 @@ CN PLACEHOLDER
 今朝から、ぼくは優と目を合わせていない。%K%P
 From the morning, You and I had avoided one another's eyes.
 CN PLACEHOLDER
-Утром... и я, и Ю, не смотрели друг другу в глаза.
+Утром...и я, и Ю, не смотрели друг другу в глаза.
 
 言葉を交わしたかどうかですら危うい。%K%P
 I wasn't sure if we had even exchanged words.
@@ -271,7 +271,7 @@ CN PLACEHOLDER
 空「脱出方法も見つかっていません」%K%P
 Nor have I found an escape route.
 CN PLACEHOLDER
-Также не удалось обнаружить пути для спасения.
+Также, не удалось обнаружить пути для спасения.
 
 空「ですが……」%K%P
 However...
@@ -281,7 +281,7 @@ CN PLACEHOLDER
 空「館内レミシステムは全力をあげて、皆さんの生命維持を最優先事項とし、その為の環境保全に努めます」%K%P
 I have made protecting you my top priority, and LeMMIH is devoting all of its resources to that objective.
 CN PLACEHOLDER
-Я сделала вашу защиту своим наивысшим приоритетом, а LeMMIH отдаёт все свои мощности для выполнения этой цели.
+Я сделала Вашу защиту своим наивысшим приоритетом, а ЛеММИХ отдаёт все свои мощности для выполнения этой цели.
 
 空「また、館外で操作可能なセンサー、ライト、マニピュレーターなどを総動員し……」%K%P
 I am also using all sensors, lights, manipulators, and means at my disposal outside of the complex...
@@ -291,7 +291,7 @@ CN PLACEHOLDER
 空「それらを使っての、光波・電波・音波による通信の送受信の可能性を、改めて検証中です」%K%P
 And I am still investigating whether there are any means of communicating with the outside using light, radio, or sound.
 CN PLACEHOLDER
-Также я по-прежнему ищу способы связи с внешним миром, включая наружное освещение, радио и ультразвуковой сонар.
+Также, я по-прежнему ищу способы связи со внешним миром, включая наружнее освещение, радио и ультразвуковой сонар.
 
 空は顔をあげ、姿勢を正して、ぼくらを静かに見つめ直した。%K%P
 Sora nodded her head, straightened her back, and surveyed the room. We were all silent.
@@ -311,22 +311,22 @@ CN PLACEHOLDER
 空「これは……意地です。私、茜ヶ崎空の、意地……」%K%P
 That... as long as I, Akanegasaki Sora, exist...
 CN PLACEHOLDER
-Пока существую я... Аканэгасаки Сора...
+Пока существую я...Аканегасаки Сора...
 
 空「できることは僅かですが、皆さんがここにいられる限り……」%K%P
 And while my powers are limited, as long as you are here...
 CN PLACEHOLDER
-...несмотря на мои ограниченные возможности, пока вы все здесь...
+...несмотря на мои ограниченные возможности... пока Вы все здесь...
 
 空「皆さんがここから無事脱出する為のあらゆる手段、方法を私は考え、試したいと思っています」%K%P
 I will do my utmost to find a way for you to escape to safety.
 CN PLACEHOLDER
-Я сделаю всё возможное и невозможное, чтобы найти способ для вашего спасения.
+Я сделаю всё возможное и невозможное, чтобы найти способ для Вашего спасения.
 
 空「あとしばらくの間、宜しくお付き合いの程、お願い致します」%K%P
 We do not have much longer together, but I, Akanegasaki Sora, am at your service.
 CN PLACEHOLDER
-Пусть у нас мало времени, но... я всецело в вашем распоряжении.
+Пусть у нас мало времени, но...я всецело в Вашем распоряжении.
 
 深々と頭を下げ、彼女は一礼する。%K%P
 She concluded with a serious nod.
@@ -341,7 +341,7 @@ CN PLACEHOLDER
 空「助けは必ず来ます……信じて待ちましょう」%K%P
 We must wait... and believe that help is on its way.
 CN PLACEHOLDER
-Мы должны ждать... и надеяться, что помощь уже в пути.
+Мы должны ждать...и надеяться, что помощь уже в пути.
 
 ふっと表情を崩し、空は微笑んでみせる。%K%P
 Sora's serious expression gave way to a smile.
@@ -351,12 +351,12 @@ CN PLACEHOLDER
 空「皆さんが無事救出されることをお祈りします」%K%P
 Everyone, let's pray for a safe rescue.
 CN PLACEHOLDER
-Давайте помолимся... за наше спасение.
+Давайте помолимся...за наше спасение.
 
 先程までの陰鬱な空気は薄れつつあり、皆これからの時間をどう使うべきか、考えを巡らせ始めた。%K%P
 The gloomy atmosphere that had been hanging over the gathering lightened, and everyone started thinking about how they should spend their time.
 CN PLACEHOLDER
-Мрачная атмосфера, что витала вокруг нас, сдалась под натиском света надежды. А мы меж тем стали думать, как проведём отпущенный нам срок.
+Мрачная атмосфера, что витала вокруг нас, сдалась под натиском света надежды. А мы, меж тем, стали думать, как проведём отпущенный нам срок.
 
 空の笑顔に、誰もが勇気づけられる。%K%P
 Sora's smile instilled everyone with courage.
@@ -366,7 +366,7 @@ CN PLACEHOLDER
 このときばかりは、彼女が冷静に、人工知能としての機能に徹したことを、ありがたく思った……。%K%P
 I was grateful for that piece of code in Sora's program, the function that allowed her to be calm in times of trouble...
 CN PLACEHOLDER
-Я благодарен тому кусочку кода программы под названием Сора – функции, что делает её столь собранной и спокойной в трудные минуты.
+Я благодарен тому кусочку кода программы под названием Сора — функции, что делает её столь собранной и спокойной в трудные минуты.
 
 空「それでは、一旦は解散としましょう」%K%P
 Now, let's end this meeting.
@@ -376,12 +376,12 @@ CN PLACEHOLDER
 空「何か事実が掴めるまで、各自、自由に行動してください」%K%P
 Until there is new information available, please do what you will.
 CN PLACEHOLDER
-До поступления новых сведений, пожалуйста, действуйте на своё усмотрение.
+До поступления новых сведений, пожалуйста действуйте на своё усмотрение.
 
 空「ただし、何かを発見した場合は、即座にレミを通じて私に知らせる、ということで……」%K%P
 However, if you do discover anything, please inform me immediately via LeMMIH...
 CN PLACEHOLDER
-Однако, если вы что-либо обнаружите, пожалуйста, незамедлительно сообщите мне через LeMMIH...
+Однако, если вы что-либо обнаружите, пожалуйста незамедлительно сообщите мне через ЛеММИХ...
 
 つぐみ「空、ちょっといい？」%K%P
 Excuse me, Sora?
@@ -391,7 +391,7 @@ CN PLACEHOLDER
 空「あっ、はい。小町さん……なんでしょうか？」%K%P
 Ah yes, Komachi-san... What is on your mind?
 CN PLACEHOLDER
-Да, Комати-сан, в чём дело?
+Да, Комачи-сан, в чём дело?
 
 突然つぐみが、空の前に立った。%K%P
 Tsugumi suddenly stood in front of Sora.
@@ -411,12 +411,12 @@ CN PLACEHOLDER
 空「ふたりきりで、ですか？」%K%P
 In private?
 CN PLACEHOLDER
-Поговорить... наедине?
+Поговорить...наедине?
 
 つぐみ「ええ……お願い」%K%P
 Yes... please.
 CN PLACEHOLDER
-Да... пожалуйста.
+Да...пожалуйста.
 
 つぐみ「実は脱出について、あなたにひとつ提案があるのよ」%K%P
 Actually, I have a proposal, an idea of how to escape from here.
@@ -426,12 +426,12 @@ CN PLACEHOLDER
 空「えっ、本当ですか？　何か、いい方法が？」%K%P
 Yes, really? Have you come up with a good method?
 CN PLACEHOLDER
-Э-э... правда? Ты что-то придумала?
+Эээ...правда? Ты что-то придумала?
 
 つぐみ「そうよ。あなたも知らない、私だけが知っている方法」%K%P
 Yeah. One that you don't know. Only I know about it.
 CN PLACEHOLDER
-Да... я знаю то, чего пока не знаешь ты.
+Да...я знаю то, чего пока не знаешь ты.
 
 つぐみ「聞いたところによれば、あなた、自律行動のプライオリティを入れ替えてもらったそうね？　沙羅に」%K%P
 I heard from Sara that your operating priorities have been changed.
@@ -446,17 +446,17 @@ CN PLACEHOLDER
 空「は、はい……それが何か？」%K%P
 Y-Yes... and what about it?
 CN PLACEHOLDER
-Д-да... это имеет значение?
+Д-да...это имеет значение?
 
 つぐみ「今のあなたなら、私に協力できるかもしれない」%K%P
 Maybe you can work with me now.
 CN PLACEHOLDER
-Возможно теперь ты можешь мне помочь.
+Возможно...теперь вместе у нас кое-что получится.
 
 武「え？　……お、おいっ、ちょっと待てよつぐみ。空も……」%K%P
 Huh...? Hey, Tsugumi, hold on. Sora is...
 CN PLACEHOLDER
-А?.. П-погоди, постой, Цугуми. Сора же...
+Эээ?...П-погоди, постой, Цугуми. Сора же...
 
 つぐみ「あなたは黙ってて」%K%P
 Shut up, you.
@@ -466,12 +466,12 @@ CN PLACEHOLDER
 武の口を塞ぐように、つぐみは手をかざした。%K%P
 Tsugumi held up her hand as if silencing Takeshi.
 CN PLACEHOLDER
-Цугуми вытянула руку, словно затыкает Такэси.
+Цугуми вытянула руку, словно затыкает Такеши.
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「私は空と、ふたりだけで話したいの」%K%P
 I want to speak to Sora. Alone.
@@ -486,22 +486,22 @@ CN PLACEHOLDER
 空「……はい。わかりました。では、中央制御室で」%K%P
 ...Of course. Then we will speak in the central control room.
 CN PLACEHOLDER
-Да... конечно. Тогда поговорим в Центре управления.
+Да...конечно. Тогда поговорим в Центре Управления.
 
 つぐみ「そうね。行きましょうか」%K%P
 Alright. Let's go then.
 CN PLACEHOLDER
-Хорошо. Пойдём.
+Хорошо...пойдём.
 
 ふたりとも真剣な顔をして、連れ立って出口へと向かう。%K%P
 With serious looks on their faces, the two of them headed out of the room.
 CN PLACEHOLDER
-Они обе с серьёзными лицами вышли из комнаты.
+С серьёзными лицами, они две вышли из комнаты.
 
 武「おい待てよ！　ふたりとも！　勝手なことすんな！」%K%P
 Hey, wait, you two! What about us!?
 CN PLACEHOLDER
-Эй, куда вы?! А как же мы?
+Эй, куда Вы?! А как же мы?
 
 武「そんな大事な話なら、むしろここでっ」%K%P
 If it's important, then we should talk about it here.
@@ -511,27 +511,27 @@ CN PLACEHOLDER
 振り向いて、つぐみは武を睨んだ。%K%P
 Tsugumi glared back at Takeshi.
 CN PLACEHOLDER
-Цугуми зыркнула на Такэси.
+Цугуми зыркнула на Такеши.
 
 冷たく凍るような目つきだった。%K%P
 Her eyes were like ice.
 CN PLACEHOLDER
-Взгляд её холоден.
+Её глаза как лёд.
 
 つぐみ「黙っててって、言ったでしょ？」%K%P
 I told you to shut up, didn't I?
 CN PLACEHOLDER
-Я, кажется, просила помолчать.
+Я кажется просила...помолчать.
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 再び武に背を向け、つぐみは空と一緒に、会議室から出て行った。%K%P
 She turned her back on Takeshi again, and she and Sora left the conference room.
 CN PLACEHOLDER
-Она отвернулась от Такэси, после чего они с Сорой вышли из Комнаты переговоров.
+Она отвернулась от Такеши, и они две вместе вышли из Комнаты Переговоров.
 
 辺りは急に静かになる。%K%P
 The room suddenly fell silent.
@@ -546,7 +546,7 @@ CN PLACEHOLDER
 武「なんだってんだよ……」%K%P
 What the hell is going on here...?
 CN PLACEHOLDER
-Что это было?..
+Что это было...?
 
 ………………………………。%K%P
 ...................
@@ -556,7 +556,7 @@ CN PLACEHOLDER
 残されたぼくらは、ひとまず会議室のホログラムを睨みながら作戦会議、ということで落ち着いた。%K%P
 Those of us left stared at the hologram in the conference room and settled down to plotting a strategy to save ourselves.
 CN PLACEHOLDER
-Те из нас, кто остался в Комнате переговоров – Ю, Сара, Такэси и я – собрались за столом и уставились на голограмму...
+Те из нас, кто остался в Комнате Переговоров - Ю, Сара, Такеши и я - собрались за столом и уставились на голограмму...
 
 ぼく・優・沙羅・武の４人は、テーブルを囲む。%K%P
 The four of us (You, Sara, Takeshi, and I) gathered around the table.
@@ -596,7 +596,7 @@ CN PLACEHOLDER
 （なお、この原因は未だ不明）%K%N
 We still didn't know the cause of that either.
 CN PLACEHOLDER
-Почему он не работает – мы не знаем.
+Почему он не работает - мы не знаем.
 
 非常階段も、２階より上の部分は水に満たされてしまっており、通行は不可能となっている。%K%O
 The emergency stairs were also filled with water from the second floor, so they were impassable.
@@ -606,7 +606,7 @@ CN PLACEHOLDER
 館内の水を排水する手段は、現状のところひとつしか考えられない。%K%N
 There was only one method that could be used to remove the floodwater.
 CN PLACEHOLDER
-Остаётся лишь один способ – откачать воду.
+Остаётся лишь один способ - откачать воду.
 
 ――浮島にある高圧力送風機で館内に高圧ガスを送り込み、圧力によって水を排水する。%K%N
 That was to use the high-pressure fan to pump the complex full of high-pressure gases and purge it of seawater.
@@ -616,7 +616,7 @@ CN PLACEHOLDER
 しかし、送風機はＬｅＭＵの側からは動作させることができない。%K%N
 But at that moment, we weren't able to operate the fan from inside LeMU.
 CN PLACEHOLDER
-Но в данный момент мы не можем управлять ими изнутри LeMU.
+Но, в данный момент мы не можем управлять ими изнутри LeMU.
 
 （エレベーターと同じように、原因は不明）%K%O
 And like the elevators, we still had no idea why.
@@ -626,12 +626,12 @@ CN PLACEHOLDER
 内部から動かせなければ、外部から動かせばよい。%K%N
 If we couldn't start it from the inside, then it could be started from the outside.
 CN PLACEHOLDER
-Если мы не можем запустить их изнутри, значит, мы могли бы запустить их снаружи.
+Если мы не можем запустить их изнутри, значит мы могли бы запустить их снаружи.
 
 が、その外部への通信方法は、その一切が閉ざされている状況だった。%K%N
 But all communication channels to the outside had been cut off.
 CN PLACEHOLDER
-Но все средства связи с внешним миром отрезаны.
+Но, все средства связи с внешним миром отрезаны.
 
 まさか、泳いで脱出するわけにもいかない。%K%N
 And swimming our way to freedom was out of the question.
@@ -641,22 +641,22 @@ CN PLACEHOLDER
 水圧やらの諸問題を考えれば、それこそ自殺行為だ。%K%O
 The water pressure and other problems made that suicidal.
 CN PLACEHOLDER
-При таком давлении и глубине... это чистой воды самоубийство.
+При таком давлении и глубине...это чистой воды самоубийство.
 
 あと残された道は……自力で脱出できないのならば……外からの救助に頼るしかない。%K%N
 And if we couldn't find a way out on our own... then we'd have to rely on rescue efforts from outside.
 CN PLACEHOLDER
-Но если мы не сможем найти способа... значит, придётся надеяться на действия спасательной команды снаружи.
+Но, если мы не сможем найти способа...значит придётся надеяться на действия спасательной команды снаружи.
 
 けれど、もはやそんなものは、まったく期待できなかった。%K%N
 But that was something we couldn't depend upon.
 CN PLACEHOLDER
-Но как раз на них-то мы и не можем рассчитывать.
+Но, как раз на них-то мы и не можем рассчитывать.
 
 外部への連絡は不可能なわけだし、この５日間、そんな兆候は見られなかったのだ。%K%N
 We hadn't been able to communicate with the outside for the five days since we'd been trapped, and there were no signs help was coming.
 CN PLACEHOLDER
-Мы не смогли наладить связь с поверхностью все эти пять дней плена... нет никаких признаков того, что помощь вот-вот придёт.
+Мы не смогли наладить связь с поверхностью все эти пять дней плена...нет никаких признаков того, что помощь вот-вот придёт.
 
 そんな奇蹟を願うような手段は、除外して考えなければならない。%K%N
 So, we knew that we had to exclude a miracle rescue from our options.
@@ -666,7 +666,7 @@ CN PLACEHOLDER
 いや、そもそも……%K%O
 No... From the beginning...
 CN PLACEHOLDER
-Мы знали... с самого начала...
+Мы знали...с самого начала...
 
 ぼくらがここに閉じこめられている事実は、とうの昔に発覚済みのはずなのだ。%K%N
 We had reconciled ourselves with the facts of our situation long before.
@@ -676,7 +676,7 @@ CN PLACEHOLDER
 それでもなお、救助も連絡も、その片鱗さえもないということは、何かしらの理由で館内に近づくことができないのか、%K%N
 We figured that since there had been no contact or rescue, not even the slightest sign, maybe there was a reason people couldn't get near LeMU.
 CN PLACEHOLDER
-Мы поняли, что раз нет ни малейших признаков деятельности спасательной команды, значит, есть причина, по которой люди не могут подобраться к LeMU.
+Мы поняли, что раз нет ни малейших признаков деятельности спасательной команды, значит есть причина, по которой люди не могут подобраться к LeMU даже на пушечный выстрел.
 
 あるいは……%K%N
 Or...
@@ -686,7 +686,7 @@ CN PLACEHOLDER
 ぼくらを意図的に閉じこめているのか、だ。%K%N
 Maybe someone had intentionally sealed us in.
 CN PLACEHOLDER
-Может, нас действительно заточили здесь специально?
+Может нас действительно заточили здесь специально?
 
 さて、これらから導き出される対応策は、以下の３つだ。%K%O
 So, we came up with three steps we should focus on.
@@ -701,7 +701,7 @@ CN PLACEHOLDER
 ただし、外部の人間がぼくらに対して協力の意志がある場合に限り、である。%K%O
 But that was only relevant if the people on the outside were willing to cooperate.
 CN PLACEHOLDER
-Но это возможно лишь при условии, если люди снаружи желают сотрудничать.
+Но, это возможно лишь при условии, если люди снаружи желают сотрудничать.
 
 Ｂ：高圧力送風機を使用する以外の、排水手段を見つける。%K%N
 B. Find another way to drain the water from the complex other than the high-pressure fan.
@@ -716,7 +716,7 @@ CN PLACEHOLDER
 Ｃ：エレベーター・非常階段以外の、脱出経路――例えば潜水艇とか――を見つける。%K%N
 C. Find an escape route other than the elevator or emergency stairs, like maybe a submarine.
 CN PLACEHOLDER
-В. Найти другой путь к бегству, а не через лифты или аварийные лестницы... вроде подлодки.
+В. Найти другой путь к бегству, а не через лифты или аварийные лестницы...вроде подлодки.
 
 ただし、空が知る限り、もうＬｅＭＵには残されていない、らしい。%K%N
 But according to Sora's information, there were no longer any left at LeMU.
@@ -733,12 +733,12 @@ CN PLACEHOLDER
 %LC最終結論――『現時点では、脱出の望み無し』%K%O
 Final conclusion—“Current prognosis for escape: hopeless.”
 CN PLACEHOLDER
-Вывод – «Текущая вероятность спасения : безнадёжно.»
+Вывод — 'Текущая вероятность спасения : безнадёжно.'
 
 だが、たったひとつだけ。%K%N
 But there was one thing.
 CN PLACEHOLDER
-Однако есть ещё одна важная деталь.
+Однако, есть ещё одна важная деталь.
 
 つぐみの言っていた、つぐみだけが知っているという脱出方法。%K%N
 Tsugumi had said that there was an escape method that only she knew about.
@@ -758,17 +758,17 @@ CN PLACEHOLDER
 それはまさに、最後の希望、だと言えた。%K%O
 Then that would be our only hope.
 CN PLACEHOLDER
-Значит... это наша единственная надежда.
+Значит...это наша единственная надежда.
 
 優「う〜〜〜〜〜〜〜ん！」%K%P
 Right!
 CN PLACEHOLDER
-Хм-м-м-м-м!
+Хммммммммммм!
 
 武「結局のところ、俺達には、打つ手無しってことか」%K%P
 There's really nothing we can do.
 CN PLACEHOLDER
-Значит, мы действительно ничего не можем поделать.
+Значит мы...действительно ничего не можем поделать.
 
 沙羅「つぐみと空の報告を待つしかないね」%K%P
 We'll just have to wait for a report from Tsugumi and Sora.
@@ -778,47 +778,47 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「にしても、つぐみの奴、おせぇーなぁ」%K%P
 Yeah, but Tsugumi hasn't even come back yet.
 CN PLACEHOLDER
-Только что-то Цугуми подзадержалась.
+Только...что-то Цугуми подзадержалась.
 
 優「うん……いくらなんでも遅すぎるよね」%K%P
 Hmm... She is kind of taking a long time...
 CN PLACEHOLDER
-Хм-м... и правда, что-то они долго...
+Хмм...и правда, что-то они долго...
 
 沙羅「何かあったんでしょうかね？」%K%P
 Maybe there's a reason.
 CN PLACEHOLDER
-Может, так надо?
+Может так надо?
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「う〜〜〜ん」%K%P
 Maybe.
 CN PLACEHOLDER
-Хм-м-м-м-м-м...
+Хмммммм...
 
 少年「ねえ、ぼくが行って様子を見てこようか？」%K%P
 Hey, should I go see how things are going?
 CN PLACEHOLDER
-Может, мне проверить, как они там?
+Знаете что...пойду-ка проверю, как они там.
 
 武「え？　え〜と……」%K%P
 Huh? Uh...
 CN PLACEHOLDER
-А? Ну...
+Эээ? Это...
 
 武「ああ、そうだな、よろしく頼む」%K%P
 Yeah. You go do that.
 CN PLACEHOLDER
-Да. Давай.
+Ээ...конечно. Давай.
 
 沙羅「ひとりで大丈夫？」%K%P
 You're okay alone?
@@ -833,12 +833,12 @@ CN PLACEHOLDER
 そう言って、ぼくは会議室を出た。%K%P
 With that, I left the conference room.
 CN PLACEHOLDER
-С этими словами я вышел из Комнаты переговоров.
+С этими словами, я вышел из Комнаты Переговоров.
 
 制御室へと向かって通路を進む。%K%P
 I headed down the corridor to the control room.
 CN PLACEHOLDER
-Я пошёл вдоль коридора до Центра управления.
+Я пошёл вдоль коридора до Центра Управления.
 
 もはや今の状況のままでは、いくら悩んでも解決策など見出せはしない。%K%P
 With the situation the way it was, we weren't going to find a solution no matter how much we worried about it.
@@ -863,7 +863,7 @@ CN PLACEHOLDER
 考えるのではなく、行動するのだ。%K%P
 We couldn't just rely on thinking. We needed to act.
 CN PLACEHOLDER
-Размышлений недостаточно – надо принимать меры.
+Размышлений не достаточно - надо принимать меры.
 
 その行動のための第一歩を、つぐみと空が握っている。%K%P
 The key to the first step down that path was in the hands of Tsugumi and Sora.
@@ -878,7 +878,7 @@ CN PLACEHOLDER
 制御室の前に辿り着く。%K%P
 I arrived in front of the control room.
 CN PLACEHOLDER
-Я оказался перед Центром управления.
+Я оказался перед Центром Управления.
 
 インターホンを押すが、反応はない。%K%P
 I pushed the intercom buzzer, but there was no answer.
@@ -888,12 +888,12 @@ CN PLACEHOLDER
 やむを得ず、ドアを開ける。%K%P
 My only choice was to open the door.
 CN PLACEHOLDER
-Единственное, что остаётся – открыть дверь.
+Единственное, что остаётся - открыть дверь.
 
 ドアを開けると、つぐみの怒声が響いてきた。%K%P
 When I did, I heard Tsugumi shouting.
 CN PLACEHOLDER
-Сразу после я услышал, как Цугуми кричит.
+Но тут...я не поверил своим глазам.
 
 つぐみ「なんべんも、同じことを言わせないで！」%K%P
 Don't make me keep repeating the same thing!
@@ -903,7 +903,7 @@ CN PLACEHOLDER
 つぐみと空、ふたりはまさに、掴み合わんばかりの言い合いをしている最中だった。%K%P
 Tsugumi and Sora were in the middle of an argument so intense that it seemed they might start going at it hand-to-hand.
 CN PLACEHOLDER
-Цугуми и Сора спорят столь ожесточённо, что, кажется, вот-вот перейдут в рукопашную.
+Цугуми и Сора спорят столь ожесточённо, что... кажется вот-вот перейдут в рукопашную.
 
 互いに一歩も引かず、激しく睨み合っている。%K%P
 Neither one would budge. They just glared at one another.
@@ -913,7 +913,7 @@ CN PLACEHOLDER
 恐らく、数分前からこの状態なのだろう。部屋の空気は、びりびりと張り詰めている。%K%P
 It looked as though they had been fighting for several minutes. The room was filled with tension.
 CN PLACEHOLDER
-Похоже, что эта перепалка продолжается уже несколько минут. В комнате царило напряжение.
+Похоже, что эта драка продолжается уже несколько минут. Комната переполнена напряжённостью.
 
 ふたりは一瞬だけぼくに目を向けたが、すぐに口論を再開する。%K%P
 The two glanced at me for only an instant before launching back into their argument.
@@ -928,7 +928,7 @@ CN PLACEHOLDER
 つぐみ「ねえ、空？　お願いだから、これ以上、私を怒らせないで」%K%P
 Sora, please don't make me any angrier.
 CN PLACEHOLDER
-Сора, прошу, не выводи меня из себя.
+...Сора...прошу, не выводи меня из себя.
 
 つぐみ「他の連中は騙せても、私に嘘は通じないの」%K%P
 You might be able to trick the others, but lies won't work on me.
@@ -948,7 +948,7 @@ CN PLACEHOLDER
 ――いけない！%K%P
 It was a bad scene.
 CN PLACEHOLDER
-Дела плохи!
+Это плохо.
 
 ぼくは本能的に危険を感じた。%K%P
 Something about the whole thing screamed danger.
@@ -963,12 +963,12 @@ CN PLACEHOLDER
 ぼくはきびすを返し、急いで会議室へと戻っていった。%K%P
 I retraced my steps, hurrying to the conference room.
 CN PLACEHOLDER
-Я попятился назад, а затем рванул к Комнате переговоров.
+Я попятился назад, а затем рванул к Комнате Переговоров.
 
 少年「みんな、大変だ！！」%K%P
 Everyone! We've got trouble!
 CN PLACEHOLDER
-Ребята! У нас беда!
+Ребята! У нас ЧП!
 
 ぼくはドアが開ききるのも待たずに、部屋の中へと飛び込んだ。%K%P
 Without waiting for the door to completely open, I bounded into the room.
@@ -978,22 +978,22 @@ CN PLACEHOLDER
 武「お？　早かったな……」%K%P
 Huh? That was quick...
 CN PLACEHOLDER
-Ооо... быстро пришёл...
+Ооо...быстро пришёл...
 
 武「って、ただ事じゃないみたいだな？」%K%P
 Sounds like something big is going down.
 CN PLACEHOLDER
-Похоже, там что-то серьёзное.
+П-похоже там что-то серьёзное.
 
 優「大変って、どういうこと？」%K%P
 Trouble? What kind of trouble?
 CN PLACEHOLDER
-Беда? Что там такое?
+Беда? Что стряслось?
 
 少年「い、いいから、来て！　止めなきゃ！」%K%P
 C-Come on! We've gotta go and stop it!
 CN PLACEHOLDER
-С-скорее! Их надо остановить!
+С-скорей! Их надо остановить!
 
 ぜいぜいと息を切らしながら、ぼくは言う。%K%P
 I told them that as I struggled to get my breath back.
@@ -1003,17 +1003,17 @@ CN PLACEHOLDER
 武「止める？　おい、ちゃんと説明してくれ」%K%P
 Stop what? Hey, explain what's going on.
 CN PLACEHOLDER
-Остановить? Объясни толком, что стрялось.
+Остановить? Объясни толком, что стряслось.
 
 沙羅「な、何があったの？」%K%P
 Wh-What happened?
 CN PLACEHOLDER
-Ч-что случилось?
+Ч-что с ними?
 
 少年「中央制御室……！」%K%P
 The central control room...!
 CN PLACEHOLDER
-В Центре управления!..
+В Центре Управления...!
 
 少年「空とつぐみ……」%K%P
 Sora and Tsugumi...
@@ -1023,7 +1023,7 @@ CN PLACEHOLDER
 少年「ひどい口論に、なってて……！！」%K%P
 ...I found them fighting!
 CN PLACEHOLDER
-...кричат друг на друга!
+...дерутся друг с дружкой!!
 
 武「！！」%K%P
 !
@@ -1038,12 +1038,12 @@ CN PLACEHOLDER
 優「マズいね……こんなときにっ」%K%P
 This is bad news... at a time like this.
 CN PLACEHOLDER
-Кошмар... Так не вовремя...
+Кошмар...в такие минуты...
 
 沙羅「い、行こう！　止めようよっ！」%K%P
 L-Let's go! We've got to stop them!
 CN PLACEHOLDER
-Б-бежим! Скорее!
+Б-бежим! Скорей!
 
 武「あ、ああ！　早いとこ行くぞ！」%K%P
 Y-Yeah! We'd better hurry!
@@ -1078,7 +1078,7 @@ CN PLACEHOLDER
 空「ドリットシュトックの下に、フロアはありません。降りることはできないんです」%K%P
 There aren't any floors underneath Dritter Stock. We can't go down any farther.
 CN PLACEHOLDER
-Под Дритте Шток нет других этажей. Мы не можем спуститься ниже.
+Под Дритте шток нет других этажей. Мы не можем спуститься ниже.
 
 つぐみ「嘘……」%K%P
 Liar...
@@ -1093,7 +1093,7 @@ CN PLACEHOLDER
 つぐみ「私にはわかっている……ううん、私は知っているの」%K%P
 I know... Oh, how I know.
 CN PLACEHOLDER
-Я знаю... Эх, как же я знаю.
+Я знаю....Эх, как же я знаю.
 
 つぐみ「ＬｅＭＵにはさらに下の階があるって」%K%P
 There is another floor under LeMU.
@@ -1103,22 +1103,22 @@ CN PLACEHOLDER
 つぐみ「ううん、ＬｅＭＵとは別の施設……それがこの真下にあるの。ずーっと下のほうによ」%K%P
 No, there's another facility other than LeMU... and it's right below us. Really far down.
 CN PLACEHOLDER
-...LeMU – не единственное сооружение. Под ним есть ещё одно.
+...LeMU - не единственное сооружение. Под ним есть ещё одно.
 
 つぐみ「ね、そうでしょう？」%K%P
 I'm right, aren't I?
 CN PLACEHOLDER
-Ну... что скажешь?
+Ну...что скажешь?
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「その問いには……こうお答えするしかありません」%K%P
 There is only one answer... to your question.
 CN PLACEHOLDER
-Я могу сказать... лишь одно.
+Я могу сказать...лишь одно.
 
 空「そんな施設など、存在しません、と」%K%P
 No such facilities exist.
@@ -1138,7 +1138,7 @@ CN PLACEHOLDER
 つぐみ「あのヒンメルは、一体なんなのよ！！」%K%P
 What is that Himmel about!?
 CN PLACEHOLDER
-Химмель. Что это за помещение?!
+Химмел. Что это за помещение?!
 
 ……？%K%P
 ...?
@@ -1148,27 +1148,27 @@ CN PLACEHOLDER
 ヒンメル？%K%P
 Himmel?
 CN PLACEHOLDER
-Химмель?
+Химмел?
 
 なんとなく聞き覚えが……いや、見た覚えがあるはずだった。%K%P
 I thought I had heard... No, I had seen it before.
 CN PLACEHOLDER
-Кажется, я слышал... нет, я где-то видел его.
+Кажется, я слышал...нет, я где-то видел это раньше.
 
 部屋の名前……？%K%P
 The name of a room...?
 CN PLACEHOLDER
-Название той комнаты?..
+Название той комнаты...?
 
 （……どこで見たんだっけ……？）%K%P
 (...Where have I seen it...?)
 CN PLACEHOLDER
-(...где я его видел?..)
+(...где я его видел...?)
 
 が、その記憶は曖昧で、ぼくは情報のリンク先を見つけることが出来なかった。%K%P
 But my memory was vague; I couldn't connect the name with any information in my brain.
 CN PLACEHOLDER
-Но в памяти всё столь неопределённо... не могу связать мысли в цельную картинку.
+Но, в памяти всё столь неопределённо...не могу связать мысли в цельную картинку.
 
 つぐみ「いい？　あなたは知らないだろうけど、あの扉は今日っ」%K%P
 Listen. You don't know about it, but today the door is...
@@ -1183,22 +1183,22 @@ CN PLACEHOLDER
 突然、ふたりの間に武が介入した。%K%P
 Suddenly, Takeshi got between them.
 CN PLACEHOLDER
-Такэси неожиданно встал меж двух огней.
+Неожиданно, Такеши встал меж двух огней.
 
 武「つぐみ……その話、俺にも聞かせてもらおうか」%K%P
 Tsugumi... Why don't you tell me about that?
 CN PLACEHOLDER
-Цугуми... почему бы тебе не поговорить со мной?
+Цугуми...почему бы тебе...не поговорить со мной?
 
 つぐみ「………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「ここまで聞いちまったんだ、もう隠し事も何もないだろう？」%K%P
 If we've all heard this much, you can't have anything more to hide, right?
@@ -1208,37 +1208,37 @@ CN PLACEHOLDER
 つぐみをじっと見つめる武。%K%P
 Takeshi stared intently at Tsugumi.
 CN PLACEHOLDER
-Такэси пристально уставился на неё.
+Такеши пристально уставился на неё.
 
 つぐみ「……ふん」%K%P
 ...Hmph.
 CN PLACEHOLDER
-...хмпф.
+Ха...
 
 武は振り返り、言った。%K%P
 Takeshi turned back to us.
 CN PLACEHOLDER
-Такэси повернулся к нам.
+Такеши повернулся к нам.
 
 武「なあ、悪いんだけど……」%K%P
 Hey, if you don't mind...
 CN PLACEHOLDER
-Э-э... Если вы не возражаете...
+Ээ...Вы не против...
 
 武「ここは、俺に任せてくれないか」%K%P
 I'll take care of this.
 CN PLACEHOLDER
-Я здесь всё улажу.
+...если я здесь всё улажу?
 
 少年「え？？」%K%P
 Huh?
 CN PLACEHOLDER
-А?
+Эээ?
 
 優「なに、それ……？」%K%P
 What...?
 CN PLACEHOLDER
-Что... но?..
+Что...но...?
 
 沙羅「私達は、出て行けってこと？」%K%P
 Are you telling us to leave?
@@ -1248,42 +1248,42 @@ CN PLACEHOLDER
 武「ああ、大人数であれこれ言い合っても、収拾がつかなくなるだけだろ？」%K%P
 Yeah. With this many people arguing, nothing'll get settled.
 CN PLACEHOLDER
-Да. Сами знаете – в споре толпы не рождается истина.
+Да. Сами знаете - в споре толпы не рождается истина.
 
 武「だから、ここは……俺と空とつぐみに、任せてくれ」%K%P
 So... just leave this to me, Sora, and Tsugumi.
 CN PLACEHOLDER
-Так что... предоставьте Сору и Цугуми мне.
+Так что...предоставьте Сору и Цугуми мне.
 
 武「しばらく、３人だけにしてくれ」%K%P
 Leave us alone for a bit.
 CN PLACEHOLDER
-Мы... поговорим наедине.
+Мы...поговорим наедине.
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 沙羅「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「わかったよ……武に任せる」%K%P
 Alright... Let's leave this to Takeshi.
 CN PLACEHOLDER
-Ладно... Если Такэси этого хочет...
+Ладно...если Такеши этого хочет...
 
 沙羅「しょ、少年？」%K%P
 K-Kid?
 CN PLACEHOLDER
-М-Малой?
+К...Кид?
 
 沙羅「なんで、そんな重要な話し合いで、私達だけがのけ者にならなきゃいけないわけ？」%K%P
 Why should the three of us be excluded from such an important discussion?
@@ -1293,17 +1293,17 @@ CN PLACEHOLDER
 少年「ぼくは武を信頼してるんだ」%K%P
 I trust Takeshi.
 CN PLACEHOLDER
-Я верю Такэси.
+Я верю Такеши.
 
 少年「そして、武はぼくらを信頼してくれてる」%K%P
 And Takeshi has trust in us.
 CN PLACEHOLDER
-А Такэси верит нам.
+А Такеши верит нам.
 
 沙羅「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「武には武の考えがあるんだよ」%K%P
 Takeshi has his own take on things.
@@ -1318,12 +1318,12 @@ CN PLACEHOLDER
 武「サンキュー、少年。すまんな……」%K%P
 Thanks, Kid...
 CN PLACEHOLDER
-Спасибо, Малой... правда...
+Спасибо, Кид...правда...
 
 優「しょうがないなぁ……じゃあ、倉成、あんたに任せるからね？」%K%P
 Oh, whatever... Fine, Kuranari, we'll leave it up to you, okay?
 CN PLACEHOLDER
-Ну, как скажете... Ладно, Куранари... смотри не подведи нас, хорошо?
+Ну, как скажете.... Ладно, Куранари...смотри не подведи нас, хорошо?
 
 武「ああ、わかった」%K%P
 Alright. I got it.
@@ -1333,7 +1333,7 @@ CN PLACEHOLDER
 ぼくらは３人を残し、制御室をあとにした。%K%P
 We left the three of them in the control room.
 CN PLACEHOLDER
-Мы оставили их втроём в Центре управления.
+Мы оставили их втроём в Центре Управления.
 
 そのあと、ぼくらは別々に行動することにした。%K%P
 After that, we decided to take some action of our own.
@@ -1343,7 +1343,7 @@ CN PLACEHOLDER
 完全圧潰推定時刻は、刻々と近づいている。%K%P
 The estimated time until LeMU's implosion was steadily approaching.
 CN PLACEHOLDER
-Предполагаемый час «икс», по наступлении которого LeMU затопит, всё ближе и ближе.
+Предполагаемый час "икс", по наступлении которого LeMU затопит, всё ближе и ближе.
 
 一応のため、館内の状況をこの目で確認しておこうということになった。%K%P
 We decided to run a visual check of the complex to see how everything was.
@@ -1353,27 +1353,27 @@ CN PLACEHOLDER
 むろん、すでにレミの方で確認済みなのだから、意味のない行動ではあった。%K%P
 Of course, LeMMIH had already checked everything, so it was a meaningless action.
 CN PLACEHOLDER
-Конечно, LeMMIH и так уже всё проверил, так что с нашей стороны это была бессмысленная трата времени.
+Конечно, ЛеММИХ и так уже всё проверил, так что с нашей стороны это была бессмысленная трата времени.
 
 ただ、何かしていなければ、気が休まらなかったのだ。%K%P
 But we felt that we had to do something.
 CN PLACEHOLDER
-Однако нам кажется, что сейчас бездействовать – хуже всего на свете.
+Однако, нам кажется, что сейчас бездействовать - хуже всего на свете.
 
 クジラ部屋に近い通路に、ぼくはいる。%K%P
 I took the corridor near the Cosmic Whale room.
 CN PLACEHOLDER
-Мне достался коридор рядом с залом Космического кита.
+Мне достался коридор рядом с Залом Космического Кита.
 
 いや、かつて近かった、というべきだろうか。%K%P
 Rather, near what remained of it.
 CN PLACEHOLDER
-Точнее, рядом с тем, что когда-то им было.
+Точнее, рядом с тем, что когда-то было Залом Космического Кита.
 
 コスミッシャー・ヴァル――宇宙クジラの部屋は、すでに水の中だ。%K%P
 The Cosmic Whale room was already filled with water.
 CN PLACEHOLDER
-Его уже затопило.
+Её уже затопило.
 
 ぼくがこの中で見かけた少女は何者だったのだろうか？　どこへ行ったのだろうか？%K%P
 I wondered what the girl I had seen around here was? Where had she gone?
@@ -1398,7 +1398,7 @@ CN PLACEHOLDER
 少年「うっ……！」%K%P
 Uggghh...!
 CN PLACEHOLDER
-Ггггхх!..
+Ггггхх...!
 
 突然、ひどい目眩に襲われた。%K%P
 Suddenly, I was hit with a bout of dizziness.
@@ -1408,7 +1408,7 @@ CN PLACEHOLDER
 視界が歪み、立っていられなくなる。%K%P
 My vision contorted, and I couldn't stand.
 CN PLACEHOLDER
-В глазах поплыло... не могу стоять.
+В глазах поплыло...не могу стоять.
 
 壁にもたれ掛かり、そのままズリズリとしゃがみ込む。%K%P
 I leaned against a wall and slowly crouched on the floor.
@@ -1428,17 +1428,17 @@ CN PLACEHOLDER
 関節がズキズキと痛む。%K%P
 My joints were throbbing.
 CN PLACEHOLDER
-Суставы... пульсируют.
+Суставы...пульсируют.
 
 少年「う、うぅぅぅ……！！」%K%P
 Oh, oooowww...!
 CN PLACEHOLDER
-Ой, чёёёёрррт!..
+Ой, чёёёёрррт...!
 
 胃がキリキリと、締め付けられる……。%K%P
 My stomach felt like it was contracting in on itself...
 CN PLACEHOLDER
-Желудок... его словно выворачивает наизнанку...
+Желудок...его словно выворачивает наизнанку....
 
 ぼくは堪らなくなって、トイレへ駆け込んだ。%K%P
 I couldn't stand it and sprinted into the bathroom.
@@ -1448,7 +1448,7 @@ CN PLACEHOLDER
 胃の中のものを全部吐き出す。%K%P
 I threw up everything in my stomach.
 CN PLACEHOLDER
-Меня выполоскало... всё содержимое моего желудка вылезло наружу.
+Меня выполоскало...всё содержимое моего желудка вылезло наружу.
 
 …………。%K%P
 .........
@@ -1458,7 +1458,7 @@ CN PLACEHOLDER
 ドロドロに半壊したタツタの断片を無感動に眺めながら、額にそっと手を当てた。%K%P
 It was a stew of half-digested chunks of tuna sandwich. I looked at it indifferently and put my hand on my forehead.
 CN PLACEHOLDER
-Слизь вперемешку с полупереваренными кусками сэндвича с тунцом. Я безразлично взглянул на эту гадость и положил руку на лоб.
+Слизь вперемешку с полупереваренными кусками бутерброда с курятиной. Я безразлично взглянул на эту гадость и положил руку на лоб.
 
 熱はない。%K%P
 I wasn't feverish.
@@ -1468,7 +1468,7 @@ CN PLACEHOLDER
 気分は、最悪だった。%K%P
 But I felt terrible.
 CN PLACEHOLDER
-Но... мне так хреново.
+Но...мне так хреново.
 
 ＥＩに乗って２階にあがった。%K%P
 I took the Ei elevator up to the second floor.
@@ -1483,7 +1483,7 @@ CN PLACEHOLDER
 その途中、武の姿を見かけた。%K%P
 Along the way, I saw Takeshi.
 CN PLACEHOLDER
-По пути я увидел Такэси.
+По пути я увидел Такеши.
 
 武は壁にもたれ掛かって、何かぶつぶつ言っている。%K%P
 He was leaning against a wall, muttering.
@@ -1493,17 +1493,17 @@ CN PLACEHOLDER
 小声で呟いているつもりだろうが、ぼくの耳には届いてしまっていた。%K%P
 He was probably just talking to himself, but I heard what he was saying.
 CN PLACEHOLDER
-Должно быть, просто мысли вслух, но я расслышал, что он говорит.
+Должно быть просто мысли вслух, но я расслышал, что он говорит.
 
 武「ったく、なんにも起きねえじゃねぇか……デマカセ言いやがって……あの女！」%K%P
 Damn. Nothing's happening... That lying woman...!
 CN PLACEHOLDER
-Чёрт. Ничего не происходит... я знал, что ей нельзя верить!..
+Чёрт. Ничего не происходит...я знал, что ей нельзя верить...!
 
 武「もう、時間がねえってのによ……！」%K%P
 We don't have the time for this...!
 CN PLACEHOLDER
-Просто зря теряем время!..
+Просто зря теряем время...!
 
 デマカセ？　あの女？%K%P
 Lying? Woman?
@@ -1518,17 +1518,17 @@ CN PLACEHOLDER
 少年「や、やあ、武」%K%P
 H-Hey there, Takeshi.
 CN PLACEHOLDER
-Э-эй, Такэси.
+Э-эй, Такеши.
 
 武「んんっ？　おう、少年か。なんじゃい？」%K%P
 Huh? Oh, hey, Kid. What's up?
 CN PLACEHOLDER
-Э-э? Ох, Малой. Как дела?
+Эээ? Ох, Кид. Как дела?
 
 少年「えーと……つぐみ達との話し合いの方は？」%K%P
 Uh... How was the talk with Tsugumi and Sora?
 CN PLACEHOLDER
-Э-э... Как прошла беседа с Цугуми и Сорой?
+Ээ...как прошла беседа с Цугуми и Сорой?
 
 武「ああ、あれな……」%K%P
 Oh, that...
@@ -1543,7 +1543,7 @@ CN PLACEHOLDER
 少年「え？　どういうこと？」%K%P
 Huh? What do you mean?
 CN PLACEHOLDER
-Э-э? То есть?
+Эээ? То есть?
 
 武「つぐみの勘違いだったんだよ。単なる、あいつの思いこみだったんだ」%K%P
 Tsugumi's got it all wrong. She doesn't know what she's talking about.
@@ -1568,7 +1568,7 @@ CN PLACEHOLDER
 あてにしていただけに、とてもガックリくる。%K%P
 I had held out hope that he could pull us through. It was a bitter disappointment.
 CN PLACEHOLDER
-А я уже было обрадовался. Обидно...
+...и кто сказал, что надежда умирает последней? Господи, как это горько.
 
 武「おっと、そうだ！　こうしてらんねぇよ」%K%P
 Oh, that's right! I can't be standing around.
@@ -1578,7 +1578,7 @@ CN PLACEHOLDER
 少年「？？」%K%P
 ?
 CN PLACEHOLDER
-?
+??
 
 武「俺、もう行くわ、今忙しいんだよ」%K%P
 I've gotta run. I've got things to do.
@@ -1593,12 +1593,12 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 肩を怒らせながら、武は立ち去っていった。%K%P
 Looking stiff, Takeshi headed off.
 CN PLACEHOLDER
-Такэси убежал, выглядя слегка напряжённым.
+Напряжённый Такеши убежал.
 
 ぼくはポツンと取り残された。%K%P
 I was left alone.

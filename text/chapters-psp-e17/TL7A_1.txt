@@ -41,7 +41,7 @@ CN PLACEHOLDER
 だが、不安は感じない。%K%P
 But for some reason, I was at peace.
 CN PLACEHOLDER
-Но почему-то я спокоен.
+Но, почему-то я спокоен.
 
 浮かんでいる。%K%P
 I was floating.
@@ -71,7 +71,7 @@ CN PLACEHOLDER
 人生で、最初に記憶したその音は――%K%P
 The first sound I had heard in my life—
 CN PLACEHOLDER
-Первый звук, что я слышал в своей жизни –
+Первый звук, что я слышал в своей жизни —
 
 そう、鼓動の音だ。%K%P
 Yes, it was the sound of a heart beating.
@@ -116,7 +116,7 @@ CN PLACEHOLDER
 けれど、悲しくはない。%K%P
 But I wasn't sad.
 CN PLACEHOLDER
-Но я не печалюсь.
+Но, я не печалюсь.
 
 その時が、来たならば……%K%P
 If that time must come...
@@ -181,7 +181,7 @@ CN PLACEHOLDER
 武「おはよう、って、いい言葉だよな」%K%P
 'Good morning' is such a fantastic phrase, isn't it?
 CN PLACEHOLDER
-Какие всё-таки это замечательные слова, „доброе утро“... правда?
+Какие всё-таки это замечательные слова, 'доброе утро'... правда?
 
 空「ええ」%K%P
 Yes...
@@ -196,7 +196,7 @@ CN PLACEHOLDER
 空「ふふっ……そうですね」%K%P
 Haha... That's right.
 CN PLACEHOLDER
-Ха-ха... И правда.
+Ха〜ха... И правда.
 
 柔らかく、空は微笑む。%K%P
 Sora smiled softly.
@@ -226,7 +226,7 @@ CN PLACEHOLDER
 ポケットのＰＤＡを取り出し、ボタンを押してみた。%K%P
 I took my PDA from my pocket and pressed the button to turn it on.
 CN PLACEHOLDER
-Я вытащил свой КПК из кармана и нажал кнопку, чтобы включить его.
+Я вытащил свой наладонник из кармана и нажал кнопку, чтобы включить его.
 
 電池が切れている。画面には何も映らなかった。%K%P
 The battery was dead. Nothing showed on the screen.
@@ -236,7 +236,7 @@ CN PLACEHOLDER
 空「現在時刻を知る手立てが、なくなってしまいましたね」%K%P
 It seems that we have lost all way to tell the time, haven't we?
 CN PLACEHOLDER
-Похоже, что мы потеряли счёт времени.
+Похоже, что мы потеряли счёт времени, неправда ли?
 
 武「まぁね」%K%P
 Yeah.
@@ -246,12 +246,12 @@ CN PLACEHOLDER
 空「私とレミ各端末とのリンクも、つい先程遮断されてしまいました。ＬｅＭＵ本体の各種センサーも使用不能……」%K%P
 The connection between myself and the terminals at LeMMIH was severed just a little while ago, and all of the sensors in LeMU itself are no longer operational...
 CN PLACEHOLDER
-Связь со мной и терминалами LeMMIH пропала не так давно, и все сенсоры в LeMU, сами по себе, больше не функционируют...
+Связь со мной и терминалами ЛеММИХ пропала не так давно, и все сенсоры в LeMU, сами по себе, больше не функционируют...
 
 空「しかし事前の計算によると、予想される外殻の耐久時間は――」%K%P
 But according to my previous calculations, we can expect this area to hold out another...
 CN PLACEHOLDER
-Но судя по моим предыдущим подсчётам, можно утверждать, что эта зона продержится ещё несколько...
+Но, судя по моим предыдущим подсчётам, можно утверждать, что эта зона продержится ещё несколько...
 
 武「ストップ」%K%P
 Stop!
@@ -281,7 +281,7 @@ CN PLACEHOLDER
 空「…………」%K%P
 ............
 CN PLACEHOLDER
-...
+............
 
 空「そう、ですよね」%K%P
 Yes, you are right.
@@ -291,7 +291,7 @@ CN PLACEHOLDER
 『考えるのをやめる』のは、職務に忠実な彼女には難しいのかもしれない。%K%P
 It may have been difficult for someone as conscientious as Sora to just “stop thinking”.
 CN PLACEHOLDER
-Наверное это тяжело, «перестать думать» для кого-то столь же сознательного, как Сора.
+Наверно это тяжело, 'перестать думать' для кого-то столь же сознательного, как Сора.
 
 それでも、空は笑ってくれた。%K%P
 Still, Sora smiled for me.
@@ -321,7 +321,7 @@ CN PLACEHOLDER
 空「それによると、ＩＢＦにいた皆さんは、救助を受け、潜水艇に乗り、無事にインゼル・ヌルへと脱出できたようです」%K%P
 According to my results, everyone on IBF was rescued by a salvage vessel and made it safely to Insel Null.
 CN PLACEHOLDER
-Согласно результатам, все в IBF были эвакуированы спасательным судном и в целости и сохранности достигли Инсель Нуль.
+Согласно результатам, все в IBF были эвакуированы спасательным судном и, в целости и сохранности, достигли Инсель нуль.
 
 武「おお、そりゃあよかった」%K%P
 Wow, that's great news!
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 優・つぐみ・ココ・少年……。%K%P
 You, Tsugumi, Coco, the Kid...
 CN PLACEHOLDER
-Ю, Цугуми, Коко, Малой...
+Ю, Цугуми, Коко, Кид...
 
 見えないけど、なんとなくわかった。%K%P
 I couldn't see them, of course, but I knew somehow.
@@ -381,12 +381,12 @@ CN PLACEHOLDER
 空「倉成さん……どうして、『ここ』に戻って来たんですか？」%K%P
 Kuranari-san... why did you come back here?
 CN PLACEHOLDER
-Куранари-сан... почему ты вернулся сюда?
+Куранари-сан...почему ты вернулся сюда?
 
 非常灯だけが点る暗がりの中、空は呟く。%K%P
 Sora murmured quietly in the darkness. The only light to illuminate us was coming from the emergency lights.
 CN PLACEHOLDER
-Тихо, во тьме, пробормотала Сора. Единственное, что нас%Nосвещает – тусклое сияние аварийных огней.
+Тихо, во тьме, пробормотала Сора. Единственное, что нас%Nосвещает - тусклое сияние аварийных огней.
 
 口調は穏やかだった。%K%P
 Her tone was peaceful.
@@ -411,7 +411,7 @@ CN PLACEHOLDER
 武「そうだな……言うよ」%K%P
 Right... I'll tell you.
 CN PLACEHOLDER
-Хорошо... я скажу тебе.
+Хорошо...я скажу тебе.
 
 武「俺には……」%K%P
 I have...
@@ -436,7 +436,7 @@ CN PLACEHOLDER
 武「だけど、それは俺にとって、とても大切なものだった」%K%P
 But to me, she was the most valuable thing in the world.
 CN PLACEHOLDER
-Но для меня она – самое важное что есть на этом свете.
+Но, для меня, она - самое важное что есть на этом свете.
 
 武「目を閉じれば、見えないのかもしれない」%K%P
 I may not be able to see her with my eyes closed.
@@ -451,7 +451,7 @@ CN PLACEHOLDER
 武「でも、決して消えてなくなったりしない」%K%P
 But that doesn't mean she will disappear.
 CN PLACEHOLDER
-Но это не значит, что она исчезнет.
+Но, это не значит, что она исчезнет.
 
 武「そこに存在していることを、はっきりと確信したんだ」%K%P
 I know that she still exists.
@@ -461,7 +461,7 @@ CN PLACEHOLDER
 武「俺はそのことに……気づいたんだ」%K%P
 And I realized... just how important she is to me.
 CN PLACEHOLDER
-И... я осознал... что именно она значит для меня.
+И...я осознал...что именно она значит для меня.
 
 空「はい……」%K%P
 Yes...
@@ -476,7 +476,7 @@ CN PLACEHOLDER
 武「さてと……よっこらどっこいせ」%K%P
 Well... now... Hmppphh.
 CN PLACEHOLDER
-Ну-с... а сейчас... М-м-м.
+Ну-с...а сейчас....хмммпхх.
 
 床に手をついて、俺は身体を起こす。%K%P
 Using my hands to support myself, I got up.
@@ -491,7 +491,7 @@ CN PLACEHOLDER
 そして、ヒンメルのコンソールに向かった。%K%P
 I went over to the Himmel console.
 CN PLACEHOLDER
-Я подошёл к консоли Химмеля.
+Я подошёл к консоли ХИММЕЛ.
 
 空「用事？　なんですか？」%K%P
 Unfinished business? What do you mean?
@@ -506,7 +506,7 @@ CN PLACEHOLDER
 武「レミのメンテナンスモードは継続中かな？」%K%P
 Is LeMMIH still in maintenance mode?
 CN PLACEHOLDER
-LeMMIH по-прежнему в режиме суперпользователя?
+ЛеММИХ по-прежнему в режиме суперпользователя?
 
 空「はい、ですけど……ＬｅＭＵに関する機能は、もう何も使えなくなってしまいました」%K%P
 Yes, but none of the functions related to LeMU are operational any longer.
@@ -521,7 +521,7 @@ CN PLACEHOLDER
 どこのポケットだったか……。%K%P
 (Which pocket was it...?)
 CN PLACEHOLDER
-(В каком кармане?..)
+(В каком кармане...?)
 
 ようやく探り当てて、取り出してみる。%K%P
 I finally found what I was looking for and dug it out of my pocket.
@@ -531,12 +531,12 @@ CN PLACEHOLDER
 さっき制御室で手に入れたばかりの、ケースに入ったポリカーボネイト製の円盤。%K%P
 It was the case holding the polycarbonate disc that I had taken from the control room earlier.
 CN PLACEHOLDER
-Это пластиковая коробочка с поликарбонатным диском, что я недавно подобрал в Центре управления.
+Это пластиковая коробочка с поликарбонатным диском, что я недавно подобрал в Центре Управления.
 
 空「これは……テラバイトディスク？」%K%P
 Is that... a terabyte disc?
 CN PLACEHOLDER
-Это... терабайтовый диск?
+Это...терабайтовый диск?
 
 武「そうだね」%K%P
 That's right.
@@ -561,17 +561,17 @@ CN PLACEHOLDER
 『ＬＭ−ＲＳＤＳ−４９１３Ａ　茜ヶ崎空』%K%P
 “LM-RSDS-4913A Akanegasaki Sora”
 CN PLACEHOLDER
-«LM-RSDS-4913A Аканэгасаки Сора»
+'LM-RSDS-4913A Аканегасаки Сора'
 
 メニューから、ディスクへのコピーを選択した。%K%P
 I chose “Copy to Disc” from the menu.
 CN PLACEHOLDER
-Я выбрал пункт меню «Копировать на диск».
+Я выбрал пункт меню 'Копировать на диск'.
 
 全コピーが成功する確証はないが、とにかくやってみる。%K%P
 There was no guarantee that it would be successful, but I was going to try.
 CN PLACEHOLDER
-Нет никаких гарантий, что сработает, но, как говорится,%N«попытка – не пытка».
+Нет никаких гарантий, что сработает, но, как говорится,%N'попытка - не пытка'.
 
 もう一生分の運を使い切った気がするけど、やってみよう。%K%P
 I felt I had probably exhausted my allotment of luck in life, but it was worth a shot.
@@ -586,7 +586,7 @@ CN PLACEHOLDER
 これがたぶん、最後の賭けだと思った。%K%P
 I thought it was probably the last gamble in my lifetime.
 CN PLACEHOLDER
-Наверное, это последний риск в моей жизни.
+Наверно, это последний риск в моей жизни.
 
 武「ポチッとな」%K%P
 Click.
@@ -596,17 +596,17 @@ CN PLACEHOLDER
 エンターキーを叩くと、データコピーは始まった。%K%P
 I hit the “enter” key, and the data began copying.
 CN PLACEHOLDER
-Я нажал клавишу «Enter». Процедура копирования начата.
+Я нажал клавишу 'Ввод'. Процедура копирования начата.
 
 武「茜ヶ崎君、ボタンを叩くときの掛け声は『ポチッとな』だ。覚えておくように」%K%P
 Akanegasaki-kun, remember to shout 'Click' when you hit a button.
 CN PLACEHOLDER
-Сора, когда жмёшь на кнопку, не забудь сказать „Проще простого“.
+Сора, когда жмёшь на кнопку, не забудь сказать 'Проще простого'.
 
 空「はい、先生」%K%P
 Yes, Professor.
 CN PLACEHOLDER
-Да, сэнсэй.
+Да, сенсей.
 
 はにかんだように、空は笑う。%K%P
 Sora smiled shyly.
@@ -631,7 +631,7 @@ CN PLACEHOLDER
 空「倉成先生……宿題のことなんですけど」%K%P
 Professor... about my homework.
 CN PLACEHOLDER
-Сэнсэй... насчёт моего домашнего задания.
+Сенсей...насчёт моего домашнего задания.
 
 モニターを見ながら、空は呟いた。%K%P
 Sora murmured as she looked at the monitor.
@@ -701,7 +701,7 @@ CN PLACEHOLDER
 空「方法や手段なんて、稚拙でいい」%K%P
 It doesn't matter if your method is primitive.
 CN PLACEHOLDER
-Неважно, даже если она примитивна.
+Не важно, даже если она примитивна.
 
 空「意味や目的なんて、求めなくていい」%K%P
 It isn't necessary to seek a meaning or objective for it.
@@ -711,7 +711,7 @@ CN PLACEHOLDER
 空「恋をするには、ただ真っ直ぐに、恋すればいいんです」%K%P
 The only thing you need to do is to love. Just that, and nothing else.
 CN PLACEHOLDER
-Единственное, что тебе нужно делать – любить. И ничего другого.
+Единственное, что тебе нужно делать - любить. И ничего другого.
 
 空「私はそう、気づいたから」%K%P
 That is what I realized.
@@ -721,7 +721,7 @@ CN PLACEHOLDER
 武「そうか……」%K%P
 Really...
 CN PLACEHOLDER
-Правда?..
+Правда...?
 
 空はすっと、俺に顔を近づけた。%K%P
 Sora brought her face close to mine.
@@ -781,7 +781,7 @@ CN PLACEHOLDER
 空「でも、それも含めて……」%K%P
 But even with all of that...
 CN PLACEHOLDER
-Но несмотря на всё это...
+Но, несмотря на всё это...
 
 空「全部全部、『好き』なんです」%K%P
 I love every bit of you!
@@ -801,7 +801,7 @@ CN PLACEHOLDER
 彼女の心はほんの僅かな日々の中で、歳相応に――いや、それ以上に成長し、強くなったと思う。%K%P
 Her mind and heart had grown so much stronger over a few days that it matched the maturity of her age, or more likely transcended it.
 CN PLACEHOLDER
-Её ум и сердце... за последние несколько дней они стали намного сильнее... стали соответствовать её возрасту... или скорее даже вышли за его пределы.
+Её ум и сердце...за последние несколько дней они стали намного сильнее...стали соответствовать её возрасту...или, скорей даже вышли за его пределы.
 
 武「空……」%K%P
 Sora...
@@ -846,7 +846,7 @@ CN PLACEHOLDER
 しかし今、こうして空と話していることに、俺は一切の違和感を覚えなかった。%K%P
 But it didn't feel strange to me to be talking about it with Sora.
 CN PLACEHOLDER
-Но мне не кажется, что это странно – разговаривать об этом с Сорой.
+Но, мне не кажется, что это странно - разговаривать об этом с Сорой.
 
 空は、俺の目の前に、現実に、存在しているのだから。%K%P
 Sora, who really existed right in front of me.
@@ -891,7 +891,7 @@ CN PLACEHOLDER
 空「それがコケットリーなシロガネーゼの鉄則ですから」%K%P
 That's what young ladies hope for, isn't it?
 CN PLACEHOLDER
-Ведь этого хотят юные барышни?
+Ведь этого хотят юные барышни, не так ли?
 
 空「……ですよね？」%K%P
 ...Isn't that right?
@@ -906,7 +906,7 @@ CN PLACEHOLDER
 武「ああ……そうだな……」%K%P
 Yeah... that's right...
 CN PLACEHOLDER
-Нет... это прекрасно...
+Нет...это прекрасно...
 
 目が霞む。%K%P
 My eyes misted over.
@@ -926,12 +926,12 @@ CN PLACEHOLDER
 それとも、酸素が不足しているのだろうか。%K%P
 Or perhaps I was short of oxygen?
 CN PLACEHOLDER
-Или, наверное, стало нечем дышать?
+Или, наверно, стало нечем дышать?
 
 いや……違う。%K%P
 No... that wasn't it.
 CN PLACEHOLDER
-Нет... дело не в этом.
+Нет...дело не в этом.
 
 違う。%K%P
 No.
@@ -981,7 +981,7 @@ CN PLACEHOLDER
 武「『ああ、これが血の通った人間であったら……』と、彼は強く思い続けた」%K%P
 He kept on thinking to himself 'If only it were a real woman.'
 CN PLACEHOLDER
-Его мучила лишь одна мысль: „Если бы только она была настоящей женщиной“...
+Его мучила лишь одна мысль - 'Если бы только она была настоящей женщиной'...
 
 武「愛の女神アフロディテはこれを哀れに思い、神通力で彫刻に命を与え、人間にしてやった」%K%P
 Aphrodite, the goddess of love, took pity on him and brought this sculpture to life.
@@ -1006,7 +1006,7 @@ CN PLACEHOLDER
 武「でも空のこと……誰よりも……好きなんだ……」%K%P
 But... I love you... more than anyone.
 CN PLACEHOLDER
-Но... я люблю тебя... больше всех.
+Но...я люблю тебя...больше всех.
 
 空に向かって、手を伸ばした。%K%P
 I reached out for her.
@@ -1036,7 +1036,7 @@ CN PLACEHOLDER
 たとえ感触はなくとも……それは本当だった。%K%P
 Even though I couldn't touch her... it was real.
 CN PLACEHOLDER
-Несмотря на то, что я не могу до неё дотронуться... всё это настоящее.
+Несмотря на то, что я не могу до неё дотронуться...всё это настоящее.
 
 コンソールから、テラバイトディスクが吐き出される。%K%P
 The console spit the terabyte disc out.
@@ -1086,7 +1086,7 @@ CN PLACEHOLDER
 このテラバイトディスクの内容を、インゼル・ヌルにいる空に記憶させたら……%K%P
 What if I input the contents of the terabyte disc onto the Sora at Insel Null...?
 CN PLACEHOLDER
-А что, если я перепишу данные с диска в Сору на Инсель Нуль?..
+А что, если я перепишу данные с диска в Сору на Инсель нуль...?
 
 それはここにいる空と同じものになるのだろうか？%K%P
 Would that make her just like the Sora I knew?
@@ -1106,7 +1106,7 @@ CN PLACEHOLDER
 空「ふふふっ……」%K%P
 Hahaha...
 CN PLACEHOLDER
-Ха-ха-ха...
+Ха〜ха〜ха...
 
 俺がおどけてみせると、空もつられて笑う。%K%P
 Every time I played the fool, it never failed to make her laugh.
@@ -1121,7 +1121,7 @@ CN PLACEHOLDER
 空「今、コピーの間に倉成さんと話したことは、どこにも記憶されませんね」%K%P
 I suppose that what we just talked about while the disc was copying won't be on that disc.
 CN PLACEHOLDER
-Наверное, то, о чём мы говорили во время записи, не сохранилось на этом диске. Как думаешь, Такэси?
+Наверно, то, о чём мы говорили во время записи, не сохранилось на этом диске. Как думаешь, Такеши?
 
 空「それはちょっぴり、残念です」%K%P
 It's kind of too bad.
@@ -1151,7 +1151,7 @@ CN PLACEHOLDER
 空「そうですか？　では、約束しましょう」%K%P
 Really? Okay, then let's promise.
 CN PLACEHOLDER
-Правда? Значит... ты обещаешь?
+Правда? Значит...ты обещаешь?
 
 武「そうだな、約束だ」%K%P
 Alright, it's a promise.
@@ -1181,17 +1181,17 @@ CN PLACEHOLDER
 でも、わからなくていいと思う。%K%P
 But I didn't have to know.
 CN PLACEHOLDER
-Но мне это и не нужно.
+Но, мне это и не нужно.
 
 すべてをＹＥＳとＮＯで書き分けられるほど、心は簡単じゃない。%K%P
 The mind is not as simple as black or white.
 CN PLACEHOLDER
-Разум – это не просто нули и единицы.
+Разум - это не просто нули и единицы.
 
 やがて、ヒンメルはぐらりと揺らいだ。%K%P
 Soon, Himmel began to shake.
 CN PLACEHOLDER
-Вскоре Химмель начало трясти.
+Вскоре ХИММЕЛ стало трясти.
 
 部屋の壁に亀裂が走る。%K%P
 Large cracks ran down the walls.
@@ -1206,7 +1206,7 @@ CN PLACEHOLDER
 天は、天国は、ついに割れる……。%K%P
 Heaven, heaven had finally cracked open...
 CN PLACEHOLDER
-Рай... рай треснул по швам...
+Рай...рай треснул по швам...
 
 霧は怒涛の流れへと変わり、瞬く間に水は満ちる。%K%P
 The mist quickly became raging streams, and water was soon filling the room.
@@ -1226,7 +1226,7 @@ CN PLACEHOLDER
 しかし不思議と、恐怖は感じなかった。%K%P
 But for some reason, I didn't feel any fear.
 CN PLACEHOLDER
-Но почему-то я не чувствую никакого страха.
+Но, почему-то я не чувствую никакого страха.
 
 武「約束だからな……」%K%P
 It's a promise...
@@ -1261,12 +1261,12 @@ CN PLACEHOLDER
 それは確かに、奇蹟だった。%K%P
 Then that was surely a miracle.
 CN PLACEHOLDER
-Значит, это действительно чудо.
+Значит это действительно чудо.
 
 俺は空のすべてを、感じていた。%K%P
 I could sense everything about Sora.
 CN PLACEHOLDER
-Я вижу... все «цвета» Соры.
+Я вижу...все 'цвета' Соры.
 
 空「倉成さん……」%K%P
 Kuranari-san...
@@ -1331,7 +1331,7 @@ CN PLACEHOLDER
 永遠に、忘れない……。%K%P
 In all eternity... forget...
 CN PLACEHOLDER
-Я буду помнить... вечно...
+Я буду помнить...вечно....
 
 周囲はいつしか深い、深い青の世界。%K%P
 All around us was a world of deep, deep blue.

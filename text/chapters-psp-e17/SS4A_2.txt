@@ -36,7 +36,7 @@ CN PLACEHOLDER
 少年「う〜ん、おっかしいなぁ〜」%K%P
 Hmmm. That's strange.
 CN PLACEHOLDER
-Хм-м-м. Странно.
+Хммм. Странно.
 
 ？？「なにがオカシイんだ？」%K%P
 What's strange?
@@ -46,7 +46,7 @@ CN PLACEHOLDER
 驚いて見上げると、そこには武が立っていた。%K%P
 Surprised, I looked up, and there was Takeshi.
 CN PLACEHOLDER
-Подпрыгнув от удивления, я увидел Такэси.
+Подпрыгнув от удивления, я увидел Такеши.
 
 武「なんか、探してるのか？」%K%P
 You looking for something?
@@ -66,7 +66,7 @@ CN PLACEHOLDER
 ぼくはかくかくしかじかと説明し、欠けたホログラムペンダントを武に見せた。%K%P
 I explained the situation and showed Takeshi the broken pendant.
 CN PLACEHOLDER
-Я растолковал, что к чему, и показал Такэси сломанный кулон.
+Я растолковал что к чему и показал Такеши сломанный кулон.
 
 武「なるほどねぇ、確かに、割れてるなぁ」%K%P
 I see. Well, you're right about it being broken.
@@ -76,7 +76,7 @@ CN PLACEHOLDER
 少年「うん」%K%P
 Yup.
 CN PLACEHOLDER
-Во-о-от.
+Вооот.
 
 少年「もし良かったら、一緒に探してもらえないかな？」%K%P
 If you don't mind, could you help me look?
@@ -91,22 +91,22 @@ CN PLACEHOLDER
 武「その前に、ひとつだけ訊いてもいいかな？」%K%P
 But can I ask you something first?
 CN PLACEHOLDER
-Но можно сперва кое-что спросить?
+Но, можно сперва кое-что спросить?
 
 少年「なに？」%K%P
 What?
 CN PLACEHOLDER
-Ась?
+Чаво?
 
 武「おまえの言ってたその男の画像ってぇのは、一体どこに映ってるんだ？」%K%P
 That image of the guy you were talking about, where is it?
 CN PLACEHOLDER
-Голограмма, о которой ты говорил... где она?
+Голограмма, о которой ты говорил...где она?
 
 少年「どこって……」%K%P
 Where...?
 CN PLACEHOLDER
-Где?..
+Где...?
 
 少年「ここにちゃんとっ」%K%P
 It's right here.
@@ -131,17 +131,17 @@ CN PLACEHOLDER
 武はいぶかしげなまなざしで、ぼくのことを見ていた。%K%P
 Takeshi looked at me skeptically.
 CN PLACEHOLDER
-Такэси скептически посмотрел на меня.
+Такеши скептически посмотрел на меня.
 
 少年「ほんとだってば！　昨日までは確かにちゃんとここに……」%K%P
 But it was here yesterday... I swear...
 CN PLACEHOLDER
-Но вчера изображение было здесь... клянусь...
+Но вчера изображение было здесь...клянусь...
 
 少年「あれ〜？　なんでだろう？」%K%P
 Huh? I wonder why?
 CN PLACEHOLDER
-Странно... но почему?
+Странно...но почему?
 
 武「まあ、いいさ」%K%P
 It's no big deal.
@@ -156,17 +156,17 @@ CN PLACEHOLDER
 武「いや、訂正」%K%P
 No... I take that back.
 CN PLACEHOLDER
-Нет... погорячился.
+Нет...погорячился.
 
 武「少しは興味があったりなんかしたりもするのだけれども、だ」%K%P
 I might be just a little bit interested.
 CN PLACEHOLDER
-Наверное, мне всё-таки слегка интересно.
+...наверно мне всё-таки слегка интересно.
 
 武「いずれにせよ、ペンダントが欠けてしまったことに変わりはないわけだし」%K%P
 But I suppose it doesn't matter now that the pendant's broke.
 CN PLACEHOLDER
-Но сейчас это не важно, потому что кулон сломан.
+Но, сейчас это не важно, потому что кулон сломан.
 
 武「そして、そのペンダントが沙羅の大事にしているものであることも事実であるし」%K%P
 And since the pendant is something that's important to Sara.
@@ -191,12 +191,12 @@ CN PLACEHOLDER
 少年「は？？？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 武はポンポンとぼくの肩を叩くと、床をはうようにしてカケラを探し始めた。%K%P
 Takeshi thumped my back and set about crawling on the floor to search.
 CN PLACEHOLDER
-Такэси хлопнул меня по заднице и, собираясь искать, присел на корточки.
+Такеши хлопнул меня по заднице и, собираясь искать, присел на корточки.
 
 武「で？　謝礼はいくらぐらいもらえるのかな？」%K%P
 And? How much is the reward for this, anyway?
@@ -216,7 +216,7 @@ CN PLACEHOLDER
 少年「そんな……沙羅を恐喝するつもりなの？」%K%P
 What... Are you going to blackmail Sara?
 CN PLACEHOLDER
-Что... ты собираешься вымогать у Сары деньги?
+Что...ты собираешься вымогать у Сары деньги?
 
 武「なんでだよ！」%K%P
 What're you talking about?
@@ -231,12 +231,12 @@ CN PLACEHOLDER
 少年「ど、どうして？」%K%P
 Wh-Why?
 CN PLACEHOLDER
-П-почему?
+П...почему?
 
 武「うぃ〜うぃ〜、くのくのぉ〜、しらばっくれてもダメだぞ〜い」%K%P
 Heeey, heeey, don't play innocent with me, champ.
 CN PLACEHOLDER
-Хе-е-е, хе-е-е, не строй из себя невинность, чемпион.
+Хииии, хииии, не строй из себя невинность, лошарик.
 
 少年「……は、はい？」%K%P
 ...Wh-What?
@@ -251,7 +251,7 @@ CN PLACEHOLDER
 武は蛇のように体をくねらせながら、ぼくの目の前にやって来た。%K%P
 Takeshi wriggled toward me like a snake. He stopped in front of me.
 CN PLACEHOLDER
-Такэси пополз, как змея, остановившись рядом со мной.
+Такеши пополз как змий, остановившись рядом со мной.
 
 武「俺が見つけても、自分が見つけたことにするんだべ？」%K%P
 If I find it, I'll bet you're planning to say you did.
@@ -261,47 +261,47 @@ CN PLACEHOLDER
 少年「そ、そんなことっ」%K%P
 I-I wouldn't...
 CN PLACEHOLDER
-Я... я бы не...
+Я...я бы не...
 
 武「『やいっ、沙羅？』」%K%P
 'Oh, Sara, milady?'
 CN PLACEHOLDER
-„Эй, Сара!“
+'Эй, Сара!'
 
 武「『なんでございますの？　少年さん♪』」%K%P
 'Oh, brave youth. What is it?'
 CN PLACEHOLDER
-„Привет! Что стряслось, Малой?“
+'Привет! Что стряслось, Кид?'
 
 武「『これを受け取れ、こんちきしょうめ』」%K%P
 'This is yours, milady.'
 CN PLACEHOLDER
-„Это, случайно, не твоё?“
+'Это случайно не твоё?'
 
 武「『まあ、これはわたくしが昨日お貸ししたペンダントでございますわ♪　あら？　欠けてた所が、直ってるでございますわ！』」%K%P
 'Well, if it isn't the pendant I lent you yesterday! Oh joy, it is fixed! Oh, happy day!'
 CN PLACEHOLDER
-„Ого, неужели это тот самый кулон, что я оставила у тебя вчера? О боже, он целый?! Вот это да!“
+'Ого, неужели это тот самый кулон, что я оставила у тебя вчера-- О боже, он целый?! Вот это да!'
 
 武「『おうっ、あったりめぇよ！　てめえの為に、一生懸命探してやったんだ！』」%K%P
 'Oh, how I did slave, searching the floor far and wide all of yesterday!'
 CN PLACEHOLDER
-„Ох, как тяжко мне дались эти нудные поиски на карачках!“
+'Ох, как тяжко мне дались эти нудные поиски на карачках!'
 
 武「『少年さん、おひとりでお探しになってくださったのでございますの？』」%K%P
 'And was it alone that you searched, brave youth?'
 CN PLACEHOLDER
-„Малой, неужели ты хочешь сказать, что искал всё это в одиночку?“
+'Кид, неужели ты хочешь сказать что искал всё это в одиночку?'
 
 武「『しゃらくせぇ！　なに言いやがる！　オレひとりで探したに決まってらーな！』」%K%P
 'Do you jest? Of course I went on my quest for the missing piece alone!'
 CN PLACEHOLDER
-„Шутишь? Конечно же, я в одиночку взялся за его поиски!“
+'Шутишь? Конечно же, я в одиночку взялся за его поиски!'
 
 武「『まあ、素敵♪　少年さん、ありがとうでございますわ♪』」%K%P
 'Oh, wow! Brave youth, you are amazing!'
 CN PLACEHOLDER
-„О, здорово! Малой, ты такой крутой!“
+'Ох, круто! Кид, ты просто сказка!'
 
 武「……とまあ、こういう展開にもっていこうとしているわけだ」%K%P
 ...So I know exactly what you're planning.
@@ -311,7 +311,7 @@ CN PLACEHOLDER
 武「かあーっ、このマセガキがぁ！」%K%P
 You're full of yourself!
 CN PLACEHOLDER
-Гха-а-а, эгоистичная натура!
+Гхааа〜〜〜, эгоистичная натура!
 
 少年「どうでもいいですけど、キャラクター全然違いますよね？　ぼくも沙羅も」%K%P
 Whatever. Anyway, that wasn't a very good impersonation of me or Sara!
@@ -331,7 +331,7 @@ CN PLACEHOLDER
 少年「だからそんなんじゃっ」%K%P
 I told you it isn't like that.
 CN PLACEHOLDER
-А я говорил тебе – нет у меня никакого умысла.
+А я говорил тебе - нет у меня никакого умысла.
 
 武「いいっていいってぇ〜！」%K%P
 I said it's okay!
@@ -346,12 +346,12 @@ CN PLACEHOLDER
 少年「そういうのって、どういう？」%K%P
 What do you mean by 'this'?
 CN PLACEHOLDER
-В каком это смысле „такое“?
+В каком это смысле 'такое'?
 
 武「なんつーのかな……いわば、愛のキューピッド役？」%K%P
 I mean... well, you know, being Cupid, a matchmaker.
 CN PLACEHOLDER
-Ну... знаешь, работать купидоном на полставки.
+Ну...знаешь, работать купидоном на полставки.
 
 少年「キューピッドはお金なんか取らないよ」%K%P
 Cupid doesn't ask for money.
@@ -361,12 +361,12 @@ CN PLACEHOLDER
 武「うむ、確かに」%K%P
 I suppose that's true.
 CN PLACEHOLDER
-М-м... и правда.
+Ммм...и правда.
 
 武「じゃあ、後で俺の手伝いをするってぇのはどうだ？」%K%P
 Then how about you help me in return later?
 CN PLACEHOLDER
-Тогда как насчёт „баш на баш“?
+Тогда как на счёт 'баш на баш'?
 
 少年「手伝い？」%K%P
 Help?
@@ -391,7 +391,7 @@ CN PLACEHOLDER
 少年「そんなことなら、謝礼とかじゃなくても手伝うよ」%K%P
 In that case, I'd do it even if I didn't owe you anything.
 CN PLACEHOLDER
-В таком случае я помог бы тебе, даже если бы не был ничего должен.
+В таком случае, я помог бы тебе, даже если бы не был ничего должен.
 
 武「おっ、サンキューな」%K%P
 Oh, thanks!
@@ -406,7 +406,7 @@ CN PLACEHOLDER
 武とぼくは、埃まみれで、その場に立ちつくす。%K%P
 Takeshi and I were just standing around covered in dust.
 CN PLACEHOLDER
-Мы с Такэси просто стоим, перепачканные в пыли.
+Такеши и я просто стоим, перепачканные в пыли.
 
 そのとき、扉が開いて沙羅が入ってくる。%K%P
 The door opened, and Sara came in.
@@ -421,7 +421,7 @@ CN PLACEHOLDER
 沙羅「ペンダント、確か少年に預けっぱなしだったよねぇ？」%K%P
 I think I forgot to get the pendant back from you.
 CN PLACEHOLDER
-Кулон... кажется я забыла забрать его у тебя.
+Кулон...кажется я забыла забрать его у тебя.
 
 少年「あ、うん……」%K%P
 Oh yeah...
@@ -431,7 +431,7 @@ CN PLACEHOLDER
 ぼくはやむを得ず、欠けたペンダントをそのまま渡した。%K%P
 All I could do was hand her back the fractured pendant.
 CN PLACEHOLDER
-Всё, что осталось – отдать ей в руки повреждённый кулон.
+Всё, что осталось -- отдать ей в руки повреждённый кулон.
 
 沙羅はそのとき初めて気がついたように、埃まみれのぼくと武をきょとんと見ていた。%K%P
 Only then, like Sara was seeing us for the first time, did she notice that we were filthy.
@@ -446,12 +446,12 @@ CN PLACEHOLDER
 ぼくは何も言えずに武と顔を見合わせた。%K%P
 I couldn't think of anything to say. Takeshi and I exchanged glances.
 CN PLACEHOLDER
-Я не знаю, что ответить. Мы с Такэси переглянулись.
+Я не знаю, что ответить. Мы с Такеши переглянулись.
 
 武「実は……カケラを探してたんだ」%K%P
 Actually... we were looking for the missing piece.
 CN PLACEHOLDER
-Мы тут... искали потерявшийся осколок.
+Мы тут...искали потерявшийся осколок.
 
 沙羅「カケラ？　なにそれ？」%K%P
 Piece? What's that?
@@ -481,7 +481,7 @@ CN PLACEHOLDER
 あれ？%K%P
 What?
 CN PLACEHOLDER
-Что?
+Что?!
 
 あれれ？？？%K%P
 What had happened?
@@ -491,17 +491,17 @@ CN PLACEHOLDER
 なんか知らんけど、いつの間にか武が発案者みたいな展開になってるぞ、おい。%K%P
 All of a sudden, Takeshi had made it look like it was all his bright idea.
 CN PLACEHOLDER
-Ни с того ни с сего Такэси сделал такую гордую рожу, будто это была ЕГО светлая идея.
+Ни с того ни с сего, Такеши сделал такую гордую рожу, будто это была ЕГО светлая идея.
 
 ぼくのテガラにしてくれるんじゃなかったのか？%K%P
 I thought he was going to let me take the credit.
 CN PLACEHOLDER
-А я думал, что он позволит рассказать мне!
+Мерзавец! Чтобы я ещё хоть раз попросил его о помощи...!!
 
 沙羅「それに……こんなとこじゃ、カケラは絶対見つからないと思うよ？」%K%P
 Besides... I'm pretty sure you're not going to find the piece here.
 CN PLACEHOLDER
-Кроме того... уверена на сто процентов, что вы бы всё равно его здесь не нашли.
+Кроме того...уверена на сто процентов, что вы бы всё равно его здесь не нашли.
 
 少年「どうして？」%K%P
 Why not?
@@ -511,7 +511,7 @@ CN PLACEHOLDER
 沙羅「だってこのペンダント……最初から欠けてたんだもん」%K%P
 Because... this pendant was cracked from the start.
 CN PLACEHOLDER
-Потому что... этот кулон с самого начала был повреждён.
+Потому что...этот кулон с самого начала был повреждён.
 
 武「最初、から？」%K%P
 From the start?
@@ -526,7 +526,7 @@ CN PLACEHOLDER
 沙羅「ものごころついたときから、なぜかこのペンダントを持ってて」%K%P
 I don't know why, but I've had this pendant as long as I can remember.
 CN PLACEHOLDER
-Не знаю почему, но этот кулон со мной, сколько себя помню.
+Не знаю почему, но этот кулон со мной сколько себя помню.
 
 沙羅「この部分が割れたのは、もうずっと昔のことなの」%K%P
 And this piece broke off a long time ago.
@@ -536,7 +536,7 @@ CN PLACEHOLDER
 少年「なんだ、どうりで……」%K%P
 Oh, well, that means...
 CN PLACEHOLDER
-Ох, то есть... мы...
+Ох, то есть...мы...
 
 武「見つからないわけだ」%K%P
 We didn't have a chance of finding it.
@@ -551,5 +551,5 @@ CN PLACEHOLDER
 武のため息が、救護室に響いた。%K%P
 Takeshi's sigh echoed throughout the infirmary.
 CN PLACEHOLDER
-Вздох Такэси эхом пронёсся по лазарету.
+Вздох Такеши эхом пронёсся по лазарету.
 

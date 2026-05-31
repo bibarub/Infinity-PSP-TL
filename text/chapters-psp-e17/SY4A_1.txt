@@ -6,7 +6,7 @@ CN PLACEHOLDER
 あのあと、着替えてくると言って、優は２階へ上がっていった。%K%P
 You said she was going to change clothes and had gone up to the second floor.
 CN PLACEHOLDER
-Ю сказала, что собирается переодеться, и ушла на второй этаж.
+Ю сказала, что собирается переодеться и ушла на второй этаж.
 
 空は仕事に戻った。%K%P
 Sora went back to work.
@@ -16,12 +16,12 @@ CN PLACEHOLDER
 沙羅は……たぶん加減圧室の中で寝ているのだろう。%K%P
 Sara... She was probably sleeping in the compression chamber.
 CN PLACEHOLDER
-Сара... должно быть она спит в медицинской барокамере.
+Сара...должно быть она спит в медицинской барокамере.
 
 武は憩いの間で酔いつぶれている、らしい。%K%P
 Takeshi was supposedly filthy drunk in the park rest area.
 CN PLACEHOLDER
-Такэси, по всей видимости, валяется вусмерть пьяным в мини-парке.
+Такеши, по всей видимости, валяется в дупель пьяным буратино в мини-парке.
 
 つぐみはあれから帰ってこない。どこへ行ったのやら……。%K%P
 Tsugumi hadn't come back. I had no idea where she'd gone...
@@ -31,7 +31,7 @@ CN PLACEHOLDER
 ぼくは今、会議室にいる。%K%P
 Me, I was in the conference room.
 CN PLACEHOLDER
-Что до меня... я в Комнате переговоров.
+Что до меня...я в Комнате Переговоров.
 
 テーブルの中央には、ＬｅＭＵの立体映像が表示されている。%K%P
 In the middle of the table was a three-dimensional image of LeMU.
@@ -46,17 +46,17 @@ CN PLACEHOLDER
 今のところ、何一つ思い浮かばない。%K%P
 At that point, I hadn't even hit upon a single one.
 CN PLACEHOLDER
-Но пока что не додумался ни до одного.
+Но, пока что не додумался ни до одного.
 
 ぼくの持っている知識だけでは、すぐに思考は断ち切れてしまい、結論まで達することができないでいる。%K%P
 Any plan would fall apart before I even got it fully developed because of my limited knowledge.
 CN PLACEHOLDER
-Потому что любой план шёл прахом ещё на стадии разработки... и всё из-за моих ограниченных знаний.
+Потому что любой план шёл прахом ещё на стадии разработки...и всё из-за моих ограниченных знаний.
 
 だけど、諦めるつもりはなかった。%K%P
 But I didn't intend to give up.
 CN PLACEHOLDER
-Но я и не собираюсь сдаваться.
+Но, я и не собираюсь сдаваться.
 
 せめてアイディアの取っ掛かりだけでも掴めれば……。%K%P
 I thought if I could just find a starting point...
@@ -71,12 +71,12 @@ CN PLACEHOLDER
 ドアが開き、誰かが入ってきた。%K%P
 The door opened, and somebody came in.
 CN PLACEHOLDER
-И тут открылась дверь. Я услышал, как кто-то входит.
+И тут, открылась дверь. Я услышал, как кто-то входит.
 
 振り返ると……それは優だった。%K%P
 Looking back... I saw that it was You.
 CN PLACEHOLDER
-Оглядевшись... я увидел Ю.
+Оглядевшись...я увидел Ю.
 
 彼女は例のユニフォームに着替えていた。%K%P
 She had changed into her work uniform.
@@ -111,7 +111,7 @@ CN PLACEHOLDER
 少年「ふーん」%K%P
 Hmmm.
 CN PLACEHOLDER
-Хм-м-м...
+Хммм...
 
 優「ねえ、ＬｅＭＵのホログラムなんて表示して、何やってたの？」%K%P
 Hey, what are you doing with that LeMU hologram?
@@ -146,7 +146,7 @@ CN PLACEHOLDER
 優「ふーん……」%K%P
 Hmmm...
 CN PLACEHOLDER
-Хм-м-м...
+Хммм...
 
 少年「そんなことよりも、寝ないの？」%K%P
 Enough about that. Aren't you going to sleep?
@@ -221,7 +221,7 @@ CN PLACEHOLDER
 第３の眼が開眼すると、真の智恵がわき、万物を見通すことができる。%K%P
 When the third eye opens, true wisdom is apparent, and all becomes visible.
 CN PLACEHOLDER
-Когда открывается третий глаз, истинное знание очевидно, а тайное становится явным.
+Когда открывается третий глаз, истинное знание очевидно и тайное становится явным.
 
 古のチカラ。最高の叡智。人を超越した者の証。%K%P
 The power of ancients. Ultimate knowledge. Proof of a transcendental state beyond that of normal people.
@@ -241,7 +241,7 @@ CN PLACEHOLDER
 優「じゃあ、入ろっか？」%K%P
 Shall we go in?
 CN PLACEHOLDER
-Ну что, зайдём?
+Ну, может зайдём?
 
 薄暗いドームの中に浮かび上がる石造りのゲートへと、優は歩いていく。%K%P
 You walked toward a stone gate which rose out of a dimly lit dome.
@@ -256,12 +256,12 @@ CN PLACEHOLDER
 優「ん？　どうぞ？」%K%P
 Huh? Sure.
 CN PLACEHOLDER
-Хм-м? Конечно.
+Хмм? Конечно.
 
 少年「なんで、レムリア遺跡が第３視点のゆかりの地なの？」%K%P
 Why do the Lemurian Ruins have something to do with the third eye?
 CN PLACEHOLDER
-Какая связь между Лемурийскими развалинами и третьим глазом?
+Какая связь между Лемурийскими Развалинами и третьим глазом?
 
 優「ああ、そのことね……」%K%P
 Oh, that...
@@ -271,7 +271,7 @@ CN PLACEHOLDER
 優「あれね？　嘘なの」%K%P
 That? I lied.
 CN PLACEHOLDER
-Вообще-то... я соврала.
+Вообще-то...я соврала.
 
 少年「は？」%K%P
 What?
@@ -291,22 +291,22 @@ CN PLACEHOLDER
 優「ただ、そう言えば少年はついてくるかな、って」%K%P
 I just thought that if I said that, then you'd come along with me.
 CN PLACEHOLDER
-Просто... это был предлог, чтобы ты прогулялся со мной.
+Просто...это был предлог, чтобы ты прогулялся со мной.
 
 少年「…………」%K%P
 ..........
 CN PLACEHOLDER
-...
+..........
 
 優「ひとりでグジグジ考えるのって性に合わないから、誰か側にいてほしくて……」%K%P
 Thinking about things all by myself doesn't really suit me. I need someone else around.
 CN PLACEHOLDER
-Понимаешь... рассуждать в одиночестве... не слишком приятно. Другое дело, когда рядом кто-то есть.
+Понимаешь...рассуждать в одиночестве...не слишком приятно. Другое дело, когда рядом кто-то есть.
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「怒った？」%K%P
 Are you mad?
@@ -321,7 +321,7 @@ CN PLACEHOLDER
 少年「その脈絡のない、非論理的な発想が、優らしくないなぁって思っただけ」%K%P
 I was just thinking that you don't seem the type to be governed by random illogical thoughts.
 CN PLACEHOLDER
-Просто... мне ты не кажешься человеком, способным на случайные, нелогичные идеи.
+Просто...мне ты не кажешься человеком, способным на случайные, нелогичные идеи.
 
 優「そうかな？」%K%P
 Really?
@@ -336,7 +336,7 @@ CN PLACEHOLDER
 優「でも本当は、ちょっぴり関係あるのかも」%K%P
 But actually, there might be a connection.
 CN PLACEHOLDER
-Но на самом деле связь всё же может и быть.
+Но, на самом деле, связь всё же может и быть.
 
 優は遺跡の方へ視線を向ける。%K%P
 You turned her gaze to the ruins.
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 優「お母さんがレムリア大陸を調査するフリして、自分の研究の方をやってるって話、したよね？」%K%P
 I told you about how my mom was doing her own research while pretending to study the Lemurian continent, right?
 CN PLACEHOLDER
-Помнишь? Я рассказывала тебе, как мама ведёт собственные исследования, притворяясь, будто исследует Лемурийский континент.
+Помнишь? Я рассказывала тебе, как мама ведёт собственные исследования, притворяясь будто исследует Лемурийский континент.
 
 優「そのお母さんにとって、第３視点とレムリアとの関連性は、なくてはならない存在だったの」%K%P
 It seems like she was completely hooked on researching the third eye.
@@ -356,57 +356,57 @@ CN PLACEHOLDER
 優「なんでか、わかる？」%K%P
 Do you know why?
 CN PLACEHOLDER
-Догадываешься, почему?
+Догадываешься почему?
 
 少年「『レムリアの調査のついでに第３視点の研究をしてる』という大義名分が必要だったから、かな？」%K%P
 Because she was conducting research in the name of Lemuria?
 CN PLACEHOLDER
-Погоди, то есть фактически она проводит исследования под вывеской „Лемурия“?
+Погоди, то есть, фактически она проводит исследования под вывеской 'Лемурия'?
 
 優「そう。だからお母さんは、話をでっち上げることにしたの」%K%P
 Yeah. So my mom wanted to study the third eye, pretended there was a connection with Lemuria, and wrote about it.
 CN PLACEHOLDER
-Да. То есть мама хотела изучать третий глаз, притворилась, будто существует связь между ним и Лемурией... и написала об этом.
+Да. То есть, мама хотела изучать третий глаз, притворилась будто существует связь между ним и Лемурией...и написала об этом.
 
 『ある説によると、レムリア人は大猿のような体格、４メートル前後の身長を有し……』%K%P
 “One theory has it that the people of Lemuria were giant apes that were four meters tall...”
 CN PLACEHOLDER
-«По одной из теорий, жители Лемурии были гигантскими обезьянами ростом в 9 метров...»
+'По одной из теорий, жители Лемурии были гигантскими обезьянами ростом в 9 метров...'
 
 『褐色の肌を持ち、雌雄の違いが無く卵を産み、テレパシーによって意思の疎通をしていた、とされている』%K%P
 “They had walnut-colored skin, there were no differences between males and females, they laid eggs, and they communicated via telepathy.”
 CN PLACEHOLDER
-«Они имели ореховый окрас кожи, разницы между мужскими и женскими особями не существовало, они откладывали яйца и общались при помощи телепатии.»
+'Они имели ореховый окрас кожи, разницы между мужскими и женскими особями не существовало, они откладывали яйца и общались при помощи телепатии.'
 
 『そして、後頭部には第３の眼を持っていたらしい』%K%P
 “And they had a third eye in the back of their heads.”
 CN PLACEHOLDER
-«А ещё у них был третий глаз, на макушке головы.»
+'А ещё у них был третий глаз, на макушке головы.'
 
 『テレパシー、第３の眼……これは『第３視点』にも通ずるところがある』%K%P
 “Telepathy and the third eye... This has something to do with the third perspective.”
 CN PLACEHOLDER
-«Телепатия и третий глаз... они как-то связаны с третьим измерением.»
+'Телепатия и третий глаз...они как-то связаны с третьим измерением.'
 
 『かつて脊椎動物の祖先は３眼体制の生物だったことからも……』%K%P
 “Drawing on the idea that our vertebrate predecessors had three eyes...”
 CN PLACEHOLDER
-«Если полагаться на идею, что наши позвоночные предки имели три глаза...»
+'Если полагаться на идею, что наши позвоночные предки имели три глаза...'
 
 『あるいは古代人――特にレムリア人とは、まるで息をするように、かの能力を使いこなせた人種だったのかもしれない』%K%P
 “So the ancients—especially the Lemurians—may well have been races that mastered the use of this power.”
 CN PLACEHOLDER
-«Значит, и древние расы – в особенности Лемуреане – также могли уметь управлять этой силой.»
+'Значит и древние расы - в особенности Лемуреане - также могли уметь управлять этой силой.'
 
 『以上のことから推測するに……』%K%P
 “And based on the facts discovered, I conclude...”
 CN PLACEHOLDER
-«И, основываясь на обнаруженых фактах, я предполагаю...»
+'И, основываясь на обнаруженых фактах, я предполагаю...'
 
 優「『第３視点のルーツはレムリアにある』、と」%K%P
 'That the origin of the third eye is Lemuria.'
 CN PLACEHOLDER
-„Что истоки третьего глаза – в Лемурии.“
+'Что истоки третьего глаза - в Лемурии.'
 
 優「もっともらしい論文まで書いて、ね」%K%P
 She even wrote trumped-up papers on the topic.
@@ -436,12 +436,12 @@ CN PLACEHOLDER
 ぼくと優は、ゲートをくぐり、遺跡の中へと入った。%K%P
 You and I crossed through the gate and entered the ruins.
 CN PLACEHOLDER
-Мы с Ю прошли через врата и оказались в развалинах.
+Ю и я прошли через врата и оказались в развалинах.
 
 中は外よりもさらに薄暗く、通路は迷路のように入り組んでいた。%K%P
 It was darker inside, and the pathways were interwoven like a maze.
 CN PLACEHOLDER
-Внутри темнее, чем снаружи, а дорожки переплетаются словно лабиринт.
+Внутри темнее, чем снаружи а дорожки переплетаются словно лабиринт.
 
 淡い照明が、辺りを青白く、幻想的に照らしている。%K%P
 The lighting was surreal, with dim lights in some areas and bluish white lights elsewhere.
@@ -456,12 +456,12 @@ CN PLACEHOLDER
 遺跡内にも海水が侵入しており、それが演出効果となって、より一層、海底に沈んだ古代遺跡という印象を強めている。%K%P
 The ruins were also slightly flooded with water, which had the effect of making them appear more like ruins at the bottom of the ocean.
 CN PLACEHOLDER
-Развалины слегка подтоплены водой. Создаётся впечатление, будто находишься в развалинах на дне океана.
+Также, развалины слегка подтоплены водой. Создаётся впечатление, будто находишься в развалинах на дне океана.
 
 ………………。%K%P
 ............
 CN PLACEHOLDER
-...
+............
 
 どのくらい歩いただろうか。%K%P
 I wondered how far we had walked.
@@ -481,7 +481,7 @@ CN PLACEHOLDER
 周囲には石柱――オベリスクというらしい――が立っていて、そのうちの何本かは折れて倒れている。%K%P
 There were rock pillars—called obelisks—scattered around the area. A few of them were broken, collapsed, or crumbling.
 CN PLACEHOLDER
-Каменные колонны – «обелиски» – разбросаны по всей площадке. Некоторые из них сломаны, упали или раскрошились.
+Каменные колонны - 'обелиски' - разбросаны по всей площадке. Некоторые из них сломаны, упали или раскрошились.
 
 よく見ると、壁には何かを模したレリーフが刻み込まれている。%K%P
 Looking closely, I saw that a mock relief was carved into the wall.
@@ -496,7 +496,7 @@ CN PLACEHOLDER
 優「このへんのエリアはね？　『太陽の神殿』って場所なの」%K%P
 This is a strange place, huh? It's called the 'Sun Temple'.
 CN PLACEHOLDER
-Странное место, правда? Называется „Храм солнца“.
+Странное место, правда? Называется 'Храм Солнца'.
 
 少年「太陽？」%K%P
 Sun?
@@ -516,7 +516,7 @@ CN PLACEHOLDER
 優「ですが、赤道直下の熱帯雨林地帯に存在したのではないか、という、だいたいのところでは共通しています」%K%P
 But most people agree that it was located near the belt of tropical rainforest just below the equator.
 CN PLACEHOLDER
-Но большинство сходится во мнении, что он располагался близ пояса тропических лесов, чуть ниже экватора.
+Но, большинство сходится во мнении, что он располагался близ пояса тропических лесов, чуть ниже экватора.
 
 係員のような口ぶりで（いや、実際に彼女は係員だったのだが）解説を始める優。%K%P
 You reverted to speaking like an employee (which she was) and started giving me an explanation of the place.
@@ -526,7 +526,7 @@ CN PLACEHOLDER
 優「そんなところから、私どもＬｅＭＵの研究スタッフは、『レムリアの民は太陽を崇めていたのではないだろうか？』という仮説を立てるに至り……」%K%P
 Members of our research staff here at LeMU have put forth hypotheses that the people of Lemuria worshipped the sun...
 CN PLACEHOLDER
-Члены нашей исследовательской группы LeMU продвинулись к гипотезе о том, что жители Лемурии поклонялись солнцу...
+Члены нашей исследовательской группы LeMU, продвинулись к гипотезе о том, что жители Лемурии поклонялись солнцу...
 
 そこで優は肩をすくめ……%K%P
 You paused and shrugged...
@@ -536,7 +536,7 @@ CN PLACEHOLDER
 優「かくして、こんな神殿を作ってみた、と、そういうことみたい」%K%P
 So I guess that's why we built this temple.
 CN PLACEHOLDER
-Наверное потому мы и построили этот храм.
+Наверно потому мы и построили этот храм.
 
 少年「ふーん、なるほどねぇ」%K%P
 I see.
@@ -551,12 +551,12 @@ CN PLACEHOLDER
 優「海の底に沈んでるってのに、太陽なんて……皮肉にしか聞こえないよねぇ？」%K%P
 A Sun Temple... at the bottom of the ocean... Doesn't that strike you as kind of ironic?
 CN PLACEHOLDER
-Храм Солнца... на дне океана... звучит как горькая ирония...
+Храм Солнца...на дне океана...звучит как горькая ирония, неправда ли?
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 海の底に沈んでる――それは大陸のことを指しているのだろうか？%K%P
 I wondered if she was talking about the continent that had sunk to the bottom of the ocean.
@@ -566,12 +566,12 @@ CN PLACEHOLDER
 それとも……ぼくら？%K%P
 Or maybe she had meant... us.
 CN PLACEHOLDER
-Или... о нас?
+Или...о нас?
 
 優「きみは、なにか思いついたの？」%K%P
 Did you think of anything?
 CN PLACEHOLDER
-Ты... что-нибудь придумал?
+Ты...что-нибудь придумал?
 
 少年「え？　なんのこと？」%K%P
 What do you mean?
@@ -596,12 +596,12 @@ CN PLACEHOLDER
 優「そう、やっぱりね……」%K%P
 I thought so...
 CN PLACEHOLDER
-Эх... ясненько...
+Эх...ясненько...
 
 優「はぁ、もう他の方法なんて、思い浮かばないよ」%K%P
 I can't think of any other ways.
 CN PLACEHOLDER
-Эхх... ну, и самой ничего в голову не приходит.
+Эхх...ну, и самой ничего в голову не приходит.
 
 優「高圧力送風機さえ動けば……」%K%P
 If we could just get that high-pressure inflow machine to work...
@@ -611,27 +611,27 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「ねえ？　私、ちょっと考えてみたんだけどね」%K%P
 You know? I've thought this through.
 CN PLACEHOLDER
-Нет... кое-что не даёт мне покоя.
+Нет...кое-что не даёт мне покоя.
 
 優「私達、誰かにだまされてるんじゃないかな？」%K%P
 I think we're being lied to by someone.
 CN PLACEHOLDER
-Мне кажется... кто-то пудрит нам мозги.
+Мне кажется...кто-то пудрит нам мозги.
 
 少年「え？　どういうこと？」%K%P
 Huh? What are you talking about?
 CN PLACEHOLDER
-Э-э? То есть?
+Эээ? То есть?
 
 つぐみ「あなたはきっと……利用されてるのよ、奴らに」%K%P
 You are... just being used by them.
 CN PLACEHOLDER
-Эти... они могут использовать тебя.
+Эти...они могут использовать тебя.
 
 つぐみの言葉が、脳裏をよぎる。%K%P
 Tsugumi's words flashed through my mind.
@@ -651,12 +651,12 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「だって、そうとしか考えられないじゃない」%K%P
 Really, it's the only thing that makes sense.
 CN PLACEHOLDER
-Потому что... это единственное, в чём виден смысл.
+Потому что...это единственное, в чём виден смысл.
 
 優「不自然なことがあまりにも多すぎるのよ」%K%P
 There's just too much that doesn't add up.
@@ -666,7 +666,7 @@ CN PLACEHOLDER
 優「マヨの友達や、倉成の友達や、私の同僚は、私達がここに閉じ込められてることを知ってるはずでしょ？」%K%P
 Mayo's friends, Kuranari's friends, and my coworkers should all know that we're trapped here, right?
 CN PLACEHOLDER
-Друзья Майо, друзья Куранари, мои коллеги, наконец – все они должны знать, что мы здесь в ловушке, так ведь?
+Друзья Майо, друзья Куранари, мои сослуживцы наконец - все они должны знать, что мы здесь в ловушке, так ведь?
 
 優「なのに、どうして誰も来ないの？」%K%P
 So why doesn't anyone come?
@@ -701,7 +701,7 @@ CN PLACEHOLDER
 少年「……………………」%K%P
 ............
 CN PLACEHOLDER
-...
+............
 
 ぼくは何も言い返せなかった。%K%P
 I didn't know what to say to her.
@@ -721,7 +721,7 @@ CN PLACEHOLDER
 それをハッキリと自覚できなかったのは、いや自覚しなかったのは、ある意味の現実逃避だったのかもしれない。%K%P
 The reason that I hadn't been able to realize it was maybe that I didn't want to face reality.
 CN PLACEHOLDER
-Причина, по которой я не мог (или не хотел) это понять... Может, я просто не хочу взглянуть фактам в глаза?
+Причина, по которой я не мог (или не хотел) это понять... Может я просто не хочу взглянуть фактам в глаза?
 
 そっと、優の横顔を窺う。%K%P
 I sneaked a look at You's face.
@@ -741,7 +741,7 @@ CN PLACEHOLDER
 誰よりも元気に振る舞ってきた彼女。%K%P
 You was always more upbeat than everyone around her.
 CN PLACEHOLDER
-Ю всегда была настроена гораздо оптимистичнее, чем окружающие.
+Ю всегда была настроена гораздо оптимистичней, чем окружающие.
 
 ぼくにとって大きな存在だった彼女。%K%P
 She was a powerful presence for me.
@@ -751,12 +751,12 @@ CN PLACEHOLDER
 なのに、今はとても小さく、か弱く感じてしまう。%K%P
 But right then, she seemed very small and fragile.
 CN PLACEHOLDER
-Но сейчас она выглядит маленькой и хрупкой.
+Но, сейчас она выглядит маленькой и хрупкой.
 
 どんなに気丈に振る舞っていても、優は女の子だ。%K%P
 No matter how tough she acted, You was still just a girl at heart.
 CN PLACEHOLDER
-Как бы круто она себя ни вела, в глубине души Ю просто девушка.
+Как бы круто она себя не вела, в глубине души Ю просто девушка.
 
 事故発生から早３日……もはや精神的に無理がきて当然だった。%K%P
 It had been a quick three days since the accident... It only made sense that she would be feeling the strain.
@@ -781,17 +781,17 @@ CN PLACEHOLDER
 優「ねえ？　私達、助かるのかな？」%K%P
 Friends help each other, right?
 CN PLACEHOLDER
-Слушай... друзья помогают друг другу, правда?
+Слушай...друзья помогают друг другу, правда?
 
 優「少年は、未来が見えるんでしょ？」%K%P
 Kid, you can see the future, can't you?
 CN PLACEHOLDER
-Малой, ты же видишь будущее?
+Кид, ты же видишь будущее?
 
 優「この先どうなるのか、占ってよ」%K%P
 Tell me how things are going to turn out.
 CN PLACEHOLDER
-Я вот думаю... что с нами будет?
+Я вот думаю...что с нами будет?
 
 少年「きっと、助かるよ」%K%P
 I think we'll be saved.
@@ -801,7 +801,7 @@ CN PLACEHOLDER
 優「それは予知？　それとも、ただの希望的観測？」%K%P
 Is that a premonition? Or just an optimistic guess?
 CN PLACEHOLDER
-Это предчувствие... или... просто вспышка оптимизма?
+Это предчувствие...или...просто вспышка оптимизма?
 
 少年「それはもちろん……」%K%P
 Of course, it's...
@@ -811,7 +811,7 @@ CN PLACEHOLDER
 『予知だ！』――と言おうとして留まった。%K%P
 I wanted to say “a premonition”, but I couldn't.
 CN PLACEHOLDER
-Я хотел сказать «предчувствие», но не смог.
+Я хотел сказать 'предчувствие', но не смог.
 
 予知ではだめだ。%K%P
 Saying it was wouldn't work.
@@ -856,17 +856,17 @@ CN PLACEHOLDER
 ――それさえ、このぼくにあれば！%K%P
 I thought that if I only had that...!
 CN PLACEHOLDER
-Если бы только я обладал ею!..
+Если бы только я обладал ею...!
 
 だけど、そんなものはない。%K%P
 But it didn't exist. It couldn't possibly...
 CN PLACEHOLDER
-Но... она не существует. И не может в принципе...
+Но...она не существует. И не может в принципе...
 
 少年「予知でも……希望でもない」%K%P
 It's not a premonition... or a guess...
 CN PLACEHOLDER
-Это не предчувствие... или вспышка оптимизма...
+Это не предчувствие...или вспышка оптимизма...
 
 だからせめて……%K%P
 At the very least...
@@ -891,7 +891,7 @@ CN PLACEHOLDER
 だからせめて……願った。%K%P
 At least... I hoped it was.
 CN PLACEHOLDER
-По крайней мере... я надеюсь.
+По крайней мере...я надеюсь.
 
 決して消えませんように。%K%P
 That it was a promise that would materialize.
@@ -911,12 +911,12 @@ CN PLACEHOLDER
 優も右手を近づけ……けれど、そこで手をとめる。%K%P
 I approached You... but then she spoke.
 CN PLACEHOLDER
-Я подошёл поближе... но, Ю ответила...
+Я подошёл поближе...но, Ю ответила...
 
 優「もし……約束破ったら？」%K%P
 And what if... you break it?
 CN PLACEHOLDER
-Но что, если... ты его не сдержишь?
+Но, что если......ты его не сдержишь?
 
 少年「それはない。絶対に護ってみせる」%K%P
 I won't. I'll see that you're safe.
@@ -931,7 +931,7 @@ CN PLACEHOLDER
 少年「０．００００００００００００００００１％たりとも、ない」%K%P
 There is not even a 0.00000000000000001％ possibility.
 CN PLACEHOLDER
-Нет даже 0,00000000000000001 процента вероятности.
+Нет даже 0.00000000000000001 процента вероятности.
 
 優「…………」%K%P
 ...
@@ -951,7 +951,7 @@ CN PLACEHOLDER
 ゆびきりげんまん……%K%P
 I crossed my heart and hoped to die...
 CN PLACEHOLDER
-Я скрестил руки на груди, надеясь умереть как можно скорее...
+Я скрестил руки на груди, надеясь умереть как можно скорей...
 
 優「仕方ない、付き合ってあげるとしますか」%K%P
 Oh well. I suppose I'll have to trust you.
@@ -961,5 +961,5 @@ CN PLACEHOLDER
 ――ゆびきった！%K%P
 ...And stick a needle in my eye... I wouldn't break my word to You.
 CN PLACEHOLDER
-...чтоб мне треснуть... если я нарушу свою клятву.
+...чтоб мне треснуть...если я нарушу свою клятву.
 

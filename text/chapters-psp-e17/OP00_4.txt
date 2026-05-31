@@ -1,7 +1,7 @@
 ﻿まさか。%K%P
 Couldn't be?
 CN PLACEHOLDER
-Не может быть?
+Невозможно?
 
 本当に、どうにかなってしまったのだろうか。%K%P
 He wondered if something had gone terribly wrong.
@@ -16,7 +16,7 @@ CN PLACEHOLDER
 とてもおかしい……。%K%P
 Very wrong...
 CN PLACEHOLDER
-Очень странно...
+Очень странно....
 
 （誰だ？）%K%P
 (Who's that?)
@@ -26,7 +26,7 @@ CN PLACEHOLDER
 （ああ、彼女だ）%K%P
 (Oh, it's her.)
 CN PLACEHOLDER
-(А, это она.)
+(Ох, это она.)
 
 （やっと逢えた……）%K%P
 (I finally found you...)
@@ -46,17 +46,17 @@ CN PLACEHOLDER
 『――――、――――』%K%P
 “————, ————”
 CN PLACEHOLDER
-«––––,–––––»
+"————,—————"
 
 『――――』%K%P
 “————”
 CN PLACEHOLDER
-«––––»
+"————"
 
 『――――――――』%K%P
 “————————”
 CN PLACEHOLDER
-«––––––––»
+"————————"
 
 彼女の声も、聞こえなかった。%K%P
 He couldn't hear her voice either.
@@ -66,7 +66,7 @@ CN PLACEHOLDER
 耳をどんなに澄ませても……。%K%P
 No matter how much he tried...
 CN PLACEHOLDER
-Как бы он ни пытался...
+Не важно, как он ни пытается...
 
 今の彼には、何の音も届きはしなかった。%K%P
 No sound reached him.
@@ -76,17 +76,17 @@ CN PLACEHOLDER
 （くそう……どうなってるんだ……？）%K%P
 (Damn it... What's going on here...?)
 CN PLACEHOLDER
-(Чёрт... Что происходит?..)
+(Чёрт...что происходит...?)
 
 だが、かろうじて姿は見えた。%K%P
 But he could just about make out a figure.
 CN PLACEHOLDER
-Но он отчётливо разглядел фигуру.
+Но, он отчётливо разглядел фигуру.
 
 確かめることができた。%K%P
 Of that he could be certain.
 CN PLACEHOLDER
-В этом он был уверен.
+Он мог в этом убедиться.
 
 彼と彼女が話しているのが、向こうに見えたのだ。%K%P
 He could see him and the girl talking over there.
@@ -106,7 +106,7 @@ CN PLACEHOLDER
 （ぼくが、向こうにいるのが見える……？）%K%P
 (I can see myself over there...?)
 CN PLACEHOLDER
-(Я вижу самого себя со стороны?..)
+(Я вижу самого себя со стороны...?)
 
 彼を見ている。%K%P
 He stared.
@@ -131,27 +131,27 @@ CN PLACEHOLDER
 （だったら、ぼくを見ている『ぼく』は誰なんだ？）%K%P
 (If I'm “me”, then who is the “me” over there?)
 CN PLACEHOLDER
-(Если я наблюдаю за ними, тогда кто этот «я», что наблюдает за мной?)
+(Если я наблюдаю за ними, тогда кто этот 'я', что наблюдает за мной?)
 
 違和感。%K%P
 A creeping sense of unease.
 CN PLACEHOLDER
-Ему становится не по себе.
+Что-то выпадает из общей картины.
 
 事実を知って、唇が震えた。%K%P
 Realizing the truth, his lips trembled.
 CN PLACEHOLDER
-Теперь он знает правду. Его губы затрепетали.
+Теперь он знает правду и его губы затрепетали.
 
 （誰だ……？）%K%P
 (Who is that...?)
 CN PLACEHOLDER
-(Кто это?..)
+(Кто это..?)
 
 （あそこにいる『ぼく』は、いったい誰だ！？）%K%P
 (Who's the “me” over there?!)
 CN PLACEHOLDER
-(Кто этот «я» на самом деле?)
+(Кто этот 'я' на самом деле?)
 
 違和感が拭えない。%K%P
 He couldn't shake the feeling of unease.
@@ -186,7 +186,7 @@ CN PLACEHOLDER
 けたたましく唸るサイレンの音。%K%P
 The shrill wail of sirens.
 CN PLACEHOLDER
-Пронзительный вой сирен.
+Визг и плач сирен.
 
 それは、夢や幻ではなかった。%K%P
 That was no dream or illusion.
@@ -196,7 +196,7 @@ CN PLACEHOLDER
 武「まさかって……何を知ってる？」%K%P
 'Couldn't be'? Do you know something about this?
 CN PLACEHOLDER
-„Не может быть“? Ты знаешь, что происходит?
+Невозможно? Ты знаешь, что происходит?
 
 女の子「何も知らない……」%K%P
 I don't know anything...
@@ -206,12 +206,12 @@ CN PLACEHOLDER
 女の子「あなたは何を知ってるの？」%K%P
 Do you?
 CN PLACEHOLDER
-А ты что-нибудь знаешь?
+Ты что-то знаешь?
 
 武「知るわけないだろ」%K%P
 How the hell could I know anything?
 CN PLACEHOLDER
-Да откуда?
+Откуда?
 
 照明は徐々に弱まっていき、やがて消えた。%K%P
 The lights gradually dimmed and finally went out.
@@ -261,7 +261,7 @@ CN PLACEHOLDER
 下の、ベッドの、上の、ベッドの、下……。%K%P
 Below the bed, upon the bed below...
 CN PLACEHOLDER
-Под кроватью, на кровати ниже...
+На кровати впереди, на кровати сверху, на кровати впереди...
 
 きみは……。%K%P
 Who...
@@ -271,12 +271,12 @@ CN PLACEHOLDER
 （誰だ……？）%K%P
 (Who are you...?)
 CN PLACEHOLDER
-(Ты?..)
+(Ты...?)
 
 誰だ……？%K%P
 Who are you...?
 CN PLACEHOLDER
-Кто?..
+Кто...?
 
 （やめて……）%K%P
 (Stop...)
@@ -311,12 +311,12 @@ CN PLACEHOLDER
 （やめて……くれ……）%K%P
 (Please... stop...)
 CN PLACEHOLDER
-(Остановись... Пожа...)
+(Остановись...Пожа...)
 
 や……め……て……く……れ……。%K%P
 S-St... Sto... Stop...
 CN PLACEHOLDER
-С-ст... сто... стой...
+С-ст...сто...стой...
 
 いや……。%K%P
 No...
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 武「おい！　誰か！　誰かいないのか？」%K%P
 Hey! Someone! Anyone!
 CN PLACEHOLDER
-Э-э-эй! Кто там? Есть там кто-нибудь?
+Эй! Кто там? Есть там кто-нибудь?
 
 武「俺はここだ！　ここにまだいるんだ！」%K%P
 I'm still here! I'm still in here!
@@ -361,12 +361,12 @@ CN PLACEHOLDER
 武「返事を……してくれ……」%K%P
 Answer me... Please...
 CN PLACEHOLDER
-Отзовитесь... прошу...
+Отзовитесь...прошу...
 
 少年「誰か、いませんかぁー？」%K%P
 Hello? Is anyone there?
 CN PLACEHOLDER
-;Мальчик«Есть здесь кто-нибудь?»%K%P
+Есть здесь кто-нибудь?
 
 誰も返事をしない。%K%P
 Nobody answered.
@@ -381,17 +381,17 @@ CN PLACEHOLDER
 少年「なーんだ、誰もいないのかぁ」%K%P
 Oh, no one's left?
 CN PLACEHOLDER
-;Мальчик«Что? Никого нет?»%K%P
+Что? Никого нет?
 
 少年「ひとり、かぁ……ふふふっ」%K%P
 All alone, huh...? Heh, heh...
 CN PLACEHOLDER
-;Мальчик«Значит, я один... Хе-хе...»%K%P
+Значит я один...хии, хии, хии.
 
 笑いが込み上げる。%K%P
 Laughter welled up within him.
 CN PLACEHOLDER
-Он взорвался истерическим смехом.
+Он взорвался истерикой.
 
 この上ない、解放感。%K%P
 It was the ultimate feeling of liberation.
@@ -406,7 +406,7 @@ CN PLACEHOLDER
 少年「あははははっ！」%K%P
 Ahahahahaha!
 CN PLACEHOLDER
-;Мальчик«А-ха-ха-ха-ха!»%K%P
+Ах, ха, ха, ха!
 
 走り出した。%K%P
 And he ran.
@@ -426,7 +426,7 @@ CN PLACEHOLDER
 あとはただ、『そこ』の中心を目指すのみ。%K%P
 All that was left was to aim for the center.
 CN PLACEHOLDER
-Всё, что осталось – нацелиться в «центр».
+Всё, что осталось - нацелиться в 'центр'.
 
 一歩踏み出す。%K%P
 He took a step forward.
@@ -471,22 +471,22 @@ CN PLACEHOLDER
 ただ繰り返される吐息だけが聞こえる。%K%P
 All he could hear was his own heavy breathing, repeating over and over again.
 CN PLACEHOLDER
-Всё, что он слышит – лишь повторяющееся тяжёлое дыхание.
+Всё, что он слышит, лишь повторяющееся, тяжёлое дыхание.
 
 思考は、溺れる。%K%P
 He lost himself, all thought drowning.
 CN PLACEHOLDER
-Мысли приглушились.
+Он потерял разум в коротком замыкании.
 
 視界は深い青にまみれた。%K%P
 His vision was overrun with blue.
 CN PLACEHOLDER
-Его зрение было залито синевой.
+Его зрение сузилось и переходит в синеву.
 
 深い青。%K%P
 Deep blue.
 CN PLACEHOLDER
-Тёмной синевой.
+Глубокую синеву.
 
 青……。%K%P
 Blue...
@@ -556,27 +556,27 @@ CN PLACEHOLDER
 肺に膨張圧を感じる。%K%P
 Pressure expanded in his lungs.
 CN PLACEHOLDER
-Воздух давил на его лёгкие изнутри.
+Он чувствует давление в своих лёгких.
 
 胃がムカムカして、気持ち悪い。%K%P
 He felt queasy, sick to his stomach.
 CN PLACEHOLDER
-На него накатила тошнота.
+Его живот невыносимо сдавливает.
 
 女の子「気圧が……低下してる……」%K%P
 The air pressure... is dropping...
 CN PLACEHOLDER
-Давление воздуха... падает...
+Давление воздуха...падает...
 
 （そうだ……耳抜きをしないと……）%K%P
 (Oh, right... I need to pop my ears...)
 CN PLACEHOLDER
-(Я забыл... Надо выправить барабанные перепонки...)
+(Я забыл...Надо выправить барабанные перепонки...)
 
 ポンと音を立てて、耳の内側に溜まっていた空気が抜けた。%K%P
 With a pop, the air building inside his ears was released.
 CN PLACEHOLDER
-Как только он ткнул пальцами в уши, давление в них нормализовалось.
+Как только он ткнул пальцами в уши, давление нормализовалось.
 
 武「ちっ……」%K%P
 Damn...
@@ -586,12 +586,12 @@ CN PLACEHOLDER
 武「出口は、どっちだ……？」%K%P
 Which way's the exit...?
 CN PLACEHOLDER
-Где же выход?..
+Где же выход...?
 
 ――漆黒。%K%P
 —Pitch black.
 CN PLACEHOLDER
-– Кромешная тьма.
+—Кромешная тьма.
 
 何も動かない。%K%P
 Nothing moved.
@@ -616,7 +616,7 @@ CN PLACEHOLDER
 正体の見えない残響だけがそこにあった。%K%P
 Just echoes from something unknown.
 CN PLACEHOLDER
-Лишь отголоски чего-то невидимого.
+Лишь отголоски чего-то, невидимого.
 
 時間はすべて凍りついている。%K%P
 Time froze to a stop.
@@ -626,7 +626,7 @@ CN PLACEHOLDER
 ここに留まっていれば、いずれ、生きていることさえも忘れてしまうのではないか……。%K%P
 If he stayed there, maybe he'd forget he was even alive.
 CN PLACEHOLDER
-Он чувствует, что если останется здесь, то забудет, что вообще жив.
+Он чувствует, что, если останется здесь, то забудет, что вообще жив.
 
 そんな予感がした。%K%P
 The thought crept into his mind.
@@ -641,27 +641,27 @@ CN PLACEHOLDER
 いや……ダメだ！%K%P
 ...No!
 CN PLACEHOLDER
-Нет... нет!
+Нет!
 
 いけない。%K%P
 He couldn't let that happen.
 CN PLACEHOLDER
-Ни за что.
+В этом нет ничего хорошего.
 
 抜け出さなくては！%K%P
 He had to get out!
 CN PLACEHOLDER
-Он должен выбраться!
+Он должен выбраться.
 
 進むべき方向もわからないままもがいた。%K%P
 He didn't know which way to go, but even still...
 CN PLACEHOLDER
-Хоть даже не знает, в каком направлении надо идти...
+Но он даже не знает, в каком направлении надо идти.
 
 この闇の中から……抜け出さなくては……いけない……。%K%P
 He had to... get himself out of the darkness...
 CN PLACEHOLDER
-Но он должен вытащить... самого себя из этой темноты... Должен...
+Он должен вытащить...самого себя из этой темноты...должен...
 
 しかし、どうすればいい？%K%P
 But how?
@@ -681,22 +681,22 @@ CN PLACEHOLDER
 わからない……。%K%P
 He didn't know...
 CN PLACEHOLDER
-Он не знает...
+Не может знать...
 
 …………。%K%P
 ...
 CN PLACEHOLDER
-...
+....
 
 そのとき、僅かな光の暖かさを感じた。%K%P
 Just then, he felt a faint, warm light.
 CN PLACEHOLDER
-И тут он почувствовал тепло от света.
+И тут, он почувствовал тёплый...
 
 光……？%K%P
 Light...?
 CN PLACEHOLDER
-Свет?..
+Свет...?
 
 平坦な闇の世界を割く、光刃。%K%P
 A blade of light slicing through the flat world of darkness.
@@ -711,17 +711,17 @@ CN PLACEHOLDER
 向こう側だ……。%K%P
 The direction was over there...
 CN PLACEHOLDER
-Идти нужно туда...
+В той стороне...
 
 抜け出せるのかもしれない……。%K%P
 And that there might be a way out...
 CN PLACEHOLDER
-Может быть, он сможет выбраться...
+Именно там может быть выход...
 
 あの場所へ行けば……。%K%p
 If he could get over there...
 CN PLACEHOLDER
-Если бы он только дошёл до туда...
+Если бы он только дотянулся...
 
 俺は――
 I've got to find my friends...
@@ -741,25 +741,25 @@ CN PLACEHOLDER
 静かに、%K%P
 Slowly, I...
 CN PLACEHOLDER
-Я медленно...
+Я медленно
 
 その扉を、開いた。%K%P
 ...opened the door.
 CN PLACEHOLDER
-...открыл дверь лифта.
+открыл дверь лифта.
 
 ぼくは――%K%P
 I didn't know where I was, but...
 CN PLACEHOLDER
-Я не знаю, где нахожусь, но...
+Я не знаю, где нахожусь, но
 
 静かに、%K%P
 ...slowly, I...
 CN PLACEHOLDER
-...медленно...
+медленно
 
 その目を、開いた。%K%P
 ...opened my eyes.
 CN PLACEHOLDER
-...открыл глаза.
+открыл глаза.
 

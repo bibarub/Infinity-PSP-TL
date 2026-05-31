@@ -1,7 +1,7 @@
 ﻿未明――日付はすでに変わり、５月７日、日曜日。%K%P
 Daybreak. The date had changed to Sunday, May 7th.
 CN PLACEHOLDER
-Рассвет. Дата сменилась на Воскресенье, 7 мая.
+Рассвет. Дата сменилась на Воскресенье, 7 Мая.
 
 あれからぼくらは一睡もしていない。%K%P
 Since that time, we hadn't slept at all.
@@ -16,32 +16,32 @@ CN PLACEHOLDER
 頭痛、目眩、吐き気……身体の内側からにじみ出てくるような悪寒。%K%P
 It felt like a headache, dizziness, nausea, and chills were seeping out from deep in the core of my body.
 CN PLACEHOLDER
-Головная боль, головокружение, тошнота и холод... они словно просачиваются в сердцевину моего тела.
+Головная боль, головокружение, тошнота и холод...они словно просачиваются в сердцевину моего тела.
 
 さざ波のように襲ってくる、鈍い痛みと極度の倦怠感……意識が朦朧とする。%K%P
 I suffered from a wave of dull pain and extreme fatigue... I was only half-conscious.
 CN PLACEHOLDER
-Оно страдает от приливов тупой боли и запредельной усталости... я едва в сознании.
+Оно страдает от приливов тупой боли и запредельной усталости...я едва в сознании.
 
 疲労困憊……ぼくはもう限界だった。%K%P
 Exhaustion... I had reached my limit.
 CN PLACEHOLDER
-Истощён... я достиг своего предела.
+Истощён...я достиг своего предела.
 
 だが、気力を奮い起こしてそれに耐え抜こうとする。%K%P
 But I tried to keep my energy from being sapped away.
 CN PLACEHOLDER
-Но... стараюсь не дать энергии утечь окончательно.
+Но...стараюсь не дать энергии утечь окончательно.
 
 一寸先も見えない暗闇……この無限の恐怖の中、ぼくらはもがき、抗い続けていた。%K%P
 Surrounded by darkness and endless fear, we had fought our way so far...
 CN PLACEHOLDER
-Окружённые темнотой... и бесконечным страхом, мы так долго боролись...
+Окружённые темнотой...и бесконечным страхом, мы так долго боролись...
 
 周囲の状況に、好転の気配はない。%K%P
 And there was no sign that things were going to get better.
 CN PLACEHOLDER
-Но нет и намёка, что всё изменится к лучшему.
+Но, нет и намёка, что всё изменится к лучшему.
 
 外部との通信も途絶えたまま。%K%P
 Communication lines with the outside were still down.
@@ -86,7 +86,7 @@ CN PLACEHOLDER
 今、彼女を救えるのは、ぼくしか残されていないのだ。%K%P
 At that point, I was the only person who could help her.
 CN PLACEHOLDER
-Сейчас я – единственный человек, способный помочь ей.
+Сейчас я - единственный человек, способный помочь ей.
 
 それに……%K%P
 Besides...
@@ -111,7 +111,7 @@ CN PLACEHOLDER
 少年「あのさ、空……」%K%P
 Uh, Sora...?
 CN PLACEHOLDER
-Э-э, Сора?..
+Ээ, Сора...?
 
 空「はい、なんでしょう？」%K%P
 Yes? What is it?
@@ -121,7 +121,7 @@ CN PLACEHOLDER
 少年「悪いんだけど、ちょっとの間、優とふたりきりにさせてもらえるかな？」%K%P
 I'm sorry to ask, but could you leave me alone with You for a second?
 CN PLACEHOLDER
-Прости, но... не могла бы ты оставить нас с Ю наедине... ненадолго?
+Прости, но...не могла бы ты оставить нас с Ю наедине...ненадолго?
 
 空「はい、わかりました」%K%P
 Certainly.
@@ -186,7 +186,7 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 返事はないが、ぼくは構わずふたりぶん用意する。%K%P
 Ignoring her lack of response, I set it to prepare two cups.
@@ -201,7 +201,7 @@ CN PLACEHOLDER
 少年「お母さんのことは……その……なんて言ったらいいのか、わからないけど……」%K%P
 About your mother... I mean, I don't know what to say, but...
 CN PLACEHOLDER
-Насчёт твоей мамы... Ну, не знаю, что и сказать, но...
+Насчёт твоей мамы...то есть, не знаю что и сказать, но...
 
 少年「でも、ぼくは思うんだけど、ちゃんと本人と話し合ってみなくちゃいけないんじゃないのかな」%K%P
 Don't you think it's important to talk things over with her?
@@ -211,7 +211,7 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「何か、やむを得ない事情があったのかもしれないし……」%K%P
 There may have been some reason why she did what she did...
@@ -231,17 +231,17 @@ CN PLACEHOLDER
 優「わかったようなこと……言わないでよ」%K%P
 How dare you say that... like you know how this feels.
 CN PLACEHOLDER
-Как ты можешь... будто знаешь, что я чувствую.
+Как ты можешь...будто знаешь, что я чувствую.
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「もう、あの人と話すようなことなんて、何一つないの」%K%P
 There's nothing left for me to say to her.
 CN PLACEHOLDER
-Мне больше... не о чем с ней разговаривать!
+Мне больше...не о чем с ней разговаривать!
 
 優「どうでもいいの、もう……」%K%P
 Besides, it doesn't matter anymore...
@@ -256,7 +256,7 @@ CN PLACEHOLDER
 少年「でもぼくらは、ここから脱出しなきゃいけない」%K%P
 Look, we've still got to find a way to escape this place... somehow.
 CN PLACEHOLDER
-Слушай, нам придётся ещё понять, как спастись отсюда... хоть как-нибудь.
+Слушай, нам придётся ещё понять, как спастись отсюда...хоть как-нибудь.
 
 優「なぜ？」%K%P
 Why?
@@ -271,17 +271,17 @@ CN PLACEHOLDER
 優「どうやって？　何か脱出する方法があるの？」%K%P
 How are you going to keep it? Do you have some great plan to get us out of here?
 CN PLACEHOLDER
-Но как? Ты что-то придумал?
+Но, как? Ты что-то придумал?
 
 少年「そ、それは……これから考えるさ……」%K%P
 Well that's... what I want to figure out...
 CN PLACEHOLDER
-Ну... я то хотя бы пытаюсь...
+Ну...я то хотя бы пытаюсь...
 
 優「ふぅ……」%K%P
 Hmmph...
 CN PLACEHOLDER
-Хм-м-м...
+Хаааа...
 
 少年「ぼくらは、生き残らなくちゃいけないんだよ」%K%P
 Listen, we have to survive.
@@ -301,7 +301,7 @@ CN PLACEHOLDER
 少年「そのなかで、最も大切だったことは……」%K%P
 But out of everything I've learned from you, the most important thing is...
 CN PLACEHOLDER
-Но из всего, чему я у тебя научился, самое важное...
+Но, из всего, чему я у тебя научился, самое важное...
 
 少年「生きること」%K%P
 How to live.
@@ -311,17 +311,17 @@ CN PLACEHOLDER
 少年「精一杯生きることを、ぼくは優から教わった」%K%P
 You have to live life to the fullest. That's what you've taught me.
 CN PLACEHOLDER
-Надо жить полной жизнью – вот чему ты меня научила.
+Надо жить полной жизнью - вот чему ты меня научила.
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「だからぼくは、きちんとそれを実践したいんだ」%K%P
 So I want to put that lesson into practice.
 CN PLACEHOLDER
-Поэтому я хочу воплотить этот урок в реальность.
+Поэтому, я хочу воплотить этот урок в реальность.
 
 少年「――生きよう！　最後まで」%K%P
 I want to live! To the fullest, to the end!
@@ -336,7 +336,7 @@ CN PLACEHOLDER
 優「ねえ、少年……」%K%P
 Listen, Kid...
 CN PLACEHOLDER
-Слушай, Малой...
+Слушай, Кид...
 
 少年「なに？」%K%P
 Yeah?
@@ -351,7 +351,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「生きることとは……」%K%P
 Well, living means...
@@ -361,17 +361,17 @@ CN PLACEHOLDER
 少年「知ること、だと思う」%K%P
 To learn and to know, I think.
 CN PLACEHOLDER
-Значит, наверное, учиться и познавать.
+Значит, наверно, учиться и познавать.
 
 無垢な赤ん坊が生まれて……知識を得て大人になって……やがて老いて忘れて、死んでいく。%K%P
 A child is born in innocence... gains knowledge through the years... only to forget it all when it is old... and dies.
 CN PLACEHOLDER
-Ребёнок... он как чистый лист... рождается невинным... с годами познаёт мир... чтобы в старости впасть в забытье... и умереть.
+Ребёнок...он как чистый лист...рождается невинным...с годами познаёт мир...чтобы в старости впасть в забытье...и умереть.
 
 ぼくのこの７日間の人生も、また、『知ること』に尽きていたと思う。%K%P
 Over the previous seven days, my life had been filled with things that I had learned.
 CN PLACEHOLDER
-За прошедшие семь дней моя жизнь наполнилась тем, что я познал.
+За прошедшие семь дней, моя жизнь наполнилась тем, что я познал.
 
 記憶のない、真っさらな状態から始まった人生。%K%P
 From amnesia and emptiness, my life began.
@@ -386,22 +386,22 @@ CN PLACEHOLDER
 少年「そして、生きることとは……失っていくことであるようにも思える」%K%P
 I also think that to live means... to lose something.
 CN PLACEHOLDER
-А ещё, жить – значит... терять.
+А ещё, жить - значит...терять.
 
 何かを得るためには、何かを無くしているはずなのだ。%K%P
 They said, “Nothing ventured, nothing gained”, but to gain something, you had to lose something.
 CN PLACEHOLDER
-Чтобы что-то получить, нужно что-то потерять.
+Говорят 'кто не рискует, тот не пьёт шампанского', но, чтобы выпить, за него придётся платить.
 
 ぼくが過去を、記憶を失ったように。%K%P
 Like me losing the past by losing my memory.
 CN PLACEHOLDER
-Как и я... потерял своё прошлое с собственной памятью.
+Как и я...избавился от прошлого ценой собственной памяти.
 
 もちろん、それで得たものとは……。%K%P
 Even though I had lost much... I had also gained...
 CN PLACEHOLDER
-Пусть я много потерял... но и приобрёл не меньше...
+Пусть я много потерял...но и приобрёл не меньше...
 
 優「知ること？　失っていくこと？」%K%P
 Living means... to learn? And to lose something?
@@ -411,12 +411,12 @@ CN PLACEHOLDER
 優「ねえ、それってつまり、傷ついていくってこと？」%K%P
 So you're saying that we live only to get hurt?
 CN PLACEHOLDER
-То есть, исходя из твоих слов, жить – значит терпеть боль?
+То есть, исходя из твоих слов, жить - значит терпеть боль?
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「そうかもしれない」%K%P
 Maybe. I don't know.
@@ -431,7 +431,7 @@ CN PLACEHOLDER
 優「生きることが、傷つくことだというのなら……」%K%P
 If living means to be hurt...
 CN PLACEHOLDER
-Если жить – значит страдать...
+Если жить - значит страдать...
 
 優「もう充分……」%K%P
 Then I've had enough...
@@ -446,7 +446,7 @@ CN PLACEHOLDER
 優「充分、生きたんだよ……だから……」%K%P
 And I've had enough of life... so...
 CN PLACEHOLDER
-Хватит с меня жизни... поэтому...
+Хватит с меня жизни...поэтому...
 
 少年「ちょ、ちょっと待ってよ！」%K%P
 W-Wait a second!
@@ -456,22 +456,22 @@ CN PLACEHOLDER
 少年「まさか、優……！」%K%P
 What are you trying to say, You...!?
 CN PLACEHOLDER
-Ю, что ты пытаешься сказать?!
+Ю, что ты пытаешься сказать...!?
 
 少年「死にたい、なんて言うつもりじゃないだろうね……？」%K%P
 You're not saying you want to die...?
 CN PLACEHOLDER
-Ты же не говоришь, что хочешь умереть?..
+Ты же не говоришь, что хочешь умереть...?
 
 優「……………………」%K%P
 ............
 CN PLACEHOLDER
-...
+............
 
 少年「……………………」%K%P
 ............
 CN PLACEHOLDER
-...
+............
 
 少年「ふっ、ふざけるなよ！　なんだよ、それはっ！」%K%P
 You can't be serious! What the hell's that all about!?
@@ -491,22 +491,22 @@ CN PLACEHOLDER
 優「……………………」%K%P
 ..........
 CN PLACEHOLDER
-...
+..........
 
 少年「なんなんだよ……」%K%P
 Come on, what gives...?
 CN PLACEHOLDER
-Ну же, что случилось?..
+Ну же, что случилось...?
 
 少年「いったい、どうしたんだよ……」%K%P
 What came over you all of a sudden...?
 CN PLACEHOLDER
-Что ни с того ни с сего на тебя нашло?..
+Что ни с того ни с сего на тебя нашло...?
 
 少年「生まれてきたことの意味を、なんだと思ってるんだよ……！」%K%P
 Why do you think you were born anyway...!?
 CN PLACEHOLDER
-Зачем ты тогда вообще на свет появилась?!
+Зачем ты тогда вообще на свет появилась...!?
 
 優「やめて……」%K%P
 Stop it...
@@ -516,7 +516,7 @@ CN PLACEHOLDER
 優「くだらないお説教なら、もうやめて……」%K%P
 Would you stop with the stupid two-bit sermon...
 CN PLACEHOLDER
-Прекращай уже эту свою бредовую проповедь...
+Может ты, наконец, заткнёшь эту бредовую проповедь...?!
 
 少年「くだらないのは、そっちじゃないか！」%K%P
 No, it's you who's talking stupid...
@@ -541,12 +541,12 @@ CN PLACEHOLDER
 優「でも私は……私を産んでくれたお母さんは、もういないんだよ？」%K%P
 All this time, the mother who I thought brought me into this world... She's gone.
 CN PLACEHOLDER
-Мамы, которая, как я думала, родила меня на свет... уже давно нет.
+Всё это время, мама, которая, как я думала, родила меня на свет...ею не была.
 
 少年「けれどあの人は、優を産んだのは自分だと言ってた」%K%P
 But that other lady said she was your real mother.
 CN PLACEHOLDER
-Но та девушка сказала, что она – твоя настоящая мама.
+Но, эта девушка сказала, что она - твоя настоящая мама.
 
 優「そんなの嘘に決まってる！」%K%P
 Well, she's obviously lying!
@@ -576,32 +576,32 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「優だって、わかってるはずだろ？」%K%P
 I mean, you do understand, don't you...?
 CN PLACEHOLDER
-То есть, ты ведь понимаешь, правда?..
+То есть, ты ведь понимаешь, правда...?
 
 少年「ちゃんと最後まで話を聞かない限り……結論は出せないんだよ」%K%P
 That until you hear her side of the story... you can't go jumping to conclusions.
 CN PLACEHOLDER
-Пока не услышишь её часть „правды“... ты не можешь делать выводы.
+Пока не услышишь её часть 'правды'...ты не можешь делать выводы.
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「優を大切に思ってくれてる人のためにも、優には精一杯生きて欲しいと、ぼくは思う」%K%P
 I think you should live the best life you can for all the people around you who care about you.
 CN PLACEHOLDER
-Я считаю, что ты должна жить полной жизнью ради родных и близких, ради тех, кому ты не безразлична.
+Я считаю, что ты должна жить полной жизнью, ради родных и близких, ради тех, кому ты не безразлична.
 
 少年「優のお母さんのためにも……沙羅や武達のためにも……」%K%P
 For your mother... and for Sara and Takeshi as well...
 CN PLACEHOLDER
-Ради твоей мамы... и ради Сары с Такэси...
+Ради твоей мамы...и ради Сары с Такеши...
 
 少年「ぼくのためにも……」%K%P
 And for me...
@@ -631,7 +631,7 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「ぼくにとっての優は……仲間であり、保護者であり、先生であり……」%K%P
 You, you're a friend, a guardian, a teacher...
@@ -651,7 +651,7 @@ CN PLACEHOLDER
 優「……………………」%K%P
 ......
 CN PLACEHOLDER
-...
+......
 
 サイフォンへ向かい、コーヒーをカップにふたつ注ぐ。%K%P
 I walked back to the coffee machine and poured two cups of coffee.
@@ -666,7 +666,7 @@ CN PLACEHOLDER
 少年「でも、ぼくはまだ足りないと思う」%K%P
 But I don't think it's enough.
 CN PLACEHOLDER
-Но мне так не кажется.
+Но, мне так не кажется.
 
 少年「なぜなら、まだ知らなくちゃいけないことがたくさんあるからだよ」%K%P
 Because I think there's still stuff you need to learn.
@@ -686,12 +686,12 @@ CN PLACEHOLDER
 少年「ところで優は、砂糖いくつだっけ？」%K%P
 By the way, how much sugar do you take?
 CN PLACEHOLDER
-Кстати, тебе сколько ложек сахара?
+Кстати, тебе сколько ложек сахару?
 
 優「あ、私は……」%K%P
 Ah, I...
 CN PLACEHOLDER
-А... я не!..
+А...я не...!
 
 ぼくは構わず、２杯の砂糖を入れた。%K%P
 Not listening, I added two spoonfuls.
@@ -701,12 +701,12 @@ CN PLACEHOLDER
 少年「なんとなく思ったんだけど……コーヒーに入れる砂糖って、何かに似てるね？」%K%P
 I was thinking... Don't you think sugar in coffee reminds you of something?
 CN PLACEHOLDER
-Я вот подумал... тебе не кажется, что сахар в кофе что-то напоминает?
+Я вот подумал...тебе не кажется, что сахар в кофе что-то напоминает?
 
 優「？？」%K%P
 ?
 CN PLACEHOLDER
-?
+??
 
 少年「そう、生きるために必要な、何かに」%K%P
 You know, something that life depends on.
@@ -716,7 +716,7 @@ CN PLACEHOLDER
 優「は、はぁ……？」%K%P
 Huh...?
 CN PLACEHOLDER
-А?..
+Эээ...?
 
 少年「わからない？」%K%P
 Do you have any idea?
@@ -731,12 +731,12 @@ CN PLACEHOLDER
 少年「なんだ……これでふたつ目だね？　優が知らなくちゃいけないこと」%K%P
 That's the second thing you don't know about.
 CN PLACEHOLDER
-Видишь... это уже второе. Ты многого не знаешь.
+Видишь...это уже второе. Ты многого не знаешь.
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「悔しくない？」%K%P
 Makes you want to know, doesn't it?
@@ -746,7 +746,7 @@ CN PLACEHOLDER
 優「少し、悔しい……かも」%K%P
 A little... I guess.
 CN PLACEHOLDER
-Наверное... слегка.
+Наверно...слегка.
 
 少年「じゃあ、生き残ることができたら、無事脱出できたら、教えてあげるよ」%K%P
 Well, if we get out of here alive, I'll tell you what it is.
@@ -781,12 +781,12 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ぼくの気持ち……。%K%P
 Were my feelings...
 CN PLACEHOLDER
-Может, она наконец...
+Может она наконец...
 
 ぼくの気持ちは、届いただろうか。%K%P
 ...Finally getting across to her?
@@ -796,7 +796,7 @@ CN PLACEHOLDER
 優「とっても……甘いね」%K%P
 It's... very sweet.
 CN PLACEHOLDER
-Он... очень сладкий.
+Он...очень сладкий.
 
 その笑顔は、雨上がりの空に浮かぶ太陽のように、穏やかで透き通っていた。%K%P
 She had a clear gentle smile, like the sun shining just after a rain.

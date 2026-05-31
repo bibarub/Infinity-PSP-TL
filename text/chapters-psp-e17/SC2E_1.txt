@@ -1,12 +1,12 @@
 ﻿突如、闇に包まれた。%K%P
 Suddenly, I was enveloped in darkness.
 CN PLACEHOLDER
-И вдруг меня окутала тьма.
+И вдруг, меня окутало темнотой.
 
 一条の光さえ射さぬ暗黒の世界に、蹴り飛ばされた空き缶の音が鳴り響く。%K%P
 Plunged into darkness without a ray of light, I heard the tinny sound of a can being kicked.
 CN PLACEHOLDER
-Я упал в беспросветную бездну, в которой звучит лишь металлический звук пнутой банки.
+Я упал в беспросветную бездну, в которой звучит лишь оловянный звук ударенной банки.
 
 音はぐわんぐわんと低くうなって皮膚の中へと沁み込み、全身を強く揺さぶった。%K%P
 The low sound felt as though it was penetrating my body, shaking me to my core.
@@ -16,7 +16,7 @@ CN PLACEHOLDER
 何か……硬い殻のようなものが、共鳴現象を起こして、自ら音を奏で始めた。%K%P
 Something... like an empty shell reverberating and echoing within itself.
 CN PLACEHOLDER
-Нечто... отражается и вибрирует, как в пустой оболочке.
+Нечто...отражается и вибрирует, как в пустой оболочке.
 
 音が静まる気配はない。%K%P
 There was no sign that the sound would stop.
@@ -26,7 +26,7 @@ CN PLACEHOLDER
 それどころか、ますます激しさを増して行くように思えた。%K%P
 Rather, it seemed to be getting stronger and stronger.
 CN PLACEHOLDER
-Наоборот, он становится всё сильнее и сильнее.
+Наоборот, он становится всё сильней и сильней.
 
 殻にひとすじの亀裂が走った。%K%P
 A crack ran down the outer husk.
@@ -36,7 +36,7 @@ CN PLACEHOLDER
 亀裂は網の目のように広がり、たちまち殻のすべてを覆い尽くしてしまった。%K%P
 It began to spread like the strands of a web and soon covered the entire shell.
 CN PLACEHOLDER
-Она, словно нити паутины... и вскоре целиком покрыла всю оболочку.
+Она, словно нити паутины...и вскоре целиком покрыла всю оболочку.
 
 カケラがこぼれ落ちる。%K%P
 Pieces began to fall away.
@@ -46,12 +46,12 @@ CN PLACEHOLDER
 ぽろぽろと……ぽろぽろと……。%K%P
 Dropping... to the floor...
 CN PLACEHOLDER
-Падая... на пол...
+Падая...на пол...
 
 剥落した殻の向こうに垣間見えたものは……やはり暗闇……。%K%P
 What I got a glimpse of through the fragmented shell... was darkness...
 CN PLACEHOLDER
-За треснувшей оболочкой я разглядел лишь... всё ту же непроглядную тьму...
+То, что я увидел через разбитую оболочку оказалось...ничто...
 
 闇の中にまぎれ込んでいた光の粒子が、互いに引き寄せられるように集束し始めた。%K%P
 The particles of light filling that darkness began to converge on each other.
@@ -101,7 +101,7 @@ CN PLACEHOLDER
 空「い、いいのでしょうか……？」%K%P
 Do... Do you think we should...?
 CN PLACEHOLDER
-Вы... считаете, что мы должны?..
+Вы...считаете, что мы должны...?
 
 みんなは口々に言いながら、蜘蛛の子を散らしたように逃げ去った。%K%P
 As everyone spoke, they scattered like baby spiders in the wind.
@@ -111,17 +111,17 @@ CN PLACEHOLDER
 会議室の中には、ぼくだけが取り残された……。%K%P
 I was the only one left in the conference room...
 CN PLACEHOLDER
-Лишь я один остался в Комнате переговоров...
+Лишь я один остался в Комнате Переговоров...
 
 少年「――えっ！？」%K%P
 Huh?
 CN PLACEHOLDER
-Стоп!
+Эээ?
 
 少年「『ぼく』！？」%K%P
 'Me'!?
 CN PLACEHOLDER
-„Я“?!
+'Я〜〜〜?!'
 
 背筋を冷たい戦慄が駆け抜けた。%K%P
 A chill shot up my back.
@@ -158,7 +158,7 @@ CN PLACEHOLDER
 『ぼくではないぼく』%K%P
 “A me that is not me”.
 CN PLACEHOLDER
-«Я, который не я.»
+'Я, который не я.'
 
 『ぼくではないぼく』って……誰……？%K%P
 “A me that is not me”. Who... could... that be?
@@ -178,7 +178,7 @@ CN PLACEHOLDER
 けれどとにかく、ふわふわと宙に浮かんでいるような感覚に、ぼくは囚われていた。%K%P
 But for some reason, I was consumed by the feeling that I was floating in space.
 CN PLACEHOLDER
-Но по какой-то причине кажется, будто я парю в пространстве.
+Но, по какой-то причине кажется, будто я парю в пространстве.
 
 その感覚は同時に、底なしの恐怖をもはらんでいる。%K%P
 A feeling that was accompanied with a limitless terror.
@@ -188,7 +188,7 @@ CN PLACEHOLDER
 訳がわからないうちに、気がつくと、いつの間にか見知らぬ異世界へと放り込まれていて……。%K%P
 It was like I had been transported into some unknown world before I even realized it...
 CN PLACEHOLDER
-Словно меня перенесло в неизвестный мир прежде, чем я вообще успел это осознать...
+Словно меня перенесло в неизвестный мир прежде, чем я вообще успел это осознать....
 
 ……そんな感じだった。%K%P
 ...That was how I felt.
@@ -223,7 +223,7 @@ CN PLACEHOLDER
 そして、武を含めて他のみんなが逃げ出して行ったことを考えれば、鬼になっているのはこのぼくであるということがわかる。%K%P
 And thinking back on the fact that Takeshi and everyone had run away, it seemed clear that I was “it”.
 CN PLACEHOLDER
-И если Такэси убежал вместе со всеми остальными, значит, сейчас вожу я.
+И, если Такеши убежал вместе со всеми остальными, значит сейчас вожу я.
 
 いや、待て待て……。%K%P
 No, wait...
@@ -233,12 +233,12 @@ CN PLACEHOLDER
 今はヤミオニのことなんか、どうでもいいんじゃないのか？%K%P
 All I could think was, “Who cared about the game now?”
 CN PLACEHOLDER
-Всё, что приходит мне на ум, так это «о какой ещё игре вообще сейчас может идти речь»?
+Всё, что приходит мне на ум, так это 'о какой ещё игре вообще сейчас может идти речь'?
 
 そんなことよりも、この奇妙な感覚の原因を探る方が先なんじゃ……？%K%P
 I thought it was more important to find out the cause of that strange feeling.
 CN PLACEHOLDER
-Я думаю, что гораздо важнее понять причину этого странного чувства.
+Я думаю, что гораздо важней понять причину этого странного чувства.
 
 そもそも、ぼくはどうしてこんなところにいるんだろう？%K%P
 I wondered why I was there in the first place.
@@ -253,12 +253,12 @@ CN PLACEHOLDER
 そんな疑問を抱きつつも、一方では『ぼくがここにいることは当然である』と思っている自分もいた。%K%P
 While I had questions, there was a part of me that felt it made total sense for me to be there.
 CN PLACEHOLDER
-Пока в моей голове бушует море вопросов, какая-то другая часть меня считает, что всё, что здесь происходит, абсолютно логично... Что я на своём месте.
+Пока в моей голове бушует море из вопросов, какая-то другая часть меня считает, что всё, что здесь происходит, абсолютно логично... Что я на своём месте.
 
 少年「はぁ……ダメだ……」%K%P
 *Sigh*... This is bad...
 CN PLACEHOLDER
-*вздох* ...Нехорошо...
+*вздох* ...это плохо...
 
 少年「何が何だかさっぱりわからないや……」%K%P
 I have no idea what the deal is with anything...
@@ -288,7 +288,7 @@ CN PLACEHOLDER
 会議室を出て、捜索を開始する。%K%P
 I left the conference room and started my search.
 CN PLACEHOLDER
-Я вышел из Комнаты переговоров и начал свои поиски.
+Я вышел из Комнаты Переговоров и начал свои поиски.
 
 不思議なことに、時間が経つにつれ、現在のこの状況に対する疑問や違和感は、次第に薄れていった。%K%P
 Strangely, my doubts and sense of unease lessened with time.
@@ -308,12 +308,12 @@ CN PLACEHOLDER
 優、武、空、沙羅、つぐみ……全員を見つけ出すのに、たいして時間はかからなかった。%K%P
 You, Takeshi, Sora, Sara, Tsugumi... It didn't take me long to find all of them.
 CN PLACEHOLDER
-Ю, Такэси, Сора, Сара, Цугуми... долго искать не пришлось.
+Ю, Такеши, Сора, Сара, Цугуми...долго искать не пришлось.
 
 やがて会議室に集まったみんなは、ぼくを取り囲んで、こんな話を始めた。%K%P
 Once we were all gathered back in the conference room, we started to talk.
 CN PLACEHOLDER
-Как только мы снова собрались в Комнате переговоров, то произошёл диалог следующего содержания...
+Как только мы снова собрались в Комнате Переговоров, то произошёл диалог следующего содержания...
 
 武「それにしても、瞬殺だったな」%K%P
 Geez. He slaughtered us.
@@ -323,7 +323,7 @@ CN PLACEHOLDER
 空「倉成さんの、半分以下の時間でしたね」%K%P
 That was twice as fast as Kuranari-san.
 CN PLACEHOLDER
-Получилось вдвое быстрее, чем у Куранари-сана.
+Получилось вдвое быстрей, чем у Куранари-сана.
 
 優「でも、こんなに暗いのに、ドンピシャで名前当てまくるなんて、すっごい勘だよねぇ」%K%P
 Wow. I can't believe you guessed everybody right in the dark. It's pretty amazing.
@@ -333,7 +333,7 @@ CN PLACEHOLDER
 沙羅「あの、先輩……どういうことですか？」%K%P
 Senpai... What are you talking about?
 CN PLACEHOLDER
-Сэмпай... о чём это ты?
+Няку...о чём это ты?
 
 優「あ、マヨは知らないのか。この子ね……」%K%P
 Oh, Mayo, you don't know? This kid...
@@ -348,12 +348,12 @@ CN PLACEHOLDER
 隣で武ががなり立てていたので、優の声は耳に届かなかった。%K%P
 Takeshi was making a fuss next to me, so I couldn't hear what she said.
 CN PLACEHOLDER
-Такэси суетится и шумит рядом со мной, поэтому я не расслышал, что она сказала.
+Такеши суетится и шумит рядом со мной, поэтому я не расслышал, что она сказала.
 
 武「おい、つぐみ！　いい加減、白状したらどうだ？　お前も、こっそり参加してたんだろ？」%K%P
 Hey, Tsugumi! Give it up. Why don't you just come out and admit you were playing too?
 CN PLACEHOLDER
-Эй, Цугуми! Да хватит уже. Может, всё-таки выйдешь и признаешься, что тоже играла?
+Эй, Цугуми! Да хватит уже. Может всё-таки выйдешь и признаешься, что тоже играла?
 
 つぐみ「私は、参加なんてしていない」%K%P
 I'm not playing.
@@ -398,12 +398,12 @@ CN PLACEHOLDER
 つぐみはまたしても行方不明に……。空は眠る必要がないから、残りは４名。%K%P
 Tsugumi was missing and Sora didn't need sleep, so there were exactly four of us.
 CN PLACEHOLDER
-Цугуми снова куда-то делась, Сора никогда не спит, поэтому получилось ровно четыре человека.
+Цугуми СМЫЛАСЬ БЕЗ ПРЕДУПРЕЖДЕНИЯ, Сора никогда не спит, поэтому получилось ровно четверо человек.
 
 武は、危険だという理由で、ただそれだけの理由で、加減圧室に隔離された。（ある意味、捕獲だ）%K%P
 Takeshi had been relegated to the compression chamber as a potential danger to the women.
 CN PLACEHOLDER
-Такэси отослали в барокамеру как потенциально опасного сексуального домогателя.
+Такеши отослали в барокамеру, как потенциально опасного сексуального домогателя.
 
 優と沙羅は、かよわい女の子だという理由で、ただそれだけの理由で、ふたつのベッドを占領した。%K%P
 You and Sara had said that they would take the two beds since they were vulnerable young women.
@@ -413,7 +413,7 @@ CN PLACEHOLDER
 ぼくは今……かた〜い診療台の上に横たわっている。%K%P
 So I... got stuck on the hard examination table.
 CN PLACEHOLDER
-Поэтому я... лёг на жёсткий медицинский стол.
+Поэтому я...лёг на жёсткий медицинский стол.
 
 さて……。%K%P
 Then...
@@ -438,7 +438,7 @@ CN PLACEHOLDER
 今日は５月２日――。%K%P
 The date was May 2nd.
 CN PLACEHOLDER
-Сегодня 2 мая.
+Сегодня 2 Мая.
 
 このＬｅＭＵに閉じ込められてから２日目――。%K%P
 It was the second day we had been trapped in LeMU.
@@ -458,7 +458,7 @@ CN PLACEHOLDER
 昨日、５月１日――。%K%N
 On May 1st...
 CN PLACEHOLDER
-1 мая...
+1 Мая...
 
 %N
 
@@ -470,12 +470,12 @@ CN PLACEHOLDER
 名前も年齢も住所も、ここに来た理由も%N思い出せなかった。%K%N
 I didn't know my name, age, address, or even why I was there.
 CN PLACEHOLDER
-Я не знаю ни собственноого имени, ни возраста, ни адреса. Даже зачем я сюда пришёл не знаю.
+Я не знаю ни собственное имя, ни возраст, ни адрес. Даже зачем я сюда пришёл не знаю.
 
 そんなぼくの心を癒してくれたのが優だった。%K%O
 The person who had looked after me had been You.
 CN PLACEHOLDER
-Человек, что заботился обо мне всё это время – Ю.
+Человек, что заботился обо мне всё это время - Ю.
 
 ＬｅＭＵに閉じ込められたぼくと優は、出口を求め、%N館内をさまよい歩いた。%K%N
 Trapped in LeMU, You and I had wandered through the complex, searching for an exit.
@@ -505,32 +505,32 @@ CN PLACEHOLDER
 沙羅「――えっ！？」%K%P
 Eh!?
 CN PLACEHOLDER
-Э-э...
+Ээ...
 
 少年「やっぱり、いたの？」%K%P
 So there was somebody?
 CN PLACEHOLDER
-Значит, там был кто-то ещё?
+Значит там был кто-то ещё?
 
 沙羅「い、いないよ……いない……けど……」%K%P
 N-No... There wasn't, but...
 CN PLACEHOLDER
-Н-нет... больше никого, но...
+Н-нет...больше никого, но...
 
 少年「けど……？」%K%P
 But...?
 CN PLACEHOLDER
-Но?..
+Но...?
 
 沙羅「どうして……？」%K%P
 Why...?
 CN PLACEHOLDER
-Почему?..
+Почему...?
 
 沙羅「……どうして……知ってるの？」%K%P
 ...How... How do you know?
 CN PLACEHOLDER
-...Откуда... ты знаешь?
+...Откуда...откуда ты знаешь?
 
 沙羅「私の……」%K%P
 My...
@@ -540,7 +540,7 @@ CN PLACEHOLDER
 沙羅「私の……名前……」%K%P
 My... name...
 CN PLACEHOLDER
-Моё... имя...
+Моё...имя...
 
 優「あれっ？　そう言えばまだ、きみにマヨの本名教えてなかったよねぇ……」%K%P
 What? Oh, that's right. We haven't told you Mayo's real name...
@@ -570,22 +570,22 @@ CN PLACEHOLDER
 激しく問い詰められたが、答えようがなかった。%K%P
 She grilled me about how I knew, but I had no answer.
 CN PLACEHOLDER
-Она тормошила меня, пытаясь понять, откуда мне это известно. Но у меня просто не было ответа.
+Она тормошила меня, пытаясь понять, откуда мне это известно. Но, у меня просто не было ответа.
 
 ぼくは、彼女の名前が『松永沙羅』であるということを知っていた。%K%P
 Still, I knew her name was “Matsunaga Sara”.
 CN PLACEHOLDER
-И всё же я знаю, что её зовут Мацунага Сара.
+И всё же, я знаю, что её зовут Мацунага Сара.
 
 知っていたにもかかわらず、なぜ知っていたのかはわからなかった。%K%P
 Even though I knew it, I still didn't know how I knew it.
 CN PLACEHOLDER
-Но, несмотря на то, что знаю, не могу понять, откуда.
+Но, несмотря на то что знаю, не могу понять, откуда я это знаю.
 
 『沙羅』という言葉は、無意識のうちに、口からこぼれ出したものだった。%K%P
 The word “Sara” just unconsciously popped out of my mouth.
 CN PLACEHOLDER
-«Сара» просто бессознательно вырвалось из моих уст.
+Слово 'Сара' просто бессознательно вырвалось из моих уст.
 
 その後……。%K%N
 After that...
@@ -595,27 +595,27 @@ CN PLACEHOLDER
 つぐみ、空、武と合流したぼくらは、%N脱出方法を模索し始めた。%K%N
 I met with Tsugumi, Sora, and Takeshi to contemplate escape routes.
 CN PLACEHOLDER
-Я встретил Цугуми, Сору и Такэси... Мы вместе обдумывали план спасения.
+Я встретил Цугуми, Сору и Такеши...мы вместе обдумывали план спасения.
 
 そんな中、レミの生体反応検出装置が、異常な数値を示していることに、ぼくらは気づいた。%K%N
 We noticed that LeMMIH's bio scan was displaying bizarre numbers for the number of people in LeMU.
 CN PLACEHOLDER
-Затем мы увидели, как биосканер LeMMIH показывает странные числа, идущие в расхождение с общим числом присутствующих в LeMU людей.
+Затем мы увидели, как биосканер ЛеММИХ показывает странные числа, идущие в расхождение с общим числом присутствующих в LeMU людей.
 
 そこで、ぼくはまたしても、沙羅のときと同じような%N現象を体験することになってしまったのだった。%K%O
 I had another experience similar to the one with Sara.
 CN PLACEHOLDER
-И тогда у меня случился ещё один «приступ обострения памяти», как и с Сарой.
+И тогда у меня случился ещё один 'приступ обострения памяти', как и с Сарой.
 
 少年「でも、ちょっと待ってよ！　絶対変だって！」%K%P
 Wait! That's not right! There's something strange about it!
 CN PLACEHOLDER
-Погодите! Что-то не так! Что-то определённо не так!
+Стоп! Это не правильно! Это определённо не то!
 
 少年「逃げ遅れた人の数は、合計で――５人なんだ！」%K%P
 There are only five people that didn't escape in time!
 CN PLACEHOLDER
-Здесь всего пять человек, что не успели эвакуироваться!
+Здесь всего пятеро людей, что не были вовремя эвакуированы!
 
 少年「なのに、生体反応の数字は『６』を指して止まってる！」%K%P
 But the bio scan is showing six.
@@ -625,12 +625,12 @@ CN PLACEHOLDER
 沙羅「え？　なんで合計で……５人なの？」%K%P
 Huh? Why do you say there are five people?
 CN PLACEHOLDER
-Э-э? Почему ты говоришь, что здесь пять человек?
+Хм? Почему ты говоришь, что здесь пятеро людей?
 
 沙羅「空・つぐみ・武・少年・なっきゅ先輩……それから私」%K%P
 Sora, Tsugumi, Takeshi, the Kid, Nakkyu-senpai... and me.
 CN PLACEHOLDER
-Сора, Цугуми, Такэси, ты, Няку-сэмпай... и я.
+Сора, Цугуми, Такеши, ты, Няку...и я.
 
 沙羅「６人じゃん」%K%P
 That's six.
@@ -640,7 +640,7 @@ CN PLACEHOLDER
 少年「違うんだよ、沙羅……そうじゃないんだ……」%K%P
 No. Sara... that's wrong...
 CN PLACEHOLDER
-Нет. Сара... это не так...
+Нет. Сара...это не так...
 
 少年「だって空は……」%K%P
 The thing is, Sora is...
@@ -660,17 +660,17 @@ CN PLACEHOLDER
 沙羅「ここに、いない……？」%K%P
 She's not here...?
 CN PLACEHOLDER
-Её здесь нет?..
+Её здесь нет...?
 
 武「ど、どういうことなんだ？　少年」%K%P
 What're you talking about, Kid?
 CN PLACEHOLDER
-Что ты пытаешься сказать, Малой?
+Что ты пытаешься сказать, Кид?
 
 少年「空は……ＲＳＤなんだよ」%K%P
 Sora is... an RSD-generated image.
 CN PLACEHOLDER
-Сора... это лазерное RSD-изображение.
+Сора...это лазерное RSD-изображение.
 
 沙羅「は、はい！？」%K%P
 Wh-What!?
@@ -680,7 +680,7 @@ CN PLACEHOLDER
 武「ＲＳＤ！？」%K%P
 RSD!?
 CN PLACEHOLDER
-RSD?!
+RSD!?
 
 少年「半導体レーザーを使って、人間の網膜に直接画像を照射するシステムのこと」%K%P
 It's a system that uses semiconductor lasers to project an image directly onto a person's retina.
@@ -690,17 +690,17 @@ CN PLACEHOLDER
 少年「つまり、ぼくらが見てる空の姿は、幻像のようなものなんだ」%K%P
 In other words, the Sora that we're seeing is just an image.
 CN PLACEHOLDER
-Другими словами, Сора, которую мы видим – лишь изображение.
+Другими словами, Сора, которую мы видим, лишь изображение.
 
 沙羅と武はぽかーんと口を開けながら、まばたきを何度も繰り返していた。%K%P
 Sara and Takeshi's jaws dropped, and they blinked again and again.
 CN PLACEHOLDER
-У Сары и Такэси от удивления отвисли челюсти и задёргались глаза.
+У Сары и Такеши от удивления отвисли челюсти и задёргались глаза.
 
 ＬｅＭＵの係員である優は、この事実を最初から知っていたのだろう。驚く素振りも見せずに、視線を遠くに向けていた。%K%P
 Being an employee of LeMU, I figured that You had known that from the start. She didn't look surprised, but just gazed off into the distance.
 CN PLACEHOLDER
-Раз Ю работает в LeMU, я понял, что она знала обо всём с самого начала. Она не выказывает удивления – лишь стыдливо смотрит куда-то в сторону.
+Раз Ю работает в LeMU, я понял, что она знала обо всём с самого начала, и не выказывала удивления - лишь стыдливо смотрела куда-то в сторону.
 
 そして、空は……%K%P
 As for Sora...
@@ -710,7 +710,7 @@ CN PLACEHOLDER
 空「はい、今少年さんがおっしゃった通りです」%K%P
 Yes. It is exactly as Kid-san states.
 CN PLACEHOLDER
-Да. Всё именно так, как утверждает Малой-сан.
+Да. Всё именно так, как утверждает Кид-сан.
 
 空「私は肉体を持っていません」%K%P
 I am not flesh and blood.
@@ -720,7 +720,7 @@ CN PLACEHOLDER
 空「実体の無い……ただの幻影です」%K%P
 I have no form... I am merely an image.
 CN PLACEHOLDER
-У меня нет формы... я всего лишь изображение.
+У меня нет формы...я всего лишь изображение.
 
 空「この思考や人格も、すべてＡＩプログラムによって司られています」%K%P
 My thoughts and personality are all controlled by an AI program.
@@ -735,7 +735,7 @@ CN PLACEHOLDER
 けれど、これは驚くべきことなのだ。%K%P
 But the whole situation was staggering.
 CN PLACEHOLDER
-Но сама ситуация выбила меня из колеи.
+Но, сама ситуация оказалась неустойчивой.
 
 なぜならぼくは、空の姿がＲＳＤだという事実を、それ以前に誰からも聞かされてはいなかったのだから……。%K%P
 Because no one had told me the fact that Sora was an RSD-generated image...
@@ -745,14 +745,14 @@ CN PLACEHOLDER
 度重なる不可解な現象――予知。%K%N
 They were inexplicable, recurring phenomena... Premonitions.
 CN PLACEHOLDER
-Это были необъяснимые, спонтанные явления... Что-то вроде предчувствий.
+Это были необъяснимые, спонтанные проявления... интуиции что ли.
 
 %N
 
 それに加えて、やがてぼくは、さらに信じがたい光景を目の当たりにすることになった。%K%O
 And there was an even more unbelievable scene that I had stumbled upon.
 CN PLACEHOLDER
-Но если бы это было всё... я столкнулся с ещё одной невероятной картиной.
+Но, если бы это было всё...я столкнулся с ещё одной невероятной картиной.
 
 医療用加減圧室の中で遭遇した、あの幻の少女のことだ。%K%P
 In the medical compression chamber, I met with a ghost-like young girl.
@@ -762,12 +762,12 @@ CN PLACEHOLDER
 少年「だ、大丈夫だよ……」%K%P
 It's... al-alright...
 CN PLACEHOLDER
-Всё... в по-порядке...
+Всё..в по-порядке...
 
 少年「心配しなくても……大丈夫だから……」%K%P
 Don't worry... Everything is alright...
 CN PLACEHOLDER
-Не бойся... всё в порядке...
+Не бойся...всё в порядке...
 
 少年「とにかく、みんなのとこに行こう！」%K%P
 Anyway, let's go to where everybody else is!
@@ -792,17 +792,17 @@ CN PLACEHOLDER
 少女「助けに……来てくれたの？」%K%P
 Help...? Did you come to help?
 CN PLACEHOLDER
-Помочь?.. Ты пришёл помочь?
+Помочь?...Ты пришёл помочь?
 
 少年「う、うん……そうだよ」%K%P
 Y-Yeah... That's right.
 CN PLACEHOLDER
-Д-да... правда.
+Д-да...правда.
 
 少女「でも……きっと無理だよ……」%K%P
 But... it's probably impossible...
 CN PLACEHOLDER
-Но... это, наверное, невозможно...
+Но...это наверно невозможно...
 
 少年「えっ？」%K%P
 Huh?
@@ -812,7 +812,7 @@ CN PLACEHOLDER
 少女「もうどこにも……出られないんだ……」%K%P
 There is... no way out anymore...
 CN PLACEHOLDER
-Отсюда... уже нет выхода...
+Отсюда...уже нет выхода...
 
 ぼくはとっさにこう言った。%K%P
 Then I suddenly said...
@@ -827,7 +827,7 @@ CN PLACEHOLDER
 少女「……えっ？　……どこに？」%K%P
 ...Uh... Where?
 CN PLACEHOLDER
-...Э-э... куда?
+...Ээ...куда?
 
 少年「どこでもいいから、とにかくここを出るんだ」%K%P
 Anywhere. Let's just get out of here.
@@ -837,12 +837,12 @@ CN PLACEHOLDER
 少女「どうして……？」%K%P
 Why...?
 CN PLACEHOLDER
-Зачем?..
+Зачем...?
 
 少年「だってこの中にいたら、きっとココは……」%K%P
 Because if we stay here, Coco, then we'll probably...
 CN PLACEHOLDER
-Коко, потому что, если мы останемся здесь...
+Коко, потому что если мы останемся здесь...
 
 はっ！　と息を呑む。%K%P
 I sucked in my breath.
@@ -857,7 +857,7 @@ CN PLACEHOLDER
 理由はわからなかったが、ぼくは彼女の名前を知っていたのだ。%K%P
 I didn't know why, but I knew her name.
 CN PLACEHOLDER
-И вот опять – я знаю, как её зовут!
+Я знал, знал! Я знал, как её зовут.
 
 『八神ココ』――。%K%P
 “Yagami Coco”.
@@ -877,7 +877,7 @@ CN PLACEHOLDER
 ココに再会することになったのは、翌日……%Nつまり今日の午前中のことだった。%K%N
 I met with her again the next day... In other words, only a few hours prior to thinking about it like I was.
 CN PLACEHOLDER
-Я снова увидел её следующим днём – то есть за несколько часов до того, как стал размышлять обо всём этом.
+Я снова увидел её следующим днём - то есть, за несколько часов до того, как стал размышлять обо всём этом.
 
 突然の停電に見舞われたぼくらは、%N発電機の修理に向かった。%K%O
 After the sudden blackout, we went to fix the generator.
@@ -892,37 +892,37 @@ CN PLACEHOLDER
 ココ「長弓背負いし月の精」%V%P
 Moon sprite shouldering a long bow.
 CN PLACEHOLDER
-На спине богиня лунная носит лук и стрелы.
+Лунный луч-дорожка, водной глади дрожь.
 
 ココ「夢の中より待ちをりぬ」%V%P
 Waiting inside a dream.
 CN PLACEHOLDER
-И во сне скорее ждёт тебя – сказку рассказать.
+Ждёт, когда во сне ты тихо к ней придёшь.
 
 ココ「今宵やなぐゐ、月夜見囃子」%V%P
 Tonight, a story by moonlight.
 CN PLACEHOLDER
-А колчан со стрелами сказку ту сопроводит.
+Она тебе хочет сказку рассказать.
 
 ココ「早く来んかと待ちをりぬ」%V%P
 Hoping the wait will be short.
 CN PLACEHOLDER
-Торопись, богиня ждёт в сновидении.
+Только лишь не сможет слишком долго ждать.
 
 ココ「眠りたまふ、ぬくと丸みて」%V%P
 Sleeping curled and snug.
 CN PLACEHOLDER
-Засыпай скорей, и в тепле ты позабудь про страх.
+Спи малыш спокойно, позабудь про страх.
 
 ココ「眠りたまふ、母に抱かれて」%V%P
 Sleeping in mother's arms.
 CN PLACEHOLDER
-Засыпай скорей в нежных маминых руках.
+Засыпая в нежных маминых руках.
 
 なぜ、子守歌を口ずさんでいたのかはわからない。%K%P
 I didn't know why she was singing a lullaby.
 CN PLACEHOLDER
-Я не знаю, почему она пела эту песню... эту колыбельную.
+Я не знаю, почему она пела эту песню...эту колыбельную.
 
 そのことをぼくが尋ねる前に、ココの口が開いた。%K%P
 Before I could ask her, she started talking.
@@ -937,12 +937,12 @@ CN PLACEHOLDER
 ココ「きみが来るの……ずっと待ってたの……」%K%P
 I waited and waited... for you to come...
 CN PLACEHOLDER
-Я ждала и ждала... когда ты придёшь...
+Я ждала и ждала...когда ты придёшь...
 
 ココ「月の精みたいに……ひとりぼっちで……」%K%P
 I was waiting... all alone like a moon sprite...
 CN PLACEHOLDER
-Я ждала... одна-одинёшенька, как лунная богиня...
+Я ждала...одна одинёшенька, как лунный луч-дорожка...
 
 少年「だ、だったら、ぼくらのところに来ればよかったじゃないか……」%K%P
 Th-Then you should have come to me...
@@ -957,12 +957,12 @@ CN PLACEHOLDER
 ココ「それは……無理なんだ……」%K%P
 That's... impossible...
 CN PLACEHOLDER
-Это... невозможно...
+Это...невозможно...
 
 少年「どうして……？」%K%P
 Why...?
 CN PLACEHOLDER
-Почему?..
+Почему...?
 
 ココ「きみが、連れて行ってくれないからだよ……」%K%P
 Because you wouldn't take me with you...
@@ -1017,12 +1017,12 @@ CN PLACEHOLDER
 やがて夜が訪れ、%Nぼくらはヤミオニをすることに……。%K%N
 Then night came, and we decided to play kick the can in the dark.
 CN PLACEHOLDER
-А затем, ночью того же дня, мы решили поиграть в салки-прятки... в темноте.
+А затем, ночью того же дня мы решили поиграть в салки-прятки...в темноте.
 
 武が鬼になり、何度かそれを繰り返した後、いつしかぼくが鬼をするはめになってしまい……。%K%N
 Takeshi was “it” again and again, but finally, my turn came.
 CN PLACEHOLDER
-Поначалу Такэси не везло, так как роль водящего постоянно доставалась ему, но потом настал мой черёд.
+По-началу Такеши не везло, так как роль водящего постоянно доставалась ему, но потом настал мой черёд.
 
 闇の中で次々とみんなを見つけ出していったんだけど……。%K%O
 I had found everyone, one after another, in the dark...
@@ -1032,7 +1032,7 @@ CN PLACEHOLDER
 最後、つぐみだけを残したところで、空き缶を蹴り%N飛ばす音が会議室の中に響き渡り……。%K%N
 When only Tsugumi was left, the sound of the can being kicked rang throughout the conference room...
 CN PLACEHOLDER
-Когда оставалось лишь найти Цугуми, звук ударенной банки прогремел через Комнату переговоров...
+Когда оставалось лишь найти Цугуми, звук ударенной банки прогремел через Комнату Переговоров...
 
 ぼくが、あの妙な違和感を覚えたのは、%Nその瞬間だったと思う。%K%O
 And, just that moment, I had felt that something was not right.
@@ -1042,17 +1042,17 @@ CN PLACEHOLDER
 少年「ああ、それにしても、たったの２日間だって言うのに、いろんなことがあったよなぁ……」%K%P
 It's only been two days, and so much has happened...
 CN PLACEHOLDER
-Но прошло всего-то два дня, а случилось столько всего...
+Но, прошло всего-то два дня, а случилось столько всего...
 
 少年「こんなところに閉じ込められただけでも、異常事態だって言うのに……」%K%P
 Just being trapped here is an unusual state of affairs...
 CN PLACEHOLDER
-Хотя сам факт того, что я замурован в таком необычном месте, уже из ряда вон...
+Хотя, сам факт того, что я замурован в таком необычном месте, уже из ряда вон...
 
 予知のこと……幻の少女のこと……。%K%P
 The premonitions... and the ghost-like girl...
 CN PLACEHOLDER
-Предчувствия... и девочка-призрак...
+Предчувствия...и девочка-призрак...
 
 それからそれから……。%K%P
 And besides that...
@@ -1062,12 +1062,12 @@ CN PLACEHOLDER
 優の父親は行方不明だって言うし、つぐみはなんでか知らないけど無愛想だし、空の姿はＲＳＤだったりするし、沙羅は……。%K%P
 You's father had gone missing, Tsugumi... well, she was just plain rude, Sora was only an image, and Sara...
 CN PLACEHOLDER
-Пропавший без вести отец Ю, а Цугуми... Ну, она обычная грубиянка. Сора всего лишь изображение, а Сара...
+Пропавший без вести отец Ю, а Цугуми---ну, она обычная грубиянка---Сора всего лишь изображение, а Сара...
 
 沙羅は……えーっと……なんだろう？%K%P
 Sara... Well... What was with Sara?
 CN PLACEHOLDER
-Сара... ну... а что такого с Сарой?
+Сара...ну...а что такого с Сарой?
 
 何かが、胸に突っかかっていた。%K%P
 Something about her stuck in my mind.
@@ -1077,7 +1077,7 @@ CN PLACEHOLDER
 でも……まあ、いいや。%K%P
 But... Oh, whatever.
 CN PLACEHOLDER
-Но... ой, ладно.
+Но...ой, ладно.
 
 とにかく、この２日の間に起こった出来事は、あまりにもめまぐるしかった。%K%P
 Anyway, the events of the previous two days had been like a roller coaster.
@@ -1087,12 +1087,12 @@ CN PLACEHOLDER
 いろんなことがあり過ぎだった……。%K%P
 Just too many things had happened...
 CN PLACEHOLDER
-Просто... случилось столько всего...
+Просто...случилось столько всего...
 
 水車は、川の流れが速ければ速いほどよくまわるが、ひとたび洪水に曝されれば、その動きを止めてしまうと言う。%K%P
 It was like they said about water mills—they worked best in a fast stream but stopped when there was a flood.
 CN PLACEHOLDER
-Словно речь идёт о водяных мельницах – они работают лучше всего, когда течёт быстрый ручеёк, но останавливаются, когда начинается потоп.
+Словно речь идёт о водяных мельницах - они работают лучше всего, когда течёт быстрый ручеёк, но останавливаются, когда начинается потоп.
 
 それと同じで、怒涛のごとく押し寄せて来る疑問難問の激流に、ぼくの思考は追いつくことができなかった。%K%P
 The way I felt was like that. I couldn't get my mind around the intense rush of events, doubts, and questions that had forced themselves on me.
@@ -1112,7 +1112,7 @@ CN PLACEHOLDER
 最も効果的な対応策を、ぼくの体はよ〜く心得ていた。%K%P
 My body knew what the best thing to do was.
 CN PLACEHOLDER
-Но похоже, тело лучше знает, что.
+Но, похоже, тело лучше знает, что.
 
 すなわち眠ること。脳を休ませること。%K%P
 Sleep. I needed to rest my mind.
@@ -1122,25 +1122,25 @@ CN PLACEHOLDER
 と思う間もなく、ぼくの意識は、暴力的な睡魔に襲われ、呑み込まれてしまった。%K%P
 Before I knew it, my consciousness was violently assaulted and dragged down by drowsiness.
 CN PLACEHOLDER
-Стоило подумать, как бессилие обстреляло меня крупными очередями и смело в сонное царство.
+С этой мыслью бессилие обстреляло меня крупными очередями и смело в сонное царство.
 
 ………………。%K%P
 .........
 CN PLACEHOLDER
-.........
+..........
 
 …………。%K%P
 ......
 CN PLACEHOLDER
-......
+.......
 
 ……。%K%P
 ...
 CN PLACEHOLDER
-...
+....
 
 けれど、まどろみを覚えたのはほんの束の間のことだった。%K%P
 But I was only briefly able to enjoy my visit.
 CN PLACEHOLDER
-Увы, это ощущение сна продлилось недолго.
+Но, похоже, я рано порадовался, что смогу поспать.
 

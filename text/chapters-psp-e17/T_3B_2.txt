@@ -1,7 +1,7 @@
 ﻿カルセル・デルフィーネに着いた。%K%P
 We reached the Dolphin Carousel.
 CN PLACEHOLDER
-Мы пришли к Дельфиньей карусели.
+Мы пришли к Дельфиньей Карусели.
 
 回転イルカは、じっと静寂の中にたたずんでいる。%K%P
 The circling dolphins stood still in the silence.
@@ -16,7 +16,7 @@ CN PLACEHOLDER
 空「ここ連日の賑わいが、まるで全部嘘だったように思えます」%K%P
 Sometimes, it seems that the everyday hubbub is all an empty lie...
 CN PLACEHOLDER
-Иногда кажется, что будничная суета, что этот шум-гам – всё пустая ложь...
+Иногда кажется, что будничная суета, что этот шум-гам - всё пустая ложь...
 
 空は小さく口にした。%K%P
 Sora spoke quietly.
@@ -36,7 +36,7 @@ CN PLACEHOLDER
 武「……そう、お客がいっぱいの頃から見て知ってたら、たぶん同じことを思うよ」%K%P
 ...Yeah, and if I'd seen it back in the days when it was full of people, I'd probably be thinking the same thing.
 CN PLACEHOLDER
-...точно, и если бы я видел его, когда здесь было полно народу, то наверняка думал точно так же.
+...точно, и если бы я видел его, когда здесь было полно народу, то наверняка думал точно также.
 
 武「空はいつから、ＬｅＭＵにいるんだ？」%K%P
 Sora, how long have you been here at LeMU?
@@ -81,17 +81,17 @@ CN PLACEHOLDER
 郷愁――だろうか。%K%P
 Could it be nostalgia?
 CN PLACEHOLDER
-Может, это ностальгия?
+Может это ностальгия?
 
 プログラムされた感情ではない気がした。%K%P
 It didn't seem like a programmed emotion.
 CN PLACEHOLDER
-Не похоже, чтобы это было запрограммировано.
+Оно вовсе не похоже на запрограммированную эмоцию.
 
 きっと彼女にとっての、大切な思い出がここにあるのだろう。%K%P
 She must have treasured her memories of that place.
 CN PLACEHOLDER
-Должно быть, она хранит воспоминания об этом месте, как маленькие сокровища.
+Должно быть она хранит воспоминания об этом месте, как маленькие сокровища.
 
 しばらく俺は空と一緒に、静かなイルカ達の姿をじっと眺めていた。%K%P
 We gazed at the figures of the silent dolphins for a while.
@@ -146,12 +146,12 @@ CN PLACEHOLDER
 武「……え？」%K%P
 ...Huh?
 CN PLACEHOLDER
-Э-э...
+Эээ...
 
 武「なんだって？」%K%P
 What...?
 CN PLACEHOLDER
-Чего?..
+Чего...?
 
 空「昨日のヤミオニ、とっても面白かったんです！」%K%P
 Kick the can was so much fun yesterday!
@@ -166,12 +166,12 @@ CN PLACEHOLDER
 武「鬼ごっこぉ？？」%K%P
 Tag?
 CN PLACEHOLDER
-Салки?!
+Салки!?
 
 『だから』鬼ごっこ……の意味がうまく飲み込めない。%K%P
 I couldn't quite grasp the connection.
 CN PLACEHOLDER
-А при чём тут вообще салки?!
+А причём тут вообще салки?!
 
 空「さぁ、倉成さん、私を――」%K%P
 Come on, Kuranari-san, you have to...
@@ -256,17 +256,17 @@ CN PLACEHOLDER
 武「ああ！　もう！　なんなんだ！！」%K%P
 Oh, come on! What IS this!?
 CN PLACEHOLDER
-Ой, перестань! Что ЭТО такое?!
+Ой, перестань! Что ЭТО такое!?
 
 武「そもそも、空にだってわかってるはずだぞ？」%K%P
 You know as well as I do...
 CN PLACEHOLDER
-Сора, ты ведь должна понимать...
+Во-первых, и ты и я прекрасно знаем --
 
 武「捕まえるって言ったって……」%K%P
 There's no way I can catch you...
 CN PLACEHOLDER
-...что я при всём желании не смогу тебя поймать...
+Для меня невозможно поймать тебя...
 
 武「俺はどうやっても、お前を掴めないんだぞ！？」%K%P
 No matter what I do, I can't grab hold of you!
@@ -281,12 +281,12 @@ CN PLACEHOLDER
 空Ｂ「そ、そんなぁっ……！！」%K%P
 No, surely not...!
 CN PLACEHOLDER
-Да, конечно не сможешь!..
+Да, конечно не сможешь...!
 
 空Ｃ「そうでしたか……。ふふふっ、私、知りませんでした」%K%P
 I see... Heehee, I didn't realize that.
 CN PLACEHOLDER
-Ясненько... хи-хи, а я и не подумала.
+Ясненько...хии〜хии, а я и не думала.
 
 思い切りとぼけた。%K%P
 She was playing dumb.
@@ -301,7 +301,7 @@ CN PLACEHOLDER
 武「な、なんだよ……おい」%K%P
 What the heck...
 CN PLACEHOLDER
-Какого хрена?..
+Какого хрена...?
 
 武「ど、どうしちゃったんだ、空？」%K%P
 What's happened to you, Sora?
@@ -311,7 +311,7 @@ CN PLACEHOLDER
 空Ａ「あらぁ、どうしちゃったんでしょう？」%K%P
 Hmm, what could it be?
 CN PLACEHOLDER
-Хм-м, ты о чём?
+Хмм, ты о чём?
 
 大げさに首を傾げる。%K%P
 She shrugged exaggeratedly.
@@ -341,12 +341,12 @@ CN PLACEHOLDER
 武「どういう風の吹き回しなんだよ！？」%K%P
 What the heck is going on here!?
 CN PLACEHOLDER
-Что за чертовщина здесь творится?!
+Что за чертовщина здесь творится!?
 
 空Ｂ「ふふっ……♪」%K%P
 Heehee〜
 CN PLACEHOLDER
-Хи-и-хи-и!
+Хии〜хии!
 
 空Ａ「なんだか、自分でもよくわからなくなってきました……♪」%K%P
 I don't even know myself anymore what's going on...
@@ -386,7 +386,7 @@ CN PLACEHOLDER
 武「重大なエラーがないかどうか……レミに診てもらおうか？」%K%P
 Maybe we should get LeMMIH to check you out... to make sure there's not some serious error...
 CN PLACEHOLDER
-Может нам стоит дать команду LeMMIH на проверку... чтобы убедиться в сохранности всех кластеров на твоём жёстком диске...
+Может нам стоит дать команду ЛеММИХ на проверку...чтобы убедиться в сохранности всех кластеров на твоём жёстком диске...
 
 空「もう……！　倉成さんったら……」%K%P
 Why, Kuranari-san...!
@@ -421,7 +421,7 @@ CN PLACEHOLDER
 武「い、意地悪……？？」%K%P
 Playing around...?
 CN PLACEHOLDER
-Дурачиться?..
+Дурачиться...?
 
 空「ええ」%K%P
 Yes.
@@ -436,7 +436,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+......
 
 空「そろそろ本題に入りますね」%K%P
 Now, for the reason I brought you here.
@@ -496,12 +496,12 @@ CN PLACEHOLDER
 空「先程、お見せした通りです」%K%P
 Just like I showed you before.
 CN PLACEHOLDER
-Точно так же, как я показала тебе ранее.
+Точно также, как я показала тебе ранее.
 
 空「……もう１回見ますか？」%K%P
 ...Shall I show you again?
 CN PLACEHOLDER
-...может, мне продемонстрировать ещё разок?
+...может мне продемонстрировать ещё разок?
 
 武「いいや、遠慮しとくよ。目が回りそうだ」%K%P
 No thanks. I'm still recovering...
@@ -511,7 +511,7 @@ CN PLACEHOLDER
 空「ふふふっ……じゃ、もうしないことにしておきます」%K%P
 Heehee... Alright, I won't do it anymore.
 CN PLACEHOLDER
-Хи-хи... Хорошо, я больше не буду.
+Хии〜хии...хорошо, я больше не буду.
 
 そこで一旦言葉を切る。%K%P
 She stopped there.
@@ -546,12 +546,12 @@ CN PLACEHOLDER
 武「さぁ、どれって、言われてもなぁ……」%K%P
 Well, which... Uh...
 CN PLACEHOLDER
-Ну, которая... ой...
+Ну, которая...ой...
 
 武「だいたい、あの、複数の空の姿……それぞれに違いがあるのか？」%K%P
 So the several versions of you... they're all different?
 CN PLACEHOLDER
-Значит... несколько версий тебя... они все различны?
+Значит...несколько версий тебя...они все различны?
 
 空「いいえ、ありません」%K%P
 No.
@@ -581,17 +581,17 @@ CN PLACEHOLDER
 空「そう、どれも私……」%K%P
 Yes, they're all me...
 CN PLACEHOLDER
-Да, все они – я...
+Да, все они - я...
 
 空「純粋なコピー……いえ、クローン、と言ったほうがわかり易いかもしれませんね」%K%P
 Perfect copies... No, perhaps it is easier to understand if I use the word 'clones'.
 CN PLACEHOLDER
-Совершенные копии... нет, наверное, проще понять, если применить к ним термин „клоны“.
+Совершенные копии...нет, наверно проще понять, если применить к ним термин 'клоны'.
 
 空「倉成さんは、２０１０年に改正公布された『クローン法』についてご存知ですか？」%K%p
 Kuranari-san, are you aware of the 'Clone Law' that was officially amended in 2010?
 CN PLACEHOLDER
-Куранари-сан, ты знаешь про закон „О клонировании“, что был официально внесён с поправками в 2010-м году?
+Куранари-сан, ты знаешь про "Закон О Клонировании", что был официально внесён с поправками, в 2010-м году?
 
 知ってる
 I know
@@ -616,12 +616,12 @@ CN PLACEHOLDER
 武「省庁の許可さえ得られれば、誰でもクローン受精による不妊治療が受けられるようになった」%K%P
 As long as anyone receives the approval of the authorities, they can undergo clone fertilization as a way to treat infertility.
 CN PLACEHOLDER
-Как только оно получило одобрение среди авторитетных людей, любой желающий смог пройти процедуру клонирования – по сути оно стало просто одним из способов лечения бесплодия.
+Как только оно получило одобрение среди авторитетных людей, любой желающий смог пройти процедуру клонирования - по сути оно стало просто одним из способов лечения бесплодия.
 
 武「培養した体細胞から核を抜き取り、別の、既に核を抜き取ってある卵細胞の中にそれを移植し、母体子宮内に着床させる……」%K%P
 The nucleus is taken from an already-cultivated somatic cell and inserted into an egg that has had its original nucleus removed. Then it's implanted into the mother's womb...
 CN PLACEHOLDER
-Берётся ядро из развитой соматической клетки, затем внедряется в яйцеклетку, из которой удалили её изначальное ядро.»%K%PТакэси«Затем яйцеклетку имплантируют в матку будущей маме...
+Ядро берётся из уже развитой соматической клетки, а затем внедряется в яйцеклетку, из которой удалили её изначальное ядро.»%K%PТакеши«Затем яйцеклетку имплантируют в матку будущей маме...
 
 武「俺の友達の親戚にも、経験者がいるよ」%K%P
 One of my friend's relatives went through it.
@@ -636,7 +636,7 @@ CN PLACEHOLDER
 武「いや、知らない。つーか……忘れた」%K%P
 No, I don't know. I mean... I forget.
 CN PLACEHOLDER
-Не-а, понятия не имею. То есть... может и знал, но забыл. Наверное, от Малого заразился.
+Не-а, понятия не имею. То есть...может и знал, но забыл. Наверно от Кида заразился.
 
 空「２０１０年に――」%K%P
 In 2010?
@@ -676,12 +676,12 @@ CN PLACEHOLDER
 武「あ、えーと……」%K%P
 Uh... Uhm... Well...
 CN PLACEHOLDER
-Э-э... м-м... ну...
+Ээ...ммм...ну...
 
 武「だけど、それとこれとは話が違うんじゃないかなぁ……」%K%P
 But what does that have to do with this?
 CN PLACEHOLDER
-Но тогда при чём здесь наш разговор?
+Но, тогда причём здесь наш разговор?
 
 武「クローンはそれぞれ別々に成長して、別個の存在になるだろ？」%K%P
 Clones develop separately. In other words, they're different entities.
@@ -696,7 +696,7 @@ CN PLACEHOLDER
 空「でも、その由来は単一です」%K%P
 But their source is the same.
 CN PLACEHOLDER
-Но у них один и тот же источник.
+Но, у них один и тот же источник.
 
 空は淡々と述べた。%K%P
 She spoke almost casually.
@@ -726,27 +726,27 @@ CN PLACEHOLDER
 空「この、等しく分けられた『私』……」%K%P
 This 'me', evenly divided...
 CN PLACEHOLDER
-Эти равнозначно разделённые „Я“...
+Эти равнозначно разделённые 'Я'...
 
 空「すべてが『茜ヶ崎空』なのです」%K%P
 ...is all 'Akanegasaki Sora'.
 CN PLACEHOLDER
-...все Аканэгасаки Сора.
+...все Аканегасаки Сора.
 
 空「そこには『私』がいますが、同時に『ここにいる私』はそこにはいない」%K%P
 That 'me' is over there, and at the same time, this 'me' is not there.
 CN PLACEHOLDER
-Эти „я“ здесь, и, в то же время, эти „я“ не здесь.
+Эти 'я' здесь, и, в то же время, эти 'я' не здесь.
 
 空「ここに私がいて、けれど、向こうの『私』とは違う私」%K%P
 I am here, but the 'me' over there is a different 'me'.
 CN PLACEHOLDER
-Я здесь, но „я“ вон там – другая „я“.
+Я здесь, но 'я' вон там - другая 'я'.
 
 空「しかし私であることにかわりはない『私』……」%K%P
 But they are all me, the same 'me'...
 CN PLACEHOLDER
-Но они все – я, та же самая, „Я“...
+Но, они все - я, та же самая, 'Я'...
 
 空「すべて、私」%K%P
 All me.
@@ -761,7 +761,7 @@ CN PLACEHOLDER
 空「私は単一であると同時に多数になる」%K%P
 I am one, yet at the same time, I am many.
 CN PLACEHOLDER
-Я одна, и в то же самое время я – множество.
+Я одна, и в то же самое время я - множество.
 
 空「私は、あらゆる場所、どこにでもいる存在になる」%K%P
 I can be in any place, exist everywhere.
@@ -771,7 +771,7 @@ CN PLACEHOLDER
 空「私は――遍在している」%K%P
 I am—omnipresent.
 CN PLACEHOLDER
-Я – вездесущая.
+Я — вездесущая.
 
 空「ええ、そうです……」%K%P
 Yes, that's right.
@@ -796,22 +796,22 @@ CN PLACEHOLDER
 空「けれどそれは、決して『Ｗ』ではなく……」%K%P
 But they are definitely not 'W'...
 CN PLACEHOLDER
-Но они разделены определённо не по оси „W“...
+Но, они разделены определённо не по оси 'W'...
 
 空「『Ｙ』なのです」%K%P
 But 'Y'.
 CN PLACEHOLDER
-...а по „Y“.
+...а по 'Y'.
 
 武「『Ｙ』？」%K%P
 'Y'?
 CN PLACEHOLDER
-По „Y“?
+По 'Y'?
 
 空「ある由来から出でて、分かれた『Ｙ』」%K%P
 'Y' because we split from our source, branching off.
 CN PLACEHOLDER
-Да. „Y“ – потому что мы исходим из одного и того же источника.
+Да. 'Y' - потому что мы исходим из одного и того же источника.
 
 空は宙を舞った。%K%P
 Sora danced around in midair.
@@ -826,27 +826,27 @@ CN PLACEHOLDER
 もはや、大きさも量も距離も不定だった。%K%P
 It was impossible to even tell their size, amount, or distance.
 CN PLACEHOLDER
-Невозможно даже сказать, сколько их было, какого они были роста или на каком расстоянии находились.
+Невозможно даже сказать, сколько их было, какого они были роста, или на каком расстоянии находились.
 
 空「そうですね……考えてみてください」%K%P
 You see... Please think of it this way.
 CN PLACEHOLDER
-Понимаешь... пожалуйста, порассуждай в таком ключе.
+Понимаешь...пожалуйста, порассуждай в таком ключе.
 
 空「もしも、あなたという人格を、そっくりそのままコピーすることができるとしたら……？」%K%P
 What if you could be copied exactly, just the way you are?
 CN PLACEHOLDER
-Что, если бы твою личность можно было воспроизвести один в один?
+Что если бы ты мог быть скопирован абсолютно, таким каков ты есть?
 
 武「？？」%K%P
 ?
 CN PLACEHOLDER
-?
+??
 
 ……何を言っているんだ……？%K%P
 ...What was she saying...?
 CN PLACEHOLDER
-(...чего-чего?..)
+(...чего-чего...?)
 
 空「たとえば……」%K%P
 For instance...
@@ -871,27 +871,27 @@ CN PLACEHOLDER
 空「そのとき、本当のあなたは、どこにいるでしょうか？」%K%P
 Then where is the real 'you'?
 CN PLACEHOLDER
-Тогда где же настоящий „ты“?
+Тогда, где же настоящий ты?
 
 空「肉体に残ったままの人格が、本当のあなた？」%K%P
 The 'you' who stays in your body, is that the real 'you'?
 CN PLACEHOLDER
-„Ты“, что остался в этом теле – настоящий „ты“?
+Ты, что остался в этом теле - настоящий ты?
 
 空「それとも、複製した人格が、本当のあなた？」%K%P
 Or is the duplicate character, in fact, 'you'?
 CN PLACEHOLDER
-Или личность-дубликат, являющаяся „тобой“?
+Или личность-дубликат, являющаяся тобою?
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「正解は、そのいずれにも、本当のあなたがいる、です」%K%P
 The answer is, in any case, that the real 'you' does exist in both.
 CN PLACEHOLDER
-Ответ в любом случае один – настоящий „ты“ существует в каждом из них.
+Ответ, в любом случае, один - настоящий ты существует в обоих.
 
 空「もしそのようなことが可能になったら……」%K%P
 If such a thing was possible...
@@ -901,12 +901,12 @@ CN PLACEHOLDER
 空「あなたは、非減数分裂的に分裂するでしょう」%K%P
 You would split in a form of non-reductional division.
 CN PLACEHOLDER
-Ты смог бы разделиться, как при митозе, с сохранением всего тебя.
+Ты смог бы разделиться по не-редукционному делению.
 
 空「つまり、リンゴをふたつに割るような分裂の仕方ではなく……」%K%P
 In other words, it is not the same as splitting an apple into two...
 CN PLACEHOLDER
-Другими словами, это не всё равно, что разрезать яблоко пополам...
+Другими словами, это не всё равно что разрезать яблоко пополам...
 
 空「そのリンゴと同じ質量、同じ形、同じ成分を持ったリンゴが、もうひとつ誕生するということです」%K%P
 It is as if another apple with the exact same mass, shape, and composition comes into being.
@@ -931,7 +931,7 @@ CN PLACEHOLDER
 どちらが元の空なのか、区別はつかない……。%K%p
 There was no way to tell which was the original...
 CN PLACEHOLDER
-И невозможно даже предположить, какая из них – оригинал...
+И невозможно даже предположить, какая из них - оригинал...
 
 もっと聞く
 Hear more
@@ -946,7 +946,7 @@ CN PLACEHOLDER
 （しかし空は何故、こんな話を……？）%K%P
 (But why is Sora telling me all this...?)
 CN PLACEHOLDER
-(Но почему Сора всё это мне рассказывает?..)
+(Но, почему Сора всё это мне рассказывает...?)
 
 そう思ったが、俺は黙って耳を傾けた。%K%P
 I wondered, but kept quiet and listened.
@@ -956,12 +956,12 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「……わ」%K%P
 ...I...
 CN PLACEHOLDER
-Я...
+...я...
 
 武「わけわかんねぇ」%K%P
 I don't get it.
@@ -981,7 +981,7 @@ CN PLACEHOLDER
 武「俺がふたつだって！？」%K%P
 There's two of me!?
 CN PLACEHOLDER
-Меня двое?!
+Меня двое!?
 
 武「何を言ってる？」%K%P
 What are you saying?
@@ -996,22 +996,22 @@ CN PLACEHOLDER
 武「俺は俺だあっ！」%K%P
 Who am I!?
 CN PLACEHOLDER
-Кто я?!
+Кто я!?
 
 武「他に俺はいるかあぁっ！？」%K%P
 Is there another me!?
 CN PLACEHOLDER
-Здесь есть другой я?!
+Здесь есть другой я!?
 
 武「いたら返事しろっての！！」%K%P
 If you're out there, answer me!
 CN PLACEHOLDER
-Если ты здесь, отзовись!
+Если ты здесь, отзовись!!
 
 暴れたくなった。%K%P
 I wanted to rage, to hit something.
 CN PLACEHOLDER
-Сейчас бы врезать кулаком по чему-нибудь, чтобы прийти в себя.
+Крыша едет неспеша, громко шифером шурша. Сейчас бы врезать кулаком по чему-нибудь, чтобы прийти в себя.
 
 そうしないように歯をギリギリ食いしばっていた。%K%P
 I had to grind my teeth together to keep myself still.
@@ -1046,7 +1046,7 @@ CN PLACEHOLDER
 空「オリジナルとまったく区別されることのないコピーがこの世に存在したら」%K%P
 If there were a copy that could exist in the world with absolutely no difference from the original.
 CN PLACEHOLDER
-Что, если бы в мире могли существовать копии, абсолютно ничем не отличающиеся от оригинала.
+Что если бы в мире могли существовать копии, абсолютно ничем не отличающиеся от оригинала.
 
 空「そういう、仮定の話なんです……」%K%P
 I am simply speaking hypothetically...
@@ -1081,7 +1081,7 @@ CN PLACEHOLDER
 武「はぁーーーっ、ふぅーーーっ……」%K%P
 Haaaaaaaa... hoooooo...
 CN PLACEHOLDER
-Ха-а-а-а-а-а-а, ху-у-у-у-х...
+Хаааааааа, Хуууухх......
 
 武「さぁ、来い！！」%K%P
 Alright, bring it on!
@@ -1091,7 +1091,7 @@ CN PLACEHOLDER
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「では、続けます……」%K%P
 Very well, I will continue.
@@ -1101,7 +1101,7 @@ CN PLACEHOLDER
 空「そう……あなたは、ふたつになった」%K%P
 Yes... You became two.
 CN PLACEHOLDER
-Да... тебя стало двое.
+Да...тебя стало двое.
 
 ふたりの空は同時にしゃべっている。%K%P
 The two Soras were speaking in unison.
@@ -1111,17 +1111,17 @@ CN PLACEHOLDER
 空「歴史的には、その瞬間から、ふたりのあなたは別々の個体として、時間軸上を歩んで行くことになります」%K%P
 Historically, and from that moment forward, the two of you are traveling down the time axis as separate entities.
 CN PLACEHOLDER
-С того самого мгновения вы двое идёте по временной оси как отдельные существа.
+Исторически, и с того самого мгновения, Вы двое идёте по временной оси как отдельные существа.
 
 空「けれど、その道のりを振り返ってみれば、ふたつのあなたは、ある１点で結ばれていたことがわかるはずです」%K%P
 But, if you turn around and look at the journey you have taken, you will see that the two of you were joined together at one point.
 CN PLACEHOLDER
-Но если вы оглянетесь и посмотрите на свой путь, то увидите, что в одной из точек вы оба были одним целым.
+Но, если вы оглянитесь и посмотрите на свой путь, то увидите, что в одной из точек Вы оба были едины.
 
 空「それが……つまり『Ｙ』なのです。『Ｗ』ではなく%N『Ｙ』」%K%P
 It is split like a 'Y', with two points emerging from one line. Not a 'W', with two separate points of origin.
 CN PLACEHOLDER
-Это разделение, в точности похожее на „Y“, с двумя точками, исходящими из одной линии. А не „W“, с двумя различными исходными точками.
+Это разделение, в точности похожее на 'Y', с двумя точками, исходящими из одной линии. А не 'W', с двумя различными исходными точками.
 
 空「あるポイントを基点として、別々に分かれて行くふたつの自分を、あなたは想像できないかもしれません」%K%P
 You may be unable to imagine two of yourself splitting apart and going different ways at a particular base point.
@@ -1131,7 +1131,7 @@ CN PLACEHOLDER
 空「しかし、それは既に起こっていることなのです」%K%P
 But that is something that has already happened.
 CN PLACEHOLDER
-Однако фактически это уже произошло.
+Однако, фактически это уже произошло.
 
 空「あなたは常に、絶え間なく訪れては過ぎ去って行く瞬間の中で、何らかの選択を迫られています」%K%P
 You are always, constantly, approaching a choice in each present moment that becomes the past the instant you visit it.
@@ -1146,17 +1146,17 @@ CN PLACEHOLDER
 空「ここにいるあなたがＡの道を歩んできたとしても、別の時間軸上では、Ｂの道を歩んできたあなたが存在するかもしれません」%K%P
 The 'you' that is standing here may have come down path A, but in another time axis, there may be a 'you' who is going down path B.
 CN PLACEHOLDER
-„Ты“, стоящий здесь, возможно, пошёл по пути А, но в другой временной оси здесь можешь стоять „ты“, что пошёл по пути Б.
+Ты, стоящий здесь, возможно пошёл по пути А, но в другой временной оси, здесь можешь стоять ты, что пошёл по пути Б.
 
 空「そして、Ａの道のあなたも、Ｂの道のあなたも、あなたであることに変わりはない」%K%P
 And both the 'you' on path A and the 'you' on path B are still 'you'.
 CN PLACEHOLDER
-И оба „тебя“ – на пути А и на пути Б – по-прежнему „ты“.
+И оба тебя - на пути А и на пути Б - по-прежнему ты.
 
 空「ただ、Ａの道にいるあなたは、Ｂの道にいるあなたのことを知りません」%K%P
 Except that the 'you' on path A doesn't know about the 'you' on path B.
 CN PLACEHOLDER
-С единственным исключением, что „ты“ на пути А не знает о „тебе“ на пути Б.
+С единственным исключением, что 'ты' на пути А не знает о 'тебе' на пути Б.
 
 空「知る手段がないからです」%K%P
 Because there is no way to know.
@@ -1166,17 +1166,17 @@ CN PLACEHOLDER
 空「同様に、Ｂの道にいるあなたも、Ａの道にいるあなたのことには気づかないでしょう」%K%P
 In the same way, the 'you' on path B probably isn't aware of the 'you' on path A either.
 CN PLACEHOLDER
-В то же самое время, „ты“ на пути Б наверняка даже не в курсе о существовании „тебя“ на пути А.
+В то же самое время, 'ты' на пути Б наверняка даже не в курсе о существовании 'тебя' на пути А.
 
 空「なぜだかわかりますか？」%K%P
 Do you know why that is?
 CN PLACEHOLDER
-А знаешь, почему?
+А знаешь почему?
 
 空「なぜだかわかりますか？」%K%p
 Do you?
 CN PLACEHOLDER
-Ведь знаешь?
+А знаешь почему?
 
 わからない
 I don't know
@@ -1221,12 +1221,12 @@ CN PLACEHOLDER
 俺はイヤホンをそっと外し、言う通りにしてみる。%K%P
 I carefully removed an earphone and did as she said.
 CN PLACEHOLDER
-Я осторожно снял один из «наушников» и сделал, как она просила.
+Я осторожно снял один из 'наушников', и сделал как она просила.
 
 武「……！？」%K%P
 ...!?
 CN PLACEHOLDER
-?!
+......!!??
 
 武「おいっ、空、お前……」%K%P
 Hey, Sora, you...
@@ -1266,7 +1266,7 @@ CN PLACEHOLDER
 武「あ、ああ……」%K%P
 Y-Yeah...
 CN PLACEHOLDER
-Ах, да...
+Ах, да....
 
 恐る恐る、身体を元の立ち位置に近づける。%K%P
 Hesitantly, I moved back toward where I had been standing.
@@ -1291,12 +1291,12 @@ CN PLACEHOLDER
 音声変換機も、耳に戻した。%K%P
 I put the voice adapter back in my ear.
 CN PLACEHOLDER
-И снова надел модификатор голоса.
+И снова одел модификатор голоса.
 
 空も何事もなかったように、俺の視界の両端に立っていた。%K%P
 Sora was standing on both sides of my line of vision as if nothing had happened at all.
 CN PLACEHOLDER
-Сора стоит по обе стороны моего поля зрения как ни в чём не бывало.
+Сора стоит по обе стороны моего поля зрения, как ни в чём ни бывало.
 
 空「次は、右目をつぶってみてください」%K%P
 Now, please close your right eye.
@@ -1326,7 +1326,7 @@ CN PLACEHOLDER
 空「次は、右目を開けて、左目をつぶってください」%K%P
 Next, open your right eye and close your left.
 CN PLACEHOLDER
-Теперь открой свой правый глаз и закрой левый.
+Теперь, открой свой правый глаз, и закрой левый.
 
 右目を開き、左目を閉じる……。%K%P
 I opened my right eye and closed my left...
@@ -1341,12 +1341,12 @@ CN PLACEHOLDER
 空「さぁ、両目を開けてください」%K%P
 Now, open both your eyes.
 CN PLACEHOLDER
-А сейчас открой оба глаза.
+А сейчас, открой оба глаза.
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 変わらず視界の左右の端に、ふたりの空が立っていた。%K%P
 Just like before, two Soras stood at either edge of my vision.
@@ -1356,7 +1356,7 @@ CN PLACEHOLDER
 空「３次元の立体を『見』るには……」%K%P
 To 'see' a three-dimensional figure...
 CN PLACEHOLDER
-Чтобы „видеть“ трёхмерный объект...
+Чтобы 'видеть' трёхмерный объект...
 
 空「ふたつの眼から得た２次元情報のずれ、視差を利用します」%K%P
 You take two-dimensional information acquired from both of your eyes, and your brain analyzes and processes it accordingly to gain the correct depth.
@@ -1366,7 +1366,7 @@ CN PLACEHOLDER
 空「では、３次元の空間そのものを外から眺め、認識するには……？」%K%P
 So to see a three-dimensional space from the outside, and be able to recognize it...?
 CN PLACEHOLDER
-То есть, чтобы увидеть трёхмерное пространство снаружи и суметь его воспринять...
+То есть, чтобы увидеть трёхмерное пространство снаружи, и суметь его воспринять...
 
 武「……わからん。わからんけど……」%K%P
 ...I don't get it. I don't get it, but...
@@ -1391,12 +1391,12 @@ CN PLACEHOLDER
 武「空だって今、『知る手段がない』って明言したじゃないか」%K%P
 You just stated that 'there is no way to know'.
 CN PLACEHOLDER
-Ты сама сказала, что „узнать это невозможно“.
+Ты сама сказала, что 'узнать это невозможно'.
 
 武「Ａの『俺』からは、Ｂの『俺』を『見』る手段が存在しない」%K%P
 There is no means in existence to let my 'A' self see my 'B' self.
 CN PLACEHOLDER
-Не существует способа мне „А“ увидеть себя „Б“.
+Не существует способа мне 'А' увидеть себя 'Б'.
 
 武「人間が３次元の立体を認識する為には、ふたつの眼から平面化された映像情報を得て、その視差で知覚しなきゃならない」%K%P
 For a person to see a three-dimensional body, they have to receive flattened visual information from two eyes, and the brain has to make sense of it.
@@ -1411,12 +1411,12 @@ CN PLACEHOLDER
 武「Ａの俺とＢの俺がいる、ということがわかる位置……『Ｙ』の字のさらに外にある視点に移動しない限り――」%K%P
 To know that both 'A' and 'B' of yourself exist, you'd have to move to a perspective completely outside the 'Y'.
 CN PLACEHOLDER
-Чтобы определить существование обоих „А“ и „Б“, необходимо находиться на проекции, что лежит вне пределов „Y“.
+Чтобы определить существование обоих 'А' и 'Б', необходимо находиться на проекции, что лежит вне пределов 'Y'.
 
 武「たとえ頭でわかっていても、実際にＡとＢの俺が実在することを確かめることはできないんだ」%K%P
 Even if you understand it intellectually, you can't actually confirm that 'A' and 'B' both exist.
 CN PLACEHOLDER
-Даже если ты понимаешь это логически, подтвердить существование обоих „А“ и „Б“ невозможно.
+Даже если ты понимаешь это логически, подтвердить существование обоих 'А' и 'Б' невозможно.
 
 空「そうです」%K%P
 That's right.
@@ -1426,7 +1426,7 @@ CN PLACEHOLDER
 空「素晴らしいですね……。倉成さん、素質があるんじゃないですか？」%K%P
 Wonderful... Kuranari-san, you might be a natural at this.
 CN PLACEHOLDER
-Здорово... Куранари-сан, а ты неплохо в этом разбираешься.
+Здорово...Куранари-сан, а ты неплохо в этом разбираешься.
 
 武「何の？」%K%P
 At what?
@@ -1436,7 +1436,7 @@ CN PLACEHOLDER
 空「物理学者……あるいは、哲学者の」%K%P
 At physics... or perhaps even philosophy.
 CN PLACEHOLDER
-В физике... или наверное даже в философии.
+В физике...или наверно даже в философии.
 
 武「おだてないでくれ」%K%P
 You don't have to flatter me.
@@ -1461,7 +1461,7 @@ CN PLACEHOLDER
 面の上に光点がひとつ現れ、移動を始める。%K%P
 A point of light appeared and started moving.
 CN PLACEHOLDER
-Затем на его «поверхности» появилась подвижная светящаяся точка.
+Затем на его 'поверхности' появилась подвижная светящаяся точка.
 
 空「仮に、２次元の世界に知的生命体がいるとしましょう」%K%P
 Let's say that there are intelligent beings in a two-dimensional world.
@@ -1491,7 +1491,7 @@ CN PLACEHOLDER
 空「２次元存在の視野には、直線（１次元）しか映りませんから……」%K%P
 In a two-dimensional field of vision, only straight lines (one dimension) can be reflected.
 CN PLACEHOLDER
-В двумерном поле зрения могут быть отражены лишь прямые линии (то есть одно измерение).
+В двумерном поле зрения, могут быть отражены лишь прямые линии (то есть, одно измерение).
 
 立方体の６つのすべての面に、光点があった。%K%P
 The dots of light appeared on all six faces of the cube.
@@ -1501,7 +1501,7 @@ CN PLACEHOLDER
 しかしそれぞれの面にある光点は、その単一の面の上だけを動き回り、他の光点と交わることは絶対にない。%K%P
 But each light only moved around the surface of its own square, never intersecting with the other lights.
 CN PLACEHOLDER
-Но каждая точка движется исключительно по собственной плоскости, никогда не соприкасаясь с остальными.
+Но, каждая точка движется исключительно по собственной плоскости, никогда не соприкасаясь с остальными.
 
 空「さて、何らかの理由で彼が３次元的存在に変化したとしましょう」%K%P
 Now then, let's say that for some reason they become three-dimensional.
@@ -1511,7 +1511,7 @@ CN PLACEHOLDER
 空「すると、３次元的存在である彼の視野には、平面（２次元）しか映らなくなるはずです」%K%P
 Then, in their three-dimensional range of vision, only planes (two dimensions) can be reflected.
 CN PLACEHOLDER
-Тогда в их трёхмерном поле зрения могут быть отображены лишь плоскости (два измерения).
+Тогда, в их трёхмерном поле зрения, могут быть отображены лишь плоскости (два измерения).
 
 ６つの面にあった光点は集合してひとつになり、立方体の中央に移動する。%K%P
 The lights from the six surfaces gathered together to become one and moved to the center of the cube.
@@ -1531,12 +1531,12 @@ CN PLACEHOLDER
 空「３次元における立体視は、左目に映った平面と、右目に映った平面を合成しているに過ぎません」%K%P
 With three-dimensional sight, all that happens is that the plane reflected in the right eye and the plane reflected in the left eye are synthesized into one image.
 CN PLACEHOLDER
-С трёхмерным зрением всё происходящее, что отражается в правом и левом глазах, синтезируется в сведённое изображение.
+С трёхмерным зрением, всё происходящее, что отражается в правом и левом глазах, синтезируется в сведённое изображение.
 
 空「精巧に、緻密に描かれた富士山の書き割りと、本物の富士山の映像を、近づくことなしに見わけることはできないでしょう」%K%P
 It would be impossible to achieve something close to the real image of Mount Fuji, for example, even with a finely-drawn backdrop.
 CN PLACEHOLDER
-Таким образом, например, будет тяжело отличить реальное изображение горы Фудзи от очень детальной декорации, если только не подойти достаточно близко.
+Невозможно получить даже нечто приближенное к настоящему изображению Горы Фудзи, например, даже с изящно нарисованным задником.
 
 すべての立方体の中には、光点がひとつずつ浮かんでいる。%K%P
 A light floated in each of the cubes.
@@ -1546,17 +1546,17 @@ CN PLACEHOLDER
 立方体の内部にある光点は、盛んに外側の６つの面に衝突反射し、絶え間なく動いている。%K%P
 The lights moved incessantly, vigorously colliding into the six faces of the cubes and moving.
 CN PLACEHOLDER
-Эти точки движутся непрерывно, энергично ударяясь о шесть сторон кубов.
+Эти точки движутся непрерывно, энергично ударяясь об шесть сторон кубов.
 
 しかしそれらは単一の立方体から出て行くことがなく、他の光点とは決して交わらない。%K%P
 But each light never left its cube and never intersected with any of the other lights.
 CN PLACEHOLDER
-Но ни одна из точек не покидает свой куб и не пересекается с остальными.
+Но, ни одна из точек не покидает свой куб, и не пересекается с остальными.
 
 空「繰り返しますが……」%K%P
 Shall we go over it again?
 CN PLACEHOLDER
-Пожалуй, мне стоит выразиться яснее.
+Пожалуй, мне стоит выразиться более доходчивей.
 
 空「平面（２次元）としての情報を、同時に２方向から入手することによって、立体を知覚していると錯覚しているだけなのです」%K%P
 By combining two-dimensional information coming in at the same time from two different sources, you are really just hallucinating that you are perceiving a solid form.
@@ -1571,17 +1571,17 @@ CN PLACEHOLDER
 空「３次元的な視覚とは、サイコロの６面すべてを、同時に見ることができる視覚のことを言うのです」%K%P
 Three-dimensional vision is when you can see all six sides of a cube at the same time.
 CN PLACEHOLDER
-Трёхмерное зрение – это когда ты можешь видеть все шесть сторон куба одновременно.
+Трёхмерное зрение - это когда ты можешь видеть все шесть сторон куба одновременно.
 
 空「ｎ次元存在にはｎ−１次元の視覚情報しか得られない」%K%P
 In an 'n' dimension, you can only obtain visual information in the dimension of 'n-1'.
 CN PLACEHOLDER
-В измерении „n“ ты можешь получить визуальную информацию об измерении „n-1“.
+В измерении 'n', ты можешь получить визуальную информацию об измерении 'n-1'.
 
 空「ですからＹの字の先端にいる存在は、もう一方の先端にいる存在のことに気づけないのです」%K%P
 This is why if you are on one tip of the 'Y' shape, it means that you cannot be aware of what is happening at the other tip.
 CN PLACEHOLDER
-Вот почему если ты находишься на одной из вершин „Y“, то не можешь знать о происходящем на другой его вершине.
+Вот почему если ты находишься на одной из вершин 'Y', то не можешь знать о происходящем на другой его вершине.
 
 空「もしも、彼が３次元的視野を獲得したとき……」%K%P
 Let's say that you did obtain a three-dimensional range of vision...
@@ -1591,22 +1591,22 @@ CN PLACEHOLDER
 空「つまり２次元平面から脱出して、３次元空間内から、その平面を『見下ろした』ときに――」%K%P
 So if you escaped the plane of two-dimensionality and looked 'down' from a three-dimensional space at the two-dimensional plane...
 CN PLACEHOLDER
-То есть, если бы ты выбрался из двумерной плоскости, а затем посмотрел „вниз“ из трёхмерного пространства на двумерную плоскость...
+То есть, если бы ты выбрался из двумерной плоскости, а затем посмотрел 'вниз' из трёхмерного пространства на двумерную плоскость...
 
 空「そのとき初めて『自分がＹの字の一部であったこと』に気づき」%K%P
 You would realize for the first time that you were at a particular point on the 'Y'...
 CN PLACEHOLDER
-То впервые бы осознал, что был в конкретной точке по „Y“...
+То впервые бы осознал, что был в конкретной точке по 'Y'...
 
 空「さらに『枝分かれしたもうひとりの自分がいること』にも気づけるのです」%K%P
 And realize, too, that there is another 'you' who took a different branch of the 'Y'.
 CN PLACEHOLDER
-...но также и осознал, что может быть другой ты, что пошёл по иному пути на „Y“.
+...но также и осознал, что может быть другой ты, что пошёл по иному пути на 'Y'.
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ホログラムのブロックはすべて割れて、消える。%K%P
 The holographic cubes broke apart and then disappeared.
@@ -1631,7 +1631,7 @@ CN PLACEHOLDER
 視界を覆うほどの、空。%K%P
 I couldn't see anything but Soras.
 CN PLACEHOLDER
-Кроме Сор я вообще ничего не вижу.
+Кроме Сор, я вообще ничего не вижу.
 
 眼を開けていられない。%K%P
 I couldn't stand to hold my eyes open.
@@ -1646,37 +1646,37 @@ CN PLACEHOLDER
 あるいは、すべてが彼女なのか……。%K%P
 Was she all of them...?
 CN PLACEHOLDER
-Неужели она – это они все?..
+Неужели она - это они все?...
 
 空「そう、そしてこれは、３次元空間においても同じことです」%K%P
 You see, it's the same for a three-dimensional space...
 CN PLACEHOLDER
-Понимаешь, это справедливо и для трёхмерного пространства...
+Понимаешь, это то же самое для трёхмерного пространства...
 
 空「あなたが４次元的視野を獲得したとき」%K%P
 When you acquire four-dimensional vision.
 CN PLACEHOLDER
-Если бы ты обрёл четырёхмерное зрение.
+Когда ты преобретаешь четырёхмерное зрение.
 
 空「つまり、倉成さんが、３次元空間から脱出して、４次元空間内から、その空間を『見下ろした』とき」%K%P
 In other words, if you escape this third-dimensional space and look 'down' at it from a fourth-dimensional space...
 CN PLACEHOLDER
-Иными словами, если ты выйдешь за пределы этого трёхмерного пространства, а затем посмотришь „вниз“ на него из четырёхмерного пространства...
+Иными словами, если ты выйдешь за пределы этого трёхмерного пространства, а затем посмотришь 'вниз' на него из четырёхмерного пространства...
 
 空「そのとき初めて『自分がΨの字の一部であったこと』に気づき」%K%P
 You will realize for the first time that you were on one point of the 'Y'...
 CN PLACEHOLDER
-То поймёшь, что ты был в одной из точек оси „Y“...
+То поймёшь, что ты был в одной из точек оси 'Y'...
 
 空「さらに『枝分かれした他の自分がいること』にも気づけるのです」%K%P
 And realize too that there is another 'you' who took a different branch of the 'Y'.
 CN PLACEHOLDER
-...но также и поймёшь, что есть другой ты, что выбрал другой путь на оси „Y“.
+...но также и поймёшь, что есть другой ты, что выбрал другой путь на оси 'Y'.
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「異なった歴史、異なった世界、異なった空間の中に……」%K%P
 In a different history, in a different world, in a different place...
@@ -1706,7 +1706,7 @@ CN PLACEHOLDER
 空「単一から分かれた『Ｙ』……」%K%P
 We are just branches of the 'Y'...
 CN PLACEHOLDER
-Мы всего-навсего ответвления оси „Y“...
+Мы всего-навсего разветвления оси 'Y'...
 
 空「ですが……」%K%P
 However...
@@ -1746,7 +1746,7 @@ CN PLACEHOLDER
 空「あなた自身が、他のあらゆる『あなた』を把握できる位置に立って、すべてを見通せたとしたら」%K%P
 If you could stand in a place where you could see and understand all the others that were 'you'...
 CN PLACEHOLDER
-Если бы ты мог встать в месте, где можешь увидеть и понять всех остальных „тебя“...
+Если бы ты мог встать в месте, где ты смог увидеть и понять всех остальных 'тебя'...
 
 空「すべての『あなた』の体験はあなたひとりの体験に等しくなる」%K%P
 Then all the experiences of your other selves would become like your own experiences.
@@ -1761,7 +1761,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 俺は深く息を吐いた。%K%P
 I let out a long sigh.
@@ -1791,7 +1791,7 @@ CN PLACEHOLDER
 空「ふふっ……いい質問ですね……」%K%P
 Hmm... That's a good question...
 CN PLACEHOLDER
-Хм-м... хороший вопрос...
+Хмм...хороший вопрос...
 
 空はくるりとその場で一回転して、にっこりと笑む。%K%P
 Sora turned in a full circle right where she was and smiled.
@@ -1806,7 +1806,7 @@ CN PLACEHOLDER
 空「このＬｅＭＵの由来の……レムリア大陸に伝わる、伝説です」%K%P
 It is a legend passed down through the Lemurian continent... and is the origin behind LeMU.
 CN PLACEHOLDER
-Один из истоков LeMU... это легенда, что почила вместе с Лемурийским континентом.
+Один из истоков LeMU...это легенда, что почила вместе с Лемурийским континентом.
 
 空「そういうことにしておいてください」%K%P
 Let's just leave it at that.
@@ -1816,7 +1816,7 @@ CN PLACEHOLDER
 空「……内緒ですよ？」%K%P
 ...And you must understand, it is a secret.
 CN PLACEHOLDER
-...и ты должен понимать, что это секрет.
+...и, ты должен понимать, это секрет.
 
 空は人差し指を口の前に立てて、また微笑んだ。%K%P
 Sora held up one finger in front of her mouth and smiled once again.

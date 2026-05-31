@@ -16,7 +16,7 @@ CN PLACEHOLDER
 武「休むって言っても……どこで？」%K%P
 Sleep... But where?
 CN PLACEHOLDER
-Предлагаешь поспать... но где?
+Предлагаешь поспать...но где?
 
 沙羅「仮眠室みたいなのって、無いの？」%K%P
 Are there any places to lie down or anything?
@@ -26,32 +26,32 @@ CN PLACEHOLDER
 空「水没した区画にありますが、ドライエリアには、残念ながら……」%K%P
 In the sectors that were submerged in water, but unfortunately not in the dry areas...
 CN PLACEHOLDER
-Было... в секторах, затопленных водой...
+Было...в секторах, затопленных водой...
 
 空「その代わり、と言ってはなんですが、別の場所を御用意してあります」%K%P
 Instead, I have prepared another place for you.
 CN PLACEHOLDER
-Но я приготовила для вас одно местечко.
+Но, я приготовила для вас одно местечко.
 
 少年「別の……」%K%P
 Another...
 CN PLACEHOLDER
-Одно...
+Местечко...?
 
 優「……場所？」%K%P
 ...Place?
 CN PLACEHOLDER
-...местечко?
+...Г-где?
 
 優「ちょ、ちょっと待ってよ、空！」%K%P
 Wa-Wait a second, Sora!
 CN PLACEHOLDER
-П-погоди секунду, Сора!
+По-погоди секунду, Сора!
 
 少年「こんな狭っ苦しい場所に、４人で寝なくちゃいけないの？」%K%P
 You're not saying that four people have to sleep in this cramped space?
 CN PLACEHOLDER
-Ты же не хочешь сказать, что четыре человека смогут уместиться в таком тесном пространстве?
+Ты же не хочешь сказать, что четверо людей смогут уместиться в таком тесном пространстве?
 
 そこは、さっき少女がいなくなった場所だった。%K%P
 It was the place was where I had seen the girl.
@@ -91,12 +91,12 @@ CN PLACEHOLDER
 空「通常、ＬｅＭＵから外に出るときには、６気圧から１気圧へ、長い時間をかけてゆっくりと減圧しなければなりません」%K%P
 Normally, when people leave LeMU, they spend an extended period of time going through decompression and adjusting from six atmospheres to one atmosphere.
 CN PLACEHOLDER
-Обычно, когда люди покидают LeMU, они проходят длительную процедуру декомпрессии и только после этого могут нормально существовать при 1 атмосфере.
+Обычно, когда люди покидают LeMU, они проходят длительную процедуру декомпрессии, и только после этого могут нормально существовать при 1 атмосфере.
 
 空「しかし皆さんは、今回の事故により、急激な気圧変化を経験されています」%K%P
 However, as a result of the accident, everyone has experienced a sudden change in pressure.
 CN PLACEHOLDER
-Однако из-за аварии все ощутили на себе резкую смену давления.
+Однако, из-за аварии, все ощутили на себе резкую смену давления.
 
 空「もしかしたら、減圧症にかかっているかもしれません」%K%P
 You may be suffering from the bends.
@@ -111,22 +111,22 @@ CN PLACEHOLDER
 少年「でもぼくら……全然具合なんか悪くないよ？」%K%P
 But... there's nothing wrong with us.
 CN PLACEHOLDER
-Но... с нами же всё в порядке.
+Но...с нами же всё в порядке.
 
 空「軽い減圧症は、すぐに自覚症状が現れるわけではないのです」%K%P
 In cases of light decompression sickness, you are not necessarily aware of it immediately.
 CN PLACEHOLDER
-При лёгких формах кессонной болезни невозможно заметить симптомы.
+При лёгких формах кессонной болезни, невозможно заметить симптомы.
 
 空「ひと晩ふた晩経ってから、痛み出すこともあります」%K%P
 There are cases where the pain doesn't start for a day or two.
 CN PLACEHOLDER
-Иногда боль не проявляется в течение одного или двух дней.
+Иногда боль не проявляется в течении одного или двух дней.
 
 武「ヤバいと気づいてからじゃ遅い……？」%K%P
 After you figure out you're in trouble, it's too late...?
 CN PLACEHOLDER
-А когда проявится, может быть уже поздно?..
+А когда проявится, может уже быть поздно...?
 
 空「はい」%K%P
 Correct.
@@ -141,7 +141,7 @@ CN PLACEHOLDER
 優「ねぇ、空？　救護室にある……えーと、ほら、アレ……」%K%P
 Hey, Sora. What about the... uh, that thing... in the infirmary?
 CN PLACEHOLDER
-Слушай, Сора, а что с той штуковиной в лазарете... ну, знаешь, та...
+Это, Сора. А что с той...ээ...той... штуковиной...в лазарете?
 
 優「色んな病状を診断できる装置があったじゃない？」%K%P
 Wasn't there some device that can diagnose medical conditions?
@@ -151,12 +151,12 @@ CN PLACEHOLDER
 空「『Ｌ−ＭＲＩ』のことですか？」%K%P
 Do you mean the L-MRI?
 CN PLACEHOLDER
-Ты имеешь в виду L-MRI?
+Ты имеешь в виду Л-МРИ?
 
 優「そうそう、それ」%K%P
 Yeah, yeah, that's it.
 CN PLACEHOLDER
-Да-да, его.
+Ага, её.
 
 優「あれでスキャニングすれば、減圧症にかかってるかどうか、すぐにわかるんじゃないの？」%K%P
 If you do a scan with that, can't we tell for sure if it's decompression sickness?
@@ -171,7 +171,7 @@ CN PLACEHOLDER
 優「え？　なんで？」%K%P
 Really? Why not?
 CN PLACEHOLDER
-Что? Но почему?
+Почему?
 
 空「先ほど見たところ、あの装置は故障中のようです。検証と修理に、それなりの手間と時間を要してしまいます」%K%P
 As you saw before, that device is out of order. Discovering the problem and repairing it would take time and energy.
@@ -181,7 +181,7 @@ CN PLACEHOLDER
 優「そうなんだ……」%K%P
 Oh, really...
 CN PLACEHOLDER
-Вот невезуха...
+Ох...
 
 沙羅「ねえ？　ひとつ聞いてもいい？」%K%P
 Sora, can I ask you something?
@@ -196,7 +196,7 @@ CN PLACEHOLDER
 沙羅「減圧症のこと、もうちょっと詳しく知りたいんだけど……」%K%P
 I want to know more about this decompression sickness...
 CN PLACEHOLDER
-Может, расскажешь подробнее про эту самую кессонную болезнь?..
+Может расскажешь подробней про эту самую кессонную болезнь...?
 
 空「わかりました」%K%P
 I see.
@@ -221,7 +221,7 @@ CN PLACEHOLDER
 武「それって……どんなに深呼吸しても、窒息したみたいに苦しくなるってことか？」%K%P
 So... No matter how many deep breaths you take, it feels like you're suffocating?
 CN PLACEHOLDER
-То есть... Неважно, насколько глубоко ты пытаешься дышать – всё равно задохнёшься?
+То есть...не важно, насколько глубоко ты пытаешься дышать - всё равно задохнёшься?
 
 空「はい」%K%P
 Yes.
@@ -266,7 +266,7 @@ CN PLACEHOLDER
 それにしても……狭い……。%K%P
 But boy, it was... cramped...
 CN PLACEHOLDER
-Но блин, как же тут... тесно...
+Но, блин, как же тут....тесно...
 
 つぐみは一体どこに行ったんだろう？%K%P
 I wondered where in the world Tsugumi could have gone.
@@ -286,7 +286,7 @@ CN PLACEHOLDER
 ベッドは武がひとりで占領している。%K%P
 Takeshi had monopolized the bed.
 CN PLACEHOLDER
-Такэси единолично занял кровать.
+Такеши прихватизировал кровать.
 
 すやすやと寝息を立てている武。%K%P
 He was breathing deeply and peacefully.
@@ -301,12 +301,12 @@ CN PLACEHOLDER
 優と沙羅とぼくは、床の上に座っている。%K%P
 You, Sara, and I sat on the floor.
 CN PLACEHOLDER
-Мы с Ю и Сарой сели на пол.
+Ю, Сара и я сели на пол.
 
 ぐーすかと眠りこけている武に、だんだんと腹が立ってきた。%K%P
 I gradually got annoyed with Takeshi sleeping like a log.
 CN PLACEHOLDER
-Мне не по себе от такой вольготности Такэси.
+Мне не по себе от такой вольготности Такеши.
 
 減圧が終了するまで、まだ４時間もある。%K%P
 There were still four hours until the decompression was complete.

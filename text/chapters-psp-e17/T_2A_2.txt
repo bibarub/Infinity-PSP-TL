@@ -6,17 +6,17 @@ CN PLACEHOLDER
 武「１・２・３・４・５・６……これで全部だよな」%K%P
 One, two, three, four, five, six... That's all of them.
 CN PLACEHOLDER
-1, 2, 3, 4, 5, 6... кажется, все.
+1, 2, 3, 4, 5, 6...кажется, все.
 
 タツタサンドの売店――簡単な調理器具の置かれた狭いスペースの中に、俺はいた。%K%P
 I was in the narrow space of the tuna sandwich stand where the cooking equipment was.
 CN PLACEHOLDER
-Я в узком пространстве, что представляет из себя киоск с сэндвичами, где находится уцелевшее кухонное оборудование.
+Я в узком пространстве, что представляет из себя киоск с бутербродами, где находится уцелевшее кухонное оборудование.
 
 できあがったばかりの朝食を、ひとつひとつ専用の包装紙でくるみ、トレイの上に並べる。%K%P
 I was wrapping and placing the freshly made breakfast sandwiches on a tray.
 CN PLACEHOLDER
-И аккуратно собираю сэндвичи из «запчастей».
+И аккуратно собираю бутерброды из 'запчастей'.
 
 武「って言うか、なんで俺が全員分の朝食を作んなきゃいけないんだよ？」%K%P
 Why is it that I have to make breakfast for everyone?
@@ -36,17 +36,17 @@ CN PLACEHOLDER
 店の前で待ち構えた優が、トレイの上のタツタサンドをひょいと取り上げた。%K%P
 You was waiting in front of the shop and snatched a sandwich from the tray.
 CN PLACEHOLDER
-Ю выждала перед киоском и схватила сэндвич с подноса.
+Ю выждала перед киоском и схватила бутерброд с подноса.
 
 包装紙をめくり、大きく口を開いてかぶりつく。%K%P
 She peeled back the wrapping and opened up her mouth.
 CN PLACEHOLDER
-Она развернула обёртку и широко открыла рот.
+Она скомкала пищевую бумагу и широко открыла рот.
 
 武「民主主義なんて大げさな……」%K%P
 Democracy... is overrated...
 CN PLACEHOLDER
-Демократию... переоценивают...
+Демократию...переоценивают...
 
 武「あれは、ただの多数決じゃないか」%K%P
 It just means the majority rules.
@@ -61,7 +61,7 @@ CN PLACEHOLDER
 優はぱくつきながら平然と言う。%K%P
 You said it flatly as she munched on her sandwich.
 CN PLACEHOLDER
-Жуя и чавкая, ответила Ю.
+Жуя и чавкая ответила Ю.
 
 優「つまり、民意を最大限に反映した結果ってわけ」%K%P
 It is a reflection of the majority of the people's will.
@@ -76,7 +76,7 @@ CN PLACEHOLDER
 朝食担当委員に任命されてしまったのだ、ほんの数分前に……。%K%P
 I had only been appointed breakfast chief minutes before...
 CN PLACEHOLDER
-А меня лишь поставили перед фактом, что теперь я – шеф-повар...
+А меня лишь поставили перед фактом, что теперь я - шеф-повар...
 
 俺が立候補したわけでもないのに。%K%P
 I hadn't even run for the office.
@@ -91,7 +91,7 @@ CN PLACEHOLDER
 優「うわっ、失礼な！　そんなことはしませんよーだ！」%K%P
 Whoa, that's low! I wouldn't do that!
 CN PLACEHOLDER
-Чёрт, это так низко! Я бы никогда!..
+Чёрт, это так низко! Я бы никогда...!
 
 優「きっとみんなは『こん中で一番、タケちゃんが料理うまそうだなぁ〜』って、純粋にそう思ったから、手を挙げたんだと思うよ？」%K%P
 I'm pretty sure it's just because everyone sincerely thought that you would be the best cook.
@@ -101,17 +101,17 @@ CN PLACEHOLDER
 武「……ほんとに調子いいやっちゃな、お前」%K%P
 ...You're sure full of it.
 CN PLACEHOLDER
-...А теперь я уверен в своей правоте на все сто.
+...а теперь я уверен в своей правоте на все сто.
 
 優「てへへへっ……」%K%P
 Tee heeeee...
 CN PLACEHOLDER
-Хи-и-хи-и-и-и-и...
+Хии〜хиииии...
 
 優「ゴチソウサマァ〜♪」%K%P
 Thanks for the sandwich!
 CN PLACEHOLDER
-Спасибо за сэндвичик.
+Спасибо за бутербродик.
 
 武「って、もう食ったんかい！　早ぇーな、しかし……」%K%P
 You already ate it? That's so fast...
@@ -151,7 +151,7 @@ CN PLACEHOLDER
 優「タケ様ぁ〜ん、もう１個作ってぇ〜ん……ちゅっ♪」%K%P
 Come on. Oh, great Takeshi, make me one more... pretty pleeeeeeease〜
 CN PLACEHOLDER
-Да ладно тебе. Будь другом, сделай ещё.... Ну пожа-а-а-а-а-алуйста.
+Да ладно тебе. Будь другом, сделай ещё.... Ну пожааааааалуйста.
 
 まぁ、ひとまずこいつのことはほっとこう。%K%P
 First, I wanted to get away from You.
@@ -161,7 +161,7 @@ CN PLACEHOLDER
 俺は残りの４個を配る為、隣の『憩いの間』へと向かった。%K%P
 I took the remaining four sandwiches over to the rest area to hand them out.
 CN PLACEHOLDER
-Пойду-ка в мини-парк и раздам оставшиеся четыре сэндвича.
+Пойду-ка в мини-парк и раздам оставшиеся четыре бутерброда голодному поволжью.
 
 武「おーい、朝メシができたぞー」%K%P
 Breakfast is ready! Come and get it!
@@ -191,7 +191,7 @@ CN PLACEHOLDER
 いつの間にか、少年もそばに来ていた。%K%P
 All of a sudden, I noticed the Kid beside me.
 CN PLACEHOLDER
-Неожиданно сзади подкрался Малой.
+Неожиданно сзади подкрался Кид.
 
 武「あれ？　つぐみと空は？」%K%P
 Hey. Where are Tsugumi and Sora?
@@ -201,12 +201,12 @@ CN PLACEHOLDER
 少年「空なら、制御室に戻ったよ」%K%P
 Sora went back to the control room.
 CN PLACEHOLDER
-Сора, как обычно, заперлась в Центре управления.
+Сора, как обычно, заперлась в Центре Управления.
 
 少年「『まだ調べたいことが残ってる』って言ってたけど……」%K%P
 She said there was still stuff she had to look into...
 CN PLACEHOLDER
-Сказала, что хочет попытаться что-то сделать...
+Шкажала, што хошет попыташьщя шо-то шделать..." (Сказала, что хочет попытаться что-то сделать...)
 
 武「また、それか……」%K%P
 Oh, that again...
@@ -216,7 +216,7 @@ CN PLACEHOLDER
 ココ「つぐみんはねぇ、うーんとうーんと……どっか行っちゃった」%K%P
 Hmmm. I think Tsugumin took off somewhere...
 CN PLACEHOLDER
-Хм-м-м, так, секундочку. Кажется, Цугумин куда-то отлучилась...
+Хммм, так, шэкундошку. Кафэтфя Шугуми куда-фо офлуфшилащь..." (Хммм, так, секундочку. Кажется Цугуми куда-то отлучилась...)
 
 武「またまた、それか……」%K%P
 Same old, same old...
@@ -226,12 +226,12 @@ CN PLACEHOLDER
 俺はトレイの上に残された３つのタツタサンドに目を向けた。%K%P
 I turned my eyes to the three tuna sandwiches left on the tray.
 CN PLACEHOLDER
-Я повернулся и увидел, что на подносе остались ещё три сэндвича.
+Я повернулся и увидел, что на подносе остались ещё три бутерброда.
 
 （どうしよっかなぁ……）%K%p
 (What to do...)
 CN PLACEHOLDER
-(И что же делать?..)
+(И что же делать...?)
 
 つぐみを捜す
 Look for Tsugumi
@@ -241,7 +241,7 @@ CN PLACEHOLDER
 制御室の空のもとへ
 Go see Sora in the control room
 CN PLACEHOLDER
-Навестить Сору в Центре управления
+Навестить Сору в Центре Управления
 
 まずは、つぐみを捜しに行こう。%K%P
 First, I decided to go look for Tsugumi.
@@ -256,12 +256,12 @@ CN PLACEHOLDER
 俺はふたり分のタツタサンドを両手に持ち、部屋を後にした。%K%P
 I took their sandwiches in hand and left the room.
 CN PLACEHOLDER
-Я взял сэндвичи и прошёл в коридор.
+Я взял бутерброды и прошёл в коридор.
 
 武「おーい、つぐみーっ」%K%P
 Hey, Tsugumi!
 CN PLACEHOLDER
-Ау-у-у, Цугуми!
+Аууу, Цугуми!
 
 通路を適当に歩きながら、呼んでみる。%K%P
 I called out as I walked corridors at random.
@@ -271,12 +271,12 @@ CN PLACEHOLDER
 『はぁ〜い、ここよぉ〜♪』%K%P
 “Choooowww tiiiimmmme!”
 CN PLACEHOLDER
-«По-о-о-ора-а-а ку-у-у-уша-а-а-ать!»
+"Поооорааа куууушаааать!"
 
 なんて答えるような奴ではないと知りつつも……。%K%P
 I knew she wasn't the type to answer to that...
 CN PLACEHOLDER
-Конечно, она не отзовётся... особенно на такую фразу...
+Конечно, она не отзовётся...особенно на такую фразу...
 
 やがて……%K%P
 Finally...
@@ -301,7 +301,7 @@ CN PLACEHOLDER
 『ＨＩＭＭＥＬ』と書かれた扉――%K%P
 “HIMMEL” was written on the door...
 CN PLACEHOLDER
-На двери написано «HIMMEL».
+На двери написано 'ХИММЕЛ'.
 
 つぐみは何をするわけでもなく、その扉の前にたたずんでいた。%K%P
 Tsugumi wasn't really doing anything. She just stood in front of the door.
@@ -321,12 +321,12 @@ CN PLACEHOLDER
 武「『関係ない』か……」%K%P
 'None of my business', huh...?
 CN PLACEHOLDER
-Не моё дело, хм?..
+Не моё дело, хм...?
 
 武「ふ〜ん……ま、いいけど」%K%P
 Sure... Whatever.
 CN PLACEHOLDER
-Конечно... проехали.
+Конечно...проехали.
 
 つぐみ「あなたこそ、何しに来たの？」%K%P
 What are YOU doing here?
@@ -341,7 +341,7 @@ CN PLACEHOLDER
 片方のタツタサンドをつぐみに差し出す。%K%P
 I held out one of the tuna sandwiches to Tsugumi.
 CN PLACEHOLDER
-Я протянул один из сэндвичей Цугуми.
+Я протянул один из бутербродов Цугуми.
 
 つぐみ「何よ、これ」%K%P
 What's this?
@@ -356,7 +356,7 @@ CN PLACEHOLDER
 つぐみ「ふぅん……」%K%P
 Hmmmm...
 CN PLACEHOLDER
-Хм-м-м-м...
+Хмммм...
 
 武「食べないのか？」%K%P
 You're not gonna eat?
@@ -366,7 +366,7 @@ CN PLACEHOLDER
 俺の手にしたタツタサンドを、つぐみは少し斜に構えながら見つめていた。%K%P
 Tsugumi tilted her head a little and stared at the sandwich.
 CN PLACEHOLDER
-Цугуми приподняла голову и уставилась на сэндвич.
+Цугуми приподняла голову и уставилась на бутерброд.
 
 武「食べないなら、優にあげちゃうけど」%K%P
 If you don't want it, I'll give it to You.
@@ -381,7 +381,7 @@ CN PLACEHOLDER
 つぐみは無造作にタツタサンドを奪い取った。%K%P
 Tsugumi indifferently took the sandwich from me.
 CN PLACEHOLDER
-Цугуми безразлично взяла сэндвич из моих рук.
+Цугуми безразлично взяла бутерброд из моих рук.
 
 武「よかった、丹精こめて作ったんだ」%K%P
 Good. I went to a lot of pain to make that.
@@ -411,7 +411,7 @@ CN PLACEHOLDER
 武「礼ぐらい言ったらどうなんだ」%K%P
 You should at least say thanks.
 CN PLACEHOLDER
-Господи, могла бы и спасибо сказать.
+Господи, могла хотя бы спасибо сказать.
 
 つぐみは振り返ろうとしない。%K%P
 Tsugumi didn't try to turn around.
@@ -426,7 +426,7 @@ CN PLACEHOLDER
 つぐみ「はぁ……」%K%P
 *Sigh*...
 CN PLACEHOLDER
-*вздох*
+*вздох*...
 
 忌々しそうに、溜め息をひとつ。%K%P
 She let out an annoyed sigh.
@@ -436,7 +436,7 @@ CN PLACEHOLDER
 つぐみ「私に……触らないで……」%K%P
 Don't... touch me...
 CN PLACEHOLDER
-Не трогай... меня...
+Не трогай...меня...
 
 背中を向けたまま、つぐみは微かな声で呟いた。%K%P
 Tsugumi said it in a low voice without turning around.
@@ -486,17 +486,17 @@ CN PLACEHOLDER
 聴覚を研ぎ澄ますと、どこか遠くのほうで地響きにも似た鈍い音が……。%K%P
 Listening carefully, I heard a sound like the rumble of thunder far away.
 CN PLACEHOLDER
-Прислушавшись, я смог различить звук, напоминающий гром вдали...
+Прислушавшись, я смог различить звук, напоминающий гром вдали....
 
 武「な、なんだ……？」%K%P
 Wh-What...?
 CN PLACEHOLDER
-Ч-что?..
+Ч-что...?
 
 武「なんなんだよ……おい、まさか」%K%P
 What is happening...? It couldn't be...
 CN PLACEHOLDER
-Что происходит? Только не это...
+Что происходит....? Только не это...
 
 床に溜まった水に細波が立っている。%K%P
 Tiny waves formed in the water pooled on the floor.
@@ -516,7 +516,7 @@ CN PLACEHOLDER
 カチカチと明滅を繰り返す照明の中で、つぐみは振り向き、俺のほうを見た。%K%P
 The lights clicked and flickered. Tsugumi turned and looked back at me.
 CN PLACEHOLDER
-Лампы щёлкнули и заискрили. Цугуми развернулась и посмотрела на меня.
+Лампы шёлкнули и заискрили. Цугуми развернулась и посмотрела на меня.
 
 何かを訴えるように……%K%P
 As if she wanted to say something to me...
@@ -551,7 +551,7 @@ CN PLACEHOLDER
 俺は水を蹴って走り出した。%K%P
 I kicked up water as I ran.
 CN PLACEHOLDER
-Я в панике побежал туда, где стоит Цугуми...
+В панике, я побежал туда, где стоит Цугуми...
 
 つぐみのもとへと駆け寄り、叫び声をあげる。%K%P
 I ran to where Tsugumi was, shouting.
@@ -576,12 +576,12 @@ CN PLACEHOLDER
 つぐみ「なんで私に訊くのよ……」%K%P
 Why're you asking me...?
 CN PLACEHOLDER
-Почему ты меня спрашиваешь?..
+Почему ты меня спрашиваешь...?
 
 武「そっか……そうだよな……」%K%P
 Oh yeah... Right...
 CN PLACEHOLDER
-Ну да... правда...
+Ну да...правда...
 
 武「で、どうしよう？」%K%P
 So what should we do?
@@ -591,12 +591,12 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「そうだ！　ひとまずみんなのところへ！」%K%P
 I know! First, we should go to where everyone is.
 CN PLACEHOLDER
-Знаю! Для начала поищем остальных.
+Знаю! Для начала, поищем остальных.
 
 近くにあった入り口を抜け、売店の前に出る。%K%P
 We cut through a nearby door and came out in front of the kiosk.
@@ -626,7 +626,7 @@ CN PLACEHOLDER
 武「おーいっ！　ココーッ！　少年！　優！」%K%P
 Hey! Coco! Kid! You!
 CN PLACEHOLDER
-Ау! Коко! Малой! Ю!
+Ау! Коко! Кид! Ю!
 
 反響した声は、闇に呑まれて消えて行った。%K%P
 The echo of my voice was swallowed, vanishing into the darkness.
@@ -646,17 +646,17 @@ CN PLACEHOLDER
 置きっ放しになっていたトレイの上には、タツタサンドがひとつ、残されていた。%K%P
 On top of the tray I'd left, there was one tuna sandwich remaining.
 CN PLACEHOLDER
-На подносе, что я оставлял, лежит единственный сэндвич.
+На подносе, что я оставлял, лежит единственный бутерброд.
 
 そう言えば、俺の片手にもタツタサンドが……。%K%P
 I still had one of the sandwiches in my hand...
 CN PLACEHOLDER
-А в руке я держу ещё один...
+А в руке я держу ещё один....
 
 つぐみはと言うと、この非常時にもかかわらず、余裕しゃくしゃくと言った感じで、俺の渡したそれを頬ばっていた。%K%P
 The emergency didn't seem to faze Tsugumi, who was stuffing her face with the sandwich I'd given her.
 CN PLACEHOLDER
-Непохоже, что авария смутила Цугуми, так как та с невозмутимым видом поглощает свой.
+Не похоже, что авария смутила Цугуми, т.к. та с невозмутимым видом поглощает свой.
 
 つぐみ「ねぇ……」%K%P
 Hey...
@@ -681,7 +681,7 @@ CN PLACEHOLDER
 くしゃくしゃに丸められた包装紙だった。%K%P
 It was the balled up sandwich wrapper.
 CN PLACEHOLDER
-«Что-то» оказалось скомканной в шарик обёрткой.
+'Что-то' оказалось скомканной в шарик пищебумагой.
 
 つぐみ「捨てといて」%K%P
 ...Needs to be thrown away.
@@ -706,7 +706,7 @@ CN PLACEHOLDER
 ――制御室の前。%K%P
 —In front of the control room.
 CN PLACEHOLDER
-– Перед Центром управления.
+- Перед Центром Управления.
 
 暗闇の向こうに霞んで見えたのは、見覚えのある３人の影だった。%K%P
 In the far darkness, I could just make out three familiar outlines.
@@ -721,7 +721,7 @@ CN PLACEHOLDER
 ココ「つぐみーん！」%K%P
 Tsugumin!
 CN PLACEHOLDER
-Цугумин!
+Цугуми!
 
 ザバザバと水を踏んで、３人の近くへ歩み寄る。%K%P
 Splashing through the water, the three of them walked over.
@@ -731,7 +731,7 @@ CN PLACEHOLDER
 少年「ねえ？　空のこと、見かけなかった？」%K%P
 Hey, have you seen Sora?
 CN PLACEHOLDER
-Ребята, вы не видели Сору?
+Ребята, Вы не видели Сору?
 
 俺はつぐみのほうを見た。%K%P
 I looked at Tsugumi.
@@ -746,7 +746,7 @@ CN PLACEHOLDER
 武「制御室にいたんじゃないのか？」%K%P
 Wasn't she in the control room?
 CN PLACEHOLDER
-Её не было в Центре управления?
+Её не было в Центре Управления?
 
 優「それが、もぬけの殻なのよ」%K%P
 It's empty now.
@@ -761,12 +761,12 @@ CN PLACEHOLDER
 俺は扉の横のパネルを押す。しかし、ボタンは沈黙していた。%K%P
 I pushed the panel next to the door, but the button remained lifeless.
 CN PLACEHOLDER
-Я нажал кнопку на панели рядом с дверью, но та не подала признаков жизни.
+Я нажал кнопку на близлежащей панели, но та не подала признаков жизни.
 
 武「おい、どうやって開けるんだ？　電気が来てないとダメなのか？」%K%P
 Hey, how do you open this? Does the electricity have to be on?
 CN PLACEHOLDER
-Эй, как вам удалось открыть её? Разве для этого не требуется ток?
+Эй, как Вам удалось открыть её? Разве для этого не требуется ток?
 
 優「ああ、扉の下のほうに緊急用の開閉装置があるから……」%K%P
 Oh, there is an emergency mechanism for opening the door near the bottom of it...
@@ -786,7 +786,7 @@ CN PLACEHOLDER
 俺はふたり分のタツタサンドを両手に持ち、部屋を後にした。%K%P
 I took their sandwiches in hand and left the room.
 CN PLACEHOLDER
-Я взял сэндвичи и прошёл в коридор.
+Я взял бутерброды и прошёл в коридор.
 
 武「あれっ？　どっちに行けばいいんだっけか？」%K%P
 Which way was it?
@@ -816,7 +816,7 @@ CN PLACEHOLDER
 『ＨＩＭＭＥＬ』と書かれた扉――%K%P
 “HIMMEL” was written on the door...
 CN PLACEHOLDER
-На двери написано «HIMMEL».
+На двери написано 'ХИММЕЛ'.
 
 武「いや、ここじゃないよなぁ」%K%P
 No, this isn't it.
@@ -841,7 +841,7 @@ CN PLACEHOLDER
 俺は扉の横のオープンボタンを押した。%K%P
 I pushed the open button next to the door.
 CN PLACEHOLDER
-Я нажал кнопку на панели рядом с дверью.
+Я нажал кнопку на близлежащей панели.
 
 だが、扉は開かなかった。%K%P
 But the door didn't open.
@@ -851,7 +851,7 @@ CN PLACEHOLDER
 武「おーい空、鍵開けてくれーっ、メシ持ってきたぞーっ！　食うぞーっ！」%K%P
 Hey, Sora! Open up! I brought you food! Time to eat!
 CN PLACEHOLDER
-Сора! Открой дверь! Я принёс что-то вкусное! Пора поесть!
+Сова! Открывай! Медведь пришёл...эээ, то есть, Сора! Открой дверь! Я принёс что-то вкусное! Пора поесть!
 
 室内通話ボタンを押しながら、俺は叫んだ。%K%P
 I shouted into the interphone as I pushed the button to talk.
@@ -886,12 +886,12 @@ CN PLACEHOLDER
 武「いかん、いかんぞ。きちんと食わないとパワーが出ないんだぞ？」%K%P
 You have to eat, or you're not going to have any energy.
 CN PLACEHOLDER
-Если не будешь есть, то можешь попросту обессилеть. Откуда, по-твоему, ещё можно брать энергию?
+Если не будешь есть, то можешь попросту обессилеть. Откуда по-твоему ещё можно брать энергию?
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「すいません、今、手が離せないんです」%K%P
 I'm sorry, but I'm occupied at the moment.
@@ -901,12 +901,12 @@ CN PLACEHOLDER
 昨日もそんなやり取りがあったのを思い出す。%K%P
 I remembered that we'd had the same exchange the day before.
 CN PLACEHOLDER
-Старая песня – вчера она сказала то же самое.
+Старая песня - вчера она сказала то же самое.
 
 武「早くしてくれ。ほかほかサンドが冷めちまう」%K%P
 Hurry it up. These sandwiches are gonna get cold.
 CN PLACEHOLDER
-Давай скорее. Иначе сэндвичи остынут.
+Давай скорей. Иначе бутерброды остынут.
 
 武「折角、俺が作ったんだけどなぁ〜〜〜」%K%P
 Besides, I made them special for you〜
@@ -916,7 +916,7 @@ CN PLACEHOLDER
 武「ほら……これ渡すだけだから、顔出してくれないかなぁ？」%K%P
 Listen... I just wanna give these to you, so will you open the door?
 CN PLACEHOLDER
-Слушай... Я просто хочу отдать их тебе, так что, может, откроешь дверь?
+Слушай...я просто хочу отдать их тебе, так что, может откроешь дверь?
 
 空「どうしても、ダメなんです……」%K%P
 I really can't...
@@ -931,7 +931,7 @@ CN PLACEHOLDER
 武「……洗剤２個とビール券も一緒につけようか？」%K%P
 ...I'll throw in a coupon for a beer if you want.
 CN PLACEHOLDER
-...Если хочешь, я ещё купон на пиво дам.
+...я принесу ещё пару пивка, если хочешь.
 
 空「ごめんなさい……」%K%P
 I'm sorry...
@@ -946,7 +946,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「よーしわかった！　ではあと１分だけ待ってやろうっ！！」%K%P
 Alright then! I'm only going to wait out here for one more minute!
@@ -1001,17 +1001,17 @@ CN PLACEHOLDER
 聴覚を研ぎ澄ますと、どこか遠くのほうで地響きにも似た鈍い音が……。%K%P
 Listening carefully, I heard a sound like the rumble of thunder far away.
 CN PLACEHOLDER
-Прислушавшись, я смог различить звук, напоминающий гром вдали...
+Прислушавшись, я смог различить звук, напоминающий гром вдали....
 
 武「な、なんだ……？」%K%P
 Wh-What...?
 CN PLACEHOLDER
-Ч-что?..
+Ч-что...?
 
 武「なんなんだよ……おい、まさか」%K%P
 What's happening? It couldn't be...
 CN PLACEHOLDER
-Что происходит? Только не это...
+Что происходит....? Только не это...
 
 床に溜まった水に細波が立っている。%K%P
 Tiny waves formed in the water pooled on the floor.
@@ -1071,7 +1071,7 @@ CN PLACEHOLDER
 中には聞こえないかもしれないが……。%K%P
 I thought she might not be able to hear me inside...
 CN PLACEHOLDER
-Я решил, что она не слышит меня...
+Я решил, что она не слышит меня....
 
 ごんごん！%K%P
 Bang, bang!
@@ -1086,12 +1086,12 @@ CN PLACEHOLDER
 しかし、返事はなかった。%K%P
 But there was no response.
 CN PLACEHOLDER
-Но ответа не последовало.
+Но, ответа не последовало.
 
 （あっ……電気が来てないなら、室内通話も使えないんじゃ……？）%K%P
 (Oh... I wonder if the interphone needs electricity to work...)
 CN PLACEHOLDER
-(Эх... Наверное, без электричества эта штука не работает...)
+(Эх...Наверно без электричества эта штука не работает...)
 
 分厚い扉を隔てた向こう側の様子は、まったく窺えない。%K%P
 I had no clue what was happening on the other side of the door.
@@ -1126,7 +1126,7 @@ CN PLACEHOLDER
 ココ「たけぴょーん！」%K%P
 Takepyon!
 CN PLACEHOLDER
-Такэпён!
+Такепён!
 
 ザバザバと水を踏んで、皆が走り寄ってくる。%K%P
 Splashing through the water, the four of them walked over.
@@ -1136,12 +1136,12 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「ねえ？　空のこと、見かけなかった？」%K%P
 Hey, have you seen Sora?
 CN PLACEHOLDER
-Такэси, ты не видел Сору?
+Такеши, ты не видел Сору?
 
 武「いや、さっきまでこの中にいたんだけど、呼んでも出てこないんだよ。鍵がかかってるみたいだし……」%K%P
 No, but she was inside here until just a bit ago. But now she won't answer. And it seems like the door is locked...
@@ -1196,7 +1196,7 @@ CN PLACEHOLDER
 少年にサンドを預け、懐中電灯を受け取る。%K%P
 I gave the Kid the sandwich and took the flashlight.
 CN PLACEHOLDER
-Я отдал Малому сэндвич и взял фонарик.
+Я отдал Киду бутерброд и взял фонарик.
 
 スイッチを入れ、部屋の中へと足を踏み入れた。%K%P
 I turned it on and stepped into the room.
@@ -1236,7 +1236,7 @@ CN PLACEHOLDER
 武「さてと……どうするか？」%K%P
 Well... what should we do?
 CN PLACEHOLDER
-Так-с... и что будем делать?
+Так-с...и что будем делать?
 
 皆の輪の中に戻り、俺は落ち着いて言った。%K%P
 I joined everyone and asked that calmly.
@@ -1246,12 +1246,12 @@ CN PLACEHOLDER
 昨日から立て続けに起こる非常事態……。%K%P
 It had been one crisis after another since the day before...
 CN PLACEHOLDER
-Вчера мы успели пережить кучу неприятностей...
+Вчера мы успели пережить кучу неприятностей....
 
 既に慣れきってしまった為か、俺達の中に取り乱す者はひとりもいなかった。%K%P
 I guessed we were already used to the situation because nobody had lost it.
 CN PLACEHOLDER
-И, видимо, привыкли. Сегодня никто уже не паниковал.
+И, видимо, привыкли. Иначе, как объяснить всеобщее мертвецкое спокойствие.
 
 優「事前に何も言わずに、空がいなくなるなんて……」%K%P
 I can't believe Sora would take off without saying anything first.
@@ -1266,7 +1266,7 @@ CN PLACEHOLDER
 武「ん？」%K%P
 Hmmm?
 CN PLACEHOLDER
-Хм-м-м?
+Хммм?
 
 その首の傾げぶりを見て気づいた。%K%P
 Looking at her then, I noticed something.
@@ -1281,7 +1281,7 @@ CN PLACEHOLDER
 優「え？　ああ、これ……？」%K%P
 Huh? Oh, this...?
 CN PLACEHOLDER
-Чего? Ах, это?..
+Чего? Ах, это...?
 
 優はいきなり、俺の見覚えのない服を着て現れていた。%K%P
 You was wearing clothes I hadn't remembered seeing.
@@ -1301,7 +1301,7 @@ CN PLACEHOLDER
 武「ふーん。そっかぁ……優は着替えを持ってたのかぁ」%K%P
 Hmm, I see... So you had a change of clothes.
 CN PLACEHOLDER
-Хм-м-м. Ясненько... значит ты переоделась.
+Хммм. Ясненько...значит ты переоделась.
 
 武「ソースを垂らすとは、ソコツ者め」%K%P
 Spilling sauce on your uniform? That's pretty clumsy.
@@ -1311,7 +1311,7 @@ CN PLACEHOLDER
 優「ははは……」%K%P
 Hahaha...
 CN PLACEHOLDER
-И-хи-хи-хи...
+И〜хи〜хи〜хи...
 
 優はごまかすように頭を掻いた。%K%P
 You scratched her head as if to offset her embarrassment.
@@ -1321,7 +1321,7 @@ CN PLACEHOLDER
 武「まぁ、それより今は、空のことだ」%K%P
 Anyway, we should be thinking about Sora.
 CN PLACEHOLDER
-Как бы там ни было, сейчас гораздо важнее Сора.
+Как бы там ни было, сейчас гораздо важней Сора.
 
 ココ「うーん、とりあえず……」%K%P
 Yeah. For now...
@@ -1336,7 +1336,7 @@ CN PLACEHOLDER
 ココ「空さんがいなかったら、なんで停電したのかだって、わかんないんだし……」%K%P
 Without Sora-san around, we won't know why there was a blackout or anything...
 CN PLACEHOLDER
-Без Соры мы не узнаем, почему пропало электричество...
+Без Соры, мы не узнаем, почему пропало электричество...
 
 少年「そうだね、ＬｅＭＵに一番詳しいのは、空なんだから」%K%P
 Yeah. Sora knows more about LeMU than anyone.
@@ -1346,12 +1346,12 @@ CN PLACEHOLDER
 武「うむ……よしっ、それじゃあこうしよう」%K%P
 Hmmm... Alright, let's do this.
 CN PLACEHOLDER
-Хм-м-м... Хорошо, за дело.
+Хммм.... Хорошо, за дело.
 
 武「優と少年はこのフロアを捜してくれ。俺とつぐみとココは、２階を……」%K%P
 You and the Kid, you guys check this floor. Tsugumi, Coco, and I will hit the second floor...
 CN PLACEHOLDER
-Ю и Малой, ребята, ищите на этом этаже. Цугуми, Коко и я пойдём на второй...
+Ю и Кид, ребята, ищите на этом этаже. Цугуми, Коко и я пойдём на второй...
 
 武「ＯＫ？」%K%P
 Okay?
@@ -1361,7 +1361,7 @@ CN PLACEHOLDER
 優「えっ？　あ、うん」%K%P
 Huh? Alright.
 CN PLACEHOLDER
-Э-э? Ладно.
+Эээ? Ладно.
 
 少年「了解」%K%P
 Roger that.
@@ -1371,7 +1371,7 @@ CN PLACEHOLDER
 ココ「えーっとえーっと……ピピは？」%K%P
 Uh... Um... What about Pipi?
 CN PLACEHOLDER
-Э-э... м-м... а как же Пипи?
+Ээ...мм...а как же Пипи?
 
 武「勿論、ココと一緒に」%K%P
 He'll go with you, of course.
@@ -1401,37 +1401,37 @@ CN PLACEHOLDER
 ツヴァイトシュトックに上がった俺・つぐみ・ココ・ピピの３人と１匹は、さらにバラバラに別れて空を捜し始めた。%K%P
 The three people and one mutt (myself, Tsugumi, Coco, and Pipi) split up once we reached Zweiter Stock.
 CN PLACEHOLDER
-Три человека и пёс – я, Цугуми, Коко и Пипи – разделились, как только добрались до Цвайте Шток.
+Три человека и пёс - я, Цугуми, Коко и Пипи - разделились, как только добрались до Цвайте шток.
 
 ――中性浮力式エレベーターの搭乗口。%K%P
 —The entrance to the neutral buoyancy elevator.
 CN PLACEHOLDER
-– У входа в механический плавучий лифт.
+- У входа в механический плавучий лифт.
 
 ――救護室の中。%K%P
 —Inside the infirmary.
 CN PLACEHOLDER
-– Внутри лазарета.
+- Внутри лазарета.
 
 ――更衣室。%K%P
 —The changing room.
 CN PLACEHOLDER
-– В раздевалке.
+- В раздевалке.
 
 ――警備室。%K%P
 —The security office.
 CN PLACEHOLDER
-– В Офисе охраны.
+- В Офисе Охраны.
 
 ――メリーゴーランド。%K%P
 —The merry-go-round.
 CN PLACEHOLDER
-– У карусели.
+- У карусели.
 
 このフロアの隅に位置するクラゲゴンドラまで来て……%K%P
 We searched everything, even the Jellyfish Gondola...
 CN PLACEHOLDER
-Мы искали везде – даже в гондоле «Медуза»...
+Мы искали везде - даже в гондоле Медузе...
 
 再び、通路を引き返して救護室の前に戻った。%K%P
 Then we retraced our way back to the front of the infirmary.
@@ -1446,12 +1446,12 @@ CN PLACEHOLDER
 ココ「たけぴょーん！　たけぴょーん！」%K%P
 Takepyon! Takepyon!
 CN PLACEHOLDER
-Такэпён! Такэпён!
+Такепён! Такепён!
 
 ピピ「わんわんっ！　わんっ！」%K%P
 *Woof*, *woof*! *Woof*!
 CN PLACEHOLDER
-Гав-гав! Гав!
+Гав гав! Гав!
 
 ココが懐中電灯を振って合図していた。%K%P
 Coco was shaking the flashlight and signaling to me.
@@ -1471,7 +1471,7 @@ CN PLACEHOLDER
 ココは懐中電灯の明かりで大きな×印を作って見せた。%K%P
 Coco used the flashlight to make a big X, signifying nothing found.
 CN PLACEHOLDER
-Коко нарисовала светом большую букву «Х»... Видимо, ничего.
+Коко нарисовала светом большую букву Х... видимо ничего.
 
 ココ「そっちは？」%K%P
 How about you?
@@ -1491,7 +1491,7 @@ CN PLACEHOLDER
 ココ「つぐみんはねぇ、さっきココの目の前を通り過ぎて……」%K%P
 Tsugumin just passed by in front of me.
 CN PLACEHOLDER
-Цугумин только что прошла мимо меня.
+Цугуми только что прошла мимо меня.
 
 武「通り過ぎて？」%K%P
 Passed by?
@@ -1501,12 +1501,12 @@ CN PLACEHOLDER
 ココ「あっちの……『アイ乗り場』のほうに行っちゃった」%K%P
 She went that way... toward the entrance to Ei the egg elevator.
 CN PLACEHOLDER
-Она пошла вон туда... в сторону яйцевидного лифта.
+Она пошла вон туда...в сторону яйцевидного лифта.
 
 武「中性浮力式エレベーターか」%K%P
 The neutral buoyancy elevator, huh?
 CN PLACEHOLDER
-То есть, механического плавучего, а?
+То есть, механического плавучего, хм?
 
 ココ「うん」%K%P
 Yeah.
@@ -1526,22 +1526,22 @@ CN PLACEHOLDER
 つぐみのやつ、また勝手な単独行動を……。%K%P
 It sounded like Tsugumi was up to something solo again...
 CN PLACEHOLDER
-Звучит, словно Цугуми что-то затевает...
+Звучит, словно Цугуми что-то затевает....
 
 武「行ってみよう」%K%P
 I'll go check it out.
 CN PLACEHOLDER
-Пойдём посмотрим, что она задумала.
+Пойдём, посмотрим, что она задумала.
 
 俺とココは、隣の部屋へと移動した。%K%P
 Coco and I moved to the room next door.
 CN PLACEHOLDER
-Мы с Коко прошли к соседнему помещению.
+Коко и я прошли к близлежащему помещению.
 
 すぐに人の気配を感じた。%K%P
 There were signs of someone there.
 CN PLACEHOLDER
-Судя по всему, здесь кто-то есть.
+Судя по признакам, здесь кто-то есть.
 
 黒く塗りつぶされた視界の先に、ゴソゴソとうごめく影がある。%K%P
 Ahead, in the total darkness, was something rustling around.
@@ -1551,7 +1551,7 @@ CN PLACEHOLDER
 ココ「つぐみん？」%K%P
 Tsugumin?
 CN PLACEHOLDER
-Цугумин?
+Цугуми?
 
 問いかけて、ココは懐中電灯の明かりを影に向けた。%K%P
 Calling out, Coco shined the light on the shadow.
@@ -1566,7 +1566,7 @@ CN PLACEHOLDER
 手の平をかざしながら立ち上がったのは、やはりつぐみだった。%K%P
 As expected, it was Tsugumi. She held out the palms of her hands as she stood up.
 CN PLACEHOLDER
-Кто бы сомневался, это Цугуми. Вытянув ладони перед собой, она встала.
+Кто бы сомневался, это Цугуми. Вставая, она расслабила руки.
 
 ココは慌ててスイッチを切り、つぐみのそばへと駆け寄った。%K%P
 Coco hurried to turn off the flashlight and rushed over by Tsugumi.
@@ -1586,12 +1586,12 @@ CN PLACEHOLDER
 つぐみ「ん？　うん……」%K%P
 Huh? Hmph...
 CN PLACEHOLDER
-Что? Э-э...
+Что? Эээ...
 
 ココ「『うん』じゃわからないよぉ〜」%K%P
 I don't understand what you mean by 'Hmph'.
 CN PLACEHOLDER
-Я не понимаю, что ты имеешь в виду своим „э-э-э“.
+Я не понимаю, что ты имеешь в виду своим 'эээ'.
 
 つぐみ「…………」%K%P
 ...
@@ -1646,17 +1646,17 @@ CN PLACEHOLDER
 確かこのケースは……昨日、倉庫で見かけたのと同じものだ。%K%P
 I was sure I'd seen it... in the warehouse the day before.
 CN PLACEHOLDER
-Я уже видел его... вчера, на складе.
+Где-то я его уже видел...вчера, на складе.
 
 工具箱のように見えるが……。%K%P
 It looked like a toolbox, but...
 CN PLACEHOLDER
-Похоже на ящик с инструментами, но...
+Похоже на ящик с инструментами, но....
 
 つぐみ「ううん……これは、後で必要になってくるの」%K%P
 I'm gonna need this later.
 CN PLACEHOLDER
-Оно понадобится мне чуть позже.
+Эта штука понадобится мне чуть позже.
 
 つぐみ「今はただ、エレベーターの状態を診てただけ」%K%P
 Right now, I'm just checking the status of the elevator.
@@ -1671,12 +1671,12 @@ CN PLACEHOLDER
 つぐみはいつになく言葉が多かった。%K%P
 Tsugumi was way more talkative than usual.
 CN PLACEHOLDER
-Цугуми оказалась на редкость говорливее, чем обычно.
+Цугуми оказалась на редкость говорливей, чем обычно.
 
 ココに対する態度と俺に対するそれとは、明らかに異なっている。%K%P
 Her attitude toward Coco was much nicer than the one she had toward me.
 CN PLACEHOLDER
-Она относится к Коко гораздо более дружелюбно, чем ко мне.
+Она относится к Коко гораздо дружелюбней, чем ко мне.
 
 つぐみと言えども、ココ特有の気後れしない性格にはかなわないのだろうか。%K%P
 It seemed to me that Coco's unique personality kept even Tsugumi off balance.
@@ -1686,7 +1686,7 @@ CN PLACEHOLDER
 ココ「ふ〜ん……」%K%P
 Hmmm...
 CN PLACEHOLDER
-Хм-м-м...
+Хммм...
 
 ココ「それで、どうだったの？　エレベーターは動きそう？」%K%P
 So how about it? Does it look like the elevator will move?
@@ -1696,7 +1696,7 @@ CN PLACEHOLDER
 つぐみ「たぶんね」%K%P
 Maybe.
 CN PLACEHOLDER
-Возможно.
+Кажется.
 
 と言って、つぐみはちらりと俺を見た。%K%P
 Tsugumi glanced at me as she said that.
@@ -1751,12 +1751,12 @@ LeMU не получает электроэнергию снаружи, она �
 海底にある熱水噴出孔から高温の水を汲み上げ、その熱を利用して発電機を稼動させている、と……。%K%P
 There was a thermal seafloor vent where hot water was pumped out of the seabed, and heat from that was used to operate the generator.
 CN PLACEHOLDER
-Она сказала, что на дне океана находятся гидротермальные источники, жар от которых используется для вращения турбин...
+Она сказала, что на дне океана находятся горячие вулканические источники, вода из которых используется для вращения турбин....
 
 ココ「したっけぇ〜、なぁ〜してほんなとこさ、えがねばならねだ？」%K%P
 But why do you need to go there?
 CN PLACEHOLDER
-Но зачем туда идти?
+Но, зачем туда идти?
 
 つぐみ「だって……不便でしょ？　このまま明かりがつかなかったら」%K%P
 Because it's a pain with the lights off.
@@ -1781,7 +1781,7 @@ CN PLACEHOLDER
 ココ「あ〜、な〜るほどね！」%K%P
 Oh, I see!
 CN PLACEHOLDER
-А-а, я поняла!
+Аа, я поняла!
 
 ココ「だから、こんなでっかい荷物が必要なんだ？」%K%P
 So that's why you need this big box?
@@ -1796,12 +1796,12 @@ CN PLACEHOLDER
 ココ「ふ〜ん、そっかそっか……なっとく」%K%P
 Oh, I get it now... That makes sense.
 CN PLACEHOLDER
-Да, я поняла... В этом есть смысл.
+Да, я поняла.... В этом есть смысл.
 
 つぐみはようやく、ココの質問責めから解放されたようだ。%K%P
 Tsugumi was finally freed from Coco's barrage of questions.
 CN PLACEHOLDER
-Цугуми всё-таки удалось выбраться из-под горы вопросов, которыми сыплет Коко.
+Цугуми всё-таки удалось выбраться из-под горы вопросов, которыми сыпит Коко.
 
 つぐみ「それじゃあ、行って来るから……」%K%P
 Alright. I'm going down...
@@ -1811,7 +1811,7 @@ CN PLACEHOLDER
 つぐみ「武……ちょっと付き合ってくれない？」%K%P
 Takeshi... could you come along?
 CN PLACEHOLDER
-Такэси... ты не мог бы пойти со мной?
+Такеши...ты не мог бы пойти со мной?
 
 武「えっ？　俺？」%K%P
 Huh? Me?
@@ -1836,7 +1836,7 @@ CN PLACEHOLDER
 武「その前に、ひとつ聞きたいことがあるんだけど……」%K%P
 First, there is one thing that I want to ask you...
 CN PLACEHOLDER
-Сперва я хочу кое-что спросить...
+Сперва, я хочу кое-что спросить...
 
 つぐみ「なに？」%K%P
 What?
@@ -1851,17 +1851,17 @@ CN PLACEHOLDER
 武「それは……どうしてなんだ？」%K%P
 So... why's that?
 CN PLACEHOLDER
-Точно... но почему?
+Точно...но почему?
 
 つぐみ「昨日見たＬｅＭＵのマップ、覚えてない？」%K%P
 Don't you remember the map of LeMU that we saw yesterday?
 CN PLACEHOLDER
-Разве ты не помнишь карту LeMU, что мы видели вчера?
+Разве ты не помнишь карту LeMU, что мы выдели вчера?
 
 武「マップ？　マップ、マップねぇ……」%K%P
 Map? Map... Map...
 CN PLACEHOLDER
-Карту? Карта... карта...
+Карту? Карта...карта...
 
 俺はこめかみを指で押さえ、埋もれた記憶の糸をたぐり寄せた。%K%P
 I pressed on my temples with my fingers, trying to tease out a buried memory.
@@ -1881,7 +1881,7 @@ CN PLACEHOLDER
 武「鮮明に、とまではいかないけど……ある程度は」%K%P
 I can't say I remember it exactly... but kinda, yeah.
 CN PLACEHOLDER
-Не уверен, помню ли я её точно... вроде да.
+Не знаю, помню ли я её точно...вроде да.
 
 つぐみ「じゃあ、そのふたつのエリアの間には、何があった？」%K%P
 And what was between those two areas?
@@ -1891,7 +1891,7 @@ CN PLACEHOLDER
 武「何が？　何がって言われてもなぁ……」%K%P
 Between them? How am I supposed to know...?
 CN PLACEHOLDER
-Между зонами? Откуда, по-твоему, мне знать?..
+Между зонами? Откуда по-твоему мне знать...?
 
 武「何もなかったと思うけど」%K%P
 There wasn't anything there.
@@ -1911,7 +1911,7 @@ CN PLACEHOLDER
 武「ふたつのエリアは、水没した区画で隔てられている……？」%K%P
 The two areas are divided by a block which is now underwater...?
 CN PLACEHOLDER
-Две зоны разделены блоком, который затоплен?..
+Две зоны разделены блоком, который затоплен...?
 
 つぐみ「だから？」%K%P
 So?
@@ -1921,7 +1921,7 @@ CN PLACEHOLDER
 武「制御室のあるエリアから、発電室のあるエリアへは、直接移動することができない」%K%P
 We can't move directly from the control room area to the generator room area.
 CN PLACEHOLDER
-Поэтому мы не можем напрямик пройти от Центра управления до Генераторной.
+Поэтому мы не можем напрямик пройти от Центра Управления до Генераторной.
 
 つぐみ「だとしたら？」%K%P
 So what?
@@ -1931,7 +1931,7 @@ CN PLACEHOLDER
 武「ああ、そういうことか……」%K%P
 Oh, I see...
 CN PLACEHOLDER
-Ох, да... понял...
+Ох, да...понял...
 
 武「発電室のあるエリアに下りるには、２階の――」%K%P
 To get to the generator room's area, we have to access the second floor...
@@ -1941,17 +1941,17 @@ CN PLACEHOLDER
 武「中性浮力式エレベーターを利用する以外、方法はないんだ」%K%P
 And the only way we can do that is by using the neutral buoyancy elevator.
 CN PLACEHOLDER
-И единственный способ туда добраться – воспользоваться механическим плавучим лифтом.
+И единственный способ туда добраться - воспользоваться механическим плавучим лифтом.
 
 つぐみ「手伝って……くれるでしょ？」%K%P
 Could you... help me out?
 CN PLACEHOLDER
-Ты можешь... помочь мне?
+Ты можешь...помочь мне?
 
 武「でも、いいのか？　一応、空の意見も聞いてみないと……」%K%P
 But do you think it's alright? I mean, we haven't asked Sora's opinion...
 CN PLACEHOLDER
-Но это действительно стоит того? То есть, мы даже не знаем мнение Соры...
+Но, это действительно стоит того? То есть, мы даже не знаем мнение Соры...
 
 武「そもそも、この停電の原因が、本当に発電機にあるのかどうかだってわからないわけだし……」%K%P
 And we don't know if the cause of the blackout is really the generator...
@@ -1966,7 +1966,7 @@ CN PLACEHOLDER
 武「えっ？」%K%P
 Huh?
 CN PLACEHOLDER
-А?
+Ч-Чего?
 
 つぐみ「空を捜したって、ムダだと思う」%K%P
 I don't think you're going to find Sora.
@@ -1986,17 +1986,17 @@ CN PLACEHOLDER
 つぐみ「制御室のコンピューターは、完全に使い物にならない」%K%P
 The control room computer is going to be down.
 CN PLACEHOLDER
-Компьютер в Центре управления обесточен.
+Компьютер в Центре Управления обесточен.
 
 つぐみ「たとえ空がいたところで、レミとコンタクトを取ることはできないの」%K%P
 Even if Sora were around, she wouldn't be able to contact LeMMIH.
 CN PLACEHOLDER
-Даже если Сора находится где-то поблизости, она не сможет наладить контакт с LeMMIH.
+Даже если Сора находится где-то поблизости, она не сможет наладить контакт с ЛеММИХ.
 
 つぐみ「今は、とりあえず発電機を見に行くことぐらいしか、私達にできることはない……でしょ？」%K%P
 So the only thing that we can do is go check out the generator, right?
 CN PLACEHOLDER
-У нас нет иного выбора, кроме как проверить состояние генератора... понимаешь?
+У нас нет иного выбора, кроме как проверить состояние генератора...понимаешь?
 
 武「まあ、確かにそうかもしれないけど……」%K%P
 Well, I suppose so, but...
@@ -2016,17 +2016,17 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「武……」%K%P
 Takeshi...
 CN PLACEHOLDER
-Такэси...
+Такеши...
 
 つぐみ「あなたのことが……どうしても……必要なの……」%K%P
 I really... need... you...
 CN PLACEHOLDER
-Ты... нужен... мне...
+Ты...нужен...мне...
 
 その刹那、俺の鼓動は停止した。%K%P
 Those words shocked me. I thought my heart stopped for a second.
@@ -2036,7 +2036,7 @@ CN PLACEHOLDER
 『あなたのことが……どうしても……必要なの……』%K%P
 “I really... need... you...”
 CN PLACEHOLDER
-«Ты... нужен... мне...»
+'Ты...нужен...мне...'
 
 まさか、こんな言葉を聞くなんて、思いもよらなかった。%K%P
 They were not words that I ever expected to hear from Tsugumi's mouth.
@@ -2096,12 +2096,12 @@ CN PLACEHOLDER
 ココ「ねえ？　ココは？　ココは行かなくていいの？」%K%P
 Hey, what about Coco?
 CN PLACEHOLDER
-Эй, а я? А что делать мне?
+Эй, а Коко? Коко что будет делать?
 
 つぐみ「そうね。ココには、別の仕事を頼みたいから」%K%P
 I've got another job I want Coco to do.
 CN PLACEHOLDER
-Для тебя у меня есть особое задание.
+Для Коко у меня есть особое задание.
 
 ココ「別の仕事？　何それ？」%K%P
 Another job? What's that?
@@ -2111,12 +2111,12 @@ CN PLACEHOLDER
 つぐみ「今話した事情を、優と少年に伝えて欲しいの」%K%P
 I want you to tell You and the Kid what I just told you.
 CN PLACEHOLDER
-Я хочу, чтобы ты слово в слово передала Ю и Малому то, что только что услышала от меня.
+Я хочу, чтобы ты слово в слово передала Ю и Киду то, что только что услышала от меня.
 
 つぐみ「つまり、私と武が、これから発電室を見に行くって話を……」%K%P
 I mean, tell them that Takeshi and I are going to the generator room...
 CN PLACEHOLDER
-То есть, скажи им, что мы с Такэси идём в Генераторную...
+То есть, скажи им, что мы с Такеши идём в Генераторную...
 
 ココ「なぁ〜んだ、そんなことか」%K%P
 Oh, that.
@@ -2151,7 +2151,7 @@ CN PLACEHOLDER
 その目に惑わされたくなかった。%K%P
 I didn't want her eyes to drag me in.
 CN PLACEHOLDER
-Её глаза – как трясина.
+Её глаза - как трясина.
 
 武「そうだ、空を捜すほうが先だ。勝手な行動をするべきじゃない」%K%P
 We've got to look for Sora first. This isn't a time to be acting selfishly.
@@ -2176,7 +2176,7 @@ CN PLACEHOLDER
 ココ「ねえねえ？　ココがかわりに行ってあげよっか？」%K%P
 Hey, hey. Do you want me to go instead?
 CN PLACEHOLDER
-Эй, эй. А можно я тогда пойду вместо Такэси?
+Эй, эй. А можно я тогда пойду вместо Такеши?
 
 ココはにこにこと無邪気に尋ねた。%K%P
 Coco asked the question innocently.
@@ -2186,7 +2186,7 @@ CN PLACEHOLDER
 つぐみ「ええと……そうねぇ……」%K%P
 Uh... Let's see...
 CN PLACEHOLDER
-Э-э... если подумать...
+Ээ...если подумать...
 
 つぐみはすぐに表情を戻す。%K%P
 Tsugumi's expression soon returned to normal.
@@ -2211,12 +2211,12 @@ CN PLACEHOLDER
 つぐみ「私が発電室を見に行くことを、優と少年に伝えて欲しいの」%K%P
 I want you to tell You and the Kid that I'm going to the generator room.
 CN PLACEHOLDER
-Я хочу, чтобы ты сказала Ю и Малому, что я иду в Генераторную.
+Я хочу, чтобы ты сказала Ю и Киду, что я иду в Генераторную.
 
 つぐみ「それと……武が怖がって一緒に行こうとしないから、困ってるって……」%K%P
 And... that Takeshi put me in a difficult spot because he was scared and wouldn't come along with me...
 CN PLACEHOLDER
-И... что Такэси поставил меня в неловкое положение, испугался и отказался пойти вместе...
+И...что Такеши поставил меня в неловкое положение, испугался и отказался пойти вместе...
 
 武「おい、ちょっと待てよ！！　俺がいつ怖がった？」%K%P
 Hey, hold on! When did I say I was scared?
@@ -2231,7 +2231,7 @@ CN PLACEHOLDER
 つぐみ「『いやだ、行きたくない』って、駄々っ子みたいに言ったじゃない」%K%P
 'No. I don't want to go.' That sounds pretty scared to me.
 CN PLACEHOLDER
-„Нет. Я никуда не пойду“. Так говорят только трусы.
+'Нет. Я никуда не пойду.' Так говорят только трусы.
 
 武「お前なぁ！　誰が駄々っ子だ誰が。そんなんじゃない、ただ物事は段取りを踏まえてだなぁ――」%K%P
 Hey! Who do you think you're calling scared? I just think that we should do something else first.
@@ -2241,7 +2241,7 @@ CN PLACEHOLDER
 つぐみ「ほら、そうやってすぐ吠える。臆病なのね……」%K%P
 See what I mean. Something happens and you start whining like a baby...
 CN PLACEHOLDER
-Посмотри на себя. Как только что-то случается, ты начинаешь ныть как маленький ребёнок...
+Посмотри на себя. Как только что-то случается, ты закатываешься как маленький ребёнок...
 
 つぐみ「意気地のない男……」%K%P
 You are a gutless man...
@@ -2251,12 +2251,12 @@ CN PLACEHOLDER
 つぐみ「ああ、それともまだ『男』になってないのかな……？」%K%P
 Or maybe you're not even a man yet...?
 CN PLACEHOLDER
-Или, может, ты просто не мужик?..
+Или может ты просто не мужик...?
 
 つぐみ「ココ、早く優と少年を呼んできてよ。武は役に立ちそうにないから」%K%P
 Coco, hurry and get You and the Kid. Takeshi isn't going to be any use.
 CN PLACEHOLDER
-Коко, скорее сбегай за Ю и Малым. Такэси просто бесполезная тряпка.
+Коко, скорей сбегай за Ю и Кидом. Такеши просто бесполезная тряпка.
 
 武「つぐみっ！　そういう言い方はないだろう！？」%K%P
 Tsugumi! You don't have to talk like that!
@@ -2271,17 +2271,17 @@ CN PLACEHOLDER
 つぐみ「じゃ、どう言えばいいの？」%K%P
 So how do you want me to say it?
 CN PLACEHOLDER
-А как ещё это, по-твоему, называется?
+А как ещё это по-твоему называется?
 
 あっさりとつぐみは言葉を返す。%K%P
 Without hesitating, Tsugumi shot the question right back at me.
 CN PLACEHOLDER
-Цугуми без промедления бросила мне встречный вопрос.
+Без промедления, Цугуми бросила мне встречный вопрос.
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 胸倉を掴んでやろうかとさえ思った。%K%P
 For one moment, I thought I'd grab her by her collar and show her.
@@ -2291,7 +2291,7 @@ CN PLACEHOLDER
 しかし、俺は手を下げた……。%K%P
 But I dropped my hand...
 CN PLACEHOLDER
-Но кто я буду после этого?..
+Но, кто я буду после этого...?
 
 武「はいはい、わかった、わかりましたよ、付き合いますとも」%K%P
 Okay, okay. Fine. I'll go with you.
@@ -2306,7 +2306,7 @@ CN PLACEHOLDER
 つぐみ「……ふん」%K%P
 ...Hmmph.
 CN PLACEHOLDER
-...Ха.
+....Хххаа.
 
 つぐみは鼻で笑う。%K%P
 Tsugumi laughed through her nose.
@@ -2326,7 +2326,7 @@ CN PLACEHOLDER
 つぐみ「武は私がもらっていくから」%K%P
 And I'm taking Takeshi along.
 CN PLACEHOLDER
-И что Такэси со мной.
+И что Такеши со мной.
 
 ココ「ラジャーッ！　了解しました！」%K%P
 Roger! Ten-four that!

@@ -61,32 +61,32 @@ CN PLACEHOLDER
 宇宙クジラの部屋のような作り物の空とは違う、無限の広がりを感じさせる大空。%K%P
 It was not like a fake sky like in the Cosmic Whale room, but a sky that felt broad and infinite.
 CN PLACEHOLDER
-Оно не похоже на фальшивое небо из зала Космического кита. Это небо широкое и бескрайнее.
+Оно не похоже на фальшивое небо из Зала Космического Кита. Это небо, широкое и бескрайнее.
 
 ここは……、地上だ。%K%P
 I was... on the ground.
 CN PLACEHOLDER
-Я... на земле.
+Я....на земле.
 
 正確に言えば、浮島、インゼル・ヌルだ。%K%P
 More precisely, I was on the floating island, Insel Null.
 CN PLACEHOLDER
-Точнее, я на плавучем острове, Инсель Нуль.
+Точнее, я на плавучем острове, Инсель нуль.
 
 そう、ぼくは……、いや、ぼくらは泳ぎ切ったんだ。%K%P
 Yes, I had... No, we had swum to it...
 CN PLACEHOLDER
-Да, мне... нет, нам удалось доплыть до него...
+Да, мне...нет, нам удалось доплыть до него...
 
 ツヴァイトシュトックから、海面までの３４ｍを……。%K%P
 The nearly 34 meters from Zweiter Stock to the surface...
 CN PLACEHOLDER
-Почти 30 метров от Цвайте Шток до поверхности...
+Почти 30 метров от Цвайте шток до поверхности...
 
 ぼくは何とかインゼル・ヌルの非常用フラップを意識をなくした沙羅を抱えたまま登り切り……。%K%P
 Somehow, I had climbed into the emergency entrance of Insel Null holding the unconscious Sara in my arms.
 CN PLACEHOLDER
-Каким-то образом мне удалось добраться до аварийного выхода на Инсель Нуль, держа в руках бессознательную Сару.
+Каким-то образом, мне удалось добраться до аварийного выхода на Инсель нуль, держа в руках бессознательную Сару.
 
 そして沙羅が無事なのを確認したところまでは覚えている。%K%P
 I remembered checking to see if Sara was alright.
@@ -101,12 +101,12 @@ CN PLACEHOLDER
 ぼくは、ハッと体を起こしまわりを見回し、沙羅がぼくのすぐ横にいるのを見てほっと胸をなで下ろした。%K%P
 I awoke with a start, looked around, and was relieved to see Sara lying down next to me.
 CN PLACEHOLDER
-Я подскочил и первое, что я сделал – огляделся вокруг, а затем расслабился, увидев, что Сара лежит рядом.
+Я подскочил и, первое что я сделал, огляделся вокруг, а затем расслабился, увидев что Сара лежит рядом.
 
 その胸は、かすかに上下し、規則正しい呼吸の音が確認できる。%K%P
 Her chest rose and fell faintly. I could hear the regular sound of her breathing.
 CN PLACEHOLDER
-Она ровно дышит, а её живот едва заметно поднимается и опускается.
+Она ровно дышит, а её живот, едва заметно, поднимается и опускается.
 
 ぼくは改めて、辺りを見回した。%K%P
 I looked around again.
@@ -116,7 +116,7 @@ CN PLACEHOLDER
 インゼル・ヌルの端のほう、ちょうど緑の深い公園になっている辺りだ。%K%P
 I checked around the edge of Insel Null, which was a lush park.
 CN PLACEHOLDER
-Я прошёлся вдоль берега Инсель Нуль, представляющего из себя цветущий зеленью сквер.
+Я прошёлся вдоль берега Инсель нуль, представляющего из себя цветущий зеленью сквер.
 
 木々の向こうに、管理棟やホテル、タワーの明かりが見える。%K%P
 I could see the administration center, hotel, and a tower of light behind the trees.
@@ -126,7 +126,7 @@ CN PLACEHOLDER
 まだ空が暗いところを見ると、気絶していたのはそれほど長い時間ではなさそうだ。%K%P
 It was still dark, so it didn't seem like I'd been unconscious for very long.
 CN PLACEHOLDER
-Сейчас всё ещё темно, а значит я был без сознания не так уж и долго.
+Сейчас всё ещё темно, значит я был без сознания не так уж и долго.
 
 １時間前後というところか……。%K%P
 Maybe about an hour or so...
@@ -136,7 +136,7 @@ CN PLACEHOLDER
 しかし……、よく泳ぎ切れたものだ。%K%P
 I was... impressed that we had been able to swim all the way to the surface...
 CN PLACEHOLDER
-Я... удивлён, что нам удалось доплыть до поверхности...
+Я...удивлён, что нам удалось доплыть до поверхности...
 
 改めて思う。%K%P
 I went over it again in my head.
@@ -146,7 +146,7 @@ CN PLACEHOLDER
 唐突に、１日、制御室で空と交わした会話が頭に浮かんだ。%K%P
 Suddenly, a conversation in the control room with Sora came to my mind.
 CN PLACEHOLDER
-Вспомнил разговор с Сорой в Центре управления.
+Вспомнил разговор с Сорой в Центре Управления.
 
 空「１５階建てのビルを想像してみて下さい」%K%P
 Imagine a fifteen-story building.
@@ -171,12 +171,12 @@ CN PLACEHOLDER
 空「では、１０階建てのビルではどうですか？」%K%P
 Well, then how about a ten-story building?
 CN PLACEHOLDER
-Ну, тогда как насчёт 10-этажного здания?
+Ну, тогда как на счёт 10-этажного здания?
 
 空「水深３４ｍ……ツヴァイトシュトックが、この位置にあります」%K%P
 The depth of Zweiter Stock only amounts to 34 meters.
 CN PLACEHOLDER
-Глубина в 34 метра... на уровне Цвайте Шток.
+Глубина в 34 метра...на уровне Цвайте шток.
 
 少年「３４ｍか……」%K%P
 34 meters...
@@ -186,7 +186,7 @@ CN PLACEHOLDER
 あのときぼくは、空になんと答えたっけ……。%K%P
 How had I responded to Sora...?
 CN PLACEHOLDER
-Как я ответил Соре?..
+Как я ответил Соре...?
 
 そうだ、ぼくは無理だと答えたんだ。%K%P
 I remembered. I had said it was impossible.
@@ -201,7 +201,7 @@ CN PLACEHOLDER
 ぼくは、それなら何とか行けそうな気がすると言ったんだっけ。%K%P
 Hadn't I said that I thought I could swim it?
 CN PLACEHOLDER
-Разве я не сказал, что наверное я смогу?
+Разве я не сказал, что наверно я смогу?
 
 空は、気圧の事とか持ち出して、無理だと言っていたけど……。%K%P
 Sora talked about the pressure and said it was impossible...
@@ -230,19 +230,19 @@ CN PLACEHOLDER
 ……そう言えば、空はどうしたんだろう。%K%N
 ...That reminded me... I wondered what had happened to Sora.
 CN PLACEHOLDER
-...Сора... что с ней стало?
+...Сора...что с ней стало?
 
 あの停電で、死んでしまったのだろうか……。%K%N
 Had she suffered the equivalent of death from the blackout...?
 CN PLACEHOLDER
-То, что она пережила при отключении питания, похоже на смерть?..
+То, что она пережила при отключении питания, похоже на смерть...?
 
 %N
 
 いや、空はＲＳＤだ。%K%N
 No. Sora was RSD-generated.
 CN PLACEHOLDER
-Нет. Сора – это RSD-изображение.
+Нет. Сора - это RSD-изображение.
 
 人間ではない。%K%N
 She wasn't human.
@@ -262,17 +262,17 @@ CN PLACEHOLDER
 それに空は……、何というか、すごく人間ぽい、とでも言うか……。%K%P
 And Sora was... how could I describe it? She was so... human...
 CN PLACEHOLDER
-Сора была... как же выразить это словами? Она была... человечнее нас всех вместе взятых...
+Сора была...как же выразить это словами? Она была...человечней нас всех вместе взятых...
 
 大切な仲間を失ってしまったような、鈍い喪失感を覚えた。%K%P
 I felt a blunt sense of sadness, as if I had lost a close friend.
 CN PLACEHOLDER
-Я чувствую давящую печаль – словно я потерял близкого друга.
+Я чувствую давящую печаль - словно я потерял близкого друга.
 
 沙羅「う、んん……」%K%P
 Uh, ummmm...
 CN PLACEHOLDER
-М-м... Ум-м-м...
+*Ммм*.......*ммммпх*...
 
 その声に意識を引き戻される。%K%P
 Sara's voice pulled me back to reality.
@@ -282,12 +282,12 @@ CN PLACEHOLDER
 そうだ、今はそんなことを考えている時ではない。%K%P
 It was not the time to be thinking about such things.
 CN PLACEHOLDER
-Ладно, некогда размышлять. Есть дела и поважнее.
+Ладно, некогда размышлять. Есть и дела поважней.
 
 少年「沙羅……、沙羅？」%K%P
 Sara... Sara?
 CN PLACEHOLDER
-Сара... Сара?
+Сара...Сара?
 
 そう言いながら、沙羅の肩を静かに揺する。%K%P
 I shook Sara's shoulder gently.
@@ -297,7 +297,7 @@ CN PLACEHOLDER
 沙羅「う、ん、あ……」%K%P
 Uh, ummm, ah...
 CN PLACEHOLDER
-М-м... ох...
+*Ммм*, *ах*...
 
 沙羅がうっすらと目を開いた。%K%P
 Sara opened her eyes slightly.
@@ -307,7 +307,7 @@ CN PLACEHOLDER
 沙羅「お、にい、ちゃん？」%K%P
 O.. nii... chan?
 CN PLACEHOLDER
-Б... бра... тик?
+Б...бра...тик?
 
 すぐに、その目が大きく見開かれる。%K%P
 Her eyes soon grew wide.
@@ -322,7 +322,7 @@ CN PLACEHOLDER
 沙羅「お兄ちゃん、ここは……」%K%P
 Onii-chan, where are we...?
 CN PLACEHOLDER
-Братик... где?..
+Братик...где...?
 
 沙羅は、まだ状況を把握できていないようだ。%K%P
 Sara didn't seem to understand the situation.
@@ -332,12 +332,12 @@ CN PLACEHOLDER
 少年「インゼル・ヌルだよ沙羅」%K%P
 Sara, this is Insel Null.
 CN PLACEHOLDER
-Сара, это Инсель Нуль.
+Сара, это Инсель нуль.
 
 沙羅「じゃあ、じゃあ……」%K%P
 So... So we...
 CN PLACEHOLDER
-Мы... так мы...
+Мы...мы...!
 
 少年「助かったんだ。ぼくらは、泳ぎ切ったんだよ」%K%P
 We're safe now. We made it.
@@ -347,12 +347,12 @@ CN PLACEHOLDER
 少年「ツヴァイトシュトックからの３４ｍを……」%K%P
 Over 34 meters from Zweiter Stock...
 CN PLACEHOLDER
-Почти 34 метра от Цвайте Шток...
+Почти 34 метра от Цвайте шток...
 
 沙羅「まだ……、生きてる……？」%K%P
 Are we... still alive...?
 CN PLACEHOLDER
-Мы... не умерли?..
+Мы...не умерли...?
 
 少年「そうだ。生きてるよ。沙羅も、ぼくも……」%K%P
 Yes. We're both still alive.
@@ -372,7 +372,7 @@ CN PLACEHOLDER
 沙羅「うん……、ありがとうお兄ちゃん」%K%P
 Yeah... Thank you, onii-chan.
 CN PLACEHOLDER
-Да... Спасибо тебе, братик.
+*Ммм*...спасибо тебе, братик.
 
 少年「言ったろ。ぼくを信じろって」%K%P
 I told you to trust me.
@@ -392,12 +392,12 @@ CN PLACEHOLDER
 ハッと、沙羅は胸に手をやる。%K%P
 She suddenly put her hand on her chest.
 CN PLACEHOLDER
-И тут ни с того ни с сего она приложила руку к груди.
+И тут, ни с того ни с сего, она приложила руку к груди.
 
 服の中に入れたペンダントを、手触りで確かめたのだろう。%K%P
 She was probably touching the pendant under her shirt, checking to make sure it was still there.
 CN PLACEHOLDER
-Наверное она хочет убедиться, что кулон по-прежнему у неё под рубашкой.
+Наверно она хочет убедиться, что кулон по-прежнему у неё под рубашкой.
 
 ほっとした様子で、ペンダントを引っ張り出し握りしめる。%K%P
 Looking relieved, she pulled the pendant out and grasped it in her hand.
@@ -417,17 +417,17 @@ CN PLACEHOLDER
 沙羅にとって、そのペンダントは、何者にも代え難いお守りなのだろう。%K%P
 I knew that the pendant was an irreplaceable lucky charm for Sara.
 CN PLACEHOLDER
-Я знаю, что кулон для Сары – как талисман, единственный и незаменимый.
+Я знаю, что кулон для Сары - как талисман, единственный и незаменимый.
 
 それから急に心配げな顔になり言った。%K%P
 Her face suddenly clouded over as she spoke.
 CN PLACEHOLDER
-Но сейчас её лицо почему-то помрачнело.
+Но, сейчас её лицо почему-то помрачнело.
 
 沙羅「そうだ。お兄ちゃん……、なっきゅ先輩や、武達は？」%K%P
 Hey, onii-chan... what happened to Nakkyu-senpai, Takeshi, and the others?
 CN PLACEHOLDER
-Слушай, братик... а что с Няку, Такэси и остальными?
+Конечно же...братик...что с Няку, Такеши и остальными?
 
 少年「たぶん、大丈夫だと思う」%K%P
 I think they're alright.
@@ -447,7 +447,7 @@ CN PLACEHOLDER
 沙羅「そう……、よかった」%K%P
 Really? That's good to hear.
 CN PLACEHOLDER
-Вот как... Рада это слышать.
+Вот как......понятно...
 
 沙羅は、ほっと胸をなで下ろした。%K%P
 Sara looked relieved.
@@ -457,7 +457,7 @@ CN PLACEHOLDER
 沙羅「私達も、いつまでもここにいるわけにはいかないね……」%K%P
 We can't stay here forever...
 CN PLACEHOLDER
-Мы... не можем долго здесь оставаться...
+Мы...не можем долго здесь оставаться...
 
 無事に地上に出られたというのに、沙羅の表情はいまいちさえない。%K%P
 We had made it to the surface safely, but Sara didn't look very well.
@@ -467,7 +467,7 @@ CN PLACEHOLDER
 やはり、ライプリヒに連れ戻されることをおそれているのだろうか？%K%P
 Was she worried about being taken back to Leiblich after all?
 CN PLACEHOLDER
-Может, она всё-таки боится, что за ней опять придут люди из Лейблих?
+Может она всё-таки боится, что за ней опять придут люди из Лейблих?
 
 少年「なあ、沙羅……」%K%P
 Hey, Sara...
@@ -492,12 +492,12 @@ CN PLACEHOLDER
 少年「ああ、あいつらから……、ライプリヒから」%K%P
 Yes. From them... I mean, from Leiblich.
 CN PLACEHOLDER
-Да. От них... то есть от Лейблих.
+Да. От них...то есть, от Лейблих.
 
 沙羅「そんな……、無理だよ……」%K%P
 No... It's impossible...
 CN PLACEHOLDER
-Нет... это невозможно...
+Нет...это невозможно...
 
 少年「無理じゃない」%K%P
 It is possible.
@@ -522,12 +522,12 @@ CN PLACEHOLDER
 少年「今、この島は大混乱中なはずだ」%K%P
 This island has to be in utter chaos.
 CN PLACEHOLDER
-Сейчас на острове, скорее всего, творится полная неразбериха.
+Сейчас на острове скорей всего творится полная неразбериха.
 
 少年「だってそうだろ、ＬｅＭＵ全体が浸水して、全体の構造すら危なくなっているし……」%K%P
 Right? LeMU was flooded, and the whole complex is totally destroyed...
 CN PLACEHOLDER
-LeMU затоплен, комплекс полностью уничтожен...
+LeMU затоплен и комплекс полностью уничтожен...
 
 少年「優達が救出されたことで、大騒ぎになっているはずなんだ。だろ？」%K%P
 And since You and the others got out, this place should be in major confusion, right?
@@ -537,7 +537,7 @@ CN PLACEHOLDER
 沙羅「あ……、うん、そうだね……」%K%P
 Ah... Yeah, I suppose...
 CN PLACEHOLDER
-А-а... М-м, да, похоже на то...
+Эээ...*ммм*...ты прав...
 
 少年「優達はぼくらがまだＬｅＭＵに取り残されているって、そう言ってるはずだ」%K%P
 They'll be telling everyone how we were left behind in LeMU.
@@ -552,7 +552,7 @@ CN PLACEHOLDER
 少年「奴らが疑って、調査したところで、それ以上の真実なんて出てこないよ」%K%P
 If Leiblich has their doubts and tries to look into them, that's as far as they can investigate.
 CN PLACEHOLDER
-Если у Лейблих возникнут сомнения, и те попытаются допросить наших друзей, это всё, что им удастся выяснить.
+Если у Лейблих возникнут сомнения и те попытаются допросить наших друзей, это всё что им удастся выяснить.
 
 沙羅「そっか……」%K%P
 Right...
@@ -562,7 +562,7 @@ CN PLACEHOLDER
 少年「だから、今、みんなの目は……、ライプリヒの奴らも含めて、すべて海中に、ＬｅＭＵに向いてるんだ」%K%P
 So right now, everyone, including Leiblich's people, will be turning their attention to LeMU and looking under the ocean.
 CN PLACEHOLDER
-Так что сейчас внимание всех – даже людей из Лейблих – сосредоточено на LeMU и морском дне.
+Так что, сейчас у всех - даже у людей из Лейблих - внимание сосредоточено на LeMU и морском дне.
 
 少年「それどころか、ぼくらは、すでに死んでいると思われていてもおかしくない……」%K%P
 They might actually think that we're already dead...
@@ -572,7 +572,7 @@ CN PLACEHOLDER
 沙羅「そうか、そうだよね！」%K%P
 Yes, that's true!
 CN PLACEHOLDER
-Да... ну конечно же!
+Да...ну конечно же!
 
 少年「だから、さ」%K%P
 So...
@@ -597,7 +597,7 @@ CN PLACEHOLDER
 沙羅「お兄ちゃん、すごい、すご〜い」%K%P
 You're so incredible, onii-chan!
 CN PLACEHOLDER
-Братик, какой же ты молодец!
+Братик...молодец, молодец!
 
 少年「ぼくらはすでにここにいるわけだから、ＬｅＭＵの中でなんか見つかるわけがない」%K%P
 We're already here, so it's impossible for them to find us in LeMU.
@@ -607,7 +607,7 @@ CN PLACEHOLDER
 少年「ＬｅＭＵの中でぼくらが見つからなかったとしたら……」%K%P
 And if they don't find us in LeMU...
 CN PLACEHOLDER
-А если они не найдут нас в LeMU...
+А, если они не найдут нас в LeMU...
 
 少年「捜索は、この辺りの海一帯に広がる」%K%P
 They'll expand their search for us to the sea around this area.
@@ -637,17 +637,17 @@ CN PLACEHOLDER
 少年「それでも、奴らが真相に気がつくまでかなりの時間が稼げるはずだ」%K%P
 But we'll still have a big head start before they figure out the truth.
 CN PLACEHOLDER
-Но у нас в запасе ещё куча времени, прежде чем они поймут, что мы сбежали.
+Но, у нас в запасе ещё куча времени, прежде чем они поймут, что мы сбежали.
 
 沙羅「そっか、うん！」%K%P
 Yeah, right!
 CN PLACEHOLDER
-Конечно... да!
+Конечно...да!
 
 沙羅「あ……でも……」%K%P
 Oh... but...
 CN PLACEHOLDER
-Ой... но...
+Ох...но...
 
 沙羅が、ふと視線を落とす。%K%P
 Suddenly, Sara looked down.
@@ -657,7 +657,7 @@ CN PLACEHOLDER
 沙羅「でも……、この島からどうやって逃げるの？」%K%P
 But... how are we going to escape from this island?
 CN PLACEHOLDER
-Но... как же мы сбежим с этого острова?
+Но...как же мы сбежим с этого острова?
 
 少年「え？」%K%P
 What?
@@ -667,12 +667,12 @@ CN PLACEHOLDER
 沙羅「だって、ここから出る方法がなきゃ逃げようがないでしょ？」%K%P
 I mean, we can't escape without a way off of this island, right?
 CN PLACEHOLDER
-То есть... мы не можем сбежать с этого острова у всех на виду.
+То есть...мы не можем сбежать с этого острова у всех на виду.
 
 少年「あ〜、それは……」%K%P
 Yeah... That's...
 CN PLACEHOLDER
-Да... точно...
+Да...точно...
 
 沙羅「それは？」%K%P
 That's?
@@ -687,17 +687,17 @@ CN PLACEHOLDER
 少年「う……、あ〜、そうだな……」%K%P
 Uh... Ah... Well...
 CN PLACEHOLDER
-Э-э... М-м... Ну...
+Ээ... мм... ну...
 
 参ったな、それは考えてなかった。%K%P
 She had me. I hadn't thought about that.
 CN PLACEHOLDER
-Блин, а об этом я не подумал.
+Попался, безмозглый.
 
 とにかく、海上に出ればなんとかなると思ってたし……。%K%P
 I thought we would be alright if we could just make it to the surface...
 CN PLACEHOLDER
-Я думал, что с нами будет всё в порядке, если мы просто выберемся на поверхность...
+Я думал, что с нами будет всё в порядке, если мы просто выберемся на поверхность....
 
 沙羅「…………」%K%P
 ...
@@ -707,7 +707,7 @@ CN PLACEHOLDER
 ぼくは必死で考える。%K%P
 I desperately tried to think of something.
 CN PLACEHOLDER
-В замешательстве я попытался придумать, что делать дальше.
+В замешательстве, я попытался придумать, что делать дальше.
 
 少年「うん、そうだ！」%K%P
 I know! I've got it!
@@ -737,7 +737,7 @@ CN PLACEHOLDER
 沙羅「あ……、そうだね」%K%P
 Oh... You're right.
 CN PLACEHOLDER
-Ой... Ты прав.
+Ой... ты прав.
 
 沙羅は、自分の格好を改めて見直した。%K%P
 Sara looked herself over again.
@@ -757,17 +757,17 @@ CN PLACEHOLDER
 沙羅「そっか、やっぱりお兄ちゃんすごいね！　そこまで考えてたんだ」%K%P
 You're amazing! You really thought this through.
 CN PLACEHOLDER
-Ты просто молодец! Братик, как ты всё тщательно продумал!
+Ты просто молодец! Братик... как ты всё тщательно продумал.
 
 少年「あ、いや、まあ……そうだね」%K%P
 Oh, uh... Thanks.
 CN PLACEHOLDER
-Э-э... нет... ну, э-э, конечно.
+Ээ...нет...ну, ээ, конечно.
 
 沙羅は無邪気に喜んでいる。%K%P
 Sara smiled innocently.
 CN PLACEHOLDER
-Сара невинно улыбается.
+Сара наивно счастлива.
 
 ぼくは、この笑顔を一生守ってやる。%K%P
 I wanted to protect that smile forever.
@@ -777,7 +777,7 @@ CN PLACEHOLDER
 それが自分の使命なんだと、改めて思った。%K%P
 I thought once more that it would be my mission.
 CN PLACEHOLDER
-Это будет моей главной целью в жизни.
+Я клянусь верой и правдой исполнять эту миссию.
 
 少年「さあ、沙羅」%K%P
 Let's go, Sara.
@@ -787,7 +787,7 @@ CN PLACEHOLDER
 ぼくは沙羅に左手をさしのべる。%K%P
 I held out my left hand to Sara.
 CN PLACEHOLDER
-Я протянул Саре левую руку.
+Я протянул Саре левую Руку.
 
 沙羅は少しためらいがちに、ぼくの方へ手を伸ばす。%K%P
 Sara reached out to me hesitantly.
@@ -807,12 +807,12 @@ CN PLACEHOLDER
 一瞬、沙羅に親指を握られた時の事が頭をよぎる。%K%P
 For an instant, the memory of Sara holding my thumb flashed across my mind.
 CN PLACEHOLDER
-В то же мгновение я вспомнил, как Сара держалась за мой палец.
+В то же мгновение, я вспомнил, как Сара держалась за мой палец.
 
 この手に埋まっていたあのカケラが……、結局ぼくの記憶を引き出し、沙羅との絆に気づかせてくれたんだ。%K%P
 That fragment in my hand... That shard had helped me retrieve my memory and rediscover the bond between Sara and me.
 CN PLACEHOLDER
-Фрагмент в моей руке... осколок, что помог восстановить память и открыть связь между мной и Сарой...
+Фрагмент в моей руке...осколок, что помог восстановить память и открыть связь между мной и Сарой...
 
 少年「さあ、行こう、沙羅」%K%P
 Let's go, Sara.

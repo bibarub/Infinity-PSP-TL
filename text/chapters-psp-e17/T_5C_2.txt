@@ -1,7 +1,7 @@
 ﻿つぐみ「冗談じゃない！」%K%P
 I get so frustrated!
 CN PLACEHOLDER
-Серьёзно!
+Серьёзно!!
 
 ゴンッ！%K%P
 Bam!
@@ -26,22 +26,22 @@ CN PLACEHOLDER
 つぐみ「『生きてさえいればいい』？」%K%P
 Is it really just 'enough to be alive'?
 CN PLACEHOLDER
-„Скажи спасибо, что можешь жить“?!
+'Скажи спасибо, что можешь жить'...?!
 
 つぐみ「『仲間なんだから協力しろ』ですって？」%K%P
 You say, 'You're one of us, so you should cooperate'?
 CN PLACEHOLDER
-„Ты же один из нас... будь приветливей“?!
+'Ты же один из нас...будь приветливей'...?!
 
 つぐみ「そうやって押しつけて、強要して、詭弁を並べ立てて」%K%P
 And that's how you keep pushing him to agree with you and buy into all your fake ideals.
 CN PLACEHOLDER
-Ты давил на него... заставлял согласиться... с твоими фальшивыми идеалами.
+Ты давил на него...заставлял согласиться...с твоими фальшивыми идеалами.
 
 つぐみ「無責任にも程がある……」%K%P
 I can't believe how irresponsible you can be...
 CN PLACEHOLDER
-Ты просто безответственный тип!..
+Ты просто безответственный тип...!
 
 つぐみ「あなたはいったい、何者なのよ？」%K%P
 Who the hell do you think you are?
@@ -51,12 +51,12 @@ CN PLACEHOLDER
 つぐみ「よくもまぁ、そんなことが言えたものね……」%K%P
 You've really got some nerve talking like that...
 CN PLACEHOLDER
-И тебе ещё... хватает наглости так говорить...
+И тебе ещё...хватает наглости так говорить...
 
 武「だったら！　どうしろってんだよ！」%K%P
 So!? What else could I do!?
 CN PLACEHOLDER
-Думаешь, у меня был выбор?!
+Думаешь, у меня был выбор!?
 
 武「何もせずに絶望して沈んでるよりも、ひとかけらでも希望を持ってたほうがずっといいはずだろ？」%K%P
 It's better than just standing by and watching him sink in despair. It's better to have a little hope than nothing at all, right?
@@ -81,12 +81,12 @@ CN PLACEHOLDER
 武「わざわざ心象を悪くしやがって……！」%K%P
 And now you're trying to make me look bad...!
 CN PLACEHOLDER
-А теперь ещё и пытаешься выставить меня полным говнюком!..
+А теперь ещё и пытаешься выставить меня полным говнюком...!
 
 つぐみ「違う……わざわざしてるわけじゃない」%K%P
 I don't... I'm not doing it on purpose.
 CN PLACEHOLDER
-Нет... не специально.
+Нет...не специально.
 
 つぐみ「いろんなことが、気に入らないだけよ」%K%P
 There's just a lot that I don't agree with.
@@ -106,7 +106,7 @@ CN PLACEHOLDER
 武「どうして、いちいち突っかかるんだよ？」%K%P
 Why do you have to lash out at everything!?
 CN PLACEHOLDER
-К чему все твои нападки?!
+К чему все твои нападки!?
 
 武「いい加減、素直になってみろよ」%K%P
 Why can't you just be yourself for once?
@@ -116,7 +116,7 @@ CN PLACEHOLDER
 つぐみ「違う……素直じゃないのはあなた」%K%P
 You're wrong... You're the one who isn't being yourself!
 CN PLACEHOLDER
-Нет... это ты не показываешь истинного лица!
+Нет...это ты не показываешь истинного лица!
 
 武「俺は素直だよ」%K%P
 I'm always myself.
@@ -131,12 +131,12 @@ CN PLACEHOLDER
 武「お前に言われたくないな」%K%P
 That's funny coming from you.
 CN PLACEHOLDER
-Знаешь поговорку? „Кто как обзывается“...
+Знаешь поговорку? 'Кто как обзывается'...
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「話を戻すぞ、おい」%K%P
 This isn't what we were talking about anyway.
@@ -151,7 +151,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「俺に非があるのなら、怒られたって仕方ない……」%K%P
 If I did something wrong, then I guess I deserve it...
@@ -166,7 +166,7 @@ CN PLACEHOLDER
 武「さぁ、言ってくれよ」%K%P
 So come on, tell me.
 CN PLACEHOLDER
-Так что давай, скажи.
+Так что, давай, скажи.
 
 武「お前の言葉をありのまま、素直に受け入れてやるよ」%K%P
 I won't argue with you, just tell me what it is.
@@ -176,12 +176,12 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「知りたい？　そんなに……」%K%P
 You really want to know...?
 CN PLACEHOLDER
-Ты правда... хочешь знать?
+Ты правда...хочешь знать?
 
 つぐみは、ゴンドラの座席に腰を下ろした。%K%P
 Tsugumi sat back down in the gondola.
@@ -221,7 +221,7 @@ CN PLACEHOLDER
 武「そりゃ……知りたいからだよ」%K%P
 Because... I want to know.
 CN PLACEHOLDER
-Потому что... я хочу знать.
+Потому что...я хочу знать.
 
 武「自分の仲間のことが、知りたいからだ」%K%P
 Because I want to know what my friends are thinking.
@@ -241,7 +241,7 @@ CN PLACEHOLDER
 もしかしたらこいつは、また意固地になっているんじゃないかと……。%K%P
 Maybe she was still trying to be stubborn...
 CN PLACEHOLDER
-Неужели она всё ещё пытается быть упрямой?..
+Неужели она всё ещё пытается быть упрямой...?
 
 つぐみは俺の手を払わず、そのままじっとしていた。%K%P
 Tsugumi didn't try to shake off my hand, but just sat there.
@@ -256,12 +256,12 @@ CN PLACEHOLDER
 つぐみ「私も『仲間』とやらになったのよね……」%K%P
 You had made me 'one of the gang', hadn't you...?
 CN PLACEHOLDER
-Значит... я стала для тебя „своей“?..
+Значит...я стала для тебя 'своей'...?
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「訊きたければ訊けばいい」%K%P
 If you want to know, then here goes.
@@ -271,7 +271,7 @@ CN PLACEHOLDER
 つぐみ「答えてあげるわよ……私は所詮、あなたの『仲間』なんだから」%K%P
 I'll tell you... It's because, in the end, I've become 'your friend'.
 CN PLACEHOLDER
-Я расскажу... В конце концов, раз уж я стала тебе „другом“...
+Я расскажу... В конце концов, раз уж я стала тебе 'другом'...
 
 武「……そっ」%K%P
 ...I see.
@@ -291,7 +291,7 @@ CN PLACEHOLDER
 つぐみ「武はこれ、何だか知ってるわよね？」%K%P
 Takeshi, you know what this is, right?
 CN PLACEHOLDER
-Такэси, скажи мне... что это такое?
+Такеши, скажи мне...что это такое?
 
 武「チャミ」%K%P
 Chami.
@@ -326,7 +326,7 @@ CN PLACEHOLDER
 武「ハムスターってのはデリケートな生き物で、小動物はいたわってやらなきゃいけないわけでっ」%K%P
 Hamsters are delicate living creatures, and you should be careful with him.
 CN PLACEHOLDER
-Хомячки – это нежные живые создания, и с ними надо обращаться бережно.
+Хомячки - это нежные живые создания, и с ними надо обращаться бережно.
 
 つぐみ「そうよね……」%K%P
 Yeah, you're right...
@@ -336,7 +336,7 @@ CN PLACEHOLDER
 つぐみ「でも、しょうがないじゃない」%K%P
 But what else can I do?
 CN PLACEHOLDER
-Но... что я могу поделать?
+Но...что я могу поделать?
 
 つぐみ「この子の居場所は、他にないもの」%K%P
 He doesn't have anywhere else to go.
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 チャミはつぐみの手の上に立っている。%K%P
 Chami stood in Tsugumi's hand.
@@ -366,12 +366,12 @@ CN PLACEHOLDER
 つぐみ「ねぇ武、こうすると、どうなるか知ってる？」%K%P
 Heeey Takeshi, do you know what will happen if I go like THIS?
 CN PLACEHOLDER
-Эй, Такэси. А что будет, если я сделаю ТАК?
+Эй, Такеши. А что будет, если я сделаю ТАК?
 
 武「！？」%K%P
 !?
 CN PLACEHOLDER
-?!
+---!?
 
 つぐみは……%K%P
 Tsugumi...
@@ -391,7 +391,7 @@ CN PLACEHOLDER
 今や手の中にすっぽりと、チャミの身体は隠れていた。%K%P
 His body disappeared entirely in her hands.
 CN PLACEHOLDER
-Вскоре его тело полностью исчезло в её руках.
+Вскоре, его тело полностью исчезло в её руках.
 
 つぐみ「どうなるか、知ってる？」%K%P
 Do you know what will happen?
@@ -401,12 +401,12 @@ CN PLACEHOLDER
 武「バ、バカッ！　やめろ！！」%K%P
 I-Idiot! Cut it out!
 CN PLACEHOLDER
-Д-дура! Что ты делаешь?!
+Д-дура! Что ты делаешь?!!
 
 つぐみ「ねぇ、答えてよ……」%K%P
 Come on, answer me...
 CN PLACEHOLDER
-Ну... ответь мне...
+Ну...ответь мне...
 
 つぐみは握った両手に、力を込めていく。%K%P
 Tsugumi started to squeeze harder.
@@ -421,7 +421,7 @@ CN PLACEHOLDER
 武「な、何言ってんだよ！」%K%P
 Wh-What are you talking about!?
 CN PLACEHOLDER
-О чём ты?!
+О чём ты!?
 
 武「そんなのわかりきってる！　愚問だろ！」%K%P
 It's totally obvious! What a stupid question!
@@ -451,7 +451,7 @@ CN PLACEHOLDER
 武「やめろ！！　つぐみ、このままだと……チャミがっ」%K%P
 Cut it out! Tsugumi, if you go on like this... Chami's going to...
 CN PLACEHOLDER
-Прекрати! Цугуми, если ты не остановишься... Чами...
+Прекрати!! Цугуми, если ты не остановишься... Чами...
 
 ジャンガリアンハムスターは、つぐみと俺を見た。%K%P
 The hamster looked at Tsugumi and me.
@@ -493,17 +493,17 @@ CN PLACEHOLDER
 つぐみ「ねぇ、武……」%K%P
 Well, Takeshi...
 CN PLACEHOLDER
-Ну... Такэси...
+Ну......Такеши...
 
 つぐみ「チャミはどうなったと……思う？」%K%P
 What do you think happened... to Chami?
 CN PLACEHOLDER
-Чами... что с ним?
+Чами......что с ним?
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみの声も、震えていた。%K%P
 Tsugumi's voice was also shaking.
@@ -523,7 +523,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「嫌だ」%K%P
 No.
@@ -538,7 +538,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「手を退けろ」%K%P
 Open your hands.
@@ -548,7 +548,7 @@ CN PLACEHOLDER
 武「つぐみ……手を退けてくれ」%K%P
 Tsugumi... open up your hands!
 CN PLACEHOLDER
-Цугуми... ОТКРОЙ, МАТЬ ТВОЮ!
+Цугуми.... ОТКРОЙ, МАТЬ ТВОЮ!
 
 武「お願いだから、退けてくれ……」%K%P
 Please, just open them up...
@@ -558,12 +558,12 @@ CN PLACEHOLDER
 武「早く！」%K%P
 Now!
 CN PLACEHOLDER
-Сейчас же!
+Сейчас же!!
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 そっと、震える両手が開かれる。%K%P
 Her hands were shaking heavily as they opened.
@@ -578,7 +578,7 @@ CN PLACEHOLDER
 武「つぐみ……お前、なんてことを……！！」%K%P
 Tsugumi... what have you done...!
 CN PLACEHOLDER
-Цугуми... что ты наделала!
+Цугуми...что ты наделала...!!
 
 死んでいる。%K%P
 He was dead.
@@ -608,12 +608,12 @@ CN PLACEHOLDER
 きっと、考える間もないくらい短い瞬間に……。%K%P
 He doubtlessly hadn't had any time to wonder, it had happened so fast...
 CN PLACEHOLDER
-Наверное он даже не почувствовал... всё произошло так быстро...
+Наверно он даже не почувствовал...всё произошло так быстро...
 
 こいつの命は……絶えたのだ……。%K%P
 His life had been... extinguished...
 CN PLACEHOLDER
-Его жизнь... угасла...
+Его жизнь...угасла...
 
 つぐみ「ねぇ……」%K%P
 So...
@@ -623,12 +623,12 @@ CN PLACEHOLDER
 つぐみ「武、知ってる……？」%K%P
 Takeshi, do you know...?
 CN PLACEHOLDER
-Такэси... ты знаешь?..
+Такеши......ты знаешь...?
 
 つぐみ「これからどうなると……思う？」%K%P
 What do you think... is going to happen now?
 CN PLACEHOLDER
-Что теперь... будет?
+Что теперь...будет?
 
 武「つぐみっ！！」%K%P
 Tsugumi!
@@ -638,7 +638,7 @@ CN PLACEHOLDER
 武「いい加減にしろよっ！！」%K%P
 Cut it out!
 CN PLACEHOLDER
-Заткнись!
+Заткнись!!
 
 つぐみの肩を激しく揺すった。%K%P
 I shook Tsugumi's shoulders violently.
@@ -673,22 +673,22 @@ CN PLACEHOLDER
 つぐみ「武……」%K%P
 Takeshi...
 CN PLACEHOLDER
-Такэси...
+Такеши...
 
 つぐみ「どうして、答えてくれないのよおっ……」%K%P
 Why won't you answer me...?
 CN PLACEHOLDER
-Почему ты молчишь?..
+Почему ты молчишь...?!
 
 つぐみ「ううっ……」%K%P
 Aaaahh...
 CN PLACEHOLDER
-А-а...
+---------!
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「チャミは……」%K%P
 Chami is...
@@ -713,12 +713,12 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「！？」%K%P
 !?
 CN PLACEHOLDER
-?!
+---!?
 
 手の上のチャミが、微かに動いた。%K%P
 In her hand, Chami seemed to move faintly.
@@ -783,17 +783,17 @@ CN PLACEHOLDER
 つぐみ「ねぇ、武……」%K%P
 So, Takeshi...
 CN PLACEHOLDER
-Ну... Такэси...
+Ну...Такеши...
 
 つぐみ「チャミ、どうなった？」%K%P
 What happened to Chami?
 CN PLACEHOLDER
-Чами... что с ним?
+Чами...что с ним?
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 クヴァレのゴンドラは、既に２度乗り場を通り過ぎ、３周目に入っていた。%K%P
 Our gondola at Qualle had already passed the entrance to the ride twice and was just starting to make its third pass.
@@ -813,7 +813,7 @@ CN PLACEHOLDER
 チャミはその間に、前と変わらない様子で手の平の上に乗って……俺達ふたりのことを、不思議そうに眺めていた。%K%P
 In that brief time, he had returned to normal and was sitting up on her palm... staring at the two of us inquisitively.
 CN PLACEHOLDER
-За столь короткое время, он пришёл в норму и сидит на ладони Цугуми... любопытно разглядывая нас своими глазами-бусинками.
+За столь короткое время, он пришёл в норму и сидит на ладони Цугуми...любопытно разглядывая нас своими глазами-бусинками.
 
 つぐみ「この子はね……」%K%P
 He's...
@@ -823,12 +823,12 @@ CN PLACEHOLDER
 つぐみはまた、指先でチャミを柔らかく、いとおしそうに撫でた。%K%P
 Tsugumi was petting Chami softly again with the tip of her finger.
 CN PLACEHOLDER
-Цугуми как ни в чём не бывало нежно поглаживает его кончиком пальца.
+Цугуми, как ни в чём ни бывало, нежно поглаживает его кончиком своего пальца.
 
 つぐみ「少年とは違うの」%K%P
 Different than the Kid.
 CN PLACEHOLDER
-Не такой, как Малой.
+Не такой, как Кид.
 
 つぐみ「あなたとも違うの」%K%P
 Different than you.
@@ -848,7 +848,7 @@ CN PLACEHOLDER
 つぐみ「チャミはウイルスに侵されている」%K%P
 Chami has the virus.
 CN PLACEHOLDER
-Чами... тоже заражён вирусом.
+Чами...тоже заражён вирусом.
 
 つぐみ「最初に触ろうとしたとき、チャミが爪を立てた」%K%P
 The first time I tried to pet him, he got spooked.
@@ -878,7 +878,7 @@ CN PLACEHOLDER
 武「そんなのって……ありかよ……っ」%K%P
 No way... I don't believe you...
 CN PLACEHOLDER
-Ни за что... я тебе не верю...
+Ни за что...я тебе не верю...
 
 俺はまだ信じられなかった。%K%P
 I still couldn't believe her.
@@ -888,7 +888,7 @@ CN PLACEHOLDER
 つぐみが以前語った、ウイルスのことも。%K%P
 Or what she had told me about the virus earlier.
 CN PLACEHOLDER
-Ни в «вирус бессмертия»...
+Ни в 'вирус бессмертия'...
 
 今、目の前で起こったことも。%K%P
 Or what had happened right in front of me then.
@@ -898,7 +898,7 @@ CN PLACEHOLDER
 つぐみ「ほら……生きてるわ、この子」%K%P
 See... this little guy's alive.
 CN PLACEHOLDER
-Смотри... этот кроха... жив.
+Смотри...этот кроха...жив.
 
 顔をうつむけたまま、つぐみは呟く。%K%P
 Tsugumi murmured as she looked down.
@@ -918,32 +918,32 @@ CN PLACEHOLDER
 つぐみ「でも、痛かったよね？　苦しかったよね……？」%K%P
 But it hurt, didn't it, little guy? It was painful, wasn't it...?
 CN PLACEHOLDER
-Но... малыш... это было больно... правда?..
+Но......малыш...это было больно...правда...?
 
 つぐみ「私、ひどいことしちゃったよね……」%K%P
 I did something terrible...
 CN PLACEHOLDER
-Я... так жестоко с тобой поступила...
+Я...так жестоко с тобой поступила...
 
 つぐみ「ごめんね、チャミ。ごめんね……」%K%P
 I'm sorry, Chami. I'm so sorry...
 CN PLACEHOLDER
-Прости, Чами... прости.
+Прости, Чами......прости.
 
 つぐみ「許して……私が悪かったの……」%K%P
 Forgive me... I was wrong...
 CN PLACEHOLDER
-Плохо... я поступила плохо...
+Плохо......я поступила плохо...
 
 つぐみ「でも、生きてて……よかったね……？」%K%P
 But it's okay, because... you're alive, right...?
 CN PLACEHOLDER
-Но... скажи спасибо, что можешь жить...
+Но......скажи спасибо, что можешь жить...
 
 武「！！」%K%P
 !
 CN PLACEHOLDER
-!
+---!!
 
 俺はまた、つぐみの肩を強く揺さぶった。%K%P
 I started shaking Tsugumi's shoulders again.
@@ -953,22 +953,22 @@ CN PLACEHOLDER
 武「ふ、ふざけんなよ！！」%K%P
 Wh-What the hell are you talking about!?
 CN PLACEHOLDER
-О чём ты говоришь, чёрт побери?!
+О чём ты говоришь, чёрт побери!!?
 
 武「お、お前っ！　よくもそんなこと言えるなっ！」%K%P
 H-How can you say something like that!?
 CN PLACEHOLDER
-К-Как ты можешь произносить ТАКОЕ?!
+К-Как ты можешь произносить ТАКОЕ!?
 
 武「こんな目に遭わせといて、何が『生きててよかった』だよ！！」%K%P
 You just put him through something unimaginable and now you just say 'it's okay because you're alive'!
 CN PLACEHOLDER
-После всего, через что ты заставила его пройти, вдруг заявляешь „скажи спасибо, что можешь жить“?!
+После всего, через что ты заставила его пройти, вдруг заявляешь 'скажи спасибо, что можешь жить'?!
 
 つぐみ「違う！」%K%P
 No!
 CN PLACEHOLDER
-Нет!
+Нет---!
 
 つぐみは俺の手を払い、跳ね除けた。%K%P
 Tsugumi brushed my hands off.
@@ -978,12 +978,12 @@ CN PLACEHOLDER
 つぐみ「あなたが言ったのよ！」%K%P
 That's what YOU said!
 CN PLACEHOLDER
-Это ТВОИ слова!
+Это ТВОИ слова!!
 
 つぐみ「あのとき、武が言ったじゃないの！」%K%P
 That's exactly what you said back there!
 CN PLACEHOLDER
-Ты так сказал... Такэси!
+Ты так сказал...Такеши---!
 
 つぐみ「『生きてさえいれば』って！」%K%P
 It's 'enough to be alive'—you're the one who said that!
@@ -993,42 +993,42 @@ CN PLACEHOLDER
 つぐみ「それが、どうなの！　見たでしょ！？」%K%P
 So how about it!? You saw what happened, right!?
 CN PLACEHOLDER
-Ну так скажи! Ты видел?!
+Ну так скажи! Ты видел!?
 
 つぐみ「チャミがどんな目に遭ったか、私がどんな目に遭わせたのか……武だって今、見たでしょ！？」%K%P
 You saw what happened to Chami, right? What I did to him...? You SAW it, Takeshi!
 CN PLACEHOLDER
-Чами умер у тебя на глазах! Я убила его! Убила, а потом он воскрес! ... Такэси, ты всё это ВИДЕЛ!!!
+Чами умер у тебя на глазах!! Я убила его!! Убила, а потом он воскрес!! ...Такеши, ты всё это ВИДЕЛ!!!
 
 つぐみ「『生きてさえいればいい』なんて……そんな」%K%P
 And you can say it's 'enough to still be alive'...? Well, it isn't.
 CN PLACEHOLDER
-И ты ещё смеешь судить о жизни... нет...
+И ты ещё смеешь судить о жизни......нет...
 
 つぐみ「そんなことはない。絶対に、絶対にない……！」%K%P
 It isn't. No matter what you say...!
 CN PLACEHOLDER
-Это не так! ... не знаешь... ни черта ты не знаешь!..
+Это не так! ...не знаешь......ни черта ты не знаешь...!
 
 つぐみ「私はそんなの、信じない！」%K%P
 I won't believe it!
 CN PLACEHOLDER
-Я... не верю!
+Я......не верю!
 
 つぐみ「生きてるだけじゃ……生きてるとは言えないのよ！」%K%P
 It isn't enough to just have life... You can't say that's living!
 CN PLACEHOLDER
-Что значит жить?.. Это, по-твоему, можно назвать жизнью?!
+Что значит жить...?! Это по-твоему можно назвать жизнью---?!!
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「どう……わかる？」%K%P
 So... do you understand?
 CN PLACEHOLDER
-Ну... понял?
+Ну...понял?
 
 つぐみ「……わからない？」%K%P
 ...Or don't you?
@@ -1038,22 +1038,22 @@ CN PLACEHOLDER
 つぐみ「武、答えてよ……？」%K%P
 Takeshi, tell me...?
 CN PLACEHOLDER
-Такэси... скажи мне...
+Такеши...скажи мне...
 
 つぐみ「ねぇ、チャミ……」%K%P
 How about you, Chami...
 CN PLACEHOLDER
-А ты... Чами...
+А ты...Чами...
 
 つぐみ「チャミには、わかる……？」%K%P
 Do you understand...?
 CN PLACEHOLDER
-Чами... ты понял?..
+Чами...ты понял...?
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 うつむけた顔。%K%P
 Her face was pointing down.
@@ -1068,7 +1068,7 @@ CN PLACEHOLDER
 見なくても、それはわかっていた……。%K%P
 But I didn't have to. I knew what it was...
 CN PLACEHOLDER
-Но мне и не нужно. Я знаю...
+Но, мне и не нужно. Я знаю...
 
 つぐみは声を殺し、泣いていた。%K%P
 Tsugumi was crying silently.
@@ -1078,7 +1078,7 @@ CN PLACEHOLDER
 数え切れぬ涙を粒にして、落としていた。%K%P
 Countless tears fell from her face.
 CN PLACEHOLDER
-С её лица падают слезинки... им нет числа.
+С её лица падают слезинки...им нет числа.
 
 赤く染まったクヴァレの床に、彼女の雨は少しずつ降った。%K%P
 Like raindrops falling one by one onto the red-stained floor of Qualle.
@@ -1088,7 +1088,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 何を告げればいいのか。%K%P
 I didn't know what to say.
@@ -1103,7 +1103,7 @@ CN PLACEHOLDER
 つぐみ「ねぇ……」%K%P
 Hey...
 CN PLACEHOLDER
-Эй...
+Эй......
 
 つぐみ「私が何回、死んだか……知ってる？」%K%P
 Do you know... how many times I've died?
@@ -1128,12 +1128,12 @@ CN PLACEHOLDER
 つぐみ「私も、もう覚えてない」%K%P
 I don't remember anymore anyway.
 CN PLACEHOLDER
-А я... уже сбилась со счёту.
+А я...уже сбилась со счёту.
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「そのウイルスのキャリアは当初、世界でも十数人と言われた」%K%P
 In the beginning, there were said to be only a few of us carriers.
@@ -1143,7 +1143,7 @@ CN PLACEHOLDER
 つぐみ「その中でも私は、少し特殊だった……」%K%P
 But out of all of them, I was special...
 CN PLACEHOLDER
-Но я... немного отличалась от остальных...
+Но я...немного отличалась от остальных...
 
 ……………………。%K%P
 .........
@@ -1188,7 +1188,7 @@ CN PLACEHOLDER
 つぐみ「悪性の腫瘍で……あちこちに転移して、手の施しようがなかったそうよ」%K%P
 She had leukemia... and was transferred back and forth to different places, but nobody could help her...
 CN PLACEHOLDER
-Лейкемия... Её постоянно перевозили с места на место, но никто не мог ей помочь...
+Лейкемия.... Её постоянно перевозили с места на место, но никто не мог ей помочь....
 
 つぐみ「でも、私は何度もお見舞いに通った。友人、ジュリアの為に」%K%P
 But I kept going to see her. To keep up her spirits.
@@ -1223,7 +1223,7 @@ CN PLACEHOLDER
 つぐみ「そんなある日」%K%P
 Then one day...
 CN PLACEHOLDER
-Но однажды...
+Но, однажды...
 
 つぐみ「私は、事故に遭った」%K%P
 I got in an accident.
@@ -1233,12 +1233,12 @@ CN PLACEHOLDER
 武「……事故？」%K%P
 ...An accident?
 CN PLACEHOLDER
-...В аварию?
+...в аварию?
 
 武「まさか、それでお前は、ウイルスに……？」%K%P
 Is that how you got the virus...?
 CN PLACEHOLDER
-Так ты заразилась вирусом?..
+Так ты заразилась вирусом...?
 
 つぐみ「いいえ……」%K%P
 No...
@@ -1293,12 +1293,12 @@ CN PLACEHOLDER
 どこの病院……？%K%P
 Which one...?
 CN PLACEHOLDER
-В какой?..
+В какой...?
 
 さぁ……ぼくにもわからない。%K%P
 Well... I don't really know either.
 CN PLACEHOLDER
-Эх... а я и сам толком не знаю.
+Эх...а я и сам толком не знаю.
 
 わからない？%K%P
 You don't know?
@@ -1308,17 +1308,17 @@ CN PLACEHOLDER
 はははっ……わからないんだから、わからないのさ。%K%P
 Hahaha... I don't know why, but I don't know.
 CN PLACEHOLDER
-Ха-ха-ха... не знаю, почему, но... я не знаю.
+Ха〜ха〜ха...не знаю, почему, но...я не знаю.
 
 私は……つぐみ。小町つぐみ。あなたは？%K%P
 My name's... Tsugumi. Komachi Tsugumi. You?
 CN PLACEHOLDER
-Меня... Цугуми звать. Комати Цугуми. А тебя?
+Меня...Цугуми звать. Комачи Цугуми. А тебя?
 
 えっ？%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 あなた、名前はなんて言うの？%K%P
 What is your name?
@@ -1328,7 +1328,7 @@ CN PLACEHOLDER
 ……さぁ。それもわからないんだよ。困ったね。%K%P
 ...Well, I don't know that either. Sucks, huh?
 CN PLACEHOLDER
-...Ну, этого я тоже не знаю. Хреновенько, правда?
+...ну, этого я тоже не знаю. Хреновенько, правда?
 
 つぐみ「記憶喪失の少年の隣で、私は目覚めた」%K%P
 I woke up next to a boy with amnesia.
@@ -1348,7 +1348,7 @@ CN PLACEHOLDER
 つぐみ「だけど、それが地図のどこであるか知るには……」%K%P
 But in order to find out just where I was...
 CN PLACEHOLDER
-Но на то, чтобы просто выяснить, где я была...
+Но, на то чтобы просто выяснить, где я была...
 
 つぐみ「それから実に、８年もの年月を要した」%K%P
 It would take another eight years.
@@ -1368,7 +1368,7 @@ CN PLACEHOLDER
 つぐみ「私はその『病院』に……」%K%P
 I was at that 'hospital'...
 CN PLACEHOLDER
-В этой так называемой „больнице“...
+В этой так называемой 'больнице'...
 
 白衣のあなたは誰？%K%P
 Who are you?
@@ -1393,7 +1393,7 @@ CN PLACEHOLDER
 治療法？　……私は、交通事故で、怪我をして……。%K%P
 Cure me...? I got in an accident and got hurt...
 CN PLACEHOLDER
-Болезни? ... я же просто попала в аварию и поранилась...
+Болезни? ...я же просто попала в аварию и поранилась...
 
 いや、違うよ。違うんだ。%K%P
 No. It's a little different than that.
@@ -1403,7 +1403,7 @@ CN PLACEHOLDER
 ……違う？%K%P
 ...Different?
 CN PLACEHOLDER
-...Не совсем так?
+...не совсем так?
 
 君は、病気なんだ。新種の病気にかかってしまっている。%K%P
 You have a new disease. One that we've never seen before.
@@ -1418,7 +1418,7 @@ CN PLACEHOLDER
 武「じゃあ、それこそが……？」%K%P
 So that was...?
 CN PLACEHOLDER
-Так значит это был?..
+Так значит это был...?
 
 つぐみ「そうよ」%K%P
 Yes.
@@ -1433,12 +1433,12 @@ CN PLACEHOLDER
 つぐみ「だけど、目覚めたときにはもう……いいえ、きっと事故に遭う以前から」%K%P
 But by the time I woke up... No, probably before I got in the accident.
 CN PLACEHOLDER
-Но к тому времени, как я проснулась... Нет, наверное, даже до аварии...
+Но, к тому времени как я проснулась...нет, наверно даже до аварии...
 
 つぐみ「私は既に、『死なない身体』になりつつあったの」%K%P
 I was already in the process of becoming 'immortal'.
 CN PLACEHOLDER
-Я уже была на пути к „бессмертию“.
+Я уже была на пути к 'бессмертию'.
 
 それじゃあ、君の血液を少しもらおうかな。%K%P
 Alright, I'd like to take a little of your blood.
@@ -1473,7 +1473,7 @@ CN PLACEHOLDER
 まだ世界でも、十数件しか症例が報告されてない。その中でも、君のは特別だ。%K%P
 There are very few people in the world who have it, and of all those people, you're special.
 CN PLACEHOLDER
-По всему миру известны лишь несколько случаев заболевания. Однако среди них твой случай особый.
+По всему миру, известны лишь несколько случаев заболевания. Однако, среди них, твой случай особый.
 
 特別？%K%P
 Special?
@@ -1488,7 +1488,7 @@ CN PLACEHOLDER
 言ってる意味が……よくわかんない……。%K%P
 I don't understand... what you're talking about...
 CN PLACEHOLDER
-Я не понимаю... о чём вы говорите...
+Я не понимаю...о чём вы говорите...?
 
 いや、大丈夫大丈夫。きっと私達が、治し方を見つけてみせるから。%K%P
 Hey, don't worry about it. We're going to find a way to make you better, I promise.
@@ -1503,7 +1503,7 @@ CN PLACEHOLDER
 うーん、お嬢ちゃん……それはねぇ……。まぁ、いいじゃないか。%K%P
 Weeell, princess... We just... Hey, don't you worry yourself about it.
 CN PLACEHOLDER
-Нууу, детка... просто... да ладно, не бойся, больно не будет.
+Нууу, детка...просто...да ладно, не бойся, больно не будет.
 
 …………。%K%P
 .........
@@ -1513,7 +1513,7 @@ CN PLACEHOLDER
 ほら、腕を出して。すぐ終わるよ。痛くしないからね。%K%P
 Just give me your arm and we'll be done before you know it. It won't hurt.
 CN PLACEHOLDER
-Просто дай мне свою руку, и даже не почувствуешь, как всё уже будет сделано. Не больнее, чем укус комарика.
+Просто дай мне свою руку, и даже не почувствуешь, как всё уже будет сделано. Не больней, чем укус комарика.
 
 つぐみ「度々、採血をされたわ」%K%P
 They came to take blood samples again and again.
@@ -1528,12 +1528,12 @@ CN PLACEHOLDER
 つぐみ「『病気の治療の為だから』『君や、君の仲間の為なんだ』と、その医師達に言われ続けてきた」%K%P
 The doctors kept telling me, 'It's so we can find a cure for you', 'It's so we can help you, and people like you'.
 CN PLACEHOLDER
-Доктора лишь твердили: „чтобы найти лекарство для тебя“, „так мы поможем тебе и таким же, как ты“.
+Доктора лишь твердили, 'чтобы найти лекарство для тебя', 'так мы поможем тебе и таким же, как ты'.
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ねぇ、隣のベッドの少年……。%K%P
 Hey, you there next to me...
@@ -1553,7 +1553,7 @@ CN PLACEHOLDER
 ぼくかい？　ぼくは、そうだなぁ……。%K%P
 Me? Uh, well, I...
 CN PLACEHOLDER
-Я? Э-э, ну...
+Я? Ээ, ну...
 
 私と同じ病気？%K%P
 The same sickness as me?
@@ -1563,12 +1563,12 @@ CN PLACEHOLDER
 違うよ。ううん……たぶん、違うんだろうな。%K%P
 No. Ummm... I mean, probably not.
 CN PLACEHOLDER
-Нет. Эм-м... то есть, наверное, не та же самая.
+Нет. Эммм....то есть, наверно не та же самая.
 
 もしかして……わかんないの？%K%P
 You mean... you aren't sure?
 CN PLACEHOLDER
-То есть... ты не уверен?
+То есть...ты не уверен?
 
 ううん、それは大丈夫。知ってる。ぼくはね……。%K%P
 Yeah, I'm fine. I know. I can...
@@ -1578,7 +1578,7 @@ CN PLACEHOLDER
 うん、君は？%K%P
 Um, you can?
 CN PLACEHOLDER
-Э-э, что видишь?
+Ээ, что видишь?
 
 ぼくは、未来が見える。%K%P
 I can see the future.
@@ -1593,22 +1593,22 @@ CN PLACEHOLDER
 つぐみ「『これから何度も悲劇を見ることになる』」%K%P
 'You are going to have many tragedies in your life.'
 CN PLACEHOLDER
-„В твоей жизни будет много несчастий.“
+'В твоей жизни будет много несчастий.'
 
 つぐみ「『だけどどうか、その度に落ち込まないで欲しい』」%K%P
 'But I don't want you to be sad.'
 CN PLACEHOLDER
-„Но я не хочу, чтобы ты грустила.“
+'Но, я не хочу, чтобы ты грустила.'
 
 つぐみ「『まず５年、それから３年、また３年……』」%K%P
 'The first one in five years, then three years later, then in another three years...'
 CN PLACEHOLDER
-„Первое случится через пять лет, затем ещё через три года, и одно – ещё через три...“
+'Первая случится через пять лет, затем ещё через три года, и одна ещё через три...'
 
 つぐみ「『でも君は、それでも……生きていけるはず』」%K%P
 'But you're going to... live through all of them.'
 CN PLACEHOLDER
-„Но ты... переживёшь их все.“
+'Но ты...переживёшь их все.'
 
 つぐみ「……だいたい、そういう意味合いのことを私に告げた」%K%P
 That's pretty much what he told me.
@@ -1623,7 +1623,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ、見てごらん。猫とネズミがいるよ。%K%P
 Tsugumi, take a look, there's a cat and mouse over there.
@@ -1643,7 +1643,7 @@ CN PLACEHOLDER
 そうだねぇ……狭くて苦しそうだね。%K%P
 Yeah... Those cages are so small, it looks painful...
 CN PLACEHOLDER
-И правда... какие маленькие клетки, это просто жестоко...
+И правда...какие маленькие клетки, это просто жестоко...
 
 出してあげようか？%K%P
 You want to let them out?
@@ -1653,7 +1653,7 @@ CN PLACEHOLDER
 勝手にそんなことして、いいのかなぁ。%K%P
 I wonder if it'd be alright...?
 CN PLACEHOLDER
-Думаешь? А нам за это не попадёт?..
+Думаешь? А нам за это не попадёт...?
 
 いいよいいよ、やろうやろう！%K%P
 It should be. Come on, let's do it!
@@ -1668,7 +1668,7 @@ CN PLACEHOLDER
 ほら、みんな出てお行き！　逃げるんだ！%K%P
 Okay, everyone out! Run while you can!
 CN PLACEHOLDER
-Давайте, скорее, бегите!
+Давайте, скорей, бегите!
 
 バタンッ！%K%P
 Crash!
@@ -1678,7 +1678,7 @@ CN PLACEHOLDER
 ……こらっ！　お前達！　なんてことを！%K%P
 ...Hey! What do you think you two are doing!?
 CN PLACEHOLDER
-...Эй! Что здесь происходит?!
+...Эй! Что здесь происходит!?
 
 大変だ！　実験体が！%K%P
 Oh no! The experiment!
@@ -1698,7 +1698,7 @@ CN PLACEHOLDER
 ……………………。%K%P
 .........
 CN PLACEHOLDER
-...
+............
 
 怒られちゃったね。%K%P
 They were really mad at us.
@@ -1713,12 +1713,12 @@ CN PLACEHOLDER
 動物達、みんな捕まえられちゃったんだ。%K%P
 They caught all of the animals again.
 CN PLACEHOLDER
-Да, только они снова их поймали...
+Да, только они снова их поймали.
 
 そうだねぇ、元に戻されちゃったね。%K%P
 Yeah, they're right back where they were before.
 CN PLACEHOLDER
-... и снова посадили в клетки...
+...и снова посадили в клетки...
 
 狭くて、窮屈なケージ……。%K%P
 In those cramped, small cages...
@@ -1738,7 +1738,7 @@ CN PLACEHOLDER
 どうしてだろう。%K%P
 Why...?
 CN PLACEHOLDER
-Зачем?..
+Зачем...?
 
 どうしてかな。%K%P
 I wonder...
@@ -1753,7 +1753,7 @@ CN PLACEHOLDER
 つぐみ「それが何故かは、少しずつわかる」%K%P
 I slowly started to realize why.
 CN PLACEHOLDER
-Постепенно... я стала понимать, зачем.
+Постепенно...я стала понимать, зачем.
 
 つぐみ「ここがただの病院でなく、研究施設だと言うことも、薄々感じ始めていた」%K%P
 I began to understand bit by bit that I wasn't being kept at a hospital, but a research facility.
@@ -1768,12 +1768,12 @@ CN PLACEHOLDER
 つぐみ「誰も退院する様子がない……」%K%P
 And none of the 'patients' ever left...
 CN PLACEHOLDER
-Никто из „пациентов“ не выписывался...
+Никто из 'пациентов' не выписывался...
 
 つぐみ「入院する人だって、滅多にいない……」%K%P
 And there were hardly ever any new patients...
 CN PLACEHOLDER
-А новых „пациентов“ практически не появлялось...
+А новых 'пациентов' практически не появлялось...
 
 つぐみ「相変わらず、ここがどこなのかはわからない」%K%P
 And the whole time, I never knew where I was.
@@ -1798,7 +1798,7 @@ CN PLACEHOLDER
 ……違うよ。%K%P
 ...No.
 CN PLACEHOLDER
-...Нет.
+...нет.
 
 そうなんだ。じゃあ、どこに行っちゃったのかなぁ。%K%P
 Oh. Well, I wonder where they went then.
@@ -1808,17 +1808,17 @@ CN PLACEHOLDER
 ……知らない……。%K%P
 ...I don't know...
 CN PLACEHOLDER
-...Даже не знаю...
+...даже не знаю...
 
 そっかぁ。でも、やっぱりこんな狭いところにいたらダメなんだよね。%K%P
 Hmmm. But they shouldn't have been kept in such a cramped space anyway.
 CN PLACEHOLDER
-Хм-м-м. Но их всё равно не стоило держать в такой тесноте.
+Хммм. Но, их всё равно не стоило держать в такой тесноте.
 
 ……うん……。%K%P
 ...Yeah...
 CN PLACEHOLDER
-...Точно...
+...точно...
 
 研究所の人もそう思って、逃がしてくれたのかな？%K%P
 Maybe the researchers thought the same thing and let them go?
@@ -1828,7 +1828,7 @@ CN PLACEHOLDER
 ……知らない……。%K%P
 ...No idea...
 CN PLACEHOLDER
-Вряд ли...
+...вряд ли...
 
 ダメだ。まだ解明できない。原理は不明なままか。%K%P
 It's no good. We still haven't been able to discover the reason or mechanism behind it.
@@ -1843,7 +1843,7 @@ CN PLACEHOLDER
 本当に書き換わっているとしか思えないな。まったく自然の摂理に反している。%K%P
 The only explanation I can come up with is genetic transfer... It goes against everything we know about science.
 CN PLACEHOLDER
-Единственное, что приходит в голову – замещённые гены... но, это идёт вразрез со всеми научными представлениями.
+Единственное, что приходит в голову - замещённые гены...но, это идёт вразрез со всеми научными представлениями.
 
 ４分割までは耐えました。８分割もなんとか……。%K%P
 They withstood up to four splicings. I think maybe they could take eight...
@@ -1868,12 +1868,12 @@ CN PLACEHOLDER
 しかし、これでは……！%K%P
 But they're not...!
 CN PLACEHOLDER
-Но они уже не!..
+Но, они уже не...!
 
 もう生物とは言えない……そう言いたいのか？%K%P
 These aren't living creatures anymore... Is that what you want to say?
 CN PLACEHOLDER
-Не живые сушества... ты ЭТО хочешь сказать?
+Не живые сушества...ты ЭТО хочешь сказать?
 
 …………。%K%P
 .........
@@ -1883,12 +1883,12 @@ CN PLACEHOLDER
 我々の今までの概念においてはそうだったかもしれない。だがこれから先は未知だよ。%K%P
 Perhaps... that way of thinking might have been correct according to our old understanding. But we have no idea of the possibilities this entails.
 CN PLACEHOLDER
-Возможно... Если к этому подойти с логической точки зрения, согласно сложившимся стереотипам. Но мы же не знаем, каковы могут быть возможные последствия.
+Возможно...если к этому подойти с логической точки зрения, согласно сложившимся стереотипам. Но, мы же не знаем, каковы могут быть возможные последствия.
 
 そんな……そんなの、おかしいですよ。……狂ってる。%K%P
 That's... That's not right... It's crazy.
 CN PLACEHOLDER
-Это... это не правильно... это безумие.
+Это...это не правильно...это безумие.
 
 ……………………。%K%P
 .........
@@ -1908,7 +1908,7 @@ CN PLACEHOLDER
 でも、なんか変だなぁ。ひぃ、ふぅ、みぃ……。%K%P
 Wait, something's strange. One, two, three...
 CN PLACEHOLDER
-Подождите... что-то не так. Раз, два, три...
+Подождите...что-то не так. Раз, два, три...
 
 …………。%K%P
 ........
@@ -1938,7 +1938,7 @@ CN PLACEHOLDER
 カバーがかかってて……んしょ……取れないや。%K%P
 The cover is locked... Umph... I can't get it off.
 CN PLACEHOLDER
-Простыня зафиксирована... Экхм... Не снимается.
+Простыня зафиксирована.... Экхм... Не снимается.
 
 …………。%K%P
 .........
@@ -1948,7 +1948,7 @@ CN PLACEHOLDER
 あれ？　あれあれっ？%K%P
 Huh? What?
 CN PLACEHOLDER
-Э-э? Что?
+Эээ? Что?
 
 …………。%K%P
 .........
@@ -1958,7 +1958,7 @@ CN PLACEHOLDER
 ねぇ、少年……？　少年、どこに行ったの？%K%P
 Hey, kid...? Where did the kid go?
 CN PLACEHOLDER
-Мальчик?.. Ты где?
+Мальчик...? Ты где?
 
 …………。%K%P
 .........
@@ -1998,12 +1998,12 @@ CN PLACEHOLDER
 つぐみ「彼らは私の『仲間』だと自ら言った」%K%P
 Telling me, 'I'm your friend.'
 CN PLACEHOLDER
-Говорил: „я твой друг“.
+Говорил 'я твой друг'.
 
 つぐみ「けれど、実際は違った」%K%P
 But the truth is that he wasn't.
 CN PLACEHOLDER
-Но на самом деле, он им не был.
+Но, на самом деле, он им не был.
 
 つぐみ「わけのわからない検査や試験が幾日も続いた」%K%P
 I was being forced to do all of these tests and experiments.
@@ -2023,7 +2023,7 @@ CN PLACEHOLDER
 つぐみ「元のベッドに帰るたびに、私はただ泣いた」%K%P
 When I went back to bed, all I could do was cry.
 CN PLACEHOLDER
-Возвращаясь в кровать, всё, что я могла – лишь рыдать.
+Возвращаясь в кровать, всё что я могла - лишь рыдать.
 
 つぐみ「隣の少年はついに、帰って来なかった」%K%P
 One day, the kid next to me didn't come back.
@@ -2033,17 +2033,17 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「武……どういうことだか、わかる？」%K%P
 Takeshi... do you know why?
 CN PLACEHOLDER
-Такэси... ты знаешь, почему?
+Такеши...ты знаешь, почему?
 
 武「……わかる……」%K%P
 ...Yeah...
 CN PLACEHOLDER
-...Да...
+...да...
 
 武「いや、わからないが……」%K%P
 I mean, no, I don't know, but...
@@ -2053,7 +2053,7 @@ CN PLACEHOLDER
 つぐみ「説明、しなくってもいい……？」%K%P
 So I don't have to explain it to you...?
 CN PLACEHOLDER
-Значит, мне не нужно объяснять тебе?..
+Значит, мне не нужно объяснять тебе...?
 
 武「ああ……」%K%P
 Yeah...
@@ -2063,7 +2063,7 @@ CN PLACEHOLDER
 武「辛いなら……それ以上、無理にしゃべらなくていいんだ」%K%P
 If it's too painful for you... you don't have to say anything more.
 CN PLACEHOLDER
-Если для тебя это слишком тяжело... то, не говори – оно того не стоит.
+Если для тебя это слишком тяжело...то, не говори - оно того не стоит.
 
 つぐみは震える指先で、チャミの背を撫でていた。%K%P
 Tsugumi was stroking Chami with a trembling finger.
@@ -2113,17 +2113,17 @@ CN PLACEHOLDER
 つぐみ「武といると、いらないことをどんどん話してしまうから……」%K%P
 Whenever I'm with you, I find myself talking about the stupidest things...
 CN PLACEHOLDER
-Такэси... ты постоянно наводишь меня на глупые размышления...
+Такеши...ты постоянно наводишь меня на глупые размышления...
 
 武「もういい、もうしゃべるな」%K%P
 It's okay, you don't have to talk.
 CN PLACEHOLDER
-Всё в порядке, не хочешь – не говори.
+Всё в порядке, не хочешь - не говори.
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「それより、すまなかった……」%K%P
 I'm so sorry...
@@ -2138,7 +2138,7 @@ CN PLACEHOLDER
 武「『生きてさえいれば』なんて、不用意に口にするべきじゃなかった」%K%P
 It was careless of me to talk about being alive like it's just a given.
 CN PLACEHOLDER
-Только идиот может так небрежно относится к жизни... как к данности.
+Только идиот может так небрежно относится к жизни...как к данности.
 
 つぐみ「同情なんかして欲しくない」%K%P
 I don't want your pity.
@@ -2158,12 +2158,12 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「つぐみ……」%K%P
 Tsugumi...
 CN PLACEHOLDER
-Цугуми...
+Цугуми......
 
 武「今まで、俺が間違ってたんだ」%K%P
 I was wrong, okay?
@@ -2173,7 +2173,7 @@ CN PLACEHOLDER
 つぐみ「間違ってたですって！？」%K%P
 You were wrong!?
 CN PLACEHOLDER
-Ты ошибался?!
+Ты ошибался!?
 
 彼女は急に、叫んだ。%K%P
 She screamed suddenly.
@@ -2183,22 +2183,22 @@ CN PLACEHOLDER
 つぐみ「そんなこと言わないで！！」%K%P
 Don't tell me that!
 CN PLACEHOLDER
-Не смей так говорить!
+〜〜〜〜〜〜не смей так говорить!!
 
 つぐみ「簡単に、自分の言ったことを撤回なんかしないでよ……！」%K%P
 You don't just take back what you say. Not that easily...!
 CN PLACEHOLDER
-Неужели ты думаешь, что так просто возьмёшь свои слова обратно?!
+Неужели ты......думаешь, что так просто возьмёшь свои слова обратно...!?
 
 つぐみ「それこそ、無責任よ……！」%K%P
 You want irresponsible, THAT's irresponsible...!
 CN PLACEHOLDER
-Ты безответственный!
+Ты безответственный...!!
 
 武「…………！！」%K%P
 ...!
 CN PLACEHOLDER
-!
+----------!!
 
 何も、言い返せなかった。%K%P
 I didn't know what to tell her.
@@ -2218,7 +2218,7 @@ CN PLACEHOLDER
 つぐみ「『仲間』って言葉を振りかざしてるだけ」%K%P
 You throw around words like 'friend' without really meaning it.
 CN PLACEHOLDER
-Для тебя слово „друг“ не больше, чем пустой звук.
+Для тебя слово 'друг' не больше чем пустой звук.
 
 つぐみ「彼女の気持ちは、あなたにわかってない」%K%P
 You don't understand anything about how I'm feeling.
@@ -2228,12 +2228,12 @@ CN PLACEHOLDER
 つぐみ「彼の気持ちだって、わかっていない」%K%P
 You don't understand anything about what the Kid's feeling!
 CN PLACEHOLDER
-Ты не знаешь, что чувствует Малой!
+Ты не знаешь, что чувствует Кид!
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 間違いだと言う事が、間違いだと気づかされる。%K%P
 She was making me feel it had been a mistake to say I'd been wrong.
@@ -2243,7 +2243,7 @@ CN PLACEHOLDER
 いや、それも……違う。%K%P
 No... that wasn't it either.
 CN PLACEHOLDER
-Нет... не правда.
+Нет...не правда.
 
 本当は……。%K%P
 The truth was...
@@ -2258,7 +2258,7 @@ CN PLACEHOLDER
 つぐみ「『生きている者は、ずっと生きるべきなんだ』と言ったわよね、あなた……」%K%P
 'People who are alive should live as long as they can'... You said that, didn't you...?
 CN PLACEHOLDER
-„Надежда умирает последней“, – так ты сказал?..
+'Надежда умирает последней', не так ли...?
 
 つぐみ「私は、生き長らえている」%K%P
 I'll survive.
@@ -2268,7 +2268,7 @@ CN PLACEHOLDER
 つぐみ「恐らく何度も死んで、まだ生きている」%K%P
 I'll probably die many times more and I'll still be alive.
 CN PLACEHOLDER
-Наверное, я сдохну ещё сотню раз, и всё ещё буду жить.
+Наверно я сдохну ещё сотню раз, и всё ещё буду жить.
 
 つぐみ「チャミも生きてる……」%K%P
 Chami here too...
@@ -2278,17 +2278,17 @@ CN PLACEHOLDER
 つぐみ「でも武、あなたは今、本当に生きてるの？」%K%P
 But, Takeshi, can you say that you're really alive right now?
 CN PLACEHOLDER
-Но Такэси... Скажи, а ты сам-то сейчас жив?
+Но, Такеши...скажи, а ты сам-то сейчас жив?
 
 つぐみ「本当に、そこにいるの？」%K%P
 Are you REALLY there in front of me now?
 CN PLACEHOLDER
-Ты правда... Здесь, передо мной?
+Ты правда......здесь, передо мной?
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「……どうしたの？」%K%P
 ...What's wrong?
@@ -2298,12 +2298,12 @@ CN PLACEHOLDER
 つぐみ「私の言うこと……ありのまま受け入れるって、言ったわよね……？」%K%P
 You said... you'd accept everything I had to say, right...?
 CN PLACEHOLDER
-Ты же сказал... что выслушаешь, что недосказанная правда хуже горькой лжи...
+Ты же сказал...что выслушаешь, что недосказанная правда хуже горькой лжи...
 
 つぐみ「武はそう……言って、くれたよね？」%K%P
 You said that... Right, Takeshi?
 CN PLACEHOLDER
-Такэси... ты же... правда так сказал...
+Такеши...ты же...правда так сказал...
 
 唇を噛み締める。%K%P
 She bit her lip.
@@ -2338,12 +2338,12 @@ CN PLACEHOLDER
 それを終わりなく、幾度も繰り返すしかなかったから。%K%P
 It was a process that repeated itself over and over without end.
 CN PLACEHOLDER
-Это происходило снова и снова, замкнутый круг, петля... бесконечная петля.
+Это происходило снова и снова, замкнутый круг, петля...бесконечная петля.
 
 正しいも間違いもなく、それが現実だったから。%K%P
 It wasn't right or wrong, it was her reality.
 CN PLACEHOLDER
-Это не истина, и не ложь – это её реальность.
+Это не истина, и не ложь - это её реальность.
 
 彼女は認めるしかなかった。%K%P
 And it was something that she had no choice but to accept.
@@ -2363,12 +2363,12 @@ CN PLACEHOLDER
 つぐみ「バカみたい、私……」%K%P
 I'm stupid...
 CN PLACEHOLDER
-Я... дура...
+Я...дура...
 
 つぐみ「ううん……きっとあなたなんかよりずっと、バカなのよ……」%K%P
 Uumm... But you know what? You're way stupider than me...
 CN PLACEHOLDER
-Ммммм... Но ты... ты ещё дурнее, чем я!..
+Ммммм.... Но, ты... ты ещё дурней, чем я...!
 
 ゴンドラが大きく揺れた。%K%P
 The gondola swayed.
@@ -2398,7 +2398,7 @@ CN PLACEHOLDER
 武「つぐみっ！！」%K%P
 Tsugumi!
 CN PLACEHOLDER
-Цугуми!
+Цугуми!!
 
 引き止めようとして伸ばした手は、即座に払われる。%K%P
 I stuck out my hand to grab her, but she swatted it away immediately.
@@ -2413,7 +2413,7 @@ CN PLACEHOLDER
 つぐみ「私に……触らないで……」%K%P
 Don't... touch me...
 CN PLACEHOLDER
-Не... трогай меня...
+Не...трогай меня...
 
 ガシャン！%K%P
 Slam!
@@ -2463,7 +2463,7 @@ CN PLACEHOLDER
 両方に……。%K%P
 To everything...
 CN PLACEHOLDER
-Всему...
+Всему....
 
 窓の外はすべて海だ。%K%P
 Outside the window was the ocean.
@@ -2503,12 +2503,12 @@ CN PLACEHOLDER
 会議室では、優とココ、ピピが待っていた。%K%P
 In the conference room, You, Coco, and Pipi were waiting.
 CN PLACEHOLDER
-Ю, Коко и Пипи ждали в Комнате переговоров.
+Ю, Коко и Пипи ждали в Комнате Переговоров.
 
 それに、少年も……。%K%P
 Even the Kid...
 CN PLACEHOLDER
-И Малой тоже...
+И Кид тоже...
 
 少年とは、なんとか和解した。%K%P
 It looked like the Kid had calmed down some.
@@ -2528,7 +2528,7 @@ CN PLACEHOLDER
 俺もあの時取り乱して、随分ひどいことを言ってしまったと思う。%K%P
 I felt that I'd gotten out of hand and had said some terrible things myself.
 CN PLACEHOLDER
-Понимая, что вышел из себя и наговорил много лишнего, я обошёл всех и извинился.
+Понимая, что вышел из себя и наговорил много лишнего, я проведал всех и извинился.
 
 その場にいた皆にきっちり詫び、頭を下げた。%K%P
 I went around to everyone there and apologized.
@@ -2543,7 +2543,7 @@ CN PLACEHOLDER
 レミの端末から直接、会議室へと報告が入った。%K%P
 A report came to us in the conference room, directly from LeMMIH's terminal.
 CN PLACEHOLDER
-В Комнату переговоров, прямо с терминала LeMMIH, пришло сообщение.
+В Комнату Переговоров, прямо с терминала ЛеММИХ, пришло сообщение.
 
 報告データの内容を、優が読み上げる。%K%P
 You read out the contents to all of us.
@@ -2553,27 +2553,27 @@ CN PLACEHOLDER
 ３階・ドリットシュトックの隔離区画――%K%P
 Third floor: Dritter Stock partition schematic—
 CN PLACEHOLDER
-Третий этаж: схема Дритте Шток.
+Третий этаж: схема Дритте шток.
 
 『コスミッシャー・ヴァル』の部屋が、完全浸水した。%K%P
 The “Cosmic Whale” room had flooded completely.
 CN PLACEHOLDER
-Затоплен модуль с залом Космического кита.
+Затоплен модуль с 'Залом Космического Кита'.
 
 犠牲者：なし。%K%P
 Casualties: None.
 CN PLACEHOLDER
-«Человеческие жертвы: отсутствуют.»
+'Человеческие жертвы: Нет'
 
 他の部屋への漏水：なし。%K%P
 Flooding to other rooms: None.
 CN PLACEHOLDER
-«Затопление других помещений: отсутствует.»
+'Затопление других помещений: Отсутствует'
 
 被害拡大の恐れ：なし……。%K%P
 Chance of damage spreading: None...
 CN PLACEHOLDER
-«Вероятность распространения повреждений: 0％»...
+'Вероятность распространения повреждений: 0'...
 
 寒さに少し震える膝を抱いて、俺達は眠る。%K%P
 Shivering slightly in the cold, I wrapped my arms around my knees, and we all went to sleep.

@@ -16,12 +16,12 @@ CN PLACEHOLDER
 少年が側に寄って、ココに肩を貸した。%K%P
 The Kid went up to Coco and lent her his shoulder.
 CN PLACEHOLDER
-Малой подтянулся к Коко и подставил ей своё плечо.
+Кид подтянулся к Коко и подставил ей своё плечо.
 
 『ＨＩＭＭＥＬ』――%K%P
 “HIMMEL”—
 CN PLACEHOLDER
-«HIMMEL»...
+'ХИММЕЛ'—
 
 開かずの扉。%K%P
 The door that wouldn't open.
@@ -31,42 +31,42 @@ CN PLACEHOLDER
 武「空、一応、念の為に訊くけど……」%K%P
 Sora, I'm just asking to make sure...
 CN PLACEHOLDER
-Сора, можно спросить?.. Просто чтобы удостовериться...
+Сора, можно спросить...? Просто чтобы удостовериться...
 
 空「なんでしょう……？」%K%P
 What...?
 CN PLACEHOLDER
-Что именно?..
+Что именно...?
 
 武「ヒンメルって、なんだ？」%K%P
 What does Himmel mean?
 CN PLACEHOLDER
-Как переводится „HIMMEL“?
+Как переводится 'ХИММЕЛ'?
 
 空「ドイツ語で『空』」%K%P
 It means 'sky' in German.
 CN PLACEHOLDER
-По-немецки это „небо“.
+По немецки это 'Небо'.
 
 空「それに、『天国』……」%K%P
 Or 'heaven'...
 CN PLACEHOLDER
-Или „рай“...
+А также...'Рай'...
 
 武「天国、か……」%K%P
 Heaven, huh...?
 CN PLACEHOLDER
-Рай?..
+Рай...?
 
 皮肉な名前をつけてくれたものだ。%K%P
 They sure had given it an ironic name.
 CN PLACEHOLDER
-Видимо, тем, кто строил этот подводный ад, не чужда ирония.
+Видимо, тем кто строил этот подводный ад, не чужда ирония.
 
 さて……この扉を、どうやって開ければいい？%K%p
 So... the question was, how in the world were we going to open that door?
 CN PLACEHOLDER
-Вопрос лишь в том... как открыть эту дверь?
+Вопрос лишь в том...как открыть эту дверь?
 
 空に訊く
 Ask Sora
@@ -101,12 +101,12 @@ CN PLACEHOLDER
 武「何か、ヒントでもあればいいんだけどな……」%K%P
 Even a hint would help...
 CN PLACEHOLDER
-На что он хотя бы похож?..
+На что он, хотя бы, похож...?
 
 空「私、解除コードを探してみます！」%K%P
 I will try to find what it is!
 CN PLACEHOLDER
-Я... сейчас попробую выяснить!
+Я...сейчас попробую выяснить!
 
 言うと空の目の前に、透明なキーボード・コンソールが並んだ。%K%P
 As soon as she said that, a transparent keyboard and console appeared in front of her.
@@ -116,12 +116,12 @@ CN PLACEHOLDER
 空「レミシステムのセキュリティブロックにアクセス……」%K%P
 Accessing the security block for LeMMIH's system...
 CN PLACEHOLDER
-Доступ к блоку безопасности системы LeMMIH...
+Доступ к блоку безопасности системы ЛеММИХ...
 
 空「ヒンメルのプロテクトキーを解除します」%K%P
 Bypassing Himmel's protection key.
 CN PLACEHOLDER
-Обход защитного ключа Химмель.
+Обход защитного ключа ХИММЕЛ.
 
 扉の電子キーのボタンが明滅し始めた。%K%P
 The buttons on the electronic lock started to flash.
@@ -131,7 +131,7 @@ CN PLACEHOLDER
 空「レミ、お願いだから私の言うことを聞いて……」%K%P
 LeMMIH, please listen to me...
 CN PLACEHOLDER
-LeMMIH, пожалуйста, послушай меня...
+ЛеММИХ, пожалуйста, послушай меня...
 
 空「逆らわないで……」%K%P
 Please don't fight me...
@@ -146,7 +146,7 @@ CN PLACEHOLDER
 空「あっ！」%K%P
 Ah!
 CN PLACEHOLDER
-А!
+〜〜〜!
 
 バチン！%K%P
 Snap!
@@ -166,7 +166,7 @@ CN PLACEHOLDER
 空「くっ……！」%K%P
 Agh...!
 CN PLACEHOLDER
-Гх!..
+Гхх...!
 
 構わずに空はキーを叩く。%K%P
 Unfazed, she continued to type.
@@ -186,7 +186,7 @@ CN PLACEHOLDER
 続けざまに激しく火花が放たれた。%K%P
 Sparks violently scattered out one after another.
 CN PLACEHOLDER
-Искры градом посыпались одна за другой.
+Искры, как град, посыпались одна за другой.
 
 空「痛っ！！」%K%P
 Ow!
@@ -201,12 +201,12 @@ RSD-изображение Соры стало нестабильно колых
 武「大丈夫か、空！？」%K%P
 Sora, are you okay!?
 CN PLACEHOLDER
-Сора, ты в порядке?!
+Сора, ты в порядке!?
 
 空「すみません、アクセス拒否されました……」%K%P
 I'm sorry, I was denied access...
 CN PLACEHOLDER
-Прости... мне отказано в доступе...
+Прости......мне отказано в доступе...
 
 彼女の姿もしばらく、どことなく乱れたままで漂っていた。%K%P
 Her image continued to flicker for a while.
@@ -226,7 +226,7 @@ CN PLACEHOLDER
 武「……あれ？　優、どこ行った？」%K%P
 ...Huh? Where'd You go?
 CN PLACEHOLDER
-...А? Куда она делась?
+...эээ? Куда она делась?
 
 優「倉成！　どいてぇーっ！」%K%P
 Kuranari! Outta the way!
@@ -236,7 +236,7 @@ CN PLACEHOLDER
 武「えっ？」%K%P
 Eh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 背後からの声に振り向くと、優は通路を数ｍ後退したところで、持っていた救急箱を床に投げ落としていた。%K%P
 Turning toward the voice coming from a few meters behind me, I saw You throw down the first aid kit she had been carrying.
@@ -246,17 +246,17 @@ CN PLACEHOLDER
 武「は？　ってうわあぁ！」%K%P
 Huh? Uwwaaaah!
 CN PLACEHOLDER
-Что? А-а-а-а-а-а-а-а-а!
+Что? Ааааааааа!
 
 直後、優は猛然とこちらに向かってくる。%K%P
 She immediately came hurtling toward me as if possessed.
 CN PLACEHOLDER
-Она на бешеной скорости рванула по коридору в мою сторону, как одержимая.
+Она, на бешеной скорости, рванула по коридору в мою сторону, как одержимая.
 
 優「ぬぅおおおおーーーー！！」%K%P
 Wwoooooooooooooooaaaah!!
 CN PLACEHOLDER
-Гхо-о-о-о-о-о-о-о-о-о-оа-а-а-а!
+Гхооооооооооооооаааааа!!
 
 世にも恐ろしい形相だった。%K%P
 She looked furious.
@@ -271,17 +271,17 @@ CN PLACEHOLDER
 優「ちぇすとおぉーーーっ！！」%K%P
 Aaaaaiiiiii!
 CN PLACEHOLDER
-Все сто-о-о-о-о!
+Все стооооо!
 
 ――どげしっ！%K%P
 —CRASH!
 CN PLACEHOLDER
-БАБАХ!
+—— БАБАХ!
 
 見事なドロップキックが、扉の電子キーのパネルへと繰り出された！%K%P
 With a perfect flying drop-kick, she threw open the panel to the electronic lock.
 CN PLACEHOLDER
-Как Ю смачным ударом в прыжке едва не выбила панель электронного замка.
+Как Ю, смачным ударом с полулёта, едва не выбила панель электронного замка.
 
 武「ななっ、何やってんだよお前は！？　ふざけてる場合かよ！」%K%P
 Wh-Wh-What are you doing!? This isn't the time to be goofing off!
@@ -291,7 +291,7 @@ CN PLACEHOLDER
 優「まともにやって開かないんなら、ぶっ壊すしかないでしょーがっ！！」%K%P
 If it won't open any other way, I'm going to break it down!
 CN PLACEHOLDER
-Если его нельзя открыть, я его сломаю!
+Если его нельзя открыть, я его сломаю!!
 
 ゼイゼイと肩で荒い息をしながら、優は叫んでいた。%K%P
 You shouted as she leaned over panting.
@@ -301,7 +301,7 @@ CN PLACEHOLDER
 武「極論だなぁ……」%K%P
 That's a little extreme...
 CN PLACEHOLDER
-Это было слегка чересчур...
+Это было слегка черезчур...
 
 武「で、どうだ？　開きそうか？」%K%P
 Well, how about it? Does it look like it's going to open?
@@ -311,22 +311,22 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「きー！　ビクともしてないじゃないのよ！」%K%P
 Aaagh! It won't budge at all!
 CN PLACEHOLDER
-И-и-и! Даже ни на миллиметр!
+Кииии! Даже ни на миллиметр!
 
 扉もパネルも何の変化も起こさず、ケロリとしている。%K%P
 Neither the door nor the panel had changed at all.
 CN PLACEHOLDER
-Ни дверь, ни панель никак не отреагировали.
+Ни дверь, ни панель, никак не отреагировали.
 
 優「あーたたたたたたたたた！」%K%P
 Aaatatatatatatatatata!
 CN PLACEHOLDER
-А-а-а-та-та-та-та-та-та-та-та-та!
+Ааа〜та〜та〜та〜та〜та〜та〜та〜та〜тааа!
 
 奇声を発しながら優は、電子キーを物凄い勢いで滅茶苦茶に叩き始める。%K%P
 You began hitting the lock with a renewed vigor, uttering strange noises.
@@ -336,22 +336,22 @@ CN PLACEHOLDER
 だが電子キーは何度もエラー音を返し、生真面目に再入力を求めるだけだった。%K%P
 But all the lock did was make error sounds and ask politely for her to reenter the password.
 CN PLACEHOLDER
-Но замок лишь издаёт писк и вежливо просит повторить ввод пароля.
+Но, замок лишь издаёт писк и вежливо просит повторить ввод пароля.
 
 優「はぁ……」%K%P
 *Sigh*...
 CN PLACEHOLDER
-*вздох*
+*вздох*...
 
 優「あいたたたぁ……」%K%P
 Ouch...
 CN PLACEHOLDER
-Ай-та-та-та-та...
+Ай〜та〜та〜та〜та...
 
 結局、優は突き指をしてしまったらしく、とぼとぼと救急箱のところへ戻って行った。%K%P
 In the end, You ended up with a sprained finger and went back to the first aid kit.
 CN PLACEHOLDER
-В конце концов Ю вывихнула палец и пошла за аптечкой.
+В конце концов, Ю вывихнула палец и пошла за аптечкой.
 
 次なる手は……%K%p
 Next, I...
@@ -366,7 +366,7 @@ CN PLACEHOLDER
 つぐみ「何言ってるのよ、武……」%K%P
 What are you talking about, Takeshi...?
 CN PLACEHOLDER
-О чём ты, Такэси?..
+О чём ты, Такеши...?
 
 つぐみ「私もそれがわからないから、困ってるんじゃない」%K%P
 I'm wracking my brains thinking about the same thing.
@@ -376,12 +376,12 @@ CN PLACEHOLDER
 武「あ、ああ……そうだったな」%K%P
 Ah, oooh... Yeah, right.
 CN PLACEHOLDER
-Э-э, ох... да, точно.
+Эээ, ооох...да, точно.
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみは少し考えてから、空に訊いた。%K%P
 After thinking for a bit, Tsugumi asked Sora a question.
@@ -401,7 +401,7 @@ CN PLACEHOLDER
 空「正しい解除キーが入力されると、そこに埋め込まれているハッチのレバーが立ち上がるはずです」%K%P
 After the correct keys are input, a lever embedded inside the hatch should start to raise.
 CN PLACEHOLDER
-При наборе правильной комбинации рычаг, врезанный внутрь затвора, должен подняться.
+При наборе правильной комбинации, рычаг, врезанный внутри затвора, должен подняться.
 
 空「レバーを回転させることで、扉のロックが解除されます」%K%P
 As that lever turns, the lock on the door is released.
@@ -411,17 +411,17 @@ CN PLACEHOLDER
 空「但し、現在はこのレバーは飾りです。回転は電動で、自動的に……普段はモーターにロックをかけてあるようです」%K%P
 However, the lever is nothing more than an ornament now. It is turned automatically using electricity... and the motor is usually locked in place.
 CN PLACEHOLDER
-Однако теперь рычаг – не более чем украшение. Он поворачивается автоматически, с помощью электромотора, который обычно зафиксирован.
+Однако, теперь рычаг - не более чем украшение. Он поворачивается автоматически, с помощью электромотора, который обычно зафиксирован.
 
 つぐみ「そう……本来は、緊急時には手動で開けられるようにしてあったのを、わざわざ使えなくしたんでしょうね」%K%P
 Yeah... I suppose they designed it so that you couldn't open it up during an emergency on purpose.
 CN PLACEHOLDER
-Да... Видимо, его разработали так, что даже во время аварии просто так не открыть.
+Да...видимо, его разработали так, что даже во время аварии просто так не открыть.
 
 つぐみ「だとすれば――」%K%P
 In that case...
 CN PLACEHOLDER
-В таком случае...
+В таком случае —
 
 言うが早いか、つぐみはマイナスドライバーを手にしていた。%K%P
 She pulled out a flat-head screwdriver.
@@ -431,7 +431,7 @@ CN PLACEHOLDER
 どこから出したんだ……？%K%P
 (Where'd she get that from...?)
 CN PLACEHOLDER
-(Где она успела её взять?..)
+(Где она успела её взять...?)
 
 つぐみ「もしレバーを取り出せれば、手動で開けられるかもしれない」%K%P
 If we can get that lever off, maybe we can open this up manually.
@@ -441,7 +441,7 @@ CN PLACEHOLDER
 扉のパネルラインの隙間に、ドライバーの先端を差し込み始める。%K%P
 She began to insert the tip of the screwdriver into the gap between the door's panel lines.
 CN PLACEHOLDER
-Она вставила острие отвёртки в щель между панелями замка.
+Она вставила остриё отвёртки в щель между панелями замка.
 
 そして……%K%P
 And...
@@ -451,7 +451,7 @@ CN PLACEHOLDER
 つぐみ「はあっ！！」%K%P
 Haaa!
 CN PLACEHOLDER
-Гх!
+Гххх!
 
 つぐみが全身の力を、ドライバーにこめる。%K%P
 Tsugumi jammed the screwdriver in with all her might.
@@ -481,7 +481,7 @@ CN PLACEHOLDER
 バキン！！%K%P
 Slam!
 CN PLACEHOLDER
-Хлоп!
+Хлоп!!
 
 ドライバーのほうが先に、根元からまっぷたつに折れてしまった。%K%P
 The screwdriver bent into two equal parts from its handle.
@@ -496,7 +496,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「仕方ないわね」%K%P
 There's nothing I can do.
@@ -511,77 +511,77 @@ CN PLACEHOLDER
 次なる手は……%K%p
 What next...
 CN PLACEHOLDER
-И что же дальше?..
+И что же дальше...?
 
 武「くそっ、どうすりゃいい！？」%K%P
 Damn! What are we going to do!?
 CN PLACEHOLDER
-Проклятье! Что же нам делать?!
+Проклятье! Что же нам делать!?
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ピピ「く〜ん……」%K%P
 *Whine*...
 CN PLACEHOLDER
-*писк*
+*писк*...
 
 ココは少年に支えられてはいたが、もう立っていられそうにない。%K%P
 Coco was being supported by the Kid. She couldn't stand by herself.
 CN PLACEHOLDER
-Малой поддерживает Коко. Она уже не может сама стоять на ногах.
+Кид поддерживает Коко. Она уже не может сама стоять на ногах.
 
 すぐに、床にしゃがみ込んでしまった。%K%P
 She was soon hunched over on the floor.
 CN PLACEHOLDER
-Вскоре Коко повалилась на пол.
+Вскоре, Коко повалилась на пол.
 
 一度は持ち直したと思ったのだが……また顔色がかなり悪くなってきている。%K%P
 I tried pulling her up again, but... her face quickly drained of all color.
 CN PLACEHOLDER
-Я попытался поднять её снова, но... её лицо побледнело почти мгновенно.
+Я попытался поднять её снова, но...её лицо побледнело почти мгновенно.
 
 マズい、早く……早くしないと……！%K%P
 (This is bad... If we don't... get in there quickly...!)
 CN PLACEHOLDER
-(Плохо дело... Если мы не... сможем туда попасть!..)
+(Это плохо...если мы не...сможем туда попасть...!)
 
 アナウンス「öｆｆｎｅｎ⑳Ｓｉｅ⑳
 <öffnen Sie 
 CN PLACEHOLDER
-öffnen Sie 
+Открытие 
 
 ｄｉｅ⑳Ｔüｒ⑳ｖｏｎ⑳ＨＩＭＭＥＬ．」%K%P
 die Tür von HIMMEL.>”
 CN PLACEHOLDER
-die Tür von HIMMEL.»%N(Открытие врат Рая.)
+врат Рая.»
 
 突如、聞き慣れない声が通路にこだました。%K%P
 Suddenly, a voice that I hadn't heard before sounded from the corridor.
 CN PLACEHOLDER
-И тут... из коридора прозвучал механический голос.
+И тут...из коридора прозвучал механический голос.
 
 武「アナウンス……？　何だ？」%K%P
 What's that announcement...?
@@ -591,7 +591,7 @@ CN PLACEHOLDER
 空「誰かがレミシステムにアクセスしています！」%K%P
 Someone is trying to access LeMMIH's system!
 CN PLACEHOLDER
-Кто-то пытается получить доступ к системе LeMMIH!
+Кто-то пытается получить доступ к системе ЛеММИХ!
 
 空が目を見開いて叫んだ。%K%P
 Sora flashed open her eyes and shouted.
@@ -601,12 +601,12 @@ CN PLACEHOLDER
 空「この部屋の中……ヒンメルの端末からです！」%K%P
 From inside the room... From a terminal inside Himmel!
 CN PLACEHOLDER
-Внутри того помещения... с терминала в Химмеле!
+Внутри того помещения...с терминала в ХИММЕЛ!
 
 武「何だって！？」%K%P
 What!?
 CN PLACEHOLDER
-Что?!
+Что!?
 
 電子キーのアクセスランプの色が変わった。%K%P
 The access indicator light for the electronic lock turned green.
@@ -621,7 +621,7 @@ CN PLACEHOLDER
 扉は、いきなり開かれる……。%K%P
 The door opened suddenly...
 CN PLACEHOLDER
-Дверь открылась...
+Дверь открылась....
 
 こもった空気が、部屋の中から流れ出してきた。%K%P
 Stagnant air poured out of the room.
@@ -631,7 +631,7 @@ CN PLACEHOLDER
 なんとなく外よりも湿度が低い気がする。空調は静かに稼動していた。%K%P
 For some reason, the humidity felt like it was lower than outside. The air conditioning was humming quietly.
 CN PLACEHOLDER
-Не знаю, почему, но сыростью здесь пахнет гораздо меньше, чем снаружи. Кондиционеры работают с едва заметным жужжанием.
+Не знаю, почему, но сыростью здесь пахнет гораздо меньше, чем снаружи. Кондиционеры воздуха работают, с едва заметным жужжанием.
 
 それに、白い……。%K%P
 It was white...
@@ -651,17 +651,17 @@ CN PLACEHOLDER
 ヒンメル――天国という名はあながち間違いではないようだ。%K%P
 Himmel—it didn't necessarily seem like a mistake to have named the room heaven.
 CN PLACEHOLDER
-Химмель. Неудивительно, что это помещение назвали «раем».
+ХИММЕЛ. Не удивительно, что это помещение назвали 'раем'.
 
 『ＨＩＭＭＥＬ』と書かれたプレートが、機械に貼りつけられている。%K%P
 The machines displayed nameplates with “HIMMEL” written on them.
 CN PLACEHOLDER
-На многих установках также висят таблички и наклейки с надписью «HIMMEL».
+На многих установках также висят таблички и наклейки с надписью 'ХИММЕЛ'.
 
 ここはコンピューターのコントロールルームらしい。%K%P
 It seemed that we were in the computer control room.
 CN PLACEHOLDER
-Помещение чем-то напоминает Центр управления.
+Помещение чем-то напоминает Центр Управления.
 
 武「あ、おいっ！　人が……」%K%P
 H-Hey! There's someone here...
@@ -681,7 +681,7 @@ CN PLACEHOLDER
 白衣を着た、４０代くらいの男性だ。%K%P
 He was a man who appeared to be in his forties, dressed in a white lab coat.
 CN PLACEHOLDER
-На вид ему примерно 40 лет. Одет в белый лабораторный халат. По всей видимости, учёный.
+На вид, ему примерно 40 лет. Одет в белый лабораторный халат. По всей видимости, учёный.
 
 そして、彼は……%K%P
 And...
@@ -696,12 +696,12 @@ CN PLACEHOLDER
 武「おいオッサン！　どうした！？」%K%P
 Hey, buddy! Are you alright!?
 CN PLACEHOLDER
-Эй! Вы живы?!
+Эй! Вы живы!?
 
 ？？「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 男性は俺の呼びかけに答えず、うつ伏せたままだ。%K%P
 The man didn't reply to me. He just lay there motionless.
@@ -711,7 +711,7 @@ CN PLACEHOLDER
 武「そもそもこいつ、誰なんだ……？」%K%P
 Who is this guy...?
 CN PLACEHOLDER
-Кто это?..
+Кто это...?
 
 武「空、彼が誰だかわかるか？」%K%P
 Sora, do you have any idea who this is?
@@ -726,7 +726,7 @@ CN PLACEHOLDER
 空「ですが、その服装からすると恐らく、ＩＢＦの研究員の方だと思います」%K%P
 But judging from the way he is dressed, it is safe to assume he was a researcher at the IBF facility.
 CN PLACEHOLDER
-Но судя по форме одежды, с весьма высокой долей вероятности можно утверждать, что он работник лаборатории IBF.
+Но, судя по форме одежды, с весьма высокой долей вероятности можно утверждать, что он работник лаборатории IBF.
 
 俺は男性の肩に手をかけ、身体を起こしてやった。%K%P
 I put my hands on his shoulder and raised him into a sitting position.
@@ -736,27 +736,27 @@ CN PLACEHOLDER
 彼の名前や身分を示すものがないかどうか、白衣や衣服を見た。%K%P
 I looked over his white clothing to see if he had any name tags or other way to determine his name.
 CN PLACEHOLDER
-Я осмотрел его белый халат и одежду – нет ли чего-нибудь, что указывало бы на его имя или личность.
+И рассмотрел белый халат на наличие нашивок, наклеек и карточек, что могло бы дать хоть какое-то предположение о его имени.
 
 だが、ＩＤカードやネームプレートの類は確認できない。%K%P
 But he didn't have any ID card or nameplate to check.
 CN PLACEHOLDER
-Но ни пропуска, ни именного бейджа при нём не оказалось.
+Но, ни того, ни другого, ни третьего, не оказалось.
 
 研究員「ううっ……」%K%P
 Uuugh...
 CN PLACEHOLDER
-Гх...
+Гхххх...
 
 武「なぁ、あんたは下の研究所のスタッフなのか？」%K%P
 Hey, are you one of the staff from the research facility?
 CN PLACEHOLDER
-Эй, вы один из учёных исследовательской лаборатории?
+Эй, Вы один из учёных, что заведовали лабораторией?
 
 研究員「あ、ああ。そうだ……」%K%P
 Y-Yeah... That's right...
 CN PLACEHOLDER
-Д-да... вы правы...
+Д-да...вы правы...
 
 息も絶え絶え、研究員は答えた。%K%P
 Breathing faintly, the researcher replied.
@@ -771,7 +771,7 @@ CN PLACEHOLDER
 研究員「君は……救助隊じゃなさそうだな……」%K%P
 Doesn't seem like you're... here to rescue me...
 CN PLACEHOLDER
-Вы... не похожи на спасательную команду...
+Вы...не похожи на спасательную команду...
 
 震える手で彼は、俺をかろうじて掴んだ。%K%P
 With a shaking hand, he grabbed onto me.
@@ -786,42 +786,42 @@ CN PLACEHOLDER
 研究員「ＬｅＭＵにまだ人がいたのか。あれから６日は経っただろうに……」%K%P
 So there were still people in LeMU... and it's been six days since...
 CN PLACEHOLDER
-Значит... в LeMU до сих пор остались люди. Подумать только, а ведь прошло 6 дней...
+Значит...в LeMU до сих пор остались люди. Подумать только, а ведь прошло 6 дней...
 
 研究員「はははっ、こいつは驚きだ……ぐふっ」%K%P
 Hahaha, what a surprise... *gagh*...
 CN PLACEHOLDER
-Ха-ха-ха, вот так сюрприз... *кхе*
+Ха〜ха〜ха, вот так сюрприз.... *кхе*
 
 口元を歪めて苦笑すると、そこからまた血がこぼれる。%K%P
 Blood trickled from his mouth, and he smiled wryly.
 CN PLACEHOLDER
-Стоило ему горько усмехнуться, как с его губ вновь потекла кровь.
+Кровь тонкой струйкой сочится из его рта, но он улыбнулся...с трудом...улыбка вперемешку с гримасой боли.
 
 武「お、おいっ、あんま無理にしゃべるな！」%K%P
 H-Hey! Don't strain yourself. You don't have to talk!
 CN PLACEHOLDER
-Э-эй! Не напрягайтесь. Берегите силы, не тратьте их на болтовню!
+Э-Эй! Не напрягайтесь. Берегите силы, не тратьте их на болтовню!
 
 研究員「すまんな……我々のせいで」%K%P
 I'm so sorry... It's all our fault...
 CN PLACEHOLDER
-Простите... это всё из-за нас...
+Простите...это всё из-за нас...
 
 武「どうした？　下で、何かあったのか？」%K%P
 What happened? Did something happen down there?
 CN PLACEHOLDER
-Что случилось? Там внизу... что произошло?
+Что случилось? Там внизу...что произошло?
 
 研究員「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 研究員「だけど、どうしてこんな……」%K%P
 But why all this...?
 CN PLACEHOLDER
-Но почему это...
+Но, почему это...
 
 研究員「こんな……」%K%P
 This...
@@ -841,7 +841,7 @@ CN PLACEHOLDER
 研究員「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 肩を揺すったが、何も答えない。%K%P
 I shook his shoulders, but he didn't reply.
@@ -851,7 +851,7 @@ CN PLACEHOLDER
 つぐみ「武、乱暴はやめなさいよ」%K%P
 Takeshi, cut it out, you're shaking him too hard.
 CN PLACEHOLDER
-Такэси, перестань, ты трясёшь его слишком сильно.
+Такеши, перестань, ты трясёшь его слишком сильно.
 
 つぐみ「彼はもう気を失っているわ。手を放してあげて」%K%P
 He's unconscious. Just leave him alone for now.
@@ -861,12 +861,12 @@ CN PLACEHOLDER
 武「あ、ああ……」%K%P
 O-Okay...
 CN PLACEHOLDER
-Л-ладно...
+Л-Ладно...
 
 つぐみ「こうなれば……彼も一緒に連れて行くしかないでしょうね」%K%P
 We'll... We'll have to bring him with us.
 CN PLACEHOLDER
-Нам... придётся взять его с собой.
+Нам...придётся взять его с собой.
 
 いったいどうなってるんだ？%K%P
 I wondered what was going on.
@@ -876,12 +876,12 @@ CN PLACEHOLDER
 ……いや、それより急がないと！%K%P
 ...More importantly, I had to hurry!
 CN PLACEHOLDER
-(...Нет, важнее всего то, что нам надо спешить!)
+(...нет, более важно, что нам надо спешить.)
 
 わけがわからないが、今はそんなことはどうでもいい。%K%P
 I didn't have a clue what was going on, but I couldn't worry about that.
 CN PLACEHOLDER
-(Понятия не имею, что происходит, но... сейчас об этом волноваться некогда.)
+(Понятия не имею, что происходит, но...сейчас об этом волноваться некогда.)
 
 ココを早くＩＢＦへ連れて行かなければ……。%K%P
 We had to get Coco to IBF right away...
@@ -891,12 +891,12 @@ CN PLACEHOLDER
 ヒンメルの入り口付近に立ち尽くしていた優が、ピピと共に室内に入った。%K%P
 You, who had been waiting at the entrance to Himmel, went inside with Pipi.
 CN PLACEHOLDER
-Ю, что ждала у входа в Химмель, зашла внутрь вместе с Пипи.
+Ю, что ждала у входа в ХИММЕЛ, зашла внутрь вместе с Пипи.
 
 少年がココを抱えながら、後に続く。%K%P
 The Kid followed behind, carrying Coco.
 CN PLACEHOLDER
-Малой зашёл следом, неся Коко.
+Кид зашёл следом, неся Коко.
 
 電子キーのついた入り口の扉は、開けたままにしておいた。%K%P
 The door had an electronic lock on it, so we left it open.
@@ -906,7 +906,7 @@ CN PLACEHOLDER
 空「皆さん、この部屋の奥にもうひとつ、部屋があります。見えますか？」%K%P
 Everyone, at the far end of this room is another room. Can you see it?
 CN PLACEHOLDER
-Ребята, в дальнем конце помещения есть ещё одна дверь. Видите?
+Ребята, в дальнем конце помещения есть ещё одно. Видите?
 
 武「ＯＫ……」%K%P
 Yeah...
@@ -926,7 +926,7 @@ CN PLACEHOLDER
 正面のガラスの向こう側に部屋があるのがわかる。%K%P
 There was a room on the other side of the glass in front of us.
 CN PLACEHOLDER
-За металлической дверью с округлым иллюминатором виднеется небольшое помещение.
+За металлической дверью с округлым иллюминатором, виднеется небольшое помещение.
 
 空「あれはＩＢＦ用の、加減圧室です」%K%P
 That is the compression chamber for IBF.
@@ -946,22 +946,22 @@ CN PLACEHOLDER
 空「ＩＢＦには通常のＬｅＭＵよりもさらに高圧のガスが封入されています。ＩＢＦもまた、飽和潜水仕様というわけです」%K%P
 IBF is enclosed in higher pressure gas than LeMU. The IBF area is set to what is known as 'saturated diving specifications'.
 CN PLACEHOLDER
-IBF заполнен газом под ещё более высоким давлением, чем LeMU. О зоне IBF говорят, как о соответствующей „стандартам глубоководного дайвинга“.
+IBF заполнен газом под ещё более высоким давлением, чем LeMU. О зоне IBF говорят, как о соответствующей 'стандартам глубоководного дайвинга'.
 
 空「そのほうが特殊な細菌の研究に適しているということもあるのでしょう……ＩＢＦの内部気圧は、実に、約１２．５気圧……」%K%P
 This type of area is also probably more suitable for research with bacteria... The atmospheric pressure of IBF is actually at about 12.5 atmospheres.
 CN PLACEHOLDER
-Зоны, как эта, действительно больше подходят для изучения микроорганизмов... Давление в IBF составляет примерно 12,5 атмосфер.
+Зоны, как эта, действительно более подходящи для изучения микроорганизмов.... Давление в IBF составляет примерно 12.5 атмосфер.
 
 空「皆さんには、あの部屋に入っていただきます」%K%P
 I want all of you to enter that room.
 CN PLACEHOLDER
-Я хочу, чтобы вы все проследовали в эту комнату.
+Я хочу, чтобы Вы все проследовали в эту комнату.
 
 空「そして加減圧室での約１時間の加圧が完了次第、専用リフトでＩＢＦへと下降することになります」%K%P
 And after you spend about one hour in the compression chamber, you'll take the access elevator down to IBF.
 CN PLACEHOLDER
-Как только вы проведёте в барокамере один час, то спуститесь на лифте до IBF.
+Как только Вы проведёте в барокамере один час, то спуститесь на лифте до IBF.
 
 空「念の為、申し上げておきますが……」%K%P
 And I should tell you this as a precaution...
@@ -971,7 +971,7 @@ CN PLACEHOLDER
 空「ここから先は、容易に後戻りすることはできません。皆さん、心してください」%K%P
 You will not be able to retrace your steps easily from this point on. Please give this due consideration.
 CN PLACEHOLDER
-С этого момента вам будет очень трудно отступить. Прошу, взвесьте все „за“ и „против“.
+С этого момента, Вам будет очень трудно отступить. Прошу, взвесьте все 'за' и 'против'.
 
 武「ああ……」%K%P
 Ahhh...
@@ -981,7 +981,7 @@ CN PLACEHOLDER
 後戻りは、できない……。%K%P
 We can't go back...
 CN PLACEHOLDER
-Значит... мы не сможем вернуться...
+Значит...мы не сможем вернуться...
 
 覚悟を決めなければ。%K%p
 We've got to make a decision.
@@ -1011,7 +1011,7 @@ CN PLACEHOLDER
 優・少年・つぐみ・空・ピピ……皆が深く頷いた。%K%P
 You, the Kid, Tsugumi, Sora, and Pipi... all nodded.
 CN PLACEHOLDER
-Ю, Малой, Цугуми, Сора и Пипи... все кивнули.
+Ю, Кид, Цугуми, Сора и Пипи...все кивнули.
 
 武「いや、ちょっと待ってくれ！」%K%P
 Hey, wait just a second!
@@ -1026,7 +1026,7 @@ CN PLACEHOLDER
 つぐみ「どうしたの、武？　まさかこの期に及んで、怖じ気づいたりしてないでしょうね？」%K%P
 What's the matter, Takeshi? You aren't chickening out now, are you?
 CN PLACEHOLDER
-Что с тобой, Такэси? Я надеюсь, ты не струсил в самый последний момент?
+Что с тобой, Такеши? Я надеюсь, ты не струсил в самый последний момент?
 
 武「いや、俺は大丈夫だが……」%K%P
 No, that's not it...
@@ -1041,7 +1041,7 @@ CN PLACEHOLDER
 武「今のうちにトイレ行きたい奴は行っとけよ」%K%P
 You know, check to see if everyone had gone to the bathroom...
 CN PLACEHOLDER
-Если кому в туалет – идите сейчас.
+Поэтому, если кто хочет сейчас, сходите припудрить носик...
 
 武「それから歯を磨いて、風呂に入って」%K%P
 Brushed their teeth, taken a shower...
@@ -1056,17 +1056,17 @@ CN PLACEHOLDER
 つぐみ「はぁ……」%K%P
 *Sigh*...
 CN PLACEHOLDER
-*вздох*
+*вздох*...
 
 空「ふぅ……」%K%P
 *Sigh*...
 CN PLACEHOLDER
-*вздох*
+*вздох*...
 
 大きな溜め息がふたつ聞こえた。%K%P
 I heard two rather large sighs.
 CN PLACEHOLDER
-Раздались два глубоких вздоха.
+Раздались два больших вздоха.
 
 つぐみ「こんな時にも、そんな冗談言っていられるあなたって……正真正銘、真性のバカね」%K%P
 Saying something like that at a time like this... You really are a moron.
@@ -1081,7 +1081,7 @@ CN PLACEHOLDER
 空「それより、急ぎましょう？」%K%P
 More importantly, we need to hurry, okay?
 CN PLACEHOLDER
-Главное сейчас – не терять ни секунды, хорошо?
+Главное сейчас - не терять ни секунды, хорошо?
 
 どうやら、呆れられてしまったようだ。%K%P
 It seemed that everyone was tired of my jokes.
@@ -1106,12 +1106,12 @@ CN PLACEHOLDER
 改めて俺が言うと、優・少年・つぐみ・空・ピピ……皆が深く頷いた。%K%P
 When I said that again, You, the Kid, Tsugumi, Sora, and Pipi... all nodded in unison.
 CN PLACEHOLDER
-С этими словами Ю, Малой, Цугуми, Сора и Пипи... все кивнули в унисон.
+С этими словами, Ю, Кид, Цугуми, Сора и Пипи... все кивнули в унисон.
 
 ぐったりとしているココを、少年と優が両脇から支えた。%K%P
 The Kid and You held the unconscious Coco between them.
 CN PLACEHOLDER
-Малой и Ю потащили бесчувственную Коко.
+Кид и Ю потащили бесчувственную Коко.
 
 つぐみと俺が研究員を担ぎ上げる。ピピは列の一番後ろについた。%K%P
 Tsugumi and I picked up the researcher, and Pipi took up the rear.
@@ -1126,7 +1126,7 @@ CN PLACEHOLDER
 空が端末のパネルを操作して、扉を開く。%K%P
 Sora used the control panel on a terminal to open it up.
 CN PLACEHOLDER
-С помощью панели управления на терминале Сора открыла её.
+С помощью панели управления на терминале, Сора открыла её.
 
 全員が揃って、奥の部屋に進んだ。%K%P
 All of us entered the room together.
@@ -1136,17 +1136,17 @@ CN PLACEHOLDER
 ヒンメルのコントロールルームから強化ガラス一枚を隔てて、加減圧室はある。%K%P
 A single panel of reinforced glass lay in between the control room and the compression chamber.
 CN PLACEHOLDER
-Она располагалась за бронированным стеклом по другую сторону от Химмеля. 
+От остального пространства компьютерной комнаты её отделяет лишь слой бронированного стекла.
 
 正確には、部屋の中央にチャンバーが置かれ……部屋の中に部屋が作られているような格好だ。%K%P
 More precisely, a chamber was set in the middle of the room... It had been constructed there.
 CN PLACEHOLDER
-Точнее говоря, в центре помещения находилась отдельная камера – так что всё выглядело как комната внутри комнаты.
+Точнее, барокамера, установленная посреди этой комнаты...в ней и была построена.
 
 ココと研究員を先に運び入れ、椅子に寝かせる。%K%P
 We brought Coco and the researcher into the room first and sat them down on chairs.
 CN PLACEHOLDER
-Внеся туда Коко и учёного, мы усадили их в кресла.
+Мы внесли Коко и учёного в комнату и усадили их в кресла.
 
 ふたりとも呼吸が不安定で、苦しそうだ。顔色もすぐれない。%K%P
 Both of them had ragged breathing, and they looked to be in pain. Their faces were extremely pale and sickly.
@@ -1161,47 +1161,47 @@ CN PLACEHOLDER
 １時間もここに留まっていなければならないことを恨めしく思う。%K%P
 I would hate to waste an hour there.
 CN PLACEHOLDER
-Проклятье! Торчать здесь целый час!..
+Проклятье! Торчать здесь целый час...!
 
 空いているスペースに優・少年・つぐみ・ピピが並んで立った。%K%P
 You, the Kid, Tsugumi, and Pipi all stood in the open space available.
 CN PLACEHOLDER
-Ю, Малой, Цугуми и Пипи стоят на небольшом пятачке.
+Ю, Кид, Цугуми и Пипи стоят на небольшом пяточке.
 
 部屋は定員を越えていて、やはり狭かった。%K%P
 With everyone in there, it was fairly crowded.
 CN PLACEHOLDER
-Сказать, что здесь тесно – значит не сказать ничего.
+Если сказать, что здесь тесно, значит не сказать ничего.
 
 空「加圧が完了すれば、部屋の奥の扉が自動で開いて、リフトへ行けるようになりますから」%K%P
 Once the compression is completed, the door on the far side should open, and you can enter the elevator.
 CN PLACEHOLDER
-Как только процедура будет завершена, откроется дверь с другой стороны, и вы сможете войти в лифт.
+Как только процедура будет завершена, откроется дверь с другой стороны, и Вы сможете войти в лифт.
 
 空は何故かこの部屋に入らず、手前側の入り口の外から話しかけている。%K%P
 For some reason, Sora didn't enter the room, but spoke to us from in front of the entrance.
 CN PLACEHOLDER
-Не знаю, почему, но... Сора не вошла в барокамеру.
+Не знаю, почему, но...Сора не вошла в барокамеру.
 
 空「加圧は最速で行います。ちょっと辛くなるかもしれませんが、なんとか我慢してください」%K%P
 I will expedite the compression process. It may be a little uncomfortable, but please bear with it.
 CN PLACEHOLDER
-Я прослежу за процессом компрессии. Вы можете почувствовать себя немного некомфортно, но прошу, потерпите.
+Я прослежу за процессом компрессии. Вы можете почувствовать себя немного некомфортно, но, прошу, потерпите.
 
 そう言って空は、入り口の扉を閉じようとした。%K%P
 And saying that, Sora went to close the door.
 CN PLACEHOLDER
-С этими словами Сора собралась закрыть дверь.
+С этими словами, Сора собралась закрыть дверь.
 
 武「空、どうした？　一緒に来ないのか？」%K%P
 Sora, what's wrong? You aren't coming with us?
 CN PLACEHOLDER
-Сора, подожди... разве ты не идёшь с нами?
+Сора, подожди...разве ты не идёшь с нами?
 
 空「あっ、いえ、私は……」%K%P
 Uh, no, I...
 CN PLACEHOLDER
-Э-э, нет, я...
+Эээ, нет, я...
 
 武「ほら、行こう。何ためらってんだよ？」%K%P
 Come on, let's get started. What are you waiting for?
@@ -1226,7 +1226,7 @@ CN PLACEHOLDER
 空「きゃっ！！」%K%P
 Kyaaa!
 CN PLACEHOLDER
-А-а-а-а-а!
+Ааааа!
 
 触れようとした瞬間、空中に火花が散った。%K%P
 As soon as I tried to touch her, sparks flew into the air.
@@ -1241,7 +1241,7 @@ CN PLACEHOLDER
 扉の前に突如、透明な壁が現れる。%K%P
 A transparent wall suddenly appeared in front of the door.
 CN PLACEHOLDER
-В тот же миг перед дверью появилась прозрачная стена.
+В тот же миг, перед дверью появилась прозрачная стена.
 
 真っ赤に燃え盛る炎の壁……。%K%P
 There was a red wall of flame...
@@ -1251,22 +1251,22 @@ CN PLACEHOLDER
 武「わっ！？」%K%P
 What!?
 CN PLACEHOLDER
-Какого?!
+Какого...!?
 
 驚いて俺が手を引っ込めると、すぐに入り口の扉が閉まってしまった。%K%P
 Alarmed, I drew back my hand, and the door closed.
 CN PLACEHOLDER
-Я машинально одёрнул руку, и дверь закрылась.
+Я машинально отринул руку, и дверь закрылась.
 
 武「空、空っ！　今のは……」%K%P
 Sora! Sora! What was...?
 CN PLACEHOLDER
-Сора! Сора! Что это?..
+Сора! Сора! Что это...?
 
 空「ここから先はコンピューターの管轄が違うんです」%K%P
 From this point on, this is the jurisdiction of a different computer system.
 CN PLACEHOLDER
-С этого момента вы находитесь на территории другой компьютерной системы.
+С этого момента, Вы находитесь на территории другой компьютерной системы.
 
 加減圧室の中のインターホンのスピーカーから、冷静な空の声が聞こえた。%K%P
 I heard Sora's voice talking to us calmly over the speaker of the compression chamber's intercom.
@@ -1276,7 +1276,7 @@ CN PLACEHOLDER
 空「私はあくまで、レミの機能の一部ですから……ＩＢＦには降りられないんです。アクセス権限がないんですよ」%K%P
 I am but a single part of the LeMMIH system... therefore, I am unable to go to IBF. I do not have the authority to access the area.
 CN PLACEHOLDER
-Я – часть системы LeMMIH, а это значит... я не могу находиться в IBF. У меня нет доступа в эту зону.
+Я - часть системы ЛеММИХ, а это значит...я не могу находиться в IBF. У меня нет доступа в эту зону.
 
 空「残念ですが、ここでお見送りさせていただきます」%K%P
 I am sorry, but I will have to see you off.
@@ -1296,12 +1296,12 @@ CN PLACEHOLDER
 僅かに、気圧圧力を高めていくガスの音が響く。%K%P
 The sound of pumping gas, which was slowly raising the air pressure, could be heard throughout the chamber.
 CN PLACEHOLDER
-Мы слышим, как внутрь струится газ, постепенно увеличивая давление воздуха... единственное, что мы слышим.
+Мы слышим, как внутрь струится газ, постепенно увеличивая давление воздуха...единственное, что мы слышим.
 
 武「そうだ……みんな、再圧中は耳の変換機を外してくれ。そいつは耐圧式だが、加減圧のときは邪魔になる」%K%P
 Hey... Everyone, take out your voice converters. They get in the way when you're adjusting to the pressure.
 CN PLACEHOLDER
-Ребята... лучше вынуть модификаторы голоса. Они могут помешать приспособиться к давлению.
+Ребята...лучше вынуть модификаторы голоса. Они могут помешать приспособиться к давлению.
 
 全員、俺の言う通りに変換機を取った。%K%P
 Everyone did as I said and removed their voice alternators.
@@ -1346,7 +1346,7 @@ CN PLACEHOLDER
 そして……%K%P
 And then...
 CN PLACEHOLDER
-Затем...
+.........
 
 チャンバーの奥にある扉のロックが、音を立てて外れた。%K%P
 The lock from the door on the far side of the chamber clicked and released.
@@ -1366,7 +1366,7 @@ CN PLACEHOLDER
 空「それでは、皆さん……どうかご無事で」%K%P
 Everyone... take care.
 CN PLACEHOLDER
-Ну что же, ребята... желаю удачи.
+Ну что же, ребята...желаю удачи.
 
 離れたスピーカーの位置から、彼女の声が聞こえた。%K%P
 We could hear her voice from the speaker on the other side of the room.
@@ -1376,12 +1376,12 @@ CN PLACEHOLDER
 その姿は、ここからでは見えなかった。%K%P
 But we couldn't see her.
 CN PLACEHOLDER
-Но мы больше её не видим.
+Но, мы больше её не видим.
 
 もう、目と鼻の先の距離でその声を聞くことはないのだろうか……？%K%P
 I wondered if I would ever see her up close again...
 CN PLACEHOLDER
-Я волнуюсь, а что если мы больше никогда её не увидим?..
+Я волнуюсь, а что если мы больше никогда её не увидим...?
 
 俺は軽く首を振ると、耳に音声変換機を詰め直した。%K%P
 Cocking my head to one side, I thrust the voice alternators back in my ears.
@@ -1401,17 +1401,17 @@ CN PLACEHOLDER
 アナウンス「Ｔｉｅｆｅ⑳７０ｍ……」%K%P
 <Tiefe 70 meter...>
 CN PLACEHOLDER
-;Автообъявление«Tiefe 70 meter...»%N(Глубина – 70 метров...)%K%P
+Глубина 70 метров...
 
 アナウンス「Ｔｉｅｆｅ⑳８０ｍ……」%K%P
 <Tiefe 80 meter...>
 CN PLACEHOLDER
-;Автообъявление«Tiefe 80 meter...»%N(Глубина – 80 метров...)%K%P
+Глубина 80 метров...
 
 アナウンス「Ｔｉｅｆｅ⑳９０ｍ……」%K%P
 <Tiefe 90 meter...>
 CN PLACEHOLDER
-;Автообъявление«Tiefe 90 meter...»%N(Глубина – 90 метров...)%K%P
+Глубина 90 метров...
 
 天国の下には何がある？%K%P
 What could be below heaven?
@@ -1421,12 +1421,12 @@ CN PLACEHOLDER
 そこもまた天国なのか、あるいは……。%K%P
 More heaven, or...
 CN PLACEHOLDER
-Тоже рай, или?..
+Тоже рай, или...?
 
 アナウンス「Ｔｉｅｆｅ⑳１１９ｍ．」%K%P
 <Tiefe 119 meter.>
 CN PLACEHOLDER
-;Автообъявление«Tiefe 119 meter...»%N(Глубина – 119 метров...)%K%P
+Глубина 119 метров.
 
 リフトの扉が開いた。%K%P
 The door to the elevator opened.

@@ -1,7 +1,7 @@
 ﻿やがてぼくらは、再び会議室に集合した。%K%P
 We finally gathered again in the conference room.
 CN PLACEHOLDER
-Итак, мы вновь собрались в Комнате переговоров.
+Итак, мы вновь собрались в Комнате Переговоров.
 
 あんな醜態を晒したあとだと言うのに、みんなは何事もなかったかのように、ぼくに接してくれた。%K%P
 Even though I had just embarrassed myself in front of everyone, they all acted as if nothing had happened.
@@ -26,22 +26,22 @@ CN PLACEHOLDER
 もう一度皆で揃って、ＬｅＭＵの中を巡った。%K%P
 So we all decided to wander around LeMU one more time.
 CN PLACEHOLDER
-Поэтому мы все решили ещё разок пройтись по LeMU.
+Поэтому мы все решили ешё разок пройтись по LeMU.
 
 館内をまわりながら武は、%K%P
 As we made the rounds, Takeshi said...
 CN PLACEHOLDER
-Пока мы нарезали круги, Такэси сказал:
+Пока мы нарезали круги, Такеши сказал -
 
 『ＬｅＭＵの端から端まで走ったときの、最速のレコードはいくつか？』とか、%K%P
 “Whaddya think the record is for running from one end of LeMU to the other?”
 CN PLACEHOLDER
-«А давайте посоревнуемся в забеге от одного конца LeMU до другого на время?»
+'А давайте посоревнуемся в забеге от одного конца LeMU до другого, на время?'
 
 『なんとかしてタツタサンドの味を、まったくの別ものに変えてみよう！』とか、%K%P
 “I think we should try to give the tuna sandwiches a completely new flavor!”
 CN PLACEHOLDER
-«Я думаю, стоит попробовать придать сэндвичам с тунцом новый вкус!»
+'Я думаю, стоит попробовать придать бутербродам с курятиной новый вкус, точно!'
 
 くだらない提案をいくつかしてくれた。%K%P
 He made a number of stupid comments.
@@ -51,7 +51,7 @@ CN PLACEHOLDER
 ぼくら（もちろん、つぐみを除く）は半ば呆れながらも、面白がって付き合った。%K%P
 We all (with the exception of Tsugumi, of course) listened, half exasperated and half interested.
 CN PLACEHOLDER
-Мы все (разумеется, за исключением Цугуми) слушали его в полуизмождённом состоянии, но делали вид, что нам вроде как интересно.
+Мы все (разумеется, за исключением Цугуми) слушали его в полу-измождённом состоянии, но делали вид, что нам вроде как интересно.
 
 そうやって……%K%P
 We all knew...
@@ -71,12 +71,12 @@ CN PLACEHOLDER
 今日の夕食の集合時間を、ぼくらは２０時と決めた。%K%P
 We decided to meet at 8 p.m. for dinner.
 CN PLACEHOLDER
-Мы решили собраться в 8 вечера, чтобы поужинать.
+Мы решили собраться в 8 вечера чтобы поужинать.
 
 それまではめいめい、自由に過ごすことにする。%K%P
 Everyone was left to wander around freely until then.
 CN PLACEHOLDER
-А пока не пришёл час сбора, все оказались предоставлены сами себе.
+А, пока не пришёл час сбора, все оказались предоставлены сами себе.
 
 ぼくは、救護室のスキャン装置を修理するのだという優を手伝うことにした。%K%P
 I decided to help You try to repair the infirmary scanning machine.
@@ -86,17 +86,17 @@ CN PLACEHOLDER
 もちろんそれは、おととい看病してもらったことへの、ささやかなお礼のつもりだった。%K%P
 Of course, it was kind of an indirect “thank you” to her for looking after me when I was feeling down two days before.
 CN PLACEHOLDER
-Конечно, это что-то вроде непрямого выражения благодарности за то, что она поддержала меня и мой дух двумя днями ранее.
+Конечно, это что-то вроде непрямого выражения благодарности, за то что она поддержала меня и мой дух двумя днями ранее.
 
 もちろんそれは、２度も看病してもらった上に、ぼくの記憶について気を遣ってくれたことへの、ささやかなお礼のつもりだった。%K%P
 Of course, it was kind of an indirect “thank you” to her for looking after me twice and worrying about my lost memory.
 CN PLACEHOLDER
-Конечно, это что-то вроде непрямого выражения благодарности за то, что она дважды поддержала меня и мой дух, а заодно и беспокоилась о моих потерянных воспоминаниях.
+Конечно, это что-то вроде непрямого выражения благодарности, за то что она дважды поддержала меня и мой дух, а заодно и беспокоилась о моих потерянных воспоминаниях.
 
 優「さてと……それじゃ、始めますか」%K%P
 Alright then... Shall we get started?
 CN PLACEHOLDER
-Ладушки... итак, с чего начнём?
+Ладушки...итак, с чего начнём?
 
 床に工具と部品とマニュアルを広げて、優はペタリと座り込んだ。%K%P
 You plopped down on the floor with the tools and parts, spreading out the repair manual.
@@ -106,7 +106,7 @@ CN PLACEHOLDER
 ちなみに、実際に修理を行うのは優の仕事で、ぼくはもちろんその助手だった。%K%P
 Of course, the repairs were You's job. I was just there to help.
 CN PLACEHOLDER
-Конечно, починка – дело Ю. Я просто помогаю.
+Конечно, починка - дело Ю. Я просто помогаю.
 
 道具渡しも手慣れてきたもので、先読みで工具を渡せるようになっていた。%K%P
 I was getting used to handing her the tools and was getting better at predicting which tool would be used next.
@@ -116,22 +116,22 @@ CN PLACEHOLDER
 もし、日本ネジ検定とか、実用ペンチ検定とかがあったら、今なら３級くらいは取れそうな自信があった。%K%P
 I thought that if there were an exam for expertise in handing pliers or screws, I would pass with flying colors.
 CN PLACEHOLDER
-Наверное, если бы устраивали экзамены по передаче плоскогубцев или отвёрток, я бы сдал их со скоростью звука.
+Наверно, если бы устраивали экзамены по передаче плоскогубцев или отвёрток, я бы сдал их со скоростью звука.
 
 けれど今回の修理は、思ったよりも手強かった。%K%P
 But the repairs were tougher than I imagined.
 CN PLACEHOLDER
-Но ремонтные работы оказались тяжелее, чем я мог себе представить.
+Но, ремонтные работы оказались тяжелее, чем я мог себе представить.
 
 優「う〜〜〜〜〜〜〜〜〜むっ」%K%P
 Ummmphhh!
 CN PLACEHOLDER
-Кхм-м-м-м!
+Гррррррр!
 
 図面とにらめっこしながら、優が唸った。%K%P
 You grunted as she stared at the diagram.
 CN PLACEHOLDER
-Ю кхыкнула, глядя на схему.
+Ю зарычала, глядя на схему.
 
 少年「まだ、わからないの？」%K%P
 You still haven't figured it out?
@@ -151,7 +151,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 いろいろ調べてみたのだが、いまいち故障の原因が掴めないでいた。%K%P
 She searched all over but couldn't find the cause of the problem.
@@ -171,17 +171,17 @@ CN PLACEHOLDER
 優「ああっ、もう！　こんちきしょー！　ちっとも、わからへーーん！！」%K%P
 Geez! This good-for-nothing...! Stupid, idiotic...!
 CN PLACEHOLDER
-Чёрт! Это никуда не годится! Тупая, идиотская!..
+Чёрт! Это никуда не годится! Тупая, идиотская....!
 
 優「うきーーーーーっ！！！！」%K%P
 Argghhh!
 CN PLACEHOLDER
-Аргх!
+Арггххх!
 
 ついにぶち切れた優は、図面を叩きつけ、工具箱を蹴り飛ばした。%K%P
 All of a sudden, You lost her cool, pounded on the diagram, and kicked the toolbox.
 CN PLACEHOLDER
-Ни с того ни с сего Ю рассверепела, наступила на схему и пнула ящик с инструментами.
+Ни с того ни с сего, Ю рассверепела, наступила на схему и пнула ящик с инструментами.
 
 ――がっちゃーん！%K%P
 Wham!
@@ -191,7 +191,7 @@ CN PLACEHOLDER
 優「ぜーは、ぜーは、ぜーは……」%K%P
 *Pant*, *pant*, *pant*...
 CN PLACEHOLDER
-Ххаа-ххаа-ххаа...
+Ххаа〜ххаа〜ххаа...
 
 少年「あーあ、大人げないなぁ」%K%P
 Hey, that's not very grown up of you.
@@ -201,7 +201,7 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「修理のことは、あとで空に相談する手だってあるのに」%K%P
 You know, you could ask Sora about how to fix it later.
@@ -211,7 +211,7 @@ CN PLACEHOLDER
 優「……………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「ひとまず、片付けようか？」%K%P
 You want to clean up for now?
@@ -221,7 +221,7 @@ CN PLACEHOLDER
 優「うぅ……すまんです」%K%P
 Oh... Sorry.
 CN PLACEHOLDER
-Ой... прости.
+Ой...прости.
 
 武「あれ？　ふたりとも、こんなとこにいたのか」%K%P
 Hey, so here the two of you are.
@@ -231,7 +231,7 @@ CN PLACEHOLDER
 少年「やあ、武」%K%P
 Oh, hey, Takeshi.
 CN PLACEHOLDER
-Ох, привет, Такэси.
+Ох, привет, Такеши.
 
 優「倉成こそ、こんなところに何の用？」%K%P
 What are you doing here, Kuranari?
@@ -241,12 +241,12 @@ CN PLACEHOLDER
 武「俺は単なる野暮用だよ。目の覚める薬でももらおうかと思ってね」%K%P
 Nothing, really. I just thought I'd get some coffee or something to wake me up.
 CN PLACEHOLDER
-Да ничего. Просто думал взять чашечку кофе или ещё чего-нибудь, чтобы взбодриться.
+Да ничего. Просто думал взять чашечку кофе, или ещё чего-нибудь, чтобы взбодриться.
 
 武「そういう優は、少年と何やってるんだ？」%K%P
 What about you two? What are you and the Kid up to?
 CN PLACEHOLDER
-А вы двое? Чем ты и Малой сейчас заняты?
+А вы двое? Чем ты и Кид сейчас заняты?
 
 優「見てわかんないの？」%K%P
 You can't tell by looking?
@@ -256,17 +256,17 @@ CN PLACEHOLDER
 武「わかんねーから、訊いてんの！」%K%P
 If I could, do you think I'd be asking?
 CN PLACEHOLDER
-Если бы я знал, думаешь, стал бы спрашивать?
+Если бы я знал, думаешь стал бы спрашивать?
 
 少年「悪いんだけど、武も手伝ってくれるかな？」%K%P
 Takeshi, do you think you could lend us a hand?
 CN PLACEHOLDER
-Такэси, слушай, может, ты сможешь протянуть нам руку помощи?
+Такеши, слушай, может ты сможешь протянуть нам руку помощи?
 
 武「あ、ああ……別に構わないぜ。落ちてるものを拾えばいいのか？」%K%P
 Sure... I can do that. You want help picking up this stuff?
 CN PLACEHOLDER
-Конечно... нет проблем. Хочешь, чтобы я помог прибрать инструменты?
+Конечно...нет проблем. Хочешь, чтобы я помог прибрать инструменты?
 
 少年「うん」%K%P
 Yeah.
@@ -311,7 +311,7 @@ CN PLACEHOLDER
 武が摘んだそれは、コンセントプラグに似た形状の物体……%K%P
 Takeshi picked up something that looked like an electric plug...
 CN PLACEHOLDER
-Такэси поднял нечто, похожее на электрическую вилку...
+Такеши поднял нечто, похожее на электрическую вилку...
 
 いや、まんまコンセントプラグだった。%K%P
 No, it WAS an electric plug.
@@ -326,12 +326,12 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「どれの電源だろうな？　これ」%K%P
 I wonder what this is supposed to power.
@@ -341,17 +341,17 @@ CN PLACEHOLDER
 壁には家庭用と同じ形状のコンセントがあった。%K%P
 In the wall was an outlet, the same as in the home.
 CN PLACEHOLDER
-На стене торчит обычная бытовая розетка.
+На стене торчит обычная евро-розетка.
 
 なにげに武は、コンセントにプラグを差し込んだ。%K%P
 Takeshi stuck the plug into the wall.
 CN PLACEHOLDER
-Такэси включил в неё вилку.
+Такеши включил в неё вилку.
 
 ウィィィィィィン……ガッガッガッガ……。%K%P
 Whiiiiiiiiiiir...
 CN PLACEHOLDER
-Вжииииииииииик...
+Вжииииииииииик....
 
 少年「あ、動き出したよ！」%K%P
 Hey, something is moving!
@@ -361,12 +361,12 @@ CN PLACEHOLDER
 武「な〜んだ。あの機械の電源だったのかぁ」%K%P
 Oh. Hey, looks like it was for that machine over there.
 CN PLACEHOLDER
-Ой, точняк. Наверное, она предназначена вон для того агрегата.
+Ой, точняк. Наверно она предназначена вон для того агрегата.
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「ってことは……」%K%P
 Which means...
@@ -376,7 +376,7 @@ CN PLACEHOLDER
 優「……そういうことみたいよ」%K%P
 ...It would appear so.
 CN PLACEHOLDER
-...Похоже, что так.
+...она просто была обесточена.
 
 少年「………………」%K%P
 ...
@@ -391,12 +391,12 @@ CN PLACEHOLDER
 武「なあ……ところでよ」%K%P
 Hey... By the way...
 CN PLACEHOLDER
-Это... да, кстати...
+Это...да, кстати...
 
 言葉を失うぼくと優に、武は質問してきた。%K%P
 Takeshi shot a question at me and You, who were speechless.
 CN PLACEHOLDER
-Такэси задал вопрос мне и безмолвной Ю.
+Такеши задал вопрос мне и безмолвной Ю.
 
 武「何やってたんだっけ？　お前ら」%K%P
 What were you doing here anyway?
@@ -406,12 +406,12 @@ CN PLACEHOLDER
 少年「………………………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「………………………………」%K%P
 ..........
 CN PLACEHOLDER
-...
+..........
 
 武「？？？」%K%P
 ?

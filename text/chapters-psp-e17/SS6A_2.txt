@@ -16,7 +16,7 @@ CN PLACEHOLDER
 広場の真ん中で、いじめっ子達に囲まれ少女が泣いている。%K%P
 There was a girl surrounded by a group of bullies in an open space.
 CN PLACEHOLDER
-Посреди поляны толпа хулиганов окружила девочку.
+На открытом пространстве, свора хулиганов окружила маленькую девочку.
 
 沙羅だ。%K%P
 It was Sara.
@@ -26,7 +26,7 @@ CN PLACEHOLDER
 いじめっ子達は、子供特有の残酷さで沙羅をあざけり、はやし立てる。%K%P
 The kids were being cruel, jeering at her and making fun of her in only the way that kids could.
 CN PLACEHOLDER
-Эти мелкие подонки не скупились на выражения, издеваясь над ней так, как только могут дети – зло и беспощадно.
+Эти мелкие подонки не скупились на выражения, издеваясь над ней так, как только могут дети - зло и беспощадно.
 
 ぼくは沙羅に駆け寄った。%K%P
 I ran up to Sara.
@@ -81,7 +81,7 @@ CN PLACEHOLDER
 少年「おまえらぁ！　よくも沙羅を！」%K%P
 You bullies! How could you do this to Sara!?
 CN PLACEHOLDER
-Подонки! Да как вы посмели тронуть Сару?!
+Подонки! Да как Вы посмели тронуть Сару?!
 
 我を忘れて、ぼくはいじめっ子達の群れに飛び込んでいった。%K%P
 Forgetting myself, I lunged at the mob of kids.
@@ -106,12 +106,12 @@ CN PLACEHOLDER
 沙羅「お兄ちゃん、つよいね」%K%P
 You're so brave, onii-chan.
 CN PLACEHOLDER
-Братик, ты такой храбрый.
+Братик, какой ты храбрый.
 
 そう言って微笑んだ。%K%P
 She smiled as she said it.
 CN PLACEHOLDER
-Улыбнувшись, сказала она.
+Улыбнувшись сказала она.
 
 %N%N%N%N
 
@@ -158,12 +158,12 @@ CN PLACEHOLDER
 『ここに来れば、情けない思いをしなくてすむ、もういじめられる事もない』%K%P
 She told us there was a place we could go where things would be better.
 CN PLACEHOLDER
-Она сказала нам, что есть место, куда мы можем пойти, что там нам будет лучше.
+Она сказала нам, что есть место, куда мы можем направиться, что там нам будет лучше.
 
 そう、女の人は言って手をさしのべた。%K%P
 Saying that, the lady held out her hand.
 CN PLACEHOLDER
-Сказав это, женщина протянула свою руку.
+С этими словами, женщина протянула свою руку.
 
 ぼくらには、人に見えないものが見えた。%K%P
 We could see things that other people couldn't.
@@ -173,7 +173,7 @@ CN PLACEHOLDER
 最初、ぼくらはそれが異常な事だとは思わず、みんなに気味悪がられていた。%K%P
 At first, we thought our abilities were normal, but everyone had shunned us.
 CN PLACEHOLDER
-Поначалу мы думали, что мы самые обычные, но все вокруг обходили нас стороной.
+Сначала мы думали, что нормальные, но все вокруг обходили нас стороной.
 
 その不思議な力を研究したいのだとその女は言った。%K%P
 The lady said she wanted to study us.
@@ -203,7 +203,7 @@ CN PLACEHOLDER
 来る日も来る日もその部屋と研究所との往復。%K%P
 Day in and day out, we were marched from that room to the research institute.
 CN PLACEHOLDER
-День за днём нас таскали оттуда в исследовательский институт.
+День за днём, нас таскали оттуда в исследовательский институт.
 
 唯一の窓からは、月明かりだけが差し込む。%K%P
 At night, moonlight would stream in from the lone window.
@@ -213,7 +213,7 @@ CN PLACEHOLDER
 覚えているのは毎日通った通路の扉に打ち付けられたライプリヒのロゴ。%K%P
 The only things I remembered were the Leiblich logos on the doors we passed every day.
 CN PLACEHOLDER
-Единственное, что я помню чётко – логотипы Лейблих на дверях, через которые нас водили день за днём.
+Единственное, что я помню чётко - логотипы Лейблих на дверях, через которые нас водили день за днём.
 
 研究所の職員の白衣。%K%P
 And the white frocks of the research employees.
@@ -228,7 +228,7 @@ CN PLACEHOLDER
 その日は、どこか雰囲気がいつもと違っていた。%K%P
 One day, there was something in the air that was different from other days.
 CN PLACEHOLDER
-Но в один из бесчисленных дней воздух казался особенно спёртым... и неспроста.
+Но, в один из бесчисленных дней, воздух казался особенно спёртым...и неспроста.
 
 ぼくらは病室を出され、いつも向かう研究室とは違う場所に連れて行かれた。%K%P
 We were taken from our rooms and led to a research office in a different area.
@@ -298,12 +298,12 @@ CN PLACEHOLDER
 沙羅「かならず、かならず来てね？　迎えに来てね？」%K%P
 But come for sure. You come to get me for sure. Okay?
 CN PLACEHOLDER
-Только возвращайся. Ты обятельно вернёшься за мной... правда?
+Только возвращайся. Ты обятельно вернёшься за мной...правда?
 
 沙羅「ずっと……ずっと待ってるから！」%K%P
 I'll wait... I'll wait forever!
 CN PLACEHOLDER
-Я буду ждать... ждать вечно!
+Я буду ждать...ждать вечно!
 
 %N
 
@@ -330,7 +330,7 @@ CN PLACEHOLDER
 %LC%FSしかし……、ぼくは行かなかった。%FE%T060%N
 But... I hadn't gone.
 CN PLACEHOLDER
-Но... я не вернулся.
+Но...я не вернулся.
 
 %LC%FS行けなかった。%FE%K%O
 I couldn't go.
@@ -355,7 +355,7 @@ CN PLACEHOLDER
 ただ……、そのふたりにもライプリヒの息はかかっていた。%K%P
 But... they had sold their souls to (and were controlled by) Leiblich.
 CN PLACEHOLDER
-Но... они продали свои души и были у Лейблих под колпаком.
+Но...они продали свои души и были у Лейблих под колпаком.
 
 ぼくは緩やかな監視のなか、沙羅の事を探ることもできず時をすごした。%K%P
 I passed my time under their forgiving but ever-present eyes unable to search for Sara.
@@ -370,17 +370,17 @@ CN PLACEHOLDER
 しかし、研究所の場所さえもわからない内に、何らかの邪魔が入って、それ以上探り続けることはできなくなった。%K%P
 But I didn't even know where the research facility was, and something would always get in my way, and after a while I couldn't search anymore.
 CN PLACEHOLDER
-Но я понятия не имел, где эта лаборатория. Хуже того, стоило мне только начать искать, как тут же что-то или кто-то вставал у меня на пути, и вскоре я уже не мог вести поиск.
+Но, я даже не знал, где находилась эта лаборатория. Хуже того, как только я затевал поиск, как нечто неведомое тут же вставало у меня на пути и, вскоре, я уже не мог вести поиск.
 
 ぼくなんかの力では、沙羅を助け出すことなどできなかったんだ……。%K%P
 I just hadn't been able to help Sara with my limited powers.
 CN PLACEHOLDER
-Лишь своими силами я не мог прийти Саре на помощь.
+С моими ограниченными возможностями, я не смог прийти Саре на помощь.
 
 でも……どういいわけをしようと同じことだ。%K%P
 But... no matter what excuses I came up with, the result was the same.
 CN PLACEHOLDER
-Но... как не извиняйся, результат один и тот же.
+Но...как не извиняйся, результат один и тот же.
 
 ぼくは沙羅を置き去りにしたのだ。%K%P
 I had abandoned Sara.
@@ -397,12 +397,12 @@ CN PLACEHOLDER
 %LC%FSぼくは約束を……、守れなかったんだ……。%FE%K%O
 I couldn't keep... my promise...
 CN PLACEHOLDER
-Я не смог... сдержать своё обещание...
+Я не смог...сдержать своё обещание...
 
 今でも沙羅はあの扉の向こうで……。%K%P
 Even then, Sara was on the other side of the door...
 CN PLACEHOLDER
-Даже сейчас Сара была с другой стороны двери...
+Даже сейчас, Сара была с другой стороны двери....
 
 あの息苦しくなりそうな病室で待っているに違いない。%K%P
 I knew that she was still waiting for me in that miserable little room.
@@ -459,7 +459,7 @@ CN PLACEHOLDER
 誰かが運んでくれたのか、自分で無意識にそこに寝たのかはわからない。%K%P
 I didn't know if someone had brought me there or I had dragged myself unconsciously.
 CN PLACEHOLDER
-Понятия не имею, перенёс ли кто меня сюда, или я как-то сделал это сам в бессознательном состоянии.
+Понятия не имею, перенёс ли кто меня сюда, или это сделал я сам, в бессознательном состоянии.
 
 意識もせず、時計に目をやる。%K%P
 I looked at my watch without thinking.
@@ -469,7 +469,7 @@ CN PLACEHOLDER
 あれから、それほどの時間はたっていない。%K%P
 Not much time had elapsed since I had passed out.
 CN PLACEHOLDER
-Недолго же я был без сознания.
+Не долго же я был без сознания.
 
 ぼくはベッドに寝ころび、天井を見上げたまま、これまでの事について考えた。%K%P
 Lying on the bed, I looked up at the ceiling and thought about the events leading up to that point.
@@ -479,22 +479,22 @@ CN PLACEHOLDER
 最初に、ジェネレータの前で中の温度がわかったのは、赤外線視力のためだった。%K%P
 The reason I had known that it was too hot inside the generator room was my infrared vision.
 CN PLACEHOLDER
-Причина, по которой я знал, что в Генераторной было адское%Nпекло – инфразрение.
+Причина, по которой я знал, что в Генераторной было адское%Nпекло - инфразрение.
 
 小部屋のインバータから月光が漏れているように感じたのもそうだ。%K%P
 And the “moonlight” coming from the inverter unit had been the same thing.
 CN PLACEHOLDER
-«Лунный свет» из трансформатора напряжения...
+'Лунный свет' из трансформатора напряжения...
 
 インバータの熱を、あの暗闇の中で、光と勘違いしたんだ。%K%P
 In the darkness, I had mistaken the heat from the inverter as moonlight.
 CN PLACEHOLDER
-В темноте я принял жар, исходящий из него, за лунный свет.
+В темноте, я принял жар, исходящий из него за лунный свет.
 
 沙羅に出逢ったとき、打ちのめされたように感じたのは、今思えば当然だった。%K%P
 And the shock that I felt when I met Sara made sense too.
 CN PLACEHOLDER
-И шок, который я испытал, впервые встретившись с Сарой... Теперь я всё понимаю.
+И шок, который я испытал, впервые встретившись с Сарой...теперь я всё понимаю.
 
 ぼくらは兄妹だったのだから。%K%P
 We were siblings, after all.
@@ -504,17 +504,17 @@ CN PLACEHOLDER
 きっと、記憶を失った心の奥底で、それに気がついていたんだ。%K%P
 I had probably known it in the back of my mind even without my memory.
 CN PLACEHOLDER
-Возможно даже с «отшибленной» памятью, но где-то глубоко в подсознании я всё знал.
+Возможно, даже с 'отшибленной' памятью, где-то глубоко в подсознании я всё знал.
 
 だから……、ぼくは沙羅を見たときあんなに……。%K%P
 That was why... the first time I had seen Sara...
 CN PLACEHOLDER
-Вот почему... когда я впервые увидел Сару...
+Вот почему...когда я впервые увидел Сару...
 
 沙羅が真っ暗闇の中で、ぼくの親指を握りしめたのはなぜか？%K%P
 And why had she grasped my thumb in the darkness?
 CN PLACEHOLDER
-Но зачем она взяла в темноте меня за палец?
+Но, зачем она взяла в темноте меня за палец?
 
 あのとき、子守歌の歌詞を呟いたのはなぜなのか？%K%P
 Why had she sung that lullaby that time?
@@ -529,7 +529,7 @@ CN PLACEHOLDER
 沙羅「そっか……そうだよね……」%K%P
 Oh, I see... That's right...
 CN PLACEHOLDER
-Эх... ясно...
+Эх...ясно...
 
 沙羅は気づいてたんじゃないのか？%K%P
 It seemed to me that Sara had probably noticed.
@@ -604,7 +604,7 @@ CN PLACEHOLDER
 沙羅に、なんと言えばいいんだ。%K%P
 I didn't know what to say to Sara.
 CN PLACEHOLDER
-Сара... я не могу найти для неё слов.
+Сара....я не могу найти для неё слов.
 
 沙羅に、なんといって言い訳すれば？%K%P
 What excuses could I make to her?
@@ -629,7 +629,7 @@ CN PLACEHOLDER
 沙羅「おにい……ちゃん？」%K%P
 Onii... chan?
 CN PLACEHOLDER
-Бра... тик?..
+Бра...тик...?
 
 その声に、足がぴたりと止まる。%K%P
 With her voice, my legs stopped.
@@ -644,7 +644,7 @@ CN PLACEHOLDER
 沙羅「ねえ……、お兄ちゃん、なんだよね？」%K%P
 You... You are my onii-chan, right?
 CN PLACEHOLDER
-Ты... ты же мой брат, правда?
+Ты...ты же мой брат, правда?
 
 沙羅が言葉を重ねる。%K%P
 Sara continued talking.
@@ -654,7 +654,7 @@ CN PLACEHOLDER
 その一言一言がぼくの心臓をえぐるように突き刺さる。%K%P
 Each of her words was like a stab in the heart.
 CN PLACEHOLDER
-Каждое её слово – как удар ножом в сердце.
+Каждое её слово - как удар ножом в сердце.
 
 沙羅「お兄ちゃん？」%K%P
 Onii-chan?
@@ -674,17 +674,17 @@ CN PLACEHOLDER
 沙羅「え……？」%K%P
 Huh...?
 CN PLACEHOLDER
-?..
+---...?
 
 少年「ぼくは……、違うんだ」%K%P
 You're wrong... about me.
 CN PLACEHOLDER
-Ты... ошибаешься.
+Ты...ошибаешься.
 
 沙羅「そ、そんなはずない」%K%P
 That... can't be.
 CN PLACEHOLDER
-Не... нет, это не так.
+Не...нет, это не так.
 
 沙羅「お兄ちゃんでしょ？」%K%P
 You are my onii-chan, right?
@@ -704,7 +704,7 @@ CN PLACEHOLDER
 沙羅「待って！」%K%P
 Wait!
 CN PLACEHOLDER
-Постой!..
+Постой...!
 
 沙羅「待ってよ、お兄ちゃん！」%K%P
 Onii-chan, wait!
@@ -714,7 +714,7 @@ CN PLACEHOLDER
 その声が、幼い頃の沙羅に重なり、そのまま、ぼくは動けなくなる。%K%P
 Her voice sounded just like when she had cried out to me when she was a child, and I froze, unable to move.
 CN PLACEHOLDER
-Её голос прозвучал точно так же, как при нашей разлуке. От него я застыл и не могу пошевелиться.
+Её голос прозвучал точно также, как при нашей разлуке. От него я застыл и не могу пошевелиться.
 
 沙羅「お兄ちゃん、でしょ……。ねえ、そうだよね？」%K%P
 You're my onii-chan... You are, aren't you?
@@ -724,7 +724,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ぼくの肩を沙羅がつかむ。%K%P
 Sara grabbed my shoulders.
@@ -734,7 +734,7 @@ CN PLACEHOLDER
 沙羅「ねえ、何で黙ってるの？　こっちを向いてよ！」%K%P
 Hey, why don't you say something? Look at me!
 CN PLACEHOLDER
-Эй... почему ты молчишь?.. Взгляни на меня!
+Эй... почему ты молчишь...? Взгляни на меня!
 
 沙羅は、ぼくの肩をつかんだまま、前にでる。%K%P
 Sara circled around in front of me, all the time holding my shoulders.
@@ -744,12 +744,12 @@ CN PLACEHOLDER
 しかし、ぼくは沙羅の顔を見ることができず目をそらした。%K%P
 But I couldn't bear to look Sara in the face and turned away.
 CN PLACEHOLDER
-Но я не смог вынести её взгляда и отвернулся.
+Но, я не смог вынести её взгляда и отвернулся.
 
 沙羅「ねえ、お兄ちゃん、なんで、なんでこっちを見てくれないの？」%K%P
 Hey... Why won't you look at me?
 CN PLACEHOLDER
-Братик... Почему? Почему ты отворачиваешься?
+Братик...Почему? Почему ты отворачиваешься?
 
 沙羅「ねえ、私を見てよ」%K%P
 Hey, look at me.
@@ -774,7 +774,7 @@ CN PLACEHOLDER
 沙羅「きゃあ！」%K%P
 Aaah!
 CN PLACEHOLDER
-А-а-а-а!
+Аааа!
 
 少年「沙羅！」%K%P
 Sara!
@@ -789,17 +789,17 @@ CN PLACEHOLDER
 沙羅の目がまっすぐに、ぼくを見つめた。%K%P
 Sara's eyes stared directly at me.
 CN PLACEHOLDER
-Её глаза... смотрят прямо на меня.
+Её глаза...смотрят прямо на меня.
 
 沙羅「どうして？　どうして否定するの？」%K%P
 Why? Why are you denying me?
 CN PLACEHOLDER
-Почему... почему ты отвергаешь меня?
+Почему.......почему ты отвергаешь меня?
 
 沙羅「お兄ちゃんでしょ？　お兄ちゃんなんでしょ？」%K%P
 You're my onii-chan, right? You are, aren't you?
 CN PLACEHOLDER
-Ты мой брат... ты мой брат!
+Ты мой брат.......ты мой брат!
 
 少年「違う、違うんだ、ぼくは……」%K%P
 No, no. I'm...
@@ -809,22 +809,22 @@ CN PLACEHOLDER
 沙羅「どうして？　違わないよ！」%K%P
 Why not? I know you are!
 CN PLACEHOLDER
-Почему... зачем ты мне лжёшь?!
+Почему.......зачем ты мне лжёшь?!
 
 沙羅「お兄ちゃん……、お兄ちゃんだよ！」%K%P
 Onii-chan... You're my onii-chan...!
 CN PLACEHOLDER
-Ты мой брат... мой братик!
+Ты мой брат......мой братик!
 
 沙羅「待ってたんだよ？　ずっと、ずっと待ってたんだよ？」%K%P
 I waited for you. I waited and waited!
 CN PLACEHOLDER
-Я ждала тебя... ждала... всю свою жизнь!
+Я ждала тебя...ждала...всю свою жизнь!
 
 沙羅「沙羅、お兄ちゃんの事、ずーっと待ってたんだよ！」%K%P
 I waited forever for you to come!
 CN PLACEHOLDER
-*Хнык*. Братик, я ждала... ждала тебя!
+*Хнык*. Братик, я ждала......ждала тебя!
 
 沙羅「お兄ちゃん……」%K%P
 Onii-chan...
@@ -849,7 +849,7 @@ CN PLACEHOLDER
 沙羅から、過去から、逃げ出したんだ……。%K%P
 I ran from Sara and from my past...
 CN PLACEHOLDER
-От Сары... и от своего прошлого...
+От Сары...и от своего прошлого...
 
 ぼくは、倉庫の奥の部屋の隅にうずくまっていた。%K%P
 I squatted in the small room in the back of the warehouse.
@@ -859,7 +859,7 @@ CN PLACEHOLDER
 沙羅から、過去から、逃げだし何もすることができないまま。%K%P
 All I could do was just keep running away from Sara and my past.
 CN PLACEHOLDER
-Всё, что я смог сделать – продолжать убегать прочь от Сары и прошлого.
+Всё, что я смог сделать - продолжать убегать прочь от Сары и прошлого.
 
 ぼくは弱虫だ。%K%P
 I was such a coward.
@@ -879,32 +879,32 @@ CN PLACEHOLDER
 自分ができなかったことを認めるのが怖くて、自分自身を否定している。%K%P
 I denied myself. It was less scary than acknowledging what I had done.
 CN PLACEHOLDER
-Отрицаю самого себя. Принять как данность то, что я сделал... гораздо страшней.
+Отрицаю самого себя. Принять как данность то, что я сделал...гораздо страшней.
 
 ぼくは……、ぼくは、とてつもない弱虫だ……。%K%P
 I... I... I was such a coward.
 CN PLACEHOLDER
-Я... Я... какой же я трус.
+Я...Я...какой же я трус.
 
 こんな事なら、記憶なんて戻らなければよかった……。%K%P
 Had I known that would happen... I would have never wanted my memory back...
 CN PLACEHOLDER
-Если бы я знал, что так будет... то никогда бы не пожелал, чтобы память ко мне вернулась...
+Если бы я знал, что так будет...то никогда бы не пожелал, чтобы память ко мне вернулась...
 
 何も、覚えていないときの方がよかった……。%K%P
 Things were better when I didn't remember anything...
 CN PLACEHOLDER
-Правду говорят: меньше знаешь – крепче спишь...
+Правду говорят - чем меньше знаешь, тем крепче спишь...
 
 ぼくはそこにうずくまったまま、何もできずに時を過ごす。%K%P
 Crouched there in the corner, I was paralyzed.
 CN PLACEHOLDER
-Свернувшись в углу, я не мог пошевелиться.
+Свернувшись в углу, моё тело парализовало.
 
 沙羅に……、妹に向き合うこともできずに、ただ無為に時間だけが過ぎていく。%K%P
 I couldn't face Sara... My own sister... All I could do was let the time pass by.
 CN PLACEHOLDER
-Я не смог выстоять с Сарой лицом к лицу... с собственной сестрой... всё, что я смог – наблюдать за тем, как бежит время.
+Я не смог выстоять с Сарой лицом к лицу...с собственной сестрой...всё, что я смог - наблюдать за тем, как бежит время.
 
 …………………。%K%P
 ...
@@ -914,7 +914,7 @@ CN PLACEHOLDER
 記憶は、ごく最近の事を除いて、%Nすべて回復していた。%K%N
 My memory had been completely restored apart from recent events.
 CN PLACEHOLDER
-Моя память полностью восстановилась за исключением последних событий.
+Моя память полностью восстановилась, за исключением последних событий.
 
 自分の年齢も、住所も、電話番号も……。%K%N
 I knew my age, address, and phone number...
@@ -929,7 +929,7 @@ CN PLACEHOLDER
 ただ……、ただひとつだけ、ひとつだけ、重大なことが思い出せない。%K%O
 Still... there was just one crucial thing that I couldn't remember.
 CN PLACEHOLDER
-И всё же... есть одна ключевая вещь, которую я вспомнить не могу.
+И всё же...есть одна ключевая вещь, которую я вспомнить не могу.
 
 %N
 
@@ -946,7 +946,7 @@ CN PLACEHOLDER
 %LCぼくは、なんて言う名前だった？%K%N
 What was my name?
 CN PLACEHOLDER
-Как?..
+Как...?
 
 %LCなんと呼ばれていた？%K%N
 What was I called?
@@ -966,7 +966,7 @@ CN PLACEHOLDER
 それが思い出せない限り、ぼくは不完全な存在だ。%K%P
 As long as I couldn't remember that, I felt incomplete.
 CN PLACEHOLDER
-Я не могу его вспомнить... кажется, будто я не нашёл жизненно важный кусочек мозайки под названием «я».
+Я не могу его вспомнить...кажется, будто я не нашёл жизненно важный кусочек мозайки под названием 'я'.
 
 ぼくという存在のすべては、名前に集約される。%K%P
 As if the essence of my existence were concentrated into my name.
@@ -986,12 +986,12 @@ CN PLACEHOLDER
 いくら思い出そうとしても、その一点だけは、どうしても思い出せなかった。%K%P
 No matter how much else I remembered, that one point escaped me.
 CN PLACEHOLDER
-Cколько бы я ни старался вспомнить, эта единственная «мелочь» никак не вспоминалась.
+Не важно, сколько бы я не помнил, эта единственная 'мелочь' ускользает в небытие.
 
 そう言えば、ぼくが記憶を失ったのは……、なぜなんだろう。%K%P
 Then I thought back... about what it was that had made me lose my memory.
 CN PLACEHOLDER
-Тогда... что же спровоцировало мою амнезию?
+Тогда...что же спровоцировало мою амнезию?
 
 沙羅に対する罪悪感……。%K%P
 The massive guilt I felt toward Sara...
@@ -1001,7 +1001,7 @@ CN PLACEHOLDER
 そのために、記憶を隠蔽しようとしたのだろうか？%K%P
 I wondered if that was why I had repressed my memory.
 CN PLACEHOLDER
-А что, если причина отнюдь не в этом?
+А, что если причина отнюдь не в этом?
 
 でも、それではつじつまの合わないことが多すぎる。%K%P
 But there was too much about that theory that didn't make sense.
@@ -1021,17 +1021,17 @@ CN PLACEHOLDER
 事故の前に、ＬｅＭＵのどこかで沙羅を見かけてそれで……、ということもあるかもしれないけど……。%K%P
 It might have been that I had seen Sara at LeMU... and then it had happened...
 CN PLACEHOLDER
-Это могло случиться, когда я мельком видел Сару у лифтов... конечно могло...
+Это могло случиться, когда я мельком видел Сару у лифтовой... конечно могло...
 
 それにしては奇妙な気がした。%K%P
 But something didn't seem right about that either.
 CN PLACEHOLDER
-Но и здесь сходится далеко не всё.
+Но, и здесь сходится далеко не всё.
 
 それでは、ごく最近のことや、名前だけが思い出せないこの状況はいったいなんなんだ？%K%P
 I couldn't imagine why only my name and recent events wouldn't come back to me.
 CN PLACEHOLDER
-Не понимаю, почему единственное, что не торопится ко мне возвращаться – имя и недавние события.
+Не понимаю, почему единственное, что не торопится ко мне возвращаться - имя и недавние события.
 
 沙羅の事はもう思い出したんだ……。%K%P
 I had already remembered Sara...
@@ -1041,10 +1041,10 @@ CN PLACEHOLDER
 すべてを思い出しても不思議ではないはずだ。%K%P
 It would make sense for me to remember everything.
 CN PLACEHOLDER
-Было бы гораздо логичнее, если бы я вспомнил всё.
+Было бы гораздо логичней, если бы я вспомнил всё.
 
 いったい、この記憶喪失は……何なのだろう……。%K%P
 I wondered what kind of amnesia... it might have been...
 CN PLACEHOLDER
-Что же это за... амнезия...
+Что же это за...амнезия...
 

@@ -26,32 +26,32 @@ CN PLACEHOLDER
 そのカケラさえ拾いあげることができない。%K%P
 I couldn't even find any of the pieces.
 CN PLACEHOLDER
-И самой малой её частички.
+Я не нашёл ни одного, даже самого мелкого, её осколка.
 
 （いや、しかし……）%K%P
 (But maybe...)
 CN PLACEHOLDER
-(А что, если...)
+(А что если...)
 
 もしかしたら、こうして度々訪れる胸騒ぎこそが、喪われたぼくの記憶に関係しているのかもしれない。%K%P
 I thought that maybe the crazy flashes that kept occurring had something to do with my lost memory.
 CN PLACEHOLDER
-А что, если эти бредовые видения, что постоянно докучают мне, имеют какое-то отношение к потерянным воспоминаниям?
+А что если эти бредовые видения, что постоянно докучают мне, имеют какое-либо отношение к потерянным воспоминаниям.
 
 （ぼくは徐々に、記憶を取り戻しつつあるのでは……？）%K%P
 (Maybe I'm closer to getting my memory back...?)
 CN PLACEHOLDER
-(Может, это так ко мне возвращается память?..)
+(Кто знает, может это симптомы выздоровления...?)
 
 そんなことを思いながら、倉庫の中をフラフラと漂っていた。%K%P
 I floated around the warehouse thinking about it.
 CN PLACEHOLDER
-Я брожу по складу, думая об этом.
+В размышлениях, я брожу по складу.
 
 ふと、奥に、もうひとつ扉があることに気がついた。%K%P
 Suddenly, I noticed that there was another door deeper in the corner of the room.
 CN PLACEHOLDER
-Что?.. В дальнем углу комнаты есть ещё одна дверь.
+Что...? В дальнем углу комнаты есть ещё одна дверь.
 
 この壁の向こうにも部屋が存在しているらしい。%K%P
 There appeared to be another room on the other side of the wall.
@@ -76,7 +76,7 @@ CN PLACEHOLDER
 照明は消えており、入り口のドアが閉まると暗闇は一層増してしまったが、かろうじて内部を見渡すことはできた。%K%P
 The lights were off, and closing the door made it even darker. I could just make out the interior of the room.
 CN PLACEHOLDER
-Свет выключен, а когда закрылась дверь, стало ещё темнее. Я едва смог различить её интерьер.
+Свет выключен, а когда закрылась дверь, стало ещё темней. Я едва смог различить её интерьер.
 
 冷たく頑丈そうな壁、部屋の周囲を覆うケーブルと配管。%K%P
 The wall looked cold and sturdy. The room was covered with cables and pipes.
@@ -96,27 +96,27 @@ CN PLACEHOLDER
 ……頭の中が、ボンヤリとしてくる。%K%P
 ...My mind felt all foggy.
 CN PLACEHOLDER
-...Мысли будто в тумане.
+...Голова ходуном ходит.
 
 武が言うように、ぼくは疲れているのかもしれない。%K%P
 Maybe I was just fatigued like Takeshi said.
 CN PLACEHOLDER
-Может, Такэси прав... Я действительно переутомился.
+Может Такеши прав...я действительно переутомился.
 
 この３日間、いろんなことがあって、いろんなことを聞いて、いろんなことを考えてしまったから。%K%P
 A lot had happened over the last three days. I had heard a lot and thought about a lot of things.
 CN PLACEHOLDER
-За последние три дня столько всего произошло. Чего я только не наслышал – у любого голова бы пошла кругом.
+За последние три дня столько всего произошло. Чего я только не наслышал - у любого голова бы пошла кругом.
 
 （ああ、なんだか……身体がダルい……）%K%P
 (I don't know what it is... but I feel so sluggish...)
 CN PLACEHOLDER
-(Не знаю, что это... но, я чувствую себя так вяло...)
+(Не знаю, что это...но, я чувствую себя так вяло...)
 
 ぼくはそのまま部屋の隅に腰をおろすと、ヒザを抱えた。%K%P
 I sat down in a corner of the room and hugged my knees.
 CN PLACEHOLDER
-Я присел в углу комнаты, обвив руками колени.
+Я присел в углу комнаты в обнимку со своими коленями.
 
 見上げれば、窓から月明かりが射し込んでいた。%K%P
 Looking up, I saw moonlight streaming in through the window.
@@ -126,7 +126,7 @@ CN PLACEHOLDER
 温かく潤んだ、ほのかな光だった。%K%P
 It was warm, full light.
 CN PLACEHOLDER
-Тёплый свет от полной луны.
+Тёплый, свет от полной луны.
 
 気がつくと、部屋はコンクリートの壁に覆われていた。%K%P
 I noticed that the walls of the room were made of concrete.
@@ -233,7 +233,7 @@ CN PLACEHOLDER
 %LC%FS痛いよぉ……痛いよぉ……%FE%V%O
 Ouch... Ouch...
 CN PLACEHOLDER
-Больно... больно...
+Больно....больно...
 
 少女の細い声が闇に響く。%K%P
 The small voice of a girl echoed in the darkness.
@@ -265,7 +265,7 @@ CN PLACEHOLDER
 恐らく殴られたのであろう少女は、固いコンクリートの壁に身体を打ちつけ、より一層けたたましく泣きわめいた。%K%P
 I suspected that the girl had been hit. It sounded like she had fallen on the hard concrete and was crying even harder.
 CN PLACEHOLDER
-Подозреваю, что девочку ударили. Кажется, она упала на твёрдый пол и зарыдала ещё сильнее.
+Подозреваю, что девочку ударили. Кажется, она упала на твёрдый пол и зарыдала ещё сильней.
 
 %N%N%N%N
 
@@ -279,7 +279,7 @@ CN PLACEHOLDER
 %LC%FS助けて……誰か……%FE%V%O
 Help... Someone...
 CN PLACEHOLDER
-Помогите... Кто-нибудь...
+Помогите.....Кто-нибудь...
 
 ぼくは両手で耳をふさぎ、頭を振った。%K%P
 I covered my ears with my hands and shook my head.
@@ -291,12 +291,12 @@ CN PLACEHOLDER
 %LC%FSごめんなさいごめんなさい%Nごめんなさいごめんなさい%FE%V%O
 I'm sorry, I'm sorry—%NI'm sorry, I'm sorry, I'm sorry—
 CN PLACEHOLDER
-Прости... Прости... Прости... Прости...
+Прости...Прости...Прости...Прости...
 
 それでも少女の悲痛な叫び声は鳴りやまなかった。%K%P
 Still, the girl's cries of pain didn't stop.
 CN PLACEHOLDER
-Она не переставала плакать от боли.
+Её плач от боли не прекращается.
 
 ぼくは逃げるように床をはいずり、部屋の反対側の隅でうずくまった。%K%P
 As if trying to escape, I crawled across the floor to the opposite corner of the room and curled up.
@@ -353,7 +353,7 @@ CN PLACEHOLDER
 %LC%FS痛い……痛いよぉ……%FE%V%O
 Ouch... Owwwww...
 CN PLACEHOLDER
-Больно... Бо... льно...
+Больно....Бо...льно...
 
 時が経つにつれ、その声は弱々しく衰えていった。%K%P
 The voice gradually got weaker and faded.
@@ -368,7 +368,7 @@ CN PLACEHOLDER
 静寂の中、くぐもった嗚咽だけが、虚しく響き渡っていた。%K%P
 In the silence, only a muffled sob echoed hollowly.
 CN PLACEHOLDER
-В тиши лишь глухой стон отражается от стен.
+В тиши, лишь глухой стон отражается от стен.
 
 肌に触れる空気は異様で、はっきりと感じ取れるほどに、薄汚く淀んでいく。%K%P
 The air in the room was so dank and stale that it felt heavy and strange on the skin.
@@ -380,7 +380,7 @@ CN PLACEHOLDER
 %LC%FS助けて……%FE%V%O
 Help me...
 CN PLACEHOLDER
-Помогите...
+Помогите....
 
 声無き声が聞こえる。%K%P
 I heard a feeble voice.
@@ -392,7 +392,7 @@ CN PLACEHOLDER
 %LC%FS助けて……助けてよぉ……%FE%V%O
 Help... Help me...
 CN PLACEHOLDER
-Помогите... кто-нибудь...
+Помогите...кто-нибудь...
 
 %N%N%N%N
 
@@ -421,7 +421,7 @@ CN PLACEHOLDER
 %LCこうなることは最初からわかっていたくせに……%V%P
 You knew from the start that things would turn out like this...
 CN PLACEHOLDER
-Ты знал, чем всё это обернётся...
+Ты знал, чем всё это обернётся....
 
 少年「違う！　知らなかったんだ！」%K%P
 NO! I didn't know!
@@ -455,7 +455,7 @@ CN PLACEHOLDER
 少年「違う……ぼくは……約束を……」%K%P
 No... I... I promised...
 CN PLACEHOLDER
-Нет... я... я обещал...
+Нет...я...я обещал...
 
 %N%N
 
@@ -479,12 +479,12 @@ CN PLACEHOLDER
 %LCおまえは自らの幸せを買ったんだ。%Nあの子の身体と引き換えにな……ははははは……%V%O
 You bought happiness for yourself. You traded it for that girl's life... Hahahaha...
 CN PLACEHOLDER
-Ты купил своё благополучие ценой её жизни...%NА-ХА-ХА-ХА...
+Ты купил своё благополучие ценой её жизни...%NА, ХА, ХА, ХА...
 
 少年「違う……違う……違う……違う……違う……違う……違う……」%K%P
 No... No... No... No... No... No... No... No... No...
 CN PLACEHOLDER
-Нет... нет... нет... нет... нет... нет... нет... нет... нет... нет... нет... нет... нет... нет.
+Нет..нет...нет...нет...нет...нет...нет... нет...нет...нет...нет...нет...нет...нет.
 
 %N%N%N%N
 
@@ -505,14 +505,14 @@ CN PLACEHOLDER
 %LC%FSいい子にして……待ってるから……%FE%V%O
 I'll wait... like a good girl...
 CN PLACEHOLDER
-Я буду умницей... и буду ждать...
+Я буду умницей...и буду ждать....
 
 %N%N%N%N
 
 %LC%FSずっと……待ってる……から……%FE%V%O
 I'll wait... forever...
 CN PLACEHOLDER
-Я буду ждать... вечно...
+Я буду ждать....вечно...
 
 少年「――違う！」%K%P
 ...NO!
@@ -527,17 +527,17 @@ CN PLACEHOLDER
 幻影を追い払うかのように、椅子を壁に向かって叩きつける。%K%P
 I took the chair, as if to scare away a ghost, and pounded it on the wall.
 CN PLACEHOLDER
-Я схватил его так, словно отпугиваю призрака, и ударил им о стену.
+Я схватил его так, словно отпугиваю призрака, и ударил им об стену.
 
 ――ドガッ！%K%P
 Thud!
 CN PLACEHOLDER
-Бу-у-ух!
+Буух!
 
 やみくもに、渾身の力をこめて、何度も何度も……。%K%P
 Wildly, I put all of my limited strength into it... Over and over...
 CN PLACEHOLDER
-Я ударил им со всей дури... и ещё раз... и ещё...
+Я ударил им со всей дури...и ещё раз...и ещё...
 
 ――ドガッ！%K%P
 Thud!
@@ -562,7 +562,7 @@ CN PLACEHOLDER
 窓の外……遠い月明かり……。%K%P
 Outside the window... the moonlight shined far away...
 CN PLACEHOLDER
-За окном... светит далёкий лунный свет...
+За окном...светит далёкий лунный свет...
 
 少年「ふざけんじゃねぇーぞ、てめえ！」%K%P
 Damn you!
@@ -597,7 +597,7 @@ CN PLACEHOLDER
 ゴンッ……ゴンッ……ゴンッ……ゴンッ……。%K%P
 Bang... Bang... Bang... Bang...
 CN PLACEHOLDER
-Баах... баах... баах... баах... баах...
+Баах...баах......баах......баах......баах...
 
 扉はびくともしない。%K%P
 The door wouldn't budge.
@@ -607,7 +607,7 @@ CN PLACEHOLDER
 しかしぼくはあきらめなかった。%K%P
 But I didn't give up.
 CN PLACEHOLDER
-Но я не сдамся.
+Но, я не сдамся.
 
 身体が粉々になっても、このドアを開けてやろうと思った。%K%P
 If I had to pulverize my body, I was still going to open that door.
@@ -617,17 +617,17 @@ CN PLACEHOLDER
 ゴンッ……ゴンッ……ゴンッ……ゴンッ……。%K%P
 Bang... Bang... Bang... Bang...
 CN PLACEHOLDER
-Баах... баах... баах... баах... баах...
+Баах...баах......баах......баах......баах...
 
 ゴンッ……ゴンッ……ゴンッ……ゴンッ……。%K%P
 Bang... Bang... Bang... Bang...
 CN PLACEHOLDER
-Баах... баах... баах... баах... баах...
+Баах...баах......баах......баах......баах...
 
 ゴンッ……ゴンッ……ゴンッ……ゴンッ……。%K%P
 Bang... Bang... Bang... Bang...
 CN PLACEHOLDER
-Баах... баах... баах... баах... баах...
+Баах...баах......баах......баах......баах...
 
 執拗に体当たりを繰り返す。%K%P
 I hurled myself against the door again and again.
@@ -657,7 +657,7 @@ CN PLACEHOLDER
 ゴンッ……ゴンッ……ゴンッ……ゴンッ……。%K%P
 Bang... Bang... Bang... Bang...
 CN PLACEHOLDER
-Баах... баах... баах... баах... баах...
+Баах...баах......баах......баах......баах...
 
 鈍い音が絶え間なく闇に響いた。%K%P
 A dull sound echoed in the darkness endlessly.
@@ -682,7 +682,7 @@ CN PLACEHOLDER
 少年「あ…あ……ああっ…ううっ……」%K%P
 Ah... Ah... Ungh...
 CN PLACEHOLDER
-А-а... ах... аагх...
+Аа...ах...аагх...
 
 涙があふれ、こぼれ落ちた。%K%P
 Tears overflowed in my eyes and dripped down.
@@ -692,7 +692,7 @@ CN PLACEHOLDER
 ぼやけた視界の向こうに沙羅の姿が見えた。%K%P
 Through my blurred vision, I could make out Sara.
 CN PLACEHOLDER
-Сквозь пелену в глазах я разглядел Сару.
+Сквозь пелену в глазах, я разглядел Сару.
 
 沙羅はまばゆい光を背にして、ぼくの前に手を差し伸べていた。%K%P
 Sara stood surrounded by the bright light, her hands outstretched to me.
@@ -717,7 +717,7 @@ CN PLACEHOLDER
 気がつくと、ぼくはベッドの上にいた。%K%P
 The next thing I knew, I was on a bed.
 CN PLACEHOLDER
-Следующее, что я понял – я на кровати.
+Следующее, что я понял - я на кровати.
 
 まぶしいくらいに白い天井……。%K%P
 The ceiling was so white that it was slightly blinding...
@@ -732,7 +732,7 @@ CN PLACEHOLDER
 ここは……救護室？%K%P
 Was it the... infirmary?
 CN PLACEHOLDER
-Что за... лазарет?
+Что за...лазарет?
 
 ？？「気がついた？」%K%P
 Are you awake now?
@@ -757,7 +757,7 @@ CN PLACEHOLDER
 いや、これは確かにかつて経験した光景だ。%K%P
 No, it was something that I had actually experienced before.
 CN PLACEHOLDER
-Нет, точно так же было и раньше.
+Нет, точно также было и раньше.
 
 おととい、１日に目覚めたときも、今と同じように優はぼくの傍にいて……。%K%P
 Two days before, when I woke up on the first day, You was at my side...
@@ -767,12 +767,12 @@ CN PLACEHOLDER
 少年「沙羅、は……？」%K%P
 Where is Sara...?
 CN PLACEHOLDER
-А где Сара?..
+А где Сара...?
 
 優「さあ？　どこかで休んでると思うよ？」%K%P
 Who knows? Probably resting somewhere.
 CN PLACEHOLDER
-Не знаю. Наверное, отдыхает где-нибудь.
+Не знаю. Наверно, отдыхает где-нибудь.
 
 優「今まで、ずっとマヨが看病してくれてたんだよ。私は今さっき、交代したところ」%K%P
 I just replaced her a little bit ago. She looked after you the whole time until then.
@@ -797,17 +797,17 @@ CN PLACEHOLDER
 赤みがかった肌の色……奥に埋ずもれた血管の、ほのかな青……。%K%P
 The pinkish skin... and buried deeper, the slightly blue veins...
 CN PLACEHOLDER
-Розоватая кожа... и находящиеся глубоко под ней вены...
+Розоватая кожа...и находящиеся глубоко под ней вены...
 
 そして……５本の指……。%K%P
 And... five fingers...
 CN PLACEHOLDER
-И... пять пальцев...
+И...пять пальцев...
 
 左に５本、右に５本、指は相変わらず１０本だった。%K%P
 Five on the left, five on the right, and ten in total. The same as always.
 CN PLACEHOLDER
-Пять на левой, пять на правой, а всего 10 – как и всегда.
+Пять на левой, пять на правой, а всего 10 -- как и всегда.
 
 なくしたぼくの指は、いまだ帰って来ない。%K%P
 My lost finger still hadn't come back to me yet.
@@ -852,12 +852,12 @@ CN PLACEHOLDER
 もしかしたらこの傷跡は、ぼくの過去を知る為の何かの手がかりになるかもしれない。%K%P
 Maybe the scar held some kind of clue to help me remember my past.
 CN PLACEHOLDER
-А вдруг этот шрам действительно не что иное, как улика, что поможет мне вспомнить прошлое?
+А вдруг этот шрам действительно ни что иное, как улика, что поможет вспомнить своё прошлое?
 
 小指で傷跡をなぞると、ピリピリと電気が走るようで、少しくすぐったかった。%K%P
 As I traced the wound with my pinky, it caused a slight stinging pain that tickled a little bit.
 CN PLACEHOLDER
-Ощупывая шрам пальцами, я почувствовал лёгкую колющую боль... нет, даже не боль. Щекотно.
+Ощупывая шрам пальцами, я почувствовал лёгкую колющую боль...нет, даже не боль, а скорей щекотку.
 
 もうぼくは、すっかりと落ち着きを取り戻していた。%K%P
 I was finally feeling completely calmed down.
@@ -892,7 +892,7 @@ CN PLACEHOLDER
 ……。%K%P
 ...
 CN PLACEHOLDER
-...
+....
 
 優「なるほど……」%K%P
 I see...
@@ -922,7 +922,7 @@ CN PLACEHOLDER
 優「きみ、昔入院したことがあるんじゃないの？」%K%P
 You've probably been hospitalized before somewhere.
 CN PLACEHOLDER
-Может, тебя однажды забирали туда?
+Видимо, раньше тебя куда-то госпитализировали.
 
 少年「…………」%K%P
 ...
@@ -932,17 +932,17 @@ CN PLACEHOLDER
 優「こんなことを言ったら失礼かもしれないけど……」%K%P
 Maybe I shouldn't say this, but...
 CN PLACEHOLDER
-Наверное не стоило это говорить, но...
+Наверно не стоило это говорить, но...
 
 優「少年は前にも、今と同じようなことを……」%K%P
 Kid, maybe you've had the same...
 CN PLACEHOLDER
-Малой, может, с тобой так случалось и раньше...
+Кид, может с тобой так было и раньше...
 
 優「つまり、記憶喪失や、突然暴れ出したりといった発作を、何度か繰り返してきたんじゃないかな？」%K%P
 I mean, maybe you've lost your memory or had violent fits repeatedly before.
 CN PLACEHOLDER
-То есть, может, твои беспричинные приступы помешательства и потеря памяти случались и раньше.
+То есть, может твои беспричинные приступы помешательства и потеря памяти случались и раньше.
 
 優「だから、小さな窓がひとつしか付いていないような病室に、監禁されてしまった……」%K%P
 So maybe you were detained in a sickroom with a tiny window like that...
@@ -962,12 +962,12 @@ CN PLACEHOLDER
 優「ただ単に、白昼夢の中をさまよってただけ……そんな可能性も、なきにしもあらずだから」%K%P
 You probably had a waking dream... That is a possibility too.
 CN PLACEHOLDER
-Может, ты просто видел сон наяву... Это тоже вполне вероятно.
+Может ты просто грезил наяву... это тоже вполне вероятно.
 
 少年「ぼくは……夢を見てたのか」%K%P
 I... I was dreaming.
 CN PLACEHOLDER
-Я... я спал?
+Я...я грезил?
 
 優「それも、起きながらにして、ね」%K%P
 While you were awake, though.
@@ -1002,7 +1002,7 @@ CN PLACEHOLDER
 だからぼくがさっき見たものは、抑圧されたなにかが形を変えて姿を現したものなのかもしれない。%K%P
 So what I had seen earlier might have been caused by my repressed memories.
 CN PLACEHOLDER
-То есть то, что я недавно видел, было вызвано подавленными воспоминаниями.
+То есть, то что я недавно видел, было вызвано подавленными воспоминаниями.
 
 いずれにせよ、それを確かめる手段はない。%K%P
 In any case, there was no way to be sure of anything.
@@ -1017,12 +1017,12 @@ CN PLACEHOLDER
 病室らしき場所で体験したあの出来事は、夢の中に出てくる不思議な小動物と同じくらい現実感をともなっていなかった。%K%P
 I felt that my experience in a sickroom or somewhere like one was as unreal as a strange small animal that might appear in a dream.
 CN PLACEHOLDER
-Я чувствовал, что моё появление в палате психушки или чего-то такого такое же нереальное, как если бы мне приснился странный маленький зверёк.
+Кажется, что моё присутствие в палате для душевнобольных, или как там её, настолько же нереально, как появление во сне странного маленького животного.
 
 （あれは……ただの夢だったんだ）%K%P
 (Maybe it was just a dream.)
 CN PLACEHOLDER
-(Может, мне действительно всё это привидилось.)
+(Может мне действительно всё это привидилось.)
 
 いつしか、それは確信に変わっていた。%K%P
 At some point, I had become sure of it.
@@ -1032,7 +1032,7 @@ CN PLACEHOLDER
 きっとあれは、気まぐれなぼくの脳の悪ふざけだったに違いない。%K%P
 I felt sure that it was just my mind playing a nasty trick on me.
 CN PLACEHOLDER
-Всё-таки это разум сыграл со мной злую шутку.
+Всё-таки, это разум сыграл со мной злую шутку.
 
 優がベッドサイドから立ち上がる。%K%P
 You stood from beside the bed.
@@ -1042,17 +1042,17 @@ CN PLACEHOLDER
 優「さて、と。とりあえず、もう一度行って確かめてみようか？」%K%P
 Okay. For now, shall we go to check it out one more time?
 CN PLACEHOLDER
-Ладушки. А пока, может, пойдём и проверим ещё разок?
+Ладушки. А пока, может пойдём и посмотрим, из-за чего весь сыр-бор?
 
 少年「どこへ？　なにを？」%K%P
 Go check what?
 CN PLACEHOLDER
-Проверим что?
+На что посмотрим?
 
 優「その小部屋へ。事実関係を確かめに」%K%P
 That little room. To set the record straight.
 CN PLACEHOLDER
-На ту комнатушку. Чтобы расставить все точки над „и“.
+На ту комнатушку. Чтобы расставить все точки над 'и'.
 
 手を差し伸べる優。%K%P
 You held out her hands out to me.
@@ -1077,7 +1077,7 @@ CN PLACEHOLDER
 （あれはただの幻覚だったんだ）%K%P
 (I know that was just my mind playing tricks on me.)
 CN PLACEHOLDER
-(Знаю, знаю... это всё воображение разбушевалось.)
+(Знаю, знаю...это всё воображение разбушевалось.)
 
 あの小部屋と、ぼくの記憶や想い出との間に、何らかの繋がりを見出すことは不可能だろう。%K%P
 I was convinced that there was no connection between that room and my memory.
@@ -1112,7 +1112,7 @@ CN PLACEHOLDER
 よくもこんなに散らかしたものだ、というぐらいの惨状だった。%K%P
 I was amazed that I could have made that much of a mess. That was how terrible it was.
 CN PLACEHOLDER
-Ничего себе приступ галлюцинаций – а ведь могло быть и хуже. Неужели всё это сделал я?
+Ничего себе приступ галлюцинаций - а ведь могло быть и хуже. Неужели всё это сделал я?
 
 世界中のポルターガイストを圧縮し、解凍してもこうはならないだろう。%K%P
 I didn't think that even if you compressed all of the world's poltergeists into that itty-bitty space they could have done much more.
@@ -1137,7 +1137,7 @@ CN PLACEHOLDER
 優「で？　えーっと、なんだっけ？」%K%P
 And? What was it we were going to...?
 CN PLACEHOLDER
-Ну? И как быть дальше?..
+Ну? И как быть дальше...?
 
 少年「えっ？」%K%P
 Huh?
@@ -1147,7 +1147,7 @@ CN PLACEHOLDER
 優「確か……まずこの部屋に入って、少年は床に座ったんだよね？」%K%P
 If I remember correctly... You came into the room and sat on the floor, right?
 CN PLACEHOLDER
-Если не ошибаюсь... ты зашёл в комнату и сел на пол, так?
+Если не ошибаюсь...ты зашёл в комнату и сел на пол, так?
 
 少年「う、うん……」%K%P
 Y-Yeah...
@@ -1177,7 +1177,7 @@ CN PLACEHOLDER
 少年「ドア？」%K%P
 The door?
 CN PLACEHOLDER
-Что „дверь“?
+Что, дверь?
 
 優「ドアは閉めたんですかって訊いてるの」%K%P
 I'm asking whether the door was shut or not.
@@ -1187,7 +1187,7 @@ CN PLACEHOLDER
 少年「えーと……閉めた、と思う」%K%P
 Uh... I shut it, I think.
 CN PLACEHOLDER
-Э-э... Я вроде как закрыл её.
+Ээ...я закрыл её, вроде как.
 
 少年「ドアが閉まってたから、脱出しようと思って体当たりを繰り返したわけで……」%K%P
 After the door shut, I wanted to escape and started throwing myself against the door...
@@ -1207,7 +1207,7 @@ CN PLACEHOLDER
 唯一の光源は、小さな窓から射し込む月明かりだけで……。%K%P
 The only source of light was the moonlight pouring through the little window...
 CN PLACEHOLDER
-Единственным источником света остался бьющий сквозь крохотное окно лунный свет...
+Единственным источником света остался, бьющий сквозь крохотное окно, лунный свет...
 
 （えっ？　月明かり？）%K%P
 (What? Moonlight?)
@@ -1247,7 +1247,7 @@ CN PLACEHOLDER
 彼女が足を運ぶたびに、かげろうのような残像がたなびいた。%K%P
 Every time she took a step, a faint streak-like image followed her.
 CN PLACEHOLDER
-При любом движении за ней, словно хвостик, следует слабый, едва различимый шлейф.
+При каждом движении, за ней, словно хвостик, следует слабый, едва различимый, призрачный силуэт её самой.
 
 それは深い霞の中をたゆたうロウソクの灯りに似ていた。%K%P
 It was like the flame of a candle flickering in a thick mist.
@@ -1277,17 +1277,17 @@ CN PLACEHOLDER
 優「こんなとこで手を抜いてるから、きっと事故だって……」%K%P
 It's because they cut corners in places like this that they get accidents...
 CN PLACEHOLDER
-Ещё бы у них не случалось аварий, когда они так экономят на оборудовании...
+Ага, срезают углы везде, где только можно. Не удивительно, что у них сплошные аварии...
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「まあ、そんなことはどうでもいいや」%K%P
 That's not important right now.
 CN PLACEHOLDER
-Хотя... какая теперь разница?
+Хотя...какая теперь разница?
 
 優はくるりと振り向いた。%K%P
 You whipped around.
@@ -1322,7 +1322,7 @@ CN PLACEHOLDER
 格納庫の片隅に備え付けられたこんな物置に、コストのかかる耐圧ガラスをはめ込む道理はないのだ。%K%P
 Nobody would fork over the cash for a little window with special pressure-resistant glass in a little storage room stuck on the side of a warehouse.
 CN PLACEHOLDER
-Никто бы не стал заморачиваться ради небольшого окошка со стойким к давлению стеклом в маленькой кладовке, втиснутой прямо за складом.
+Никто бы не стал выворачиваться на изнанку ради форточки, со стойким к давлению стеклом, в маленькой кладовке, втиснутой прямо за складом.
 
 ぼくは、ついさっきまでそこにあったはずの月明かりを探し求めた。%K%P
 I looked around for the moonlight that had been there until a second ago.
@@ -1332,17 +1332,17 @@ CN PLACEHOLDER
 月はなかった。%K%P
 There was no moon.
 CN PLACEHOLDER
-Но нигде нет луны.
+Но, нигде нет луны.
 
 ぼくが粉々に砕いてしまったからだろうか？%K%P
 I wondered if it was because I had shattered it.
 CN PLACEHOLDER
-Может, её нет потому, что я разбил её вдребезги?
+Может её нет потому, что я разбил её вдребезги?
 
 いや、そうではなかった。%K%P
 But that wasn't it.
 CN PLACEHOLDER
-Нет, не так.
+Но...какого...?
 
 ぼくが窓だと勘違いしていたものはただの……小さな四角い穴、だったようだ。%K%P
 What I had mistaken for a window was... just a little square hole.
@@ -1382,7 +1382,7 @@ CN PLACEHOLDER
 サイズで言うと、一辺が５０ｃｍ程度の正方形をしていた。%K%P
 It was about 50 centimeters on each side.
 CN PLACEHOLDER
-С длинной стороны около 50 сантиметров.
+Где-то 60 сантиметров в диаметре.
 
 穴には扉が付いていた。%K%P
 There was a door on the hole.
@@ -1402,7 +1402,7 @@ CN PLACEHOLDER
 穴の中には、基板のようなもの、色とりどりの配線、何かのプラグ、小さなレバーのようなものがギッシリと詰まっていた。%K%P
 A bunch of colored wiring, something like an integrated circuit board, some kind of plug, and something like a small lever were all packed into it.
 CN PLACEHOLDER
-Куча цветастой электропроводки, что-то вроде интегральной схемы, какой-то штекер и вроде как маленький рычаг.
+Куча цветастой электропроводки, нечто вроде интегральной схемы, розетка неизвестного мне типа и вроде как маленький рычаг. Ничего себе дыра.
 
 少年「これは、何？」%K%P
 What is this?
@@ -1417,7 +1417,7 @@ CN PLACEHOLDER
 優「たぶん、インバータユニットか何かだと思うけど」%K%P
 It's probably an inverter unit or something.
 CN PLACEHOLDER
-Смахивает на инвертор напряжения или вроде того.
+Смахивает на распределительный щит, или даже на инвертор напряжения, или вроде того.
 
 少年「いんばーたゆにっと？」%K%P
 Inverter unit?
@@ -1437,7 +1437,7 @@ CN PLACEHOLDER
 優「またはその制御部分、保護部分を指す」%K%P
 That means this device controls those functions.
 CN PLACEHOLDER
-То есть оно управляет этими процессами.
+То есть, оно управляет этими процессами.
 
 少年「ふ、ふ〜ん……」%K%P
 I see...
@@ -1457,7 +1457,7 @@ CN PLACEHOLDER
 少年「えっ？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 優「インバータユニット、だった」%K%P
 That WAS the inverter unit.
@@ -1477,7 +1477,7 @@ CN PLACEHOLDER
 ぼくの方には視線を向けず、優はそう言った。%K%P
 You said it straight-faced and without looking at me.
 CN PLACEHOLDER
-Ю говорила это с серьёзным лицом, не глядя при этом на меня.
+'Догадываюсь' - вот что не сказала Ю, глядя на устройство, и при этом стараясь не смотреть на меня.
 
 ぼくは、そのインバータユニットとやらに触れてみた。%K%P
 I reached out to touch the inverter unit thing.
@@ -1497,12 +1497,12 @@ CN PLACEHOLDER
 ぼくは、触れる前から熱のあることを知っていた。%K%P
 Maybe I knew that it was warm before I touched it.
 CN PLACEHOLDER
-Может, я знал, что он тёплый ещё до того, как успел его коснуться?
+Может я знал, что он тёплый ещё до того, как успел его коснуться?
 
 だから、それを指先で確かめてみたかったのかも……。%K%P
 So I had wanted to make sure by touching it...
 CN PLACEHOLDER
-А сделал это просто, чтобы убедиться?..
+А сделал это просто, чтобы убедиться...?
 
 結局のところ、収穫はほぼゼロだった。%K%P
 In the end, we really didn't learn anything.
@@ -1512,12 +1512,12 @@ CN PLACEHOLDER
 いや……でも……。%K%P
 No... But...
 CN PLACEHOLDER
-Нет... но...
+Нет...но...
 
 よくわからないけど、何かが動き出そうとしている……そんな感じがしていた。%K%P
 But it did seem like something was trying to move... at least to me.
 CN PLACEHOLDER
-Но кое-что всё-таки сдвинулось с мёртвой точки... по крайней мере, мне так кажется.
+Но, кое-что всё-таки сдвинулось с мёртвой точки...по крайней мере, мне так кажется.
 
 例えるならば……%K%P
 It felt like...
@@ -1527,5 +1527,5 @@ CN PLACEHOLDER
 そう、例えるならば、ぼくの中で誰かがコトリと寝返りを打つような。%K%P
 It felt like someone inside me was tossing and turning in his sleep.
 CN PLACEHOLDER
-Словно кто-то внутри меня стал ворочаться и перевернулся во сне.
+Словно кто-то внутри меня стал ворочиться и перевернулся во сне.
 

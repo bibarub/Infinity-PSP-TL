@@ -6,7 +6,7 @@ CN PLACEHOLDER
 俺達は、３階会議室に集まっていた。%K%P
 We gathered in the conference room on the third floor.
 CN PLACEHOLDER
-Мы собрались в Комнате переговоров на третьем этаже.
+Мы собрались в Комнате Переговоров на третьем этаже.
 
 俺・つぐみ・空・優・ココの５人は椅子に座り、過ぎ行く時の流れに身を任せていた。%K%P
 Tsugumi, Sora, You, Coco, and I were sitting in chairs, just letting time pass.
@@ -26,22 +26,22 @@ CN PLACEHOLDER
 武「ふぁ〜〜〜〜〜〜〜〜〜〜〜〜あっと」%K%P
 *Yaaaaaaaaawn*...
 CN PLACEHOLDER
-*зевает*
+Ааааааааааааааааааввввввв.
 
 優「ふぁ〜〜〜〜〜〜〜〜〜〜〜〜あ」%K%P
 *Yaaaaaaaaawn*...
 CN PLACEHOLDER
-*зевает*
+Ааааааааааааааааааввввввв.
 
 ココ「ふぁ〜〜〜〜〜〜〜〜〜〜〜〜あ」%K%P
 *Yaaaaaaaaawn*...
 CN PLACEHOLDER
-*зевает*
+Ааааааааааааааааааввввввв.
 
 つぐみ「ふぁ〜〜〜〜〜〜〜〜〜〜〜〜あ」%K%P
 *Yaaaaaaaaawn*...
 CN PLACEHOLDER
-*зевает*
+Ааааааааааааааааааввввввв.
 
 俺のした欠伸は、次々と皆に伝染していった。%K%P
 My yawn spread from one person to the next.
@@ -51,7 +51,7 @@ CN PLACEHOLDER
 ただ空だけは、何か思いつめたようにうなだれたままだったが……。%K%P
 Only Sora had her head down and looked as if she was thinking about something...
 CN PLACEHOLDER
-Лишь Сора сидит с опущенной головой, словно думает о чём-то...
+Лишь Сора сидит с опущенной головой, словно думает о чём-то....
 
 ココ「あっ、そうだ！」%K%P
 Oh, that's right!
@@ -71,7 +71,7 @@ CN PLACEHOLDER
 言いながら、ココはポケットから何かを取り出してみせた。%K%P
 As she spoke, Coco plucked something out of her pocket.
 CN PLACEHOLDER
-С этими словами Коко вытащила что-то из своего кармана.
+С этими словами, Коко вытащила что-то из своего кармана.
 
 ひと組のトランプだった。%K%P
 It was a set of cards.
@@ -91,22 +91,22 @@ CN PLACEHOLDER
 優「う〜ん、トランプかぁ……」%K%P
 Cards, hmmm...
 CN PLACEHOLDER
-Хм-м-м, в карты?..
+Хммм, в карты...?
 
 優「で？　何やるの？」%K%P
 So? What do you wanna play?
 CN PLACEHOLDER
-И во что же именно мы будем играть?
+И, во что же именно мы будем играть?
 
 ココ「うんとねぇ……うんとねぇ……そうだなぁ……」%K%P
 Um... Um... Let's see...
 CN PLACEHOLDER
-Ну... ну... дай-ка подумать...
+Эмм... эмм... дай-ка подумать...
 
 ココ「あっ！　じゃあ『スーパーめくりんちょ』は？」%K%P
 Oh! How about 'Super Memory'?
 CN PLACEHOLDER
-Ага! Как насчёт партии в „Суперпамять“?
+Ага! Как насчёт партии в Супер Память?
 
 優「すぅぱぁ……」%K%P
 Super...
@@ -121,7 +121,7 @@ CN PLACEHOLDER
 ココ「あれ！？　知らないのぉ〜！？　スーパーめくりんちょ！」%K%P
 What? You don't know Super Memory?
 CN PLACEHOLDER
-Что? Вы не знаете, что такое „Суперпамять“?
+Что? Вы не знаете, что такое Супер Память?
 
 優とつぐみは顔を見合わせた。%K%P
 You and Tsugumi looked at each other.
@@ -131,12 +131,12 @@ CN PLACEHOLDER
 ココ「嘘だよぉ！　絶対知ってるはずだってば！」%K%P
 You're kidding, right? You HAVE to know this game!
 CN PLACEHOLDER
-Вы, наверное, шутите? Да вы просто ДОЛЖНЫ знать, что это за игра!
+Вы наверно шутите? Да вы просто ДОЛЖНЫ знать, что это за игра!
 
 ココ「ねえ？　たけぴょんは知ってるでしょ？」%K%p
 Right? Takepyon, you know it, right?
 CN PLACEHOLDER
-Такэпён, ты же знаешь эту игру, правда?
+Такепён, ты же знаешь эту игру, правда?
 
 勿論知っている
 Of course I know it
@@ -171,7 +171,7 @@ CN PLACEHOLDER
 つぐみ「ち、ちょっと待ちなさいよ……」%K%P
 W-Wait a minute...
 CN PLACEHOLDER
-П-погодите секунду...
+П...... Погодите секунду...
 
 優「そうよ、いったいなんなの？」%K%P
 What in the world are you talking about?
@@ -181,7 +181,7 @@ CN PLACEHOLDER
 武「なんだお前達、ひょっとして苦手なのか？　スーパーめくりんちょ」%K%P
 What, are you guys scared to play Super Memory? Are you bad at it?
 CN PLACEHOLDER
-Вы что, девчонки, испугались из-за того, что плохо играете в „Суперпамять“?
+Вы что, девчонки, испугались из-за того, что плохо играете в Супер Память?
 
 つぐみ「違う……」%K%P
 No...
@@ -241,7 +241,7 @@ CN PLACEHOLDER
 ココ「……まあ、いいや」%K%P
 ...But it's no problem.
 CN PLACEHOLDER
-...но ничего страшного.
+...но, ничего страшного.
 
 ココ「簡単なルールだから、教えてあげるよん」%K%P
 The rules are simple. I'll teach you!
@@ -271,7 +271,7 @@ CN PLACEHOLDER
 ココ「ええっ！　そうなの……？」%K%P
 What! Are you serious...?
 CN PLACEHOLDER
-Что?! Вы серьёзно?..
+Что?! Вы серьёзно...?
 
 空のほうを見ると、彼女も首を横に振った。%K%P
 A glance at Sora showed she was shaking her head.
@@ -286,7 +286,7 @@ CN PLACEHOLDER
 ココはぶうぶうと膨れた。%K%P
 Coco sounded pouty.
 CN PLACEHOLDER
-Сказала Коко, надувшись.
+Надуто сказала Коко.
 
 ココ「まったく、しょうがないなぁ〜〜」%K%P
 Geez. Oh well...
@@ -306,7 +306,7 @@ CN PLACEHOLDER
 武「ってなわけだからココ、説明してくれないか？」%K%P
 So, Coco, will you explain the game to us?
 CN PLACEHOLDER
-Так, Коко, объяснишь нам правила игры?
+Так, Коко, может объяснишь нам правила игры?
 
 ココ「オッケー。そいじゃ、よーく聞いてね？」%K%P
 Okay. Everybody listen, alright?
@@ -336,7 +336,7 @@ CN PLACEHOLDER
 ココ「そしたらジャンケンをして、負けた人から順番に、カードをめくるのね？」%K%P
 Then we do rock, paper, scissors, and you turn over cards starting with the loser.
 CN PLACEHOLDER
-Затем мы играем в камень-ножницы-бумагу, и вы переворачиваете карты, начиная с проигравшего.
+Затем мы играем в камень-ножницы-бумагу и вы переворачиваете карты, начиная с проигравшего.
 
 ココ「こういうふうに……１枚めくったら、もう１枚めくる……みたいな感じで」%K%P
 Like this... You turn over one card and then one more...
@@ -361,32 +361,32 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「神経衰弱」%K%P
 That's called 'Concentration'.
 CN PLACEHOLDER
-Это „Концентрация“.
+Это 'Концентрация'.
 
 優「ぴろぴろぴんぽんどぉーん……」%K%P
 Mental Guts...
 CN PLACEHOLDER
-„Умственный тренинг“...
+'Умственный Тренинг'...
 
 武「は？」%K%P
 Huh?
 CN PLACEHOLDER
-Ч-чего?
+Ч-Чего?
 
 つぐみ「それは『神経衰弱』って言わない？　普通……」%K%P
 People usually call the game 'Concentration', don't they...?
 CN PLACEHOLDER
-Эта игра зовётся „Концентрацией“, разве нет?..
+Эта игра зовётся Концентрацией, разве нет...?
 
 武「えっ？」%K%P
 What?
@@ -396,7 +396,7 @@ CN PLACEHOLDER
 武「まぁ……ひょっとすると地方によっては、そうとも言うのかなぁ」%K%P
 Well, maybe in some backwater places they might call it that.
 CN PLACEHOLDER
-Ну, может, в далёких заводях вроде нашей...
+Ну, может, в далёких заводях, вроде нашей...
 
 優「違うっ！」%K%P
 That's not what I mean.
@@ -406,52 +406,52 @@ CN PLACEHOLDER
 優「どう考えてもそれって『ピロピロピンポンドォーン！！』じゃないのっ！　どっからどう見てもっ！！」%K%P
 That game is clearly 'Mental Guts'. It's obvious!
 CN PLACEHOLDER
-Эта игра – не что иное, как „Умственный тренинг“. Неужели это не очевидно?!
+Эта игра - ни что иное как Умственный Тренинг. Неужели это не очевидно?!
 
 武「な、何言ってるんだお前は……？」%K%P
 What're you talking about...?
 CN PLACEHOLDER
-О чём ты?..
+О чём ты...?
 
 ココ「違うよ、スーパーめくりんちょだよ」%K%P
 No, it's called Super Memory.
 CN PLACEHOLDER
-Нет, она называется „Суперпамять“.
+Нет, она называется Супер Память.
 
 つぐみ「神経衰弱……」%K%P
 Concentration...
 CN PLACEHOLDER
-„Концентрация“...
+Концентрация...
 
 優「ピロピロピンポンドォーン！！」%K%P
 It's called Mental Guts!
 CN PLACEHOLDER
-Она называется „Умственный тренинг“!
+Она называется Умственный Тренинг!
 
 ココ「めくりんちょだってばぁ！」%K%P
 I said that it's Super Memory!
 CN PLACEHOLDER
-Это „Суперпамять“!
+Это Супер Память!
 
 武「だーっ！　やかましいっ！」%K%P
 Geez! You guys are fussy!
 CN PLACEHOLDER
-Боже, ну вы и привереды!
+Боже мой! Дамы, не ссорьтесь.
 
 武「わかった、わかったっつーの！　落ち着け皆の衆！」%K%P
 Alright. I know what we'll do! Everybody calm down!
 CN PLACEHOLDER
-Хорошо. Я знаю, что делать... Всем успокоиться!
+Хорошо. Я знаю, что делать... МОЛЧАТЬ!
 
 武「じゃあここは、あいだを取って……」%K%P
 We'll compromise and...
 CN PLACEHOLDER
-Нужен компромисс, и...
+Нужен компромисс и...
 
 武「……神経ピロりんちょ、ってことで……どうよ」%K%P
 ...Let's say we call it Mental Concemory...?
 CN PLACEHOLDER
-...может, назовём её „Конце-тре-мять“?
+...может, назовём её 'Конце-тре-мять'...?
 
 ココ「しんけい……」%K%P
 Mental...
@@ -476,7 +476,7 @@ CN PLACEHOLDER
 懐に半ダースの缶コーラを抱えながら、少年が会議室に戻って来た。%K%P
 The Kid came into the conference room, cradling six cans of cola against his chest.
 CN PLACEHOLDER
-Малой пришёл в Комнату переговоров, держа у живота шесть банок с колой.
+Кид пришёл в Комнату Переговоров, держа у живота шесть банок с колой.
 
 トランプは一旦中止になる。%K%P
 The card game stopped.
@@ -486,12 +486,12 @@ CN PLACEHOLDER
 ココ「少ちゃん、おかえり〜♪」%K%P
 Hiya, Kiddo〜
 CN PLACEHOLDER
-Приветик, Малой-тян.
+Приветик, Кид-тян.
 
 優「おっ、気が利くじゃ〜ん、少年！」%K%P
 Hey, Kid. That sure was thoughtful of you!
 CN PLACEHOLDER
-Эй, Малой. Это так мило с твоей стороны!
+Эй, Кид. Это так мило с твоей стороны!
 
 優は少年からコーラを受け取ると、ステイオンタブを押し開けた。%K%P
 You took a cola from the Kid and popped open the tab.
@@ -526,7 +526,7 @@ CN PLACEHOLDER
 くるりと背中を向ける少年。%K%P
 The Kid turned around.
 CN PLACEHOLDER
-Малой развернулся.
+Кид развернулся.
 
 武「えっ？　なに？」%K%P
 Eh? What?
@@ -541,7 +541,7 @@ CN PLACEHOLDER
 少年は、自分の首の後ろのフードを指差している。%K%P
 Kid was pointing to the hood behind his neck.
 CN PLACEHOLDER
-Малой указал на капюшон за своей шеей.
+Кид указал на капюшон за своей шеей.
 
 俺はフードの中に手を突っ込んでみた。%K%P
 I stuck my hand in the hood.
@@ -551,7 +551,7 @@ CN PLACEHOLDER
 タツタサンドが２個、入っていた。%K%P
 There were two tuna sandwiches inside it.
 CN PLACEHOLDER
-Внутри оказались два сэндвича с тунцом.
+Внутри оказались два бутерброда с курятиной.
 
 武「お？　どうしたんだこれ、お前作ったのか？」%K%P
 Huh? Where'd you get these? Did you make 'em?
@@ -566,17 +566,17 @@ CN PLACEHOLDER
 武「ああ、そっか……あの残りか」%K%P
 Oh, that's right... the leftovers.
 CN PLACEHOLDER
-Ой, и правда... те, что не съели.
+Ой, и правда...те, что не съели.
 
 停電のとき、俺がつぐみと空に渡し損ねたサンドだった。%K%P
 They were the sandwiches that I hadn't given to Tsugumi and Sora during the blackout.
 CN PLACEHOLDER
-Это сэндвичи, которые я не успел дать Соре и Цугуми, пока не было света.
+Это бутерброды, которые я не успел дать Соре и Цугуми, пока не было света.
 
 停電のとき、俺がベンチの上に置いといたやつだ。%K%P
 They were the sandwiches that I had left on the bench during the blackout.
 CN PLACEHOLDER
-Это те сэндвичи, что я оставил на скамейке, когда погас свет.
+Это те бутерброды, что я оставил на скамейке, когда погас свет.
 
 少年「誰か、お腹減ってる人もいるかなと思って」%K%P
 I thought that somebody might be hungry.
@@ -586,7 +586,7 @@ CN PLACEHOLDER
 優「おお、素晴らしい！」%K%P
 Oh, great!
 CN PLACEHOLDER
-О, здорово!
+Ооох, здорово!
 
 優「きみってほんとにほんとに、気が利くなぁ〜！！」%K%P
 You're so thoughtful!
@@ -596,7 +596,7 @@ CN PLACEHOLDER
 優は少年に駆け寄ると、その頭を激しく、くしゃくしゃと撫でた。%K%P
 You went over to the Kid and mussed up his hair affectionately.
 CN PLACEHOLDER
-Ю подошла к Малому и задорно растрепала его волосы.
+Ю подошла к Киду и задорно растрепала его волосы.
 
 少年は棒立ちで、されるままにしていた。%K%P
 He stood there stiff as a rod, not resisting at all.
@@ -611,7 +611,7 @@ CN PLACEHOLDER
 つぐみ「……あの」%K%P
 ...Ahem.
 CN PLACEHOLDER
-...эм...
+...эмм...
 
 つぐみが手をあげる。%K%P
 Tsugumi raised her hand.
@@ -626,7 +626,7 @@ CN PLACEHOLDER
 珍しく、つぐみが真っ先に自己主張した。%K%P
 Tsugumi, unlike her normal self, spoke up.
 CN PLACEHOLDER
-Цугуми заговорила. На неё это непохоже.
+Цугуми заговорила. На неё это не похоже.
 
 武「ああ、さっきの修理作業で腹減ったんだろ？」%K%P
 So all that repair work made you hungry?
@@ -636,7 +636,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 返事はなかったが、言わずもがなだろう。%K%P
 Of course, she didn't see any need to answer my question.
@@ -656,7 +656,7 @@ CN PLACEHOLDER
 少年のフードから取り出したサンドを、俺はつぐみに１個手渡した。%K%P
 I gave Tsugumi one of the sandwiches that I took from the Kid's hood.
 CN PLACEHOLDER
-Я протянул ей один из сэндвичей, что вытащил из капюшона Малого.
+Я протянул ей один из бутербродов, что вытащил из капюшона Кида.
 
 つぐみは無言で受け取る。%K%P
 Tsugumi took it without saying anything.
@@ -666,7 +666,7 @@ CN PLACEHOLDER
 それから、残るひとつを空に差し出した。%K%P
 Then I held out the remaining one to Sora.
 CN PLACEHOLDER
-Затем я протянул оставшийся сэндвич Соре.
+Затем я протянул оставшийся бутерброд Соре.
 
 武「もう１個は空のぶんだ。まだ食べてないだろ？」%K%P
 The other one is for Sora. You haven't eaten, have you?
@@ -691,7 +691,7 @@ CN PLACEHOLDER
 少年のフードから取り出したサンドを、つぐみに１個手渡した。%K%P
 I gave Tsugumi one of the sandwiches that I took from the Kid's hood.
 CN PLACEHOLDER
-Я протянул ей один из сэндвичей, что вытащил из капюшона Малого.
+Я протянул ей один из бутербродов, что вытащил из капюшона Кида.
 
 つぐみは無言で受け取る。%K%P
 Tsugumi took it without saying anything.
@@ -701,7 +701,7 @@ CN PLACEHOLDER
 それから俺は、残るひとつを空に差し出した。%K%P
 Then I held out the remaining one to Sora.
 CN PLACEHOLDER
-Затем я протянул оставшийся сэндвич Соре.
+Затем я протянул оставшийся бутерброд Соре.
 
 武「もう１個は空のぶんだ。朝、食べてないだろ？」%K%P
 The other one is Sora's. You didn't have breakfast, right?
@@ -731,7 +731,7 @@ CN PLACEHOLDER
 ココ「あ、おいしいってのはココも保証するよ！」%K%P
 I'll vouch for its deliciousness!
 CN PLACEHOLDER
-Ага, это вкусняшки! Могу ручаться!
+Ага, это вкусняшки! Коко ручается!
 
 少年「あ、ぼくも……」%K%P
 Uh, me too...
@@ -741,7 +741,7 @@ CN PLACEHOLDER
 ココと少年が手をあげた。%K%P
 Coco and the Kid raised their hands.
 CN PLACEHOLDER
-Коко и Малой подняли руки.
+Коко и Кид подняли руки.
 
 武「空ぁ？　俺のメシが食えないのか？」%K%P
 Sora? What? You can't eat my food?
@@ -751,7 +751,7 @@ CN PLACEHOLDER
 空「そ、そんなことおっしゃられても……」%K%P
 That's not it...
 CN PLACEHOLDER
-Д-дело не в этом...
+Д-Дело не в этом...
 
 武「じゃあなんだ、昨日食いすぎたか？　それともダイエットか？」%K%P
 Then what is it? Eat too much yesterday? Or are you on a diet?
@@ -761,7 +761,7 @@ CN PLACEHOLDER
 空「い、いいえ……でも……」%K%P
 No, but... I...
 CN PLACEHOLDER
-Н-нет, но...
+Н-Нет, но...
 
 武「ダメダメ、きちんと食わなきゃ身体に毒なんだ。ほらっ！　受け取れっ！」%K%P
 No. You have to eat or you'll get weak. Here! Take it!
@@ -771,17 +771,17 @@ CN PLACEHOLDER
 俺は空の胸元に、缶コーラとタツタサンドを投げた。%K%P
 I tossed a cola and tuna sandwich toward Sora.
 CN PLACEHOLDER
-Я подбросил колу и сэндвич в сторону Соры.
+Я подбросил колу и бутерброд в сторону Соры.
 
 それはふわりとゆるやかな放物線を描く。%K%P
 They traced a gentle arc through the air.
 CN PLACEHOLDER
-Они проделали в воздухе элегантную дугу...
+Они проделали в воздухе элегантную арку...
 
 空「ああっ……！！」%K%P
 Ahh...!
 CN PLACEHOLDER
-А-а-а!!!
+Ааа...!!!
 
 空は咄嗟にそれに手を伸ばした。%K%P
 Sora suddenly stretched out her hands...
@@ -806,17 +806,17 @@ CN PLACEHOLDER
 ぶしゅぅーーーーー！！%K%P
 Fushaaaww!
 CN PLACEHOLDER
-Пш-ш-ш-ш-ш-ш!
+Пшшшшшшшшш!!!
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空は受け取らなかった。%K%P
 But Sora didn't catch them.
@@ -836,17 +836,17 @@ CN PLACEHOLDER
 間に合わなかったのでもなかった。%K%P
 It wasn't that she was too slow.
 CN PLACEHOLDER
-Не то чтобы у неё была слишком медленная реакция.
+Не то что бы у неё была слишком медленная реакция.
 
 空は、宙に手を伸ばしたポーズのまま。%K%P
 Sora was there with her hands extended into space.
 CN PLACEHOLDER
-Сора стоит с руками, протянутыми в пустоту.
+Сора стоит с руками, вытянутыми в пустоту.
 
 タツタサンドは、空の足元に落ちていた。%K%P
 The sandwich had fallen at her feet.
 CN PLACEHOLDER
-Сэндвич упал ей на ногу.
+Бутерброд упал ей на ногу.
 
 コーラの缶は、空の後ろにある壁に激突して、破裂した。%K%P
 The cola had violently slammed into the wall behind her and exploded.
@@ -866,7 +866,7 @@ CN PLACEHOLDER
 サンドの包みは、空の履いているサンダルのシルエットに覆い被さり……%K%P
 The sandwich wrapper covered the silhouette of Sora's sandal...
 CN PLACEHOLDER
-Обёртка сэндвича накрыла силуэт сандалии Соры...
+Обёртка бутерброда накрыла силуэт сандали Соры...
 
 完全に一体化して、溶け込んでいるようだった。%K%P
 It was as if the two had melded together.
@@ -876,7 +876,7 @@ CN PLACEHOLDER
 武「……え？」%K%P
 ...Huh?
 CN PLACEHOLDER
-Ч-что?..
+Ч-Что...?
 
 空「ですから、私はいらないと……申し上げたのですが」%K%P
 That's why I said... I didn't need it.
@@ -891,7 +891,7 @@ CN PLACEHOLDER
 武「ええええええええええええええええええっ！？」%K%P
 Wwwwhhhhhhhhaaaaaattttttt!?
 CN PLACEHOLDER
-Чег-о-о-о-о-о-о-о-о-о-о-о?!
+Кааааааааааааааааааааааак?
 
 武「いや、その、あれだ、俺は」%K%P
 No, that's, what, I...
@@ -916,7 +916,7 @@ CN PLACEHOLDER
 武「で、でもっ！　コーラ、コーラ吹いてる、かかってる……服は大丈夫か？」%K%P
 B-But! The cola blew up, and... is your clothing alright?
 CN PLACEHOLDER
-Н-но кола взорвалась и... Что с твоей одеждой? Она не запачкалась?
+Н-Но кола взорвалась и... Что с твоей одеждой? Она не запачкалась?
 
 空「はい」%K%P
 Yes.
@@ -926,22 +926,22 @@ CN PLACEHOLDER
 武「ていうか、その、サンド踏んでる……足が、足の先がないですよ空さん……」%K%P
 But you're... stepping on the sandwich... Your foot... You've got no toes, Sora-san...
 CN PLACEHOLDER
-Но ты... стоишь на сэндвиче... Твоя нога... Сора, у тебя же нет пальцев...
+Но ты... стоишь на бутерброде... твоя нога... Сора, у тебя же нет пальцев...
 
 空「え？　……きゃっ！！　ごめんなさい」%K%P
 Oh...? My gosh! Sorry about that.
 CN PLACEHOLDER
-А... Ах! Простите!
+Эээ.........? Кья! Простите!
 
 するとたちまち、空の消えていた足先が、何事もなかったように現れた。%K%P
 And just like that, Sora's vanished toes reappeared.
 CN PLACEHOLDER
-В ту же секунду пропавшие пальцы Соры появились снова.
+В ту же секунду, пропавшие пальцы Соры появились снова.
 
 その代わり、タツタサンドがあるべき場所の空間が不安定に揺らいでいる。%K%P
 But the place where the sandwich was supposed to be wavered unsteadily.
 CN PLACEHOLDER
-Но место, где должен был находиться сэндвич, нестабильно колеблется.
+Но место, где должен был находиться бутерброд, нестабильно колеблется.
 
 俺は焦った。事情がわからなかった。%K%P
 I felt flustered. I didn't know what was going on.
@@ -951,7 +951,7 @@ CN PLACEHOLDER
 空「あの、もしかして……倉成さん、ご存じなかったんですか？」%K%P
 Uh, I guess... that you didn't know, Kuranari-san?
 CN PLACEHOLDER
-Э-э, видимо, Куранари-сан... ты не знал?
+Эээ, видимо, Куранари-сан... ты не знал?
 
 空は恥ずかしそうにもじもじしている。%K%P
 Sora was shuffling embarrassedly.
@@ -966,7 +966,7 @@ CN PLACEHOLDER
 優「はあぁ〜〜〜〜っ」%K%P
 *Sigh*...
 CN PLACEHOLDER
-*вздох*
+Хаааааа... *вздох*
 
 優はどうしてだか、俺の隣で大きな溜め息をつく。%K%P
 For some reason, You gave a huge sigh right next to me.
@@ -981,7 +981,7 @@ CN PLACEHOLDER
 優「あははははははははっ♪」%K%P
 AHAHAHAHA〜
 CN PLACEHOLDER
-Ах-ха-ха-ха-ха-ха-ха-ха!
+Ах〜ха〜ха〜ха〜ха〜ха〜ах〜〜, ах〜ха〜ха〜〜!!!
 
 笑い出した。%K%P
 She burst out laughing.
@@ -1001,7 +1001,7 @@ CN PLACEHOLDER
 武「な、何をだよ」%K%P
 Wh-What are you talking about?
 CN PLACEHOLDER
-О-о чём ты говоришь?
+О... О чём ты говоришь?
 
 俺はまだドキドキしていた。%K%P
 I was still confused.
@@ -1016,7 +1016,7 @@ CN PLACEHOLDER
 それはなんだよ
 What about it?
 CN PLACEHOLDER
-И о чём это ты?
+И, о чём это ты?
 
 いや、言うな！　わかった！
 No! Don't say anything! I know!
@@ -1026,7 +1026,7 @@ CN PLACEHOLDER
 武「だっ、だから！　それはなんだよ！」%K%P
 So what!? What about it!?
 CN PLACEHOLDER
-И? О чём это ты?
+Ииии〜? О чём это ты?
 
 見回せば、驚いているのは俺だけだった。%K%P
 Looking around, I saw that I was the only one who was surprised.
@@ -1046,7 +1046,7 @@ CN PLACEHOLDER
 少年はなんだかわからず、ぽかんとしている。%K%P
 The Kid looked clueless and spaced out.
 CN PLACEHOLDER
-Малой выглядит отрешённым.
+Кид выглядит отрешённым.
 
 優「ほんっと、しょうがないなぁ〜」%K%P
 Geez! Oh well.
@@ -1086,7 +1086,7 @@ CN PLACEHOLDER
 武「空は、空はなぁ……」%K%P
 Sora is... Sora is...
 CN PLACEHOLDER
-Сора... Сора...
+Сора...Сора...
 
 武「ずばり！」%K%P
 I've got it!
@@ -1096,7 +1096,7 @@ CN PLACEHOLDER
 武「志半ばで過労死した美人システムエンジニアの幽霊だあーっ！！」%K%P
 Sora's the ghost of a beautiful system engineer that died in the prime of her life with her dreams still unfulfilled!
 CN PLACEHOLDER
-Сора – это призрак красивого системного инженера, что умер в расцвете лет, так и не осуществив своих жизненных мечтаний и надежд!
+Сора - это призрак красивого системного инженера, что умер в расцвете лет, так и не осуществив своих жизненных мечтаний и надежд!
 
 空「違いますよ」%K%P
 No.
@@ -1106,7 +1106,7 @@ CN PLACEHOLDER
 あっさりと言われてしまった。%K%P
 She said it bluntly.
 CN PLACEHOLDER
-Прямо сказала Сора.
+Тупо сказала Сора.
 
 優「倉成〜、全然違うって〜」%K%P
 Kuranari, you're not even warm.
@@ -1121,7 +1121,7 @@ CN PLACEHOLDER
 武「じ、じゃあ、なんだよ。さっさと教えてくれよ……」%K%P
 W-Well then, tell me what she is...
 CN PLACEHOLDER
-Т-тогда объясните мне, что она такое...
+Т-Тогда, объясните мне, что она такое...
 
 見回せば、うろたえているのは俺だけだった。%K%P
 Looking around, I saw that I was the only one who was confused.
@@ -1141,7 +1141,7 @@ CN PLACEHOLDER
 優「空、悪いんだけど、もう一回自己紹介してあげて」%K%P
 Sora, sorry to bother you, but could you introduce yourself again?
 CN PLACEHOLDER
-Сора, прости, что беспокою, но не могла бы ты нам представиться ещё раз?
+Сора, прости, что беспокою, но не могла бы ты нам представиться заново?
 
 空「はい。わかりました」%K%P
 Yes. Of course.
@@ -1156,7 +1156,7 @@ CN PLACEHOLDER
 空は足元のタツタサンドを避けるように、そろりと一歩踏み出すと、そのままこちらに歩み出て、かしこまった。%K%P
 Sora took a step toward us, carefully avoiding the sandwich, and straightened up.
 CN PLACEHOLDER
-Сора сделала шаг нам навстречу, как бы осторожно обходя сэндвич, и выпрямилась.
+Сора сделала шаг нам навстечу, как бы осторожно обходя бутерброд, и выпрямилась.
 
 それから一礼して、言った。%K%P
 After a slight bow, she spoke.
@@ -1166,12 +1166,12 @@ CN PLACEHOLDER
 空「私は、茜ヶ崎空……」%K%P
 I am Akanegasaki Sora...
 CN PLACEHOLDER
-Я Аканэгасаки Сора...
+Я Аканегасаки Сора...
 
 空「正式名称は『ＬＭ−ＲＳＤＳ−４９１３Ａ』と申します」%K%P
 My official name is 'LM-RSDS-4913A'.
 CN PLACEHOLDER
-Моё официальное имя – „LM-RSDS-4913A“.
+Моё официальное имя - 'LM - RSDS - 4913A'.
 
 空「このＬｅＭＵの案内係を仰せつかっている人工知能――いわゆるＡＩプログラムです」%K%P
 I am an artificial intelligence, or AI, program in charge of guiding visitors around LeMU.
@@ -1181,27 +1181,27 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「私はレミ（ＬｅＭＭＩＨ）システム内の機能の一部として組み込まれていますので――」%K%P
 I have been programmed as one part of the LeMMIH system.
 CN PLACEHOLDER
-Я создана как одна из частей системы LeMMIH.
+Я создана, как одна из частей системы ЛеММИХ.
 
 空「手近な端末で呼び出してくだされば、ＬｅＭＵの館内どこにでも、すぐにまいります」%K%P
 If you call me from any nearby terminal, I will soon appear anywhere within LeMU.
 CN PLACEHOLDER
-Если вы вызовете меня с ближайшего терминала, вскоре я появлюсь в любом месте LeMU.
+Если вы вызовите меня с близлежащего терминала, вскоре я появлюсь в любом месте LeMU.
 
 空「また、全館に及ぶ本格的なＲＳＤを採用することで、私の姿形は実現されています。恐らく世界でも珍しいのではないでしょうか」%K%P
 My image reaches you through a network supporting this RSD system throughout the complex. I think that there are few places in the world boasting this kind of technology.
 CN PLACEHOLDER
-Моё изображение транслируется через сеть системы RSD по всему комплексу. Лишь несколько мест в мире могут похвастаться подобной технологией.
+Моё изображение транслируется через сеть RSD системы, по всему комплексу. Лишь несколько мест в мире могут похвастаться подобной технологией.
 
 武「……？？」%K%P
 ...?
 CN PLACEHOLDER
-?..
+.........
 
 つぐみ「ＲＳＤ……確かに珍しいわね。これほどのものは、他では見たことないわ」%K%P
 RSD... This really is rare. I've never seen an example of it this sophisticated.
@@ -1221,17 +1221,17 @@ CN PLACEHOLDER
 空「ええ。どうも、ご心配をおかけしましたね……」%K%P
 Yes. I'm sorry to have caused you undue concern...
 CN PLACEHOLDER
-Да. Простите, что вам пришлось поволноваться...
+Да. Простите, что вам пришлось поволноваться без причины...
 
 いよいよ、わけがわからなくなった。%K%P
 I had finally lost any sense of what was going on.
 CN PLACEHOLDER
-Я окончательно перестал понимать вообще хоть что-либо.
+Я окончательно потерял всякое чувство смысла в творящемся вокруг меня.
 
 話は俺を置き去りにして、勝手に進んでいる。%K%P
 The conversation had taken off and left me behind.
 CN PLACEHOLDER
-Разговор сошёл с колеи, оставив меня в недоумении.
+Разговор сошёл с колеи, а обо мне забыли напрочь.
 
 少年「ＲＳＤって？」%K%P
 What's RSD?
@@ -1246,17 +1246,17 @@ CN PLACEHOLDER
 少年「ああ、なるほどぉ」%K%P
 I... I see...
 CN PLACEHOLDER
-П-понятно...
+П... понятно...
 
 少年は深く頷く。%K%P
 The Kid gave a big nod.
 CN PLACEHOLDER
-Малой сделал глубокий кивок.
+Кид сделал большой кивок.
 
 しかし俺には、ちっとも簡単に言っているようには聞こえなかった。%K%P
 But nothing about her explanation sounded simple to me.
 CN PLACEHOLDER
-Но для меня это звучит ничуть не проще, чем представление Соры.
+Но, для меня это звучит ничуть не проще, чем представление Соры.
 
 つぐみ「それにしても、随分高度な人格を持たされているのね」%K%P
 And it's supporting such an advanced personality.
@@ -1266,7 +1266,7 @@ CN PLACEHOLDER
 意外なことに、つぐみが前に出て積極的に話を始める。%K%P
 The surprising thing was that Tsugumi was actively pursuing the conversation.
 CN PLACEHOLDER
-Но что ещё сильнее не укладывается в моей голове, так это Цугуми – она активно участвует в разговоре.
+Но, что ещё сильней не укладывается в моей голове, так это Цугуми - она активно участвует в разговоре.
 
 空「仮想空間を生み出す技術に、ＬｅＭＵは相当なこだわりを持っていますから。私の存在も、その一環です」%K%P
 LeMU is fairly perfectionist when it comes to virtual space technologies. My existence is one manifestation of that.
@@ -1291,12 +1291,12 @@ CN PLACEHOLDER
 空「ええと……すいません。私の口からは言えません。秘密なんです」%K%P
 Uh... I'm sorry, but I'm not allowed to say. It is a secret.
 CN PLACEHOLDER
-Э-э... мне жаль, но я не имею права об этом рассказывать. Это секрет.
+Эээ... мне жаль, но я не имею права об этом рассказывать. Это секрет.
 
 つぐみ「詳細なデータを持たされてないのね？」%K%P
 You weren't given the details?
 CN PLACEHOLDER
-Тебя не посвятили в подробности?
+Тебя не посветили в подробности?
 
 空「ええ、そうです」%K%P
 That's correct.
@@ -1306,7 +1306,7 @@ CN PLACEHOLDER
 だんだんと専門的な会話になっているような気がするが……。%K%P
 It seemed to me that the conversation was getting more and more technical...
 CN PLACEHOLDER
-Этот разговор стал казаться мне всё более и более техническим...
+Этот разговор стал казаться мне всё более и более техническим....
 
 つぐみ「あなたは『衝動』や『意思』を持ってるみたいだけど。自律した考えを持ってるように見える……」%K%P
 It seems you have motivation and a will of your own. That you're programmed for your own way of thinking...
@@ -1331,12 +1331,12 @@ CN PLACEHOLDER
 空「音声入力による『形態素解析』も、恐らく他に例を見ないレベルで高速かつ正確なものを持っていると思います……」%K%P
 Morphological analysis from my audio input very likely operates at a speed and level of precision without peer.
 CN PLACEHOLDER
-Морфологический анализ с моего аудиовхода происходит на скорости и уровне точности, практически не уступающем человеческому.
+Морфологический анализ с моего аудио входа происходит на скорости и уровне точности, практически не уступающем человеческому.
 
 空「あとはちょっと、特殊な技術を使っている部分がありますね。詳細は、企業秘密ですが……」%K%P
 There are also a number of special technologies used to create me. However, the specifics of these are trade secrets which cannot be revealed...
 CN PLACEHOLDER
-Также во мне задействованы несколько специфичных технологий. Однако они являются индустриальными секретами и не могут быть оглашены...
+Также, во мне задействованы несколько специфичных технологий. Однако, они являются индустриальными секретами и не могут быть оглашены...»%K%P(Индустриальные секреты...?)%K%P(Такое чувство, будто они экспериментировали с человеческими мозгами, чтобы создать Сору...)%K%P
 
 つぐみ「そうね。普通のＡＩではちょっと説明のつかないところが残るけど、まあいいわ。だいたいわかったから」%K%P
 I see. There are things about you that normal AI can't explain, but I think I get the picture.
@@ -1346,12 +1346,12 @@ CN PLACEHOLDER
 やはり、俺にはよく理解できない。%K%P
 I really didn't get it at all.
 CN PLACEHOLDER
-И всё же я так ничего и не понял.
+И всё же, я так ничего и не понял.
 
 頭痛がするばかりだ。%K%P
 It was a headache more than anything.
 CN PLACEHOLDER
-От этих разговоров у меня голова разболелась.
+Это была самая натуральная головная боль.
 
 つぐみ「ところで……空」%K%P
 By the way... Sora...
@@ -1366,17 +1366,17 @@ CN PLACEHOLDER
 武「はぁ？」%K%P
 Huh?
 CN PLACEHOLDER
-Ч-чего?
+Ч-Чего?
 
 つぐみはわけのわからないことを訊き始めた。%K%P
 Tsugumi tossed that bizarre question out of nowhere.
 CN PLACEHOLDER
-Цугуми начала ни с того ни с сего задавать безумные вопросы.
+Из ниоткуда Цугуми бросила сей причудливый вопрос.
 
 つぐみ「邪魔しないで……私は空に訊いてるの。どう、信じる？」%K%P
 Don't anybody jump in just yet... I'm asking Sora. So, would you believe me?
 CN PLACEHOLDER
-Всех остальных прошу помолчать... Я спрашиваю Сору... Итак, ты мне веришь?
+Всех остальных прошу помолчать...... Я спрашиваю Сору......... Итак, ты мне веришь?
 
 空「いいえ」%K%P
 No.
@@ -1396,7 +1396,7 @@ CN PLACEHOLDER
 つぐみ「私は独身なの。これからもたぶんそうね、主義だから」%K%P
 I'm single. I'll probably stay that way. It's what I believe.
 CN PLACEHOLDER
-Я не замужем. И, наверное, так и останусь. По крайней мере, я так думаю.
+Я не замужем. И наверно так и останусь. По крайней мере, я так думаю.
 
 空「ええ、そうかもしれませんね」%K%P
 That might well be true.
@@ -1406,7 +1406,7 @@ CN PLACEHOLDER
 つぐみ「実はね、武は３年前に性転換して男になったの。ほんとよ。さっき聞いたの」%K%P
 Actually, I just learned that Takeshi had a sex change three years ago. It's true.
 CN PLACEHOLDER
-А ещё недавно я поняла, что три года назад Такэси сменил пол. Это правда.
+А ещё, недавно я поняла, что три года назад Такеши сменил пол. Это правда.
 
 空「それはさすがに、信じられません」%K%P
 That I cannot believe.
@@ -1416,12 +1416,12 @@ CN PLACEHOLDER
 つぐみ「ふふっ、あなた……本当に優秀みたいね」%K%P
 Heehee... You really are quite amazing.
 CN PLACEHOLDER
-Хе-хе... Ты и правда удивительная.
+Хее〜хее... Ты и правда удивительная.
 
 つぐみは少し笑った。%K%P
 Tsugumi laughed a little.
 CN PLACEHOLDER
-Цугуми слегка посмеялась.
+Цугуми легко усмехнулась.
 
 武「な、なぁつぐみ、どういうことだ？」%K%P
 H-Hey, Tsugumi, whaddya think you're doing?
@@ -1451,7 +1451,7 @@ CN PLACEHOLDER
 つぐみ「さらに、与えられたデータを比較参照するだけでなく、『運』や『勘』の要素も取り入れて、自律判断ができる」%K%P
 She can. She does more than compare and reference data with data in her memory. She's been programmed to factor in 'chance' and 'intuition' to make her own judgments.
 CN PLACEHOLDER
-Она может. Может нечто большее, чем сравнивать и ссылаться на данные банка памяти. Ей не чужды такие понятия, как „вероятность“ и „интуиция“, по ним она и делает суждения.
+Она может. Может нечто большее, чем сравнивать и ссылаться на данные банка памяти. Ей не чужды такие понятия, как 'вероятность' и 'интуиция', по ним она и делает суждения.
 
 つぐみ「コンピューターが自分で取捨選択をして、データを更新して、プログラムを書き換え、効率化されていく……」%K%P
 The system is designed to make choices based on updated information and boost its efficiency by rewriting itself.
@@ -1476,7 +1476,7 @@ CN PLACEHOLDER
 空「でも、自分が嘘をつくのは下手なんです……そちらの機能はまだまだ未発達なんですよ」%K%P
 But I am not very good at lying... My lying function is underdeveloped.
 CN PLACEHOLDER
-Но мне плохо удаётся врать... Эта функция недоразвита.
+Но, мне плохо удаётся врать... Эта функция недоразвита.
 
 空は微笑んだ。%K%P
 Sora smiled.
@@ -1486,17 +1486,17 @@ CN PLACEHOLDER
 武「でもさぁ、空は自己紹介のときに『システムエンジニアだ』って名乗ってたろ？　あれは嘘じゃないのか？」%K%P
 But when you introduce yourself, you say that you're a 'system engineer'. That's a lie, isn't it?
 CN PLACEHOLDER
-Но когда ты представлялась нам, то назвала себя системным инженером. Это ведь ложь, так?
+Но, когда ты представлялась нам, то назвала себя системным инженером. Это ведь ложь, не так ли?
 
 空「あれは、ただの『設定』です。私に設定されたプロフィールがそういうことになっている、というだけです」%K%P
 That is simply a 'setting' of mine. That is how my profile in the mainframe computer reads.
 CN PLACEHOLDER
-Это просто одно из моих „состояний“. Так читается мой профиль на мейнфрейме, главном компьютерном терминале.
+Это просто одно из моих 'состояний'. Так читается мой профиль на мейнфрейме, главном компьютерном терминале.
 
 武「……そ」%K%P
 ...Oh.
 CN PLACEHOLDER
-...О-о.
+...ого.
 
 武「そうだったのか……」%K%P
 So that's how it works.
@@ -1506,7 +1506,7 @@ CN PLACEHOLDER
 結局、空の正体がＡＩであることに驚きまくっていたのは、俺だけだった。%K%P
 In the end, I seemed to be the only one who was flabbergasted that Sora was the product of AI.
 CN PLACEHOLDER
-В конце концов, выяснилось, что я один ошарашен тем, что Сора – ИИ.
+В конце концов, выяснилось, что я один ошарашен тем, что Сора - ИИ.
 
 優はＬｅＭＵのスタッフだから当然、空のことは知っていた。%K%P
 You was an employee at LeMU, so of course she knew.
@@ -1521,12 +1521,12 @@ CN PLACEHOLDER
 ココは空がホログラフィックだろうがなんだろうが、全然気にしていないみたいだ。楽しげに、ピピを交えて笑い合っている。%K%P
 Coco didn't seem to care one way or the other whether Sora was a hologram or not. She was just laughing and playing with Pipi.
 CN PLACEHOLDER
-Коко, похоже, вообще всё равно – голограмма Сора или нет. Она просто веселится, играя с Пипи.
+Коко, похоже, вообще всё равно - голограмма Сора или нет. Она просто веселится, играя с Пипи.
 
 少年がちっとも驚かないのは、まぁ、ある意味仕方がない……。%K%P
 That the Kid didn't seem surprised, well, I put that down to his circumstances...
 CN PLACEHOLDER
-Ну а то, что Малой не удивлён, я списал на его текущее состояние...
+Ну, а то что Кид не удивлён, я списал на его текущее состояние...
 
 数時間が経過した。%K%P
 Several hours passed.
@@ -1541,12 +1541,12 @@ CN PLACEHOLDER
 もっとも、この深い海中では、ほとんど時間の感覚が薄れてしまっていた。%K%P
 In the dark depths of the ocean, my sense of time had eroded.
 CN PLACEHOLDER
-Глубоко в океане моё чувство времени почти исчезло.
+Глубоко в океане моё чувство времени рассыпалось, как сломанные песочные часы.
 
 ＰＤＡで時刻を確認して、やっと今が夕方であることがわかる。%K%P
 I checked the time on my PDA, finally making sure it was night.
 CN PLACEHOLDER
-Я проверил время на своём КПК, убедившись, что уже наступила ночь.
+Я проверил время на своём наладоннике, убедившись, что уже наступила ночь.
 
 ＬｅＭＵの状況は変わっていない。%K%P
 Nothing changed in LeMU.
@@ -1561,12 +1561,12 @@ CN PLACEHOLDER
 しかし、悪くなってもいない。今のところ、浸水や倒壊の危険は感じられなかった。%K%P
 But things hadn't taken a turn for the worse, either. There didn't seem to be any impending danger of floor collapse.
 CN PLACEHOLDER
-Но во всяком случае ничего плохого не случилось. Ничто не предвещает нового потопа.
+Но, ничего плохого не случилось тем более. Ничто не предвещает нового потопа.
 
 あれからめいめいに、思い思いの時を過ごしていた。%K%P
 We each spent the time as we pleased.
 CN PLACEHOLDER
-Все мы проводим время по своему усмотрению.
+Все мы проводим время по собственному усмотрению.
 
 誰もが『ここから出られない』ということを、しばし忘れていた。%K%P
 We had long forgotten that we were trapped.
@@ -1586,7 +1586,7 @@ CN PLACEHOLDER
 空がＡＩであること……。%K%P
 Sora was an AI...
 CN PLACEHOLDER
-Сора – ИИ...
+Сора - ИИ...
 
 ＲＳＤとはいったい何なのか。%K%P
 I wanted to know what RSD was.
@@ -1596,7 +1596,7 @@ CN PLACEHOLDER
 気にしなくても済むことかもしれないが、もう少し訊いておきたかった。%K%P
 It might have been something I shouldn't have even bothered worrying about, but I wanted to ask Sora about it.
 CN PLACEHOLDER
-Может, это то, за что мне даже не следует переживать, но я решил её расспросить.
+Может это то, о чём мне даже не следует беспокоиться, но я решил её расспросить.
 
 曖昧なままでいると、空に対して、どう接したらいいのかを見失ってしまうような――そんな錯覚を感じていた。%K%P
 Without really understanding what she was all about, I didn't think I would know how to act around Sora.
@@ -1611,7 +1611,7 @@ CN PLACEHOLDER
 武「なんだか、興味が湧いてね……空について、いろいろ知りたいんだ」%K%P
 You got my interest piqued... and I want to know more about you.
 CN PLACEHOLDER
-Мне стало интересно... Я просто хочу знать больше о тебе.
+Ты разожгла моё любопытство...и я просто хочу знать больше о тебе.
 
 空「わかりました。お答えします」%K%P
 I understand.
@@ -1621,7 +1621,7 @@ CN PLACEHOLDER
 空「といっても、専門用語を並べ立てるのはあまり意味がありませんね。余計にわけがわからなくなってしまうかもしれません」%K%P
 But rattling off a bunch of jargon won't do much good, will it? I might just confuse you more.
 CN PLACEHOLDER
-Но если я начну сыпать кучей терминов, ничего хорошего не получится, правда? Ты просто ещё сильнее запутаешься.
+Но, если я начну сыпать кучей терминов, ничего хорошего не получится, правда? Ты просто ещё сильнее запутаешься.
 
 武「まぁ、俺は技術者じゃないしな。いきなり難しいことを言われても困る」%K%P
 Well, I'm no technician. If you start throwing out a bunch of technical terms, I'll just get lost.
@@ -1631,12 +1631,12 @@ CN PLACEHOLDER
 空「あっ、それでさっき、小町さんと私が話していたときに……困っていらしたんですか？」%K%P
 I see. So you were completely 'lost' when I was conversing with Komachi-san?
 CN PLACEHOLDER
-Понимаю. Значит, ты „выпал в осадок“, когда я разговаривала с Комати-сан?
+Понимаю. Значит ты 'полностью выпал в осадок', когда я разговаривала с Комачи-сан?
 
 武「そうそう、そうだよ。はははっ、まいったなぁ……」%K%P
 Yeah. I had no clue what you two were saying...
 CN PLACEHOLDER
-Ну, слушай, аха-ха, типа вот...
+Ага. Стоял там как даун и хлопал ушами...
 
 俺は鼻の頭を掻く。%K%P
 I scratched my head.
@@ -1651,27 +1651,27 @@ CN PLACEHOLDER
 空「あっ、すいません……私、言いかたを間違えましたか？」%K%P
 Oh, I'm sorry... Did I say something wrong?
 CN PLACEHOLDER
-Ой, прости... Я сказала что-то не то?
+Ой, прости...я сказала что-то не то?
 
 空は申し訳なさそうにした。%K%P
 Sora looked apologetic.
 CN PLACEHOLDER
-Сора выглядит виноватой.
+Сора выглядит удручённо.
 
 武「いや、いいんだよ。今のはナイスツッコミだ」%K%P
 No, that was a good comeback.
 CN PLACEHOLDER
-Нет, ты хорошо подколола.
+Нет, это был хороший тычок.
 
 空「ないすつっこみ？」%K%P
 A good comeback?
 CN PLACEHOLDER
-Хорошо подколола?
+Хороший тычок?
 
 空「ないすつっこみって、何です？」%K%P
 What is a good comeback?
 CN PLACEHOLDER
-Что значит „хорошо подколола“?
+Что такое хороший тычок?
 
 空はきょとんとした。%K%P
 Sora looked confused.
@@ -1681,12 +1681,12 @@ CN PLACEHOLDER
 武「ああ……的確に鋭く、相手の弱点をついたってこと」%K%P
 Uh... It's when you say something to needle the person you're talking with or make a sharp or witty comment that makes them feel awkward.
 CN PLACEHOLDER
-Э-э... Ну, когда ты говоришь то, что задевает человека, или как бы невзначай...»%K%PТакэси«...делаешь едкий комментарий об одной из его слабых черт, и от этого он чувствует себя неуютно.
+Ээ...ну, тычок или подкол. Когда ты говоришь то, что задевает человека или, как бы невзначай...»%K%PТакеши«...делаешь едкий комментарий об одной из его слабых черт и от этого он чувствует себя неуютно.
 
 空「あっ、そうなんですか。ごめんなさい、倉成さん」%K%P
 Uh, I see. I'm really sorry, Kuranari-san.
 CN PLACEHOLDER
-А, понятно. Боже мой, мне правда жаль, Куранари-сан.
+Эээ, понятно. Боже мой, мне правда жаль, Куранари-сан.
 
 武「謝らなくていいんだってば。俺は傷ついたわけじゃないんだから」%K%P
 You don't have to apologize. It didn't hurt my feelings or anything.
@@ -1706,7 +1706,7 @@ CN PLACEHOLDER
 空「ええと、ええと、相手に弱点を突かれたけど、面白かった……？」%K%P
 Uh, uh... Making a person feel awkward... is funny?
 CN PLACEHOLDER
-Э-э, э-э... заставлять человека чувствовать себя неуютно... забавно?
+Ээ, ээ...заставлять человека чувствовать себя неуютно...забавно?
 
 空「それって、矛盾してませんか？」%K%P
 That seems to be a contradiction.
@@ -1721,7 +1721,7 @@ CN PLACEHOLDER
 空「少し難しいですね。困りました。どういうのがナイスツッコミなんでしょう……」%K%P
 That's difficult. It is hard for me to comprehend the concept of 'nice comeback'...
 CN PLACEHOLDER
-Это трудно. Я не могу сформировать представление о „хорошем подколе“...
+Это трудно. Я не могу сформировать представление о 'хорошем тычке'...
 
 武「悩まなくていいよ」%K%P
 Forget about it.
@@ -1736,17 +1736,17 @@ CN PLACEHOLDER
 もしも缶コーラを投げ落とさなかったら、俺はずっと空のことを人間だと思っていただろうか……？%K%P
 I wondered if I would still be thinking that Sora was human if I hadn't tossed that can of cola to her...
 CN PLACEHOLDER
-Наверное, если бы я не подбросил ту банку с колой, то по-прежнему бы думал, что Сора – человек...
+Наверно, если бы я не подбросил ту банку с колой, то по-прежнему думал, что Сора - человек...
 
 武「ええと、話を戻すけど……ＲＳＤについて教えて欲しいんだ」%K%P
 Uh, to get back to what we were talking about... Can you tell me more about RSD?
 CN PLACEHOLDER
-Э-э, возвращаясь к тому, о чём мы говорили... Можешь рассказать мне об RSD?
+Ээ, возвращаясь к тому, о чём мы говорили... можешь рассказать мне об RSD?
 
 空「ええ。そうですね……実際に、例を示しながら説明しますね」%K%P
 Yes. Let's see... Let me try to explain using specific examples.
 CN PLACEHOLDER
-Хорошо. Так... Позволь мне попытаться объяснить наглядно.
+Хорошо. Так.... Позволь мне попытаться объяснить наглядно.
 
 武「おう、頼む」%K%P
 Yes please.
@@ -1756,7 +1756,7 @@ CN PLACEHOLDER
 俺と空は制御室を出て、憩いの間に向かった。%K%P
 Sora and I headed from the control room to the rest area.
 CN PLACEHOLDER
-Мы с Сорой вышли из Центра управления и направились в сторону мини-парка.
+Мы с Сорой вышли из Центра Управления и направились в сторону мини-парка.
 
 歩きながら、空は語り始める。%K%P
 As we walked, Sora started speaking.
@@ -1806,7 +1806,7 @@ CN PLACEHOLDER
 武「おおっ！？」%K%P
 Whoooaa!
 CN PLACEHOLDER
-А-а-а-а-а-а-а!
+Ааааааа!
 
 空の手は、なんの抵抗もなく俺の胸の中に、ずぶずぶと入り込んだ。%K%P
 Sora's hands slipped into my chest without resistance.
@@ -1836,7 +1836,7 @@ CN PLACEHOLDER
 空「しかし私は、実際に倉成さんの隣にいるわけではありません」%K%P
 However, I am not right next to you.
 CN PLACEHOLDER
-Однако я не рядом с тобой.
+Однако, я не рядом с тобой.
 
 そう言って、空は手を引っ込める。%K%P
 Saying that, Sora pulled her hand back.
@@ -1846,22 +1846,22 @@ CN PLACEHOLDER
 空「ＲＳＤ――レティナルスキャニングディスプレイ。網膜走査による表示装置です」%K%P
 RSD stands for Retinal Scanning Display.
 CN PLACEHOLDER
-RSD расшифровывается как „Retinal Scanning Display“ (Ретинальный Сканирующий Дисплей).
+RSD расшифровывается как Ретинальный Сканирующий Дисплей.
 
 空「この表示装置には、表示部がありません」%K%P
 The display device is not actually a display.
 CN PLACEHOLDER
-Но сам по себе дисплеем он не является.
+Но, сам по себе дисплеем он не является.
 
 空「網膜に向けて、出力の弱いレーザーが照射されているのです」%K%P
 Rather, a weak laser is aimed at the retina.
 CN PLACEHOLDER
-Маломощный лазер направляется на сетчатку.
+Напротив, на сетчатку лишь нацелен слабый лазер.
 
 武「網膜？　俺の目ん玉に？」%K%P
 Retina? You mean my eye?
 CN PLACEHOLDER
-Сетчатку? То есть на мой глаз?
+Сетчатка? То есть, на мой глаз?
 
 空「はい」%K%P
 Yes.
@@ -1906,7 +1906,7 @@ CN PLACEHOLDER
 武「じゃあ、声は？」%K%P
 Well, what about your voice?
 CN PLACEHOLDER
-А как же твой голос?
+Тогда, как же твой голос?
 
 武「空の声は、ちゃんと空のいる場所から、空の口元から発してるように聞こえるけど？」%K%P
 It sounds like your voice is coming from where your mouth appears.
@@ -1916,7 +1916,7 @@ CN PLACEHOLDER
 憩いの間に着くと、近くのベンチに腰を下ろした。%K%P
 We arrived at the rest area, and I sat on a nearby bench.
 CN PLACEHOLDER
-Мы пришли в мини-парк, и я сел на скамейку рядом.
+Мы пришли в мини-парк и я сел на ближайшую скамейку.
 
 空は俺の前に立ったままだ。%K%P
 Sora continued standing in front of me.
@@ -1926,7 +1926,7 @@ CN PLACEHOLDER
 武「なぁ、空も座りなよ」%K%P
 Sora, why don't you sit down?
 CN PLACEHOLDER
-Сора, может, присядешь?
+Сора, может присядешь?
 
 空「私、疲れませんから。立ったままで平気です」%K%P
 I don't get tired, so I'm fine standing.
@@ -1941,7 +1941,7 @@ CN PLACEHOLDER
 空「そうですか？　では、失礼します……」%K%P
 Is that right? Then excuse me...
 CN PLACEHOLDER
-Вот как? Тогда прости, пожалуйста...
+Вот как? Тогда, прости пожалуйста...
 
 空はゆっくりと、俺の左側に腰を下ろす。%K%P
 Sora slowly sat down to the left of me.
@@ -1951,7 +1951,7 @@ CN PLACEHOLDER
 ベンチにかかる重みを感じない……。%K%P
 I didn't feel the bench move under her weight...
 CN PLACEHOLDER
-Я не почувствовал, чтобы скамейка шелохнулась под её весом...
+Я не почувствовал, чтобы скамейка шелохнулась под её весом....
 
 それでも、確かに空は座っていた。%K%P
 But looking at her, she was definitely sitting.
@@ -1991,22 +1991,22 @@ CN PLACEHOLDER
 空「そのとき、音楽はどこで鳴ってるように聴こえましたか？」%K%P
 When you do, where does it sound like the music is coming from?
 CN PLACEHOLDER
-Когда ты это делал, откуда, по-твоему, слышалась музыка?
+Когда ты это делал, откуда по-твоему слышалась музыка?
 
 武「う〜ん、頭の、中かな？」%K%P
 Hmmm. Inside my head, I guess.
 CN PLACEHOLDER
-Хм-м-м. Казалось, будто она исходит изнутри моей головы.
+Хммм. Казалось, будто она исходит изнутри моей головы.
 
 空「そうですよね。大抵の人は、音が後頭部の中心辺りで鳴っているように聞こえるはずです」%K%P
 That's right. Most people hear the sound as if it is reverberating inside the center of their head, toward the back.
 CN PLACEHOLDER
-Всё верно. Большинство слышит звук так, словно он отражается внутри головы по центру ближе к затылку.
+Именно так. Большинство людей слышат звук так, словно он отражается внутри середины головы относительно затылка.
 
 空「でも、実際には、音が頭の中で鳴っているわけではない」%K%P
 But the sound is not actually coming from inside your head.
 CN PLACEHOLDER
-Но на самом же деле звук не исходит из твоей головы.
+Но, на самом же деле звук не исходит из твоей головы.
 
 武「まぁ、そりゃそうだな」%K%P
 I guess not.
@@ -2016,27 +2016,27 @@ CN PLACEHOLDER
 空「これを応用して、左右の音量調節、及び、反響音のシミュレートを的確に行うことができれば……」%K%P
 But if you could apply this knowledge and adjust the volume from the left and the right to accurately simulate this reverberating sound...
 CN PLACEHOLDER
-Но если применить эти знания и регулировать громкость звука в левом и правом каналах так, чтобы точно имитировать отражение звука...
+Но, если ты сможешь применить эти знания и поменять звук в левом и правом канале так, чтобы аккуратно имитировать отражение звука...
 
 空「前後左右上下、どの方角からでも音が聞こえているように錯覚させることができます」%K%P
 Then you could create the illusion that a sound was coming from above or below, left or right, any direction.
 CN PLACEHOLDER
-То можно создать иллюзию того, что звук доносится из любого направления – сверху или снизу, слева или справа.
+Тогда ты сможешь создать иллюзию того, что звук исходит из любой точки пространства - сверху или снизу, слева или справа.
 
 武「なるほど。ってことは、この音声変換機が！」%K%P
 I see. Oh... So you mean the voice converters!
 CN PLACEHOLDER
-Понятно. Э-э... погоди, так ты про модификаторы голоса!
+Понятно. Ээ...погоди, так ты про модификаторы голоса!
 
 俺は両耳につけたままだった、小指の先程度の大きさのイヤホンを外した。%K%P
 I still had both of them in my ears. I removed them. They were about the size of the tip of my little finger.
 CN PLACEHOLDER
-Они всё ещё у меня в ушах. Я вынул их. Размером они где-то с мой мизинец.
+Они всё ещё надеты в моих ушах. Я вынул их. Размером они где-то с мой мизинец.
 
 俺の目の前で、空は口だけを動かしている。%K%P
 In front of me, Sora's mouth moved soundlessly.
 CN PLACEHOLDER
-Прямо передо мной Сора беззвучно двигает ртом.
+Рядом со мной, рот Соры двигается беззвучно.
 
 声はまるっきり聞こえない。%K%P
 It was like I couldn't hear her voice.
@@ -2051,7 +2051,7 @@ CN PLACEHOLDER
 武「あ、あれっ？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 再び変換機を装着すると、空の姿はすぐ元通りになった。%K%P
 When I replaced the voice converters, Sora returned to normal.
@@ -2071,7 +2071,7 @@ CN PLACEHOLDER
 空「レミはそれを常に、館内のセンサーと変換機からのデータを用いて、ミリ単位で計測しています」%K%P
 LeMMIH is constantly using sensors around the complex that monitor the position of the voice converters to the millimeter.
 CN PLACEHOLDER
-LeMMIH использует сенсоры по всему комплексу. Они следят за местонахождением модификаторов голоса с погрешностью в один миллиметр.
+ЛеММИХ использует сенсоры по всему комплексу. Они следят за местонахождением модификаторов голоса с погрешностью в один миллиметр.
 
 空「ですから私が、倉成さんの背後２０ｍの位置にいるときには……」%K%P
 So that when I am 20 meters behind you...
@@ -2096,32 +2096,32 @@ CN PLACEHOLDER
 武「下に……いるとき？」%K%P
 Under...? When you're under...?
 CN PLACEHOLDER
-Подо мной... Когда ты подо мной?..
+П-п-подо мной...к-когда ты подо мной...?
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「えーと」%K%P
 Um, well...
 CN PLACEHOLDER
-Э-э, ну...
+Ээ, ну...
 
 空「とにかく、そういうことなんです！　わかりました？」%K%P
 Anyway, that is how it works. Do you understand?
 CN PLACEHOLDER
-В общем, вот как это работает. Всё ясно?
+В общем, вот как это работает. Ты понимаешь?
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「倉成さん、今度は、ちょっと左を向いてみてください」%K%P
 Kuranari-san, now try to face a little to the left.
@@ -2136,17 +2136,17 @@ CN PLACEHOLDER
 空は立ち上がり、俺の右側に廻った。%K%P
 Sora stood and moved around to my right.
 CN PLACEHOLDER
-Сора встала и присела справа.
+Сора встала и пересела справа.
 
 空「さっき私は、レミが倉成さんの位置と向きを常に把握していると言いましたが……」%K%P
 Just a moment ago, I said that LeMMIH is constantly monitoring your position and the direction you are facing...
 CN PLACEHOLDER
-Помнишь, я сказала, что LeMMIH постоянно следит за твоим местоположением и тем, куда ты смотришь...
+Помнишь, я сказала, что ЛеММИХ постоянно следит за твоим местоположением и тем, куда ты смотришь...
 
 空「同時に、倉成さんの眼球の動きと位置も、常に計測し、入力しているのです」%K%P
 At the same time, LeMMIH is also monitoring the position of your eyeballs.
 CN PLACEHOLDER
-В то же время, LeMMIH следит и за положением твоих глазниц.
+В то же время, ЛеММИХ следит и за положением твоих глазниц.
 
 空「ですから、倉成さんが動いても、私は同じ場所に立っているように見えます」%K%P
 So that even if you move, I still appear in the same place.
@@ -2156,7 +2156,7 @@ CN PLACEHOLDER
 空「そう見えるような画像を、レミがスキャン（走査）している、ということです」%K%P
 This means that LeMMIH scans the image onto your eye in this way.
 CN PLACEHOLDER
-Это значит, что LeMMIH ещё и сканирует изображение в твоём глазе.
+Это значит, что ЛеММИХ ещё и сканирует изображение в твоём глазе.
 
 武「じゃあ空は、突然消えたり、瞬間的に別の場所に移動したり、なんてこともできるってわけか？」%K%P
 So you can be made to suddenly disappear or reappear in another place?
@@ -2171,7 +2171,7 @@ CN PLACEHOLDER
 武「……い、いや……遠慮しとくよ」%K%P
 ...No... I think I'll pass.
 CN PLACEHOLDER
-Нет... лучше не надо.
+...Нет...лучше не надо.
 
 するとそこに、誰かが走り寄って来る音が聞こえた。%K%P
 I heard someone come running up to us.
@@ -2181,7 +2181,7 @@ CN PLACEHOLDER
 ココ「あ、たけぴょんたけぴょーん！」%K%P
 Oh, Takepyon!
 CN PLACEHOLDER
-Ох, Такэпён, Такэпён!
+Ох, Такепён, Такепён!
 
 ピピ「わんわん！」%K%P
 *Bow-wow*!
@@ -2196,7 +2196,7 @@ CN PLACEHOLDER
 ココ「ねぇねぇ、たけぴょん？　空さん見なかった？」%K%P
 Hey, Takepyon, have you seen Sora-san around?
 CN PLACEHOLDER
-Эй, Такэпён, ты тут Сору поблизости не видел?
+Эй, Такепён, ты тут Сору поблизости не видел?
 
 武「何言ってんだよ、ココ。空なら、お前のすぐ目の前に……」%K%P
 What're you talking about? She's right in front of you...
@@ -2226,7 +2226,7 @@ CN PLACEHOLDER
 ココ「んー……」%K%P
 Hmmmm...
 CN PLACEHOLDER
-Хм-м-м-м...
+Хмммм...
 
 ココ「まあいいや、また後でね」%K%P
 Oh well. See you later.
@@ -2261,7 +2261,7 @@ CN PLACEHOLDER
 武「ココの網膜には画像が照射されていなかった、そういうことか」%K%P
 So your image wasn't being scanned onto her retina.
 CN PLACEHOLDER
-Значит, ты не проецировалась на её сетчатку.
+Значит ты не проецировалась на её сетчатку.
 
 空「さすが、呑み込みが早いですね」%K%P
 There you go. You're quick to pick it up.
@@ -2271,7 +2271,7 @@ CN PLACEHOLDER
 空「通常、私の姿は、ここにいる５人の方の網膜に映し出されています」%K%P
 Normally, my image is scanned on the eyes of all five of you.
 CN PLACEHOLDER
-Обычно моё изображение проецируется на глаза каждого из вас пятерых.
+Обычно, моё изображение проецируется на глаза каждого из вас пятерых.
 
 空「同じ場所にいて、同じ動きをして、同じことをしゃべっているように整合性を保ちながら……」%K%P
 It is coordinated so that it looks to everyone like I am in the same place, doing the same movement, and saying the same thing...
@@ -2281,7 +2281,7 @@ CN PLACEHOLDER
 空「だけど、そうではないように見せることも可能なのです」%K%P
 But it is also possible to show you something else.
 CN PLACEHOLDER
-Но также возможно показать каждому из вас и нечто иное.
+Но, также возможно показать каждому из вас и нечто иное.
 
 空「例えば……」%K%P
 For example...
@@ -2306,7 +2306,7 @@ CN PLACEHOLDER
 武「ココには、あの花壇の前に空がいるように見えてるのか」%K%P
 Oooh, so to Coco, it looks like Sora is in front of that flowerbed, huh?
 CN PLACEHOLDER
-Хм-м-м, выходит, Коко видит, что Сора находится у этой клумбы?
+Хммм, выходит, Коко видит, что Сора находится у этой клумбы?
 
 武「って、あれ？　空？」%K%P
 Hey? Sora?
@@ -2331,7 +2331,7 @@ CN PLACEHOLDER
 ココ「ああ、あれを持ってくればいいのね？」%K%P
 Oh, I see. You want me to bring it?
 CN PLACEHOLDER
-А-а, понятно. Хочешь, чтобы я принесла сюда?
+Аа, понятно. Хочешь, чтобы я принесла сюда?
 
 相変わらず、ココは花壇との会話を続けている。%K%P
 Coco was continuing her conversation with Sora.
@@ -2346,7 +2346,7 @@ CN PLACEHOLDER
 ココはどこかへ走り去って行く。ピピがその後を追った。%K%P
 Coco ran off somewhere. Pipi followed her.
 CN PLACEHOLDER
-Коко куда-то убежала. Пипи хвостиком побежал за ней.
+Коко куда-то убежала. Пипи, как хвостик, побежал за ней.
 
 空「こういうこともできるわけです」%K%P
 So I can do this kind of thing as well.
@@ -2356,17 +2356,17 @@ CN PLACEHOLDER
 突然、目の前に空が現れた。%K%P
 Sora suddenly appeared before me.
 CN PLACEHOLDER
-Сора неожиданно появилась передо мной.
+Неожиданно Сора появилась передо мной.
 
 武「おおっ！」%K%P
 Waaaa!
 CN PLACEHOLDER
-А-а-а-а-а!
+Ааааа!
 
 武「なんか……幽霊みたいだな」%K%P
 It's kind of like... you're a ghost.
 CN PLACEHOLDER
-Знаешь, выглядит так... будто ты призрак.
+Это больше похоже на...словно ты призрак.
 
 空「ええ、よく言われます」%K%P
 Yes. I hear that a lot.
@@ -2391,7 +2391,7 @@ CN PLACEHOLDER
 武「ふーん……なるほどねぇ……」%K%P
 Hmmm... Now I get it...
 CN PLACEHOLDER
-Хм-м-м... Теперь до меня дошло...
+Хммм... Теперь до меня дошло...
 
 武「ところで、ちょっと気になったことがあるんだけど」%K%P
 But there is something that bothers me.
@@ -2421,7 +2421,7 @@ CN PLACEHOLDER
 空「しかし私の場合、それはできない仕様になっています」%K%P
 However, the way that I am designed, I can't do that.
 CN PLACEHOLDER
-Однако то, как я разработана, не позволяет мне это делать.
+Однако, то как я разработана, не позволяет мне это делать.
 
 武「どうして？」%K%P
 Why not?
@@ -2436,7 +2436,7 @@ CN PLACEHOLDER
 空「世界中に『空』という存在はたったひとりしかいない」%K%P
 So that there is only one 'Sora' in the world.
 CN PLACEHOLDER
-Что в этом мире существует лишь одна „Сора“.
+Что в этом мире существует лишь одна 'Сора'.
 
 空「そういう設定にしておかないと、お客様の中には混乱なされる方もいらっしゃいますし」%K%P
 Without that kind of setting, visitors would get confused.
@@ -2461,7 +2461,7 @@ CN PLACEHOLDER
 空「そう言えば『ユナイテッド・ランド』のキャラクターも同様だと聞いたことがありますね」%K%P
 That reminds me, I have heard the same thing about the 'United Land' characters.
 CN PLACEHOLDER
-Я тут вспомнила, что слышала то же самое о персонажах „Объединённой Земли“.
+Я тут вспомнила, что слышала то же самое о персонажах 'Объединённой Земли'.
 
 空「館内に着ぐるみのマスコットは１体ずつ」%K%P
 There is only one of each character in the park.
@@ -2471,12 +2471,12 @@ CN PLACEHOLDER
 空「物語の中と同じように……同じ種類のキャラクターが２箇所に存在しないように、配慮されているそうですよ」%K%P
 Like in a story... there can't be any one character in two places at the same time...
 CN PLACEHOLDER
-Как в рассказе... один и тот же персонаж не может быть в двух местах одновременно...
+Как в рассказе...один и тот же персонаж не может быть в двух местах одновременно...
 
 仕事がまだ残っているという空を、俺は制御室に送っていくことにした。%K%P
 Sora had more work to do, so I saw her to the control room.
 CN PLACEHOLDER
-Соре предстояла ещё куча работы, поэтому я проводил её до Центра управления.
+Соре предстояла ещё куча работы, поэтому я проводил её до Центра Управления.
 
 瞬間移動できる空が、わざわざ歩いていくのは奇妙だが……%K%P
 It seemed strange that Sora, who could teleport anywhere instantly, was walking...
@@ -2486,7 +2486,7 @@ CN PLACEHOLDER
 もしかしたら、俺に合わせてくれたのかもしれない。%K%P
 Maybe she was doing it to humor me.
 CN PLACEHOLDER
-Наверное она просто захотела развеселить меня.
+Наверно она просто захотела развеселить меня.
 
 武「ところで、レーザー光が網膜を走査してるってことは……」%K%P
 I was wondering about the laser retina scan...
@@ -2511,12 +2511,12 @@ CN PLACEHOLDER
 空「ほとんどどこにいても、私の姿を見る、見せることは可能なはずです」%K%P
 So, almost no matter where you are, I can be displayed.
 CN PLACEHOLDER
-Поэтому не важно, где ты находишься – я могу быть отображена.
+Поэтому, не важно где ты находишься - я могу быть отображена.
 
 武「つまり、死角は存在しない……」%K%P
 So there are no blind spots...
 CN PLACEHOLDER
-То есть здесь нет мёртвых зон...
+То есть, здесь нет мёртвых зон...
 
 空「そういう設計になっています」%K%P
 That's the way it is designed.
@@ -2526,7 +2526,7 @@ CN PLACEHOLDER
 空「けれど、致命的な欠点がひとつだけあります」%K%P
 However, there is one major flaw.
 CN PLACEHOLDER
-Однако есть один недостаток.
+Однако, есть один недостаток.
 
 武「欠点？」%K%P
 Flaw?
@@ -2541,7 +2541,7 @@ CN PLACEHOLDER
 空「誰かに『見』られることによって、初めて具現化することができるのです」%K%P
 I am only 'seen' when someone looks at me.
 CN PLACEHOLDER
-Я „видима“ лишь пока кто-то смотрит на меня.
+Я 'видима' лишь когда кто-то смотрит на меня.
 
 武「えっ？」%K%P
 What?
@@ -2551,27 +2551,27 @@ CN PLACEHOLDER
 空「誰も私のことを見ていなければ、私は存在しないも同然、ということです」%K%P
 I mean that I cease to exist when no one is looking at me.
 CN PLACEHOLDER
-То есть я перестаю существовать, когда никто на меня не смотрит.
+То есть, я перестаю существовать, когда никто на меня не смотрит.
 
 空「例えば、ここにいる５人全員が、いっせいにまぶたを閉じたりしたら……」%K%P
 For example, if the five of you here all closed your eyes at once...
 CN PLACEHOLDER
-Например, если каждый из вас одновременно закроет глаза...
+Например, если все пятеро из вас одновременно закроют глаза...
 
 空「その瞬間、私の姿はどこにも存在しなくなってしまうのです」%K%P
 At that moment, I would cease to exist.
 CN PLACEHOLDER
-В тот же миг я перестану существовать.
+В тот же момент, меня нигде не будет.
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「誰かが私を『見』る」%K%P
 Someone has to 'see' me.
 CN PLACEHOLDER
-Кто-то должен „видеть“ меня.
+Кто-то должен 'видеть' меня.
 
 空「その行為があって、初めて私は姿を現すことができる」%K%P
 I have to be seen in order to exist.
@@ -2581,12 +2581,12 @@ CN PLACEHOLDER
 空「視線――視点」%K%P
 Vision—a viewpoint.
 CN PLACEHOLDER
-Взгляд, точка зрения.
+На этом глазе, на этом угле зрения.
 
 空「誰かの視点が、私を作るのです」%K%P
 Someone's perspective actually creates me.
 CN PLACEHOLDER
-На самом деле точка зрения другого человека создаёт меня.
+На самом деле этот 'чей-то' глаз создаёт меня.
 
 空「倉成さん……」%K%P
 Kuranari-san...
@@ -2606,12 +2606,12 @@ CN PLACEHOLDER
 …………
 .........
 CN PLACEHOLDER
-...
+Ничего не делать
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.......
 
 何も言わず、何もしなかった。%K%P
 I said nothing and did nothing.
@@ -2641,7 +2641,7 @@ CN PLACEHOLDER
 空「レミに呼ばれてしまいましたので、少しの間ですが、行ってきますね」%K%P
 LeMMIH is calling for me, so I will leave and then come back shortly.
 CN PLACEHOLDER
-Меня вызывает LeMMIH, поэтому я отлучусь ненадолго.
+Меня вызывает ЛеММИХ, поэтому я отлучусь ненадолго.
 
 そう言ったかと思うと、空の姿は見えなくなった。%K%P
 And saying that, Sora disappeared.
@@ -2656,7 +2656,7 @@ CN PLACEHOLDER
 武「目を、閉じたとき……？」%K%P
 When I close my eyes...?
 CN PLACEHOLDER
-Когда я закрою глаза?..
+Когда я закрою глаза...?
 
 俺は試しに、手の平を目の前にかざしてみた。%K%P
 I decided to test it and covered my eyes with one hand.
@@ -2666,7 +2666,7 @@ CN PLACEHOLDER
 たちまち、空の姿は見えなくなってしまった。%K%P
 Instantly, Sora vanished.
 CN PLACEHOLDER
-В тот же миг Сора исчезла.
+В тот же миг, Сора исчезла.
 
 空が実像だとすれば、手の平の上に空の頭部が、下に空の下半身が見えるはずだった。%K%P
 If Sora did exist, I should have been able to see her head above my hand and her feet below.
@@ -2676,7 +2676,7 @@ CN PLACEHOLDER
 しかし今、空はいない。%K%P
 But Sora wasn't there.
 CN PLACEHOLDER
-Но Соры здесь нет.
+Но, Соры здесь нет.
 
 レーザーが手の平に遮断されたせいで、俺の瞳に空の画像が届かないのだ。%K%P
 My hand kept the laser from reaching my eye, so I couldn't see Sora.
@@ -2696,7 +2696,7 @@ CN PLACEHOLDER
 彼女の姿は音も無く現れた。%K%P
 She appeared without a sound.
 CN PLACEHOLDER
-И тут красивое изображение Соры без единого звука появилось снова.
+И тут, красивое изображение Соры, без единого звука, появилась снова.
 
 空は穏やかに微笑んでいた。%K%P
 She smiled gently.
@@ -2706,12 +2706,12 @@ CN PLACEHOLDER
 武「空……？」%K%P
 Sora...?
 CN PLACEHOLDER
-Сора?..
+Сора...?
 
 空「なんでしょう？」%K%P
 Yes...?
 CN PLACEHOLDER
-Да?..
+Да...?
 
 俺の問いかけに意味はなかった。%K%P
 There was no real meaning in my question.
@@ -2721,7 +2721,7 @@ CN PLACEHOLDER
 ちゃんと答えが返ってくるのかどうか……それを確かめたかっただけかもしれない。%K%P
 Maybe it was just that I wanted to see whether or not she would answer me.
 CN PLACEHOLDER
-Может, я просто хочу узнать, ответит она мне или нет.
+Может потому что я лишь хочу увидеть, ответит она мне или нет.
 
 彼女の存在の『はかなさ』とは、今にも消えてしまうのではないかというような『危うさ』であり……。%K%P
 Given her fragile existence, there seemed to be a danger that she might slip away at any moment...
@@ -2731,12 +2731,12 @@ CN PLACEHOLDER
 それはソワソワとした不安感と同時に、神秘的な憧れをも抱かせるのだった。%K%P
 I was uneasy about it, and at the same time felt a sort of awe about the mystery of it.
 CN PLACEHOLDER
-Мне было не по себе, и в то же время я испытывал своего рода благоговейный трепет перед таинственностью происходящего.
+Это одновременно чувство неуютности и благоговения над таинством её бытия.
 
 空「もう、なんですか？　そんなにじっと見つめないでください」%K%P
 Is there anything else? Please don't stare at me like that.
 CN PLACEHOLDER
-Что-нибудь ещё? Пожалуйста, не смотри на меня так.
+Ч-что-нибудь ещё? Пожалуйста, не смотри на меня так.
 
 空の頬が色づいた。%K%P
 Sora was blushing.
@@ -2746,7 +2746,7 @@ CN PLACEHOLDER
 武「いや、なんでもないんだ、なんでもない」%K%P
 Oh... No. Nothing else.
 CN PLACEHOLDER
-Ой... нет. Ничего.
+Ой...нет. Ничего.
 
 はにかむように、空はきゅっと唇を結んだ。%K%P
 Sora pinched her lips closed as if she was slightly embarrassed.
@@ -2766,7 +2766,7 @@ CN PLACEHOLDER
 空「倉成さんは……月を見たことがありますか？」%K%P
 Kuranari-san... Have you ever seen the moon?
 CN PLACEHOLDER
-Куранари-сан... ты когда-нибудь видел луну?
+Куранари-сан...ты когда-нибудь видел луну?
 
 唐突な質問だった。%K%P
 The question came out of nowhere.
@@ -2776,12 +2776,12 @@ CN PLACEHOLDER
 しかし思わずニヤケてしまうほど滑稽な質問でもあった。%K%P
 But it was one that caused me to burst out laughing.
 CN PLACEHOLDER
-Но от него меня прорвало на смех.
+Но, от него меня прорвало на смех.
 
 武「はははっ！　あるさ、勿論」%K%P
 Hahaha! Yeah, of course I have.
 CN PLACEHOLDER
-Ха-ха-ха! Да, конечно видел.
+Ха〜ха〜ха! Да, конечно видел.
 
 俺は即答した。%K%P
 I replied immediately.
@@ -2791,12 +2791,12 @@ CN PLACEHOLDER
 空「では満月の晩、倉成さんが月を見上げていたとします」%K%P
 Well, now let's say that you have seen a full moon.
 CN PLACEHOLDER
-Тогда представь, что ты сейчас видишь полную луну.
+Тогда, представь что ты сейчас видишь полную луну.
 
 空「そのとき、倉成さんが目を閉じてしまっても、月はそこにあると思いますか？」%K%P
 And let's say that you closed your eyes. Do you think the moon would still be there?
 CN PLACEHOLDER
-И предположим, что ты закрыл глаза. Как думаешь, луна по-прежнему будет там?
+И, предположим, что ты закрыл глаза. Думаешь, что луна по-прежнему будет там?
 
 武「なに当たり前のこと聞いてるんだよ」%K%P
 Why are you asking such obvious questions?
@@ -2816,7 +2816,7 @@ CN PLACEHOLDER
 武「質問の主旨はよくわからないが……世界中の人間が目を閉じたって、月は決して消えたりしないよ」%K%P
 I don't know what your point is, but... even if everyone in the world closed their eyes, the moon wouldn't disappear.
 CN PLACEHOLDER
-Не знаю, к чему ты клонишь, но... даже если все люди на свете закроют глаза, луна не исчезнет.
+Не знаю, к чему ты клонишь, но...даже если все люди на свете закроют глаза, луна не исчезнет.
 
 空「本当ですか？」%K%P
 Really?
@@ -2846,7 +2846,7 @@ CN PLACEHOLDER
 空「私がお尋ねしたのは『観測せずに、月があるかどうかを確かめる方法は存在するか？』ということです」%K%P
 My question was whether or not there is any way of verifying that the moon exists if someone closes their eyes.
 CN PLACEHOLDER
-Мой вопрос заключался в том, будет ли луна существовать вне зависимости от того, закрывает кто-то свои глаза или нет.
+Мой вопрос заключался в том, будет ли луна существовать, вне зависимости от того, закрывает кто-то свои глаза или нет.
 
 武「？」%K%P
 ?
@@ -2861,7 +2861,7 @@ CN PLACEHOLDER
 空「もしも、私の画像だけではなく、このＬｅＭＵの一切合切がすべてＲＳＤによる幻影だとしたら……どうしますか？」%K%P
 What if I told you that not only myself, but all of LeMU was nothing but an RSD-generated illusion... What would you do then?
 CN PLACEHOLDER
-Если я тебе скажу, что не только я сама, но и весь LeMU – не что иное, как сгенерированная RSD иллюзия... что ты тогда будешь делать?
+Что если я тебе скажу, что не только я сама, но и весь LeMU - ни что иное как сгенерированная RSD иллюзия.....что ты тогда будешь делать?
 
 武「……えっ？」%K%P
 ...Huh?
@@ -2876,7 +2876,7 @@ CN PLACEHOLDER
 （俺の見ているものすべてが……ＲＳＤによる幻影……？？？）%K%P
 (So everything I'm looking at... is RSD...?)
 CN PLACEHOLDER
-(Всё, что я вижу... это RSD?..)
+(Всё, что я вижу...это RSD...???)
 
 俺はうろたえて、きょろきょろと辺りを見まわした。%K%P
 I panicked, glancing around at my surroundings.
@@ -2886,7 +2886,7 @@ CN PLACEHOLDER
 空「ふふっ、ごめんなさい、冗談ですよ」%K%P
 Haha, I'm sorry. I was only joking.
 CN PLACEHOLDER
-Ха-ха, прости, я просто пошутила.
+Ха〜ха, прости, я просто пошутила.
 
 武「冗談？」%K%P
 That's a joke?
@@ -2901,7 +2901,7 @@ CN PLACEHOLDER
 空「倉成さんがあまりにも自信たっぷりにお答えになったので……ちょっとからかってみたくなっただけです」%K%P
 You sounded so full of confidence when you answered... I thought I would tease you just a bit.
 CN PLACEHOLDER
-Ты отвечал так, будто полностью уверен в своих словах... я решила слегка подразнить тебя.
+Ты отвечал так, будто полностью уверен в своих словах...я решила слегка подразнить тебя.
 
 空は口元に手をそえ、くすくすと笑っていた。%K%P
 Sora giggled, covering her mouth.
@@ -2911,7 +2911,7 @@ CN PLACEHOLDER
 空「しかし、これだけは言えます」%K%P
 However, I can say this.
 CN PLACEHOLDER
-Однако я знаю следующее...
+Однако, я знаю следующее...
 
 空「人間が世界を認識する為には、五感のうちのいずれかを使う以外に方法はありません」%K%P
 For humans to know the world around them, they must use one of their five senses.
@@ -2926,17 +2926,17 @@ CN PLACEHOLDER
 空「逆に言えば、視点こそが、世界を作っていると言えるかもしれませんね」%K%P
 Another way of putting it might be to say that the perspective is in the eye of the beholder.
 CN PLACEHOLDER
-Если подойти к этому с другой стороны, можно сказать, что перспектива находится в глазу наблюдающего.
+Если подойти к этому с другой стороны, можно сказать, что перспектива находится в глазе наблюдающего.
 
 空「この場合の視点とは『視覚』のことだけを指しているのではなく、聴覚、嗅覚、味覚、触覚のすべての感覚を指しています」%K%P
 In this instance, I don't mean just sight, but hearing, smell, taste, and touch as well. All of the senses.
 CN PLACEHOLDER
-В данном случае я имею в виду не только зрение, но и слух, обоняние, вкус, осязание – все чувства.
+В данном случае, я имею в виду не только зрение, но и слух, обоняние, вкус, осязание - все чувства.
 
 空「物事を知覚するポイント――それが視点なのです」%K%P
 The point at which we perceive the world—that is perspective.
 CN PLACEHOLDER
-Точка, в которой мы воспринимаем мир – это и есть точка зрения, перспектива.
+Точка, в которой мы воспринимаем мир - это и есть перспектива.
 
 空「そして私は……」%K%P
 And I...
@@ -2946,7 +2946,7 @@ CN PLACEHOLDER
 空「私は……月と同じなのです」%K%P
 I... I am the same as the moon.
 CN PLACEHOLDER
-Я... я такая же, как и луна.
+Я....я такая же, как и луна.
 
 空「おわかりになりましたか？」%K%P
 Do you understand?
@@ -2961,7 +2961,7 @@ CN PLACEHOLDER
 ただ……『私は月と同じなのです』……その言葉の真意がよくわからなかった。%K%P
 Still... I didn't know exactly what she meant by “I am the same as the moon.”
 CN PLACEHOLDER
-И всё же... я не знаю, что именно она имеет в виду, говоря...«Я такая же, как и луна.»
+И всё же...я не знаю, что именно она имеет в виду, говоря...'Я такая же, как и луна.'
 
 俺は漆黒の闇夜に浮かんだ青白い月を、ぼんやりと思い浮かべてみた。%K%P
 I mustered an image of a silvery blue moon, its light piercing through the dark night.
@@ -2971,7 +2971,7 @@ CN PLACEHOLDER
 （なるほど……そういうことか……）%K%P
 (I see... That's what she means.)
 CN PLACEHOLDER
-(Я понял... вот что она хотела сказать.)
+(Я понял...вот что она хотела сказать.)
 
 答えは、意外なほどすぐに見つかった。%K%P
 The answer came to me surprisingly quickly.
@@ -2981,22 +2981,22 @@ CN PLACEHOLDER
 俺の知っている限り、月は吠えないし、匂わないし、リンゴのような甘酸っぱい味もしない。%K%P
 The moon didn't bark like a dog, it didn't smell, and it didn't taste tart like an apple, at least not as far as I knew.
 CN PLACEHOLDER
-Луна не лает как собака, она не пахнет и не имеет вкуса яблока – по крайней мере, насколько мне известно.
+Луна не гавкает как собака, она не пахнет, и не имеет вкуса яблока - по крайней мере, насколько мне известно.
 
 月の存在は、微弱な引力と、その青白い光によってしか知ることはできないのだ。%K%P
 The only way to be sure of the existence of the moon was through its small gravitational pull and its blue-white light.
 CN PLACEHOLDER
-Единственное, что подтверждает её существование – слабая гравитационная тяга и голубовато-белый свет.
+Единственное, что подтверждает её существование - слабая гравитационная тяга и голубовато-белый свет.
 
 そう考えてみると、月も、空と同じようにはかなくて、神秘的な魅力に満ち溢れているように思えた。%K%P
 Thinking of it in that way, the mysterious charm of the moon and its transience were things that Sora shared.
 CN PLACEHOLDER
-Если думать в этом ключе, загадочное обаяние и непостоянство... это общие черты луны и Соры.
+Думая в этом ключе, загадочное обаяние и непостоянство... это общие черты луны и Соры.
 
 月は、俺が『ある』と信じることによってのみ、そこに『あり』……%K%P
 I believed the moon was there, so it was there...
 CN PLACEHOLDER
-Я верю, что луна существует, значит, она существует...
+Я верю, что луна существует, значит она существует...
 
 空も、俺が『いる』と信じることによってのみ、ここに『いる』……。%K%P
 I believed that Sora was there, so she was there...
@@ -3011,7 +3011,7 @@ CN PLACEHOLDER
 武「ああ、わかったよ」%K%P
 Aah, I got it.
 CN PLACEHOLDER
-Ах, я понял.
+Хаа, я понял.
 
 俺は答えた。%K%P
 That was how I answered.
@@ -3031,17 +3031,17 @@ CN PLACEHOLDER
 空を制御室へと送り届けた後……%K%P
 After seeing Sora off to the control room...
 CN PLACEHOLDER
-После того, как я проводил Сору до Центра управления...
+После того, как я проводил Сору до Центра Управления...
 
 俺は何をするでもなく、ブラブラとドリットシュトックの通路を歩いていた。%K%P
 I didn't have anything in particular to do, so I wandered aimlessly down the corridors of Dritter Stock.
 CN PLACEHOLDER
-Я не знаю, чем себя занять, поэтому бесцельно брожу по коридорам Дритте Шток.
+Я не знаю, чем себя занять, поэтому бесцельно брожу по коридорам Дритте шток.
 
 レムリア遺跡の入り口が見えてくる。ドアは開いていた。%K%P
 Ahead of me, I could see the door leading to the Lemurian Ruins. The door was open.
 CN PLACEHOLDER
-Вижу перед собой дверь, ведущую к Лемурийским развалинам. Она открыта.
+Вижу перед собой дверь, ведущую к Лемурийским Развалинам. Она открыта.
 
 そこを通り過ぎるとき、チラッと中を覗いてみた。%K%P
 Walking by, I glanced briefly inside.
@@ -3076,12 +3076,12 @@ CN PLACEHOLDER
 （ん？　誰かいるのかな？）%K%P
 (Hmm. Who is in here?)
 CN PLACEHOLDER
-(Хм-м. Кто же здесь?)
+(Хмм. Кто же здесь?)
 
 （ま……別にどうでもいいか）%K%P
 (Ah... Who cares?)
 CN PLACEHOLDER
-(А-а... пофиг.)
+(Аа... пофиг.)
 
 俺は気に留めず、入り口を通り過ぎた。%K%P
 Not paying it any more of my attention, I quickly passed by the entrance.
@@ -3096,7 +3096,7 @@ CN PLACEHOLDER
 なんてことをしているうちに、いつしか数時間が経過していた……。%K%P
 And before I knew it, a few hours had passed...
 CN PLACEHOLDER
-И прежде, чем я успел сообразить, прошло несколько часов...
+И, прежде чем я успел сообразить, прошло несколько часов...
 
 俺は何げなく、自分の目の前に手をかざした。%K%P
 I casually held my hand up in front of my eyes.
@@ -3116,7 +3116,7 @@ CN PLACEHOLDER
 びっくりして手を退けるとまた、空の全身が通路に現れる。%K%P
 Surprised, I removed my hand, and Sora reappeared in the corridor.
 CN PLACEHOLDER
-Удивлённый, я убрал руку, и Сора снова появилась в коридоре.
+Удивлённый, я убрал руку и Сора снова появилась в коридоре.
 
 水中にある空のサンダルの輪郭は揺らめいて、薄ぼやけていた。%K%P
 The outline of Sora's sandals blurred dimly in the water.
@@ -3126,7 +3126,7 @@ CN PLACEHOLDER
 空「誰かが私を『見』る」%K%P
 Someone has to 'see' me.
 CN PLACEHOLDER
-Кто-то должен „видеть“ меня.
+Кто-то должен 'видеть' меня.
 
 空「その行為があって、初めて私は姿を現すことができる」%K%P
 I have to be seen in order to exist.
@@ -3141,7 +3141,7 @@ CN PLACEHOLDER
 空「誰かの視点が、私を作るのです」%K%P
 Someone's perspective actually creates me.
 CN PLACEHOLDER
-На самом деле точка зрения другого человека создаёт меня.
+На самом деле этот 'чей-то' глаз создаёт меня.
 
 空「倉成さん……」%K%P
 Kuranari-san...
@@ -3156,7 +3156,7 @@ CN PLACEHOLDER
 制御室に入ると、コンソールから呼び出し音が聞こえた。%K%P
 When we entered the control room, I heard her being called from the console.
 CN PLACEHOLDER
-Когда мы вошли в Центр управления, я услышал, как её вызывали с консоли.
+Когда мы вошли в Центр Управления, я услышал, как её вызывали с консоли.
 
 空「倉成さん、それでは……」%K%P
 Well, Kuranari-san...
@@ -3166,7 +3166,7 @@ CN PLACEHOLDER
 空「レミに呼ばれてしまいましたので、少しの間ですが、行ってきますね」%K%P
 LeMMIH is calling for me, so I will leave and then come back shortly.
 CN PLACEHOLDER
-Меня вызывает LeMMIH, поэтому я отлучусь ненадолго.
+Меня вызывает ЛеММИХ, поэтому я отлучусь ненадолго.
 
 そう言ったかと思うと、空の姿は見えなくなった。%K%P
 And saying that, Sora disappeared.

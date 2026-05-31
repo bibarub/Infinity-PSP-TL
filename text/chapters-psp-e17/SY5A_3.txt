@@ -31,12 +31,12 @@ CN PLACEHOLDER
 『夕食の時間になるまで、私達は会議室にいます。%K%N
 “We will be in the conference room until dinner.”
 CN PLACEHOLDER
-«До ужина мы будем в Комнате переговоров.
+'До ужина мы будем в Комнате Переговоров.
 
 ⑳もし、それまでに起きたようなら、きみもおいでよ。%K%N
 “If you wake up by then, please come along.”
 CN PLACEHOLDER
-Если к этому времени проснёшься, пожалуйста, присоединяйся к нам.
+Если к этому времени проснёшься, пожалуйста присоединяйся к нам.
 
 ⑳この数日間、無理に付き合わせちゃってゴメンね？%K%N
 “I'm sorry for making you hang out with me the last couple days.”
@@ -51,7 +51,7 @@ CN PLACEHOLDER
 ⑳　　　　　　　　　　　　　　　　　　　　　　ＹＯＵ』%K%N
 “—You”
 CN PLACEHOLDER
-– Ю»
+---Ю'
 
 %N
 
@@ -68,12 +68,12 @@ CN PLACEHOLDER
 会議室とは反対方向に歩いていく、ぼく。%K%P
 I started walking in the direction opposite of the conference room.
 CN PLACEHOLDER
-Я пошёл в противоположном от Комнаты переговоров направлении.
+Я пошёл в противоположном от Комнаты Переговоров направлении.
 
 気晴らしに、ぼくは少し館内を散歩することにしたのだ。%K%P
 I decided to take a walk around the complex for fun.
 CN PLACEHOLDER
-Решил слегка прогуляться в надежде, что это поможет мне развеяться и поднять настроение.
+Решил слегка прогуляться, в надежде что это поможет мне развеяться и поднять настроение.
 
 ＥＩに乗り込む。%K%P
 I got into Ei.
@@ -113,7 +113,7 @@ CN PLACEHOLDER
 『彼女』を、再び目撃したのは！%K%P
 I saw “her” again!
 CN PLACEHOLDER
-Я снова увидел «её»!
+Я снова увидел 'её'!
 
 少年「あっ！」%K%P
 Hey!
@@ -173,7 +173,7 @@ CN PLACEHOLDER
 レミの生体反応に探知されない彼女。%K%P
 The girl that didn't register on LeMMIH's bio scan.
 CN PLACEHOLDER
-Девочка, что даже не обнаруживается биосканером LeMMIH.
+Девочка, что даже не обнаруживается биосканером ЛеММИХ.
 
 いや、たった１回だけ……。%K%P
 No, she had registered once...
@@ -183,12 +183,12 @@ CN PLACEHOLDER
 ――『生体反応：７』%K%P
 —“Life readings: 7”
 CN PLACEHOLDER
-«Живые существа: 7»
+'Живые существа: 7'
 
 しかし、考えれば考えるほどオカシナことばかりだ。%K%P
 But the more I thought about it, the stranger everything seemed.
 CN PLACEHOLDER
-Но чем больше я об этом думаю, тем меньше понимаю.
+Но, чем больше я об этом думаю, тем меньше понимаю.
 
 ぼくの前にしか姿を現さないことといい、ほとんどコミュニケーションが取れないことといい……。%K%P
 She only appeared in front of me, and we hardly communicated...
@@ -208,7 +208,7 @@ CN PLACEHOLDER
 宇宙クジラの部屋へと入って行く少女。%K%P
 She headed into the Cosmic Whale room.
 CN PLACEHOLDER
-Она направилась в сторону зала Космического кита.
+Она направилась в сторону Зала Космического Кита.
 
 ぼくもあとを追って入室する。%K%P
 I followed in soon after her.
@@ -228,7 +228,7 @@ CN PLACEHOLDER
 その中央に、彼女はいた。%K%P
 The girl was in the middle of the room.
 CN PLACEHOLDER
-Посреди этого пейзажа... сидит девочка.
+Посреди этого пейзажа...сидит девочка.
 
 ぼくに背を向けて、膝を抱えて座り込んでいる。%K%P
 She was facing away from me, sitting and hugging her knees.
@@ -238,7 +238,7 @@ CN PLACEHOLDER
 少年「やっと……追いついた……」%K%P
 I finally... caught up...
 CN PLACEHOLDER
-Наконец... догнал...
+Наконец...догнал...
 
 息を整えながら、ぼくは少女に近づいていく。%K%P
 I approached her as I caught my breath.
@@ -258,12 +258,12 @@ CN PLACEHOLDER
 ？？「長弓……背負いし……月の精……」%K%P
 Moon sprite... shouldering... a long bow...
 CN PLACEHOLDER
-На спине... богиня лунная... носит лук и стрелы...
+Лунный луч-дорожка...водной глади...дрожь.
 
 ？？「夢の中より……待ちをりぬ……」%K%P
 Waiting... inside a dream...
 CN PLACEHOLDER
-И во сне скорее ждёт тебя... сказку рассказать...
+Ждёт, когда во сне ты...тихо к ней придёшь.
 
 この歌詞……。%K%P
 I felt like...
@@ -283,17 +283,17 @@ CN PLACEHOLDER
 そう、どこかで……。%K%P
 Somewhere, I was sure...
 CN PLACEHOLDER
-Где-то... я в этом уверен...
+Где-то...я в этом уверен...
 
 遠い遠い、昔に……。%K%P
 In the distant, distant past...
 CN PLACEHOLDER
-В далёком-далёком прошлом...
+А ещё и в далёком, далёком прошлом...
 
 ぼくの失われた記憶が、そう思わせるのだろうか……？%K%P
 I wondered if it was my missing memory that was making me feel that way...?
 CN PLACEHOLDER
-Может, мне это мерещится из-за потери памяти?..
+Может мне это мерещится из-за потери памяти...?
 
 少年「ねえ、君？」%K%P
 Hey, you.
@@ -308,12 +308,12 @@ CN PLACEHOLDER
 ゆっくりと振り向く少女。%K%P
 Slowly, she turned back to look at me.
 CN PLACEHOLDER
-Она медленно обернулась и взглянула на меня.
+Медленно, она обернулась, чтобы взглянуть на меня.
 
 やはり、あの子だった。%K%P
 It was the girl after all.
 CN PLACEHOLDER
-Значит, это всё-таки она.
+Значит это всё-таки она.
 
 少年「どうして逃げたりするの？」%K%P
 Why do you run away from me?
@@ -323,7 +323,7 @@ CN PLACEHOLDER
 ？？「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「まあいいか、そんなことはどうでも」%K%P
 Oh well. I guess it doesn't matter.
@@ -333,7 +333,7 @@ CN PLACEHOLDER
 本当は、どうでもよくなんてないが、ひとまず彼女と対面できたことに、ぼくは安堵していた。%K%P
 It really did matter to me, but since I had finally been able to confront the girl, I felt a surge of relief.
 CN PLACEHOLDER
-На самом деле, для меня это важно. Но раз уж я наконец столкнулся с девочкой лицом к лицу, от сердца отлегло.
+На самом деле, для меня это важно. Но, раз уж я наконец столкнулся с девочкой лицом к лицу, от сердца отлегло.
 
 少年「さあ、みんなのところに行こう？」%K%P
 Well, why don't we go where everyone else is?
@@ -343,7 +343,7 @@ CN PLACEHOLDER
 左手を差し出しながら、ぼくは言う。%K%P
 I held out my hand as I said that.
 CN PLACEHOLDER
-С этими словами я протянул ей свою руку.
+С этими словами, я протянул ей свою руку.
 
 やがて少女は、立ち上がりながら、こう呟いた。%K%P
 Finally, she stood up and spoke.
@@ -363,7 +363,7 @@ CN PLACEHOLDER
 ？？「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ぼくの顔をじっと見つめる少女。%K%P
 The girl just stared at my face.
@@ -373,7 +373,7 @@ CN PLACEHOLDER
 少年「い、行こう！」%K%P
 L-Let's go!
 CN PLACEHOLDER
-П-пойдём!
+П...пойдём!
 
 ぼくは少女の手を引いて、ぐんぐんと歩き出した。%K%P
 I took her hand and tugged it as I began to walk.
@@ -393,12 +393,12 @@ CN PLACEHOLDER
 ぼくの中で、もうひとりのぼくが、何かを叫び続けている。%K%P
 Inside of me, it felt like another “me” was screaming.
 CN PLACEHOLDER
-Внутри меня... другой „я“ дико вопит.
+Внутри меня, другой я дико вопит.
 
 ……そんな気がした。%K%P
 ...That was how I felt.
 CN PLACEHOLDER
-...но почему?
+...но, почему?
 
 少年「もうひとりの女の子が見つかったんだ！」%K%P
 I found another girl!
@@ -408,7 +408,7 @@ CN PLACEHOLDER
 そう叫びながら、ぼくは会議室の中に飛び込んでいった。%K%P
 I burst into the conference room as I shouted that.
 CN PLACEHOLDER
-С этим криком я влетел в Комнату переговоров.
+С этим криком я влетел в Комнату Переговоров.
 
 もちろん、例の少女の手を引きながら。%K%P
 Of course, I was still leading the girl by the hand.
@@ -423,7 +423,7 @@ CN PLACEHOLDER
 つぐみ「えっ？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 優「もうひとりって？」%K%P
 Another what?
@@ -438,52 +438,52 @@ CN PLACEHOLDER
 空「もしかして……その、女の子のことですか？」%K%P
 Are you talking about... THAT girl?
 CN PLACEHOLDER
-Ты говоришь... об... ЭТОЙ девочке?
+Ты говоришь...об...ЭТОЙ девочке?
 
 少年「うん、宇宙クジラの部屋で見つけたから連れて来たんだ」%K%P
 Yeah. I found her in the Cosmic Whale room and brought her here.
 CN PLACEHOLDER
-Да. Я нашёл её в зале Космического кита и привёл сюда.
+Да. Я нашёл её в Зале Космического Кита и привёл сюда.
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「ど、どうしたの、みんな？」%K%P
 Wh-What's the matter with everyone?
 CN PLACEHOLDER
-Ч... что с вами со всеми?
+Ч...что с Вами со всеми?
 
 少年「なんで驚かないの？」%K%P
 Why aren't you surprised?
 CN PLACEHOLDER
-Неужели вы не удивлены?
+Неужели Вы не удивлены?
 
 つぐみ「もうしばらく、休んでいた方がいいんじゃない？」%K%P
 Maybe you'd better rest for a while.
 CN PLACEHOLDER
-Похоже... кому-то нужно как следует отдохнуть.
+Похоже...кому-то нужно как следует отдохнуть.
 
 少年「えっ？」%K%P
 What?
 CN PLACEHOLDER
-Чего?
+〜〜〜?
 
 ？？「ねえねえ？」%K%P
 Hey, hey!
@@ -518,7 +518,7 @@ CN PLACEHOLDER
 少年「さ、沙羅……」%K%P
 S-Sara...?
 CN PLACEHOLDER
-С-Сара?..
+С-Сара...?
 
 沙羅「？？？」%K%P
 ?
@@ -553,7 +553,7 @@ CN PLACEHOLDER
 沙羅「いきなり少年が私の手をつかんで……」%K%P
 The Kid just suddenly grabbed my hand...
 CN PLACEHOLDER
-Малой просто схватил меня за руку и...
+Кид просто схватил меня за руку и...
 
 少年「えっ！？」%K%P
 What?
@@ -563,7 +563,7 @@ CN PLACEHOLDER
 少年「沙羅……どうしてそんな嘘を……」%K%P
 Sara... Why are you lying...?
 CN PLACEHOLDER
-Сара... почему ты врёшь?..
+Сара...почему ты врёшь...?
 
 沙羅「はい？　嘘ついてるのはそっちじゃん！　なに言っちゃってるわけ？」%K%P
 Huh? What're you talking about? You're the one who's lying.
@@ -573,22 +573,22 @@ CN PLACEHOLDER
 少年「そんな……そんな……」%K%P
 Wh-What...?
 CN PLACEHOLDER
-Ч-что?..
+Ч-что...?
 
 少年「クジラ部屋で、あの女の子はヒザを抱えて座ってたんだ」%K%P
 The girl was in the Cosmic Whale room... She was sitting down, hugging her knees.
 CN PLACEHOLDER
-Девочка была в зале Космического кита... Она сидела с коленями в обнимку.
+Девочка была в Зале Космического Кита...она сидела с коленями в обнимку.
 
 少年「なにか、童謡の歌詞みたいなフレーズを口ずさんでて……」%K%P
 She was singing some kind of phrases to a kid's song.
 CN PLACEHOLDER
-Она пела что-то вроде детской колыбельной.
+Она пела нечто, похожее на детскую колыбельную.
 
 沙羅「だからぁ！　それは私！　私です！」%K%P
 I'm telling you that was me!
 CN PLACEHOLDER
-Боже, да я это была, я!
+Твою мать, это была я, Я!
 
 顔を真っ赤にしながら、沙羅は叫んだ。%K%P
 Sara was red-faced and shouting.
@@ -603,17 +603,17 @@ CN PLACEHOLDER
 少年「………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 （なんでだよ……）%K%P
 (Geez, what's with her...?)
 CN PLACEHOLDER
-(Блин, да что с ней?..)
+(Блин, да что с ней...?)
 
 （一体、なにがどうなっちゃってるんだよ……）%K%P
 (What's going on here...?)
 CN PLACEHOLDER
-(Что здесь происходит?..)
+(Что здесь происходит...?)
 
 優「う〜〜ん！」%K%P
 Aaah!
@@ -628,7 +628,7 @@ CN PLACEHOLDER
 優「少年？　他のことは何も心配しなくていいから、もう少し休んできたら？」%K%P
 Kid? Just forget about everything else and get some rest.
 CN PLACEHOLDER
-Малой? Выброси всё из головы и ляг поспи.
+Кид? Выброси всё из головы и ляг поспи.
 
 優「晩ご飯だったら、あとで持ってってあげるから」%K%P
 I'll bring you some dinner later.
@@ -638,17 +638,17 @@ CN PLACEHOLDER
 少年「………………………………」%K%P
 ...............
 CN PLACEHOLDER
-...
+...............
 
 優「ほんとに、どうしちゃったのかねぇ、この子は……」%K%P
 What is going on with this guy...?
 CN PLACEHOLDER
-Правда... и что только нашло на этого парня?..
+Правда...и что только нашло на этого парня...?
 
 ぼくは、救護室へトボトボと戻りながら、様々なことを考えた。%K%P
 I thought about a lot of things as I plodded to the infirmary.
 CN PLACEHOLDER
-По дороге к лазарету я думал о множестве вещей.
+По дороге к лазарету, я думал о множестве вещей.
 
 これまでのこと。%K%N
 Things leading to that point.
@@ -688,7 +688,7 @@ CN PLACEHOLDER
 考えずには……悩まずにはいられなかった。%K%O
 I couldn't help thinking... and worrying... about things.
 CN PLACEHOLDER
-Думаю... и беспокоюсь... о стольких вещах.
+Думаю...и беспокоюсь...о стольких вещах.
 
 ――優のこと。%K%N
 —About You.
@@ -768,27 +768,27 @@ CN PLACEHOLDER
 数時間後、館内に新たな浸水事故が発生した。%K%P
 A few hours later, the installation started to flood again.
 CN PLACEHOLDER
-Несколькими часами спустя сооружение вновь дало течь.
+Несколькими часами спустя, сооружение вновь дало течь.
 
 『ドリットシュトック／隔離区画――コスミッシャー・ヴァル完全浸水』%K%P
 “Dritter Stock—from the partition to the Cosmic Whale was submerged.”
 CN PLACEHOLDER
-«Дритте Шток – затоплен модуль с залом Космического кита.»
+'Дритте шток - затоплен модуль с Залом Космического Кита.'
 
 『犠牲者：無し』%K%P
 “Casualties: None”
 CN PLACEHOLDER
-«Человеческие жертвы: Отсутствуют»
+'Человеческие жертвы: Нет'
 
 『他部屋への漏水：無し』%K%P
 “Flooding to other rooms: None”
 CN PLACEHOLDER
-«Затопление других помещений: Отсутствует»
+'Затопление других помещений: Отсутствует'
 
 『被害拡大の恐れ：無し』%K%P
 “Chance of damage spreading: None”
 CN PLACEHOLDER
-«Вероятность распространения повреждений: 0％»
+'Вероятность распространения повреждений: 0...'
 
 館内に響き渡る空の声が、事実だけを淡々と告げた。%K%P
 Sora's voice conveyed the situation over the intercom in a matter-of-fact tone.
@@ -798,7 +798,7 @@ CN PLACEHOLDER
 コスミッシャー・ヴァル……宇宙クジラの部屋。%K%P
 The Cosmic Whale room...
 CN PLACEHOLDER
-Зал Космического кита...
+Зал Космического Кита...
 
 そこはぼくが、ついさっきまでいた場所である。%K%P
 I had been there until just shortly before the flooding.
@@ -808,7 +808,7 @@ CN PLACEHOLDER
 だがしかし、それは、とても遠い世界の出来事のように感じられた。%K%P
 But somehow, it felt like some event that had taken place far, far away.
 CN PLACEHOLDER
-Но почему-то мне кажется, будто это случилось далеко-далеко, за тысячи световых лет.
+Но, почему-то мне кажется, будто это случилось далеко-далеко, за тысячи световых лет.
 
 ぼくは毛布を頭から被り、目を固く閉ざして、眠ろうとした。%K%P
 I covered my head with the blanket, closed my eyes, and tried to sleep.

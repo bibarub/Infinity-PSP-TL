@@ -1,17 +1,17 @@
 ﻿昼食の後……武から発電機の状況を改めて聞いた。%K%P
 After lunch... Takeshi gave me more information about the generator problem.
 CN PLACEHOLDER
-После обеда... Такэси рассказал о проблеме с генератором.
+После обеда...Такеши просветил меня о проблеме с генератором.
 
 なんでも、前に修理したところが不調で、電源が不安定になっているらしい。%K%P
 He said that the part we had repaired before was malfunctioning, and the machine wasn't stable.
 CN PLACEHOLDER
-Оказывается, та часть, что мы до этого уже чинили, неисправна и работает с перебоями.
+Оказывается, та часть, что мы чинили ранее, неисправна и работает с перебоями.
 
 武は、修理の時間を指定すると、やることがあると言ってどこかに行ってしまった。%K%P
 Takeshi told me when to meet him to fix it. Then he said he had something to do and took off.
 CN PLACEHOLDER
-Мы договорились о том, когда пойдём чинить его. Затем он сказал, что пока занят, и удалился.
+Мы договорились о том, где и когда соберёмся, чтобы пойти чинить его. Затем он сказал, что пока занят и удалился.
 
 ぼくは、待ち合わせの時間まで何をするでもなく、ひとり通路を歩いていた。%K%P
 I didn't have anything to do until our meeting time, so I walked the corridors alone.
@@ -71,7 +71,7 @@ CN PLACEHOLDER
 声をかけようか？　と思ったとき、%K%P
 I thought I might call out to her.
 CN PLACEHOLDER
-Наверное стоит позвать её.
+Наверно стоит позвать её.
 
 沙羅はおもむろに何かを……%K%P
 She seemed to be focusing on something...
@@ -86,37 +86,37 @@ CN PLACEHOLDER
 沙羅「長弓背負いし月の精」%V%P
 Moon sprite shouldering a long bow.
 CN PLACEHOLDER
-На спине богиня лунная носит лук и стрелы.
+Лунный луч-дорожка, водной глади дрожь...
 
 沙羅「夢の中より待ちをりぬ」%V%P
 Waiting inside a dream.
 CN PLACEHOLDER
-И во сне скорее ждёт тебя – сказку рассказать.
+Ждёт, когда во сне ты тихо к ней придёшь...
 
 沙羅「今宵やなぐゐ、月夜見囃子」%V%P
 Tonight, a story by moonlight.
 CN PLACEHOLDER
-А колчан со стрелами сказку ту сопроводит.
+Она тебе хочет сказку рассказать...
 
 沙羅「早く来んかと待ちをりぬ」%V%P
 Hoping the wait will be short.
 CN PLACEHOLDER
-Торопись, богиня ждёт в сновидении.
+Только лишь не сможет слишком долго ждать...
 
 沙羅「眠りたまふ、ぬくと丸みて」%V%P
 Sleeping curled and snug.
 CN PLACEHOLDER
-Засыпай скорей, и в тепле ты позабудь про страх.
+Спи малыш спокойно, позабудь про страх...
 
 沙羅「眠りたまふ、母に抱かれて」%V%P
 Sleeping in mother's arms.
 CN PLACEHOLDER
-Засыпай скорей в нежных маминых руках.
+Засыпая в нежных маминых руках...
 
 歌が終わり、%T060
 She finished singing.
 CN PLACEHOLDER
-Сара остановилась. 
+Сара остановилась.
 
 沙羅はひとすじの涙をこぼした。%K%P
 A tear streaked down Sara's face.
@@ -166,7 +166,7 @@ CN PLACEHOLDER
 沙羅「だれ……？」%K%P
 Who's there...?
 CN PLACEHOLDER
-Кто здесь?..
+Кто здесь...?
 
 その声とともに、その光景はふっと消えた。%K%P
 With her voice, the image instantly vanished.
@@ -186,7 +186,7 @@ CN PLACEHOLDER
 少年「ごめん……なんか、声をかけれそうな感じじゃなかったから」%K%P
 Sorry... I wanted to say something... but it just didn't seem right.
 CN PLACEHOLDER
-Прости... Я хотел поговорить с тобой... Похоже, я не вовремя.
+Прости...я хотел поговорить с тобой...но, похоже, не к месту.
 
 沙羅は隠すように涙を拭うと……%K%P
 Sara wiped away her tears as if hiding them...
@@ -196,7 +196,7 @@ CN PLACEHOLDER
 沙羅「えっ？　なにが？」%K%P
 What? What do you mean?
 CN PLACEHOLDER
-Э-э? Ты о чём?
+Эээ〜〜〜, ты о чём?
 
 いつもの明るい調子で言った。%K%P
 She seemed her upbeat self again.
@@ -226,7 +226,7 @@ CN PLACEHOLDER
 沙羅「そんなつまらないことまで覚えてるから、突然記憶喪失になっちゃったりするんだよ」%K%P
 Maybe you lost your memory because you packed your head with so many useless little things like that.
 CN PLACEHOLDER
-Наверное ты потерял память потому, что забивал её всякой фигнёй, вроде этой.
+Наверно ты потерял память потому, что забивал её всякой фигнёй, вроде этой.
 
 沙羅はそう言って笑った。%K%P
 Sara laughed as she said that.
@@ -271,7 +271,7 @@ CN PLACEHOLDER
 沙羅「そっか……そうだよね……」%K%P
 Oh, I see... That's right...
 CN PLACEHOLDER
-Вот как... ну да...
+Вот как...ну да...
 
 沙羅は寂しそうに呟くと、左の中指にかけたペンダントに視線を落とした。%K%P
 Sara said it sadly and glanced down at the pendant hanging from the middle finger of her left hand.
@@ -281,7 +281,7 @@ CN PLACEHOLDER
 少年「あっ……」%K%P
 Uh...
 CN PLACEHOLDER
-Э-э...
+Эээ...
 
 少年「そう言えば、ひとつ訊きたいことがあったんだ」%K%P
 There was something I wanted to ask you.
@@ -291,7 +291,7 @@ CN PLACEHOLDER
 沙羅「？」%K%P
 ?
 CN PLACEHOLDER
-Хм-м?
+Хмм〜〜〜?
 
 ぼくは、さっき見たときに、ホログラムペンダントから彼氏の画像が消えていたことを告げた。%K%P
 I told her about how the image of the man in the hologram pendant had disappeared.
@@ -306,7 +306,7 @@ CN PLACEHOLDER
 沙羅「ああ、それは、ここが室内だからだよ」%K%P
 Oh, that's because we're indoors.
 CN PLACEHOLDER
-А-а-а, это потому что здесь мы в помещении.
+Ааа, это потому что здесь мы в помещении.
 
 少年「えっ？　なに言ってんだよ」%K%P
 Huh? Whaddya mean?
@@ -331,12 +331,12 @@ CN PLACEHOLDER
 沙羅「あそこは、宇宙空間、でしょ？」%K%P
 That's a part of space, right?
 CN PLACEHOLDER
-Это была часть космоса?
+Это была часть космоса, неправда ли?
 
 少年「…………」%K%P
-.........
-CN PLACEHOLDER
 ...
+CN PLACEHOLDER
+.........
 
 沙羅「と言うのは冗談でぇ……」%K%P
 I'm just kidding...
@@ -366,7 +366,7 @@ CN PLACEHOLDER
 昨日見た男の姿が、そこにぼんやりと浮かび上がった。%K%P
 The man in the hologram floated there, the same as the day before.
 CN PLACEHOLDER
-Голограмма парня парит над зеркалом – точно так же, как и днём ранее.
+Голограмма парня парит над зеркалом - точно так же, как и днём ранее.
 
 昨日よりも画像は不鮮明だった。%K%P
 The image wasn't as clear as before.
@@ -401,7 +401,7 @@ CN PLACEHOLDER
 沙羅「ライターの炎か、太陽の光か」%K%P
 It's gotta be either the lighter or sunlight.
 CN PLACEHOLDER
-Нужна зажигалка... или солнечный свет.
+Нужна зажигалка...или солнечный свет.
 
 少年「太陽？」%K%P
 Sunlight?
@@ -466,12 +466,12 @@ CN PLACEHOLDER
 沙羅「それが当たり前のことなんだと思ってた、しばらくの間は……」%K%P
 For a while, I thought it was that way for everybody...
 CN PLACEHOLDER
-Какое-то время я думала, что так у всех...
+Какое-то время, я думала, что так у всех...
 
 少年「そっか……」%K%P
 Really...
 CN PLACEHOLDER
-Вот как...
+.........
 
 ぼくには、なんと答えてやればいいのかわからなかった。%K%P
 I didn't know how to answer.
@@ -486,7 +486,7 @@ CN PLACEHOLDER
 沙羅「このペンダントが、唯一の形見なんだ」%K%P
 This pendant is the only keepsake I have.
 CN PLACEHOLDER
-Этот кулон – единственная память о них.
+Этот кулон -- единственная память о них.
 
 少年「じゃあ、その男の人は……」%K%P
 So that man is...
@@ -496,7 +496,7 @@ CN PLACEHOLDER
 沙羅「たぶん、パパだと思う」%K%P
 I think it's probably my father.
 CN PLACEHOLDER
-Скорее всего это мой папа.
+Скорее всего, это мой папа.
 
 沙羅「わからないけど、私はそう思ってるの」%K%P
 I don't know for sure, but that's what I think.
@@ -506,7 +506,7 @@ CN PLACEHOLDER
 長い沈黙の末、ぼくはこう言った。%K%P
 After a long silence, I said...
 CN PLACEHOLDER
-После долгой паузы я сказал:
+После долгой паузы, я сказал--
 
 少年「ぼくも、おんなじだよ」%K%P
 It's the same for me.
@@ -516,7 +516,7 @@ CN PLACEHOLDER
 沙羅「えっ？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 少年「ぼくには記憶がないんだ」%K%P
 I've forgotten everything.
@@ -541,22 +541,22 @@ CN PLACEHOLDER
 少年「ぼくには、行く場所が無いんだ」%K%P
 I don't have anywhere to call home.
 CN PLACEHOLDER
-У меня нет места, которое можно назвать домом.
+У меня нет места, которое можно назвать Домом.
 
 少年「だから、ぼくもおんなじなんだよ」%K%P
 So I'm in the same situation.
 CN PLACEHOLDER
-Поэтому... я в такой же ситуации.
+Поэтому...я в такой же ситуации.
 
 少年「両親は、いないも同然なんだ」%K%P
 It's the same as not having any parents.
 CN PLACEHOLDER
-Не помнить – это всё равно, как если бы их не существовало вовсе.
+Не помнить - это всё равно, как если бы их не существовало вовсе.
 
 沙羅「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「さてと、そろそろ行かなくちゃ」%K%P
 Well, I should get going.
@@ -571,7 +571,7 @@ CN PLACEHOLDER
 少年「これから、武の手伝いすることになってるんだ」%K%P
 I've got to go help Takeshi.
 CN PLACEHOLDER
-Надо пойти помочь Такэси.
+Надо пойти помочь Такеши.
 
 少年「発電機の調子が悪いみたいで……」%K%P
 The generator needs some fixing...
@@ -596,17 +596,17 @@ CN PLACEHOLDER
 少年「いてて、いたいよ武」%K%P
 Ouch. Takeshi, that hurts.
 CN PLACEHOLDER
-Чёрт. Такэси, больно!
+Чёрт. Такеши, больно!
 
 武「これぐらい我慢しろよ、男の子だろ」%K%P
 You can take that. You're a man, after all.
 CN PLACEHOLDER
-Давай терпи. Ты же мужчина.
+Терпи, казак. Ты мужик али как?
 
 意地悪なにやにや笑いを浮かべて、ギプスで固められたぼくの右腕をぽんぽんとたたく。%K%P
 Takeshi grinned sadistically as he patted my right arm, which was supported by a cast.
 CN PLACEHOLDER
-С улыбкой садиста сказал Такэси, похлопав мою правую руку, что сейчас в гипсе.
+С улыбкой садиста сказал Такеши, похлопав мою правую руку, что сейчас в гипсе.
 
 圧縮フローフォームと特殊成形プラスチックでできたギプスは、思ったよりも軽く、すっきりとしている。%K%P
 The cast was made of a specially formulated plastic. It was lighter than I had expected and not too cumbersome.
@@ -616,12 +616,12 @@ CN PLACEHOLDER
 空の指示で、武がぼくに施したものだ。%K%P
 Takeshi had put the cast on me with instructions from Sora.
 CN PLACEHOLDER
-Такэси наложил мне его, следуя инструкциям Соры.
+Такеши наложил мне его, следуя инструкциям Соры.
 
 空はほかに用事があるらしく武に指示をのこして行ってしまった。%K%P
 Sora said she had something else to do and left the work to Takeshi.
 CN PLACEHOLDER
-У Соры были дела, поэтому она поручила это Такэси.
+Та, в свою очередь, сказала что занята и поручила это Такеши.
 
 武「いやー、しかしすごかったな、あのダイビングは。迫力充分って感じで」%K%P
 Wow. That dive you took was really something else. Pretty impressive stuff.
@@ -641,7 +641,7 @@ CN PLACEHOLDER
 少年「何も持たずに飛び降りたのは武だろ」%K%P
 You're the one that sprang off without anything.
 CN PLACEHOLDER
-А сам ты вообще ничего не взял.
+Ага, как же, а сам притащился порожняком.
 
 武「どうせまた修理することになれば必要なんだ。置いてくつもりだったんだけどな」%K%P
 If we have to make repairs again, then we'll need the tools. So I left them there.
@@ -651,7 +651,7 @@ CN PLACEHOLDER
 しらじらしい……。%K%P
 Takeshi was making excuses.
 CN PLACEHOLDER
-Ещё и оправдывается...
+Этот гад ещё и извиняется.
 
 少年「ああ、わかったよ。どうせぼくが馬鹿だったんだ……」%K%P
 Okay, fine. It was all my stupid fault...
@@ -671,7 +671,7 @@ CN PLACEHOLDER
 武「ま、そう落ち込むなよ。空によれば、きれいに折れてるから治りも早いそうじゃないか」%K%P
 Well, don't get down about it. Sora said it's a clean break, so you'll be back in business in no time.
 CN PLACEHOLDER
-Ну, не расстраивайся ты так. Сора сказала, что это перелом нестрашный, так что ты быстро поправишься.
+Ну, не расстраивайся ты так. Сора сказала, что это чистый перелом, так что ты быстро поправишься.
 
 少年「人ごとだと思って……」%K%P
 Easy for you to say...
@@ -686,7 +686,7 @@ CN PLACEHOLDER
 武は一見拳銃のような浸透注射器に数種類の抗生剤、解熱鎮痛剤、栄養剤などが一つになった混合アンプルを取り付ける。%K%P
 Takeshi picked up an object that could easily be mistaken for a gun at a glance. It was a syringe used to inject a cartridge filled with a cocktail of antibiotics, fever medicine, painkillers, and vitamins.
 CN PLACEHOLDER
-Такэси взял ампулу и прикрепил её к шприцу, похожему на пистолет. Ампула содержит смесь из антибиотиков, жаропонижающего, болеутоляющего и витаминов.
+Такеши взял прозрачный объект, который на первый взгляд можно принять за водяной пистолет.%K%PЭто полуавтоматическая инъекционная игла и картридж, заполненный смесью из антибиотиков, жаропонижающего, болеутоляющего и витаминов.
 
 武「ほれ、腕だせ」%K%P
 Gimme your arm.
@@ -696,12 +696,12 @@ CN PLACEHOLDER
 武は、注射器をぼくの左腕に押し当てた。%K%P
 Takeshi put the needle against my left arm.
 CN PLACEHOLDER
-Такэси прислонил иглу к моей левой руке...
+Такеши прислонил иглу к моей левой руке...
 
 ――プシュ！%K%P
 —Push!
 CN PLACEHOLDER
-Жмяк!
+И нажал спусковой крючок.
 
 武「よし、これで終わりだ」%K%P
 Alright, that should do it.
@@ -711,17 +711,17 @@ CN PLACEHOLDER
 少年「ありがと、武」%K%P
 Thanks, Takeshi.
 CN PLACEHOLDER
-Спасибо, Такэси.
+Спасибо, Такеши.
 
 武「骨折の影響で、熱が出るかもしれないぜ。ま、薬は打っといたけどな」%K%P
 The break might cause a fever. At least you've got some medicine in you.
 CN PLACEHOLDER
-От перелома может наступить жар. По крайней мере, лекарство я тебе дал.
+От перелома может наступить жар. По крайней мере, сейчас ты под 'допингом'.
 
 武「どっちにしろ、薬の影響で眠くなるだろうし、ま、しばらくおとなしくしとけや」%K%P
 Either way, the medicine ought to make you drowsy. So take it easy.
 CN PLACEHOLDER
-Одно плохо, от него клонит в сон. Так что смотри не зевай.
+Одно плохо, от лекарств клонит в сон. Так что, смотри не зевай.
 
 少年「うん……」%K%P
 Alright...
@@ -736,12 +736,12 @@ CN PLACEHOLDER
 少年「あ、ちょっとまって、武」%K%P
 Uh, hold on a second.
 CN PLACEHOLDER
-Э-э, погоди секундочку.
+Ээ, погоди секундочку.
 
 武「ん？　なんだ？」%K%P
 Huh? What is it?
 CN PLACEHOLDER
-А? Что ещё?
+Эээ? Что ещё?
 
 少年「あのさ、ちょっと見てほしいものがあるんだ」%K%P
 There's something I want you to see.
@@ -761,12 +761,12 @@ CN PLACEHOLDER
 ぼくは、武に沙羅のペンダントを差し出した。%K%P
 I held Sara's pendant out to Takeshi.
 CN PLACEHOLDER
-Я поднёс кулон Сары к Такэси.
+Я поднёс кулон Сары к Такеши.
 
 武「なんだ、またこれかよ」%K%P
 Not that again.
 CN PLACEHOLDER
-Ну только не это.
+Только не это, опять.
 
 少年「うん、もう一度見てほしいんだ」%K%P
 Yeah. I want you to look at it again.
@@ -781,7 +781,7 @@ CN PLACEHOLDER
 そういいながらも、武は、ペンダントを受け取った。%K%P
 Even so, Takeshi took the pendant as he said that.
 CN PLACEHOLDER
-Ворча, Такэси взял кулон.
+Ворча, Такеши взял кулон.
 
 今度は武にも見えるはずだ。%K%P
 That time, I thought he'd be able to see it as well.
@@ -796,12 +796,12 @@ CN PLACEHOLDER
 武「ふむ……」%K%P
 Hmmmm...
 CN PLACEHOLDER
-Хм-м-м-м...
+Хмммм....
 
 武は、しげしげとペンダントを眺める。%K%P
 Takeshi scrutinized the pendant.
 CN PLACEHOLDER
-Такэси пристально разглядывает кулон.
+Такеши пристально разглядывает кулон.
 
 ひっくり返したり斜めにしたり。%K%P
 He turned it over, then sideways.
@@ -821,7 +821,7 @@ CN PLACEHOLDER
 少年「え……、そんなはずは……、あっ！」%K%P
 Huh... There has to be... Oh!
 CN PLACEHOLDER
-Что... не может быть... Ой!
+Что...не может быть...Ой!
 
 少年「そうだった」%K%P
 I forgot.
@@ -851,7 +851,7 @@ CN PLACEHOLDER
 少年「えっ？」%K%P
 Huh?
 CN PLACEHOLDER
-А-а?
+Эээ?
 
 武「なんでライターごときで見えるようになんだよ」%K%P
 Whaddya using a lighter to look at it for?
@@ -861,12 +861,12 @@ CN PLACEHOLDER
 少年「だって……見えるんだからしょうがないじゃん」%K%P
 Because... that's how you see it.
 CN PLACEHOLDER
-Потому что... по-другому его не увидеть.
+Потому что...по-другому его не увидеть.
 
 武「はあ？」%K%P
 Huh?
 CN PLACEHOLDER
-А-а?
+Хаа〜〜〜?
 
 少年「よく見てよ！　ここに男の人の顔が映ってるでしょ？」%K%P
 Look hard! There should be a man's face there.
@@ -874,14 +874,14 @@ CN PLACEHOLDER
 Посмотри внимательно! Там должно быть лицо человека.
 
 武「…………」%K%P
-.........
-CN PLACEHOLDER
 ...
+CN PLACEHOLDER
+.........
 
 少年「…………」%K%P
-.........
-CN PLACEHOLDER
 ...
+CN PLACEHOLDER
+.........
 
 武「ああ、ほんとだほんとだ」%K%P
 Oh, you're right! There is.
@@ -921,12 +921,12 @@ CN PLACEHOLDER
 武「この鏡には、俺以外の男の顔は映ってないよ」%K%P
 The only face showing in this mirror is mine.
 CN PLACEHOLDER
-Единственное лицо, что я вижу в зеркале – моё собственное.
+Единственное лицо, что я вижу в зеркале - моё собственное.
 
 武「いこーる、俺が沙羅の彼氏ってこと」%K%P
 That means I must be Sara's guy.
 CN PLACEHOLDER
-Значит, парень Сары – это я.
+Значит парень Сары - это я.
 
 少年「バァーカ！　武が沙羅の彼氏になんかなるもんか！」%K%P
 Idiot! There's no way you and Sara would get together!
@@ -941,7 +941,7 @@ CN PLACEHOLDER
 武「ここに映ってるのが沙羅の彼氏なんだろ？」%K%P
 You said the guy in here was Sara's boyfriend, right?
 CN PLACEHOLDER
-Ты же сам сказал, что человек в зеркале – парень Сары, так ведь?
+Ты же сам сказал, что человек в зеркале -- парень Сары, так ведь?
 
 少年「だからぁ！　鏡面に映った自分の顔じゃなくて！　浮かび上がったホログラム画像のことを言ってんの！」%K%P
 I'm not talking about your ugly reflection! I'm talking about the holographic image!
@@ -961,12 +961,12 @@ CN PLACEHOLDER
 武「見てるよ、目ひんむいて見てるよ！　ほらっ、ぎろぎろぎろ〜ん、ぎろぎろ〜ん」%K%P
 I AM looking! I am staring! Look at my eyes! They're WIDE open!
 CN PLACEHOLDER
-Я СМОТРЮ! Смотрю! Видишь?! Смотрю! ШИРОКО РАСКРЫТЫМИ ГЛАЗАМИ!
+Я СМОТРЮ! Смотрю! Видишь?! Смотрю!! ШИРОКО РАСКРЫТЫМИ ГЛАЗАМИ!
 
 ぼくは武の肩越しから、ホログラムペンダントを覗き込んだ。%K%P
 I looked over Takeshi's shoulder and peered into the pendant.
 CN PLACEHOLDER
-Я посмотрел Такэси за плечо и уставился на кулон.
+Я посмотрел Такеши за плечо и уставился на кулон.
 
 少年「ほらぁ！　ここにいるじゃんかよぉ！」%K%P
 Look! It's right there!
@@ -986,7 +986,7 @@ CN PLACEHOLDER
 少年「あんたは、この奥！　鏡面の中にいるのが武じゃん！」%K%P
 You're behind it! The guy inside the mirror is you!
 CN PLACEHOLDER
-Ты за ним! Парень в зеркале – это ты!
+Ты за ним! Парень в зеркале - это ты!
 
 少年「そうじゃなくてぇ！　この手前に浮かんでるやつがそうなの！」%K%P
 The guy floating in the front is who I mean!
@@ -1011,7 +1011,7 @@ CN PLACEHOLDER
 優「なに騒いでんの？　メンテナンスは終わったんかえ？」%K%P
 What are you all worked up about? You two finished fixing the generator?
 CN PLACEHOLDER
-Чего это вы двое так расшумелись? Генератор хоть починили?
+Чего это Вы двое так расшумелись? Генератор хоть починили?
 
 少年「ちょっと優、このアホどうにかしてよぉ」%K%P
 You, come talk some sense into this idiot for me!
@@ -1046,12 +1046,12 @@ CN PLACEHOLDER
 少年「もう、そんなこと言ってないじゃんか。歪曲して伝えないでよ」%K%P
 I didn't say that! You're twisting my words.
 CN PLACEHOLDER
-Что?! Не перевирай мои слова!
+Что?! Не перевирай мои слова!!
 
 優「ひょへぇ〜、そうなの？」%K%P
 Whoaaa. Is that so?
 CN PLACEHOLDER
-Ого-о-о. Чё, правда?
+Оооой. Чё, правда?
 
 優「ってことはマヨ、いずれ性転換手術でもするのか、ほい」%K%P
 Cause either that girl is going to need a sex change operation...
@@ -1066,12 +1066,12 @@ CN PLACEHOLDER
 優「いや〜ん、そんなのいや〜ん♪」%K%P
 Yuck! Not for me〜
 CN PLACEHOLDER
-Фу! И о чём я только думаю!
+Фуу〜〜〜! И о чём я только думаю!
 
 少年「は？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 優「って言うかこれ、ただの鏡じゃん」%K%P
 I mean, this is just an ordinary mirror.
@@ -1091,7 +1091,7 @@ CN PLACEHOLDER
 ああ、ぼくは何度このセリフを叫べばいいのか……。%K%P
 I wondered how many times I would have to shout out the same line...
 CN PLACEHOLDER
-Интересно, сколько раз мне придётся выкрикивать одни и те же слова?..
+Интересно, сколько раз мне придётся выкрикивать одни и те же слова...?
 
 少年「ほらっ、ここにいるじゃん！　ここに！　ここに！」%K%P
 Look! He's right here! Right here!
@@ -1106,22 +1106,22 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「大丈夫、少年？　また例の発作？」%K%P
 Hey, Kid, are you alright? Are you having another fit?
 CN PLACEHOLDER
-Слушай, Малой, с тобой всё в порядке? У тебя очередной приступ?
+Это, Кид, с тобой всё в порядке? У тебя очередной приступ?
 
 少年「ほんとに？　ほんとに……見えないの？」%K%P
 You really, truly can't see it?
@@ -1146,7 +1146,7 @@ CN PLACEHOLDER
 優と武が顔を見合わせる。%K%P
 You and Takeshi looked at each other.
 CN PLACEHOLDER
-Ю и Такэси посмотрели друг на друга.
+Ю и Такеши посмотрели друг на друга.
 
 見えない……。%K%P
 They couldn't see it...
@@ -1156,12 +1156,12 @@ CN PLACEHOLDER
 優や武には見えないんだ……。%K%P
 Neither You nor Takeshi could...
 CN PLACEHOLDER
-Ни Ю, ни Такэси...
+Ни Ю, ни Такеши...
 
 でも、いったいどうして……？%K%P
 I wondered why in the world not...?
 CN PLACEHOLDER
-Но чёрт побери, почему?..
+Но, чёрт побери, почему...?
 
 月の光が差し込む病室。%K%P
 Moonlight shone into the sickroom.
@@ -1181,22 +1181,22 @@ CN PLACEHOLDER
 誰だ、誰なんだ……。%K%P
 Who... Who was it...?
 CN PLACEHOLDER
-Кто... кто это?..
+Кто...кто это...?
 
 君は誰だ……。%K%P
 Who are you...?
 CN PLACEHOLDER
-Кто ты?..
+Кто ты...?
 
 ぼくは……いったい何から……逃げたんだ……。%K%P
 I... didn't know... what I was escaping from...
 CN PLACEHOLDER
-Я... не знаю... от чего бегу...
+Я...не знаю...от чего бегу...
 
 待ってるって……、何を？%K%P
 Waiting... for what?
 CN PLACEHOLDER
-Жду... чего я жду?
+Жду....чего я жду?
 
 ぼくを、ぼくを待ってるっていうのか？%K%P
 Was I waiting for me?
@@ -1211,7 +1211,7 @@ CN PLACEHOLDER
 ここは、ここは……。%K%P
 It was... It was...
 CN PLACEHOLDER
-Это... это...
+Это...это...
 
 そのとき、景色がぐにゃりと溶けた。%K%P
 Just then, the scene dissolved away.
@@ -1248,10 +1248,10 @@ CN PLACEHOLDER
 いったい、ぼくは……。%K%P
 What was I...?
 CN PLACEHOLDER
-Что я?..
+Что я...?
 
 次第に周りの景色はぐるぐると回る、不気味な色彩に染め上げられていった……。%K%P
 Gradually, the scenery around me began to change into eerie colors...
 CN PLACEHOLDER
-Постепенно окружающая обстановка перетекла в жуткие мрачные цвета...
+Постепенно окружающая обстановка перетекла в жуткие мрачные цвета....
 

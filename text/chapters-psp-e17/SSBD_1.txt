@@ -11,7 +11,7 @@ CN PLACEHOLDER
 沙羅「お、にい、ちゃん……」%K%P
 O... nii... chan...
 CN PLACEHOLDER
-Б-бра... тик...
+Б-бра...тик...
 
 少年「沙羅、大丈夫か？」%K%P
 Are you okay, Sara?
@@ -21,7 +21,7 @@ CN PLACEHOLDER
 沙羅「うん……、大丈夫だよ」%K%P
 Yeah... I'm alright.
 CN PLACEHOLDER
-Да... в порядке.
+Ммм...в порядке.
 
 弱々しくほほえむ。%K%P
 She smiled weakly.
@@ -36,7 +36,7 @@ CN PLACEHOLDER
 沙羅「お兄ちゃん、なんで……、戻ってきたの？」%K%P
 Onii-chan, why... did you come back?
 CN PLACEHOLDER
-Братик... зачем... почему ты вернулся?
+Братик......зачем......почему ты вернулся?
 
 少年「沙羅を迎えに来たに決まってるだろ！」%K%P
 I came back to get you, of course!
@@ -46,7 +46,7 @@ CN PLACEHOLDER
 沙羅「迎えに……？」%K%P
 To get me...?
 CN PLACEHOLDER
-За мной?..
+За мной...?
 
 少年「そうだ。約束しただろ……」%K%P
 Sure. I promised, didn't I...?
@@ -56,47 +56,47 @@ CN PLACEHOLDER
 沙羅「そっか……、やっと……、迎えに来てくれたんだね……」%K%P
 I see... You finally... came to get me...
 CN PLACEHOLDER
-Значит... ты наконец... пришёл за мной...
+Значит......ты наконец......пришёл за мной...
 
 少年「ああ……、ゴメンよ沙羅」%K%P
 Oh... I'm so sorry, Sara.
 CN PLACEHOLDER
-Сара... прости меня.
+Сара......прости меня.
 
 少年「ずいぶん……、ずいぶん長く待たせちゃったな……」%K%P
 I... I know I made you wait such a long time...
 CN PLACEHOLDER
-Что... что заставил ждать тебя... так долго...
+Что...что заставил ждать тебя......так долго...
 
 沙羅「ううん……いいんだよ、もう」%K%P
 No... It's alright.
 CN PLACEHOLDER
-Нет... всё в порядке.
+Нет...всё в порядке.
 
 沙羅「こうして、来てくれたんだもん……」%K%P
 I mean, you actually came and everything...
 CN PLACEHOLDER
-Потому что... ты пришёл, и это главное...
+Потому что...ты пришёл, и это главное...
 
 少年「沙羅……、何で、何で戻ったりしたんだ……」%K%P
 Sara, why did you come back...?
 CN PLACEHOLDER
-Сара... зачем ты побежала назад?..
+Сара...зачем ты побежала назад...?
 
 沙羅「うん……、あの……」%K%P
 Uh... To... Um...
 CN PLACEHOLDER
-Ну... за... м-м...
+Ммм......эээ...
 
 沙羅「これを……、取りに……」%K%P
 To get... this...
 CN PLACEHOLDER
-Вот... за этим...
+Вот...за этим...
 
 沙羅はそう言って、ぼくの指に埋まっていたカケラを取り出した。%K%P
 Saying that, Sara took out the fragment that had been embedded in my finger.
 CN PLACEHOLDER
-С этими словами Сара протянула мне осколок, что когда-то был в моём пальце.
+С этими словами, Сара протянула мне осколок, что когда-то был в моём пальце.
 
 少年「それは……」%K%P
 That's...
@@ -106,22 +106,22 @@ CN PLACEHOLDER
 沙羅「これを……、忘れてたから……」%K%P
 I forgot... this...
 CN PLACEHOLDER
-Я... забыла его здесь...
+Я...забыла его здесь...
 
 少年「そんな物のために……、戻ったりしたのか」%K%P
 You came back... for that...?
 CN PLACEHOLDER
-Ты вернулась... за этим?..
+Ты вернулась...за этим...?
 
 沙羅「だって……、これは、お兄ちゃんが私を守ってくれた、大切なあかしだから……」%K%P
 Because... this is proof of how you looked after me...
 CN PLACEHOLDER
-Потому что... он – доказательство того, что ты меня защитил.
+Потому что...это доказывает...как братик... искал меня...
 
 沙羅「これが無くなってしまったら……、お兄ちゃんとの絆まで……、無くしてしまいそうな気がしたから……」%K%P
 I felt like... if this disappeared... then my connection to you... would be gone...
 CN PLACEHOLDER
-Я боялась, что... если он потеряется... то исчезнет и связь... между нами...
+Я боялась что......если он потеряется...то потеряется и связь......между мной и братиком...
 
 少年「沙羅……」%K%P
 Sara...
@@ -131,7 +131,7 @@ CN PLACEHOLDER
 沙羅「ゴメンね……、お兄ちゃんまで……、巻き込んじゃって」%K%P
 I'm sorry... I got you... involved in this mess.
 CN PLACEHOLDER
-Прости... братик... из-за меня одни неприятности.
+Прости...братик...из-за меня одни неприятности.
 
 少年「沙羅、いいんだ」%K%P
 Sara... It's okay.
@@ -146,12 +146,12 @@ CN PLACEHOLDER
 少年「いいんだよ。ぼくは約束を果たしに……、来ただけなんだから」%K%P
 It's alright. I only came... to keep my promise.
 CN PLACEHOLDER
-Всё в порядке. Я лишь пришёл... чтобы сдержать обещание.
+Всё в порядке. Я лишь пришёл...чтобы сдержать обещание.
 
 沙羅「おにい、ちゃん……、ありがとう……」%K%P
 Th-Thank you...
 CN PLACEHOLDER
-Братик... спасибо тебе...
+Братик.........спасибо тебе...
 
 沙羅の体が水中に沈みそうになるのを必死で支える。%K%P
 I desperately tried to prop up Sara to keep her from sinking.
@@ -161,7 +161,7 @@ CN PLACEHOLDER
 沙羅「ゴメンね……、もう、だめ……、浮かんで……いられないや……」%K%P
 I'm sorry... I can't keep... up... anymore...
 CN PLACEHOLDER
-Прости... я больше... не... могу...
+Прости...я больше...не...могу...
 
 少年「沙羅しっかりしろ！」%K%P
 Sara, hold on!
@@ -171,7 +171,7 @@ CN PLACEHOLDER
 沙羅「ゴメンね、ゴメンね、お兄ちゃん」%K%P
 I'm sorry... So sorry...
 CN PLACEHOLDER
-Прости... прости... братик...
+Прости...прости...братик...
 
 少年「沙羅、がんばれ、がんばるんだ沙羅！」%K%P
 Sara, hang on! Fight, Sara!
@@ -181,7 +181,7 @@ CN PLACEHOLDER
 沙羅「なんだか……、ボーっとして来ちゃった……」%K%P
 For... some reason... I'm dizzy...
 CN PLACEHOLDER
-Что-то... голова... кружится...
+Что-то...голова...кружится...
 
 少年「沙羅！」%K%P
 Sara!
@@ -191,7 +191,7 @@ CN PLACEHOLDER
 そうだ、今、ここの空気は、海水によって４．５気圧に圧縮されているんだ。%K%P
 I remembered that the air pressure there was compressed to 4.5 atmospheres because of the water pressure.
 CN PLACEHOLDER
-Я вспомнил, что здесь давление воздуха примерно 4,5 атмосферы, из-за давления воды.
+Я всмомнил, что здесь давление воздуха примерно 4.5 атмосферы, из-за давления воды.
 
 沙羅はその空気を吸い続けたせいで、酸素中毒になってしまっているんだろう。%K%P
 Sara had probably gotten oxygen poisoning from breathing the oxygen-heavy air.
@@ -216,12 +216,12 @@ CN PLACEHOLDER
 沙羅「うん……、お兄ちゃん……がんばるね……」%K%P
 I... I'll... try...
 CN PLACEHOLDER
-Я-я... братик... постараюсь...
+Ммм...братик...постараюсь...
 
 沙羅「でも……、もう、体が……動かない……」%K%P
 But... my body... won't move anymore...
 CN PLACEHOLDER
-Но... моё тело... не слушается...
+Но...моё тело...не слушается...
 
 くそっ、どうしたらいいんだ！%K%P
 I didn't know what to do.
@@ -231,7 +231,7 @@ CN PLACEHOLDER
 せっかく沙羅を見つけたのに！%K%P
 And I'd finally found Sara.
 CN PLACEHOLDER
-Но не знаю, что делать.
+Но, не знаю, что делать.
 
 少年「とにかく、非常通路まで行こう！」%K%P
 Anyway, let's head for the emergency corridor!
@@ -261,7 +261,7 @@ CN PLACEHOLDER
 そのとき！%K%P
 Then it happened!
 CN PLACEHOLDER
-И тут!
+И тут--!
 
 ――ギギイイイイイイイイイ%K%P
 —Screeeeeeeeeeeeeeeech!
@@ -291,7 +291,7 @@ CN PLACEHOLDER
 沙羅「かはっ……、ぐふっ……」%K%P
 *Cough*... *cough*...
 CN PLACEHOLDER
-*Кхх*... *кхх*...
+*Кхх*...*кхх*...
 
 沙羅「はあ、はあ、はあ……」%K%P
 *Pant*, *pant*, *pant*...
@@ -311,7 +311,7 @@ CN PLACEHOLDER
 どうすれば……、どうすればいいんだ……。%K%P
 What should I do... What could I do...?
 CN PLACEHOLDER
-Что я должен сделать... что я могу сделать?..
+Что я должен сделать...что я могу сделать...?
 
 鈍い音とともに、ＬｅＭＵ全体がかしぎ、水が波立つ。%K%P
 With a dull groan, LeMU tilted, causing the water to ripple.
@@ -331,12 +331,12 @@ CN PLACEHOLDER
 沙羅「お兄ちゃん……、ゴメンね、ゴメンね」%K%P
 I'm sorry... So sorry.
 CN PLACEHOLDER
-Братик... прости... прости...
+Братик...прости...прости...
 
 沙羅「もう……体が動かないよ……」%K%P
 My body... It won't move...
 CN PLACEHOLDER
-Моё... тело не слушается...
+Моё...тело не слушается...
 
 少年「沙羅、だめだ、しっかり！」%K%P
 No! Sara! Hang on!
@@ -351,7 +351,7 @@ CN PLACEHOLDER
 少年「沙羅、目を覚ませ沙羅！」%K%P
 Sara! Open your eyes! Sara!
 CN PLACEHOLDER
-Сара! Открой глаза! Сара!
+Сара! Открой глаза! Сара!!
 
 沙羅「お兄ちゃん……」%K%P
 Onii-chan...
@@ -361,7 +361,7 @@ CN PLACEHOLDER
 沙羅「来てくれて……、ありがとう……」%K%P
 Thanks for... coming back... Thank you...
 CN PLACEHOLDER
-Я рада... что ты вернулся...
+Я рада...что ты вернулся...
 
 沙羅の体から力が抜けていく。%K%P
 Sara's body went limp.
@@ -421,7 +421,7 @@ CN PLACEHOLDER
 ただ、上方から差し込んでくる光だけが、ぼくの唯一の希望だった。%K%P
 My only hope was the light piercing through the water from above.
 CN PLACEHOLDER
-Моя единственная надежда – свет, пробивающийся сквозь воду с поверхности.
+Моя единственная надежда - свет, пробивающийся сквозь воду с поверхности.
 
 ぼくは、沙羅を抱きしめたまま、そちらに向かって泳ぎ出す。%K%P
 Clutching Sara, I swam toward it.
@@ -431,7 +431,7 @@ CN PLACEHOLDER
 だが、痛む右腕で、意識を失った沙羅を抱きしめたまま泳ぐのは至難の業だった。%K%P
 But swimming with my injured arm and holding a limp Sara was nearly impossible.
 CN PLACEHOLDER
-Но плыть с травмированной рукой и держать обмякшую Сару, оказалось практически невозможно.
+Но, плыть с травмированной рукой и держать обмякшую Сару, оказалось практически невозможно.
 
 水圧が、ぼくの肺を圧迫し、空気を押し出す。%K%P
 The water pressure constricted my chest, forcing out my air.
@@ -441,7 +441,7 @@ CN PLACEHOLDER
 それでもぼくは泳ぎ続けた。%K%P
 But I kept swimming.
 CN PLACEHOLDER
-Но я продолжил плыть.
+Но, я продолжил плыть.
 
 体が、酸素が足りない、酸素がほしいと悲鳴を上げる。%K%P
 My body was screaming for air.
@@ -466,7 +466,7 @@ CN PLACEHOLDER
 %LC%FSそれとも下に……。%FE%T060%N
 Or maybe downward...
 CN PLACEHOLDER
-Или вниз?..
+Или вниз...?
 
 %LC%FS右腕の中の沙羅の体は、冷たく、冷え切っている。%FE%T060%N
 Sara's right arm felt cold, nearly frozen.
@@ -538,7 +538,7 @@ CN PLACEHOLDER
 %LC%FSぼくは……、また沙羅を助けてあげることが……。%FE%T060%N
 I... just couldn't...
 CN PLACEHOLDER
-Я... просто не...
+Я...просто не...
 
 %LC%FSできなかったみたいだ……。%FE%T060%O
 ...Seem to save her...

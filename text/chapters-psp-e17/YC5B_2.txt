@@ -1,7 +1,7 @@
 ﻿優「おーい、もしもーし、聞こえてるかぁ〜」%K%P
 Hey! Hello, are you listening to me?
 CN PLACEHOLDER
-Э-э-эй! Алло-алло! Ты меня слышишь?
+Ээээй〜〜〜! Алло〜алло〜〜〜! Ты меня слышишь?
 
 優はぼくの両肩をつかみ、前後に揺すった。%K%P
 You grabbed my shoulders and shook me.
@@ -11,7 +11,7 @@ CN PLACEHOLDER
 優「ねえ？　いったいどうしちゃったって言うのよ？　少年」%K%P
 What's the matter with you, Kid?
 CN PLACEHOLDER
-Эй, да что с тобой такое, Малой?
+Эй, да что с тобой такое, Кид?
 
 優「まさか『今年が西暦何年か？』ってことまで、忘れちゃってたわけ？」%K%P
 You can't possibly have forgotten what year it is, can you?
@@ -21,12 +21,12 @@ CN PLACEHOLDER
 優の言葉は耳に届かなかった。%K%P
 Her words made no impression on me.
 CN PLACEHOLDER
-Её слова для меня – как об стену горох.
+Её слова для меня - как горох об стенку.
 
 （なんてことだ……）%K%P
 (What on earth...)
 CN PLACEHOLDER
-(Что за...)
+(Что за...?)
 
 口の中はカラカラに渇き、握りしめた手の平は汗にまみれていた。%K%P
 My mouth was dry, and the palm of my clenched fist was drenched with sweat.
@@ -46,22 +46,22 @@ CN PLACEHOLDER
 ぼくのよく知っている優……今、ぼくの目の前に立っている優美清『秋』香菜は、２０１５年９月２２日に生まれたらしい。%K%P
 The You that I knew... The You standing in front of me, Yubisei'aki'kana, was born on the 22nd of September, 2015.
 CN PLACEHOLDER
-Ю, которую я знаю... Ю, стоящая передо мной, Юбисэйакикана, родилась 22 сентября 2015 года.
+Ю, которую я знаю...Ю, стоящая передо мной, Юбисейакикана, родилась 22 Сентября 2015 года.
 
 母親は、優美清春香菜だ。%K%P
 Her mother was Yubiseiharukana.
 CN PLACEHOLDER
-Её мама – Юбисэйхарукана.
+Её мама - Юбисейхарукана.
 
 つまり……。%K%P
 That meant...
 CN PLACEHOLDER
-Но это значит...
+Но, это значит...
 
 この世界は、優美清春香菜のいた２０１７年の１７年後の世界……２０３４年の世界で……。%K%P
 It was 2034, seventeen years after Yubiseiharukana's time in 2017...
 CN PLACEHOLDER
-Сейчас 2034-й, на 17 лет вперёд после времени Юбисэйхаруканы, в 2017-м...
+Сейчас 2034-й, на 17 лет вперёд после времени Юбисейхаруканы, в 2017-м...
 
 いや、だけど……。%K%P
 No, but wait...
@@ -86,12 +86,12 @@ CN PLACEHOLDER
 少年「今は、西暦２０３４年……」%K%P
 It's 2034 now...
 CN PLACEHOLDER
-Сейчас 2034-й...
+Сейчас 2034-й....
 
 少年「ゆきえさんが亡くなったのは、今から１５年前だから……」%K%P
 Yukie-san died fifteen years ago...
 CN PLACEHOLDER
-Юкиэ умерла 15 лет назад...
+Юки умерла 15 лет назад...
 
 少年「２０１９年ってことに……なる……」%K%P
 Which would have been in 2019...
@@ -101,12 +101,12 @@ CN PLACEHOLDER
 少年「でも、受信の日付は……『０２／０７／１９』……になってて……」%K%P
 But the date on that says... '02/07/19'...
 CN PLACEHOLDER
-Но дата в той записи гласит... „02/07/19“...
+Но, дата в той записи гласит...'02/07/19'...
 
 優「ああ、それ？」%K%P
 Oh, that?
 CN PLACEHOLDER
-А-а-а-ах, это?
+Аааах, это?
 
 優「そんなこと、気にしてたんだ？」%K%P
 You were worried about that?
@@ -141,17 +141,17 @@ CN PLACEHOLDER
 少年「じゃあ、あれは……あれは……」%K%P
 So are you telling me that...
 CN PLACEHOLDER
-То есть ты хочешь сказать...
+То есть, ты хочешь сказать...
 
 少年「２００２年７月１９日じゃなくて……」%K%P
 That wasn't July 19th, 2002...
 CN PLACEHOLDER
-Что это было не 19 июля 2002-го, а...
+Что это было не 19 Июля 2002-го, а...
 
 少年「２０１９年２月７日、だったってこと……！？」%K%P
 It was February 7th, 2019...?
 CN PLACEHOLDER
-7 февраля 2019-го?
+7 Февраля 2019-го...?
 
 優は深く頷いた。%K%P
 You nodded.
@@ -166,7 +166,7 @@ CN PLACEHOLDER
 ぼくは力無く首を振って、とぼとぼと警備室を後にした。%K%P
 I shook my head weakly and trudged out of the security office.
 CN PLACEHOLDER
-Я слабо покачал головой и усталым шагом поковылял из Офиса охраны.
+Я слабо покачал головой и усталым шагом поковылял из Офиса Охраны.
 
 優と優の母親の関係はわかったが、そのことを本人に告げるべきかどうか迷った。%K%P
 I had figured out the relationship between You and her mother but wondered whether I should tell her.
@@ -176,12 +176,12 @@ CN PLACEHOLDER
 いや、告げなければならない。それが優の為だと思う。%K%P
 No, I had to tell her. That was better for You in the long run.
 CN PLACEHOLDER
-(Нет, лучше не стоит. В конце концов, для Ю так будет лучше... по крайней мере, пока мы не выберемся отсюда.)
+(Нет, лучше не стоит. В конце концов, для Ю так будет лучше...по крайней мере, пока мы не выберемся отсюда.)
 
 だけど、それよりも何よりも、まずは自分のことを解決しなければどうにもならない。%K%P
 But first, I had to take care of my own problems.
 CN PLACEHOLDER
-Но сначала... я должен позаботиться о собственных проблемах.
+Но, сначала...я должен позаботиться о собственных проблемах.
 
 ぼくには行かなければならないところがあった。%K%P
 There was somewhere I had to go.
@@ -191,17 +191,17 @@ CN PLACEHOLDER
 沙羅「もう、なによぉ〜」%K%P
 What is it?
 CN PLACEHOLDER
-Ну-у-у, что ещё?
+Нууу, что ещёёё?
 
 沙羅「いきなりこんなとこに連れて来て、どうするつもり？」%K%P
 What did you bring me here for?
 CN PLACEHOLDER
-И зачем ты меня сюда притащил?
+И зачем, ради всего святого, ты нас сюда позвал?
 
 少年「実は、ふたりに……話したいことがあって……」%K%P
 I wanted to... talk to you guys alone...
 CN PLACEHOLDER
-Я хотел... поговорить с вами наедине...
+Я хотел...поговорить с вами двумя наедине...
 
 沙羅「話したいこと？」%K%P
 About what?
@@ -211,7 +211,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみは無言だった。なにか怯えているようにも見える。%K%P
 Tsugumi was silent. She seemed to be afraid of something.
@@ -231,7 +231,7 @@ CN PLACEHOLDER
 沙羅「それって、重要なことなの？」%K%P
 Is it important?
 CN PLACEHOLDER
-Значит... это важно?
+Значит...это важно?
 
 少年「うん、とても重要なことなんだ」%K%P
 Yes, very.
@@ -251,17 +251,17 @@ CN PLACEHOLDER
 少年「だから、わざわざこんなところまで、来てもらったんだよ」%K%P
 So that's why I asked you to come over here.
 CN PLACEHOLDER
-Вот почему я попросил вас прийти сюда.
+Вот почему я попросил вас придти сюда.
 
 沙羅「ふ〜ん……」%K%P
 Hmmmm...
 CN PLACEHOLDER
-Хм-м-м-м...
+Хмммм...
 
 沙羅「で？　その重要な話って言うのは？」%K%P
 So what's so important?
 CN PLACEHOLDER
-И... что же это за важная вещь?
+И...что же это за важная вещь?
 
 沙羅は何も気づいていないのだろうか？%K%P
 Hadn't Sara noticed anything?
@@ -286,27 +286,27 @@ CN PLACEHOLDER
 きっと沙羅だって、何か予感めいたものを抱いているはずだ。%K%P
 Surely, Sara had sensed something.
 CN PLACEHOLDER
-Конечно, Сара не просто заметила – она всё поняла.
+Конечно, Сара не просто заметила - она всё поняла.
 
 にもかかわらず、こんなふうに平然としていられるのは、自分に嘘をついているからだと思う。%K%P
 To be standing there calmly, she had to be in denial.
 CN PLACEHOLDER
-Её внешнее спокойствие говорит лишь об одном – её разум пытался отвергнуть очевидное.
+Её внешнее спокойствие говорит лишь об одном - её разум пытался отвергнуть очевидное.
 
 自分の予感を、理性が否定しているのだ。%K%P
 Reason was telling her that what she suspected couldn't be true.
 CN PLACEHOLDER
-Потому что с самого начала в ней закралась тень сомнения.
+Потому что, с самого начала, в неё закралась тень сомнения.
 
 『まさかこんなところで、２度も続けて偶然の再会が訪れるなんて』と、沙羅は思っているに違いなかった。%K%P
 The coincidence of meeting her mother again was probably too much for Sara to believe.
 CN PLACEHOLDER
-Встретить свою мать... да ещё в таком месте... при таких обстоятельствах – неудивительно, что Сара не смогла в это поверить.
+Встретить свою мать...да ещё в таком месте... при таких обстоятельствах -- не удивительно, что Сара не смогла в это поверить.
 
 沙羅「ねえ？　なんで黙ってるの？　早く教えてよぉ……」%K%P
 Well, are you going to say anything? Could you hurry up...?
 CN PLACEHOLDER
-Эй, что ты там хотел сказать? Может, поторопишься?..
+Эй, что ты там хотел сказать? Может поторопишься...?
 
 沙羅は口を尖らせて、ぼくを急かした。%K%P
 Sara urged me to get to the point.
@@ -326,7 +326,7 @@ CN PLACEHOLDER
 沙羅「うん、いいけど？」%K%P
 Alright.
 CN PLACEHOLDER
-Вот, держи.
+У〜гу...вот, держи.
 
 沙羅はポケットからそれらを出し、ぼくに手渡した。%K%P
 She took them out of her pocket and gave them to me.
@@ -346,12 +346,12 @@ CN PLACEHOLDER
 武……。%K%P
 Takeshi...
 CN PLACEHOLDER
-Такэси...
+Такеши......
 
 これが本当の、倉成武……なんだ……。%K%P
 That was... the real Kuranari Takeshi...
 CN PLACEHOLDER
-Это... настоящий Куранари Такэси...
+Это...настоящий Куранари Такеши...
 
 ペンダントと炎を、つぐみの目の前に近づける。%K%P
 I held the pendant and the flame closer to Tsugumi.
@@ -391,22 +391,22 @@ CN PLACEHOLDER
 少年「このペンダント……見覚え、あるでしょ？」%K%P
 You've seen this pendant before... haven't you?
 CN PLACEHOLDER
-Ты ведь уже видела этот кулон... Да?
+Ты же видела этот кулон и раньше...ведь так?
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「武だよ」%K%P
 It's Takeshi.
 CN PLACEHOLDER
-Это Такэси.
+Это Такеши.
 
 少年「本当の倉成武が、ここにいるんだよ！」%K%P
 The real Kuranari Takeshi is right here!
 CN PLACEHOLDER
-Он здесь, настоящий Куранари Такэси!
+Он здесь, настоящий Куранари Такеши!
 
 告げた瞬間、つぐみの目がカッと見開いた。%K%P
 The moment I said those words, Tsugumi's eyes flew open.
@@ -416,32 +416,32 @@ CN PLACEHOLDER
 仮面のように表情の失せた顔……ただ大きな瞳だけが、燃えるように光を放っていた。%K%P
 Stripped of expression, she wore a face like a mask... Only her eyes burned with a fierce light.
 CN PLACEHOLDER
-Её лицо словно маска, лишённая эмоций... Лишь глаза горят ярким пламенем.
+Её лицо, словно маска, лишённая эмоций...лишь глаза горят ярким пламенем.
 
 沙羅「ちょ、ちょっと待って！　なによ、それ！？　どういうこと！？」%K%P
 W-Wait just a minute! What are you talking about!?
 CN PLACEHOLDER
-П-погоди секунду... Что ты хочешь этим сказать?!
+П-Погоди секунду... Что ты хочешь этим сказать?!
 
 沙羅「武って……あの武のこと！？」%K%P
 Takeshi... You mean Takeshi!?
 CN PLACEHOLDER
-Такэси... Это и правда Такэси?!
+Такеши...?! Это и правда Такеши?!
 
 沙羅「そこに映ってるのが……武なの！？」%K%P
 Takeshi's... the one in this pendant!?
 CN PLACEHOLDER
-Значит... в кулоне изображён... Такэси?!
+Значит...в кулоне изображён...Такеши?!
 
 少年「ううん……」%K%P
 Umm, no...
 CN PLACEHOLDER
-М-м, нет...
+Эээ, нет...
 
 少年「ぼくらの知ってる武は、本当の倉成武じゃないんだ」%K%P
 The Takeshi we know isn't the real Kuranari Takeshi.
 CN PLACEHOLDER
-Такэси, которого мы знаем, никакой не „Такэси“.
+Такеши, которого мы знаем, никакой не 'Такеши'.
 
 少年「彼は、たぶん、嘘をついてるんだと思う」%K%P
 I think he's lying to us.
@@ -451,17 +451,17 @@ CN PLACEHOLDER
 沙羅「……？」%K%P
 ...?
 CN PLACEHOLDER
-Э-э?
+Эээ......?
 
 少年「だって本当の武は……」%K%P
 The real Takeshi...
 CN PLACEHOLDER
-Настоящий Такэси...
+Настоящий Такеши...
 
 少年「本当の倉成武は……」%K%P
 The real Kuranari Takeshi...
 CN PLACEHOLDER
-Настоящий Куранари Такэси...
+Настоящий Куранари Такеши...
 
 少年「ぼくと沙羅の……」%K%P
 Is your and my...
@@ -481,7 +481,7 @@ CN PLACEHOLDER
 大きく息を吐く。%K%P
 She breathed out a long sigh.
 CN PLACEHOLDER
-Она глубоко выдохнула.
+Она сделала глубокий вздох.
 
 つぐみの体から力が抜けていくのがわかった。%K%P
 I could see the tension leave Tsugumi's body.
@@ -491,12 +491,12 @@ CN PLACEHOLDER
 沙羅「ねえ、どういうことなの？　お兄ちゃん」%K%P
 Hey, what's this all about, onii-chan?
 CN PLACEHOLDER
-Эй, братик, что это значит?
+Эй, что это значит? Братик?
 
 沙羅「ちゃんと説明してよ……」%K%P
 Explain what's happening...
 CN PLACEHOLDER
-Объясни, что происходит...
+Объясни, что происходит...?
 
 少年「うん」%K%P
 Alright.
@@ -506,7 +506,7 @@ CN PLACEHOLDER
 少年「でも、その前に、確認しておきたいことがあるんだ……」%K%P
 But before I do, I want to check something...
 CN PLACEHOLDER
-Но прежде... я должен кое-что узнать...
+Но, прежде...я должен кое-что узнать...
 
 ぼくは、その言葉を口にするのをためらった。%K%P
 I hesitated about what to say next.
@@ -556,7 +556,7 @@ CN PLACEHOLDER
 闇の中にぼんやりとかすんだつぐみの姿……。%K%P
 Tsugumi's outline was hazy in the dark...
 CN PLACEHOLDER
-Сквозь темноту я взглянул на нечёткий силуэт Цугуми...
+Сквозь темноту, я взглянул на нечёткий силуэт Цугуми...
 
 この人が……%K%P
 She was...
@@ -566,7 +566,7 @@ CN PLACEHOLDER
 ぼくらの……%K%P
 Our...
 CN PLACEHOLDER
-наша...
+наша....
 
 捜し求めていた……%K%P
 Long sought-after...
@@ -586,7 +586,7 @@ CN PLACEHOLDER
 少年「お母さん……なんだよね？」%K%P
 You are our mother... aren't you?
 CN PLACEHOLDER
-Ты же... наша мама...
+Ты же...наша мама...
 
 少年「つぐみはぼくと沙羅の……」%K%P
 Our mother...
@@ -601,12 +601,12 @@ CN PLACEHOLDER
 少年「そうなんだよね……？」%K%P
 You are, aren't you...?
 CN PLACEHOLDER
-Это же ты?..
+Это же ты...?
 
 沙羅「……えっ！？」%K%P
 ...What!?
 CN PLACEHOLDER
-Что?!
+Эээ...!?
 
 つぐみがゆっくりと目を開いた。%K%P
 Tsugumi slowly opened her eyes.
@@ -616,7 +616,7 @@ CN PLACEHOLDER
 ぼくと沙羅のことを交互に見る。%K%P
 She looked at Sara and me.
 CN PLACEHOLDER
-Она смотрит на нас с Сарой.
+Она смотрит на Сару и меня.
 
 その瞳がうるんでいることに、ぼくは気づいた。%K%P
 I could see the tears in her eyes.
@@ -631,12 +631,12 @@ CN PLACEHOLDER
 少年「ぼく、お母さんのこと……責めたりしないから……」%K%P
 I don't blame you... for anything...
 CN PLACEHOLDER
-Я... не виню тебя... ни в чём...
+Я...не виню тебя...ни в чём...
 
 少年「ずっと……待ってたんだ……」%K%P
 I've waited for you... for so long...
 CN PLACEHOLDER
-Я ждал тебя... Ждал... так долго...
+Я ждал тебя...ждал...так долго...
 
 少年「お母さんのこと、待ってたんだ……」%K%P
 I've been waiting for you...
@@ -646,17 +646,17 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 沙羅「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「答えてよ！　お母さん！」%K%P
 Answer! Mom!
 CN PLACEHOLDER
-Ответь мне! Мама!
+Ответь мне!
 
 ぼくは強く叫んだ。%K%P
 I screamed at her.
@@ -691,12 +691,12 @@ CN PLACEHOLDER
 つぐみ「違うわ……」%K%P
 No...
 CN PLACEHOLDER
-Нет...
+Нет...!
 
 つぐみ「私は……母親なんかじゃない……」%K%P
 I'm not... your mother...
 CN PLACEHOLDER
-Я... не ваша мать...
+Я......не ваша мать...
 
 少年「嘘つかないでよ！」%K%P
 Don't you lie to me!
@@ -716,7 +716,7 @@ CN PLACEHOLDER
 少年「そのとき、お母さんは、武と結ばれて……」%K%P
 You and Takeshi became a couple...
 CN PLACEHOLDER
-Мама, вы с Такэси были вместе...
+Мама, вы с Такеши были вместе...!
 
 つぐみの瞳から、大粒の涙がこぼれ落ちた。%K%P
 Tsugumi was shedding huge tears.
@@ -731,7 +731,7 @@ CN PLACEHOLDER
 吐息はかすれ、うるみ、断続的な嗚咽となって洩れていた。%K%P
 Her breath was ragged and came out in hiccups.
 CN PLACEHOLDER
-Дыхание дрожало от слёз и вырывалось наружу обрывистыми, мучительными всхлипами.
+Она дышит с трудом и хнычет вперемешку с икотой.
 
 表情を崩すまいとして……顔が悲しくゆがむ。%K%P
 Her face twisted as she struggled to keep control of her emotions.
@@ -746,7 +746,7 @@ CN PLACEHOLDER
 つぐみ「ええ……そうよ……」%K%P
 Yes... That's right...
 CN PLACEHOLDER
-Да... Ты прав...
+*Гх*.........да......ты прав...
 
 つぐみ「確かにそう……」%K%P
 You're right...
@@ -756,7 +756,7 @@ CN PLACEHOLDER
 つぐみ「私はあなた達を産んだ……」%K%P
 I gave birth to you...
 CN PLACEHOLDER
-Я... родила вас...
+Я......родила вас...
 
 つぐみ「でも……」%K%P
 But...
@@ -766,12 +766,12 @@ CN PLACEHOLDER
 つぐみ「私には……『お母さん』なんて呼ばれる資格は……ないのよ……」%K%P
 I have no right... to be called 'mother'...
 CN PLACEHOLDER
-Я... не имею права... зваться... вашей „мамой“...
+Я...не имею правда...зваться...вашей 'Мамой'...
 
 つぐみ「あなた達には……もう本当の、母親がいるでしょ……？」%K%P
 You have... a real mother... don't you?
 CN PLACEHOLDER
-У вас есть... настоящая... мать...
+У вас есть......настоящая......мать...
 
 つぐみ「優しいお母さんがいるでしょ……？」%K%P
 Someone who took care of you...?
@@ -781,32 +781,32 @@ CN PLACEHOLDER
 つぐみ「私は……私は……あなた達を……守れなかった……」%K%P
 I... I... wasn't able to protect you both...
 CN PLACEHOLDER
-Я... Я... Я не смогла... защитить вас...
+Я......я......я не смогла......защитить вас...
 
 つぐみ「守れなかったの……」%K%P
 I couldn't take care of you...
 CN PLACEHOLDER
-Не смогла защитить...
+Не смогла защитить...!
 
 つぐみ「棄てたも同然なのよ……」%K%P
 I pretty much abandoned you...
 CN PLACEHOLDER
-Бросила вас одних...
+Бросила вас одних...!
 
 つぐみ「……置き去りにして……見棄てたの……」%K%P
 I left you... and walked away...
 CN PLACEHOLDER
-Я бросила вас одних... и сбежала...
+Я бросила вас одних......и сбежала!
 
 つぐみ「ひどいでしょ……？　許せないでしょ……？」%K%P
 I'm terrible... and I don't expect you to be able to forgive me...
 CN PLACEHOLDER
-Я чудовище... Нет мне прощения...
+Я чудовище......нет мне прощения...!
 
 つぐみ「だから私は……」%K%P
 That's why I...
 CN PLACEHOLDER
-Вот почему я...
+Вот почему...я...
 
 つぐみ「母親なんかじゃ……ないのよ……」%K%P
 I'm not your mother...
@@ -816,12 +816,12 @@ CN PLACEHOLDER
 つぐみ「『お母さん』なんて……呼ばないで……お願い……」%K%P
 Please... don't call me 'mother'...
 CN PLACEHOLDER
-Не зовите... Не зовите „мамой“... Прошу...
+'Мама'......не зовите......меня так...... умоляю...!
 
 つぐみ「お願い……だから……」%K%P
 Please don't...
 CN PLACEHOLDER
-Умоляю... Не надо...
+Умоляю......не надо...!
 
 つぐみは両手で顔を覆い、声をあげて泣き続けた。%K%P
 Tsugumi put her head in her hands and sobbed.
@@ -841,12 +841,12 @@ CN PLACEHOLDER
 沙羅「……ママ……」%K%P
 ...Mama...
 CN PLACEHOLDER
-Мама...
+Мама...!?
 
 沙羅「ママァーッ！」%K%P
 MAMA!
 CN PLACEHOLDER
-МАМА!
+......МАМА〜〜〜!!
 
 沙羅がぼくの体を離れ、つぐみの胸に飛び込んだ。%K%P
 Sara tore herself away from me and flew into Tsugumi's arms.
@@ -856,12 +856,12 @@ CN PLACEHOLDER
 ぼくもつぐみに泣きすがった。%K%P
 Following her lead, I clung to Tsugumi and cried as well.
 CN PLACEHOLDER
-Следом за ней я тоже прижался к Цугуми и заплакал.
+Следом за ней, я тоже прижался к Цугуми и заплакал.
 
 匂いを嗅いだ。%K%P
 The first thing I noticed was her familiar smell.
 CN PLACEHOLDER
-Первое, что я почувствовал – её знакомый запах.
+Первое, что я почувствовал - её знакомый запах.
 
 母親の匂いを胸いっぱいに吸い込んだ。%K%P
 I breathed in her scent deeply.
@@ -876,12 +876,12 @@ CN PLACEHOLDER
 ぼくら３人は強く抱きしめあい、肌と肌を触れあわせ、もつれあい、絡みあい、溶けあった。%K%P
 The three of us held each other tightly, relishing the touch of one another. Entwined, our hearts became one.
 CN PLACEHOLDER
-Мы втроём обнялись, крепко-крепко, чувствуя прикосновения друг друга, соединив наши сердца.
+Мы трое обнялись, крепко-крепко, чувствуя прикосновения друг друга, соединив наши сердца.
 
 そこにいたのはぼくではなく、沙羅でもなく、つぐみでもない……ただひとつの肉塊だった。%K%P
 We were no longer our individual selves, but one collective identity.
 CN PLACEHOLDER
-Мы больше не разрозненные частицы – мы единое целое.
+Мы больше не разрозненные частицы - мы единое целое.
 
 混ざりあったぼくらに境界はなかった。%K%P
 There were no boundaries between us.
@@ -906,17 +906,17 @@ CN PLACEHOLDER
 母の匂いが、遠い昔にすり込まれた記憶を呼び覚ます。%K%P
 I recalled the long-forgotten memories of my mother's smell.
 CN PLACEHOLDER
-Я вернул то самое, давным-давно забытое воспоминание – запах моей мамы.
+Я вернул то самое, давным-давно забытое воспоминание - запах моей мамы.
 
 けれどそれは、懐かしさのような感覚とは少し違っていた。%K%P
 It wasn't exactly the same feeling as nostalgia.
 CN PLACEHOLDER
-Это чувство непохоже на ностальгию.
+Это чувство не похоже на ностальгию.
 
 もっと原始的で、本能的な……脳に直接沁み込んでくるような甘い香りだったのだ。%K%P
 It was primitive, something instinctive... A sweetness that had been wired directly into my brain.
 CN PLACEHOLDER
-Скорее, это нечто на уровне инстинктов... сладость, что устремилась прямо в мой разум.
+Скорее, это нечто на уровне инстинктов... сладость, что устремилась прямо в мой мозг.
 
 沙羅「ママ……」%K%P
 Mama...
@@ -946,7 +946,7 @@ CN PLACEHOLDER
 つぐみ「ごめん……ごめんなさい……」%K%P
 I'm sorry... I'm so sorry...
 CN PLACEHOLDER
-Прости... простите меня...
+Прости...простите меня...
 
 声をつまらせながら、つぐみは言った。%K%P
 Tsugumi's voice was choked up.
@@ -956,22 +956,22 @@ CN PLACEHOLDER
 つぐみ「許してなんて……言えないけど……」%K%P
 I can't ask you... to forgive me...
 CN PLACEHOLDER
-Я не могу... просить вас... простить меня...
+Я не могу......просить вас......простить меня...
 
 つぐみ「私……私……」%K%P
 I... I...
 CN PLACEHOLDER
-Я... Я...
+Я......я......
 
 つぐみ「今まで一度も……あなた達のこと……忘れたことは……なかった……」%K%P
 I never... once forgot about you...
 CN PLACEHOLDER
-Я никогда... вас не... не забывала... никогда...
+Я никогда......вас не......не забывала...... никогда...
 
 つぐみ「ずっと……ずっと……あなた達に……」%K%P
 All... this... time...
 CN PLACEHOLDER
-Всегда... всегда... помнила о вас...
+Всегда......всегда......помнила о вас...
 
 つぐみ「逢いたくて……」%K%P
 I've wanted to see you...
@@ -981,7 +981,7 @@ CN PLACEHOLDER
 つぐみ「逢いたくて……謝りたくて……」%K%P
 Find you... and apologize...
 CN PLACEHOLDER
-Найти вас... и извиниться...
+Найти вас......и извиниться...
 
 沙羅「もういいの……」%K%P
 It's alright...
@@ -996,12 +996,12 @@ CN PLACEHOLDER
 沙羅「もう謝ったりなんか……しなくていいの……」%K%P
 You don't need to apologize...
 CN PLACEHOLDER
-Тебе не за что извиняться... не за что...
+Тебе не за что извиняться...не за что...
 
 沙羅「私は……ママに……逢えただけで……それだけで……」%K%P
 I... It's enough just to... be with you...
 CN PLACEHOLDER
-Я... Я рада... что наконец могу... быть с тобой...
+Я......я рада......что наконец могу......быть с тобой...
 
 こうして抱き合っているだけで、すべてがわかりあえた。%K%P
 As we held onto each other, we understood everything.
@@ -1096,7 +1096,7 @@ CN PLACEHOLDER
 聞こえるのは……静かに繰り返される呼吸の音と……。%K%P
 All I could hear was... just our calm breathing and...
 CN PLACEHOLDER
-Я слышу... лишь наши дыхания... и...
+Я слышу...лишь наши дыхания...и...
 
 母の鼓動……。%K%P
 My mother's heartbeat...
@@ -1106,7 +1106,7 @@ CN PLACEHOLDER
 とくん……とくん……とくん……。%K%P
 Thump, thump... Thump, thump... Thump, thump...
 CN PLACEHOLDER
-Тук-тук... тук-тук... тук-тук.
+Тук, тук...тук, тук...тук, тук.
 
 ぼくは生きている。%K%P
 I was alive.
@@ -1121,7 +1121,7 @@ CN PLACEHOLDER
 とくん……とくん……とくん……。%K%P
 Thump, thump... Thump, thump... Thump, thump...
 CN PLACEHOLDER
-Тук-тук... тук-тук... тук-тук.
+Тук, тук...тук, тук...тук, тук.
 
 何もかもが肯定され、受け入れられ、許された世界。%K%P
 Everything was affirmed, accepted, and forgiven.
@@ -1131,7 +1131,7 @@ CN PLACEHOLDER
 そこにいたのはぼくではなく、沙羅でもなく、つぐみでもない……。%K%P
 There was no me, nor Sara, nor Tsugumi...
 CN PLACEHOLDER
-Здесь нет ни меня, ни Сары, ни Цугуми...
+Здесь нет меня, ни Сары, ни Цугуми...
 
 ひとつに繋がった命……。%K%P
 There was only one life connected together...
@@ -1146,7 +1146,7 @@ CN PLACEHOLDER
 ――西暦２０１７年５月７日。午前１１時。%K%N
 —In the year 2017, May 7th, 11 a.m.
 CN PLACEHOLDER
-2017-й год, 7 мая, 11 часов утра.
+---2017-й год, 7 мая, 11 часов утра.
 
 浮島にたどりついたつぐみを待っていたのは、ライプリヒの連中だった。%K%N
 The men from Leiblich were waiting for Tsugumi when she got to the floating island.
@@ -1191,7 +1191,7 @@ CN PLACEHOLDER
 『人類の究極の夢を叶えること――真理を追究すること――』という美名のもとに行なわれる人体実験。%K%N
 What they wanted was nothing more than to perform human experiments under the pretext of “making the ultimate human dream come true”.
 CN PLACEHOLDER
-Под прикрытием лозунга «осуществления золотой мечты человечества», они хотели провести бесчеловечные эксперименты.
+Под прикрытием лозунга 'осуществления золотой мечты человечества', они хотели провести бесчеловечные эксперименты.
 
 つぐみの体をもてあそび、痛めつけることによって、彼らは知識と富と名声を手に入れようと企んでいた。%K%N
 By using Tsugumi's body, they were planning to gain knowledge, fame, and fortune.
@@ -1201,12 +1201,12 @@ CN PLACEHOLDER
 それこそが、彼らの欲望であった。%K%O
 That was indeed their desire.
 CN PLACEHOLDER
-Вот к чему всё на самом деле сводилось.
+Нелюди.
 
 『お待ちしておりました』――男のひとりが深々と頭をさげた。%K%N
 “We've been waiting for you.”—One of them took a deep bow.
 CN PLACEHOLDER
-«А мы уж вас заждались!» – поклонился один из них.
+'А мы уж вас заждались!' - поклонился один из них.
 
 その紳士的な振る舞いの陰から、ほとばしるような邪欲が垣間見え、つぐみは吐き気をもよおした。%K%N
 Behind his veneer of politeness was an evil that threatened to spill forth, making Tsugumi sick to her stomach.
@@ -1216,17 +1216,17 @@ CN PLACEHOLDER
 他の連中は舌なめずりをし、生唾を呑み……中には狂犬のように、わけのわからぬうめき声を洩らしている者もいた。%K%O
 Some of the others in his entourage licked their lips... swallowing their saliva like dogs gone mad with the hunt.
 CN PLACEHOLDER
-Его «свита» облизнулась... глотая слюну, как бешеные охотничьи псы.
+Его 'свита' облизнулась...глотая слюну, как бешеные охотничьи псы.
 
 瞬間――つぐみは大地を蹴り、はやてのように駆け出した。%K%N
 That instant, Tsugumi kicked hard off the ground, breaking into a run.
 CN PLACEHOLDER
-В мгновение ока Цугуми молниеносно сорвалась с места и бросилась наутёк.
+В мгновение ока, Цугуми молниеносно сорвалась с места и бросилась наутёк.
 
 広い人工島の上を走り、高いフェンスを飛び越え、茂みをかき分けて逃げ続けた。%K%O
 She ran across the wide surface of the huge artificial island, desperately scaling the high surrounding fence, and fled into the nearby foliage.
 CN PLACEHOLDER
-Она перебежала широкую местность гигантского рукотворного острова, неистово перемахнув через высокую ограду, и скрылась в ближайших кустах.
+Она перебежала широкую местность гигантского рукотворного острова, неистово перемахнув через высокую ограду и скрылась в ближайших кустах.
 
 追っ手の怒声、罵声、悲鳴、咆哮は、徐々に遠ざかっていった。%K%N
 Their cacophony of screams and angry cursing faded behind her.
@@ -1246,7 +1246,7 @@ CN PLACEHOLDER
 ――夜ふけ。%K%N
 —At night.
 CN PLACEHOLDER
-Ночь.
+---Ночь.
 
 浮島の港から、資材の運搬船が１隻、出航しようとしていた。%K%O
 A supply-carrying vessel slipped out of the floating island's port.
@@ -1261,7 +1261,7 @@ CN PLACEHOLDER
 これまでのつぐみの日常は『いかにして彼らから逃げ延びるか？』――それを考えることだけに費やされてきた。%K%N
 From that moment on, Tsugumi's life was consumed with one thought—“how to escape from them”.
 CN PLACEHOLDER
-С того момента её жизнь превратилась в бесконечное бегство.
+С того момента, её жизнь превратилась в бесконечное бегство.
 
 犯罪者でもなく、うしろめたいことなど何もないのに、つぐみは人々の視線を避け、闇に紛れ、背後に忍び寄る不気味な気配に脅えながら生きてきた。%K%O
 Although she wasn't a criminal, she avoided people, preferring to hide in the darkness, all the while threatened by ominous feelings of being hunted.
@@ -1276,7 +1276,7 @@ CN PLACEHOLDER
 数週間ごとに寝床を変え、街から街を渡り歩き、人気のない暗がりを徘徊し……。%K%N
 Every few weeks, she moved from one town to another, wandering in the darkness...
 CN PLACEHOLDER
-Каждые несколько недель она перебиралась из одного города в другой, блуждая в ночной мгле...
+Каждые несколько недель, она перебиралась из одного города в другой, блуждая в ночной мгле...
 
 橋げたの下、路地裏の軒先、海へと流れ込む下水管の中、公衆便所の個室の中で眠ったこともある。%K%N
 She slept under bridges, under back street eaves, pipes pouring into the ocean, and even in public restrooms.
@@ -1311,7 +1311,7 @@ CN PLACEHOLDER
 ライプリヒの影響力は、国家権力にまで深く浸透していたのである。%K%N
 Leiblich's influence even extended to national politics.
 CN PLACEHOLDER
-Влияние Лейблих незаметно, но глубоко пронизало саму государственную власть.
+Щупальца этого спрута добрались даже до политиканов.
 
 つぐみはやはり、じめじめと湿った裏通りを歩く以外になかった。%K%N
 There was nothing else for Tsugumi to do but continue to hide in back alleys.
@@ -1326,12 +1326,12 @@ CN PLACEHOLDER
 彼女の人生をぶち壊し、不幸のどん底へと叩き落したのは、彼ら以外の何者でもなかったし……それに……%K%O
 They had destroyed everything Tsugumi had cared about and made her life a living hell... What was more...
 CN PLACEHOLDER
-Они уничтожили всё, что было для неё важным, превратили её жизнь в ад... а ещё...
+Они уничтожили всё, что было для неё важным, превратили её жизнь в ад...а ещё...
 
 つぐみの最愛の人――倉成武の命を奪ったのが、他でもない彼らだったからだ。%K%N
 They had taken away the love of her life... Kuranari Takeshi.
 CN PLACEHOLDER
-Они забрали её единственную любовь... Куранари Такэси.
+Они забрали её единственную любовь...Куранари Такеши.
 
 ライプリヒの上層部の人間を、つぐみは片端から血祭りにあげてやりたいと思っていた。%K%N
 She wanted to get revenge on Leiblich with every fiber of her being.
@@ -1341,7 +1341,7 @@ CN PLACEHOLDER
 つぐみはこの世界を憎んでいた。憎悪の塊と化していた。%K%O
 Tsugumi came to hate the world, and her heart became even more hardened to it.
 CN PLACEHOLDER
-Цугуми возненавидела этот мир, её сердце ожесточилось ещё сильнее.
+Цугуми возненавидела этот мир, её сердце ожесточилось ещё сильней.
 
 ――２ヶ月が過ぎた。――夏。%K%N
 —Two months had passed. It was summertime.
@@ -1356,37 +1356,37 @@ CN PLACEHOLDER
 月のものが止まっていることは前から気づいていたが、まさかと思った。%K%O
 She knew she had stopped menstruating, but she didn't want to think about the possibility.
 CN PLACEHOLDER
-Она знала, что у неё задержка менструального цикла, но не хотела даже задумываться об этом.
+Она знала, что её менструации прекратились, но не хотела даже задумываться об этом.
 
 裏社会に知られた闇医者のもとへとおもむく。%K%N
 She went to visit an illegal doctor who was well-known in the back streets.
 CN PLACEHOLDER
-Она пришла на приём к подпольному врачу, что был хорошо известен в определённых кругах.
+Она пришла на приём к подпольному доктору, что был хорошо известен в определённых кругах.
 
 つぐみは妊娠していた。%K%N
 Tsugumi was pregnant.
 CN PLACEHOLDER
-Цугуми была беременна.
+Да, Цугуми была беременна.
 
 武の子供であることに間違いはない。彼以外と交わりを持ったことはないからだ。%K%N
 She was sure it was Takeshi's baby. She'd never been with anyone else.
 CN PLACEHOLDER
-Она была убеждена, что забеременела от Такэси. Потому что больше у неё никого не было...
+Она была убеждена, что забеременела от Такеши. Потому что больше у неё никого не было...
 
 腹の子……。%K%O
 She was pregnant...
 CN PLACEHOLDER
-Она была беременна...
+%P
 
 夜中、つぐみはとある地方都市の寂れた臨海部へと足を運んだ。%K%N
 At night, she went to the deserted coastal area of a small, nearby town.
 CN PLACEHOLDER
-Ночью она пришла в заброшенную бухту неподалёку от маленького городка.
+Ночью, она пришла в заброшенную бухту, неподалёку от маленького городка.
 
 倉庫と印刷工場と廃屋しかない濁った町だった。%K%N
 There were nothing but printing factories and abandoned houses.
 CN PLACEHOLDER
-Где не было ничего кроме целлюлозно-бумажных фабрик и ветхих, безлюдных домов.
+Где не было ничего кроме целлюлозно-бумажных фабрик и ветких, безлюдных домов.
 
 川なのか海なのかよくわからない水辺の船着場で、つぐみは高速道路沿いに立つネオンを眺めていた。%K%N
 Unsure if it was a river or the ocean, she sat on a boat dock, looking at a neon sign by the highway.
@@ -1401,7 +1401,7 @@ CN PLACEHOLDER
 腹に命があり、命はつぐみとつながり、つぐみは命に対して畏怖を覚え、同時に歓喜に身悶えた。%K%O
 She felt a sense of awe and joy at the fact there was life growing in her belly and that it was connected to her.
 CN PLACEHOLDER
-Она почувствовала страх и радость, что в её животе растёт новая жизнь... жизнь, соединённая с ней.
+Она почувствовала страх и радость, что в её животе растёт новая жизнь...жизнь, соединённая с ней.
 
 水面に揺れるネオンの光は精一杯の虚飾を演じ、キラビヤカであった。%K%N
 The neon light glittered and flickered off of the water's surface.
@@ -1411,27 +1411,27 @@ CN PLACEHOLDER
 つぐみは光を見ながら……腹に手をあてながら……むせび泣いた……。%K%N
 Tsugumi looked at the lights... with her hands on her stomach...
 CN PLACEHOLDER
-Цугуми взглянула на свет... прижав руки к своему животу...
+Цугуми взглянула на свет...прижав руки к своему животу...
 
 武の子供がここにいるのかと思うと、涙が止まらなかった。%K%N
 Realizing that Takeshi's babies were inside her, she couldn't stop crying.
 CN PLACEHOLDER
-Осознав, что внутри неё растут дети Такэси, она не могла сдержать слёзы.
+Осознав, что внутри неё растут дети Такеши, она не могла сдержать слёзы.
 
 たった数センチだったのかもしれない、そのときのふたりは……。%K%O
 They might have only been only a centimeter big at that time...
 CN PLACEHOLDER
-Тогда они наверное были не больше стручка гороха...
+Тогда они наверно были не больше стручка гороха...
 
 しかし、ふたつの胎児の存在は、それらを覆い包む母親の肉体さえ凌駕して……%K%N
 But the survival of the two babies outstripped the needs of the mother's body that surrounded them...
 CN PLACEHOLDER
-Но выживание двух малюток превышало нужды тела их матери...
+Но, выживание двух малюток превышало нужды тела их матери...
 
 むしろつぐみは『自分が赤ん坊を宿したのではなく、赤ん坊が自分を宿したのではないか』というような錯覚さえ抱いた。%K%N
 Tsugumi almost had the illusion that it wasn't her who bore the children, but it was actually they who bore her.
 CN PLACEHOLDER
-Цугуми уже стало казаться, что это «не она обуза для них, а наоборот – они для неё».
+Цугуми уже стало казаться, что это 'не она обуза для них, а наоборот - они для неё'.
 
 事実、つぐみのすべては、ふたりの中に注ぎ込まれていた。%K%O
 Everything that she was, she poured into her two babies.
@@ -1441,7 +1441,7 @@ CN PLACEHOLDER
 胎児はつぐみの一部ではなく、つぐみが胎児の一部だった。……彼女はそう思った。%K%N
 She felt that she was part of the babies, not the other way around.
 CN PLACEHOLDER
-Ей казалось, что она – частица своих малышей, а не наоборот.
+Ей казалось, что она - частица своих малышей, а не наоборот.
 
 つぐみはふたつの小さな小さな命に、何もかもを捧げようと決めた。%K%N
 It was then that Tsugumi decided to sacrifice everything for the two tiny lives.
@@ -1451,7 +1451,7 @@ CN PLACEHOLDER
 愛というものは概念だが、もしも物質化することがあるとすれば、それはつぐみにとって、腹の子の他には考えられなかった。%K%O
 Love was a concept to her, but if love could be brought into physical form, to her, it seemed it must be the babies in her.
 CN PLACEHOLDER
-Любовь была для неё целью. Но если любовь могла обрести физическую форму... для неё её воплощением стали дети у неё под сердцем.
+Любовь была для неё целью. Но, если любовь могла обрести физическую форму...для неё её воплощением стали дети у неё под сердцем.
 
 愛の塊が腹の中に息づいていた。%K%N
 That was it, love was growing inside her.
@@ -1461,22 +1461,22 @@ CN PLACEHOLDER
 武とつぐみの子供……。%K%N
 Takeshi and Tsugumi's babies...
 CN PLACEHOLDER
-Дети Такэси и Цугуми...
+Дети Такеши и Цугуми...
 
 いつしかつぐみの中にあった憎悪は、跡形もなく消え失せていた。%K%N
 Before long, the hatred she had felt toward everything had disappeared without a trace.
 CN PLACEHOLDER
-Вскоре ненависть, что та испытывала ко всему в этом мире, развеялась без следа.
+Вскоре, ненависть, что та испытывала ко всему в этом мире, развеялась без следа.
 
 つぐみは生まれて初めて神を感じたのだった。%K%O
 For the first time, Tsugumi felt as though there were a higher power guiding her life.
 CN PLACEHOLDER
-Цугуми впервые в жизни ощутила присутствие бога.
+Впервые, Цугуми стало казаться, что её жизнь в надёжных руках седого старца из небесной канцелярии.
 
 ――７ヶ月後。――２０１８年１月２１日。%K%N
 —Seven months later. January 21st, 2018.
 CN PLACEHOLDER
-2018-й год, 21 января. Семь месяцев спустя.
+---2018-й год, 21 января. Семь месяцев спустя.
 
 陣痛は唐突に訪れた。%K%N
 Tsugumi was suddenly struck with contractions.
@@ -1486,7 +1486,7 @@ CN PLACEHOLDER
 その日、闇医者は行方をくらましていて、姿がなかった。%K%O
 When they came, the back-alley doctor had gone somewhere.
 CN PLACEHOLDER
-Вернувшись в город, она обнаружила, что подпольного врача нет на месте.
+Вернувшись в город, она обнаружила, что подполного доктора нет на месте.
 
 近くの産婦人科に行く。%K%N
 She visited a nearby clinic.
@@ -1501,7 +1501,7 @@ CN PLACEHOLDER
 産婦人科医は、大きく腹の出たつぐみの背中を何度も蹴飛ばして、まるで迷い込んだ野良猫やドブネズミを追い払うかのように、つぐみを蹴り棄てた。%K%O
 When he found out that she couldn't pay, the doctor beat Tsugumi as though she were a stray animal.
 CN PLACEHOLDER
-Узнав, что та не сможет заплатить, врач избил Цугуми и выкинул на улицу, как бездомное животное.
+Узнав, что та не сможет заплатить, врач избил Цугуми и выкинул на улицу как бездомное животное.
 
 ふたりの赤ん坊は、古びた船小屋の中で産声をあげた。%K%N
 With nowhere else to go, the two babies were born in an old boat shack.
@@ -1521,7 +1521,7 @@ CN PLACEHOLDER
 『玉のようじゃ、玉のようじゃ、よう頑張ったのぉ』%K%N
 “Ooh how precious, so precious... You done a fine job, deary.”
 CN PLACEHOLDER
-«Ты молодец... они такие... такие милые.»
+'Дочка, ты молодец......они такие...такие милые.'
 
 老婆は何度も繰り返しながら、ブリキのタライに湯を張って、ふたりの体を優しく洗った。%K%N
 The old lady repeated that many times as she gently rinsed the babies in a tin basin.
@@ -1536,7 +1536,7 @@ CN PLACEHOLDER
 虚ろな視線を窓の外に向ける。%K%O
 Tsugumi's eyes gazed, unfocused, out a nearby window.
 CN PLACEHOLDER
-Еле живые глаза Цугуми были обращены на окно рядом.
+Еле живые глаза Цугуми были обращены на близлежащее окно.
 
 チラチラと粉雪が舞っていた。%K%N
 Snow was falling outside.
@@ -1546,12 +1546,12 @@ CN PLACEHOLDER
 『ほぉれ、めんこい子じゃあ、ちんちんのついとるのと、ついとらんのがおる、どっちを先に抱くかね？』%K%N
 “How darling... Yes, a precious boy and girl... Which one'll ya hold first?”
 CN PLACEHOLDER
-«Какие крошки... мальчик и девочка... кого подержишь первым?»
+'Какие крошки...мальчик и девочка...кого подержишь первым?'
 
 闇医者の診断から、双子だということはわかっていたけれど、二卵性だということまでは知らなかった。%K%O
 The illegal doctor had told her, so she was expecting twins, but she never imagined that they would be fraternal.
 CN PLACEHOLDER
-Подпольный врач сказал, что у неё будут близнецы, но Цугуми даже представить не могла, что они двуяйцевые.
+Подпольный доктор сказал, что у неё будут близнецы, но Цугуми даже представить не могла, что они двуяйцевые.
 
 つぐみは少し驚きながらも、こう答えた。%K%N
 A bit surprised, she said...
@@ -1561,22 +1561,22 @@ CN PLACEHOLDER
 『ふたり、一緒に……』%K%N
 “Both at the same time...”
 CN PLACEHOLDER
-«Обоих...»
+'Обоих...'
 
 ボロ布にくるまれたふたりの体を、つぐみはそっと懐に抱いた。%K%N
 Wrapped in an old cloth, Tsugumi gently held them to her chest.
 CN PLACEHOLDER
-Цугуми осторожно прижала их к груди, укутанных в старые простыни.
+Завёрнутая в старую скатерть, Цугуми нежно прижала их к своей груди.
 
 『なぁに、心配するでない、布は沸騰した湯で煮たものじゃ、へその緒を切ったハサミも消毒してある』%K%O
 “Not to worry, my deary. I boiled them cloth and the scissors what cut their cord in hot water good, I did.”
 CN PLACEHOLDER
-«Не волнуйся, дорогая. Я прокипятила для них простынки и ножницы, чтобы перерезать пуповины. Хорошо получилось.»
+'Не волнуйся, дочка. Я прокипятила для них простынки и ножницы, чтобы перерезать пуповины. Хорошо получилось.'
 
 『ありがとう』%K%N
 “Thank you.”
 CN PLACEHOLDER
-«Спасибо.»
+'Спасибо.'
 
 つぐみは老婆に礼を言った。%K%N
 Tsugumi thanked her.
@@ -1586,7 +1586,7 @@ CN PLACEHOLDER
 『ありがとう……ありがとう……』%K%N
 “Thank you... Thank you very much...”
 CN PLACEHOLDER
-«Спасибо... я не знаю, как мне вас благодарить...»
+'Спасибо...я не знаю, как мне вас благодарить...'
 
 無事に生まれて来たふたつの小さな命に、つぐみは感謝した。%K%N
 She gave thanks for the two lives who had been born safely.
@@ -1596,7 +1596,7 @@ CN PLACEHOLDER
 『ありがとう……』%K%N
 “Thank you...”
 CN PLACEHOLDER
-«Спасибо...»
+'Спасибо...'
 
 最後の言葉は、窓の外の深い闇に向かって告げられたものだった。%K%O
 And those last words were directed toward the deep darkness beyond the window.
@@ -1606,7 +1606,7 @@ CN PLACEHOLDER
 雪がしんしんと降っていた。%K%N
 The snow was falling.
 CN PLACEHOLDER
-Снег кружится... летает... летает...
+Снег кружится...летает...летает...
 
 つぐみの胸の中で、まぶたを閉じたふたりの赤ん坊は、同時に小さなアクビをした。%K%O
 The two babies pressed to Tsugumi's chest with their eyes closed let out small yawns.
@@ -1621,132 +1621,132 @@ CN PLACEHOLDER
 出産後まもなく、つぐみはふと、こんなことを思った。%K%N
 Soon after she had given birth, Tsugumi's thoughts were turned to the possibility.
 CN PLACEHOLDER
-Вскоре после рождения детей Цугуми не могла избавиться от страха...
+Вскоре после рождения детей, Цугуми не могла избавиться от страха...
 
 『もしもふたりが、私の胎内でキュレイウイルスに感染していたとしたら……』%K%N
 “If they got infected by Curé while they were inside of me...”
 CN PLACEHOLDER
-«А что, если они заразились Curé, пока были во мне...»
+'А что, если они заразились Curé, пока были во мне...'
 
 『そして、私と同じように、組替えられたＤＮＡの配列を持っているとしたら……』%K%N
 “And if their DNA was altered just like me...”
 CN PLACEHOLDER
-«...и их ДНК тоже изменилась...»
+'...и их ДНК тоже изменилась...?'
 
 つぐみは闇医者のもとへと向かった。%K%O
 Tsugumi visited the illegal doctor.
 CN PLACEHOLDER
-Цугуми пришла к подпольному врачу.
+Цугуми пришла к подпольному доктору.
 
 『心配することはないですよ』――闇医者は高笑いしながらそう言い、このような話を告げた。%K%N
 “Don't worry about it.”—He explained, laughing...
 CN PLACEHOLDER
-«Всё в порядке!» – смеясь ответил доктор...
+'Всё в порядке!' - смеясь ответил доктор...
 
 分類学上、純粋な人間は『霊長目真猿亜目ヒト上科ヒト科ヒト亜科ヒト属サピエンス種』に属する。%K%N
 According to taxonomic classification, a pure human would belong to “Primates Anthropoidea Hominoidea Hominidae Homo Sapiens”.
 CN PLACEHOLDER
-С научной точки зрения, «чистые» люди классифицируются как вид Homo Sapiens, он же человек разумный, в семействе гоминид, подотряде настоящих обезьян, отряде приматов.
+Согласно таксономической классификации, 'чистокровные' люди принадлежат к виду 'Антропоидных Приматов Гуманоидного Подвида Гомо-Сапиенс'.
 
 キュレイウイルスによって遺伝情報を書き換えられたつぐみは、すでに純粋な人間とは呼べず、その亜種であると考えられる。%K%O
 Tsugumi, whose genetic information was altered by the Curé virus, was not a pure human anymore, but rather a subspecies of it.
 CN PLACEHOLDER
-Цугуми, чья ДНК изменена вирусом Curé, относится уже не к «чистым» людям, а скорее к их подвиду.
+Цугуми, чья ДНК изменена вирусом Curé, относится уже не к 'чистокровным' людям, а скорее к их подвиду.
 
 便宜上、今ここでは仮に、その亜種を『キュレイ種』と呼ぶことにするならば……%K%N
 “Let's just call you subspecies 'Curé' for now...”
 CN PLACEHOLDER
-«Назовём для краткости твой подвид „Curé“...»
+'Назовём для краткости твой подвид 'Curé'...'
 
 『サピエンス種の武』と『キュレイ種のつぐみ』との交配によって生まれた『２人の子供』は、それらのハイブリッド（ハーフ）ということになる。%K%O
 “Now, any kids who were born from 'Takeshi, the Homo Sapiens' and 'Tsugumi, the Curé' would technically be 'hybrids'.”
 CN PLACEHOLDER
-«Это значит, что любые дети, рождённые от „Такэси, вида человек разумный“ и „Цугуми, вида Curé“, технически будут „гибридом“.»
+'Это значит, что любые дети, рождённые от 'Такеши, вида Гомо-Сапиенс' и 'Цугуми, вида Curé', технически будут 'гибридом'.
 
 ところで、キュレイウイルスは、純粋な人間、すなわち『ヒト属サピエンス種』にしか感染しないという特徴を持っている。%K%N
 “Now, by the way, I guess I should tell you that the Curé virus only infects pure humans, the 'Homo Sapiens'.”
 CN PLACEHOLDER
-«Судя по моим наблюдениям, я уверен, что вирус Curé заражает лишь „чистых“ людей, „человека разумного“.»
+'Судя по моим наблюдениям, я уверен, что вирус Curé заражает лишь 'чистокровных' людей, 'Гомо-Сапиенс'.'
 
 従って『ハイブリッドである２人の子供』には、キュレイウイルスの影響はまったくないと考えられる。%K%N
 “So, there's no way the Curé virus could possibly affect your two 'little hybrids' there.”
 CN PLACEHOLDER
-«Поэтому он никак не может заразить твоих „крошек-гибридов“.»
+'Поэтому, он никак не может заразить твоих 'крошек-гибридов'.'
 
 また同時に『テロメアの回復』や『自然治癒力の増大』といったキュレイ種独特の機能は、遺伝的には劣性遺伝することがわかっている。%K%O
 “While not much is known about the Curé virus, some of the unique functions scientists have discovered, such as 'regenerating telomeres' and 'regenerative healing', are inherited recessively.”
 CN PLACEHOLDER
-«Хотя о вирусе Curé мало что известно, было выявлено, что некоторые из его уникальных функций, такие как „регенерация теломер“ и „самозаживление“, наследуются рецессивно.»
+'Хотя о вирусе Curé мало что известно, было выявлено, что некоторые из его уникальных функций, такие как 'регенерация теломеров' и 'самозаживление' наследуются рецессивно.'
 
 血液型で言うと『ＡＡ型の父』と『ＯＯ型の母』との間に生まれた子供は、全員『ＡＯ型』となり、その血液は『Ａ型』の性質を持つことになる。%K%N
 “For blood types, without exception, all children born from a 'type AA father' and a 'type OO mother', for instance, can only be 'type AO', with a 'type A' predisposition.”
 CN PLACEHOLDER
-Для справки: группы крови по европейской системе ABO.%K%PГруппа «O» – «I». Группа «A» – «II». Группа «B» – «III». Группа «AB» – «IV».%K%P«Например, для групп крови, от „отца с группой AA“ и „матери с группой OO“ может родиться лишь ребёнок „группы AO“, с доминированием „группы A“.»
+Для справки: группы крови по европейской системе ABO.%K%PГруппа 'O' -- 'I'. Группа 'A' -- 'II'. Группа 'B' -- 'III'. Группа 'AB' -- 'IV'.%K%P'Например, для групп крови, от 'отца с группой AA' и 'матери с группой OO' может родиться лишь ребёнок 'группы AO', с доминированием 'группы A'.'
 
 なぜなら、Ａ型の因子は優性遺伝し、Ｏ型の因子は劣性遺伝するからだ。%K%N
 “Why? Because type A factors are inherited dominantly, and type O factors are inherited recessively.”
 CN PLACEHOLDER
-«Почему? Потому что признаки „A“ наследуются доминантно, а признаки „O“ – рецессивно.»
+'Почему? Потому что признаки 'A' наследуются доминантно, а признаки 'O' - рецессивно.'
 
 子供の血液型が『Ｏ型』となる為には……%K%O
 “In order for a child's blood type to be 'type O'...”
 CN PLACEHOLDER
-«Чтобы ребёнок родился с кровью „группы O“...»
+'Чтобы ребёнок родился с кровью 'группы O'...'
 
 『ＡＯ型×ＡＯ型』『ＡＯ型×ＢＯ型』『ＡＯ型×ＯＯ型』『ＢＯ型×ＢＯ型』『ＢＯ型×ＯＯ型』『ＯＯ型×ＯＯ型』……%K%N
 “...You'd have to have a mixture of either 'AO x AO', 'AO x BO', 'AO x OO', 'BO x BO', 'BO x OO', or 'OO x OO'...”
 CN PLACEHOLDER
-«...родители должны быть в одной из возможных комбинаций: „AO x AO“, „AO x BO“, „AO x OO“, „BO x BO“, „BO x OO“ или „OO x OO“...»
+'...родители должны быть в одной из возможных комбинаций - 'AO x AO', 'AO x BO', 'AO x OO', 'BO x BO', 'BO x OO', или 'OO x OO'...'
 
 ……の、いずれかの組み合わせでなければならない。つまり、両親ともにＯ型の因子を持っている必要があるのだ。%K%N
 “...It can only be one of the above, meaning that BOTH the parents gotta add that type 'O' factor to the genetic milkshake.”
 CN PLACEHOLDER
-«Проще говоря... для приготовления такого „генетического коктейля“, ОБА родителя должны иметь этот самый признак „O“.»
+'Проще говоря...для приготовления такого 'генетического коктейля', ОБА родителя должны иметь этот самый признак 'O'.'
 
 キュレイ種においても同じことが言える。%K%O
 “Same goes for the Curé virus.”
 CN PLACEHOLDER
-«Так же и с вирусом Curé.»
+'Так же и с вирусом Curé.'
 
 『純サピエンス種の父』と『純キュレイ種の母』との間に生まれた子供は……%K%N
 “Any child born from a pureblooded 'Sapiens' and 'Curé' will...”
 CN PLACEHOLDER
-«Любой ребёнок, рождённый от чистокровных „Человека разумного“ и „Curé“...»
+'Любой ребёнок, рождённый от чистокровных 'Сапиенс' и 'Curé'...'
 
 全員『サピエンスキュレイ種』となり、遺伝的に優性な『サピエンス種』の身体的性質を受け継ぐことになる。%K%N
 “...All be 'Sapiens-Curé' and inherit the dominant physical traits of both.”
 CN PLACEHOLDER
-«...будет „Сапиенс-Curé“ и унаследует доминантно характерные физические черты обоих.»
+'...будет 'Сапиенс-Curé' и унаследует доминантно характерные физические черты обоих.'
 
 生まれた子供が『キュレイ種』となる為には……%K%O
 “For them rugrats to become full-blooded 'Curé'...”
 CN PLACEHOLDER
-«Поэтому для рождения ребёнка подвида "Curé"...»
+'Поэтому, для рождения ребёнка подвида 'Curé'...'
 
 『キュレイ種×キュレイ種』『サピエンスキュレイ種×キュレイ種』『サピエンスキュレイ種×サピエンスキュレイ種』……%K%N
 “...The parents would have be 'Curé x Curé', 'Sapiens Curé x Curé', or 'Sapiens Curé x Sapiens Curé'...”
 CN PLACEHOLDER
-«...родители должны быть „Curé x Curé“, „Сапиенс Curé x Curé“, или „Сапиенс Curé x Сапиенс Curé“...»
+'...родители должны быть 'Curé x Curé', 'Сапиенс Curé x Curé', или 'Сапиенс Curé x Сапиенс Curé.'...'
 
 ……の、いずれかの組み合わせでなければならない。つまり、両親ともにキュレイ種の因子を持っている必要があるのだ。%K%O
 “...Any of those combinations, meaning that both parents have to be part or all Curé.”
 CN PLACEHOLDER
-«Любая из этих комбинаций предполагает, что родители должны быть полностью или частично „Curé“.»
+'Любая из этих комбинаций предполагает, что родители должны быть полностью или частично 'Curé'.
 
 さて、もはや言うまでもなく、２人の子供は『純サピエンス種の父』と『純キュレイ種の母』との間に生まれた子供である。%K%N
 “And since these two little critters were born from a 'pure Sapiens' and 'pure Curé...”
 CN PLACEHOLDER
-«И раз уж эти две крохи родились от „чистокровного Сапиенс“ и „чистокровного Curé“...»
+'И, раз уж эти две крохи родились от 'чистокровного Сапиенс' и 'чистокровного Curé'...'
 
 ゆえに、彼らはハイブリッドとは言え、その肉体の機能は、純粋な人間とほぼ同じであり、不老長寿等のキュレイ種的な特徴は持っていないことになる。%K%O
 “They'll have the same physical traits as a pure human and won't possess the Curé traits like perpetual youth.”
 CN PLACEHOLDER
-«У них будут те же характерные черты, что и у обычного человека. При этом они не унаследуют черты Curé вроде вечной молодости.»
+'У них будут те же характерные черты, что и у обычного человека. При этом, они не унаследуют черты Curé, вроде вечной молодости.'
 
 『だから、心配することはないんです、わかりましたか？』――闇医者は、つぐみが連れて来たふたりの赤子を抱き上げて、再び高く笑った。%K%N
 “So, you don't have nothing to worry about, alright?” The doctor held up the two babies Tsugumi had brought and laughed again.
 CN PLACEHOLDER
-«Так что тебе не о чем волноваться. Понимаешь?» – доктор передал Цугуми её детишек, что та принесла с собой, и снова рассмеялся.
+'Так что, тебе не о чем волноваться. Понимаешь?' -- доктор передал Цугуми её детишек, что та принесла с собой, и снова рассмеялся.
 
 闇医者の素性をつぐみは知らなかった。%K%N
 Tsugumi didn't know his background.
@@ -1776,7 +1776,7 @@ CN PLACEHOLDER
 ――出産から１年後。%K%N
 —A year after giving birth.
 CN PLACEHOLDER
-Год спустя.
+---Год спустя.
 
 また冬がやってきた。%K%N
 It was winter again.
@@ -1796,12 +1796,12 @@ CN PLACEHOLDER
 海沿いのひなびた町だった。%K%N
 It was a quiet, rustic coastal town.
 CN PLACEHOLDER
-Это был тихий прибрежный городок.
+Это был тихий, прибрежный городок.
 
 都市でもなく、観光地でもなく、漁業、農業が盛んなわけでもない……何も無い……わびしい港町だ。%K%O
 It wasn't a city or tourist town, no fishing or farming... Nothing... Just a dreary port town.
 CN PLACEHOLDER
-Ни туристов, ни рыбного промысла, ни сельского хозяйства... ничего... просто сонный портовый городок.
+Ни туристов, ни рыбного промысла, ни сельского хозяйства...ничего...просто сонный портовый городок.
 
 つぐみは昼間、縫製工場で働き、わずかな日銭を稼ぎ、その間、子供達は保育施設に預けていた。%K%N
 During the day, Tsugumi worked for next to nothing at a sewing factory while the babies stayed at a daycare center.
@@ -1811,7 +1811,7 @@ CN PLACEHOLDER
 明け方から午後４時までミシンを踏み続け、その後はふたりの幼な子と一緒にのんびり過ごした。そんな毎日だった。%K%N
 She spent every day glued to a sewing machine from early morning to 4 p.m., and after that, she would spend time with the babies.
 CN PLACEHOLDER
-День за днём она проводила в обнимку со швейной машинкой, с раннего утра до 4 вечера, а остальное время уделяла детям.
+День за днём, она проводила в обнимку со швейной машинкой, с раннего утра до 4 вечера, а остальное время уделяла детям.
 
 収入は少なく貧しかった。紙おむつを買う金さえ無かった。%K%O
 Her wages were very low, so of course they were poor. She couldn't even afford disposable diapers.
@@ -1821,7 +1821,7 @@ CN PLACEHOLDER
 つぐみは、縫製工場から廃棄されるボロ切れを拾い集め、縫い合わせ、ツギハギだらけのおしめと子供服を作った。%K%N
 Tsugumi collected small scraps of cloth, leftovers from the factory, and sewed diapers and clothes for the babies.
 CN PLACEHOLDER
-Цугуми собирала мелкие клочки ткани, остатки с фабрики и шила подгузники... и одежду для детей.
+Цугуми собирала мелкие клочки ткани, остатки с фабрики и шила подгузники...и одежду для детей.
 
 そんな環境の中でも、子供達は病気ひとつせず、すくすくと育っていった。%K%N
 Despite the harsh living conditions, the babies were growing healthily.
@@ -1831,7 +1831,7 @@ CN PLACEHOLDER
 平穏な生活だった。貧しさを感じることはなかった。すべてが満たされていた。%K%N
 Their life was a peaceful one, and although they were poor, the poverty didn't threaten them. They were content.
 CN PLACEHOLDER
-Их жизнь была мирной, и, несмотря на бедность, они ни в чём не нуждались.
+Их жизнь была мирной и, несмотря на бедность, они ни в чём не нуждались.
 
 ３人に笑顔が絶えることはなかった。%K%O
 The three of them were always smiling.
@@ -1841,7 +1841,7 @@ CN PLACEHOLDER
 『マンマ……マンマ……』『あ〜あ、ちゃったぁ……ちゃったぁ……』%K%N
 “Momma... Momma...” “Oh... Chammiii, Chammiii...”
 CN PLACEHOLDER
-«Мам-ма... мам-ма...» – «Ой... Чами-и-и, Чами-и-и...»
+'Маммаа...маммаа...' 'Ой... Чаммиии, Чаммиии...'
 
 今では、ふたりの赤ん坊はそんな言葉を口にするようになっている。%K%N
 They were already beginning to talk.
@@ -1856,22 +1856,22 @@ CN PLACEHOLDER
 『あ〜あ、ちゃったぁ……ちゃったぁ……』と言ったのは女の子の方だ。満１才でこのような発話するのは大変珍しい。%K%N
 The girl had begun to speak, “Oh... Chammiii, Chammiii...”, which was very unusual for a one-year-old.
 CN PLACEHOLDER
-Девочка говорила: «Ой... Чами-и-и, Чами-и-и...» – что весьма необычно для годовалого малыша.
+Девочка говорила 'Ой...Чаммиии, Чаммиии...', что весьма необычно для годовалого младенца.
 
 身体的な発育は男の子の方が早く、知能の発育は女の子の方が早かったようだ。%K%N
 The boy, it seemed, grew faster physically, and the girl grew faster intellectually.
 CN PLACEHOLDER
-Казалось, мальчик быстро растёт физически, а девочка – умственно.
+Казалось, мальчик быстро растёт физически, а девочка - умственно.
 
 つぐみはふたりの愛らしい仕草を優しく見守った。幸せをかみしめていた。%K%O
 Tsugumi tenderly watched over their cute gestures. She was filled with happiness.
 CN PLACEHOLDER
-Цугуми с нежностью наблюдала за их умильными телодвижениями. Она была полна счастья.
+Цугуми с нежностью наблюдала за их умильными телодвижениями. Она была исполнена счастья.
 
 ――２０１９年５月７日。%K%N
 —May 7th, 2019.
 CN PLACEHOLDER
-2019 год, 7 мая.
+---2019 год, 7 мая.
 
 ふたりの赤ん坊は１才３ヶ月になっていた。%K%N
 The two babies were fifteen months old.
@@ -1896,17 +1896,17 @@ CN PLACEHOLDER
 『ちぃーめたい……ちぃーめたいの……』と言って、はしゃいでいた。%K%O
 She was giggling, saying, “Cooold... So cold...”
 CN PLACEHOLDER
-Она хихикала и говорила: «Хо-о-олодно... холо-о-одный...»
+Она хихикала и говорила 'Хооолодно... холооодный...'
 
 つぐみは水平線の彼方を眺めながら、武のことを考えていた。%K%N
 Watching out over the flat surface of the ocean, Tsugumi's thoughts turned to Takeshi.
 CN PLACEHOLDER
-Глядя на океанскую гладь, Цугуми вспомнила Такэси.
+Глядя на океанскую гладь, Цугуми вспомнила Такеши.
 
 『だったら生きろ。生きている限り生きろ。大丈夫……俺は死なない』――武が残した最後の言葉。%K%N
 “So live! As long as you're alive, live! Don't worry... I'm not going to die.”—those were Takeshi's last words to her.
 CN PLACEHOLDER
-«Так живи! Пока ты жива, живи! Не волнуйся... я... я не умру...» – это были его последние слова.
+'Так живи! Пока ты жива, живи! Не волнуйся... я...я не умру...' -- это были его последние слова.
 
 あれからもう２年が経つ。%K%N
 It had been two years already.
@@ -1916,22 +1916,22 @@ CN PLACEHOLDER
 『俺は死なない』――そう言って、男は愛する女を守り、ここにいる子供達を守り、海の底へと沈んでいった。%K%O
 “I'm not going to die.”—After saying that, he sank to the bottom of the ocean, protecting the woman he loved, protecting the children right in front of her.
 CN PLACEHOLDER
-«Я не умру», – с этими словами он утонул в морской пучине, защищая женщину, которую любил, защищая детей, что сейчас были перед ней.
+'Я не умру.' -- с этими словами, он утонул в морской пучине, защищая женщину, которую любил, защищая детей, что сейчас были перед ней.
 
 『バカ、嘘つき』――つぐみは海原に向かって呟いた。%K%N
 “You fool, you're a liar.”—Tsugumi whispered to the ocean.
 CN PLACEHOLDER
-«Глупый, глупый лжец», – прошептала Цугуми океану.
+'Глупый, глупый лжец.' -- прошептала Цугуми океану.
 
 しかしそう思う一方で、まだ彼女は一縷の望みを捨て切れずにいた。%K%N
 But at the same time, she still hadn't given up hope.
 CN PLACEHOLDER
-Но в то же время она по-прежнему не теряла надежду.
+Но, в то же время, она по-прежнему не теряла надежду.
 
 『いいえ、違うわ。彼は生きている。きっとどこかで生きている。だって彼は、約束を破るような人じゃないもの』%K%N
 “No... He must be alive somewhere. He's a man of his word.”
 CN PLACEHOLDER
-«Нет... наверняка он жив. Где-то... Он человек слова.»
+'Нет...наверняка он жив. Где-то... Он человек слова.'
 
 ――と、そのときだった。%K%O
 —Just then.
@@ -1946,7 +1946,7 @@ CN PLACEHOLDER
 それは大人から見ればスネを浸すぐらいの小さな波だったが、まだ１才の幼な子にとっては怒濤に等しい高波であった。%K%N
 It was a small, sun-soaked wave from an adult's perspective, but for a one-year-old child it was a raging wall of water.
 CN PLACEHOLDER
-Для взрослого она бы вряд ли дошла до голени, но для годовалого ребёнка она была подобна цунами.
+Для взрослого, она бы вряд ли дошла до голени, но для годовалого ребёнка, она была подобна цунами.
 
 女の子は押し寄せる水しぶきに巻かれて姿を消し、また引いていく波にさらわれて、流木のように砂の上を転がった。%K%O
 The girl disappeared in a splash of water and was sucked out into the ocean like a piece of driftwood by the tide.
@@ -1961,7 +1961,7 @@ CN PLACEHOLDER
 だが、つぐみが女の子に駆け寄る前に、信じられないことが起こった。%K%N
 But before she could get there, something unbelievable happened.
 CN PLACEHOLDER
-Но прежде, чем она успела добежать, случилось нечто из ряда вон выходящее.
+Но, прежде чем она успела добежать, случилось нечто из ряда вон выходящее.
 
 まだ１才３ヶ月の男の子が、泡立つ波の中へと身を躍らせ、溺れもがく女の子の姿を抱き上げたのだ。%K%N
 The boy, who was only one year and three months old, jumped into the water and saved the girl.
@@ -1986,22 +1986,22 @@ CN PLACEHOLDER
 男の子は、何が起こったのかわからないといった感じで、泣きじゃくる妹のことをきょとんと見つめていた。%K%O
 The boy, seemingly unaware of what had happened, looked at his crying sister.
 CN PLACEHOLDER
-Мальчик, словно не понимая, что произошло, со слезами на глазах взглянул на свою сестру.
+Мальчик, словно не понимая, что произошло, со слезами на глазах, взглянул на свою сестру.
 
 それから数秒後……力尽きたのか、男の子はことんと砂の上に倒れた。%K%N
 A few seconds later... he fell over as if all his strength had left him.
 CN PLACEHOLDER
-И через несколько секунд... он свалился, словно все силы оставили его.
+И, через несколько секунд...он свалился, словно все силы оставили его.
 
 その晩、ふたりは示し合わせたかのように、高熱を出して寝込んだ。%K%O
 That night, both of them came down with a high fever.
 CN PLACEHOLDER
-Той же ночью оба ребёнка слегли с высокой температурой.
+Той же ночью, оба ребёнка слегли с высокой температурой.
 
 ――夏。――出産から１年半が経った。%K%N
 —It was summertime. A year and a half had passed since the birth.
 CN PLACEHOLDER
-Лето. С момента рождения детей прошло полтора года.
+---Лето. С момента рождения детей прошло полтора года.
 
 この１年半は、どの瞬間を切り取っても、幸せが満ち溢れていた。%K%N
 All of that time in the previous year and a half had been filled with happiness.
@@ -2011,7 +2011,7 @@ CN PLACEHOLDER
 何もなかったけど……何もなかったからこそ、ほのぼのとした日常……。%K%O
 Nothing special had happened... and that was why it had been so peaceful...
 CN PLACEHOLDER
-Ничего плохого не случилось... вот почему это время было таким мирным...
+Ничего плохого не случилось...вот почему это время было таким мирным...
 
 やんちゃ坊主の男の子からは、危なっかしくて目を離すことができなかった。%K%N
 The boy was a wild one, and Tsugumi could hardly take her eyes off of him for a second.
@@ -2041,12 +2041,12 @@ CN PLACEHOLDER
 いくら注意してもお兄ちゃんの髪の毛をいぢる癖をやめなかった。%K%N
 And no matter how much Tsugumi warned her, she wouldn't stop playing with her brother's hair.
 CN PLACEHOLDER
-И сколько бы Цугуми ни предупреждала её, она не прекращала играть с волосами своего брата.
+И, не важно, сколько бы Цугуми не предупреждала её, она не прекращала играть с волосами своего брата.
 
 そしてしばしば『チャミたん、もっと！　もっと！　もっと！』とせがんだ。%K%O
 And she would always demand, “More Chami! More Chami!”
 CN PLACEHOLDER
-И она всегда требовала: «Чами! Хочу Чами!»
+И...она всегда требовала 'Чами! Хочу Чами!!'
 
 ふたりの子供達に翻弄され、振りまわされる毎日……。%K%N
 Those days were filled with Tsugumi being buffeted about by her two rambunctious children...
@@ -2066,12 +2066,12 @@ CN PLACEHOLDER
 『マンマ……マンマ……』%K%N
 “Momma... Momma...”
 CN PLACEHOLDER
-«Мама... мама...»
+'Мама...мама...'
 
 『あ〜あ、ちゃったぁ……ちゃったぁ……』%K%N
 “Aaah... Chammiii, Chammmiii...”
 CN PLACEHOLDER
-«А-а-ах... Чами, Чами...»
+'Ааах...Чами, Чами...'
 
 むにゃむにゃと寝言をもらしながら、ふたりの幼な子は、母親の温もりを求め甘えてきた。%K%N
 Talking in their sleep, the two babies sought their mother's touch.
@@ -2081,17 +2081,17 @@ CN PLACEHOLDER
 無邪気な子供達の仕草に、つぐみはまた、我を忘れて恍惚とするのだった。%K%O
 Looking down at their sweet, innocent gestures, Tsugumi felt bliss she had never known.
 CN PLACEHOLDER
-Глядя на их нежные невинные мордашки, Цугуми была на седьмом небе от счастья.%K%PСчастье... как сильно его ей не хватало.
+Глядя на их нежные невинные мордашки, Цугуми была на седьмом небе от счастья.%K%NСчастье...как сильно его ей не хватало.
 
 ――その日。%K%N
 —One day.
 CN PLACEHOLDER
-Но однажды...
+Но, однажды...
 
 平穏な日常は、無惨にも打ち砕かれた。%K%O
 Her peaceful world was shattered to pieces.
 CN PLACEHOLDER
-Её хрупкий, созданный с таким трудом мир был разбит вдребезги.
+Её хрупкий, созданный с таким трудом, мир был разбит вдребезги.
 
 あまりにも唐突な出来事……。%K%N
 It all happened so unexpectedly...
@@ -2101,17 +2101,17 @@ CN PLACEHOLDER
 日々の安らぎに酔いしれ、すっかりと気を緩めていたつぐみは、奴らに対する警戒を完全に怠っていた。%K%N
 Caught up in her life of happiness, Tsugumi had forgotten to watch out for “them”.
 CN PLACEHOLDER
-Утонув в своей счастливой жизни, Цугуми перестала остерегаться «их».
+Утонув в своей счастливой жизни, Цугуми перестала остерегаться 'их'.
 
 どこから情報を入手したのかわからないが、奴らが、不意につぐみの前へと姿を現したのだった。%K%N
 She didn't know how they had found out, but they had somehow gathered information and showed up without warning.
 CN PLACEHOLDER
-Она не знала, как, но они нашли её и пришли без стука.
+Она не знала как, но они нашли её и пришли без стука.
 
 奴ら……ライプリヒの連中が……。%K%O
 Them... The people from Leiblich...
 CN PLACEHOLDER
-Они... приспешники Лейблих...
+Они...приспешники Лейблих...
 
 つぐみは、取るものも取りあえず、ふたりの幼な子と、１匹のハムスターだけを抱いて逃げた。%K%N
 With no time to collect anything, all Tsugumi could bring with her was her two babies and her hamster as she fled.
@@ -2136,27 +2136,27 @@ CN PLACEHOLDER
 『仮に逃げのびることができたとしても、それがこの子達の幸せになるだろうか？』%K%N
 “Even if I could keep escaping, would it really be happiness for the two children?”
 CN PLACEHOLDER
-«Даже если я буду продолжать убегать, принесёт ли это счастье моим детям?»
+'Даже если я буду продолжать убегать, принесёт ли это счастье моим детям?'
 
 『もしかしたら、学校にだって行かせてやれないかもしれない』%K%N
 “They wouldn't be able to go to school.”
 CN PLACEHOLDER
-«Они не смогут пойти в школу.»
+'Они не смогут пойти в школу.'
 
 『街から街へと渡り歩く生活は、この子達にはあまりにも酷だ』%K%N
 “And it would be too hard on them to keep moving from town to town.”
 CN PLACEHOLDER
-«Для них это будет слишком тяжело... кочевать из города в город.»
+'Для них это будет слишком тяжело...кочевать из города в город.'
 
 『しかも……もしも捕まってしまったとしたら、ライプリヒがこの子達に何をするかわかったものではない』%K%O
 “Besides... if we ever get caught, what would they do to my children at Leiblich?”
 CN PLACEHOLDER
-«Но... Если нас поймают, что Лейблих сделают с моими детьми?..»
+'Но...если нас поймают, что Лейблих сделают с моими детьми...?'
 
 『私といては危険だ、あまりにも危険すぎる……』%K%N
 “It's too dangerous for them to be with me...”
 CN PLACEHOLDER
-«Быть со мной для них слишком опасно...»
+'Быть со мной для них слишком опасно...'
 
 つぐみは決意をかためた。%K%O
 Tsugumi made up her mind.
@@ -2166,7 +2166,7 @@ CN PLACEHOLDER
 信頼できそうな施設を片っ端から調べあげ、ふたりの幼な子を、そこにあずけることに決めたのだ。%K%N
 She researched an orphanage she could trust and decided to leave them there.
 CN PLACEHOLDER
-Она нашла сиротский приют, работникам которого могла доверять, и решила оставить их там.
+Она нашла сиротский приют, работникам которого могла доверять и решила оставить их там.
 
 ふたりの子供は、まだ幼すぎた。%K%N
 The two children were just too young...
@@ -2186,7 +2186,7 @@ CN PLACEHOLDER
 『必ず戻ってくるからね？　迎えに来るからね？』%K%N
 “I will come back for you. I will come to get you, I promise.”
 CN PLACEHOLDER
-«Я вернусь за вами. Вернусь и заберу вас, обещаю.»
+'Я вернусь за вами. Вернусь и заберу вас, обещаю.'
 
 状況を呑み込むことのできないふたりの子供達は、ポロポロと涙を流す母親の姿を、寂しそうに、悲しそうに、見つめるだけだった。%K%N
 Being too young to understand the situation, the two children just stared at their mother, crying.
@@ -2196,7 +2196,7 @@ CN PLACEHOLDER
 つぐみは、はらはらと泣きながら、何度も何度も後ろを振り返り、その場を去って行った。%K%O
 Weeping bitter tears, Tsugumi looked back many times as she walked away.
 CN PLACEHOLDER
-Вытерев горькие слёзы, Цугуми с каждым шагом прочь всё оборачивалась и оборачивалась.
+Вытерев горькие слёзы, Цугуми, с каждым шагом прочь, всё оборачивалась и оборачивалась.
 
 つぐみに残されたものは、チャミだけだった。%K%N
 All she had left was Chami.
@@ -2211,17 +2211,17 @@ CN PLACEHOLDER
 けれど、そんなチャミの仕草も、慰めになどなりはしなかった。%K%N
 But even Chami's cute gestures could do little to ease Tsugumi's broken heart.
 CN PLACEHOLDER
-Но даже умильная мордашка Чами не могла исцелить её разбитое сердце.
+Но, даже умильная мордашка Чами не могла исцелить её разбитое сердце.
 
 つぐみは失意のどん底であえぎ、悲しみに暮れ、幾たびも泣き明かした。%K%O
 She spent many nights in the depths of despair, crying in her sorrow.
 CN PLACEHOLDER
-Она провела много бессонных ночей рыдая от горя и отчаяния.
+Она провела много бессонных ночей, рыдая от горя и отчаяния.
 
 ――数年後。%K%N
 —A few years later.
 CN PLACEHOLDER
-Несколько лет спустя.
+---Несколько лет спустя.
 
 つぐみが再び施設へと舞い戻ったときには、すでに子供達の姿はなかった。%K%N
 By the time Tsugumi went back to the orphanage, the children were already gone.
@@ -2231,12 +2231,12 @@ CN PLACEHOLDER
 それから、気の遠くなるような歳月が流れ……%K%N
 From that time on, she had gone through life...
 CN PLACEHOLDER
-С того момента прошло много лет...
+С того момента, прошло много лет...
 
 廃人のように成り果てたつぐみは……%K%N
 No more than an empty husk...
 CN PLACEHOLDER
-Она чувствовала себя опустошённой...
+Она чувствовала себя опустошённой....
 
 今日、この日、この瞬間まで……%K%N
 Until that day, until that very moment...
@@ -2246,7 +2246,7 @@ CN PLACEHOLDER
 ただひたすら我が子の姿だけを捜し求め……%K%N
 Tsugumi had kept searching for her children...
 CN PLACEHOLDER
-Цугуми делала лишь одно – искала своих детей...
+Цугуми делала лишь одно -- искала своих детей...
 
 闇から闇へとさまよい続けてきたのだった。%K%O
 Wandering through darkness.
@@ -2261,7 +2261,7 @@ CN PLACEHOLDER
 結局最後まで、話の中で、つぐみの口から『ホクト』や『沙羅』といった名前が出ることはなかった。%K%P
 She never once mentioned the names “Hokuto” or “Sara” in the story.
 CN PLACEHOLDER
-Она ни разу не упомянула имён «Хокуто» или «Сара».
+Она ни разу не упомянула имён 'Хокуто' или 'Сара'.
 
 理由は、それらの名前が、つぐみの名付けたものではなかったからだ。%K%P
 Because those names weren't the names Tsugumi had given them.
@@ -2276,17 +2276,17 @@ CN PLACEHOLDER
 ………………。%K%P
 .........
 CN PLACEHOLDER
-.........
+..................
 
 …………。%K%P
 ......
 CN PLACEHOLDER
-......
+............
 
 ……。%K%P
 ...
 CN PLACEHOLDER
-...
+......
 
 ぼくは、つぐみと沙羅の元を離れた。%K%P
 I left Tsugumi and Sara.
@@ -2301,7 +2301,7 @@ CN PLACEHOLDER
 まだまだ解決していないことが山ほどあるのだ。%K%P
 There were still many unsolved matters that I needed to take care of.
 CN PLACEHOLDER
-Но ещё есть множество неотложных дел, с которыми нужно разобраться... как можно скорее.
+Но, ещё есть множество неотложных дел, с которыми нужно разобраться...как можно скорей.
 
 つぐみの話を聞いているうちに、ぼくは急にあることを思い出した。%K%P
 Listening to Tsugumi's story had caused me to suddenly remember something.
@@ -2311,17 +2311,17 @@ CN PLACEHOLDER
 このＬｅＭＵへとやって来る前、１本の電話を受けたことがあった。%K%P
 I had received a phone call before coming to LeMU.
 CN PLACEHOLDER
-До того, как я пришёл в LeMU, мне позвонили.
+До того как прийти в LeMU, мне позвонили.
 
 電話の向こう側で、声はこう言った。%K%P
 Over the phone, a voice had said to me...
 CN PLACEHOLDER
-По телефону чей-то голос сказал мне...
+По телефону, чей-то голос сказал мне...
 
 『ＬｅＭＵへ来れば、母親と妹に逢わせてやる』%K%P
 “If you come to LeMU, you can see your mother and sister.”
 CN PLACEHOLDER
-«Если ты придёшь в LeMU, то встретишь свою сестру и маму.»
+'Если ты придёшь в LeMU, то встретишь свою сестру и маму.'
 
 少年「ああ、そうだ、そうだったんだ……」%K%P
 Oh, so that was it...
@@ -2336,7 +2336,7 @@ CN PLACEHOLDER
 少年「それはきっと、お母さんと、沙羅のことで……」%K%P
 It must have been my mother and Sara...
 CN PLACEHOLDER
-Значит, я ждал маму и Сару...
+Значит я ждал маму и Сару...
 
 たぶんつぐみも、ぼくと同じようなことを言われて、ＬｅＭＵへとおびき寄せられたのだろう。%K%P
 Tsugumi must have been roped into coming to LeMU in the same way I was.
@@ -2346,12 +2346,12 @@ CN PLACEHOLDER
 ――おびき寄せる！？%K%P
 —Wait, roped in!?
 CN PLACEHOLDER
-Что?! Заманили?!
+---Что?! Заманили!?
 
 ――何の為に……！？%K%P
 —What for...!?
 CN PLACEHOLDER
-Зачем?!
+---Зачем...!?
 
 理由はまだ、わからなかった。%K%P
 I still didn't know the answer to that.
@@ -2361,12 +2361,12 @@ CN PLACEHOLDER
 だけど手がかりはある……。%K%P
 But I had some clues...
 CN PLACEHOLDER
-Но у меня есть пара зацепок...
+Но, у меня есть пара улик...
 
 電話の声の主は、男性だったのだ。%K%P
 The voice on the phone had been male.
 CN PLACEHOLDER
-Звонящий был мужчина... Его голос...
+Звонящий был мужчина...его голос...
 
 今になってみれば、その声が誰のものなのか、考えるまでもなくわかった。%K%P
 Without a doubt, I knew whose voice it had been.
@@ -2381,12 +2381,12 @@ CN PLACEHOLDER
 少年「お前は……お前は……」%K%P
 You... You...
 CN PLACEHOLDER
-Ты... Ты...
+Ты...ты...!
 
 少年「お前は、倉成武じゃなかったんだな！」%K%P
 You aren't Kuranari Takeshi!
 CN PLACEHOLDER
-Ты не Куранари Такэси!
+Ты не Куранари Такеши!
 
 憩いの間へと飛び込んだぼくは、目の前に立った男へと詰め寄った。%K%P
 Barging into the rest area, I demanded an answer from the man in front of me.
@@ -2396,7 +2396,7 @@ CN PLACEHOLDER
 もはや、彼を『武』と呼ぶことはできない。%K%P
 I couldn't call him “Takeshi” anymore.
 CN PLACEHOLDER
-Я больше не могу звать его «Такэси».
+Я больше не могу звать его 'Такеши'.
 
 こいつは、ぼくらのことを今までだまし続けてきたんだ。%K%P
 That guy had been deceiving us the whole time.
@@ -2416,12 +2416,12 @@ CN PLACEHOLDER
 少年「本当の武は、ぼくと沙羅のお父さんなんだ！」%K%P
 I know that the real Takeshi is Sara's and my father!
 CN PLACEHOLDER
-Я знаю, что настоящий Такэси – наш с Сарой отец!
+Я знаю, что настоящий Такеши - наш с Сарой отец!
 
 武「お父さん？　俺が、お前と沙羅の？」%K%P
 Father? Me? You and Sara's?
 CN PLACEHOLDER
-Отец?! Тебя и Сары?
+Отееец〜〜〜?! Тебя и Сааары〜〜〜?!
 
 少年「お前じゃない！」%K%P
 No, not you!
@@ -2431,12 +2431,12 @@ CN PLACEHOLDER
 少年「武とつぐみの間にできた子供がぼくと沙羅なんだ」%K%P
 Sara and I are the children of Takeshi and Tsugumi.
 CN PLACEHOLDER
-Мы с Сарой – дети Такэси и Цугуми.
+Сара и я - дети Такеши и Цугуми.
 
 武「俺とつぐみ……」%K%P
 Wait, so Tsugumi and I...
 CN PLACEHOLDER
-Я и Цугуми...
+Я и Цугуми......
 
 少年「お前じゃないって言ってるだろ！」%K%P
 I keep telling you, you're not Takeshi!
@@ -2446,12 +2446,12 @@ CN PLACEHOLDER
 少年「別の世界の武のことなんだ！」%K%P
 I'm talking about Takeshi from the other world!
 CN PLACEHOLDER
-А Такэси из другого мира!
+А Такеши из другого мира!
 
 武「別の世界？　なんじゃ、そりゃ？」%K%P
 Other world? What the heck's that supposed to mean?
 CN PLACEHOLDER
-Другого мира? Да ну...
+Другого мира? Да ну...?
 
 少年「２０１７年の世界のことだよ！」%K%P
 The world back in 2017!
@@ -2461,7 +2461,7 @@ CN PLACEHOLDER
 武「ふ〜ん……２０１７年ねぇ……」%K%P
 Um... 2017, huh...?
 CN PLACEHOLDER
-Хм-м... 2017-го?
+Хмм...2017-го...?
 
 武「おまえが生まれたのはいつだったっけ？」%K%P
 And when were you born?
@@ -2501,7 +2501,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「今はぼくの話をしてるんじゃないんだ」%K%P
 Besides, we're not talking about me now.
@@ -2511,37 +2511,37 @@ CN PLACEHOLDER
 少年「お前は……お前は一体何者なんだ！」%K%P
 Who... Who are you anyway!?
 CN PLACEHOLDER
-Кто... кто ты, чёрт возьми?!
+Кто...кто ты, чёрт возьми!?
 
 少年「どうして２０１７年なんて嘘をついたんだ！」%K%P
 And why did you lie about the year 2017!?
 CN PLACEHOLDER
-Зачем ты солгал, что сейчас 2017-й?!
+Зачем ты солгал, что сейчас 2017-й!?
 
 少年「どうして倉成武なんて偽名を使ってるんだ！」%K%P
 Why are you pretending to be Kuranari Takeshi!?
 CN PLACEHOLDER
-Зачем ты притворялся „Куранари Такэси“?!
+Зачем ты притворялся 'Куранари Такеши'!?
 
 少年「今から１７年前と同じ出来事を繰り返し、同じ言葉を繰り返し、ぼくらをだまそうとしたのはなぜなんだ！」%K%P
 What was the reason you tried to trick us by repeating the same incident as seventeen years ago and by using the same words!?
 CN PLACEHOLDER
-С какой целью ты пытался обдурить нас, повторяя ту же самую аварию, что и 17 лет назад, говоря те же самые слова?!
+С какой целью ты пытался обдурить нас, повторяя ту же самую аварию, что и 17 лет назад, говоря те же самые слова!?
 
 武「だます……だますねぇ……」%K%P
 To trick you... To trick you, huh...?
 CN PLACEHOLDER
-Обдурить вас... Обдурить вас, м-м?
+Обдурить вас...? Обдурить вас, хмм...?
 
 武「少年？　よく考えてみろよ？」%K%P
 Think twice, will you, Kid?
 CN PLACEHOLDER
-Малой? А ты не думал?
+Кид? А ты не думал?
 
 武「俺がもしも仮に、２０１７年の出来事を繰り返してるとしてもだ」%K%P
 For instance, if I was repeating the incident in 2017...
 CN PLACEHOLDER
-Даже если я повторяю то, что было в 2017-м, то...
+Даже если я повторяю то, что было в 2017-м, тогда...
 
 武「２０１８年に生まれたお前のことをだませるはずがないだろ？」%K%P
 How could I possibly trick you, someone who was born in 2018?
@@ -2551,7 +2551,7 @@ CN PLACEHOLDER
 武「現実的に考えれば『１７年前と同じことが起きている』と、お前に信じ込ませることは不可能なんだよ」%K%P
 Practically speaking, it's impossible to trick you into believing the same incident from seventeen years ago is taking place.
 CN PLACEHOLDER
-Как я могу заставить тебя поверить, что „происходит то же самое что и 17 лет назад“? Это же просто невозможно!
+Как я могу заставить тебя поверить, что 'происходит то же самое что и 17 лет назад'? Это же просто невозможно!
 
 武「わかるか？」%K%P
 Do you get it?
@@ -2561,7 +2561,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「それより、どうして同じ出来事だとわかる？」%K%P
 Besides, how could you tell it was the same incident?
@@ -2576,7 +2576,7 @@ CN PLACEHOLDER
 武「どうしておまえは、自分が生まれる前の歴史なんかを知ってるんだ！」%K%P
 How could you know the history before you were even born!?
 CN PLACEHOLDER
-Откуда ты знаешь, что было ДО того, как ты появился на свет?!
+Откуда ты знаешь, что было ДО того, как ты появился на свет!?
 
 武「そろそろ正体を現したらどうなんだ？」%K%P
 Why don't you reveal your true self?
@@ -2586,7 +2586,7 @@ CN PLACEHOLDER
 武「お前は一体、何者なんだ！」%K%P
 Who are you anyway!?
 CN PLACEHOLDER
-Кто ты, чёрт побери?!
+Кто ты---чёрт побери!?
 
 なぜか、言葉がでなかった。%K%P
 For some reason, I couldn't say a word.
@@ -2596,7 +2596,7 @@ CN PLACEHOLDER
 （ぼくは一体、何者なんだ……？）%K%P
 (Who am I anyway...?)
 CN PLACEHOLDER
-(Кто я, чёрт побери?)
+(Кто я---чёрт побери...?)
 
 心の中で、同じつぶやきが繰り返される。%K%P
 The same question was repeated in my mind.
@@ -2606,7 +2606,7 @@ CN PLACEHOLDER
 武「そうか、そうか、自分の話になると突然ダンマリですか……」%K%P
 Oh, I see, when it comes to your story, you clam up, huh...?
 CN PLACEHOLDER
-Ну да, ну да. Когда речь заходит о тебе, ты сразу затыкаешься...
+Ну да, ну да. Когда речь заходит о тебе, ты молчишь как рыба об асфальт...
 
 武「わかったよ」%K%P
 Alright then.
@@ -2621,7 +2621,7 @@ CN PLACEHOLDER
 武「そう、お前が言ったように、俺は倉成武ではない」%K%P
 Yes, as you said, I am not Kuranari Takeshi.
 CN PLACEHOLDER
-Да, ты прав... никакой я не Куранари Такэси.
+Да, ты прав...никакой я не Куранари Такеши.
 
 武「俺の本当の名前は……」%K%P
 My real name is...
@@ -2636,32 +2636,32 @@ CN PLACEHOLDER
 桑古木「カブラキ・リョウゴ」%K%P
 Kaburaki Ryogo.
 CN PLACEHOLDER
-Кабураки Рёго.
+Кабураки Риого.
 
 桑古木「カブラキ・リョウゴ」%K%P
 Kaburaki Ryogo.
 CN PLACEHOLDER
-Кабураки Рёго.
+Кабураки Риого.
 
 桑古木「思い出したんだ、ぼくの名前……」%K%P
 I just remembered my name...
 CN PLACEHOLDER
-Так меня зовут...
+Так меня......зовут......
 
 少年は指先で、漢字を書いて示した。%K%P
 The Kid repeated it slowly.
 CN PLACEHOLDER
-Медленно повторил Малой.
+Медленно повторил Кид.
 
 桑古木「『桑』……『古』い……『木』……『涼』しい……%N『権』……」%K%P
 Ka-bu-ra-ki... Ryo-go...
 CN PLACEHOLDER
-„Старое“... „тутовое“... „дерево“... „светлая“... „голова“...
+'Старое'...'тутовое'...'дерево'...'светлая'... 'голова'...
 
 武「桑古木涼権……」%K%P
 Kaburaki Ryogo...
 CN PLACEHOLDER
-А вместе читается как Кабураки Рёго...
+А вместе читается как Кабураки Риого...?
 
 武「うん、そうか……」%K%P
 I see...
@@ -2671,7 +2671,7 @@ CN PLACEHOLDER
 武「よかったじゃないか」%K%P
 Way to go.
 CN PLACEHOLDER
-Вот так имечко! Но всё равно у Ю круче.
+Вот так имечко! Но, всё равно, у Ю круче.
 
 俺は笑みを浮かべ、少年の頭をなでてやった。%K%P
 I smiled and patted his head.
@@ -2681,7 +2681,7 @@ CN PLACEHOLDER
 嬉しそうに照れる桑古木少年……。%K%P
 The young Kaburaki smiled shyly...
 CN PLACEHOLDER
-В ответ Кабураки застенчиво улыбнулся...
+В ответ, Кабураки застенчиво улыбнулся...
 
 すると、桑古木少年は何も言わず、石像の裏側へとまわり込んで、何やらガリガリとやり始めた。%K%P
 Without a word, the young Kaburaki went behind the statue and started scratching.
@@ -2696,12 +2696,12 @@ CN PLACEHOLDER
 『桑古木涼権』%K%P
 “Kaburaki Ryogo”.
 CN PLACEHOLDER
-«Кабураки Рёго»
+'Кабураки Риого'
 
 カクカクと尖った細い字で、桑古木少年は深々と、石像に傷を刻み込んだ。%K%P
 With thin, sharp writing, the young Kaburaki carved his name deeply into the statue.
 CN PLACEHOLDER
-Своим тонким, острым «пером» Кабураки вырезал на её спине своё имя.
+Своим тонким, острым 'пером', Кабураки вырезал на её спине своё имя.
 
 名前を思い出したことが、よほど嬉しかったのだろうか？%K%P
 He must have been pretty happy to have remembered his name.
@@ -2711,17 +2711,17 @@ CN PLACEHOLDER
 それとも、再び忘れてしまわない為に……？%K%P
 Or was it so that he wouldn't forget it again...?
 CN PLACEHOLDER
-Или это чтобы снова не забыть его...
+Или это чтобы снова не забыть его...?
 
 理由はわからなかったが、ともかく、彼はそこに、自分の名前をしっかりと彫り込んだのだった。%K%P
 Although I didn't know the reason, he carved his name into the statue.
 CN PLACEHOLDER
-Как бы там ни было, он вырезал на статуе своё имя.
+Как бы там ни было, он вырезал на статуи своё имя.
 
 それで終わりかと思ったら……%K%P
 He continued on...
 CN PLACEHOLDER
-Но на этом он не остановился...
+Но, на этом он не остановился...
 
 彼はなおも手を休めることなく、次のような文字も刻み続けた。%K%P
 Without stopping his hands, he also carved some more names...
@@ -2731,37 +2731,37 @@ CN PLACEHOLDER
 『八神ココ』%K%P
 “Yagami Coco”
 CN PLACEHOLDER
-«Ягами Коко»
+'Ягами Коко'
 
 『田中優美清春香菜』%K%P
 “Tanaka Yubiseiharukana”
 CN PLACEHOLDER
-«Танака Юбисэйхарукана»
+'Танака Юбисейхарукана'
 
 『小町つぐみ』%K%P
 “Komachi Tsugumi”
 CN PLACEHOLDER
-«Комати Цугуми»
+'Комачи Цугуми'
 
 『茜ヶ崎空』%K%P
 “Akanegasaki Sora”
 CN PLACEHOLDER
-«Куранари Такэси»
+'Куранари Такеши'
 
 『倉成武』%K%P
 “Kuranari Takeshi”
 CN PLACEHOLDER
-«Аканэгасаки Сора»
+'Аканегасаки Сора'
 
 『ピピ』『チャミ』%K%P
 “Pipi” and “Chami”
 CN PLACEHOLDER
-«Пипи» и «Чами»
+'Пипи' и 'Чами'
 
 ここに閉じ込められた全員の名前を、桑古木少年は書いたのだ。%K%P
 The young Kaburaki carved the names of everyone who had been confined there.
 CN PLACEHOLDER
-Кабураки вырезал имена всех нас, всех, кто угодил в эту западню.
+Кабураки вырезал имена всех нас, всех кто угодили в эту западню.
 
 書き終えて、満足げな笑みを浮かべる桑古木少年……。%K%P
 He smiled happily after finishing up...
@@ -2771,17 +2771,17 @@ CN PLACEHOLDER
 石像は何も言わず、ただ黙って胸に手の平を重ねていた……。%K%P
 The statue kept silent with its hand on the chest...
 CN PLACEHOLDER
-А статуя... продолжила стоять молча, с руками на груди...
+А статуя...продолжила стоять молча, с руками на груди...
 
 あの少年の名前も……桑古木涼権……！？%K%P
 That boy's name was also... Kaburaki Ryogo!?
 CN PLACEHOLDER
-Значит... на самом деле... Малого зовут... Кабураки Рёго?!
+Значит...на самом деле...Кида зовут...Кабураки Риого!?
 
 じゃあ……『今から１７年前の世界の少年』と……『この世界で武と偽名を使っていたあの男』は……同一人物……なのか！？%K%P
 Which meant that... the Kid from seventeen years ago and... the guy pretending to be Takeshi were... actually the same person!?
 CN PLACEHOLDER
-Но это значит... что «Малой из 2017-го» и... «парень, притворявшийся Такэси»... Один и тот же человек?!
+Но, это значит...что 'Кид из 2017-го' и... 'парень, притворявшийся Такеши'...один и тот же человек!?
 
 そのわりには、１７年間という歳月を感じさせぬほど、彼は若々しい。%K%P
 He looked so young that it was hard to believe it had been seventeen years.
@@ -2791,22 +2791,22 @@ CN PLACEHOLDER
 桑古木少年の年齢が仮に１５歳だとすれば、この世界の彼はもう、３２歳になっているはずだ。%K%P
 If the young Kaburaki was 15 years old, that would make him 32 years old in my world.
 CN PLACEHOLDER
-Если тогда Кабураки было 15, значит, в этом мире ему 32 года.
+Если тогда Кабураки было 15, значит в этом мире ему 32 года.
 
 けれど、さっきまでぼくと話していた桑古木は、どう見ても２０歳前後……３０歳を越えているとは思えない。%K%P
 But the Kaburaki I spoke to looked around 20... There was no way he could have been over 30 years old.
 CN PLACEHOLDER
-Но Кабураки, с которым я разговаривал, смахивает максимум на 20... ему просто не может быть за 30.
+Но, Кабураки, с которым я разговаривал, смахивает максимум на 20...ему просто не может быть за 30.
 
 ということは、まさか……？？？%K%P
 Which meant...?
 CN PLACEHOLDER
-Значит...
+Значит...???
 
 ……………………………………………。%K%P
 .........
 CN PLACEHOLDER
-...
+.................
 
 今、ぼくの前に、桑古木と名乗ったあの男の姿はない。%K%P
 Before I realized it, the man who called himself Kaburaki had disappeared.
@@ -2816,7 +2816,7 @@ CN PLACEHOLDER
 だいぶ前に立ち去ってしまった。%K%P
 He had left a while before.
 CN PLACEHOLDER
-Он ушёл чуть раньше.
+Чуть раньше, он ушёл.
 
 ぼくはしばらくの間、茫然とし、その場に立ち尽くしていた。%K%P
 I'd been standing there lost in thought for some time.
@@ -2831,12 +2831,12 @@ CN PLACEHOLDER
 誘われるように、ぼくは１体の石像の裏側へとまわりこんでみた。%K%P
 I went around one of the statues as if being called over to it.
 CN PLACEHOLDER
-Я подошёл к одной из статуй, словно приманенный ею.
+Я подошёл к статуям, словно приманённый к ним.
 
 石像の背面には、針金人形みたいな子供の落書きが刻まれていた。%K%P
 On its back were carved childish stick figures.
 CN PLACEHOLDER
-На спине высечены детские фигурки из кружков и палочек.
+На её спине высечены детские фигурки из кружков и палочек.
 
 人間らしき図が６つ、見たこともない獣の姿が２つ、そこに描かれている。%K%P
 Six human-like figures and two unfamiliar animal shapes were drawn there.
@@ -2846,7 +2846,7 @@ CN PLACEHOLDER
 少年「……えっ？」%K%P
 ...What?
 CN PLACEHOLDER
-...Э-э?
+...эээ?
 
 ぼくは石像の姿を仰ぎ見た。%K%P
 I looked at the statue.
@@ -2876,22 +2876,22 @@ CN PLACEHOLDER
 さらに、胸に手の平を重ねた石像には、６人の名前と、ピピ、チャミ、という記述が見られた。%K%P
 There were also six people's names as well as “Pipi” and “Chami” carved into the statue which stood with its hand on its chest.
 CN PLACEHOLDER
-А на статуе, держащей руки на груди, высечены имена шестерых людей, а заодно «Пипи» и «Чами».
+А на статуи, держащей руки на груди, высечены имена шестерых людей, а заодно 'Пипи' и 'Чами'.
 
 東に手を伸ばした石像にだけ、何も描かれていない。%K%P
 There was no writing on the statue pointing east.
 CN PLACEHOLDER
-На статуе, указывающей на восток, ничего нет.
+На статуи, указывающей на восток, ничего нет.
 
 少年「ああっ！　もうっ、どういうことだよぉーっ！？」%K%P
 Oh, just what is this supposed to mean!?
 CN PLACEHOLDER
-ААА?! Н-НИЧЕГО НЕ-Е-Е-ЕТ?!
+ААА!? Н-НИЧЕГО НЕЕЕЕТ?!?!?!?!!
 
 少年「この世界は一体なんなんだぁーっ！？」%K%P
 What's up with this world anyway!?
 CN PLACEHOLDER
-Как такое возможно?!
+Как такое возможно---!?
 
 頭が混乱して、今にも爆発しそうだった。%K%P
 Puzzled and confused, my head felt like it was about to explode.
@@ -2901,7 +2901,7 @@ CN PLACEHOLDER
 知っているはずのことを知らなくて……知らないはずのことを知っていて……。%K%P
 I didn't know things that I was supposed to know... I knew things that I wasn't supposed to...
 CN PLACEHOLDER
-Я не знаю то, что должен знать... я знаю то, чего не должен знать...
+Я не знаю то, что должен знать...я знаю то, чего не должен знать...
 
 だからこそ、こんなにも、頭の中がこんがらがってしまっているのだろう。%K%P
 (That must be why my head is so confused.)
@@ -2921,12 +2921,12 @@ CN PLACEHOLDER
 そもそも、ホクトという存在がどんな人間なのか、ぼくにはまだわからない。%K%P
 To begin with, I still didn't know what kind of person “Hokuto” was.
 CN PLACEHOLDER
-Во-первых, я по-прежнему не знаю, какой он из себя, этот «Хокуто», какой он по натуре человек.
+Во-первых, я по-прежнему не знаю, какой он из себя, этот 'Хокуто', какой он по натуре человек.
 
 と同時に、ぼくは知らないはずのことを知り、見えるはずのないものを見ることができる。%K%P
 And at the same time, I knew what I wasn't supposed to know and I could see what I wasn't supposed to see.
 CN PLACEHOLDER
-И в то же время я знаю то, чего знать не должен. Я вижу то, чего не должен.
+И, в то же время, я знаю то, чего знать не должен. Я вижу то, чего не должен.
 
 例えばそれは、今から１７年前の世界――。%K%P
 For instance, the world seventeen years into the past...
@@ -2936,7 +2936,7 @@ CN PLACEHOLDER
 ピグマリオンの伝説、ティーフブラウ・ウイルス、キュレイウイルス、ピピのこと、チャミのこと……。%K%P
 About the legend of Pygmalion, the Tief Blau virus, the Curé virus, Pipi, and Chami...
 CN PLACEHOLDER
-О легенде Пигмалиона, вирусе Tief Blau, вирусе Curé, Пипи и Чами...
+О Легенде Пигмалиона, вирусе Tief Blau, вирусе Curé, Пипи и Чами...
 
 それらのすべてを、今、ぼくは知っている。%K%P
 I knew about all of them.
@@ -2946,7 +2946,7 @@ CN PLACEHOLDER
 １７年前の脱出劇、５月６日と７日に何が起こったのかも、ぼくには手に取るようにわかるのだった。%K%P
 I knew exactly what had happened during the dramatic escape seventeen years ago and what had happened on May 6th and 7th.
 CN PLACEHOLDER
-Я точно знаю, что случилось во время тех драматичных событий эвакуации 17-летней давности, о том, что случилось 6-го и 7-го мая.
+Я точно знаю, что случилось во время тех драматичных событий эвакуации 17-летней давности, о том что случилось 6-го и 7-го мая.
 
 さらに、２０３４年の世界――。%K%P
 And the world in 2034...
@@ -2961,12 +2961,12 @@ CN PLACEHOLDER
 サイフォン効果を使って脱出したことも……３４ｍの海中から泳いで洋上へとたどりついたことも……。%K%P
 I knew about escaping using the principle of a siphon and about swimming to the ocean surface from 34 meters under the water.
 CN PLACEHOLDER
-Я знаю, как спасся, воспользовавшись принципом сифона... как спасся, проплыв 34 метра к океанской поверхности.
+Я знаю, как спасся, воспользовавшись принципом сифона...как спасся, проплыв 34 метра к океанской поверхности.
 
 第３視点……ブリックヴィンケル……それらの言葉も、しっかりと記憶の底に刻み込まれていた。%K%P
 The third eye... Blick Winkel... Those words were clear in my head.
 CN PLACEHOLDER
-Третий глаз... Блик Винкель... я помню эти слова, ясно и чётко.
+Третий глаз...Блик Винкель...я помню эти слова, ясно и чётко.
 
 それから……それから……。%K%P
 And... then...
@@ -2976,12 +2976,12 @@ CN PLACEHOLDER
 あの浮島の上で、田中先生に逢ったことも、覚えている。%K%P
 I remembered running into Doctor Tanaka on the floating island.
 CN PLACEHOLDER
-Я вспомнил, как наткнулся на доктора Танаку на плавучем острове.
+Я вспомнил, как наткнулся на Доктора Танаку, на плавучем острове.
 
 いや、覚えているというよりも……『見ることができる』と言った方が的確かも知れない。%K%P
 No, rather than remembering, it was better to say that I could see it.
 CN PLACEHOLDER
-Хотя наверное стоит сказать «я это увидел», а не «вспомнил».
+Хотя, наверно стоит сказать 'я это увидел', а не 'вспомнил'.
 
 とにかく、ぼくは彼女に逢った。%K%P
 Anyway, I saw her.
@@ -2991,12 +2991,12 @@ CN PLACEHOLDER
 田中先生と呼ばれていた女性……優美清秋香菜の母親……。%K%P
 The woman who was called Doctor Tanaka... Yubiseiakikana's mother...
 CN PLACEHOLDER
-Женщина, которую называли доктором Танакой... мать Юбисэйакиканы...
+Женщина, которую называли Доктор Танака...мать Юбисейакиканы...
 
 つまり彼女の正体は、優美清春香菜だったということだ。%K%P
 Meaning she was actually Yubiseiharukana.
 CN PLACEHOLDER
-То есть, в действительности это Юбисэйхарукана.
+То есть, в действительности это Юбисейхарукана.
 
 優美清春香菜と優美清秋香菜は、常識的な範疇から逸脱した繋がりではあるが、それでもやはりふたりの関係は、親子であるとしか言いようがない。%K%P
 Although their relationship defied the norm, Yubiseiharukana and Yubiseiakikana were still mother and daughter.
@@ -3006,7 +3006,7 @@ CN PLACEHOLDER
 ……………………………………………。%K%P
 .........
 CN PLACEHOLDER
-...
+.................
 
 混沌と散らばった思考の断片……。%K%P
 Pieces of my thoughts scattered...
@@ -3046,7 +3046,7 @@ CN PLACEHOLDER
 １７年前と同じ事件が、そっくりそのまま繰り返されたから……。%K%P
 Because the same thing that had happened seventeen years ago was repeating...
 CN PLACEHOLDER
-Потому что на её глазах «воспроизводилась» история 17-летней давности...
+Потому что на её глазах 'воспроизводилась' история 17-летней давности...
 
 他のみんなはどうだろう？%K%P
 How about the others?
@@ -3056,22 +3056,22 @@ CN PLACEHOLDER
 優美清秋香菜は、１７年前に１才だったから、昔の事件のことを知っているはずがない。%K%P
 Since Yubiseiakikana had been born seventeen years prior, she couldn't possibly have known about the incident.
 CN PLACEHOLDER
-17 лет назад Юбисэйакикане был лишь год, так что она не могла знать об этой аварии.
+Юбисейакикане 17 лет назад был лишь год, так что она не могла знать об этой аварии.
 
 沙羅も、生まれていないのだから、当然知らないだろう。%K%P
 And since Sara hadn't been born yet, she wouldn't know either.
 CN PLACEHOLDER
-И, поскольку Сара на тот момент ещё не родилась, она тоже исключается.
+А, поскольку Сара на тот момент ещё не родилась, она тоже исключается.
 
 空は、ＡＩの性質上嘘がつけないらしいし、また、嘘をついているとも思えない。%K%P
 Sora, being AI, couldn't lie. And she didn't seem to be lying either.
 CN PLACEHOLDER
-Сора... она ИИ, она не может соврать. И непохоже, что она лжёт.
+Сора...она ИИ, она не может соврать. И, не похоже, что она лжёт.
 
 残るは桑古木、ただひとり――。%K%P
 So that only left Kaburaki...
 CN PLACEHOLDER
-Значит, остаётся Кабураки.
+Значит остаётся Кабураки.
 
 ということは、２０３４年の、この事件の首謀者は、桑古木だったということか？%K%P
 Did that mean Kaburaki was the mastermind behind the whole incident in 2034?
@@ -3091,22 +3091,22 @@ CN PLACEHOLDER
 優美清春香菜と、ココだ。%K%P
 Yubiseiharukana and Coco.
 CN PLACEHOLDER
-Юбисэйхарукана и Коко.
+Юбисейхарукана и Коко.
 
 ２０１７年５月６日――。%K%P
 On May 6th, 2017...
 CN PLACEHOLDER
-6 мая 2017-го.
+---6 мая 2017-го.
 
 ティーフブラウ・ウイルスに感染した桑古木と、優美清春香菜と、ココは、ＩＢＦのプールにやって来た潜水艇に救助されたはずで……。%K%P
 Kaburaki, Yubiseiharukana, and Coco, who had been infected with the Tief Blau virus, had been rescued by the minisub which came to the pool in IBF.
 CN PLACEHOLDER
-Кабураки, Юбисэйхарукана и Коко, заражённые вирусом Tief Blau, были эвакуированы мини-субмариной, прибывшей в бассейн IBF.
+Кабураки, Юбисейхарукана и Коко, заражённые вирусом Tief Blau, были эвакуированы мини-субмариной, прибывшей в бассейн IBF.
 
 少年「あっ、そう言えば……」%K%P
 Hey, that reminds me...
 CN PLACEHOLDER
-А, к слову...
+Стоп, стоп, стоп...
 
 あの凶悪なウイルスに感染した３人は、あれから何事もなく、快復することができたのだろうか？%K%P
 How did the three of them recover from the virus after they'd been infected?
@@ -3116,12 +3116,12 @@ CN PLACEHOLDER
 つぐみの血液から精製したティーフブラウの抗体を、接種したから……？%K%P
 Because of the injection of antibodies made from Tsugumi's blood...?
 CN PLACEHOLDER
-Потому что они ввели себе антитела из крови Цугуми?
+Потому что они ввели себе антитела из крови Цугуми...?
 
 でも、確かココにだけは、あの抗体は注射していなかったはずだ。%K%P
 But Coco hadn't received the antibodies.
 CN PLACEHOLDER
-Но... Коко не получила антител.
+Но...Коко не получила антител.
 
 あのときココは、カプセルポッドの中で、加圧状態にあったから……。%K%P
 Because she had been under high-pressure oxygen treatment in the capsule pod at the time...
@@ -3131,7 +3131,7 @@ CN PLACEHOLDER
 少年「……ん？？？」%K%P
 ...Huh?
 CN PLACEHOLDER
-...А?
+Эээ...?
 
 いやいやいや、その前に、だ。%K%P
 No, no, even before that.
@@ -3141,17 +3141,17 @@ CN PLACEHOLDER
 優美清春香菜は『致命的な心臓病』をわずらっていたんじゃなかったっけ？%K%P
 Yubiseiharukana suffered from “critical heart disease”, right?
 CN PLACEHOLDER
-(Юбисэйхарукана страдала от тяжёлой формы порока сердца, так?)
+(Юбисейхарукана страдала от тяжёлой формы порока сердца, так?)
 
 なのに今でも、優美清春香菜は、生きている。%K%P
 But she was still alive and well.
 CN PLACEHOLDER
-(Но она сейчас жива и здорова...)
+(Но, она сейчас жива и здорова...)
 
 少年「どういうことだ……？」%K%P
 What is going on here...?
 CN PLACEHOLDER
-Что за...
+Что за...?
 
 ああ、どういうことも、こういうこともないか……。%K%P
 There was only one answer...
@@ -3161,17 +3161,17 @@ CN PLACEHOLDER
 きっと、やっぱり、そういうことなんだろう……。%K%P
 It was the only explanation...
 CN PLACEHOLDER
-(Лишь одно объяснение...)
+(Голову даю на отсечение...)
 
 抗体を注射した優美清春香菜と桑古木は、キュレイウイルスに感染してしまったのだ。%K%P
 Yubiseiharukana and Kaburaki must have been infected with the Curé virus.
 CN PLACEHOLDER
-Юбисэйхарукана и Кабураки заразились вирусом Curé.
+Юбисейхарукана и Кабураки заразились вирусом Curé.
 
 ふたりの肉体は、あれから５年間ぶんの細胞分裂を繰り返し、すべての遺伝子が書き換わったところで老化が止まってしまった。%K%P
 Their bodies must have repeated five years worth of cell division, and when all their DNA had been rewritten, they stopped aging.
 CN PLACEHOLDER
-Примерно за пять лет клеточного деления, когда их ДНК была полностью заменена, они перестали стареть.
+Примерно за пять лет клеточного деления, когда их ДНК были полностью заменены, они перестали стареть.
 
 ふたりが実際の年齢よりも遥かに若く見えるのは、その為だろう。%K%P
 That must have been why they looked younger than their real age.
@@ -3181,7 +3181,7 @@ CN PLACEHOLDER
 優美清春香菜の心臓病も、キュレイの作用によって完治することになった。%K%P
 And Yubiseiharukana's heart disease would have been fixed by the Curé virus.
 CN PLACEHOLDER
-А порок сердца Юбисэйхаруканы полностью залечился из-за вируса Curé.
+А порок сердца Юбисейхаруканы полностью залечился из-за вируса Curé.
 
 少年「だけど……」%K%P
 But still...
@@ -3191,32 +3191,32 @@ CN PLACEHOLDER
 少年「ほんとに、そうなのかなぁ……？」%K%P
 Is that really what happened...?
 CN PLACEHOLDER
-Неужели правда так и было...
+Неужели правда так и было...?
 
 別の歴史の流れの中で、桑古木は、ホログラムペンダントの画像を見ることができなかった。%K%P
 In a different history flow, Kaburaki couldn't see the image in the pendant.
 CN PLACEHOLDER
-В другой версии событий Кабураки не видел голограмму в кулоне.
+В другой версии событий, Кабураки не видел голограмму в кулоне.
 
 あれが嘘や演技じゃないとすれば、彼には赤外線視力が備わっていないということになる。%K%P
 If he wasn't lying or acting, he must not have possessed infrared vision.
 CN PLACEHOLDER
-Если он не врал и не притворялся, значит... у него нет инфракрасного зрения.
+Если он не врал и не притворялся, значит...у него нет инфракрасного зрения.
 
 そしてたぶん、根拠はないけれど、優美清春香菜にも赤外線視力はないような気がする。%K%P
 And although I didn't have proof, my instincts told me Yubiseiharukana didn't possess infrared vision either.
 CN PLACEHOLDER
-И хотя у меня нет доказательств, интуиция подсказывает, что и у Юбисэйхаруканы нет инфракрасного зрения.
+И, хотя у меня нет доказательств, интуиция подсказывает, что и у Юбисейхаруканы нет инфракрасного зрения.
 
 そう言えば、２０１７年の世界の中で……%K%P
 Then again, in the world of 2017...
 CN PLACEHOLDER
-Если подумать... тогда, в 2017-м...
+Если подумать...тогда, в 2017-м...
 
 つぐみは自分のことを『キュレイに感染した者の中でも特殊な存在なのだ』というようなことを言っていた。%K%P
 Tsugumi had mentioned she was “special” among carriers of the Curé virus.
 CN PLACEHOLDER
-Цугуми сказала, что среди носителей вируса Curé она «особенная».
+Цугуми сказала, что, среди носителей вируса Curé, она 'особенная'.
 
 恐らく、遺伝子の組み替えが全身に渡って順調に行われた例は、非常に稀なのだと思う。%K%P
 Perhaps she was a rare example of DNA replacement that had taken place safely over the whole body.
@@ -3231,17 +3231,17 @@ CN PLACEHOLDER
 現在の優美清春香菜と桑古木は、完全なキュレイ種ではないということか？%K%P
 Yubiseiharukana and Kaburaki weren't complete Curé?
 CN PLACEHOLDER
-Юбисэйхарукана и Кабураки – неполноценные Curé?
+Юбисейхарукана и Кабураки -- неполноценные Curé?
 
 でも……不完全なキュレイ種なんてものが、存在するとも思えないし……。%K%P
 But... it didn't seem to me that there could be any such thing as an “incomplete Curé”...
 CN PLACEHOLDER
-Но... вряд ли существует такое понятие, как «неполноценный Curé»...
+Но...вряд ли существует такое понятие, как 'неполноценный Curé'......
 
 少年「う〜ん……」%K%P
 Um...
 CN PLACEHOLDER
-Эм-м...
+Эмм...
 
 少年「ダメだ……」%K%P
 It's no use...
@@ -3256,7 +3256,7 @@ CN PLACEHOLDER
 だけど、そんなことよりも何よりも、ぼくはもっともっと果てしなく壮大で重大で深刻な問題を抱えているのだった。%K%P
 But I still had a far more serious and pressing matter to deal with.
 CN PLACEHOLDER
-Но у меня по-прежнему есть гораздо более серьёзный вопрос.
+Но, у меня по-прежнему есть гораздо более серьёзный вопрос.
 
 そっちの方を考える方が先だ。%K%P
 I needed to think about that problem first.
@@ -3271,7 +3271,7 @@ CN PLACEHOLDER
 『どうしてぼくは、生まれる前の出来事や、別の歴史の流れなんてものを知覚することができるのか？』%K%P
 “How was I able to sense incidents that had taken place before I was born, or in separate time continua?”
 CN PLACEHOLDER
-«Как я могу знать то, что было до моего рождения, или даже в отдельных пространственно-временных континуумах?»
+'Как я могу знать то, что было до моего рождения, или даже в отдельных пространственно-временных континуумах?'
 
 そして――。%K%P
 And...
@@ -3281,7 +3281,7 @@ CN PLACEHOLDER
 『なぜ、今、１７年前と同じ事故が、同じ出来事が、発生したのか？』%K%P
 “Why is the same accident as seventeen years earlier taking place again?”
 CN PLACEHOLDER
-«Почему авария, случившаяся 17 лет назад, произошла вновь?»
+'Почему авария, случившаяся 17 лет назад, произошла вновь?'
 
 これが偶然であるはずはなかった。%K%P
 It couldn't have been a coincidence.
@@ -3316,7 +3316,7 @@ CN PLACEHOLDER
 とは言え、気まぐれに現れるココを、どうやって捜し出せばいいというのか？%K%P
 But how could I find Coco, who seemed to just pop up randomly?
 CN PLACEHOLDER
-Но как я найду того, кто появляется передо мной спонтанно?
+Но, как я найду того, кто появляется передо мной спонтанно?
 
 少年「あっ、そっかぁ……」%K%P
 Oh, I know...
@@ -3326,7 +3326,7 @@ CN PLACEHOLDER
 突然のひらめき……。%K%P
 I had a sudden inspiration...
 CN PLACEHOLDER
-Внезапно меня осенило...
+Внезапно, меня осенило...
 
 ぼくには、心当たりがあったのだ。%K%P
 I had a hunch.
@@ -3346,5 +3346,5 @@ CN PLACEHOLDER
 宇宙クジラの、あの部屋に……。%K%P
 In the Cosmic Whale room...
 CN PLACEHOLDER
-В зале Космического кита...
+В Зале Космического Кита...
 

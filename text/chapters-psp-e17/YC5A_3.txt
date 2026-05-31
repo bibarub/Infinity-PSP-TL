@@ -1,22 +1,22 @@
 ﻿ぼくは夢の中にいた。%K%P
 I was in a dream.
 CN PLACEHOLDER
-Я спал.
+Сон...
 
 ココが消えた後、ぼくは意識を失った。%K%P
 After Coco disappeared, I blacked out.
 CN PLACEHOLDER
-Сразу после исчезновения Коко я отключился.
+Сразу после исчезновения Коко, я отключился.
 
 きっとそのままの状態が、まだ続いているのだろう。%K%P
 Maybe I was still stuck in that state.
 CN PLACEHOLDER
-Наверное, я всё ещё в этом состоянии.
+Наверно я всё ещё в этом состоянии.
 
 夢の中のぼくは、閉塞感と圧迫感に苦しめられていた。%K%P
 In the dream, I felt choked and oppressed.
 CN PLACEHOLDER
-Во сне кажется, что мне душно и тесно.
+Во сне, кажется что мне душно и тесно.
 
 まるで分厚い壁の中に、体全体を塗り込められてしまったようで……。%K%P
 It was like being plastered up inside thick walls...
@@ -36,7 +36,7 @@ CN PLACEHOLDER
 ココ「ホクたんが見たあの夢は、夢じゃないからね？」%K%P
 Hokutan, that dream you saw, it wasn't a dream.
 CN PLACEHOLDER
-Хокутан... сон, который ты видел... это никакой не сон.
+Хокутан...сон, который ты видел...это никакой не сон.
 
 ココ「現実に、起こったことだからね？」%K%P
 It actually happened, okay?
@@ -56,32 +56,32 @@ CN PLACEHOLDER
 ３日、目覚める前に見たあの夢のことか？%K%P
 The dream I had on the third day, right before I woke up?
 CN PLACEHOLDER
-Сон, который я видел третьего числа до того, как очнулся?
+Сон, который я видел третьего числа, до того как очнулся?
 
 ココ「ホクたんは、ココのいる世界のこと、知ってるはずでしょ？」%K%P
 You know aaaaall about the world I'm in, right?
 CN PLACEHOLDER
-Ты знаешь всё о мире, в котором живу я.
+Хокутан знает всё о мире, в котором живёт Коко.
 
 ココ「そこには、マヨちゃんがいなくて、つぐみんがケガしちゃって、顔の違うもうひとりの自分が存在して……」%K%P
 Mayo-chan's not there, and Tsugumin got hurt, and there's another you with a different face...
 CN PLACEHOLDER
-О том, что Майо не существует; о том, что Цугумин поранилась; о другом тебе, с другим лицом...
+О том, что Майо не существует; о том, что Цугуми поранилась; о другом тебе, с другим лицом...
 
 つぐみが……ケガを……。%K%P
 Tsugumi... injured...
 CN PLACEHOLDER
-Цугуми... поранилась...
+Цугуми...поранилась...
 
 つまり、あれは現実に起こったことだった、と？%K%P
 Meaning it had actually happened?
 CN PLACEHOLDER
-Значит... это случилось на самом деле?
+Значит...это случилось на самом деле?
 
 でも、違う、そんなはずないよ……。%K%P
 But no, it couldn't be...
 CN PLACEHOLDER
-Но этого не может быть...
+Но, этого не может быть...
 
 だって、倉庫はいまだに無事じゃないか……。%K%P
 The warehouse was still fine...
@@ -116,7 +116,7 @@ CN PLACEHOLDER
 けれどまだ、その全体像を見ることはできない。%K%P
 But I still couldn't see the whole picture at once.
 CN PLACEHOLDER
-Но я по-прежнему не вижу её целиком.
+Но, я по-прежнему не вижу её целиком.
 
 それは恐ろしく巨大な壁画のようなものだった。%K%P
 It was like a freakishly large mural.
@@ -131,7 +131,7 @@ CN PLACEHOLDER
 ではどうすればいいのか……？%K%P
 What to do...?
 CN PLACEHOLDER
-Что же делать?..
+Что же делать...?
 
 壁の中から脱け出す……。%K%P
 Escape from those walls...
@@ -141,17 +141,17 @@ CN PLACEHOLDER
 壁の中から脱け出す…………。%K%P
 Escape from those walls......
 CN PLACEHOLDER
-Сбежать из этой стены...
+Сбежать из этой стены......
 
 壁面から顔を出したとき――%K%P
 When I pushed my face out through the wall—
 CN PLACEHOLDER
-Я просунул своё лицо сквозь стену и...
+Я просунул своё лицо сквозь стену и--
 
 ――ぼくはこつ然と目覚めた。%K%P
 —I woke up.
 CN PLACEHOLDER
-...проснулся.
+--проснулся.
 
 救護室の中だった。%K%P
 I was in the infirmary.
@@ -171,7 +171,7 @@ CN PLACEHOLDER
 救護室を飛び出し、ドリットシュトックへと向かった。%K%P
 I ran out of the infirmary and headed toward Dritter Stock.
 CN PLACEHOLDER
-Я выбежал из лазарета и направился на Дритте Шток.
+Я выбежал из лазарета и направился на Дритте шток.
 
 （もしもココが言ったように、本当に事故が起き、つぐみが負傷したのだとしたら……）%K%P
 (If Coco was right, and there really had been an accident, and Tsugumi was injured...)
@@ -186,12 +186,12 @@ CN PLACEHOLDER
 でも、つぐみがどこにいるのかわからなかった。%K%P
 But I didn't know where Tsugumi was.
 CN PLACEHOLDER
-Но я не знаю, где она сейчас.
+Но, я не знаю, где она сейчас.
 
 だからぼくは、ひとまず制御室へとやって来たのだった。%K%P
 So I headed to the control room first.
 CN PLACEHOLDER
-Потому я и направился в Центр управления.
+Потому я и направился в Центр Управления.
 
 この部屋の中に、きっと空がいるだろう。%K%P
 Sora was sure to be there...
@@ -221,12 +221,12 @@ CN PLACEHOLDER
 空「えっ？」%K%P
 What?
 CN PLACEHOLDER
-Ч-что?
+Эээ?
 
 空「小町さんなら、ここに……」%K%P
 Komachi-san is right here...
 CN PLACEHOLDER
-Комати-сан... здесь...
+Комачи-сан...здесь...
 
 空の視線の先には、確かにつぐみがいた。%K%P
 Sure enough, there she was.
@@ -241,17 +241,17 @@ CN PLACEHOLDER
 つぐみ「どうしたの？　そんなに慌てちゃって……」%K%P
 What happened? Why are you in such a hurry...?
 CN PLACEHOLDER
-Что такое? Ты чего так суетишься?
+Что стряслось? К чему такая спешка?
 
 少年「あっ……えーっと……」%K%P
 I... Uh... Well...
 CN PLACEHOLDER
-Я... Э-э... ну...
+Я...эээ...ну...
 
 少年「つぐみ、ちょっと、ごめん！」%K%P
 Tsugumi, look, sorry, but...!
 CN PLACEHOLDER
-Цугуми, не серчай!
+Цугуми, не серчай---
 
 ぼくは衝動に駆られるがまま、いきなりつぐみのスカートをまくりあげた。%K%P
 On the spur of the moment, I lifted up Tsugumi's skirt.
@@ -261,12 +261,12 @@ CN PLACEHOLDER
 つぐみ「きゃっ！　何するのよ！」%K%P
 Hey! What are you doing!?
 CN PLACEHOLDER
-Эй! Что ты делаешь?!
+Гхх---! Что ты делаешь---?!
 
 ――パシンッ！%K%P
 —Smack!
 CN PLACEHOLDER
-Шлёп!
+--Шлёп!
 
 強烈な平手打ち……。%K%P
 A resounding slap...
@@ -291,12 +291,12 @@ CN PLACEHOLDER
 つぐみの右の大腿部に刻まれた……かすかな『傷跡』を……。%K%P
 On Tsugumi's right thigh... a faint scar...
 CN PLACEHOLDER
-Лёгкий шрам... на правой голени Цугуми...
+Лёгкий шрам...на правой голени Цугуми...
 
 少年「そ、そ、そ、その傷は……！？」%K%P
 Wha-Wha-What is that scar...!?
 CN PLACEHOLDER
-О-О-О-О-откуда этот шрам?!
+О-О-О-О-Откуда этот шрам...!?
 
 つぐみ「傷？」%K%P
 Scar?
@@ -316,17 +316,17 @@ CN PLACEHOLDER
 つぐみ「これは、ただの古傷よ……」%K%P
 This is just an old scar...
 CN PLACEHOLDER
-Это... просто старый шрам...
+Это...просто старый шрам...
 
 少年「古傷！？」%K%P
 Old scar!?
 CN PLACEHOLDER
-Старый?!
+Старый!?
 
 少年「い、いつ、ケガしたの！？」%K%P
 From when!?
 CN PLACEHOLDER
-Как давно он у тебя?!
+Как давно он у тебя!?
 
 つぐみ「ずっと昔……」%K%P
 Oh, a long time ago...
@@ -356,7 +356,7 @@ CN PLACEHOLDER
 目をそらすことも、できなかった。%K%P
 I couldn't even shift my eyes.
 CN PLACEHOLDER
-Не могу глаз отвести.
+Не могу даже отвести глаз.
 
 はだけた着衣の向こうに、彼女の白い下着がのぞいていた。%K%P
 Past the skirt I was holding, I could see the white of her panties.
@@ -396,12 +396,12 @@ CN PLACEHOLDER
 つぐみ「今から１２年前、私はあるウイルスに感染した」%K%P
 Twelve years ago, I was infected with a virus.
 CN PLACEHOLDER
-Двенадцать лет назад я была заражена вирусом.
+Двенадцать лет назад, я была заражена вирусом.
 
 つぐみ「そのウイルスのおかげで、ウイルスのせいで……」%K%P
 Because of that virus... The virus...
 CN PLACEHOLDER
-Этот вирус... он...
+Этот вирус...он...
 
 つぐみ「私の遺伝子のコードは書き換えられてしまった」%K%P
 It rewrote my genetic code.
@@ -411,7 +411,7 @@ CN PLACEHOLDER
 つぐみ「細胞は、日々生まれ変わっている」%K%P
 Cells are reborn every day.
 CN PLACEHOLDER
-Ежедневно в человеческом организме меняются клетки.
+Ежедневно, в человеческом организме меняются клетки.
 
 つぐみ「生まれ変わり、そして死んでいく」%K%P
 They are reborn and then die.
@@ -421,27 +421,27 @@ CN PLACEHOLDER
 つぐみ「通常、人間の体細胞は、５年後にはすべて入れ替わる」%K%P
 Normally, the human body is totally replaced with new cells within five years.
 CN PLACEHOLDER
-Обычно клетки в человеческом теле полностью заменяются новыми в течение пяти лет.
+Обычно, клетки в человеческом теле полностью заменяются новыми в течении пяти лет.
 
 つぐみ「１２歳のとき、ウイルスに感染した私の細胞は、その瞬間から、ゆっくりと細胞分裂を繰り返し……」%K%P
 When I was twelve, the cells in my body were infected. And from that moment on, they divided and replaced themselves...
 CN PLACEHOLDER
-Когда мне было двенадцать, клетки моего тела были заражены. И с того самого момента они делились и самозаменялись.
+Когда мне было двенадцать, клетки моего тела были заражены. И, с того самого мгновения, они делились и самозаменялись.
 
 つぐみ「５年後――細胞はすべて入れ替わったの」%K%P
 Five years later, all cells had been replaced.
 CN PLACEHOLDER
-Пять лет спустя были заменены все клетки.
+Пять лет спустя, были заменены все клетки.
 
 つぐみ「つまり、私の肉体を構成するすべての細胞の遺伝情報が、５年の歳月を経て、全部、書き換えられた、ということ」%K%P
 In five years, every cell that made up my body had been genetically altered.
 CN PLACEHOLDER
-За эти пять лет все клетки, из которых состоит моё тело, стали генетически изменёнными.
+За эти пять лет, все клетки, из которых состоит моё тело, стали генетически изменёнными.
 
 つぐみ「最後のひとつとなった細胞が死んだとき」%K%P
 And when the last of the cells had died...
 CN PLACEHOLDER
-И когда умерли последние из нормальных клеток...
+И, когда умерли последние из нормальных клеток...
 
 つぐみ「１２歳のときの私は跡形も無く消え去ってしまった」%K%P
 The last trace of my twelve-year-old self disappeared.
@@ -451,17 +451,17 @@ CN PLACEHOLDER
 つぐみ「そして、古い私は死んだ」%K%P
 In that moment, the old me died.
 CN PLACEHOLDER
-В этот момент старая „я“ умерла.
+В этот момент, старая 'я' умерла.
 
 つぐみ「古い私は死に、新しい私は死なない身体になっていた」%K%P
 The old me died, but the new me became a body that never dies.
 CN PLACEHOLDER
-Старая „я“ умерла, но новая „я“ воплотилась в теле, что никогда не умрёт.
+Старая 'я' умерла, но...новая 'я' воплотилась в теле, что никогда не умрёт.
 
 つぐみ「私の免疫機能、並びに代謝効率は、著しく能力向上し……」%K%P
 My immune system and my metabolic rate were remarkably improved...
 CN PLACEHOLDER
-Мои иммунная система и уровень обмена веществ значительно улучшились...
+Мои имунная система и уровень обмена веществ значительно улучшились...
 
 つぐみ「テロメアは回復し続けるようになった……」%K%P
 My telomeres began to regenerate themselves...
@@ -476,12 +476,12 @@ CN PLACEHOLDER
 つぐみ「私は決して老いず、死ななくなった」%K%P
 I will never grow old and never die.
 CN PLACEHOLDER
-Я никогда не постарею и никогда не умру.
+Я никогда не постарею, и никогда не умру.
 
 つぐみ「私の成長は、そのときに止まったままなの」%K%P
 My physical growth stopped at that moment in time.
 CN PLACEHOLDER
-В ту самую минуту моё физическое взросление остановилось.
+В ту самую минуту, моё физическое взросление остановилось.
 
 つぐみ「１７歳のまま、決して老いることは、ないの」%K%P
 I'll never grow older than seventeen.
@@ -491,32 +491,32 @@ CN PLACEHOLDER
 『キュレイウイルス』%K%N
 “The Curé virus”
 CN PLACEHOLDER
-«Вирус Curé.»
+'Вирус Curé.'
 
 キュレイウイルスとは、レトロウイルスの一種である。%K%N
 The Curé virus is a type of retrovirus.
 CN PLACEHOLDER
-Вирус Curé относится к подвиду так называемых ретровирусов.
+Вирус Curé относится к подвиду так называемых ретро-вирусов.
 
 ゆえにキュレイウイルスは、多くのレトロウイルスと同様に、種の壁を越えて伝染することはあり得ない。%K%O
 Like many retroviruses, the Curé virus is not contagious across species.
 CN PLACEHOLDER
-Как и большинство ретровирусов, вирус Curé не передаётся от особи одного вида к особи другого вида.
+Как и большинство ретро-вирусов, вирус Curé не передаётся от особи одного вида к особи другого вида.
 
 一般的に『キュレイウイルス』と言った場合には、それは、ヒトにしか感染しない『ヒト・キュレイウイルス』のことを指している。%K%N
 When people simply say “the Curé virus”, they're actually referring to the human version of the virus.
 CN PLACEHOLDER
-Когда люди говорят «Вирус Curé», то имеют в виду человеческую версию вируса.
+Когда люди говорят 'Вирус Curé', то имеют в виду человеческую версию вируса.
 
 変異体として、サルにしか感染しないキュレイや、ネズミにしか感染しないキュレイも発見されてはいるが……%K%N
 There are variants, such as the monkey-specific Curé, the rat-specific Curé...
 CN PLACEHOLDER
-Также есть варианты вроде обезьяньего Curé, крысиного Curé...
+Также есть варианты, вроде обезьяньего Curé, крысиного Curé...
 
 以下では、基本的に『ヒト・キュレイウイルス』についてのみ、言及して行くことにする。%K%O
 But from here on out, we'll only be referring to the human strain.
 CN PLACEHOLDER
-Но с этой секунды речь пойдёт лишь о человеческом варианте.
+Но, с этой секунды речь пойдёт лишь о человеческом варианте.
 
 レトロウイルスは、自己のＲＮＡ遺伝子を逆転写酵素によってＤＮＡに転写し、宿主の遺伝子の中に潜り込ませるという特徴を持つ。%K%N
 Retroviruses turn their host's RNA into DNA with reverse transcriptase and then inject that DNA back into the host's genes.
@@ -531,7 +531,7 @@ CN PLACEHOLDER
 感染した細胞は、いつも通りにタンパク合成しているつもりでも、知らぬ間にレトロウイルスの複製を作成することになってしまう。%K%O
 Infected cells, which go on processing proteins as usual, then unwittingly reproduce the virus.
 CN PLACEHOLDER
-Заражённые клетки, что обычно вырабатывают белки, также воспроизводят и вирус.
+Заражённые клетки, что, как обычно, вырабатывают протеины, также воспроизводят и вирус.
 
 同時に、ＤＮＡを書き換えられた細胞は、あたかもガン細胞のごとく、次々と分裂を繰り返し、体中に転移して行く。%K%N
 At the same time, the cells with the rewritten DNA go on to divide and multiply, spreading throughout the body like cancer cells.
@@ -546,22 +546,22 @@ CN PLACEHOLDER
 人間の染色体の、第１７番目に存在する『ｐ５３』の働きによって、撃退されることがわかっている。%K%O
 The body repulses them with the “p53” function located on the seventeenth chromosome.
 CN PLACEHOLDER
-Тело отбивает их атаку с помощью гена «p 53», расположенного в 17-й хромосоме.
+Тело отбивает их атаку с помощью гена 'p 53', расположенного в 17-й хромосоме.
 
 『ｐ５３』とは――ある種の酵素やタンパク質を生成し、遺伝子に異常が認められた場合には……%K%N
 “p53” creates certain enzymes and proteins, and when there has been damage done to a gene...
 CN PLACEHOLDER
-«P 53» создаёт определённые ферменты и белки, а когда происходит повреждение генов...
+'P 53' создаёт определённые ферменты и протеины, а когда происходит повреждение генов...
 
 細胞分裂を止めたり、アポトーシス（細胞の自然死）に導いたり、傷ついたＤＮＡの修復を行なったりする『ガン抑制遺伝子』のこと。%K%N
 It stops replication or causes apoptosis (natural cell death) and works to repair the damaged DNA, thus earning its name “the anti-cancer gene”.
 CN PLACEHOLDER
-Он останавливает деление или вызывает апоптоз (естественную смерть клетки). Также он восстанавливает повреждённую ДНК, за что получил название «раковый антиген».
+Он останавливает деление или вызывает апоптоз (естественную смерть клетки). Также он восстанавливает повреждённую ДНК, за что получил название 'раковый анти-ген'.
 
 キュレイウイルスは、この『ｐ５３』という遺伝子にも変異を起こさせ、不能にしてしまう。%K%O
 The Curé virus mutates this “p53” gene as well, rendering it useless.
 CN PLACEHOLDER
-Но вирус Curé заставляет этот ген «p 53» мутировать, делая его бесполезным.
+Но, вирус Curé заставляет этот ген 'p 53' мутировать, делая его бесполезным.
 
 従って、キュレイに感染した細胞は、何の抵抗も受けることなく、やすやすと全身に広がって行くことができるのだ。%K%N
 Thus, the Curé-infected cells can spread throughout the body uncontested.
@@ -571,12 +571,12 @@ CN PLACEHOLDER
 こうして、すべてのＤＮＡのコードが書き換わったとき、その宿主は新しい種へと生まれ変わることになる。%K%N
 Then, once all the DNA code is rewritten, the host literally becomes a new species.
 CN PLACEHOLDER
-И как только весь генетический код перезаписан, носитель в буквальном смысле становится особью нового вида.
+И, как только весь генетический код перезаписан, носитель, в буквальном смысле, становится особью нового вида.
 
 『新しい種』――ここでは仮に『キュレイ種』と呼ぶことにする。%K%O
 A new species—We'll just call it the “Curé species” here.
 CN PLACEHOLDER
-Новый вид... м-м... Для краткости назовём его «особь Curé».
+Новый вид...эмм...для краткости, назовём его 'особь Curé'.
 
 キュレイ種の肉体には、次のような独特の機能が備わっている。%K%N
 The Curé species body is endowed with the following unique characteristics:
@@ -586,7 +586,7 @@ CN PLACEHOLDER
 １：テロメアの回復。%K%N
 1. Self-regeneration of the telomeres.
 CN PLACEHOLDER
-1. Саморегенерация теломер.
+1. Саморегенерация теломеров.
 
 ２：自然治癒力の向上。%K%O
 2. Great improvement in self-healing.
@@ -596,27 +596,27 @@ CN PLACEHOLDER
 『テロメア』とは――染色体の両端にある塩基配列のことで、通常、これは細胞分裂のたびに短くなって行く。%K%N
 Telomeres are the base sequence located at either end of a chromosome and generally become shorter with every replication.
 CN PLACEHOLDER
-Теломеры – это последовательность оснований в нуклеиновых кислотах, расположенная с каждого конца хромосомы, и обычно с каждым делением клетки становится всё меньше и меньше.
+Теломеры - это последовательность оснований в нуклеиновых кислотах, расположенная с каждого конца хромосомы, и обычно с каждым делением клетки становится всё меньше и меньше.
 
 細胞が何度も何度も分裂を繰り返し、やがてテロメアがある程度まで短くなってしまうと、その細胞はそれ以上分裂することができなくなる。%K%N
 After a certain number of divisions, the telomere gets so short that the cell can no longer divide.
 CN PLACEHOLDER
-После определённого количества делений, теломера становится столь короткой, что клетка делиться уже не может.
+После определённого количества делений, теломер становится столь коротким, что клетка делиться уже не может.
 
 ゆえにテロメアは、細胞分裂の『回数券』などとも呼ばれている。%K%O
 So telomeres are like the “bus tickets” of cell division. Once you spend them, they're gone.
 CN PLACEHOLDER
-Проще говоря, теломеры – это нечто вроде билетов в кинотеатр. Как только они распроданы – мест нет.
+Проще говоря, теломеры - это нечто вроде билетов в кинотеатр. Как только они распроданы - мест нет.
 
 ところが、キュレイ種は違う。%K%N
 But not the Curé species.
 CN PLACEHOLDER
-Но только не в случае с особями Curé.
+Но, только не в случае с особями Curé.
 
 この新しい生命体は、体内でテロメラーゼという酵素を作り、失ったはずの回数券を何度でも継ぎ足すことができるからだ。%K%N
 This new body produces an enzyme called telomerase, which allows unlimited recycling of the “bus tickets” that normally would already have been spent.
 CN PLACEHOLDER
-В их телах образуется фермент под названием теломераза, что позволяет бесконечно использовать одни и те же «входные билеты», что в нормальном организме давно бы уже закончились.
+В их телах образуется фермент под названием теломераз, что позволяет бесконечно использовать одни и те же 'входные билеты', что в нормальном организме давно бы уже закончились.
 
 これにより、細胞は半永久的に分裂を繰り返すことになり、以降、決して老いたり、衰えたりしなくなる。%K%N
 This allows for almost endless cell division to continue, thereby eliminating aging and weakening.
@@ -631,17 +631,17 @@ CN PLACEHOLDER
 正常な生殖細胞の中で日常的に行なわれていることだし、また、ほとんどのガン細胞においても、テロメアが欠損することはないのだ。%K%N
 It happens every day in normal reproductive cells. Even in most cancer cells, there is rarely a shortage of telomeres.
 CN PLACEHOLDER
-Это происходит каждый день в простых репродуктивных клетках и даже в большинстве раковых клеток, где редко не хватает теломер.
+Это происходит каждый день в простых репродуктивных клетках, и даже в большинстве раковых клеток, где редко не хватает теломеров.
 
 そういう意味で言えば、キュレイウイルスとは『体細胞のすべてをガン化させてしまうウイルスである』と言えなくもない。%K%O
 In that sense, it is not impossible to say that the Curé virus turns every cell in the body cancerous.
 CN PLACEHOLDER
-Если сравнивать Curé с раком, то можно сказать, что он «превращает все клетки в теле в раковые».
+Если сравнивать Curé с раком, то можно сказать, что он 'превращает все клетки в теле в раковые'.
 
 一方、自然治癒力の向上、についてだが……こちらの方は、その具体的なメカニズムはまだ判明していない。%K%N
 On the other hand, there is no similarly tangible mechanism yet in place for dealing with the process of self-healing.
 CN PLACEHOLDER
-С другой стороны... схожих с самозаживлением феноменов, с которыми его можно было бы сравнить, не существует.
+С другой стороны...схожих с самозаживлением феноменов, с которыми его можно было бы сравнить, не существует.
 
 ただ、新陳代謝が活性化され、細胞の分裂速度が異常に速まることによって……%K%N
 But metabolism is activated, and the rate of cell generation is greatly increased...
@@ -661,67 +661,67 @@ CN PLACEHOLDER
 それは――『赤外線視力』である。%K%N
 Which is—“infrared vision”.
 CN PLACEHOLDER
-«Инфракрасное зрение».
+'Инфракрасное зрение'.
 
 キュレイ種は、その発生過程において『ｐ５３』の機能を失ってしまった為、紫外線に対して極度に弱い体質を持つ。%K%N
 Because, in its production, it lost the faculties of “p53”, the Curé species possesses a constitution extremely vulnerable to ultraviolet rays.
 CN PLACEHOLDER
-Из-за дефективного гена «p 53», особи Curé имеют повышенную восприимчивость к ультрафиолетовым лучам.
+Из-за дефективного гена 'p 53', особи Curé имеют повышенную восприимчивость к ультрафиолетовым лучам.
 
 皮膚細胞にあるＤＮＡは、長時間紫外線にさらされることによって、簡単に傷つき、ガン化してしまう。%K%O
 The DNA in skin cells is quickly damaged when exposed to the sun for any duration, causing those cells to become cancerous.
 CN PLACEHOLDER
-При нахождении на солнце, пусть даже непродолжительное время, из-за отсутствия защитного пегмента меланина, клетки их кожи быстро повреждаются.
+При нахождении на солнце, пусть даже непродолжительное время, из-за отсутствия защитного пигмента меланина, клетки их кожи быстро повреждаются.
 
 普通の人間は、ガン抑制遺伝子の働きによって、傷ついたＤＮＡを修復したり、自然死へと導いたりすることができるのだが……%K%N
 In a normal human, thanks to the cancer suppression gene, damaged DNA is let die or repaired...
 CN PLACEHOLDER
-У нормального человека благодаря «раковому антигену» повреждённая клетка погибает или восстанавливается...
+У нормального человека, благодаря 'раковому анти-гену', повреждённая клетка погибает или восстанавливается...
 
 キュレイ種には、これがなかなかできない。%K%N
 But the Curé species cannot do this.
 CN PLACEHOLDER
-Но у особи Curé этого не происходит.
+Но, у особи Curé этого не происходит.
 
 『ｐ５３』以外の遺伝子によって、それを補うような酵素を作ることも可能なのだが、やはり限界があるのだ。%K%O
 It was possible to use another gene to produce an enzyme to perform the same function as “p53”, but alas, this solution proved to be limited.
 CN PLACEHOLDER
-Конечно, вполне возможно использование другого гена для производства фермента с аналогичными «p 53» функциями. Но увы, этого явно недостаточно.
+Конечно, вполне возможно использование другого гена для производства фермента с аналогичными 'p 53' функциями. Но, увы, этого явно недостаточно.
 
 それゆえ、キュレイ種は紫外線に対して脆弱であり、屋外では、主に夜間にしか活動することができない。%K%N
 Therefore, Curé species are very vulnerable to ultraviolet rays and can only venture outside at night.
 CN PLACEHOLDER
-Из вышесказанного следует, что особи Curé весьма уязвимы перед ультрафиолетовыми лучами и могут выходить на открытое пространство лишь ночью.
+Из вышесказанного следует, что особи Curé весьма уязвимы перед ультрафиолетовыми лучами, и могут выходить на открытое пространство лишь ночью.
 
 『赤外線視力』は、この欠点を補完する為に備わった遺伝的な形質なのかもしれない。%K%O
 The “infrared vision” was developed to make up for this shortcoming.
 CN PLACEHOLDER
-По этой причине у них развилось инфракрасное зрение.
+По этой причине, у них развилось инфракрасное зрение.
 
 つぐみ「私には、そういう特殊な能力があるの」%K%P
 I have this unique ability.
 CN PLACEHOLDER
-Я... обладаю этим даром.
+Я...обладаю этим даром.
 
 キュレイウイルスについての長い話を終え、つぐみはひっそりとそう言った。%K%P
 Having finished her long talk on the Curé virus, Tsugumi brought that up.
 CN PLACEHOLDER
-Сказала Цугуми, закончив свой долгий рассказ о вирусе Curé.
+Закончив свой долгий рассказ о вирусе Curé, сказала Цугуми.
 
 つぐみ「物体に触れることなく、その温度を『見る』ことができるのよ」%K%P
 Without touching something, I can 'see' its temperature.
 CN PLACEHOLDER
-Я „вижу“ температуру предметов, даже не касаясь их.
+Я 'вижу' температуру предметов, даже не касаясь их.
 
 つぐみ「赤外線視力……ＩＮＦＲＡＶＩＳＩＯＮとも言うらしいけど……」%K%P
 Infrared vision... is also called infravision...
 CN PLACEHOLDER
-Я вижу в инфракрасном спектре... это зовётся „инфразрением“...
+Я вижу инфракрасные лучи...кажется, это зовётся 'инфразрением'...
 
 武「じゃあ、２日に……発電室の前で、部屋の中が熱くなっていることに気づいたのも……その赤外線視力があったからなのか？」%K%P
 So on the second day, when you stood in front of the power generation room and knew that it was too hot, that was because of your infrared vision?
 CN PLACEHOLDER
-Значит, второго числа, когда ты стояла перед дверью в Генераторную, ты знала, что там жарко как в аду, потому что владеешь инфразрением?
+Значит, второго числа, когда ты стояла перед дверью в генераторную, ты знала что там жарко как в аду, потому что владеешь инфразрением?
 
 つぐみ「ええ」%K%P
 Yes.
@@ -736,7 +736,7 @@ CN PLACEHOLDER
 武「赤外線視力かぁ……なるほどぉ」%K%P
 Infravision... interesting.
 CN PLACEHOLDER
-Инфразрение... кто бы мог подумать...
+Инфразрение...кто бы мог подумать...
 
 つぐみ「疑わないの？」%K%P
 You don't doubt me?
@@ -751,7 +751,7 @@ CN PLACEHOLDER
 武「ああ……」%K%P
 Ah...
 CN PLACEHOLDER
-А-а...
+Эээ...
 
 つぐみ「信用するの？　私の戯言を」%K%P
 You believe all this nonsense I've been telling you?
@@ -761,22 +761,22 @@ CN PLACEHOLDER
 武「いや、およそ信じられない話だ」%K%P
 Well, it's an unbelievable story.
 CN PLACEHOLDER
-Ну, в такое трудно поверить.
+Нууу, в такое трудно поверить.
 
 武「ウイルス、ＤＮＡ、死なない身体……突拍子もない」%K%P
 Viruses, DNA, bodies that won't die... It's crazy.
 CN PLACEHOLDER
-Вирусы, ДНК, бессмертные тела... бред какой-то.
+Вирусы, ДНК, бессмертные тела...бред какой-то.
 
 武「信じられないが……でも、疑いようもない」%K%P
 I can't believe it... but I don't doubt it.
 CN PLACEHOLDER
-Я не могу поверить... но и не сомневаюсь.
+Я не могу поверить...но и не сомневаюсь.
 
 武「お前がそう言うなら、それが真実なんだろう？」%K%P
 If you say so, it must be true.
 CN PLACEHOLDER
-Если ты так говоришь, значит, это правда.
+Если ты так говоришь, значит это правда.
 
 武「だったら、俺は信じるしかなくなる」%K%P
 So, I guess I have to believe it.
@@ -796,7 +796,7 @@ CN PLACEHOLDER
 物凄い腕力だというわけではないのに、まったく抗えなかった。%K%P
 Although she wasn't abnormally strong, I found it impossible to resist her.
 CN PLACEHOLDER
-Хоть она и не особо сильна, я не могу ей сопротивляться.
+Пусть это было не со всей силы, но я не могу ей сопротивляться.
 
 流れるような動作だった。%K%P
 It was a natural, flowing movement.
@@ -816,7 +816,7 @@ CN PLACEHOLDER
 彼女の息吹を感じる。%K%P
 I felt her breath.
 CN PLACEHOLDER
-Я ощущаю... её дыхание.
+Я ощущаю...её дыхание.
 
 彼女の鼓動を感じる。%K%P
 I felt her pulse.
@@ -856,7 +856,7 @@ CN PLACEHOLDER
 つぐみ「簡単に『信じる』なんて、そんなこと……言わないでよ」%K%P
 Don't just say 'I believe' so easily.
 CN PLACEHOLDER
-Не говори так легко, что „веришь“... Так нельзя.
+Не говори так легко, что 'веришь'...так нельзя.
 
 武「無責任か？」%K%P
 You think it's irresponsible?
@@ -866,7 +866,7 @@ CN PLACEHOLDER
 つぐみ「ええ……無責任。すごく」%K%P
 It's very irresponsible.
 CN PLACEHOLDER
-Да... весьма... безответственным.
+Да...весьма...безответственным.
 
 つぐみ「何故、信じられるの？　何の根拠があるって言うの？」%K%P
 How can you believe me? On what basis?
@@ -886,7 +886,7 @@ CN PLACEHOLDER
 つぐみ「ほら、やっぱり……」%K%P
 You see...
 CN PLACEHOLDER
-Вот... видишь...
+Вот...видишь...
 
 眉をつり上げたつぐみは、俺の首に手をかけた。%K%P
 Raising an eyebrow, she put her hand on my neck.
@@ -896,7 +896,7 @@ CN PLACEHOLDER
 つぐみ「いい加減に……しなさいよ？」%K%P
 Will you cut it out already?
 CN PLACEHOLDER
-Разве это... хорошо?..
+Разве это...хорошо...?
 
 背筋も凍るような形相。%K%P
 She gave me a look that turned my spine to ice.
@@ -906,7 +906,7 @@ CN PLACEHOLDER
 だが彼女の手は、弱々しく震えていた。%K%P
 But her hands were trembling.
 CN PLACEHOLDER
-Но её руки дрожат.
+Но, её руки дрожат.
 
 その表情は、作り物だ……。%K%P
 Her coldness was contrived...
@@ -931,7 +931,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+......
 
 武「だったらお前は、俺を信じなくてもいい。いくら疑ってもいい」%K%P
 If so, then you don't have to trust me. Doubt me all you want.
@@ -941,7 +941,7 @@ CN PLACEHOLDER
 武「でも、俺はつぐみを信じる。他の誰が信じなくても、信じる」%K%P
 But I believe you. Even if no one else does, I do.
 CN PLACEHOLDER
-Но я тебе верю. Даже если больше никто не верит, я верю.
+Но, я тебе верю. Даже если больше никто не верит, я верю.
 
 武「現実を受け入れてみせる」%K%P
 I accept the truth.
@@ -956,7 +956,7 @@ CN PLACEHOLDER
 つぐみ「そんなこと……できるはずない」%K%P
 There's no reason you should be able to do that...
 CN PLACEHOLDER
-Но ты... Не можешь этого делать...
+Но, ты......не можешь этого делать...
 
 武「できるよ」%K%P
 But I can.
@@ -976,12 +976,12 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+......
 
 武「右足の傷、治りかけてるんだろ？」%K%P
 The scar on your right leg, it's almost healed, right?
 CN PLACEHOLDER
-Шрам на твоей правой ноге... рана почти вся затянулась, ведь так?
+Шрам на твоей правой ноге...рана почти вся затянулась, ведь так?
 
 つぐみ「ええ……」%K%P
 Yes...
@@ -1026,7 +1026,7 @@ CN PLACEHOLDER
 つぐみ「本当に見たいの？」%K%P
 You really want to see?
 CN PLACEHOLDER
-Ты правда... хочешь увидеть?
+Ты правда...хочешь увидеть?
 
 彼女の声は、微かに揺れている。%K%P
 Her voice trembled faintly.
@@ -1041,17 +1041,17 @@ CN PLACEHOLDER
 つぐみ「見たらあなたは、後悔するかもしれないわ」%K%P
 If you look, you might regret it.
 CN PLACEHOLDER
-Ты... можешь пожалеть о том... что увидишь.
+Ты...можешь пожалеть о том...что увидишь.
 
 つぐみ「もしも、すべてを、知ったら……」%K%P
 If you knew everything...
 CN PLACEHOLDER
-Если... ты... узнаешь... всё...
+Если...ты...узнаешь...всё...
 
 つぐみ「こんなの人間じゃないって、思うかもしれないわ……」%K%P
 You might think that there's no way I could be human...
 CN PLACEHOLDER
-То можешь решить, что... я не могу... быть человеком...
+То можешь решить, что...я не могу...быть человеком...
 
 武「嫌か？」%K%P
 You don't want me to look?
@@ -1066,22 +1066,22 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+......
 
 武「答えないってことは……くだらない質問だったかな？」%K%P
 The fact that you're not answering... Was that a stupid question?
 CN PLACEHOLDER
-Молчишь?.. Значит, это был глупый вопрос?
+Молчишь...? Значит это был глупый вопрос?
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+......
 
 武「答えないと、無理矢理見るぞ」%K%P
 If you don't answer, I'm going to look whether you want me to or not.
 CN PLACEHOLDER
-Если ты не ответишь, то я сам взгляну, хочешь ты того или нет.
+Знаешь как говорят? Молчание - знак согласия. Тогда я взгляну, хочешь ты того или нет.
 
 つぐみ「やめてよ」%K%P
 Don't.
@@ -1101,7 +1101,7 @@ CN PLACEHOLDER
 つぐみ「嫌だなんて、私……言ってない」%K%P
 I didn't say that I didn't want to show you...
 CN PLACEHOLDER
-Я не говорила... что не хочу...
+Я не говорила......что не хочу...
 
 瞬間、クヴァレは暗闇に紛れ込んだ。%K%P
 The room slid into darkness.
@@ -1111,12 +1111,12 @@ CN PLACEHOLDER
 つぐみ「だったら、見て」%K%P
 Then look.
 CN PLACEHOLDER
-Так... смотри же.
+Так...смотри же.
 
 つぐみ「目をそらさないで、見て」%K%P
 Don't flinch. Look...
 CN PLACEHOLDER
-Не бойся... смотри...
+Не бойся...смотри...
 
 つぐみ「全部……」%K%P
 At everything...
@@ -1126,7 +1126,7 @@ CN PLACEHOLDER
 つぐみ「武にだけは……全部、見せてあげるから……」%K%P
 I'll show you... Only you.
 CN PLACEHOLDER
-Такэси... я покажу тебе... всё.
+Такеши...я покажу тебе...всё.
 
 ぱさり……。%K%P
 I heard the sound...
@@ -1176,7 +1176,7 @@ CN PLACEHOLDER
 傷跡――。%K%P
 Scars—
 CN PLACEHOLDER
-Шрамы...
+Шрамы---
 
 全身にくまなく、細かく刻まれた、数え切れぬ程の傷跡。%K%P
 All over her body, minutely etched, countless scars.
@@ -1266,12 +1266,12 @@ CN PLACEHOLDER
 武「なんだよ、それ？」%K%P
 What's that?
 CN PLACEHOLDER
-Что за?..
+Что за...?
 
 ふと見ると、頭上のつぐみは、何かを手にしていた。%K%P
 I looked above to see Tsugumi holding something in her hand.
 CN PLACEHOLDER
-Я взглянул наверх и увидел – Цугуми что-то держит в руке.
+Я взглянул наверх и увидел - Цугуми что-то держит в руке.
 
 ペンのようなもの――彼女がそれを鳴らしている。%K%P
 She was clicking what looked like a pen.
@@ -1286,7 +1286,7 @@ CN PLACEHOLDER
 つぐみ「赤外線レーザーの、照射装置」%K%P
 It's an infrared laser.
 CN PLACEHOLDER
-Это обычный... инфракрасный лазер.
+Это обычный...инфракрасный лазер.
 
 静かに微笑んで、つぐみが呟く。%K%P
 She smiled quietly and muttered.
@@ -1296,27 +1296,27 @@ CN PLACEHOLDER
 武「は？」%K%P
 What?
 CN PLACEHOLDER
-Чего?
+Эээ?
 
 つぐみ「これがあると、何かと便利なの」%K%P
 It's convenient to have this.
 CN PLACEHOLDER
-Это очень удобная штука.
+Это...очень удобная штука.
 
 つぐみ「私みたいな、特殊能力の持ち主にはね」%K%P
 If you have a special ability like mine...
 CN PLACEHOLDER
-В особенности... когда у тебя такое зрение, как у меня...
+В особенности...когда у тебя такое зрение, как у меня...
 
 武「ああ、なるほど……」%K%P
 Mm-hmm...
 CN PLACEHOLDER
-Хм-м-м, ну конечно...
+Хммм, ну конечно...
 
 武「赤外線暗視カメラと同じことを、肉眼でやってしまうわけだな」%K%P
 You're basically doing with your eyes the same thing an infrared night scope camera does, right?
 CN PLACEHOLDER
-Своими глазами ты можешь видеть практически то же, что и камера ночного видения, ведь так?
+Своими глазами ты можешь видеть практически то же, что и камера ночного видения, не так ли?
 
 武「つまり、赤外線の光を放つことによって、暗闇の中をより見やすくするわけだ」%K%P
 If you flash an infrared ray, it makes it easier to see in the dark.
@@ -1331,7 +1331,7 @@ CN PLACEHOLDER
 武「赤外線視力の持ち主には、昼間と変わらないぐらいに、景色が鮮明に見える、と……」%K%P
 But if you have infrared vision, you can see as clearly as you can at high noon...
 CN PLACEHOLDER
-Но когда у тебя инфракрасное зрение, ты видишь всё ясно, как днём...
+Но, когда у тебя инфракрасное зрение, ты видишь всё ясно, как днём...
 
 つぐみは頷いた。%K%P
 Tsugumi nodded.
@@ -1346,12 +1346,12 @@ CN PLACEHOLDER
 つぐみ「どんな暗闇でも、大丈夫なの」%K%P
 I'm fine no matter how dark it is.
 CN PLACEHOLDER
-Я вижу без проблем... даже если нет света.
+Я вижу без проблем...даже если нет света.
 
 つぐみ「ふふふっ……」%K%P
 Teehee...
 CN PLACEHOLDER
-Хи-хи...
+Хи〜хи...
 
 はだけた胸元を直しながら、つぐみはくすくすと笑う。%K%P
 Tsugumi giggled as she covered up her bare chest.
@@ -1361,7 +1361,7 @@ CN PLACEHOLDER
 彼女が笑うと、膝枕の上の俺もコトコトと揺れた。%K%P
 When she laughed, it jostled me too...
 CN PLACEHOLDER
-От смеха моя голова, лежащая у неё на коленях, слегка затряслась...
+От смеха, моя голова, лежащая у неё на коленях, слегка затряслась...
 
 その揺れが、やがて収まった頃……。%K%P
 Right about the time that it stopped...
@@ -1371,7 +1371,7 @@ CN PLACEHOLDER
 つぐみ「ねえ、武？　ちょっと、起きて？」%K%P
 Hey, Takeshi? Can you get up?
 CN PLACEHOLDER
-Эй, Такэси? Ты не мог бы привстать?..
+Эй, Такеши? Ты не мог бы привстать...?
 
 俺は言われた通り、体を起こした。%K%P
 I sat up as ordered.
@@ -1381,27 +1381,27 @@ CN PLACEHOLDER
 つぐみ「いい？　今から３つ数えるから……」%K%P
 I'm going to count down from three...
 CN PLACEHOLDER
-Так... начинаю обратный отсчёт...
+Так......начинаю обратный отсчёт...
 
 つぐみ「その間、目、つぶったらダメよ？」%K%P
 Don't close your eyes the whole time, okay?
 CN PLACEHOLDER
-Пока не досчитаю, не закрывай глаза и не моргай... хорошо?
+Пока не досчитаю, не закрывай глаза и не моргай...хорошо?
 
 武「えっ？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 つぐみ「さん、にぃ、いち……」%K%P
 3, 2, 1...
 CN PLACEHOLDER
-Три... два... один...
+Три......два......один......
 
 ――カチッ。%K%P
 —Click.
 CN PLACEHOLDER
-Щёлк.
+--Щёлк.
 
 音がした。%K%P
 There was a sound.
@@ -1411,7 +1411,7 @@ CN PLACEHOLDER
 武「ん？　今、何やったんだ？」%K%P
 Hm? What'd you just do?
 CN PLACEHOLDER
-Э-э? Что ты сделала?
+Эээ? Что ты сделала?
 
 俺は目をしばたいた。%K%P
 I blinked.
@@ -1426,17 +1426,17 @@ CN PLACEHOLDER
 つぐみ「あなたをね、焼き付けたのよ」%K%P
 I burned an image of you.
 CN PLACEHOLDER
-Твоё... изображение.
+Твоё...изображение.
 
 武「焼き付けた……？」%K%P
 Burned...?
 CN PLACEHOLDER
-Выжгла?..
+Выжгла...?
 
 つぐみ「うん。あなたの姿を、しっかりと、焼き付けたの」%K%P
 Yup. And burned a pretty good one too.
 CN PLACEHOLDER
-Угу... надо сказать, неплохо вышло.
+У〜гу......надо сказать, неплохо вышло.
 
 つぐみ「ここと……」%K%P
 Here...
@@ -1456,7 +1456,7 @@ CN PLACEHOLDER
 つぐみ「ここに、ね？」%K%P
 Here too, okay?
 CN PLACEHOLDER
-Здесь... ясно?
+Здесь...ясно?
 
 武「？？？」%K%P
 ?
@@ -1481,7 +1481,7 @@ CN PLACEHOLDER
 暗闇の中でちゃらちゃらと、細いチェーンのような音が聞こえた。%K%P
 In the darkness, I heard the sound of a thin chain.
 CN PLACEHOLDER
-В темноте я услышал звяканье тонкой цепочки.
+В темноте, я услышал звяканье тонкой цепочки.
 
 武「？？？」%K%P
 ?
@@ -1496,17 +1496,17 @@ CN PLACEHOLDER
 武「ここって……な、何だよ？　教えてくれよ？」%K%P
 What do you mean by 'here'? Tell me.
 CN PLACEHOLDER
-Что значит „здесь“? Что у тебя в руке?
+Что значит 'здесь'? Что у тебя в руке?
 
 つぐみ「内緒♪」%K%P
 It's a secret〜
 CN PLACEHOLDER
-Сек-рет.
+Сек〜рет.
 
 つぐみ「ふふふふふふっ♪」%K%P
 Hmm-hmmm〜
 CN PLACEHOLDER
-Хи-хи-хи-хи-хи...
+Хи〜хи〜〜〜хи〜хи〜хи...
 
 つぐみはただ、悪戯っぽい笑みを浮かべて見せるだけだった。%K%P
 All she would give me was a mischievous smile.

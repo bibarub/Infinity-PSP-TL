@@ -1,32 +1,32 @@
 ﻿ココ「長弓背負いし……月の精……」%K%P
 Moon sprite... shouldering a long bow...
 CN PLACEHOLDER
-На спине богиня лунная... носит лук и стрелы...
+Лунный луч-дорожка, водной глади дрожь...
 
 ココ「夢の中より……待ちをりぬ……」%K%P
 Waiting... inside a dream...
 CN PLACEHOLDER
-И во сне скорее ждёт тебя... сказку рассказать...
+Ждёт, когда во сне ты тихо к ней придёшь...
 
 ココ「今宵やなぐゐ……月夜見囃子……」%K%P
 Tonight... a story by moonlight...
 CN PLACEHOLDER
-А колчан со стрелами... сказку ту сопроводит...
+Она тебе хочет сказку рассказать...
 
 ココ「早く来んかと……待ちをりぬ……」%K%P
 Hoping the wait... will be short...
 CN PLACEHOLDER
-Торопись, богиня ждёт... в сновидении...
+Только лишь не сможет слишком долго ждать...
 
 ココ「眠りたまふ……ぬくと丸みて……」%K%P
 Sleeping... curled and snug...
 CN PLACEHOLDER
-Засыпай скорей... и в тепле ты позабудь про страх...
+Спи малыш спокойно, позабудь про страх...
 
 ココ「眠りたまふ……母に抱かれて……」%K%P
 Sleeping... in mother's arms...
 CN PLACEHOLDER
-Засыпай скорей... в нежных маминых руках...
+Засыпая в нежных маминых руках...
 
 パチパチパチパチッ……。%K%P
 Clap clap clap...
@@ -41,57 +41,57 @@ CN PLACEHOLDER
 ココ「じょうずでしょ？　じょうずでしょ？」%K%P
 Don't I? Don't I?
 CN PLACEHOLDER
-Правда? Правда?
+Правда? Правда??
 
 優「その歌……初めて聴いたけど、子守歌か何か？」%K%P
 I've never heard that song before... Is it a lullaby or something?
 CN PLACEHOLDER
-Знаешь, никогда её не слышала... это колыбельная?
+Знаешь, никогда её не слышала...это колыбельная?
 
 ココ「うん、そう、子守歌」%K%P
 Yeah, it's a lullaby.
 CN PLACEHOLDER
-Угу, да. Колыбельная.
+У〜гу, да. Колыбельная.
 
 ココ「ママが唄って聴かせてくれたの」%K%P
 My mom used to sing it to me.
 CN PLACEHOLDER
-Мама... всегда мне её поёт.
+Мама...всегда мне её поёт.
 
 優「じゃあ、ココにとっての想い出の歌ってわけね？」%K%P
 So I guess that song has a lot of good memories for you.
 CN PLACEHOLDER
-Наверное, Коко, она навевает тебе хорошие воспоминания?
+Наверно, Коко, она навевает тебе хорошие воспоминания?
 
 ココ「ううん」%K%P
 No.
 CN PLACEHOLDER
-Не-а.
+Не〜а.
 
 優「えっ？　違うの？」%K%P
 No? It doesn't?
 CN PLACEHOLDER
-Э-э? Нет?
+Эээ? Нет?
 
 ココ「うん、この歌、つい最近覚えたばっかりだから」%K%P
 No, I just learned this song.
 CN PLACEHOLDER
-Угу, эта песня... просто я её знаю наизусть.
+Угу, эта песня...просто я её знаю наизусть.
 
 優「そうなんだぁ、ふ〜ん……」%K%P
 Oh, really...?
 CN PLACEHOLDER
-Вот оно что... хм-м-м...
+Вот оно что...хммм...
 
 ふたりの話し声は、売店の中から聞こえて来る。%K%P
 Their voices were coming from the kiosk.
 CN PLACEHOLDER
-Их голоса слышатся из лавки.
+Их голоса слышатся из киоска.
 
 俺は店の中に入った。%K%P
 I went in.
 CN PLACEHOLDER
-Зайду-ка, пожалуй.
+Зайду-ка пожалуй.
 
 武「よっ！」%K%P
 Hey!
@@ -101,7 +101,7 @@ CN PLACEHOLDER
 ココ「あっ、たけぴょ〜ん♪」%K%P
 Oh, Takepyon〜
 CN PLACEHOLDER
-Ах, Такэпё-ё-ён!
+Ах, Такепёёён!
 
 ピピ「わんわんっ！」%K%P
 *Woof*, *woof*!
@@ -111,37 +111,37 @@ CN PLACEHOLDER
 優「倉成……どうしたの？」%K%P
 Kuranari... What are you doing here?
 CN PLACEHOLDER
-Куранари... чего тебе?
+Куранари...чего тебе?
 
 武「いや、優のひよこ姿を、ひとめ拝ませてもらおうと思ってな」%K%P
 Oh, I just thought I'd see what you looked like playing 'chicks'.
 CN PLACEHOLDER
-Да так, хотел полюбоваться вашей игрой в „цыпочек“.
+Да так, хотел полюбоваться вашей игрой в 'цыпочек'.
 
 そう、俺はその為に、ふたりの姿を捜し求め、このキャラクターグッズの売店までやって来たのだった。%K%P
 Yep, that was the reason I had gone searching for them and eventually wound up at the souvenir shop.
 CN PLACEHOLDER
-Ага, вот почему я пошёл искать их и, в конечном итоге, оказался у сувенирной лавки.
+Ага, вот почему я пошёл искать их и, в конечном итоге, оказался у сувенирного киоска.
 
 ココ「ひよこごっこだったら、もうとっくに終わっちゃったよ？」%K%P
 Oh, we finished playing that a while ago.
 CN PLACEHOLDER
-„Цыпочки“? Так мы только что доиграли...
+'Цыпочки'? Так мы только что доиграли...
 
 武「えっ！？　マジ！？」%K%P
 What!? Really!?
 CN PLACEHOLDER
-Что-о-о?! Правда?!
+Чтооо!? Ну ё-моё!!
 
 ココ「なっきゅのひよこのモノマネ、すっご〜〜〜くうまくって……」%K%P
 Nakkyu was sooooo good at it...
 CN PLACEHOLDER
-У Няку так здо-о-орово, так кру-у-уто получалось!..
+У Няку так здооорово, так круууто получалось...!
 
 ココ「ココなんかよりも、ずーっとずーっとひよこっぽくって……」%K%P
 Compared to me, she was sooooo much more like a real chick...
 CN PLACEHOLDER
-Я играю гора-аздо-гора-а-аздо хуже...
+Коко играет гораааздо-гораааздо хуже...
 
 ココ「ココ、びっくりしちゃった♪」%K%P
 I was just amazed!
@@ -151,7 +151,7 @@ CN PLACEHOLDER
 優「やっだぁ〜、もう、そんなにおだてないでよぉ〜」%K%P
 Oh, stop it, you're just trying to embarrass me with compliments!
 CN PLACEHOLDER
-Ну переста-а-ань, твои комплименты вгоняют меня в кра-а-аску!
+Ну перестааань, твои комплименты вгоняют меня в краааску!
 
 ココ「おだててなんかいないよぉ」%K%P
 It's true!
@@ -166,17 +166,17 @@ CN PLACEHOLDER
 優「てへへへへへへへへ……」%K%P
 Ehehehehehehe...
 CN PLACEHOLDER
-Э-хе-хе-хе-хе-хе...
+Э〜хе〜хе〜хе〜хе〜хе...
 
 あんなにひよこごっこを拒んでいた優が、今、褒められて照れている。%K%P
 You, who had seemed so against the game to begin with, was embarrassed once she was complimented.
 CN PLACEHOLDER
-Минуточку... Ю же с самого начала была против игры, а сейчас стоит и смущённо краснеет от комплиментов, которыми её осыпает Коко.
+Минуточку...Ю же с самого начала была против игры, а сейчас стоит и смущённо краснеет от комплиментов, которыми её осыпает Коко.
 
 どういうことだ？？？%K%P
 What on earth was going on?
 CN PLACEHOLDER
-Да что тут вообще происходит?
+Да что тут вообще происходит??
 
 ひよ真似をやってるうちに、ハマッてしまったのだろうか？%K%P
 Had she actually enjoyed the game?
@@ -191,22 +191,22 @@ CN PLACEHOLDER
 確かにひよこごっこには、人間の理性を麻痺させるような、ある種の宗教儀式的な魔性の魅力がある。……ような気もする。%K%P
 The game “chicks” did seem to possess a kind of ritualistic, demonic charm that could subdue the human ability to be rational...
 CN PLACEHOLDER
-Игра в «цыпочек» обладает каким-то гипнотическим, сверхъестественным очарованием, лишающим человека здравого смысла...
+Игра в 'цыпочек' обладает каким-то гипнотическим, сверхъестественным очарованием, лишающим человека здравого смысла...
 
 その魅力に、優は取り憑かれてしまったのかもしれない。%K%P
 It seemed to me that You might have been possessed by that charm.
 CN PLACEHOLDER
-И, похоже, Ю попала под её влияние.
+И, похоже, Ю попала под его влияние.
 
 まあ、そんなことはどうでもいい。%K%P
 Oh well, that wasn't important.
 CN PLACEHOLDER
-Хотя... это не важно.
+Хотя...это не важно.
 
 とにもかくにも俺は、優の歴史的な珍態を見逃してしまったことになる。%K%P
 What was important was that I had somehow missed out on the historical moment that was You's performance.
 CN PLACEHOLDER
-Важно то, что я профукал исторический момент – презабавнейшего цыплёнка в исполнении Ю.
+Важно то, что я профукал исторический момент - презабавнейшего цыплёнка в исполнении Ю.
 
 無念だ……。%K%P
 It was truly unfortunate...
@@ -236,12 +236,12 @@ CN PLACEHOLDER
 ココと優は向かい合って、絨毯の上に座っている。%K%P
 Coco and You were sitting face-to-face on the carpet.
 CN PLACEHOLDER
-Коко и Ю сидят лицом к лицу на коврике.
+Коко и Ю сидят лицом к лицу, на коврике.
 
 ピピは、ココの頭の上に顔を乗せていた。%K%P
 Pipi had set his face on Coco's head.
 CN PLACEHOLDER
-Пипи улёгся на голову Коко.
+Пипи забрался Коко на спину и припал мордочкой к голове.
 
 ふたりの間には、ビーズのような細かい粒が、山盛りになって積まれている。%K%P
 Between the two of them was a mountain of small, bead-like grains.
@@ -271,12 +271,12 @@ CN PLACEHOLDER
 優「えっ？」%K%P
 What?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 ココ「これは、涙山崩し……」%K%P
 This is a mountain of tears...
 CN PLACEHOLDER
-Это... гора слёз...
+Это...гора слёз...
 
 ココ「砂の山じゃなくて、涙の山なんだからぁ」%K%P
 It's a mountain of tears, not sand.
@@ -291,7 +291,7 @@ CN PLACEHOLDER
 俺はふたりのそばにしゃがみ込んで、山のひと粒をつまみあげた。%K%P
 I sat next to them and pinched a single grain from the mountain.
 CN PLACEHOLDER
-Подсев рядом, я взял одну из «слезинок» из горки и зажал между пальцами.
+Подсев рядом, я взял одну из 'слезинок' из горки и зажал между пальцами.
 
 武「あっ、これ……」%K%P
 Oh, I remember...
@@ -301,7 +301,7 @@ CN PLACEHOLDER
 武「昨日ココが、遺跡の水たまりに放り込んでたやつじゃないかぁ」%K%P
 Coco was throwing these into the puddle at the ruins yesterday.
 CN PLACEHOLDER
-Коко вчера бросала их в лужу в развалинах.
+Коко вчера бросала их в лужу, в развалинах.
 
 無色透明の小さな粒。こぼれ落ちるしずくの形。%K%P
 Clear, colorless grains. They were formed in the shape of a drop of water.
@@ -311,7 +311,7 @@ CN PLACEHOLDER
 『ガラスの涙』――。%K%P
 Glass tears—
 CN PLACEHOLDER
-«Стеклянные слёзы».
+'Стеклянные слёзы'.
 
 いや、これはガラスではない。%K%P
 No, they weren't made of glass.
@@ -331,7 +331,7 @@ CN PLACEHOLDER
 武「改めて聞くけど……これは、なんだ？」%K%P
 So I guess I'll try again... What are they?
 CN PLACEHOLDER
-Так что, пожалуй, спрошу-ка ещё разок... Что это?
+Так что, пожалуй, спрошу-ка ещё разок...что это?
 
 優「人魚の涙、だよ？」%K%P
 They're mermaid tears.
@@ -341,7 +341,7 @@ CN PLACEHOLDER
 武「人魚の、涙？？？」%K%P
 Mermaid tears?
 CN PLACEHOLDER
-Р-русалочьи слёзы??? Настоящие???
+Р-Русалочьи слёзы??? Настоящие???
 
 ココはまぶたを閉じ、こっくりと頷いて見せた。%K%P
 Coco closed her eyes and nodded.
@@ -366,7 +366,7 @@ CN PLACEHOLDER
 武「？」%K%P
 ?
 CN PLACEHOLDER
-?
+.........?
 
 俺は立ち上がり、優の指し示す方向へと歩いていった。%K%P
 I stood up and walked toward where You had pointed.
@@ -391,32 +391,32 @@ CN PLACEHOLDER
 手の平からはみ出すぐらいの大きさで、思ったよりも重く、ずっしりとした手ごたえがあった。%K%P
 It was slightly bigger than the size of my palm and heavier than I had imagined. It felt solid in my hand.
 CN PLACEHOLDER
-Она была размером больше ладони, тяжелее, чем казалось, и с плотной, ощутимой тяжестью в руке.
+Она оказалась немного больше, чем обхват моей ладони, да и тяжелее, чем я себе представлял. Такой можно крепко огреть по голове.
 
 ラベルには、そのまんま――『人魚の涙』――と印刷されていた。%K%P
 Printed on the label was “Mermaid Tears”.
 CN PLACEHOLDER
-На этикетке красуется надпись «Русалочьи слёзы».
+На этикетке красуется надпись 'Русалочьи слёзы'."
 
 ボトルの底を見る。丸いシールが貼ってあった。%K%P
 I looked at the bottom of the bottle. There was a round stamp on it.
 CN PLACEHOLDER
-Я взглянул на дно бутылочки, на которое нанесён округлый штамп.
+Я взглянул на дно бутылочки. Там красуется округлый штамп.
 
 『名称：キャンディ』%K%P
 “Contents: Candy”
 CN PLACEHOLDER
-«Содержимое : конфеты-драже».
+'Содержимое : конфеты-драже'.
 
 『原材料名：砂糖、水飴、酸味料、香料』%K%P
 “Ingredients: sugar, corn syrup, acidifier, flavoring”
 CN PLACEHOLDER
-«Состав: сахар, кукурузный сироп, регулятор кислотности, ароматизатор».
+'Состав : сахар, кукурузный сироп, лимонная кислота, ванилин'.
 
 振ってみた。シャカシャカと音がした。%K%P
 I shook the bottle. I heard a dry, crisp sound.
 CN PLACEHOLDER
-Я потряс бутылк и услышал сухой, хрустящий звук.
+Я потряс бутылку. И услышал сухой, хрустящий звук.
 
 コルクのフタをポンッと開け、中身を手の平に注ぐ。%K%P
 Pulling out the cork top, I poured some out on my palm.
@@ -426,12 +426,12 @@ CN PLACEHOLDER
 注ぎ過ぎて、小さな粒々はボロボロとこぼれ落ちた。%K%P
 I poured too much, and some of them spilled from my hand to the floor.
 CN PLACEHOLDER
-Немного не рассчитал, и часть из них просыпалась на пол.
+Немного не рассчитал...и часть из них просыпалась с моей руки на пол.
 
 『人魚の涙』は、絨毯の上を踊るように飛び跳ねた。%K%P
 The “mermaid tears” bounced on the carpet as if they were dancing.
 CN PLACEHOLDER
-«Русалочьи слёзы», пританцовывая, поскакали по полу.
+'Русалочьи слёзы', пританцовывая, поскакали по полу.
 
 武「なるほどね」%K%P
 I see.
@@ -441,17 +441,17 @@ CN PLACEHOLDER
 俺は右手にボトルを、左手に『涙』を握りしめたまま、元の位置にどっかりと腰をおろした。%K%P
 Holding the bottle in my right hand and the “teardrops” in my left, I went back to where I had been sitting before and plopped myself down with a thud.
 CN PLACEHOLDER
-Не выпуская из рук бутылку и «Слёзы», я грузно опустился на своё прежнее место.
+Держа бутылочку в правой руке, а 'слезинки' в левой, я вернулся на своё место и с глухим звуком бухнулся на пол.
 
 武「この『人魚の涙』は、ただのオミヤゲだったってわけだ」%K%P
 So these 'mermaid tears' are just some kind of souvenir?
 CN PLACEHOLDER
-Значит, эти „Русалочьи слёзы“ – что-то вроде сувенира?
+Значит эти 'Русалочьи Слёзы' - что-то вроде сувенира?
 
 ココ「うん」%K%P
 Yup.
 CN PLACEHOLDER
-Угу.
+У〜гу.
 
 武「どれどれ……」%K%P
 Let's see...
@@ -461,7 +461,7 @@ CN PLACEHOLDER
 呟いて、左手の『涙』を一気に口の中へと放り込んだ。%K%P
 Mumbling to myself, I popped all the “teardrops” from my left hand into my mouth.
 CN PLACEHOLDER
-Пробормотав, я закинул все «слёзы», что были в левой руке, в рот.
+Пробормотав, я закинул все 'слёзы', что были в левой руке, в рот.
 
 ガリガリとかじる。%K%P
 I chomped down on them hard.
@@ -481,47 +481,47 @@ CN PLACEHOLDER
 タツタサンド以外の食べ物を口にしたのは久し振りだった。%K%P
 It had been a long time since I had tasted anything besides a tuna sandwich.
 CN PLACEHOLDER
-Как же я давно не ел ничего кроме сэндвичей с тунцом.
+Давненько я не держал во рту ничего кроме бутербродов с курятиной.
 
 『人は甘いものを食べると幸せな気分になる』と、昔どこかで聞いたことがある。%K%P
 I had heard somewhere before that eating sweets made people feel happy.
 CN PLACEHOLDER
-Помнится, где-то я слышал, что люди, съев что-нибудь сладкое, чувствуют себя счастливыми.
+Кажется, я где-то слыхал, что сласти доставляют людям радость.
 
 俺は口の中の『あまあま感』に、思わずうっとりとしてしまった。%K%P
 And at that moment, I was enraptured by the sweetness in my mouth.
 CN PLACEHOLDER
-И сейчас я на седьмом небе ото всей этой сладости во рту.
+А сейчас я в восторге ото всей этой сладости во рту.
 
 ココ「あーりゃりゃ、こーりゃりゃ♪」%K%P
 Ohhhh my gosh〜
 CN PLACEHOLDER
-Ай-ай-ай, ой-ой-ой!
+Хаааа! Плохо〜плохо!
 
 ココ「いーけないんだ、いけないんだ♪」%K%P
 You shouldn't have done that〜
 CN PLACEHOLDER
-Нельзя так делать, нельзя!
+Так нееельзя, так нееельзя!
 
 ココ「せーんせいに言ってやろ♪」%K%P
 I'm gonna tell on you〜
 CN PLACEHOLDER
-Учителю всё расскажу!
+Это я серьёёёзно!
 
 武「ん？　なんで？　俺がタダ食いしてるからか？」%K%P
 Why? Is it because I'm eating them for free?
 CN PLACEHOLDER
-А? С чего вдруг? Из-за того, что я на халяву ем?
+Что? Потому что я ем их на халяву?
 
 武「だったらココだってっ」%K%P
 Well, you are too, Coco.
 CN PLACEHOLDER
-Ну, тебя это тоже касается, Коко.
+Коко...и ты, кстати, тоже.
 
 ココ「違う違う」%K%P
 No, no.
 CN PLACEHOLDER
-Нет, нет!
+Нет, нет...!
 
 ココ「そういう意味で言ったんじゃないの」%K%P
 That wasn't what I meant at all.
@@ -531,7 +531,7 @@ CN PLACEHOLDER
 ココ「今たけぴょん、人魚の涙、食べちゃったでしょ？」%K%P
 You just ate the teardrops of a mermaid, didn't you, Takepyon?
 CN PLACEHOLDER
-Такэпён, ты ведь только что стрескал русалочьи слёзы, так?
+Эй, Такепён, ты только что стрескал русалочьи слёзы, не так ли?
 
 武「うん、食べた」%K%P
 Yeah, I did.
@@ -551,12 +551,12 @@ CN PLACEHOLDER
 ココ「『八百比丘尼』みたいになっちゃうよ？」%K%P
 You'll end up like 'the 800-year-old nun'.
 CN PLACEHOLDER
-Неужели ты хочешь повторить судьбу „800-летней монахини Яобикуни“?
+Неужели ты хочешь повторить судьбу '800-летней монахини Яобикуни'?
 
 武「……は？」%K%P
 Who...?
 CN PLACEHOLDER
-Кого?..
+Кого...?
 
 優「ヤオビクニ？」%K%P
 800-year-old what?
@@ -571,7 +571,7 @@ CN PLACEHOLDER
 ココ「知らないの？　八百比丘尼のお話」%K%P
 You don't know the story of Yaobikuni, the 800-year-old nun?
 CN PLACEHOLDER
-Вы не слышали... историю Яобикуни?
+Вы не слышали...историю Яобикуни?
 
 武「優、知ってるか？」%K%P
 Do you know what she's talking about, You?
@@ -581,22 +581,22 @@ CN PLACEHOLDER
 優「ううん、知らない」%K%P
 Nope. Not a clue.
 CN PLACEHOLDER
-Не-а. Понятия не имею.
+Не〜а. Понятия не имею.
 
 ココ「おしっ、ほいじゃあココちゃんが、八百比丘尼のお話を聞かせてあげましょーっ！」%K%P
 Alright then. I, Coco-chan, will tell you the story of the 800-year-old nun!
 CN PLACEHOLDER
-Хорошо! Тогда я поведаю вам историю о Яобикуни!
+Хорошо! Тогда Коко поведает вам об Яобикуни, 800-летней монахине!
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「はい、拍手、拍手」%K%P
 Hey, don't forget the applause.
@@ -616,7 +616,7 @@ CN PLACEHOLDER
 ココ「むかーしむかーし、あるところにひとりのきゃわゆ〜い娘っ子がおりました」%K%P
 Once upon a time, there was a beautiful young girl.
 CN PLACEHOLDER
-Давным-давно, жила-была молодая чудесная девушка.
+Давным-давно, жила была юная и очень красивая девушка.
 
 ココ「年齢は１７歳ぐらいでぇ〜、椿の花が、とってもとっても大好きでした」%K%P
 She was seventeen years old, and she loved camellia flowers.
@@ -626,67 +626,67 @@ CN PLACEHOLDER
 ココ「娘っ子には、これまたカッチョイイ〜彼氏さんがいました」%K%P
 She also had a very handsome boyfriend.
 CN PLACEHOLDER
-И был у неё та-а-акой круто-о-о-ой молодой человек.
+А ещё у неё был тааакой симпатииичный молодой человек...
 
 ココ「彼氏さんの年齢は、たぶん娘っ子とタメぐらいだと思います」%K%P
 And he was about her same age. I think he was at least.
 CN PLACEHOLDER
-И ему, вроде, столько же лет, сколько и девушке.
+И...кажется, он был с ней одного возраста, или вроде того.
 
 ココ「あるとき、彼氏さんが娘っ子に椿の花をプレゼントして、こう言いました」%K%P
 Anyway, one day, he gave her a camellia flower as a gift and said...
 CN PLACEHOLDER
-В общем, как-то раз он приподнёс ей цветок камелии в качестве подарка и произнёс...
+Короче, как-то раз он приподнёс ей цветок камелии в качестве подарка и произнёс...
 
 ココ「『この花、きみにあげるよ』」%K%P
 'This flower is for you.'
 CN PLACEHOLDER
-„Этот цветок... для тебя“.
+'Этот цветок...для тебя'.
 
 ココ「『まあ、なんてきれいなお花でしょう』」%K%P
 'Oh my, what a beautiful flower this is.'
 CN PLACEHOLDER
-„Ух ты, какая красота!“
+'Ух ты, какая красота'!
 
 ココ「『ああ、確かにこの花は美しい……しかしこの花を百万本集めたところで、きみの美しさにはかなわないよ』」%K%P
 'Yeah, this flower sure is pretty... but you're even more beautiful. Even a million of these flowers wouldn't be as pretty as you.'
 CN PLACEHOLDER
-„Правда, этот цветок такой красивый... но твою красоту не затмит ни он один, ни миллион таких же, как он.“
+'Правда, этот цветок такой красивый...но, твою красоту не затмит ни он один, ни миллион таких же как он'.
 
 ココ「『あら、嘘がお上手ですのね？』」%K%P
 'Oh, you're such a sweet talker, you.'
 CN PLACEHOLDER
-„Ой, перестань. Ты мне льстишь.“
+'Ой, перестань. Ты мне льстишь'.
 
 ココ「『嘘なんかじゃないさ、本気で言ってるんだよ』」%K%P
 'Hey, I'm not just trying to flatter you, I'm telling the truth.'
 CN PLACEHOLDER
-„Это вовсе не лесть. Я правда так считаю.“
+'Это вовсе не лесть. Я правда так считаю'.
 
 ココ「『彼氏さん……』」%K%P
 'Oh, sweetheart...'
 CN PLACEHOLDER
-„Любимый...“
+'Любимый'...
 
 ココ「『娘っ子ちゃん……』」%K%P
 'My love...'
 CN PLACEHOLDER
-„Любимая...“
+'Любимая'...
 
 ココ「昼間っから恥ずかしげもなくこんな会話を交わせちゃうぐらいに、ふたりは激しく愛し合っていたのです」%K%P
 They were so passionately in love that they could talk this way in public without being embarrassed about it.
 CN PLACEHOLDER
-Они любили друг друга так сильно, что могли без стеснения вести подобные беседы средь бело дня.
+В общем, они так сильно любили друг друга, что занимались этим круглые сутки, не стесняясь прохожих.
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「さて、そんなある日のこと……」%K%P
 Well, one day...
@@ -701,12 +701,12 @@ CN PLACEHOLDER
 ココ「なんでそんなことをしたのかって言うと、実は、海の中に住んでるオッサンが――」%K%P
 He did that because this old guy who lived in the ocean was like...
 CN PLACEHOLDER
-Почему он так поступил? На самом деле в море живёт один старец, и...
+Ну, там он оказался, потому что морской старец пригласил его...
 
 ココ「『今度うちでパーティーやんだけどさぁ、ゴンタくんも来ない？』と、招待したからなのでした」%K%P
 'Hey, Gonta-kun, I'm having a home party, wanna come?', and invited him to a party.
 CN PLACEHOLDER
-Пригласил он его словами: „Скоро у нас вечеринка, Гонта-кун, ты тоже приходи!“
+'Эй, Гонта, у меня дома сёдня вечеринка. Хочешь потусовать?' - спросил он.
 
 ココ「ゴンタくんのたどりついた場所には、これまでに見たこともない立派なお屋敷が建っていました」%K%P
 Gonta-kun arrived at the most gorgeous mansion he'd ever seen in his whole life.
@@ -721,12 +721,12 @@ CN PLACEHOLDER
 ココ「『やあ、よく来たねぇ、ゴンタくん』――オッサンのお出迎えです」%K%P
 'Oh, good to see you, Gonta-kun.'—the old guy welcomed him.
 CN PLACEHOLDER
-„Здорово, что пришёл, Гонта-кун“, – радушно встретил его старец.
+'Ого, Гонта, старик! Рад тебя видеть!' - поприветствовал его старец.
 
 ココ「ゴンタくんは、豪華なディナーを御馳走になり、楽しいひとときを過ごしました」%K%P
 Gonta-kun had a gourmet dinner and a wonderful time.
 CN PLACEHOLDER
-Гонта насладился роскошным ужином и отлично провёл время.
+Гонта отведал изысканных яств, и просто оттянулся по полной.
 
 ココ「けれど、もう帰らなければならない時刻です」%K%P
 But it eventually it came time for him to go home.
@@ -736,32 +736,32 @@ CN PLACEHOLDER
 ココ「ゴンタくんは言いました――『悪いけど、おら、そろそろ帰らねばなんねぇーだ』」%K%P
 Gonta-kun said, 'I'm real sorry, but I've got to go home soon.'
 CN PLACEHOLDER
-Гонта сказал: „Прошу простить великодушно, но мне пора домой“.
+Гонта сказал - 'Прошу простить великодушно, но мне пора домой'.
 
 ココ「すると、海の中のオッサンは――『なんだぁ、もう帰っちゃうの？　残念だなぁ』」%K%P
 The old man who lived under the ocean said, 'Huh, you're leaving so soon? That's too bad.'
 CN PLACEHOLDER
-Морской старец ответил: „Как, уже уходишь? Жалко, конечно“.
+Морской старец ответил - 'Как, уже уходишь? Жалко конечно'.
 
 ココ「『家で娘っ子が待ってんだぁ〜、近いうちに、また来るでよ』」%K%P
 'My daughter's waiting for me at home. I'll come again sometime soon, okay?'
 CN PLACEHOLDER
-„Да дочурка меня заждалась. Я зайду как-нибудь ещё, договорились?“
+'Да дочурка меня заждалась. Я зайду как-нибудь ещё, договорились'?
 
 ココ「『そっかぁ……じゃあこれ、オミヤゲに持って帰ってよ』」%K%P
 'Oh well... Hey, why don't you take this for souvenir?'
 CN PLACEHOLDER
-„Ну ладно... Постой-ка, может, возьмёшь в качестве презента?“
+'Ну ладно...постой-ка, может возьмёшь в качестве презента'?
 
 ココ「オッサンが手渡したものは、お酒を入れるようなトックリでした」%K%P
 The old man handed him a bottle of something that looked like alcohol.
 CN PLACEHOLDER
-Старец протянул ему токкури, такую бутылку, в какой обычно наливают сакэ.
+Старец протянул ему бутылку с чем-то, напоминающим ликёр.
 
 ココ「『なんだ？　これ』――ゴンタくんは尋ねます」%K%P
 'What's this?' asked Gonta-kun.
 CN PLACEHOLDER
-„Что это?“ – спросил Гонта.
+'Что это?' - спросил Гонта.
 
 ココ「オッサンはニコニコと笑いながら答えました」%K%P
 The old man answered with a big smile.
@@ -771,17 +771,17 @@ CN PLACEHOLDER
 ココ「『人魚の涙、だよ』」%K%P
 'It's mermaid tears.'
 CN PLACEHOLDER
-„Русалочьи слёзы.“
+'Русалочьи Слёзы'.
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「ゴンタくんは家に帰ると、もらったオミヤゲを戸棚の中にしまっておきました」%K%P
 Gonta-kun went home and hid the souvenir in the cabinet.
@@ -791,12 +791,12 @@ CN PLACEHOLDER
 ココ「で……数日後……事件が起こりました」%K%P
 And... a few days later... an incident took place.
 CN PLACEHOLDER
-И... через несколько дней... произошёл инцидент.
+И...через несколько дней...произошла 'коллизия'.
 
 ココ「ゴンタくんが家を留守にしている間に、娘っ子がこっそりと戸棚をあけて、トックリの中身を飲んじゃったのです」%K%P
 While Gonta-kun wasn't home, his daughter secretly opened the cabinet and drank all the liquid in the bottle.
 CN PLACEHOLDER
-В отсутствие Гонты его дочь втихаря открыла шкафчик и выпила всю жидкость из бутылки.
+Пока Гонта был в отлучке, его дочь втихаря открыла шкафчик и выпила всю жидкость из бутылки.
 
 ココ「とっても美味しかったので、娘っ子はその液体を、ぐびぐびと全部飲み干してしまいました」%K%P
 It was so delicious that the girl drank the whole thing up.
@@ -811,7 +811,7 @@ CN PLACEHOLDER
 ココ「そのときを境にして、娘っ子は一切歳を取らなくなってしまいました」%K%P
 After that, the girl stopped aging at all.
 CN PLACEHOLDER
-Девушка... в одночасье перестала стареть.
+Девушка...в одночасье перестала стареть.
 
 ココ「１年経ち、２年経ち、３年経ち……」%K%P
 A year had passed, then two, and then three...
@@ -826,22 +826,22 @@ CN PLACEHOLDER
 ココ「決して老いることのない肉体を、娘っ子は手に入れてしまったのでした」%K%P
 She had a body that would never age.
 CN PLACEHOLDER
-Её тело... более никогда не старело.
+Её тело...застряло в одном возрасте.
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「いつの時代も、不老長寿は人類の夢であり希望ですが……この娘っ子の場合は違いました」%K%P
 Eternal youth and longevity has always been a dream and a hope for humans, but it wasn't the case for this girl.
 CN PLACEHOLDER
-Вечная молодость и долголетие всегда были голубой мечтой человечества. Но только не для неё.
+Вечная молодость и долголетие всегда были голубой мечтой человечества. Но, только не для неё.
 
 ココ「娘っ子は我が身の不幸をなげき、呪いました」%K%P
 She lamented and cursed her own fate.
@@ -851,7 +851,7 @@ CN PLACEHOLDER
 ココ「なぜなら、大好きだった彼氏さんはどんどん歳を取って行くのに、自分は１７歳のまま、少しも成長しなかったからです」%K%P
 Because she stayed at the age of seventeen, but her boyfriend grew older and older.
 CN PLACEHOLDER
-Потому что навсегда оставалась в возрасте 17 лет, но её возлюбленный с каждым днём всё старел и старел.
+Потому что навсегда останется в возрасте 17 лет, но её возлюбленный с каждым днём всё старел и старел.
 
 ココ「しばらくして、さらに悲しい出来事が娘っ子を襲いました」%K%P
 One day, an incident happened that was very sad.
@@ -866,17 +866,17 @@ CN PLACEHOLDER
 ココ「亡くなる間際、彼氏さんは娘っ子にこう言いました」%K%P
 Before he died, he said to her...
 CN PLACEHOLDER
-Перед смертью он сказал ей...
+Перед смертью, он сказал ей...
 
 ココ「『７００年待ってくれ！　７００年後、再びこの世に生まれ変わり、必ずきみのところへ行くから！』」%K%P
 'Wait for me for 700 years! After 700 years have passed, I'll be reborn into this world and come to you!'
 CN PLACEHOLDER
-„Жди меня 700 лет! Через 700 лет я буду заново рождён на этом свете и приду к тебе!“
+'Жди меня 700 лет! Через 700 лет я буду заново рождён на этом свете и приду к тебе'!
 
 ココ「娘っ子は泣きました。おいおいおいおいと泣き続けました」%K%P
 The girl cried and cried. BOY did she just cry and cry.
 CN PLACEHOLDER
-А она... всё плакала и плакала, рыдала и рыдала.
+А она...всё плакала и плакала, рыдала и рыдала.
 
 ココ「やがて、彼氏さんを失った悲しみから、娘っ子は比丘尼となり、諸国行脚の旅へと出かけることにしました」%K%P
 After a while, because she was so sad at losing him, she decided to leave on a long trip.
@@ -891,17 +891,17 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「比丘尼は、国々をめぐって病気の人を治し、貧しい人を助け、田畑を耕し、川に橋をかけ、行く先々で椿の種をまきました」%K%P
 The nun traveled around the country. She cured the sick, helped the poor, did a little farming, built some bridges over rivers, and planted lots of camellia seeds.
 CN PLACEHOLDER
-Путешествуя по разным странам и став монахиней, она исцеляла больных, помогала нуждающимся, работала на полях, строила мосты и везде сеяла семена камелий.
+Монахиня путешествовала по стране. Лечила больных, помогала бедным, вела небольшое хозяйство, строила мостики через речки и садила большое количество цветов камелии.
 
 ココ「椿がすくすくと生長し、花を咲かせる頃になると、また別の国へと移って行き、困っている人々を助け……」%K%P
 When the camellias grew mature, healthy, and started to flower, she would move on to another region and begin all over again helping those in need...
@@ -916,12 +916,12 @@ CN PLACEHOLDER
 ココ「椿の種をまいたのは、彼氏さんの道しるべにする為です」%K%P
 The reason she planted camellia seeds was as a way of giving directions to her boyfriend in case he came looking for her.
 CN PLACEHOLDER
-Камелии она садила для того, чтобы дать подсказку своему возлюбленному на случай, если тот станет её искать.
+Камелии она садила для того, чтобы дать подсказку своему возлюбленному, на случай если тот станет её искать.
 
 ココ「彼氏さんがこの世に生まれ変わって来たとき、自分の居場所がわかるように、比丘尼は種をまいたのでした」%K%P
 She planted lots and lots of camellia seeds so that when he was reborn into this world, he would know where she was.
 CN PLACEHOLDER
-Она садила всё больше и больше зёрен камелии, чтобы как только тот переродится в этом мире, то смог бы понять, где она.
+Она садила всё больше и больше зёрен камелии, чтобы как только тот был перерождён в этом мире, то смог бы понять, где она.
 
 ココ「比丘尼はあきらめていませんでした」%K%P
 She hadn't given up hope.
@@ -941,7 +941,7 @@ CN PLACEHOLDER
 ココ「けれども、ふるさとの村に、比丘尼の知っている人はひとりもいません」%K%P
 But there wasn't anyone who knew her anymore.
 CN PLACEHOLDER
-Но там давно уже не осталось никого, кто бы её знал.
+Но, там давно уже не осталось никого, кто бы её знал.
 
 ココ「仕方なく、比丘尼は村はずれの洞窟へ入ることにしました」%K%P
 With no place to live, she decided to enter a cave on the outskirts of the village.
@@ -961,22 +961,22 @@ CN PLACEHOLDER
 ココ「『日の出と日没の頃に、私は鈴を鳴らします』」%K%P
 'I will ring a bell at sunrise and sunset.'
 CN PLACEHOLDER
-„На восходе и на закате, я буду звонить в колокольчик.“
+'На восходе и на закате, я буду звонить в колокольчик'.
 
 ココ「『この鈴の音が聞こえなくなったら、私は亡くなったと思って下さい』」%K%P
 'If you stop hearing the bell, please just think that I have passed away.'
 CN PLACEHOLDER
-„Если же вы услышите, что колокольчик больше не звучит, значит, я отошла в мир иной.“
+'Если же вы услышите, что колокольчик больше не звучит, считайте что я умерла'.
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「それから、１年経ち、２年経ち、３年経ち……」%K%P
 A year passed, then two, and three...
@@ -986,7 +986,7 @@ CN PLACEHOLDER
 ココ「５年経ち、１０年経ち、２０年経っても、彼氏さんはやって来ませんでした」%K%P
 After 5, 10, then 20 years, her boyfriend STILL didn't show up.
 CN PLACEHOLDER
-Пять, десять, двадцать лет... Но её возлюбленный так и не приходил.
+Пять, десять, двадцать лет... Но, её возлюбленный так и не приходил.
 
 ココ「３０年経ち、４０年経ち、５０年経ち……」%K%P
 30 years passed, then 40, and then 50 years passed...
@@ -1011,7 +1011,7 @@ CN PLACEHOLDER
 ココ「とうとう最後まで、彼氏さんが姿を現すことはありませんでした」%K%P
 After all that time, her boyfriend had never appeared.
 CN PLACEHOLDER
-За всё это время её возлюбленный так и не появился.
+За всё это время, её возлюбленный так и не появился.
 
 ココ「洞窟の前の椿は美しく咲き誇り、その後何年もの間、散ることはなかったと言います」%K%P
 The camellias in front of the cave blossomed beautifully, never wilting for many years.
@@ -1031,7 +1031,7 @@ CN PLACEHOLDER
 ココ「彼女のことを――『八百比丘尼』――と、呼ぶようになったとさ」%K%P
 And people decided to call her 'Yaobikuni', the 800-year-old nun.
 CN PLACEHOLDER
-Они прозвали её „Яобикуни“, 800-летней монахиней.
+Они прозвали её 'Яобикуни', 800-летней монахиней.
 
 ココ「おしまい」%K%P
 The end.
@@ -1041,37 +1041,37 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「じゃなかった……『つづく』……」%K%P
 Oh, not really... It's 'to be continued'...
 CN PLACEHOLDER
-Хотя нет... „продолжение следует“...
+Хотя нет...'продолжение следует'...!
 
 優「……は？」%K%P
 ...Huh?
 CN PLACEHOLDER
-А?
+Хаа?
 
 武「まだ続くのかよっ！」%K%P
 There's more!?
 CN PLACEHOLDER
-Это не всё?!
+Это не всё!?
 
 ココ「ううん、ココの知ってるお話は、これで終わりなんだけどね？」%K%P
 Well, actually, that's the end for the tale I know.
 CN PLACEHOLDER
-Не-а, это конец истории, которую я знаю.
+Не〜а, это конец истории, которую знает Коко.
 
 ココ「ひょっとしたら、まだ続きがあるかもしれないし……」%K%P
 But there might be more to the tale...
 CN PLACEHOLDER
-Однако наверняка это ещё не конец...
+Однако, наверняка это ещё не конец...
 
 優「どういうこと？」%K%P
 What do you mean?
@@ -1091,7 +1091,7 @@ CN PLACEHOLDER
 武「う〜ん……」%K%P
 Hmmm...
 CN PLACEHOLDER
-Хм-м-м...
+Хммм...
 
 ココ「もしかしたら、日本のどこかの洞窟で、まだ八百比丘尼さんは生き続けているのかもしれない、でしょ？」%K%P
 Maybe, maybe she's still alive in a cave somewhere in Japan, you know?
@@ -1101,7 +1101,7 @@ CN PLACEHOLDER
 優「いまだに『彼氏さん』のことを待ってる、と？」%K%P
 Still waiting for her 'boyfriend'?
 CN PLACEHOLDER
-И всё ещё... ждёт своего „возлюбленного“?
+И всё ещё...ждёт своего 'возлюбленного'?
 
 武「あほぉ、そんなことあり得るわけないだろーが」%K%P
 Stupid! There's no way that story is true!
@@ -1121,12 +1121,12 @@ CN PLACEHOLDER
 ココ「ココは、ほんのちょびっとだけだけど、生きてるような気がするんだけどなぁ〜」%K%P
 I think she might still be alive somewhere...
 CN PLACEHOLDER
-Тем не менее, я думаю, что она всё ещё жива...
+Тем не менее, Коко думает, что она всё ещё жива...
 
 優「うん、私もそう思う！」%K%P
 Yeah, me too!
 CN PLACEHOLDER
-Угу, я тоже так думаю!
+У〜гу, я тоже так думаю!
 
 武「おいおい、本気で言ってんのか？」%K%P
 Oh, come on, are you guys serious?
@@ -1146,12 +1146,12 @@ CN PLACEHOLDER
 武「ははっ、ほらみろ、１３００年前だぞ？　今生きてたら、１３００歳だ！」%K%P
 Haha! You see? 1300 years ago. If she were still alive, she'd be 1300 years old!
 CN PLACEHOLDER
-Ха-ха-ха! Ничего себе! 1300 лет назад. Если она ещё жива, значит, сейчас ей 1300 лет!
+Ха〜ха〜ха! Ничего себе! 1300 лет назад. Если она ещё жива, значит сейчас ей 1300 лет!
 
 優「当たり前のこと言わないでよぉ」%K%P
 Look, you don't have to inform us of the obvious.
 CN PLACEHOLDER
-Будто мы и так не поняли!
+Будто мы и так не поняли〜〜〜!
 
 武「じゃあ、こう言おうか」%K%P
 Let me put it this way.
@@ -1161,17 +1161,17 @@ CN PLACEHOLDER
 武「今から１３００年前ってことはだなぁ、西暦７００年前後――奈良時代か、ヘタすると飛鳥時代から生き続けてたってことになる」%K%P
 1300 years from now would be like 700 A.D.—That means she would have been living since the Nara era, or even before that.
 CN PLACEHOLDER
-1300 лет назад, то есть 700 лет нашей эры... то есть ещё в период Нара, а то и вообще Асука.
+1300 лет назад, то есть 700 лет от Рождества Христова...то есть, ещё до строительства первой столицы Японии - Нара.
 
 武「ナカノオオエノオウジもビックリだね」%K%P
 That would amaze even Prince Nakano-Ooe.
 CN PLACEHOLDER
-Даже принц Накано-Ооэ умер бы от зависти!
+Да сам бы Кощей Бессмертный сдох от зависти!
 
 優「なにムキになってるのよぉ……」%K%P
 What are you so worked up about...?
 CN PLACEHOLDER
-Чему это ты так удивляешься?..
+Чему это ты так удивляешься...?
 
 優「『ただの昔話だ』って言ったのは、倉成じゃない」%K%P
 You're the one who said it was just an 'old story', Kuranari.
@@ -1186,7 +1186,7 @@ CN PLACEHOLDER
 優「もう倉成も、いい加減大人なんだからさぁ、わかるでしょ？」%K%P
 You're old enough to know what I'm talking about.
 CN PLACEHOLDER
-Эх, Куранари... ты же взрослый человек, и прекрасно меня понимаешь.
+Эх, Куранари...ты же взрослый человек, и прекрасно меня понимаешь, не так ли?
 
 優「少女の夢を、むやみに壊すんじゃないの」%K%P
 Don't break girls' romantic dreams for no good reason.
@@ -1201,22 +1201,22 @@ CN PLACEHOLDER
 ココ「うん」%K%P
 Yeah.
 CN PLACEHOLDER
-Угу.
+У〜гу.
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「八百比丘尼が７００歳で洞窟に入ったってことは、それから６００年間も、ひたすら『彼氏さん』を待ち続けてたってことになるよねぇ」%K%P
 She entered the cave at the age of 700, so that means she waited for her boyfriend another 600 years, right?
 CN PLACEHOLDER
-Яобикуни поселилась в пещере, когда той было 700 лет, значит, она ждала своего возлюбленного ещё 600 лет...
+Яобикуни поселилась в пещере, когда той было 700 лет, значит она ждала своего возлюбленного ещё 600 лет...
 
 優「あっ、今でも生きてるかもしれないから――『待ち続けてる』――現在進行形かぁ」%K%P
 Oh, but she might still be alive, so that makes it 'she is waiting', as in the present tense.
 CN PLACEHOLDER
-Ах да, учитывая вероятность того, что она ещё жива, можно говорить и в настоящем времени – „она ждёт“.
+Ах да, учитывая вероятность того, что она ещё жива, можно говорить и в настоящем времени - 'она ждёт'.
 
 優「とにかくぅ……」%K%P
 Anyway...
@@ -1226,7 +1226,7 @@ CN PLACEHOLDER
 優「『彼氏さん』が椿の花を追い求めて、ようやく洞窟の淵へとたどりついたそのとき！」%K%P
 When her boyfriend finally arrives at the entrance of the cave, which is overflowing with camellia flowers...!
 CN PLACEHOLDER
-Когда её возлюбленный наконец окажется перед входом в пещеру, залитую цветками камелии!..
+Когда её возлюбленный наконец окажется перед входом в пещеру, залитую цветками камелии...!
 
 優「運命の再会が訪れるわけよぉ〜」%K%P
 They will finally be reunited〜
@@ -1246,27 +1246,27 @@ CN PLACEHOLDER
 優「う〜ん、なんてロマンチックなんでしょう♪」%K%P
 Oh, how romantic〜
 CN PLACEHOLDER
-Ой, как романтично!
+Оооой, как романтичнооо〜〜〜!!
 
 ココ「ロマンチック、かぁ……」%K%P
 Romantic, huh...
 CN PLACEHOLDER
-Романтично?..
+Романтично...?
 
 ココ「ココは、ロマンチックって言うよりも、ちょっぴり悲しい気がするなぁ……」%K%P
 I think it's more sad than romantic...
 CN PLACEHOLDER
-По-моему это грустно, а вовсе не романтично...
+По-моему это...грустно, а вовсе не романтично...
 
 武「？」%K%P
 ?
 CN PLACEHOLDER
-?
+.........?
 
 優「？」%K%P
 ?
 CN PLACEHOLDER
-?
+.........?
 
 ココ「だってさぁ……」%K%P
 Well, I mean...
@@ -1276,17 +1276,17 @@ CN PLACEHOLDER
 ココ「暗ぁーい暗ぁーい洞窟の奥で……」%K%P
 She's been waiting in this deep dark cave...
 CN PLACEHOLDER
-В этой тёмной-претёмной глубокой пещере...
+В этой тёмной-претёмной, глубокой пещере...
 
 ココ「ずーっとずーっとずーっとずーっと……『彼氏さん』が来るのを待ってるんだよ？」%K%P
 Just waiting for her boyfriend for the longest time, you know?
 CN PLACEHOLDER
-Долго-долго-долго-долго... ждала своего возлюбленного...
+Долго-долго-долго-долго...ждала своего возлюбленного...
 
 ココ「ひとりぼっちで、待ってるんだよ？」%K%P
 She's been all alone.
 CN PLACEHOLDER
-Одна... одинёшенька.
+Одна...одинёшенька.
 
 ココ「寂しくて、寂しくて、寂しくて……」%K%P
 So alone and so lonely...
@@ -1296,52 +1296,52 @@ CN PLACEHOLDER
 ココ「だけど、死んじゃうこともできなくて……」%K%P
 But she couldn't die either...
 CN PLACEHOLDER
-Но она не могла умереть...
+Но, она не могла умереть...
 
 ココ「人魚の涙なんて、飲まなければよかったのに……」%K%P
 I wish she'd never drank those mermaid's tears...
 CN PLACEHOLDER
-Лучше бы она... никогда не пила эти русалочьи слёзы...
+Лучше бы она...никогда не пила эти русалочьи слёзы...
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「なあ、ココ？」%K%P
 Hey, Coco?
 CN PLACEHOLDER
-Слушай, Коко.
+Слушай, Коко?
 
 ココ「ん？」%K%P
 What?
 CN PLACEHOLDER
-Ась?
+Эээ?
 
 武「ココは、人魚が実在する動物だと思ってるのか？」%K%P
 Do you believe that mermaids actually exist?
@@ -1351,7 +1351,7 @@ CN PLACEHOLDER
 優「はぁ……またそうやって夢の無いことを言う」%K%P
 Geez... There you go again... You're too practical.
 CN PLACEHOLDER
-Блин... Ну снова-здорово.
+Уххх...опять ты воспринимаешь всё шибко серьёзно.
 
 武「だって、人魚の存在が否定されたら、この話は最初っから成立しなくなるんだぞ？」%K%P
 Well, if mermaids don't exist, then you can forget about the whole story to begin with.
@@ -1376,12 +1376,12 @@ CN PLACEHOLDER
 優「ゴンタくんのもらったトックリには、誰がなんと言おうと『不老長寿の液体』が入ってたの」%K%P
 Well, it's obvious that the liquid Gonta-kun got from that old man was a 'longevity potion', I don't care what you say.
 CN PLACEHOLDER
-Ну, это же очевидно – жидкость, что старец в бутылке приподнёс Гонте, была не чем иным, как „зельем бессмертия“.
+Ну, это же очевидно - жидкость, что старец в бутылке приподнёс Гонте, была ни чем иным как 'Зельем бессмертия'.
 
 優「それを、誰かが勝手に『人魚の涙』って命名しただけかもしれないでしょ？」%K%P
 They could have just named it 'mermaid tears', right?
 CN PLACEHOLDER
-Знаешь, его ведь могли назвать и „Русалочьи уши“...
+Знаешь, его ведь могли назвать и 'Русалочьи Уши'...
 
 優「つまり、不老長寿の液体が、実際の人魚の涙である必要はないってこと」%K%P
 What I'm trying to say is that the potion didn't actually have to be made from mermaid teardrops.
@@ -1391,27 +1391,27 @@ CN PLACEHOLDER
 優「例えば、ここに積まれてるキャンディーの山が、実際の人魚の涙じゃないのと同じようにね」%K%P
 I mean, these candies aren't actual mermaid teardrops.
 CN PLACEHOLDER
-Ну, то есть, и эти конфеты на самом деле не являются русалочьими слезами.
+Из чего, по-твоему, сделаны конфеты 'Птичье молоко'?
 
 武「なるほど」%K%P
 Well, you have a point.
 CN PLACEHOLDER
-Ладно, я понял тебя.
+Ладно, я понял, к чему ты клонишь.
 
 武「『ニンギョノナミダ』というのは、その不可思議な液体に与えられた、ただの固有名詞に過ぎないというわけだな？」%K%P
 So 'mermaid tears' is only the name for that strange liquid, right?
 CN PLACEHOLDER
-Значит, „Русалочьи слёзы“ – всего лишь название, так?
+Значит 'Русалочьи Слёзы' - просто название для этой жидкости, так?
 
 武「うむうむ、それじゃあまあ、人魚うんぬんの話はいいとしよう」%K%P
 Alright, fine. Let's skip the whole mermaid business.
 CN PLACEHOLDER
-Ладно, забьём на всю эту русалочью тему.
+Хорошо. Допустим, что вся эта бодяга с русалками тут ни при чём.
 
 武「だがな？　優」%K%P
 But, you know, You?
 CN PLACEHOLDER
-Но знаешь что, Ю?
+Но, знаешь что, Ю?
 
 武「よーく考えてみろ？」%K%P
 Think really hard, will you?
@@ -1421,7 +1421,7 @@ CN PLACEHOLDER
 武「『不老長寿』なんて現象が、この世の中に存在すると思うか？」%K%P
 Do you honestly think that something like eternal youth exists?
 CN PLACEHOLDER
-Неужели ты действительно веришь в существование такой штуки, как „вечная молодость“?
+Неужели ты действительно веришь в существование такой штуки, как 'вечная молодость'?
 
 優「思う」%K%P
 I do.
@@ -1441,42 +1441,42 @@ CN PLACEHOLDER
 武「ならば提示してもらおうじゃないか」%K%P
 Okay, show me then.
 CN PLACEHOLDER
-Ну тогда докажи.
+Тогда давай, колись.
 
 優「望むところよ」%K%P
 Okay, I'll show you!
 CN PLACEHOLDER
-А вот и докажу!
+Ещё как колюсь!
 
 ココ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「ちょっと話はそれるけど……今の八百比丘尼の話、何かに似てると思わない？」%K%P
 This is a little off topic, but... doesn't this story of Yaobikuni remind you of something else?
 CN PLACEHOLDER
-Это немного не по теме, но... разве история Яобикуни ничего тебе не напоминает?
+Это немного не по теме, но...разве история Яобикуни ничего тебе не напоминает?
 
 武「？？？」%K%P
 ?
 CN PLACEHOLDER
-?
+.........?
 
 ココ「？？？」%K%P
 ?
 CN PLACEHOLDER
-?
+.........?
 
 優「浦島太郎だよぉ」%K%P
 I'm talking about the tale of Rip Van Winkle.
 CN PLACEHOLDER
-Легенда об Урасиме Таро.
+Урашима Таро и Морское Царство.
 
 武「浦島……」%K%P
 Rip Van...
 CN PLACEHOLDER
-Урасиме...
+Урашима...
 
 ココ「……太郎？」%K%P
 ...Winkle?
@@ -1486,12 +1486,12 @@ CN PLACEHOLDER
 優「海の中へと招待されて、立派な屋敷がそこには建ってて、豪華なディナーを御馳走されて、帰りがけにはオミヤをもらう」%K%P
 Well, the father got invited to a party and got some kind of alcoholic beverage, right?
 CN PLACEHOLDER
-Приглашение в роскошный дворец, роскошный ужин, вручение подарка на обратном пути.
+Ну, за то что тот спас черепаху, его пригласили в роскошный замок, где тоже был неслабый пир.
 
 優「ここのとこなんか、もうそっくりそのまま浦島太郎じゃない」%K%P
 That's just like Rip Van Winkle.
 CN PLACEHOLDER
-Точь-в-точь как в истории про Урасиму Таро!
+Просто, Урашима Таро пережил почти то же самое, что и её отец.
 
 武「だから？」%K%P
 So what?
@@ -1506,12 +1506,12 @@ CN PLACEHOLDER
 優「浦島太郎はタマテ箱をあけたことによって、お爺さんになっちゃったでしょ？」%K%P
 Rip Van Winkle drank the liquor and became a very old man, right?
 CN PLACEHOLDER
-Урасима Таро превратился в старика, как только открыл подаренную ему шкатулку...
+Урашима Таро превратился в старика, как только открыл подаренную ему шкатулку...
 
 優「八百比丘尼は『人魚の涙』を飲んだことによって、不老長寿の肉体を手に入れた……」%K%P
 Yaobikuni drank the 'mermaid tears' and gained a body of perpetual youth that never ages...
 CN PLACEHOLDER
-Яобикуни выпила „русалочьи слёзы“ и стала вечно молодой...
+Яобикуни выпила 'русалочьи слёзы' и стала вечно молодой...
 
 優「ということはですなぁ」%K%P
 And that means that...
@@ -1521,12 +1521,12 @@ CN PLACEHOLDER
 武「ははぁ〜ん、そうかそうか、言いたいことがわかってきたぞ」%K%P
 Ohhh... I'm beginning to see what you're trying to say.
 CN PLACEHOLDER
-О-о... Кажется, я понял, к чему ты клонишь.
+Эххх...кажется, я понял, к чему ты клонишь.
 
 武「浦島太郎は、龍宮城で何日か過ごし、陸へ戻ってみると、数十年だか数百年だかの歳月が流れていた」%K%P
 Rip Van Winkle hits the bottle just a little tooooo hard, and when he wakes up, 20 years have passed.
 CN PLACEHOLDER
-Несколько дней, проведённых Урасимой Таро в подводном дворце, оказались для него лишь мгновением, а на суше за это время прошли десятки, а то и сотни лет.
+За время, пока Урашима Таро провёл с морской царицей, прошло несколько сотен лет.
 
 武「同じように八百比丘尼の場合……」%K%P
 Just like with the 800-year-old nun...
@@ -1536,7 +1536,7 @@ CN PLACEHOLDER
 武「『人魚の涙』を飲んだことによって、７００年後だか８００年後だかの未来へと、いきなりすっ飛ばされてしまった」%K%P
 By drinking 'mermaid tears', she was sent 700 or 800 years into the future.
 CN PLACEHOLDER
-Выпив „русалочьи слёзы“, она переместилась на 700 или 800 лет в будущее.
+Выпив 'русалочьи слёзы', она переместилась на 700 или 800 лет в будущее.
 
 武「つまり、八百比丘尼は不老長寿でもなんでもなく、ただ単に、未来へとタイムスリップしただけだったんだ」%K%P
 So she didn't actually gain eternal youth, she just slipped through time into the future.
@@ -1546,17 +1546,17 @@ CN PLACEHOLDER
 武「そう考えてみれば『８００年経っても１７歳のままだった』っていうのも、説明がつくよなぁ」%K%P
 So THAT explains why she stayed 17 years old even after 800 years.
 CN PLACEHOLDER
-ВОТ почему она выглядела на 17 лет даже спустя 800.
+ВОТ почему она выглядела на 17 лет даже после 800.
 
 武「説明がつく？？？」%K%P
 You think that explains it?
 CN PLACEHOLDER
-И это, по-твоему, всё объясняет???
+И это по-твоему всё объясняет???
 
 武「説明なんてつかねぇーよ！」%K%P
 Well, it doesn't!
 CN PLACEHOLDER
-Да тут никакое объяснение не поможет!
+А вот дудки!!
 
 武「タイムスリップなんて、現実には起こるわけないんだから！」%K%P
 There's no such thing as time travel in real life!
@@ -1566,37 +1566,37 @@ CN PLACEHOLDER
 優「ちょ、ちょっと待って……話を勝手に進めないでよ」%K%P
 Hey, hey, wait a second... Don't go jumping to conclusions.
 CN PLACEHOLDER
-П-погоди-ка... не гони лошадей.
+П-Погоди-ка...не гони лошадей.
 
 優「私はひと言も、タイムスリップなんて言ってないでしょ？」%K%P
 I never said a word about time travel, did I?
 CN PLACEHOLDER
-Я даже не заикалась о путешествиях во времени.
+Я даже не заикалась о временных провалах.
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「私が言いたいのは『タマテ箱』と『人魚の涙』との、類似性というか、相関関係というか、そういったものについてなの」%K%P
 I'm just curious about the similarity between the 'dwarven spirits' and 'mermaid tears.'
 CN PLACEHOLDER
-Мне просто кажется, что между шкатулкой и „русалочьими слёзами“ много общего.
+Мне просто кажется, что между шкатулкой и 'русалочьими слёзами' много общего.
 
 優「『タマテ箱』の中に詰め込まれていたものは……『生物の老化を急速に促進する作用を持った気体』だった」%K%P
 The dwarven liquor was actually... a solution that rapidly accelerates aging.
 CN PLACEHOLDER
-Наверное в шкатулке просто был газ, ускоряющий процесс старения.
+Наверно в шкатулке просто был газ, ускоряющий процесс старения.
 
 優「『トックリ』の中に詰め込まれていたものは……『生物の老化を極限まで抑制する作用を持った液体』だった」%K%P
 What was in the tears was... a solution that slows down aging.
 CN PLACEHOLDER
-А „русалочьи слёзы“ – не более, чем средство для замедления старения.
+А 'русалочьи слёзы' - не более чем средство для замедления старения.
 
 優「そして、このふたつはともに、海中に棲息している何者かによって手渡された」%K%P
 Both of them were handed down from some old guy.
@@ -1616,7 +1616,7 @@ CN PLACEHOLDER
 優「『タマテ箱の煙』も『人魚の涙』も、同一人物の手によって……」%K%P
 Both 'dwarven spirits' and 'mermaid tears'...
 CN PLACEHOLDER
-У шкатулки с газом и „русалочьих слёз“... был один и тот же владелец.
+У шкатулки с дымом и 'русалочьих слёз'...был один и тот же владелец.
 
 優「あるいは同一の文明によって、製造された可能性が極めて高いということになるでしょ？」%K%P
 ...Are possibly made by the same people or by the same civilization.
@@ -1636,7 +1636,7 @@ CN PLACEHOLDER
 ココ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「もしかしたらその宮殿は、海底に沈んだ超古代文明の遺跡の一部だったのかもしれないよね？」%K%P
 Well, the castle in Coco's story might have been part of some ruins of an ancient civilization, sunken under the ocean.
@@ -1646,42 +1646,42 @@ CN PLACEHOLDER
 優「例えば、レムリア文明とか」%K%P
 For example, the civilization of Lemuria.
 CN PLACEHOLDER
-Например, цивилизации Лемурии.
+Например, цивилизация Лемурии.
 
 優「レムリア文明には、老化をコントロールできちゃうような科学技術があって……」%K%P
 In Lemuria, it's thought they had science and technology that could control aging...
 CN PLACEHOLDER
-У лемурийцев была технология, которая могла легко регулировать старение...
+В Лемурии, была наука и технологии, что могли препятствовать старению, и....
 
 優「浦島太郎もゴンタくんも、何らかの事情によって、特別にその宮殿へと招かれることになったんだよ、きっと」%K%P
 And for some reason, Gonta-kun got invited to the castle.
 CN PLACEHOLDER
-Наверняка Урасима Таро и Гонта были приглашены в один и тот же замок.
+Наверняка, Урашима Таро и Гонто были приглашены в один и тот же замок.
 
 優「うんうん」%K%P
 Uh-huh.
 CN PLACEHOLDER
-Угу!
+У〜гу!
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「どう？　納得した？」%K%P
 So? Are you satisfied?
 CN PLACEHOLDER
-Ну? Что скажешь?
+Ну〜〜〜? Что скажешь?
 
 武「凄まじく支離滅裂な論理展開だった気もするが……まあいいだろう」%K%P
 I think that was a pretty random explanation... but that's okay, I guess.
 CN PLACEHOLDER
-Думаю, что объяснение совершенно несвязное... Но да ладно.
+Отличная гипотеза...пусть и слегка сумбурная.
 
 武「優の言いたいことはわかった」%K%P
 I got your point.
@@ -1691,17 +1691,17 @@ CN PLACEHOLDER
 武「だが、今の話の中には『不老長寿が存在することの根拠』はひとつもなかったぞ？」%K%P
 But you still haven't given me any substantial evidence that eternal youth exists.
 CN PLACEHOLDER
-Однако ты так и не привела ни одного крепкого доказательства существования вечной молодости.
+Однако, ты так и не привела ни одного крепкого доказательства существования вечной молодости.
 
 武「お前が言ったことの要点はこうだ」%K%P
 The point of what you just said was basically this...
 CN PLACEHOLDER
-Весь смысл твоей предыдущей тирады сводится лишь к одному:
+Весь смысл твоей предыдущей тирады сводится лишь к одному -
 
 武「『浦島太郎も八百比丘尼のパパさんも、滅亡したはずのレムリア文明とコンタクトを取ったに違いない』」%K%P
 'Rip Van Winkle and the 800-year-old nun's dad must have made contact with the lost civilization of Lemuria.'
 CN PLACEHOLDER
-Урасима Таро и Яобикуни вступили в контакт с затерянной цивилизацией Лемурии.
+Урашима Таро и Яобикуни вступили в контакт с затерянной цивилизацией Лемурии.
 
 武「よしっ、百万歩譲って、この仮説が正しかったとしよう」%K%P
 Alright then, let's just SUPPOSE this assumption was correct.
@@ -1716,7 +1716,7 @@ CN PLACEHOLDER
 武「そこに『老化をコントロールできちゃうような科学技術』があったかどうかなんて、誰にもわからないじゃないか」%K%P
 Nobody knows if they had the technology to control aging, right?
 CN PLACEHOLDER
-Никто не знает, владели ли они „технологией, регулирующей старение“, ведь так?
+Никто не знает, какими 'технологиями, дарующими вечную молодость' они обладали, ведь так?
 
 武「証明のしようがないじゃないか」%K%P
 There's no way you can prove it.
@@ -1726,17 +1726,17 @@ CN PLACEHOLDER
 武「それに、そもそもレムリア大陸なんてものは、過去にも未来にも、この地球上には存在しないんだよ」%K%P
 Besides, Lemuria never did and never will exist.
 CN PLACEHOLDER
-Кроме того, Лемурия никогда не существовала и существовать не будет.
+Кроме того, Лемурия никогда не существовала, и существовать не будет.
 
 武「スクレーターの唱えた学説は、とっくの昔に否定されてるんだ」%K%P
 Sclater's theory was disproven a long time ago.
 CN PLACEHOLDER
-Теория Склейтера была разбита в пух и прах давным-давно.
+Теория Шлейтера была разбита в пух и прах давным-давно.
 
 ココ「スクレーターって、なに？」%K%P
 What's Sclater?
 CN PLACEHOLDER
-Склейтера? Это кто?
+Шлейтера? Это кто?
 
 武「イギリスの動物学者の名前」%K%P
 The name of an English zoologist.
@@ -1751,52 +1751,52 @@ CN PLACEHOLDER
 武「アフリカ・マダカスカル島・アジア・インドネシアの島々に、同種のキツネザル――『レミュール』が生息していることに気づいたんだ」%K%P
 He noticed that the same species of lemur inhabited Africa, Madagascar Islands, Asia, and the Indonesian Islands.
 CN PLACEHOLDER
-Он обнаружил, что одни и те же виды лемуров населяют Африку, остров Мадагаскар, Азию и Индонезийские острова.
+Он обнаружил, что одни и те же виды лемуров населяют Африку, Остров Мадагаскар, Азию и Индонезийские Острова.
 
 武「でも、レミュールは泳げない。……いや、少しぐらいなら泳げるかもしれないが、長距離を泳ぎ続けることは不可能だ」%K%P
 But lemurs can't swim... Well, maybe just a little, but certainly not a long distance.
 CN PLACEHOLDER
-Но дело в том, что лемуры не умеют плавать... ну, может и умеют, но не плавают на большие расстояния.
+Но, дело в том, что лемуры не умеют плавать... ну, может и умеют, но не плавают на большие расстояния.
 
 武「ならば、広大な海にへだてられた島々に、どうして同じ種類のレミュールが点在しているのか？」%K%P
 Well then, how could the same kind of lemurs reside on different islands separated by a massive ocean?
 CN PLACEHOLDER
-Если так, то каким образом одни и те же виды лемуров оказались на разных участках суши, разделённых целым океаном?
+Если так, то...каким образом одни и те же виды лемуров оказались на разных участках суши, разделённых целым океаном?
 
 武「スクレーターは考えた……」%K%P
 Sclater thought...
 CN PLACEHOLDER
-И тут Склейтера осенило...
+И тут Шлейтера осенило...
 
 武「『そうだ！　きっと大昔には、インド洋に大陸が存在し、これらの島々は地続きになっていたに違いない！』」%K%P
 'That's it! A long time ago, there must have been a great landmass in the Indian Ocean, and these islands must have been connected as one!'
 CN PLACEHOLDER
-„Ну конечно! Давным-давно, на месте Индийского океана был один монолитный континент!“
+'Ну конечно! Давным давно, на месте Индийского Океана был один монолитный континент'!
 
 武「ところが、２０世紀の中頃に『大陸移動説』ってやつが証明されて、スクレーターの説はあっさりと否定されてしまったんだ」%K%P
 But by the mid-20th century, the theory of continental drift had been proven, and Sclater's theory was ignored after that.
 CN PLACEHOLDER
-Но в середине 20-го века была доказана теория дрейфа материков, а теория Склейтера отправилась в корзину.
+Но, в середине 20-го века, была доказана теория 'дрейфа материков', а теория Шлейтера отправилась в корзину.
 
 武「『昔々大昔には、現在地球上にあるすべての大陸はひと塊になっていて……』」%K%P
 'A long, long time ago, all the land on the earth today formed one big continent...'
 CN PLACEHOLDER
-„Давно, очень давно, на Земле был лишь один, большой континент...“
+'Давно, очень давно, на Земле был лишь один, большой континент...'
 
 武「『それが地殻変動だかプレートテクトニクスだかによって、ゆっくりとゆっくりと分裂し、移動し、現在の姿になった』」%K%P
 'Which very slowly got broken up, and the continents shifted with the movement of the earth's crust, or by virtue of plate tectonics, to become the way they are today.'
 CN PLACEHOLDER
-„То ли из-за тектонических сдвигов, то ли из-за движения литосферных плит, он медленно разделидся, а части перемещались и в итоге приобрели нынешний облик...“
+'Который очень медленно разломился, в результате чего осколки начали смещаться вместе с земной корой, или благодаря тектоническим плитам...'
 
 武「正確に言うと、実は今でも、年に数センチという速度で大陸は移動してるんだけどな」%K%P
 To be precise, the land masses are still moving even today by several centimeters every year.
 CN PLACEHOLDER
-„...став современными континентами“. Если быть точным, континенты движутся и по сей день, каждый год на несколько сантиметров.
+'...пока не стали современными континентами'. Если быть точным, континенты движутся и по сей день, каждый год на несколько сантиметров.
 
 武「というわけで、大陸移動説は、もはや『説』というよりも、当たり前の事実として考えられている」%K%P
 The theory of continental drift was now known to be fact rather than just theory.
 CN PLACEHOLDER
-Поэтому теория дрейфа материков не просто „теория“, а доказанный факт.
+Поэтому, теория 'дрейфа материков' теперь не просто 'теория', а доказанный факт.
 
 武「言うまでもなく、レミュールが島々に点在している理由も、これによって説明することができる」%K%P
 So the reason why lemurs exist on different islands can be explained by this theory.
@@ -1806,7 +1806,7 @@ CN PLACEHOLDER
 武「どうだ！　わかったか！　レムリア大陸なんてもんは実在しないんだよ！」%K%P
 So there! You see? There is no such thing as Lemuria!
 CN PLACEHOLDER
-Ну что, ясно?! Лемурии НЕ су-щест-ву-ет!
+Ну что, ясно?! Лемурии НЕ су〜щест〜ву〜ет!
 
 武「レムリア大陸が無けりゃ、レムリア文明だって無いだろーが！」%K%P
 If there's no Lemuria, there couldn't be a Lemurian civilization!
@@ -1821,37 +1821,37 @@ CN PLACEHOLDER
 優「ふ〜ん」%K%P
 You don't say?
 CN PLACEHOLDER
-Хм-м-м...
+Хммм...
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「悪いけど、私が言ったのは、太平洋の『レムリア大陸』のことなんだよね」%K%P
 Well, sorry to cut you off when you're just getting started, but the 'Lemuria' I was referring to was in the Pacific Ocean.
 CN PLACEHOLDER
-Вообще-то я имела в виду континент Лемурия в Тихом океане.
+Вообще-то, под вероятным местом существования 'Лемурии' я имела в виду Тихий Океан.
 
 優「日本の浦島太郎が、どうしてわざわざマラッカ海峡を渡ってインド洋まで行かなきゃいけないのよ」%K%P
 Why would a Japanese person like Gonta-kun go all the way over to the Strait of Malacca, then to the Indian Ocean?
 CN PLACEHOLDER
-Зачем Урасиме Таро или Гонте переться из Японии через Малаканский пролив до Индийского океана?
+Зачем Урашиме Таро или Гонте переться из Японии через Малаканский Пролив до Индийского Океана?
 
 優「レムリア大陸は、太平洋にあったの」%K%P
 Lemuria was located in the Pacific Ocean.
 CN PLACEHOLDER
-Лемурия располагалась в Тихом океане.
+Лемурия располагалась в Тихом Океане.
 
 武「太平洋？　……お前、もしかしてそれ、ムー大陸のこと言ってる？」%K%P
 In the Pacific Ocean...? Are you, by any chance, talking about the continent of Mu?
 CN PLACEHOLDER
-В Тихом океане?.. А ты, часом, не о континенте Мю?
+В Тихом Океане...? А ты часом не о континенте Мю?
 
 優「呼び方なんてどうでもいいのよ」%K%P
 It doesn't matter what you call it.
@@ -1861,32 +1861,32 @@ CN PLACEHOLDER
 優「かつて太平洋上には、超古代文明が存在した」%K%P
 There used to be an ancient civilization in the Pacific before recorded history.
 CN PLACEHOLDER
-На месте Тихого океана в доисторический период существовала древняя цивилизация.
+На месте Тихого Океана, в доисторический период, существовала древняя цивилизация.
 
 優「それをある人はレムリア文明と呼び、ある人はムー文明と呼ぶ――そんなこと、どっちだっていいじゃない」%K%P
 Some people call it Lemuria, others call it Mu. It doesn't really matter, does it?
 CN PLACEHOLDER
-Одни зовут её Лемурией, другие Мю. Вообще плевать.
+Одни зовут её Лемурией, другие Мю. Это не важно, верно?
 
 武「ああ……頭が痛くなってきた……」%K%P
 Oh... I'm getting a headache...
 CN PLACEHOLDER
-Ой... Голова разболелась...
+Ой...голова болит...
 
 武「確かにどっちだっていいさ……どっちだってな……」%K%P
 I guess you're right, it doesn't matter... It really doesn't...
 CN PLACEHOLDER
-Наверное, ты права, плевать... совсем плевать...
+Наверно ты права, это не важно...совсем не важно...
 
 武「レムリアだろうがムーだろうが、実在しないことに変わりはないんだから」%K%P
 Whether you call it Lemuria or Mu, it never existed anyway.
 CN PLACEHOLDER
-Хоть Лемурия, хоть Мю, хоть Атлантида – их нет и никогда не было.
+Хоть Лемурия, хоть Мю, хоть Атлантида - их нет и никогда не было.
 
 優「どうしてそう夢のないこと言うかなぁ……」%K%P
 Why do you have to be so serious...?
 CN PLACEHOLDER
-Ну чё ты так взъелся, а?..
+Ну чё ты так взъелся, а...?
 
 優「大人気ない……」%K%P
 It's so childish...
@@ -1896,7 +1896,7 @@ CN PLACEHOLDER
 優「倉成には想像力ってもんがないの？」%K%P
 Don't you have any imagination, Kuranari?
 CN PLACEHOLDER
-Куранари... у тебя что, нет воображения?
+Куранари...у тебя что, нет воображения?
 
 武「大人気ないのはお前の方じゃないか！　もう１８だろ！？　現実を見ろ、現実を！」%K%P
 You're the one who's childish! You're eighteen, right!? Grow up, will you!? Get real!
@@ -1906,17 +1906,17 @@ CN PLACEHOLDER
 武「『超古代文明』も『不老長寿』も『浦島太郎』も『八百比丘尼』も『サンタクロース』も――全部架空の物語なんだよ！」%K%P
 An ancient civilization before time, perpetual youth and longevity, Rip Van Winkle, 800-year-old nun, and Santa Claus... None of these exist!
 CN PLACEHOLDER
-„Древнейшая цивилизация“, „вечная молодость“, „Урасима Таро“, „Яобикуни“... „Санта Клаус“... Всё это выдумки!
+'Древнейшая цивилизация', 'вечная молодость', 'Урашима Таро', 'Яобикуни'... 'Дед Мороз'... Всё это фикция!
 
 武「ただのオトギ話なんだ！」%K%P
 They're all just fairy tales!
 CN PLACEHOLDER
-Просто сказки!
+Обычные детские сказочки!
 
 優「オトギ話のすべてが虚構とは限らないでしょ！」%K%P
 Not all fairy tales are fiction!
 CN PLACEHOLDER
-Между прочим, не все сказки – вымысел!
+Между прочим, не все сказки - вымысел!
 
 優「なかには実話だってあるかもしれないじゃない！」%K%P
 Some of them may be real!
@@ -1936,7 +1936,7 @@ CN PLACEHOLDER
 優「少なくとも浦島太郎だけは、絶対確実完全無欠に実話だと思う！」%K%P
 Well I, for one, believe Rip Van Winkle really existed!
 CN PLACEHOLDER
-По крайней мере, Урасима Таро существовал на самом деле!
+По крайней мере, Урашима Таро существовал на самом деле!
 
 武「ほっほ〜、すごい自信じゃないか」%K%P
 Oh, you're so sure, huh?
@@ -1966,12 +1966,12 @@ CN PLACEHOLDER
 ココ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「浦島太郎はねぇ！」%K%P
 Rip Van Winkle was...
 CN PLACEHOLDER
-Урасима Таро...
+Урашима Таро...
 
 武「なんだよ？」%K%P
 What?
@@ -1981,47 +1981,47 @@ CN PLACEHOLDER
 優「浦島太郎は……浦島太郎は……」%K%P
 Rip Van Winkle was... Rip Van Winkle was...
 CN PLACEHOLDER
-Урасима Таро... Урасима... Таро...
+Урашима Таро......гх......Урашима...Таро...
 
 武「？」%K%P
 ?
 CN PLACEHOLDER
-?
+Эээ...?
 
 ココ「？」%K%P
 ?
 CN PLACEHOLDER
-?
+Эээ...?
 
 優「う、うらしま…………た……たろう……は……」%K%P
 Rip... Van... W... inkle... was...
 CN PLACEHOLDER
-*Гх*... Урасима... Та... Таро... *гх*...
+*Гх*......Урашима......Та...Таро...*гхх*...!
 
 優「…………たろう…………は…………」%K%P
 ...Winkle... was...
 CN PLACEHOLDER
-Таро... *гх*
+Таро......*гхх*...!
 
 ――突然、優が胸を押さえて苦しみ始めた。%K%P
 Suddenly, You put her hand on her chest and seemed to be suffering.
 CN PLACEHOLDER
-Внезапно Ю прижала руки к груди. Похоже, ей плохо.
+Внезапно, Ю схватилась за живот. Такое впечатление, будто она страдает от боли.
 
 武「ど、どうしたんだ！」%K%P
 What's wrong!?
 CN PLACEHOLDER
-Что с тобой?!
+Что с тобой!?
 
 ココ「だ、大丈夫！？　なっきゅ！」%K%P
 Hey, are you okay, Nakkyu!?
 CN PLACEHOLDER
-Ч-что с тобой, Няку?!
+Ч-Что с тобой, Няку?!!
 
 優「う、うん……」%K%P
 Uh-huh...
 CN PLACEHOLDER
-*Гх*...*гх*...*угх*...
+*Гхх*......*гхх*......*угх*...
 
 優「平気……」%K%P
 I'm okay...
@@ -2031,12 +2031,12 @@ CN PLACEHOLDER
 優「いつもの……こと……だから……」%K%P
 It happens... all the time...
 CN PLACEHOLDER
-Так... посто... янно...
+Так......посто......янно...
 
 武「いつものこと！？」%K%P
 What do you mean all the time!?
 CN PLACEHOLDER
-П-постоянно?!
+П-Постоянно!?
 
 優の顔には血の気がなかった。%K%P
 You's face had gone pale.
@@ -2056,7 +2056,7 @@ CN PLACEHOLDER
 優「う、うぅぅぅっ……」%K%P
 Uhhhh...
 CN PLACEHOLDER
-У-у-у...
+*Гхх*...*гхы*...*ааа*...
 
 かすれた声でうめき、うずくまった。%K%P
 She groaned in a low voice and squatted to the floor.
@@ -2071,12 +2071,12 @@ CN PLACEHOLDER
 人魚の涙は激しく飛び散り、頂上に立てたサインペンが宙を舞った。%K%P
 The mermaid tears scattered everywhere, and the pen on top flew in the air.
 CN PLACEHOLDER
-Русалочьи слёзы разлетелись по полу, а ручка на самом верху взмыла в воздух.
+Русалочьи Слёзы разлетелись по полу, а ручка на самом верху взмыла в воздух.
 
 優「ほんとに……大丈夫……だから……」%K%P
 I'll... be... alright...
 CN PLACEHOLDER
-Всё в... порядке... так что...
+Всё в...порядке...так что...
 
 大丈夫なわけがなかった。%K%P
 She didn't seem alright at all.
@@ -2086,7 +2086,7 @@ CN PLACEHOLDER
 息づかいは荒く、体は硬直し、震え、顔色はすでに死人のそれに近い。%K%P
 Her breathing was fast, and her body was stiff and shaking, her facial color almost seeming like that of a corpse.
 CN PLACEHOLDER
-Она неровно дышит, её тело онемело, её трясёт, а цвет лица как у трупа.
+Она неровно дышит, её тело онемело, её трясёт, а цвет лица словно у трупа.
 
 ――どうする！？%K%P
 (What should we do!?)
@@ -2121,12 +2121,12 @@ CN PLACEHOLDER
 ココ「う、うん！　わかった！」%K%P
 O-Okay, I will!
 CN PLACEHOLDER
-Д-да, поняла!
+Д-Да, поняла!
 
 俺は優を背中にかつぐと、店を飛び出した。%K%P
 I carried You on my back and jumped out of the kiosk.
 CN PLACEHOLDER
-Водрузив Ю на спину, я выскочил из лавки.
+Водрузив Ю на спину, я выскочил из киоска.
 
 救護室は近い。走れば１分とかからないだろう。%K%P
 The infirmary was close, so I could get there in less than a minute if I ran.
@@ -2141,12 +2141,12 @@ CN PLACEHOLDER
 優「くらなり……」%K%P
 Kuranari...
 CN PLACEHOLDER
-Куранари...
+Куранари....
 
 優「くらな…り……」%K%P
 Kurana... ri...
 CN PLACEHOLDER
-Курана... ри...
+Курана...ри...
 
 俺は黙々と走り続けた。%K%P
 I kept running in silence.
@@ -2161,7 +2161,7 @@ CN PLACEHOLDER
 優「きいてよ……くらなり……」%K%P
 Hey... Kuranari...
 CN PLACEHOLDER
-Слышишь?.. Куранари...
+Слышишь...? Куранари...
 
 優がささやく。%K%P
 You whispered.
@@ -2181,20 +2181,20 @@ CN PLACEHOLDER
 優「うらしま……たろうは……ねぇ……」%K%P
 Rip... Van... Winkle... was...
 CN PLACEHOLDER
-Урасима... Таро...*гх*...
+Урашима...Таро......*гх*...!
 
 優「……うらしま……たろうは……」%K%P
 Rip... Van... Winkle... was...
 CN PLACEHOLDER
-Урасима... Таро...
+Урашима...Таро〜〜〜...!
 
 優「ほんとうに……」%K%P
 He really...
 CN PLACEHOLDER
-*Гх*... правда...
+*Гх*...правда...
 
 優「ほんとう……に……」%K%P
 He... really...
 CN PLACEHOLDER
-Прав... да...
+Прав...да...
 

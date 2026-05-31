@@ -1,7 +1,7 @@
 ﻿空「あ、倉成さん。どうでしたか、小町さんは？」%K%P
 Ah, Kuranari-san. What happened? Where is Komachi-san?
 CN PLACEHOLDER
-Ах... Куранари-сан... что с тобой?.. Как Комати-сан?
+Ах...Куранари-сан...что с тобой...? Как Комачи-сан?
 
 扉のすぐ外で、空は心配そうに待っていた。%K%P
 Again, Sora was waiting for me. She looked concerned.
@@ -21,17 +21,17 @@ CN PLACEHOLDER
 武「しかしそのうち勝手に出歩くかもしれないが、それはこっちの知ったこっちゃないし……」%K%P
 I'm no doctor, but I think she'll be back on her feet soon enough.
 CN PLACEHOLDER
-Я не врач, но думаю, она очень скоро встанет на ноги.
+Я не врач, но, думаю, она очень скоро встанет на ноги.
 
 武「まぁ、そうそう死にそうにないから、安心していいぞ」%K%P
 Besides, she doesn't look like she's dying... I think we can all relax.
 CN PLACEHOLDER
-Кроме того, не похоже, что она умирает... Так что мы можем спать спокойно.
+Кроме того, не похоже, что она умирает... Так что, мы можем спать спокойно.
 
 空「え、あ、あのぉ……？」%K%P
 What, uh, um...?
 CN PLACEHOLDER
-Э-э... а-а... что?..
+Эээ...аа...что...?
 
 空は目をしばたいた。%K%P
 Sora simply blinked at me.
@@ -51,17 +51,17 @@ CN PLACEHOLDER
 武「え？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?..
+Эээ...?
 
 空「小町さんは重傷なんです。まだまだ安静にしていないといけないんですよ？」%K%P
 Komachi-san is very hurt, Kuranari-san. She needs to rest more than anything, alright?
 CN PLACEHOLDER
-Комати-сан сильно пострадала, Куранари-сан. Сейчас больше всего на свете она нуждается в отдыхе.
+Комачи-сан сильно пострадала, Куранари-сан. Сейчас больше всего на свете она нуждается в отдыхе.
 
 武「あっ、その、そう、だったっけ！？」%K%P
 Ah, uh, was that right?
 CN PLACEHOLDER
-Э-э, м-м... правда?
+Эээ, ммм...правда?
 
 忘れるところだった。%K%P
 I had almost forgotten.
@@ -71,7 +71,7 @@ CN PLACEHOLDER
 どんなに悪口雑言を吐こうと、つぐみは全治数ヶ月の傷を負っているのだ。%K%P
 No matter how badly she had treated me, Tsugumi would still be bedridden for months recovering.
 CN PLACEHOLDER
-Как плохо бы она со мной не обращалась, Цугуми будет несколько месяцев прикована к постели, прежде чем поправится.
+Не важно, как плохо бы она со мной не обращалась, Цугуми будет несколько месяцев прикована к постели, прежде чем поправится.
 
 武「そうだな……そうだよな。悪かった。なんか言い方がキツかったな」%K%P
 You're right. I'm sorry. That came out a little harsh.
@@ -81,7 +81,7 @@ CN PLACEHOLDER
 空「倉成さん、小町さんとケンカされたんじゃありませんか？」%K%P
 You had a fight with Komachi-san, didn't you?
 CN PLACEHOLDER
-Куранари-сан, Комати-сан тебя чем-то обидела?
+Куранари-сан, Комачи-сан тебя чем-то обидела?
 
 姿勢を正しながら、空は尋ねる。%K%P
 Her body stiffened as she asked.
@@ -96,7 +96,7 @@ CN PLACEHOLDER
 武「ただ単に俺があいつに対して、ちょっとガッカリしただけだ」%K%P
 I was just disappointed with her.
 CN PLACEHOLDER
-Просто... я в ней разочарован.
+Просто...я в ней разочарован.
 
 空「ガッカリ？」%K%P
 Disappointed?
@@ -126,12 +126,12 @@ CN PLACEHOLDER
 武「あいつは俺のせいで怪我したわけだし、なんつーか……気が引けて、な」%K%P
 It's just that I guess I'm still upset at myself. It was my fault Tsugumi got hurt.
 CN PLACEHOLDER
-Наверное, я всё ещё дуюсь на самого себя. Из-за меня Цугуми пострадала.
+Наверно я всё ещё дуюсь на самого себя. Из-за меня Цугуми пострадала.
 
 武「ほんとに、なんて言ったらいいか、もう、あいつは、あいつはっ、その……ああ、くそぅ！」%K%P
 You know, I just don't know what to say... She can... She can be... Ahh, damn it!
 CN PLACEHOLDER
-Понимаешь, я не знаю, что сказать... она могла... могла... Ай, проклятье!
+Понимаешь, я не знаю, что сказать...она могла...она могла...Айй, проклятье!
 
 空「気に病むことなんてありませんよ」%K%P
 Kuranari-san, please do not worry about it.
@@ -151,7 +151,7 @@ CN PLACEHOLDER
 空「今のＬｅＭＵを取り巻く状況は、誰かひとりのせいではありません」%K%P
 The situation here at LeMU is not anyone's fault.
 CN PLACEHOLDER
-Я не думаю, что случившееся в LeMU – вообще чья-либо вина.
+Я не думаю, что случившееся в LeMU - вообще чья-либо вина.
 
 空「倉成さんも私に、そう言ってくれたじゃないですか」%K%P
 It was you who told me that.
@@ -171,17 +171,17 @@ CN PLACEHOLDER
 空「倉成さん。小町さんがなんとおっしゃっていたか、わかりませんけど――」%K%P
 Kuranari-san, I am not sure what Komachi-san told you...
 CN PLACEHOLDER
-Куранари-сан, я не знаю, что тебе сказала Комати-сан, но...
+Куранари-сан, вряд ли Комачи-сан говорила тебе, но...
 
 空「彼女は、助かったんですから。私は嬉しいです」%K%P
 ...All I know is that you saved her. And for that, I am grateful...
 CN PLACEHOLDER
-...Но я знаю, что ты её спас. И за это я тебе благодарна...
+...я знаю лишь что ты спас её. Я благодарна...
 
 空「小町さんが無事、助かって……嬉しく思ってます……」%K%P
 ...I am just... so happy... that she was saved.
 CN PLACEHOLDER
-...Я просто... так счастлива... что Комати-сан спасена.
+...я просто...так счастлива...что Комачи-сан спасена.
 
 空は朗らかな笑みを、俺に向けた。%K%P
 Sora produced a bright smile.
@@ -191,12 +191,12 @@ CN PLACEHOLDER
 武「ああ……そうだよな。喜んでいいんだよな」%K%P
 Ahhh... Yeah, I suppose. I suppose I should be happy, huh?
 CN PLACEHOLDER
-Ах-х... да. Полагаю, я тоже должен быть счастлив?
+Аххх...да, я полагаю. Полагаю я тоже должен быть счастлив?
 
 武「そっかぁ、はははっ……」%K%P
 Yeah... Hahaha...
 CN PLACEHOLDER
-Пожалуй, да... Ха-ха-ха...
+Пожалуй, да... Ха〜ха〜ха...
 
 俺の顔も空につられて、なんだかほころんでしまった。%K%P
 I couldn't help but laugh along with her. It broke the tension.
@@ -206,7 +206,7 @@ CN PLACEHOLDER
 恥ずかしくなって鼻の頭を掻く。%K%P
 I embarrassedly scratched the tip of my nose.
 CN PLACEHOLDER
-Засмущавшись, я почесал нос.
+В смущении, я почесал кончик носа.
 
 武「つぐみの奴、なんだかちょっと機嫌が悪かったからさぁ」%K%P
 You know, Tsugumi was in a really bad mood for some reason.
@@ -216,12 +216,12 @@ CN PLACEHOLDER
 武「でも、俺の顔が気に入らなかっただけかもな」%K%P
 Maybe she just didn't want to see my face.
 CN PLACEHOLDER
-Может, она просто не хотела видеть мою рожу.
+Может она просто не хотела видеть мою рожу.
 
 武「ＯＫ、ＯＫ……そうだよな」%K%P
 Okay, okay... that was probably it.
 CN PLACEHOLDER
-Да, наверное, так и есть.
+Да, наверно так и есть.
 
 大怪我して、大手術の後で……。%K%P
 First she got hurt, then the operation...
@@ -241,7 +241,7 @@ CN PLACEHOLDER
 そうでないとしても……いつまでも引きずってはいたくなかった。%K%P
 Even if it wasn't that... I didn't want things to drag on forever.
 CN PLACEHOLDER
-Но даже если нет... Я не собираюсь вечно морочить этим себе голову.
+Но, даже если нет...я не собираюсь вечно морочить этим себе голову.
 
 つぐみは助かったし、これから傷は治る。%K%P
 I had helped Tsugumi, and she was recovering. It was as simple as that.
@@ -266,7 +266,7 @@ CN PLACEHOLDER
 空「え？　ええ、平気です、けど……？」%K%P
 What? No, not really, but...
 CN PLACEHOLDER
-Э-э?.. Нет, но...
+Эээ...? Нет, но...
 
 空「倉成さん、お休みにならなくてもいいんですか？」%K%P
 Kuranari-san, are you sure you do not need more rest?
@@ -281,7 +281,7 @@ CN PLACEHOLDER
 武「カルセル・デルフィーネに行こう。少し話、しようか」%K%P
 Let's make our way over to the Dolphin Carousel. We can talk.
 CN PLACEHOLDER
-Давай пройдёмся до Дельфиньей карусели. Заодно и поболтаем. Ты не против?
+Давай пройдёмся до Дельфиньей Карусели. Заодно и поболтаем. Ты не против?
 
 俺は空に向かってそっと手を差し出す。%K%P
 I turned to her and slowly reached out my open hand.
@@ -316,7 +316,7 @@ CN PLACEHOLDER
 俺も隣のイルカにしがみついた。%K%P
 I rode on the dolphin next to her.
 CN PLACEHOLDER
-Я вскочил на свободного дельфина и еду рядом с ней.
+Я еду на дельфине рядом с её.
 
 イルカは電飾を賑わせながら、同じ所をどこまでも廻る。%K%P
 The ride pulsated with vibrant colors as it revolved around the space.
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 空「え？」%K%P
 I'm sorry?
 CN PLACEHOLDER
-А-а?
+Эээ?
 
 武「なんかさ、空にフォローしてもらった気がする」%K%P
 Thank you, Sora, for your help.
@@ -356,22 +356,22 @@ CN PLACEHOLDER
 空「フォロー？　そうですか……？」%K%P
 My help...?
 CN PLACEHOLDER
-Что... поддержала?
+Что...поддержала?
 
 武「ああ。だから、ありがとうな」%K%P
 Just keep it at that—thank you.
 CN PLACEHOLDER
-Просто я хотел сказать – спасибо тебе, Сора.
+Просто я хотел сказать — спасибо тебе, Сора.
 
 空「いえ、そんな……私のほうこそ、いろいろ倉成さんにお世話になってますし」%K%P
 No, no, I... I should be the one thanking you. You have helped me so much.
 CN PLACEHOLDER
-Нет, что ты... Куранари-сан, это я должна поблагодарить тебя. Тебя и всех остальных.
+Нет, что ты...Куранари-сан, это я должна поблагодарить тебя. Тебя и всех остальных.
 
 空「それに、小町さんにも、田中さんにも……ココちゃんに、少年さん……皆さんに感謝しています」%K%P
 Komachi-san, Tanaka-san, Coco-chan, Kid-san... I am indebted to everyone.
 CN PLACEHOLDER
-То есть, Комати-сан, Танаку-сан... Коко-тян и Малой-сана... я перед вами в неоплатном долгу.
+То есть, Комачи-сан, Танаку-сан...Коко-тян и Кид-сана...я перед вами в неоплатном долгу.
 
 武「感謝？」%K%P
 Indebted?
@@ -396,7 +396,7 @@ CN PLACEHOLDER
 空「これまでＬｅＭＵの業務の中では、私はそんな人達の行いに、ほとんど触れたことがありませんでした」%K%P
 In all the time that I have spent here at LeMU, I have not ever really been with people.
 CN PLACEHOLDER
-За всё время, проведённое здесь, в LeMU, на самом деле я никогда не „была с людьми“.
+За всё время, проведённое здесь, в LeMU, на самом деле я никогда не 'была с людьми'.
 
 武「うん……」%K%P
 Yeah...
@@ -421,12 +421,12 @@ CN PLACEHOLDER
 空「だから私は、この機会と出会いに感謝したい」%K%P
 But now, I am grateful I have met with this opportunity.
 CN PLACEHOLDER
-Но сейчас я рада, что мне выпала эта возможность.
+Но, сейчас я рада, что мне выпала эта возможность.
 
 空「今、この瞬間も……」%K%P
 And I am happy that even at this moment...
 CN PLACEHOLDER
-И я счастлива, что даже в эту секунду...
+И я счастлива, что, даже в эту секунду...
 
 空「このような閉塞的な状況にあっても、みんな、生きていこうって」%K%P
 Despite what happened and this dour situation, people are still striving to live.
@@ -441,12 +441,12 @@ CN PLACEHOLDER
 武「そうだな……」%K%P
 Yeah...
 CN PLACEHOLDER
-Да...
+Да....
 
 空「ああっ、すいませんっ」%K%P
 Oh, I'm sorry.
 CN PLACEHOLDER
-Ой... прости.
+Ой...прости.
 
 空はそこで、ちょっと肩をすくめた。%K%P
 Sora shrugged, embarrassed.
@@ -456,7 +456,7 @@ CN PLACEHOLDER
 空「私、また不謹慎なことばかり言ってしまって……」%K%P
 I am always saying things I should not. I didn't mean to gush...
 CN PLACEHOLDER
-Я... постоянно роняю мысли вслух...
+Я...постоянно роняю мысли вслух...
 
 空「ごめんなさい、本当に。デリカシーが欠けてますよね、私……」%K%P
 I'm sorry. Really. It was really lacking refinement... I...
@@ -486,12 +486,12 @@ CN PLACEHOLDER
 武「それ以外のことを知らなかったり、戸惑ったり、間違えたりしても不思議じゃない……そりゃ当然だろ」%K%P
 It's natural that there were things you didn't know, that you had doubts, and made mistakes...
 CN PLACEHOLDER
-То, что ты чего-то не знаешь, путаешься или ошибаешься – нормально... Это вполне естественно...
+Нет ничего неестественного в том, что ты чего-то не знала, в чём сомневалась, и даже делала ошибки...
 
 空「確かに、そうなんですけどね……」%K%P
 I suppose you are right...
 CN PLACEHOLDER
-Пожалуй, ты прав...
+Пожалуй ты прав...
 
 武「気にするなって」%K%P
 So don't worry about it.
@@ -516,12 +516,12 @@ CN PLACEHOLDER
 武「俺達が下手な考えで動き回るより、助けを待ったほうが賢明だ。そうだろ？」%K%P
 Rather than us looking for an escape route haphazardly, I think it would be best to wait for help.
 CN PLACEHOLDER
-Думаю, вместо того, чтобы лихорадочно и бесцельно искать способ спастись, нам стоит дожидаться спасателей.
+Думаю, вместо того чтобы лихорадочно, бесцельно искать способ спастись, нам стоит дожидаться спасателей.
 
 空「ええ……そうですね」%K%P
 Yes... I think you are right.
 CN PLACEHOLDER
-Да... ты прав.
+Да...ты прав.
 
 空は軽く息をついてから、俺に微笑みを返す。%K%P
 Sora let out a soft sigh and smiled.
@@ -531,17 +531,17 @@ CN PLACEHOLDER
 空「そうだ、倉成さん。ここから脱出できたら、まず何がしたいですか？」%K%P
 Tell me, Kuranari-san, after you escape from here, what's the first thing you want to do?
 CN PLACEHOLDER
-Кстати, Куранари-сан... а что ты будешь делать, когда выберешься отсюда?
+Кстати, Куранари-сан...а что ты будешь делать, когда выберешься отсюда?
 
 武「そうだなぁ……」%K%P
 Hmmm...
 CN PLACEHOLDER
-Хм-м-м...
+Хммм...
 
 武「ひとまず、売店のサンド以外のものが食べたいな」%K%P
 Well, I know that I want to eat something other than a kiosk sandwich.
 CN PLACEHOLDER
-Ну, первое, что я сделаю – как следует пообедаю, и уж точно НЕ теми сэндвичами.
+Ну, первое, что я сделаю - как следует пообедаю, и уж точно НЕ 'подорожниками' с курятиной.
 
 武「俺の住んでるとこの近所に、美味い定食屋があるんだ」%K%P
 There's a great restaurant close to my home.
@@ -556,27 +556,27 @@ CN PLACEHOLDER
 武「昔の、クラシックカーみたいな、まん丸い目と顔してて……」%K%P
 She's got a round face kind of like a classic car...
 CN PLACEHOLDER
-У неё округлое лицо... очертания словно как у ретроавтомобиля...
+У неё округлое лицо...очертания словно как у ретро-автомобиля...
 
 空「クラシックカー……」%K%P
 A classic car...
 CN PLACEHOLDER
-Ретроавтомобиля?..
+Ретро-автомобиля...?
 
 空「ビートル、でしょうか？」%K%P
 Do you mean like a Beetle?
 CN PLACEHOLDER
-Она похожа на „Фольксваген Жук“?
+Она похожа на Фольксваген Жук?
 
 武「おっ、そうそう、ビートル」%K%P
 Right, right. Just like that Beetle.
 CN PLACEHOLDER
-О, точняк. Прямо как этот „Жук“.
+Ага, точняк. Прямо как этот Жук...нееет, скорее 'божья коровка'.
 
 武「そのビートルおばちゃんの作った味噌煮込みうどんが、これまた絶品で……」%K%P
 That Aunt Beetle makes a mean bowl of miso ramen.
 CN PLACEHOLDER
-В общем, эта бабуля-жук варит такой вкусный удон...
+В общем, эта бабушка 'божий одуванчик' варит такой вкусный борщ...
 
 武「今頃、何してんのかなぁ、おばちゃん」%K%P
 I wonder how she's doing right now.
@@ -586,12 +586,12 @@ CN PLACEHOLDER
 空「ふふっ……なんだかおかしいです」%K%P
 Hahaha... You are funny.
 CN PLACEHOLDER
-Ха-ха-ха... а ты забавный.
+Ха〜ха〜ха...а ты забавный.
 
 空「ここを出て、最初に逢いたい人が、そのおばちゃんなんですか？」%K%P
 You get out of this place, and the first person you want to see is an old woman.
 CN PLACEHOLDER
-Ты выберешься отсюда, и первый человек, которого навестишь – эту старушку?
+Ты выберешься отсюда, и первый человек, которого навестишь - эту старушку?
 
 武「ああ。変かな？」%K%P
 Oh? Is that weird?
@@ -601,12 +601,12 @@ CN PLACEHOLDER
 空「いえ……その」%K%P
 No... Not really.
 CN PLACEHOLDER
-Нет... ничего...
+Нет...ничего...
 
 空「倉成さん……お付き合いをしている女性とか、いらっしゃらないのですか？」%K%p
 Isn't there a girl waiting for you back home?
 CN PLACEHOLDER
-Куранари-сан... а разве дома тебя не ждёт девушка?
+Куранари-сан...а разве дома тебя не ждёт девушка?
 
 いる
 Yes
@@ -631,7 +631,7 @@ CN PLACEHOLDER
 武「なんだか、こんなとこに閉じ込められちゃうと、まるで外のことが、夢みたいに思えて」%K%P
 But being trapped here makes all that seem like another time, another place.
 CN PLACEHOLDER
-Но с тех пор, как я угодил в эту западню, кажется, будто всё это было в другой жизни.
+Но, с тех пор как я угодил в эту западню, кажется, будто всё это было в другой жизни.
 
 武「つまり、現実から遠いんだよな」%K%P
 More like a dream than reality.
@@ -641,12 +641,12 @@ CN PLACEHOLDER
 武「今は、どうすれば生き延びられるのか、そのことを考えるだけで精一杯でさ」%K%P
 My reality here is consumed by how to survive this whole mess.
 CN PLACEHOLDER
-Моя реальность здесь основывается лишь на одной мысли – как пережить весь этот кошмар.
+Моя реальность здесь основывается лишь на одной мысли - как пережить весь этот кошмар.
 
 武「うん……今は、いないかな」%K%P
 So yeah... To answer your question, no one is waiting for me out there.
 CN PLACEHOLDER
-Да... отвечая на твой вопрос – никто меня не любит, никто меня не ждёт.
+Да...отвечая на твой вопрос - никто меня не любит, никто меня не ждёт.
 
 武「だいぶ前に別れたんだ」%K%P
 We broke up a long time ago.
@@ -656,12 +656,12 @@ CN PLACEHOLDER
 武「綺麗サッパリ、ね」%K%P
 And it was a clean break, if you know what I mean.
 CN PLACEHOLDER
-С концами, ага.
+И, без трений, если ты понимаешь, что я имею в виду.
 
 空「そうですか。では倉成さんは、恋をなさったことがあるのですね」%K%P
 I see. You've been in love before.
 CN PLACEHOLDER
-Ясно. Куранари-сан, значит, ты когда-то был влюблён.
+Ясно. Куранари-сан, значит ты когда-то был влюблён?
 
 武「『なさった』とか言われると、なんか壮大なスケールっぽい感じだなぁ……俺はそこまでは……」%K%P
 I wouldn't put it that way.
@@ -671,17 +671,17 @@ CN PLACEHOLDER
 武「うん……でも、そうだな。そんな劇的ってわけじゃないけど」%K%P
 Hmmm... Well, our relationship wasn't your perfect love story...
 CN PLACEHOLDER
-Ну... Может, наши отношения и не были похожи на идеальный любовный роман...
+Ну... может наши отношения и не были похожи на идеальный любовный роман...
 
 武「確かに俺は、恋をしたことがある」%K%P
 ...But I have been in love.
 CN PLACEHOLDER
-...но я любил.
+...но, я любил.
 
 空「ふふっ、素晴らしいです。倉成さん」%K%P
 Wow, that's great, Kuranari-san.
 CN PLACEHOLDER
-Ого... это так здорово, Куранари-сан.
+А〜ха〜ха...это здорово, Куранари-сан.
 
 空は柔らかく微笑む。%K%P
 Sora smiled slightly.
@@ -701,7 +701,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 俺はたぶん、茹で立てみたいに赤くなっていた。%K%P
 I was pretty sure my face was as red as a boiled crab by then.
@@ -711,12 +711,12 @@ CN PLACEHOLDER
 その自分の姿を想像するに、余計に恥ずかしい……。%K%P
 And imagining it only made it worse, that was for sure...
 CN PLACEHOLDER
-А тем, что я представляю, какого цвета сейчас моё лицо, лишь усугубляю собственное положение...
+А, от того, что я представляю, какого цвета сейчас моё лицо, лишь усугубляю собственное положение...
 
 空「だって、私は……ないんです」%K%P
 Well... I've never been...
 CN PLACEHOLDER
-Просто... я... никогда...
+Просто...я...никогда...
 
 武「え？」%K%P
 What?
@@ -726,7 +726,7 @@ CN PLACEHOLDER
 空「私、したことないんです」%K%P
 I've never...
 CN PLACEHOLDER
-Я... правда никогда...
+Я...правда никогда...
 
 武「な、何を？」%K%P
 Never what?
@@ -736,7 +736,7 @@ CN PLACEHOLDER
 空「経験が、ないんです……」%K%P
 Never had that experience...
 CN PLACEHOLDER
-Никогда... не испытывала...
+Никогда...не испытывала...
 
 武「な、何のっ」%K%P
 What experience?
@@ -746,12 +746,12 @@ CN PLACEHOLDER
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「恋とは何でしょう？」%K%P
 What is love?
 CN PLACEHOLDER
-Что такое „любовь“?
+Что такое любовь?
 
 空は突然、真面目な顔で言った。%K%P
 Sora suddenly put on a serious face.
@@ -766,12 +766,12 @@ CN PLACEHOLDER
 空「恋とは……何でしょう……」%K%P
 What... is love?
 CN PLACEHOLDER
-Любовь... что это?
+Любовь...что это?
 
 空「方法、手段、意味、目的……」%K%P
 Tell me its how, its method, its meaning, its purpose...
 CN PLACEHOLDER
-Средство?.. Смысл?.. Стремление?.. Что это?
+Средство...? Смысл...? Стремление...? Что это?
 
 空「何故、恋をするのでしょうか？」%K%P
 Why do you love?
@@ -786,12 +786,12 @@ CN PLACEHOLDER
 空は矢継ぎ早に質問をした。%K%P
 Sora was firing off one question after another...
 CN PLACEHOLDER
-Сора выстреливает одним вопросом за другим...
+Сора выстреливает один вопрос за другим...
 
 なかなか難しい質問であるように、俺には思えた。%K%P
 And they didn't seem to me like easy questions to answer.
 CN PLACEHOLDER
-И на них отнюдь не так легко дать ответ.
+И, на них отнюдь не так легко дать ответ.
 
 空「倉成さんは、恋の経験者ですよね？」%K%P
 Kuranari-san, you are someone who has loved.
@@ -806,7 +806,7 @@ CN PLACEHOLDER
 空「恋とは、なんなのか……」%K%P
 What is love...?
 CN PLACEHOLDER
-Что такое любовь?..
+Что такое любовь...?
 
 空「どんなものなのか、説明してはいただけないでしょうか」%K%p
 Can you explain it and help me understand it?
@@ -826,7 +826,7 @@ CN PLACEHOLDER
 武「よーしわかった、説明しよう！！」%K%P
 Alright, here comes an explanation!
 CN PLACEHOLDER
-Ну ладно, поехали!
+Ладушки, поехали!
 
 俺は安請け合いしてしまう。%K%P
 I agreed to give explaining it a shot.
@@ -841,7 +841,7 @@ CN PLACEHOLDER
 空「『池の魚』というオチは禁止です……」%K%P
 You'd better not be preparing a punch line about fish...
 CN PLACEHOLDER
-Но предупреждаю. Не рассказывай сказку про русалочку...
+Но, предупреждаю. Не рассказывай сказку про русалочку...
 
 武「なにっ！　先手を打たれたぞ！」%K%P
 What!? Am I that transparent!?
@@ -856,7 +856,7 @@ CN PLACEHOLDER
 武「なかなか手ごわいな……うむ……」%K%P
 You're pretty hard to please... Hmmm...
 CN PLACEHOLDER
-Да уж, тебе не угодишь... Хм-м-м...
+Да уж, тебе не угодишь...хммм...
 
 俺は深呼吸した。%K%P
 I took a deep breath.
@@ -871,12 +871,12 @@ CN PLACEHOLDER
 武「ずばり！　濃いとはっ！」%K%P
 Okay! Love is like a box of dark chocolates—
 CN PLACEHOLDER
-Любовь – это...
+Любовь - это...
 
 空「『薄いの反対』というのも、禁止です……」%K%P
 I thought I said 'no jokes'...
 CN PLACEHOLDER
-Только не говори „нечто невесомое и нематериальное“...
+Только не говори 'нечто невесомое и нематериальное'...
 
 武「なにっ！　一度ならず二度までも！！」%K%P
 What!? You got me the second time too!?
@@ -901,17 +901,17 @@ CN PLACEHOLDER
 武「ずばり！　故意とはっ！」%K%P
 Okay! Love can be kind of intense—
 CN PLACEHOLDER
-Та-а-ак. Значит, нужен намёк на ещё одно значение...
+Та〜ак. Значит, нужен намёк на ещё одно значение...
 
 空「『わざと』ですか？」%K%P
 Because it happens with 'intent'?
 CN PLACEHOLDER
-В смысле „действия“ или „чувства“?
+В смысле 'действия' или 'чувства'?
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「いや、そうではなく」%K%P
 Yes, that's right.
@@ -921,22 +921,22 @@ CN PLACEHOLDER
 空「『行為の一歩手前』のこと？」%K%P
 'Intent' as in actively pursuing it, correct?
 CN PLACEHOLDER
-Если „действие“, то какое?
+Если 'действие', то какое?
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「あ、えーと……」%K%P
 Hmmm...
 CN PLACEHOLDER
-Э-э... то есть...
+Эээ...то есть...
 
 空「データベースにあったから、私はそう答えただけです」%K%P
 I do not have anything more than that in my database.
 CN PLACEHOLDER
-Просто... это все сведения, что имеются в моей базе данных.
+Просто...это все сведения, что имеются в моей базе данных.
 
 空「倉成さん、そろそろ本題に」%K%P
 Kuranari-san, can you please answer my original question?
@@ -971,7 +971,7 @@ CN PLACEHOLDER
 心臓は意味もなく早鐘を打っていた。%K%P
 My heart was pounding.
 CN PLACEHOLDER
-Но сердце по-прежнему выпрыгивает из груди.
+Но, сердце по-прежнему выпрыгивает из груди.
 
 空「１分経ちました」%K%P
 One minute has expired.
@@ -981,7 +981,7 @@ CN PLACEHOLDER
 武「え、も、もうっ！？」%K%P
 What? Already!?
 CN PLACEHOLDER
-Как? Уже?!
+Как? Уже!?
 
 武「すまん、さらに５分待て」%K%P
 Sorry, gimme five more minutes.
@@ -1001,7 +1001,7 @@ CN PLACEHOLDER
 空「そうですか……わかりました」%K%P
 Really...? Fine then.
 CN PLACEHOLDER
-Вот как?.. Ну, хорошо.
+Вот как...? Ну, хорошо.
 
 待ちきれなくなった空は、姿勢を正した。%K%P
 Sora waited impatiently.
@@ -1011,7 +1011,7 @@ CN PLACEHOLDER
 武「ええっと、そうだなぁ〜〜〜〜〜〜〜」%K%P
 Ummmm... Let's see...
 CN PLACEHOLDER
-Эмммм... значит так...
+Эмммм...значит так...
 
 空「はい」%K%P
 Yes?
@@ -1026,7 +1026,7 @@ CN PLACEHOLDER
 武「ぁ〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜」%K%P
 Uhhhhhhhhh...
 CN PLACEHOLDER
-Эххххххххх...
+Эххххххххх......
 
 恋。%K%P
 Love.
@@ -1051,7 +1051,7 @@ CN PLACEHOLDER
 武「ぁ〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜」%K%P
 Uhhhhhhhhh...
 CN PLACEHOLDER
-Ммммммммммммм...
+Ммммммммммммм......
 
 いや、考えよう！%K%P
 No, I had to think!
@@ -1071,7 +1071,7 @@ CN PLACEHOLDER
 武「ぁ〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜」%K%P
 Uhhhhhhhhh...
 CN PLACEHOLDER
-Нууууууууу...
+Нууууууууу......
 
 体験したことのない者にどう伝えたらいいのか……！%K%P
 How could I explain love to someone who had never experienced it?
@@ -1086,17 +1086,17 @@ CN PLACEHOLDER
 ああ、恋とは、なんぞや……。%K%P
 What is love...?
 CN PLACEHOLDER
-Что такое любовь?..
+Что такое любовь...?
 
 武「ぁ〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜」%K%P
 Uhhhhhhhhh...
 CN PLACEHOLDER
-Э-э...
+Ээээээээээ......
 
 武「ぁ〜〜〜〜〜〜〜〜〜〜ぁ゛ぁ゛ぁ゛」%K%P
 Uhhhhhhhhh... uh, uh, uh...
 CN PLACEHOLDER
-М-м...
+Мммммммммм......
 
 ダメだ。%K%P
 Damn.
@@ -1111,7 +1111,7 @@ CN PLACEHOLDER
 武「〜〜〜っん」%K%P
 Wellllllll...
 CN PLACEHOLDER
-Ну-у-у-у-у-у-у-у...
+Нуууууууу......
 
 俺は諦めた。%K%P
 I gave up.
@@ -1126,17 +1126,17 @@ CN PLACEHOLDER
 武「……ゼェゼェハァハァ」%K%P
 *Pant*... *pant*...
 CN PLACEHOLDER
-*Кхх*... *кхх*...
+*Кхх*...*кхх*...
 
 空「？？」%K%P
 ?
 CN PLACEHOLDER
-?
+〜〜〜??
 
 考えようにも酸欠で、それ以上頭が働かなかった。%K%P
 My brain couldn't work properly with such little oxygen.
 CN PLACEHOLDER
-Ничего удивительного, что мозги не могут работать – при такой нехватке кислорода...
+Ничего удивительного, что мозги не могут работать - при такой нехватке кислорода...
 
 武「……ゼェゼェハァハァ」%K%P
 *Pant*... *pant*...
@@ -1171,7 +1171,7 @@ CN PLACEHOLDER
 空「私は、私なりの見解を述べます……」%K%P
 Let me express my notion of 'love'.
 CN PLACEHOLDER
-Позволь выразить моё представление о любви.
+Позволь выразить моё представление о 'любви'.
 
 かしこまって、空は語り始める。%K%P
 Sora began to speak.
@@ -1196,7 +1196,7 @@ CN PLACEHOLDER
 空「少なくとも人間の目からは、理解できる恋の行動は見られないようです」%K%P
 At least from the perspective of human beings, flowers don't act in any way that can be viewed as love.
 CN PLACEHOLDER
-Во всяком случае, с человеческой точки зрения действия цветов не могут рассматриваться как любовь.
+Во всяком случае, с человеческой точки зрения, действия цветов не могут рассматриваться как любовь.
 
 空「動物達は、恋をしますか？」%K%P
 What about animals? Do they love?
@@ -1216,7 +1216,7 @@ CN PLACEHOLDER
 空「しかしその真意はわかりません……」%K%P
 But perhaps animals do not understand the true meaning of love.
 CN PLACEHOLDER
-Однако животные этого не понимают.
+Однако, животные этого не понимают.
 
 空「人間で言うところの恋と同義であるかどうかは、不明です」%K%P
 It's unclear whether it is the same as the human definition of love.
@@ -1236,7 +1236,7 @@ CN PLACEHOLDER
 空「恋、それは――」%K%P
 Love is...
 CN PLACEHOLDER
-Любовь – это...
+Любовь - это....
 
 空「つまり、人に備わった不可思議な機能なのです」%K%P
 Love is one of those mysterious things that people are programmed to do.
@@ -1246,7 +1246,7 @@ CN PLACEHOLDER
 空「人間が生殖を行なう上でのひとつの機能であり……」%K%P
 One of its functions is reproduction...
 CN PLACEHOLDER
-Одна из её функций – продолжение рода...
+Одна из её функций - продолжение рода...
 
 空「それでいて、生殖そのものからは独立したものであるところのっ」%K%P
 ...But that appears to be a function independent of love.
@@ -1266,7 +1266,7 @@ CN PLACEHOLDER
 空「…………？？」%K%P
 ...?
 CN PLACEHOLDER
-?
+〜〜〜〜〜〜〜??
 
 手の平に、唇の感触はない。%K%P
 I put my hand over her mouth, but I couldn't feel her lips.
@@ -1286,17 +1286,17 @@ CN PLACEHOLDER
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 それは、そこにないようで、しかし、そこにあるように感じられた。%K%P
 It somehow felt as if something were there, but then again, maybe it was my imagination.
 CN PLACEHOLDER
-Казалось, их нет – и всё же ощущалось, будто они прямо там.
+Кажется, словно там что-то есть, но, всё-таки наверно это просто кажется.
 
 俺はその暖かさを確かめようとした。%K%P
 I felt, trying to see if there was some sort of warm feeling.
 CN PLACEHOLDER
-Наверное я чисто машинально пытаюсь найти чувство тепла... там, где его нет.
+Наверно я чисто машинально пытаюсь найти чувство тепла...там, где его нет.
 
 武「そうだな……俺の見解を言おう」%K%P
 Let's see... Let me tell you what I think.
@@ -1316,7 +1316,7 @@ CN PLACEHOLDER
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 目を瞬きながら空は、俺のことをじっと見つめた。%K%P
 Sora just stood there, blinking at me.
@@ -1326,7 +1326,7 @@ CN PLACEHOLDER
 その瞳は、俺のことだけを見ていた。%K%P
 Her eyes were fixed on me.
 CN PLACEHOLDER
-Не отводя от меня взгляд.
+Не сводя с меня взгляду.
 
 武「恋は理屈じゃないんだ」%K%P
 Love is not rational.
@@ -1351,7 +1351,7 @@ CN PLACEHOLDER
 武「しかしうまく行けば、実を結ぶこともできる」%K%P
 But if the love is true, it may bear amazing fruit.
 CN PLACEHOLDER
-Но если любовь настоящая, он завяжется в удивительный плод.
+Но, если любовь настоящая, он завяжется в удивительный плод.
 
 武「それら一連の過程に理由なんかない」%K%P
 There is no rhyme nor reason to the process of love.
@@ -1361,12 +1361,12 @@ CN PLACEHOLDER
 武「意味を見つけたところで、自ら制御できるような単純な感情でもない」%K%P
 Even if you do find reason in it, love isn't an emotion that you can control easily.
 CN PLACEHOLDER
-Даже если найти её причину, любовь – это не просто эмоция, которую можно контролировать.
+Даже если найти её причину, любовь - это не просто эмоция, которую можно контролировать.
 
 武「恋は、眠りから醒めるように訪れる」%K%P
 Love is something that visits like wakefulness after a slumber.
 CN PLACEHOLDER
-„Любовь нечаянно нагрянет, когда её совсем не ждёшь“.
+'Любовь нечаянно нагрянет, когда её совсем не ждёшь'.
 
 武「目覚めの目的が、その日、１日の活動の為にあるとするならば」%K%P
 Just as we awaken in the morning to begin our day...
@@ -1381,12 +1381,12 @@ CN PLACEHOLDER
 武「生きるとは、恋することだ」%K%P
 To live is to love.
 CN PLACEHOLDER
-Жизнь дана нам, чтобы любить.
+Жизнь дана нам чтобы любить.
 
 武「恋の意味を問うことは、人生の意味を問うことに等しい」%K%P
 To ask what is the meaning of love is to ask what is the meaning of life.
 CN PLACEHOLDER
-Спрашивать о смысле любви – значит спрашивать о смысле жизни.
+Спрашивать о смысле любви, значит спрашивать о смысле жизни.
 
 ゆっくりと、空の唇から手を退けた。%K%P
 I slowly removed my hand from her lips.
@@ -1396,7 +1396,7 @@ CN PLACEHOLDER
 俺の手の平は僅かに汗ばみ、火照っていた。%K%P
 My hand was slightly sweaty and warm.
 CN PLACEHOLDER
-Моя ладонь тёплая и даже слегка вспотевшая.
+Моя ладонь тёплая, и даже слегка вспотела.
 
 武「……なんてのは、どうよ？」%K%P
 Sora, what do you think of my explanation?
@@ -1406,12 +1406,12 @@ CN PLACEHOLDER
 武「どっかの受け売りだったかもしれないが、あながち間違いじゃないと思ってる」%K%P
 I might have borrowed bits and pieces from elsewhere, but I don't think it's all wrong.
 CN PLACEHOLDER
-Может я и собрал всё из деталей, что первыми попались под руку, но не думаю, что совсем не прав.
+Может я и собрал всё из деталей, что первыми попались под руку, но, не думаю, что совсем не прав.
 
 武「いや……、俺はそう、信じてるよ」%K%P
 No... Actually, I believe it's right.
 CN PLACEHOLDER
-Нет... на самом деле, я верю, что прав.
+Нет...на самом деле, я верю, что прав.
 
 武「わかるか、空？」%K%P
 Did you understand what I said, Sora?
@@ -1461,17 +1461,17 @@ CN PLACEHOLDER
 空「けれど人間から見れば、薔薇の生命の目的は咲くことにのみ存在するかのごとく思えるし……」%K%P
 But from the eyes of a human, it might appear that the only purpose of a rose is to blossom.
 CN PLACEHOLDER
-Но с человеческой точки зрения, кажется, что единственное предназначение розы – цвести.
+Но, с человеческой точки зрения, кажется что единственное предназначение розы - цвести.
 
 空「カナリアの一生の目的は、美しく唄うことにのみ存在するように思えてしまう」%K%P
 Similarly, from the eyes of a human, it might appear that the only purpose of a canary is to sing.
 CN PLACEHOLDER
-Точно так же, с человеческой точки зрения, кажется, что единственное предназначение канарейки – петь.
+Точно также, с человеческой точки зрения, кажется, что единственное предназначение канарейки - петь.
 
 空「きっと、人間も同じなんですね……」%K%P
 It would appear that humans are probably the same.
 CN PLACEHOLDER
-Наверное, точно так же и с человеком.
+Наверно, точно также и с человеком.
 
 空「多くの人は、自分が恋する為に生きているとは思っていないでしょう」%K%P
 I imagine that many people don't believe that they are living for the purpose of loving.
@@ -1481,12 +1481,12 @@ CN PLACEHOLDER
 空「けれど、私から見れば……」%K%P
 But from my perspective...
 CN PLACEHOLDER
-Но с моей точки зрения...
+Но, с моей точки зрения...
 
 空「人は恋する為に、ただそれだけの為に、生きているように思えます」%K%P
 ...I believe they are mistaken. It would seem to me that people only live to love.
 CN PLACEHOLDER
-...я верю, что они ошибаются. Мне кажется, люди живут лишь ради любви.
+...я верю, что они ошибаются. Мне кажется, что единственное предназначение человека - любить.
 
 空「そういうこと、なのかもしれません」%K%P
 It could be that is how things are.
@@ -1501,12 +1501,12 @@ CN PLACEHOLDER
 カルセル・デルフィーネは徐々に回転を遅めていき、そして、音もなく止まった。%K%P
 The music faded to a stop as the Dolphin Carousel continued to slow.
 CN PLACEHOLDER
-Музыка стихла вместе с остановкой Дельфиньей карусели.
+Музыка стихла вместе с остановом Дельфиньей Карусели.
 
 武「あれ、これにて終了か……？」%K%P
 Oh? Is this it...?
 CN PLACEHOLDER
-Ой, уже всё?..
+Ой, уже всё...?
 
 俺はイルカから足を下ろし、カルセルの回転盤の上に立った。%K%P
 I dismounted the dolphin and stood on the carousel.
@@ -1526,12 +1526,12 @@ CN PLACEHOLDER
 武「なかなか有意義な話もできたし……あれ？」%K%P
 That was a pretty deep conversation we just had... Sora?
 CN PLACEHOLDER
-Мы с тобой здорово поболтали... Сора?
+Мы с тобой здорово поболтали...Сора?
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 イルカの上で、空はじっと動かない。%K%P
 Sora was still riding her dolphin, not moving.
@@ -1546,7 +1546,7 @@ CN PLACEHOLDER
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空の視線は、虚空を見上げる。%K%P
 Sora looked up absently.
@@ -1556,17 +1556,17 @@ CN PLACEHOLDER
 そこには何もない。%K%P
 But there was nothing in the air where she was looking.
 CN PLACEHOLDER
-Но там, куда она смотрит, ничего нет.
+Но, там, куда она смотрит, ничего нет.
 
 カルセル・デルフィーネの丸い天井が広がっているだけだった。%K%P
 Only the sprawling, dome-like ceiling of the Dolphin Carousel, extending in all directions.
 CN PLACEHOLDER
-Лишь растянутый во все стороны куполообразный потолок Дельфиньей карусели.
+Лишь растянутый во все стороны куполообразный потолок Дельфиньей Карусели.
 
 武「空……？」%K%P
 Sora...?
 CN PLACEHOLDER
-Сора?..
+Сора...?
 
 空「ねぇ、倉成さん……」%K%P
 Hey, Kuranari-san...
@@ -1581,12 +1581,12 @@ CN PLACEHOLDER
 空「私は何の為に、生まれてきたのでしょうか？」%K%P
 Why was I created?
 CN PLACEHOLDER
-Я вот думаю... зачем меня создали?
+Я вот думаю...зачем меня создали?
 
 空「私が生きていることの目的は、いったい何なのでしょう？」%K%P
 What is the purpose of my being alive?
 CN PLACEHOLDER
-С какой целью?.. Каково моё предназначение?
+С какой целью...? Каково моё предназначение?
 
 曲は鳴り止み、音は消えていた。%K%P
 With the music stopped, the room was quiet.
@@ -1606,12 +1606,12 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「あ、いえ……」%K%P
 I was just...
 CN PLACEHOLDER
-Ах... Нет...
+Ах...! Нет...
 
 空「ちょっと訊いてみたかっただけです……」%K%P
 ...Curious about it.
@@ -1621,7 +1621,7 @@ CN PLACEHOLDER
 空は何事もなかったように微笑んで、イルカを降り、俺の隣に並ぶ。%K%P
 Sora laughed as if nothing had happened, got off her dolphin, and came up next to me.
 CN PLACEHOLDER
-Сора засмеялась как ни в чём не бывало, слезла с дельфина и подошла ко мне.
+Сора засмеялась, как ни в чём ни бывало, слезла с дельфина и подошла ко мне.
 
 俺は答えられなかった。%K%P
 I didn't know what to say.
@@ -1651,5 +1651,5 @@ CN PLACEHOLDER
 そこにない空の姿を探しながら。%K%P
 Looking for a “sky” that wasn't there.
 CN PLACEHOLDER
-...но вместо неба увидел лишь потолок.
+...но, вместо неба, увидел лишь потолок.
 

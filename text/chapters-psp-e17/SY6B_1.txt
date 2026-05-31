@@ -1,7 +1,7 @@
 ﻿優とぼくは更衣室のベンチに、それぞれ反対向きになって座っている。%K%P
 You and I sat on the bench in the changing room, facing opposite directions.
 CN PLACEHOLDER
-Мы с Ю сели на скамейку в раздевалке, глядя в противоположные стороны.
+Ю и я сели на скамейку в раздевалке, глядя в противоположные стороны.
 
 とうとう、優とふたりきりになってしまった。%K%P
 Finally, the two of us were alone.
@@ -31,7 +31,7 @@ CN PLACEHOLDER
 沙羅にあんな風に言われたあと、ぼくだけ『じゃあ』と出て行くわけにはいかなかった。%K%P
 With what Sara had said, I couldn't just say “See you” and leave.
 CN PLACEHOLDER
-После сказанного Сарой, я просто не могу бросить прозаичное «пока» и уйти.
+После сказанного Сарой, я просто не могу бросить прозаичное 'пока' и уйти.
 
 そんなことをしたら、昨日のことを意識しているのが悟られてしまいそうだった。%K%P
 If I did that, she'd be able to tell that I was still hung up on the day before.
@@ -46,7 +46,7 @@ CN PLACEHOLDER
 だけど、意識しまいとすればするほど意識してしまう自分がいて、%K%P
 But the more I tried not to think about it, the more I did.
 CN PLACEHOLDER
-Но чем больше я стараюсь не думать, тем больше думаю.
+Но, чем больше я стараюсь не думать, тем больше думаю.
 
 それを知っている自分は、意識していない素振りをしつつ、実は意識しているように振る舞おうとするのだが、そうすると本当に意識してしまう自分がいて、%K%P
 The part of me that knew all of that pretended I was unaware of it while acting like I was, but that just led to me actually being aware of it.
@@ -71,12 +71,12 @@ CN PLACEHOLDER
 考えれば考えるほど、ぼくはますます混乱していった。%K%P
 The more I thought about it, the more confused I got.
 CN PLACEHOLDER
-Чем больше я об этом думаю, тем сильнее сбиваюсь с толку.
+Чем больше я об этом думаю, тем сильней сбиваюсь с толку.
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優はぼくの隣に腰を下ろしながら、じっと天井を見つめている。%K%P
 I sat down next to You and stared at the ceiling.
@@ -86,52 +86,52 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「……………………」%K%P
 ..................
 CN PLACEHOLDER
-......
+..................
 
 優「……………………」%K%P
 ..................
 CN PLACEHOLDER
-......
+..................
 
 少年「…………………………………………」%K%P
 ....................................
 CN PLACEHOLDER
-............
+....................................
 
 優「…………………………………………」%K%P
 ....................................
 CN PLACEHOLDER
-............
+....................................
 
 （そ、そうだ……この沈黙がイケナイんだ）%K%P
 (Oh, that's right... This silence is bad.)
 CN PLACEHOLDER
-(Ох, точно... тишина – это плохо.)
+(Ох, конечно же...тишина - это плохо.)
 
 （何か、何か言葉を交わそう）%K%P
 (I better break it somehow.)
 CN PLACEHOLDER
-(Лучше нарушить её как можно скорее.)
+(Лучше сломать её как можно скорей.)
 
 喋って気を紛らわすことで、平常心を取り戻そうと考えた。%K%P
 I thought I would try to say something and calm myself down.
 CN PLACEHOLDER
-Попробую что-нибудь сказать и успокоиться.
+Точно. Попробую что-нибудь сказать и успокоиться.
 
 少年「え、えー……」%K%P
 Uh... Um...
 CN PLACEHOLDER
-Э-э... м-м...
+Ээ...мм...
 
 少年「そ、その服似合ってるね？」%K%P
 Th-Those clothes really suit you.
@@ -141,12 +141,12 @@ CN PLACEHOLDER
 優「は？」%K%P
 Huh?
 CN PLACEHOLDER
-А?
+Эээ?
 
 少年「い、いやっ、そのっ……なんで着替えたの？」%K%P
 N-No, I mean... why did you change?
 CN PLACEHOLDER
-Н-нет, то есть... почему ты переоделась?
+Н-нет, то есть...почему ты переоделась?
 
 残念なことに、『こんらん』のステータスのままでは、コマンド通りの行動をとることはできなかった。%K%P
 Unfortunately, my mind was still in a state of confusion and wouldn't follow orders.
@@ -156,12 +156,12 @@ CN PLACEHOLDER
 優「んー……そうねぇ、いわゆるひとつの『決意表明』かな？」%K%P
 Hmmm... I guess maybe you could call it an expression of my resolution.
 CN PLACEHOLDER
-Хм-м-м... ну, наверное... это выражение моей решимости.
+Хммм...ну, наверно...это выражение моей решимости.
 
 少年「え？」%K%P
 Huh?
 CN PLACEHOLDER
-А?
+〜〜〜?
 
 優「着替えた理由！」%K%P
 The reason that I changed!
@@ -176,17 +176,17 @@ CN PLACEHOLDER
 少年「あ、ああ……」%K%P
 Y-Yeah...
 CN PLACEHOLDER
-Ну... да...
+Ну...да...
 
 優「ＬｅＭＵのユニフォームを脱ぎ捨てて……私の日常に即した服を身につける」%K%P
 I decided to dump the LeMU uniform... for the clothes I normally wear.
 CN PLACEHOLDER
-Я решила выкинуть униформу LeMU... в пользу своей повседневной одежде.
+Я решила выкинуть униформу LeMU...в пользу своей повседневной одежде.
 
 優「『ＬｅＭＵでの私、さよなら♪』って意味と、『日常の私、こんにちは♪』って意味をこめて」%K%P
 It's a way of saying goodbye to my LeMU self and hello to the normal me.
 CN PLACEHOLDER
-Это такой способ сказать „прощай“ своей LeMU-версии и, в то же время, сказать „здравствуй“ себе обычной.
+Это такой способ сказать 'прощай' своей LeMU-версии и, в то же время, сказать 'здравствуй' себе обычной.
 
 優「私は、何がなんでもここを脱出して、普段の生活に戻るの」%K%P
 I just wanna get out of here and get back to my regular life.
@@ -201,7 +201,7 @@ CN PLACEHOLDER
 少年「ふ、ふーん……そうなんだ」%K%P
 Hmmm... So that's why.
 CN PLACEHOLDER
-Хм-м-м... понятно.
+Хммм...понятно.
 
 優「うん」%K%P
 Yeah.
@@ -211,32 +211,32 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「……………………」%K%P
 ..................
 CN PLACEHOLDER
-......
+..................
 
 優「……………………」%K%P
 ..................
 CN PLACEHOLDER
-......
+..................
 
 少年「…………………………………………」%K%P
 ....................................
 CN PLACEHOLDER
-............
+....................................
 
 優「…………………………………………」%K%P
 ....................................
 CN PLACEHOLDER
-............
+....................................
 
 これじゃ、ちっとも会話が続かない。%K%P
 At that rate, I figured the conversation was sure to fizzle out.
@@ -246,7 +246,7 @@ CN PLACEHOLDER
 えーと、何か他に話題は…………。%K%p
 Uh, I needed something to talk about...
 CN PLACEHOLDER
-Так, о чём же поговорить?..
+Так, о чём же поговорить...?
 
 第３視点の話
 The third eye
@@ -281,7 +281,7 @@ CN PLACEHOLDER
 少年「……あっ」%K%P
 ...Uh.
 CN PLACEHOLDER
-...Ух.
+...Ээ.
 
 優「最後に、第３の眼……」%K%P
 And the third eye...
@@ -291,7 +291,7 @@ CN PLACEHOLDER
 優「それは……ここに……」%K%P
 That's... right... here...
 CN PLACEHOLDER
-Я сказала тебе... что третий глаз здесь...
+Я сказала тебе...что третий глаз здесь...
 
 少年「あ、そういえばさ！　レムリアのことなんだけどっ」%K%P
 Oh, that reminds me! I wanted to ask you about Lemuria.
@@ -326,7 +326,7 @@ CN PLACEHOLDER
 優「だったら、これから私が何をするのか、知ってるはずじゃない」%K%P
 In that case, you should know what I'm about to do.
 CN PLACEHOLDER
-В таком случае ты должен был знать, что я собиралась сделать.
+В таком случае, ты должен был знать, что я собиралась сделать.
 
 少年「あ、そういえばさ！　優のお父さんのことなんだけどっ」%K%P
 Oh, that reminds me! I wanted to talk to you about your father.
@@ -336,7 +336,7 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「その話は、もうやめようって言ったでしょ？」%K%P
 I told you I didn't want to talk about that, didn't I?
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 少年「え？　うん……」%K%P
 Huh? Oh, yeah...
 CN PLACEHOLDER
-А? Ну, да...
+〜〜〜? Эээ, да...
 
 少年「……あっ」%K%P
 ...Uh.
@@ -356,7 +356,7 @@ CN PLACEHOLDER
 優「悪いんだけど、そういった話は、今日はやめよう？」%K%P
 I'm sorry, but could we just forget about that today?
 CN PLACEHOLDER
-Прости, но... может, мы забудем на сегодня обо всём этом?
+Прости, но...может мы забудем на сегодня обо всём этом?
 
 優「だから今日は、そういうつもりで、ここへ誘ったんじゃないの」%K%P
 That wasn't the reason that I invited you here today.
@@ -366,12 +366,12 @@ CN PLACEHOLDER
 優「きみと一緒にいると、なんだか、落ち着くの……だから……」%K%P
 There's something about being with you that relaxes me...
 CN PLACEHOLDER
-С тобой я чувствую себя так спокойно... поэтому...
+Не знаю почему, но...здесь уютно...поэтому...
 
 ふいに、昨夜のくちびるの感触が鮮烈に蘇る。%K%P
 Suddenly, I remembered and vividly relived the feeling of our lips touching the night before.
 CN PLACEHOLDER
-Неожиданно я оживил в памяти то яркое чувство, когда наши губы соприкоснулись.
+Неожиданно, я оживил в памяти это яркое чувство, когда наши губы касались друг друга.
 
 優「………………………………」%K%P
 ...........................
@@ -396,7 +396,7 @@ CN PLACEHOLDER
 少年「え？　う、うん」%K%P
 Eh? Y-Yeah?
 CN PLACEHOLDER
-Э-э? Ч-что?
+Ээ? Ч-что?
 
 優「『第３視点』って概念の本当の意味、教えてなかったよね？」%K%P
 I didn't really tell you about the meaning of the concept behind the third eye, did I?
@@ -406,12 +406,12 @@ CN PLACEHOLDER
 少年「あ、ああ……うん」%K%P
 Uh... No.
 CN PLACEHOLDER
-Э-э... да.
+Ээ...да.
 
 少年「いつも、『また今度ね』って話をはぐらかされてたから」%K%P
 You always say 'I'll tell you next time.'
 CN PLACEHOLDER
-Ты постоянно твердишь: „Как-нибудь в другой раз“.
+Ты постоянно твердишь 'Как-нибудь в другой раз'.
 
 優「そうだったね」%K%P
 You're right.
@@ -421,7 +421,7 @@ CN PLACEHOLDER
 優「よしっ、いい機会だから、お姉さんが手取り足取り教えてあげよぉ〜♪」%K%P
 Well, this is a good chance for me to tell you the whole story.
 CN PLACEHOLDER
-Ну, значит, наступил хороший момент, чтобы растолковать тебе всё целиком.
+Ну, значит наступил хороший момент, чтобы растолковать тебе всё целиком.
 
 少年「本当？」%K%P
 Really?
@@ -431,7 +431,7 @@ CN PLACEHOLDER
 少年「でも、足は遠慮しておくよ」%K%P
 Well, you can skip the boring stuff.
 CN PLACEHOLDER
-Ну... скучную часть лучше пропустить.
+Ну...скучную часть лучше пропустить.
 
 優は立ち上がって、ぼくに向き直った。%K%P
 You stood up and turned to face me.
@@ -441,12 +441,12 @@ CN PLACEHOLDER
 優「えー……コホン」%K%P
 Ahem...
 CN PLACEHOLDER
-А-кхм...
+А〜〜〜кхм...
 
 優「では、なっきゅ先生の第３視点講座を始めるとします」%K%P
 It is time to start Professor Nakkyu's seminar on the third eye.
 CN PLACEHOLDER
-Семинар профессора Няку по теме „Третий глаз“ объявляется открытым.
+Семинар Няку по теме Третьего Глаза объявляется открытым.
 
 パチパチ……と、まばらな拍手をするぼく。%K%P
 I clapped for her half-heartedly.
@@ -471,7 +471,7 @@ CN PLACEHOLDER
 優「このふたつの視点によって、人間は立体を認識することができるの」%K%P
 With these two eyes, people are aware of the three-dimensional world around them.
 CN PLACEHOLDER
-Благодаря этим двум глазам люди ощущают окружающий трёхмерный мир.
+Благодаря этим двум глазам, люди ощущают окружающий трёхмерный мир.
 
 優「もしも仮に、片方の視力を失ってしまったとしたら……不可能、とまでは言い切れないけど、立体を認識することは極めて困難になる」%K%P
 If you lost the sight in one of your eyes, I won't say it would be impossible, but it would be difficult to get a sense of the world, its depth and dimensions.
@@ -481,7 +481,7 @@ CN PLACEHOLDER
 優「ちょっと、片目をつぶってみて？」%K%P
 Close one eye for a second.
 CN PLACEHOLDER
-Прикрой, пожалуйста, один глаз.
+Прикрой пожалуйста один глаз.
 
 ぼくは言われた通り、右の目を閉じた。%K%P
 I closed my right eye as she said.
@@ -501,7 +501,7 @@ CN PLACEHOLDER
 優「でも、両目を使ってるときに比べれば『立体としての認識度』って言うのかな？　そういうのは著しく低下してるはず」%K%P
 But it wouldn't give you anything close to the perspective or 'dimensional awareness' that you would have using both eyes.
 CN PLACEHOLDER
-Но это не даст ничего близкого к „пространственному осознанию“, как когда ты используешь оба своих глаза.
+Но, это не даст ничего, близкого к 'пространственному упреждению', когда ты используешь оба своих глаза.
 
 優「言ってることわかる？」%K%P
 Do you understand what I'm talking about?
@@ -521,7 +521,7 @@ CN PLACEHOLDER
 優「つまりこういうこと」%K%P
 In other words, this is what I mean...
 CN PLACEHOLDER
-Другими словами, вот что я имею в виду...
+Другими словами, вот что я имею в виду ---
 
 優「人間が、片方の目だけから入手できる情報は、『平面・２次元』としての情報だけなのであ〜る」%K%P
 If a person looks at the world through one eye, they only get enough information for a flat, or two-dimensional, view.
@@ -536,17 +536,17 @@ CN PLACEHOLDER
 優「１枚の風景写真を見たとき、手前に林があって、奥に湖があって、そのまたずっと向こうに山脈があって……」%K%P
 If you're looking at a photograph of scenery, you have the trees in the foreground, a lake in the middle, and a string of mountains in the background...
 CN PLACEHOLDER
-Когда ты смотришь на сфотографированный пейзаж, то видишь деревья на переднем плане, озеро между и горы на заднем плане...
+Когда ты смотришь на сфотографированный пейзаж, то видишь деревья на переднем плане, озеро посреди и горы на заднем плане...
 
 優「というような遠近感を、確かに知覚することはできる」%K%P
 Thus, you get a sense of distance in the picture.
 CN PLACEHOLDER
-Это даёт тебе ощущение расстояния на картинке.
+...что даёт тебе ощущение расстояния на картинке.
 
 優「でも、その写真はあくまでも『２次元』じゃない？」%K%P
 But that picture is still only two-dimensional, right?
 CN PLACEHOLDER
-Однако эта картинка по-прежнему двумерная, так?
+Однако, эта картинка по-прежнему двумерная, так?
 
 優「『平面上』に現像しただけだよねぇ？」%K%P
 It was developed on a flat surface.
@@ -556,12 +556,12 @@ CN PLACEHOLDER
 優「というわけで、写真というのは……『３次元』の映像を『２次元』的に再現したものだ、ってことがわかってもらえたと思うんだけど」%K%P
 So, a photograph is actually a three-dimensional image recreated two-dimensionally. Now that I think you understand that...
 CN PLACEHOLDER
-Иными словами, фотография – это трёхмерное изображение, воссозданное в двух измерениях. Думаю, теперь ты понял...
+Иными словами, фотография - это трёхмерное изображение, воссозданное в друх измерениях. Думаю, теперь ты понял...
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「えっ？　まだわからない？」%K%P
 What? You still don't get it?
@@ -601,7 +601,7 @@ CN PLACEHOLDER
 優「そしたら、ちょっと軽く実験でもしてみようか？」%K%P
 Now, how about we do a little experiment?
 CN PLACEHOLDER
-Итак, как насчёт маленького эксперимента?
+Итак, как на счёт маленького эксперимента?
 
 少年「実験？」%K%P
 Experiment?
@@ -626,7 +626,7 @@ CN PLACEHOLDER
 優「私が持ってるこのキャップに、サインペンをはめてみて？」%K%P
 Try to put the pen in the cap that I'm holding.
 CN PLACEHOLDER
-Попытайся засунуть маркер в колпачок у меня в руке.
+Попытайся засунуть маркер в колпачок, что у меня в руке.
 
 優はキャップを横にして、ぼくの前に掲げた。%K%P
 You turned the cap sideways and held it in front of me.
@@ -636,12 +636,12 @@ CN PLACEHOLDER
 少年「ぼくの先っちょの所を、優の穴の中に差し込めばいいんだね？」%K%P
 So you want me to put the tip of this in that hole of yours?
 CN PLACEHOLDER
-То есть ты хочешь, чтобы я засунул его кончик в эту дырку?
+То есть...ты хочешь, чтобы я засунул его кончик в эту дырку?
 
 優「うん、早く入れて」%K%P
 Yeah. Hurry up.
 CN PLACEHOLDER
-Да. И побыстрее.
+Да. И побыстрей.
 
 少年「入れるよ？」%K%P
 You want me to put it in?
@@ -661,7 +661,7 @@ CN PLACEHOLDER
 少年「あれ？　おっかしいなぁ……」%K%P
 Huh? That's weird...
 CN PLACEHOLDER
-Э-э? Странно...
+Эээ? Странно...
 
 少年「穴の場所が、よくわかんないやぁ……」%K%P
 I can't find the hole...
@@ -686,7 +686,7 @@ CN PLACEHOLDER
 優「もうっ、だらしないなぁ〜」%K%P
 Geez, you're really bad at this.
 CN PLACEHOLDER
-Мда, получается коряво.
+Мдя, не выходит...
 
 少年「だって、しょうがないじゃん」%K%P
 Well, whaddya expect me to do?
@@ -701,17 +701,17 @@ CN PLACEHOLDER
 優「痛っ」%K%P
 Ow...
 CN PLACEHOLDER
-Ой!..
+Ой...!
 
 少年「ご、ごめん……」%K%P
 S-Sorry...
 CN PLACEHOLDER
-П-прости...
+П...прости...
 
 優「どこに刺してんのよぉ……そこじゃないでしょ？」%K%P
 Where are you poking that thing...? That's the wrong spot.
 CN PLACEHOLDER
-Куда ты суёшь эту штуку? Мимо.
+Куда ты суёшь эту штуку? Это не здесь.
 
 優「もうちょっと手前」%K%P
 It's a little closer to you.
@@ -731,7 +731,7 @@ CN PLACEHOLDER
 優「そう！　そこそこ！　そこに入れて！　早く！」%K%P
 Yeah! Right there! Stick it in! Hurry!
 CN PLACEHOLDER
-Да! Вот здесь! Суй, суй! Скорее!
+Да! Вот здесь! Суй, суй! Скорей!
 
 ――ずぽっ。%K%P
 —Click.
@@ -746,37 +746,37 @@ CN PLACEHOLDER
 優「すごいすご〜い♪　こんなの初めて〜♪」%K%P
 Oh good, you did it, and it's your first time!
 CN PLACEHOLDER
-Молодец, умница! Наконец-то получилось!..
+Молодец, умница! Наконец-то получилось...!
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「オ、オホンッ……であるからしてぇ〜」%K%P
 Oho... So that is how that works.
 CN PLACEHOLDER
-А-акхм... в общем, вот так.
+А-акхм...в общем, вот так.
 
 優「ひとつの視点だけでは『立体』を認識することがいかに難しいことなのか、御理解いただけたと思うのですが……」%K%P
 I think you've seen how hard it is to be aware of the different dimensions of things from just one perspective...
@@ -796,7 +796,7 @@ CN PLACEHOLDER
 優「ひとつの視点から得られる情報は『平面・２次元』的な情報だけ」%K%P
 The information that you get from one point is flat, or two-dimensional, information.
 CN PLACEHOLDER
-Данные, которые ты получаешь из одной точки – плоская или двумерная.
+Данные, которые ты получаешь из одной точки - плоская или двумерная.
 
 優「『立体・３次元』的な情報を獲得する為には、その視点が最低でもふたつ以上は必要なの」%K%P
 To get enough information for a three-dimensional view, you have to have at least two perspectives.
@@ -806,12 +806,12 @@ CN PLACEHOLDER
 優「つまり、右目と左目……」%K%P
 That is, your right and left eyes...
 CN PLACEHOLDER
-То есть твои правый и левый глаза...
+То есть, твой правый и левый глаза...
 
 優「このふたつの視点を使わない限り、私達は瞬間的に『３次元』を認識することはできないのよ」%K%P
 If you don't use two viewpoints, then you won't be able to register what's going on around you in three dimensions.
 CN PLACEHOLDER
-Если у тебя нет этих двух точек зрения, значит, ты не сможешь замечать, что происходит вокруг тебя, в трёх измерениях.
+Если у тебя нет этих двух точек зрения, значит ты не сможешь замечать, что происходит вокруг тебя, в трёх измерениях.
 
 少年「？」%K%P
 ?
@@ -851,7 +851,7 @@ CN PLACEHOLDER
 優「だったら、逆にこっちから質問するけど……」%K%P
 Alright, let me try something else. Let me ask you a question...
 CN PLACEHOLDER
-Ладно, попробуем иначе. Задам тебе вопрос...
+Ладно, значит пойдём другим путём...
 
 優「ひとつの視点から得られる情報は？」%K%P
 What kind of information can you get from one perspective?
@@ -861,7 +861,7 @@ CN PLACEHOLDER
 少年「『２次元的』な情報、だったよね」%K%P
 You said two-dimensional information, right?
 CN PLACEHOLDER
-Данные о двух измерениях, верно?
+Двумерные...верно?
 
 優「次に、ふたつの視点から得られる情報は？」%K%P
 And what kind of information can you get from two perspectives?
@@ -871,7 +871,7 @@ CN PLACEHOLDER
 少年「『３次元的』な情報、だと思ったけど」%K%P
 I think you said three-dimensional information.
 CN PLACEHOLDER
-Трёхмерные... кажется.
+Трёхмерные...кажется.
 
 優「では、３つの視点から得られる情報は？」%K%P
 And from three perspectives, what kind of information could you get?
@@ -881,7 +881,7 @@ CN PLACEHOLDER
 少年「う〜ん……４次元的な、情報かな？」%K%P
 Hmmm... four-dimensional information, maybe?
 CN PLACEHOLDER
-Хм-м-м... четырёхмерные?
+Хммм...четырёхмерные?
 
 少年「えっ！？　４次元！？」%K%P
 Huh? The fourth dimension!
@@ -896,22 +896,22 @@ CN PLACEHOLDER
 さて、『４次元』とは……%K%P
 So the fourth dimension was...
 CN PLACEHOLDER
-То есть четвёртое измерение...
+То есть, четвёртое измерение...
 
 いやそもそも『次元』とは、一体なんであろうか？%K%P
 Wait, what was a dimension anyway?
 CN PLACEHOLDER
-Погодите-ка. А что вообще такое «измерение»?
+Стоп. А что такое 'измерение'?
 
 優はロッカーの中からノートを取り出すと、お馴染みのサインペンで図解を示しながら説明してくれた。%K%P
 You took a notebook out of her locker and started illustrating her points with diagrams using the familiar pen.
 CN PLACEHOLDER
-Ю взяла из своего шкафчика блокнот и стала рисовать на нём знакомым мне маркером точки с диаграммами.
+Ю взяла из своего шкафчика блокнот и стала рисовать на нём, знакомым мне маркером, точки с диаграммами.
 
 %FS▼『０次元』%FE%N
 Zero-dimensional.
 CN PLACEHOLDER
-Ноль измерений.
+Нулевое измерение.
 
 %N
 
@@ -933,7 +933,7 @@ CN PLACEHOLDER
 あるいは我々にとってそれは、『無』であると言えるのかもしれない。%K%O
 Or we might call it “nothingness”, or even zero.
 CN PLACEHOLDER
-Это измерение можно назвать как нулём, так и просто «небытие».
+Это измерение можно назвать как нулём, так и просто 'небытие'.
 
 %FS▼『１次元』%FE%N
 One-dimensional.
@@ -945,17 +945,17 @@ CN PLACEHOLDER
 それは点の連続体――直線の世界。%K%N
 This is an extension of the point—it is a straight line.
 CN PLACEHOLDER
-Это продолжение одной точки – прямая линия.
+Это продолжение одной точки - прямая линия.
 
 つまり、直線の断面は点となる。%K%N
 In other words, a cross-section of a straight line is a point.
 CN PLACEHOLDER
-Иными словами, точка – это её поперечное сечение.
+Иными словами, точка - это её поперечное сечение.
 
 『長さ（縦）』……ひとつの概念によって表わされるもの。%K%O
 This is depicted by one concept... length.
 CN PLACEHOLDER
-Единственное, что здесь существует – длина.
+Единственное, что здесь существует - длина.
 
 %FS▼『２次元』%FE%N
 Two-dimensional.
@@ -967,17 +967,17 @@ CN PLACEHOLDER
 それは直線の連続体――平面の世界。%K%N
 This is an extension of the straight line—it is a flat world.
 CN PLACEHOLDER
-Это продолжение прямой линии – мир на плоскости.
+Это продолжение прямой линии - мир на плоскости.
 
 つまり、平面の断面は直線になる。%K%N
 In other words, a cross-section of a plane, or flat world, is a straight line.
 CN PLACEHOLDER
-Иными словами, поперечное сечение плоскости (или плоскостного мира) – прямая линия.
+Иными словами, поперечное сечение плоскости (или плоскостного мира) - прямая линия.
 
 『長さ（縦）』『幅（横）』……ふたつの概念によって表わされるもの。%K%O
 This is depicted using two concepts... length and width.
 CN PLACEHOLDER
-Здесь существуют два понятия – длина и ширина.
+Здесь существуют два понятия - длина и ширина.
 
 %FS▼『３次元』%FE%N
 Three-dimensional.
@@ -989,17 +989,17 @@ CN PLACEHOLDER
 それは平面の連続体――立体の世界。%K%N
 This is an extension of the flat world—it is the three-dimensional world.
 CN PLACEHOLDER
-Это продолжение плоского мира – трёхмерный мир.
+Это продолжение плоского мира - трёхмерный мир.
 
 つまり、立体の断面は平面になる。%K%N
 In other words, a cross-section of the solid world is a plane, or flat surface.
 CN PLACEHOLDER
-Иными словами, поперечное сечение материального мира – плоскость.
+Иными словами, поперечное сечение материального мира - плоскость.
 
 『長さ（縦）』『幅（横）』『高さ』……３つの概念によって表わされるもの。%K%O
 This is depicted using three concepts... length, width, and height.
 CN PLACEHOLDER
-Здесь существуют три понятия – длина, ширина и высота.
+Здесь существуют три понятия - длина, ширина и высота.
 
 本来、これらは正確な言い方ではないが、あえてわかりやすく言うと、３次元とは『縦・横・高さによって構成された空間』のことであると言える。%K%N
 This isn't the most precise way of putting it, but you can think of three dimensions as an area in space composed of length, width, and height.
@@ -1009,19 +1009,19 @@ CN PLACEHOLDER
 （これら縦・横・高さを、それぞれｘ軸ｙ軸ｚ軸とすると、ひとつの軸は、他の２軸に対して垂直に交わるものとする）%K%O
 (By depicting length, width, and height on the x, y, and z axes, one axis adds a vertical element to the other two.)
 CN PLACEHOLDER
-(По рисунку длина, ширина и высота – это оси x, y и z. Любая из них добавляется к двум другим как вертикальный элемент.)
+(По рисунку, длина, ширина и высота - это оси x, y и z. Любая из них добавляется к двум другим как вертикальный элемент.)
 
 %N%N%N%N
 
 %LCそして……%K%O
 And...
 CN PLACEHOLDER
-И наконец...
+И, наконец...
 
 ４次元とは、これら３軸に『ｔ軸＝時間』を加えたもので、すでに４次元は空間ではないから、これを『時空間』と称す。%K%N
 The fourth dimension adds a “t” axis, or time, to these three, and because four dimensions is no longer just space, it is called space-time.
 CN PLACEHOLDER
-Четвёртое измерение добавляет ось t, или время, к этим трём. Однако четыре измерения – это уже не пространство, а пространство-время.
+Четвёртое измерение добавляет ось t, или время, к этим трём. Однако, четыре измерения - это уже не пространство, а пространство-время.
 
 ｘ軸ｙ軸ｚ軸ｔ軸のうちのひとつの軸は、他の３軸に対して垂直に交わる。%K%O
 One of the x, y, z, and t axes adds a vertical element, crossing perpendicularly to the other three.
@@ -1038,17 +1038,17 @@ CN PLACEHOLDER
 立体の連続体――時空体の世界。%K%N
 This is an extension of three dimensions—a world of space and time.
 CN PLACEHOLDER
-Это продолжение трёхмерного пространства – мир пространства и времени.
+Это продолжение трёхмерного пространства - мир пространства и времени.
 
 つまり、時空体の断面は立体になる。%K%N
 In other words, a cross-section of space-time is three-dimensional.
 CN PLACEHOLDER
-Иными словами, поперечное сечение пространства-времени – трёхмерное пространство.
+Иными словами, поперечное сечение пространства-времени - трёхмерное пространство.
 
 『長さ（縦）』『幅（横）』『高さ』『時間』……４つの概念によって表わされるもの。%K%O
 Four dimensions are depicted using four concepts... length, width, height, and time.
 CN PLACEHOLDER
-В четырёх измерениях существуют четыре понятия – длина, ширина, высота и время.
+В четырёх измерениях существуют четыре понятия - длина, ширина, высота и время.
 
 少年「要するに、第３視点を獲得することによって、４次元的な情報を入手することができるようになるわけだ」%K%P
 So basically, if you're able to gain the third eye, then you have enough information to experience four dimensions.
@@ -1063,12 +1063,12 @@ CN PLACEHOLDER
 優「私達がふたつの眼球を使って、目の前の広がった空間の映像を一瞬にして理解できるように……」%K%P
 Just like we can use our two eyes to constantly have an image of the space in the world before us...
 CN PLACEHOLDER
-Точно так же, как мы используем наши два глаза для непрерывного получения картинки пространства в мире перед нами...
+Точно также как мы используем наши два глаза для непрерывного получения картинки пространства в мире перед нами...
 
 少年「３つめの視点を使えば、そこに横たわる時間の流れさえ知覚することができるんだ」%K%P
 So with three perspectives, we can also be aware of the cross-cutting element of time.
 CN PLACEHOLDER
-Получается... с тремя проекциями... мы смогли бы знать и о параллельном элементе, что зовётся „временем“?
+Получается...с тремя проекциями...мы смогли бы знать и о параллельном элементе, что зовётся 'временем'?
 
 優「うむ、そういうことであ〜る」%K%P
 Yup. That's it.
@@ -1113,7 +1113,7 @@ CN PLACEHOLDER
 優「……なんてバカバカしいこと、言い出さないよねぇ？」%K%P
 ...Would you stop talking about these stupid theories of yours?
 CN PLACEHOLDER
-Может, уже хватит этих глупостей, а?
+Может уже хватит этих глупостей, а?
 
 少年「ダメ？」%K%P
 You don't think so?
@@ -1143,12 +1143,12 @@ CN PLACEHOLDER
 少年「それは……記憶が戻れば……きっと……」%K%P
 I'll bet... if I get my memory back... then I'll...
 CN PLACEHOLDER
-Наверняка... если бы я только смог вспомнить... тогда...
+Наверняка...если бы я только смог вспомнить... тогда...
 
 優「ま〜た、すぐそうやって記憶喪失のせいにする」%K%P
 That again? You always fall back on your amnesia.
 CN PLACEHOLDER
-Снова-здорово. Опять ты всё валишь на свою амнезию.
+Снова здорово? Вечно ты всё валишь на свою амнезию.
 
 優「って言うかさぁ、そもそもその記憶喪失の原因を探ってるんじゃなかったの？」%K%P
 You were looking for the cause of your memory loss in the first place, right?
@@ -1158,12 +1158,12 @@ CN PLACEHOLDER
 優「記憶喪失と第３視点とに、どんな関係があるわけ？」%K%P
 So what do amnesia and the third eye have to do with each other?
 CN PLACEHOLDER
-Тогда что общего между ней и третьим глазом?
+Тогда, что общего между ней и третьим глазом?
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「それから、少年が見たって言ってたあの幻の女の子のことは？」%K%P
 And what about that ghost girl that you said you saw?
@@ -1173,17 +1173,17 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「まったくもう、短絡的って言うか、浅はかって言うか、幼稚って言うか……」%K%P
 I mean, it's so naïve, stupid, and childish...
 CN PLACEHOLDER
-Это же так наивно, глупо... детские сказки...
+Это же так наивно, глупо...детские сказки...
 
 少年「だって、優のお母さんだって信じてたんでしょ？」%K%P
 But your mom believed in it, right?
 CN PLACEHOLDER
-Но твоя мама в это верит, ведь так?
+Но, твоя мама в это верит, ведь так?
 
 優「その話はやめて！」%K%P
 We're not going there!
@@ -1233,17 +1233,17 @@ CN PLACEHOLDER
 少年「………………」%K%P
 ..................
 CN PLACEHOLDER
-...
+..................
 
 優「………………」%K%P
 ..................
 CN PLACEHOLDER
-...
+..................
 
 少年「ぼくは……自分の過去が知りたかった」%K%P
 I... I wanted to know about my past.
 CN PLACEHOLDER
-Я... я хотел знать о своём прошлом.
+Я...я хотел знать о своём прошлом.
 
 少年「ううん、今だって知りたいと願ってる」%K%P
 I still hope to find it out.
@@ -1253,22 +1253,22 @@ CN PLACEHOLDER
 少年「でもぼくには、記憶も手がかりもないから……」%K%P
 But I don't have my memory nor any clue to go by, so...
 CN PLACEHOLDER
-Но у меня нет ни памяти, ни улик, от которых можно отталкиваться...
+Но, у меня нет ни памяти, ни улик, от которых можно отталкиваться...
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「優には……記憶があるんだろ？」%K%P
 You have... your memory, right?
 CN PLACEHOLDER
-В отличие от тебя... Ю, у тебя есть память, верно?
+В отличие от тебя...Ю, у тебя есть память, верно?
 
 優「――！」%K%P
 —!
 CN PLACEHOLDER
-!
+—!
 
 少年「だとしたら、ぼくと違って、優には手がかりがあるってことだよね？」%K%P
 So that means that you have something that I don't have. You have a clue.
@@ -1278,7 +1278,7 @@ CN PLACEHOLDER
 少年「おまけに、レミを通じて、いろんな情報も手に入った」%K%P
 And more than that, you were able to get information from LeMMIH.
 CN PLACEHOLDER
-Более того, ты смогла чуть ли не клещами вытащить данные из LeMMIH.
+Более того, ты смогла чуть ли не клещами вытащить данные из ЛеММИХ.
 
 少年「それなのに、どうして今更、考えたくないなんて言うの？」%K%P
 So how come you still don't want to think about it?
@@ -1288,7 +1288,7 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「優は、『本当のこと』が知りたくて、ＬｅＭＵにやってきたんじゃないの？」%K%P
 I thought you came to LeMU because you wanted to find out the truth.
@@ -1308,7 +1308,7 @@ CN PLACEHOLDER
 優「……………………」%K%P
 ..................
 CN PLACEHOLDER
-...
+..................
 
 少年「どうして、自分の過去を否定するの？」%K%P
 Why are you denying your past?
@@ -1333,12 +1333,12 @@ CN PLACEHOLDER
 優「…………………………………………」%K%P
 ...........................
 CN PLACEHOLDER
-...
+...........................
 
 少年「優っ！！」%K%P
 You!
 CN PLACEHOLDER
-Ю!
+Ю!!
 
 ぼくは優の腕を掴み、彼女の耳から引き離した。%K%P
 I grabbed You's arms and pulled them away from her ears.
@@ -1358,7 +1358,7 @@ CN PLACEHOLDER
 少年「なんでみすみす、今までの苦労を棒に振ったりするんだよ！」%K%P
 Why throw away everything that you've worked so hard for?
 CN PLACEHOLDER
-Почему ты отбрасываешь всё, чего так долго и упорно добивалась?!
+Почему ты отбрасываешь всё, чего так долго и упорно добивалась?!!
 
 ぼくは叫び、喚いた。%K%P
 I shouted at her.
@@ -1378,22 +1378,22 @@ CN PLACEHOLDER
 それを今まさに手に入れようという瞬間に、急に心変わりをしてしまった彼女が。%K%P
 And just as she was about to attain it, she had suddenly changed her mind.
 CN PLACEHOLDER
-Но в одном шаге от её воплощения Ю неожиданно передумала.
+Но, в одном шаге от её воплощения, Ю неожиданно передумала.
 
 ぼくはまだ、月を掴むことができないでいる。%K%P
 I was nowhere near reaching my dream.
 CN PLACEHOLDER
-Я и на сотую, тысячную долю... не приблизился к своей мечте.
+Я и на сотую, тысячную долю...не приблизился к своей мечте.
 
 でも優は、すぐ手の届く位置まで近づけている。%K%P
 But You's was almost within her reach.
 CN PLACEHOLDER
-Но Ю... ей до своей рукой подать.
+Но, Ю...ей до своей рукой подать.
 
 だから、とても……とても…………%K%P
 So I felt... terribly... terribly...
 CN PLACEHOLDER
-Поэтому я испытываю... страшное... горькое...
+Поэтому я чувствую...страшное...горькое...
 
 ……悔しかったのだ。%K%P
 ...Disappointed.
@@ -1403,7 +1403,7 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「ぼくには、わからないよ」%K%P
 I don't get it.
@@ -1413,22 +1413,22 @@ CN PLACEHOLDER
 少年「知りたかったことが、もう目の前にあるってのに……」%K%P
 What you've longed to know is right in front of you, and...
 CN PLACEHOLDER
-Всё, чего ты страшно желала... перед тобой, а ты...
+Всё, чего ты страшно желала...перед тобой, а ты...
 
 少年「とても羨ましかったのに……とても、嬉しかったのに」%K%P
 I was so jealous... and so happy for you.
 CN PLACEHOLDER
-Я так ревновал... я был так за тебя счастлив.
+Я так ревновал...я был так за тебя счастлив.
 
 少年「どうして……」%K%P
 Why...?
 CN PLACEHOLDER
-Почему?..
+Почему...?
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「怖くなったの」%K%P
 I got scared.
@@ -1448,17 +1448,17 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「考えてみてよ！　今まで正しいと信じてたものが、全部嘘だってわかったのよ！！」%K%P
 Think about it! Everything that I've believed for so long has turned out to be lies.
 CN PLACEHOLDER
-Да пойми ты! Всё, всё во что я верила всю свою жизнь... оказалось ложью!
+Да пойми ты! Всё, всё во что я верила всю свою жизнь...оказалось ложью!
 
 優「全部、作りものだったのよ……！」%K%P
 It's all just fiction...!
 CN PLACEHOLDER
-Всё... фальшивка!..
+Всё...фальшивка...!
 
 優「ねえ！　こんなことってある？　それって普通のことなの？」%K%P
 Tell me! Is that supposed to happen? Is it normal?
@@ -1468,17 +1468,17 @@ CN PLACEHOLDER
 優「私には、信じられない……もう何もかもが、信じられない」%K%P
 I can't believe anymore... I can't believe anything.
 CN PLACEHOLDER
-Я больше не верю... ничему не верю!..
+Я больше не верю...ничему не верю...!
 
 少年「……………………」%K%P
 ..................
 CN PLACEHOLDER
-...
+..................
 
 優「知らなかったの……真実が、こんなにも苦しいものだったなんて」%K%P
 I didn't know... that the truth was this painful.
 CN PLACEHOLDER
-Я не знала... что правда так жестока.
+Я не знала...что правда так жестока.
 
 胸を押さえる優。%K%P
 You put her hand on her chest.
@@ -1498,12 +1498,12 @@ CN PLACEHOLDER
 優「真実に近づくたび、心がズタズタに傷ついていくの……」%K%P
 The closer I get to the truth, the more my heart gets shredded to bits...
 CN PLACEHOLDER
-Чем ближе я подхожу к правде, тем сильнее оно разрывается на куски...
+Чем ближе я подхожу к правде, тем сильней оно разрывается на куски...
 
 優「私にはもう、耐えられないんだよぉ……！」%K%P
 I can't take it anymore...!
 CN PLACEHOLDER
-Я больше этого не вынесу!..
+Я больше этого не вынесу...!
 
 少年「………………………………………………」%K%P
 .............................................
@@ -1518,12 +1518,12 @@ CN PLACEHOLDER
 優「本当のことなんて……聞きたくない！」%K%P
 I don't want to know... what is real!
 CN PLACEHOLDER
-Я не хочу знать... правду!
+Я не хочу знать...правду!
 
 その音と揺れに、ぼくらはハッと顔を上げた。%K%P
 A sudden sound and shaking made us look up.
 CN PLACEHOLDER
-И тут... от грохота и тряски, мы удивлённо взглянули вверх.
+И тут...от грохота и тряски, мы удивлённо взглянули вверх.
 
 次の瞬間、警報が響き渡る。%K%P
 The next instant, warning alarms started shrieking.
@@ -1548,27 +1548,27 @@ CN PLACEHOLDER
 優「ま、まさかっ……！」%K%P
 No... No way...!
 CN PLACEHOLDER
-Нет... не может быть!..
+Нет...не может быть...!
 
 少年「ついに圧潰が始まった……！？」%K%P
 Could implosion already have started...?
 CN PLACEHOLDER
-Затопление уже началось?..
+Затопление уже началось...?
 
 現在時刻は午後５時４５分。%K%P
 It was 5:45 p.m.
 CN PLACEHOLDER
-Сейчас 17:45.
+Сейчас 5:45 вечера.
 
 完全圧潰推定時刻――『５月７日午前４時３０分前後』。%K%P
 The estimated time of implosion was 4:30 a.m. on May 7th.
 CN PLACEHOLDER
-Расчётное время меж тем 7 мая в 4:30 утра.
+Расчётное время, меж тем, 4:30 утра 7 Мая.
 
 ±１２時間の誤差を考えれば、もう始まってもオカシクナイ時間だった。%K%P
 But given the twelve-hour margin of error, I thought it could well be the implosion.
 CN PLACEHOLDER
-Но если учесть 12-часовую погрешность, видимо и правда началось.
+Но, если учесть 12-часовую погрешность, видимо и правда началось.
 
 ――ぼくらは、部屋を飛び出した。%K%P
 We burst out of the room.
@@ -1608,7 +1608,7 @@ CN PLACEHOLDER
 少年「みんな、無事かな？」%K%P
 I wonder if everybody's alright.
 CN PLACEHOLDER
-Я вот думаю... все ли в порядке?
+Я вот думаю...все ли в порядке?
 
 優「そうね、確認しましょう」%K%P
 Let's go check.
@@ -1628,12 +1628,12 @@ CN PLACEHOLDER
 少年「だめだ……きっと、またセンサーが……」%K%P
 It's no good... I bet the sensors are out of whack...
 CN PLACEHOLDER
-Бесполезно... сенсоры накрылись...
+Бесполезно...сенсоры накрылись...
 
 優「ひとまず、空のところに行きましょう？　だぶん制御室にいると思うから」%K%P
 Should we go find Sora first? She's probably in the control room.
 CN PLACEHOLDER
-Давай лучше найдём Сору, ладно? Должно быть, она в Центре управления.
+Давай лучше найдём Сору, ладно? Должно быть, она в Центре Управления.
 
 少年「うん」%K%P
 Yeah.
@@ -1648,12 +1648,12 @@ CN PLACEHOLDER
 ３階へ向かう、ぼくと優。%K%P
 You and I headed down to the third floor.
 CN PLACEHOLDER
-Мы с Ю побежали на третий этаж.
+Ю и я побежали на третий этаж.
 
 優「とにかく脱出する方法を早く探さないと！」%K%P
 We have to find a way out of here, fast!
 CN PLACEHOLDER
-Надо как можно скорее найти выход отсюда!
+Надо как можно скорей найти выход отсюда!
 
 階段を駆け下りながら優。%K%P
 You sprinted down the stairs.
@@ -1718,12 +1718,12 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「第３視点……このひとつの言葉によって、両者は強く結びつくような気がっ」%K%P
 I get the feeling that... the third eye ties them together somehow.
 CN PLACEHOLDER
-Не знаю почему, но мне кажется... что этот „Третий глаз“ имеет отношение и к первому, и ко второму.
+Не знаю почему, но мне кажется...что этот 'Третий Глаз' имеет отношение и к первому, и ко второму.
 
 優「ねえ？　なに言ってるの？　この状況わかってる？」%K%P
 What're you talking about? Do you know what kind of situation we're in right now?
@@ -1758,7 +1758,7 @@ CN PLACEHOLDER
 優「あの人は……私のお母さんなんかじゃ……」%K%P
 That person... is not my...!
 CN PLACEHOLDER
-Этот человек... не моя!..
+Этот человек...не моя...!
 
 言いかけて、言葉を呑み込む優。%K%P
 You stopped mid-sentence.
@@ -1768,7 +1768,7 @@ CN PLACEHOLDER
 ふっと顔をあげ、突然、弾かれたように走り出した。%K%P
 Suddenly, she lifted her head and started running.
 CN PLACEHOLDER
-Неожиданно она подняла голову и побежала.
+Неожиданно, она подняла голову и побежала.
 
 慌てて、ぼくはそのあとを追った。%K%P
 I hurriedly went after her.
@@ -1778,17 +1778,17 @@ CN PLACEHOLDER
 優「あの人は……私のお母さんなんかじゃないの」%K%P
 That person... is not my mother.
 CN PLACEHOLDER
-Этот человек... не моя мать.
+Этот человек...не моя мать.
 
 優はそう言うと、ぼくを振り切って歩き出す。%K%P
 After saying that, You turned and started walking.
 CN PLACEHOLDER
-С этими словами Ю свернула и пошла средним шагом.
+С этими словами, Ю свернула и пошла средним шагом.
 
 脇目もふらず、制御室へと向かっていく。%K%P
 Looking straight ahead, she made for the control room.
 CN PLACEHOLDER
-Глядя прямо перед собой, она зашла в Центр управления.
+Глядя прямо перед собой, она зашла в Центр Управления.
 
 ぼくはあとを追った。%K%P
 I followed her.

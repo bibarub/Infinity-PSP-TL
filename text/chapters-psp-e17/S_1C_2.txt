@@ -21,7 +21,7 @@ CN PLACEHOLDER
 ――女の子！？%K%P
 A girl!?
 CN PLACEHOLDER
-Девочка?!
+Девочка!?
 
 初めて見る少女だった。%K%P
 It was a girl that I had never seen before.
@@ -81,12 +81,12 @@ CN PLACEHOLDER
 暗がりの中、少女はベッドに座っていた。%K%P
 In the darkness, a girl sat on a bed.
 CN PLACEHOLDER
-В темноте, на кровати, сидит девочка.
+В темноте, на кровати сидит девочка.
 
 少年「あっ、えーと……」%K%P
 Uh, um... I...
 CN PLACEHOLDER
-Э-э, м-м... я...
+Ээ, мм...я...
 
 言葉につまるぼく。%K%P
 I was at a loss for words.
@@ -101,7 +101,7 @@ CN PLACEHOLDER
 少女「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少女はじっとぼくのことを見つめている。%K%P
 The girl just stared at me intently.
@@ -111,12 +111,12 @@ CN PLACEHOLDER
 少年「だ、大丈夫だよ……」%K%P
 It's... al-alright...
 CN PLACEHOLDER
-Всё... в по-порядке...
+Всё..в по-порядке...
 
 少年「心配しなくても……大丈夫だから……」%K%P
 Don't worry... Everything is alright...
 CN PLACEHOLDER
-Не бойся... всё в порядке...
+Не бойся...всё в порядке...
 
 少女は答えない。%K%P
 She didn't answer.
@@ -126,7 +126,7 @@ CN PLACEHOLDER
 少年「え、えっとぉ……」%K%P
 Uh... Um...
 CN PLACEHOLDER
-Э-э... м-м...
+Ээ...мм...
 
 少年「とにかく、みんなのとこに行こう！」%K%P
 Anyway, let's go to where everybody else is!
@@ -151,17 +151,17 @@ CN PLACEHOLDER
 少女「助けに……来てくれたの？」%K%P
 Help...? Did you come to help?
 CN PLACEHOLDER
-Помочь?.. Ты пришёл помочь?
+Помочь?...Ты пришёл помочь?
 
 少年「う、うん……そうだよ」%K%P
 Y-Yeah... That's right.
 CN PLACEHOLDER
-Д-да... правда.
+Д-да...правда.
 
 少女「でも……きっと無理だよ……」%K%P
 But... it's probably impossible...
 CN PLACEHOLDER
-Но... это, наверное, невозможно...
+Но...это наверно невозможно...
 
 少年「えっ？」%K%P
 Huh?
@@ -171,7 +171,7 @@ CN PLACEHOLDER
 少女「もうどこにも……出られないんだ……」%K%P
 There is... no way out anymore...
 CN PLACEHOLDER
-Отсюда... уже нет выхода...
+Отсюда...уже нет выхода...
 
 そう言った少女の瞳は、寂しげに濡れていた。%K%P
 The girl's eyes were sad and moist.
@@ -224,7 +224,7 @@ CN PLACEHOLDER
 Кто-нибудь обязательно придёт к нам на помощь!
 
 少女「…………」%K%P
-.........
+...
 CN PLACEHOLDER
 ...
 
@@ -236,7 +236,7 @@ CN PLACEHOLDER
 少女「だって……だって……」%V%P
 Because... Because...
 CN PLACEHOLDER
-Потому что... потому что...
+Потому что...потому что...
 
 と言った直後、少女はなにかに驚き、ぼくの背後へと目を向けた。%K%P
 Then, suddenly, a shocked look appeared on the girl's face as her eyes focused behind me.
@@ -251,7 +251,7 @@ CN PLACEHOLDER
 ドアの向こう側……武が顔をのぞかせていた。%K%P
 On the other side of the door... was Takeshi, peeking in.
 CN PLACEHOLDER
-С другой стороны двери... стоит Такэси.
+С другой стороны двери...стоит Такеши.
 
 武「誰と話してるんだ？」%K%P
 Who are you talking to?
@@ -261,7 +261,7 @@ CN PLACEHOLDER
 少年「た、武！　ちょうどいいところに……！」%K%P
 Takeshi! What great timing...!
 CN PLACEHOLDER
-Такэси! Наконец-то!..
+Такеши! Наконец-то...!
 
 少年「この女の子も、逃げ遅れちゃったみたいでさぁ……」%K%P
 It seems like this girl here didn't get out either...
@@ -276,12 +276,12 @@ CN PLACEHOLDER
 武「女の子なんて……」%K%P
 What girl...?
 CN PLACEHOLDER
-Какая девочка?..
+Какая девочка...?
 
 武「……いないじゃないか」%K%P
 ...There's nobody there.
 CN PLACEHOLDER
-...Здесь никого нет.
+...здесь никого нет.
 
 少年「えっ！？」%K%P
 Huh!?
@@ -301,12 +301,12 @@ CN PLACEHOLDER
 少年「そ、そんなはず……」%K%P
 Im-Impossible...
 CN PLACEHOLDER
-Не... не может быть...
+Не...не может быть...
 
 武「おいおい、やめてくれよ……記憶喪失の次は、幻覚か？」%K%P
 Stop it already. What? Are you tired of memory loss and working on hallucinations now?
 CN PLACEHOLDER
-Да ладно, перестань... У тебя после потери памяти теперь ещё и глюки?
+Слушай, перестань, а? .... Ты устал от потери памяти и стал ловить глюки?
 
 武「かなり重症みたいだな……」%K%P
 You're worse off than we thought...
@@ -326,12 +326,12 @@ CN PLACEHOLDER
 武「なあ、少年……」%K%P
 Listen, Kid...
 CN PLACEHOLDER
-Слушай, Малой...
+Слушай, Кид...
 
 少年「な、なに……？」%K%P
 Wh-What...?
 CN PLACEHOLDER
-Че-чего?..
+Че-чего...?
 
 武「腹、減らないか？」%K%P
 Aren't you hungry?
@@ -341,7 +341,7 @@ CN PLACEHOLDER
 少年「腹……？」%K%P
 Hungry...?
 CN PLACEHOLDER
-Голоден?..
+Голоден...?
 
 少年「そ、そんなこと、今はどうだっていいんだよ！」%K%P
 Wh-Who cares about that right now?
@@ -351,7 +351,7 @@ CN PLACEHOLDER
 少年「ここに、女の子が……女の子が……」%K%P
 There was a girl here... A girl, I tell you...
 CN PLACEHOLDER
-Здесь была девочка... девочка, говорю тебе...
+Здесь была девочка...девочка, говорю тебе...
 
 武「わかったわかった……」%K%P
 I know, I know.
@@ -361,7 +361,7 @@ CN PLACEHOLDER
 武「女の子がな、いたんだよな、そうかそうか……」%K%P
 There was a girl there. I heard you...
 CN PLACEHOLDER
-Здесь была девочка. Я тебя услышал...
+Здесь была девочка. Я тебя слышал...
 
 少年「全然わかってないじゃないかぁ！」%K%P
 You don't get it at all!
@@ -381,27 +381,27 @@ CN PLACEHOLDER
 武「でもじゃなぁーい！　お兄さん、怒っちゃうぞ！」%K%P
 But nothing! You're going to piss me off if you keep this up!
 CN PLACEHOLDER
-Никаких но! Ты разозлишь меня вконец, если будешь твердить одно и то же!
+Никаких но! Ты разозлишь меня в конец, если будешь твердить одно и тоже!
 
 武「みんなおまえのこと待ってんだよ……一緒にメシ食おうと思って……」%K%P
 Everyone is waiting for you... to eat together...
 CN PLACEHOLDER
-Все ждут тебя... чтобы поесть вместе...
+Все ждут тебя...чтобы поесть вместе...
 
 少年「じゃあ、じゃあ、あの女の子はどうするの！？」%K%P
 Well, then, what are we going to do about the girl!?
 CN PLACEHOLDER
-Но тогда что нам делать с девочкой?
+Но, тогда, что нам делать с девочкой?
 
 少年「あの子だって、きっとお腹をすかせて……」%K%P
 I'm sure the girl is probably starving too...
 CN PLACEHOLDER
-Наверное, она тоже хочет есть...
+Наверно, она тоже хочет есть...
 
 武「はぁ……こりゃもう完全に逝っちまってるな……」%K%P
 Oh man... You've completely lost it...
 CN PLACEHOLDER
-О боже... ты уже совсем...
+О боже...ты уже совсем...
 
 少年「ぼくは正気だよ！」%K%P
 I'm not crazy!
@@ -411,12 +411,12 @@ CN PLACEHOLDER
 少年「女の子は……女の子は……確かにここに……」%K%P
 There was a girl... A girl... Right here...
 CN PLACEHOLDER
-Здесь была девочка... девочка... прямо здесь...
+Здесь была девочка...девочка...прямо здесь...
 
 結局、武には相手にしてもらえなかった。%K%P
 In the end, I couldn't get Takeshi to listen to me.
 CN PLACEHOLDER
-В конце концов, мне так и не удалось заставить Такэси меня выслушать.
+В конце концов, мне так и не удалось заставить Такеши меня выслушать.
 
 少年「行こう！」%K%P
 Let's go!
@@ -431,7 +431,7 @@ CN PLACEHOLDER
 少女「……えっ？　……どこに？」%K%P
 ...Uh... Where?
 CN PLACEHOLDER
-...Э-э... куда?
+...Ээ...куда?
 
 少年「どこでもいいから、とにかくここを出るんだ！」%K%P
 Anywhere. Let's just get out of here.
@@ -441,7 +441,7 @@ CN PLACEHOLDER
 少女「どうして……？」%K%P
 Why...?
 CN PLACEHOLDER
-Зачем?..
+Зачем...?
 
 少年「だってこの中にいたら、きっとココは……」%K%P
 Because if we stay here, Coco, then we'll probably...
@@ -456,7 +456,7 @@ CN PLACEHOLDER
 またしても、ぼくは彼女の名前を知っていたのだ！%K%P
 Somehow, I knew her name as well.
 CN PLACEHOLDER
-И вот опять – я знаю, как её зовут!
+Я знаю, знаю! Я знаю, как её зовут.
 
 『八神ココ』――。%K%P
 “Yagami Coco”.
@@ -466,12 +466,12 @@ CN PLACEHOLDER
 そして、これから何が起こるのかも予想することができた。%K%P
 And then I had a premonition that something was about to happen.
 CN PLACEHOLDER
-И у меня предчувствие – что-то вот-вот произойдёт.
+И у меня предчувствие - что-то вот-вот произойдёт.
 
 きっと、ココは消えてしまうのだ……ぼくが目を離している隙に……。%K%P
 I thought that when I took my eyes off of her... Coco would vanish...
 CN PLACEHOLDER
-Если я отведу свой взгляд от неё... Коко исчезнет...
+Если я отведу свой взгляд от неё...Коко исчезнет...
 
 まるで、幻のように……。%K%P
 Like a ghost...
@@ -486,7 +486,7 @@ CN PLACEHOLDER
 ココ「お願い……行かないで……」%K%P
 Don't go... Please...
 CN PLACEHOLDER
-Не уходи... прошу...
+Не уходи...прошу...
 
 少年「え、えっ？」%K%P
 Wh-What?
@@ -511,7 +511,7 @@ CN PLACEHOLDER
 理解できないけど……答えは口をついてあふれた。%K%P
 I couldn't understand... but my mouth had an answer.
 CN PLACEHOLDER
-Не понимаю... но ответ сорвался с моих губ.
+Не понимаю...но ответ сорвался с моих губ.
 
 少年「行かないよ」%K%P
 I won't go.
@@ -526,7 +526,7 @@ CN PLACEHOLDER
 『どこにも行かないで』……ココの想いとぼくの想いは今、重なっていた。%K%P
 “Please, don't go”... Just then, the two of our minds had overlapped.
 CN PLACEHOLDER
-«Прошу, не уходи»... В этот момент наши с Коко мысли совпали.
+'Прошу, не уходи'...два наших разума пересеклись.
 
 ぼくは、ココの存在を見失いたくなかった。%K%P
 I didn't want to lose sight of Coco's existence.
@@ -556,7 +556,7 @@ CN PLACEHOLDER
 ドアの向こう側……武が顔をのぞかせていた。%K%P
 On the other side of the door... was Takeshi, peeking in.
 CN PLACEHOLDER
-С другой стороны двери... стоит Такэси.
+С другой стороны двери...стоит Такеши.
 
 武「誰と話してるんだ？」%K%P
 Who are you talking to?
@@ -586,7 +586,7 @@ CN PLACEHOLDER
 少年「ココォーッ！」%K%P
 Cocoooooo!
 CN PLACEHOLDER
-Коко-о-о!
+Кокоооооо!
 
 叫んでみても、答える者はいない。%K%P
 No one was there to answer my shouts.
@@ -616,17 +616,17 @@ CN PLACEHOLDER
 武「コ、ココ……？」%K%P
 Co-Coco...?
 CN PLACEHOLDER
-Ко... Коко?..
+Ко...Коко...?
 
 武「おまえ今……『ココ』って……そう言ったのか？」%K%P
 Did... Did you just say... 'Coco'?
 CN PLACEHOLDER
-Ты... ты только что сказал... Коко?
+Ты...ты только что сказал...Коко?
 
 振り向いて、武を見る。%K%P
 I looked back at Takeshi.
 CN PLACEHOLDER
-Я посмотрел на Такэси.
+Я посмотрел на Такеши.
 
 すぐに、武の様子がいつもと違うことに気づいた。%K%P
 Something was different about Takeshi.
@@ -636,17 +636,17 @@ CN PLACEHOLDER
 武の唇は、震えていた。%K%P
 His lips were trembling.
 CN PLACEHOLDER
-Его губы... дрожат.
+Его губы...дрожат.
 
 少年「武……ココのこと、知ってるの！？」%K%P
 Takeshi... Do you know Coco?
 CN PLACEHOLDER
-Такэси... ты знаешь Коко?
+Такеши...ты знаешь Коко?
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「知ってるんだね！？」%K%P
 You do know her!
@@ -656,7 +656,7 @@ CN PLACEHOLDER
 武「いや……知らない……」%K%P
 No... I don't...
 CN PLACEHOLDER
-Нет... я не...
+Нет...я не...
 
 少年「嘘だ！」%K%P
 Liar!
@@ -671,7 +671,7 @@ CN PLACEHOLDER
 武「ほんとに……知らないんだ……」%K%P
 Really... I don't...
 CN PLACEHOLDER
-Правда... я не...
+Правда...я не...
 
 少年「どうして嘘つくの？」%K%P
 Why are you lying?
@@ -706,7 +706,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 ............
 CN PLACEHOLDER
-...
+............
 
 少年「ねえ、教えてよ？　あの女の子は誰なの？」%K%P
 Tell me! Who is she?
@@ -751,7 +751,7 @@ CN PLACEHOLDER
 武「じゃあどうして名前を知ってるんだ？」%K%P
 So why do you know her name?
 CN PLACEHOLDER
-Тогда откуда ты знаешь её имя?
+Тогда, откуда ты знаешь её имя?
 
 少年「わからないよ！　わからないけど、突然名前が浮かんできたんだ！」%K%P
 I don't know why! It just suddenly popped into my head!
@@ -771,12 +771,12 @@ CN PLACEHOLDER
 少年「…………」%K%P
 ............
 CN PLACEHOLDER
-...
+............
 
 武「ＯＫ、ＯＫ」%K%P
 Okay, okay.
 CN PLACEHOLDER
-Хорошо, Малой.
+Хорошо, Кид.
 
 武「少年は、この加減圧室で、ひとりの少女に出会った」%K%P
 Let's say you happened to meet some girl in this compression chamber.
@@ -786,7 +786,7 @@ CN PLACEHOLDER
 武「理由はわからないけど、彼女の名前だけは知っている」%K%P
 And you don't know why, but you knew her name.
 CN PLACEHOLDER
-И неизвестно почему, но ты знаешь её имя.
+И, неизвестно почему, ты знаешь её имя.
 
 武「で、その女の子はカゲロウのように、跡形も無く消えてしまった」%K%P
 And then, like some phantom, she just disappears without a trace.
@@ -836,12 +836,12 @@ CN PLACEHOLDER
 少年「……えっ？」%K%P
 ...Huh?
 CN PLACEHOLDER
-...А?
+...Что?
 
 武「みんな、会議室でおまえのこと待ってんだよ……一緒にメシ食おうと思って……」%K%P
 Everyone is waiting for you... we're going to eat together...
 CN PLACEHOLDER
-Все ждут тебя... мы собирались поесть вместе...
+Все ждут тебя...мы собирались поесть вместе...
 
 少年「食事なんかどうでもいいよ！」%K%P
 Who cares about eating?
@@ -851,7 +851,7 @@ CN PLACEHOLDER
 武「ふーん……」%K%P
 Hmmph...
 CN PLACEHOLDER
-Хм-м-м-м-м...
+Хммммм...
 
 武「じゃあ、勝手にしろ」%K%P
 Fine, do what you want.
@@ -861,12 +861,12 @@ CN PLACEHOLDER
 武は冷たい言葉を残し、部屋を出て行った。%K%P
 Takeshi left me with those harsh words and departed.
 CN PLACEHOLDER
-Такэси ушёл, оставив меня в одиночестве.
+Такеши ушёл, оставив меня в одиночестве.
 
 みんなの所へ行く前に、ぼくは制御室をのぞいてみることにした。%K%P
 Before going to the conference room, I peeked into the control room.
 CN PLACEHOLDER
-Прежде чем пойти в Комнату переговоров, я заглянул в Центр управления.
+Прежде чем пойти в Комнату Переговоров, я заглянул в Центр Управления.
 
 あの生体反応の数字が、気になったのだ。%K%P
 The bio scan figure was eating at my mind.
@@ -876,22 +876,22 @@ CN PLACEHOLDER
 『生体反応：５』%K%P
 “Life readings: 5”
 CN PLACEHOLDER
-«Живые существа: 5»
+'Живые существа: 5'
 
 数字は『６』から『５』に変わっていた。%K%P
 The number had dropped from six to five.
 CN PLACEHOLDER
-Число уменьшилось с шести до пяти.
+Номер упал с шести на пять.
 
 みんなは会議室にいた。%K%P
 Everyone was in the conference room.
 CN PLACEHOLDER
-Все уже сидят в Комнате переговоров.
+Все уже сидят в Комнате Переговоров.
 
 売店で調達してきたタツタサンドと飲み物が、みんなの前にある。%K%P
 There were fried tuna sandwiches and drinks secured from the sandwich shop for everyone.
 CN PLACEHOLDER
-На столе лежат напитки и жареные сэндвичи с тунцом.
+На столе лежат напитки и жареные бутерброды с курятиной.
 
 つぐみだけがいなかった。%K%P
 Only Tsugumi was absent.
@@ -901,7 +901,7 @@ CN PLACEHOLDER
 どこに行ったんだろう？　……疑問に思ったが、ぼくにはそれ以上に気がかりなことがあった。%K%P
 I wondered where she had gone... but more than that, I was worried about her.
 CN PLACEHOLDER
-Пусть она ведёт себя не совсем адекватно, но я волнуюсь... Хотя больше всего я беспокоюсь о девочке.
+Пусть она ведёт себя не совсем адекватно, но я волнуюсь... Хотя, больше всего я беспокоюсь о девочке.
 
 ぼくはみんなに、少女の話をした。%K%P
 I told everyone about the girl.
@@ -921,27 +921,27 @@ CN PLACEHOLDER
 あの少女を見かけた人は、他に誰もいなかったのだ。%K%P
 No one else had seen the girl.
 CN PLACEHOLDER
-Кроме меня её никто не видел.
+Кроме меня, её никто не видел.
 
 ぼくは生体反応の数字を思い出した。%K%P
 Then I remembered the bio scan figure.
 CN PLACEHOLDER
-И тут я вспомнил показания биосканера.
+И тут...я вспомнил показания биосканера.
 
 ――『７』%K%P
 “7”
 CN PLACEHOLDER
-«7»
+'7'
 
 あの少女こそ、７番目の人物だったんじゃないのか？%K%P
 That girl was probably person number seven.
 CN PLACEHOLDER
-Видимо, эта девочка была седьмой.
+Видимо эта девочка была персоной номер семь.
 
 だけど、数字は『５』にもなったし『６』にもなった。%K%P
 But the number had been five and six as well.
 CN PLACEHOLDER
-Но ведь число менялось и на пять, и на шесть.
+Но ведь номер менялся и на пять, и на шесть.
 
 どういうことなんだろう？%K%P
 What could it mean?
@@ -956,17 +956,17 @@ CN PLACEHOLDER
 武の言ったように、やっぱり幻覚なんだろうか？%K%P
 I wondered if it was, like Takeshi had said, a hallucination.
 CN PLACEHOLDER
-Может, это, как сказал Такэси, галлюцинация.
+Может это, как сказал Такеши - галлюцинация.
 
 じゃなければ……幽霊？%K%P
 If not, then... a ghost?
 CN PLACEHOLDER
-А если нет, тогда... призрак?
+А если нет, тогда...призрак?
 
 ――『５・６・７』。%K%P
 —“5, 6, 7”.
 CN PLACEHOLDER
-«5, 6, 7»
+'5,6,7'
 
 どういうことなんだろう？%K%P
 What could it mean?
@@ -976,22 +976,22 @@ CN PLACEHOLDER
 さっきの少女が幻だとすれば、生体反応の数字は『５』が正しいということになる。%K%P
 If the girl was, in fact, a ghost, that would mean that the number five was correct.
 CN PLACEHOLDER
-Если девочка действительно призрак, значит, «пять» – верное число.
+Если девочка действительно призрак, значит этот номер 'пять' верен.
 
 空はカウントされないはずから、ここに集まった４人に、つぐみを加えて、合計で『５』。%K%P
 Sora wouldn't be included, and the four of us there plus Tsugumi would equal five.
 CN PLACEHOLDER
-Сора исключается – она не человек, а мы четверо плюс Цугуми – всего пять.
+Сора исключается - она не человек, а мы четверо плюс Цугуми - всего пять.
 
 けれど、数字は『６』にもなったし『７』にもなった。%K%P
 But the number had jumped to six and even to seven.
 CN PLACEHOLDER
-Но ведь число прыгало до шести и даже семи.
+Но ведь номер прыгал до шести и даже семи.
 
 一体……彼女は何者なんだ……？%K%P
 What... in the world could that girl be...?
 CN PLACEHOLDER
-Что... чем является эта девочка?..
+Что...чем является эта девочка...?
 
 そう言えば、優がこんなことを言っていた。%K%P
 That reminded me of what You had said.
@@ -1011,7 +1011,7 @@ CN PLACEHOLDER
 少女が消滅したときに数字は『５』になり、出現したときに『６』になり、分裂したときに『７』になり……。%K%P
 When the girl disappeared, the number would be five, when she appeared, six, and when she split, then seven.
 CN PLACEHOLDER
-Когда девочка исчезла, число равнялось пяти. Когда она%Nпоявлялась – шести, а когда делилась – семь...
+Когда девочка исчезла, номер равнялся пяти. Когда она%Nпоявлялась - шести, а когда делилась - семь...
 
 ――分裂？？？%K%P
 —Split?
@@ -1021,7 +1021,7 @@ CN PLACEHOLDER
 ははっ、まさかね……。%K%P
 Haha. That was crazy...
 CN PLACEHOLDER
-Ха-ха. Безумие...
+Ха〜ха. Безумие.
 
 ぼくは自分の考えのバカバカしさに首を振った。%K%P
 I shook my head at my own silliness.
@@ -1031,12 +1031,12 @@ CN PLACEHOLDER
 どうかしてるんだ、ぼくは……。%K%P
 Maybe I was losing it...
 CN PLACEHOLDER
-Может, я просто не заметил...
+Может я просто не заметил...
 
 ぼくの頭は、きっと普通じゃないんだ。%K%P
 Something had to be wrong with me.
 CN PLACEHOLDER
-Может, со мной действительно не всё в порядке.
+Может со мной действительно не всё в порядке?
 
 もっと冷静にならなくちゃ、冷静に……。%K%P
 I needed to calm down and collect myself.
@@ -1051,7 +1051,7 @@ CN PLACEHOLDER
 ぶしゅぅーーーーー！！%K%P
 Fushaaaww!
 CN PLACEHOLDER
-Пш-ш-ш-ш-ш-ш!
+Ффффшшшшш!
 
 最初、なにが起きたのかわからなかった。%K%P
 At first, I didn't know what had happened.
@@ -1071,37 +1071,37 @@ CN PLACEHOLDER
 どうやら、噴出したコーラがぼくの顔面を直撃したらしい。%K%P
 It seemed as if the cola had exploded into my face.
 CN PLACEHOLDER
-Кажется, кола взорвалась мне на лицо.
+Кажется, кола взорвалась мне в лицо.
 
 沙羅「きゃはははははは♪」%K%P
 KYAHAHAHA〜
 CN PLACEHOLDER
-КХА-ХА-ХА-ХА!
+ХХА〜ХА〜ХА〜ХА!!
 
 優「あはははははは♪」%K%P
 AHHAHAHA〜
 CN PLACEHOLDER
-АХ-ХА-ХА-ХА!
+АХ〜ХА〜ХА〜ХА!!
 
 空「ふふふふふふふ♪」%K%P
 FUFUFUFUFU〜
 CN PLACEHOLDER
-ХИ-ХИ-ХИ-ХИ-ХИ!
+ХИ〜ХИ〜ХИ〜ХИ〜ХИ!!
 
 みんな「だぁーはっはっはっはっはっは♪」%K%P
 GAHAHAHAHA〜
 CN PLACEHOLDER
-ХА-ХА-ХА-ХА-ХА!
+ХА〜ХА〜ХА〜ХА〜ХА!!
 
 一斉に笑い出すみんな……。%K%P
 Everyone exploded in a chorus of laughter.
 CN PLACEHOLDER
-Всех прорвало на смех.
+Следом за колой, все взорвались истерическим смехом.
 
 優「あーあ、もう、なにやってんのよ、少年！」%K%P
 Hey, what the heck are you doing, Kid?
 CN PLACEHOLDER
-Эй, Малой, ты чё вытворяешь?
+Эй, Кид, ты чё вытворяешь?
 
 優が笑いながら言う。%K%P
 You said that, laughing.
@@ -1111,7 +1111,7 @@ CN PLACEHOLDER
 優「その缶、ＬｅＭＵの特殊ガスの気圧に合わせて、６気圧で封入してあるんだからぁ」%K%P
 These cans contain special gas so that they can be used at six atmospheres.
 CN PLACEHOLDER
-Эти банки были запаяны при 6 атмосферах специально для нахождения в LeMU.
+Эти банки заполнены при давлении в 6 атмосфер.
 
 優「でも、今ここは１気圧でしょ？」%K%P
 But right now, we're at one atmosphere, right?
@@ -1146,12 +1146,12 @@ CN PLACEHOLDER
 暗がりの中、少女はベッドに座っていた。%K%P
 In the darkness, a girl sat on a bed.
 CN PLACEHOLDER
-В темноте, на кровати, сидит девочка.
+В темноте, на кровати сидит девочка.
 
 少年「あっ、えーと……」%K%P
 Uh, um... I...
 CN PLACEHOLDER
-Э-э, м-м... я...
+Ээ, мм...я...
 
 言葉につまるぼく。%K%P
 I was at a loss for words.
@@ -1166,7 +1166,7 @@ CN PLACEHOLDER
 少女「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少女はじっとぼくのことを見つめている。%K%P
 The girl just stared at me intently.
@@ -1176,12 +1176,12 @@ CN PLACEHOLDER
 少年「だ、大丈夫だよ……」%K%P
 It's... al-alright...
 CN PLACEHOLDER
-Всё... в по-порядке...
+Всё..в по-порядке...
 
 少年「心配しなくても……大丈夫だから……」%K%P
 Don't worry... Everything is alright...
 CN PLACEHOLDER
-Не бойся... всё в порядке...
+Не бойся...всё в порядке...
 
 少女は答えない。%K%P
 She didn't answer.
@@ -1191,7 +1191,7 @@ CN PLACEHOLDER
 少年「え、えっとぉ……」%K%P
 Uh... Um...
 CN PLACEHOLDER
-Э-э... м-м...
+Ээ...мм...
 
 少年「とにかく、みんなのとこに行こう！」%K%P
 Anyway, let's go to where everybody else is!
@@ -1216,17 +1216,17 @@ CN PLACEHOLDER
 少女「助けに……来てくれたの？」%K%P
 Help...? Did you come to help?
 CN PLACEHOLDER
-Помочь?.. Ты пришёл помочь?
+Помочь?...Ты пришёл помочь?
 
 少年「う、うん……そうだよ」%K%P
 Y-Yeah... That's right.
 CN PLACEHOLDER
-Д-да... правда.
+Д-да...правда.
 
 少女「でも……きっと無理だよ……」%K%P
 But... it's probably impossible...
 CN PLACEHOLDER
-Но... это, наверное, невозможно...
+Но...это наверно невозможно...
 
 少年「えっ？」%K%P
 Huh?
@@ -1236,7 +1236,7 @@ CN PLACEHOLDER
 少女「もうどこにも……出られないんだ……」%K%P
 There is... no way out anymore...
 CN PLACEHOLDER
-Отсюда... уже нет выхода...
+Отсюда...уже нет выхода...
 
 そう言った少女の瞳は、寂しげに濡れていた。%K%P
 The girl's eyes were sad and moist.
@@ -1276,7 +1276,7 @@ CN PLACEHOLDER
 少女「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「ねえ？　なんでそんなこと言うの？」%K%P
 Why are you saying that's wrong?
@@ -1286,7 +1286,7 @@ CN PLACEHOLDER
 少女「だって……だって……」%V%P
 Because... Because...
 CN PLACEHOLDER
-Потому что... потому что...
+Потому что...потому что...
 
 と言った直後、少女はなにかに驚き、ぼくの背後へと目を向けた。%K%P
 Then, suddenly, a shocked look appeared on the girl's face as her eyes focused behind me.
@@ -1301,7 +1301,7 @@ CN PLACEHOLDER
 ドアの向こう側……武が顔をのぞかせていた。%K%P
 On the other side of the door... was Takeshi, peeking in.
 CN PLACEHOLDER
-С другой стороны двери... стоит Такэси.
+С другой стороны двери...стоит Такеши.
 
 武「誰と話してるんだ？」%K%P
 Who are you talking to?
@@ -1311,7 +1311,7 @@ CN PLACEHOLDER
 少年「た、武！　ちょうどいいところに……！」%K%P
 Takeshi! What great timing...!
 CN PLACEHOLDER
-Такэси! Наконец-то!..
+Такеши! Наконец-то...!
 
 少年「この女の子も、逃げ遅れちゃったみたいでさぁ……」%K%P
 It seems like this girl here didn't get out either...
@@ -1326,7 +1326,7 @@ CN PLACEHOLDER
 武「女の子なんて……」%K%P
 What girl...?
 CN PLACEHOLDER
-Какая девочка?..
+Какая девочка...?
 
 武「……いないじゃないか」%K%P
 ...There's nobody there.
@@ -1336,7 +1336,7 @@ CN PLACEHOLDER
 少年「えっ！？」%K%P
 Huh!?
 CN PLACEHOLDER
-Что?!
+Что!?
 
 視線をもとに戻す。%K%P
 I looked back.
@@ -1351,12 +1351,12 @@ CN PLACEHOLDER
 少年「そ、そんなはず……」%K%P
 Im-Impossible...
 CN PLACEHOLDER
-Не... не может быть...
+Не...не может быть...
 
 武「おいおい、やめてくれよ……記憶喪失の次は、幻覚か？」%K%P
 Stop it already. What? Are you tired of memory loss and working on hallucinations now?
 CN PLACEHOLDER
-Да ладно, перестань... У тебя после потери памяти теперь ещё и глюки?
+Слушай, перестань, а?.... Ты устал от потери памяти и стал ловить глюки?
 
 武「かなり重症みたいだな……」%K%P
 You're worse off than we thought...
@@ -1376,12 +1376,12 @@ CN PLACEHOLDER
 武「なあ、少年……」%K%P
 Listen, Kid...
 CN PLACEHOLDER
-Слушай, Малой...
+Слушай, Кид...
 
 少年「な、なに……？」%K%P
 Wh-What...?
 CN PLACEHOLDER
-Че-чего?..
+Че-чего...?
 
 武「腹、減らないか？」%K%P
 Aren't you hungry?
@@ -1391,7 +1391,7 @@ CN PLACEHOLDER
 少年「腹……？」%K%P
 Hungry...?
 CN PLACEHOLDER
-Голоден?..
+Голоден...?
 
 少年「そ、そんなこと、今はどうだっていいんだよ！」%K%P
 Wh-Who cares about that right now?
@@ -1401,7 +1401,7 @@ CN PLACEHOLDER
 少年「ここに、女の子が……女の子が……」%K%P
 There was a girl here... A girl, I tell you...
 CN PLACEHOLDER
-Здесь была девочка... девочка, говорю тебе...
+Здесь была девочка...девочка, говорю тебе...
 
 武「わかったわかった……」%K%P
 I know, I know.
@@ -1411,7 +1411,7 @@ CN PLACEHOLDER
 武「女の子がな、いたんだよな、そうかそうか……」%K%P
 There was a girl there. I heard you...
 CN PLACEHOLDER
-Здесь была девочка. Я тебя услышал...
+Здесь была девочка. Я тебя слышал...
 
 少年「全然わかってないじゃないかぁ！」%K%P
 You don't get it at all!
@@ -1431,27 +1431,27 @@ CN PLACEHOLDER
 武「でもじゃなぁーい！　お兄さん、怒っちゃうぞ！」%K%P
 But nothing! You're going to piss me off if you keep this up!
 CN PLACEHOLDER
-Никаких но! Ты разозлишь меня вконец, если будешь твердить одно и то же!
+Никаких но! Ты разозлишь меня в конец, если будешь твердить одно и тоже!
 
 武「みんなおまえのこと待ってんだよ……一緒にメシ食おうと思って……」%K%P
 Everyone is waiting for you... to eat together...
 CN PLACEHOLDER
-Все ждут тебя... чтобы поесть вместе...
+Все ждут тебя...чтобы поесть вместе...
 
 少年「じゃあ、じゃあ、あの女の子はどうするの！？」%K%P
 Well, then, what are we going to do about the girl!?
 CN PLACEHOLDER
-Но тогда что нам делать с девочкой?
+Но, тогда, что нам делать с девочкой?
 
 少年「あの子だって、きっとお腹をすかせて……」%K%P
 I'm sure the girl is probably starving too...
 CN PLACEHOLDER
-Наверное, она тоже хочет есть...
+Наверно, она тоже хочет есть...
 
 武「はぁ……こりゃもう完全に逝っちまってるな……」%K%P
 Oh man... You've completely lost it...
 CN PLACEHOLDER
-О боже... ты уже совсем...
+О боже...ты уже совсем...
 
 少年「ぼくは正気だよ！」%K%P
 I'm not crazy!
@@ -1461,17 +1461,17 @@ CN PLACEHOLDER
 少年「女の子は……女の子は……確かにここに……」%K%P
 There was a girl... A girl... Right here...
 CN PLACEHOLDER
-Здесь была девочка... девочка... прямо здесь...
+Здесь была девочка...девочка...прямо здесь...
 
 結局、武には相手にしてもらえなかった。%K%P
 In the end, I couldn't get Takeshi to listen to me.
 CN PLACEHOLDER
-В конце концов, мне так и не удалось заставить Такэси меня выслушать.
+В конце концов, мне так и не удалось заставить Такеши меня выслушать.
 
 会議室に行く前に制御室をのぞいてみた。%K%P
 Before going to the conference room, I peeked into the control room.
 CN PLACEHOLDER
-Прежде чем зайти в Комнату переговоров, я заглянул в Центр управления.
+Прежде чем зайти в Комнату Переговоров, я заглянул в Центр Управления.
 
 あの生体反応の数字が気になったのだ。%K%P
 The bio scan figure was eating at my mind.
@@ -1481,22 +1481,22 @@ CN PLACEHOLDER
 『生体反応：５』%K%P
 “Life readings: 5”
 CN PLACEHOLDER
-«Живые существа: 5»
+'Живые существа: 5'
 
 数字は『６』から『５』に変わっていた。%K%P
 The number had dropped from six to five.
 CN PLACEHOLDER
-Число уменьшилось с шести до пяти.
+Номер упал с шести на пять.
 
 みんなは会議室にいた。%K%P
 Everyone was in the conference room.
 CN PLACEHOLDER
-Все уже сидят в Комнате переговоров.
+Все уже сидят в Комнате Переговоров.
 
 売店で調達してきたタツタサンドと飲み物が、みんなの前にある。%K%P
 There were fried tuna sandwiches and drinks secured from the sandwich shop for everyone.
 CN PLACEHOLDER
-На столе лежат напитки и жареные сэндвичи с тунцом.
+На столе лежат напитки и жареные бутерброды с курятиной.
 
 つぐみだけがいなかった。%K%P
 Only Tsugumi was absent.
@@ -1506,7 +1506,7 @@ CN PLACEHOLDER
 どこに行ったんだろう？　……疑問に思ったが、ぼくにはそれ以上に気がかりなことがあった。%K%P
 I wondered where she had gone... but more than that, I was worried about her.
 CN PLACEHOLDER
-Пусть она ведёт себя не совсем адекватно, но я волнуюсь... Хотя больше всего я беспокоюсь о девочке.
+Пусть она ведёт себя не совсем адекватно, но я волнуюсь... Хотя, больше всего я беспокоюсь о девочке.
 
 ぼくはみんなに、少女の話をした。%K%P
 I told everyone about the girl.
@@ -1526,27 +1526,27 @@ CN PLACEHOLDER
 あの少女を見かけた人は、他に誰もいなかったのだ。%K%P
 No one else had seen the girl.
 CN PLACEHOLDER
-Кроме меня её никто не видел.
+Кроме меня, её никто не видел.
 
 ぼくは生体反応の数字を思い出した。%K%P
 Then I remembered the bio scan figure.
 CN PLACEHOLDER
-И тут я вспомнил показания биосканера.
+И тут...я вспомнил показания биосканера.
 
 ――『７』%K%P
 “7”
 CN PLACEHOLDER
-«7»
+'7'
 
 あの少女こそ、７番目の人物だったんじゃないのか？%K%P
 That girl was probably person number seven.
 CN PLACEHOLDER
-Видимо, эта девочка была седьмой.
+Видимо эта девочка была персоной номер семь.
 
 だけど、数字は『５』にもなったし『６』にもなった。%K%P
 But the number had been five and six as well.
 CN PLACEHOLDER
-Но ведь число менялось и на пять, и на шесть.
+Но ведь номер менялся и на пять, и на шесть.
 
 どういうことなんだろう？%K%P
 What could it mean?
@@ -1561,17 +1561,17 @@ CN PLACEHOLDER
 武の言ったように、やっぱり幻覚なんだろうか？%K%P
 I wondered if it was, like Takeshi had said, a hallucination.
 CN PLACEHOLDER
-Может, это, как сказал Такэси, галлюцинация.
+Может это, как сказал Такеши - галлюцинация.
 
 じゃなければ……幽霊？%K%P
 If not, then... a ghost?
 CN PLACEHOLDER
-А если нет, тогда... призрак?
+А если нет, тогда...призрак?
 
 ははっ、まさかね……。%K%P
 Haha. That was crazy...
 CN PLACEHOLDER
-Ха-ха. Безумие.
+Ха〜ха. Безумие.
 
 ぼくは自分の考えのバカバカしさに首を振った。%K%P
 I shook my head at my own silliness.
@@ -1581,12 +1581,12 @@ CN PLACEHOLDER
 どうかしてるんだ、ぼくは……。%K%P
 Maybe I was losing it...
 CN PLACEHOLDER
-Может, я просто не заметил...
+Может я просто не заметил...
 
 ぼくの頭は、きっと普通じゃないんだ。%K%P
 Something had to be wrong with me.
 CN PLACEHOLDER
-Может, со мной действительно не всё в порядке.
+Может со мной действительно не всё в порядке.
 
 もっと冷静にならなくちゃ、冷静に……。%K%P
 I needed to calm down and collect myself.
@@ -1601,7 +1601,7 @@ CN PLACEHOLDER
 ぶしゅぅーーーーー！！%K%P
 Fushaaaww!
 CN PLACEHOLDER
-Пш-ш-ш-ш-ш-ш!
+Ффффшшшшш!
 
 最初、なにが起きたのかわからなかった。%K%P
 At first, I didn't know what had happened.
@@ -1621,37 +1621,37 @@ CN PLACEHOLDER
 どうやら、噴出したコーラがぼくの顔面を直撃したらしい。%K%P
 It seemed as if the cola had exploded into my face.
 CN PLACEHOLDER
-Кажется, кола взорвалась мне на лицо.
+Кажется, кола взорвалась мне в лицо.
 
 沙羅「きゃはははははは♪」%K%P
 KYAHAHAHA〜
 CN PLACEHOLDER
-КХА-ХА-ХА-ХА!
+Ха〜ха〜ха〜ха, а〜ха〜ха〜ха〜ха〜ха, ы〜хы〜хы〜〜〜!!
 
 優「あはははははは♪」%K%P
 AHHAHAHA〜
 CN PLACEHOLDER
-АХ-ХА-ХА-ХА!
+Ах〜ха〜ха〜ха〜ха〜ха, ах〜ха〜ха〜ха〜ха〜ха〜〜〜!!
 
 空「ふふふふふふふ♪」%K%P
 FUFUFUFUFU〜
 CN PLACEHOLDER
-ХИ-ХИ-ХИ-ХИ-ХИ!
+Ах〜ха〜ха, ах〜ха〜ха〜〜〜!
 
 みんな「だぁーはっはっはっはっはっは♪」%K%P
 GAHAHAHAHA〜
 CN PLACEHOLDER
-ХА-ХА-ХА-ХА-ХА!
+Ах〜ха〜ха〜ха〜ха, ах〜ха〜ха〜ха〜ха〜〜〜!!
 
 一斉に笑い出すみんな……。%K%P
 Everyone exploded in a chorus of laughter.
 CN PLACEHOLDER
-Всех прорвало на смех.
+Следом за колой, все взорвались истерическим смехом.
 
 優「あーあ、もう、なにやってんのよ、少年！」%K%P
 Hey, what the heck are you doing, Kid?
 CN PLACEHOLDER
-Эй, Малой, ты чё вытворяешь?
+Эй, Кид, ты чё вытворяешь?
 
 優が笑いながら言う。%K%P
 You said that, laughing.
@@ -1661,7 +1661,7 @@ CN PLACEHOLDER
 優「その缶、ＬｅＭＵの特殊ガスの気圧に合わせて、６気圧で封入してあるんだからぁ」%K%P
 These cans contain special gas so that they can be used at six atmospheres.
 CN PLACEHOLDER
-Эти банки были запаяны при 6 атмосферах специально для нахождения в LeMU.
+Эти банки заполнены при давлении в 6 атмосфер.
 
 優「でも、今ここは１気圧でしょ？」%K%P
 But right now, we're at one atmosphere, right?
@@ -1711,7 +1711,7 @@ CN PLACEHOLDER
 なのに、どうして誰も来ないんだろう？%K%P
 So why didn't anyone come?
 CN PLACEHOLDER
-Тогда почему никто не пришёл?
+Тогда, почему никто не пришёл?
 
 水密扉を開くことができないとしても、ダイバーか何かが、部屋の窓ガラスを叩くぐらいのことはあってもいいはずなのに……。%K%P
 Even if they couldn't open the watertight doors, there should have been divers that could tap on the window glass or something...

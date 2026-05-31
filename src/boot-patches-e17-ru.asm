@@ -9,142 +9,6 @@
 @get_runtime_var equ 0x0880D5CC
 @get_system_var equ 0x08806D8C ;; not sure if that's what it does
 
-;; Swap date order. YYYY/MM/DD -> DD.MM.YYYY
-; pause menu
-.org 0x08827930
-.area 4*1
-	li	a0,0x600A
-.endarea
-.org 0x08827968
-.area 4*1
-	li	a0,0x6009
-.endarea
-.org 0x0882794C
-.area 4*1
-	jal	@strcpy
-.endarea
-.org 0x08827988
-.area 4*2
-	j	@PAUSE_MENU_YEAR_HACK
-	nop
-@PAUSE_MENU_YEAR_HACK_RETURN:
-.endarea
-.org 0x088278E4
-.area 4*15
-	b	0x0882792C
-@PAUSE_MENU_APPEND:
-	move	a0,s1
-	jal		@strcat
-	addiu	a1,s0,0x3A38
-	jal		@get_runtime_var
-	li		a0,0x6008
-	addiu	a0,v0,0x7D0
-	addiu	a2,s0,0x3A30
-	jal		@inhouse_sprintf
-	move	a1,sp
-	move	a0,s1
-	jal		@strcat
-	move	a1,sp
-	j		@PAUSE_MENU_YEAR_HACK_OVER
-	nop
-.endarea
-.orga 0x1525A0 :: .fill 8*9
-.orga 0x152608 :: .fill 8*1
-.orga 0x152648 :: .fill 8*1
-
-; save creation date contracted
-.org 0x0884FD44
-.area 4*1
-	lbu	a0,0xEC(s7)
-.endarea
-.org 0x0884FD74
-.area 4*1
-	lbu	a0,0xED(s7)
-.endarea
-
-; save creation date expanded
-.org 0x0884FB7C
-.area 4*4
-	lbu		a0,0xEC(s7)
-	lui		s4,0x12; relocation in place
-	addiu	a2,s4,0x1EB4; relocation in place
-	nop
-.endarea
-.org 0x0884FBE0
-.area 4*3
-	lhu		a0,0xEE(s7)
-	addiu	a0,a0,0x7D0; 0x0884FBE4: relocation-cleared
-	addiu	a2,s4,0x1ED0; relocation in place
-.endarea
-.orga 0x162D08 :: .fill 8*1; clear 0x0884FBE4
-
-; in-game date contracted
-.org 0x08850108
-.area 4*1
-	li	a1,0x600A
-.endarea
-.org 0x08850144
-.area 4*1
-	li	a1,0x6009
-.endarea
-
-; in-game date expanded
-.org 0x0884FFF0
-.area 4*1
-	li	a1,0x600A
-.endarea
-.org 0x0885002C
-.area 4*1
-	li	a1,0x6009
-.endarea
-.org 0x0884FFD8
-.area 4*1
-	b	0x0884FFE8
-.endarea
-.org 0x08850050
-.area 4*2
-	j	@SAVE_MENU_YEAR_HACK
-	nop
-@SAVE_MENU_YEAR_HACK_RETURN:
-.endarea
-.org 0x08850570
-.area 4*13
-@SAVE_MENU_YEAR_APPEND:
-	move	a0,s6
-	jal		@strcat
-	addiu	a1,v1,0x5EBC
-	lui		v0,0x892
-	addiu	a2,v0,0x5ED0
-	addiu	a0,s0,0x7D0
-	jal		@inhouse_sprintf
-	move	a1,sp
-	move	a0,s6
-	jal		@strcat
-	move	a1,sp
-	j		@SAVE_MENU_YEAR_HACK_OVER
-	nop
-.endarea
-.orga 0x163050 :: .fill 8*1
-.orga 0x1632A8 :: .fill 8*6
-.orga 0x162A30 :: .fill 8*1
-.orga 0x162FE0 :: .fill 8*1
-
-; real time
-.org 0x08852CFC
-.area 4*1
-	lw		a0,0x14(s2)
-.endarea
-.org 0x08852D0C
-.area 4*1
-	addiu	a2,a2,0x1EB4; relocation in place
-.endarea
-.org 0x08852D60
-.area 4*2
-	lw		a0,0x1C(s2)
-	addiu	a2,s3,0x1ED0; relocation in place
-.endarea
-
-
 ;; Adjust tip page icon centering.
 .org 0x0884B554
 .area 4*1
@@ -201,143 +65,6 @@
 .area 4*1
 	li	a0,3
 .endarea
-
-
-;; Use the 24-hour clock. Subroutine rewritten to take up less space.
-; @inhouse_sprintf - some sort of in-house sprintf. a2 - format, a1 - dest, a0 - argument. no idea if multiple "arguments" can be passed.
-; @clock_unk1 - a3 seems to affect the height of the white blinking rectangle.
-; @clock_unk2 - a2 affects the size of the clock.
-@clock_unk1 equ 0x08862C74
-@clock_unk2 equ 0x08863F38
-.org 0x08837988
-.area 4*102
-	addiu	sp,sp,-0x1C
-	sw		ra,0x18(sp)
-	sw		s0,0x14(sp)
-	sw		s1,0x10(sp); 0x08837994: first relocation. cleared.
-	sw		s2,0xC(sp)
-	lui		a3,0x9DD
-	lw		a3,-0x4834(a3)
-	lui		s0,0x892
-	ori		a2,s0,0x3DC0
-	lui		s1,0x6
-	addu	s1,a3,s1
-	addiu	s1,s1,-0x2648
-	move	s2,a1
-	jal		@inhouse_sprintf
-	move	a1,s1
-	move	a0,s1
-	jal		@strcat
-	ori		a1,s0,0x3DD0
-	ori		a2,s0,0x3DC0
-	move	a1,sp
-	jal		@inhouse_sprintf
-	move	a0,s2
-	move	a1,sp
-	jal		@strcat
-	move	a0,s1
-	sw		s1,0x100(s1)
-	li		a1,0x10
-	li		a2,0
-	addiu	a0,s1,0x100
-	jal		@clock_unk1
-	li		a3,0x12
-	addiu	a0,s1,0x110
-	addiu	a1,s1,0x100
-	jal		@clock_unk2
-	li		a2,0x1000
-	lw		a0,0x11C(s1)
-	sll		a1,a0,2
-	addu	a1,a1,a0
-	addiu	a1,a1,0xE6
-	sw		a1,-0x4(s1)
-	lw		ra,0x18(sp)
-	lw		s0,0x14(sp)
-	lw		s1,0x10(sp)
-	lw		s2,0xC(sp)
-	jr		ra
-	addiu	sp,sp,0x1C
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-.endarea
-.orga 0x157D80 :: .fill 8*35; kill them relocations!!! first relocation at 0x08837994
-/* equivalent C pseudocode for the rewritten function:
-char **somebaseaddr = 0x9DCB7CC; // the original function dereferences this pointer every single time. this is not necessary, since the value it points to does not change while the function is executing.
-char *clockstring = *somebaseaddr + 0x60000 - 0x2648;
-char **storage = *somebaseaddr + 0x60000 - 0x2548;
-void *someptr = *somebaseaddr + 0x60000 - 0x2538;
-int *finalptr = *somebaseaddr + 0x60000 - 0x252C;
-int *finalout = *somebaseaddr + 0x60000 - 0x264C;
-char *colon = 0x8923DD0; // "："
-char *format = 0x8923DC0;
-void showtime(int hour, int minute) {
-	char digits[12];
-	sprintf(clockstring, "%02d", hour); // "%02d" == format
-	strcat(clockstring, colon);
-	sprintf(digits, "%02d", minute); // "%02d" == format
-	strcat(clockstring, digits);
-	*storage = clockstring;
-	z_un_08862c74(storage, 0x10, 0, 0x12);
-	z_un_08863f38(someptr, storage, 0x1000);
-	int someint = *finalptr;
-	int outint = someint*5 + 0xE6;
-	*finalout = outint;
-}
-*/
 
 
 ;; Subroutine 0x08805680 -- sets default game settings
@@ -745,30 +472,26 @@ C: adjust the memory location at which the container with graphics for the text 
 	subu	a2,a2,s1; original code that was replaced with function call
 	j		@WHITESPACE_HACK_RETURN; 0x884C984: relocation-moved(0x884C964)
 	addu	s0,a2,a1; original code that was replaced with function call
-@PAUSE_MENU_YEAR_HACK:
-	jal		@get_runtime_var
-	li		a0,-0x7FE4
-	beql	v0,zero,@PAUSE_MENU_YEAR_HACK_OVER
 	nop
-	j		@PAUSE_MENU_APPEND
 	nop
-@PAUSE_MENU_YEAR_HACK_OVER:
-	jal		@get_runtime_var
-	li		a0,0x600B
-	j		@PAUSE_MENU_YEAR_HACK_RETURN
 	nop
-@SAVE_MENU_YEAR_HACK:
-	jal		@get_system_var
-	li		a0,-0x7FE4
-	beql	v0,zero,@SAVE_MENU_YEAR_HACK_OVER
 	nop
-	j		@SAVE_MENU_YEAR_APPEND
-	lui		v1,0x892
-@SAVE_MENU_YEAR_HACK_OVER:
-	move	a0,s5
-	jal		0x0884EF04
-	li		a1,0x600B
-	j		@SAVE_MENU_YEAR_HACK_RETURN
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
 	nop
 	nop
 	nop

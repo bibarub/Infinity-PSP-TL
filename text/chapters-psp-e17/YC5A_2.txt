@@ -1,17 +1,17 @@
 ﻿ココ「つぐみんが……唄って聴かせてくれたの」%K%P
 She would sing it to me.
 CN PLACEHOLDER
-Цугуми... пела мне эту колыбельную.
+Цугуми...пела мне эту колыбельную.
 
 少年「――つ、つぐみがぁ！？」%K%P
 Tsu-Tsugumi!?
 CN PLACEHOLDER
-Ц-Цугуми?!
+--Цугуми!?
 
 少年「そ、そんな……バカなこと……」%K%P
 That's... crazy...
 CN PLACEHOLDER
-Да ну... быть не может...
+Но, это бред--
 
 少年「そんなバカなこと、あり得るわけないよ！」%K%P
 That's impossible!
@@ -21,12 +21,12 @@ CN PLACEHOLDER
 少年「だって……だって……あの子守歌は、ぼくと沙羅だけしか、知らないはずで……」%K%P
 Because... no one knows that lullaby except Sara and me...
 CN PLACEHOLDER
-Потому... что... никто не знает эту колыбельную, кроме нас с Сарой...
+И...никто не знает эту колыбельную, кроме Сары и меня...
 
 ココ「ふふふふふふふふっ♪」%K%P
 Hahahahaha〜
 CN PLACEHOLDER
-Хе-хе-хе-хе-хе-хе!
+Не〜хе〜хе〜хе〜хе〜хе〜〜〜!
 
 少年「どうして……？　どうして……笑うの……？」%K%P
 Why...? Why... are you laughing?
@@ -36,27 +36,27 @@ CN PLACEHOLDER
 ココ「ホクたん？　自分で言ってること、変だと思わない？」%K%P
 Hokutan? Don't you think it's strange, what you're saying?
 CN PLACEHOLDER
-Хокутан... Тебе ничего не показалось странным... в твоих словах?
+Хокутан...в своих словах...тебе ничего не кажется странным?
 
 少年「えっ！？」%K%P
 What!?
 CN PLACEHOLDER
-Что?!
+Что!?
 
 ココ「ホクたんは今、混乱しちゃってるんだ」%K%P
 Right now, you're a little confused.
 CN PLACEHOLDER
-Хокутан... сейчас ты слегка растерян.
+Хокуто...сейчас ты слегка растерян.
 
 ココ「だから、ついつい本音が出ちゃったんだよ」%K%P
 So you showed your true self for a minute.
 CN PLACEHOLDER
-Но только что на мгновение показался настоящий ты.
+Вот почему...на мгновение показался настоящий ты.
 
 ココ「ホクたんの中にいる本当の自分が、ぴょこって顔を出しちゃったの」%K%P
 The real you decided to poke his face out for a teensy-weensy second.
 CN PLACEHOLDER
-Хокутан... настоящий ты... показался на долю секунды.
+Хокутан...настоящий ты...показался на какое-то ничтожное мгновение.
 
 少年「？？？」%K%P
 ?
@@ -66,22 +66,22 @@ CN PLACEHOLDER
 ココ「いい、ホクたん？　よく考えてみて？」%K%P
 Listen, Hokutan. Think about it.
 CN PLACEHOLDER
-Эй, Хокутан? Хорошенько подумай.
+Эй, Хокутан? Ты меня слышишь?
 
 ココ「あの子守歌、つぐみんが知ってても、別に不思議じゃないよねぇ？」%K%P
 It's not really that strange for Tsugumin to know that lullaby, right?
 CN PLACEHOLDER
-Это ведь не так уж и странно, что Цугумин знает колыбельную.
+Это ведь не так уж и странно, что Цугуми знает колыбельную.
 
 ココ「だってマヨちゃんが、つぐみんに教えただけかもしれないじゃない？」%K%P
 Mayo-chan could have just taught it to Tsugumin, right?
 CN PLACEHOLDER
-Цугумин могла узнать её от Майо-тян, так?
+Майо же могла научить ей Цугуми, ведь так?
 
 ココ「で、つぐみんがココに教えてくれて……」%K%P
 And then Tsugumin taught it to me...
 CN PLACEHOLDER
-А я уже – от Цугумин...
+А Цугуми, в свою очередь, научила ей меня...
 
 少年「そんなはずないよ！」%K%P
 That's not possible!
@@ -96,57 +96,57 @@ CN PLACEHOLDER
 少年「それは……それは……」%K%P
 Because... Because...
 CN PLACEHOLDER
-Потому что... потому что...
+Потому что...потому что...
 
 ココ「答えられない、かな？」%K%P
 Maybe you can't answer that?
 CN PLACEHOLDER
-Ты не можешь дать... ответ?
+Ты не можешь дать...ответа?
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「じゃあ、ココが代わりに教えてあげる」%K%P
 Well then, I'll just answer for you.
 CN PLACEHOLDER
-Хорошо... Я отвечу за тебя.
+Хорошо......Коко ответит за тебя.
 
 ココ「ホクたんはね？　ココのいる世界に、マヨちゃんが存在しないことを、知ってるんだよ」%K%P
 You see, Hokutan, you know that Mayo-chan doesn't exist in the world I live in.
 CN PLACEHOLDER
-Хокутан, дело в том, что в моём мире Майо не существует.
+Хокутан, дело в том, что в мире Коко...Майо не существует.
 
 ココ「だから今――『そんなはずない！』――って言ったんだ」%K%P
 That's why you just said, 'That's not possible!'
 CN PLACEHOLDER
-Вот почему ты сказал „невозможно“.
+Вот почему ты сказал 'невозможно'.
 
 ココ「『つぐみんが子守歌を知ってるなんてあり得ない！』……そんなふうにホクたんが思っちゃったのも、実はそのせいなんだ」%K%P
 And that's the reason you thought that there was no way that Tsugumin could know that song.
 CN PLACEHOLDER
-И вот почему ты решил, что Цугумин не может знать этой песни.
+И вот почему ты решил, что Цугуми не может знать этой песни.
 
 ココ「ね？　そうでしょ？」%K%P
 Right?
 CN PLACEHOLDER
-Ну что? Я права?
+Ну, ведь правда?
 
 少年「えっ！？　えっ！？　えっ！？」%K%P
 What!? What!? What!?
 CN PLACEHOLDER
-Ч-ч-ч-что?!
+Ч-Ч-Ч-Ч-Чтоооо!?
 
 ココ「大丈夫だよぉ〜、怖がらなくてもいいの！」%K%P
 It's okay, you don't have to be scared!
 CN PLACEHOLDER
-Всё в порядке... здесь нечего бояться!
+Всё в порядке......здесь нечего бояться!
 
 ココ「もっと自分の気持ちに、正直になって？」%K%P
 Just be honest with your feelings, okay?
 CN PLACEHOLDER
-Просто... будь честен с самим собой.
+Просто...будь честен с самим собой.
 
 ココ「もう嘘なんて、つく必要ないんだから……」%K%P
 There's no reason for you to lie anymore.
@@ -161,7 +161,7 @@ CN PLACEHOLDER
 次から次へとわき上がる疑問に呑み込まれ、翻弄され、我を失いそうになる。%K%P
 I was being gobbled up by one problem after another, being chewed up for sport, and I felt like I was losing myself.
 CN PLACEHOLDER
-На меня валится одна беда за другой, я волнуюсь по поводу и без... а сейчас я просто схожу с ума.
+На меня валится одна беда за другой, я волнуюсь по поводу и без...а сейчас я просто схожу с ума.
 
 ぼくはまぶたをぎゅっと閉じ、大きく息を吸い込んで、現実との接点を保とうとした。%K%P
 I squeezed my eyes shut, took a big breath, and tried to maintain a grip on reality.
@@ -176,27 +176,27 @@ CN PLACEHOLDER
 少年「『ココのいる世界』って……それ、どういうことなの？」%K%P
 Um... 'The world I live in'... What does that mean?
 CN PLACEHOLDER
-В „твоём“ мире... Что это значит?
+Эээ...'мир Коко'...что это значит?
 
 ココ「ほらぁ〜、またそうやって、すぐ嘘つくんだからぁ〜」%K%P
 See now, there you go, lying again〜
 CN PLACEHOLDER
-Ну вот, опять за своё... бессовестный врунишка...
+Ну вот, опять за своё...бессовестный врунишка...
 
 ココ「ホクたんは、ココのいる世界のこと、知ってるはずでしょ？」%K%P
 You know aaaaall about the world I'm in, right?
 CN PLACEHOLDER
-Ты знаешь всё-превсё о мире, в котором живу я.
+Хокутан знает всё о мире, в котором живёт Коко.
 
 ココ「そこには、マヨちゃんがいなくて、つぐみんがケガしちゃって、顔の違うもうひとりの自分が存在して……」%K%P
 Mayo-chan's not there, and Tsugumin got hurt, and there's another you with a different face...
 CN PLACEHOLDER
-О том, что Майо не существует; о том, что Цугумин поранилась; о другом тебе с другим лицом...
+О том, что Майо не существует; о том, что Цугуми поранилась; о другом тебе, с другим лицом...
 
 ココ「そういうこと、ホクたんはぜぇ〜んぶ知ってるんだ」%K%P
 You know ALL that stuff.
 CN PLACEHOLDER
-Именно... Хокутан, ты всё-ё-ё это знаешь.
+Именно... Хокутан, ты всёёё это знаешь.
 
 ココのいる世界……。%K%P
 The world Coco was in...
@@ -221,42 +221,42 @@ CN PLACEHOLDER
 ……えっ？　……沙羅がいない、世界？%K%P
 ...What...? A world without Sara?
 CN PLACEHOLDER
-...Что? ...Там, где нет Сары?
+...что? ......там, где нет Сары?
 
 少年「そうだ！　そうだよ！　ココは、なんで沙羅のことなんか、知ってるんだよ！？」%K%P
 That's right! Hang on! Why do you know about Sara!?
 CN PLACEHOLDER
-Так! Погоди! Если тебя нет в этом мире, откуда ты знаешь о Саре?!
+Так! Погоди! Если тебя нет в этом мире, откуда ты знаешь о Саре!?
 
 ココ「あっ、やぁ〜っと本当の自分、出す気になったみたいね？」%K%P
 Hm? Are you fiiiinally ready to come clean, hmmm?
 CN PLACEHOLDER
-Ха, неужели ты наконец решил поговорить начистоту?
+Хааа, неужели ты наконец решил поговорить начистоту?
 
 ココ「うむうむ、ではお答えしましょう」%K%P
 Okay then, I'll tell you.
 CN PLACEHOLDER
-Что ж, тогда я отвечу.
+У〜гу, тогда я отвечу.
 
 ココ「ココはね？　なんでも知ってるから……」%K%P
 It's because... I know everything.
 CN PLACEHOLDER
-Видишь ли... Я знаю всё.
+Коко...знает абсолютно всё.
 
 ココ「なんでも知ってるから、マヨちゃんのことも知ってるの」%K%P
 I know everything, so I know about Mayo-chan.
 CN PLACEHOLDER
-Именно потому я не могу не знать о Майо-тян.
+Вот почему...я не могу не знать о Майо.
 
 ココ「それはどーしてかって言うと……ココには、ちょーのーりょくがあるからなの」%K%P
 And the reason for that is... I have ESP.
 CN PLACEHOLDER
-Потому что в действительности... Коко – медиум!
+Потому что, в действительности...Коко - медиум!
 
 ココ「うししししししししっ♪」%K%P
 Uheeheeheehee〜
 CN PLACEHOLDER
-И-хи-хи-хи-хи-хи-хи-хи-хи-хи-хи!
+И〜хи〜хи〜хи〜хи〜хи〜хи〜хи〜хи〜хи〜хи〜〜〜!
 
 少年「ごまかさないでよ！」%K%P
 Stop trying to mess with me!
@@ -266,7 +266,7 @@ CN PLACEHOLDER
 ココ「ごまかしてなんかいないも〜ん、本当のことなんだも〜ん」%K%P
 I'm not... It's true!
 CN PLACEHOLDER
-А я не пу-у-у-удрю... это пра-а-авда!
+А я не пудрююю...это правдааа〜〜〜!
 
 ココ「じゃあ逆に聞くけど……ホクたんは、どうしてココのこと、知ってるの？　知ってたの？」%K%P
 Okay, lemme ask you a question then. Hokutan, how come you know about me? Why DID you know about me?
@@ -276,37 +276,37 @@ CN PLACEHOLDER
 ココ「一番最初、加減圧室で会ったとき、ホクたんはココの名前、言ったよね？　なんでかなぁ？」%K%P
 That first time, when we met in the decompression chamber, you said my name, didn't you? And why would that be?
 CN PLACEHOLDER
-Когда ты впервые увидел меня, в той барокамере, ты назвал моё имя. Но почему?
+Когда ты впервые увидел меня, в той барокамере, ты назвал моё имя, не так ли? Но, почему?
 
 少年「そ、それは……予知の一種、みたいなもので……」%K%P
 It was... sort of like a premonition, an insight...
 CN PLACEHOLDER
-Это было... какое-то предчувствие, озарение...
+Это...было что-то вроде предчувствия, озарения...
 
 ココ「ふ〜ん……」%K%P
 Uh-hunh...
 CN PLACEHOLDER
-А-ха...
+Хммм...
 
 ココ「ほいじゃあさぁ、ピピのことは？」%K%P
 Well, what about Pipi?
 CN PLACEHOLDER
-Тогда как насчёт Пипи?
+Тогда, как насчёт Пипи?
 
 少年「――えっ！？」%K%P
 What!?
 CN PLACEHOLDER
-Что?!
+--Что!?
 
 ココ「ホクたん、ピピのことだって、知ってるはずだよ？」%K%P
 You know about Pipi, don't you, Hokutan?
 CN PLACEHOLDER
-Хокутан, ты знаешь, кто такой Пипи?
+Хокутан, ты знаешь, кто такой Пипи, не так ли?
 
 少年「し、知らないよ……そんなの……」%K%P
 No, I have no idea...
 CN PLACEHOLDER
-Нет... понятия не имею...
+Нет......понятия не имею......
 
 ココ「そう？　おっかしいなぁ〜」%K%P
 Oh? That's funny...
@@ -316,27 +316,27 @@ CN PLACEHOLDER
 ココ「あっ、ピピっていうのはね？　ココの飼ってる『子猫』のことなんだけどぉ……」%K%P
 Well, Pipi is this little kitten I have...
 CN PLACEHOLDER
-Ну, Пипи – это мой маленький котёнок!
+Ну, Пипи - это маленький любимец Коко, котик домашний, средней пушистостиии〜〜〜!
 
 少年「――猫！？」%K%P
 —A cat!?
 CN PLACEHOLDER
-Котёнок?!
+--Кот!?
 
 ココ「きゃははははははははっ♪」%K%P
 Nyahaaaahaahaaaa〜
 CN PLACEHOLDER
-Ха-ха-ха-ха-ха-ха!
+Ха〜ха〜ха〜ха〜ха〜ха〜〜〜!
 
 ココ「やぁ〜い、やぁ〜い、ひっかかった、ひっかかったぁ〜！」%K%P
 Gotcha, I gotcha, you fell for it!
 CN PLACEHOLDER
-Есть, есть, попа-а-ался, попа-а-ался!
+Ееесть, ееесть, попааался, попааался〜〜〜!
 
 ココ「今、ココが『子猫』って言ったとき、ビクッてしたよね？　ビクッてしたよね？」%K%P
 When I said 'kitten' just then, you did a double take! Right!?
 CN PLACEHOLDER
-Когда я сказала „котёнок“, ты просто оторопел, правда? Пра-а-авда?
+Когда я сказала 'котик', ты просто оторопел, правда? Прааавда?
 
 ココ「なんで驚いたりしたの？　どうして？」%K%P
 Why would that surprise you? Hm?
@@ -346,17 +346,17 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「ホクたん、ピピが『犬』だってこと、知ってたんでしょ？　だから驚いたんだよね？」%K%P
 Because you know that Pipi is really a dog! That's why!
 CN PLACEHOLDER
-Хокутан, ты знаешь, что на самом деле Пипи – это собака. Вот почему!
+Хокутан, ты знаешь, что на самом деле Пипи - это собака. Вот почему!
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「もうとぼけるのはおしまい。演技するのもおしまい」%K%P
 Stop acting. And stop playing dumb.
@@ -376,22 +376,22 @@ CN PLACEHOLDER
 ココ「ティーフブラウ・ウイルス……キュレイウイルス……ＩＢＦ……ピグマリオン……テラバイト・ディスク……」%K%P
 Tief Blau virus... Curé virus... IBF... Pygmalion... The terabyte disc...
 CN PLACEHOLDER
-Вирус Tief Blau... вирус Curé... IBF... Пигмалион... Терабайтовый диск...
+Вирус Tief Blau...вирус Curé...IBF... Пигмалион...терабайтовый диск...
 
 ココ「みーんなみーんな、どっかで聞いたことのある言葉でしょ？」%K%P
 All of them, all of them! You've heard all of those words before, haven't you?
 CN PLACEHOLDER
-Всё-всё! Ты ведь всё это уже слышал, я права?
+Всё〜всё! Ты ведь всё это уже слышал, я права?
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「ほいからほいから……こんなことも、覚えてるよね？」%K%P
 And this, this, I bet you remember this...
 CN PLACEHOLDER
-А ещё, а ещё... спорим, что ты помнишь...
+А ещё, а ещё...спорим, что ты помнишь...
 
 ココ「マヨちゃんと、水深３４ｍの海の中から脱出したこと……」%K%P
 How you and Mayo-chan escaped from 34 meters deep down under the sea...
@@ -406,42 +406,42 @@ CN PLACEHOLDER
 ココ「忘れちゃったなんて、嘘ついちゃダメだよ？　絶対覚えてるはずなんだから」%K%P
 Don't lie and say you forgot. I know you remember.
 CN PLACEHOLDER
-Пожалуйста, больше не лги... и не говори, что забыл... Я знаю, ты помнишь.
+Пожалуйста, больше не лги...и не говори, что забыл... Я знаю, ты помнишь.
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「ココもホクたんと一緒なんだよ」%K%P
 I'm the same as you.
 CN PLACEHOLDER
-Я... такая же, как ты.
+Коко...такая же как Хокутан.
 
 ココ「だから『ホクたんの世界のこと』も『ココの世界のこと』も、知ってるってわけ」%K%P
 That's why I know about the world you live in and the world I live in.
 CN PLACEHOLDER
-Вот почему ты знаешь о „мире Коко“, а я знаю о „мире Хокутана“.
+Вот почему Хокутан знает о 'мире Коко', а Коко знает о 'мире Хокутана'.
 
 ココ「どう？　納得した？」%K%P
 So? Do you understand now?
 CN PLACEHOLDER
-Ну? Теперь понял?
+Нууу〜〜〜? Теперь понял?
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「ココ、ホクたんの知ってることは、みんな知ってるの」%K%P
 I know everything you know.
 CN PLACEHOLDER
-Я знаю всё, что знаешь ты!..
+Коко...знает всё, что знает Хокутан...!
 
 ココ「しかも、しかもね？」%K%P
 And, and...
 CN PLACEHOLDER
-А ещё... а ещё...
+А ещё...а ещё...
 
 ココ「ホクたんがまだ知らないことまで、わかっちゃったりするんだ」%K%P
 I know some things that you don't know yet.
@@ -451,12 +451,12 @@ CN PLACEHOLDER
 ココ「『まだ知らないこと』っていうのはぁ……『これから知るであろうこと』っていう意味だよ？」%K%P
 Things you don't know yet means... things you will come to know later.
 CN PLACEHOLDER
-То, о чём ты не знаешь сейчас... То, о чём ты узнаешь, когда придёт время.
+То, о чём ты не знаешь сейчас...то, о чём ты узнаешь, когда придёт время.
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「とは言え……」%K%P
 But...
@@ -466,17 +466,17 @@ CN PLACEHOLDER
 ココ「こんなトッピョーシもないことを急に告げられても、頭ん中がぐちゃんぐちゃんになってて、理解できないかもしれないね？」%K%P
 Maybe I'm telling you way too much stuff, so your mind is getting all mixed up.
 CN PLACEHOLDER
-Наверное, я говорю слишком много всякого, от чего у тебя в голове всё перемешалось.
+Наверно...я говорю слишком много всякой всячины, поэтому у тебя в голове творится натуральный винегрет?
 
 ココ「だけど、必ずいつか、わかるときがくるから……」%K%P
 But I can tell you that you'll understand it one day...
 CN PLACEHOLDER
-Но могу тебя заверить, однажды ты всё поймёшь...
+Но, могу тебя заверить, однажды ты всё поймёшь...
 
 ココ「だから……もう一度だけ言うけど……」%K%P
 So... I'll say it again...
 CN PLACEHOLDER
-Поэтому... я скажу ещё разок...
+Поэтому...я скажу ещё разок...
 
 ココ「絶対に、自分に嘘をついちゃ、ダメだよ？」%K%P
 You absolutely can't lie to yourself, okay?
@@ -486,32 +486,32 @@ CN PLACEHOLDER
 ココ「いい？　わかった？」%K%P
 Okay? Understand?
 CN PLACEHOLDER
-Ну? Понял?
+Нууу...? Ты понимаешь?
 
 少年「わからない……わからないよ……わかるわけがないじゃないか！」%K%P
 I don't... I don't underst... Of course I don't understand!
 CN PLACEHOLDER
-Я... я не... я ничего не понимаю!
+Я не......я не......я ничего не понимаю!
 
 ココ「はぁ……やれやれ……」%K%P
 *Sigh*... Here we go again...
 CN PLACEHOLDER
-*вздох*%NОпять за своё...
+*вздох*...Опять за своё...
 
 少年「ココは……ココは……一体何者なの！？」%K%P
 Coco... Coco... What are you!?
 CN PLACEHOLDER
-Коко... Коко... Кто ты?!
+Коко... Коко... --Кто ты!?
 
 少年「どうして突然、ぼくの前に姿を現したの！？」%K%P
 Why did you suddenly appear in front of me!?
 CN PLACEHOLDER
-Почему ты всегда появляешься передо мной?!
+Почему ты всегда появляешься передо мной!?
 
 ぼくが言ったとたん、ココの表情がにわかに曇った。%K%P
 At those words, Coco's face suddenly clouded over.
 CN PLACEHOLDER
-И тут... лицо Коко помрачнело.
+И тут...лицо Коко помрачнело.
 
 眉根をきゅっと寄せ、頬をこわばらせるココ……。%K%P
 She scrunched up her face and drew her eyebrows together.
@@ -536,7 +536,7 @@ CN PLACEHOLDER
 ココ「ココ……キミのこと、待ってたんだ……」%K%P
 I've been... waiting for you.
 CN PLACEHOLDER
-Я... ждала... тебя.
+Коко...ждала...тебя.
 
 ココ「ずーっとずーっと、キミが来るのを待ってたんだ……」%K%P
 Waiting and waiting for you to come...
@@ -546,17 +546,17 @@ CN PLACEHOLDER
 ココ「逢いたくて……逢いたくて……逢いたくて……」%K%P
 I wanted to see you... more than anything...
 CN PLACEHOLDER
-Встретить тебя... встретить тебя... встретить тебя...
+Встретить тебя...встретить тебя...встретить тебя...
 
 ココ「もう一度……どうしてもキミに……逢いたくて……」%K%P
 I wanted to see you again...
 CN PLACEHOLDER
-Я хотела... снова... встретиться с тобой...
+Я хотела...снова...встретиться с тобой...
 
 ココ「たったひとりで……ひとりぼっちで……待ってたんだよ……」%K%P
 I've been waiting here by myself... All by myself...
 CN PLACEHOLDER
-Я ждала здесь одна... одна-одинёшенька... ждала и ждала...
+Я ждала здесь одна...одна одинёшенька...ждала и ждала...
 
 ココの言葉は、ぼくの胸にしんしんと降り積もり、淡雪のように溶けていった。%K%P
 Coco's words drifted into my heart and melted like a light snow.
@@ -586,12 +586,12 @@ CN PLACEHOLDER
 ココ「……………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「……………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ふいに、ココは小さく笑った。%K%P
 Coco laughed softly.
@@ -611,7 +611,7 @@ CN PLACEHOLDER
 ココ「ごめん、もう行かなくちゃ」%K%P
 I'm sorry, I have to go.
 CN PLACEHOLDER
-Прости, мне пора...
+Прости...мне пора...
 
 ココ「またしばらくの間、お別れだね？」%K%P
 We'll be apart again for a little while.
@@ -621,7 +621,7 @@ CN PLACEHOLDER
 少年「……えっ？」%K%P
 What?
 CN PLACEHOLDER
-Что?
+...эээ?
 
 ココ「ほいじゃあ、消えちゃう前に、ひとつだけ、いいこと教えてあげる」%K%P
 Okay, before I go, I'll tell you something pretty juicy.
@@ -631,17 +631,17 @@ CN PLACEHOLDER
 ココ「って言うか、もう気づいてると思うけど……」%K%P
 But I'm pretty sure you've already figured it out...
 CN PLACEHOLDER
-Но наверняка ты уже и сам догадался...
+Но, наверняка ты уже и сам догадался...
 
 少年「……？」%K%P
 ...?
 CN PLACEHOLDER
-?..
+......?
 
 ココ「ホクたんが見たあの夢は、夢じゃないからね？」%K%P
 Hokutan, that dream you saw, it wasn't a dream.
 CN PLACEHOLDER
-Хокутан... сон, который ты видел... это никакой не сон.
+Хокутан...сон, который ты видел...это никакой не сон.
 
 ココ「現実に、起こったことだからね？」%K%P
 It actually happened, okay?
@@ -651,12 +651,12 @@ CN PLACEHOLDER
 ココ「今、ココが言ったこと、忘れないでよ？」%K%P
 Don't forget what I just said, alright?
 CN PLACEHOLDER
-...помни о том, что я сказала. Ладушки?
+...помни о том, что сказала Коко. Ладушки?
 
 少年「……………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「じゃあね？　ホクたん」%K%P
 See you later, Hokutan.
@@ -671,7 +671,7 @@ CN PLACEHOLDER
 ともし火が、迷い込んだ夜風に吹き消されるように……ひっそりと、音も無く……。%K%P
 Without a sound, just... gone, like a candle snuffed out by a wandering night draft...
 CN PLACEHOLDER
-Словно пламя свечи, потушенное порывом ночного ветра... она исчезла...
+Словно пламя свечи, потушенное порывом ночного ветра...она исчезла...
 
 その瞬間、ぼくの意識もふっと消え失せた。%K%P
 And then I lost consciousness.
@@ -696,52 +696,52 @@ CN PLACEHOLDER
 ココ「ココちゃんのショートコント――もしもイルカが、イクラだったら」%K%P
 It's the Coco-chan show! First skit—What if a dolphin were salmon roe...
 CN PLACEHOLDER
-Коко... представляет! Сценка первая: если бы дельфин был икрой лосося!
+Коко...представляет! Сценка первая: если бы дельфин...был икрой лосося...!
 
 ココ「『おお、今日は大漁だなぁ、すごい量のシャケが捕れたぞ？』」%K%P
 'Wow, big load today, tons of salmon!'
 CN PLACEHOLDER
-„Ого, какой большой сегодня улов!“
+'Ого, какой большой сегодня улов!'
 
 ココ「『どれどれ、腹をかっさばいてみるとするか……』」%K%P
 'Let's see, open 'em up...'
 CN PLACEHOLDER
-„Давай-ка посмотрим, есть ли в них икра!“
+'Давай-ка посмотрим, есть ли в них икра!'
 
 ココ「『ザクザク……ザクザク……』」%K%P
 'Cut... Cut...'
 CN PLACEHOLDER
-„Чирк-чирк... чирк-чирк...“
+'Чирк〜чирк......чирк〜чирк......'
 
 ココ「『うぉーっ、なんじゃこりゃーっ！　イルカがいっぱい出て来たぁーっ！　２００匹ぐらい出て来たーっ！』」%K%P
 'Whoah, what's this!? Dolphins are pouring out of the salmon! Hundreds of them!'
 CN PLACEHOLDER
-„Ого, что это?! Дельфины валятся из лосося! Да тут штук двести!“
+'Ого〜〜〜, что это〜〜〜!? Дельфины валятся из лосося〜〜〜! Да тут штук двести〜〜〜!'
 
 ココ「『やべぇーっ！　やべーよぉーっ！　母ちゃん！　母ちゃん！　大変だぁーっ！』」%K%P
 'Oh no! Oh no! Mom! Mommy! Emergency!'
 CN PLACEHOLDER
-„О нет! О нет! Бежим! Бежим! Спасайся кто может!“
+'Ой чёрт! Ой чёёёрт! Бежим! Бежим! Спасайся кто может!'
 
 ココ「きゃははははははははは♪」%K%P
 Bwahahahaha〜
 CN PLACEHOLDER
-Ха-ха-ха-ха-ха-ха-ха-ха-ха!
+Ха〜ха〜ха〜ха〜ха〜ха〜ха〜ха〜ха〜〜〜!
 
 ココ「にゃははははははははは♪」%K%P
 Heeheeheehee〜
 CN PLACEHOLDER
-Ха-ха-ха-ха-ха-ха-ха!
+Ха〜ха〜ха〜ха〜ха〜ха〜ха〜〜〜!
 
 俺が立ちくらみを覚えたのは、ココのマイクロウェーブに殺られたせいだ。%K%P
 The reason I had blacked out must have been Coco's microwaves. They got me.
 CN PLACEHOLDER
-Должно быть, я вырубился из-за микроволн, излучаемых Коко.
+Должно быть, я вырубился из-за микроволн, излучаемых Коко. У меня передозировка.
 
 いまだに耐性ができていないらしい。……つらい。%K%P
 I still hadn't built up immunity to them... It was pretty rough.
 CN PLACEHOLDER
-До сих пор не выработался стойкий иммунитет... Какой ужас.
+И до сих пор не выработался стойкий иммунитет... Какой ужас.
 
 にもかかわらず、懲りもせずにココの元へと足を運んでしまうのはなぜだろう？%K%P
 Why didn't I ever learn? Why was it that every time I wandered around, my feet kept taking me to her?
@@ -756,67 +756,67 @@ CN PLACEHOLDER
 何か得体の知れぬ妖しい周波数を用いて、ココが俺のことを誘っているのではないか？　という気さえする。%K%P
 I wondered if she was drawing me to her with some mysterious frequency.
 CN PLACEHOLDER
-Интересно, может, она воздействует на меня какими-нибудь чарами?
+Интересно, может она воздействует на меня какими-нибудь чарами?
 
 ともかく……%K%P
 Anyway...
 CN PLACEHOLDER
-Э-э... в общем, как бы там ни было...
+Эээ...в общем, как бы там ни было...
 
 朝食を取り終えた俺は、ＬｅＭＵの中をフラフラと歩いているうちに、ここ（キャラクターグッズの売店）へと吸い寄せられてしまったのだった。%K%P
 Having finished breakfast, I wandered around LeMU and got sucked into the souvenir shops.
 CN PLACEHOLDER
-Доев завтрак, я шатался по LeMU и... узрел Коко, когда рассматривал логотип с дельфином у сувенирной лавки.
+Доев завтрак, я шатался по LeMU и...узрел Коко, когда рассматривал логотип с дельфином у сувенирного киоска.
 
 ココ「ココちゃんのショートコント――もしもイルカが、御遺体だったら」%K%P
 Coco-chan's jokes—If a dolphin... was a corpse!
 CN PLACEHOLDER
-Коко... представляет! Сценка вторая: если бы дельфин был покойником!
+Коко...представляет! Сценка вторая: если бы дельфин...был покойником!
 
 ココ「『しくしくっ、しくしくっ、どうも遠いところ、わざわざありがとうございます』」%K%P
 'Oh, thank you for coming such a long way...'
 CN PLACEHOLDER
-„*хнык* *хнык* Спасибо, что проделали столь долгий путь...“
+'*Хнык*...*хнык*...спасибо, что проделали столь долгий путь...'
 
 ココ「『このたびは御愁傷様です……』」%K%P
 'My sincere condolences...'
 CN PLACEHOLDER
-„Мои искренние соболезнования...“
+'Мои искренние соболезнования...'
 
 ココ「『主人の顔、見てやっていただけますか？』」%K%P
 'Would you like to see my husband's face?'
 CN PLACEHOLDER
-„Вы не против взглянуть на моего мужа... в последний раз?“
+'Вы не против взглянуть на моего мужа...в последний раз?'
 
 ココ「『ええ……では、失礼して……』」%K%P
 'Oh, well, certainly...'
 CN PLACEHOLDER
-„Ох... да, разумеется...“
+'Ох...да, разумеется...'
 
 ココ「『パカッ……パカッ……』」%K%P
 'Click... Click...'
 CN PLACEHOLDER
-„Щёлк... щёлк...“
+'Щёлк...щёлк...'
 
 ココ「『うぉーっ、なんじゃこりゃーっ！　イルカが永眠してるぅーっ！　しかもアオ向けだーっ！』」%K%P
 'Whoah! An eternally sleeping dolphin! And it's belly-up, too!'
 CN PLACEHOLDER
-„Ого! Боже мой! Дельфин уснул навеки! Да ещё брюхом кверху!“
+'Ого! Боже мой! Дельфин уснул навеки! Да ещё кверху брюхом!'
 
 ココ「『【安らかな死に顔ですねぇ、今にも起きて来そうだなぁ〜】って言えねぇーっ！　だって顔わかんねぇーんだもーん！』」%K%P
 'He looks so peaceful... as if he'd jump up any second...' Except you couldn't say that, because you wouldn't be able to see his face!
 CN PLACEHOLDER
-„Я бы сказал: 'Он выглядит таким спокойным... будто проснётся и вскачет в любую секунду'... если бы не его страшная морда!“
+'Я бы сказал 'Он выглядит таким спокойным... будто проснётся и вскачет в любую секунду'... если бы не его страшная харя!'
 
 ココ「きゃははははははははは♪」%K%P
 Bwahahahaha〜
 CN PLACEHOLDER
-Ха-ха-ха-ха-ха-ха-ха-ха-ха!
+Ха〜ха〜ха〜ха〜ха〜ха〜ха〜ха〜ха〜〜〜!
 
 ココ「にゃははははははははは♪」%K%P
 Heeheeheehee〜
 CN PLACEHOLDER
-Ха-ха-ха-ха-ха-ха-ха!
+Ха〜ха〜ха〜ха〜ха〜ха〜ха〜〜〜!
 
 ココは大きなイルカのぬいぐるみに抱きついて、足をバタバタと振っている。%K%P
 Coco pattered along, shaking a huge stuffed dolphin.
@@ -846,7 +846,7 @@ CN PLACEHOLDER
 と言ってもココは、もう１４歳なんだよなぁ。%K%P
 But Coco was fourteen.
 CN PLACEHOLDER
-Но... Коко 14 лет.
+Но...Коко 14 лет.
 
 ぬいぐるみと戯れる１４歳の少女……。%K%P
 A fourteen-year-old who still played with stuffed animals...
@@ -856,27 +856,27 @@ CN PLACEHOLDER
 『果たして、この子はこのまま成長してしまってもいいのだろうか？』などと、ふと思う。%K%P
 I wondered if it was really alright to let her just grow up like that?
 CN PLACEHOLDER
-Я вот думаю, а нормально ли давать ей расти вот так?
+Я вот думаю, неужели дети не должны взрослеть?
 
 だが、天真爛漫な彼女の笑顔を見ていると、言い諭す気にはなれない。%K%P
 But when I saw her innocent, laughing face, I didn't have the heart to scold her.
 CN PLACEHOLDER
-Но когда я вижу её невинное, полное радости личико, у меня не хватает духу ругаться на неё.
+Но, когда я вижу её невинное, полное радости личико, у меня не хватает духу ругаться на неё.
 
 『やっぱりこのままでいるのが、ココにとっては一番幸せなのかもしれないなぁ』と、すぐに考えを改めた。%K%P
 I supposed she would probably be happiest just being the way she was.
 CN PLACEHOLDER
-Думаю, самое большое человеческое счастье – быть самим собой, что Коко с огромным успехом и делает.
+Думаю, самое большое человеческое счастье - быть самим собой, что Коко с огромным успехом и делает.
 
 爆笑を続けるココ……を、傍観する俺……。%K%P
 Coco continued to crack herself up... and I... continued to watch...
 CN PLACEHOLDER
-Она продолжает валять дурака... а я... продолжаю за ней наблюдать...
+Она продолжает валять дурака...а я...продолжаю за ней наблюдать...
 
 ようやく笑いが引いてきたところで、俺は声をかけた。%K%P
 When her amusement died down a little, I called to her.
 CN PLACEHOLDER
-Когда она слегка подуспокоилась, я обратился к ней.
+Когда её веселье слегка поубавилось, я решил к ней обратиться.
 
 武「なあ、ココ？　ピピはどうしたんだ？」%K%P
 Hey, Coco? Where's Pipi?
@@ -886,7 +886,7 @@ CN PLACEHOLDER
 ココ「えっ？　ピピ？　ピピだったら、その辺にいると思うけど……」%K%P
 Pipi? I think he's right over there somewhere...
 CN PLACEHOLDER
-А-а-а? Пипи? Пипи, кажется, пошёл куда-то туда...
+Ааа? Пипи? Пипи, кажется, пошёл куда-то туда...
 
 俺は店内を見まわした。%K%P
 I looked around the kiosk.
@@ -896,7 +896,7 @@ CN PLACEHOLDER
 ピピ「うぅぅっ……うぅぅっ……うぅぅぅぅっ……！」%K%P
 *Wooo*... *Wooo*... *Woo*...!
 CN PLACEHOLDER
-Гр-р-р... Гр-р-р... Гр-р-р!..
+Гррр...Гррр...Гррр...!
 
 いた。%K%P
 There.
@@ -911,67 +911,67 @@ CN PLACEHOLDER
 レミュールのぬいぐるみだった。よっぽどアレが気に入ったらしい。%K%P
 It was a stuffed lemur doll. He seemed completely engrossed in it.
 CN PLACEHOLDER
-Это плюшевый лемур. Похоже, пёс целиком и полностью поглощён процессом.
+Это плюшевый Лемур. Похоже, пёс целиком и полностью поглощён процессом.
 
 ココ「ところでたけぴょんは、そんなところで何やってるの？」%K%P
 Hey, Takepyon, what'cha doin' over there?
 CN PLACEHOLDER
-Ах да, Такэпён, а что ты тут делаешь?
+Ах да, Такепён, а что ты тут делаешь?
 
 武「さあ〜？　何やってるんだろうな、俺」%K%P
 Hm? What am I doing, huh?
 CN PLACEHOLDER
-Хм-м? Что делаю?
+Хмм? Спрашиваешь, что я делаю?
 
 武「ココの楽しそうな姿を見てると、こっちまで心が和むと言うか何と言うか……」%K%P
 You look so happy that just watching you is making me happy...
 CN PLACEHOLDER
-Просто... ты выглядела такой счастливой, что, глядя на тебя, мне самому стало весело...
+Просто...ты выглядела такой счастливой, что, глядя на тебя, мне самому стало весело...
 
 武「そんなわけで、ココの姿を見ることによって、ささやかな安らぎなんてものに、浸っていたのかもしれないな、もしかすると」%K%P
 So I guess you could say that by watching you, I've slipped into a happy, stupid state...
 CN PLACEHOLDER
-Так что можно сказать... Глядя на тебя, я вновь почувствовал себя по-детски счастливым...
+Так что...эмм...можно сказать...глядя на тебя, Коко, я вновь почувствовал себя по-детски счастливым...
 
 ココ「えへっ♪」%K%P
 Ehe〜
 CN PLACEHOLDER
-Хи-хи!
+Хи〜хи!
 
 ココ「もしかしてたけぴょん、ココにほれちゃった？」%K%P
 Takepyon, you're falling in love with me, aren't you?
 CN PLACEHOLDER
-Слушай, Такэпён, а ты, часом, не влюбился?
+Слушай, Такепён, а ты часом не влюбился?
 
 武「……は？」%K%P
 ...What?
 CN PLACEHOLDER
-...Что?
+......эээ?
 
 ココ「ほれちゃったんだろ？　ほれちゃったんだろ？　こんにゃろ、こんにゃろ！」%K%P
 You like me, you like me, don't you!
 CN PLACEHOLDER
-Влюбился в меня? Влюбился в меня? О боже, о боже!
+Влюбился в меня? Влюбился в меня? О Боже, о Боже!
 
 ココ「ちっきしょーっ♪　やべーっ♪　告られた、告られた、告られちまったぁーっ♪」%K%P
 Wow〜 I can't believe it〜 He's finally told me how he feels〜
 CN PLACEHOLDER
-Здорово! Невероятно! Он признался, признался, призна-а-ался!
+Здорово! Невероятно! Он признался, признался, призналсяяя〜〜〜!
 
 ココ「はずかちーっ♪　照れるぅーっ♪」%K%P
 How embarrassing〜 I'm blushing〜
 CN PLACEHOLDER
-Ай, как стыдно! Так засмущал!
+Какой стыыыд〜〜〜! Дьявол〜〜〜!
 
 ココ「やだぁー、やだぁー、もう、どうしよー、どうしよーっ♪」%K%P
 Oh my gosh, oh my gosh! A crush! What'll I do?
 CN PLACEHOLDER
-Не-е-ет, не-е-ет! Влюбился! Что мне делать?
+Нееет, нееет! Влюбился〜〜〜 бился〜〜〜!
 
 ――ボフボフッ！　――ボフボフッ！%K%P
 —Bam! Bam!
 CN PLACEHOLDER
-Бух! Бух!
+--Бух! --Бух!
 
 ココは右手の拳を握りしめ、イルカのわき腹に強烈なフックをお見舞いしていた。%K%P
 Coco balled up her fists and started popping the dolphin's belly with brutal right hooks.
@@ -986,7 +986,7 @@ CN PLACEHOLDER
 中綿が、出て来た……。%K%P
 Until the cotton started to come out...
 CN PLACEHOLDER
-Пока, наконец, живот не лопнул по шву, и из него не полезла вата...
+Пока, наконец, живот не лопнул по шву и из него не полезла вата...
 
 ココ「ほいじゃあ、お礼と言ってはなんだけど……」%K%P
 Well, to thank you...
@@ -996,27 +996,27 @@ CN PLACEHOLDER
 ココ「ココの新作のコメッチョ、聞かせてあげようか？」%K%P
 Shall I tell you a new joke?
 CN PLACEHOLDER
-Я расскажу тебе амекдот, ты не против?
+...Коко расскажет тебе амекдот, ты не против?
 
 武「コ、コメッチョ！？　いいよいいよ……」%K%P
 Aw, no, that's okay...
 CN PLACEHOLDER
-А-амекдот?! Нет, не стоит...
+А-Амекдот?! Нет, не стоит...
 
 ココ「えーっ、どうしてぇーっ！？　遠慮しなくてもいいのにぃーっ！」%K%P
 Why not!? You don't have to be polite!
 CN PLACEHOLDER
-Э-э?! Почему?! Ответ „нет“ не принимается!
+Эээ?! Почему?! Ответ 'нет' не принимается!
 
 武「いや、遠慮とかそういうんではなく……」%K%P
 Oh, believe me, I'm not being...
 CN PLACEHOLDER
-Нет, может, лучше не стоит?..
+Н-Нет, м-может лучше не стоит...?
 
 ココ「ココちゃんのアメリカンジョーク――看護婦と医者」%K%P
 Coco-chan's joke—about the doctor and the nurse.
 CN PLACEHOLDER
-Коко... представляет! Американский анекдот: „Про доктора и медсестру“.
+Коко...представляет! Американский анекдот: 'Про доктора и медсестру'.
 
 俺の弁解になど耳も貸さず、ココはコメッチョを話し始めてしまった。%K%P
 Ignoring my pleas, Coco launched into her joke.
@@ -1051,32 +1051,32 @@ CN PLACEHOLDER
 作り笑いさえためらわせるほど、つまらなかったのだ。%K%P
 It was so bad, in fact, that I couldn't even muster a polite chuckle.
 CN PLACEHOLDER
-Настолько ужасным, что я даже не смог выдавить из себя даже маленького смешка.
+Настолько ужасным, что я даже не смог выдавить из себя пусть даже маленького смешка.
 
 それはこんな内容だった……。%K%P
 It went like so...
 CN PLACEHOLDER
-Анекдот был примерно такого содержания.
+Но, не надо мне сочувствовать, потому что сейчас его узнаешь и ТЫ! Краткое содержание...
 
 とある病院に勤務していた看護婦のケイトは、医者のロバートを熱烈に愛していた。%K%N
 A nurse named Kate was desperately in love with Robert, a doctor who worked at the same hospital.
 CN PLACEHOLDER
-Медсестра по имени Кейт без памяти влюбилась в Роберта, доктора, работающего с ней в одной больнице.
+Медсестра по имени Кэти без памяти влюбилась в Роберта, доктора, работающего с ней в одной больнице.
 
 ロバートもまた、ケイトに夢中だった。%K%N
 Robert was crazy about Kate as well.
 CN PLACEHOLDER
-Роберт также был без ума от Кейт.
+Роберт также был без ума от Кэти.
 
 ケイトは部屋の左側に立ち、ロバートは部屋の右側に立っていた。%K%N
 Kate stood on the left side of the room, and Robert stood on the right.
 CN PLACEHOLDER
-Кейт стояла с левой стороны комнаты, а Роберт с правой.
+Кэти стояла с левой стороны комнаты, а Роберт с правой.
 
 ケイトはしずしずと白衣を脱いで、クローゼットの扉にかけた。%K%O
 Kate slipped out of her white uniform and hung it on the closet door.
 CN PLACEHOLDER
-Кейт сбросила свой белый халат и повесила его на дверь шкафа.
+Кэти сбросила свой белый халат и повесила его на дверь шкафа.
 
 ロバートは少し慌てた様子で衣服を脱ぎ、無造作に床の上へと放り投げた。%K%N
 Robert stripped his uniform off in a bit of a hurry and simply dropped it on the floor.
@@ -1086,17 +1086,17 @@ CN PLACEHOLDER
 ケイトはおパンツを下ろした。ロバートもトランクスを脱ぎ捨てた。%K%N
 Kate lowered her panties. Robert threw off his boxers.
 CN PLACEHOLDER
-Кейт спустила свои трусики. Роберт выбросил свои семейные трусы.
+Кэти спустила свои трусики. Роберт выбросил свои семейные трусы.
 
 ケイトの体のラインはなめらかで美しく、ロバートの肉体もりりしく引きしまっていた。%K%N
 Kate's body was lovely and supple, and Robert was lean and muscled.
 CN PLACEHOLDER
-Очертания тела Кейт были изящны и красивы, а тело Роберта – стройным и мужественным.
+Кэти была сексапильной и гибкой, а Роберт подтянутым и мускулистым.
 
 ケイトは、この日の為に用意していたシルクのパジャマを着た。%K%N
 Kate put on the silk pajamas she had bought for the occasion.
 CN PLACEHOLDER
-Кейт надела недавно купленную шёлковую пижаму.
+Кэти надела недавно купленную шёлковую пижаму.
 
 ロバートは裸のままで、部屋の電気を消した。%K%O
 Still naked, Robert turned off the light.
@@ -1106,7 +1106,7 @@ CN PLACEHOLDER
 ベッドの左側に立っていたケイトは、ゆっくりと右を向いた。%K%N
 Standing on the left of the bed, Kate turned slowly to the right.
 CN PLACEHOLDER
-Стоя с левой стороны кровати, Кейт медленно повернулась направо.
+Стоя с левой стороны кровати, Кэти медленно повернулась направо.
 
 ベッドの右側に立っていたロバートも流れるように左を向く……。%K%N
 On the right of the bed, Robert turned easily to the left...
@@ -1116,22 +1116,22 @@ CN PLACEHOLDER
 そして……ふたりはベッドに飛び込み、むさぼるように……眠った。%K%N
 And they jumped into the bed and... slept.
 CN PLACEHOLDER
-И тут... они запрыгнули в кровать и... заснули.
+И тут...они запрыгнули в кровать и...заснули.
 
 ちなみに、その夜のケイトの寝床は『病院の宿直室』で、ロバートが眠りについた場所は『自宅の寝室』だった。%K%O
 Oh, by the way, Kate was sleeping in the night duty room, and Robert was sleeping in his room at home.
 CN PLACEHOLDER
-Ах да, Кейт спала в кабинете ночного дежурства, а Роберт в спальне, у себя дома.
+Ах да, Кэти спала в кабинете ночного дежурства, а Роберт в спальне, у себя дома.
 
 『ん？　どうしたんだい、その顔は？』%K%N
 “Hey, what's with the face?”
 CN PLACEHOLDER
-«Эй? Что с твоим лицом?»
+'Ау? Что это с твоим лицом?'
 
 『ははぁ〜ん、さては、変な想像でもしてたんだろ！　こんにゃろ、こんにゃろ！』%K%N
 “Haaa, I bet you were imagining something dirty, weren't you!”
 CN PLACEHOLDER
-«Ха-ха! Что, Такэси, воображение разыгралось? Ещё бы, ещё бы!»
+'Ха〜ха! Что, Такеши, воображение разыгралось? Ещё бы, ещё бы!'
 
 というような感じのオチであった……。%K%O
 That was the punch line.
@@ -1141,12 +1141,12 @@ CN PLACEHOLDER
 ココ「わぁーひゃっひゃっひゃっひゃっひゃっひゃっひゃっ♪」%K%P
 Heeheehehehehe〜
 CN PLACEHOLDER
-А-а-ахи-хи-хи-хи-хи-хи-хи-хи-хи-хи-хи-хи-хи-хи-хи-хи-хи!
+Ааа〜хи〜хи〜хи〜хи〜хи〜хи〜хи〜хи〜хи〜хи〜хи〜хи〜хи〜хи〜 хи〜хи〜хи〜〜〜!
 
 ココは、太平洋中に響き渡るぐらいの巨大な声で笑っていた。%K%P
 Coco's laugh was loud enough to hear across the Pacific Ocean.
 CN PLACEHOLDER
-Её смех столь громкий, что наверняка разносится по всему Тихому океану.
+Её смех столь громок, что наверняка разносится по всему Тихому Океану.
 
 今、この付近を航行している原潜があるとすれば、そのソナーマンもきっとつられて笑っていることだろう。%K%P
 If there were any nuclear submarines nearby, their sonar guys were probably laughing too.
@@ -1166,7 +1166,7 @@ CN PLACEHOLDER
 可笑しくもないコメッチョを可笑しがっているココが可笑しかったのだ。%K%P
 But Coco was so amused at the unamusing joke that it was hilarious.
 CN PLACEHOLDER
-Но похоже, этот «не смешной» анекдот так забавляет Коко, что забавно само по себе.
+Но, похоже, этот 'не смешной' анекдот столь забавляет Коко, что забавно само по себе.
 
 平和だなぁ……。%K%P
 All was well...
@@ -1191,12 +1191,12 @@ CN PLACEHOLDER
 ココの無邪気さが、俺にまで伝染ってしまったのだろうか……。%K%P
 Maybe Coco's innocence was contagious...
 CN PLACEHOLDER
-Может, всё из-за невинных шалостей Коко?..
+Может всё из-за невинных шалостей Коко...?
 
 緊張感がまるでない。たるんでいる。%K%P
 I wasn't even tense. I was lounging around.
 CN PLACEHOLDER
-Знаете, как говорят? Дурной пример заразителен. Но у меня нет даже чувства напряжённости. Я просто валяю дурака.
+Знаете, как говорят? Дурной пример заразителен. Но, у меня нет даже чувства напряжённости. Я просто валяю дурака.
 
 このままでは少し危険かもしれない。%K%P
 If I stayed like that, it could be dangerous.
@@ -1206,12 +1206,12 @@ CN PLACEHOLDER
 ココは無邪気なままでもいいけれど、俺までもが浮かれていたら、いざと言うときに命取りにもなりかねないのだ。%K%P
 It was fine for Coco to be innocent, but if I got swept away in it, it could be fatal.
 CN PLACEHOLDER
-Коко может оставаться беззаботной, но если и я потеряю осторожность, это может быть фатально.
+Коко может позволить себе невинные шалости, но...если меня сметёт этой лавиной веселья, мне крышка.
 
 などと思いながらも、やはりどうしても、ココの笑顔を見ていると、警戒感を抱くことはできなかった。%K%P
 The thought ran through my head, but as I looked at her smiling face, I couldn't hold onto caution.
 CN PLACEHOLDER
-Я всё это понимаю, но, глядя на улыбку Коко, никак не могу сохранять осторожность.
+Но...глядя на её улыбчивую мордашку, все плохие мысли словно уносит прохладным майским ветром... Я чувствую себя так спокойно.
 
 平和過ぎる……。%K%P
 It was too peaceful...

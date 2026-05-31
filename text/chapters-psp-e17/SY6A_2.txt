@@ -6,7 +6,7 @@ CN PLACEHOLDER
 気がつくと、ぼくはベッドの上にいた。%K%P
 The next thing I knew, I was on a bed.
 CN PLACEHOLDER
-Следующее, что я понял – я на кровати.
+Следующее, что я понял - я на кровати.
 
 消毒薬の匂い……。%K%P
 It smelled of disinfectant...
@@ -41,7 +41,7 @@ CN PLACEHOLDER
 薄暗い……だが異常はない。%K%P
 The room was dim... but nothing seemed out of the ordinary.
 CN PLACEHOLDER
-В комнате темно... но вроде ничего необычного.
+В комнате темно...но, вроде, ничего необычного.
 
 それに、見覚えのある景色だった。%K%P
 It was scenery that I knew.
@@ -51,12 +51,12 @@ CN PLACEHOLDER
 （そうだ……ぼくは、救護室に戻って……）%K%P
 (Oh yeah... I'm back in the infirmary...)
 CN PLACEHOLDER
-(Ну да... я снова в лазарете...)
+(Ну да...я снова в лазарете...)
 
 ぼくはようやく、今のが夢だったのだと理解した。%K%P
 I finally realized that I had just been having a dream.
 CN PLACEHOLDER
-Всё ясно – это был просто сон.
+Всё ясно - это был просто сон.
 
 呼吸を整え、見た夢を追想しようとする。%K%P
 I got my breath back and thought back to the dream.
@@ -66,7 +66,7 @@ CN PLACEHOLDER
 （えーーと……）%K%P
 (Uh... Let's see...)
 CN PLACEHOLDER
-(Э-э... так, посмотрим...)
+(Ээ...так, посмотрим...)
 
 （………………）%K%P
 (.........)
@@ -76,7 +76,7 @@ CN PLACEHOLDER
 （…………？？）%K%P
 (............?)
 CN PLACEHOLDER
-(..........?)
+(............??)
 
 ついさっきまで鮮烈に覚えていたはずの光景は、霧がかかっていくように、夜空が雲に覆われていくように、ぼくの意識の中から消え失せてしまっていた。%K%P
 What had seemed so vivid only moments ago seemed to vanish from my mind like clouds covering the night sky.
@@ -86,7 +86,7 @@ CN PLACEHOLDER
 得体の知れない恐怖と、かすかな頭痛……夢の欠片だけを残して。%K%P
 All that was left was an unknown fear, a slight headache... and a fragment of a dream.
 CN PLACEHOLDER
-Остался лишь страх перед неизведанным, лёгкая головная боль... и фрагмент сна.
+Остался лишь страх перед неизведанным, лёгкая головная боль...и фрагмент сна.
 
 諦めて、もう一度周囲を見渡した。%K%P
 I gave up and looked around me.
@@ -121,7 +121,7 @@ CN PLACEHOLDER
 そこで、ふと気づいた。%K%P
 I suddenly noticed something.
 CN PLACEHOLDER
-Но тут я заметил нечто странное.
+Но, тут я заметил нечто странное.
 
 ぼくの寝ているベッドサイドに、うつぶせになって誰かが寝ている。%K%P
 There was someone lying face down next to my bed asleep.
@@ -141,7 +141,7 @@ CN PLACEHOLDER
 そんな格好で寝たら、翌朝、身体が痛くなってしまうのでは？　――と思う。%K%P
 I thought that she was going to be sore for sure after sleeping in that position.
 CN PLACEHOLDER
-После сна в таком положении у неё наверняка будет ломить всё тело.
+После сна в таком положении, у неё наверняка будет ломить всё тело.
 
 せめて風邪をひかないようにと、ぼくは彼女の背に毛布をかけてやろうとした。%K%P
 To at least keep her from catching a cold, I went to cover her with a blanket.
@@ -156,12 +156,12 @@ CN PLACEHOLDER
 優「う、う〜〜ん……」%K%P
 Hmmm...
 CN PLACEHOLDER
-Хм-м-м...
+Хммм...
 
 優「あ、あれぇ……少年〜？　おはよぉ」%K%P
 Oh... Kid? Good morning.
 CN PLACEHOLDER
-Ох... Малой? Доброе утро.
+Ох...Кид? Доброе утро.
 
 少年「あ、起こしちゃった？」%K%P
 Oh, did I wake you up?
@@ -171,7 +171,7 @@ CN PLACEHOLDER
 優「ううん、寝るつもりなかったんだけど、ついウトウトしちゃったみたい」%K%P
 No... I didn't mean to go to sleep. I guess I dozed off.
 CN PLACEHOLDER
-Нет... Я и не собиралась спать. Похоже, я задремала.
+Нет...я и не собиралась спать. Видимо меня просто сморило.
 
 優「う〜んしょっと！」%K%P
 Alright then!
@@ -181,7 +181,7 @@ CN PLACEHOLDER
 かけ声をかけて立ち上がる優。%K%P
 You shouted as she stood up.
 CN PLACEHOLDER
-Вставая, прокричала Ю.
+%P
 
 優「どう？　具合の方は？」%K%P
 So? How're you feeling?
@@ -196,17 +196,17 @@ CN PLACEHOLDER
 優「そんなわけないでしょ？　頻繁に幻聴聴いたり、幻覚みたり……絶対に精神が参ってる証拠だよ」%K%P
 How could you be? You've been hearing things, seeing things... and that's proof that your nerves are shot.
 CN PLACEHOLDER
-Это как? У тебя были слуховые и зрительные галлюцинации... да и нервы были на пределе.
+Это как? Тебя же преследовали слуховые и зрительные галлюцинации...да и нервы были на пределе.
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「このところ、毎晩、私に付き合わせてるからね。これでも責任感じてるんだぞ？」%K%P
 I've been looking out for you every night, so I feel kind of responsible.
 CN PLACEHOLDER
-Ты проводил со мной время каждую ночь, так что я в ответе за тебя.
+Я дежурила у твоей кровати каждую ночь, поэтому...в ответе за тебя.
 
 少年「優のせいじゃないよ」%K%P
 It's not your fault.
@@ -221,7 +221,7 @@ CN PLACEHOLDER
 そう言って、肩をすくめる優。%K%P
 Saying that, You shrugged her shoulders.
 CN PLACEHOLDER
-С этими словами Ю пожала плечами.
+С этими словами, Ю пожала плечами.
 
 少年「このベッド空けるから、優は寝なよ」%K%P
 I'm done with the bed, so you can sleep here, You.
@@ -241,7 +241,7 @@ CN PLACEHOLDER
 優「ふーん、そう……」%K%P
 Hmmm. I see...
 CN PLACEHOLDER
-Хм-м-м... ясно...
+Хммм... ясно...
 
 優はちょっと考え……%K%P
 You thought for a minute...
@@ -256,7 +256,7 @@ CN PLACEHOLDER
 少年「ああ、いいよ」%K%P
 Uh, sure.
 CN PLACEHOLDER
-Э-э, ага.
+Ээ, ага.
 
 こうして、恒例となりつつある『深夜の逢い引き』は、今夜も決行されることとなった。%K%P
 So we decided to hang out again that night in what seemed to be becoming a nightly ritual.
@@ -266,7 +266,7 @@ CN PLACEHOLDER
 レムリア遺跡。%K%P
 The Lemurian Ruins.
 CN PLACEHOLDER
-Лемурийские развалины.
+Лемурийские Развалины.
 
 ぼくらは、とある建物の屋根へとよじ登り、そこから望める景色を眺めていた。%K%P
 We climbed on top of the roof of one of the buildings and gazed out over the scenery.
@@ -281,12 +281,12 @@ CN PLACEHOLDER
 でも、敢えて理由を言うのなら……%K%P
 But if I was to take a stab at the reason...
 CN PLACEHOLDER
-Но если подумать...
+Но, если подумать...
 
 その日のレムリアが、あまりに美しかったから。%K%P
 It was probably because Lemuria was so beautiful then.
 CN PLACEHOLDER
-Наверное потому, что Лемурия сейчас красива как никогда ранее.
+Наверно потому, что Лемурия сейчас красива как никогда ранее.
 
 ぼくと優は、しばし無言のまま、遠くを見つめていた。%K%P
 For a while, the two of us were silent, just enjoying the view.
@@ -301,7 +301,7 @@ CN PLACEHOLDER
 少年「ねえ、そろそろ決着をつけようか」%K%P
 Let's get to the bottom of things.
 CN PLACEHOLDER
-Давай начнём добираться до сути.
+Начнём пожалуй добираться до сути.
 
 優「決着、って？」%K%P
 To the bottom of what?
@@ -321,7 +321,7 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「それと、ぼくの過去の真実」%K%P
 That and the truth about my past.
@@ -336,7 +336,7 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「それともうひとつ、ぼくら全員の過去の真実」%K%P
 That and one more thing: the truth about all of our pasts.
@@ -351,12 +351,12 @@ CN PLACEHOLDER
 少年「なぜ、ぼくらだけが閉じこめられ、外に出ることができないのか？」%K%P
 Why were we the only ones trapped here? Why couldn't we get out?
 CN PLACEHOLDER
-Почему мы – единственные, кто угодили в эту западню? Почему мы не можем выбраться?
+Почему мы - единственные, кто угодили в эту западню? Почему мы не можем выбраться?
 
 優「……………………」%K%P
 ..................
 CN PLACEHOLDER
-...
+..................
 
 少年「もう悶々と考えるのは、嫌なんだ」%K%P
 I'm tired of dwelling on this.
@@ -371,7 +371,7 @@ CN PLACEHOLDER
 優「あの、さ……少年」%K%P
 Um... Kid...
 CN PLACEHOLDER
-Э-э... Малой...
+Ээ...Кид...
 
 遠くを見つめがら、優。%K%P
 You stared into the distance.
@@ -386,12 +386,12 @@ CN PLACEHOLDER
 優「悪いんだけど、そういった話は、今日はやめよう？」%K%P
 I'm sorry, but could we just forget about that today?
 CN PLACEHOLDER
-Прости, но давай забудем на сегодня обо всём этом?
+Прости, но...может мы забудем на сегодня обо всём этом?
 
 少年「え？　どうして……？」%K%P
 Huh? Why...?
 CN PLACEHOLDER
-А? Почему?..
+Эээ? Почему...?
 
 優「なんだか疲れちゃった……」%K%P
 I just feel so tired...
@@ -406,7 +406,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 だったら、どういうつもりで、来たというのだろうか？%K%P
 I wondered why we had come there.
@@ -426,17 +426,17 @@ CN PLACEHOLDER
 優「私達はただ、目の前を通り過ぎていく瞬間瞬間の中でしか生きることはできない」%K%P
 All we can do is live in the moment with what's happening to us right this instant.
 CN PLACEHOLDER
-Всё, что мы можем – лишь жить настоящим. Тем, что происходит с нами сейчас, в эти самые мгновения.
+Всё, что мы можем - лишь жить настоящим, тем что происходит с нами сейчас, в эти самые мгновения.
 
 優「過去にも未来にも、飛んで行くことはできない」%K%P
 We can't hop back and forth to the past or the future.
 CN PLACEHOLDER
-Мы не можем скакать то в прошлое, то в будущее.
+Мы не можем скакать как блохи, то в прошлое то в будущее.
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「未来は、確かにやって来る」%K%P
 The future will come.
@@ -446,7 +446,7 @@ CN PLACEHOLDER
 優「けれどその瞬間が訪れるまで、未来はただの暗闇」%K%P
 But until that moment comes, the future is just like the dark.
 CN PLACEHOLDER
-Однако до этого момента оно не более очевидно, чем бездна.
+Однако, до этого момента оно не более очевидно, чем бездна.
 
 優「何も見えない」%K%P
 You can't see anything.
@@ -481,17 +481,17 @@ CN PLACEHOLDER
 優「遠のけば遠のくほど、闇の中にまぎれて見えなくなってしまう」%K%P
 The further that you get away from the present, the darker it is and the less you can see.
 CN PLACEHOLDER
-Чем дальше ты уходишь от настоящего, тем тусклее и темнее оно становится, тем меньше ты видишь.
+Чем дальше ты уходишь от настоящего, тем тусклее и темней оно становится, тем меньше ты видишь.
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 そして、ぼくのように記憶を失ってしまえば、それこそ真の闇……。%K%P
 To me, it seemed to lose your memory, like I had, made everything pitch black...
 CN PLACEHOLDER
-Для меня, потеря памяти – всё равно, что погружение в кромешную тьму...
+Для меня, потеря памяти - всё равно, что погружение в кромешную тьму...
 
 いや、無となる。%K%P
 No, rather, things became nothing.
@@ -506,12 +506,12 @@ CN PLACEHOLDER
 優「特に時の流れに対しては、盲目に等しい」%K%P
 Especially when it comes to time; we're essentially blind.
 CN PLACEHOLDER
-Особенно если дело касается времени – тут мы практически слепы.
+Особенно если дело касается времени - тут мы практически слепы.
 
 優「だから私は……私は……」%K%P
 That's why I... I...
 CN PLACEHOLDER
-Вот почему я... я...
+Вот почему я...я...
 
 優「今、この瞬間だけを大切にしようと思う」%K%P
 I just want to value this moment.
@@ -521,12 +521,12 @@ CN PLACEHOLDER
 優「過去や未来のことなんて、もうどうでもよくなっちゃったんだ」%K%P
 The past and the future... I don't care about them anymore.
 CN PLACEHOLDER
-Прошлое и будущее – они меня больше не волнуют.
+Прошлое и будущее - они меня больше не волнуют.
 
 少年「……………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ぼくは何も言えなくなってしまった。%K%P
 I was left speechless.
@@ -561,7 +561,7 @@ CN PLACEHOLDER
 けれど、優はそうじゃない。%K%P
 But You wasn't like that.
 CN PLACEHOLDER
-Но Ю совсем не такая.
+Но, Ю совсем не такая.
 
 かのドラゴンは、姫君の元から飛び去っていった。%K%P
 The dragon had left the damsel free.
@@ -571,22 +571,22 @@ CN PLACEHOLDER
 もはや……退治する必要はないのだ。%K%P
 There was no longer... any need to vanquish it.
 CN PLACEHOLDER
-И разбираться с ним... больше нет никакой нужды.
+И разбираться с ним...больше нет никакой нужды.
 
 ………………。%K%P
 ............
 CN PLACEHOLDER
-...
+............
 
 ………………。%K%P
 ............
 CN PLACEHOLDER
-...
+............
 
 ………………。%K%P
 ............
 CN PLACEHOLDER
-...
+............
 
 それから、どのくらい時間が経っただろうか。%K%P
 I didn't know how much time had passed.
@@ -621,12 +621,12 @@ CN PLACEHOLDER
 少年「さあ、そろそろ寝ようか？」%K%P
 So should we get some sleep?
 CN PLACEHOLDER
-Ну что, пошли спать?
+Ну что, может пойдём поспим?
 
 優「えっ？」%K%P
 Huh?
 CN PLACEHOLDER
-А?
+〜〜〜?
 
 少年「ん？」%K%P
 What?
@@ -636,7 +636,7 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「どうしたの？」%K%P
 What's wrong?
@@ -651,17 +651,17 @@ CN PLACEHOLDER
 優「もうちょっとだけ、一緒に、いたいかも……」%K%P
 I want to spend... just a little more time with you.
 CN PLACEHOLDER
-Постой... давай ещё немного побудем вместе.
+Постой, прошу...давай побудем вместе.
 
 少年「え？　でも……」%K%P
 Huh? But...
 CN PLACEHOLDER
-А? Но...
+〜〜〜? Но...
 
 『何もすることなんて、ないじゃないか』%K%P
 “But there's nothing for us to do, is there?”
 CN PLACEHOLDER
-«Но нам здесь больше нечего делать.»
+'Но, нам здесь больше нечего делать.'
 
 と言おうとした矢先……%K%P
 That was what I was about to say, but You said...
@@ -671,12 +671,12 @@ CN PLACEHOLDER
 優「きみと一緒にいると、なんだか、落ち着くの……だから……」%K%P
 There's something about being with you that relaxes me...
 CN PLACEHOLDER
-С тобой я чувствую себя так спокойно... поэтому...
+Не знаю почему, но...здесь уютно...поэтому...
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 再び腰を元に戻した。%K%P
 I sat down again where I was.
@@ -691,7 +691,7 @@ CN PLACEHOLDER
 優「ねえ？　私が今、なに考えてるかわかる？」%K%P
 Hey. Do you know what I'm thinking right now?
 CN PLACEHOLDER
-Знаешь, о чём я сейчас думаю?
+Эээ...как по-твоему...о чём я сейчас думаю?
 
 首を振るぼく。%K%P
 I shook my head.
@@ -706,17 +706,17 @@ CN PLACEHOLDER
 少年「そんなこと、急に言われても……」%K%P
 How am I supposed to know...?
 CN PLACEHOLDER
-Откуда я могу знать?..
+Откуда я могу знать...?
 
 優「タイムスリップしたんでしょ？」%K%P
 You traveled through time, right?
 CN PLACEHOLDER
-Ты разве не путешественник во времени?
+И это говорит мне путешественник во времени?
 
 優「同じ出来事を経験したことがあるんでしょ？」%K%P
 You experienced all this before, right?
 CN PLACEHOLDER
-Ты пережил всё это и раньше, так?
+Ты пережил всё это и раньше, правда?
 
 優「だったら、これから私が何をするのか、知ってるはずじゃない」%K%P
 In that case, you should know what I'm about to do.
@@ -736,7 +736,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「あててみて？」%K%P
 So guess.
@@ -751,27 +751,27 @@ CN PLACEHOLDER
 少年「何か……するの？」%K%P
 Are... you going to do something?
 CN PLACEHOLDER
-Ты... хочешь что-то сделать?
+Угадать...что ты хочешь сделать?
 
 優「うん、たぶん」%K%P
 Yeah, probably.
 CN PLACEHOLDER
-Да... наверное.
+Да...наверно.
 
 少年「何を……するの？」%K%P
 What... are you going to do?
 CN PLACEHOLDER
-Что... ты хочешь сделать?
+Что...что ты хочешь сделать?
 
 優「だから、当ててみてって言ってるでしょ？」%K%P
 I keep telling you to guess, right?
 CN PLACEHOLDER
-Вот почему... я прошу тебя угадать.
+Вот почему...я прошу тебя угадать.
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「わからないの？」%K%P
 You don't know?
@@ -786,7 +786,7 @@ CN PLACEHOLDER
 優「そういうときは、どうすればいいんだっけ？」%K%P
 What is it you're supposed to do at times like this?
 CN PLACEHOLDER
-Вот как... а как бы ты поступил?
+Вот как...а как бы ты поступил?
 
 少年「えっ？」%K%P
 What?
@@ -801,7 +801,7 @@ CN PLACEHOLDER
 もうひとつの眼……。%K%P
 My other eye...
 CN PLACEHOLDER
-Другой глаз?..
+Другой глаз...?
 
 少年「第３視点？」%K%P
 The third eye?
@@ -811,7 +811,7 @@ CN PLACEHOLDER
 優「そう」%K%P
 Yup.
 CN PLACEHOLDER
-Угу.
+Да.
 
 優「第３の眼が開眼すると、真の智恵がわき、万物を見通すことができる」%K%P
 When the third eye opens, true wisdom is apparent, and all becomes visible.
@@ -821,7 +821,7 @@ CN PLACEHOLDER
 少年「でも、どうやって？」%K%P
 But how?
 CN PLACEHOLDER
-Но как?
+Но...как?
 
 優「教えて欲しい？」%K%P
 You want me to teach you?
@@ -846,7 +846,7 @@ CN PLACEHOLDER
 優「まず、ひとつめの眼は、どこにあるのか知ってる？」%K%P
 First, do you know where the first eye is?
 CN PLACEHOLDER
-Для начала, ты знаешь, где твой первый глаз?
+Во-первых......ты знаешь......где твой первый глаз?
 
 ぼくは首をかしげた。%K%P
 I cocked my head, thinking.
@@ -861,7 +861,7 @@ CN PLACEHOLDER
 そう言って、優はヒトサシ指の先端を、ぼくの右目に近づけた。%K%P
 As she spoke, You's index finger approached my right eye.
 CN PLACEHOLDER
-С этими словами указательный палец Ю приблизился к моему правому глазу.
+С этими словами, указательный палец Ю приблизился к моему правому глазу.
 
 右目を閉じるぼく……。%K%P
 I closed it...
@@ -876,7 +876,7 @@ CN PLACEHOLDER
 優「じゃあ、ふたつめの眼は？」%K%P
 And the second eye?
 CN PLACEHOLDER
-А второй глаз?
+И......а второй глаз?
 
 優「ここ……」%K%P
 Right here...
@@ -891,27 +891,27 @@ CN PLACEHOLDER
 優「最後に、第３の眼……」%K%P
 And the third eye...
 CN PLACEHOLDER
-А... третий глаз...
+А......третий глаз...
 
 優「それは……ここに……」%K%P
 That's... right... here...
 CN PLACEHOLDER
-Он... прямо... здесь...
+Вот......здесь...
 
 ………………………………。%K%P
 ..........
 CN PLACEHOLDER
-...
+..........
 
 ……………………。%K%P
 .......
 CN PLACEHOLDER
-...
+.......
 
 …………。%K%P
 ....
 CN PLACEHOLDER
-...
+....
 
 くちびるに、やわらかな感触。%K%P
 I felt something soft touch my lips.
@@ -936,7 +936,7 @@ CN PLACEHOLDER
 第３の視点……？%K%P
 The third eye...?
 CN PLACEHOLDER
-Третий глаз?..
+Третий глаз...?
 
 真の智恵がわく？　万物を見通すことができる？？%K%P
 Had I found true wisdom? Had all things become visible to me?
@@ -961,20 +961,20 @@ CN PLACEHOLDER
 目の前の光景と……やわらかな肌の感触と……%K%P
 The scene in front of me... The soft touch of skin...
 CN PLACEHOLDER
-Перед моими глазами... её мягкая на ощупь кожа...
+Перед моими глазами...её мягкая на ощупь кожа...
 
 それと、脳をとろけさせるような甘酸っぱい匂いを、その身に感じることしかできなかった。%K%P
 And the sweet smell that made my brain numb... It was all I could do to absorb those.
 CN PLACEHOLDER
-И сладкий запах, от которого голова опухла... Всё, что я могу – вбирать их.
+И сладкий запах, от которого мой мозг опух... всё, что я могу - вбирать их.
 
 その第３の眼は、ぼくに事実と温もりと、混乱と愛おしさだけを与え……%K%P
 That so-called third eye gave only the truth, warmth, confusion, and affection...
 CN PLACEHOLDER
-Этот так называемый третий глаз даровал лишь правду, тепло, смятение... и чувство близости...
+Этот, так называемый, третий глаз даровал лишь правду, тепло, смятение...и чувство близости...
 
 夜は、白く……静かに……ゆっくりと……新たな記憶を刻みつけながら、闇の中へと過ぎ去って行った。%K%P
 That night passed as I etched... pure... slow... and new memories into my mind.
 CN PLACEHOLDER
-Эта ночь прошла незаметно, пока я медленно... запечатлевал... в памяти новые воспоминания.
+Эта ночь прошла незаметно, пока я медленно... запечатлевал...в своём разуме новые воспоминания.
 

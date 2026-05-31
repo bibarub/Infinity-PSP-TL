@@ -1,7 +1,7 @@
 ﻿浮島の上。%K%P
 On the floating island.
 CN PLACEHOLDER
-На плавучем острове.
+...На плавучем острове...
 
 朝焼けに染まった、大地と海と、それと空。%K%P
 The morning sun stained the sky, land, and ocean...
@@ -11,22 +11,22 @@ CN PLACEHOLDER
 ７日ぶりに見る、大空と太陽の輝き。%K%P
 It was the first time we had laid eyes on the blue sky and bright sunlight in seven days.
 CN PLACEHOLDER
-Впервые за эти семь дней мы видим своими глазами голубое небо и яркий солнечный свет!
+Впервые за эти семь дней, мы видим своими глазами голубое небо и яркий солнечный свет!
 
 遠くで、沙羅と武がたわむれている。%K%P
 In the distance, Sara and Takeshi played together.
 CN PLACEHOLDER
-Вдали вместе резвятся Сара с Такэси.
+Вдали, вместе резвятся Сара с Такеши.
 
 木の枝を振りかざし、ふたりでチャンバラでもやっているらしい。%K%P
 It appeared as if they were pretending to swordfight with a couple of sticks.
 CN PLACEHOLDER
-Кажется, они, словно рыцари, дерутся ветками с дерева.
+Кажется, они изображают из себя джедаев, с палочками вместо световых мечей.
 
 武は沙羅に滅多切りにされていた。%K%P
 Apparently, Takeshi had been routed by Sara's sword.
 CN PLACEHOLDER
-Очевидно, Сара понарошку проткнула Такэси насквозь, и тот, делая вид, что корчится от боли, свалился на землю.
+Очевидно, Сара проткнула Такеши насквозь, и тот, делая вид, что корчится от боли, свалился на землю.
 
 そんなふたりを、ぼくはぼんやりと眺めている。%K%P
 I gazed dreamily at the two as they played.
@@ -56,7 +56,7 @@ CN PLACEHOLDER
 ７日ぶりに見る太陽だった。%K%P
 It was her first time to see the sun in seven days.
 CN PLACEHOLDER
-За эти семь дней она впервые видит солнце.
+За эти семь дней, она впервые видит солнце.
 
 ぼくと優の背後に、スルスルと長く伸びていく影ぼうし。%K%P
 Long shadows, from her figure and mine, cast at length behind us.
@@ -71,7 +71,7 @@ CN PLACEHOLDER
 少年「約束は……まもれたかな？」%K%P
 I kept my promise... don't you think?
 CN PLACEHOLDER
-Я сдержал своё обещание... правда?
+Я сдержал своё обещание...правда?
 
 ぼくは優に問いかける。%K%P
 I turned and asked You.
@@ -111,7 +111,7 @@ CN PLACEHOLDER
 少年「ああ……」%K%P
 Ah... That...
 CN PLACEHOLDER
-Ах... это...
+Ах...это...
 
 優「生きるために必要なものに、似てるって？」%K%P
 The thing that life depends on, didn't you say?
@@ -121,7 +121,7 @@ CN PLACEHOLDER
 少年「うん」%K%P
 Uh huh.
 CN PLACEHOLDER
-Э-э, ага.
+Ээ, ага.
 
 優「約束通り、教えてよ」%K%P
 You promised to tell me.
@@ -131,7 +131,7 @@ CN PLACEHOLDER
 少年「じゃあ、逆に質問するけど、生きるために必要なものって、なんだろう？」%K%P
 Okay, let me ask you in that case. What are some things on which life depends?
 CN PLACEHOLDER
-Ладно, в таком случае я спрошу тебя. Что важно в этой жизни? От чего она зависит?
+Ладушки, в таком случае я спрошу тебя. Что важно в этой жизни? От чего она зависит?
 
 優「水、空気、食糧、家に、洋服に、お金……」%K%P
 Water, air, food, housing, clothing, money...
@@ -146,7 +146,7 @@ CN PLACEHOLDER
 優「知識」%K%P
 Knowledge.
 CN PLACEHOLDER
-От знаний, наверное.
+От знаний, наверно.
 
 少年「まあ、それもあるかな？」%K%P
 Well, I guess there's that too.
@@ -161,7 +161,7 @@ CN PLACEHOLDER
 少年「快適に生きるためには、知識という不純物が必要なんだ」%K%P
 To live comfortably, humans also need certain impurities, things that are granted by knowledge.
 CN PLACEHOLDER
-Чтобы жизнь была уютной, людям нужны определённые примеси. То есть то, что даёт знания.
+Чтобы жизнь была уютной, людям нужны определённые примеси. То есть, то что дают знания.
 
 少年「それは、あるいはコーヒーに入れるミルクのようなものかもしれない」%K%P
 I guess you could compare those things with the milk you put in coffee.
@@ -171,7 +171,7 @@ CN PLACEHOLDER
 少年「それともうひとつ」%K%P
 But there's one more thing...
 CN PLACEHOLDER
-Но есть ещё кое-что...
+Но, есть ещё кое-что...
 
 少年「コーヒーに砂糖を入れるように、もうひとつのものが必要なんだけど……」%K%P
 Like the sugar in coffee, we need one more thing...
@@ -201,12 +201,12 @@ CN PLACEHOLDER
 少年「人は純では……ひとりだけでは生きられない」%K%P
 So humans... can never live entirely alone.
 CN PLACEHOLDER
-Поэтому люди... не могут жить в полном одиночестве.
+Поэтому люди...не могут жить в полном одиночестве.
 
 優「？？？」%K%P
 ?
 CN PLACEHOLDER
-?
+????
 
 少年「まだわからないかなぁ？」%K%P
 You still don't get it?
@@ -216,7 +216,7 @@ CN PLACEHOLDER
 少年「ふたりが交じり合って成せる、甘く愛おしいもの……」%K%P
 People can only know sweetness when they join together...
 CN PLACEHOLDER
-Люди могут чувствовать сладость, когда они вместе...
+Люди могут чувствовать сладость...добродушие и благоденствие, когда они вместе...
 
 少年「――恋、だよ」%K%P
 Love.
@@ -251,7 +251,7 @@ CN PLACEHOLDER
 優「とっても……甘いね」%K%P
 It's sweet... isn't it?
 CN PLACEHOLDER
-Он сладкий... правда?
+Он сладкий...правда?
 
 ぼくの太陽は、透き通るような爽やかさと、みなぎるような輝かしさと、それと……%K%P
 The sun, my sun, which was clear and fresh, flowing with brilliance...

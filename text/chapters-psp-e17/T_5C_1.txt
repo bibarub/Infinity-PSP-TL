@@ -6,7 +6,7 @@ CN PLACEHOLDER
 俺は皆のぶんのタツタサンドを作って配った。%K%P
 I made enough sandwiches for everyone and passed them out.
 CN PLACEHOLDER
-Сделав достаточное количество сэндвичей, я передал их остальным.
+Сделав достаточное количество бутербродов, я передал их остальным.
 
 それから全員、揃って憩いの間に移動する。%K%P
 Everyone moved with them to the rest area.
@@ -16,12 +16,12 @@ CN PLACEHOLDER
 中央の円形の舞台に集まり、そこで食事をすることになった。%K%P
 We gathered on the circular stage in the center of the room and began eating.
 CN PLACEHOLDER
-Собравшись в центре того, что некогда было искусственным прудом, мы принялись за трапезу.
+Собравшись в центре того, что некогда было искусственным прудом, мы взялись за трапезу.
 
 空が手をかざすと、天井のスプリンクラーから花壇へと、優しい雨が注いだ。%K%P
 At a wave of Sora's hand, a gentle rain started pouring from the ceiling sprinklers onto the flowerbeds.
 CN PLACEHOLDER
-По взмаху руки Соры с потолка из разбрызгивателей на цветочные клумбы полился лёгкий дождик.
+По взмаху руки Соры, из разбрызгивателей на потолке, на цветочные клумбы полился лёгкий дождик.
 
 小さな虹もそこに生まれる。%K%P
 There was even a small rainbow.
@@ -41,7 +41,7 @@ CN PLACEHOLDER
 この笑顔が紛い物だなんて、俺は思いたくない。%K%P
 I didn't want to think it wasn't real.
 CN PLACEHOLDER
-Я не хочу думать, что она ненастоящая.
+Я не хочу думать, что она не настоящая.
 
 見せかけだけの作り物だなんて、思いたくはない。%K%P
 I didn't want to think she was just pretending for our benefit.
@@ -61,7 +61,7 @@ CN PLACEHOLDER
 『空は、何も私達が助けるまでもなく、助かるのよ』%K%P
 “We don't need to save Sora. She's saved already.”
 CN PLACEHOLDER
-«Нам не нужно спасать Сору, она и так спасена.»
+'Нам не нужно спасать Сору, она и так спасена.'
 
 優から聞いた話が、俺の耳を離れてくれなかった。%K%P
 That thought wouldn't leave my mind.
@@ -86,7 +86,7 @@ CN PLACEHOLDER
 一方で、これ以上ないほど大口開けて、サンドをぱくついている奴もいる。%K%P
 Then again, there were others with me too, one of them opening her mouth so wide that it didn't seem it would open any more.
 CN PLACEHOLDER
-С другой стороны – кое-кто открывает свой рот столь широко, что ей бы позавидовали бегемоты.
+С другой стороны - кое-кто открывает свой рот столь широко, что ей бы позавидовали бегемоты.
 
 そいつは心底幸せそうだった。%K%P
 She looked REALLY happy.
@@ -96,22 +96,22 @@ CN PLACEHOLDER
 優「倉成タケさまぁ〜んっ♪」%K%P
 Kuranari Take-samaaaa〜♪
 CN PLACEHOLDER
-Куранаричка Такэсичка!
+Куранаричка Такешичка!
 
 そして、そいつは包装紙をひらひらと振った……。%K%P
 And had flipped off the wrapping paper...
 CN PLACEHOLDER
-От удивления я чуть не выронил из рук обёртку...
+От удивления, я чуть не выронил из рук кусок куриного мяса...
 
 優「タツタサンドぉ、もう１個食べたいなぁ〜ん♪」%K%P
 I want another sandwich. Pleeeeeeaaase〜
 CN PLACEHOLDER
-Ещё хочу куфать. Ну поза-а-а-алуйфтя!
+Ещё хочу куфать. Ну позаааалуйфтяяяя!
 
 優「今すぐ作って持ってきてぇ〜ん……お・ね・が・い♪　ちゅっ♪」%K%P
 Would you be so kind as to make another one and bring it here...? Pretty pleeeeaaase?
 CN PLACEHOLDER
-Не откази в любефнофти, фделай ефё одну фтуську... По-жа-луй-стя!
+Не откази в любефнофти, фделай ефё одну фтуську... По-жа-луй-стяяя?
 
 甘ったるい声で言ってのける。%K%P
 She called out to me in a voice that seemed just a little TOO sweet.
@@ -121,12 +121,12 @@ CN PLACEHOLDER
 さっき泣いていた気がしたのは、単なる俺の思い違いだったかもしれない……。%K%P
 It seemed to me that she had been crying earlier, but it must have been my imagination...
 CN PLACEHOLDER
-А мне-то казалось, что не так давно та плакала... Почудилось наверное...
+А мне-то казалось, что не так давно та плакала... Почудилось наверно...
 
 武「へいへい、人使いの荒いことですなぁ」%K%P
 Alright, alright. You're such a slave driver.
 CN PLACEHOLDER
-Ладно, ладно. Как же, тебе откажешь, эксплуататорша хренова... хе-хе.
+Ладно, ладно. Как же, тебе откажешь, эксплуататорша хренова...хе〜хе.
 
 優「あら、なんですの？　何かおっしゃいまして？」%K%P
 What was that? Did you say something?
@@ -141,12 +141,12 @@ CN PLACEHOLDER
 優「そう、わかればいいのよ。おっほほほほ……♪」%K%P
 Just as long as you realize who's in charge. Ohohohoho...
 CN PLACEHOLDER
-Ага... вот и славно, о-хо-хо-хо-хо-хо...
+Ага...вот и славно, о〜хо〜хо〜хо〜хо〜хо...
 
 渋々、俺は隣の部屋のタツタ売店へと戻る。%K%P
 Reluctantly, I trudged back into the kitchen.
 CN PLACEHOLDER
-Я с неохотой потащился обратно на кухню.
+С неохотой, я потащился обратно на кухню.
 
 （ああ、まったくあんにゃろめ……）%K%P
 (I can't believe that girl...)
@@ -156,7 +156,7 @@ CN PLACEHOLDER
 作るのは、別段、苦ではなかった。%K%P
 It wasn't like they were that hard to make.
 CN PLACEHOLDER
-Не то чтобы их было тяжело приготовить.
+Не то что бы их было тяжело приготовить.
 
 材料も、まだ充分にあった。%K%P
 We had plenty of provisions.
@@ -181,7 +181,7 @@ CN PLACEHOLDER
 （さっさと作って、さっさと持ってくか……）%K%P
 (I'll just get this done as soon as I can...)
 CN PLACEHOLDER
-(Долго возиться с этим не буду – как сделаю, так сделаю...)
+(Долго возиться с этим не буду - как сделаю, так сделаю...)
 
 つぐみ「ねぇ……」%K%P
 Hey...
@@ -191,7 +191,7 @@ CN PLACEHOLDER
 不意に、売店の軒先に客が現れた。%K%P
 A “customer” had showed up without warning.
 CN PLACEHOLDER
-Без предупреждения пришёл «клиент».
+Без предупреждения, пришёл 'клиент'.
 
 つぐみ「私もひとつ、追加を頼みたいんだけど」%K%P
 I'd like to ask for another one if that's okay.
@@ -201,17 +201,17 @@ CN PLACEHOLDER
 武「なんだとうっ！」%K%P
 GEEZ!
 CN PLACEHOLDER
-ЧЁРТ!
+ЧЁЁЁРТ!
 
 つぐみ「な、何よ、武……」%K%P
 Wh-What, Takeshi...?
 CN PLACEHOLDER
-Ч... что с тобой, Такэси?..
+Ч...что с тобой, Такеши...?
 
 つぐみ「機嫌悪そうね……」%K%P
 Did I catch you at a bad time...?
 CN PLACEHOLDER
-Ты не в духе?..
+Ты не в духе...?
 
 つぐみはちょっと膨れる。%K%P
 Tsugumi looked annoyed.
@@ -221,12 +221,12 @@ CN PLACEHOLDER
 武「えっ？　つ、つぐみっ！？」%K%P
 Eh? Ts-Tsugumi!?
 CN PLACEHOLDER
-Э-э? Ц-Цугуми?!
+Эээ? Ц-Цугуми!?
 
 つぐみ「……あの……」%K%P
 ...Um...
 CN PLACEHOLDER
-Э-э...
+...Эээ...
 
 つぐみ「ひょっとして、ダメなの？」%K%P
 You don't want to make one?
@@ -266,7 +266,7 @@ CN PLACEHOLDER
 つぐみ「ええ、お願い。ああ、そうだ。それから……」%K%P
 Yeah, thanks. Oh yeah, one more thing...
 CN PLACEHOLDER
-Да, пожалуйста... Э-э, да, ещё кое-что...
+Да, пожалуйста... Эээ, да, ещё кое-что...
 
 言いながら、つぐみは振り返る。%K%P
 Tsugumi said that as she turned around.
@@ -281,7 +281,7 @@ CN PLACEHOLDER
 ココ「んー、どうしよっかなぁ……」%K%P
 Hmm, I'm not sure...
 CN PLACEHOLDER
-Хм-м... даже не знаю...
+Хмм...даже не знаю...
 
 ココが、つぐみの後ろから顔を覗かせた。%K%P
 Coco peeked out from behind Tsugumi.
@@ -296,12 +296,12 @@ CN PLACEHOLDER
 ココ「ちょこっとだけ、なんか食べよっかな」%K%P
 Maybe I'll eat just a little something.
 CN PLACEHOLDER
-Наверное, перекушу что-нибудь по мелочи.
+Наверно перекушу что-нибудь по мелочи.
 
 つぐみ「そうねぇ……じゃ、パンを半分食べる？」%K%P
 Well... How about some bread?
 CN PLACEHOLDER
-Ну... Тогда как насчёт хлеба?
+Ну... Тогда, как насчёт хлеба?
 
 ココ「うん。ココ、そうするよ！」%K%P
 Okay, sounds good!
@@ -311,7 +311,7 @@ CN PLACEHOLDER
 ココ「たけぴょん、パン半分くださーいっ♪」%K%P
 Takepyon, I'd like some bread please〜
 CN PLACEHOLDER
-Такэпён, булку хлеба, пожалуйста!
+Такепён, булку хлеба пожалуйста!
 
 武「ＯＫ、ＯＫ。了解だ」%K%P
 Okay, okay. Gotcha.
@@ -321,22 +321,22 @@ CN PLACEHOLDER
 ココ「よろしくー♪　えへへっ……」%K%P
 Thanks. Heh heh...
 CN PLACEHOLDER
-Спасибо! Хи-хи-хи...
+Спасибо! Хи〜хи〜хи...
 
 つぐみ「ねぇ、ところで、武」%K%P
 Um, by the way, Takeshi.
 CN PLACEHOLDER
-Да, кстати, Такэси...
+Да, кстати, Такеши...
 
 つぐみ「さっき、ちょっと怒ってなかった？」%K%P
 Were you upset a little bit earlier?
 CN PLACEHOLDER
-Ты... был слегка не в духе?
+Ты...был слегка не в духе?
 
 つぐみ「どこか具合でもよくないの？　それとも……」%K%P
 Are you feeling okay? Or is it...?
 CN PLACEHOLDER
-С самочувствием всё в порядке? Или?..
+С самочувствием всё в порядке? Или...?
 
 武「あー、そうじゃないよ」%K%P
 Nah, it's not like that.
@@ -351,7 +351,7 @@ CN PLACEHOLDER
 つぐみ「あ、そうなんだ？」%K%P
 Oh, was that it?
 CN PLACEHOLDER
-Ох... вот как?
+Ох...вот как?
 
 彼女は顔をほころばせた。%K%P
 She flashed me a smile.
@@ -366,7 +366,7 @@ CN PLACEHOLDER
 つぐみ「私、ちゃんと待ってるから」%K%P
 I'll be waiting.
 CN PLACEHOLDER
-А я... пока подожду.
+А я...пока подожду.
 
 ココの手をそっと取って、つぐみは売店から離れ、近くをゆっくり歩き始めた。%K%P
 Tsugumi grabbed on to Coco's hand and started walking slowly away.
@@ -376,7 +376,7 @@ CN PLACEHOLDER
 柔らかな微笑みを浮かべている、つぐみ……。%K%P
 She was smiling so gently...
 CN PLACEHOLDER
-Цугуми... её улыбка такая нежная...
+Цугуми...её улыбка такая нежная...
 
 いきなり話しかけられて、俺は少々面食らったが……。%K%P
 She had surprised me when she started talking to me all of a sudden...
@@ -386,7 +386,7 @@ CN PLACEHOLDER
 今のつぐみは、『死』なんて間違っても口にしそうにない。%K%P
 The Tsugumi right then seemed like she would never talk about “dying”, even by accident.
 CN PLACEHOLDER
-Кажется, словно Цугуми больше никогда не заговорит о смерти, даже ненароком.
+Кажется, словно Цугуми больше никогда не заговорит о 'смерти', даже ненароком.
 
 あれから、吹っ切れたのだろうか？%K%P
 I wondered if she had resolved her feelings.
@@ -396,7 +396,7 @@ CN PLACEHOLDER
 だとしたら、俺も彼女の話を聞いた甲斐があったというものだ。%K%P
 If that was the case, then it seemed like talking with her had been the right thing to do.
 CN PLACEHOLDER
-Если так, значит, поговорить с ней было правильным шагом.
+Если так, значит поговорить с ней было правильным шагом.
 
 つぐみのことを、さんざん追いかけて……。%K%P
 I had chased after her constantly...
@@ -416,7 +416,7 @@ CN PLACEHOLDER
 でも、今の彼女は、間違いなく俺達の仲間だった。%K%P
 But the Tsugumi before me was unmistakably one of us.
 CN PLACEHOLDER
-Зато теперь я знаю точно – Цугуми, которую я вижу, действительно одна из нас.
+Зато теперь я знаю точно - Цугуми, которую я вижу, действительно одна из нас.
 
 俺の悩みなど、彼女はまったく意に介していないようだった。%K%P
 It didn't seem like she cared about my troubles...
@@ -426,7 +426,7 @@ CN PLACEHOLDER
 どんな顔して会ったらいいのか……と、少々気をもんでいたのだが。%K%P
 Every time we met, I never know how to react... and it bothered me some.
 CN PLACEHOLDER
-Всякий раз при наших встречах, я никогда не знал, как себя вести... это не давало мне покоя.
+Всякий раз при наших встречах, я никогда не знал, как себя вести...это не давало мне покоя.
 
 あの夜のことは、すっかり忘れてしまったのだろうか。%K%P
 Had she totally forgotten about the events of the other night? I had to wonder.
@@ -436,12 +436,12 @@ CN PLACEHOLDER
 （まぁ、気にしてないのなら、いいか……）%K%P
 (Well, if she doesn't care, then I suppose that's best...)
 CN PLACEHOLDER
-(Что же, если ей всё равно, полагаю, оно и к лучшему...)
+(Что же, если ей всё равно, полагаю оно и к лучшему...)
 
 今のつぐみは、『死』なんて間違っても口にしそうにない。%K%P
 The Tsugumi right then seemed like she would never talk about “dying”, even by accident.
 CN PLACEHOLDER
-Кажется, словно Цугуми больше никогда не заговорит о «смерти», даже ненароком.
+Кажется, словно Цугуми больше никогда не заговорит о 'смерти', даже ненароком.
 
 彼女のその笑顔を、信じてみることにした。%K%P
 I decided to believe that her smile was real.
@@ -476,27 +476,27 @@ CN PLACEHOLDER
 ココ「んっとね、少ちゃんとね、一緒にクジラに乗ってぇ……」%K%P
 And Kiddo was riding on it with me...
 CN PLACEHOLDER
-А Малой-тян катался вместе со мной...
+А Кид-тян катался вместе со мной...
 
 ココ「でね、クジラが、ぼいんぼいんと跳ねてぇ……」%K%P
 And the whale was, like, totally bouncing all over the place...
 CN PLACEHOLDER
-А кит извивался вверх-вниз...
+А кит ёрзал туда-сюда, туда-сюда...
 
 ココ「ホップ、ステップ、ジャーンプ！　とばかりに……」%K%P
 I just kept hopping and jumping...!
 CN PLACEHOLDER
-Потому я всё скакала и подпрыгивала!
+Потому я всё скакала и подпрыгивала....!
 
 ココ「宇宙の彼方イカスンデルに、ばびゅーんと飛んでいってぇ……」%K%P
 And we were in outer space going to this place called Planet Squid, and were flying all around.
 CN PLACEHOLDER
-Мы были в открытом космосе и плыли на планету Кальмаров, плыли и летели.
+Мы были в открытом космосе и плыли на Планету Кальмаров, плыли и летели.
 
 ココ「ほいでね、そしたらね？」%K%P
 And then guess what?
 CN PLACEHOLDER
-А потом... ты не представляешь...
+А потом...ты не представляешь...
 
 ココ「クィクィ星人にぃ〜、会えたんだぁ〜♪」%K%P
 I met someone from planet Kuikui〜
@@ -506,7 +506,7 @@ CN PLACEHOLDER
 つぐみ「ふぅん……そっかぁ……」%K%P
 Hmmm... Oh really...
 CN PLACEHOLDER
-Хм-м-м... Вот как...
+Хммм...вот как...
 
 つぐみ「ココは、クィクィ星人に会ってきたんだ？」%K%P
 So you met someone from planet Kuikui, eh?
@@ -516,17 +516,17 @@ CN PLACEHOLDER
 ココ「うんうん♪」%K%P
 Yup, yup〜
 CN PLACEHOLDER
-Угу!
+У〜гу!
 
 ココ「少ちゃんとココでね、ふたりでね、会ってきたのっ♪」%K%P
 Kiddo and me, we both met him〜
 CN PLACEHOLDER
-Малой-тян и я, мы оба его встретили.
+Кид-тян и я, мы оба его встретили.
 
 つぐみ「そっかそっかぁ……」%K%P
 Is that so...?
 CN PLACEHOLDER
-Ну надо же!..
+Ну надо же...!
 
 つぐみ「よかったねぇ、ココ……」%K%P
 That's great, Coco...
@@ -541,7 +541,7 @@ CN PLACEHOLDER
 俺は、ふたりのやり取りを静かに眺めながら……%K%P
 I watched their interaction quietly...
 CN PLACEHOLDER
-Меж тем я молча наблюдаю за ней и Цугуми...
+Меж тем, я молча наблюдаю за ней и Цугуми...
 
 ちょっぴり感慨深いものを感じてみたりしていた……。%K%P
 I tried to sense what they were feeling...
@@ -556,7 +556,7 @@ CN PLACEHOLDER
 優「倉成ぃ〜、遅いってぇ〜、もぉ〜っ……！」%K%P
 Kuranariii, what's taking you so looong...!
 CN PLACEHOLDER
-Куранари, тебя только за смертью посылать!..
+Куранари, тебя только за смертью посылать...!
 
 憩いの間に入ると、優はブーたれながら待っていた。%K%P
 I went into the rest area, and You was lounging about lazily.
@@ -586,7 +586,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「ほんとに口の減らんやっちゃなぁ、お前……」%K%P
 You really don't know when to shut up, do you...?
@@ -606,7 +606,7 @@ CN PLACEHOLDER
 つぐみとココは既におかわりを食べ終わって、俺の後ろからついてきていた。%K%P
 Tsugumi and Coco had already finished theirs and were following behind me.
 CN PLACEHOLDER
-Цугуми с Коко уже успели дожевать собственные и пришли следом за мной.
+Цугуми с Коко уже успели дожевать собственные, и пришли следом за мной.
 
 皆揃って、中央の円に向かう。%K%P
 I headed over to the circle in the center of the room.
@@ -616,17 +616,17 @@ CN PLACEHOLDER
 武「ほら、田中専用スペシャルサンドだ。受け取れっ！」%K%P
 Here. It's the Tanaka special. Take it!
 CN PLACEHOLDER
-Вот. По спецрецепту, для Танаки Ю. Держи!
+Вот. По спецрецепту, для Ю Танаки. Держи!
 
 円形の舞台に乗るなり、俺は優目がけて包みを放り投げた。%K%P
 I got up on the round dais and threw the package directly at You.
 CN PLACEHOLDER
-Я встал на бетонную кайму и бросил завёрнутый сэндвич прямо на Ю.
+...я встал на бетонную кайму и бросил завёрнутый бутерброд прямо на Ю.
 
 優「って、何よいきなりうあぁっ……！！」%K%P
 What are you doing...!?
 CN PLACEHOLDER
-К... какого хрена-а-а-а-а!
+К...какого хренааааа...!!
 
 ぱさり。%K%P
 Splat.
@@ -641,7 +641,7 @@ CN PLACEHOLDER
 武「おいおい、しっかりしてくれよぉ……」%K%P
 Hey, come on. Wake up, will you...?
 CN PLACEHOLDER
-Эй, что с тобой? Проснись уже наконец, а?..
+Эй, что с тобой? Проснись уже наконец, а...?
 
 わざとらしくおどけて、俺は呆れてみせる。%K%P
 I pretended to show surprise.
@@ -651,12 +651,12 @@ CN PLACEHOLDER
 武「ちゃんと受け取れよなぁ、貴重な食料なんだぞ？」%K%P
 Be careful, those're some gourmet goods, you know?
 CN PLACEHOLDER
-Поаккуратнее, это же всё-таки пища для гурманов...
+Поаккуратней, это же всё-таки пища для гурманов...
 
 優「な、何よぉ！　そっちが突然投げたんじゃないのよ！？」%K%P
 W-Well, you're the one who threw it all of a sudden!
 CN PLACEHOLDER
-Э-эй, чё скалишься?! Сам бросил его ни с того ни с сего!
+Э-эй, чё скалишься?! Сам бросил его ни с того, ни с сего!
 
 優は頬を膨らませる。%K%P
 You's cheeks puffed up.
@@ -676,7 +676,7 @@ CN PLACEHOLDER
 俺は両手を上げる。%K%P
 I lifted both hands in mock apology.
 CN PLACEHOLDER
-Я поднял обе руки, делая вид, что извиняюсь.
+Я поднял обе руки, делая вид что извиняюсь.
 
 武「うっかり水に落としたらどうしようかと、ヒヤヒヤしたぞ」%K%P
 I was worried it would fall into the water there for a second.
@@ -686,7 +686,7 @@ CN PLACEHOLDER
 優「あのねぇ、ったく……」%K%P
 Oh, stop it...
 CN PLACEHOLDER
-Блин, ты... невыносим...
+Блин, ты...невыносим...
 
 優「そんな意地悪しなくたって、いいじゃないのよぉ……」%K%P
 You don't have to pick on me, you know...
@@ -701,7 +701,7 @@ CN PLACEHOLDER
 優「あーっ！」%K%P
 Ah!
 CN PLACEHOLDER
-А-а-а!
+ААаа!
 
 包装紙の中を見たら、また優は膨れた。%K%P
 You looked at the contents and puffed up again.
@@ -711,7 +711,7 @@ CN PLACEHOLDER
 優「ちょっと、タツタが焦げてるんじゃないこれ？」%K%P
 Hey, this sandwich is burnt!
 CN PLACEHOLDER
-Что за фигня?! Этот сэндвич сожжён до угля!
+Что за фигня?! Это бутерброд сожжён до угля!
 
 武「ち、ちょっとだけだろ？　大丈夫だって、そのくらい！」%K%P
 Not THAT badly. You should still be able to eat it!
@@ -721,7 +721,7 @@ CN PLACEHOLDER
 優「しょうがないなぁ〜」%K%P
 I suppose...
 CN PLACEHOLDER
-Ну допу-у-устим...
+Ну допууустим...
 
 武「勘弁してくれよ」%K%P
 Gimme a break.
@@ -741,37 +741,37 @@ CN PLACEHOLDER
 いや……さっきからずっと、そこに立ち尽くしていたのかもしれない。%K%P
 No... maybe he'd been there for a long time.
 CN PLACEHOLDER
-Нет... наверное, он уже давным-давно здесь стоит.
+Нет...наверно он уже давным-давно здесь стоит.
 
 少年は顔を強張らせて、俺達のことを見ていた。%K%P
 The Kid was staring at both of us with a leaden gaze.
 CN PLACEHOLDER
-Малой смотрит на нас двоих недобрым взглядом.
+Кид...смотрит на нас обоих недобрым взглядом.
 
 優「あれ、どうしたの少年？」%K%P
 Hey, what's wrong, Kid?
 CN PLACEHOLDER
-Эй, что с тобой, Малой?
+Эй, что с тобой, Кид?
 
 優「……食べないの？」%K%P
 ...You don't want it?
 CN PLACEHOLDER
-Не голоден?
+...не голоден?
 
 少年の手には、まだ開けてもいないタツタサンドの包みが握られたままだった。%K%P
 The Kid held an unopened fried tuna sandwich in his hand.
 CN PLACEHOLDER
-Малой держит в руке неоткрытый сэндвич с тунцом.
+Кид держит в руке неоткрытый бутерброд с курятиной.
 
 武「食べなきゃ身体に毒だぞー、少年」%K%P
 You gotta eat to stay healthy, Kid.
 CN PLACEHOLDER
-Малой, не будешь есть – не будет сил.
+Кид, не будешь есть - не будет сил.
 
 武「それ、冷めちまってるだろ。温め直して持って来ようか？」%K%P
 It's probably cold by now. You want me to heat it up again for you?
 CN PLACEHOLDER
-Наверное, он уже остыл. Если хочешь, могу слегка подогреть...
+Наверно он уже остыл. Если хочешь, могу слегка подогреть...
 
 俺は手を差し出した。%K%P
 I put out my hand.
@@ -781,7 +781,7 @@ CN PLACEHOLDER
 だが少年は、俺の手から逃げるようにして、サンドを引っ込める。%K%P
 But he pulled the sandwich close to himself and tried to get away.
 CN PLACEHOLDER
-Но... он прислонил сэндвич к себе и попытался уйти.
+Но...он прислонил бутерброд к себе и попытался уйти.
 
 俺の顔を、硬い表情でじっと見ている……。%K%P
 He looked at me with a hard expression...
@@ -796,12 +796,12 @@ CN PLACEHOLDER
 優「えっ！？」%K%P
 What!?
 CN PLACEHOLDER
-Что?!
+〜〜〜〜!?
 
 少年は……%K%P
 The Kid...
 CN PLACEHOLDER
-Малой...
+Кид...
 
 手の中のサンドを握り潰した。%K%P
 Crushed the sandwich in his hand.
@@ -821,7 +821,7 @@ CN PLACEHOLDER
 少年の服にも飛び散るが、それを気にする様子はない。%K%P
 It got on his clothes as well, but he didn't seem to notice.
 CN PLACEHOLDER
-Он попал даже на его одежду, но... кажется, что Малому сейчас не до неё.
+Он попал даже на его одежду, но...кажется, что Киду сейчас не до неё.
 
 それだけでなかった……。%K%P
 He didn't stop there...
@@ -841,17 +841,17 @@ CN PLACEHOLDER
 武「な、なっ！？」%K%P
 Wh-What!?
 CN PLACEHOLDER
-Ч-что?!
+Ч-что!?
 
 武「なにやってんだよっ！　お前っ！！」%K%P
 What the hell are you doing!?
 CN PLACEHOLDER
-Что ты, твою мать, творишь?!
+Что ты, твою мать, творишь!!?
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.......
 
 肩を細かく震わせながら、少年は顔をうつむけている。%K%P
 His shoulders trembling, the Kid kept his face down.
@@ -871,7 +871,7 @@ CN PLACEHOLDER
 少年「嫌なんだよ、もう……！！」%K%P
 I'm sick of it...!
 CN PLACEHOLDER
-Я больше не могу!
+Я больше не могу...!!
 
 少年「もう、たくさんだ！」%K%P
 That's all I can take!
@@ -881,7 +881,7 @@ CN PLACEHOLDER
 少年は足元の水を蹴る。%K%P
 The Kid kicked at the thin layer of water at his feet.
 CN PLACEHOLDER
-Малой топнул ногой по тонкому слою воды.
+Кид топнул ногой по тонкому слою воды.
 
 皆が一斉に、彼に注目した。%K%P
 Everyone looked at him at once.
@@ -896,17 +896,17 @@ CN PLACEHOLDER
 少年「タツタサンドなんか、食べたくないよ！」%K%P
 I don't want any more fried tuna sandwiches!
 CN PLACEHOLDER
-Я уже сыт по горло этими сэндвичами!
+Я не хочу жрать эти проклятые бутерброды!
 
 少年「飽きたんだよっ！」%K%P
 I'm sick of them!
 CN PLACEHOLDER
-Уже тошнит от них!
+Я сыт по горло!
 
 少年「白いご飯が食べたいんだよぉっ！！」%K%P
 I want to eat something else!
 CN PLACEHOLDER
-Я хочу чашку белого риса!
+Я хочу чашку белого риса!!
 
 彼は叫んだ。%K%P
 He screamed.
@@ -921,42 +921,42 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ピピ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 だが誰も、何も言い返すことができない。%K%P
 But nobody had anything to say in reply.
 CN PLACEHOLDER
-Но никто ничего не сказал в ответ.
+Но, никто ничего не сказал в ответ.
 
 少年「もう、嫌なんだ……」%K%P
 I'm sick...
 CN PLACEHOLDER
-Мне... противно...
+Мне...противно...
 
 少年「ウンザリだ……」%K%P
 And tired...
@@ -966,7 +966,7 @@ CN PLACEHOLDER
 少年「生きていて、それで、どうなるっていうんだ……」%K%P
 So what if we're still alive...
 CN PLACEHOLDER
-Мы ещё живы... а что толку...
+Мы ещё живы...а что толку...
 
 少年「助かるって、誰が保証してくれるんだ？」%K%P
 There isn't any proof that anyone is going to save us!
@@ -981,7 +981,7 @@ CN PLACEHOLDER
 少年「ずっと、こんなことしててさぁっ……！」%K%P
 Everything that we're doing here...
 CN PLACEHOLDER
-Ждали... так долго!..
+Ждали...так долго...!
 
 少年「無意味だよ……」%K%P
 There's no point...
@@ -991,42 +991,42 @@ CN PLACEHOLDER
 少年「ぼく達が、ここにいることなんて、何も……意味がないんだ」%K%P
 There isn't any point to us being here.
 CN PLACEHOLDER
-Какая... разница, здесь... мы или... где-то ещё.
+Какая...разница, здесь...мы или...где-то ещё.
 
 少年は震える握り拳を振り上げ……%K%P
 The Kid raised a shaking fist.
 CN PLACEHOLDER
-Малой поднял трясущийся кулак.
+Кид поднял трясущийся кулак.
 
 しかし、どこにもそのやり場がなく、拳を下ろす。%K%P
 But not finding any direction to launch it, he lowered it again.
 CN PLACEHOLDER
-Но не найдя, куда им ударить, опустил.
+Но, не найдя, куда им ударить, опустил.
 
 ココ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ピピ「……くぅ〜ん……」%K%P
 ...*whine*...
 CN PLACEHOLDER
-*писк*
+...*писк*...
 
 皆、視線を合わせようとしない。%K%P
 Everyone tried to keep their eyes from meeting.
@@ -1041,7 +1041,7 @@ CN PLACEHOLDER
 顔を逸らした。%K%P
 They tried desperately to avert their gazes.
 CN PLACEHOLDER
-...и отчаянно отводили взгляд.
+%P
 
 全員がじっと動かない。%K%P
 Nobody moved.
@@ -1061,12 +1061,12 @@ CN PLACEHOLDER
 武「ばっか野郎！！　無理言うな！」%K%P
 Stupid fool! What the hell are you talking about!?
 CN PLACEHOLDER
-Придурок! Ты что, сбрендил?!
+Придурок!! Ты что, сбрендил?!!
 
 やっとの思いで顔をあげ、俺は叫んだ。%K%P
 Finally, I looked up, shouting.
 CN PLACEHOLDER
-Наконец я взглянул ему в глаза и закричал.
+Наконец, я взглянул ему в глаза и закричал.
 
 武「できないこと言うんじゃねぇよ！」%K%P
 Don't ask for the impossible!
@@ -1076,22 +1076,22 @@ CN PLACEHOLDER
 武「わかってんだろーが！」%K%P
 Do you have any idea what you're asking!?
 CN PLACEHOLDER
-Ты хоть понимаешь, о чём просишь?! У нас нет выбора!
+Ты хоть понимаешь, о чём просишь!? У нас нет выбора!
 
 武「このサンドと、上の売店の菓子しかまともな食い物はないって、お前だって知ってるだろ！」%K%P
 The only food we have to eat are these sandwiches and what's in the snack shop upstairs! You know that!
 CN PLACEHOLDER
-Единственное, что у нас есть – сэндвичи и закуски в паршивом киоске!
+Единственное, что у нас есть - курятина и закуски в паршивом киоске!
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「飽きただと！？」%K%P
 And you tell me you're 'sick' of it!?
 CN PLACEHOLDER
-И ты ещё говоришь, что тебя „тошнит“?!
+И ты ещё говоришь, что тебя 'тошнит'!?
 
 武「それでもなぁ、食わなきゃならねーんだ！！」%K%P
 You still have to eat it!
@@ -1101,7 +1101,7 @@ CN PLACEHOLDER
 武「生きてく為にはっ！」%K%P
 It's the only way to survive!
 CN PLACEHOLDER
-Иначе сдохнешь с голоду!
+Иначе сдохнешь с голоду!!
 
 武「そういうこと、もっと大事にしろよ！」%K%P
 So you'd better be thankful for it!
@@ -1111,12 +1111,12 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「みんな我慢してるんだよ！」%K%P
 We're all putting up with it the best we can!
 CN PLACEHOLDER
-Мы делаем всё, что в наших силах!
+Мы делаем всё что в наших силах!
 
 武「仲間なんだろ、お前だって」%K%P
 You're one of the gang, right?
@@ -1146,12 +1146,12 @@ CN PLACEHOLDER
 武「そうしなきゃ、終わりだ」%K%P
 If we don't... then we're finished!
 CN PLACEHOLDER
-Потому что если нет... нам крышка!
+Потому что если нет...нам крышка!
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「自覚、持てよ……」%K%P
 Wake up...
@@ -1161,7 +1161,7 @@ CN PLACEHOLDER
 武「みんなで、生き延びるんだよ……」%K%P
 We're all going to get through this together...
 CN PLACEHOLDER
-Вместе мы сможем пройти через это...
+Вместе мы преодолеем любые трудности...
 
 武「生きてさえいりゃ、いいことだってあるに違いないんだ」%K%P
 As long as we're alive, there's still hope.
@@ -1171,7 +1171,7 @@ CN PLACEHOLDER
 ドオオォォォン！！%K%P
 BOOOOOoooom!
 CN PLACEHOLDER
-БУ-У-У-Уу-у-ух!
+БУУУУууух!!
 
 突如、低い金属音が響いた。%K%P
 Suddenly, a low metallic sound reverberated throughout the complex.
@@ -1201,47 +1201,47 @@ CN PLACEHOLDER
 少年「……わかってる」%K%P
 ...I know.
 CN PLACEHOLDER
-...Я знаю.
+...я знаю.
 
 少年「わかってるよ、武……そんなこと……」%K%P
 I know that, Takeshi... I know...
 CN PLACEHOLDER
-Я знаю... Такэси... но...
+Я знаю...Такеши...но...
 
 少年「でも、だけどっ」%K%P
 But still.
 CN PLACEHOLDER
-Но...
+Но...это...
 
 少年「わかってたって、どうすることもできないんだよぉっ！」%K%P
 Even though I know that, what can I do!?
 CN PLACEHOLDER
-Даже так, это ничего не изменит!
+Ничего---! Ничего не изменит!
 
 優「あぁっ……！？」%K%P
 Ahh...!
 CN PLACEHOLDER
-А-а-а!
+Ааа---!
 
 その刹那、優が手にしていたサンドを、少年がはたき落とした。%K%P
 Just then, the Kid knocked the sandwich out of You's hand.
 CN PLACEHOLDER
-Малой выбил сэндвич из руки Ю.
+Кид выбил бутерброд из руки Ю.
 
 まだひと口も食べていない、田中専用スペシャル……。%K%P
 She hadn't even taken a bite out of her “Tanaka Special”...
 CN PLACEHOLDER
-Она даже не успела попробовать свой «спецрецепт»...
+Она даже не успела попробовать свой 'спецрецепт'......
 
 それは、水面にぽちゃりと音を立て、それからゆっくりと沈んだ。%K%P
 It fell into the water with a splash and sank slowly.
 CN PLACEHOLDER
-Он плюхнулся о воду, после чего медленно затонул.
+Брызнув о воду, он медленно затонул.
 
 優「…………！！」%K%P
 ...!
 CN PLACEHOLDER
-!
+〜〜〜〜〜〜〜〜〜!!
 
 武「てめえっ！　なにしやがるんだよっ！！」%K%P
 Bastard! What do you think you're doing!?
@@ -1251,7 +1251,7 @@ CN PLACEHOLDER
 俺は咄嗟に少年に掴みかかり、平手を振り上げた！%K%p
 I went over, grabbed onto the Kid, and raised my hand.
 CN PLACEHOLDER
-Я схватил Малого, сжал руку в кулак и собрался ударить...
+Я схватил Кида, сжал руку в кулак и собрался ударить...
 
 少年を殴る
 Hit the Kid
@@ -1266,32 +1266,32 @@ CN PLACEHOLDER
 武「歯ぁ、食いしばっとけっ……！」%K%P
 You better brace yourself...!
 CN PLACEHOLDER
-Не серчай!..
+Не серчай...!
 
 少年「！」%K%P
 !
 CN PLACEHOLDER
-!
+----!
 
 ――パシンッ！！%K%P
 —Whack!
 CN PLACEHOLDER
-Шмяк!
+— Шмяк!!
 
 俺は、少年の頬をしたたかに打った。%K%P
 I struck the Kid hard on his cheek.
 CN PLACEHOLDER
-Я со всей дури врезал Малого по щеке.
+Я стукнул Кида в щёку.
 
 少年「くっ……」%K%P
 Agh...
 CN PLACEHOLDER
-Гх-х!
+Гхх---!
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 痛かった。%K%P
 It hurt...
@@ -1311,12 +1311,12 @@ CN PLACEHOLDER
 それ以上に、じくじくと胸の奥が痛んだ。%K%P
 But more than the pain in my hand, my heart hurt.
 CN PLACEHOLDER
-Хотя... к чёрту боль. Сердце болит сильнее.
+Хотя...к чёрту боль. Сердце болит сильней.
 
 掴んでいた襟首を離すと、少年はゆらりと後ずさった。%K%P
 I let go of the Kid's collar, and he backed away slowly.
 CN PLACEHOLDER
-Я отпустил воротник Малого, и тот медленно отступил.
+Я отпустил воротник Кида, и медленно отступил.
 
 皆、黙ってそれを見ていた。%K%P
 Everyone watched us silently.
@@ -1331,17 +1331,17 @@ CN PLACEHOLDER
 少年「痛いなぁっ……」%K%P
 It hurts...
 CN PLACEHOLDER
-Больно...
+Больно〜〜〜!
 
 少年「ううっ……」%K%P
 Aaghh...
 CN PLACEHOLDER
-Гх-х-х...
+г〜ххх〜〜〜....
 
 少年「ちくしょう、ちくしょうっ……」%K%P
 Damn it, damn it...
 CN PLACEHOLDER
-Чёрт... чё-ё-ёрт...
+Чёрт......чёёёрт...
 
 彼は目に涙を浮かべていた。%K%P
 Tears welled up in his eyes.
@@ -1351,27 +1351,27 @@ CN PLACEHOLDER
 武「このっ……！！」%K%P
 You...!
 CN PLACEHOLDER
-Ты!
+Ты....!
 
 少年「！」%K%P
 !
 CN PLACEHOLDER
-!
+---!
 
 怯えるように、少年は身をすくめた。%K%P
 Cowed, the Kid froze.
 CN PLACEHOLDER
-Испугавшись, Малой зажмурил глаза.
+Испугавшись, Кид зажмурил глаза.
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 俺は振り上げた手を引っ込める。%K%P
 I pulled back the hand that I had raised.
@@ -1391,7 +1391,7 @@ CN PLACEHOLDER
 少年は俺を見て、小さくなって震えていた。%K%P
 The Kid looked up at me, all hunched up and trembling.
 CN PLACEHOLDER
-Съёжившись и дрожа, Малой посмотрел на меня.
+Съёжившись и дрожа, Кид посмотрел на меня.
 
 そんな奴を殴ろうとした俺自身も哀れだ。%K%P
 I was disappointed in myself for having tried to hit someone like him.
@@ -1406,7 +1406,7 @@ CN PLACEHOLDER
 掴んでいた襟首を離すと、少年はゆらりと後ずさった。%K%P
 I let go of the Kid's collar, and he backed away slowly.
 CN PLACEHOLDER
-Я отпустил воротник Малого, и тот медленно отступил.
+Я отпустил воротник Кида, и тот медленно отступил.
 
 皆、黙ってそれを見ていた。%K%P
 Everyone watched us silently.
@@ -1416,12 +1416,12 @@ CN PLACEHOLDER
 少年「ううっ……」%K%P
 Aaghh...
 CN PLACEHOLDER
-Гх-х-х...
+Г〜ххх〜〜〜....
 
 少年「ちくしょう、ちくしょうっ……」%K%P
 Damn it, damn it...
 CN PLACEHOLDER
-Чёрт... чё-ё-ёрт...
+Чёрт......чёёёрт...
 
 彼は目に涙を浮かべていた。%K%P
 Tears welled up in his eyes.
@@ -1431,12 +1431,12 @@ CN PLACEHOLDER
 武「少年……」%K%P
 Kid...
 CN PLACEHOLDER
-Малой...
+"Кид...
 
 武「なぁ、頼むから……」%K%P
 Come on, I'm asking you...
 CN PLACEHOLDER
-Прошу тебя, пожалуйста...
+Прошу тебя, не грусти...
 
 武「顔をあげてくれ」%K%P
 Lift up your head.
@@ -1456,32 +1456,32 @@ CN PLACEHOLDER
 だが彼は目もくれなかった。%K%P
 But he wouldn't look me in the eyes.
 CN PLACEHOLDER
-Но Малой не хочет смотреть мне в глаза.
+Но, Кид не хочет смотреть мне в глаза.
 
 少年「武が、そんなこと言ったってさぁっ……」%K%P
 Takeshi, you can say that, but...
 CN PLACEHOLDER
-Такэси, может, ты и прав, но...
+Такеши, может ты и прав, но...
 
 少年「ぼくは、武みたいに考えられないよ」%K%P
 I can't think like you.
 CN PLACEHOLDER
-Но... Такэси, я не могу думать, как ты.
+Но...Такеши, я не могу думать как ты.
 
 少年「無理なものは、無理なんだよ」%K%P
 What's impossible is impossible!
 CN PLACEHOLDER
-Это невозможно... невозможно...
+Это невозможно...невозможно...
 
 少年「みんな、同じじゃないんだ」%K%P
 We're not all the same.
 CN PLACEHOLDER
-Мы... разные люди.
+Мы...разные люди.
 
 少年「ぼくには、無理だ……」%K%P
 I can't do it...
 CN PLACEHOLDER
-Я... не могу...
+Я...не могу...
 
 少年「そんなに強くないんだよ」%K%P
 I'm just not that strong.
@@ -1491,22 +1491,22 @@ CN PLACEHOLDER
 少年「そんなに強くなれないよ……！」%K%P
 And I never will be...!
 CN PLACEHOLDER
-И никогда таким не буду!..
+И никогда таким не буду...!
 
 少年「生きてなんか、いられない」%K%P
 I can't go on living.
 CN PLACEHOLDER
-Я не хочу... жить дальше.
+Я не хочу...жить дальше.
 
 少年「生きていられないんだよ……！」%K%P
 I don't want to go on living...!
 CN PLACEHOLDER
-Я не хочу продолжения!..
+Я не хочу продолжения...!
 
 少年「だから、だったら…………」%K%P
 So then...
 CN PLACEHOLDER
-Потому... потому...
+Потому...потому...
 
 少年「いっそのこと……っ」%K%P
 I should just...
@@ -1516,7 +1516,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 その先は言わせたくなかった。%K%P
 I didn't want to make him say the rest.
@@ -1526,7 +1526,7 @@ CN PLACEHOLDER
 だけどもう、止められなかった。%K%P
 But I couldn't stop him.
 CN PLACEHOLDER
-Но я не могу остановить его.
+Но, я не могу остановить его.
 
 少年がそれを言うことの辛さだって、わかっていたつもりだった。%K%P
 I knew how hard it would be for him to say.
@@ -1541,7 +1541,7 @@ CN PLACEHOLDER
 皆、何も言えぬまま、少年の次の言葉を待つ……。%K%P
 Everyone waited for the Kid's next words in silence...
 CN PLACEHOLDER
-Все лишь ждут, в бездонном вакууме тишины, что дальше скажет Малой...
+Все лишь ждут, в бездонном вакууме тишины, что дальше скажет Кид...
 
 恐らくそれは、禁句だった。%K%P
 They were probably unthinkable.
@@ -1556,32 +1556,32 @@ CN PLACEHOLDER
 優「！！」%K%P
 !
 CN PLACEHOLDER
-!
+---!!
 
 ココ「…………！？」%K%P
 ...!?
 CN PLACEHOLDER
-?!
+-----!?
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+......
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+......
 
 空は静かに進み出て、俺と少年の間に割って入った。%K%P
 Sora walked silently forward and stood in between the Kid and me.
 CN PLACEHOLDER
-Сора молча подошла ближе и встала между мной и Малым.
+Сора молча подошла ближе и встала между мной и Кидом.
 
 空「倉成さん、少年さんをそんなに責めないでください」%K%P
 Kuranari-san, please stop being so hard on him.
 CN PLACEHOLDER
-Куранари-сан... Не вини Малого-сана, прошу тебя.
+Куранари-сан... Не вини Кид-сана, прошу тебя.
 
 武「違う……そんなつもりじゃない」%K%P
 No... I don't mean it that way.
@@ -1591,17 +1591,17 @@ CN PLACEHOLDER
 空「少年さんも、顔をあげてください」%K%P
 Kid-san, please look up at us.
 CN PLACEHOLDER
-Малой-сан, прошу, взгляни на нас.
+Кид-сан, прошу, взгляни на нас.
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.......
 
 空「やっぱり、ケンカは……いけないと思います、私」%K%P
 We can't fight... Not like this. It isn't right.
 CN PLACEHOLDER
-Нам нельзя ссориться... это плохо. Это неправильно.
+Нам нельзя ссориться...это плохо. Это не правильно.
 
 少し哀しげな目で、空は言った。%K%P
 Sora looked sad as she said that.
@@ -1631,7 +1631,7 @@ CN PLACEHOLDER
 空「少年さんは、ほら、今はちょっと気が立ってるんですよ」%K%P
 See, Kid-san looks like he's already feeling a little better.
 CN PLACEHOLDER
-Малому-сану... взгляни, ему уже слегка полегчало.
+Кид-сану...взгляни, ему уже слегка полегчало.
 
 空は穏やかに、微笑を作りながら言った。%K%P
 Sora smiled slightly as she said that.
@@ -1641,12 +1641,12 @@ CN PLACEHOLDER
 空「だから、あんなことをつい、してしまっただけで……そうですよね？」%K%P
 He really didn't mean it... Okay?
 CN PLACEHOLDER
-Так что он правда не желал никому зла... Ведь так?
+Так что, он правда не желал никому зла...ведь так?
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+......
 
 空「仕方なかったんです」%K%P
 Please forgive him?
@@ -1656,7 +1656,7 @@ CN PLACEHOLDER
 空「サンドはまた、作り直しましょうよ……？」%K%P
 Let's make another sandwich...?
 CN PLACEHOLDER
-Как насчёт того, чтобы сделать новый сэндвич?..
+Как насчёт того, чтобы сделать новый бутерброд...?
 
 空「食料は幸い、まだ充分に確保されていますから」%K%P
 It is a good thing that there are still plenty of provisions left.
@@ -1666,7 +1666,7 @@ CN PLACEHOLDER
 武「違う！　そうじゃないっ！！」%K%P
 No! That's not what I'm talking about!
 CN PLACEHOLDER
-Нет! Чёрт побери, я не о том!
+Нет! Чёрт побери, я не о том!!
 
 俺は叫んでいた。%K%P
 I screamed.
@@ -1676,7 +1676,7 @@ CN PLACEHOLDER
 空「！？」%K%P
 !
 CN PLACEHOLDER
-?!
+---!?
 
 驚いたように空は目を見開き、俺を見て後ずさりした。%K%P
 Sora stared back at me, eyes wide with surprise.
@@ -1686,32 +1686,32 @@ CN PLACEHOLDER
 武「そういう問題じゃないんだよ、空……！」%K%P
 It isn't about that, Sora...!
 CN PLACEHOLDER
-Сора, не об этом речь!..
+Сора, не об этом речь...!
 
 武「代わりがあればいいとか、そういうことじゃないんだ！！」%K%P
 It isn't about whether we have more or not!
 CN PLACEHOLDER
-Какая разница, есть ли у нас ещё еда или нет!
+Какая разница, есть ли у нас ещё еда или нет!!
 
 武「違うんだよ……わからないか！？」%K%P
 It isn't... Can't you understand that!?
 CN PLACEHOLDER
-Не в этом... неужели ты не понимаешь?!
+Не в этом...неужели ты не понимаешь!?
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+......
 
 空「わ、わかります」%K%P
 I... I understand.
 CN PLACEHOLDER
-П-понимаю...
+П-Понимаю...
 
 空「いえ、その……わかりません」%K%P
 No, I... don't understand.
 CN PLACEHOLDER
-Нет, я... не понимаю.
+Нет, я...не понимаю.
 
 武「なんだよ、はっきりしないな、空……？」%K%P
 Well, which one is it, Sora?
@@ -1726,7 +1726,7 @@ CN PLACEHOLDER
 俺自身に、歯止めが利かなかった。%K%P
 But I couldn't stop myself.
 CN PLACEHOLDER
-Но... не могу остановиться.
+Но...не могу остановиться.
 
 武「わかるのか？　わからないのか？」%K%P
 Do you or don't you understand?
@@ -1751,22 +1751,22 @@ CN PLACEHOLDER
 武「お前は優秀なＡＩのはずだろう？」%K%P
 You're a first-rate AI program, aren't you?
 CN PLACEHOLDER
-Ты же высокоразвитый искусственный интеллект?
+Ты же высокоразвитый искусственный интеллект, не так ли?
 
 空「く、倉成、さん……？」%K%P
 Ku-Kuranari-san...?
 CN PLACEHOLDER
-К-Куранари... сан?..
+К-Куранари...сан...?
 
 空「あの……どうすれば、いいんですか……」%K%P
 What... do you want me to do...?
 CN PLACEHOLDER
-Э-э... что я могу... поделать?..
+Эээ...что я могу...поделать...?
 
 空「私、私……っ」%K%P
 I... I...
 CN PLACEHOLDER
-Я... я...
+Я...я...
 
 空は、おろおろとし始めた。%K%P
 Sora started to waver.
@@ -1801,7 +1801,7 @@ CN PLACEHOLDER
 武「食事がどんなに大切なことなのか……確かに、空には理解できないかもな」%K%P
 How important food is... I guess you couldn't understand that.
 CN PLACEHOLDER
-И не могло быть... Тебе не понять, насколько важна еда.
+И не могло быть, не правда ли...? Тебе не понять, насколько важна еда.
 
 武「お前は俺達人間とは、違うんだから」%K%P
 Because you aren't human like we are.
@@ -1811,7 +1811,7 @@ CN PLACEHOLDER
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「なぁ、それより」%K%P
 Hey, forget it.
@@ -1831,12 +1831,12 @@ CN PLACEHOLDER
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「どうしたんだよ……さっさと教えてくれよ」%K%P
 What happened...? Come on, tell us.
 CN PLACEHOLDER
-Что это было?.. Ну скажи же.
+Что это было...? Ну скажи же.
 
 武「それくらい、お前が調べれば、すぐわかるんだろ？」%K%P
 If you check, you should find out in no time, right?
@@ -1846,12 +1846,12 @@ CN PLACEHOLDER
 武「早くしろよ！　どうして答えてくれないんだ！？」%K%P
 Hurry up! Why won't you tell me what happened!?
 CN PLACEHOLDER
-Сора! Да что с тобой?!
+Сора! Да что с тобой!?
 
 空「……！！」%K%P
 ...!
 CN PLACEHOLDER
-!
+-----!!
 
 彼女が水を弾く足音を聞いた気がした。%K%P
 She thought she heard the sound of someone running in water.
@@ -1861,17 +1861,17 @@ CN PLACEHOLDER
 音のするはずなど、なかったのに。%K%P
 Sounds where there should have been none.
 CN PLACEHOLDER
-Но звук исходит оттуда, где никого нет.
+Но, звук исходит оттуда, где никого нет.
 
 空は踵を返すと俺達から遠ざかり、部屋の出口から駆け去って行く。%K%P
 Sora kept her distance from us and ran out the exit of the room.
 CN PLACEHOLDER
-Сора резко развернулась, отошла от нас и выбежала через выход.
+Сора побежала в противную от нас сторону, и скрылась из виду в ближайшем выходе.
 
 武「空……！？」%K%P
 Sora...!?
 CN PLACEHOLDER
-Сора?!
+Сора...!?
 
 彼女の後ろ姿を見送っていると、つぐみが俺の目前に立った。%K%P
 After watching her run off, Tsugumi stood right in front of me.
@@ -1881,7 +1881,7 @@ CN PLACEHOLDER
 武「な……なんだよ？」%K%P
 Wh-What?
 CN PLACEHOLDER
-Ч... что?
+Ч...что?
 
 つぐみは俺を睨みつけていた。%K%P
 Tsugumi was glaring at me.
@@ -1891,7 +1891,7 @@ CN PLACEHOLDER
 つぐみ「武……」%K%P
 Takeshi...
 CN PLACEHOLDER
-Такэси...
+Такеши...
 
 つぐみ「あなたって、最低ね」%K%P
 You are such a scumbag.
@@ -1901,12 +1901,12 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.......
 
 優が少年に駆け寄り、その肩を抱く。%K%P
 You went over to the Kid and hugged him around the shoulders.
 CN PLACEHOLDER
-Ю, выйдя из оцепенения, подбежала к Малому и обняла его за дрожащие плечи своими хрупкими руками.
+Ю, выйдя из оцепенения, подбежала к Киду и обняла его за дрожащие плечи своими хрупкими руками.
 
 ココとピピは茫然と、皆のことを眺めていた。%K%P
 Coco and Pipi were staring at everyone, speechless.
@@ -1926,7 +1926,7 @@ CN PLACEHOLDER
 （なんだってんだよっ……！）%K%P
 (What was that about...!?)
 CN PLACEHOLDER
-(Что это было?!)
+(Что это было...!?)
 
 （俺は……）%K%P
 (I'm...)
@@ -1941,7 +1941,7 @@ CN PLACEHOLDER
 （間違ってない……はずだ……）%K%P
 (I'm not wrong... Right?)
 CN PLACEHOLDER
-(Я же прав... или нет?)
+(Я же прав...или нет?)
 
 頭に血が上っていた。%K%P
 Blood rushed to my head.
@@ -1951,7 +1951,7 @@ CN PLACEHOLDER
 （くそっ……）%K%P
 (Damn it...)
 CN PLACEHOLDER
-(Такэси, будь ты проклят...)
+(Такеши, будь ты проклят...)
 
 自分でもわかっている。%K%P
 Even I could tell.
@@ -1966,7 +1966,7 @@ CN PLACEHOLDER
 けれど、一度口にしてしまった言葉は、簡単には取り消すことはできなかった。%K%P
 But once something had been said, it wasn't easy to take it back.
 CN PLACEHOLDER
-Но... слово – не воробей. Вылетит – хрен пристрелишь.
+Но... слово - не воробей. Вылетит - хрен пристрелишь.
 
 通路の突き当たりで、立ち止まった。%K%P
 I stopped at the end of the corridor.
@@ -1976,7 +1976,7 @@ CN PLACEHOLDER
 『ＨＩＭＭＥＬ』%K%P
 “HIMMEL”.
 CN PLACEHOLDER
-«HIMMEL».
+'ХИММЕЛ'.
 
 袋小路。どこにも行くことはできない。%K%P
 Dead end. Nowhere to go.
@@ -1986,7 +1986,7 @@ CN PLACEHOLDER
 そう言えば……この扉だけは、何故か開かないのだ。%K%P
 And thinking that... I realized that, for some reason, the door in front of me never seemed to open.
 CN PLACEHOLDER
-Если подумать... дверь, что сейчас передо мной, никогда раньше не была открыта.
+Если подумать...дверь, что сейчас передо мной, никогда раньше не была открыта.
 
 皆でＬｅＭＵを探索していたときに、電子キーの解除を試みたがダメだった。%K%P
 When we'd searched around LeMU, we'd tried to open the electronic lock, but it hadn't budged.
@@ -2001,7 +2001,7 @@ CN PLACEHOLDER
 空「……さん……」%K%P
 ...-san...
 CN PLACEHOLDER
-...-сан...
+...Куранари-сан...
 
 背後から声が聞こえたので、俺は振り向いた。%K%P
 I heard a voice behind me and turned around.
@@ -2011,7 +2011,7 @@ CN PLACEHOLDER
 武「……え？」%K%P
 ...Huh?
 CN PLACEHOLDER
-...А?
+...какого?
 
 通路の水密扉が、いつの間にか閉まっている。%K%P
 The corridor's watertight door had shut without me realizing.
@@ -2061,17 +2061,17 @@ CN PLACEHOLDER
 彼女は物陰に隠れているわけではない。%K%P
 It wasn't as if she were hiding behind something.
 CN PLACEHOLDER
-И непохоже, будто Сора за чем-то прячется.
+И не похоже, будто Сора за чем-то прячется.
 
 武「空……？」%K%P
 Sora...?
 CN PLACEHOLDER
-Сора?..
+Сора...?
 
 武「姿を見せてくれないか……？」%K%P
 You want to show me where you are...?
 CN PLACEHOLDER
-Может всё-таки покажешься?..
+Может всё-таки покажешься...?
 
 再び振り返ってみたが、彼女の姿は現れてくれなかった。%K%P
 I looked around again, but she was nowhere to be found.
@@ -2126,7 +2126,7 @@ CN PLACEHOLDER
 ざあああああああああ…………っ。%K%P
 Fwwwaaaaaaaashhhh...
 CN PLACEHOLDER
-Пф-фш-ш-ш-ш...
+Пффшшшшшшшш...........
 
 天井から大量の水滴が降り注いだ。%K%P
 Massive amounts of water rained down from the ceiling.
@@ -2141,7 +2141,7 @@ CN PLACEHOLDER
 武「……スプリンクラー？」%K%P
 ...The sprinkler?
 CN PLACEHOLDER
-...Разбрызгиватели?
+...разбрызгиватели?
 
 天井のパネルラインの隙間のノズルから、水が噴き出していた。%K%P
 Water was blowing out of nozzles in the crevice between panel lines on the ceiling.
@@ -2156,7 +2156,7 @@ CN PLACEHOLDER
 両端を閉じられた通路からは、排水されていく気配がない。%K%P
 It didn't look like water was draining from either side of the corridor.
 CN PLACEHOLDER
-И непохоже, что помповые насосы вообще работают.
+И не похоже, что помповые насосы вообще работают.
 
 俺は水密扉に駆け寄って、激しく拳で叩いた。%K%P
 I ran over to the hatch and started pounding on it with my fist.
@@ -2211,7 +2211,7 @@ CN PLACEHOLDER
 空「…………？」%K%P
 ...?
 CN PLACEHOLDER
-?
+........?
 
 カメラはゆっくりと、俺を眺めた。%K%P
 The cameras slowly tracked me.
@@ -2226,7 +2226,7 @@ CN PLACEHOLDER
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「どうかしたんですか？」%K%P
 What's wrong?
@@ -2236,7 +2236,7 @@ CN PLACEHOLDER
 武「お、おい、まさか……わからないのか、空？」%K%P
 Hey, come on... Don't tell me you don't understand, Sora?
 CN PLACEHOLDER
-Х-Хорош придуриваться... Сора, не говори, будто не понимаешь...
+Х-Хорош придуриваться...Сора, не говори, будто не понимаешь...
 
 空はじっと、俺の様子を観察している……。%K%P
 Sora was observing the situation leisurely...
@@ -2246,27 +2246,27 @@ CN PLACEHOLDER
 空「どうか……したんですか？」%K%P
 Is... something wrong?
 CN PLACEHOLDER
-Что... что-то не так?
+Что...что-то не так?
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+......
 
 武「……だ」%K%P
 ...Some...
 CN PLACEHOLDER
-...Кто...
+...кто...
 
 武「誰か来てくれ！　ここを開けてくれ！！」%K%P
 Somebody! Open this door, please!
 CN PLACEHOLDER
-Кто-нибудь! Умоляю, откройте эту проклятую дверь!
+Кто-нибудь!! Умоляю, откройте эту проклятую дверь!!
 
 がんがんと、ノックを繰り返したが、分厚い扉からは何も答えが返ってこない。%K%P
 I kept pounding on the door, but no answer came from the other side of the thick wall.
 CN PLACEHOLDER
-Я продолжил бить рукой по двери, но похоже, за этой толстой стеной меня никто не слышит.
+Я продолжил бить рукой по двери, но, похоже, за этой толстой стеной меня никто не слышит.
 
 水密扉はレミが自動で閉めていて、開ける為のパネルがそこになかった。%K%P
 Looking around, I couldn't find one of the panels used to automatically open and close the watertight doors.
@@ -2291,7 +2291,7 @@ CN PLACEHOLDER
 武「いったい、どういうつもりだ……？」%K%P
 What are you doing...?
 CN PLACEHOLDER
-Что ты делаешь?..
+Что ты делаешь...?
 
 俺は微かに、戦慄を感じた。%K%P
 I felt a slight shiver run through me.
@@ -2306,7 +2306,7 @@ CN PLACEHOLDER
 空「所詮、私はプログラムです」%K%P
 I am only a program, after all.
 CN PLACEHOLDER
-В конце концов... я всего лишь программа.
+В конце концов...я всего лишь программа.
 
 淡々と、機械的な声が告げた。%K%P
 Her voice sounded more and more mechanical.
@@ -2321,12 +2321,12 @@ CN PLACEHOLDER
 空「ＲＳＤによって、人の形を映しているに過ぎないのです」%K%P
 I am only an RSD-generated image in human form.
 CN PLACEHOLDER
-RSD – это всего лишь проекция, дающая программе человеческий облик.
+RSD - это всего лишь проекция, дающая программе человеческий облик.
 
 武「…………！？」%K%P
 ...!?
 CN PLACEHOLDER
-?!
+--------!?
 
 空「食事がどんなに大切なことなのか、私には理解できません」%K%P
 I cannot understand how important food is.
@@ -2351,12 +2351,12 @@ CN PLACEHOLDER
 武「空っ！！」%K%P
 Soraaa!!
 CN PLACEHOLDER
-Сора-а-а!
+Сорааа!!
 
 武「やめてくれ！　スプリンクラーを止めろ！！」%K%P
 Stop it! Stop the sprinklers!
 CN PLACEHOLDER
-Останови! Останови воду!
+Останови! Останови воду!!
 
 扉へ体当たりを食らわすが、びくともしない。%K%P
 I slammed my body against the door, but it didn't budge.
@@ -2376,7 +2376,7 @@ CN PLACEHOLDER
 色は歪み、輪郭はどんどん曖昧になる。%K%P
 All colors became distorted, and outlines suddenly became vague.
 CN PLACEHOLDER
-Цвета исказились... очертания размылись.
+Цвета исказились...очертания размылись.
 
 もう何も見えなくなっていく。%K%P
 I couldn't see anything.
@@ -2386,37 +2386,37 @@ CN PLACEHOLDER
 空「違う……、違う……！」%K%P
 No... No...!
 CN PLACEHOLDER
-Нет... нет!
+Нет....нет....!
 
 空「あなたは誰！？」%K%P
 Who are you!?
 CN PLACEHOLDER
-Кто ты?!
+Кто ты!?
 
 空「あなたは、私じゃない！！」%K%P
 You aren't me!
 CN PLACEHOLDER
-Это не я!
+Это---не я!!
 
 空……？%K%P
 (Sora...?)
 CN PLACEHOLDER
-(Сора?..)
+(Сора...?)
 
 何を言っている……？%K%P
 (What are you saying...?)
 CN PLACEHOLDER
-(Что ты сказала?..)
+(Что ты сказала...?)
 
 ……………………。%K%P
 .........
 CN PLACEHOLDER
-......
+...............
 
 …………。%K%P
 ......
 CN PLACEHOLDER
-...
+.........
 
 俺は恐る恐る目を開く。%K%P
 Terrified, I opened my eyes.
@@ -2426,7 +2426,7 @@ CN PLACEHOLDER
 武「少年……つぐみを見てみろよ」%K%P
 Kid... look over at Tsugumi.
 CN PLACEHOLDER
-Малой... посмотри на Цугуми.
+Кид...посмотри на Цугуми.
 
 武「あいつだって、一時は足がちぎれるかもしれないような大怪我したし、溺れそうになったこともあるし……」%K%P
 She injured her leg terribly and almost drowned...
@@ -2436,7 +2436,7 @@ CN PLACEHOLDER
 武「大手術も受けた……俺だったらそれだけで滅入っちまいそうだけど、それでもあいつは、めげずにやってんだよ」%K%P
 She had surgery... If it was me, I'd have probably died, but she pulled through it.
 CN PLACEHOLDER
-Перенесла операцию... на её месте, я бы уже давно помер, но она смогла протащить себя сквозь весь этот ужас.
+Перенесла операцию...на её месте, я бы уже давно помер, но она смогла протащить себя сквозь весь этот ужас.
 
 俺はつぐみを指差した。%K%P
 I pointed at Tsugumi.
@@ -2451,12 +2451,12 @@ CN PLACEHOLDER
 少年はおずおずと、視線を上げて見た。%K%P
 The Kid timidly raised his eyes to look at her.
 CN PLACEHOLDER
-Малой робко поднял глаза, чтобы взглянуть на неё.
+Кид робко поднял глаза, чтобы взглянуть на неё.
 
 が、すぐに目を逸らす。%K%P
 But he soon stared at the floor again.
 CN PLACEHOLDER
-Но вскоре опять уставился в пол.
+Но, вскоре опять уставился в пол.
 
 少年「でも……」%K%P
 But...
@@ -2466,27 +2466,27 @@ CN PLACEHOLDER
 少年「武が、そんなこと言ったってさぁっ……」%K%P
 Takeshi, you can say that, but...
 CN PLACEHOLDER
-Такэси, может, и так, но...
+Такеши, может и так, но...
 
 少年「ぼくは、つぐみじゃないんだ……」%K%P
 I'm not Tsugumi...
 CN PLACEHOLDER
-Но... Цугуми – не я...
+Но...Цугуми - не я...
 
 少年「みんな、同じじゃないんだからっ」%K%P
 We're not all the same.
 CN PLACEHOLDER
-Мы... разные люди.
+Мы...разные люди.
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「無理だよ」%K%P
 I can't do it.
@@ -2506,22 +2506,22 @@ CN PLACEHOLDER
 少年「そんなに強くなれないよ……！」%K%P
 And I never will be...!
 CN PLACEHOLDER
-И никогда таким не буду!..
+И никогда таким не буду...!
 
 少年「生きてなんか、いられない」%K%P
 I can't go on living.
 CN PLACEHOLDER
-Я не хочу... жить дальше.
+Я не хочу...жить дальше.
 
 少年「生きていられないんだよ……！」%K%P
 I don't want to go on living...!
 CN PLACEHOLDER
-Я не хочу продолжения!..
+Я не хочу продолжения...!
 
 少年「だから、だったら…………」%K%P
 So then...
 CN PLACEHOLDER
-Потому... потому...
+Потому...потому....
 
 少年「いっそのこと……っ」%K%P
 I should just...
@@ -2531,7 +2531,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 その先は言わせたくなかった。%K%P
 I didn't want to make him say the rest.
@@ -2541,7 +2541,7 @@ CN PLACEHOLDER
 だけど、もう止められなかった。%K%P
 But I couldn't stop him.
 CN PLACEHOLDER
-Но я не могу остановить его.
+Но, я не могу остановить его.
 
 少年がそれを言うことの辛さだって、わかっていたつもりだった。%K%P
 I knew how hard it would be for him to say.
@@ -2556,7 +2556,7 @@ CN PLACEHOLDER
 皆、何も言えぬまま、少年の次の言葉を待つ……。%K%P
 Everyone waited for the Kid's next words in silence...
 CN PLACEHOLDER
-Все лишь ждут, в бездонном вакууме тишины, что дальше скажет Малой...
+Все лишь ждут, в бездонном вакууме тишины, что дальше скажет Кид...
 
 恐らくそれは、禁句だった。%K%P
 They were probably unthinkable.
@@ -2571,42 +2571,42 @@ CN PLACEHOLDER
 武「！？」%K%P
 !?
 CN PLACEHOLDER
-?!
+---!?
 
 優「！！」%K%P
 !
 CN PLACEHOLDER
-!
+---!?
 
 空「？」%K%P
 ?
 CN PLACEHOLDER
-?
+〜〜〜?
 
 ココ「…………！？」%K%P
 ...!?
 CN PLACEHOLDER
-?!
+---!?
 
 少年「……えっ！」%K%P
 ...What!?
 CN PLACEHOLDER
-...Что?!
+----!?
 
 つぐみ「どうしたいの……あなたは？」%K%P
 What do you want to do... Kid?
 CN PLACEHOLDER
-Что с тобой?..
+Что с тобой...?
 
 つぐみは一歩前に出て、少年を見据える。%K%P
 Tsugumi took a step forward and stared at the Kid.
 CN PLACEHOLDER
-Цугуми сделала шаг вперёд и пристально уставилась на Малого.
+Цугуми сделала шаг вперёд и пристально уставилась на Кида.
 
 感情のない、静かな瞳だった。%K%P
 Those eyes were unfeeling and quiet.
 CN PLACEHOLDER
-Спокойным... и равнодушным взглядом.
+Спокойным...и равнодушным взглядом.
 
 つぐみ「ねぇ、教えてよ？」%K%P
 Come on, you can tell me.
@@ -2616,22 +2616,22 @@ CN PLACEHOLDER
 つぐみ「少年がどうしたいのか、知りたいわ……」%K%P
 I want to know what you want to do...
 CN PLACEHOLDER
-Малой, чего ты... хочешь?..
+Кид, чего ты...хочешь...?
 
 静かに、一歩一歩、彼女は少年へと近づいていく。%K%P
 Softly, she approached the Kid one step at a time.
 CN PLACEHOLDER
-Она медленно подходит к Малому, шаг за шагом.
+Она медленно подходит к Киду, шаг за шагом.
 
 他の者は驚いて動けない。声も発しなかった。%K%P
 Everyone was so caught off guard that they couldn't move. Couldn't say a word.
 CN PLACEHOLDER
-Все остальные так растерялись, что даже не могут пошевелиться... ни то что слова сказать.
+Все остальные так растерялись, что даже не могут пошевелиться...ни то что слова сказать.
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「どうしたの？　言えないの？」%K%P
 What? You can't say it?
@@ -2641,7 +2641,7 @@ CN PLACEHOLDER
 少年「…………っ」%K%P
 .........
 CN PLACEHOLDER
-...
+----!
 
 何か言い返そうとしたが、言葉にならなかった。%K%P
 He tried to say something, but no words would come out of his mouth.
@@ -2656,7 +2656,7 @@ CN PLACEHOLDER
 つぐみは少年に、そっと触れた。%K%P
 Tsugumi went up to the Kid and touched him.
 CN PLACEHOLDER
-Цугуми подошла к Малому и дотронулась до него.
+Цугуми подошла к Киду и дотронулась до него.
 
 つぐみ「生きていたくないの？」%K%P
 You don't want to live?
@@ -2666,77 +2666,77 @@ CN PLACEHOLDER
 少年「……う……」%K%P
 ...Ugh...
 CN PLACEHOLDER
-...Ух...
+---!
 
 少年は頷こうとして、でも、首を縦に振らなかった。%K%P
 The Kid tried to nod, but his head wouldn't budge.
 CN PLACEHOLDER
-Малой попытался кивнуть, но его голова даже не шелохнулась.
+Кид попытался кивнуть, но его голова даже не шелохнулась.
 
 つぐみ「じゃ、死んじゃいたいの？」%K%P
 So, you want to die then?
 CN PLACEHOLDER
-И... хочешь умереть?
+И...хочешь умереть?
 
 少年「……うう……」%K%P
 ...Uuugh...
 CN PLACEHOLDER
-А-а...
+〜〜〜〜〜〜!
 
 少年はどちらにも、首を振れなかった。%K%P
 The Kid couldn't respond either.
 CN PLACEHOLDER
-Малой не ответил и на этот вопрос.
+Кид не ответил и на этот вопрос.
 
 つぐみ「何か言ってよ、お願いだから……」%K%P
 Say something, please...
 CN PLACEHOLDER
-Скажи что-нибудь... прошу, потому что...
+Скажи что-нибудь...прошу, потому что...
 
 つぐみ「私には、よくわかんないよ……？」%K%P
 I don't know what you mean...
 CN PLACEHOLDER
-Я... не понимаю...
+Я...не понимаю...
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 淡々と、つぐみは少年に尋ねる。%K%P
 Tsugumi asked the Kid, her tone neutral.
 CN PLACEHOLDER
-Цугуми спросила Малого нейтральным тоном.
+Цугуми спросила Кида нейтральным тоном.
 
 つぐみ「ねぇ、どっちなの……？」%K%P
 So which is it...?
 CN PLACEHOLDER
-Что же... скажи...
+Что же...скажи...
 
 つぐみ「あなたは、死にたいの？」%K%P
 Do you want to die?
 CN PLACEHOLDER
-Ты... хочешь умереть?
+Ты...хочешь умереть?
 
 つぐみ「あなたは、生きたいの？」%K%P
 Do you want to live?
 CN PLACEHOLDER
-Ты... хочешь жить?
+Ты...хочешь жить?
 
 少年「……ううっ……」%K%P
 ...Aaggh...
 CN PLACEHOLDER
-А-а-а-а...
+----!!
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「そう……答えられないんだ？」%K%P
 So... you can't answer?
 CN PLACEHOLDER
-Значит... не отвечаешь...
+Значит...не отвечаешь...
 
 つぐみ「だったら……」%K%P
 Well then...
@@ -2746,7 +2746,7 @@ CN PLACEHOLDER
 つぐみ「もう二度と……そんなこと言わないで」%K%P
 Don't ever... say that again.
 CN PLACEHOLDER
-Больше... никогда так не говори.
+Больше...никогда так не говори.
 
 つぐみ「ね？」%K%P
 Okay?
@@ -2756,17 +2756,17 @@ CN PLACEHOLDER
 少年「あ……！！」%K%P
 Ah...!
 CN PLACEHOLDER
-Ах...
+--------!!
 
 少年はその場で泣き崩れ、海水で満ちた床にしゃがみ込んだ。%K%P
 The Kid broke down in tears and fell to the submerged floor.
 CN PLACEHOLDER
-Малой горестно зарыдал и свалился на пол, устланый водой.
+Кид горестно зарыдал и свалился на пол, устланый водой.
 
 少年「あああ……」%K%P
 Aaaagh...
 CN PLACEHOLDER
-А-а-а-а-агх...
+Ааааагххх......
 
 少年「ごめんなさい……」%K%P
 I'm sorry...
@@ -2776,12 +2776,12 @@ CN PLACEHOLDER
 少年「ごめん、なさ……い……っ……」%K%P
 I'm so... sorryyy...
 CN PLACEHOLDER
-Про... стите!..
+Про...стите....!
 
 ハッと弾かれたように優が少年に駆け寄り、その肩を抱く。%K%P
 You, suddenly spurred into action, ran over to the Kid and wrapped her arms around his shoulders.
 CN PLACEHOLDER
-Ю, выйдя из оцепенения, подбежала к Малому и обняла его за дрожащие плечи своими хрупкими руками.
+Ю, выйдя из оцепенения, подбежала к Киду и обняла его за дрожащие плечи своими хрупкими руками.
 
 空はうつむいて自分の顔を、手で覆った。震えている。%K%P
 Sora looked down and covered her face with her hands. She was trembling.
@@ -2796,7 +2796,7 @@ CN PLACEHOLDER
 武「つ、つぐみ……！？」%K%P
 Tsu-Tsugumi...!?
 CN PLACEHOLDER
-Цу-Цугуми?!
+Цу-Цугуми...!?
 
 俺も何と言ったらいいかわからないまま、立ち尽くしていた。%K%P
 Not knowing what else to say, I just stood there.
@@ -2811,12 +2811,12 @@ CN PLACEHOLDER
 表情からは、彼女の考えがうまく読めない。%K%P
 But I couldn't read what she was thinking from her expression.
 CN PLACEHOLDER
-Но не могу прочесть, что сейчас у неё на уме.
+Но, не могу прочесть, что сейчас у неё на уме.
 
 つぐみ「武……」%K%P
 Takeshi...
 CN PLACEHOLDER
-Такэси...
+Такеши...
 
 つぐみ「ちょっと、こっちに来て……」%K%P
 Come here for a second...
@@ -2826,7 +2826,7 @@ CN PLACEHOLDER
 武「？」%K%P
 ?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 俺が戸惑っていると、突然、つぐみはこっちに走り寄って来る。%K%P
 Seeing that I was confused, Tsugumi ran over to me.
@@ -2841,7 +2841,7 @@ CN PLACEHOLDER
 なんだろう……？%K%P
 What was she thinking...?
 CN PLACEHOLDER
-Чёрт, да что у неё на уме?..
+Чёрт, да что у неё на уме...?
 
 武「痛てっ！！」%K%P
 Ouch!
@@ -2851,7 +2851,7 @@ CN PLACEHOLDER
 武「な、な、な、何すんだよっ……痛ーっ！」%K%P
 Wh-Wh-Wh-What are you doing...!? That hurts!
 CN PLACEHOLDER
-К-к-к-какого чёрта... больно!
+К-к-к-какого чёрта...больно!
 
 つぐみ「いいから、来なさい！」%K%P
 Stop whining and get over here!
@@ -2886,7 +2886,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみは無言で、がんがん先に歩いて進む。%K%P
 She wordlessly and doggedly moved forward.
@@ -2906,7 +2906,7 @@ CN PLACEHOLDER
 武「ひいぃー、お代官様ぁー……」%K%P
 Aaaaaagh, officer...
 CN PLACEHOLDER
-А-а-а-а-а-а-ай...
+Ааааааай...
 
 武「とっても痛いですぅ。放してください。お願いしますぅ……」%K%P
 This is killing meeee. Let go of me. Pleeease...
@@ -2916,7 +2916,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 ..........
 CN PLACEHOLDER
-...
+..........
 
 どんどん階段を上っていく。%K%P
 We kept climbing the stairs.
@@ -2936,17 +2936,17 @@ CN PLACEHOLDER
 武「ふぅーーーーーーっ、助かったぁ……」%K%P
 Wheeeew... Thank heavens...
 CN PLACEHOLDER
-А-а-ай... хвала небесам...
+Ааай....слава тебе, Господи...
 
 武「て言うか、いきなりなにすんだよっ！！　コノヤローッ！！」%K%P
 I mean... What are you doing!? Are you crazy!?
 CN PLACEHOLDER
-То есть... какого чёрта?! Ты что, сбрендила?!
+То есть...какого чёрта?! Ты что, сбрендила!?
 
 つぐみ「うるさいわねぇ……」%K%P
 Quit your bitching...
 CN PLACEHOLDER
-Помолчи, а?..
+Помолчи, а...?
 
 つぐみ「やっと黙ったと思ったのに……」%K%P
 Just when I thought you'd FINALLY shut up...
@@ -2961,7 +2961,7 @@ CN PLACEHOLDER
 武「な、なんだよ、その顔は」%K%P
 Wh-What's that face supposed to mean!?
 CN PLACEHOLDER
-П-почему ты так на меня уставилась?!
+П-почему ты так на меня уставилась!?
 
 つぐみ「見てのとおり……」%K%P
 Just what it looks like...
@@ -2971,7 +2971,7 @@ CN PLACEHOLDER
 つぐみ「ガッカリしてるのよ、あなたに」%K%P
 I'm so disappointed in you.
 CN PLACEHOLDER
-Я разочарована... в тебе.
+Я разочарована...в тебе.
 
 眉をしかめて俺を見る。%K%P
 She furrowed her brow and looked at me.
@@ -3006,7 +3006,7 @@ CN PLACEHOLDER
 武「どうしてだよ！？　俺がお前に何かしたのか？」%K%P
 What's with you!? Did I do something to you?
 CN PLACEHOLDER
-Что с тобой?! Я чем-то тебя обидел?
+Что с тобой!? Я чем-то тебя обидел?
 
 慌てて後に追いつき、俺は言い募った。%K%P
 I hurried over to her and insisted that she answer me.
@@ -3021,7 +3021,7 @@ CN PLACEHOLDER
 つぐみ「違う、違う……あなたはまるでわかってない」%K%P
 No, it's not like that... You don't understand anything.
 CN PLACEHOLDER
-Нет... нет! Ты ни черта не понимаешь!
+Нет...нет...! Ты ни черта не понимаешь!!
 
 つぐみは肩を怒らせながら、歩みを速めて行く。%K%P
 And throwing back her shoulders, she picked up her pace.
@@ -3036,27 +3036,27 @@ CN PLACEHOLDER
 武「いや、その……」%K%P
 I mean... er...
 CN PLACEHOLDER
-Э-э... то есть...
+Эээ...то есть...
 
 武「さっき、あの場の収拾をつけられなくって……お前のひと言がなければ、どうなってたかわからなかった」%K%P
 Things were getting out of hand back there... If you hadn't said something, I don't know how it would have turned out.
 CN PLACEHOLDER
-Ситуация едва не вышла из-под контроля... если бы ты не сказала то, что сказала, и думать боюсь, чем бы всё это кончилось.
+Ситуация едва не вышла из-под контроля...если бы ты не сказала то, что сказала, и думать боюсь, чем бы всё это кончилось.
 
 武「それは感謝してる。マジで……すまん。それに、サンキュー……」%K%P
 I'm glad you did. I'm... really sorry. And thanks...
 CN PLACEHOLDER
-Поэтому... я прошу у тебя прощения и... спасибо тебе, Цугуми...
+Поэтому...я прошу у тебя прощения и...спасибо тебе, Цугуми...
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.......
 
 武「おい、待てって！　つぐみ……！」%K%P
 Hey, wait! Tsugumi...!
 CN PLACEHOLDER
-Э-э-эй, постой! Цугуми!..
+Эээй, постой! Цугуми...!
 
 俺は追いすがりつつ叫んだ。%K%P
 I kept yelling as I chased after her.
@@ -3076,7 +3076,7 @@ CN PLACEHOLDER
 武「そうじゃなくて……そうじゃないんだ！」%K%P
 That's not it... That's not it!
 CN PLACEHOLDER
-Чёрт... чёрт, что я несу!
+Чёрт...чёрт, что я несу!
 
 武「お前は俺に、腹を立ててるんだろ？」%K%P
 You're angry at ME, right?
@@ -3086,12 +3086,12 @@ CN PLACEHOLDER
 武「どうしてそんなに怒ってるのか……教えてくれよ！」%K%P
 Why are you so mad...? Please tell me!
 CN PLACEHOLDER
-Почему ты так злишься?.. Умоляю тебя, объясни!
+Почему ты так злишься...? Умоляю тебя, объясни!
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 クヴァレの入り口で、つぐみは立ち止まった。%K%P
 Tsugumi stopped at the entrance to Qualle.
@@ -3101,12 +3101,12 @@ CN PLACEHOLDER
 つぐみ「ええ、わかったわ……」%K%P
 Okay, I will...
 CN PLACEHOLDER
-Эх... хорошо...
+Эх...хорошо...
 
 つぐみ「くだらない質問だけど、答えてあげる」%K%P
 It's a stupid question, but I'll answer it for you anyway.
 CN PLACEHOLDER
-Это глупый вопрос, но... я отвечу.
+Это глупый вопрос, но...я отвечу.
 
 武「あ、ああ……」%K%P
 O-Okay...
@@ -3116,7 +3116,7 @@ CN PLACEHOLDER
 唐突につぐみは、微笑んで俺を見た。%K%P
 All of a sudden, Tsugumi smiled at me.
 CN PLACEHOLDER
-Ни с того ни с сего Цугуми улыбнулась.
+Ни с того, ни с сего, Цугуми улыбнулась.
 
 俺は少し怯んだ。%K%P
 I flinched.
@@ -3126,32 +3126,32 @@ CN PLACEHOLDER
 つぐみ「あなた、さっき自分でなんて言ったか覚えてる？」%K%P
 Do you remember what you said earlier?
 CN PLACEHOLDER
-Ты помнишь, что сказал чуть раньше?
+Ты...помнишь, что сказал чуть раньше?
 
 武「俺か？　俺は……えーと」%K%P
 Me? I... Let's see...
 CN PLACEHOLDER
-Я? Ну... минутку...
+Я? Ну...минутку...
 
 武「……頭に血が上ってたからな……あまり細かくは……」%K%P
 ...I was fairly angry... so I really don't remember that well...
 CN PLACEHOLDER
-...Я был довольно-таки зол... поэтому не шибко и помню...
+...я был довольно-таки зол...поэтому не шибко и помню...
 
 武「それに時々、支離滅裂になってたかもしれないし……」%K%P
 And might not have been all 'there' at the time...
 CN PLACEHOLDER
-Видимо потому, что всё это время был „не в себе“...
+Видимо потому, что всё это время был 'не в себе'...
 
 武「で、でもなぁっ！」%K%P
 B-But you know!
 CN PLACEHOLDER
-Н-но, знаешь что!..
+Н-но, знаешь что...!
 
 武「俺は少年に、間違ったことを言ったとは思ってない！」%K%P
 I really don't think I said anything wrong to the Kid!
 CN PLACEHOLDER
-Не думаю, что я сказал Малому что-то в корне не верное!
+Не думаю, что я сказал Киду что-то в корне не верное!
 
 武「それは、確かだ……」%K%P
 And I'm sure about that...

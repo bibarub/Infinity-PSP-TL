@@ -6,7 +6,7 @@ CN PLACEHOLDER
 ぼくは制御室を出て、待ち合わせ場所――警備室の前へと向かった。%K%P
 I left the control room and headed toward the meeting point—in front of the security office.
 CN PLACEHOLDER
-Я выбежал из Центра управления по направлению к точке сбора – Офису охраны.
+Я выбежал из Центра Управления по направлению к точке сбора - Офису Охраны.
 
 ところが……。%K%P
 But...
@@ -16,12 +16,12 @@ CN PLACEHOLDER
 警備室の前に、武はいなかった。%K%P
 Takeshi was nowhere to be seen.
 CN PLACEHOLDER
-Такэси там не оказалось.
+Такеши там не оказалось.
 
 少年「おーい！　武ーっ！」%K%P
 Hey! Takeshi!
 CN PLACEHOLDER
-Эй! Такэси!
+Эй! Такеши!
 
 呼んでみるが、返事は戻って来ない。%K%P
 I called out to him, but there was no answer.
@@ -31,7 +31,7 @@ CN PLACEHOLDER
 ふと、警備室の方を見ると、扉が開けっ放しになっているのがわかった。%K%P
 Glancing at the door of the security office, I saw that it was open.
 CN PLACEHOLDER
-Глядя на Офис охраны, я заметил открытую дверь.
+Глядя на Офис Охраны, я заметил открытую дверь.
 
 ぼくは、部屋の中をのぞいてみることにした。%K%P
 I decided to take a peek inside the room.
@@ -51,17 +51,17 @@ CN PLACEHOLDER
 少年「お〜い、空ぁ〜、空ぁ〜、みんなぁ〜、どこ行っちゃったんだぁ〜？」%K%P
 Hey, Sora! Sora, everybody? Where are you?
 CN PLACEHOLDER
-Ау! Сора! Сора, кто-нибудь? Где вы?
+Эй, Сора! Сора, кто-нибудь? Где вы?
 
 何も無い天井に向かって呼びかける。%K%P
 I looked up at the bare ceiling and called out.
 CN PLACEHOLDER
-Выкрикнул я в пустую комнату.
+Я оглядел пустую комнату и выкрикнул.
 
 制御室の空が、ぼくのことをモニターしてるんじゃないかと思ったのだ。%K%P
 I figured Sora would be in the control room monitoring me.
 CN PLACEHOLDER
-Я думал, что Сора наблюдает за мной из Центра управления.
+Я думал, что Сора в Центре Управления и может слышать меня.
 
 けれど、これもカラ振り……。%K%P
 But apparently she wasn't...
@@ -76,7 +76,7 @@ CN PLACEHOLDER
 ぼくはツヴァイトシュトックをまわってみた。%K%P
 I looked around Zweiter Stock.
 CN PLACEHOLDER
-Я осмотрел весь Цвайте Шток.
+Я осмотрел весь Цвайте шток.
 
 少年「お〜い、誰かいるなら、返事してくれぇ〜！」%K%P
 Is there anybody there? If so, answer me!
@@ -96,12 +96,12 @@ CN PLACEHOLDER
 そうこうしているうちに、約束の時刻がやって来た。%K%P
 And it was about time to meet up with Takeshi.
 CN PLACEHOLDER
-А тут как раз подошло время встречи с Такэси.
+А тут как раз подошло время встречи с Такеши.
 
 ぼくは、待ち合わせ場所――警備室の前へと足を運んだ。%K%P
 I headed to the front of the security office.
 CN PLACEHOLDER
-Я добрался до Офиса охраны.
+Я добрался до Офиса Охраны.
 
 ところが……。%K%P
 But...
@@ -111,12 +111,12 @@ CN PLACEHOLDER
 警備室の前に、武の姿はなかった。%K%P
 Takeshi was nowhere to be seen.
 CN PLACEHOLDER
-Такэси там не оказалось.
+Такеши там не оказалось.
 
 少年「おーい！　武ーっ！」%K%P
 Hey! Takeshi!
 CN PLACEHOLDER
-Эй! Такэси!
+Эй! Такеши!
 
 呼んでみるが、返事は戻って来ない。%K%P
 I called out to him, but there was no answer.
@@ -126,7 +126,7 @@ CN PLACEHOLDER
 警備室の方を見ると、扉が開けっ放しになっているのがわかった。%K%P
 Glancing at the door of the security office, I saw that it was open.
 CN PLACEHOLDER
-Глядя на Офис охраны, я заметил открытую дверь.
+Глядя на Офис Охраны, я заметил открытую дверь.
 
 ぼくは、部屋の中をのぞいてみることにした。%K%P
 I decided to take a peek inside the room.
@@ -136,22 +136,22 @@ CN PLACEHOLDER
 やっぱり誰もいない……。%K%P
 No one was there...
 CN PLACEHOLDER
-Но... там никого не оказалось...
+Но...там никого не оказалось...
 
 少年「お〜い、空ぁ〜、空ぁ〜、武のやつ、どこ行っちゃったか知らな〜い？」%K%P
 Hey! Sora! Do you know where Takeshi went?
 CN PLACEHOLDER
-Ау! Сора! Ты не знаешь, куда ушёл Такэси?
+Ау! Сора! Ты не знаешь, куда ушёл Такеши?
 
 何も無い天井に向かって呼びかける。%K%P
 I looked up at the bare ceiling and called out.
 CN PLACEHOLDER
-Выкрикнул я в пустую комнату.
+Я оглядел пустую комнату и выкрикнул.
 
 制御室の空が、ぼくのことをモニターしてるんじゃないかと思ったのだ。%K%P
 I figured Sora would be in the control room monitoring me.
 CN PLACEHOLDER
-Я думал, что Сора наблюдает за мной из Центра управления.
+Я подумал, что Сора наблюдает за мной из Центра Управления.
 
 けれど、これもカラ振り……。%K%P
 But apparently she wasn't...
@@ -166,12 +166,12 @@ CN PLACEHOLDER
 少年「う〜ん、どうしよっかなぁ……」%K%P
 Hmmm. I wonder what I should do.
 CN PLACEHOLDER
-Хм-м-м. И что же мне теперь делать?
+Хммм. И что же мне теперь делать?
 
 ぶらぶらと通路を歩きながら考える。%K%P
 I thought as I wandered walking through the corridors.
 CN PLACEHOLDER
-Я в раздумьях хожу по коридору.
+Я в раздумье бреду по коридору.
 
 まずは……%K%p
 First...
@@ -181,22 +181,22 @@ CN PLACEHOLDER
 他の場所に行ってみよう。%K%p
 I thought I would go somewhere else.
 CN PLACEHOLDER
-Может, мне стоит пойти куда-нибудь ещё?
+Может мне стоит пойти куда-нибудь ещё?
 
 他の場所に行ってみよう。%K%P
 I thought I would go somewhere else.
 CN PLACEHOLDER
-Может, мне стоит пойти куда-нибудь ещё?
+Может мне стоит пойти куда-нибудь ещё?
 
 メリーゴーランドへ
 To the merry-go-round
 CN PLACEHOLDER
-Дельфинья карусель
+Дельфинья Карусель
 
 クラゲゴンドラへ
 To the Jellyfish Gondola
 CN PLACEHOLDER
-Гондола «Медуза»
+Гондола Медуза
 
 倉庫へ
 To the warehouse
@@ -206,17 +206,17 @@ CN PLACEHOLDER
 制御室へ
 To the control room
 CN PLACEHOLDER
-Центр управления
+Центр Управления
 
 警備室へ
 To the security office
 CN PLACEHOLDER
-Офис охраны
+Офис Охраны
 
 ――メリーゴーランド。%K%P
 —The merry-go-round.
 CN PLACEHOLDER
-– Карусель.
+Карусель.
 
 数十頭のイルカが円形に連なっている。%K%P
 Several dozen dolphins were connected in a circle.
@@ -246,7 +246,7 @@ CN PLACEHOLDER
 （ぼくは……こんなところで何をやってるんだろう……？）%K%P
 (What... what am I doing here...?)
 CN PLACEHOLDER
-(Что... что я здесь делаю?..)
+(Что...что я здесь делаю...?)
 
 ふと、そんなことを思う。%K%P
 That thought popped into my mind.
@@ -261,7 +261,7 @@ CN PLACEHOLDER
 つまり、過去に対する疑問よりも、現在に対する違和感の方が、圧倒的に大きかったのだ。%K%P
 In other words, my doubts about the past were less than my sense of unease about the present.
 CN PLACEHOLDER
-Проще говоря, мысли о моём прошлом ушли на второй план, и сейчас я беспокоюсь за настоящее.
+Догадки о прошлом затмило чувством беспокойства за настоящее.
 
 ぼくは自分の存在がふわふわと遊離して行くような、奇妙な感覚に囚われていた。%K%P
 I was overcome by a sense that my existence was floating away.
@@ -271,7 +271,7 @@ CN PLACEHOLDER
 優「あっ、少年」%K%P
 Hey, Kid.
 CN PLACEHOLDER
-Эй, Малой.
+Эй, Кид.
 
 優「なにボケーッとしてんの？　そんなとこで」%K%P
 Are you spacing out there?
@@ -286,7 +286,7 @@ CN PLACEHOLDER
 少年「ううん、別に……」%K%P
 Uh, not exactly...
 CN PLACEHOLDER
-Э-э, не совсем...
+Ээ, не совсем...
 
 優「ん？」%K%P
 Really?
@@ -296,12 +296,12 @@ CN PLACEHOLDER
 少年「そう言えば、沙羅から聞いたんだけど、つぐみの方はダメだったみたいだね？」%K%P
 Oh. I talked to Sara, and she said that things were no good with Tsugumi.
 CN PLACEHOLDER
-Я говорил с Сарой. Она сказала, что из разговора с Цугуми ничего не вышло.
+Это, я говорил с Сарой. Она сказала, что из разговора с Цугуми ничего не вышло.
 
 優「うん……まあ、ね」%K%P
 Well... You could say that.
 CN PLACEHOLDER
-Ну... можно и так сказать.
+Ну...можно и так сказать.
 
 少年「具体的に、どんな感じだったの？」%K%P
 What exactly happened?
@@ -331,12 +331,12 @@ CN PLACEHOLDER
 優「『つぐみはいくつなの？』とか『どこに住んでるの？』とか『お腹すいたね？』とか、最初はそんな軽い話から始まって……」%K%P
 We started with light conversation about how old she was, where she lived, if she was hungry. We were biding our time, waiting for the right pitch.
 CN PLACEHOLDER
-Мы начали с простого – сколько лет, где живёт, голодна ли. Короче, выжидали правильный момент.
+Мы начали с простого - сколько лет, где живёт, голодна ли. Короче, выжидали правильный момент.
 
 優「最終的には……『なんで怒ってるの？』って、マヨが直球勝負を挑んで……」%K%P
 Ultimately... Mayo asked her straight out 'Why are you so mad?'...
 CN PLACEHOLDER
-Ну по итогу... Майо прямо задала вопрос: „Почему ты так злишься?“
+И тут...чёрт дёрнул Майо задать вопрос в лоб - 'Почему ты так злишься?'...
 
 少年「で？　答えは？」%K%P
 And? What did she say?
@@ -351,12 +351,12 @@ CN PLACEHOLDER
 優「カラ振りされた挙句、出塁されちゃったって感じ」%K%P
 It was like we waited and waited for a good pitch. But we didn't get anything, so we swung.
 CN PLACEHOLDER
-Мы словно слишком сильно замахнулись, не дождавшись лучшего момента для броска.
+Казалось, что вместо едва светившего солнца, нашим взорам предстала бездонная чёрная дыра.
 
 少年「収穫ゼロってこと？」%K%P
 So it was a big zero?
 CN PLACEHOLDER
-То есть, продули всухую?
+То есть, продули в сухую?
 
 優「ゼロかどうかはわからないけど、１じゃないことだけは確かでしょう」%K%P
 I don't know if it was a zero. But we sure didn't hit a home run.
@@ -386,17 +386,17 @@ CN PLACEHOLDER
 優「私はただ、触れたいだけ……手ごたえを感じたいだけなの」%K%P
 I just wanted to get a sense... To feel what she is all about.
 CN PLACEHOLDER
-Я просто хочу... понять, что она из себя представляет.
+Я просто хочу...понять, что она из себя представляет.
 
 優「理由はどうあれ、人に嫌われてるって言うのは、あんまり気分のいいものじゃないからね」%K%P
 Reasons aside, there's just something unpleasant about being disliked.
 CN PLACEHOLDER
-Причины в сторону – нет ничего приятного в том, что тебя ненавидят.
+Причины в сторону - нет ничего приятного в том, что тебя ненавидят.
 
 そう言って、優は歩き出した。%K%P
 Saying that, You started walking.
 CN PLACEHOLDER
-С этими словами Ю отошла в сторону.
+С этими словами, Ю отошла в сторону.
 
 メリーゴーランドの回転台に乗り、イルカの背びれをなでる。%K%P
 She got on the platform of the merry-go-round and petted the fin of a dolphin.
@@ -411,12 +411,12 @@ CN PLACEHOLDER
 優「ところで、少年？　こんなとこで何やってたの？」%K%P
 Kid, incidentally, what were you doing here?
 CN PLACEHOLDER
-Малой, а что ты тут делаешь?
+Кид, а что ты тут делаешь?
 
 少年「みんなを捜してたんだよ。警備室に行ったら、誰もいなかったから……」%K%P
 I was looking for everyone. When I went to the security office, nobody was there...
 CN PLACEHOLDER
-Да так, ищу всех. Когда я пришёл в Офис охраны, там уже никого не было...
+Да так, ищу всех. Когда я пришёл в Офис Охраны, там уже никого не было...
 
 少年「優は？　優は何やってたの？」%K%P
 What about you, You? What were you doing?
@@ -466,12 +466,12 @@ CN PLACEHOLDER
 優「海の中を泳いだり、魚を捕まえたりするの？」%K%P
 And swim in the ocean and catch fish and stuff?
 CN PLACEHOLDER
-А затем поплывёт в океан ловить рыбу?
+А затем поплывёт в океан, ловить рыбу?
 
 少年「……えっ？」%K%P
 ...What?
 CN PLACEHOLDER
-Что?
+...Что?
 
 優「私、さっき思ったんだけど……」%K%P
 I was just thinking...
@@ -486,7 +486,7 @@ CN PLACEHOLDER
 優「でも、それって本当は、全部生き物じゃないんだよね」%K%P
 But none of them are real living creatures.
 CN PLACEHOLDER
-Но среди них нет живых существ.
+Но, среди них нет живых существ.
 
 少年「当たり前じゃないか、みんな人間が作ったものなんだから……」%K%P
 Of course not. They were all made by people...
@@ -511,27 +511,27 @@ CN PLACEHOLDER
 優「木も草も、鳥も昆虫も、土の中の微生物だって、みんな生きてるんだもん」%K%P
 There are trees and grass, birds and bugs, soil and little living creatures inside of it. Everything is alive.
 CN PLACEHOLDER
-Деревья и трава, птицы и жучки, почва и маленькие создания в ней – всё живое.
+Деревья и трава, птицы и жучки, почва и маленькие создания в ней - всё живое.
 
 優「だけど、ここはどう？」%K%P
 But how about here?
 CN PLACEHOLDER
-Но что мы видим здесь?
+Но, что мы видим здесь?
 
 優「こんな広い空間の中で、生きてるのは私達だけなんだよ？」%K%P
 The only thing that's alive in this vast space is us.
 CN PLACEHOLDER
-Единственное, что живёт, пульсирует и теплится в этом гигантском пространстве – мы.
+Единственное, что живёт, пульсирует и теплится в этом гигантском пространстве - мы.
 
 優「海の中の『楽園』……なのにね？」%K%P
 And they call this an underwater paradise? A 'utopia'?
 CN PLACEHOLDER
-И это называется подводным раем? „Утопией“?
+А они называют это подводным раем? 'Утопией'?
 
 優「この『楽園』では、生きてることの方が珍しいのかもしれない」%K%P
 So in this 'utopia', living things are outnumbered by nonliving things.
 CN PLACEHOLDER
-В этой самой „утопии“ неживое доминирует над живым.
+В этой самой 'Утопии' неживое доминирует над живым.
 
 優「つまり、私達は邪魔者……」%K%P
 Which, in a way, means we're...
@@ -541,7 +541,7 @@ CN PLACEHOLDER
 優「死の世界に紛れ込んだ――『異物』――なんだと思う」%K%P
 We're 'intruders' in this world of the dead.
 CN PLACEHOLDER
-Мы „чужаки“ в этом мёртвом царстве.
+Мы 'чужаки' в этом мёртвом царстве.
 
 優はイルカをなでている。%K%P
 You petted the dolphin.
@@ -581,7 +581,7 @@ CN PLACEHOLDER
 少年「でも、好きだからここで働き始めたんでしょ？」%K%P
 But you liked it enough to start working here, right?
 CN PLACEHOLDER
-Но тебе нравилось настолько, что решила начать здесь работать?
+Но, тебе нравилось настолько, что решила начать здесь работать?
 
 優「ううん」%K%P
 No.
@@ -601,7 +601,7 @@ CN PLACEHOLDER
 少年「じゃあ、どうして……？」%K%P
 Well, then why...?
 CN PLACEHOLDER
-Но тогда почему?..
+Но, тогда почему...?
 
 ぼくが尋ねると、優はうつむいてしまった。%K%P
 With my question, You tilted her head.
@@ -616,17 +616,17 @@ CN PLACEHOLDER
 やがて、ピタリと足を止めた優は、静かに顔をあげてこう言った。%K%P
 Finally, her feet stopped, and You quietly faced me.
 CN PLACEHOLDER
-Наконец, её нога остановилась, и Ю тихо повернулась ко мне.
+Наконец, её нога остановилась и Ю тихо повернулась ко мне.
 
 優「大切なものを、探してるの」%K%P
 I'm looking for something important.
 CN PLACEHOLDER
-Я ищу кое-что важное.
+Я ищу нечто важное.
 
 少年「大切なもの？」%K%P
 Something important?
 CN PLACEHOLDER
-Кое-что важное?
+Нечто важное?
 
 優「お父さんの、手がかり」%K%P
 A clue about my father.
@@ -641,7 +641,7 @@ CN PLACEHOLDER
 優「実はね、私のお父さん、ＬｅＭＵの開発部門で働いてたの」%K%P
 Actually, my father worked in the research and development division of LeMU.
 CN PLACEHOLDER
-Вообще, мой отец работал в Отделе разработки и исследований LeMU.
+Вообще, мой отец работал в Подразделении Разработки и Исследований LeMU.
 
 少年「開発、って？」%K%P
 Research and development?
@@ -656,12 +656,12 @@ CN PLACEHOLDER
 優「お父さん、レミのプログラムを作ってたみたい」%K%P
 It seems like my father made the LeMMIH program.
 CN PLACEHOLDER
-Кажется, мой отец создал программу LeMMIH.
+Кажется, мой отец создал программу ЛеММИХ.
 
 少年「レミ……レミって確か、ＬｅＭＵのメインコンピューターのことだったよね？」%K%P
 LeMMIH... LeMMIH? Wasn't that LeMU's central computer?
 CN PLACEHOLDER
-LeMMIH... LeMMIH? Это случаем не центральный компьютер LeMU?
+ЛеММИХ...ЛеММИХ? Это случаем не центральный компьютер LeMU?
 
 優「うん」%K%P
 Yeah.
@@ -681,12 +681,12 @@ CN PLACEHOLDER
 少年「へぇ……そうだったんだぁ……」%K%P
 Huh? Is that so...?
 CN PLACEHOLDER
-Хм-м? Правда?..
+Хмм? Правда...?
 
 少年「ん？　だけど『手がかり』って言うのは？」%K%P
 But what did you mean by 'clue'?
 CN PLACEHOLDER
-Но что ты имела в виду под „сведениями“?
+Но, что ты имела в виду под 'сведениями'?
 
 優「お父さんね……」%K%P
 My father...
@@ -696,12 +696,12 @@ CN PLACEHOLDER
 優「お父さん……ある日突然、いなくなっちゃったんだ……」%K%P
 My father... disappeared one day.
 CN PLACEHOLDER
-Однажды... мой отец исчез.
+Однажды...мой отец исчез.
 
 少年「……えっ！？」%K%P
 ...What?
 CN PLACEHOLDER
-Что?
+...Что?
 
 優「行方不明に、なっちゃったの……」%K%P
 He just went missing...
@@ -716,7 +716,7 @@ CN PLACEHOLDER
 優「それが……」%K%P
 He...
 CN PLACEHOLDER
-Он...
+Он....
 
 優「物心ついたときには、すでにいなくって……」%K%P
 He's been missing as long as I can remember...
@@ -731,7 +731,7 @@ CN PLACEHOLDER
 少年「じゃあ、優はお父さんのこと……覚えてないの？」%K%P
 So you don't remember... your father?
 CN PLACEHOLDER
-Значит, ты его... не помнишь?
+Значит ты его...не помнишь?
 
 優「うん……」%K%P
 No...
@@ -751,7 +751,7 @@ CN PLACEHOLDER
 優「今言ったことも、全部お母さんから聞いた話で……」%K%P
 Everything I just told you, I heard from my mother...
 CN PLACEHOLDER
-Всё, что я только что рассказала тебе, я узнала от своей мамы...
+Всё что я только что рассказала тебе, я узнала от своей мамы...
 
 少年「だけど、どうして？　どうして行方不明なんかに？」%K%P
 But why? Why did he disappear?
@@ -776,7 +776,7 @@ CN PLACEHOLDER
 優「だからここに来れば、消えたお父さんの手がかりが、何か見つかるかもしれないって……そう思って……」%K%P
 So I thought that if I came here, maybe I would find some clue about my father...
 CN PLACEHOLDER
-Я надеялась, что смогу найти хоть какую-нибудь зацепку или улику о его исчезновении...
+Я надеялась, что смогу найти хоть какую-нибудь зацепку или улику об его исчезновении...
 
 優「お母さんは、もうあきらめちゃってるみたいだから、頼りにならないし……」%K%P
 It seems like my mother has already given up, so I can't count on her...
@@ -786,7 +786,7 @@ CN PLACEHOLDER
 少年「……？」%K%P
 ...?
 CN PLACEHOLDER
-?
+...?
 
 優「お母さん、お父さんのこと、死んじゃったんだって、思ってるみたい……」%K%P
 My mother has convinced herself that my father is already dead...
@@ -796,7 +796,7 @@ CN PLACEHOLDER
 『死』という言葉が、胸にズシンと響く。%K%P
 The word “dead” had a heavy ring to it.
 CN PLACEHOLDER
-Слово «умер» камнем сдавило моё сердце.
+Слово 'умер' камнем сдавило моё сердце, я готов заплакать.
 
 優は瞳をうるませながら、ぼくのことを真っ直ぐ見つめていた。%K%P
 You looked straight at me as her eyes watered.
@@ -806,7 +806,7 @@ CN PLACEHOLDER
 優「でも、でもね？」%K%P
 But, you know?
 CN PLACEHOLDER
-Но знаешь...
+Но...но...
 
 優「私は信じてるの！」%K%P
 I believe!
@@ -816,7 +816,7 @@ CN PLACEHOLDER
 優「お父さんは、絶対どこかで生きてるんだよ！」%K%P
 I know that my dad is still alive somewhere!
 CN PLACEHOLDER
-Я верю – он всё ещё жив!
+Я верю - он всё ещё жив!
 
 優「だってそうでしょ！？」%K%P
 He has to be!
@@ -826,7 +826,7 @@ CN PLACEHOLDER
 優「お父さんはただ、行方不明になっただけで……遺体が見つかったわけじゃないんだし……！」%K%P
 My father just went missing... and his remains were never found...
 CN PLACEHOLDER
-Он просто пропал... Никто не видел его тела!..
+Он просто пропал...никто не видел его тела...!
 
 言葉が出なかった。%K%P
 I couldn't find any words.
@@ -841,12 +841,12 @@ CN PLACEHOLDER
 『そうだよ！　きっとどこかで生きてるよ！』――優はぼくの励ましを、待っているのかもしれない。%K%P
 She might have been waiting for me say something like “You're right! He's probably alive somewhere!”
 CN PLACEHOLDER
-Может, она ждёт от меня ответа вроде «Ты права! Скорее всего он действительно жив!»
+Может она ждёт от меня ответа вроде 'Ты права! Скорее всего он действительно жив!'...
 
 けれど、言えなかった。%K%P
 But I couldn't say it.
 CN PLACEHOLDER
-Но я не могу сказать такое.
+Но, я не могу сказать такое.
 
 ただ頷くばかりで、優の瞳を見つめ返すことさえできなかった。%K%P
 I just nodded and couldn't even look back into her eyes.
@@ -856,12 +856,12 @@ CN PLACEHOLDER
 やがて……のちほど会議室に集まることを約束して、ぼくらは別れた。%K%P
 Finally... we promised to meet later in the conference room and split up.
 CN PLACEHOLDER
-Наконец... мы договорились встретиться чуток попозже в Комнате переговоров и разделились.
+Наконец...мы договорились встретиться чуток попозже в Комнате Переговоров и разделились.
 
 ――クラゲゴンドラ。%K%P
 —The Jellyfish Gondola.
 CN PLACEHOLDER
-Затем я пришёл к гондоле „Медуза“.
+Затем я пришёл к гондоле Медузе.
 
 そこに、つぐみの姿があった。%K%P
 Tsugumi was there.
@@ -886,12 +886,12 @@ CN PLACEHOLDER
 振り向くつぐみ。%K%P
 Tsugumi turned to look at me.
 CN PLACEHOLDER
-Цугуми повернулась, чтобы посмотреть на меня.
+Цугуми повернулась чтобы посмотреть на меня.
 
 が、すぐに彼女は背を向け、立ち去ろうとする。%K%P
 But she immediately turned on her heel and walked away.
 CN PLACEHOLDER
-Но тут же развернулась и стала уходить.
+Но тут же развернулась в сторону и стала уходить.
 
 少年「ちょっと待ってよ……」%K%P
 Wait a minute...
@@ -976,17 +976,17 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「さっき『奴ら』とか何とかって言ってたよねぇ？」%K%P
 Before, you said something about 'those guys' or something, right?
 CN PLACEHOLDER
-Прежде, ты сказала что-то вроде «этих» или что-то такое, так?
+Прежде чем ты скажешь что-то вроде 'этих' или что-нибудь ещё, хорошо?
 
 少年「それって……どういう意味なの？」%K%P
 What... did you mean by that?
 CN PLACEHOLDER
-Что... ты имела в виду?
+Что...ты имела в виду?
 
 ぼくの顔をじっと見つめるつぐみ。%K%P
 Tsugumi stared at me intently.
@@ -1006,7 +1006,7 @@ CN PLACEHOLDER
 つぐみ「あなた一体、何者なの……？」%K%P
 What is with you...?
 CN PLACEHOLDER
-Что с тобой?..
+Что с тобой...?
 
 少年「わからないよ」%K%P
 I don't know.
@@ -1021,22 +1021,22 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「……………………」%K%P
 ...............
 CN PLACEHOLDER
-......
+...............
 
 少年「……………………」%K%P
 ...............
 CN PLACEHOLDER
-......
+...............
 
 つぐみ「わかったわ」%K%P
 Fine.
@@ -1046,22 +1046,22 @@ CN PLACEHOLDER
 つぐみ「もしもあなたが嘘をついてないとしたら……ひとつだけ、忠告しといてあげる」%K%P
 Well, if you aren't lying... then I'll warn you about one thing.
 CN PLACEHOLDER
-Ну, если ты не врёшь... тогда я предупрежу тебя об одной вещи.
+Ну, если ты не врёшь...тогда я предупрежу тебя об одной вещи.
 
 つぐみ「あなたはきっと……利用されてるのよ、奴らに」%K%P
 You are... just being used by them.
 CN PLACEHOLDER
-Эти... они могут использовать тебя.
+Эти...они могут использовать тебя.
 
 少年「り、利用、されてる？」%K%P
 U-Using me?
 CN PLACEHOLDER
-И-использовать меня?
+И-Использовать меня?
 
 少年「ね、ねえ？　だから、その奴らって言うのは誰なんだよ！」%K%P
 So... So who do you mean when you say those guys?
 CN PLACEHOLDER
-Т-тогда... кого ты имеешь в виду под „этими“?
+Т-Тогда......кого ты имеешь в виду под 'этими'?
 
 つぐみ「これ以上は言えない」%K%P
 I can't say more than that.
@@ -1081,7 +1081,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「とにかく、自分の身は自分で守りなさい」%K%P
 Anyway, look after yourself.
@@ -1096,7 +1096,7 @@ CN PLACEHOLDER
 それだけ言うと、つぐみは足早に去っていった。%K%P
 Saying only that, Tsugumi turned and left.
 CN PLACEHOLDER
-Сказав лишь это, Цугуми развернулась и ушла.
+Цугуми развернулась и ушла.
 
 ぼくは、もうわけがわからず、その場に立ち尽くすだけだった。%K%P
 Having no idea what had just happened, I simply stood there.
@@ -1106,7 +1106,7 @@ CN PLACEHOLDER
 倉庫の前にやってきた。%K%P
 I wound up in front of the warehouse.
 CN PLACEHOLDER
-Я оказался перед входом на склад.
+Я оказался перед входом в склад.
 
 （だけど、こんなところには誰も……）%K%P
 (I don't expect anybody is here, but...)
@@ -1116,7 +1116,7 @@ CN PLACEHOLDER
 （……おや？）%K%P
 (...What's that?)
 CN PLACEHOLDER
-(Что такое?)
+(...Что такое?)
 
 入り口の水密扉が、わずかに開かれている。%K%P
 The watertight door at the entrance was slightly open.
@@ -1141,12 +1141,12 @@ CN PLACEHOLDER
 沙羅「――あっ」%K%P
 Ah.
 CN PLACEHOLDER
-А-а-а!
+Ааа〜〜〜!
 
 少年「え？　沙羅？」%K%P
 Huh? Sara?
 CN PLACEHOLDER
-Э-э? Сара?
+Эээ? Сара?
 
 そこにいたのは沙羅だった。%K%P
 Sara was inside.
@@ -1166,7 +1166,7 @@ CN PLACEHOLDER
 沙羅「なんだ、少年か……脅かさないでよ」%K%P
 Oh, Kid... Don't scare me like that.
 CN PLACEHOLDER
-Ой, Малой... не пугай меня так.
+Ой, Кид...не пугай меня так.
 
 少年「ご、ごめん……」%K%P
 S-Sorry...
@@ -1181,12 +1181,12 @@ CN PLACEHOLDER
 少年「でも、こんなところで何やってたの？」%K%P
 But what are you doing here?
 CN PLACEHOLDER
-Но что ты здесь делаешь?
+Но, что ты здесь делаешь?
 
 沙羅「ん？　うん……ちょっと、ひとりになりたかったの」%K%P
 Huh? Oh... I just wanted some time alone.
 CN PLACEHOLDER
-Э-э?.. М-м... Просто хотела побыть одна.
+Эээ...? Ммм......просто хотела побыть одна.
 
 少年「ひとりに？」%K%P
 Alone?
@@ -1216,7 +1216,7 @@ CN PLACEHOLDER
 沙羅「結局、何も話してくれなかったってこと。私達だけで空回りしてるみたいで……なんだか疲れちゃって……」%K%P
 In the end, she didn't tell us anything. We were just running in circles... and it wore me out...
 CN PLACEHOLDER
-Мы так от неё ничего и не добились. Всё шло по кругу... и это меня жутко вымотало...
+Мы так от неё ничего и не добились. Всё шло по кругу...и это меня жутко вымотало...
 
 少年「そっか……」%K%P
 I see...
@@ -1226,12 +1226,12 @@ CN PLACEHOLDER
 沙羅「うん。というよりは、なっきゅ先輩が少しひとりにしてくれって言うから、別行動してるだけなんだけどね」%K%P
 Actually, Nakkyu-senpai said that she wanted to be alone, so we just went our separate ways.
 CN PLACEHOLDER
-Вообще, Няку-сэмпай сказала, что хочет побыть наедине со своими мыслями, поэтому мы и разделились.
+Вообще, Няку-сенпай сказала, что хочет побыть наедине со своими мыслями, поэтому мы и разделились.
 
 少年「ふーん」%K%P
 Hmmm.
 CN PLACEHOLDER
-Хм-м...
+Хмм...
 
 少年「あっ、そう言えば、つぐみの方はどうだった？」%K%P
 Oh, that reminds me, how were things with Tsugumi?
@@ -1256,7 +1256,7 @@ CN PLACEHOLDER
 何の遺恨もないはずの、同性のふたりにさえ、どうすることもできなかった……。%K%P
 Feminine intuition aside, not even the two girls had been able to get through to her. Even though there was no apparent reason for Tsugumi to hold a grudge...
 CN PLACEHOLDER
-Какая уж там женская интуиция, если даже две девушки не смогли втереться к ней в доверие. Хотя у Цугуми нет никаких видимых причин злиться...
+Какая уж там женская интуиция, если даже две девушки не смогли втереться к ней в доверие. Особенно, если учесть отсутствие видимой причины для злости Цугуми...
 
 つぐみは一体、ぼくらの何に対して、怒っているのだろうか？%K%P
 What could Tsugumi have been so angry with us about?
@@ -1266,12 +1266,12 @@ CN PLACEHOLDER
 やがて……のちほど会議室に集まることを約束して、ぼくらは別れた。%K%P
 Finally... we promised to meet later in the conference room and split up.
 CN PLACEHOLDER
-А затем... мы договорились встретиться в Комнате переговоров и разделились.
+А затем...мы договорились встретиться в Комнате Переговоров и разделились.
 
 再び制御室へ。%K%P
 I went to the control room again.
 CN PLACEHOLDER
-Я снова пришёл в Центр управления.
+Я снова пришёл в Центр Управления.
 
 少年「どう？　なんか進展あった？」%K%P
 What's up? Any progress?
@@ -1286,17 +1286,17 @@ CN PLACEHOLDER
 空「レミでさえ、事態を正確に把握することができていないようなのです」%K%P
 It appears that even LeMMIH is not able to accurately gauge the situation.
 CN PLACEHOLDER
-Даже LeMMIH не может дать верного анализа ситуации.
+Даже ЛеММИХ не может дать верного анализа ситуации.
 
 空「こんなこと……普通では考えられないことなのですが……」%K%P
 This is... It is something that would normally be unthinkable.
 CN PLACEHOLDER
-Это... это просто невообразимо, так быть не должно.
+Это...это просто невообразимо, так быть не должно.
 
 少年「あっ、そう言えば……空、知ってた？」%K%P
 Oh, that reminds me. Sora, did you know...?
 CN PLACEHOLDER
-Ох, я тут вспомнил. Сора, ты знаешь?..
+Ох, я тут вспомнил. Сора, ты знаешь...?
 
 空「はい？　何をでしょうか？」%K%P
 Know? Know what?
@@ -1306,12 +1306,12 @@ CN PLACEHOLDER
 少年「レミを作ったのって、優のお父さんだったみたいだよ？」%K%P
 That You's father made LeMMIH.
 CN PLACEHOLDER
-Что отец Ю создал LeMMIH.
+Что отец Ю создал ЛеММИХ.
 
 空「えっ！？　そうなのですか！？　初耳です……それは……」%K%P
 Huh? Is that right? That's... news to me.
 CN PLACEHOLDER
-Что? Это правда? Это... для меня новость.
+Что? Это правда? Это...для меня новость.
 
 少年「もちろん、ひとりで作ったわけじゃないけどね」%K%P
 Of course, he didn't make it all by himself.
@@ -1326,7 +1326,7 @@ CN PLACEHOLDER
 空「そ、そうですか……」%K%P
 Is that right...?
 CN PLACEHOLDER
-Правда?..
+Правда...?
 
 空「大変興味深いお話です」%K%P
 That's very interesting.
@@ -1341,22 +1341,22 @@ CN PLACEHOLDER
 そこには、ＬｅＭＵのツヴァイトとドリットの平面図が映し出されている。%K%P
 A flat map of LeMU's Zweiter Stock and Dritter Stock floors was displayed.
 CN PLACEHOLDER
-На нём отображается плоская карта LeMU – этажи Цвайте и Дритте Шток.
+На нём отображается плоская карта LeMU - этажи Цвайте и Дритте шток.
 
 こうやってレミは、四六時中、ＬｅＭＵを隅から隅まで監視しているのだ。%K%P
 LeMMIH was monitoring LeMU, wall-to-wall, 24 hours a day.
 CN PLACEHOLDER
-LeMMIH мониторит LeMU, миллиметр за миллиметром, 24 часа в сутки.
+ЛеММИХ мониторит LeMU, миллиметр за миллиметром, 24 часа в сутки.
 
 そのレミが把握できないこの状況とは、一体……？%K%P
 If LeMMIH couldn't survey the situation, then what in the world...?
 CN PLACEHOLDER
-Если LeMMIH не может адекватно оценить ситуацию, тогда какого?..
+Если ЛеММИХ не может адекватно оценить ситуацию, тогда какого...?
 
 少年「ところで……『レミ』って何で『レミ』って名前なのかな？」%K%P
 By the way... Why is LeMMIH called 'LeMMIH'?
 CN PLACEHOLDER
-Да, кстати... А почему LeMMIH называется LeMMIH?
+Да, кстати... А почему ЛеММИХ называется ЛеММИХ?
 
 空「あれ？　まだお教えしていませんでしたか？」%K%P
 Oh, haven't I told you?
@@ -1371,19 +1371,19 @@ CN PLACEHOLDER
 空「『レミ』の正式名称は……」%K%P
 LeMMIH's proper name is...
 CN PLACEHOLDER
-Полное название LeMMIH...
+Полное название ЛеММИХ...
 
-// redundant color code inserted so that the text insertion
-// script does not readd the newline control sequence
 空「『Ｌｅｉｂｌｉｃｈ⑳Ｍｅｄｉｚｉｎ：Ｍｕｌｔｉｖｅｒｆａｈｒｅｎ%N
 <Leiblich Medizin: Multiverfahren %CFFFF
 CN PLACEHOLDER
-„Лейблих Медицин: Мультиверфарен %CFFFF
+'Лейблих Медицин: Мультиверфарен %CFFFF
+// redundant color code inserted so that the text insertion
+// script does not readd the newline control sequence
 
 Ｉｎｔｅｌｌｉｇｅｎｔ⑳Ｈｉｒｎ⑳Ｓｙｓｔｅｍ』
 Intelligentes Hirnsystem.> 
 CN PLACEHOLDER
-Интеллижент Хирн Систем“
+Интеллижент Хирн Систем' 
 
 と言います」%K%P
 ...That is its name.”
@@ -1393,18 +1393,18 @@ CN PLACEHOLDER
 少年「……………………は、はいっ？　も、もう１回、いい？」%K%P
 Uh... what was that? Can you give it to me one more time?
 CN PLACEHOLDER
-Э-э... что это было? Повтори, пожалуйста, ещё разочек.
+Ээ...что это было? Повтори пожалуйста ещё разочек.
 
-// same as above
 空「『Ｌｅｉｂｌｉｃｈ⑳Ｍｅｄｉｚｉｎ：Ｍｕｌｔｉｖｅｒｆａｈｒｅｎ%N
 <Leiblich Medizin: Multiverfahren %CFFFF
 CN PLACEHOLDER
-„Лейблих Медицин: Мультиверфарен %CFFFF
+'Лейблих Медицин: Мультиверфарен %CFFFF
+// same as above
 
 Ｉｎｔｅｌｌｉｇｅｎｔ⑳Ｈｉｒｎ⑳Ｓｙｓｔｅｍ』
 Intelligentes Hirnsystem.> 
 CN PLACEHOLDER
-Интеллижент Хирн Систем“
+Интеллижент Хирн Систем' 
 
 ……です」%K%P
 ...That is its name.”
@@ -1444,17 +1444,17 @@ CN PLACEHOLDER
 空「その後は『多重並列処理による人工知能システム』……と言った感じの意味合いです」%K%P
 The bit after that means something along the lines of 'parallel processing artificial intelligence system'.
 CN PLACEHOLDER
-Следующая часть переводится как „система параллельных вычислений и искусственного интеллекта“.
+Следующая часть переводится как 'система параллельных вычислений и искусственного интеллекта'.
 
 空「この頭文字を取って『ＬｅＭＭＩＨ』――すなわち『レミ』システムと、呼ばれるようになりました」%K%P
 The first letter of each word created the acronym 'LeMMIH', so they called the system 'LeMMIH'.
 CN PLACEHOLDER
-Первые буквы каждого слова образуют акроним „LeMMIH“. Поэтому, для простоты, систему так и назвали.
+Первые буквы каждого слова образуют акроним 'ЛеММИХ'. Поэтому, для простоты, систему так и назвали.
 
 少年「う〜ん……う〜ん……う〜ん……」%K%P
 Uh-huh... I see.
 CN PLACEHOLDER
-Ага... Понятно.
+Ага.... Понятно.
 
 少年「あのさぁ、聞きたいことがふたつあるんだけど……」%K%P
 Hey, there are two things I wanted to ask you...
@@ -1469,12 +1469,12 @@ CN PLACEHOLDER
 少年「ライプリヒ……えーっと……なんだっけ？」%K%P
 That Leibl... Uh... What was it again?
 CN PLACEHOLDER
-Это Лейбл... э-э... или как его там?
+Это Лейбл...ээ...или как его там?
 
 空「『Ｌｅｉｂｌｉｃｈ　Ｍｅｄｉｚｉｎ』……日本では『ライプリヒ製薬』と呼ばれています」%K%P
 <Leiblich Medizin>... In Japan, it is known as Leiblich Pharmaceuticals.
 CN PLACEHOLDER
-„Лейблих Медицин“... в Японии известно под названием Лейблих Фармасьютикалс.
+'Лейблих Медицин'...в Японии известно под названием Лейблих Фармасьютикалс.
 
 少年「その『ライプリヒ製薬』って……ＬｅＭＵと一体どんな関係があるの？」%K%P
 So what is the relationship between Leiblich and LeMU?
@@ -1519,37 +1519,37 @@ CN PLACEHOLDER
 空「実際には『Ｌｅｉｂｌｉｃｈ　Ｍｅｄｉｚｉｎ』と『Ｕｔｏｐｉｅ』の頭文字を取って『ＬｅＭＵ』と命名されたんだそうです」%K%P
 But actually, I've heard that it is just a combination of the first letters of <Leiblich Medizin> and <utopie>.
 CN PLACEHOLDER
-Но вообще я слышала, что это просто комбинация из первых букв „Лейблих Медицин“ и „утопия“.
+Но, вообще я слышала, что это просто комбинация из первых букв 'Лейблих Медицин' и 'Утопии'.
 
 空「『Ｕｔｏｐｉｅ』――『ユートピア』」%K%P
 <Utopie> means 'utopia'.
 CN PLACEHOLDER
-Думаю, значение слова „утопия“ ты знаешь.
+Думаю, значение слова 'Утопия' ты знаешь.
 
 空「つまり、ライプリヒ製薬のプロデュースによって建設された『夢のような理想郷』……『楽園』……」%K%P
 In other words, Leiblich created this place to be a dream-like utopia...
 CN PLACEHOLDER
-Иначе говоря, Лейблих создали это место как воплощение%Nмечты – утопию...
+Иначе говоря, Лейблих создали это место как воплощение%Nмечты - утопию...
 
 空「そんな意味が込められているということになります」%K%P
 So that is why they named it that.
 CN PLACEHOLDER
-Вот почему они назвали его „LeMU“.
+Вот почему они назвали его 'LeMU'.
 
 少年「ふ〜ん、楽園、ねぇ……」%K%P
 A utopia, huh...?
 CN PLACEHOLDER
-Утопия, значит?..
+Утопия, хм...?
 
 空「ふたつ目の質問は、なんでしょうか？」%K%P
 And what was your second question?
 CN PLACEHOLDER
-А какой твой второй вопрос?
+И, какой твой второй вопрос?
 
 少年「ああ、えーっと……」%K%P
 Uh, well...
 CN PLACEHOLDER
-Э-э, ну...
+Ээ, ну...
 
 少年「ドイツ語の、ことなんだけど……」%K%P
 It's about German...
@@ -1569,7 +1569,7 @@ CN PLACEHOLDER
 少年「ついさっき『レミの正式名称はドイツ語だ』って、教えてくれたでしょ？」%K%P
 You just said that LeMMIH's official name is German, right?
 CN PLACEHOLDER
-Ты только что сказала, что официальное название LeMMIH – немецкое, так?
+Ты только что сказала, что официальное название ЛеММИХ - немецкое, так?
 
 少年「それから、ＬｅＭＵのあちこちには、ドイツ語の表記がいっぱいあるし……」%K%P
 And all around LeMU are these German signs and stuff...
@@ -1579,7 +1579,7 @@ CN PLACEHOLDER
 少年「どうして……ドイツ語なんだろうと思って……」%K%P
 I just... I wondered why German...
 CN PLACEHOLDER
-Я просто... не могу понять, почему на немецком...
+Я просто...не могу понять, почему на немецком...
 
 空「それは、ライプリヒ製薬が、日本とドイツの合弁企業だからです」%K%P
 That's because Leiblich Pharmaceuticals is a joint venture between a Japanese and a German company.
@@ -1589,7 +1589,7 @@ CN PLACEHOLDER
 空「本社はフランクフルトにありますし、役員の大半もドイツ人で占められています」%K%P
 Its headquarters are in Frankfurt and the majority of officials are German.
 CN PLACEHOLDER
-Её штаб-квартира расположена во Франкфурте, а большинство подразделений – в Германии.
+Её штаб-квартира расположена во Франкфурте, а большинство подразделений - в Германии.
 
 少年「だから、ドイツ語なのかぁ……」%K%P
 So that's why it's all in German...
@@ -1604,7 +1604,7 @@ CN PLACEHOLDER
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「ねえ？　ついでだから、もうひとつだけ聞いてもいいかなぁ？」%K%P
 Since I'm asking, can I ask one more thing?
@@ -1619,27 +1619,27 @@ CN PLACEHOLDER
 少年「なんでライプリヒ製薬は、テーマパークの運営なんかに手を出したりしたんだろう？」%K%P
 Why did Leiblich Pharmaceuticals want to run a theme park anyhow?
 CN PLACEHOLDER
-А зачем вообще Лейблих Фармасьютикалс построили тематический парк?
+А зачем вообще фармацевтической компании создавать тематический парк?
 
 少年「製薬会社だよねぇ？　薬を作ってるんでしょ？　テーマパークなんかとは、まったく無関係に思えるけど……」%K%P
 I mean, we're talking about Leiblich Pharmaceuticals. They make medicine, right? That doesn't seem to have anything to do with a theme park.
 CN PLACEHOLDER
-Это же фармацевтическая компания. Они ведь производят лекарства. Что у них общего с тематическими парками?..
+Я хочу сказать, эти Лейблих. Они же производят лекарства, ведь так? Какая тут связь с тематическим парком?
 
 少年「しかも、しかもさぁ、ここは海のド真ん中だよ？　どうしてこんなところにわざわざ……」%K%P
 And, and this is right in the middle of the ocean, right? Why go to all of the trouble of...
 CN PLACEHOLDER
-А LeMU так вообще плавает посреди океана. Зачем идти на такие риски?..
+Тем более, который расположен посреди океана. Зачем идти на такие риски...?
 
 空「それは……」%K%P
 Because...
 CN PLACEHOLDER
-Чтобы...
+Потому что...
 
 空「それは…………」%K%P
 Because...
 CN PLACEHOLDER
-Чтобы...
+Потому что...
 
 空「申し訳ありません」%K%P
 I'm sorry.
@@ -1654,7 +1654,7 @@ CN PLACEHOLDER
 少年「……えっ？　……どうして？」%K%P
 ...What...? Why not?
 CN PLACEHOLDER
-Что?.. Но почему?
+...Что?...Но почему?
 
 空「企業秘密だからです」%K%P
 It is confidential information.
@@ -1669,7 +1669,7 @@ CN PLACEHOLDER
 少年「ははっ、なんだよ、それ……」%K%P
 Haha. What in the...
 CN PLACEHOLDER
-Ха-а. А в смысле...
+Ха, ха. Какого...
 
 少年「ぼくが、誰かに秘密を漏らすとでも……？」%K%P
 Who could I possibly tell?
@@ -1679,7 +1679,7 @@ CN PLACEHOLDER
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「ぼくみたいな『少年』にバレたって、なんの損害も発生しないと思うけどな」%K%P
 I can't imagine that a 'kid' like me finding out could cause any damage.
@@ -1689,7 +1689,7 @@ CN PLACEHOLDER
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「ダメ、なんだ……。ぼくにさえ、教えられないことなんだ……？」%K%P
 You really can't even tell little old me?
@@ -1699,7 +1699,7 @@ CN PLACEHOLDER
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空はかたくなに口を閉ざしたまま、答えようとはしなかった。%K%P
 Sora had gone quiet and wasn't answering.
@@ -1719,7 +1719,7 @@ CN PLACEHOLDER
 空「本当に、すみません」%K%P
 I'm really sorry.
 CN PLACEHOLDER
-Мне очень жаль.
+Мне жаль, Кид-сан.
 
 少年「いいよいいよ、別に謝らなくったって……」%K%P
 It's alright. You don't have to apologize...
@@ -1734,22 +1734,22 @@ CN PLACEHOLDER
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「……………………」%K%P
 ...............
 CN PLACEHOLDER
-......
+...............
 
 少年「……………………」%K%P
 ...............
 CN PLACEHOLDER
-......
+...............
 
 空「わかりました。ではひとつだけ、お教えしましょう」%K%P
 Alright. I'll tell you one thing.
@@ -1769,7 +1769,7 @@ CN PLACEHOLDER
 空「この海底にある熱水噴出孔から、数百度という極めて高い温度の水を汲み上げ、その熱を利用して発電機を稼動させているのです」%K%P
 There is a thermal vent on the surface of the sea floor where water of several hundred degrees is pumped out, and heat from that is used to operate generators.
 CN PLACEHOLDER
-Находятся гидротермальные источники, в которых вода разогрета до нескольких сотен градусов. Этот жар используется в электрогенераторах.
+Находятся геотермальные источники, в которых вода разогрета до нескольких сотен градусов. Этот жар используется в электрогенераторах.
 
 ぼくは、その先の説明を待った。%K%P
 I waited for the rest of the explanation.
@@ -1784,7 +1784,7 @@ CN PLACEHOLDER
 『後は、自分で考えろ』……そういうことなのだろうか？%K%P
 ...I guessed she was trying to say, “Figure the rest out yourself.”
 CN PLACEHOLDER
-...Наверное, пытается сказать нечто вроде «об остальном догадайся сам».
+...Наверно, пытается сказать нечто вроде 'об остальном догадайся сам'.
 
 ぼくは考えた……。%K%P
 I thought...
@@ -1804,12 +1804,12 @@ CN PLACEHOLDER
 その理由と、自家発電装置と、このふたつにはどんな関係があると言うんだろう……？%K%P
 That reason and in-house power generation... What could they have to do with each other...?
 CN PLACEHOLDER
-Эта причина и внутренний электрогенератор... что их объединяет?..
+Эта причина и внутренний электрогенератор... что их объединяет...?
 
 自家発電装置――熱水噴出孔――次にぼくの頭に浮かんだ単語は……。%K%p
 Power generation—thermal seafloor vents—the first thing that popped into my head was...
 CN PLACEHOLDER
-Электрогенератор – гидротермальные источники – первое, что мне пришло в голову...
+Электрогенератор — термальные источники — первое, что мне пришло в голову...
 
 温泉
 Hot springs
@@ -1824,7 +1824,7 @@ CN PLACEHOLDER
 ――温泉。%K%P
 Hot springs.
 CN PLACEHOLDER
-– Горячие источники.
+Горячие источники.
 
 温泉？？？%K%P
 Hot springs?
@@ -1834,7 +1834,7 @@ CN PLACEHOLDER
 製薬会社と温泉……何の関係も無いように思えるけど……。%K%P
 It seemed to me that a pharmaceutical company and hot springs... would be totally unrelated...
 CN PLACEHOLDER
-Похоже, что между фармацевтической компанией и горячими источниками... вообще нет никакой связи...
+Похоже, что между фармацевтической компанией и горячими источниками...вообще нет никакой связи...
 
 いくら考えても、それらを繋ぎ合わせる接点は、見つかりそうになかった。%K%P
 No matter how much I thought about it, I couldn't find a connection.
@@ -1874,7 +1874,7 @@ CN PLACEHOLDER
 ――微生物。%K%P
 Microorganisms.
 CN PLACEHOLDER
-– Микроорганизмы.
+Микроорганизмы.
 
 そうか！　微生物だ！%K%P
 That was it! Microorganisms!
@@ -1884,7 +1884,7 @@ CN PLACEHOLDER
 熱水噴出孔には、他のどこにも見られない特殊な微生物が棲息してるんだ。%K%P
 There were unique kinds of microorganisms found around thermal seafloor vents that weren't found anywhere else.
 CN PLACEHOLDER
-В гидротермальных источниках на дне океана встречаются уникальные виды этих самых микроорганизмов.
+В термальных источниках на дне океана встречаются уникальные виды этих самых микроорганизмов.
 
 だから、ライプリヒ製薬は、その微生物を、この海底で研究してて……。%K%P
 That was why Leiblich Pharmaceuticals was researching microorganisms on the seafloor...
@@ -1894,7 +1894,7 @@ CN PLACEHOLDER
 『ヒンメル』――『ＩＢＦ』――『高圧酸素治療装置』――。%K%P
 “Himmel”—“IBF”—“High-pressure oxygen treatment device”—
 CN PLACEHOLDER
-«Химмель» – «IBF» – «система оксигенотерапии высокого давления»
+'ХИММЕЛ' - 'IBF' - 'Устройство кислородного лечения высокого давления'
 
 ぼくの脳内のスクリーンには、次々と既知の言葉が映し出された。%K%P
 All those words that I had known flashed onto the screen of my mind.
@@ -1914,7 +1914,7 @@ CN PLACEHOLDER
 少年「海底に……このＬｅＭＵの下に……ライプリヒ製薬の研究所があるんだね？」%K%P
 On the ocean floor... below LeMU... Leiblich Pharmaceuticals has a research lab, right?
 CN PLACEHOLDER
-На дне океана... под LeMU... у Лейблих Фармасьютикалс есть исследовательская лаборатория, так?
+На дне океана...под LeMU...у Лейблих Фармасьютикалс есть исследовательская лаборатория, так?
 
 ぼくは思い切って、空にそう告げた。%K%P
 I said that straight out to Sora.
@@ -1924,7 +1924,7 @@ CN PLACEHOLDER
 空「ど、どうして……それを……！？」%K%P
 H-How do... you... know about that!?
 CN PLACEHOLDER
-Ч-что ты... сказал?..
+Ч-Что ты...сказал...?!
 
 少年「やっぱりそうか……」%K%P
 I thought so...
@@ -1949,7 +1949,7 @@ CN PLACEHOLDER
 少年「そうすれば、誰もこんなところに研究所があるなんて、疑ったりしないからね」%K%P
 In that way, nobody would suspect that there was a lab here.
 CN PLACEHOLDER
-Так что никто не мог подозревать о существовании лаборатории.
+Так что, никто не мог подозревать о существовании лаборатории.
 
 少年「あるいは、資金調達という目的もあったのかもしれない」%K%P
 Or it might have been a way of securing capital.
@@ -1964,17 +1964,17 @@ CN PLACEHOLDER
 少年「ねえ？　そうなんでしょ？」%K%P
 I'm right, aren't I?
 CN PLACEHOLDER
-Я же прав?
+Я прав, не так ли?
 
 空「少年さん……」%K%P
 Kid-san...
 CN PLACEHOLDER
-Малой-сан...
+Кид-сан...
 
 空「あなた一体……何者なんですか？」%K%P
 Exactly... who are you?
 CN PLACEHOLDER
-Действительно... кто ты?
+Действительно...кто ты?
 
 少年「わからないよ、ぼくにも……」%K%P
 I don't even know myself...
@@ -1984,7 +1984,7 @@ CN PLACEHOLDER
 少年「ただ、知ってるんだ……」%K%P
 All I know is that I DO know these things...
 CN PLACEHOLDER
-Всё, что я знаю, так то, что я ПРАВДА знаю об этих вещах...
+Всё что я знаю, так то, что я ПРАВДА знаю об этих вещах...
 
 少年「まるで予知でもするかのように、全部わかっちゃうんだよ」%K%P
 It all comes to me through some sort of premonition.
@@ -1994,7 +1994,7 @@ CN PLACEHOLDER
 空「そんなはず……ありません」%K%P
 That... can't be.
 CN PLACEHOLDER
-Ты... не можешь этого знать.
+Ты...не можешь этого знать.
 
 空「少年さんは、嘘をついていらっしゃるのではありませんか？」%K%P
 Are you lying to me?
@@ -2004,7 +2004,7 @@ CN PLACEHOLDER
 空「私に……何かを隠して……」%K%P
 Are... Are you hiding something...?
 CN PLACEHOLDER
-Ты... что-то скрываешь?..
+Ты...что-то скрываешь...?
 
 少年「隠してなんかいないよ」%K%P
 I'm not hiding a thing.
@@ -2014,17 +2014,17 @@ CN PLACEHOLDER
 少年「逆に全部打ち明けたんだ……ぼくの知っている事実を……全部……」%K%P
 I'm being completely open about it... About everything I know... Everything...
 CN PLACEHOLDER
-Я просто сказал всё... что мне изместно... всё до конца.
+Я полностью открыт...обо всём что знаю...обо всём...
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「わかりました」%K%P
 I see.
@@ -2034,7 +2034,7 @@ CN PLACEHOLDER
 空「でもとにかく、今のお話は、すべて忘れてください」%K%P
 Anyway, please forget about the conversation we just had.
 CN PLACEHOLDER
-В любом случае, я прошу забыть об этом разговоре.
+В любом случае, я прошу забыть о нашем недавнем разговоре.
 
 少年「わかってるよ、誰にも言ったりしない」%K%P
 I know. I won't tell anybody.
@@ -2044,7 +2044,7 @@ CN PLACEHOLDER
 空「いえ、そうではなく……忘れていただきたいと、申し上げているのです」%K%P
 That's not what I mean... I mean forget it.
 CN PLACEHOLDER
-Это не то, что я хотела сказать... то есть забудь об этом.
+Это не то, что я хотела сказать....то есть забудь об этом.
 
 空「研究所なんて、この海底にはありません」%K%P
 There is no research station on the seafloor.
@@ -2059,7 +2059,7 @@ CN PLACEHOLDER
 空「お願いです……そういうことに、しておいてください」%K%P
 Please... just pretend that is the truth.
 CN PLACEHOLDER
-Прошу... просто прими это как данность.
+Прошу...просто прими это как данность.
 
 少年「う、うん、わかったよ」%K%P
 Okay. I understand.
@@ -2069,7 +2069,7 @@ CN PLACEHOLDER
 少年「空がそんなに言うんなら……忘れることにする」%K%P
 If it's that important to you... then I'll forget it.
 CN PLACEHOLDER
-Если это для тебя так важно... тогда я забуду об этом.
+Если это для тебя так важно...тогда я забуду об этом.
 
 空「約束ですよ？」%K%P
 Do you promise?
@@ -2079,7 +2079,7 @@ CN PLACEHOLDER
 ぼくは固く誓って、制御室を後にした。%K%P
 I swore that I would, then left the control room.
 CN PLACEHOLDER
-Я поклялся. Затем вышел из Центра управления.
+Я поклялся. Затем вышел из центра управления.
 
 ぼくは、その先の説明を待った。%K%P
 I waited for the rest of the explanation.
@@ -2109,12 +2109,12 @@ CN PLACEHOLDER
 少年「え？　あ、うん……邪魔して、ごめん」%K%P
 Oh? Uh... Sorry to bother you.
 CN PLACEHOLDER
-А? Да... Прости, что побеспокоил.
+Ээ? Да...прости что побеспокоил.
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ぼくは諦め、立ち去ることにした。%K%P
 I gave up and left.
@@ -2134,7 +2134,7 @@ CN PLACEHOLDER
 自家発電装置と何の関係があると言うのか……？%K%P
 And what could it have to do with the fact that they generated their own energy...?
 CN PLACEHOLDER
-И как это может быть связано с тем, что здесь имеется внутренний электрогенератор?..
+И как это может быть связано с тем, что здесь имеется внутренний электрогенератор...?
 
 謎を抱えたまま、その場を離れた。%K%P
 I left with that mystery spinning in my mind.
@@ -2144,17 +2144,17 @@ CN PLACEHOLDER
 （あっ……武！）%K%P
 (Oh... Takeshi!)
 CN PLACEHOLDER
-(Ой... Такэси!)
+(Ой...Такеши!)
 
 警備室に戻ったぼくは驚いた。%K%P
 I was surprised upon returning to the security office.
 CN PLACEHOLDER
-Я удивился, когда вернулся в Офис охраны.
+Я удивился, когда вернулся в Офис Охраны.
 
 そこに、武の姿があったのだ。%K%P
 Takeshi was there.
 CN PLACEHOLDER
-Такэси здесь.
+Такеши здесь.
 
 （何をしてるんだろう……？）%K%P
 (I wonder what he's up to...)
@@ -2179,7 +2179,7 @@ CN PLACEHOLDER
 モニターに注がれている、武の眼差し……。%K%P
 The gaze that Takeshi had leveled on the monitor...
 CN PLACEHOLDER
-То, каким взглядом Такэси смотрит на монитор...
+То, каким взглядом Такеши смотрит на монитор...
 
 それは、背筋がヒヤリとする程に鋭かったのだ。%K%P
 It was so intense that it made my spine tingle...
@@ -2194,7 +2194,7 @@ CN PLACEHOLDER
 少年「……たけ、し……？」%K%P
 ...Take... shi...
 CN PLACEHOLDER
-...Такэ... си?..
+...Таке...ши...
 
 ようやく、ぼくは絞り出すような声で、彼を呼んだ。%K%P
 I finally got out the words.
@@ -2204,22 +2204,22 @@ CN PLACEHOLDER
 武がゆっくりと振り返る。%K%P
 Takeshi slowly looked back at me.
 CN PLACEHOLDER
-Такэси медленно обернулся.
+Такеши медленно обернулся.
 
 少年「………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「おっ、少年、やっと来たかね。待ちくたびれたぞい」%K%P
 Hey, Kid, you finally made it. I'm beat from waiting.
 CN PLACEHOLDER
-А, Малой, наконец-то ты пришёл. Я уже замаялся ждать.
+А, Кид, наконец-то ты пришёл. Я уже замаялся ждать.
 
 ぼくに向けられた武の顔は、いつものおどけた表情を形作っていた。%K%P
 The look on Takeshi's face was his normal old goofy expression.
 CN PLACEHOLDER
-Выражение лица Такэси сменилось на прежнюю придурковатую ухмылку.
+Выражение лица Такеши сменилось на прежнюю придурковатую ухмылку.
 
 ホッと胸を撫で下ろす、ぼく。%K%P
 I felt relieved.
@@ -2229,52 +2229,52 @@ CN PLACEHOLDER
 少年「ねぇ、何をしてたの？　怖い顔して」%K%P
 What were you doing? You looked so intense that it was scary.
 CN PLACEHOLDER
-Слушай, чего ты тут стоишь? С таким лицом страшным...
+Чё ты делаешь? Ты выглядел настолько увлечённым, что чуть не испугал меня.
 
 武「あーん？　怖い顔〜？」%K%P
 Huh? Scary?
 CN PLACEHOLDER
-Что? Страшным?
+Что? И кого здесь бояться?
 
 少年「うん。さっき、とてもおっかない顔してたよ」%K%P
 Yeah. Just now. You looked scary.
 CN PLACEHOLDER
-Да. Пару секунд назад ты выглядел устрашающе.
+Тебя. Только что, ты выглядел страшно.
 
 武「失礼なやっちゃなー。俺の顔のどこが怖いっていうんじゃい」%K%P
 That's kind of rude. What's so scary about my face?
 CN PLACEHOLDER
-Эй, нельзя же такие вещи говорить. Что это у меня в лице страшного?
+Это жестоко. Неужели моя харя настолько страшная?
 
 少年「今は違うけど、さっきはそうだったんだよ」%K%P
 It's different now, but before it was scary.
 CN PLACEHOLDER
-Сейчас ничего, но до этого было страшным.
+Сейчас нет, но до того была.
 
 武「ほー。んじゃ、どれだけ怖かったのか、見せてみ」%K%P
 Then how about you show me how scary it was?
 CN PLACEHOLDER
-Может, тогда покажешь, что ещё за страшное лицо у меня было?
+Может тогда покажешь, что ещё за страшное лицо у меня было?
 
 少年「え？　えっと、えと……」%K%P
 Huh? Uh... Um...
 CN PLACEHOLDER
-Чего? Э-э... кхм...
+Чего? Ээ...кхм...
 
 少年「確か、こーんな顔して……モニター睨んで……」%K%P
 I think your face was kind of like this... Glaring at the monitor...
 CN PLACEHOLDER
-Твоё лицо было похоже вот на такое... когда ты смотрел на монитор...
+Твоё лицо, было похоже вот на такое...когда ты смотрел на монитор...
 
 ぼくは先ほどの武を再現しようと、人差し指で両目をつり上げて見せた。%K%P
 I tried to mimic how Takeshi had looked by using my fingers to pull up both of my eyes.
 CN PLACEHOLDER
-Я постарался воспроизвести лицо Такэси, оттянув пальцами веки.
+Я постарался воспроизвести лицо Такеши, оттянув пальцами веки.
 
 武「ぎゃははは……♪　なんじゃそりゃ〜。ぜんっぜん怖くねーよ」%K%P
 GAHAHAHA... That? That's not scary at all.
 CN PLACEHOLDER
-ХА-ХА-ХА-ХА... Такое? Да не страшное оно вовсе!
+ХА〜ХА〜ХА〜ХА...Такое? Да не страшное оно вовсе!
 
 少年「ご、ごまかさないでよ！」%K%P
 Don't try to pretend it was nothing!
@@ -2289,7 +2289,7 @@ CN PLACEHOLDER
 武「……お前さんを、捜してたんだよ」%K%P
 ...I was looking for you, my dear.
 CN PLACEHOLDER
-Я искал тебя.
+...Я искал тебя.
 
 少年「……ぼく、を？」%K%P
 For me?
@@ -2309,7 +2309,7 @@ CN PLACEHOLDER
 武「ひょっとしたら、どこかで迷子になって、びーびー泣いてるんじゃないかと……」%K%P
 I figured you were probably lost somewhere and crying yourself silly...
 CN PLACEHOLDER
-Я решил, что ты, наверное, где-то заблудился и плакал от отчаяния...
+Я решил, что ты наверно где-то заблудился и плакал от отчаяния...
 
 少年「何言ってるんだよ。それはぼくのセリフだって！」%K%P
 What are you talking about? I was about to say the same thing to you!
@@ -2329,7 +2329,7 @@ CN PLACEHOLDER
 少年「うっ……。それは……謝るよ。で、でも、もう少し待っててくれたっていいじゃないか」%K%P
 Oh... Sorry... about that. B-But you could have waited a little longer.
 CN PLACEHOLDER
-Э-э... мне... жаль. Н-но, в конце концов, ты мог подождать ещё хотя бы пять минут.
+Ээ...мне..жаль. Н-но, в конце концов, ты мог подождать ещё хотя бы пять минут.
 
 武「俺は忙しいんだ。お前のことだけ、かまってるわけにはいかねーんだよ」%K%P
 Hey, I'm a busy guy. I'm not here to look after you.
@@ -2339,7 +2339,7 @@ CN PLACEHOLDER
 少年「忙しい？　……武が？？」%K%P
 Busy...? You?
 CN PLACEHOLDER
-Занятой?.. Ты?
+Занятой?...Ты??
 
 武「そう。俺は多忙なんだ」%K%P
 Yup. I'm horribly busy.
@@ -2354,27 +2354,27 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「……………………」%K%P
 ..............
 CN PLACEHOLDER
-......
+..............
 
 武「……なあ？」%K%P
 ...Hey.
 CN PLACEHOLDER
-Слушай.
+......Слушай.
 
 少年「？」%K%P
 ?
@@ -2384,12 +2384,12 @@ CN PLACEHOLDER
 武「もう止めないか？　こんな実のない口論」%K%P
 Can we stop this meaningless conversation?
 CN PLACEHOLDER
-Может, мы прекратим этот бессмысленный разговор?
+Может мы прекратим этот бессмысленный разговор?
 
 少年「う、うん。そうだね……なんだか、バカバカしいや」%K%P
 Y-Yeah. It is kind of stupid.
 CN PLACEHOLDER
-Д-да уж. Я чувствую себя глупо.
+Д...да уж. Я чувствую себя глупо.
 
 武「だろ？」%K%P
 Isn't it?
@@ -2414,12 +2414,12 @@ CN PLACEHOLDER
 ぼくは彼を、いつの間にか、とても身近に感じていた。%K%P
 But at some point, I had begun to feel comfortable with him.
 CN PLACEHOLDER
-Но с какого-то момента мне стало с ним легко общаться.
+Но, сейчас мне, как никогда, легко с ним общаться.
 
 例えるなら……ぼくと同じ匂いがする、というか……。%K%P
 I thought there was something about him... Something like me, maybe...
 CN PLACEHOLDER
-Что-то в нём есть... В каком-то смысле он словно... как я...
+Что-то в нём есть...в некотором роде он похож...на меня...
 
 武「ところで、どうよ？　何か思い出せてきたかね？」%K%P
 So how's your condition coming along? Any changes?
@@ -2429,7 +2429,7 @@ CN PLACEHOLDER
 そう言って、武は椅子に腰を下ろした。%K%P
 Saying that, Takeshi sat down in a chair.
 CN PLACEHOLDER
-Сказал Такэси, садясь в кресло.
+Сказал Такеши, садясь на стул.
 
 彼の視線が、ぼくの目と同じ高さになる。%K%P
 His eyes were at the same height as mine.
@@ -2439,12 +2439,12 @@ CN PLACEHOLDER
 少年「何か、って……ぼくの記憶のこと？」%K%P
 Any changes... You mean my memory?
 CN PLACEHOLDER
-Изменения... ты о моей памяти?
+Изменения...ты о моей памяти?
 
 頷く武。%K%P
 Takeshi nodded.
 CN PLACEHOLDER
-Такэси кивнул.
+Такеши кивнул.
 
 ぼくは首を横に振った。%K%P
 I shook my head.
@@ -2459,7 +2459,7 @@ CN PLACEHOLDER
 武「でもまあ、焦るなや。空も言ってたけど、記憶喪失ってのは、ほんの些細なキッカケで、突然治ったりするもんだ」%K%P
 Well, don't force it. It's like Sora said. Memory loss can be totally cured with no warning.
 CN PLACEHOLDER
-Ну, не напрягайся. Как сказала Сора, потеря памяти может пройти из-за какого-нибудь пустяка.
+Ну, не напрягайся. Как сказала Сора. Потеря памяти может пройти из-за какого-нибудь пустяка.
 
 少年「人ごとだと思って……」%K%P
 Easy for you to say. It's not your problem...
@@ -2484,7 +2484,7 @@ CN PLACEHOLDER
 少年「はいはい……言ってなさい」%K%P
 Sure, sure... Tell me about it.
 CN PLACEHOLDER
-Ага, ага... поговори мне ещё. И?
+Ага, ага...поговори мне ещё. И?
 
 呆れて、強く突っ込む気にもなれない。%K%P
 I didn't feel like prying.
@@ -2494,7 +2494,7 @@ CN PLACEHOLDER
 武「まあ、とりあえず、だ……。まずは手近なところから思い出していったらどうだ？」%K%P
 Well, for now... why don't you just try to remember things, starting with stuff familiar to you?
 CN PLACEHOLDER
-Ну, а пока... почему бы тебе просто не попытаться вспомнить что-то будничное?
+Ну, а пока...почему бы тебе просто не попытаться вспомнить что-то будничное?
 
 武「んー、そうだな……誕生日、とか……」%K%P
 Yeah, things like your birthday...
@@ -2509,12 +2509,12 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「ん？　どうした？」%K%P
 Huh? What's wrong?
 CN PLACEHOLDER
-Э-э? Что случилось?
+Эээ? Что случилось?
 
 少年「ねえ？　今は何年なの？」%K%P
 Hey, what year is it?
@@ -2539,12 +2539,12 @@ CN PLACEHOLDER
 武「……えーっと、何年だっけ？」%K%P
 ...Uh, what year IS it?
 CN PLACEHOLDER
-...а КАКОЙ сейчас год?
+...А, какой СЕЙЧАС год?
 
 そう言って、武はポケットからチケットの半券を取り出し……%K%P
 Saying that, Takeshi fished his entrance ticket stub from his pocket...
 CN PLACEHOLDER
-Такэси начал искать корешок входного билета в своём кармане...
+Такеши начал искать корешок входного билета в своём кармане...
 
 武「ああ、そうそう」%K%P
 Oh, that's right.
@@ -2559,7 +2559,7 @@ CN PLACEHOLDER
 武は半券をクシャっと丸めると、再びポケットに仕舞い込んだ。%K%P
 Takeshi crumpled the stub back up and pushed it back into his pocket.
 CN PLACEHOLDER
-Такэси смял корешок и сунул обратно в карман.
+Такеши смял корешок и сунул обратно в карман.
 
 少年「２０１７年……」%K%P
 2017...
@@ -2569,7 +2569,7 @@ CN PLACEHOLDER
 武「それが、どうかしたのか？」%K%P
 Is there something up with that?
 CN PLACEHOLDER
-А почему ты спросил?
+А, почему ты спросил?
 
 少年「ううん、ちょっと」%K%P
 Yeah, kind of.
@@ -2604,12 +2604,12 @@ CN PLACEHOLDER
 少年「――えっ！？」%K%P
 What!?
 CN PLACEHOLDER
-Что?!
+Что!?
 
 武「はははっ、冗談だよ、冗談！」%K%P
 HAHAHA. I'm kidding! Relax!
 CN PLACEHOLDER
-ХА-ХА-ХА. Я шучу! Расслабься!
+ХА〜ХА〜ХА. Я шучу! Расслабься!
 
 武「そんなわけないだろうが」%K%P
 There's no way.
@@ -2619,7 +2619,7 @@ CN PLACEHOLDER
 武「たぶん、１４、５歳ってとこじゃないかな」%K%P
 You're probably in the neighborhood of fourteen or fifteen.
 CN PLACEHOLDER
-Наверное тебе где-то 14 или 15.
+Наверно тебе где-то 14 или 15.
 
 武「仮に１８歳だとしたら、かなりの童顔だ」%K%P
 If you're eighteen, then you've got a baby face.
@@ -2629,7 +2629,7 @@ CN PLACEHOLDER
 少年「１４、５才、かぁ……」%K%P
 Fourteen or fifteen, huh...?
 CN PLACEHOLDER
-14 или 15, хм?..
+14 или 15, хм...?
 
 ぼくは呟いた。%K%P
 I muttered that.
@@ -2644,7 +2644,7 @@ CN PLACEHOLDER
 少年「あっ！　ねえ、武！　みんな、今、バラバラになっちゃってるみたいなんだけど……」%K%P
 Oh hey, Takeshi! It seems like everybody is scattered all over right now...
 CN PLACEHOLDER
-Ох, эй, Такэси! Не хочу показаться грубым, но, похоже, все разбрелись по сооружению, как тараканы...
+Ох, эй, Такеши! Не хочу показаться грубым, но, похоже, все разбрелись по сооружению, как тараканы...
 
 武「ん？　ああ、そうだな……もう少ししたら、どっかに集合しないとな」%K%P
 Yeah? We'll have to arrange to meet somewhere sooner or later.
@@ -2654,7 +2654,7 @@ CN PLACEHOLDER
 少年「やっぱり、会議室がいいんじゃないのかな？」%K%P
 I think the conference room would be good.
 CN PLACEHOLDER
-По-моему, Комната переговоров будет как раз.
+По-моему, Комната Переговоров будет как раз.
 
 武「わかった。みんなに会ったら、そう伝えとくよ」%K%P
 Got it. If I see the others, then I'll give 'em the word.
@@ -2664,7 +2664,7 @@ CN PLACEHOLDER
 武は去って行った。%K%P
 Takeshi left.
 CN PLACEHOLDER
-Такэси ушёл.
+Такеши ушёл.
 
 ぼくも、別の場所へ向かうことにした。%K%P
 I also decided to go somewhere else.

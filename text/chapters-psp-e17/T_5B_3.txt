@@ -6,12 +6,12 @@ CN PLACEHOLDER
 軽い昼食も終えて辺りを見回すと、優の姿がなかった。%K%P
 After a light lunch, I looked around, but I couldn't find You anywhere.
 CN PLACEHOLDER
-После лёгкого ужина я обшарил все окрестности, но так нигде и не нашёл Ю.
+После лёгкого ужина, я обшарил все окрестности, но так нигде и не нашёл Ю.
 
 少年「優？　食べ終わってすぐ、ツヴァイトの警備室に行ったよ」%K%P
 Looking for You? She ate lunch and then went to the security office on Zweiter Stock.
 CN PLACEHOLDER
-Ю? Как только мы поели, она ушла в Офис охраны на Цвайте Шток.
+Ю? Как только мы поели, она ушла в Офис Охраны на Цвайте шток.
 
 ココ「なんかねー、なっきゅ、調べ物があるんだって」%K%P
 She said something about doing some research.
@@ -36,7 +36,7 @@ CN PLACEHOLDER
 武「ま、そうだな……」%K%P
 Yeah, I guess you're right...
 CN PLACEHOLDER
-Да, пожалуй, ты прав...
+Да, пожалуй ты прав...
 
 ココ「空さんはどこ行ったの？」%K%P
 What about Sora-san? Where'd she go?
@@ -46,12 +46,12 @@ CN PLACEHOLDER
 少年「制御室に入ったままみたいだね。忙しいのかな。さっき端末で声かけてみたんだけど、取り込み中だからって……」%K%P
 She's still in the control room. I spoke to her through the terminal intercom, but she seemed really busy.
 CN PLACEHOLDER
-Она всё ещё в Центре управления. Я разговаривал с ней по терминалу, но та, кажется, серьёзно занята.
+Она всё ещё в Центре Управления. Я разговаривал с ней по терминалу, но та, кажется, серьёзно занята.
 
 つぐみの姿も、相変わらず見えない。タツタ売店に置いたままにしてあったサンドは、きちんとなくなっていたようだが……。%K%P
 As usual, Tsugumi was nowhere to be seen... but the sandwich I left at the kiosk was gone...
 CN PLACEHOLDER
-Как обычно, Цугуми и след простыл... правда, простыл и след сэндвича, что я оставил в киоске...
+Как обычно, Цугуми и след простыл...правда, простыл и след бутерброда, что я оставил в киоске...
 
 そう言えば、優・空・つぐみ――３人とも、今朝から俺とひと言も口を利いていない。%K%P
 Come to think of it, You, Sora, and Tsugumi hadn't said a word to me all morning.
@@ -61,7 +61,7 @@ CN PLACEHOLDER
 （何か、気になるな……）%K%P
 (Something's up... I can tell...)
 CN PLACEHOLDER
-(Чую пятой точкой... что-то происходит...)
+(Чую пятой точкой...что-то происходит...)
 
 ともかく俺は、彼女達を捜すことにした。%K%P
 At any rate, I figured I would go search for them.
@@ -76,7 +76,7 @@ CN PLACEHOLDER
 中央制御室へ
 The control room
 CN PLACEHOLDER
-Центр управления
+Центр Управления
 
 救護室へ
 The infirmary
@@ -86,12 +86,12 @@ CN PLACEHOLDER
 警備室へ
 The security office
 CN PLACEHOLDER
-Офис охраны
+Офис Охраны
 
 中央制御室に来た。%K%P
 I tried the control room.
 CN PLACEHOLDER
-Я пошёл в Центр управления.
+Я пошёл в Центр Управления.
 
 オープンボタンを押し、スライド扉を開ける。%K%P
 I pushed the button to open the door and it slid open.
@@ -121,22 +121,22 @@ CN PLACEHOLDER
 センサーのデータチェックは終わったのだろうか。%K%P
 I wondered if it meant that she finished checking the sensor data.
 CN PLACEHOLDER
-Может, она уже закончила проверку данных с сенсоров?
+Может она уже закончила проверку данных с сенсоров?
 
 しかし、だとすれば俺達に何か教えてくれてもいいはずだ。%K%P
 But if that was the case, I thought she would report back to us.
 CN PLACEHOLDER
-Но в таком случае она бы наверняка нам сообщила.
+Но, в таком случае, она бы наверняка нам сообщила?
 
 （空は……いったいどこに？）%K%P
 (Sora... where are you?)
 CN PLACEHOLDER
-(Сора... Где же ты?)
+(Сора...где же ты?)
 
 武「おーい、空っ」%K%P
 Hey, Soooraaa.
 CN PLACEHOLDER
-Ау, Со-о-ра!
+Ау, Со〜〜〜ра!
 
 いつかのように、その辺に隠れているんじゃないかとも思ったのだが……。%K%P
 I expected to find her hiding in the corner somewhere...
@@ -161,7 +161,7 @@ CN PLACEHOLDER
 レミは素早くＬｅＭＵのマップやデータをモニターに映し出す。%K%P
 A map of LeMU data suddenly appeared on the LeMMIH monitor.
 CN PLACEHOLDER
-Неожиданно на мониторе LeMMIH отобразилась карта LeMU вместе со статистикой.
+Неожиданно на мониторе ЛеММИХ отобразилась карта LeMU вместе со статистикой.
 
 けれど、何も言葉を返すことはなかった。%K%P
 But it didn't tell me anything.
@@ -181,7 +181,7 @@ CN PLACEHOLDER
 俺は２階に向かうことにした。%K%p
 I headed for the second floor.
 CN PLACEHOLDER
-Я пошёл на второй этаж.
+...я пошёл на второй этаж.
 
 救護室へ
 The infirmary
@@ -191,22 +191,22 @@ CN PLACEHOLDER
 警備室へ
 The security office
 CN PLACEHOLDER
-Офис охраны
+Офис Охраны
 
 非常階段を上り、通路を曲がる。救護室の前に出た。%K%P
 Turning down a corridor after climbing the emergency stairs, I came out in front of the infirmary.
 CN PLACEHOLDER
-Свернув по коридору после того, как забрался по аварийным лестницам, я оказался перед лазаретом.
+Свернув по коридору, после того как забрался по аварийным лестницам, я оказался перед лазаретом.
 
 （……！？）%K%P
 (...!?)
 CN PLACEHOLDER
-(Что за...)
+(Что за....!?)
 
 目の前の扉がいきなり開き、中から人影が飛び出してくる。%K%P
 The door abruptly opened in my face, and a person came flying out.
 CN PLACEHOLDER
-Ни с того ни с сего дверь открылась прямо перед моим носом, и из неё пулей выскочил человек...
+Ни с того ни с сего, дверь открылась прямо перед моим носом, и из неё пулей выскочил человек.
 
 咄嗟に俺は身をかわした。%K%P
 Then they dodged right past me.
@@ -221,7 +221,7 @@ CN PLACEHOLDER
 （……誰だ？）%K%P
 (...Who was that?)
 CN PLACEHOLDER
-(...И кто это был?)
+(...чёрт, кто это был??)
 
 すぐに振り返って、背後へ去る足音の主を確かめる。%K%P
 I whipped around quickly, trying to see who the person was.
@@ -251,12 +251,12 @@ CN PLACEHOLDER
 （呼び止めて、それからどうする……？）%K%P
 (I could stop her, but then what...?)
 CN PLACEHOLDER
-(Я мог остановить её, но что с того?..)
+(Я мог остановить её, но что с того...?)
 
 だがそうしている間にも、彼女の背中はどんどん遠くなっていく。%K%P
 In the meantime, all I could see was Tsugumi's back fading farther away.
 CN PLACEHOLDER
-Секундой позже всё, что я увидел – спина Цугуми, удаляющаяся всё дальше и дальше.
+Секундой позже, всё что я увидел - спина Цугуми, удаляющаяся всё дальше и дальше.
 
 武「ま、待てよ！　どこ行くんだ？」%K%P
 Hey, wait up! Where are you going?
@@ -276,7 +276,7 @@ CN PLACEHOLDER
 しかし非常通路の先に、つぐみの足音は消えていく。%K%P
 But the sound of her feet faded down the end of the emergency corridor.
 CN PLACEHOLDER
-Но звук её шагов уже слышится по другую сторону аварийного коридора.
+Но, звук её шагов уже слышится по другую сторону аварийного коридора.
 
 姿はもう曲がり角の向こうで見えない。%K%P
 Her figure had already rounded the corner and was out of sight.
@@ -286,7 +286,7 @@ CN PLACEHOLDER
 武「つ、つぐみっ……」%K%P
 Tsuuuguuumi...!
 CN PLACEHOLDER
-Цу... Цугуми...
+Цу--гу--ми...!
 
 俺は息を切らせていた。%K%P
 I was out of breath.
@@ -301,12 +301,12 @@ CN PLACEHOLDER
 武「やっぱりお前、足速すぎっ！」%K%P
 Damn it, Tsugumi, you sure are fast!
 CN PLACEHOLDER
-Чёрт, Цугуми, да кто же так бегает!
+Чёрт, Цугуми, да кто же так бегает!!
 
 聞こえているわけはないだろうが、俺は抗議した。%K%P
 I grumbled after her although she was well out of earshot.
 CN PLACEHOLDER
-Прохрипел я ей вслед. Правда, на таком расстоянии она меня вряд ли услышит.
+Прохрипел я ей в след. Правда, на таком расстоянии она меня вряд ли услышит.
 
 まったく追いつける気がしなかった。%K%P
 It didn't feel like I could catch up with her at all.
@@ -321,32 +321,32 @@ CN PLACEHOLDER
 病み上がりだと言うのに……。%K%P
 She was still supposed to be recuperating...
 CN PLACEHOLDER
-По-хорошему, она всё ещё должна была поправляться...
+...по-хорошему, она всё ещё должна была бы поправляться...
 
 武「おーいっ！！　つぐみーーーっ！！」%K%P
 Hey! Tsugumiii!
 CN PLACEHOLDER
-Эй! Цугуми-и-и!
+Эй!! Цугуми--!!
 
 一応叫んでみたけれど、それは届かない。%K%P
 I called her name without much hope, but there was no answer.
 CN PLACEHOLDER
-Попытав удачу я позвал её.
+Попытав удачу, я позвал её.
 
 結局、つぐみは気づかないままだったようだ。%K%P
 In the end, it seemed Tsugumi hadn't noticed.
 CN PLACEHOLDER
-В конце концов, кажется, Цугуми меня так и не заметила.
+Удача повернулась ко мне задом - Цугуми меня даже не заметила.
 
 俺を避けているわけではなさそうだが……。%K%P
 It hadn't seemed that she was trying to avoid me...
 CN PLACEHOLDER
-Непохоже, что она пытается меня избегать, но...
+Не похоже, что она пытается меня избегать, но...
 
 幸いと言うべきだろうか。%K%P
 But maybe I was better off that way.
 CN PLACEHOLDER
-Но, наверное, лучше сейчас её не трогать.
+Но, наверно лучше сейчас её не трогать.
 
 俺は諦めて階段を下り、通常通路に戻った。%K%P
 Giving up, I went back down the stairs and returned to the corridor.
@@ -356,47 +356,47 @@ CN PLACEHOLDER
 近くの警備室に行くことにする。%K%P
 I decided to stop by the nearby security office.
 CN PLACEHOLDER
-Я решил зайти в Офис охраны, что находится неподалёку.
+Я решил зайти в Офис Охраны, что находится неподалёку.
 
 俺は階段を上り、２階の警備室に向かうことにした。%K%P
 Climbing the stairs, I headed toward the security office on the second floor.
 CN PLACEHOLDER
-Поднявшись по ступенькам, я направился в Офис охраны на втором этаже.
+Поднявшись по ступенькам, я направился в Офис Охраны на втором этаже.
 
 相変わらず、部屋には煙草の匂いが微かに漂っている。%K%P
 As usual, the room smelled faintly of smoke.
 CN PLACEHOLDER
-Как обычно, комната пахнет табачным дымом.%K%P(«Как обычно»... Я уже потихоньку начинаю ненавидеть эту фразу. Хотя... Может, правду говорят, что человек быстро ко всему привыкает?)
+Как обычно, комната пахнет табачным дымом.%K%P('Как обычно'... Я уже потихоньку начинаю ненавидеть эту фразу. Хотя... может правду говорят, что человек быстро ко всему привыкает?)
 
 優「あ、倉成……」%K%P
 Oh, Kuranari...
 CN PLACEHOLDER
-А-а... Куранари...
+Аа...! Куранари...
 
 コンソールに向かっていた優は俺に気づき、振り向いた。%K%P
 Noticing me enter, You turned toward me from the console.
 CN PLACEHOLDER
-Заметив, как я вошёл, Ю отвернулась от консоли и повернулась ко мне.
+Заметив, как я вошёл, Ю повернулась ко мне передом, а к консоли задом.
 
 武「優、お前煙草吸ってたのか？」%K%P
 Say, You, you haven't been smoking, have you?
 CN PLACEHOLDER
-Ю, а это не ты тут накурила?
+Слушай, избушка табака.... эээ... Ю, а ты часом не куришь?
 
 冗談のつもりで言ってみたのだが、途端に優はムッとした。%K%P
 I only said it in jest, but You looked slightly offended.
 CN PLACEHOLDER
-Я просто хотел пошутить, но Ю, кажется, слегка обиделась.
+Да уж, неудачно пошутил - Ю пришла в ярость.
 
 優「んなわけ、ないでしょーがぁ……」%K%P
 No way... How could you ask...
 CN PLACEHOLDER
-Ты что, с дуба рухнул?..
+Ты что, с дуба рухнул?!
 
 優「煙草は、はたちになってから、だよ」%K%P
 You know the rules... No smoking until you're legal.
 CN PLACEHOLDER
-Ты же знаешь, что до 20 никаких сигарет.
+Ты же знаешь, что курить вредно.
 
 優「それを差っ引いたとしてもさぁ、よくもまぁそんなことが言えるわねぇ〜」%K%P
 You can joke if you want, but I can't believe you'd say that.
@@ -406,7 +406,7 @@ CN PLACEHOLDER
 優「ほれっ、この私の、ピチピチフレッシュなモチ肌を見てごらんなさいな！」%K%P
 I mean, just take a look at my fresh silky skin!
 CN PLACEHOLDER
-Вот, взгляни на мою нежную шелковистую кожу!
+То есть, просто взгляни на мою нежную, шелковистую кожу!
 
 優「これぞまさに、乙女の柔肌ってやつよ！」%K%P
 This is the soft skin of a lady!
@@ -431,17 +431,17 @@ CN PLACEHOLDER
 優「あ、そうなの？」%K%P
 Oh, really?
 CN PLACEHOLDER
-Э-э... чё, правда?
+Эээ...чё, правда?
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「ふーん……」%K%P
 Humph...
 CN PLACEHOLDER
-Хм-м-м...
+Хммм...
 
 武「ま、煙草の話は、今はどうでもいいんだ」%K%P
 Anyway, let's stop all this stupid talk about smoking.
@@ -451,17 +451,17 @@ CN PLACEHOLDER
 武「優が何か調べてるって、少年から聞いたからさ。どんな按配なのかな、と思って」%K%P
 I just wanted to ask you something. The Kid said you were doing some research.
 CN PLACEHOLDER
-Просто... я что пришёл-то... Малой сказал, что ты что-то расследуешь...
+Просто...я что пришёл-то...Кид сказал, что ты что-то расследуешь...
 
 優「え？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 優「少年、そんなこと言ってたの？」%K%P
 The Kid said that?
 CN PLACEHOLDER
-Малой... он так сказал?
+Кид...он так сказал?
 
 彼女はちょっと意外そうな顔をした。%K%P
 You gave me a slightly surprised look.
@@ -471,7 +471,7 @@ CN PLACEHOLDER
 優「倉成、少年からはなんて聞いてる？」%K%P
 Kuranari, what exactly did the Kid say?
 CN PLACEHOLDER
-Куранари... что именно сказал тебе Малой?
+Куранари...что именно сказал тебе Кид?
 
 武「いや、詳しくは何も……」%K%P
 I don't remember exactly, but...
@@ -486,12 +486,12 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「そっか。なら、教えようかな」%K%P
 Well, in that case, guess I'll let you in on it.
 CN PLACEHOLDER
-Ну, в таком случае... придётся ввести тебя в курс дела.
+Ну, в таком случае...придётся ввести тебя в курс дела.
 
 優はコンソールに向き直ると、キーを叩く。%K%P
 Turning back to the console, You began to type.
@@ -501,7 +501,7 @@ CN PLACEHOLDER
 優「倉成はもう、覚えてないかもしれないけど……」%K%P
 You may not remember this, Kuranari, but...
 CN PLACEHOLDER
-Куранари, наверное, ты не помнишь, но...
+Куранари, наверно ты не помнишь, но...
 
 優「私ずっと、いろいろ調べてたのよ。ＬｅＭＵのこと」%K%P
 I've been researching stuff about LeMU for quite a while now.
@@ -516,12 +516,12 @@ CN PLACEHOLDER
 優「それに、お父さんのこと……」%K%P
 And then there's the thing about my father...
 CN PLACEHOLDER
-И... о своём отце...
+И...о своём отце...
 
 武「あ……」%K%P
 Ah...
 CN PLACEHOLDER
-Э-э...
+Эээ...
 
 武「そういや、そんなこと言ってたっけなぁ」%K%P
 That reminds me, you mentioned him earlier.
@@ -536,7 +536,7 @@ CN PLACEHOLDER
 カルセル・デルフィーネをいきなり回転させて、俺を驚かせた優。%K%P
 When You startled me by suddenly starting up the Dolphin Carousel.
 CN PLACEHOLDER
-Когда Ю напугала меня, неожиданно запустив Дельфинью карусель.
+Когда Ю напугала меня, неожиданно запустив Дельфинью Карусель.
 
 そのときに聞いた話……。%K%P
 I had heard about him then...
@@ -546,7 +546,7 @@ CN PLACEHOLDER
 武「なぁ、もしかして……何かわかったのか？」%K%P
 So... have you found something?
 CN PLACEHOLDER
-И... ты что-нибудь выяснила?
+И...ты что-нибудь выяснила?
 
 優「ううん」%K%P
 Not yet.
@@ -576,22 +576,22 @@ CN PLACEHOLDER
 優「それさえあれば、レミのあらゆるデータベースにアクセスすることが可能になるの」%K%P
 If I just had the password, I could access all the data inside LeMMIH.
 CN PLACEHOLDER
-Если бы у меня был пароль, я бы смогла добраться до всей информации, сокрытой в LeMMIH.
+Если бы у меня был пароль, я бы смогла добраться до всей информации, сокрытой в ЛеММИХ.
 
 優「通常、レミのシステム本体に関わるデータはプロテクトでブロックされてる」%K%P
 Normally, all the data concerning LeMMIH's system has security protection.
 CN PLACEHOLDER
-По идее, все данные, хранящиеся в LeMMIH, защищены от несанкционированного доступа.
+По идее, все данные, хранящиеся в ЛеММИХ, защищены от несанкционированного доступа.
 
 優「それに、開発スタッフの個人的なデータもね」%K%P
 And of course, the personal data of the development staff has it as well.
 CN PLACEHOLDER
-Личные данные сотрудников – не исключение.
+Личные данные сотрудников - не исключение.
 
 優「そのプロテクトを解く為の鍵……レミのセキュリティロックを外せる、緊急用の最終パスワード――それを、探してるのよ」%K%P
 And so I'm hunting for the key to unlock that protection—an emergency override.
 CN PLACEHOLDER
-Потому я охочусь за ключиком, что снимет эту хренову защиту... сбросит её к настройкам по умолчанию.
+Потому я охочусь за ключиком, что снимет эту хренову защиту...сбросит её в дефолтные настройки.
 
 武「ほぅ、そうだったのか……」%K%P
 Oh, so that's what you've been up to...
@@ -601,12 +601,12 @@ CN PLACEHOLDER
 優「……ええ」%K%P
 ...Yeah.
 CN PLACEHOLDER
-Ага.
+...ага.
 
 優「でも、もうお手上げかなぁ」%K%P
 But I give up.
 CN PLACEHOLDER
-Но... я больше не могу-у-у...
+Но...я больше не могууу...
 
 優は一旦手を止めた。%K%P
 You stopped typing.
@@ -621,12 +621,12 @@ CN PLACEHOLDER
 武「なぁ、ところで……」%K%P
 Hey, by the way...
 CN PLACEHOLDER
-Да... кстати...
+Да...кстати...
 
 武「レミのセキュリティを外したら、空はどうなる？」%K%P
 If you disconnect LeMMIH's security protection, what will happen to Sora?
 CN PLACEHOLDER
-Если ты вырубишь систему защиты LeMMIH, что станет с Сорой?
+Если ты вырубишь систему защиты ЛеММИХ, что станет с Сорой?
 
 優「空？」%K%P
 Sora?
@@ -636,7 +636,7 @@ CN PLACEHOLDER
 武「ああ。空はレミのシステムの中にあるＡＩなわけだろ？　なんか影響あるんじゃないのか？」%K%P
 Well, since Sora is an AI program inside the LeMMIH system, won't she be affected?
 CN PLACEHOLDER
-Ну, Сора же ИИ-программа под управлением ОС LeMMIH. Это же повлияет и на неё, ведь так?
+Ну, Сора же ИИ-программа под управлением ОС ЛеММИХ. Это же повлияет и на неё, не так ли?
 
 優「そうねぇ……」%K%P
 Hmm... Yes...
@@ -651,52 +651,52 @@ CN PLACEHOLDER
 武「裸……？」%K%P
 Naked...?
 CN PLACEHOLDER
-Голой?..
+Голой...?
 
 優「あ、倉成ぃ〜？　今なんか変な想像したでしょ？」%K%P
 Um, Kuranariiii? Did you just think of something kinky?
 CN PLACEHOLDER
-А-а! Куранари?.. Что это за извращенская ухмылочка?!
+Аа! Куранари...?! Что это за извращенская ухмылочка?!
 
 武「えっ？」%K%P
 Eh?
 CN PLACEHOLDER
-Где?..
+Где...?
 
 優「裸って言っても、空の映像がヌードに変わるわけじゃないよ？」%K%P
 When I say naked, I don't mean Sora's image will be nude!
 CN PLACEHOLDER
-Когда я сказала „голой“, я не имела в виду, что её изображение станет голым!
+Когда я сказала 'голой', я не имела в виду что её изображение станет голым!
 
 武「そ、そんなこと、思ってなんかいないぞ」%K%P
 I-I wasn't thinking that at all.
 CN PLACEHOLDER
-А... а я и не... думал...
+А...а я и не...думал...
 
 優「ふーん、本当かなぁ……怪しいなぁ……」%K%P
 Yeah, sure... You seem pretty suspicious to me...
 CN PLACEHOLDER
-Хм-м... надо же... ладно, поверю...
+Хмм...надо же...ладно, поверю...
 
 優「ま、いいけど」%K%P
 Well, I don't really care.
 CN PLACEHOLDER
-Эх... хрен с тобой...
+Эх...хрен с тобой...
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「空の思考とか、記憶……データとして見られるすべては、丸裸になってしまうわけよね」%K%P
 Sora won't become 'nude'... but all her thoughts, memories, and various data will be accessible.
 CN PLACEHOLDER
-Сора не станет „голой“, но... все её чувства, воспоминания и прочие данные станут доступными.
+Сора не станет 'голой', но...все её чувства, воспоминания и прочие данные станут доступными.
 
 武「プライバシーの侵害だ」%K%P
 That's an invasion of privacy!
 CN PLACEHOLDER
-Постой, но... это же вторжение в личную жизнь!
+Постой, но...это же вторжение в личную жизнь!
 
 優「そういう問題じゃないと思うけどなぁ」%K%P
 Well, not exactly, really.
@@ -706,12 +706,12 @@ CN PLACEHOLDER
 武「ん、ちょっと待てよ……！？」%K%P
 Wait a minute...!
 CN PLACEHOLDER
-С-секундочку!
+С-----секундочку...!!
 
 武「じゃあ、そのパスワードさえわかれば空を助けることができるってことか？」%K%P
 Okay, so if you find that password, will that mean you can save Sora?
 CN PLACEHOLDER
-Если ты найдёшь пароль... значит ли это, что ты сможешь спасти Сору?
+Если ты найдёшь пароль...значит ли это, что ты сможешь спасти Сору?
 
 優「助ける？」%K%P
 Save her?
@@ -726,7 +726,7 @@ CN PLACEHOLDER
 武「んで、外に持ち出したりなんてことも、できちゃうわけだろ？」%K%P
 And then take that data out of here by hand, right?
 CN PLACEHOLDER
-А затем унести её с собой отсюда?
+...а затем унести её с собой отсюда?
 
 優「うん。できるよ」%K%P
 Well, yeah. It could be done.
@@ -736,7 +736,7 @@ CN PLACEHOLDER
 優「でも、そんな必要ないんじゃない？」%K%P
 Except that won't be necessary.
 CN PLACEHOLDER
-Правда... какой в этом смысл?
+Правда...какой в этом смысл?
 
 優はあっさりと言った。%K%P
 You spoke coldly.
@@ -746,7 +746,7 @@ CN PLACEHOLDER
 武「えっ？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 優「空は、何も私達が助けるまでもなく、助かるのよ」%K%P
 We don't need to save Sora. She's saved already.
@@ -766,7 +766,7 @@ CN PLACEHOLDER
 優「インゼル・ヌルに置かれてるスパコン――そこにこそ、空の頭脳はあるのよ」%K%P
 More precisely, the brain of Sora resides in a supercomputer on Insel Null.
 CN PLACEHOLDER
-Если быть точной, её „мозг“ – суперкомпьютер на Инсель Нуль.
+Если быть точной, её 'мозг' - суперкомпьютер на Инсель нуль.
 
 優「私の言ってること、わかる？」%K%P
 Do you see what I'm saying?
@@ -776,7 +776,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「つまり、ＬｅＭＵが浸水しようと沈没しようと爆発して粉々になろうと、空の存在が消えてなくなるわけじゃない」%K%P
 Meaning that even if LeMU sinks, floods, or explodes, Sora won't be damaged at all.
@@ -796,17 +796,17 @@ CN PLACEHOLDER
 優「私達から見れば、文字通り、空は『空』にいる、ってことになるわけ」%K%P
 So from our point of view... just like her name's meaning, 'Sora' is in the 'sky'.
 CN PLACEHOLDER
-Её имя говорит само за себя – по-японски „Сора“ значит „небо“.
+Её имя говорит само за себя - по-японски 'Сора' значит 'Небо'.
 
 そう言って、優は天井を指差した。%K%P
 With that, You pointed her finger toward the ceiling.
 CN PLACEHOLDER
-С этими словами Ю показала пальцем на потолок.
+С этими словами, Ю показала пальцем на потолок.
 
 俺はつられて、天井を見た。%K%P
 Lured by her pointing finger, I looked up.
 CN PLACEHOLDER
-Мой взгляд машинально проследовал за её пальцем.
+Машинально, мой взгляд проследовал за её пальцем.
 
 そこに空など見えはしない。%K%P
 As if I expected to find Sora there.
@@ -816,7 +816,7 @@ CN PLACEHOLDER
 当然ではあるが……。%K%P
 Naturally, she was nowhere to be seen...
 CN PLACEHOLDER
-Разумеется, её там нет...%K%P...Стоп. Её там нет?!
+Разумеется, её там нет...%K%P...стоп. Её там нет?!
 
 武「って、おいおいおいおい！　でもなぁ！」%K%P
 Hey, hey, hey, hold on a second! How could that be!?
@@ -826,7 +826,7 @@ CN PLACEHOLDER
 武「インゼル・ヌルとの通信線は全滅、使い物にならないって……！」%K%P
 All data communication lines with Insel Null have been cut, they're useless...!
 CN PLACEHOLDER
-Все линии связи с Инсель Нуль оборваны, они бесполезны!..
+Все линии связи с Инсель нуль оборваны, они бесполезны...!
 
 武「空は確かにそう言ってたじゃないか、おかしくないか！？」%K%P
 Sora herself said that. It doesn't make sense!
@@ -841,12 +841,12 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「そう、そうなのよ……」%K%P
 That's what I mean...
 CN PLACEHOLDER
-Выходит... ты тоже это понял...
+Выходит...ты тоже это понял...
 
 急に優は、声を潜めた。%K%P
 Suddenly, You's voice level dropped.
@@ -856,7 +856,7 @@ CN PLACEHOLDER
 武「な、なんだよ……」%K%P
 Wh-What's that...?
 CN PLACEHOLDER
-Понял... что?..
+Понял...что...?
 
 優「倉成も、おかしいと思わない？」%K%P
 Come on, Kuranari. You think it's strange too, right?
@@ -871,7 +871,7 @@ CN PLACEHOLDER
 優「そもそも定期メンテナンスは通常、インゼル・ヌル上のマスター・スパコンと、館内のレミ端末が連携して行われるの」%K%P
 In order to perform periodic maintenance, the master supercomputer on Insel Null has to be linked with LeMMIH here.
 CN PLACEHOLDER
-Для выполнения периодического обслуживания головной суперкомпьютер на Инсель Нуль должен быть соединён с LeMMIH.
+Для выполнения периодического обслуживания, головной суперкомпьютер на Инсель нуль должен быть соединён с ЛеММИХ.
 
 優「それがきちんと終了したということは、つまり……」%K%P
 And since she said the maintenance checked out fine, that means...
@@ -881,7 +881,7 @@ CN PLACEHOLDER
 優「実はインゼル・ヌルとの通信経路は、あるかもしれないのよ」%K%P
 There might be a data communication link up and running somewhere.
 CN PLACEHOLDER
-Где-то здесь работает канал связи с Инсель Нуль.
+Где-то здесь работает канал связи с Инсель нуль.
 
 武「なんだって？」%K%P
 What?
@@ -896,7 +896,7 @@ CN PLACEHOLDER
 優「ここから先は、私の推測だけど……」%K%P
 What I'm going to say is only speculation, but...
 CN PLACEHOLDER
-Это, конечно, лишь предположение, но...
+Это конечно лишь предположение, но...
 
 優は眉を少ししかめる。%K%P
 You furrowed her brows together.
@@ -911,7 +911,7 @@ CN PLACEHOLDER
 武「空が……空が嘘をついているって言うのか？」%K%P
 You're saying... that Sora could be lying to us?
 CN PLACEHOLDER
-То есть... Сора лжёт нам?
+То есть...Сора лжёт нам?
 
 優「ううん、そうとは限らないよ」%K%P
 No, it doesn't necessarily mean that.
@@ -936,7 +936,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「今のところはわからないよ。本当はどうなのか、なんてさ」%K%P
 But for now, I don't know if it's true or not.
@@ -946,17 +946,17 @@ CN PLACEHOLDER
 優「私の推測が正しいのか。それとも単なる勘違いなだけなのか……？」%K%P
 Whether my suspicions are correct or all just a big misunderstanding...
 CN PLACEHOLDER
-Верны ли мои подозрения или в корне ошибочны?..
+Верны ли мои подозрения, или в корне ошибочны......?
 
 優「それはプロテクトを解いた後に考えればいいこと……」%K%P
 Anyway, I can worry about that after I've cracked the protection...
 CN PLACEHOLDER
-Ладушки, узнаю после того, как снесу нафиг эту защиту...
+Ладушки, узнаю после того как снесу нафиг эту защиту...
 
 優「とにかく今、私はここのコンソールから、インゼル・ヌルのスパコンにあるはずのデータにアクセスしてる」%K%P
 For now, I'm just trying to access the supercomputer on Insel Null from this console.
 CN PLACEHOLDER
-Пока что я просто пытаюсь на этой консоли связаться с суперкомпьютером, находящимся на Инсель Нуль.
+Пока что я просто пытаюсь на этой консоли связаться с суперкомпьютером, находящимся на Инсель нуль.
 
 優「本当にアクセスできるかどうかは全然わからないけど、データがそこにあるらしい、ってことはわかってるの」%K%P
 I don't know whether I can even gain access, but I'm pretty sure that's where the data is.
@@ -971,7 +971,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「ま、わかったのはいいんだけどぉ〜」%K%P
 Well, at least it's a start...
@@ -986,7 +986,7 @@ CN PLACEHOLDER
 優「このプロテクトがまた、なかなか解けなくって、頑固でねぇ〜」%K%P
 Cracking the security protection is going to be a real pain. This stubborn code!
 CN PLACEHOLDER
-Взломать защиту – не всё равно что щёлкать семечки. Дурацкий код!
+Взломать защиту - не всё равно что щёлкать семечки. Дурацкий код!
 
 優「だから、果たしてそこに何があるのか？　……というところまでは、まだまだ辿り着けてないってわけ」%K%P
 So what exactly awaits hidden inside...? It's a little too soon to go there.
@@ -1001,7 +1001,7 @@ CN PLACEHOLDER
 そう言って、優は大げさに肩をすくめる。%K%P
 You said this and then gave a big shrug.
 CN PLACEHOLDER
-С этими словами Ю тяжело пожала плечами.
+С этими словами, Ю тяжело пожала плечами.
 
 武「そっか……」%K%P
 Yeah...
@@ -1016,7 +1016,7 @@ CN PLACEHOLDER
 優「ま、そうだよねぇ」%K%P
 Well, maybe you're right.
 CN PLACEHOLDER
-Да, пожалуй, ты прав.
+Да, пожалуй ты прав.
 
 優は微笑んだ。%K%P
 You gave me a smile.
@@ -1026,7 +1026,7 @@ CN PLACEHOLDER
 首を鳴らし、凝り固まった肩を回す。%K%P
 She then popped her neck and rotated her stiff shoulders.
 CN PLACEHOLDER
-Затем она хрустнула шеей и расправила плечи.
+Затем она хрустнула шеей и повернула затёкшие плечи.
 
 優「さて、と……」%K%P
 Now then...
@@ -1086,7 +1086,7 @@ CN PLACEHOLDER
 優はずっと、モニターだけを見ていた。%K%P
 For a long time, You stared at the monitor.
 CN PLACEHOLDER
-Всё это время Ю смотрела в монитор.
+Всё это время, Ю смотрела в монитор.
 
 こちらに顔を見せようとしない。%K%P
 She didn't look my way.
@@ -1101,7 +1101,7 @@ CN PLACEHOLDER
 だけどその声は、少し震えた。%K%P
 But I could tell by her shaky voice.
 CN PLACEHOLDER
-Но по её дрожащему голосу я понял.
+Но, по её дрожащему голосу, я понял.
 
 本当は、泣いているのかもしれない。%K%P
 She was probably crying.
@@ -1111,12 +1111,12 @@ CN PLACEHOLDER
 俺は何も言わず、そのままそっと、警備室を出た。%K%P
 Without saying a word, I slipped out of the security office.
 CN PLACEHOLDER
-Не говоря ни слова, я незаметно вышел из Офиса охраны.
+Не говоря ни слова, я незаметно вышел из Офиса Охраны.
 
 （空は本当は、インゼル・ヌルにいる……？）%K%P
 (Is Sora really in Insel Null...?)
 CN PLACEHOLDER
-(Неужели Сора правда на Инсель Нуль?..)
+(Неужели Сора правда на Инсель нуль...?)
 
 もしも、そうだとしたら……%K%P
 If so...
@@ -1126,17 +1126,17 @@ CN PLACEHOLDER
 ＬｅＭＵが圧潰しようと沈没しようと、空だけは助かる……。%K%P
 No matter whether LeMU was crushed or not, she'd still be okay...
 CN PLACEHOLDER
-Неважно, раздавит ли LeMU или нет, с ней всё будет в порядке...
+Не важно, раздавит ли LeMU или нет, с ней всё будет в порядке...
 
 『そうだ、倉成さん。ここから脱出できたら、まず何がしたいですか？』%K%P
 “Tell me, Kuranari-san, after you escape from here, what's the first thing you want to do?”
 CN PLACEHOLDER
-«Кстати, Куранари-сан... а что ты будешь делать, когда выберешься отсюда?»
+"Кстати, Куранари-сан...а что ты будешь делать, когда выберешься отсюда?"
 
 …………。%K%P
 .........
 CN PLACEHOLDER
-...
+......
 
 あの言葉は、ただの薄っぺらい同情だったのだろうか？%K%P
 Were her words just a flimsy attempt at compassion?
@@ -1146,22 +1146,22 @@ CN PLACEHOLDER
 『人が生きるということに、改めて触れている気がしているんです』%K%P
 “I feel like I've gained a new perspective on human life.”
 CN PLACEHOLDER
-«Мне кажется, я смогла взглянуть на человеческую жизнь под новым ракурсом.»
+"Мне кажется, я смогла взглянуть на человеческую жизнь под новым ракурсом."
 
 『みんな、明日を信じて、生きてるんですよね……』%K%P
 “Come on, everybody! Believe in tomorrow so you can live today...”
 CN PLACEHOLDER
-«...люди верят в завтрашний день, чтобы прожить сегодняшний...»
+"...люди верят в завтрашний день, чтобы прожить сегодняшний..."
 
 すべてただの、プログラムされた言葉だと……。%K%P
 Were those words just robotic, programmed phrases...?
 CN PLACEHOLDER
-Неужели это просто бессвязные, механические, запрограммированные фразы?..
+Неужели это просто бессвязные, механические, запрограммированные фразы...?
 
 人を慰める為に発声された、ただの音だとでも言うのか……？%K%P
 Simple utterances encoded to pacify and comfort humans...?
 CN PLACEHOLDER
-Просто слова, чтобы успокоить и утешить людей?..
+Просто слова, чтобы успокоить и утешить людей...?
 
 急に俺は、空の存在をとても遠く感じた。%K%P
 Suddenly, I felt a distance between Sora's existence and my own.

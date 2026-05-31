@@ -1,12 +1,12 @@
 ﻿少年「本当にいたんだよ！　浦島太郎は！」%K%P
 Rip Van Winkle DID exist!
 CN PLACEHOLDER
-Урасима Таро был на самом деле!
+Урашима Таро был на самом деле!
 
 ぼくは絶叫した。%K%P
 I screamed out.
 CN PLACEHOLDER
-Воскликнул я.
+Воскрикнул я.
 
 優「あほぉ、あほぉ」%K%P
 You're so silly.
@@ -21,22 +21,22 @@ CN PLACEHOLDER
 少年「オトギ話のすべてが虚構とは限らないじゃないか！」%K%P
 Look, not all fairy tales are fiction!
 CN PLACEHOLDER
-Знаешь, не все сказки – вымысел!
+Знаешь, не все сказки - вымысел!
 
 優「だからって、浦島太郎が実在したとは限らないでしょ？」%K%P
 That doesn't mean that Rip Van Winkle actually existed, does it?
 CN PLACEHOLDER
-Но это не значит, что Урасима Таро жил на самом деле.
+Но, это не значит, что Урашима Таро жил на самом деле.
 
 優「それにねぇ、もしも仮に浦島太郎が実話だったとしても、少年のこととは何の関係もないじゃない」%K%P
 Besides, even if the tale of Rip Van Winkle was real, that has nothing to do with you, Kid.
 CN PLACEHOLDER
-Кроме того, даже если Урасима Таро и впрямь был, какое это имеет отношение к тебе, Малой?
+Кроме того, даже если Урашима Таро и впрямь был, какое это имеет отношение к тебе, Кид?
 
 少年「関係あるよ」%K%P
 It does too.
 CN PLACEHOLDER
-Ещё какое.
+Ещё как имеет.
 
 少年「『タイムスリップは現実に起こり得るか？』っていう話を、今ぼくらはしてるんだから」%K%P
 We're talking about whether people could actually travel through time, right?
@@ -51,7 +51,7 @@ CN PLACEHOLDER
 優「タイムスリップが現実に起こるものだとしても、少年がタイムスリップしたことにはならないって言ってるの」%K%P
 I'm saying that even if someone could actually travel through time, that doesn't necessarily mean that you did.
 CN PLACEHOLDER
-Я же говорю: даже если путешествие во времени возможно, это не значит, что ты его совершил.
+Я говорю, что, даже если кто-то действительно может путешествовать во времени, это вовсе не значит, что мог и ты.
 
 少年「じゃあ、ぼくはどうして予知なんてことができるの？」%K%P
 Then how come I can see the future?
@@ -71,17 +71,17 @@ CN PLACEHOLDER
 少年「前の歴史でも、同じようにＬｅＭＵの中に閉じ込められて……」%K%P
 I must have been stuck in LeMU in the past also...
 CN PLACEHOLDER
-Скорее всего в прошлом я оказался в LeMU, в этой западне, затем...
+Скорее всего, в прошлом я оказался в LeMU, в этой западне, затем...
 
 少年「３日経ち、４日経ち、５日経ち……で、何日か経ったあるとき、何らかの原因で、過去へとタイムスリップしてしまったんだ」%K%P
 Three days passed, and then four, five days... and after that, I must have slipped through time for some reason.
 CN PLACEHOLDER
-Прошло три дня, четыре, пять... а затем, по какой-то причине, я провалился сквозь время.
+Прошло три дня, четыре, пять...а затем, по какой-то причине, я провалился сквозь время.
 
 少年「つまり、５月１日の、あの池に落ちた瞬間へと時間をさかのぼってしまったってこと」%K%P
 Meaning I must have traveled back in time to the moment I fell into that pond.
 CN PLACEHOLDER
-Проще говоря, меня отбросило назад к тому моменту, когда я свалился в бассейн.
+Проще говоря, меня отбросило назад, к тому моменту, когда я свалился в бассейн.
 
 少年「だからこそ、予知なんてことができるんだと思う」%K%P
 That must be why I can look into the future.
@@ -91,17 +91,18 @@ CN PLACEHOLDER
 少年「ううん、正確に言うと、予知ではなく、過去に経験したことを思い出してるに過ぎなくて……」%K%P
 No, I mean, I must be remembering things I've already experienced in the past instead of looking into the future, to be exact.
 CN PLACEHOLDER
-Нет, скорее я просто вспоминаю то, что уже когда-то пережил в своём прошлом, хотя для всех остальных это будущее.
+Нет, то есть, я просто вспоминаю то, что уже когда-то пережил в своём прошлом, хотя для всех остальных это будущее.
 
 少年「自分ではわからないけど、ぼくは頭のどこかで、前の歴史を微かに覚えてるのかもしれない」%K%P
 I don't know how, but I'm probably carrying memories of the past.
 CN PLACEHOLDER
-Я сам не понимаю почему, но мне кажется, что где-то в глубине сознания у меня сохраняются смутные воспоминания о прошлом ходе событий.
+...
+// TODO: translate this properly
 
 優「ふ〜ん、じゃあそうなんじゃない？」%K%P
 Really... Well, that must be it then.
 CN PLACEHOLDER
-Хм-м... наверное, так и было.
+Хмм...наверно так и было.
 
 少年「うわっ、うわっ、ちゃんとマジメに考えてよ！」%K%P
 Oh, c'mon, I'm being serious here!
@@ -111,7 +112,7 @@ CN PLACEHOLDER
 優「悪いけどねぇ……私には、もっと切実で深刻な問題があるの」%K%P
 I'm sorry... but I've got far more serious, urgent problems.
 CN PLACEHOLDER
-Прости конечно... но у меня есть проблемы гораздо более серьёзные.
+Прости конечно...но, у меня есть и более серьёзные, неотложные дела.
 
 優「考えなきゃいけないことが山ほどあるの」%K%P
 I've got tons of things to think about.
@@ -121,12 +122,12 @@ CN PLACEHOLDER
 優「知ってるでしょ？　少年だって」%K%P
 You know what I'm talking about, Kid?
 CN PLACEHOLDER
-В общем, Малой, ты меня понял.
+В общем, Кид, ты меня понял.
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「理由はともかくとして、少年は予知をすることができる」%K%P
 I don't know what the reason is, but you can predict the future.
@@ -136,22 +137,22 @@ CN PLACEHOLDER
 優「いいじゃない、別に予知ができたって……」%K%P
 So what...?
 CN PLACEHOLDER
-Ну и что в этом такого?..
+Ну и что в этом такого...?
 
 優「あって困るような特殊能力でもないし、むしろ、あった方が便利だと思うけど？」%K%P
 It's not like it's a bad ability to have. As a matter of fact, I can imagine that it would really come in handy.
 CN PLACEHOLDER
-Я не вижу в этом ничего плохого – скорее наоборот, это даже удобно.
+С какой-то стороны неплохо. По-моему это нам очень даже на руку.
 
 少年「簡単に言ってくれるけどさぁ……ぼくのは予知じゃなくて、タイムスリップかもしれないんだよ？」%K%P
 You make it sound so simple... but in my case, I don't think it's the ability to see the future. I'm pretty sure I traveled through time.
 CN PLACEHOLDER
-Тебе легко так говорить... но что если это вообще не предсказание, а перемещение во времени?
+Тебя послушать - это такой пустячок...но, мне кажется, дело тут вовсе не в предвидении. Я уверен, что путешествовал во времени.
 
 少年「もしかしたら、おんなじ歴史をぐるぐるとぐるぐると、何回も繰り返してるのかもしれないんだ」%K%P
 I might even be repeating the same moments in history over and over again.
 CN PLACEHOLDER
-И, что ещё более вероятно, я снова и снова переживаю один и тот же отрезок времени.
+И, что ещё более вероятно, снова и снова переживаю один и тот же отрезок времени.
 
 少年「それに、記憶喪失のことだって、きっとタイムスリップと関係があるはずだし……」%K%P
 And what's more, I'm pretty sure the amnesia has something to do with the time travel...
@@ -166,7 +167,7 @@ CN PLACEHOLDER
 優「タイムスリップなんてものは、絶対に不可能なんだってば」%K%P
 Time travel is NOT possible.
 CN PLACEHOLDER
-Путешествий во времени НЕ сущуствует.
+Временных провалов не существует.
 
 優「それから記憶喪失のことだけど、時間が経てば、必ず元通りになるの！」%K%P
 And as far as your amnesia, I'm sure you'll regain your memories in time!
@@ -181,7 +182,7 @@ CN PLACEHOLDER
 優「って言うか、ほとんど思い出してるんでしょ？」%K%P
 I mean, you've actually remembered most everything, haven't you?
 CN PLACEHOLDER
-То есть, ты и так уже вспомнил практически всё?
+То есть, ты и так уже вспомнил практически всё, не так ли?
 
 少年「ほとんど、じゃないよぉ」%K%P
 Not everything.
@@ -201,22 +202,22 @@ CN PLACEHOLDER
 少年「ここ数年の記憶は、まだ戻ってなくて……」%K%P
 I still don't have any memories from the last few years...
 CN PLACEHOLDER
-Память о последних годах пока не вернулась...
+Я всё ещё не помню ничего из последних нескольких лет...
 
 少年「もちろん、ＬｅＭＵにどうやって来たのか、なぜ来たのか、誰と来たのかもわからない」%K%P
 I have no idea how I got to LeMU, why, or with whom.
 CN PLACEHOLDER
-Я не знаю, почему пришёл в LeMU, как и с кем.
+Я не знаю, почему пришёл в LeMU, как, и с кем.
 
 少年「ＬｅＭＵに来る前――５月１日以前の記憶も失ったままだ」%K%P
 I still don't remember anything before May 1st, the day I came to LeMU.
 CN PLACEHOLDER
-По-прежнему не помню ничего, что происходило до первого мая, дня, когда я здесь оказался.
+По-прежнему не помню ничего, происходившего до первого мая, дня когда я здесь оказался.
 
 少年「どこにいたのか……何をしてたのか……」%K%P
 Where I was... what I was doing...
 CN PLACEHOLDER
-Где я был... что делал...
+Где я был...что делал...
 
 少年「ぼくは……誰なのか……」%K%P
 Or who I am...
@@ -226,12 +227,12 @@ CN PLACEHOLDER
 優「はあ〜？」%K%P
 Huh?
 CN PLACEHOLDER
-А-а-а-а-а?!
+Ааааа〜〜〜?!
 
 優「ちょ、ちょ、ちょ、ちょ、ちょっと待って？」%K%P
 Wa-Wa-Wait a second.
 CN PLACEHOLDER
-П-п-погоди, что ты сказал?!
+С-С-С-С...стоп, что ты сказал?!
 
 優「少年はマヨのお兄ちゃんなんだよねぇ？　そのことは、ちゃんと思い出したんだよねぇ？」%K%P
 You're Mayo's brother, right? You did remember that, don't you?
@@ -241,22 +242,22 @@ CN PLACEHOLDER
 少年「う、うん」%K%P
 Uh, yeah.
 CN PLACEHOLDER
-Э-э... ну да.
+Эээ...ну да.
 
 優「だったら、さすがに『自分が誰なのか』ぐらいわかるはずじゃなぁ〜い」%K%P
 So you have to at least know 'who you are'.
 CN PLACEHOLDER
-Так что по крайней мере ты должен знать, „кто ты“.
+Так что, по крайней мере, ты должен знать, 'кто ты'.
 
 少年「でも……わからないんだもん……」%K%P
 But... I don't...
 CN PLACEHOLDER
-Но... я не...
+Но...я не...
 
 優「……？」%K%P
 ...?
 CN PLACEHOLDER
-?..
+Эээ...?
 
 少年「えーっと……なんて説明すればいいのかなぁ……」%K%P
 How can I explain this...?
@@ -266,7 +267,7 @@ CN PLACEHOLDER
 少年「今、誰かがぼくに『キミは誰ですか？』って尋ねてきたら、ぼくは『松永沙羅の兄です』って答えるしかないんだ」%K%P
 If someone were to ask me, 'Who are you?', all I could say is, 'I'm Matsunaga Sara's brother.'
 CN PLACEHOLDER
-Если меня кто-нибудь спросит „Кто ты?“, всё, что я могу сказать: „Я брат Мацунаги Сары“.
+Если меня кто-нибудь спросит 'Кто ты?', всё что я могу%Nсказать - 'Я брат Мацунаги Сары'.
 
 少年「それ以外に、答えようがないんだよ」%K%P
 I don't know any other way to answer.
@@ -281,7 +282,7 @@ CN PLACEHOLDER
 優「あっ！　あっ！　あああっ！」%K%P
 Oh! Oh! Ohhh!
 CN PLACEHOLDER
-О! О! О-о-о!
+А-а-ааа〜〜〜!
 
 高く声をあげ、ぼくのことを指差した。%K%P
 You raised her voice and pointed her finger at me.
@@ -301,7 +302,7 @@ CN PLACEHOLDER
 優「名前よ、名前！」%K%P
 Name! Your name!
 CN PLACEHOLDER
-Имя! Твоё имя!
+Имя! Имя!
 
 優「少年の――な・ま・え！」%K%P
 Your name, Kid!
@@ -311,7 +312,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「マヨから聞いたんでしょ？」%K%P
 Mayo told you, didn't she?
@@ -321,7 +322,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「聞いたんだよねぇ？」%K%P
 You DID ask her, didn't you?
@@ -331,17 +332,17 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「き、き、き、聞いてないのぉ！？」%K%P
 You haven't asked her your name!?
 CN PLACEHOLDER
-Т-т-т-ты не спросил?!
+Т-Т-Т...ты не спросил!?
 
 少年「……うん……聞いて……ない」%K%P
 Um... No... I haven't.
 CN PLACEHOLDER
-Э-э... нет... не спросил.
+Эээ...нет...не спросил.
 
 優は首を振り、天を仰ぎ、クチビルをかみしめた。%K%P
 You shook her head, looked up at the ceiling, and chewed on her lips.
@@ -366,7 +367,7 @@ CN PLACEHOLDER
 大きく息を吸った。%K%P
 She took a deep breath.
 CN PLACEHOLDER
-Затем глубоко вдохнула.
+Затем начала делать глубокий вдох.
 
 吐き出すのかと思いきや、さらにさらに吸い続けた。%K%P
 I thought she was going to exhale, but she continued to take one long breath in.
@@ -381,52 +382,52 @@ CN PLACEHOLDER
 優「あんたバカじゃないのぉーーーーーーーーーーーーーーーーーっ！！！」%K%P
 ARE YOU STUPID OR WHAAAAAAAAAAAT!?
 CN PLACEHOLDER
-НУ ТЫ И ДУРА-А-А-А-АК!
+НУ ТЫ...ПРИДУУУУУУУРОК!
 
 その声は、ＬｅＭＵを震度５の強度で揺るがした。%K%P
 Her voice was so loud that it shook LeMU like an earthquake.
 CN PLACEHOLDER
-От этого крика LeMU содрогнулся, словно при землетрясении в пять баллов.
+Её голос столь громок, что в LeMU буквально началось землетрясение.
 
 『隔壁が張り裂けちゃったらどうするんだよ』と、ぼくは少しヒヤヒヤした。%K%P
 I was a bit frightened that it would tear the partition walls.
 CN PLACEHOLDER
-Я перепугался от того, что из-за него могут лопнуть стены.
+От этого крика стены едва не треснули.
 
 優「どうして真っ先に自分の名前を聞かないのよぉ！」%K%P
 That's the first thing you should ask her before anything else!
 CN PLACEHOLDER
-Почему ты сразу же не спросил, как тебя зовут?!
+Почему ты сразу же не спросил, как тебя зовут?!!
 
 少年「だって……優にはわからないと思うけど……」%K%P
 Well... you probably wouldn't understand this, but...
 CN PLACEHOLDER
-Ну... наверное, ты не поймёшь, но...
+Эх...наверно ты не поймёшь, но...
 
 少年「ぼくと沙羅の間には、それはそれは語り尽くせないぐらい色んなことがあったんだよ」%K%P
 Sara and I had so much else to talk about.
 CN PLACEHOLDER
-Между мной и Сарой случилось столько всего, что словами не передать.
+Сара и я о стольком хотели поговорить.
 
 少年「話さなきゃいけないことは無数にあったし……自分のことなんか考えてる余裕はなくて……」%K%P
 We had endless things to talk about... and I just didn't have the presence of mind or chance to think about myself.
 CN PLACEHOLDER
-Было столько всего, о чём стоило поговорить... и про себя думать просто не было возможности.
+О множестве, бесчисленном множестве вещей...у меня даже не было возможности подумать о себе.
 
 少年「ぼくらにとっては、失われた時間を取り戻すことの方が先だったんだ」%K%P
 For us, the first priority was to regain the time we had lost.
 CN PLACEHOLDER
-Важнее всего для нас было наверстать утраченное время.
+Важнее всего для нас было наверстать потерянное время.
 
 少年「正直言って、名前なんかどうでもよかった」%K%P
 And to be honest, I couldn't care less about my name.
 CN PLACEHOLDER
-И, честно говоря, последнее, о чём мне хотелось думать – о том, как меня зовут.
+И, честно говоря, последнее, о чём мне хотелось думать - о том, как меня зовут.
 
 優「あのねぇ、少年……よく考えてみて？」%K%P
 Listen, Kid... Just think about it.
 CN PLACEHOLDER
-Вот что, Малой... подумай хорошенько.
+Вот что, Кид...подумай хорошенько.
 
 優「自分の名前よ？　気にならないの？」%K%P
 It's your own name. Aren't you curious to know?
@@ -441,12 +442,12 @@ CN PLACEHOLDER
 少年「沙羅と話してるときは、頭の中をかすめもしなかった」%K%P
 When I was talking to Sara, it didn't even pass through my mind.
 CN PLACEHOLDER
-Когда я разговаривал с Сарой, у меня и мысли не возникло.
+Когда я разговаривал с Сарой, оно даже не промелькнуло в моём мозгу.
 
 優「はぁ……」%K%P
 *Sigh*...
 CN PLACEHOLDER
-*вздох*
+*вздох*...
 
 優は大袈裟な身振りを交えてため息をついた。%K%P
 You sighed with an exaggerated gesture.
@@ -466,22 +467,22 @@ CN PLACEHOLDER
 少年「嬉しくて、懐かしくて、心が浮ついてて……」%K%P
 We were just so happy, caught up in the memories...
 CN PLACEHOLDER
-Мы были просто рады и одновременно испытывали дикую ностальгию... Что-то трепетало внутри нас.
+Захваченные водоворотом воспоминаний, мы были так счастливы...
 
 少年「でも、その反対側には怖い気持ちもあって……苦しくて……胸がしめつけられるように、痛くて……」%K%P
 But on the other hand, we were scared, in pain, and our hearts ached...
 CN PLACEHOLDER
-С другой стороны, мы испытали чувство страха – было тяжело, больно, словно сердце сдавливали...
+Но, с другой стороны, мы боялись, страдали, наши сердца щемило...
 
 少年「そういう感情が、ごちゃごちゃになって一気に押し寄せて来たんだ」%K%P
 All these emotions were mixed up and jumbled together and came flooding over us.
 CN PLACEHOLDER
-Все эти чувства перемешались и обрушились на нас лавиной.
+Все эти чувства перемешались и обрушились на нас, как лавина.
 
 少年「ぼくと沙羅は、お互いのことを理解し合うだけで精一杯だった」%K%P
 Sara and I were overwhelmed just trying to understand one another.
 CN PLACEHOLDER
-Что Сару, что меня – нас едва не унесло, пока мы пытались понять друг друга.
+Что Сару, что меня - нас едва не унесло, пока мы пытались понять друг друга.
 
 少年「さっきも言ったけど、そのときには名前なんて重要じゃなかった」%K%P
 Like I said, names didn't seem so important at that time.
@@ -491,7 +492,7 @@ CN PLACEHOLDER
 少年「ぼくは『お兄ちゃん』でよかったし、沙羅は『沙羅』でよかったんだ」%K%P
 She just called me 'onii-chan', and I just wanted to call her Sara.
 CN PLACEHOLDER
-Она звала меня просто „братик“, а я её – Сара.
+Она звала меня просто 'братик', а я её - Сара.
 
 少年「わかるでしょ？」%K%P
 Do you understand?
@@ -501,12 +502,12 @@ CN PLACEHOLDER
 優「全然、わからない」%K%P
 No, not at all.
 CN PLACEHOLDER
-Совершенно нет.
+Ни ско-леч-ко.
 
 そう言って、優は歩き始めた。%K%P
 You said that and started to walk off.
 CN PLACEHOLDER
-С этими словами Ю сорвалась с места.
+С этими словами, Ю сорвалась с места.
 
 少年「あっ、待ってよ！　どこ行くの！？」%K%P
 Hey, wait a second! Where are you going!?
@@ -536,32 +537,32 @@ CN PLACEHOLDER
 少年「何を？」%K%P
 What?
 CN PLACEHOLDER
-О чём?
+Что?
 
 優「決まってるじゃない――少年の名前を！」%K%P
 Well, helloooo? Your name, of course, Kid!
 CN PLACEHOLDER
-Что значит „о чём“?! Как тебя зовут, Малой!
+Что значит что?! Как тебя зовут, Кид!
 
 少年「いいよ、そんなことしなくても……」%K%P
 Look, you don't have to do that...
 CN PLACEHOLDER
-А может не надо?..
+Это...а может не надо...?
 
 優「ええっ？　なんでよぉ〜」%K%P
 Huh? Why not?
 CN PLACEHOLDER
-Э-э? Почему?
+Эээ? Почему?
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「きみさぁ、さっきから、言ってることがかみ合ってなくない？」%K%P
 What you've been saying doesn't make sense.
 CN PLACEHOLDER
-Тебе не кажется, что ты сам себе противоречишь?
+Знаааешь...то что ты говоришь, лишено всякого смысла...
 
 優「完全に記憶を取り戻したいんでしょ？　自分が誰なのか知りたいんでしょ？」%K%P
 Don't you want to regain your full memory? Don't you want to know who you are?
@@ -576,12 +577,12 @@ CN PLACEHOLDER
 優「じゃあ、予知だのタイムスリッパだの、荒唐無稽なキテレツ話をする前にさぁ」%K%P
 Well then, instead of talking about stupid, outrageous things like seeing the future or time travel...
 CN PLACEHOLDER
-Ну так вот, прежде чем нести всю эту чушь про предвидение и путешествия во времени...
+Вооот, тогда, вместо того чтобы нести всякий бред насчёт предвидения и временных провалов, лучше взять быка за рога...
 
 優「マヨに名前を聞くのが一番手っ取り早いじゃない」%K%P
 Don't you think it'd just be faster to ask Mayo?
 CN PLACEHOLDER
-Майо! Надо спросить Майо! Так будет гораздо быстрее!
+Майо! Надо спросить Майо! Так будет гораздо быстрей!
 
 ふと、あの鏡をのぞき込んだときの光景が蘇る。%K%P
 I thought back briefly to the sight of myself in that mirror.
@@ -591,17 +592,17 @@ CN PLACEHOLDER
 ぼくはあのとき『自分の顔』が『自分の顔』ではないように思えて錯乱した。%K%P
 I had been so confused at that time because “my face” didn't look like “my face”.
 CN PLACEHOLDER
-Как помутился рассудок, когда я увидел, что «моё лицо» непохоже на «моё настоящее лицо».
+Как помутился рассудок, когда я увидел, что 'моё лицо' не похоже на 'моё настоящее лицо'.
 
 同じように、沙羅から名前を聞き出したら……%K%P
 If the same thing happened when Sara told me my name...
 CN PLACEHOLDER
-А что, если такая же пакость случится, когда Сара назовёт меня по имени?..
+А что, если такая же пакость случится, когда Сара назовёт меня по имени...?
 
 ぼくは『自分の名前』を『自分の名前』ではないように思って取り乱してしまうかもしれない。%K%P
 I was afraid that I might feel like “my name” wasn't really “my name” and end up all confused again.
 CN PLACEHOLDER
-Боюсь, как бы не случилось повторения пройденного, только на этот раз – с именем.
+Боюсь, как бы не случилось повторения пройденного, только на этот раз - с именем.
 
 少し、怖かった。%K%P
 To tell the truth, it was a bit scary.
@@ -621,17 +622,17 @@ CN PLACEHOLDER
 優「……えっ？」%K%P
 ...What?
 CN PLACEHOLDER
-Э-э?..
+Эээ...?
 
 少年「名前ってさぁ、個体を識別する為に、便宜上、人間が勝手に与えたものだと思うんだよね」%K%P
 Look, names are just things people give themselves to make identifying one another more convenient.
 CN PLACEHOLDER
-Мне кажется, имя – всего лишь удобный ярлык, который люди придумали, чтобы отличать одного от другого.
+Да пойми ты, имена - это не более чем способ, придуманный людьми, для более уверенной самоидентификации.
 
 少年「便宜上……だから、なければ不便なのかもしれないけど、でも『絶対になきゃダメだ』っていうもんでもないと思うんだ」%K%P
 It's just for convenience... So while living without a name certainly has its own challenges, I don't think a name is an absolute necessity.
 CN PLACEHOLDER
-Лишь удобный ярлык... То есть, не спорю, жить без имени довольно проблематично. Но не думаю, что имя – вещь абсолютно необходимая.
+Для удобства...то есть, не спорю, жить без имени довольно проблематично. Но, не думаю, что имя - вещь абсолютно необходимая.
 
 少年「例えばイルカは、かなり頭のいい動物だけど、１頭１頭に名前を付けて呼び合ってるわけじゃないでしょ？」%K%P
 Take dolphins. They're highly intelligent creatures, but they don't go around calling one another by name.
@@ -651,7 +652,7 @@ CN PLACEHOLDER
 少年「名前なんかなくても、どれが自分の息子で、どれが自分の妻で、どういうのがマッコウクジラで、どういうのがシャチなのか……」%K%P
 They know which one is a son, which one is a wife, and the difference between a gray whale and a killer whale...
 CN PLACEHOLDER
-Они знают, кто чей сын, кто чья жена, и видят разницу между серым китом и касаткой...
+Они знают, кто чей сын, кто чья жена и видят разницу между серым китом и касаткой...
 
 少年「彼らは正確に見分けることができる」%K%P
 They don't have names, yet they can recognize things correctly.
@@ -661,12 +662,12 @@ CN PLACEHOLDER
 少年「それからたぶん……これはぼくの推測に過ぎないけど……彼らは自分自身というものも、ちゃんと認識してるような気がする」%K%P
 And... this is just speculation, but... they seem to recognize individual identities.
 CN PLACEHOLDER
-И... это, конечно, спекуляция, но... они даже узнают каждого в отдельности.
+И...это конечно умозаключение, но...они даже узнают каждого в отдельности.
 
 少年「どこまでが自分なのかも知ってるし、隣で泳いでるイルカが自分ではないということも知っている」%K%P
 A dolphin seems to have its own sense of self, separate from that of the dolphin swimming next to it. And it's aware that it's a separate entity.
 CN PLACEHOLDER
-У дельфина есть ощущение своего „я“, отдельного от дельфина, плывущего с ним рядом. Он понимает, что это другая личность.
+У дельфина есть ощущение своего 'я', отдельного от дельфина, плывущего с ним рядом. Он понимает, что это другая личность.
 
 少年「そういうのを区別するときに、彼らは名前なんかに頼ったりはしないわけで……」%K%P
 They don't have to depend on names to recognize all these things...
@@ -676,32 +677,32 @@ CN PLACEHOLDER
 少年「自分の名前はジェームス、隣にいるのはリンリン、その向こうで魚を追ってるのはユメミ……」%K%P
 My name is James, this one next to me is Ling Ling, and that one chasing after a fish is Yumemi...
 CN PLACEHOLDER
-Привет, я Джеймс. Рядом со мной Лин Лин, её из Сиднея привезли, а вон тот, что гоняется за рыбой – Юмэми...
+Привет, я Женя, я тут родился. Рядом со мной Линг Линг, её из Сиднея привезли, а вон тот, что гоняется за рыбой - Юмеми из Токио...
 
 少年「なんてこと、イチイチ考えたりはしないと思うんだよね」%K%P
 I don't think they do that.
 CN PLACEHOLDER
-Не думаю, что они говорят нечто похожее.
+Вряд ли они так скажут.
 
 少年「生意気な言い方かもしれないけど、人間は、ちょっと名前に頼り過ぎてるような気もする」%K%P
 It may sound kind of cocky, but sometimes I feel humans depend on names too much.
 CN PLACEHOLDER
-Может, это звучит грубо, но иногда мне кажется, что люди просто жить без „ярлыков“ не могут.
+Может это звучит грубо, но иногда мне кажется, что люди просто жить без 'ярлыков' не могут.
 
 少年「ある日突然、リンリンだと思ってた女の子に『私はランランよ』なんて言われたら、人間は、きっと誰だって混乱しちゃうと思うんだ」%K%P
 If, one day, this girl you've known as Ling Ling tells you, 'Oh, by the way, my name is Lang Lang', wouldn't that throw you off?
 CN PLACEHOLDER
-Представь себе... Девушка, которую ты знаешь как Лин Лин, однажды берёт и заявляет: „Да, кстати, меня зовут Лан Лан“. Неужели это не собьёт тебя с толку?
+Представь себе: девушка, которую ты знаешь как Линг Линг, однажды берёт и заявляет 'Да, кстати, меня зовут Ланг Ланг'. Неужели это не собъёт тебя с толку?
 
 少年「混乱して……それで……こんなふうに考える」%K%P
 It'd cause confusion... and you might think...
 CN PLACEHOLDER
-Ещё как собьёт... и может даже навести на мысль...
+Ещё как собъёт...и может даже навести на мысль...
 
 少年「『リンリンとランランは、よく似てるけど、恐らく別人なんだ』って……」%K%P
 'You know, Ling Ling and Lang Lang are really similar, but they're probably just two different people'...
 CN PLACEHOLDER
-„Ну, Лин Лин и Лан Лан правда очень похожи, но, наверное, они два разных человека“.
+'Ну, Линг Линг и Ланг Ланг правда очень похожи, но, наверно, они два разных человека'.
 
 少年「名前が違うだけでそんなふうに思っちゃうなんて、なんか変じゃない？」%K%P
 It seems stupid to get confused just because of a name.
@@ -711,7 +712,7 @@ CN PLACEHOLDER
 少年「それはつまり、実際の個体差よりも、名前の方を信頼し、重要視してるってことになるわけで……」%K%P
 Meaning people value, trust, and depend on names more than the actual individual differences...
 CN PLACEHOLDER
-Полагаться на какой-то „ярлык“ и доверять ему больше, чем различиям между индивидуумами...
+Полагаться на какой-то 'ярлык' и доверять ему больше, чем различиям между индивидуумами...
 
 少年「イルカなら、そうは考えないはずでしょ？」%K%P
 I bet dolphins don't think like that.
@@ -726,7 +727,7 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「ぼく、名前を失ってみて、初めて気づいたんだ」%K%P
 I realized that for the first time once I lost my name.
@@ -761,12 +762,12 @@ CN PLACEHOLDER
 優「うん、聞いてるよ、聞いてる」%K%P
 Yup, I'm listening, I'm listening.
 CN PLACEHOLDER
-Угу, я слушаю, слушаю.
+Эммм... я слушаю... слушаю.
 
 優「考えてたの、今の少年の話……」%K%P
 I've been thinking about what you were just saying...
 CN PLACEHOLDER
-Просто... задумалась над твоими словами, Малой...
+Просто...задумалась над твоими словами, Кид...
 
 少年「？」%K%P
 ?
@@ -781,7 +782,7 @@ CN PLACEHOLDER
 優「特に私は、自分の名前にコンプレックスを持ってるから、そういうこと、結構今までいろいろと考えてきたんだよね」%K%P
 You know, I've had a complex about my name for a long time, and I've actually thought quite a lot about this issue.
 CN PLACEHOLDER
-Знаешь, у меня... комплекс насчёт собственного имени, причём давным-давно, и он постоянно не даёт мне покоя.
+Знаешь, у меня...комплекс насчёт собственного имени, причём давным-давно, и он постоянно не даёт мне покоя.
 
 少年「コンプレックス？」%K%P
 Complex?
@@ -791,7 +792,7 @@ CN PLACEHOLDER
 優「うん」%K%P
 Yeah.
 CN PLACEHOLDER
-Угу.
+У〜гу.
 
 少年「優は自分の名前、嫌いなの？」%K%P
 You don't like your own name, You?
@@ -821,12 +822,12 @@ CN PLACEHOLDER
 優「私、クラス替えのたびに、憂鬱で憂鬱で仕方なくて……」%K%P
 Every time a new year at school would start, I would just cringe...
 CN PLACEHOLDER
-Каждый новый учебный год для меня – сплошной испанский стыд...
+Каждый новый учебный год для меня - хуже пытки...
 
 少年「あっ」%K%P
 Oh.
 CN PLACEHOLDER
-О...
+Ой...
 
 ぼくは呟いた。%K%P
 I murmured.
@@ -841,17 +842,17 @@ CN PLACEHOLDER
 優「うん」%K%P
 Yeah.
 CN PLACEHOLDER
-Угу.
+У〜гу.
 
 少年「名前が嫌いなのは、そのことと関係があるの？」%K%P
 Well, would that have something to do with the fact that you don't like your name?
 CN PLACEHOLDER
-Это имеет какое-либо отношение к тому, что оно тебе не нравится?
+И, это имеет какое-либо отношение к тому, что оно тебе не нравится?
 
 優「関係があるって言うか……それこそが、直接の原因」%K%P
 Something to do with it...? That's WHY I don't like it.
 CN PLACEHOLDER
-Имеет ли какое-то отношение?.. По правде сказать, это и есть главная причина.
+Имеет ли какое-то отношение...? По-правде сказать, это и есть главная причина.
 
 優は立ち止まった。%K%P
 You stopped walking.
@@ -876,12 +877,12 @@ CN PLACEHOLDER
 優「きみにはまだ、教えてなかったもんね？　私のフルネーム」%K%P
 I still haven't told you my full name yet.
 CN PLACEHOLDER
-Ты ведь ещё не слышал... моё полное имя.
+Ты ведь ещё не слышал...моё полное имя.
 
 少年「う、うん」%K%P
 Uh, I guess.
 CN PLACEHOLDER
-Э-э, ну да.
+Эээ, ну да.
 
 優「絶対笑わないって誓ってくれる？」%K%P
 Will you promise that you won't laugh?
@@ -891,7 +892,7 @@ CN PLACEHOLDER
 少年「……うん」%K%P
 ...Sure.
 CN PLACEHOLDER
-...Конечно.
+...конечно.
 
 優「それじゃあ、教えてあげよう」%K%P
 Okay, I'll tell you.
@@ -911,32 +912,32 @@ CN PLACEHOLDER
 優「ユウビセイアキカナ」%K%P
 Yubiseiakikana.
 CN PLACEHOLDER
-Юбисэйакикана.
+Юбисейакикана.
 
 少年「えっ……………………」%K%P
 Huh...?
 CN PLACEHOLDER
-Э-э?...
+Эээ........................?
 
 優「『優』しく、『美』しく、『清』らかな、『秋』、『香』る、『菜』の花」%K%P
 It means 'gentle beautiful pure autumn fragrant green blossom'.
 CN PLACEHOLDER
-„Нежная“, „красивая“, „чистая“, „осень“, „благоухающая“, „зелёная“.
+'Нежная', 'красивая', 'чистая', 'осень', 'благоухающая', 'зелёная'.
 
 少年「―――――ええっ！？」%K%P
 Huuuh!?
 CN PLACEHOLDER
-...Что?!
+-----Что!?
 
 少年「優美清『秋』香菜！？」%K%P
 Yubisei'aki'kana!?
 CN PLACEHOLDER
-Юбисэй'аки'кана?!
+Юбисей'аки'кана!?
 
 突如、ズシンと重い塊が胸の底を叩いた。%K%P
 Suddenly, it was as if I felt a heavy thud in the bottom of my heart.
 CN PLACEHOLDER
-Внезапно я словно почувствовал тяжёлый удар в глубине своего сердца.
+Внезапно, я словно почувствовал тяжёлый удар в глубине своего сердца.
 
 じわりじわりと不気味な気配が体中に沁みていく。%K%P
 A strange feeling started to take over my body.
@@ -956,17 +957,17 @@ CN PLACEHOLDER
 ぼくは優の本名を知ってるはずじゃないか！%K%P
 I must have known You's real name!
 CN PLACEHOLDER
-Должно быть, я уже знал полное имя Ю!
+Должно быть я уже знал настоящее имя Ю!
 
 いや……だけど……優から直接本名を聞いたことは一度もなくて……。%K%P
 Wait... but... I'd never heard it from You directly...
 CN PLACEHOLDER
-Но... я никогда не слышал его из уст Ю...
+Стоп...но...я никогда раньше не слышал его из уст Ю...
 
 どういうことだ！？%K%P
 What was going on!?
 CN PLACEHOLDER
-Что за чертовщина?!
+Что за чертовщина!?
 
 沙羅のときと同じじゃないか……。%K%P
 It was just like the situation with Sara...
@@ -976,7 +977,7 @@ CN PLACEHOLDER
 ぼくは、前から、優の本当の名前を、知ってたんだ……。%K%P
 I already knew You's real name from before...
 CN PLACEHOLDER
-Я уже давно знаю её полное имя...
+Я уже знаю её полное имя, из прошлого...
 
 優の本当の名前は……。%K%P
 You's real name was...
@@ -986,17 +987,17 @@ CN PLACEHOLDER
 少年「優の……本当の……名前は……」%K%P
 Your... real... name is...
 CN PLACEHOLDER
-Тебя... зовут...
+Тебя...зовут...
 
 少年「優美清――『春』――香菜」%K%P
 Yubisei'haru'kana.
 CN PLACEHOLDER
-Юбисэй'хару'кана.
+Юбисей'хару'кана.
 
 優「は？？？」%K%P
 What?
 CN PLACEHOLDER
-Ха-а-а?
+Хааа?
 
 少年「い、いま、言い間違えたんだよねぇ？」%K%P
 You said it wrong, didn't you?
@@ -1006,7 +1007,7 @@ CN PLACEHOLDER
 少年「本当は、本当は……『春香菜』って、言おうとしたんでしょ？」%K%P
 You actually meant to say 'harukana', right?
 CN PLACEHOLDER
-Наверное, ты хотела сказать „'хару'кана“?
+Наверно ты хотела сказать 'харукана'?
 
 優「自分の名前を言い間違える人なんて、いないと思うけど？」%K%P
 Look, I don't think I'd say my own name incorrectly.
@@ -1016,12 +1017,12 @@ CN PLACEHOLDER
 優「まあ、私としては『春』でも『秋』でもどっちでもいいんだけどね」%K%P
 Well, 'haru' or 'aki', either one is fine with me.
 CN PLACEHOLDER
-Хотя, по мне так... „'хару'“ или „'аки'“ – невелика разница.
+Хотя, по мне так... 'хару' или 'аки' - не велика разница.
 
 優「でも、一応戸籍上は『秋』になってるわけだし……」%K%P
 But on the birth certificate, it says 'aki'...
 CN PLACEHOLDER
-Но в свидетельстве о рождении написано „'аки'“...
+Но, в паспорте написано 'аки'...
 
 少年「嘘だ！」%K%P
 No!
@@ -1031,27 +1032,27 @@ CN PLACEHOLDER
 優「ほへ？？？」%K%P
 What?
 CN PLACEHOLDER
-Чего???
+Чаво???
 
 少年「優のフルネームは、優美清『春』香菜なはずだ！」%K%P
 Your full name has to be Yubisei'haru'kana!
 CN PLACEHOLDER
-Твоё настоящее имя – Юбисэй'хару'кана...
+Твоё настоящее имя - Юбисей'хару'кана...
 
 少年「『秋』じゃないんだよ！」%K%P
 It's not 'aki'!
 CN PLACEHOLDER
-...а не „'аки'“!
+...а не 'аки'!
 
 優「ふふっ、ふふっ……」%K%P
 Hahahahaha...
 CN PLACEHOLDER
-Хы-хы... к-хы!..
+Хы〜хы...к〜хы...!
 
 優「あはははははははは♪」%K%P
 Ahahahaha〜
 CN PLACEHOLDER
-А-ха-ха-ха-ха-ха! Хы-хы-хы!
+А〜ха〜ха〜ха〜ха〜ха〜〜! Хы〜хы〜хы〜〜〜!
 
 少年「な、なんで笑うんだよぉ！　笑いごとじゃないんだって！」%K%P
 What are you laughing about!? This isn't funny at all!
@@ -1066,32 +1067,32 @@ CN PLACEHOLDER
 優「うん、うん、そうかもね♪」%K%P
 Yeah, yeah, that just may be it.
 CN PLACEHOLDER
-Ага, так и есть.
+А〜га, так и есть.
 
 優「私の本当の名前は……えーっと……リンリンだったっけ？　それともランランだったっけなぁ？」%K%P
 My real name is... Oh, was it Ling Ling? No, wait, maybe it was Lang Lang?
 CN PLACEHOLDER
-На самом деле меня зовут... как там... Лин Лин? Или, может, Лан Лан?
+На самом деле меня зовут...это...Линг Линг? Или может Ланг Ланг?
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「あのねぇ、少年、よく聞いてね？」%K%P
 Kid, listen up.
 CN PLACEHOLDER
-Послушай, Малой.
+Послушай, Кид.
 
 優「私の名前は優美清秋香菜」%K%P
 My name is Yubiseiakikana.
 CN PLACEHOLDER
-Меня зовут Юбисэйакикана.
+Меня зовут Юбисейакикана.
 
 優「生まれたときからそうだったし、これからもずっと、この名前を背負って生き続けて行くんだと思う」%K%P
 It's been that way since I was born, and it will be that way as long as I live.
 CN PLACEHOLDER
-Моё имя было таким с момента моего рождения и останется таким же до самой смерти.
+Оно было таким с момента моего рождения, и останется таким же до самой смерти.
 
 優「いい？」%K%P
 You got it?
@@ -1101,7 +1102,7 @@ CN PLACEHOLDER
 優「春でも夏でも冬でもなくて、秋なの」%K%P
 It's neither haru, nor natsu, nor fuyu, but aki.
 CN PLACEHOLDER
-Не „хару“, не „нацу“, не „фую“, а „аки“.
+Ни 'хару', ни 'нацу', ни 'фую', а 'аки'.
 
 優「なんでか知ってる？」%K%P
 Do you know why?
@@ -1111,7 +1112,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「私は今から１８年と７ヶ月前に生まれたの」%K%P
 I was born eighteen years and seven months ago.
@@ -1126,7 +1127,7 @@ CN PLACEHOLDER
 優「誕生日は９月２２日」%K%P
 My birthday is September 22nd.
 CN PLACEHOLDER
-Мой день рождения – 22 сентября.
+Мой день рождения - 22 сентября.
 
 優「出生地は日本」%K%P
 I was born in Japan.
@@ -1141,7 +1142,7 @@ CN PLACEHOLDER
 優「９月って、日本では春だっけ？」%K%P
 Let's see... Is September spring in Japan?
 CN PLACEHOLDER
-Если подумать... разве в сентябре в Японии весна?
+Если подумать...разве в сентябре в Японии весна?
 
 優「秋、だよねぇ？」%K%P
 No, it's autumn, isn't it?
@@ -1151,7 +1152,7 @@ CN PLACEHOLDER
 優「だから、私は『秋香菜』なの、わかった？」%K%P
 So, my name is 'akikana', you got that?
 CN PLACEHOLDER
-Вот потому-то меня и зовут „акикана“. „Аки“ – „осень“, понял?
+Вот потому-то меня и зовут 'акикана'. 'Аки' - 'осень', понял?
 
 ぼくはすでに理性を失いかけていた。%K%P
 I was already starting to lose my sense of reality.
@@ -1166,7 +1167,7 @@ CN PLACEHOLDER
 頭が、痛み始めた。%K%P
 My head started to ache.
 CN PLACEHOLDER
-Голову ломит.
+Голова ломит.
 
 するとそこに――。%K%P
 And then...
@@ -1176,7 +1177,7 @@ CN PLACEHOLDER
 沙羅「お兄ちゃ〜ん！　なっきゅせんぱ〜い！」%K%P
 Onii-chan! Nakkyu-senpai!
 CN PLACEHOLDER
-Брати-и-ик! Няку-сэмпа-а-ай!
+Братик! Някууу〜〜〜!
 
 コメカミを押さえながら、チラリと見る。%K%P
 I glanced as I put my hand on my temple.
@@ -1191,7 +1192,7 @@ CN PLACEHOLDER
 優「あっ、ちょうどいいところに……」%K%P
 Good timing...
 CN PLACEHOLDER
-Ах! Как раз вовремя!..
+Ах! Как раз вовремя...!
 
 沙羅「ちょうどいいところ？」%K%P
 Good timing?
@@ -1241,12 +1242,12 @@ CN PLACEHOLDER
 『倒れてしまえばどんなにか楽なのに』と、ぼくはそのとき思った。%K%P
 I thought to myself, “This'll probably be a lot easier if I just faint.”
 CN PLACEHOLDER
-В голове лишь одна мысль – «будет лучше, если я просто потеряю сознание».
+В голове лишь одна мысль - 'будет лучше, если я просто потеряю сознание'.
 
 けれど、ぼくの両足はしっかりとフロアを踏みしめこらえた。%K%P
 But both my feet stood soundly on the floor, and I braced myself.
 CN PLACEHOLDER
-Но обе мои ноги прочно стоят на полу. Я держу себя в руках.
+Но, обе мои ноги прочно стоят на полу. Я держу себя в руках.
 
 沙羅を見る。%K%P
 I looked at Sara.
@@ -1281,7 +1282,7 @@ CN PLACEHOLDER
 優「　　〜、　　　　　〜」%K%P
    ,   
 CN PLACEHOLDER
-___?.. ______?..
+___〜〜〜...? ______...?
 
 優「　　　　、　　　　　……」%K%P
    ,   ...
@@ -1291,7 +1292,7 @@ _____... _______...
 優「　　　　　　　、　　　『　　　』　　　　　」%K%P
    ,   '   '   
 CN PLACEHOLDER
-_ ______, ___ „______“ ___ _____ ____ ____!
+_ ______, ___ '______' ___ _____ ____ ____!
 
 優の声も、だ。%K%P
 I couldn't hear You's voice either.
@@ -1301,12 +1302,12 @@ CN PLACEHOLDER
 聞こえるのはただ、トクトクと耳のそばを通り過ぎて行く血流の音だけで……。%K%P
 All I could hear was just the sound of my blood flowing through my ears...
 CN PLACEHOLDER
-Всё, что я слышу – как по сосудам в голове течёт кровь...
+Всё что я слышу - как по головным сосудам течёт кровь...
 
 瞬間、視界が無惨に砕け散った。%K%P
 In that moment, my sight crashed into pieces.
 CN PLACEHOLDER
-В ту же секунду моё поле зрения разлетелось, как разбившееся зеркало.
+В ту же секунду, моё поле зрения разлетелось, как разбившееся зеркало.
 
 剥ぎ取られるように色褪せて行く景色……。%K%P
 The scenery before me was stripped of all color...
@@ -1316,7 +1317,7 @@ CN PLACEHOLDER
 ……声……声……。%K%P
 A voice... A voice...
 CN PLACEHOLDER
-Голос... голос...
+Голос...голос...
 
 ……声……。%K%P
 A voice...
@@ -1356,7 +1357,7 @@ CN PLACEHOLDER
 ……誰なの？』%K%P
 ...am I?
 CN PLACEHOLDER
-(... я?)
+(...я?)
 
 沙羅「ホクト！」%K%P
 Hokuto!
@@ -1371,17 +1372,17 @@ CN PLACEHOLDER
 優「へぇ〜、ホクトかぁ〜」%K%P
 Hokuto, huh?
 CN PLACEHOLDER
-Хм-м... Хокуто, значит?..
+Эээ〜〜〜...? Хокуто...?
 
 優「うむうむ、なるほどぉ……」%K%P
 So that's what he's called...
 CN PLACEHOLDER
-Надо же...
+Хмммм... надо же...
 
 優「言われてみれば、確かに『ホクト』って感じかも」%K%P
 Now that you mention it, he does look kind of like a “Hokuto” to me.
 CN PLACEHOLDER
-А знаешь, имя „Хокуто“ ему очень даже идёт!
+А знаешь, имя 'Хокуто' ему очень даже идёт!
 
 少年「ホクト……」%K%P
 Hokuto...
@@ -1401,17 +1402,17 @@ CN PLACEHOLDER
 少年「名前……？」%K%P
 ...Name...?
 CN PLACEHOLDER
-...зовут?..
+...зовут...?
 
 沙羅「うん、そうだよ、お兄ちゃん♪」%K%P
 That's right, onii-chan〜
 CN PLACEHOLDER
-Угу, это правда, братик.
+У〜гу, это правда, братик.
 
 少年「ホクト……ホクト……ホクト……」%K%P
 Hokuto... Hokuto... Hokuto...
 CN PLACEHOLDER
-Хокуто... Хокуто... Хокуто...
+Хокуто...Хокуто...Хокуто...
 
 何度も口に出して呟く。%K%P
 I repeated it aloud over and over again.
@@ -1421,7 +1422,7 @@ CN PLACEHOLDER
 少年「ホクト……ホクト……ホクト……」%K%P
 Hokuto... Hokuto... Hokuto...
 CN PLACEHOLDER
-Хокуто... Хокуто... Хокуто...
+Хокуто...Хокуто...Хокуто...
 
 予感は的中した。%K%P
 My hunch had been right.
@@ -1436,7 +1437,7 @@ CN PLACEHOLDER
 『ホクト』――それがぼくの名前とはとても思えなかった。%K%P
 “Hokuto”—That couldn't possibly be my name.
 CN PLACEHOLDER
-«Хокуто»... Да не может такого быть. Это не моё имя.
+'Хокуто'... Да не может такого быть. Это не моё имя.
 
 実感が、まるでわかない。%K%P
 It didn't feel real to me at all.
@@ -1446,32 +1447,32 @@ CN PLACEHOLDER
 だけど、沙羅が嘘をつくはずはないのだ。%K%P
 But Sara wouldn't lie to me.
 CN PLACEHOLDER
-Но Сара не стала бы мне лгать.
+Но, Сара не стала бы мне лгать.
 
 ぼくは『ホクト』という名前なんだ、きっと。%K%P
 So I figured “Hokuto” must be my name.
 CN PLACEHOLDER
-Значит, всё-таки, меня зовут «Хокуто».
+Значит, всё-таки, меня зовут 'Хокуто'.
 
 ホクト……ホクト……ホクト……。%K%P
 Hokuto... Hokuto... Hokuto...
 CN PLACEHOLDER
-Хокуто... Хокуто... Хокуто...
+Хокуто...Хокуто...Хокуто...
 
 名前……名前……名前……。%K%P
 Name... Name... Name...
 CN PLACEHOLDER
-Имя... имя... имя...
+Имя...имя...имя...
 
 優の名前――優美清秋香菜。%K%P
 You's name was Yubiseiakikana.
 CN PLACEHOLDER
-Ю – это Юбисэйакикана.
+Ю - это Юбисейакикана.
 
 ぼくの名前――ホクト。%K%P
 My name was Hokuto.
 CN PLACEHOLDER
-А я – Хокуто.
+А я - Хокуто.
 
 考えることが多すぎた。%K%P
 There was too much to think about.
@@ -1511,7 +1512,7 @@ CN PLACEHOLDER
 本当の自分を、取り戻せずにいた。%K%P
 I still couldn't regain the “real” me.
 CN PLACEHOLDER
-Я всё ещё не стал «настоящим» собой.
+Я всё ещё не стал 'настоящим' собой.
 
 手の平を見ているのはぼくなのか？　ぼくではない誰かなのか？%K%P
 (Is this me who's looking at my palm? Or is it somebody that isn't me?)
@@ -1521,22 +1522,22 @@ CN PLACEHOLDER
 ホクトは本当にぼくなのか？　ホクトではないぼくがぼくなのか？%K%P
 (Is Hokuto really me? Or is it me who's not Hokuto?)
 CN PLACEHOLDER
-(Хокуто – это я? Или я – не Хокуто?)
+(Хокуто - это я? Или я - не Хокуто?)
 
 少年「ホクト……ホクト……ホクト……」%K%P
 Hokuto... Hokuto... Hokuto...
 CN PLACEHOLDER
-Хокуто... Хокуто... Хокуто...
+Хокуто...Хокуто...Хокуто...
 
 少年「本当にそれが……」%K%P
 Is it really...?
 CN PLACEHOLDER
-Правда?..
+Правда...?
 
 武「本当にそれが……こいつの名前なのか？」%K%P
 Is that really his name?
 CN PLACEHOLDER
-Правда?.. Его так зовут?
+Правда...? Его так зовут?
 
 つぐみがちょこんと頭をさげた。%K%P
 Tsugumi slightly nodded her head.
@@ -1551,7 +1552,7 @@ CN PLACEHOLDER
 武「へぇ〜、チャーミングだから、チャミかぁ」%K%P
 So, he's Chami. Because he's charming.
 CN PLACEHOLDER
-Значит, ты Чами. Просто лапочка.
+Значит ты Чами. Просто лапочка.
 
 武「か、かわいらしくって、いい名前だなぁっ！」%K%P
 That's cute. What a good name!
@@ -1561,7 +1562,7 @@ CN PLACEHOLDER
 プリティネーミング。%K%P
 How... cute.
 CN PLACEHOLDER
-Как... мило.
+Как....мило.
 
 そう思った。%K%P
 That was what I thought.
@@ -1576,7 +1577,7 @@ CN PLACEHOLDER
 つぐみ「ああっ、ずるい！　笑わないって言ったのに」%K%P
 Hey! You promised not to laugh!
 CN PLACEHOLDER
-Э-эй! Перестань! Ты же обещал!
+Ээй! Какого хрена?! Ты же обещал!
 
 武「笑ってなんかいないぞ」%K%P
 I'm not laughing!
@@ -1586,17 +1587,17 @@ CN PLACEHOLDER
 俺は真顔になって答えようとしたが、どうしても口元がゆるんでしまうのだった。%K%P
 I tried to keep a straight face... but the corners of my mouth started to twitch.
 CN PLACEHOLDER
-Я попытался сделать серьёзное лицо... но уголки моего рта стали дёргаться.
+Я попытался сделать серьёзное лицо...но уголки моего рта стали дёргаться.
 
 『チャミちゃん、チャミちゃん、ご飯でちゅよぉ〜♪』と、猫なで声で話しかけるつぐみの図が、頭に浮かんで離れなかった。%K%P
 I could just imagine Tsugumi baby-talking to it—“Chami-chan, Chami-chan, it's din-din time〜”
 CN PLACEHOLDER
-Представляю, как Цугуми с ним сюсюкает. «Чам-Чамыч, Чам-Чамыч, пора ням-нямыч».
+Представляю, как Цугуми с ним сюсюкает. 'Чам-Чамыч, Чам-Чамыч, пора ням-нямыч'.
 
 つぐみ「ああああああああ……」%K%P
 Aaaaaah...!
 CN PLACEHOLDER
-А-а-а-а-а-агр!
+А〜〜〜ааааагр!
 
 つぐみ「もうっ、だから言いたくなかったのに！」%K%P
 That's why I didn't want to tell you!
@@ -1626,12 +1627,12 @@ CN PLACEHOLDER
 武「ふぅ……」%K%P
 Phew...
 CN PLACEHOLDER
-Уф...
+Уффф...
 
 生き返るような気分でひと息つきながら、改めてつぐみの横顔を眺めた。%K%P
 I breathed deeply, feeling reborn, as I glanced at Tsugumi's profile.
 CN PLACEHOLDER
-Глядя на лицо Цугуми, я сделал глубокий вдох. И почувствовал, будто заново родился.
+Я дышу глубоко, глядя на лицо Цугуми. Я словно заново родился.
 
 手の平のチャミと戯れながら、頬をほころばせている。%K%P
 She was playing with the hamster in her hand, and her cheeks were bright.
@@ -1651,7 +1652,7 @@ CN PLACEHOLDER
 つぐみ「武……」%K%P
 Takeshi...
 CN PLACEHOLDER
-Такэси...
+Такеши...
 
 つぐみ「ありがと……」%K%P
 Thank you.
@@ -1676,12 +1677,12 @@ CN PLACEHOLDER
 チャミを無事救出できた達成感からか、俺の心は弾むようだった。%K%P
 I felt excited, maybe from the feeling of accomplishment of rescuing Chami.
 CN PLACEHOLDER
-У меня отличное, я бы даже сказал бодро-позитивное настроение. Наверное, я просто рад, что спасение Чами увенчалось успехом.
+У меня отличное, я бы даже сказал бодро-позитивное настроение. Наверно я просто рад, что спасение Чами увенчалось успехом.
 
 だが……足取りは重い。体がついていかなかった。%K%P
 But... my feet were heavy. My body just couldn't keep up.
 CN PLACEHOLDER
-Но... ноги такие тяжёлые. Тело просто отказывается двигаться.
+Но...ноги такие тяжёлые. Тело просто отказывается двигаться.
 
 俺はクタクタにくたびれ果てていたのだ。%K%P
 I was exhausted.
@@ -1691,7 +1692,7 @@ CN PLACEHOLDER
 今から５時間前は、突然苦しみ始めた優を背負って猛ダッシュし……%K%P
 Five hours earlier, I had been running with You on my back since she'd started suffering from something all of a sudden.
 CN PLACEHOLDER
-Пять часов назад я нёс на себе Ю, которой вдруг стало плохо, и мчался изо всех сил.
+Пять часов назад, я бежал с Ю на спине, что внезапно слегла с неизвестным мне недугом.
 
 さらに今回のチャミ救出劇では、５１ｍ×２＝１０２ｍの潜水をしたわけで……。%K%P
 And with my effort to rescue Chami, I swam over 102 meters underwater...
@@ -1721,7 +1722,7 @@ CN PLACEHOLDER
 （風邪かな？）%K%P
 (Maybe I caught a cold?)
 CN PLACEHOLDER
-(Наверное я простудился?)
+(Наверно я простудился?)
 
 つぐみ「どうしたの？」%K%P
 What's wrong?
@@ -1746,7 +1747,7 @@ CN PLACEHOLDER
 武「ははっ、大丈夫だよ」%K%P
 Haha, yeah, I'm fine.
 CN PLACEHOLDER
-Ха-ха, да, в порядке.
+Ха〜ха, да, в порядке.
 
 武「ほんとに、疲れただけだから」%K%P
 I'm just tired, that's all.
@@ -1756,7 +1757,7 @@ CN PLACEHOLDER
 つぐみ「そう」%K%P
 Okay.
 CN PLACEHOLDER
-Хорошо.
+Правда...?
 
 つぐみが俺のことを気づかってくれている。%K%P
 Tsugumi was worried about me.
@@ -1776,12 +1777,12 @@ CN PLACEHOLDER
 つぐみ「えっ？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 武「足だよ、足……足のケガ」%K%P
 Your leg... You know, your injury.
 CN PLACEHOLDER
-Твоя нога... ну, то есть твоя рана.
+Твоя нога...ну, то есть, твоя рана.
 
 今、つぐみは右足をひきずって歩いている。%K%P
 Tsugumi was dragging her right foot.
@@ -1816,17 +1817,17 @@ CN PLACEHOLDER
 武「バ、バカッ！」%K%P
 C-Cut it out!
 CN PLACEHOLDER
-П-перестань!
+П-Перестань!
 
 俺は慌ててつぐみの手をひっぱたき、それを止めた。%K%P
 In shock, I slapped Tsugumi's hand and stopped her.
 CN PLACEHOLDER
-В шоке я шлёпнул Цугуми по руке и остановил её.
+В шоке, я шлёпнул Цугуми по руке и остановил её.
 
 つぐみ「ふふふふふふっ……♪」%K%P
 Hahahaha...
 CN PLACEHOLDER
-И-хи-хи...
+И〜хи〜хи〜〜〜...
 
 つぐみはくすくすと笑っていた。%K%P
 Tsugumi chuckled gleefully.
@@ -1836,7 +1837,7 @@ CN PLACEHOLDER
 俺の足取りは、たちまち軽くなった。%K%P
 My feet suddenly felt much lighter.
 CN PLACEHOLDER
-Может, мне кажется, но ногам стало гораздо легче.
+Может мне кажется, но ногам стало гораздо легче.
 
 ところで、優の件だが……。%K%P
 As for You...
@@ -1856,12 +1857,12 @@ CN PLACEHOLDER
 『でも、どうして突然、あんなふうに苦しみ出したんだろう？』%K%P
 “But why did you suddenly start suffering like that?”
 CN PLACEHOLDER
-«Но с чего вдруг тебе стало так плохо?»
+'Но, с чего вдруг тебе стало так плохо?'
 
 俺は優に尋ねたが、話をはぐらかされて、まともなことは教えてもらえなかった。%K%P
 I asked You, but she changed the subject and didn't tell me anything.
 CN PLACEHOLDER
-Спросил я её, но та лишь перевела разговор на другую тему, и вразумительного ответа я так и не добился.
+Я спрашивал Ю, но та лишь перевела разговор на другую тему, и вразумительного ответа я так и не добился.
 
 続いて空にも聞いてみたのだが、答えは一緒だった。%K%P
 I also asked Sora, but her answer was the same.
@@ -1871,7 +1872,7 @@ CN PLACEHOLDER
 空は、修理したＬ−ＭＲＩを使って優の体を検査しているのだから、知らないはずはないんだが……。%K%P
 Sora must have known something since she had examined You with the repaired L-MRI.
 CN PLACEHOLDER
-Должно быть, Сора что-то выяснила, когда сканировала Ю отремонтированным L-MRI.
+Должно быть Сора что-то выяснила, когда сканировала Ю починенным Л-МРИ.
 
 その点だけは、実は今も気になっていたりする。%K%P
 That thought still bothered me.
@@ -1896,7 +1897,7 @@ CN PLACEHOLDER
 卵はぐんぐん上昇し、ツヴァイトシュトックへついた。%K%P
 The egg zipped upward, quickly arriving at Zweiter Stock.
 CN PLACEHOLDER
-Яйцо устремилось вверх, быстро прибыв на Цвайте Шток.
+Яйцо устремилось вверх, быстро прибыв на Цвайте шток.
 
 フロアに出ると、つぐみが待っていてくれた。%K%P
 As soon as I got there, Tsugumi was waiting for me.
@@ -1931,7 +1932,7 @@ CN PLACEHOLDER
 別に理由なんかなかったけど、俺とつぐみはそうしてしばらくの間、見つめあっていた。%K%P
 For no particular reason, Tsugumi and I stared at each other for a while.
 CN PLACEHOLDER
-Ни о чём не думая, без видимой причины, мы с Цугуми просто смотрим друг на друга.
+Ни о чём не думая, без видимой причины, Цугуми и я просто смотрим друг на друга.
 
 つぐみ「やる？」%K%P
 Do you want to try?
@@ -1961,7 +1962,7 @@ CN PLACEHOLDER
 つぐみ「ふふふっ♪」%K%P
 Hahaha〜
 CN PLACEHOLDER
-Кха-ха.
+Кха〜ха〜〜〜.
 
 チャミは、俺の腕の先端――行き止まりに直面して困惑の表情を見せた。%K%P
 Chami looked hesitant when he got to the end, which was the tip of my hand.
@@ -1976,12 +1977,12 @@ CN PLACEHOLDER
 武「チャミかぁ……」%K%P
 Chami, huh...?
 CN PLACEHOLDER
-Чами?..
+Чами...?
 
 武「お前はチャミか！？　チャミなのか！？　こんにゃろ、こんにゃろ」%K%P
 Are you Chami!? Well, are you!? C'mon, answer me!
 CN PLACEHOLDER
-Чами, это ты? Точно ты? А ну отвечай!
+Чами, это ты? Точно ты? А ну отвечай!!
 
 当然、チャミは答えない。%K%P
 Of course, Chami didn't answer.
@@ -1991,12 +1992,12 @@ CN PLACEHOLDER
 俺の手の中で、この世の終わりとばかりにうろたえている。%K%P
 Maybe he was frightened I would eat him.
 CN PLACEHOLDER
-Наверное боится, что я могу его съесть.
+Наверно боится, что я могу его съесть.
 
 武「う〜ん……確かにチャ〜ミングだ」%K%P
 Yeah... he sure is charming.
 CN PLACEHOLDER
-И правда... такой лапочка.
+И правда...такой лапочка.
 
 武「チャーミングだから、チャミ」%K%P
 He's Chami because he's so darn charming.
@@ -2006,7 +2007,7 @@ CN PLACEHOLDER
 ふと、俺は何気なく、こんなことをつぐみに聞いてみた。%K%P
 Curious, I decided to ask Tsugumi a question.
 CN PLACEHOLDER
-Вдруг, словно между прочим, я спросил Цугуми вот о чём.
+И тут меня осенило...
 
 武「つぐみは、なんだから、つぐみなんだ？」%K%P
 Why are you called Tsugumi?
@@ -2016,12 +2017,12 @@ CN PLACEHOLDER
 つぐみ「ん？」%K%P
 Huh?
 CN PLACEHOLDER
-Хм-м?
+Хмм?
 
 武「名前の由来」%K%P
 Your name, I mean.
 CN PLACEHOLDER
-Я о твоём имени.
+То есть, я о твоём имени.
 
 武「やっぱり、鳥のツグミから取った名前なのか？」%K%P
 Does it come from Chinese character for the bird, the redwing?
@@ -2041,12 +2042,12 @@ CN PLACEHOLDER
 つぐみ「ああ、あのツグミね」%K%P
 Oh, redwings?
 CN PLACEHOLDER
-Ах, ты об э-э-этих „цугуми“?
+Ах, ты об эээтих 'цугуми'?
 
 つぐみ「残念……」%K%P
 Unfortunately...
 CN PLACEHOLDER
-Не-а.
+Не〜а.
 
 つぐみ「鳥とはまったく無関係よ」%K%P
 My name has nothing to do with birds.
@@ -2056,7 +2057,7 @@ CN PLACEHOLDER
 武「じゃあ、つぐみの名前にはどんな意味が？」%K%P
 Then what does your name mean?
 CN PLACEHOLDER
-Тогда... что оно значит?
+Тогда...что оно значит?
 
 尋ねながら、俺はチャミをつぐみの手の平に返した。%K%P
 As I asked Tsugumi, I passed Chami back into her hand.
@@ -2071,12 +2072,12 @@ CN PLACEHOLDER
 つぐみ「『地球の衛星』と『私達がいる場所』」%K%P
 'Satellite of the earth' and 'where we are at'.
 CN PLACEHOLDER
-„Спутник земли“ и „где мы сейчас“.
+'Спутник земли' и 'где мы сейчас'.
 
 武「は？」%K%P
 Huh?
 CN PLACEHOLDER
-А?
+Эээ?
 
 つぐみ「地球の衛星は？」%K%P
 What's the one satellite this earth has?
@@ -2086,7 +2087,7 @@ CN PLACEHOLDER
 武「月？」%K%P
 The moon?
 CN PLACEHOLDER
-Луна?..
+Луна...?
 
 つぐみ「私達が今いる場所は？」%K%P
 And where are we right now?
@@ -2106,7 +2107,7 @@ CN PLACEHOLDER
 武「外には……えーっと……海かな？」%K%P
 Uh... Around us... The ocean?
 CN PLACEHOLDER
-Э-э... вокруг нас... море?
+Эээ...вокруг нас...море?
 
 つぐみ「そう」%K%P
 Yup.
@@ -2116,12 +2117,12 @@ CN PLACEHOLDER
 つぐみ「『月』に『海』と書いて『つぐみ』って読むの」%K%P
 In Japanese, you write it 'moon' and then 'ocean', and read it 'Tsugumi'.
 CN PLACEHOLDER
-Напиши на японском „море“ и „луну“, и получишь „Цугуми“.
+Напиши на японском 'море' и 'луну', и получишь 'Цугуми'.
 
 武「へぇ〜、そうだったんだぁ」%K%P
 Oh, I see.
 CN PLACEHOLDER
-Ах... понял.
+Ах...понял.
 
 武「そう言えば、漢字でどう書くのかまでは聞いてなかったもんなぁ」%K%P
 Come to think of it, I didn't know which Chinese characters your name used.
@@ -2131,7 +2132,7 @@ CN PLACEHOLDER
 武「『月』と『海』かぁ……」%K%P
 'Moon' and 'ocean', huh...?
 CN PLACEHOLDER
-„Море“ и „луна“, хм?..
+'Море' и 'луна', хмм...?
 
 武「うむ、なかなか趣きのある、いい名前だと思うぞ？」%K%P
 Hmm, that's a really pretty name.
@@ -2166,27 +2167,27 @@ CN PLACEHOLDER
 武「だからパパって呼ぶなぁーっ！」%K%P
 I told you NOT to call me daddy!
 CN PLACEHOLDER
-Я тебе не „папа“!
+Я тебе не 'папа'!
 
 つぐみ「ママって呼ぶなぁーっ！」%K%P
 I told you NOT to call me mommy!
 CN PLACEHOLDER
-Я тебе не „мама“!
+Я тебе не 'мама'!
 
 武「ふぇっ？」%K%P
 What?
 CN PLACEHOLDER
-Чего?
+Эээ?
 
 つぐみ「ほえっ？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 俺とつぐみは顔を見合わせた。%K%P
 Tsugumi and I looked at each other.
 CN PLACEHOLDER
-Мы с Цугуми удивлённо переглянулись.
+Цугуми и я удивлённо переглянулись.
 
 武「つぐみ、ココにママって呼ばれてんの？」%K%P
 Coco's been calling you mommy, Tsugumi?
@@ -2196,7 +2197,7 @@ CN PLACEHOLDER
 つぐみ「武の方こそ、パパって呼ばれてるの？」%K%P
 And she's calling you daddy, Takeshi?
 CN PLACEHOLDER
-Такэси, а тебя она зовёт папой?
+Такеши, а тебя она зовёт папой?
 
 武「呼ばれてると言うか、ココが勝手にっ」%K%P
 She keeps doing it no matter what I say!
@@ -2211,7 +2212,7 @@ CN PLACEHOLDER
 ピピ「わんっ！」%K%P
 *Bow-wow*!
 CN PLACEHOLDER
-Гав-гав!
+Гав〜гав!
 
 その後……。%K%P
 After a while...
@@ -2221,7 +2222,7 @@ CN PLACEHOLDER
 俺とつぐみは、ココに向かって『パパやママと呼ばないように』切々と訴えた。%K%P
 Tsugumi and I had begged Coco not to call us “daddy” or “mommy”.
 CN PLACEHOLDER
-Цугуми и я с трудом уговорили Коко не называть нас папой и мамой.
+Цугуми и я с трудом уговорили Коко 'не называть нас папой и мамой'.
 
 納得させるまでに３時間ばかりかかった。%K%P
 It took us about three hours to finally convince her.
@@ -2231,12 +2232,12 @@ CN PLACEHOLDER
 優を背負っての猛ダッシュよりも、１０２ｍの潜水よりも、ココを説き伏せることの方が３倍程しんどかった。%K%P
 It was three times more exhausting to convince Coco than to dash with You on my back AND swim 102 meters underwater.
 CN PLACEHOLDER
-Убеждать Коко было в три раза более изматывающе, чем тащить Ю на спине и плыть 102 метра под водой.
+Убеждать Коко было в три раза более изматывающе, чем тащить Ю на спине И проплыть 102 метра под водой.
 
 ちなみに、ココがつぐみのことを『ママ』と呼ぶことにした理由は……%K%P
 Incidentally, Coco's reason for calling Tsugumi “mommy” was...
 CN PLACEHOLDER
-Кстати говоря, объяснение Коко, почему та решила звать Цугуми «мамой», звучало так...
+Кстати говоря, объяснение Коко, почему та решила звать Цугуми 'мамой', звучало так...
 
 ココ「ママのいない人は、ママっぽい人のことを、ママって呼んでもいいんだよ？」%K%P
 A girl who doesn't have a mommy can call somebody who reminds her of mommy 'Mommy.'
@@ -2246,12 +2247,12 @@ CN PLACEHOLDER
 ココ「ナーカル碑文にそう書いてあるでしょ？」%K%P
 It's written in the Naacal Tablet, isn't it?
 CN PLACEHOLDER
-В наакальских письменах же прямо так и сказано, разве нет?
+Разве не так сказано в Древнейших Свитках?
 
 ……だそうだ。%K%P
 ...So she said.
 CN PLACEHOLDER
-...вот что она выдала.
+...вот что сказала эта маленькая пройдоха.
 
 もちろん、ココには本物のママさんがいるのだが。%K%P
 Needless to say, Coco already had a real mother.
@@ -2271,7 +2272,7 @@ CN PLACEHOLDER
 だが、あのときの優の苦しみ方は普通じゃなかった。%K%P
 But the way she looked when she had first started feeling pain didn't seem normal.
 CN PLACEHOLDER
-Но вспоминая, как она корчилась от боли, как бледнела прямо у меня на глазах... это наводит меня на скверные мысли.
+Но, вспоминая, как она корчилась от боли, как бледнела прямо у меня на глазах...это наводит меня на скверные мысли.
 
 いくら快復したとは言え、気になる。%K%P
 I was still concerned about her even though she looked better.
@@ -2286,7 +2287,7 @@ CN PLACEHOLDER
 優は今、警備室にいるらしい。……空がそう教えてくれた。%K%P
 Sora told me I could find You in the security office.
 CN PLACEHOLDER
-Сора сказала, что Ю находится в Офисе охраны.
+Сора сказала, что Ю находится в Офисе Охраны.
 
 室内に入る。%K%P
 I entered the room.
@@ -2321,17 +2322,17 @@ CN PLACEHOLDER
 武「えっ？」%K%P
 Huh?
 CN PLACEHOLDER
-А?
+Эээ?
 
 優「まだ、ちゃんとお礼言ってなかったでしょ？」%K%P
 I didn't have a chance to say it earlier, right?
 CN PLACEHOLDER
-Просто я не могла сказать до этого.
+Просто, я не могла сказать это раньше.
 
 優「だから、ありがとう」%K%P
 So, thank you.
 CN PLACEHOLDER
-Так что... спасибо тебе.
+Так что...спасибо тебе.
 
 優の視線はディスプレイに向けられたままだった。%K%P
 You's eyes were fixed on the display.
@@ -2341,7 +2342,7 @@ CN PLACEHOLDER
 武「救護室に運んでやったときのこと、言ってるのか？」%K%P
 Are you talking about when I carried you to the infirmary earlier?
 CN PLACEHOLDER
-Это за то, что я чуть раньше донёс тебя до лазарета?
+Это за то, что я, чуть раньше, донёс тебя до лазарета?
 
 優「うん」%K%P
 Yes.
@@ -2361,7 +2362,7 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「結局、原因はなんだったんだよ？」%K%P
 What caused it anyway?
@@ -2381,7 +2382,7 @@ CN PLACEHOLDER
 武「健康な人間は、突然胸を押さえて苦しみ出したりなんかしないんだぞ？」%K%P
 A normal, healthy person wouldn't just suddenly clutch their chest in pain, you know?
 CN PLACEHOLDER
-Знаешь... нормальный здоровый человек не станет внезапно хвататься за грудь от страшной боли.
+Знаешь...нормальный, здоровый человек не станет внезапно хвататься за грудь от страшной боли.
 
 武「それに、それになぁ……」%K%P
 And besides...
@@ -2391,7 +2392,7 @@ CN PLACEHOLDER
 武「優はあのとき、こう言った――『いつものことだから』って」%K%P
 You said, 'It happens all the time.'
 CN PLACEHOLDER
-Твои слова до сих пор не выходят у меня из головы. „Так постоянно“.
+Твои слова до сих пор не выходят у меня из головы. 'Так постоянно'.
 
 武「どういうことなんだ？」%K%P
 What is that all about?
@@ -2411,7 +2412,7 @@ CN PLACEHOLDER
 優は唐突に話題を変えた。%K%P
 You abruptly changed the subject.
 CN PLACEHOLDER
-Ни с того ни с сего Ю переменила тему разговора.
+Ни с того ни с сего, Ю переменила тему разговора.
 
 質問の意図はわからなかったが、俺はひとまず答えてやることにした。%K%P
 I didn't understand why she was asking the question, but I answered her anyway.
@@ -2431,7 +2432,7 @@ CN PLACEHOLDER
 武「というのはただの口実で、実は、１７年前に行方不明になったお父さんを、捜してるんだったよな？」%K%P
 But it was just an excuse to search for your father, who's been missing for seventeen years, right?
 CN PLACEHOLDER
-Но это просто прикрытие для поисков отца, пропавшего без вести 17 лет назад.
+Но, это просто прикрытие для поисков отца, пропавшего без вести 17 лет назад.
 
 俺は、１日にメリーゴーランドの前で聞いた優の話を思い出していた。%K%P
 I remembered the story You told me in front of the merry-go-round the first day..
@@ -2446,7 +2447,7 @@ CN PLACEHOLDER
 優「でも、でもね？」%K%P
 But, you know?
 CN PLACEHOLDER
-Но знаешь...
+Но, знаешь что?
 
 優「私は信じてるの！」%K%P
 I believe!
@@ -2456,7 +2457,7 @@ CN PLACEHOLDER
 優「お父さんは、絶対どこかで生きてるんだよ！」%K%P
 I know that my dad is still alive somewhere!
 CN PLACEHOLDER
-Я верю – он всё ещё жив!
+Я верю - он всё ещё жив!
 
 優「だってそうでしょ！？」%K%P
 He has to be!
@@ -2466,32 +2467,32 @@ CN PLACEHOLDER
 優「お父さんはただ、行方不明になっただけで……遺体が見つかったわけじゃないんだし……！」%K%P
 My father just went missing... and his remains were never found...
 CN PLACEHOLDER
-Он просто пропал. Никто не видел его тела!..
+Он просто пропал. Никто не видел его тела.
 
 優「私、どうしても確かめたかったの」%K%P
 I just had to find out.
 CN PLACEHOLDER
-Я... просто хотела узнать.
+Я......просто хотела узнать.
 
 優「お父さんが、生きてるのか……それとも……もう、死んじゃったのか……」%K%P
 If he was alive... or... dead...
 CN PLACEHOLDER
-Жив мой отец... или... уже умер...
+Жив мой отец...или...уже...умер...
 
 優「生きてるんなら、もちろん会いたいし……」%K%P
 If he's alive, of course I want to see him...
 CN PLACEHOLDER
-Если жив... конечно, я хочу его увидеть!..
+Если жив...конечно, я хочу его увидеть...!
 
 優「死んじゃってるんなら死んじゃってるんで……しっかりとした、証拠って言うか、確証って言うか、そういうのが、欲しかったの」%K%P
 And if he's dead, I wanted to find some kind of evidence.
 CN PLACEHOLDER
-Но если... Если он мёртв... То, я хочу... Хочу найти тому подтверждение.
+Но, если...если он мёртв......то, я хочу... хочу найти тому подтверждение.
 
 優「じゃないと、あきらめ切れないから……納得できないから……」%K%P
 Otherwise, I won't give up... I just can't accept it.
 CN PLACEHOLDER
-Иначе... я не сдамся... не смирюсь.
+Иначе...я не сдамся......не смирюсь.
 
 あのときと同じように、俺はどんな言葉をかけてやるべきなのか、悩んでいた。%K%P
 Just like that time, I didn't know what to say to her.
@@ -2501,12 +2502,12 @@ CN PLACEHOLDER
 ふと……『八百比丘尼』の伝説が脳裏をよぎる。%K%P
 The story of the 800-year-old nun came to my mind.
 CN PLACEHOLDER
-В голове всплыл рассказ о Яобикуни.
+В голове всплыл рассказ об Яобикуни.
 
 優は『八百比丘尼は実在の人物で、まだ生きている』と信じているらしい。%K%P
 You believed that the 800-year-old nun actually existed.
 CN PLACEHOLDER
-Ю верила, что «800-летняя монахиня» существовала на самом деле.
+Ю верила, что '800-летняя монахиня' существовала на самом деле.
 
 八百比丘尼も、鈴の音が絶えただけであって、実際に遺体を確認した人はいないと言う。%K%P
 How in the story, the sound of the bell had stopped one day, but nobody actually found her body.
@@ -2516,12 +2517,12 @@ CN PLACEHOLDER
 今思えば、あれは、優の願望だったのかもしれない。%K%P
 When I came to think of it then, I realized that was probably You's wish.
 CN PLACEHOLDER
-И тут... я понял, что этого и желает Ю.
+И тут...я понял, что этого и желает Ю.
 
 自分の父親と八百比丘尼を、優はどこかで重ね合わせていたのかもしれない。%K%P
 She was probably mixing her feelings about her father's situation with the story of the nun.
 CN PLACEHOLDER
-Должно быть, она просто отнеслась к рассказу точно так же, как и к ситуации со своим отцом... Грань между реальностью и вымыслом для неё размыта.
+Должно быть, она просто отнеслась к рассказу точно так же, как и к ситуации со своим отцом...грань между реальностью и вымыслом для неё размыта.
 
 なんとなく、俺はそんなことを思った。%K%P
 It occurred to me like that.
@@ -2531,12 +2532,12 @@ CN PLACEHOLDER
 優「今もね、実はそれを調べてたところだったの」%K%P
 And so that's what I was researching just now.
 CN PLACEHOLDER
-В общем... вот чем я до этого момента занималась.
+В общем...вот чем я до этого момента занималась.
 
 武「……で？　……何か……わかったか？」%K%P
 ...And... did you... find out anything?
 CN PLACEHOLDER
-И... ты... что-нибудь выяснила?
+И...ты...что-нибудь выяснила?
 
 優「なにも」%K%P
 Nothing.
@@ -2546,7 +2547,7 @@ CN PLACEHOLDER
 優「パスワードがわからなくて……お手上げ状態」%K%P
 I can't figure out the password... I give up.
 CN PLACEHOLDER
-Пароль неизвестен... я сдалась.
+Пароль не известен...я сдалась.
 
 俺はディスプレイに目を向けた。%K%P
 I looked at the monitor.
@@ -2596,7 +2597,7 @@ CN PLACEHOLDER
 武「きっともう一度……会えるよ……」%K%P
 I know you'll... see him again...
 CN PLACEHOLDER
-Я знаю, ты... увидишься с ним...
+Я знаю, ты...увидишься с ним...
 
 カップの中をのぞき込む。%K%P
 I looked down into the cup.
@@ -2616,7 +2617,7 @@ CN PLACEHOLDER
 優「でも……もう会えないと思う……」%K%P
 But... I don't think I'll ever see him again...
 CN PLACEHOLDER
-Но... это не так...
+Но...это не так...
 
 武「……えっ？」%K%P
 What?
@@ -2646,32 +2647,32 @@ CN PLACEHOLDER
 優「だけど……本当はそれだけじゃないんだ……」%K%P
 But... I realize that actually wasn't it at all...
 CN PLACEHOLDER
-Однако... поняла, что дело совсем не в этом...
+Однако...поняла, что дело совсем не в этом...
 
 武「……？」%K%P
 ...?
 CN PLACEHOLDER
-?
+......?
 
 優「私には、時間が無いの」%K%P
 I'm running out of time.
 CN PLACEHOLDER
-Моё время... на исходе.
+Моё время...на исходе.
 
 優「タイムリミットはもう、とっくに過ぎちゃってるんだよ」%K%P
 I've gone way past my limit.
 CN PLACEHOLDER
-Я уже преодолела свой лимит.
+Его осталось...так мало.
 
 優「だから……どうしても……」%K%P
 So that's why...
 CN PLACEHOLDER
-Вот... почему...
+Вот...почему...
 
 優「その時が来るまでに……どうしても……知りたかったの……」%K%P
 Before the time comes... I had to know...
 CN PLACEHOLDER
-Пока не пришло моё время... я... хочу узнать...
+Пока не пришло моё время...я...хочу узнать...
 
 優「真実を……」%K%P
 The truth...
@@ -2686,17 +2687,17 @@ CN PLACEHOLDER
 （もう会えないと思う……？）%K%P
 (She doesn't think she'll ever see him again...?)
 CN PLACEHOLDER
-(Она не думает, что когда-либо увидит его?..)
+(Она не думает, что когда-либо увидит его...?)
 
 『――いつものことだから――』%K%P
 “It happens all the time.”
 CN PLACEHOLDER
-«Так постоянно.»
+'Так постоянно.'
 
 （胸を押さえて苦しんでいた、優の姿……）%K%P
 (She'd been suffering with her hand on her chest...)
 CN PLACEHOLDER
-(У неё были боли в области груди... сердце?!)
+(У неё были боли в области груди......сердце?!)
 
 嘘、だろ……。%K%P
 No, it couldn't be...
@@ -2721,7 +2722,7 @@ CN PLACEHOLDER
 武「それ、どういう意味なんだよ……？」%K%P
 What do you mean by that...?
 CN PLACEHOLDER
-Что ты хочешь этим сказать?..
+Что ты хочешь этим сказать...?
 
 優は後ろ手に腕を組み、うなだれ、ゆっくりと歩き始めた。%K%P
 You crossed her arms behind her back and started walking slowly away, head down.
@@ -2766,12 +2767,12 @@ CN PLACEHOLDER
 ピタリと、靴音が止まった。%K%P
 The sound of her shoes stopped abruptly.
 CN PLACEHOLDER
-Внезапно звук её шагов оборвался.
+Внезапно, звук её шагов оборвался.
 
 武「どうして……？」%K%P
 Why...?
 CN PLACEHOLDER
-Почему?..
+Почему?
 
 静かに顔をあげ、呟いた。%K%P
 She raised her face quietly and said...
@@ -2781,7 +2782,7 @@ CN PLACEHOLDER
 優「今言ったら、きっと話さなくてもいいことまで、話しちゃうような気がするから……」%K%P
 If I start telling you now, I might talk about things I don't want to talk about.
 CN PLACEHOLDER
-Потому что... если я стану что-то рассказывать, то могу коснуться того, о чём говорить не хочу.
+Потому что...если я стану что-то рассказывать, то могу коснуться того, о чём говорить не хочу.
 
 武「だけどっ」%K%P
 But...
@@ -2801,7 +2802,7 @@ CN PLACEHOLDER
 優「倉成は……罪を犯したこと、ある？」%K%P
 Have you ever... done something wrong or sinned, Kuranari?
 CN PLACEHOLDER
-Куранари... ты когда-нибудь... грешил?
+Куранари...ты когда-нибудь...грешил?
 
 武「罪？」%K%P
 Sinned?
@@ -2821,12 +2822,12 @@ CN PLACEHOLDER
 優「ただし、神を信じてるとか、信じてないとか、そういうことは関係なくて……」%K%P
 I don't care whether you believe in God or not.
 CN PLACEHOLDER
-Не знаю... веришь ты в Бога, или нет... без разницы.
+Не знаю...веришь ты в Бога, или нет...без разницы.
 
 優「ただ……倫理的に、道徳的に、取り返しのつかない過ちを犯したことがあるかどうか……それを聞いてるの」%K%p
 I'm asking you if you ever committed a sin that was morally wrong and there was nothing you could do to mend it.
 CN PLACEHOLDER
-Просто... делал ли ты нечто аморальное, и ничего не мог поделать, чтобы это предотвратить?
+Просто...делал ли ты нечто аморальное, и ничего не мог поделать, чтобы это предотвратить?
 
 ある
 Yes
@@ -2851,22 +2852,22 @@ CN PLACEHOLDER
 優「何を、したの？」%K%P
 What have you done?
 CN PLACEHOLDER
-И... что именно?
+И...что именно?
 
 武「それは……まあ……いろいろとあってな……」%K%P
 Well... different things, I guess...
 CN PLACEHOLDER
-Ну... всякое...
+Нууу...всякое...
 
 優「私には、話せないようなこと？」%K%P
 Things you can't tell me?
 CN PLACEHOLDER
-А мне... не расскажешь?
+А мне...не расскажешь?
 
 武「うん……」%K%P
 Uhhh...
 CN PLACEHOLDER
-Ух...
+Эммм...
 
 武「正直言って、あまり人には話したくないんだ」%K%P
 I don't really want to talk about it, to be honest.
@@ -2876,12 +2877,12 @@ CN PLACEHOLDER
 武「罪は一生『自分ひとりで背負って行くべきもの』のような気がする」%K%P
 I think that sins are something you carry through life by yourself.
 CN PLACEHOLDER
-Мне кажется, грехи – это крест, который ты сам несёшь всю свою жизнь.
+Мне кажется, грехи - это крест, который ты сам несёшь всю свою жизнь.
 
 武「人に打ち明けて、同情や憐れみを乞うのは卑怯なやり方だ……」%K%P
 It seems cowardly to me to pass the burden onto someone else and beg for pity and compassion.
 CN PLACEHOLDER
-По мне, это трусость – сливать свой негатив на чужую голову, ища жалости и сострадания.
+По мне, это трусость - сливать свой негатив на чужую голову, ища жалости и сострадания.
 
 優「私も、そう思う」%K%P
 I feel the same way.
@@ -2891,7 +2892,7 @@ CN PLACEHOLDER
 優「だから、言えないんだよ」%K%P
 That's why I can't tell you.
 CN PLACEHOLDER
-Вот почему... я не скажу.
+Вот почему...я не скажу.
 
 優「今、倉成に話したら、それはきっと、言い訳になってしまうから……」%K%P
 If I tell you now, it would just be an excuse...
@@ -2901,7 +2902,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「決して侵してはならない一線を、私は、超えてしまったの」%K%P
 I crossed a line that should've never been crossed.
@@ -2926,17 +2927,17 @@ CN PLACEHOLDER
 武「大切な人を傷つけて、悲しませてしまったことだって、ないとは言えない」%K%P
 I'd be lying if I told you I'd never hurt people I cared about or broke their hearts.
 CN PLACEHOLDER
-Я бы солгал, сказав, что никогда не причинял боль близким или не разбивал их сердца.
+Я бы солгал, сказав что никогда не причинял боль близким или не разбивал их сердца.
 
 武「でも、それらが果たして『神に背くような大罪』と言えるかどうか……」%K%P
 But I don't know if those are godless, massive sins...
 CN PLACEHOLDER
-Но я не знаю, можно ли эти поступки назвать „безбожными, страшными грехами“...
+Но, я не знаю, можно ли эти поступки назвать 'безбожными, страшными грехами'...
 
 優「そう……倉成は、偉いんだね？」%K%P
 Well... you're admirable.
 CN PLACEHOLDER
-Да... Куранари... ты славный малый.
+Да...Куранари...ты славный малый.
 
 武「……えっ？」%K%P
 What?
@@ -2951,7 +2952,7 @@ CN PLACEHOLDER
 優「それに比べて私は……」%K%P
 On the other hand...
 CN PLACEHOLDER
-Но дело в том, что я...
+Но, дело в том, что я...
 
 優「私は……」%K%P
 I'm...
@@ -2961,7 +2962,7 @@ CN PLACEHOLDER
 優「もう、人間じゃないのかもしれない」%K%P
 I'm not human anymore.
 CN PLACEHOLDER
-Больше... не человек.
+Больше...не человек.
 
 優「決して侵してはならない一線を、私は、超えてしまったの」%K%P
 I crossed a line that should've never been crossed.
@@ -2976,7 +2977,7 @@ CN PLACEHOLDER
 優「だから、言えないんだよ」%K%P
 That's why I can't tell you.
 CN PLACEHOLDER
-Вот почему... я не скажу.
+Вот почему...я не скажу.
 
 優「今、倉成に話したら、それはきっと、言い訳になってしまうから……」%K%P
 If I tell you now, it would just be an excuse...
@@ -2986,12 +2987,12 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「これは、私にとっての原罪みたいなもの」%K%P
 It's like an original sin to me.
 CN PLACEHOLDER
-Для меня это словно первородный грех...
+Для меня...это словно первородный грех...
 
 優「絶対に逃れることはできないし、逃れようとも思わない」%K%P
 I could never escape from it, and I don't intend to.
@@ -3006,42 +3007,42 @@ CN PLACEHOLDER
 優「そう、死ぬまでこの罪を背負いながら、引きずりながら、生きて行かなければならないの」%K%P
 Yes, as long as I live, I must carry this sin with me.
 CN PLACEHOLDER
-Да... пока я живу, я буду нести... нести этот крест... на своих плечах.
+Да...пока я живу, я буду нести...нести этот крест...на своих плечах.
 
 優「でもね……？」%K%P
 But, you know...?
 CN PLACEHOLDER
-Но знаешь что?..
+Но, знаешь что...?
 
 優「ひどいやつだと思われるかもしれないけど……後悔は、してないんだ」%K%P
 You might think I'm horrible... but I don't regret anything.
 CN PLACEHOLDER
-Ты можешь считать меня отвратительной... но, я... ни о чём не жалею.
+Ты можешь считать меня отвратительной...но, я...ни о чём не жалею.
 
 優「むしろ良かったと思ってるぐらい……」%K%P
 It's probably better this way...
 CN PLACEHOLDER
-Наверное так даже лучше...
+Наверно так даже лучше...
 
 優「だって……罪を犯したのは、私だけなんだから……」%K%P
 Because, this way, I'm the only one who's sinned...
 CN PLACEHOLDER
-Потому что... это я... грешна...
+Потому что...это я...грешна...
 
 優「だから、罰を受けなきゃいけないのも、私だけで……」%K%P
 That means I'm the only one who will be punished...
 CN PLACEHOLDER
-И значит... кара постигнет... только меня...
+И значит...кара постигнет...только меня...
 
 優「彼女には、なんの罪も無いんだもん」%K%P
 She has no sin to carry on.
 CN PLACEHOLDER
-Она... ни в чём не виновата.
+Она...ни в чём не виновата.
 
 武「……彼女？」%K%P
 ...She?
 CN PLACEHOLDER
-Она?..
+Она...?
 
 武「彼女って、誰のこと言ってるんだよ？」%K%P
 Who are you talking about?
@@ -3061,7 +3062,7 @@ CN PLACEHOLDER
 武「もうひとり……？」%K%P
 Your other self...?
 CN PLACEHOLDER
-Другой себе?..
+Другой себе...?
 
 武「まさか、二重人格だ、と？」%K%P
 Are you telling me you have a split personality?
@@ -3081,7 +3082,7 @@ CN PLACEHOLDER
 なぜか唐突に、優はカップを傾けた。%K%P
 For some reason, You suddenly tilted the cup.
 CN PLACEHOLDER
-...и вдруг наклонила чашку.
+...и вдруг перевернула чашку.
 
 黒色の液体は重力に従ってこぼれ落ち、ビチャビチャとむごたらしい音を立てて飛び散った。%K%P
 The black liquid, overtaken by the force of gravity, went splashing to the floor.
@@ -3091,7 +3092,7 @@ CN PLACEHOLDER
 武「ゆ、優……」%K%P
 Y-You...
 CN PLACEHOLDER
-Ю...
+...Ю...
 
 優の視線は俺の方だけに向けられていた。%K%P
 You's eyes were fixed on me.
@@ -3131,7 +3132,7 @@ CN PLACEHOLDER
 武「い、いもうと……！？」%K%P
 Your sister...?
 CN PLACEHOLDER
-Твоя сестра?..
+Твоя сестра...?
 
 優「そう……」%K%P
 Yes...
@@ -3141,12 +3142,12 @@ CN PLACEHOLDER
 優「だけど、彼女は私自身でもあるの」%K%P
 And at the same time, she is me.
 CN PLACEHOLDER
-И, в то же время, она – это я.
+И, в то же время, она - это я.
 
 優「彼女と私は……」%K%P
 She and I are...
 CN PLACEHOLDER
-Мы с ней...
+Она и я...
 
 優「双子、だから……」%K%P
 Twins, you see...

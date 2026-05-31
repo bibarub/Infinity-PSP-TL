@@ -6,12 +6,12 @@ CN PLACEHOLDER
 優は『Ｌ−ＭＲＩ』を指差す。%K%P
 You pointed to the L-MRI.
 CN PLACEHOLDER
-Ю показала на L-MRI.
+С этими словами, Ю показала на 'Л-МРИ'.
 
 俺とつぐみが、ココを装置の平たい台へと担ぎ上げた。%K%P
 Tsugumi and I laid Coco down on the flat table.
 CN PLACEHOLDER
-Мы с Цугуми уложили туда Коко.
+Цугуми и я опустили Коко на плоский стол.
 
 ココは小刻みに浅い呼吸を繰り返していた。吐血は止まっているが、かなり辛そうだ。%K%P
 Coco continued to breathe in her short, shallow manner. Although she had stopped coughing up blood, she seemed to be in a lot of pain.
@@ -26,12 +26,12 @@ CN PLACEHOLDER
 程なく『Ｌ−ＭＲＩ』のアームが稼動し、レーザースキャンが開始された。%K%P
 The arm of the L-MRI soon came to life and started a laser scan.
 CN PLACEHOLDER
-Вскоре рука L-MRI ожила и начала лазерное сканирование.
+Вскоре, рука 'Л-МРИ' ожила и начала лазерное сканирование.
 
 少年は台の横に寄り添って、今にも泣き出しそうな顔でココを見ている。%K%P
 The Kid came up to the side of the table and stared at Coco, looking as if he would burst into tears.
 CN PLACEHOLDER
-Малой подошёл сбоку к столу и уставился на Коко. Бедняга готов зарыдать в любую секунду.
+Кид подошёл сбоку к столу и уставился на Коко. Бедняга готов зарыдать в любую секунду.
 
 武「空、俺達にもスキャン結果がわかるように、画面を出してくれ」%K%P
 Sora, put the results up on the screen so everyone can see them.
@@ -51,7 +51,7 @@ CN PLACEHOLDER
 サーモスキャン、超音波エコー分析による身体断面、レーザーサンプリング等の画像が次々に並んだ。%K%P
 Images—including a thermal scan, ultrasound analysis, cross-sectional representations of her body, and a laser sampling—were all displayed one after another.
 CN PLACEHOLDER
-Графики и списки, включая тепловой и ультразвуковой анализ, перекрёстный анализ биометрик её тела, лазерная проба... мелькают перед глазами, одно за другим.
+Графики и списки, включая тепловой и ультразвуковой анализ, перекрёстный анализ биометрик её тела, лазерная проба...мелькают перед глазами, одно за другим.
 
 勿論、俺達は専門の医師ではないから、画像を見て直接判断することはできない。%K%P
 Of course, none of us were doctors, so there was little we could understand about her condition by looking at the pictures.
@@ -61,7 +61,7 @@ CN PLACEHOLDER
 スキャン装置とレミシステムが的確な答えを返すのを期待して、待つしかなかった。%K%P
 All we could do was wait for the scanning equipment and LeMMIH's system to give us an answer.
 CN PLACEHOLDER
-Всё, что нам остаётся – ждать завершения процедуры и оглашения результата LeMMIH.
+Всё что нам остаётся - ждать завершения процедуры и оглашения результата ЛеММИХ.
 
 刻々と変わる画面を祈りつつ見つめる。%K%P
 We stared as the images that flashed by on the screen and prayed.
@@ -81,17 +81,17 @@ CN PLACEHOLDER
 『Ｔｉｅｆ⑳Ｂｌａｕ⑳２０１７−Ｒｅｖ．１７』%K%P
 “Tief Blau 2017-Rev.17”
 CN PLACEHOLDER
-«Tief Blau 2017-Rev.17»
+'Tief Blau 2017-Rev.17'
 
 空「ティーフブラウ……！」%K%P
 Tief Blau...!
 CN PLACEHOLDER
-Tief Blau!..
+Tief Blau...!
 
 優「……えっ？」%K%P
 ...Huh?
 CN PLACEHOLDER
-...А?
+...---?
 
 武「なんだって？」%K%P
 What'd you say?
@@ -101,7 +101,7 @@ CN PLACEHOLDER
 空「そんな……」%K%P
 No...
 CN PLACEHOLDER
-Нет...
+Нет....
 
 空はいきなり、ホログラムウィンドウをかき消した。%K%P
 Sora hurriedly shut down the holographic window.
@@ -116,47 +116,47 @@ CN PLACEHOLDER
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 事態が深刻であることは、表情からわかる。%K%P
 Her expression showed how serious the situation was.
 CN PLACEHOLDER
-Её подавленный вид говорит о том, что всё серьёзно как никогда.
+(Tief Blau? Мне кажется, или я правда где-то это слышал...?)%K%PНо, её подавленный вид говорит о том, что всё серьёзно как никогда.
 
 武「空……？」%K%P
 Sora...?
 CN PLACEHOLDER
-Сора?..
+Сора...?
 
 優「どうしたのよ、空？　言ってくれないと……」%K%P
 What's wrong, Sora? If you don't tell us...
 CN PLACEHOLDER
-Что не так, Сора? Ответь!..
+Что не так, Сора? Ответь...!
 
 優「教えてくれないと、わからないよ……？」%K%P
 If you don't tell us, we don't know what's going on...
 CN PLACEHOLDER
-Не держи нас в неведении, умоляю!..
+Не держи нас в неведении, умоляю...!
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「……信じられない」%K%P
 ...I can't believe it.
 CN PLACEHOLDER
-...Я не верю.
+...я не верю.
 
 空「そんな、信じられません……」%K%P
 I just can't believe it...
 CN PLACEHOLDER
-Этого... не может быть...
+Этого...не может быть...
 
 武「何が……何だ？」%K%P
 What... What don't you believe?
 CN PLACEHOLDER
-Что... что не может быть?
+Что...что не может быть?
 
 空「ココちゃんは……」%K%P
 Coco-chan's been...
@@ -166,22 +166,22 @@ CN PLACEHOLDER
 空「ココちゃんは『感染』しています」%K%P
 Coco-chan has been infected.
 CN PLACEHOLDER
-Коко-тян... заражена.
+Коко-тян...заражена.
 
 優「感染……？」%K%P
 Infected...?
 CN PLACEHOLDER
-Заражена?..
+Заражена...?
 
 武「何に！？」%K%P
 What!?
 CN PLACEHOLDER
-Что?!
+Что!?
 
 空「……それは……」%K%P
 ...It's...
 CN PLACEHOLDER
-Это...
+...это...
 
 空は動揺を抑えられないまま、ためらいがちに口を開いた。%K%P
 Sora was unable to suppress her agitation and opened her mouth hesitantly.
@@ -201,17 +201,17 @@ CN PLACEHOLDER
 優「ティーフ……ブラウ……」%K%P
 Tief... Blau...
 CN PLACEHOLDER
-Tief... Blau...
+Tief...Blau...
 
 ティーフブラウ……？%K%P
 Tief Blau...?
 CN PLACEHOLDER
-Что же это за «Тиф Блау»?
+Пытаясь успокоиться, я несколько раз прокрутил в голове название вируса.%K%PПо немецки оно означает......Голубая Синева.
 
 つぐみの持つウイルスとはまったく別の、ウイルス……？%K%P
 A virus that was totally different than the one Tsugumi had...?
 CN PLACEHOLDER
-Этот вирус же совсем не такой, как у Цугуми...
+Стоп...этот вирус - полная противоположность того, что носит в себе Цугуми...
 
 少年「ココ、ココっ！」%K%P
 Coco, Coco!
@@ -221,7 +221,7 @@ CN PLACEHOLDER
 少年が走り出て、ココの横たわる台にしがみついた。%K%P
 The Kid ran over to Coco's side and held on to the table.
 CN PLACEHOLDER
-Малой подбежал к Коко и схватился за край стола.
+Кид подбежал к Коко и схватился за край стола.
 
 少年「しっかりしてよ、ココ！」%K%P
 Coco, hold on!
@@ -231,7 +231,7 @@ CN PLACEHOLDER
 少年「……嫌だ！　死んじゃ嫌だ！」%K%P
 ...No! Don't you die on me!
 CN PLACEHOLDER
-Нет! Не умирай!
+Нет!! Не умирай!!
 
 ぐったりしているココの腕にすがりつく。%K%P
 He held onto Coco's arm as she lay there unconscious.
@@ -241,37 +241,37 @@ CN PLACEHOLDER
 少年「目を開けてくれ、ココ！」%K%P
 Open your eyes, Coco!
 CN PLACEHOLDER
-Открой глаза, Коко!
+Открой глаза, Коко!!
 
 ココ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「頼むよ！　起きてくれよおっ！」%K%P
 Please! Wake up!
 CN PLACEHOLDER
-Очнись! Прошу тебя!
+Очнись!! Прошу тебя!!
 
 ココ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年はココの肩を掴み、激しく揺さぶっている。%K%P
 The Kid grabbed hold of Coco's shoulders and shook her violently.
 CN PLACEHOLDER
-Затем Малой схватился за её плечи и сильно тряхнул.
+Затем Кид схватился за её плечи и сильно тряхнул.
 
 武「おいよせ、やめろ少年！」%K%P
 Hey, cut it out! Stop it, Kid!
 CN PLACEHOLDER
-Эй, ты что делаешь?! Хватит, Малой!
+Эй, ты что делаешь?! Хватит, Кид!
 
 俺は少年の手を払い、ココから強引に引き剥がした。%K%P
 I pried his hands off Coco and pulled him away from her.
 CN PLACEHOLDER
-Я убрал его руки с Коко и с трудом оттащил от стола.
+Я убрал его руки с Коко, и с трудом оттащил от стола.
 
 少年「何すんだよっ！」%K%P
 What are you doing!?
@@ -286,12 +286,12 @@ CN PLACEHOLDER
 武「そんなことして何になるんだ？」%K%P
 What do you think that's going to accomplish, huh!?
 CN PLACEHOLDER
-Ты хоть понимаешь, что творишь?!
+Ты хоть понимаешь, что творишь!?
 
 少年「だって、ココが、ココがっ！」%K%P
 But Coco's gonna... She's gonna!
 CN PLACEHOLDER
-Но Коко... Коко!
+Но, Коко...! Коко...!!
 
 少年「このままじゃココが……死んじゃうよっ！」%K%P
 If we don't do anything, Coco's... going to die!
@@ -301,7 +301,7 @@ CN PLACEHOLDER
 少年はうめくように言った。%K%P
 The Kid groaned in despair.
 CN PLACEHOLDER
-Простонал от безысходности Малой.
+Простонал от безысходности Кид.
 
 武「慌てんな！　何か手はあるはずだ……」%K%P
 Calm down. There's got to be something we can do...
@@ -311,7 +311,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「黙ってろ、落ち着け、考えろ……」%K%P
 Don't get crazy. Let's just calm down and think...
@@ -321,12 +321,12 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 なんとか少年を鎮める。%K%P
 The Kid somehow quieted down.
 CN PLACEHOLDER
-Малой замолк.
+Кид замолк.
 
 彼は肩で息をして、俺を睨んでいた。%K%P
 He breathed heavily and glared at me.
@@ -341,7 +341,7 @@ CN PLACEHOLDER
 優「そんなこと言われても……私にはわからないよ」%K%P
 Don't ask me... I have no idea.
 CN PLACEHOLDER
-Не знаю... меня-то зачем спрашивать?
+Не знаю...меня-то зачем спрашивать?
 
 優「空、何か対処法はないの？」%K%P
 Sora, isn't there anything we can do?
@@ -356,12 +356,12 @@ CN PLACEHOLDER
 空「ですが、根源的な対策には……」%K%P
 But in order to do this...
 CN PLACEHOLDER
-Но для этого придётся...
+Но, для этого придётся...
 
 優「応急処置で構わない！　早く、早くしないと……！」%K%P
 Whatever it takes! If we don't hurry, then...!
 CN PLACEHOLDER
-Да какая разница! Если мы промедлим, то!..
+Да какая разница!! Если мы промедлим, то...!
 
 叫び出しそうになるのを、優はぐっと堪える。%K%P
 You stopped herself just short of screaming out.
@@ -371,12 +371,12 @@ CN PLACEHOLDER
 優「お願い、空……あなただけが頼りなのよ」%K%P
 Please, Sora... You're the only one who can help us.
 CN PLACEHOLDER
-Умоляю, Сора... ты наша единственная надежда.
+Умоляю, Сора...ты наша единственная надежда.
 
 優「教えて、方法を」%K%P
 Please tell us what to do.
 CN PLACEHOLDER
-Что нам делать, что?..
+Что нам делать, что...?!
 
 空「アンプルを。症状に対応したアンプルが必要です」%K%P
 You'll need serum. A serum to lessen the symptoms.
@@ -391,12 +391,12 @@ CN PLACEHOLDER
 空「それが……この部屋にあるかどうか……」%K%P
 It's... I don't know if it is here or not...
 CN PLACEHOLDER
-Это... я не знаю, есть ли здесь она...
+Это...я не знаю, есть ли здесь она...
 
 優「そ、そんな……！」%K%P
 Wh-What...!
 CN PLACEHOLDER
-Ч-что?!
+Ч-что...!?
 
 優は壁に駆け寄り、そこに据え付けられた医療用具の棚を片っ端から開ける。%K%P
 You ran up to the wall and opened up a shelf filled with medical tools.
@@ -411,7 +411,7 @@ CN PLACEHOLDER
 優「これは！？」%K%P
 What about this!?
 CN PLACEHOLDER
-Это?!
+Это!?
 
 空「いえ……」%K%P
 No...
@@ -421,7 +421,7 @@ CN PLACEHOLDER
 優「これじゃないの！？」%K%P
 It isn't this one!?
 CN PLACEHOLDER
-Вот это?!
+Вот это!?
 
 空「違います……」%K%P
 No, it is not...
@@ -431,7 +431,7 @@ CN PLACEHOLDER
 優「こ、こっちは！？」%K%P
 How about this one!?
 CN PLACEHOLDER
-А это?!
+А это!?
 
 空「それではありません……」%K%P
 Not that one either...
@@ -441,12 +441,12 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.......
 
 空「それも……違います……」%K%P
 That one... isn't it either...
 CN PLACEHOLDER
-И... не это...
+И...не это...
 
 手に何本も抱え持った薬品のビンやカプセルを、優は床に落とした。%K%P
 You dropped bottle after bottle of medicine onto the floor.
@@ -461,27 +461,27 @@ CN PLACEHOLDER
 優「どうしよう……！」%K%P
 What are we going to do...!?
 CN PLACEHOLDER
-Что же делать?!
+Что же делать...!?
 
 優「どうしたらいいの？　答えて、空……！」%K%P
 What should we do? Answer me, Sora...!
 CN PLACEHOLDER
-Что же нам делать?! Скажи, Сора!
+Что же нам делать?! Скажи, Сора...!!
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「残念ながら……」%K%P
 I am sorry...
 CN PLACEHOLDER
-Сожалею...
+Сожалею......
 
 ピピ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ピピ「くうーん……」%K%P
 *Whine*...
@@ -491,12 +491,12 @@ CN PLACEHOLDER
 ピピが俺のそばに来て、小さく鳴いた。%K%P
 Pipi came over to me and whined softly.
 CN PLACEHOLDER
-Пипи подошёл ко мне и грустно заскулил.
+Пипи подошёл ко мне и грустно запищал.
 
 空「……あっ！！」%K%P
 ...Oh!
 CN PLACEHOLDER
-...О!
+---!!
 
 いきなり空は顔色を変えた。%K%P
 Sora's face suddenly changed colors.
@@ -506,12 +506,12 @@ CN PLACEHOLDER
 空「ピピちゃん、それをくださいっ！！　早く！」%K%P
 Pipi, bring that over here! Quickly!
 CN PLACEHOLDER
-Пипи, неси её сюда! Скорее!
+Пипи, тащи её сюда! Скорей!!
 
 優「えっ！？」%K%P
 Eh!?
 CN PLACEHOLDER
-Э-э?!
+Эээ!?
 
 空「ピピちゃんが口にくわえている、それですっ！」%K%P
 That thing that Pipi has in his mouth! That's it!
@@ -521,7 +521,7 @@ CN PLACEHOLDER
 武「何っ！？」%K%P
 What!?
 CN PLACEHOLDER
-Что?!
+Что!?
 
 俺は慌てて、ピピの持っているものを取り上げた。%K%P
 I quickly snatched whatever it was out of Pipi's mouth and lifted it up.
@@ -531,12 +531,12 @@ CN PLACEHOLDER
 武「こ、これかっ！」%K%P
 Th-This!?
 CN PLACEHOLDER
-Э-это?!
+Э-это!?
 
 優「アンプル……！」%K%P
 It's the serum...!
 CN PLACEHOLDER
-Ампула!..
+Ампула...!
 
 オレンジ色の液体が入った、透明なカプセルだった。%K%P
 It was a transparent capsule with orange liquid inside of it.
@@ -556,12 +556,12 @@ CN PLACEHOLDER
 武「お、ＯＫ！！」%K%P
 O-Okay!
 CN PLACEHOLDER
-Х-хорошо!
+Х-хорошо!!
 
 武「優、頼む！」%K%P
 You, do your magic!
 CN PLACEHOLDER
-Ю, скорее, нельзя терять ни секунды!
+Ю, скорей, нельзя терять ни секунды!
 
 優が俺のところへ飛んできて、アンプルを取った。%K%P
 You ran over to where I was and grabbed the serum out of my hand.
@@ -581,17 +581,17 @@ CN PLACEHOLDER
 それから数分経つと……。%K%P
 After a few minutes...
 CN PLACEHOLDER
-Чуток погодя...
+Чуток погодя......
 
 徐々にではあるが、彼女の呼吸は穏やかになり、身体の震えもなく落ち着いてきた。%K%P
 Although it was gradual, Coco's breathing became more even, and the tremors in her body settled down.
 CN PLACEHOLDER
-Постепенно Коко задышала более ровно, а спазмы прекратились.
+Постепенно, Коко задышала более ровно, а спазмы прекратились.
 
 空「効果、あったようです」%K%P
 It looks like it is taking effect.
 CN PLACEHOLDER
-Кажется... подействовало.
+Кажется...подействовало.
 
 空「体調はある程度、持ち直しました。危機は去りましたよ……」%K%P
 Her condition has improved somewhat. The danger seems over for now...
@@ -601,7 +601,7 @@ CN PLACEHOLDER
 優「よかった……」%K%P
 Thank goodness...
 CN PLACEHOLDER
-Слава богу!..
+Слава богу...!
 
 胸を撫で下ろす、優と空。%K%P
 Both You and Sora looked relieved.
@@ -616,17 +616,17 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年は唇を噛み、うつむいて息をついた。%K%P
 The Kid looked up and let out a big sigh of relief.
 CN PLACEHOLDER
-Малой взглянул на потолок и глубоко вздохнул с облегчением.
+Кид взглянул на потолок и глубоко вздохнул с облегчением.
 
 つぐみはじっと静かに、ココを見つめていた。%K%P
 Tsugumi stared at Coco in silence.
@@ -641,7 +641,7 @@ CN PLACEHOLDER
 武「お前、アンプルなんて……いつの間に？」%K%P
 Who would've thought you'd find the serum... When did you get this?
 CN PLACEHOLDER
-Молодец. Кто бы мог подумать, что ты найдёшь ампулу... И где ты только её взял?
+Молодец. Кто бы мог подумать, что ты найдёшь ампулу.... И где ты только её взял?
 
 武「どっから探してきたんだ、こんなもん？」%K%P
 Where'd you find it?
@@ -651,22 +651,22 @@ CN PLACEHOLDER
 ピピ「く〜ん、くう〜ん……」%K%P
 *Whine*, *whiiiine*...
 CN PLACEHOLDER
-*писк* *писк*
+*писк* *писк*...
 
 ピピは哀しげに、鼻を鳴らしていた。%K%P
 Pipi whined pitifully.
 CN PLACEHOLDER
-Грустно проскулил Пипи.
+Грустно пропищал Пипи.
 
 武「さて……」%K%P
 Alright...
 CN PLACEHOLDER
-Значит, так...
+Значит так...
 
 ココの眠る『Ｌ−ＭＲＩ』を囲んで、皆が集まる。%K%P
 Everyone gathered around the L-MRI where Coco slept.
 CN PLACEHOLDER
-Все собрались вокруг L-MRI, где спит Коко.
+Все собрались вокруг 'Л-МРИ', где спит Коко.
 
 武「空、ティーフブラウとやらについて教えてくれ」%K%P
 Sora, tell us what you can about the Tief Blau virus.
@@ -676,17 +676,17 @@ CN PLACEHOLDER
 武「とりあえず、俺はそんな名前は初耳だ」%K%P
 That's the first time I've ever heard of it.
 CN PLACEHOLDER
-Честно говоря, я впервые о нём слышу. Да и вообще впервые сталкиваюсь с такой страшной заразой.
+Честно говоря, я впервые о нём слышу. Да и вообще, впервые сталкиваюсь со столь страшной заразой.
 
 武「誰か他に、聞いたことある奴いるか？」%K%P
 Does anyone else know anything about it?
 CN PLACEHOLDER
-Ребята, никто из вас раньше о нём не слыхал?
+Ребята, никто из Вас раньше о нём не слыхал?
 
 そう訊くと、優・少年・つぐみ・ピピ……全員が、首を横に振った。%K%P
 When I asked the question, You, the Kid, Tsugumi, even Pipi... all shook their heads.
 CN PLACEHOLDER
-В ответ на мой вопрос, Ю, Малой, Цугуми, даже Пипи... все замотали головами.
+В ответ на мой вопрос, Ю, Кид, Цугуми, даже Пипи... все замотали головами.
 
 武「致死性の高いウイルス、と聞いたけど……」%K%P
 You said it has a high mortality rate...
@@ -701,7 +701,7 @@ CN PLACEHOLDER
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+..........
 
 武「推測でいい。あるいは、知っている限りのデータを提供してくれるだけでも構わない」%K%P
 I don't care if it's only a guess. Or if you give me only the limited data you have.
@@ -716,7 +716,7 @@ CN PLACEHOLDER
 武「ココがいきなりこんな危険な目に遭ったんだ。俺達が何も知らないわけにはいかないだろう」%K%P
 Coco came down with this out of nowhere. It doesn't help the rest of us to be ignorant.
 CN PLACEHOLDER
-Жизнь Коко висит на волоске. Поэтому бессмысленно держать нас в неведении.
+Жизнь Коко висит на волоске. Поэтому, бессмысленно держать нас в неведении.
 
 空「そうですね……」%K%P
 You are right...
@@ -746,12 +746,12 @@ CN PLACEHOLDER
 時折、『Ｌ−ＭＲＩ』のリードセンサーがココの生体反応音を鳴らし、その音だけが響いている。%K%P
 Every once in a while, the sensor from the L-MRI would sound out Coco's vital signs, the only noise to echo through the room.
 CN PLACEHOLDER
-Лишь изредка сенсор L-MRI пищит, отображая показатели состояния организма Коко – это единственный звук, что раздаётся во всём помещении.
+Лишь изредка сенсор 'Л-МРИ' пищит, отображая показатели состояния организма Коко -- это единственное, что резонирует во всём помещении.
 
 空「ティーフブラウ（ＴＢ）……」%K%P
 Tief Blau, or TB, was...
 CN PLACEHOLDER
-Tief Blau, он же TB...
+Tief Blau...
 
 静かに、空は語り始めた。%K%P
 Sora started talking softly.
@@ -761,12 +761,12 @@ CN PLACEHOLDER
 空「ＴＢは、ＬｅＭＵの下にある研究施設にて研究されていた、極めて致死性の高い悪性ウイルスです」%K%P
 TB was developed at a research facility under LeMU. It is an extremely deadly virus.
 CN PLACEHOLDER
-TB был создан в исследовательской лаборатории, расположенной под LeMU. Это смертельно опасный искусственный вирус.
+Tief Blau был создан в исследовательской лаборатории, расположенной под LeMU. Это смертельно опасный искусственный вирус.
 
 優「研究施設？　ここの下に……？」%K%P
 At a research facility? Under us...?
 CN PLACEHOLDER
-В лаборатории? Под нами?..
+В лаборатории? Под нами...?
 
 優は目を見張った。%K%P
 You's eyes opened wide.
@@ -781,7 +781,7 @@ CN PLACEHOLDER
 空「ＩＢＦ（イーベーエフ）と呼ばれる施設が、この真下にあります」%K%P
 There is an installation called IBF directly below us.
 CN PLACEHOLDER
-Прямо под нами находится сооружение под названием IBF.
+Прямо под нами находится сооружение, под названием IBF.
 
 優「ＩＢＦ……」%K%P
 IBF...
@@ -791,7 +791,7 @@ IBF...
 つぐみ「やっぱり……」%K%P
 I knew it...
 CN PLACEHOLDER
-Так и знала...
+В точку...
 
 つぐみは眉をひそめる。%K%P
 Tsugumi frowned.
@@ -801,22 +801,22 @@ CN PLACEHOLDER
 つぐみ「決定的な事態を目の当たりにしてしまっては、さすがに人工知能の機密保守命令も解除されたか……」%K%P
 Well, it looks like we CAN get information out of this artificial intelligence after all, assuming the situation is dire enough...
 CN PLACEHOLDER
-Значит, ИИ всё-таки МОЖЕТ пойти против собственной программы. Когда человеческая жизнь в опасности...
+Значит, И.И. всё-таки МОЖЕТ пойти против собственной программы. Когда человеческая жизнь в опасности...
 
 つぐみ「人ひとりの命がかかっているもの。黙ってはいられないみたいね」%K%P
 I guess it isn't in your programming to keep a secret when someone's life is on the line.
 CN PLACEHOLDER
-Видимо, твой создатель... не был сволочью, как некоторые.
+Видимо, твой создатель...не был сволочью, как некоторые.
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「ごめんなさい。どうぞ続けて、空……」%K%P
 I'm sorry. Please continue, Sora...
 CN PLACEHOLDER
-Прости, пожалуйста. Прошу, продолжай, Сора...
+Прости пожалуйста. Прошу, продолжай, Сора...
 
 軽く頭を振ると、つぐみは溜め息をついた。%K%P
 After shaking her head lightly, Tsugumi let out a sigh.
@@ -836,27 +836,27 @@ CN PLACEHOLDER
 ＬｅＭＵの下、水深１１９ｍの海底に熱水噴出孔がある。%T030%K%N
 119 meters beneath LeMU, there were thermal seafloor vents.
 CN PLACEHOLDER
-В 119 метрах под LeMU, на морском дне, находятся гидротермальные источники.
+В 119 метрах под LeMU, на морском дне, находятся горячие источники.
 
 そこには、他の環境では見られない特殊な微生物が棲息していて、ライプリヒ製薬はそれを研究すべく海底に研究所を作った。%T030%K%N
 Living there were special microbes, which couldn't be found in any other environment, and Leiblich Pharmaceuticals created a research institute in order to study them.
 CN PLACEHOLDER
-Там живут особые виды микроорганизмов, что больше нигде не встречаются. Лейблих создали лабораторию, главная цель которой – их изучение.
+Там живут особые виды микроорганизмов, что больше нигде не встречаются. Лейблих создали лабораторию, главная цель которой - их изучение.
 
 名称は『ＩＢＦ』――%T030%K%N
 It was called “IBF”—
 CN PLACEHOLDER
-И называется она «IBF»...
+'IBF'—
 
 『Ｉｎｓｔｉｔｕｔｅ⑳ｆüｒ⑳Ｂｉｏｌｏｇｉｓｃｈｅ⑳Ｆｏｒｓｃｈｕｎｇ』%T030%K%N
 “Institut für biologische Forschung”.
 CN PLACEHOLDER
-Institut für biologische Forschung.
+Институт Биологического Форсирования.
 
 和訳すると、そのまま『生物学の研究所』のことを表していると言う。%K%O
 Translated, it meant “The Institute for Biological Research”.
 CN PLACEHOLDER
-(В переводе это значит «Институт биологических исследований»)
+(Форсирования...? В точку. Когда светила науки начинают заигрывать с природой...жди беды...)
 
 ＬｅＭＵと研究所……先に設立されたのは研究所のほうだった。%T030%K%N
 LeMU and the research facility... Of the two, the first to be built was the research facility.
@@ -866,7 +866,7 @@ LeMU и исследовательская лаборатория... разум�
 そこにテーマパークを併設したのは、どうやらカモフラージュの為だったらしい。%T030%K%N
 Building a theme park was apparently just a front.
 CN PLACEHOLDER
-Тематический парк – всего лишь прикрытие.
+Тематический парк - всего лишь прикрытие.
 
 ＩＢＦの研究員は、ＬｅＭＵの係員に成りすまして、海底と海上を行き来している。%T030%K%N
 The researchers at IBF were listed as managers of LeMU and were able to come and go as they pleased.
@@ -876,22 +876,22 @@ CN PLACEHOLDER
 そうすれば、誰もこんなところに研究所があるなんて、疑ったりしないからだ。%K%O
 That way, nobody would suspect that there was actually a research facility present.
 CN PLACEHOLDER
-Так что никто не мог подозревать о существовании лаборатории.
+Так что, никто не мог подозревать о существовании лаборатории.
 
 また、資金調達という目的も、なかったわけではない。%T030%K%N
 At the same time, they could also get much-needed funds for research.
 CN PLACEHOLDER
-В то же время, это отличный источник для финансирования исследований.
+В то же время, это отличный способ сокрытия доходов.
 
 テーマパークを併設することによって、いくらかでも研究所の運営費を補えれば……と、そんな思惑もあったようだ。%T030%K%N
 If they set up a successful theme park, they could get pretty much all the money they needed to run the research facility...
 CN PLACEHOLDER
-Судя по всему, они за счёт доходов от парка планировали покрыть хотя бы часть расходов на исследовательский центр...
+Владея сверхпопулярным парком развлечений... не стоит задумываться, где взять деньги на исследования...
 
 ともかくライプリヒ製薬は、この真下……水深１１９ｍの海底で、ずっと細菌やウイルスの研究を続けてきていたのだ。%K%O
 So Leiblich Pharmaceuticals continued to carry out research into bacteria and viruses on the bottom of the ocean... 119 meters underwater.
 CN PLACEHOLDER
-Выходит, Лейблих Фармасьютикалс работали над исследованиями бактерий и вирусов на дне океана... в 119 метрах ниже уровня моря.
+Выходит, Лейблих Фармасьютикалс работали над исследованиями бактерий и вирусов на дне океана...в 119 метрах ниже уровня моря.
 
 空「ＩＢＦのことは極秘事項なんです」%K%P
 The existence of IBF is highly confidential.
@@ -916,7 +916,7 @@ CN PLACEHOLDER
 空「今回の件で、分散された情報を統合して初めて、ＩＢＦが実在することを、はっきり確信しました……」%K%P
 I only became sure of IBF's existence after connecting together fragments of information from this accident...
 CN PLACEHOLDER
-Я поняла о существовании IBF лишь после того, как сопоставила их с этой аварией...
+Я поняла о существовании IBF лишь после того, как сопоставила их с этой аварией....
 
 武「そうか……」%K%P
 Oh...
@@ -926,12 +926,12 @@ CN PLACEHOLDER
 優「とにかく、ＴＢという未知の悪性ウイルスがあって、ＬｅＭＵの下の研究所で、その研究は行われていた」%K%P
 Anyway, there's a strange and deadly virus called TB they're doing research about at some research center under LeMU.
 CN PLACEHOLDER
-Как бы там ни было, Tief Blau – это смертельно опасный вирус, что исследовали в лаборатории под LeMU.
+Как бы там ни было, Tief Blau - это смертельно опасный вирус, что исследовали в лаборатории, под LeMU.
 
 優「それは恐らく、そのＴＢの治療方法を探る為……？」%K%P
 That's probably in order to find a cure for TB, right?
 CN PLACEHOLDER
-Если они создали Tief Blau, то, скорее всего, работали и над противоядием, разве нет?
+Если они создали Tief Blau, то, скорее всего, работали и над вакциной, разве нет?
 
 空「ええ、恐らくそうです。それから……」%K%P
 Yes, you are probably correct. In addition...
@@ -946,12 +946,12 @@ CN PLACEHOLDER
 空「あくまでレミのデータベースからの推測ですが……」%K%P
 At least from the information I can gather from LeMMIH's database...
 CN PLACEHOLDER
-По крайней мере, судя по информации из базы данных LeMMIH...
+По крайней мере, судя по информации из базы данных ЛеММИХ...
 
 空「ＩＢＦの診療室には、最新型の『高圧酸素治療装置』があるようです」%K%P
 It appears that they have a new type of 'high-pressure oxygen treatment device' there...
 CN PLACEHOLDER
-В IBF имеется новый тип системы оксигенотерапии высокого давления...
+В IBF имеется новый тип 'Устройств Кислородного Лечения Высокого Давления'...
 
 空「その治療装置を使えば、白血球の殺菌作用が増大します」%K%P
 And if we can treat her with that, her leukocyte, er, white blood cell activity should increase.
@@ -966,12 +966,12 @@ CN PLACEHOLDER
 空「症状を抑える効果のあるアンプル……先程のオレンジのアンプルも、新たに入手できるでしょう」%K%P
 We might even encounter more of the serum that is effective in stabilizing the symptoms... the orange one that we found previously.
 CN PLACEHOLDER
-Мы можем обнаружить ещё несколько ампул с сывороткой... таких же, как та оранжевая для снятия симптомов.
+Также, мы можем обнаружить ещё несколько ампул с сывороткой...такие же как та, оранжевого цвета, для снятия симптомов.
 
 武「ＩＢＦ、か……」%K%P
 IBF, huh...?
 CN PLACEHOLDER
-Значит, IBF...
+Значит, IBF...?
 
 武「そこと連絡は取れるか？　行くにはどうしたらいい？」%K%P
 Can we go there? How do we get there?
@@ -981,12 +981,12 @@ CN PLACEHOLDER
 少年「ま、待って……！」%K%P
 W-Wait...!
 CN PLACEHOLDER
-С-стойте!..
+С-стойте...!
 
 割り込むように、少年が叫んだ。%K%P
 The Kid interrupted with a shout.
 CN PLACEHOLDER
-Малой с криком прервал наш разговор.
+Кид с криком прервал наш разговор.
 
 少年「ちょっと待ってよ！　おかしいよ、そんなの……」%K%P
 Wait! This is crazy...
@@ -996,22 +996,22 @@ CN PLACEHOLDER
 少年「どうしてココは、そのＴＢとかにかかっちゃったの？」%K%P
 Why would Coco suddenly come down with TB?
 CN PLACEHOLDER
-Почему Коко ни с того ни с сего слегла с Tief Blau?!
+Почему Коко, ни с того ни с сего, слегла с Tief Blau?!
 
 少年「そんな恐ろしいウイルスに、いきなり感染してるなんて……」%K%P
 It doesn't make sense that she'd come down with that awful virus all of a sudden...
 CN PLACEHOLDER
-Она не могла просто так подхватить этот вирус!..
+Она не могла просто так подхватить этот вирус...!
 
 少年「なんか、変だと思わない？」%K%P
 You don't think that's strange?
 CN PLACEHOLDER
-Вам не кажется, что это слишком подозрительно?
+Слишком подозрительно...!
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「そうね。でも……」%K%P
 Well...
@@ -1026,7 +1026,7 @@ CN PLACEHOLDER
 つぐみ「治療法の手がかりはその研究所――ＩＢＦにしかないわ」%K%P
 The only lead we have for treating her is that research facility—IBF.
 CN PLACEHOLDER
-Единственная ниточка, ведущая к её спасению – лаборатория IBF.
+Единственная ниточка, ведущая к её спасению - лаборатория IBF.
 
 つぐみ「理由を探るのは、後回し」%K%P
 We'll have to look for reasons afterward.
@@ -1036,12 +1036,12 @@ CN PLACEHOLDER
 つぐみ「もっとも、空の言うことを全面的に信じれば、の話だけど」%K%P
 All we can do is trust what Sora tells us for now.
 CN PLACEHOLDER
-Всё, что мы сейчас можем – довериться словам Соры.
+Всё, что мы сейчас можем - довериться словам Соры.
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「込み入った嘘をつけるほど、器用じゃないはずよね？」%K%P
 She isn't good enough at lying to make up something like this, right?
@@ -1066,7 +1066,7 @@ CN PLACEHOLDER
 空「はい……ありがとうございます」%K%P
 ...Thank you.
 CN PLACEHOLDER
-Да... спасибо.
+Да...спасибо.
 
 真面目な顔で、空は頷いた。%K%P
 Sora nodded sincerely.
@@ -1096,12 +1096,12 @@ CN PLACEHOLDER
 優「それで納得してくれる？　少年？」%K%P
 Does that sound good to you? Kid?
 CN PLACEHOLDER
-Ну, что скажешь, Малой?
+Ну, что скажешь, Кид?
 
 少年「そ、そうだね。わかったよ」%K%P
 Y-Yeah. Alright.
 CN PLACEHOLDER
-Х-хорошо. Согласен.
+Х-Хорошо. Согласен.
 
 武「よーし、ＯＫ……」%K%P
 Alright, okay...
@@ -1121,7 +1121,7 @@ CN PLACEHOLDER
 空「でも……ＩＢＦに行くには、ヒンメルを通らないと……ヒンメルの扉は開かないんですよ？」%K%P
 However, in order to get to IBF, we have to get through Himmel... and Himmel's door isn't opening.
 CN PLACEHOLDER
-Однако чтобы добраться до IBF, нужно пройти через Химмель... Но дверь в него заперта.
+Однако, чтобы добраться до IBF, нужно пройти через ХИММЕЛ... Но, дверь в него заперта.
 
 武「とにかく行くんだよ。他に道はないんだ。案内してくれ」%K%P
 I don't care, we're going! We don't have any other options. Show me the way.
@@ -1136,22 +1136,22 @@ CN PLACEHOLDER
 武「いや、とにかく、やってみなけりゃわからないさ！」%K%P
 But we don't know that unless we try, right!?
 CN PLACEHOLDER
-Знаешь, как говорят? „Попытка – не пытка“.
+Знаешь, как говорят? 'Попытка - не пытка'.
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「よし、少年、手伝え！」%K%P
 Hey, Kid... Give me a hand!
 CN PLACEHOLDER
-Эй, Малой... подсоби-ка!
+Эй, Кид...подсоби-ка!
 
 少年「は、はいっ」%K%P
 O-Okay.
 CN PLACEHOLDER
-А-ага!
+А-Ага!
 
 ココの身体をそっと抱き起こし、俺は再び背中に担いだ。%K%P
 I picked up Coco's inert body and carried her piggyback.
@@ -1166,7 +1166,7 @@ CN PLACEHOLDER
 つぐみと少年が両脇から、俺の背中のココを支える。%K%P
 Tsugumi and the Kid supported Coco, who was on my back, from both sides.
 CN PLACEHOLDER
-Я несу Коко на спине, а Малой с Цугуми поддерживают её с обеих сторон.
+Я несу Коко на спине, а Кид с Цугуми поддерживают её с обеих сторон.
 
 空とピピが先を行く。優は念の為に救急箱を持参していた。%K%P
 Sora and Pipi went on ahead. You brought along a first aid kit just in case.
@@ -1176,7 +1176,7 @@ CN PLACEHOLDER
 １７ｍ下のドリットシュトックを目指す……。%K%P
 We were headed for Dritter Stock some seventeen meters below...
 CN PLACEHOLDER
-Мы направились на Дритте Шток, в 17 метрах под нами...
+Мы направились на Дритте шток, в 17 метрах под нами...
 
 ３階に到着した。%K%P
 We made it to the third floor.

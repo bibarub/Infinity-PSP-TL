@@ -1,7 +1,7 @@
 ﻿――レムリア遺跡。%K%P
 ―The Lemurian Ruins.
 CN PLACEHOLDER
-Лемурийские развалины.
+Лемурийские Развалины.
 
 昨日に引き続き、ぼくはここに足を踏み入れた。%K%P
 Just like I had the day before, I visited the ruins.
@@ -31,7 +31,7 @@ CN PLACEHOLDER
 ぼくには、そうとしか考えられなかった。%K%P
 It was the only one that made sense to me.
 CN PLACEHOLDER
-Потому что сейчас это – единственное, что имеет смысл.
+Потому что сейчас это - единственное, что имеет смысл.
 
 それ以外に、説明のつけようがなかった。%K%P
 There was no other way to explain things.
@@ -51,7 +51,7 @@ CN PLACEHOLDER
 迷わないよう、記憶をフル回転させながら……。%K%P
 Trying not to get lost, I wracked my memory...
 CN PLACEHOLDER
-Я напряг память, чтобы не заблудиться...
+...я напряг память, чтобы не заблудиться...
 
 幸いなことに、昨日の順路は、まだ覚えている。%K%P
 Fortunately, I remembered the path I'd taken the day before.
@@ -86,7 +86,7 @@ CN PLACEHOLDER
 昨日と同じホール――太陽の神殿。%K%P
 She was in the same spot as the day before—the Sun Temple.
 CN PLACEHOLDER
-Она в том же месте, на той же точке, что и вчера – в Храме Солнца.
+Она в том же месте, на той же точке, что и вчера - в Храме Солнца.
 
 これまた同じオベリスクの上に、膝を抱えて座っていた。%K%P
 And she was sitting on the same obelisk, hugging her knees.
@@ -116,22 +116,22 @@ CN PLACEHOLDER
 優「それにしても、よくここまで辿り着けたね？」%K%P
 You did a good job of finding this place again.
 CN PLACEHOLDER
-А ты молодец... надо же, снова найти это место...
+А ты молодец...надо же, снова найти это место...
 
 少年「ここしか考えられなかっただけだよ」%K%P
 It was the only place I could think of.
 CN PLACEHOLDER
-Просто... это было единственное, что пришло мне в голову.
+Просто...это было единственное, что пришло мне в голову.
 
 優「ううん、そうじゃなくて……よくここまでの経路を覚えてたなぁって」%K%P
 That's not what I mean... I mean you remembered the route here.
 CN PLACEHOLDER
-Нееет, я не об этом... я удивлена, что ты вспомнил, как сюда добраться.
+Нееет, я не об этом...я удивлена, что ты вспомнил, как сюда добраться.
 
 少年「何言ってんの？　優がここまで呼んだんでしょ？」%K%P
 What are you talking about? You called me here, right?
 CN PLACEHOLDER
-В смысле? Ты же сама меня позвала, так?
+В смысле? Ты же сама меня позвала, не так ли?
 
 優「そうだよ」%K%P
 That's right.
@@ -151,7 +151,7 @@ CN PLACEHOLDER
 少年「………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「うそうそ、じょーだんだよぉ！」%K%P
 I'm kidding. It's a joke!
@@ -161,7 +161,7 @@ CN PLACEHOLDER
 優「ほんとはね？　ちょっと試してみたの」%K%P
 To tell you the truth, I just wanted to test you.
 CN PLACEHOLDER
-Сказать по правде, это было испытание.
+Сказать по-правде, это было испытание.
 
 少年「試す？　ぼくを？」%K%P
 Test? Me?
@@ -191,12 +191,12 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「それ……沙羅から聞いたんでしょ？」%K%P
 You... You heard that from Sara, right?
 CN PLACEHOLDER
-Ю... это Сара тебе сказала, да?
+Ю...это Сара тебе сказала, да?
 
 優「そうだよ」%K%P
 Right.
@@ -216,7 +216,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「帰る」%K%P
 I'm going back.
@@ -231,12 +231,12 @@ CN PLACEHOLDER
 優「あっ、ああっ！　ひっどーい！　私じゃ不服だって言うの！？」%K%P
 Oh! You're mean! What? I'm not good enough for you!?
 CN PLACEHOLDER
-Х... ха?! Ты куда?! Я что, тебе не нравлюсь?
+Х..ха?! Ты куда?! Я что, тебе не нравлюсь?
 
 少年「そういう問題じゃない。こんなお遊びに付き合わされるのは、ご免だって言ってるんだ」%K%P
 That's not it at all. I just can't handle this kind of game right now.
 CN PLACEHOLDER
-Почему же... нравишься. Просто... мне сейчас не до игр.
+Почему же...нравишься. Просто...мне сейчас не до игр.
 
 少年「こっちはクタクタなんだよ。怪我だってしてるんだし」%K%P
 I'm completely worn out. And I've got this broken arm.
@@ -246,7 +246,7 @@ CN PLACEHOLDER
 優「あ、右手……」%K%P
 Oh, your arm...
 CN PLACEHOLDER
-Ой... рука...
+Ой...рука...
 
 気づくのが遅いって……。%K%P
 You belatedly noticed my arm...
@@ -261,7 +261,7 @@ CN PLACEHOLDER
 と、優が追いかけてきた。%K%P
 But You came after me.
 CN PLACEHOLDER
-Но Ю последовала за мной.
+Но, Ю последовала за мной.
 
 優「ねえ、ちょっと待ちなさいってば！」%K%P
 Hey, I said wait just a second!
@@ -276,12 +276,12 @@ CN PLACEHOLDER
 優「怪我しちゃったんだ……私をかばったせいで……」%K%P
 You got hurt... trying to help me...
 CN PLACEHOLDER
-Ты... поранился... и всё из-за меня...
+Ты...поранился...и всё из-за меня...
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「名誉の負傷ってやつだね」%K%P
 It's a battle scar you can be proud of.
@@ -341,12 +341,12 @@ CN PLACEHOLDER
 優「せめてものお詫びに、それ、掛けてあげるね？」%K%P
 It's my way of saying I'm sorry.
 CN PLACEHOLDER
-Я так... хочу попросить у тебя прощения.
+Я так...хочу попросить у тебя прощения.
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 両手をギプスに添え、いたわるように、包み込むように、優しくさすりはじめた。%K%P
 You put both her hands on my cast, as if enveloping it, and gently started rubbing it.
@@ -371,22 +371,22 @@ CN PLACEHOLDER
 優「チチンプイプイ、痛いの痛いの、アンドロメダ星雲の彼方まで、飛んで行けぇ……」%K%P
 Chichin puipui, pain, pain, go fly away! Far beyond the Andromeda nebula...
 CN PLACEHOLDER
-Счин-пуй-пуй... боль-боль... ветром сдуй... унеси до Андромеды... на хвосте седой кометы...
+Счин-пуй〜пуй... боль-боль... ветром сдуй... унеси до Андромеды... на хвосте седой кометы...
 
 少年「……チチンプイプイ？」%K%P
 ...Chichin puipui?
 CN PLACEHOLDER
-...счин-пуй-пуй?
+...счин-пуй〜пуй?
 
 優「どう？　痛くなくなったっしょ？」%K%P
 How is it? The pain stopped, right?
 CN PLACEHOLDER
-Ну?.. Как, боль прошла?
+Ну...? Как, боль прошла?
 
 少年「……アンドロメダ星雲の彼方まで？」%K%P
 ...Far beyond the Andromeda nebula?
 CN PLACEHOLDER
-...„Унеси до Андромеды“?
+.........
 
 優「な、なによぉ！　なんか文句あるわけ？」%K%P
 Wh-What? Is there a problem?
@@ -396,27 +396,27 @@ CN PLACEHOLDER
 少年「く、くくく……っ♪　いや、ないけど……ない、けど……くくくっ♪」%K%P
 Ha... Heehee... Nope... Nope... Heeeee...
 CN PLACEHOLDER
-Ха... хи-и-хи-и... не-а... не-а... хи-и-и-и-и...
+Ха...хии〜хии...не-а...не-а...хиииии...
 
 無性に笑いが込み上げてくるぼく。%K%P
 All of a sudden, I had a wild urge to laugh.
 CN PLACEHOLDER
-Ни с того ни с сего меня пробило на смех.
+Ни с того ни с сего, меня пробило на смех.
 
 まさか、優の口からそんな言葉が聞けるなんて……。%K%P
 It was something I never thought I'd hear come out of You's mouth.
 CN PLACEHOLDER
-Просто я никак не ожидал услышать от Ю нечто в этом духе.
+Просто, я никак не ожидал услышать от Ю нечто в этом духе.
 
 それはとても、くすぐったい出来事だった。%K%P
 And it tickled me incredibly.
 CN PLACEHOLDER
-А ещё было очень щекотно.
+Да ещё так щекотно.
 
 少年「ううん……おかげで、すっかり治ったみたいだよ」%K%P
 Yeah... It looks like you completely fixed it.
 CN PLACEHOLDER
-Да... кажется, ты полностью её вылечила.
+Да...кажется, ты полностью её вылечила.
 
 すっかり苛立ちは消えていた。%K%P
 My irritation vanished.
@@ -436,12 +436,12 @@ CN PLACEHOLDER
 優「嬉しかったよ、来てくれて」%K%P
 I'm glad that you came.
 CN PLACEHOLDER
-Я рада... что ты пришёл.
+Я рада...что ты пришёл.
 
 少年「ん？」%K%P
 Huh?
 CN PLACEHOLDER
-А?
+〜〜〜?
 
 優「大迷宮をくぐり抜けて、来てくれたでしょ？」%K%P
 That you made your way through the labyrinth to find me.
@@ -451,7 +451,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「あとは姫君を救出するだけだね？　王子様？」%K%P
 Now all you have to do is rescue the princess. Right, prince?
@@ -461,7 +461,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「ったく、仕方ないなぁ……」%K%P
 You just don't quit...
@@ -471,7 +471,7 @@ CN PLACEHOLDER
 少年「それじゃ、悪のドラゴンとやらを退治しに参りますか」%K%P
 Alright then, I guess I'm off to dispose of some evil dragon.
 CN PLACEHOLDER
-Хорошо, значит, пришла пора надрать уши злобному дракону.
+Хорошо, значит пришла пора надрать уши злобному дракону.
 
 ぼくにも、ようやくわかったのだ。%K%P
 Finally, I understood.
@@ -496,7 +496,7 @@ CN PLACEHOLDER
 沙羅「あのねぇ……いくら強がってたって、女の子はいつも待ってるんだよ？」%K%P
 Listen... No matter how much a girl pretends to be strong, she's always waiting.
 CN PLACEHOLDER
-Да пойми ты наконец... Как бы девушка ни старалась притворяться сильной, она всегда ждёт.
+Да пойми ты наконец...как бы девушка ни старалась притворяться сильной, она всегда ждёт.
 
 ――この、ぼくに。%K%P
 I thought maybe she was waiting for me.
@@ -506,12 +506,12 @@ CN PLACEHOLDER
 優「それじゃ、推理再開！　気合い入れていくぞ〜♪」%K%P
 Alright, now let's restart our detective work!
 CN PLACEHOLDER
-Ладушки! Начали... пора подключать дедуктивное мышление!
+Ладушки! Начали...пора подключать дедуктивное мышление!
 
 ふいに、遺跡の放つカビくさい匂いに混じって、爽やかな、少し甘酸っぱい香りが鼻孔をかすめた。%K%P
 Suddenly, I noticed a tart, refreshing aroma tickling my nose. It mixed with the mildewy smell of the ruins.
 CN PLACEHOLDER
-И тут... я заметил кислый, освежающий аромат, щекочащий мне нос, пробивающийся сквозь заплесневелый воздух развалин.
+И тут...я заметил кислый, освежающий аромат, щекочащий мне нос, пробивающийся сквозь заплесневелый воздух развалин.
 
 青い果実の芳香。%K%P
 It was the scent of not yet ripened fruit.
@@ -521,7 +521,7 @@ CN PLACEHOLDER
 それは、今は懐かしい……春の太陽の香りだった。%K%P
 It was familiar... It smelled like the sun in spring.
 CN PLACEHOLDER
-Такой знакомый... словно запах весеннего солнца.
+Такой знакомый...словно запах весеннего солнца.
 
 さて、ぼくらは再び情報を整理することにした。%K%P
 We decided to reorganize the information we had.
@@ -536,17 +536,17 @@ CN PLACEHOLDER
 空が収集したファイルから浮かび上がる、優のお母さん――田中ゆきえ氏が１５年前に死去している疑い。%K%P
 Sora's files had reported You's mother, Tanaka Yukie, as dying fifteen years ago.
 CN PLACEHOLDER
-По данным Соры, мать Ю, Танака Юкиэ, скончалась 15 лет назад.
+По данным Соры, мать Ю, Юки Танака, скончалась 15 лет назад.
 
 社内ＬＡＮのチャットログから見つかった、優のお父さん――田中陽一氏が３４年前に死去している疑い。%K%P
 The company LAN had a chat log that indicated You's father, Tanaka Yoichi, dying 34 years ago.
 CN PLACEHOLDER
-Судя по логу чата локальной сети компании, отца Ю, Танаки Ёити, нет в живых уже 34 года.
+Судя по логу чата локальной сети компании, отца Ю, Йоичи Танака, нет в живых уже 34 года.
 
 しかし、優はお母さんから、１７年前に父親は失踪したという話を聞いている。%K%P
 However, You's mom had told her that her father had gone missing seventeen years ago.
 CN PLACEHOLDER
-Однако мама сказала Ю, что её отец пропал без вести 17 лет назад.
+Однако, мама сказала Ю, что её отец пропал без вести 17 лет назад.
 
 写真やムービー等の証拠はあるが、その信憑性には疑わしいものがある。――これは優自身も認めている。%K%P
 There were pictures and movies, but they could not be completely trusted as reliable. You had even said so herself.
@@ -566,22 +566,22 @@ CN PLACEHOLDER
 現在のところ、ゆきえ氏と陽一氏の死去は、拭えない事実のように思える。%K%P
 From what we could gather, the death of her parents Yoichi and Yukie were facts.
 CN PLACEHOLDER
-Из того, что мы узнали, смерть её родителей – Ёити и Юкиэ – факт.
+Из того, что мы узнали, смерть её родителей - Йоичи и Юки - факт.
 
 そこから、優の母親（と名乗る人物）は、今まで嘘をついてきた、ということが考えられる。%K%P
 That meant that her mother—or the lady who called herself that—could have been lying all along.
 CN PLACEHOLDER
-Это значит, что её мама – или женщина, что так себя называет – всё это время ей лгала.
+Это значит, что её мама - или женщина, что так себя называет - всё это время ей лгала.
 
 ……以上のことから、最も高い可能性は、次のひとつに絞られつつあった。%K%P
 ...Based on all of the information, we narrowed it down to the two most likely possibilities.
 CN PLACEHOLDER
-...На основании вышеизложенного варианты сузились до следующего.
+...Круг вероятностей сомкнулся.
 
 『４：陽一氏は３４年前に、ゆきえ氏は１５年前にこの世を去った』%K%P
 “4. Yoichi had died 34 years ago and Yukie 15 years ago.”
 CN PLACEHOLDER
-«4. Ёити умер 34 года назад, а Юкиэ – 15 лет назад.»
+'4. Йоичи умер 34 года назад, а Юки - 15 лет назад.'
 
 少年「ねえ、こういうことじゃないかなぁ？」%K%P
 Hey, I bet this is what happened.
@@ -591,7 +591,7 @@ CN PLACEHOLDER
 少年「優のお父さんとお母さんが亡くなったことが事実だとすれば、今、ＬｅＭＵで働いている人……」%K%P
 If it is true that your mom and dad died, then the person working at LeMU...
 CN PLACEHOLDER
-Если твои мама и папа действительно умерли, значит, человек, работающий в LeMU...
+Если твои мама и папа действительно умерли, значит человек, работающий в LeMU...
 
 少年「つまり、今まで優がお母さんだと思ってた人は、本当のお母さんではなく……」%K%P
 I mean the person that you thought was your mom up until now isn't your mom, but...
@@ -611,7 +611,7 @@ CN PLACEHOLDER
 少年「優の本当のお父さんは３４年前に、お母さんは１５年前に死んでしまった」%K%P
 Then your real dad could have died 34 years ago and your mom 15 years ago.
 CN PLACEHOLDER
-Значит, твой папа действительно умер 34 года назад, а мама – 15 лет назад.
+Значит твой папа действительно умер 34 года назад, а мама - 15 лет назад.
 
 少年「そこで、残されたひとり娘『優』のことを不憫に思った誰かが、優を引き取ってここまで育ててくれた……」%K%P
 So somebody that took pity on the orphaned daughter took you in and raised you...
@@ -631,7 +631,7 @@ CN PLACEHOLDER
 優「田中陽一という人は、私の本当のお父さんじゃないから」%K%P
 Because Tanaka Yoichi isn't my real father.
 CN PLACEHOLDER
-Потому что Танака Ёити не может быть моим настоящим отцом.
+Потому что Йоичи Танака не может быть моим настоящим отцом.
 
 優「だってそうでしょ？」%K%P
 I mean, it has to be true.
@@ -641,7 +641,7 @@ CN PLACEHOLDER
 優「田中陽一という人は、今から３４年前に亡くなってるのよ？」%K%P
 He died 34 years ago, right?
 CN PLACEHOLDER
-Танака Ёити умер 34 года назад.
+Танака Йоичи умер 34 года назад.
 
 優「私が生まれたのは今から１８年前」%K%P
 And I was born eighteen years ago.
@@ -656,7 +656,7 @@ CN PLACEHOLDER
 優「どう考えても、２０年前の１２月前後ぐらいまでは生きててもらわなくちゃ困るの」%K%P
 In either case, my father would have had to have been alive until December of 20 years ago.
 CN PLACEHOLDER
-То есть мой отец был жив, по крайней мере, до декабря 20-летней давности.
+То есть, мой отец был жив, по крайней мере, до декабря 20-летней давности.
 
 その辺のことはあまり詳しくないから、なんとも言えないけれど……。%K%P
 I figured that was an area I didn't really know much about, so I held my tongue...
@@ -666,7 +666,7 @@ CN PLACEHOLDER
 でも単純に考えても、確かにオカシすぎる。%K%P
 But she was right. It did sound fishy.
 CN PLACEHOLDER
-Но она права – уж очень всё это подозрительно.
+Но она права - уж очень всё это подозрительно.
 
 この謎の空白を埋めるには……%K%P
 The question was how to fill in the missing years...
@@ -686,7 +686,7 @@ CN PLACEHOLDER
 少年「う、ううん……なんでもない」%K%P
 Uh... Nothing.
 CN PLACEHOLDER
-Не... ничего.
+Не...ничего.
 
 優「なによ、言いなさいよ、気になるじゃない」%K%P
 What? Tell me. You can't start to say something and stop like that.
@@ -701,12 +701,12 @@ CN PLACEHOLDER
 少年「優の本当の年齢は『３３歳』なんじゃ……」%K%P
 What if you were actually 33 years old...
 CN PLACEHOLDER
-А что, если на самом деле тебе 33 года?..
+А что, если на самом деле тебе 33 года...?
 
 優「きゃはははっ、３３歳？　私が？」%K%P
 Kyaaahaha! Me? 33?
 CN PLACEHOLDER
-Кха-ха-ха! Тридцать три? Мне?
+К〜ха〜ха〜ха! Тридцать три? Мне?
 
 優「このみずみずしい肌が３０代に見える？」%K%p
 You think that with my skin I look like I could be in my 30s?
@@ -731,7 +731,7 @@ CN PLACEHOLDER
 優「あ〜ん？」%K%P
 Whaaaaat?
 CN PLACEHOLDER
-Чего-о-о-о-о?!
+Хаааааа!?
 
 少年「見えない」%K%P
 You don't look it.
@@ -741,7 +741,7 @@ CN PLACEHOLDER
 優「だよねぇ〜」%K%P
 Right?
 CN PLACEHOLDER
-Неужели?..
+Неужели...?
 
 優「まあ、冗談はさておき……」%K%P
 Now, jokes aside...
@@ -761,22 +761,22 @@ CN PLACEHOLDER
 優「私は、少年みたいに記憶喪失になったこともないし、エイリアンに誘拐されたこともないし、亀を助けて龍宮城に行ったこともない」%K%P
 I've never had amnesia like you, don't remember being abducted by aliens, and haven't had any Rip Van Winkle-like experiences either.
 CN PLACEHOLDER
-В отличие от тебя, у меня никогда не было амнезии, пришельцы меня не похищали, и уж тем более я не бывала в шкуре Урасимы Таро.
+В отличие от тебя, у меня никогда не было амнезии, пришельцы меня не похищали, и уж тем более, не бывала в шкуре Урашимы Таро.
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 （竜宮城……？）%K%P
 (Rip Van what...?)
 CN PLACEHOLDER
-(Кого-кого?..)
+(Кого-кого...?)
 
 優「１２歳のとき、実は２７歳だったって？」%K%P
 That would mean when I was 12, I was really 27?
 CN PLACEHOLDER
-Или когда мне было 12 лет, на самом деле мне было 27?
+Или, когда я справляла 12-и летие, на самом деле мне было 27?
 
 優「そんなことあるわけないでしょ？」%K%P
 That couldn't be, right?
@@ -786,32 +786,32 @@ CN PLACEHOLDER
 優「５歳のときに２０歳だった？　ますますあり得ない」%K%P
 Or that when I was 5, I was actually 20. That's even more impossible.
 CN PLACEHOLDER
-Или когда мне было пять, то в действительности 20? Это звучит ещё бредовей.
+Или, когда мне было пять, то в действительности 20? Это звучит ещё бредовей.
 
 優「私はこれまでの、１８年間と７ヶ月とちょっとの人生の中で、一度たりとも１５年間のギャップなんてものを体感したことはないの」%K%P
 In the eighteen years and seven months of my life, I've never once felt a gap of fifteen years.
 CN PLACEHOLDER
-За все 18 лет и семь месяцев своей жизни я ни разу не ощущала провала в 15 лет.
+За все 18 лет и семь месяцев своей жизни, я ни разу не ощущала провала в 15 лет.
 
 （歳月のギャップ……？）%K%P
 (A fifteen-year gap...?)
 CN PLACEHOLDER
-(Провал в 15 лет?..)
+(Провал в 15 лет...?)
 
 少年「ねえ？　話を元に戻して恐縮だけど……」%K%P
 Listen. Sorry to stop you, but let's get back on topic...
 CN PLACEHOLDER
-Слушай. Прости, что останавливаю твой бурный поток мыслей, но... давай-ка вернёмся к разговору по существу...
+Слушай. Прости, что останавливаю твой бурный поток мыслей, но...давай-ка вернёмся к разговору по существу...
 
 優「？」%K%P
 ?
 CN PLACEHOLDER
-?
+Хммм?
 
 少年「さっき優『龍宮城』って言ったよね？」%K%P
 You were just talking about Rip Van Winkle, right?
 CN PLACEHOLDER
-Ты только что упомянула об Урасиме Таро, так?
+Ты только что упомянула об Урашиме Таро, так?
 
 優「それが？」%K%P
 And?
@@ -826,17 +826,17 @@ CN PLACEHOLDER
 優「は？」%K%P
 Huh?
 CN PLACEHOLDER
-А?
+〜〜〜?
 
 （浦島太郎は……竜宮城へ出かけ……地上に戻ってくると……）%K%P
 (Rip Van Winkle... He falls asleep... and when he returns home...)
 CN PLACEHOLDER
-(По легенде, Урасима Таро... был рыбаком... он прожил несколько дней в доме русалок... но когда вернулся домой...)
+(По легенде, Урашима Таро...был рыбаком...он прожил несколько дней в доме русалок...но, когда вернулся домой...)
 
 （戻ってくると…………）%K%P
 (When he returns home...)
 CN PLACEHOLDER
-(То обнаружил, что прошло... кхм... несколько десятилетий...)
+(То обнаружил, что прошло...кхм...несколько десятилетий...)
 
 少年「わかった！　わかったよ！」%K%P
 I got it! I got it!
@@ -846,12 +846,12 @@ CN PLACEHOLDER
 少年「優はきっとっ」%K%P
 This is probably what happened.
 CN PLACEHOLDER
-Вот что случилось в действительности.
+Видимо---
 
 優「――タイムスリップしたんどわぁ！」%K%P
 You probably traveled through time!
 CN PLACEHOLDER
-Ты пережила провал во времени!
+Ты пережила провал во времени!!
 
 優「……なんてバカバカしいこと、言い出さないよねぇ？」%K%P
 ...Would you stop talking about these stupid theories of yours?
@@ -861,12 +861,12 @@ CN PLACEHOLDER
 少年「だって、そう考えれば何もかも説明できるじゃないか！」%K%P
 But it would explain everything!
 CN PLACEHOLDER
-Но это же ставит всё на свои места!
+Но, это же ставит всё на свои места!
 
 少年「優はどこかで、たぶん記憶も定かじゃないぐらいの幼いときに、１５年後の未来へとタイムスリップしたんだ」%K%P
 Somewhere along the line, maybe when you were small, before you can even remember, I'll bet you jumped fifteen years into the future.
 CN PLACEHOLDER
-Когда-то давно, наверное когда ты была настолько маленькой, что и не помнишь. Голову даю на отсечение, что ты перепрыгнула на 15 лет в будущее.
+Когда-то давно, наверно когда ты была настолько маленькой, что и не помнишь. Голову даю на отсечение, что ты перепрыгнула на 15 лет в будущее.
 
 少年「優が生まれた本当の年は、今から３３年前……」%K%P
 You were probably really born 33 years ago...
@@ -876,12 +876,12 @@ CN PLACEHOLDER
 少年「だとすれば、陽一さんが３４年前に亡くなってたとしても不思議じゃないでしょ？」%K%P
 That would mean that if Yoichi died 34 years ago, it all makes sense.
 CN PLACEHOLDER
-Тогда и смерть Ёити 34 года назад также становится логичной.
+Тогда и смерть Йоичи 34 года назад также становится логичной.
 
 優「はぁ……まったくもう、何回言わせれば気がすむのかなぁ……」%K%P
 Geez... How many times are you going to have to say that before you are satisfied?
 CN PLACEHOLDER
-Ёлки-палки... сколько раз повторять, прежде чем до тебя наконец дойдёт?
+Ёлки-палки...сколько раз повторять, прежде чем до тебя наконец дойдёт?
 
 優「タイムスリップなんて現象は、絶対確実に起こり得ないの」%K%P
 Time travel is a physical impossibility.
@@ -916,7 +916,7 @@ CN PLACEHOLDER
 少年「だって……だって……」%K%P
 But... But...
 CN PLACEHOLDER
-Но... но...
+Но...но...
 
 少年「タイムスリップしたのは優だけじゃないんだよ！」%K%P
 But you're not the only one that experienced time travel!
@@ -926,12 +926,12 @@ CN PLACEHOLDER
 少年「ぼくも……そうだったんだ……」%K%P
 I... I did too...
 CN PLACEHOLDER
-Я... я тоже...
+Я...я тоже...
 
 少年「ぼくの場合は優とは違って、過去へとタイムスリップを……」%K%P
 But my time travel was different...
 CN PLACEHOLDER
-Но моё путешествие было совершенно иного рода...
+Но, моё путешествие было совершенно иного рода...
 
 少年「予知ができるのはそのせいなんだよ、きっと」%K%P
 And I think it's probably the reason that I get premonitions about things.
@@ -956,7 +956,7 @@ CN PLACEHOLDER
 優「仮に……仮によ？」%K%P
 Even if... IF...
 CN PLACEHOLDER
-Даже если... ЕСЛИ...
+Даже если...ЕСЛИ...
 
 優「もしもきみがタイムスリップしたとして……」%K%P
 Just suppose that you did travel through time...
@@ -966,7 +966,7 @@ CN PLACEHOLDER
 優「もうひとりの少年は、いったいどこにいるって言うの？」%K%P
 Where is the other Kid, the other you?
 CN PLACEHOLDER
-Тогда где другой Малой, другой ты?
+Тогда где другой Кид, другой ты?
 
 少年「もう、ひとり？」%K%P
 The other me?
@@ -978,7 +978,7 @@ CN PLACEHOLDER
 %LC――『生体反応：７』%K%O
 —“Life readings: 7”
 CN PLACEHOLDER
-«Живые существа: 7»
+'Живые существа: 7'
 
 １日の夜、生体反応の数字が変化したことを、ぼくはチラリと思い出した。%K%P
 I remembered on the night of May 1st, when the numbers for the life scan kept changing.
@@ -1003,7 +1003,7 @@ CN PLACEHOLDER
 少年「それは……えーっと……」%K%P
 That's... Uh... I...
 CN PLACEHOLDER
-Он... э-э... я...
+Он...ээ...я...
 
 少年「そうだ！　ぼくの場合は記憶だけが時間をさかのぼって！」%K%P
 I know! Only my memory is going back through time!
@@ -1028,7 +1028,7 @@ CN PLACEHOLDER
 少年「にもかかわらず、そんな非常識な現象が起こっちゃったもんだから……」%K%P
 But this time, common sense is being defied...
 CN PLACEHOLDER
-Однако на этот раз отрицался сам здравый смысл...
+Однако, на этот раз отрицался сам здравый смысл...
 
 少年「ぼくの脳みそはパニクっちゃって、何か論理的な説明をしてやらなければならなくなった」%K%P
 My brain couldn't deal with the situation and started to panic. So it tried to logically explain or deal with the situation.
@@ -1043,17 +1043,17 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「あのねぇ……熱弁振るってくれた後で悪いんだけどさぁ……」%K%P
 Uh... I don't mean to take the air out of you after your enthusiastic speech, but...
 CN PLACEHOLDER
-Э-э... Не хочу прерывать твою воодушевлённую речь, но...
+Ээ...не хочу прерывать твою воодушевлённую речь, но...
 
 優「そういうのは、論理的な説明とは言わないの」%K%P
 We don't call that logical.
@@ -1068,20 +1068,20 @@ CN PLACEHOLDER
 ………………。%K%P
 .........
 CN PLACEHOLDER
-...
+....
 
 ………………。%K%P
 ......
 CN PLACEHOLDER
-...
+....
 
 ………………。%K%P
 ...
 CN PLACEHOLDER
-...
+....
 
 結局、結論は何も出ないまま、この日はお開きとなった。%K%P
 So the day ended without us finding any answers.
 CN PLACEHOLDER
-Вот так и закончился день. А мы меж тем так и не нашли новых ответов.
+Вот так и закончился день. А мы, меж тем, так и не нашли новых ответов.
 

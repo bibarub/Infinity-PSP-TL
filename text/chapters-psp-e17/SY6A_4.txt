@@ -21,7 +21,7 @@ CN PLACEHOLDER
 空「しかし、本社のデータベースは、こことは比較にならないぐらいプロテクトは強固です」%K%P
 But the database at headquarters has security that makes what we have here look simple in comparison.
 CN PLACEHOLDER
-Однако база данных штаб-квартиры защищена гораздо более сложной системой.
+Однако, база данных штаб-квартиры защищена гораздо более сложной системой.
 
 空「並大抵のことでは侵入どころか、逆ハックされてしまうことでしょう」%K%P
 Not only is it hard to break into, it will hack back at you.
@@ -36,7 +36,7 @@ CN PLACEHOLDER
 沙羅「でも、ケーブルが断線してるわけじゃないんだよね？」%K%P
 But it's not like the cable connecting us to the group is cut off, right?
 CN PLACEHOLDER
-Но непохоже, что оборваны все кабели, соединяющие строение с плавучим островом, так?
+Но, не похоже, что оборваны все кабели, соединяющие строение с плавучим островом, так?
 
 空「はい」%K%P
 Correct.
@@ -56,12 +56,12 @@ CN PLACEHOLDER
 沙羅「そっか、だとしたら……」%K%P
 In that case...
 CN PLACEHOLDER
-Ясно... в таком случае...
+Ясно...в таком случае...
 
 沙羅「って、あれ？　少年？　いつの間に入ってきたの？」%K%P
 Huh? Hey, Kid. When did you get here?
 CN PLACEHOLDER
-Э-э? Малой, когда ты успел зайти?
+Эээ? Кид, когда ты успел зайти?
 
 少年「ずっと、さっきからいたよ」%K%P
 I've been here for a bit.
@@ -81,7 +81,7 @@ CN PLACEHOLDER
 少年「うん……つぐみの言ってた脱出方法なんだけど……」%K%P
 Yeah... That escape route that Tsugumi was talking about...
 CN PLACEHOLDER
-Да... тот путь к спасению, что упоминала Цугуми...
+Да...тот путь к спасению, что упоминала Цугуми...
 
 少年「結局、つぐみの思い違いだったんだって？」%K%P
 So she turned out to be wrong?
@@ -106,7 +106,7 @@ CN PLACEHOLDER
 空「朝に申し上げたように、私もレミも、最後まで全力でみなさんの為に尽くしますから」%K%P
 Like I said this morning, LeMMIH and I are doing all we can to get you out of here.
 CN PLACEHOLDER
-Как я сказала этим утром, мы с LeMMIH делаем всё возможное, чтобы вызволить вас отсюда.
+Как я сказала этим утром, мы с ЛеММИХ делаем всё возможное чтобы вызволить Вас отсюда.
 
 少年「うん、わかってる、ごめん……」%K%P
 Yeah. I know. I'm sorry...
@@ -116,42 +116,42 @@ CN PLACEHOLDER
 沙羅「ところで少年は、何の用でここに？」%K%P
 So what are you doing here, Kid?
 CN PLACEHOLDER
-Кстати, Малой, а что ты тут делаешь?
+Кстати, Кид, а что ты тут делаешь?
 
 少年「あ、そうだ、薬もらいに来たんだよ。ビタミン剤みたいなので構わないんだけど」%K%P
 Oh yeah. I came to get some medicine. Or some vitamin supplements.
 CN PLACEHOLDER
-Ах, да. Я пришёл за таблетками. Хотя, наверное, стоит витаминов принять.
+Ах, да. Я пришёл за таблетками...или наверно стоит витаминов принять...
 
 沙羅「あれ？　少年も具合悪いとか？」%K%P
 Huh? Are you feeling bad too?
 CN PLACEHOLDER
-А? Тебе тоже нездоровится?
+Эээ? Тебе тоже нездоровится?
 
 少年「ん？　ひょっとして、沙羅も？」%K%P
 Huh? You too, Sara?
 CN PLACEHOLDER
-Не понял... и тебе тоже, Сара?
+Не понял...и тебе тоже, Сара?
 
 空「みなさん、かなりお疲れのようですね……無理もないことですけど」%K%P
 Everyone seems fairly fatigued... Don't overdo it.
 CN PLACEHOLDER
-Кажется, что все здорово устали... смотри не переборщи.
+Кажется, что все здорово устали...смотри не переборщи.
 
 沙羅「なっきゅ先輩も、さっき来たんだよ」%K%P
 Nakkyu-senpai was just here as well.
 CN PLACEHOLDER
-Няку-сэмпай только что была здесь.
+Няку только что была здесь.
 
 沙羅「やっぱストレスかなぁ？　それとも睡眠不足？　食事はタツタサンドだけだし……」%K%P
 I guess it's stress. Or maybe lack of sleep. And all we've been eating is tuna sandwiches...
 CN PLACEHOLDER
-Видимо, это из-за стресса. Или, может, от недосыпа. Да и ели мы одним сэндвичи с тунцом...
+Видимо, это из-за стресса. Или может от недосыпа. Да и питались мы не весть чем...
 
 沙羅「あ〜、いやだいやだ……どれもお肌のタイテキね」%K%P
 And all of those things... are bad for my skin.
 CN PLACEHOLDER
-А всё это вместе... вредит моей коже.
+А всё это вместе...вредит моей коже.
 
 そう愚痴りながら沙羅は、薬品棚から錠剤の詰まった瓶を取ってきた。%K%P
 As she complained, Sara took a jar filled with tablets from the medicine shelf.
@@ -166,7 +166,7 @@ CN PLACEHOLDER
 少年「そっか、優もなんだ……」%K%P
 I guess You took the same ones...
 CN PLACEHOLDER
-Значит, Ю приняла те же самые...
+Значит...Ю приняла те же самые...
 
 沙羅から渡された錠剤を、そのまま飲み込む。%K%P
 I gulped down the tablets that Sara gave me.
@@ -186,7 +186,7 @@ CN PLACEHOLDER
 少年「え？　なんで？　着替え？」%K%P
 Huh? Why? She's going to change?
 CN PLACEHOLDER
-А? Зачем? Решила переодеться?
+Эээ? Зачем? Решила переодеться?
 
 沙羅「うん。よくわかんないけどね」%K%P
 Yeah. I don't know the details, though.
@@ -196,7 +196,7 @@ CN PLACEHOLDER
 少年「ふーん」%K%P
 Hmmm.
 CN PLACEHOLDER
-Хм-м-м...
+Хммм...
 
 そこへ、つぐみが入室してきた。%K%P
 At that point, Tsugumi came into the room.
@@ -216,22 +216,22 @@ CN PLACEHOLDER
 つぐみ「は？」%K%P
 Huh?
 CN PLACEHOLDER
-А?..
+А...?
 
 少年「妙なんだけど、今日になって、みんな体調崩し始めちゃって……」%K%P
 It's weird, but everyone seems to be feeling ill today...
 CN PLACEHOLDER
-Странно, но кажется, сегодня все плохо себя чувствуют...
+Странно, но, кажется, сегодня все плохо себя чувствуют...
 
 少年「だから、つぐみもなのかなぁって、そう思ったんだ」%K%P
 So I thought that you might be feeling bad too.
 CN PLACEHOLDER
-Вот я и подумал, что и ты, наверное, тоже.
+Вот я и подумал, что и ты наверно тоже.
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「私は違うわ。私はただ……」%K%P
 Not me, I just...
@@ -241,12 +241,12 @@ CN PLACEHOLDER
 つぐみ「様子を見に来ただけ」%K%P
 I came to check things out.
 CN PLACEHOLDER
-Пришла проверить, как вы тут.
+Пришла проверить, как Вы тут.
 
 少年「？？？」%K%P
 ?
 CN PLACEHOLDER
-???
+...странно...
 
 つぐみ「妙と言えば、彼、頭オカシくなったんじゃないの？」%K%P
 Speaking of weird, I think that guy's lost his mind.
@@ -256,12 +256,12 @@ CN PLACEHOLDER
 少年「彼……？」%K%P
 That guy...?
 CN PLACEHOLDER
-У кого?..
+У кого...?
 
 沙羅「もしかして武のこと？」%K%P
 Do you mean Takeshi?
 CN PLACEHOLDER
-Ты о Такэси?
+Ты о Такеши?
 
 頷くつぐみ。%K%P
 Tsugumi nodded.
@@ -286,17 +286,17 @@ CN PLACEHOLDER
 （へ？　機嫌は悪そうだったけど……そんなだったかなぁ？）%K%P
 (Huh? He seemed in a bad mood... but was he that out of it?)
 CN PLACEHOLDER
-(Что? Мне казалось, что он в плохом настроении... но неужели настолько?)
+(Что? Мне казалось, что он в плохом настроении...но неужели настолько?)
 
 つぐみ「元からそうだったけど、頭をヤラレちゃったのかもね」%K%P
 He was kind of like that from the start, but I think maybe he's lost it.
 CN PLACEHOLDER
-Он был таким с самого начала, но похоже, сейчас он окончательно сорвался.
+Он был таким с самого начала, но, похоже, сейчас он окончательно сорвался.
 
 沙羅「ん？　鼻息が荒い？」%K%P
 Huh? What do you mean he was acting strange?
 CN PLACEHOLDER
-Э-э? В каком смысле „вёл себя крайне странно“?
+Эээ? В каком смысле 'вёл себя крайне странно'?
 
 沙羅「まさかとは思うけど……」%K%P
 I don't think it could be this, but...
@@ -306,17 +306,17 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 沙羅「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「倉成さんでしたら……ちょっと待ってくださいね……えーと……」%K%P
 Let me see... Right now... Kuranari-san... is... Um...
 CN PLACEHOLDER
-Секундочку... сейчас... Куранари-сан... э-э... м-м...
+Секундочку...сейчас...Куранари-сан...ээ... мм...
 
 空「今、ちょうど更衣室の上の通路に……」%K%P
 Now he is just in the corridor above the changing room...
@@ -326,7 +326,7 @@ CN PLACEHOLDER
 沙羅「ね、ねぇっ！　ちょっと様子見に行った方がよくない？」%K%P
 H-Hey! Maybe we should go take a look?
 CN PLACEHOLDER
-Э-эй! Надо скорее бежать туда!
+Э-эй! Надо скорей бежать туда!
 
 少年「そ……そうだね！」%K%P
 I think you're right!
@@ -336,7 +336,7 @@ CN PLACEHOLDER
 ぼくと沙羅は、慌てて部屋を飛び出した。%K%P
 Sara and I hurried out of the room.
 CN PLACEHOLDER
-Мы с Сарой вылетели из комнаты на реактивной скорости.
+Сара и я вылетели из комнаты на реактивной скорости.
 
 空「あ、みなさん！　更衣室の中にはっ」%K%P
 Oh, everyone! He's in the changing room.
@@ -361,17 +361,17 @@ CN PLACEHOLDER
 優「いっ、いやあ〜〜〜〜〜〜ん！！！　何よ、これぇ〜〜〜っ！！」%K%P
 Aaaah... Noooo...! What is this!?
 CN PLACEHOLDER
-А-а-а-а-а-ах... неееее... Что за чёрт?!
+Аааааах...нееееет...! Что за чёрт!?
 
 ま、まさか……！　嘘だろ！？%K%P
 I didn't believe it...! It couldn't be!
 CN PLACEHOLDER
-Невероятно... Не может быть!
+Невероятно...! Не может быть!
 
 少年「くそっ！　武のやつ！」%K%P
 Damn! That Takeshi!
 CN PLACEHOLDER
-Такэси, будь ты проклят!
+Такеши, будь ты проклят!
 
 扉は閉まっている。内側からロックされているのかもしれない。%K%P
 The door was shut. We thought it might be locked from the inside.
@@ -386,7 +386,7 @@ CN PLACEHOLDER
 だが、それを沙羅が手で制した。%K%P
 But Sara stopped me.
 CN PLACEHOLDER
-Но Сара остановила меня.
+Но, Сара остановила меня.
 
 扉の脇にあるテンキーを操作する沙羅。%K%P
 Sara went to work on the keypad next to the door.
@@ -396,7 +396,7 @@ CN PLACEHOLDER
 緊急用の解除コードか何かだったのだろうか……扉は何の抵抗もなく開け放たれた。%K%P
 It seemed that she had a code for emergencies like that. The door opened up.
 CN PLACEHOLDER
-Видимо, она заучила код на крайний случай вроде этого. Дверь открылась.
+Видимо, она заучила код на крайний случай, вроде этого. Дверь открылась.
 
 すかさずぼくは、部屋の中に躍り込んだ。%K%P
 I immediately burst into the room.
@@ -406,17 +406,17 @@ CN PLACEHOLDER
 少年「おい、こらぁっ！！　武っ！！！」%K%P
 Hey! Takeshi!
 CN PLACEHOLDER
-Эй! Такэси!
+Эй! Такеши!
 
 優「ん？」%K%P
 Huh?
 CN PLACEHOLDER
-А?
+〜〜〜?
 
 少年「え？」%K%P
 Eh?
 CN PLACEHOLDER
-Э-э?
+〜〜?
 
 部屋の中には、優ひとり……。%K%P
 You was alone in the room...
@@ -436,12 +436,12 @@ CN PLACEHOLDER
 優「いっ……！」%K%P
 Wha...!
 CN PLACEHOLDER
-Чт...
+〜〜〜〜...!
 
 優「いきなし入ってくんなぁ〜〜っ！　このアホンダラぁ〜〜〜〜っっ！！！！」%K%P
 Who do you think you are, bursting in here!? Idiot!
 CN PLACEHOLDER
-Да как ты... посмел сюда вломиться?! Дурак!
+Да как ты...посмел сюда вломиться?!!
 
 ……べちん！%K%P
 ...Whack!
@@ -451,7 +451,7 @@ CN PLACEHOLDER
 優の投げた雑誌が、顔面にぶち当たる。%K%P
 The magazine You had thrown at me hit me full on in the face.
 CN PLACEHOLDER
-Ю бросила в меня журнал... Он со всей силы попал мне по лицу.
+Ю бросила в меня журналом...он со всей силы попал мне по лицу.
 
 鼻に、突き抜けるような激痛が走った。%K%P
 I felt a piercing pain in my nose.
@@ -461,17 +461,17 @@ CN PLACEHOLDER
 沙羅「せ、先輩……無事ですか？」%K%P
 Senpai... You're alright?
 CN PLACEHOLDER
-Сэмпай... С тобой всё в порядке?
+Няку...с тобой всё в порядке?
 
 優「ほへ？　なんのこと？」%K%P
 Huh? What're you talking about?
 CN PLACEHOLDER
-А? Ты о чём?
+Эээ? Ты о чём?
 
 沙羅「だ、だって……武が……」%K%P
 I... I mean... Takeshi...
 CN PLACEHOLDER
-Т... то есть... Такэси...
+Т...то есть...Такеши...
 
 優「倉成？？　倉成がどうしたって？」%K%P
 Kuranari? What about him?
@@ -481,7 +481,7 @@ CN PLACEHOLDER
 部屋のどこにも武の姿はない。%K%P
 Takeshi wasn't anywhere in the room.
 CN PLACEHOLDER
-Такэси нет в этой комнате.
+Такеши нет в этой комнате.
 
 っていうか、ここには非常口なんてなかった。%K%P
 Come to mention it, there were no emergency exits in the room at all.
@@ -491,12 +491,12 @@ CN PLACEHOLDER
 避難用通路から武が侵入することなんて、できるわけがないのだ。%K%P
 There was no way for him to enter in from an emergency corridor.
 CN PLACEHOLDER
-Значит, при всём желании он не мог выйти сюда из аварийного коридора.
+Значит при всём желании он не мог выйти сюда из аварийного коридора.
 
 少年「さっき、悲鳴あげたじゃないか……なんなんだよ、あれは？」%K%P
 What about that scream just a minute ago... What was that?
 CN PLACEHOLDER
-Тогда... почему минуту назад ты так жутко кричала?
+Тогда...почему минуту назад ты так жутко кричала?
 
 鼻をさすりながら、ぼく。%K%P
 I rubbed my nose as I said that.
@@ -516,7 +516,7 @@ CN PLACEHOLDER
 優「ほらぁ見てよ、あのコーヒーの汚れ……シミついちゃったの……」%K%P
 Look at this... It's got a coffee stain on it... Do you believe that...?
 CN PLACEHOLDER
-Взгляните... какое жуткое пятно от кофе... видите?..
+Взгляните...какое жуткое пятно от кофе... видите...?
 
 確かに、ちょっぴりだけ、黒ずんだシミができている。%K%P
 There did seem to be a little black stain.
@@ -526,12 +526,12 @@ CN PLACEHOLDER
 沙羅「そ、それだけ……？」%K%P
 Th-That's all...?
 CN PLACEHOLDER
-И-и всё?..
+И-и всё...?
 
 少年「それだけで、あの悲鳴……？」%K%P
 You screamed because of that...?
 CN PLACEHOLDER
-Ты кричала из-за ЭТОГО?..
+Ты кричала из-за ЭТОГО...?
 
 優「うん、そだよ」%K%P
 Well, yeah.
@@ -546,7 +546,7 @@ CN PLACEHOLDER
 少年「ひ、人騒がせにも程があるよ……それに着替え終わってるなら、何も物を投げなくても……」%K%P
 D-Don't just freak out like that... And if you're done changing, why'd you throw that at me...?
 CN PLACEHOLDER
-Н-не стоило так паниковать... И если ты уже переоделась, зачем было бросаться в меня?..
+Н-не стоило так сходить с ума...но, если ты переоделась, тогда зачем было бросаться в меня...?
 
 優「何言ってんの！　女の子が着替えてるかもしれない部屋に、無断で入る方が悪いんだよ！」%K%P
 What're you talking about!? You're the one who broke into a room where a girl might be changing!
@@ -561,12 +561,12 @@ CN PLACEHOLDER
 表紙には、色とりどりの照明でライディングされたネジの写真が掲載されている。%K%P
 On the cover of the magazine was a glossy picture of a screw and screwdriver.
 CN PLACEHOLDER
-На обложке красуется блестящая эмблема с гаечным ключом и отвёрткой.
+На обложке красуется блестящая эмблема с колесом, гаичным ключом и отвёрткой.
 
 それは『月刊ネジ』という雑誌だった。%K%P
 It was a copy of “Monthly Toolbox” magazine.
 CN PLACEHOLDER
-Экземпляр журнала «Инструменты на каждый месяц».
+Экземпляр "За Рулём: Экстремальный Тюнинг"?
 
 （なんでこんなものが、女子更衣室に？？）%K%P
 (What is something like this doing in the girl's changing room?)
@@ -576,52 +576,52 @@ CN PLACEHOLDER
 ポタリ、と赤い液体が床に垂れた。%K%P
 Something red dripped on the floor.
 CN PLACEHOLDER
-Что-то тёмно-красного цвета капает на пол.
+Что-то, тёмно-красного цвета, капает на пол.
 
 ……鼻血だった。%K%P
 ...I had a nosebleed.
 CN PLACEHOLDER
-...Из носа пошла кровь.
+...Чёрт, да у меня из носа кровь!
 
 優「や、やだぁ！　何、鼻血なんて出してんのよぉ？」%K%P
 Yuck! Why'd you have to go and get a nosebleed?
 CN PLACEHOLDER
-Ой! А чего у тебя кровь идёт из носа?
+Ой! И как ты только умудрился схлопотать по носу?!
 
 優「きみって、正真正銘の真性純情少年くんなんだね」%K%P
 Leave it to someone named 'Kid' to get a nosebleed. Talk about ironic.
 CN PLACEHOLDER
-Ну действительно, милый невинный „мальчик“.
+Когда кидаешь в Кида, не подавай виду...? Грустно.
 
 少年「ち、違うよっ！　これは、この雑誌がっ」%K%P
 It... it's because you threw this magazine at me.
 CN PLACEHOLDER
-Да... Да дело не в этом, ты же кинула в меня журналом!
+Ты...ты бросила в меня журналом, а теперь ещё издеваешься?!
 
 沙羅から手渡されたティッシュを鼻に詰めながら、ぼくは弁解する。%K%P
 I plugged my nose with tissues handed to me by Sara as I fumbled for an explanation.
 CN PLACEHOLDER
-Сказав это, я заткнул нос салфетками, что передала мне Сара.
+С этими словами, я заткнул нос салфетками, что передала мне Сара.
 
 優「まさか……そのネジを見て……？」%K%P
 Don't tell me... You looked at that magazine and...?
 CN PLACEHOLDER
-Да ладно, ты посмотрел на инструменты с обложки и...
+Не может быть...ты взглянул на журнал и...?
 
 優「い、いやぁ〜〜ん！　そんなのイヤすぎる〜！」%K%P
 Yuck! You're gross!
 CN PLACEHOLDER
-Фу! Отвратительно!
+Н...не〜〜〜ет! Кид...большо〜〜〜ой ма〜〜〜альчик!
 
 少年「違うっつーの！！」%K%P
 That's not it!
 CN PLACEHOLDER
-Да иди ты!
+Да иди ты---!
 
 沙羅「はぁ〜あ……それにしても心配して損したぁ……」%K%P
 *Sigh*... I guess we didn't have anything to worry about to start with...
 CN PLACEHOLDER
-*вздох*%NПолагаю, нам с самого начала было не о чем волноваться...
+*Вздох*...полагаю, нам с самого начала было не о чем волноваться...
 
 沙羅「まあ、いいや」%K%P
 Oh well...
@@ -656,17 +656,17 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 沙羅の目……何か決意のようなものが、みなぎっている……。%K%P
 I thought... that I detected a gleam of determination in Sara's eyes.
 CN PLACEHOLDER
-Мне показалось... Глаза Сары переполнены решимостью.
+Мне показалось...что я заметил проблеск хитрости в глазах Сары.
 
 沙羅「んじゃ、あとよろしく〜」%K%P
 So I'll leave the rest to you.
 CN PLACEHOLDER
-Ну-с... пока-пока...
+Ну-с...пока-пока...
 
 手をヒラヒラと振りながら、沙羅は出て行く。%K%P
 Sara waved to me as she left.
@@ -676,7 +676,7 @@ CN PLACEHOLDER
 が、すぐにドアからヒョコッと顔を突き出した。%K%P
 But an instant later, she had poked her face back in the room.
 CN PLACEHOLDER
-Но в следующее мгновение она сунулась лицом в комнату.
+Но, в следующее мгновение она сунулась лицом в комнату.
 
 沙羅「あ、そうそう、おふたりとも」%K%P
 Oh, you two...
@@ -696,7 +696,7 @@ CN PLACEHOLDER
 沙羅「ご・ゆっ・く・りぃ〜〜♪」%K%P
 Take your own sweet time〜
 CN PLACEHOLDER
-Уда-ачи.
+Уда〜〜〜ачи.
 
 今度こそ、沙羅は行ってしまった。%K%P
 That time, she didn't come back.

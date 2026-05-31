@@ -11,17 +11,17 @@ CN PLACEHOLDER
 おかしいな……もしかしたら、この階にはいないのかもしれない。%K%P
 It was strange... I thought that maybe she wasn't on that floor.
 CN PLACEHOLDER
-Странно... У меня такое чувство, что её нет на этом этаже.
+Странно...у меня такое чувство, что её нет на этом этаже.
 
 するとその時、耳の音声変換機に、空の声が届いた。%K%P
 Just then, Sora's voice came to me from the voice converter.
 CN PLACEHOLDER
-И тут я услышал Сору через модификаторы голоса.
+И тут, я услышал Сору через модификаторы голоса.
 
 空「少年さん、私です。空です」%K%P
 Kid-san, it's me, Sora.
 CN PLACEHOLDER
-Малой-сан. Это я, Сора.
+Кид-сан. Это я, Сора.
 
 空「田中さんの居場所がわかりました。もちろん、無事でいらっしゃいます」%K%P
 I know where Tanaka-san is. She is fine, of course.
@@ -36,12 +36,12 @@ CN PLACEHOLDER
 空「ツヴァイトシュトックの、警備室です」%K%P
 Zweiter Stock. In the security office.
 CN PLACEHOLDER
-Цвайте Шток. В Офисе охраны.
+Цвайте шток. В Офисе Охраны.
 
 少年「警備室？　なんでまた、そんなところに？」%K%P
 Security office? Why is she there again?
 CN PLACEHOLDER
-Офис охраны? Что она там делает?
+Офис Охраны? Что она там делает?
 
 空「そこまではわかりません。田中さんの方からこちらに連絡があったのです」%K%P
 I don't know. Tanaka-san contacted me about her whereabouts.
@@ -86,7 +86,7 @@ CN PLACEHOLDER
 空「はい、その……ちょっと様子が変なのです」%K%P
 Yes... Something is strange there.
 CN PLACEHOLDER
-Да... там происходит что-то странное.
+Да...там происходит что-то странное.
 
 少年「変？」%K%P
 Strange?
@@ -96,12 +96,12 @@ CN PLACEHOLDER
 空「断定はできないのですが……私には、そう感じられました」%K%P
 I can't say for sure... but I sense something.
 CN PLACEHOLDER
-Точно сказать не могу... но, чувствую неладное.
+Точно сказать не могу...но, чувствую неладное.
 
 空「ですから、誰か様子を見に向かわれた方がいいと思うのです」%K%P
 So I think that someone should go investigate.
 CN PLACEHOLDER
-Поэтому кто-то должен выяснить, в чём дело.
+Поэтому, кто-то должен выяснить, в чём дело.
 
 少年「ぼくが行くよりも、空の方が適任だと思うけど？」%K%P
 Wouldn't it be better if you went instead of me?
@@ -116,17 +116,17 @@ CN PLACEHOLDER
 空「申し訳ありません。あいにくと、私はこれから制御室に行かなければならないのです」%K%P
 I'm sorry. Unfortunately, now I must go to the control room.
 CN PLACEHOLDER
-Прости. К сожалению, сейчас мне пора в Центр управления.
+Прости. К сожалению, сейчас мне пора в Центр Управления.
 
 少年「制御室？　他にも何かあったの？」%K%P
 Control room? Is something else wrong?
 CN PLACEHOLDER
-Центр управления? Что-то случилось?
+Центр Управления? Что-то случилось?
 
 空「それは……いえ、ちょっとした、レミのメンテのためです……」%K%P
 Uh... No... I have to do a little maintenance on LeMMIH...
 CN PLACEHOLDER
-Э-э... нет... просто необходимо выполнить небольшое обслуживание LeMMIH...
+Эээ...нет...просто необходимо выполнить небольшое обслуживание ЛеММИХ...
 
 少年「ふーん」%K%P
 I see.
@@ -136,7 +136,7 @@ CN PLACEHOLDER
 空「大変お手数なのですが……お願いできますか？」%K%P
 I'm sorry... but do you think you can manage it for me?
 CN PLACEHOLDER
-Мне жаль... ты не мог бы сделать мне одолжение?
+Мне жаль...ты не мог бы сделать мне одолжение?
 
 少年「いいよ。どうせ、何もやることなんてないし」%K%P
 Sure. I don't have anything better to do.
@@ -151,7 +151,7 @@ CN PLACEHOLDER
 少年「優のことは了解したよ。警備室だったね？」%K%P
 I'm off to check on You. The security office, right?
 CN PLACEHOLDER
-Пойду проведать Ю. Офис охраны, так?
+Пойду проведать Ю. Офис Охраны, так?
 
 空「はい。では、よろしくお願いします」%K%P
 Yes. Thank you.
@@ -166,7 +166,7 @@ CN PLACEHOLDER
 警備室の前――ぼくは扉の脇にあるインターホンで、室内の優に呼びかけた。%K%P
 I called to You via the intercom on the side of the security office door.
 CN PLACEHOLDER
-Я вызвал Ю по интеркому на внешней стенке двери Офиса охраны.
+Я вызвал Ю по интеркому на внешней стенке двери Офиса Охраны.
 
 少年「優？　ぼくだよ。中に入ってもいい？」%K%P
 You? It's me. Can I come in?
@@ -176,7 +176,7 @@ CN PLACEHOLDER
 優「え！？　少年……？」%K%P
 Huh!? Kid...?
 CN PLACEHOLDER
-Что?! Малой?..
+Что!? Кид...?
 
 ややしばらくして、扉が中から開かれた。%K%P
 After a bit, the door opened.
@@ -186,7 +186,7 @@ CN PLACEHOLDER
 優「どうしたの？　なんで、ここに？」%K%P
 What's up? What are you doing here?
 CN PLACEHOLDER
-Что такое? Что ты здесь делаешь?
+Привет... Что ты здесь делаешь?
 
 驚きを隠せない様子の優……。%K%P
 You was unable to hide her surprise...
@@ -211,12 +211,12 @@ CN PLACEHOLDER
 少年「う、うん。えーっと……えーと」%K%P
 Y-Yeah. Uh... She... Um...
 CN PLACEHOLDER
-Д-да. Э-э... она... ну...
+Д-да. Ээ...она...ну...
 
 少年「…………様子が変だから、ちょっと見て来て欲しい、って……」%K%P
 She said... that something was strange and that she wanted me to take a look...
 CN PLACEHOLDER
-Она сказала... что здесь происходит нечто странное и попросила меня взглянуть...
+Она сказала...что здесь происходит нечто странное и попросила меня взглянуть...
 
 とっさには良い言い回しが思い浮かばず、ぼくはそのままの形で伝えてしまう。%K%P
 I couldn't think of a better way to put it and blurted out the truth.
@@ -226,12 +226,12 @@ CN PLACEHOLDER
 優「………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「ひょっとして、余計なお世話だった？」%K%P
 Uh, is this a bad time?
 CN PLACEHOLDER
-Э-э, я, должно быть, не вовремя?
+Ээ, я должно быть не вовремя?
 
 すると優は、観念したかのように肩を落とし、ため息をついた。%K%P
 You slumped her shoulders as if defeated and heaved out a sigh.
@@ -251,7 +251,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「ほら、そんなとこに突っ立ってないで、入りなよ」%K%P
 Well, quit standing there. Come on in.
@@ -261,7 +261,7 @@ CN PLACEHOLDER
 少年「あ、うん……」%K%P
 Uh, alright...
 CN PLACEHOLDER
-Э-э, хорошо...
+Ээ, хорошо...
 
 優「きみも、コーヒー飲む？」%K%P
 You want some coffee?
@@ -286,7 +286,7 @@ CN PLACEHOLDER
 優に椅子を勧められ、腰かける。%K%P
 You offered me a chair, and I sat down.
 CN PLACEHOLDER
-Ю поставила мне кресло, в которое я и сел.
+Ю поставила мне стул, на который я и сел.
 
 彼女はコーヒーを注ぎに、サイフォンの方へ向かった。%K%P
 She turned to the coffee maker to pour coffee.
@@ -301,7 +301,7 @@ CN PLACEHOLDER
 ぼくは背もたれに身体を預けながら、優に尋ねた。%K%P
 I asked You that bluntly as I leaned back in the chair.
 CN PLACEHOLDER
-Садясь в кресло, я прямо спросил Ю – что уж ходить вокруг да около.
+Садясь в стул, я прямо спросил Ю - что уж ходить вокруг да около.
 
 優「調べもの、だよ」%K%P
 I'm looking into something.
@@ -361,7 +361,7 @@ CN PLACEHOLDER
 白い容器、白い湯気、中に注がれた液体だけが黒い。%K%P
 A white cup. White steam. Only the liquid inside was black.
 CN PLACEHOLDER
-Белая кружка. Белый пар. Только жидкость внутри – чёрная.
+Белая кружка. Белый пар. Только жидкость внутри - чёрная.
 
 カップの表面には、ＬｅＭＵのロゴがプリントされていた。%K%P
 LeMU's logo was printed on the cup.
@@ -371,7 +371,7 @@ CN PLACEHOLDER
 優「さて……と。どこから話したらいいのかな……」%K%P
 Well... Where should I start...?
 CN PLACEHOLDER
-Так... С чего же начать?..
+Так...с чего же начать...?
 
 優はぼくの隣に腰を下ろすと、コーヒーを一口だけ飲み……%K%P
 You sat down next to me and took a sip of her coffee.
@@ -386,12 +386,12 @@ CN PLACEHOLDER
 優「私、前に言ったことあったよね？　私がＬｅＭＵのバイトを始めたきっかけ……」%K%P
 I told you before, right? About why I got this job at LeMU...
 CN PLACEHOLDER
-Помнишь, я тебе уже рассказывала? О том, почему я пошла работать в LeMU...
+Помнишь, я тебе раньше рассказывала? О том, почему я пошла работать в LeMU...
 
 優「行方不明になったお父さんの、手がかりを探してる、って」%K%P
 I'm looking for clues about my father, who disappeared.
 CN PLACEHOLDER
-Я ищу зацепки, по которым могла бы узнать, где мой пропавший отец.
+Я ищу улики о своём пропавшем отце.
 
 頷く、ぼく。%K%P
 I nodded.
@@ -406,12 +406,12 @@ CN PLACEHOLDER
 少年「そのお父さんが最後に目撃されたのが、このＬｅＭＵの中だったんだよね？」%K%P
 You said that the last place he was seen was in LeMU, right?
 CN PLACEHOLDER
-Ты говорила, что последнее место, где его видели – LeMU, так?
+Ты говорила, что последнее место, где его видели - LeMU, так?
 
 少年「あっ！　もしかして、優の調べものって……」%K%P
 Oh. Are you investigating that...?
 CN PLACEHOLDER
-Господи. Так вот что ты расследуешь?..
+Господи. Так вот что ты расследуешь...?
 
 優「そう……」%K%P
 Yes...
@@ -431,7 +431,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「今から１７年前……」%K%P
 It was seventeen years ago...
@@ -466,7 +466,7 @@ CN PLACEHOLDER
 優「事故の原因、具体的な被害状況、その後の経緯……どれも曖昧な報道のされ方で……」%K%P
 The cause of the accident, specific damage, what happened afterward... All the coverage was vague...
 CN PLACEHOLDER
-Причина аварии, характер повреждений, что произошло позже... даже сведения о масштабе аварии донельзя расплывчатые...
+Причина аварии, характер повреждений, что произошло позже...даже сведения о масштабе аварии донельзя расплывчатые...
 
 優「ようするにマスコミも、詳しいことは知らなかったんじゃないのかな？」%K%P
 I figure that the media didn't really know the details about what happened either.
@@ -481,7 +481,7 @@ CN PLACEHOLDER
 少年「ふーん、なるほどね……」%K%P
 Hmmm. That's interesting...
 CN PLACEHOLDER
-Хм-м-м. Это интересно...
+Хммм. Это интересно...
 
 優「１７年前の、謎に包まれた事故」%K%P
 An accident seventeen years ago, shrouded in mystery.
@@ -501,12 +501,12 @@ CN PLACEHOLDER
 優「これらのことから推測できることは……」%K%P
 I can guess some of what happened from what we already know...
 CN PLACEHOLDER
-Я лишь могу предполагать о случившемся из того, что нам уже известно...
+Я лишь могу предполагать, из того что нам уже известно, о случившемся...
 
 少年「その事故と、優のお父さんの失踪には、何か関係がある……？」%K%P
 You think that the accident had something to do with the disappearance of your father...?
 CN PLACEHOLDER
-Думаешь, авария как-то связана с исчезновением твоего отца?..
+Думаешь, авария как-то связана с исчезновением твоего отца...?
 
 優「そういうこと」%K%P
 That's right.
@@ -516,17 +516,17 @@ CN PLACEHOLDER
 優「ここには……レミには、お父さんの痕跡が残ってるはず……そう思って、私はやって来た」%K%P
 I thought that here... That in LeMMIH, there would be some trace... That's why I came.
 CN PLACEHOLDER
-Я думаю, что здесь... в LeMMIH должен быть какой-нибудь след... потому я здесь.
+Я думаю, что здесь...в ЛеММИХ должен быть какой-нибудь след...потому я здесь.
 
 優「でも実際に働きだしてみると、そんなことを調べる余裕なんてなくて……」%K%P
 But since I started working, I haven't had any time to look into it...
 CN PLACEHOLDER
-Но с тех пор, как я стала работать, у меня не было времени взяться за это...
+Но, с тех пор, как я стала работать, у меня не было времени взяться за это...
 
 優「それどころか、レミのデータベースには、近づくことすらできなかったの」%K%P
 I couldn't even get close to LeMMIH's database.
 CN PLACEHOLDER
-Я не могла даже на шаг приблизиться к базе данных LeMMIH.
+Я не могла даже на шаг приблизиться к базе данных ЛеММИХ.
 
 優「ま、当たり前なんだけどね。私の考えが甘かったってこと」%K%P
 I guess it makes sense. I was pretty naïve.
@@ -536,7 +536,7 @@ CN PLACEHOLDER
 背もたれを軋ませ、椅子に寄りかかる優。%K%P
 The chair squeaked as You slumped back in it.
 CN PLACEHOLDER
-Кресло скрипнуло от того, что Ю откинулась в него.
+Стул скрипнул от того, что Ю откинулась в него.
 
 じっと、天井を見つめる。%K%P
 She just stared at the ceiling.
@@ -546,7 +546,7 @@ CN PLACEHOLDER
 優「でも……でもね？　ついに、チャンスが訪れたの」%K%P
 But... But... you know what? Opportunity knocked.
 CN PLACEHOLDER
-Но... но... знаешь что? Удача постучалась в дверь.
+Но...но...знаешь что? Удача постучалась в дверь.
 
 少年「チャンス……」%K%P
 Opportunity...
@@ -556,7 +556,7 @@ CN PLACEHOLDER
 少年「まさか……この事故のこと？」%K%P
 You... You don't mean this accident?
 CN PLACEHOLDER
-Ты... ты же не об этой аварии?
+Ты...ты же не об этой аварии?
 
 優「そうよ」%K%P
 Yup.
@@ -571,17 +571,17 @@ CN PLACEHOLDER
 優「私は、こうして今、レミに触れてる」%K%P
 Now I have access to LeMMIH.
 CN PLACEHOLDER
-Сейчас у меня есть доступ к LeMMIH.
+Сейчас у меня есть доступ к ЛеММИХ.
 
 優「事故が起きたおかげで、私は晴れて、目的に近づけるようになったの」%K%P
 Thanks to the accident, I've been able to get a step closer to my goal.
 CN PLACEHOLDER
-Благодаря аварии я стала на шаг ближе к своей цели.
+Благодаря аварии, я стала на шаг ближе к своей цели.
 
 少年「………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「まあ、そのおかげで、こうして命の危険に晒されてるわけなんだけどね？」%K%P
 Well, I suppose it has also put my life in danger, but...
@@ -596,7 +596,7 @@ CN PLACEHOLDER
 少年「質問を繰り返しちゃうけど、それって内緒にするようなことなの？」%K%P
 I'll ask you one more time, but did you have to keep it all secret?
 CN PLACEHOLDER
-Ладно, спрошу ещё раз – стоит ли хранить всё это в тайне?
+Ладно, спрошу ещё раз - стоит ли хранить всё это в тайне?
 
 優「そりゃね」%K%P
 That's a toughie.
@@ -631,12 +631,12 @@ CN PLACEHOLDER
 優「けど、隠しおおせるわけなかったんだよね」%K%P
 But I suppose there was no way I could have kept it hidden.
 CN PLACEHOLDER
-Но полагаю, держать это в тайне всё равно бы не вышло.
+Но, полагаю, держать это в тайне всё равно бы не вышло.
 
 優「なんたって、空にはレミの動きが手に取るようにわかるわけだから」%K%P
 Sora knows everything that goes on relating to LeMMIH.
 CN PLACEHOLDER
-Сора знает обо всём, что относился к LeMMIH.
+Сора знает обо всём, что относился к ЛеММИХ.
 
 少年「正直に事情を話せば、わかってくれると思うけど」%K%P
 I think she would understand your situation if you explained it to her.
@@ -646,7 +646,7 @@ CN PLACEHOLDER
 優「うーん……どうかなぁ」%K%P
 Hmmm... I wonder about that.
 CN PLACEHOLDER
-Хм-м-м... Да я вот думала об этом.
+Хммм...Да я вот думала об этом.
 
 唸りながら、カップを口に持っていく優。%K%P
 You growled as she put the cup to her lips.
@@ -671,7 +671,7 @@ CN PLACEHOLDER
 優「それが……ちょっと困ったことになってるのよ」%K%P
 That... That's the problem.
 CN PLACEHOLDER
-Ну... в этом и проблема.
+Ну...в этом и проблема.
 
 カタカタカタ……。%K%P
 Tap, tap, tap...
@@ -681,12 +681,12 @@ CN PLACEHOLDER
 そう言って、優はキーボードをカタカタと操作し始めた。%K%P
 Saying that, You started tapping on the keyboard.
 CN PLACEHOLDER
-Сказав это, Ю начала быстро клацать по клавиатуре.
+Ю стала работать на клавиатуре.
 
 壁に取り付けられたモニターのひとつが、監視カメラの画面からコンピューターのデスクトップに切り替わる。%K%P
 One of the monitors on the wall shifted from footage of an observation camera to an image of a computer desktop.
 CN PLACEHOLDER
-Один из мониторов на стене переключился с вида камеры наблюдения на изображение рабочего стола.
+Один из мониторов на стене переключился с вида камеры наблюдения на изображение Рабочего стола незнакомой мне операционной системы.
 
 ほぼ中央に、ウィンドウがひとつ開かれていた。%K%P
 In the middle of it, one window was open.
@@ -726,12 +726,12 @@ CN PLACEHOLDER
 優「私はこれから、レミデータベースのＣレベル――ようするに機密情報にアクセスしようとしてるの」%K%P
 I'm attempting to connect to LeMMIH's C level... meaning I'm trying to access classified information.
 CN PLACEHOLDER
-Я пытаюсь пробиться в LeMMIH на уровень С... то есть пытаюсь получить доступ к систематизированным данным.
+Я пытаюсь пробиться в ЛеММИХ на уровень С... то есть, пытаюсь получить доступ к систематизированным данным.
 
 優「でも、そんな重要なデータを誰それ構わず見ることができたら、大変なことになるでしょ？」%K%P
 But if anyone could easily access important data, it would be a security disaster, right?
 CN PLACEHOLDER
-Но если бы любой желающий мог прочесть важные данные, произошла бы неконтролируемая утечка информации, так ведь?
+Но, если бы любой желающий мог прочесть важные данные, получилась бы неконтролируемая утечка информации, так ведь?
 
 少年「うん」%K%P
 Probably.
@@ -741,17 +741,17 @@ CN PLACEHOLDER
 優「だからこうして『ここを覗こうとしてるアナタは誰ですか？』って、コンピューターが訊いてきてるの」%K%P
 That's why there's a screen where the computer asks, 'Hey, who's trying to look at this?'
 CN PLACEHOLDER
-Вот потому-то компьютер спрашивает: „Стой, кто идёт?“
+Вот потому-то компьютер спрашивает 'Стой, кто идёт?'.
 
 言いながら優は、マウスカーソルでウィンドウの中にある『Ｎａｍｅ』と書かれた入力欄をクルクルと囲った。%K%P
 As she spoke, You used the mouse to click on the box for “Name”.
 CN PLACEHOLDER
-С этими словами Ю щёлкнула мышью по полю «Имя».
+С этими словами Ю щёлкнула мышью по полю 'Имя'.
 
 そこには『ＹＵＫＩＥ　ＴＡＮＡＫＡ』と書き込まれている。%K%P
 Inside the box were written the words “YUKIE TANAKA”.
 CN PLACEHOLDER
-В поле вписаны фамилия и имя: «ТАНАКА ЮКИЭ».
+В поле вписаны имя и фамилия, 'ЮКИ ТАНАКА'.
 
 優「当然、私の名前だとアクセスできるわけないから、こうやってアクセス可能な人間の名前を偽って入力するわけね」%K%P
 Of course, there's no way I could access the system using my name, so I'm using someone else's name to get me in.
@@ -761,7 +761,7 @@ CN PLACEHOLDER
 優「だけどだけど、そんなことは誰だって考えついちゃうよね？」%K%P
 But anyone might think to try that, right?
 CN PLACEHOLDER
-Но не мне же одной могла прийти в голову та же идея?
+Но, не мне же одной могла придти в голову та же идея?
 
 少年「そうだね」%K%P
 I suppose so.
@@ -776,12 +776,12 @@ CN PLACEHOLDER
 優「『本当にアナタが＜田中ゆきえ＞なら、パスワードを言いなさい』」%K%P
 The screen then says, 'If you really are Tanaka Yukie, please show me your password.'
 CN PLACEHOLDER
-А теперь компьютер говорит: „Если ты действительно ТАНАКА ЮКИЭ, тогда скажи свой пароль“.
+А теперь компьютер говорит 'Если ты действительно ЮКИ ТАНАКА, тогда скажи свой пароль'.
 
 画面のカーソルは、名前入力欄の下にある『Ｐａβｗｏｒｔ』と書かれた欄を囲む。%K%P
 You then used the mouse to circle around the box for “Password”.
 CN PLACEHOLDER
-Ю перевела курсор на поле «Пароль».
+Ю перевела курсор на поле 'Пароль'.
 
 そこはまだ、空欄である。%K%P
 It was still blank.
@@ -816,17 +816,17 @@ CN PLACEHOLDER
 優「調べてないって言うか……調べることができないって言うか……」%K%P
 It's not that I haven't... I haven't been able to. I haven't been able to get in...
 CN PLACEHOLDER
-Не совсем... просто ещё не смогла. Я не смогла проскочить внутрь...
+Не совсем...просто ещё не смогла. Я не смогла проскочить внутрь...
 
 少年「つまり、『困ってる』って……」%K%P
 So you're stuck...
 CN PLACEHOLDER
-Получается... ты застряла...
+Получается...ты застряла...
 
 優「うん……これのこと」%K%P
 Yup... Stuck.
 CN PLACEHOLDER
-Да... застряла.
+Да...застряла.
 
 優は頷きながら、深いため息をついた。%K%P
 You nodded and gave a big sigh.
@@ -836,7 +836,7 @@ CN PLACEHOLDER
 ………………。%K%P
 .........
 CN PLACEHOLDER
-...
+....
 
 カタカタカタ……。%K%P
 Tap, tap, tap...
@@ -866,12 +866,12 @@ CN PLACEHOLDER
 『＊%T010＊%T005＊%T020＊%T004＊%T005＊%T015＊%T003＊』%K%P
 “*%T010*%T005*%T020*%T004*%T005*%T015*%T003*”
 CN PLACEHOLDER
-«*%T010*%T005*%T020*%T004*%T005*%T015*%T003*»
+"*%T010*%T005*%T020*%T004*%T005*%T015*%T003*"
 
 打ち込まれた文字は、第３者に知られないように、画面上では『＊』で表示されるとのことだ。%K%P
 The characters she typed in were blocked out by “*” so that anybody watching wouldn't know what the word was.
 CN PLACEHOLDER
-То, что вводит Ю, автоматически превращается в «*», чтобы никто наблюдающий со стороны не узнал, что именно она вводит.
+То, что вводит Ю, автоматически превращается в '*', чтобы никто наблюдающий со стороны не узнал, что именно она вводит.
 
 カタッ！%K%P
 Tap!
@@ -886,12 +886,12 @@ CN PLACEHOLDER
 ピーーーー！%K%P
 Beeeeeeeep!
 CN PLACEHOLDER
-*писк*
+Пиииииииск!
 
 『アクセス不可／名前またはパスワードが違います』%K%P
 “Access denied. Invalid name or password.”
 CN PLACEHOLDER
-«В доступе отказано. Некорректное имя или пароль.»
+'В доступе отказано. Некорректное имя или пароль.'
 
 だが優は、すかさず別の文字列の入力にシフトする。%K%P
 But You immediately tapped in another line of letters.
@@ -906,7 +906,7 @@ CN PLACEHOLDER
 『＊%T015＊%T005＊%T020＊%T015＊%T005＊%T003＊%T010＊』%K%P
 “*%T015*%T005*%T020*%T015*%T005*%T003*%T010*”
 CN PLACEHOLDER
-«*%T015*%T005*%T020*%T015*%T005*%T003*%T010*»
+"*%T015*%T005*%T020*%T015*%T005*%T003*%T010*"
 
 カタッ！%K%P
 Tap!
@@ -916,12 +916,12 @@ CN PLACEHOLDER
 ピーーーー！%K%P
 Beeeeeeeep!
 CN PLACEHOLDER
-*писк*
+Пиииииииск!
 
 『アクセス不可／名前またはパスワードが違います』%K%P
 “Access denied. Invalid name or password.”
 CN PLACEHOLDER
-«В доступе отказано. Некорректное имя или пароль.»
+'В доступе отказано. Некорректное имя или пароль.'
 
 カタカタカタ……。%K%P
 Tap, tap, tap...
@@ -936,12 +936,12 @@ CN PLACEHOLDER
 優「なに？」%K%P
 What?
 CN PLACEHOLDER
-Чего?
+Чаво?
 
 少年「素朴な疑問なんだけど、『田中ゆきえ』って誰なの？」%K%P
 I was just wondering, who is 'Tanaka Yukie'?
 CN PLACEHOLDER
-Я вот думаю, а кто такая Танака Юкиэ?
+Я вот думаю, а кто такая Юки Танака?
 
 少年「名字が同じなところを見ると、親戚か何か？」%K%P
 Looking at the name, I was wondering, is she a relative or something?
@@ -986,7 +986,7 @@ CN PLACEHOLDER
 少年「へぇ、優のお母さんもプログラマーだったんだ」%K%P
 Then your mom was a programmer too.
 CN PLACEHOLDER
-Тогда, получается, что твоя мама – ещё и программист.
+Тогда, получается, что твоя мама - ещё и программист.
 
 優「ううん、考古学者」%K%P
 No, she's an archaeologist.
@@ -996,7 +996,7 @@ CN PLACEHOLDER
 少年「は？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 優「何か問題でも？」%K%P
 What's the problem?
@@ -1011,7 +1011,7 @@ CN PLACEHOLDER
 少年「考古学とテーマパークって、全然関係なくない？」%K%P
 But archaeology has nothing to do with theme parks, right?
 CN PLACEHOLDER
-Но каким образом археология связана с тематическим парком?
+Но, каким образом археология связана с тематическим парком?
 
 優「私もそう思う」%K%P
 My thoughts exactly.
@@ -1021,7 +1021,7 @@ CN PLACEHOLDER
 優「でも、予算の下りない大学の研究室よりは、ＬｅＭＵの方が遥かに得るものが大きかったんじゃない？」%K%P
 But I figure that LeMU could probably offer her a lot more money than some small university research department with next to no budget.
 CN PLACEHOLDER
-Но видимо, в LeMU ей смогли предложить гораздо большую зарплату, чем в захудалом универе на попечении государства.
+Но, видимо, в LeMU ей смогли предложить гораздо большую зарплату, чем захудалый универ на попечении государства.
 
 少年「ＬｅＭＵって、考古学の研究なんかやってるの？」%K%P
 Is LeMU doing some kind of archaeological research?
@@ -1031,7 +1031,7 @@ CN PLACEHOLDER
 優「少なくとも、やってる『フリ』だけはしてるみたいね」%K%P
 Well, it's pretending to at the very least.
 CN PLACEHOLDER
-Ну, скорее они делают вид.
+Ну, скорей они делают вид.
 
 少年「？」%K%P
 ?
@@ -1051,22 +1051,22 @@ CN PLACEHOLDER
 そう言えば以前、ＬｅＭＵの名前の由来はレムリアという大陸にちなんでつけられた、と空に聞いたことがある。%K%P
 That reminded me, Sora had said that LeMU had been named after a continent called Lemuria.
 CN PLACEHOLDER
-Секундочку... Сора же говорила, что LeMU был назван в честь континента Лемурии.
+Секундочку...Сора же говорила, что LeMU был назван в честь континента Лемурии.
 
 ドリットシュトックのアトラクションにも『レムリア遺跡』なんてのがあるし……。%K%P
 On Dritter Stock, there was an attraction called the “Lemurian Ruins”...
 CN PLACEHOLDER
-На Дритте Шток есть аттракцион под названием «Лемурийские развалины»...
+На Дритте шток есть аттракцион под названием 'Лемурийские Развалины'...
 
 優「レムリアっていうのは、紀元前２億年〜５千万年に存在したと言われる幻の大陸のこと」%K%P
 Lemuria is the phantom continent that is said to have existed from 200 million to 50 million years B.C.
 CN PLACEHOLDER
-Лемурия – это континент-призрак, который якобы существовал между 200 и 50 миллионов лет до нашей эры.
+Лемурия - это континент-фантом, который якобы существовал около 200 - 50 миллионов лет до нашей эры.
 
 優「その大陸では、現代よりも遥かに高度な文明が栄えていたが、何らかの原因により、一夜にして海の底へと没した、とされている」%K%P
 On it thrived an advanced civilization that was more advanced than what we have today, but it just slipped down to the bottom of the ocean overnight.
 CN PLACEHOLDER
-На нём жила развитая цивилизация, даже более развитая, чем наша. Но всего за сутки он сгинул на дне океана.
+На нём жила развитая цивилизация, даже более развитая, чем наша. Но, всего за сутки он сгинул на дне океана.
 
 まるで、テキストを読み上げているかのように、流暢な口調で優は語った。%K%P
 You recited it off so fluently that it sounded like she was reading from a textbook.
@@ -1081,7 +1081,7 @@ CN PLACEHOLDER
 優「まったく、なに言っちゃってるんだか。そんなこと、ありえるわけないのにねぇ〜」%K%P
 But what could they be talking about? That could never happen.
 CN PLACEHOLDER
-Но неужели они не понимают очевидного? Это же полнейший бред.
+Но, неужели они не понимают очевидного? Это же полнейший бред.
 
 少年「優は信じてないの？」%K%P
 You don't believe it?
@@ -1091,12 +1091,12 @@ CN PLACEHOLDER
 優「あったり前でしょ。考古学的にも地質学的にも、ほとんど根拠がないんだから」%K%P
 Of course not. Archaeologically and geologically, the idea has no basis.
 CN PLACEHOLDER
-Конечно нет. Эта теория не имеет под собой оснований ни с точки зрения геологии, ни с точки зрения археологии.
+Конечно нет. Эта теория не имеет под собой оснований, ни с точки зрения географии, ни с точки зрения археологии.
 
 優「ちゃんとした研究が進むに連れて説得力はどんどん失われていって……。もう、まともな学問の分野では廃れきってる説なのよ」%K%P
 The more real research is conducted, the more the theory is shot full of holes... It's no longer a legitimate field of study.
 CN PLACEHOLDER
-Чем углублённее ты изучаешь тему, тем очевиднее становится, что эта теория дырявая как швейцарский сыр... Она не имеет права на жизнь.
+Чем углублённей ты изучаешь тему, тем очевидней становится, что эта теория - дырявая как швейцарский сыр...она не имеет права на жизнь.
 
 少年「詳しいんだね」%K%P
 You sure know a lot about it.
@@ -1111,17 +1111,17 @@ CN PLACEHOLDER
 少年「へ、へえ……」%K%P
 Oh, you are...?
 CN PLACEHOLDER
-Правда?..
+Правда...?
 
 優と考古学……あまりピンとこない組み合わせだった。%K%P
 You studying archaeology... It just didn't click.
 CN PLACEHOLDER
-Ю и археология... по мне так это две вещи несовместные.
+Ю и археология...по мне так это две вещи несовместные.
 
 優「２０世紀の終わり頃、沖縄の方のどっかで海底遺跡が発見されたでしょ？」%K%P
 Near the end of the 20th century, some oceanic ruins were discovered near Okinawa, right?
 CN PLACEHOLDER
-Ближе к концу двадцатого века у острова Окинава были обнаружены развалины на морском дне.
+Ближе к концу двадцатого века, у острова Окинава были обнаружены развалины на морском дне.
 
 優「ライプリヒ製薬は『その遺跡こそレムリアが存在したことの証だ』みたいなことを、まことしやかに、それとな〜く流布してるの」%K%P
 Leiblich Pharmaceuticals spread rumors that these ruins were somehow evidence of the existence of Lemuria.
@@ -1146,12 +1146,12 @@ CN PLACEHOLDER
 優「詳しいことは知らないけど……そうみたいね」%K%P
 Apparently... I don't know the details...
 CN PLACEHOLDER
-Видимо... я не вдавалась в подробности.
+Видимо...я не вдавалась в подробности.
 
 優「でもたぶん『フリ』をしてるだけだと思う」%K%P
 But I think it's all just an act.
 CN PLACEHOLDER
-Но думаю, это только вершина айсберга.
+Но, думаю, это только вершина айсберга.
 
 優「お金だけもらって、実際には別のことを研究しちゃってるんだ」%K%P
 I think she's just taking the money and researching something else.
@@ -1171,7 +1171,7 @@ CN PLACEHOLDER
 優「『第３視点』という昔の概念」%K%P
 The ancient idea of 'the third eye'.
 CN PLACEHOLDER
-Она исследовала древнюю идею о „третьем глазе“.
+Она исследовала древнюю идею о 'третьем глазе'.
 
 少年「悪いお母さんだ」%K%P
 Your mom sounds sneaky.
@@ -1206,7 +1206,7 @@ CN PLACEHOLDER
 優「なのに、研究してるフリだけはしなくちゃいけないの」%K%P
 But they still have to go about pretending to do research.
 CN PLACEHOLDER
-Но они всё равно притворяются, что проводят исследования.
+Но, они всё равно притворяются, что проводят исследования.
 
 少年「なんでだろうね？　ものすごく無駄なことだと思うんだけど」%K%P
 I wonder why? It sounds like a waste to me.
@@ -1216,7 +1216,7 @@ CN PLACEHOLDER
 優「さあ〜？　企業の考えることだから、お金儲けに繋がるんじゃないの？」%K%P
 Who knows? But it's a company we're talking about, so I'll bet it has to do with money.
 CN PLACEHOLDER
-Кто знает? Но мы же говорим о большой компании, стопудово всё дело в деньгах.
+Кто знает? Но, мы же говорим о большой компании, где крутятся большие деньги... стопудово, всё дело в грязных зелёных бумажках.
 
 優「まあそんなこと、私達に知ることはできないし、別に知りたくもないよ」%K%P
 But there's no way for us to know, and I don't really care.
@@ -1251,17 +1251,17 @@ CN PLACEHOLDER
 優「『ｎ次元上の全体像はｎ＋１次元内から俯瞰することによってのみ認識することができる』」%K%P
 A dimension of value 'n' may only be understood in its entirety when viewed from a dimension at least 'n+1'.
 CN PLACEHOLDER
-Любое измерение "n" может быть целостно осознано лишь при рассмотрении из, хотя бы, измерения "n+1".
+Любое измерение 'n' может быть целостно осознано лишь при рассмотрении из, хотя бы, измерения 'n+1'.
 
 少年「は、はい？？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 全然、簡単に聞こえなかった。%K%P
 It didn't sound very basic to me.
 CN PLACEHOLDER
-И это называется «вкратце»?
+И это называется 'вкратце'?
 
 っていうか、なんですか、それは？%K%P
 What did she mean?
@@ -1316,7 +1316,7 @@ CN PLACEHOLDER
 優「ヒンズー教のシヴァ神の額にある『第３の眼』……ヨガで言う、眉間のチャクラ『アジナー・チャクラ』……」%K%P
 Like the third eye on the forehead of the Hindu god Shiva... Like they say in yoga about the Agya Chakra, or Third Eye Chakra...
 CN PLACEHOLDER
-Вроде третьего глаза на лбу Шивы, бога индусов... в йоге есть упоминание об А-агъя Чакра, или Чакра третьего глаза...
+Вроде третьего глаза на лбу Шивы, бога индусов... в йоге есть упоминание об Аагъя Чакра, или Чакра третьего глаза...
 
 優「仙道における、『丹光法』……密教において、弘法大師が室戸岬で修めたと言う『虚空蔵菩薩求聞持法』……」%K%P
 Or the astral light training by sages... Or like in esoteric Buddhism with the famous monk Kobo Daishi's ascetic training and invoking of the Kokuzo deity of space through the Kokuzo gumonjiho...
@@ -1331,17 +1331,17 @@ CN PLACEHOLDER
 少年「えーと、えーと……」%K%P
 Uh... Uh...
 CN PLACEHOLDER
-Э-э... Э-э...
+Эээ... эээ...
 
 怒濤のように襲いかかる言葉の数々。%K%P
 I felt like I was being bombarded with exotic words.
 CN PLACEHOLDER
-На меня бурным потоком обрушивается шквал слов.
+Мама, роди меня обратно. Да за кого Ю меня принимает?
 
 完全に、ぼくは置いていかれていた。%K%P
 The conversation had completely left me behind.
 CN PLACEHOLDER
-Я впал в полнейший ступор.
+Она просто завалила меня экзотическими словами, введя в полнейший ступор.
 
 優「透視能力、遠隔視、スーパービジョン、霊の知覚、未来視、過去視……」%K%P
 Clairvoyance, telescopic vision, ghost sense, the gift of the prophet, the power of seeing the past or future...
@@ -1351,27 +1351,27 @@ CN PLACEHOLDER
 優「神がかり的な力の源であったり、あるいは厳しい修行の末に習得できる超能力だったり、諸説いろいろあるんだけど、それらに共通して言えることは……」%K%P
 There are a lot of explanations behind it. Some say it's a gift from the gods, others that you can acquire it from intensive training. But what they all have in common is...
 CN PLACEHOLDER
-За этим понятием куча теорий. Одни говорят, что это дар свыше, другие считают, что ты можешь овладеть им путём длительных тренировок. Но единственное, в чём они сходятся...
+За этим понятием куча теорий. Одни говорят, что это дар свыше, другие считают, что ты можешь овладеть им путём длительных тренировок. Но, единственное, в чём они сходятся...
 
 ――第３の眼が開眼すると、真の智恵がわき、万物を見通すことができる。%K%P
 When the third eye opens, true wisdom is apparent, and all becomes visible.
 CN PLACEHOLDER
-Когда открывается третий глаз, истинное знание очевидно, а тайное становится явным.
+Когда открывается третий глаз, истинное знание очевидно и тайное становится явным.
 
 優「言うなれば、人智を超えた存在……『超人』の象徴ってわけ」%K%P
 They all have something to do with transcending the realm of the human... Becoming superhuman somehow.
 CN PLACEHOLDER
-Это как-то связано с возвышением над человеческой реальностью... превращением в сверхчеловека.
+Это как-то связано с возвышением над человеческой реальностью...превращением в сверхчеловека.
 
 少年「ふ、ふーん……よくわからないけど、なんだかすごいんだね」%K%P
 Hmmmm. Wow... I don't get it, but it sounds pretty fantastic.
 CN PLACEHOLDER
-Хм-м-м-м-м. Ух ты... Я не понял, в чём суть, но это звучит весьма фантастично.
+Хммммм. Ух ты... Я не понял, в чём суть, но это звучит весьма фантастично.
 
 優「お願いだから、『ぼくにも欲しいなぁ♪』なんて言わないでよ」%K%P
 Please don't say, 'I wish I had that!' Please, please don't.
 CN PLACEHOLDER
-Пожалуйста, только не говори „Я хочу, чтобы он был и у меня тоже!“ Умоляю.
+Пожалуйста, только не говори 'Я хочу, чтобы он был и у меня тоже!' Умоляю.
 
 少年「ど、どうしてさ……」%K%P
 Wh-Why...
@@ -1391,7 +1391,7 @@ CN PLACEHOLDER
 優「いくら欲しくても、怪しげな通販で宇宙ペンダントとか買っちゃダメよ？」%K%P
 No matter how much you want it, I don't want you buying tacky mail order space pendants that promise wisdom or anything else.
 CN PLACEHOLDER
-Как бы сильно ты ни хотел, я не хочу, чтоб ты покупал себе всяких безвкусных космических подвесок, сулящих мудрость.
+Не важно, как бы сильно ты не хотел, я не закажу тебе по почте склизких космо браслетов, сулящих мудрость.
 
 少年「なに、それ？」%K%P
 What are those?
@@ -1431,7 +1431,7 @@ CN PLACEHOLDER
 しかし本当は『眼は３つあった』と考えては%Nどうだろうか？%K%O
 But what would it be like if we really used to have three eyes?
 CN PLACEHOLDER
-Но как это работает, когда у тебя три глаза?
+Но, как это работает, когда у тебя три глаза?
 
 実を言うと――%K%N
 Actually...
@@ -1488,7 +1488,7 @@ CN PLACEHOLDER
 しかし我々ヒトのように、もっと高等な脊椎動物になると、第３の眼は長い進化の過程で大脳に覆い隠されてしまい、直接光を感じることができなくなっている。%K%N
 Only we people and higher vertebrates had lost the third eye over a long process of evolution. It had been covered over by the cerebrum, and we lost our ability to sense light directly.
 CN PLACEHOLDER
-Только мы, люди, и высшие позвоночные утратили третий глаз в ходе эволюции. Он сросся с головным мозгом, а мы потеряли нашу способность напрямую чувствовать свет.
+Только мы, люди и высшие позвоночные, утратили третий глаз в ходе эволюции. Он сросся с головным мозгом, а мы потеряли нашу способность напрямую чувствовать свет.
 
 ゆえに、光刺激のセンサーは左右ふたつの眼球で%N代用しているというところだろうか。%K%N
 Therefore, we had two light sensitive eyeballs, one on each side, instead.
@@ -1498,7 +1498,7 @@ CN PLACEHOLDER
 この退化した第３の眼は『松果体（ショウカタイ）』と%N呼ばれている。%K%O
 The lost third eye was called a “pineal body”.
 CN PLACEHOLDER
-Этот утраченный третий глаз называется «шишковидной железой».
+Этот утраченный третий глаз называется 'шишковидной железой'.
 
 なお、松果体は内分泌器官としては機能しており、%N我々の脳の内部で、太古の時代と変わることなく、%N今でも２４時間のリズムを刻みつづけている。%K%N
 It had functioned in the brain for eons and was responsible for secreting hormones that helped carve out our 24-hour rhythm.
@@ -1523,7 +1523,7 @@ CN PLACEHOLDER
 少年「それにしても、すごい知識量だね……歩く百科事典みたい」%K%P
 Still, you've got tons of knowledge... You're like a walking dictionary.
 CN PLACEHOLDER
-И всё-таки, у тебя куча знаний... ты словно ходячая энциклопедия.
+И всё-таки, у тебя куча знаний...ты словно ходячая энциклопедия.
 
 優「たいしたことないよ、こんなの」%K%P
 It's no big deal.
@@ -1548,12 +1548,12 @@ CN PLACEHOLDER
 優「だって、知識はいくらあったって、幸せにはなれないでしょう？」%K%P
 I mean, no matter how much knowledge you have, it can't make you happy, right?
 CN PLACEHOLDER
-То есть неважно, как много ты знаешь, это не делает тебя счастливым.
+Я хочу сказать, что, не важно сколько бы ты не знал, это не делает тебя счастливым, понимаешь?
 
 優「自分の無知を思い知らされるだけで……学問なんて虚しいものなんだよ」%K%P
 It just makes you feel so ignorant... Scholarship is a pretty empty pursuit.
 CN PLACEHOLDER
-Лишь раздувает чувство собственного невежества... Гонка за знаниями – пустая трата времени.
+Лишь раздувает чувство собственного невежества...гонка за знаниями - пустая трата времени.
 
 少年「…………」%K%P
 ...
@@ -1573,7 +1573,7 @@ CN PLACEHOLDER
 少年「でも、溶接したのは自分でしょ？」%K%P
 But you planted it there yourself, right?
 CN PLACEHOLDER
-Но ты сама их туда посадила, разве нет?
+Но, ты сама их туда посадила, разве нет?
 
 優「とんでもない！」%K%P
 No way!
@@ -1613,7 +1613,7 @@ CN PLACEHOLDER
 優「気がついたら、いつの間にか考古学のある学部に進学してた」%K%P
 But one day, I just woke up and found myself in the archaeology department.
 CN PLACEHOLDER
-Но однажды я проснулась и обнаружила, что нахожусь в археологическом департаменте.
+Но, однажды я проснулась и обнаружила, что нахожусь в археологическом департаменте.
 
 少年「かえるの子はかえるってやつ？」%K%P
 Like mother, like daughter?
@@ -1643,7 +1643,7 @@ CN PLACEHOLDER
 少年「え、えーと、話を戻すけど……」%K%P
 Uh, if we could get back to what we were talking about...
 CN PLACEHOLDER
-Э-э, возвращаясь к ранее затронутой теме...
+Ээ, возвращаясь к ранее затронутой теме...
 
 少年「ひょっとして、昨日言ってたアレのこと？」%K%P
 I think yesterday you said something about evolution.
@@ -1653,7 +1653,7 @@ CN PLACEHOLDER
 少年「ヒトの退化した器官の……ええと、なんて言ったっけ……」%K%P
 About losing that organ thingy on the head... The, um...
 CN PLACEHOLDER
-Об органе на голове, утраченном в процессе эволюции... э-э, как его...
+Об органе на голове, утраченном в процессе эволюции...эээ, как его...
 
 優「違う、違う、そっちじゃなくて」%K%P
 No, no. Not there.
@@ -1673,7 +1673,7 @@ CN PLACEHOLDER
 優「ヒンズー教のシヴァ神の額にある『第３の眼』……ヨガで言う、眉間のチャクラ『アジナー・チャクラ』……」%K%P
 Like the third eye on the forehead of the Hindu god Shiva... Like they say in yoga about the Agya Chakra, or Third Eye Chakra...
 CN PLACEHOLDER
-Вроде третьего глаза на лбу Шивы, бога индусов... в йоге есть упоминание об А-агъя Чакра, или Чакра третьего глаза...
+Вроде третьего глаза на лбу Шивы, бога индусов...в йоге есть упоминание об Аагъя Чакра, или Чакра третьего глаза...
 
 優「仙道における、『丹光法』……密教において、弘法大師が室戸岬で修めたと言う『虚空蔵菩薩求聞持法』……」%K%P
 Or the astral light training by sages... Or like in esoteric Buddhism with the famous monk Kobo Daishi's ascetic training and invoking of the Kokuzo deity of space through the Kokuzo gumonjiho...
@@ -1688,17 +1688,17 @@ CN PLACEHOLDER
 少年「えーと、えーと……」%K%P
 Uh... Uh...
 CN PLACEHOLDER
-Э-э... э-э...
+Ээ...ээ...
 
 怒濤のように襲いかかる言葉の数々。%K%P
 I felt like I was being bombarded with exotic words.
 CN PLACEHOLDER
-На меня бурным потоком обрушивается шквал слов.
+Мама, роди меня обратно. Да за кого Ю меня принимает?
 
 完全に、ぼくは置いていかれていた。%K%P
 The conversation had completely left me behind.
 CN PLACEHOLDER
-Я впал в полнейший ступор.
+Она просто завалила меня экзотическими словами, введя в полнейший ступор.
 
 優「昨日も言ったと思うけど……」%K%P
 I think I mentioned it yesterday, but...
@@ -1708,7 +1708,7 @@ CN PLACEHOLDER
 優「第３の眼が開眼すると、真の智恵がわき、万物を見通すことができる……らしいの」%K%P
 When the third eye opens, true wisdom is apparent, and all becomes visible... At least that's what they say.
 CN PLACEHOLDER
-Когда открывается третий глаз, истинное знание очевидно, а тайное становится явным... По крайней мере, так говорят.
+Когда открывается третий глаз, истинное знание очевидно и тайное становится явным... по крайней мере, так говорят.
 
 少年「…………」%K%P
 ...
@@ -1718,12 +1718,12 @@ CN PLACEHOLDER
 優「そんなものが本当にあるとしたら、の話だけどね」%K%P
 That's IF the story is real.
 CN PLACEHOLDER
-Это в том случае, если теория действительно верна.
+А что ЕСЛИ эта теория верна?
 
 少年「え、えーと……つまり……」%K%P
 Uh, so let's see... That means...
 CN PLACEHOLDER
-Э-э, погоди-ка... выходит, что...
+Ээ, погоди-ка...выходит, что...
 
 少年「まとめると、こういうこと……？」%K%P
 In summary, it goes something like this...
@@ -1753,12 +1753,12 @@ CN PLACEHOLDER
 優「お母さんに言わせれば、第３の眼という概念そのものが、第３視点のひとつだって言いかねないけど」%K%P
 Well, to hear my mom tell it, the third eye and third perspective are the same.
 CN PLACEHOLDER
-Ну, исходя из слов моей мамы, третий глаз и третья проекция – одно и то же.
+Ну, исходя из слов моей мамы, третий глаз и третья проекция - одно и то же.
 
 少年「いまいち、よくわからないなぁ……」%K%P
 I don't quite get it...
 CN PLACEHOLDER
-То есть, как?..
+То есть, как...?
 
 少年「どうして４次元の視覚があると、世界のすべてを見られるの？」%K%P
 Why would a sense of the fourth dimension allow someone to understand the whole world?
@@ -1768,12 +1768,12 @@ CN PLACEHOLDER
 少年「というより、なんで４次元の視覚なんて必要なの？　現にぼくらはこうして、世界をちゃんと見てるよ？」%K%P
 Or why is a sense of the fourth dimension necessary? We're seeing the world the way we are right now.
 CN PLACEHOLDER
-Или... почему для этого необходимо именно 4-е измерение? Мы и так видим мир таким, каков он есть.
+Или...почему для этого необходимо именно 4-е измерение? Мы и так видим мир таким, каков он есть.
 
 少年「第３の眼と第３視点……４次元との関連性も意味がわからないし……」%K%P
 I don't get the connection between the third eye or third perspective... and the fourth dimension...
 CN PLACEHOLDER
-Я не вижу связи между третьим глазом или третьей проекцией... и 4-м измерением...
+Я не вижу связи между третьим глазом или третьей проекцией...и 4-м измерением...
 
 わからないこと尽くしだった。%K%P
 There were lots of things I didn't get.
@@ -1788,7 +1788,7 @@ CN PLACEHOLDER
 優「さて、と……休憩終了」%K%P
 Alright... Break's over.
 CN PLACEHOLDER
-Хорошо... перерыв окончен.
+Хорошо...перерыв окончен.
 
 カタカタカタ……。%K%P
 Tap, tap, tap...
@@ -1858,7 +1858,7 @@ CN PLACEHOLDER
 （う、うぅ〜〜〜……にっがぁ〜〜〜っ）%K%P
 (Yuck... This is so bitter.)
 CN PLACEHOLDER
-(Ужас... какая горечь.)
+(Ужас...какая горечь.)
 
 おまけにそれは、すっかりと冷めきっていた。%K%P
 And it was completely cold too.
@@ -1878,7 +1878,7 @@ CN PLACEHOLDER
 椅子の背もたれが、ギィと軋む。%K%P
 She leaned back in the chair, and it squeaked.
 CN PLACEHOLDER
-Затем откинулась в кресло, после чего то скрипнуло.
+Затем откинулась в стул, после чего тот скрипнул.
 
 結局、手がかりのようなものは何も見つからなかった。%K%P
 In the end, she hadn't found any new clues.
@@ -1893,7 +1893,7 @@ CN PLACEHOLDER
 『アクセス不可／名前またはパスワードが違います』%K%P
 “Access denied. Invalid name or password.”
 CN PLACEHOLDER
-«В доступе отказано. Некорректное имя или пароль.»
+'В доступе отказано. Некорректное имя или пароль.'
 
 幾度となく表示された、そのメッセージは今も画面の中央に点っていた。%K%P
 That message had been displayed again and again. It still sat in the middle of the screen.
@@ -1903,7 +1903,7 @@ CN PLACEHOLDER
 優「あーあ……」%K%P
 Oh...
 CN PLACEHOLDER
-Ой...
+Ой....
 
 優はすっかりと、落胆しきっていた。%K%P
 You was really down.
@@ -1943,7 +1943,7 @@ CN PLACEHOLDER
 少年「絶対他人に知られたくないやつでも、その人の過去の想い出に関係のあるフレーズかなんかを使うはずだよ」%K%P
 Even somebody that wanted to think of something nobody would know would probably come up with a phrase related to their past.
 CN PLACEHOLDER
-Даже когда человек думает о чём-то известном только ему, скорее всего, это будет связано с его или её прошлым.
+Даже когда человек думает о чём-то известном только ему, скорей всего это будет связано с его или её прошлым.
 
 少年「つまり、デタラメなアルファベットの組み合わせとかを使ってる人は、滅多にいないってこと」%K%P
 I mean, there's almost nobody that uses a meaningless combination of numbers and letters.
@@ -1973,7 +1973,7 @@ CN PLACEHOLDER
 優「でも、無理でした」%K%P
 But it's no good.
 CN PLACEHOLDER
-Но ни черта не вышло.
+Но, ни черта не вышло.
 
 優「私はただのパソコンが使える人なの」%K%P
 I'm just a normal person when it comes to computers.
@@ -1983,7 +1983,7 @@ CN PLACEHOLDER
 優「ハッカーやクラッカーじゃないんだから、イリーガルなプログラムを持ってたり、ましてやこの場で作ったり、そんなことはできないの」%K%P
 I'm no hacker or cracker. I don't have any illegal programs and can't just type one out right now.
 CN PLACEHOLDER
-Я не хакер и не взломщик. У меня нет с собой програм для взлома, да и написать я их здесь не смогу.
+Я не хакер и, уж тем более, не взломщик. И у меня нет с собой программ-ломалок, а о том, чтобы просто взять и ввести их по памяти, не может быть и речи.
 
 そう言って、優はいわゆる『お手上げ』のポーズをとった。%K%P
 You stuck her hands up in the air, signaling her surrender.
@@ -1998,7 +1998,7 @@ CN PLACEHOLDER
 沙羅が優秀なハッカーであることを思い出したのだ。%K%P
 I remembered that Sara was a top-level hacker.
 CN PLACEHOLDER
-Я вспомнил, что Сара является хакером высшего класса.
+Я вспомнил, что Сара является первостатейным хакером.
 
 少年「確か沙羅は、暗号解読のコンテストで優勝したことがあるって言ってたよね？」%K%P
 You said that Sara took first prize in some code-breaking contest, right?
@@ -2008,7 +2008,7 @@ CN PLACEHOLDER
 少年「きっと、パスワードを解析するプログラムを作ってくれるって」%K%P
 I'll bet she'd make a password-breaking program for you.
 CN PLACEHOLDER
-Спорим, что она бы смогла написать для тебя взломщик паролей.
+Спорим, что она бы смогла написать для тебя брутфорсер...ну, программу для взлома паролей.
 
 優「かもね」%K%P
 Maybe.
@@ -2028,7 +2028,7 @@ CN PLACEHOLDER
 優「頼みたいところだけど、できれば頼みたくはないなぁ」%K%P
 I could, but I don't want to.
 CN PLACEHOLDER
-Могу, но... не знаю, стоит ли это делать.
+Могу, но...не знаю, стоит ли это делать.
 
 少年「？？？」%K%P
 ?
@@ -2043,17 +2043,17 @@ CN PLACEHOLDER
 ひょっとして、まだこの行為が犯罪チックなことを気にしているのだろうか。%K%P
 I thought that maybe she was still concerned about the criminal element of the idea.
 CN PLACEHOLDER
-Видимо, она всё ещё относится к затее как к преступлению.
+Видимо, она всё ещё относится к затее, как к преступлению.
 
 少年「ぼくは巻き込んでも構わないっていうの？」%K%P
 But you don't mind getting me involved?
 CN PLACEHOLDER
-Но меня-то ты уже впутала... причём, по уши.
+Но, меня-то ты уже впутала...причём, по уши.
 
 優「きみの場合は、勝手に巻き込まれに来たんでしょうに」%K%P
 Well, you came and involved yourself.
 CN PLACEHOLDER
-Ну, тебя никто не заставлял – сам впутался.
+Ну, тебя никто не заставлял - сам впутался.
 
 少年「そうでした……」%K%P
 I suppose...
@@ -2063,7 +2063,7 @@ CN PLACEHOLDER
 しかし、このままだと優は、一生かかっても手がかりを掴むことができない。%K%P
 But at that rate, You probably wouldn't find a clue during her lifetime.
 CN PLACEHOLDER
-Но в таком случае Ю и за всю свою жизнь не найдёт новых улик.
+Но, в таком случае, Ю и за всю свою жизнь не найдёт новых улик.
 
 ぼくは、なんとかしてやりたかった。%K%P
 I wanted to help her out.
@@ -2113,7 +2113,7 @@ CN PLACEHOLDER
 %FS中をのぞくと、ご丁寧に『パスワード』とタイトルの%Nつけられたテキストファイルがあってね。%FE%V%N
 Looking at it, I saw that there was a text file entitled “Password”.
 CN PLACEHOLDER
-Подойдя ближе, я заметила текстовый файл под названием «Пароль».
+Подойдя ближе, я заметила текстовый файл под названием 'Пароль'.
 
 %FS開いてみると、たった１行……%FE%V%N
 When I opened it, it was only one line...
@@ -2123,12 +2123,12 @@ CN PLACEHOLDER
 %FSなにやら日本語のセンテンスが書き込まれていたの。%FE%K%O
 There was some Japanese sentence typed inside it.
 CN PLACEHOLDER
-Какая-то фраза, написанная на японском.
+Какая-то фраза, написанная на кандзи.
 
 少年「じゃあ、パスワードを見たんじゃないか！」%K%P
 Then you saw the password!
 CN PLACEHOLDER
-Значит, ты видела пароль!
+Значит ты видела пароль!
 
 優「うん、確かに見た」%K%P
 Sure. I saw it.
@@ -2138,7 +2138,7 @@ CN PLACEHOLDER
 優「でも、見ただけであって、覚えてはいないの」%K%P
 But I don't remember it.
 CN PLACEHOLDER
-Но я его не помню.
+Но, я его не помню.
 
 少年「ええっ？」%K%P
 What?
@@ -2158,7 +2158,7 @@ CN PLACEHOLDER
 %FSけれど、筆記用具が周辺には見当たらなかったの。%FE%V%N
 But I didn't see a pen or anything around.
 CN PLACEHOLDER
-Но поблизости не было ручки.
+Но, поблизости не было ручки.
 
 %FS記憶媒体となるようなディスクも転がってなかった。%FE%K%O
 And there were no discs or anything that I could copy it to.
@@ -2173,7 +2173,7 @@ CN PLACEHOLDER
 %FSそのときはあせっていたので考えつかなかった。%FE%V%N
 But I was in a rush and didn't think about it then.
 CN PLACEHOLDER
-Но тогда-то я была в жуткой спешке и плохо соображала.
+Но, тогда-то я была в жуткой спешке и плохо соображала.
 
 %FSとっさに、プリントアウトしようと思ったんだけど……。%FE%V%N
 Suddenly, I thought that I'd try to print it out...
@@ -2193,7 +2193,7 @@ CN PLACEHOLDER
 少年「えっ？　どういうこと？」%K%P
 Huh? What do you mean?
 CN PLACEHOLDER
-Э-э? Погоди-ка...
+Эээ? Погоди-ка...
 
 少年「それじゃあ、今優が持ってるその紙に、パスワードが書かれてるんじゃ……？」%K%P
 So the paper you have now is the one with the password on it?
@@ -2218,7 +2218,7 @@ CN PLACEHOLDER
 優「に見えるけど、普通のバーコードの規格とは違うみたいだし」%K%P
 It looks like it, but it seems different than normal barcodes.
 CN PLACEHOLDER
-Да, только он непохож на обычный штрих-код.
+Да, только он не похож на обычный штрих-код.
 
 少年「１０行あるよね？」%K%P
 It's got ten lines?
@@ -2233,7 +2233,7 @@ CN PLACEHOLDER
 少年「これって、なにか関係ある？」%K%P
 What does this have to do with anything?
 CN PLACEHOLDER
-Но в чём тогда связь?
+Но, в чём тогда связь?
 
 優「さあ？」%K%P
 Who knows?
@@ -2248,7 +2248,7 @@ CN PLACEHOLDER
 少年「さっき日本語だったって言ったよね？」%K%P
 You said it was in Japanese, right?
 CN PLACEHOLDER
-Ты сказала, что он был набран на японском, так?
+Ты сказала, что он был набран на кандзи, так?
 
 少年「何文字ぐらいの日本語？」%K%P
 About how many characters was it?
@@ -2258,17 +2258,17 @@ CN PLACEHOLDER
 優「よく覚えてないけど、１０文字±１文字ぐらいじゃないかな？」%K%P
 I don't remember very well. Maybe ten characters, give or take.
 CN PLACEHOLDER
-Это я вряд ли вспомню. Может, 10 символов или чуть больше.
+Это я вряд ли вспомню. Может 10 символов или чуть больше.
 
 少年「その中に漢字は入ってた？　数字は？」%K%P
 Was it all written in Japanese? Any numbers?
 CN PLACEHOLDER
-Весь текст был на японском? Может, были цифры?
+Только кандзи? Цифры, латинские или кириллица были?
 
 優「確か、漢字とひらがなの組み合わせだったと思う。数字やカタカナやアルファベットは無かったはず」%K%P
 I'm pretty sure it was just Japanese. I don't remember any numbers or anything else.
 CN PLACEHOLDER
-Я уверена, что там был только японский. Не помню, чтобы там были символы из других алфавитов или цифры.
+Да, я в этом уверена. Не помню, чтобы там были символы из других алфавитов или цифры.
 
 少年「ねえ、これってどっちが上なのかな？」%K%P
 I wonder which end of this is the top.
@@ -2313,7 +2313,7 @@ CN PLACEHOLDER
 少年「だけど、なんかしら覚えてたことはあるでしょ？」%K%P
 But you have to remember something, right?
 CN PLACEHOLDER
-Но ты же могла что-нибудь вспомнить, разве не так?
+Но, ты же могла что-нибудь вспомнить, разве не так?
 
 少年「例えば、食べ物に関係してたとか、人名が入ってたとか……」%K%P
 Like, did it have to do with food, or a person's name...
@@ -2333,7 +2333,7 @@ CN PLACEHOLDER
 少年「だからって、そんな大事なことを忘れるなんて……」%K%P
 But how could you forget something so important?
 CN PLACEHOLDER
-Но как же ты могла забыть нечто настолько важное?
+Но, как же ты могла забыть нечто настолько важное?
 
 優「でも私は、少なくとも自分の住所は言える」%K%P
 Well, at least I know my address.
@@ -2343,7 +2343,7 @@ CN PLACEHOLDER
 優「電話番号も、生年月日も、社会保障番号も……」%K%P
 And phone number. And birthday. And my social security number. And...
 CN PLACEHOLDER
-И номер телефона. И день рождения. И номер соцстрахования. И...
+И номер телефона. И день рождения. Даже ИНН. И...
 
 優「それから、自分の名前だってわかるんだから」%K%P
 I even know my name.
@@ -2353,7 +2353,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「大事なことを忘れてるのは、どっちなのかしら？」%K%P
 Now who's forgetting the important things?
@@ -2378,12 +2378,12 @@ CN PLACEHOLDER
 『大事なことを忘れてるのは、どっちなの？』%K%P
 “Now who's forgetting the important things?”
 CN PLACEHOLDER
-«Так кто из нас забыл важные вещи?»
+'Так кто из нас забыл важные вещи?'
 
 ……あんなことを言われて。%K%P
 ...What could I say to that?
 CN PLACEHOLDER
-...И как мне на это отвечать?
+...И как, скажите на милость, на это ответить?
 
 （ぼくだって、好きで記憶喪失やってるんじゃないんだ！）%K%P
 (It's not like I wanted to lose my memory!)
@@ -2398,7 +2398,7 @@ CN PLACEHOLDER
 でもその前に……ぼくは、これを読み解かなければならない。%K%P
 But first... I had to figure it out.
 CN PLACEHOLDER
-Но сначала... надо разобраться с паролем.
+Но сначала...надо разобраться с паролем.
 
 そんな気持ちで、いっぱいだった。%K%P
 I had my mind set on it.
@@ -2428,7 +2428,7 @@ CN PLACEHOLDER
 う〜ん、どうすれば……？%K%p
 What was I supposed to do...?
 CN PLACEHOLDER
-Что же делать?..
+Что же делать...?
 
 わかった
 I get it
@@ -2443,7 +2443,7 @@ CN PLACEHOLDER
 （もしかして……？）%K%P
 (Could it be...?)
 CN PLACEHOLDER
-(А что, если?..)
+(А что если...?)
 
 ぼくは、ふと思った。%K%p
 I thought for a second.
@@ -2493,12 +2493,12 @@ CN PLACEHOLDER
 少年「………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 だめだ。裏返しても、結果はほとんど同じだった。%K%P
 It was no good. Turning it over showed nothing new.
 CN PLACEHOLDER
-Ну вот. Переворот на другую сторону не дал ничего нового.
+Это плохо. Переворот на другую сторону не дал ничего нового.
 
 優「どう？　わかった？」%K%P
 So? Did you figure it out?
@@ -2523,7 +2523,7 @@ CN PLACEHOLDER
 （うぅ〜〜〜〜〜〜ん！）%K%P
 (Hmmmm. Let's see.)
 CN PLACEHOLDER
-(Хм-м-м-м. Дай подумать.)
+(Хмммм. Дай подумать.)
 
 紙を逆さにしてみれば、何かが読めるかもしれない。%K%P
 I thought maybe I could read something if I turned the paper upside down.
@@ -2538,12 +2538,12 @@ CN PLACEHOLDER
 少年「………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 だめだ。逆さにしても、結果はほとんど同じだった。%K%P
 It was no good. Turning the paper upside down showed nothing new.
 CN PLACEHOLDER
-Ну вот. Переворот вверх ногами не дал ничего нового.
+Это плохо. Переворот вверх ногами не дал ничего нового.
 
 優「どう？　わかった？」%K%P
 So? Did you figure it out?
@@ -2568,7 +2568,7 @@ CN PLACEHOLDER
 （うぅ〜〜〜〜〜〜ん！）%K%P
 (Hmmmm. Let's see.)
 CN PLACEHOLDER
-(Хм-м-м-м. Дай подумать.)
+(Хмммм. Дай подумать.)
 
 紙を火であぶってみれば、何かが読めるかもしれない。%K%P
 I thought maybe if I heated it with a flame, I could read it.
@@ -2583,7 +2583,7 @@ CN PLACEHOLDER
 優「は？　ライター？？」%K%P
 Huh? A lighter?
 CN PLACEHOLDER
-Ч-что? Зажигалки?
+Ч-Что? Зажигалки?
 
 優「まさか……イライラしてきたから、煙草でも吸おうって気？」%K%P
 Don't tell me you want to calm your nerves with a smoke.
@@ -2593,7 +2593,7 @@ CN PLACEHOLDER
 優「だめだめ！　煙草はハタチになってから！」%K%P
 You're too young to smoke!
 CN PLACEHOLDER
-Тебе ещё рано курить!
+Ты слишком молод для курильщика!
 
 少年「そ、そうじゃないよ……」%K%P
 I know that...
@@ -2608,12 +2608,12 @@ CN PLACEHOLDER
 優「燃やしちゃおうって気？？　火遊びすると、おねしょするよ？」%K%P
 You want to burn it? Playing with fire is dangerous!
 CN PLACEHOLDER
-Ты хочешь сжечь его? Игры с огнём до добра не доведут.
+Ты хочешь сжечь его? Спички - детям не игрушка! Игры с огнём до добра не доведут.
 
 優「それにこの紙は、一応手がかりなんだから、そんなの許さないからね」%K%P
 Besides, this paper is the only clue I've got. I won't let you burn it.
 CN PLACEHOLDER
-И вообще, этот листок – единственная улика, что у меня есть. Я не позволю тебе её сжечь.
+И вообще, этот листок - единственная улика, что у меня есть. Я не позволю тебе её сжечь.
 
 少年「ち、違うってば……！」%K%P
 That's not what I mean.
@@ -2623,7 +2623,7 @@ CN PLACEHOLDER
 優「じゃあ、何よ？」%K%P
 Well, what then?
 CN PLACEHOLDER
-Тогда... что ты имел в виду?
+Тогда...что ты имел в виду?
 
 少年「ぼくは、火で紙をあぶって、文字を浮かび上がらせようと……」%K%P
 I thought that if I heated the paper with a flame, something might appear...
@@ -2633,22 +2633,22 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「それ……ぎゃぐ、だよね？」%K%P
 You're kidding... Right?
 CN PLACEHOLDER
-Ты шутишь... или нет?
+Ты шутишь...или нет?
 
 少年「はい、もちろんです……」%K%P
 Yeah. Haha. I'm just joking...
 CN PLACEHOLDER
-Да уж. Ха-ха. Шучу...
+Да уж. Ха〜ха. Шучу...
 
 そして、この方法じゃ読めないことだけは、わかった。%K%P
 I figured out that I couldn't read it that way.
@@ -2658,7 +2658,7 @@ CN PLACEHOLDER
 （うぅ〜〜〜〜〜〜ん！）%K%P
 (Hmmmm. Let's see.)
 CN PLACEHOLDER
-(Хм-м-м-м. Дай подумать.)
+(Хмммм. Дай подумать.)
 
 紙を二つ折りにしてみれば、何かが読めるかもしれない。%K%P
 I thought that if I folded it in half, maybe I could read something.
@@ -2673,12 +2673,12 @@ CN PLACEHOLDER
 少年「………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 だめだ。折っても、結果はほとんど同じだった。%K%P
 It was no good. Folding showed nothing new.
 CN PLACEHOLDER
-Ну вот. Сложение пополам не дало ничего нового.
+Это плохо. Сложение пополам не дало ничего нового.
 
 優「どう？　わかった？」%K%P
 So? Did you figure it out?
@@ -2703,7 +2703,7 @@ CN PLACEHOLDER
 （うぅ〜〜〜〜〜〜ん！）%K%P
 (Hmmmm. Let's see.)
 CN PLACEHOLDER
-(Хм-м-м-м. Дай подумать.)
+(Хмммм. Дай подумать.)
 
 紙を傾けてみれば、何かが読めるかもしれない。%K%p
 I thought that if I tilted it a little, I might be able to see something.
@@ -2733,12 +2733,12 @@ CN PLACEHOLDER
 少年「………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 だめだ。この角度で傾けてみても、結果はほとんど同じだった。%K%P
 It didn't help. Changing the angle showed nothing new.
 CN PLACEHOLDER
-Ну вот. Изменение угла обзора не дало ничего нового.
+Это плохо. Изменение угла обзора не дало ничего нового.
 
 優「どう？　わかった？」%K%P
 So? Did you figure it out?
@@ -2763,7 +2763,7 @@ CN PLACEHOLDER
 （うぅ〜〜〜〜〜〜ん！）%K%P
 (Hmmmm. Let's see.)
 CN PLACEHOLDER
-(Хм-м-м-м. Дай подумать.)
+(Хмммм. Дай подумать.)
 
 紙を丸めてみれば、何かが読めるかもしれない。%K%P
 I rolled the paper in a ball, but I still couldn't read anything.
@@ -2778,12 +2778,12 @@ CN PLACEHOLDER
 少年「………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 だめだ。丸めても、結果はほとんど同じだった。%K%P
 It was no good. Rolling it up showed nothing new.
 CN PLACEHOLDER
-Ну вот. Сворачивание в трубочку не дало ничего нового.
+Это плохо. Сворачивание в трубочку не дало ничего нового.
 
 優「どう？　わかった？」%K%P
 So? Did you figure it out?
@@ -2808,12 +2808,12 @@ CN PLACEHOLDER
 （うぅ〜〜〜〜〜〜ん！）%K%P
 (Hmmmm. Let's see.)
 CN PLACEHOLDER
-(Хм-м-м-м. Дай подумать.)
+(Хмммм. Дай подумать.)
 
 少年「………………………………」%K%P
 ...............
 CN PLACEHOLDER
-...
+...............
 
 う〜ん、ちっともわからない。%K%P
 No. I've got no idea.
@@ -2828,7 +2828,7 @@ CN PLACEHOLDER
 少年「ううん……まだわからない」%K%P
 No... Not yet.
 CN PLACEHOLDER
-Нет... пока что.
+Нет...пока что.
 
 優「やっぱり無理なんだよ」%K%P
 I told you it's impossible.
@@ -2843,7 +2843,7 @@ CN PLACEHOLDER
 少年「でも、見方を変えて考えれば、きっとわかるはずだよ」%K%P
 But if we just change our way of looking at things, I think we'll figure it out.
 CN PLACEHOLDER
-Но знаешь, если посмотреть на это с другой стороны – у нас всё получится.
+Но, знаешь, если посмотреть на это с другой стороны - у нас всё получится.
 
 （――ん？？）%K%P
 (Huh?)
@@ -2853,7 +2853,7 @@ CN PLACEHOLDER
 （見方を変えれば……わかるはず？）%K%P
 (By changing the way we look... we'll figure it out?)
 CN PLACEHOLDER
-(Если посмотреть на это с другой стороны... у нас всё получится?)
+(Если посмотреть на это с другой стороны...у нас всё получится?)
 
 ぼくは、自分の言った言葉に、なぜか引っかかりを感じていた。%K%P
 Something about my words triggered something in my mind.
@@ -2883,7 +2883,7 @@ CN PLACEHOLDER
 優「しょせん、私ら３次元人に、２次元人のことなんて理解できっこないってば」%K%P
 And somebody that can't even understand the difference between two dimensions and three dimensions.
 CN PLACEHOLDER
-И к тому же не видящий разницы между двумя и тремя измерениями.
+И, к тому же, не видящий разницы между двумя и тремя измерениями.
 
 少年「はぁ？」%K%P
 Huh?
@@ -2893,7 +2893,7 @@ CN PLACEHOLDER
 優「ほら、印刷された文字って２次元の存在でしょ？　それに対して、私達は３次元の存在」%K%P
 See? The characters on the paper are two-dimensional, and we're three-dimensional.
 CN PLACEHOLDER
-Видишь? Символы на бумаге плоские, двумерные. А мы – трёхмерные.
+Видишь? Символы на бумаге плоские, двумерные. А мы - трёхмерные.
 
 優「ようするに、住む世界が違うんだよ」%K%P
 Basically, the worlds that we live in are different.
@@ -2908,7 +2908,7 @@ CN PLACEHOLDER
 少年「………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「ん？　どったの？」%K%P
 So? Whaddya think?
@@ -2918,7 +2918,7 @@ CN PLACEHOLDER
 文字の世界は２次元で……ぼくらの世界は３次元。%K%P
 (The stuff on the paper is two-dimensional... and we are three-dimensional.)
 CN PLACEHOLDER
-(Вещи на бумажном листе плоские, двумерные... а мы – объёмные, трёхмерные.)
+(Вещи на бумажном листе плоские, двумерные...а мы - объёмные, трёхмерные.)
 
 ２次元を理解したければ、２次元の気持ちに……。%K%P
 I had to think two-dimensionally.
@@ -2928,7 +2928,7 @@ CN PLACEHOLDER
 （２次元の気持ちになるには……？）%K%P
 (What do I have to do to think two-dimensionally...?)
 CN PLACEHOLDER
-(Но как это возможно... думать в двух измерениях?..)
+(Но, как это возможно...думать в двух измерениях...?)
 
 少年「わかった！　ほらっ、こうやって紙を寝かして見れば……」%K%P
 I got it! Listen, if you take the paper and set it like this...
@@ -2948,7 +2948,7 @@ CN PLACEHOLDER
 少年「なんじゃこりゃ？」%K%P
 What is this?
 CN PLACEHOLDER
-Что ещё за?..
+Что ещё за...?
 
 優「ちょ、ちょっと貸してっ！」%K%P
 What!? Let me see that!
@@ -2968,12 +2968,12 @@ CN PLACEHOLDER
 優「ほ、ほんとだぁ〜〜！」%K%P
 Y-You're right!
 CN PLACEHOLDER
-Ты... ты прав!
+Ты...ты прав!
 
 優「すっごーーいっ！　すごいよ、少年！」%K%P
 Amazing...! Really amazing, Kid!
 CN PLACEHOLDER
-Здорово! Малой, ты просто гений!
+Здорово! Кид, ты просто гений!
 
 優は、ぼくの手をとってはしゃぎまくる。%K%P
 You grabbed my hand and shook it happily.
@@ -2983,12 +2983,12 @@ CN PLACEHOLDER
 ……だけに留まらず、ぼくを抱きしめ（締めつけ？）にかかった。%K%P
 ...But she didn't stop there. She pulled me close in a big bear hug.
 CN PLACEHOLDER
-...но на этом она не остановилась... Она прижала меня к себе медвежьей хваткой.
+...но, на этом она не остановилась... Она прижала меня к себе медвежьей хваткой.
 
 ふんぎゅーーーーっ！！！%K%P
 Squeeze...!
 CN PLACEHOLDER
-Кряк!
+Кряк — !!!
 
 顔面に優の胸が押しつけられる。%K%P
 My face was pressed hard against her bust.
@@ -2998,17 +2998,17 @@ CN PLACEHOLDER
 ぼくはそこに具合よく収まってしまい、おかげで……息ができない。%K%P
 It was a nice fit... A little too nice... I struggled for air.
 CN PLACEHOLDER
-Удачно получилось... даже слишком... мне нечем дышать.
+Удачно получилось...даже слишком...мне нечем дышать.
 
 少年「ギブ……ギブ、ギブ…………」%K%P
 I... give up... Have... mercy...
 CN PLACEHOLDER
-Я... сдаюсь... прошу... пощади...
+Я...сдаюсь...прошу...пощади...
 
 危うくぼくは、彼女の柔らかな双丘によって、昇り詰めてしまうところだった。%K%P
 I almost felt dangerously excited by her softness.
 CN PLACEHOLDER
-Вот что значит «женская красота убийственна».
+Вот что значит 'женская красота убийственна'.
 
 優「やった〜♪　やった、やった、やった〜〜〜っ♪」%K%P
 We did it! Yeah, yeah, yeah〜
@@ -3028,7 +3028,7 @@ CN PLACEHOLDER
 （それにしても、よかった……喜んでもらえて）%K%P
 (I was glad she was happy... even if she did almost crush me.)
 CN PLACEHOLDER
-(Рад, что она счастлива... несмотря на то, что я чуть не распрощался с жизнью.)
+(Рад, что она счастлива...несмотря на то, что я чуть не распрощался с жизнью.)
 
 そんな優を見ているだけで、苛立ちも疲れも、吹き飛んでしまうようだった。%K%P
 Watching You all happy like that seemed to wash away all my irritation and fatigue.
@@ -3053,12 +3053,12 @@ CN PLACEHOLDER
 優「横から見れば……ふむふむ、なるほど」%K%P
 But if you look from the side... I see it now.
 CN PLACEHOLDER
-Но если посмотреть со стороны... ну конечно же.
+Но, если посмотреть со стороны...ну конечно же.
 
 少年「でも、どうしてこんなふうにバーコードみたいになっちゃったんだろう？」%K%P
 But why do you suppose it came out in a barcode like this?
 CN PLACEHOLDER
-Но почему же он распечатался в виде штрих-кода?
+Но, почему же он распечатался в виде штрих-кода?
 
 優「プリンターの調子が悪かったんじゃない？」%K%P
 The printer is probably in bad shape.
@@ -3083,22 +3083,22 @@ CN PLACEHOLDER
 『海月の虚空に秋涼し時鳥』%K%P
 “The empty fall sky%NA single cuckoo calls out%NBrings a chill to me”.
 CN PLACEHOLDER
-«Море и луна сливаются в иллюзорном осеннем небе, неся, словно птица сквозь пелену времени, тихий океанский бриз.»
+'Море и луна сливаются в иллюзорном осеннем небе, неся, словно птица сквозь пелену времени, тихий океанский бриз.'
 
 優「たぶんこれは、正岡子規の俳句『水無月の虚空に涼し時鳥』をもじったものだと思う」%K%P
 I think it's a variation of Masaoka Shiki's 'The empty June sky... A single cuckoo calls out... Brings a chill to me'.
 CN PLACEHOLDER
-Кажется, это вариация хайку „Море и луна сливаются в чистом июньском небе, неся пение кукушки через океанский бриз“ за авторством Масаоки Сики.
+Кажется, это вариация хайку 'Море и луна сливаются в чистом июньском небе, неся пение кукушки через океанский бриз' за авторством Шики Масаоки.
 
 優「だから、正しい読み方は恐らく……」%K%P
 So if I input it like this...
 CN PLACEHOLDER
-Тогда что, если я введу её как...
+Тогда, что если я введу её как...
 
 優「『うみつきの　こくうにすずし　ほととぎす』」%K%P
 'The empty fall sky%NA single cuckoo calls out%NBrings a chill to me'.
 CN PLACEHOLDER
-„Море-и-луна-сливаются-в-иллюзорном-осеннем-небе-неся-%Nсловно-птица-сквозь-пелену-времени-тихий-океанский-бриз“.
+'Море-и-луна-сливаются-в-иллюзорном-осеннем-небе-неся-%Nсловно-птица-сквозь-пелену-времени-тихий-океанский-бриз'.
 
 少年「へぇ」%K%P
 Wow.
@@ -3138,22 +3138,22 @@ CN PLACEHOLDER
 ピーーーー！%K%P
 Beeeeeeeep!
 CN PLACEHOLDER
-*писк*
+Пиииииииск!
 
 『アクセス不可／名前またはパスワードが違います』%K%P
 “Access denied. Invalid name or password.”
 CN PLACEHOLDER
-«В доступе отказано. Некорректное имя или пароль.»
+'В доступе отказано. Некорректное имя или пароль.'
 
 しかしそれでも、Ｃレベルには侵入することができないのだった。%K%P
 But she still couldn't get into the C Level information.
 CN PLACEHOLDER
-Но она всё ещё не смогла добраться до информации уровня С.
+Но, она всё ещё не смогла добраться до информации уровня С.
 
 少年「だめだ、もう降参！」%K%P
 It's no good. Time to give up!
 CN PLACEHOLDER
-Ну вот. Я сдаюсь!
+Это плохо. Я сдаюсь!
 
 優「ほらね、言わんこっちゃない」%K%P
 See, I told you so.
@@ -3173,12 +3173,12 @@ CN PLACEHOLDER
 少年「……………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「さて、と。私は最後の賭けに出てみるとしますか」%K%P
 Should I try one last time?
 CN PLACEHOLDER
-Может, мне попробовать ещё разок?
+Может мне попробовать ещё разок?
 
 少年「まだ試してないキーワードが残ってたの？」%K%P
 There's still a potential password you haven't tried?
@@ -3188,7 +3188,7 @@ CN PLACEHOLDER
 優「うん。ダメもとで、思いつく限りのフレーズを試してみようと思うの」%K%P
 Yup. But I thought it wouldn't work, so I tried everything else I could think of.
 CN PLACEHOLDER
-Ага. Но я думала, что он вряд ли сработает, поэтому и решила испробовать всё остальное.
+Ага. Но, я думала, что он вряд ли сработает, поэтому и решила испробовать всё остальное.
 
 キーボードに向かう優。%K%P
 You stared into the computer monitor.
@@ -3208,12 +3208,12 @@ CN PLACEHOLDER
 ピーーーー！%K%P
 Beeeeeeeep!
 CN PLACEHOLDER
-*писк*
+Пиииииииск!
 
 『アクセス不可／名前またはパスワードが違います』%K%P
 “Access denied. Invalid name or password.”
 CN PLACEHOLDER
-«В доступе отказано. Некорректное имя или пароль.»
+'В доступе отказано. Некорректное имя или пароль.'
 
 しかし、なかなか思うようにはいかないらしい。%K%P
 Things just didn't seem to want to go our way.
@@ -3223,12 +3223,12 @@ CN PLACEHOLDER
 優「うぅ〜〜〜〜っ！　こんちきしょ〜めぇ〜〜〜！」%K%P
 Arrrggghhh! Damn!
 CN PLACEHOLDER
-А-а-агх! Чёрт!
+Аррргггххх! Чёрт!
 
 優「かくなる上は……」%K%P
 Now that things have come to this...
 CN PLACEHOLDER
-Значит, вот как...
+Значит вот как...
 
 優「あ〜ぶらかたぶらぁ〜……」%K%P
 Abracadabra...
@@ -3238,7 +3238,7 @@ CN PLACEHOLDER
 少年「は？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 カタカタカタ……。%K%P
 Tap, tap, tap...
@@ -3253,7 +3253,7 @@ CN PLACEHOLDER
 ピーーーー！%K%P
 Beeeeeeeep!
 CN PLACEHOLDER
-*писк*
+Пиииииииск!
 
 カタカタカタ……。%K%P
 Tap, tap, tap...
@@ -3263,12 +3263,12 @@ CN PLACEHOLDER
 優「たんたんたぬきの、またんきぃ〜〜〜っ！！」%K%P
 Magic carpet...!
 CN PLACEHOLDER
-Волшебный ковёр!..
+Волшебный ковёр...!
 
 ピーーーー！%K%P
 Beeeeeeeep!
 CN PLACEHOLDER
-*писк*
+Пиииииииск!
 
 カタカタカタ……。%K%P
 Tap, tap, tap...
@@ -3278,12 +3278,12 @@ CN PLACEHOLDER
 優「べんとらぁ〜、べんとらぁ〜、すぺーすぴーぽぉーーーー！！！」%K%P
 On Dasher and Dancer, and Prancer and Vixen... Come on!
 CN PLACEHOLDER
-Во имя Отца, Сына и Святого духа... Ну же!
+Ухо-горло-нос, писька-сиська-хвост...ну же!!
 
 ピーーーー！%K%P
 Beeeeeeeep!
 CN PLACEHOLDER
-*писк*
+Пиииииииск!
 
 当然と言うべきか、いずれのフレーズもＣレベルには侵入することができなかった。%K%P
 Of course, none of those phrases got her access to the C Level information.
@@ -3303,12 +3303,12 @@ CN PLACEHOLDER
 すると、突然――！%K%P
 And then, suddenly—
 CN PLACEHOLDER
-И тут!..
+И тут...!
 
 優「あ、あれ……？」%K%P
 Wh-What in the...?
 CN PLACEHOLDER
-К-какого?..
+К-какого...?
 
 画面がブラックアウトしてしまう。%K%P
 The screen went black.
@@ -3323,7 +3323,7 @@ CN PLACEHOLDER
 優「わからないけど、認証画面から強制排出されちゃったみたい……」%K%P
 I don't know, but it looks like it automatically shut down the authorization screen...
 CN PLACEHOLDER
-Не знаю, но... экран авторизации вырубился сам собой...
+Не знаю, но...экран авторизации вырубился сам собой...
 
 少年「えぇ？」%K%P
 Huh?
@@ -3333,7 +3333,7 @@ CN PLACEHOLDER
 しばらくして、画面が元に戻る。%K%P
 After a moment, the screen returned to normal.
 CN PLACEHOLDER
-Через миг экран зажёгся как ни в чём не бывало.
+Через миг экран зажёгся, как ни в чём ни бывало.
 
 優はキーボードを操作して、再び認証画面を呼び出した。%K%P
 You pecked away at the keyboard and called up the authorization screen again.
@@ -3353,17 +3353,17 @@ CN PLACEHOLDER
 ピーーーー！%K%P
 Beeeeeeeep!
 CN PLACEHOLDER
-*писк*
+Пиииииииск!
 
 『アクセス不可／現在この名前ではログインできません』%K%P
 “Access denied. Cannot log in with the given name at this time.”
 CN PLACEHOLDER
-«В доступе отказано. В данный момент это имя не может быть авторизовано.»
+'В доступе отказано. В данный момент это имя не может быть авторизовано.'
 
 優「ええっ！　なにそれ〜っ！？」%K%P
 What!? What is this!?
 CN PLACEHOLDER
-Что?! Какого чёрта?!
+Что?!! Какого чёрта?!!
 
 もう一度繰り返してみる優。%K%P
 She tried it again.
@@ -3373,7 +3373,7 @@ CN PLACEHOLDER
 ピーーーー！%K%P
 Beeeeeeeep!
 CN PLACEHOLDER
-*писк*
+Пиииииииск!
 
 が、結果は同じだった。%K%P
 The result was the same.
@@ -3388,12 +3388,12 @@ CN PLACEHOLDER
 優「何度もパスワードを間違えたから、プロテクトが作動しちゃったんじゃないかな」%K%P
 Maybe I entered the wrong password too many times and it activated some kind of protection.
 CN PLACEHOLDER
-Наверное я ввела неверный пароль слишком много раз, и система активировала защиту.
+Наверно я ввела неверный пароль слишком много раз, и система активировала защиту.
 
 優「つまり、レミの方から、お母さんの名前でのアクセスを、完全に遮断されてるってこと」%K%P
 In other words, LeMMIH has completely denied access to my mom's name.
 CN PLACEHOLDER
-Проще говоря, LeMMIH полностью перекрыл доступ по имени моей мамы.
+Проще говоря, ЛеММИХ полностью перекрыл доступ по имени моей мамы.
 
 少年「じゃあ……」%K%P
 So...
@@ -3413,12 +3413,12 @@ CN PLACEHOLDER
 優「せっかく苦労して解読してくれた少年には悪いんだけど……」%K%P
 And you went to so much trouble to read this for me, Kid...
 CN PLACEHOLDER
-Ты ведь чуть в лепёшку не расшибся, чтобы прочесть для меня эту штуку, Малой...
+Ты ведь чуть в лепёшку не расшибся, чтобы прочесть для меня эту штуку, Кид...
 
 優「そもそもこの句が、そのままパスワードであるという保証はどこにもないんだよね」%K%P
 But from the start, there was no guarantee that what's on that paper is the password.
 CN PLACEHOLDER
-Но с самого начала не было гарантии, что на бумажке напечатан настоящий пароль.
+Но, с самого начала не было гарантии, что на бумажке напечатан настоящий пароль.
 
 優「むしろ、この句自体はただのヒントで、お母さんはこの句から連想する何かをパスワードにしていた、と考えるのが妥当だと思う」%K%P
 It would make more sense if this was some kind of hint that my mom uses to remember the password.
@@ -3433,7 +3433,7 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 それにしても、優のお母さんは、なぜこの俳句を選んだのだろうか？%K%P
 I wondered why You's mom would choose that poem.
@@ -3468,5 +3468,5 @@ CN PLACEHOLDER
 しばらくののち、武から、倉庫の修繕が無事終わったとの報告が入った。%K%P
 A while after that, we heard from Takeshi that repairs on the warehouse had been completed with no problems.
 CN PLACEHOLDER
-Чуток погодя, мы узнали от Такэси, что ремонтные работы на складе прошли без проблем.
+Чуток погодя, мы узнали от Такеши, что ремонтные работы на складе прошли без проблем.
 

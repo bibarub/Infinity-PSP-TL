@@ -31,7 +31,7 @@ CN PLACEHOLDER
 ボクにできることと言えば、ただ見るだけ……。%K%P
 The only thing that I can do is look...
 CN PLACEHOLDER
-Единственное, что я могу – смотреть...
+Единственное, что я могу - смотреть...
 
 見守るだけ……。%K%P
 Just look on...
@@ -41,7 +41,7 @@ CN PLACEHOLDER
 この死体をボクに見せてどうしろと……？%K%P
 You wanted to show me this dead body...?
 CN PLACEHOLDER
-Зачем я смотрю на это мёртвое тело?..
+Зачем я смотрю на это мёртвое тело...?
 
 ただ悲しい。%K%P
 It makes me sad.
@@ -56,7 +56,7 @@ CN PLACEHOLDER
 自らの命を捨ててまで、愛する女を守り抜いた男のしかばねが、悲しいだけだ。%K%P
 He had thrown his life away to protect the woman he loved. It was heartbreaking.
 CN PLACEHOLDER
-Он пожертвовал собственной жизнью ради спасения возлюбленной. Грусть и печаль разрывают мне сердце.
+Он пожертвовал собственной жизнью ради спасения возлюбленной. Грусть и печаль разрывает мне сердце.
 
 温もりの失せた体……。%K%P
 His body had lost all warmth...
@@ -71,7 +71,7 @@ CN PLACEHOLDER
 ――と、そのときだった！%K%P
 —Just then!
 CN PLACEHOLDER
-И тут!
+------И тут...!!
 
 （お父さん！）%K%P
 (Dad!)
@@ -81,12 +81,12 @@ CN PLACEHOLDER
 （お父さん！！）%K%P
 (DAD!)
 CN PLACEHOLDER
-(ПАПА!)
+(ПАПА!!)
 
 （お父さん！！！）%K%P
 (DAAAAD!)
 CN PLACEHOLDER
-(ПА-А-АПА-А-А!!!!)
+(ПАААПААА!!!!)
 
 ボクの意識をかき分け、破り、切り裂き、強烈な意志の塊が、目覚めようとしていた。%K%P
 My awareness split, broke, fractured, as a powerful force of will woke up inside of me.
@@ -106,7 +106,7 @@ CN PLACEHOLDER
 獰猛で野生的な『力』が、ボクの中でいきり立ち、荒れ狂い、ボクの存在を凌駕した。%K%P
 That ferocious and wild power raged within me and superseded my existence.
 CN PLACEHOLDER
-Эта дикая, животная «сила» разбушевалась, заместив моё сознание.
+Эта дикая, животная 'сила' разбушевалась, заместив моё сознание.
 
 『力』は白い閃光とともに炸裂し、雷鳴のような轟音を響かせた。%K%P
 It exploded in a shower of white sparks of light and roared like thunder.
@@ -126,12 +126,12 @@ CN PLACEHOLDER
 ホクトは鬱積した感情を爆発させ、本能的な『力』を闇の中へと解き放った。%K%P
 Hokuto exploded with bottled-up emotions and threw his instinctive power free into darkness.
 CN PLACEHOLDER
-Хокуто взорвался своими кипящими чувствами и беспрепятственно выбросил свою бессознательную «силу» во тьму.
+Хокуто взорвался своими кипящими чувствами и беспрепятственно выбросил свою бессознательную 'силу' во тьму.
 
 少年「お父さん！　お父さん！　死んじゃやだよ！」%K%P
 Dad! DAD! Don't you die on me!
 CN PLACEHOLDER
-Папа! Папа! Не умирай!!!
+Папа! Папа!! Не умирай!!!
 
 少年「死なないで！」%K%P
 Please don't die!
@@ -141,7 +141,7 @@ CN PLACEHOLDER
 少年「ぼくはまだ、一度もお父さんに会ったことがないのに！」%K%P
 I still haven't met you yet!
 CN PLACEHOLDER
-Я всё ещё... не встретился с тобой, папа!
+Я всё ещё...не встретился с тобой, папа!
 
 少年「ぼくを置いて行かないで！　お父さん！」%K%P
 Please don't leave me! Daaaad!
@@ -151,7 +151,7 @@ CN PLACEHOLDER
 少年「沙羅もぼくも待ってるんだよ！」%K%P
 Sara and I are waiting for you!
 CN PLACEHOLDER
-Мы с Сарой ждём тебя!
+Сара и я...мы ждём тебя!
 
 少年「お母さんだって待ってる！」%K%P
 Mom is waiting for you!
@@ -166,17 +166,17 @@ CN PLACEHOLDER
 少年「約束したじゃないか！　――『絶対死なない』って言ったじゃないか！」%K%P
 You promised! You said 'I'm not going to die, no matter what', right!?
 CN PLACEHOLDER
-Ты обещал! Ты сказал „я не умру“!
+Ты обещал! ------Ты сказал 'я не умру'!
 
 少年「『ひとりも死なせはしない』って誓ったんでしょ！」%K%P
 You swore you wouldn't let even one person die!
 CN PLACEHOLDER
-Ты поклялся, что „не дашь никому умереть“!
+Ты поклялся, что 'не дашь никому умереть'!
 
 少年「ココはまだ、研究所にいるんだよ！」%K%P
 Coco is still in the research facility!
 CN PLACEHOLDER
-Коко осталась в лаборатории!
+Коко осталась в лаборатории---!
 
 少年「このままじゃ、ココが死んじゃうんだよ！」%K%P
 If you don't do something, she's going to die!
@@ -186,17 +186,17 @@ CN PLACEHOLDER
 少年「お父さん！！　お父さん！！」%K%P
 Daaad! Daaaaaaad!
 CN PLACEHOLDER
-Папа-а-а! Папа-а-а!
+Папааа!! Папааа!!
 
 武の目が……開いた……。%K%P
 Takeshi... opened his eyes...
 CN PLACEHOLDER
-Такэси... открыл глаза...
+Такеши...открыл глаза...
 
 この深い海の底で……過酷な水圧にさらされながら……。%K%P
 At the bottom of the seabed... under unbearable pressure...
 CN PLACEHOLDER
-Посреди морской бездны... под невыносимым давлением...
+Посреди морской бездны...под невыносимым давлением...
 
 彼は、意識を取り戻したのだ。%K%P
 He regained consciousness.
@@ -211,27 +211,27 @@ CN PLACEHOLDER
 しかし今、彼は確かに生きている。%K%P
 But he was undeniably alive.
 CN PLACEHOLDER
-Но он жив, и это факт.
+Но, он жив, и это факт.
 
 蘇ったのだ……。%K%P
 He had revived...
 CN PLACEHOLDER
-Он воскрес...
+Он воскрес......
 
 『俺は……』%K%P
 “I...”
 CN PLACEHOLDER
-«Я...»
+'Я...'
 
 『俺は、死なない！』%K%P
 “I'm not going to die!”
 CN PLACEHOLDER
-«Я не умру!»
+'Я не умру!'
 
 『それがあいつとの、約束だから！』%K%P
 “I promised her...!”
 CN PLACEHOLDER
-«Я обещал ей!»
+'Я обещал ей...!'
 
 武の心の叫び声が、ボクの耳に届いた。%K%P
 I could hear the screams of his mind in my ears.
@@ -241,7 +241,7 @@ CN PLACEHOLDER
 武は身をひるがえし、岩礁を蹴って泳ぎ始めた。%K%P
 Takeshi flipped himself over, kicked off the reef, and began to swim.
 CN PLACEHOLDER
-Такэси перевернулся, отскочил от рифа и поплыл.
+Такеши перевернулся, сделав отскок от рифа, и поплыл.
 
 腕で水をかき、足で蹴り飛ばし、彼は一心不乱に海中を泳ぎ続けた。%K%P
 He cut the water with his arms and kicked with his legs, continuing to swim wildly through the water.
@@ -261,22 +261,22 @@ CN PLACEHOLDER
 驚異的な速度を保ちながら、前方に見えるほのかな光だけを頼りに、彼は水の壁を切り裂いて突き進んだ。%K%P
 He maintained an unthinkable speed, tearing apart the wall of water in front of him. His only source of guidance was a faint light visible ahead.
 CN PLACEHOLDER
-Он набрал невероятную скорость, прорываясь сквозь водяную толщу. Его единственный ориентир – слабый свет, мерцающий впереди.
+Он набрал невероятную скорость, прорываясь сквозь водяную толщу. Его единственный ориентир - слабый свет, мерцающий впереди.
 
 ――バシャンッ！%K%P
 —Splash!
 CN PLACEHOLDER
-Плюх!
+------Плюх!
 
 水面から勢いよく飛び跳ねた。%K%P
 His momentum carried him flying out of the water.
 CN PLACEHOLDER
-За счёт собственного импульса он буквально выстрелил из воды.
+От собственного импульса, он буквально выстрелил из воды.
 
 プールに顔を出した武は、その場で激しく咳き込み、肺にたまった海水をゴボゴボゴボゴボと吐き出した。%K%P
 Putting his face above the pool, he started coughing hard, trying to expel all of the seawater in his lungs.
 CN PLACEHOLDER
-Такэси вылез из воды, скрюченный от страшного кашля и выплеснул морскую воду из своих лёгких.
+Такеши вылез из воды, скрюченный от страшного кашля и выплеснул морскую воду из своих лёгких.
 
 プールのふちにつかまる。%K%P
 He clung to the edge of the pool.
@@ -291,7 +291,7 @@ CN PLACEHOLDER
 息を吸い込んでいる途中でむせ返り、また大量の水を吐く。%K%P
 He coughed hard as he was breathing in and vomited a large amount of water.
 CN PLACEHOLDER
-Но вместо воздуха из лёгких всё льётся и льётся вода.
+Но, вместо воздуха из лёгких всё льётся и льётся вода.
 
 そんなことを何度も繰り返した。%K%P
 He repeated that many times.
@@ -301,17 +301,17 @@ CN PLACEHOLDER
 ようやく、その痛々しい発作が落ち着きを見せた頃には、武は死人のように憔悴し切っていた。%K%P
 When the painful fits had finally died down, Takeshi lay exhausted, like he was dead.
 CN PLACEHOLDER
-Когда мучительные судороги наконец прекратились, Такэси распластался на полу, словно мёртвый.
+Когда мучительные судороги наконец прекратились, Такеши распластался на полу, словно мёртвый.
 
 まあ、実際にさっきまで死んでいたのではあるが……。%K%P
 Truth be told, he probably had been dead...
 CN PLACEHOLDER
-Честно говоря, наверное, совсем недавно он действительно был мёртв...
+Честно говоря, наверно совсем недавно он действительно был мёртв...
 
 武は這うようにして、フロアの上へと体を引きずりあげた。%K%P
 Takeshi crawled across the floor.
 CN PLACEHOLDER
-Такэси пополз по полу.
+Такеши пополз по полу.
 
 バッタリと、仰向けになって横たわる。%K%P
 He flipped over on his back with a thud.
@@ -341,22 +341,22 @@ CN PLACEHOLDER
 武「ははっ……」%K%P
 Haha...
 CN PLACEHOLDER
-Хе... хе-е-е...
+Хе......хеее...
 
 武は笑った。%K%P
 Takeshi laughed.
 CN PLACEHOLDER
-Захихикал Такэси.
+Захихикал Такеши.
 
 武「どこの誰だか……知らんけど……」%K%P
 I don't know... who the heck you are...
 CN PLACEHOLDER
-Я не знаю... кто ты...
+Я не знаю...кто ты...
 
 武「俺を『お父さん』なんて、呼ぶんじゃない」%K%P
 But don't call me 'Dad'.
 CN PLACEHOLDER
-Но... не называй меня „папой“.
+Но...не называй меня 'папой'...ладно?
 
 少年「お父さん……」%K%P
 Dad...
@@ -366,52 +366,52 @@ CN PLACEHOLDER
 武「だから、俺には子供なんかいないんだ」%K%P
 I'm telling you, I don't have any kids.
 CN PLACEHOLDER
-Слушай... у меня нет детей...
+Слушай......у меня нет детей...
 
 少年「でもぼくは、お父さんの子供なんだよ」%K%P
 But I'm your son!
 CN PLACEHOLDER
-Но я... Твой сын, папа!
+Но, я...твой сын, папа!
 
 武「じゃあ、母親は誰なんだ？」%K%P
 Okay then, who's your mom?
 CN PLACEHOLDER
-Тогда... кто твоя мама?
+Тогда...кто твоя мама?
 
 少年「つぐみ、つぐみだよ」%K%P
 Tsugumi. Tsugumi is.
 CN PLACEHOLDER
-Цугуми... Цугуми!..
+Цугуми......Цугуми...!
 
 武「ふははははははははっ！」%K%P
 Hahahahaha!
 CN PLACEHOLDER
-Хе... хе-хе... ха-ха-ха... хэ-хэ!
+Хе......хе〜хе...ха〜ха〜ха...хэ〜хэ...!!
 
 少年「うん、笑われてもしょーがないと思う」%K%P
 Yeah, it’s no surprise you’re laughing.
 CN PLACEHOLDER
-Смейся, но это ничего не изменит.
+Эмм...смейся, но это ничего не изменит.
 
 少年「たぶん、信じてもらえないよね？」%K%P
 You probably don't believe me, do you?
 CN PLACEHOLDER
-Просто... ты мне ни за что не поверишь...
+Просто...ты мне ни за что не поверишь...
 
 少年「ぼくは今……１７年後の未来から……話しかけてるんだ……」%K%P
 Because... I'm talking to you from... seventeen years in the future...
 CN PLACEHOLDER
-Я... говорю с тобой... из будущего, спустя 17 лет...
+Я...говорю с тобой...из 17 лет в будушем...
 
 武「ふーん……１７年後……２０３４年か……」%K%P
 Hmmm... Seventeen years... That'd make it 2034...
 CN PLACEHOLDER
-Хм-м-м... 17 лет... значит, из 2034-го?..
+Хммм......17 лет......значит 2034-й...?
 
 武「ところでお前、どこにいるんだ？　姿が……見えないけど……」%K%P
 By the way, where are you? I can't see you... anywhere...
 CN PLACEHOLDER
-Да, кстати... а ты где вообще? Я тебя... не вижу...
+Да, кстати......а ты где вообще? Я тебя...... не вижу...
 
 少年「お父さんのすぐ近くにいるよ」%K%P
 I'm close by you.
@@ -421,7 +421,7 @@ CN PLACEHOLDER
 武は床にへばりついた背中を引き剥がし、のろのろと立ち上がった。%K%P
 Takeshi peeled himself off the floor where he'd been lying and rose slowly.
 CN PLACEHOLDER
-Отодрав себя от пола, на котором лежал, Такэси медленно поднялся.
+Отодрав себя от пола, на котором лежал, Такеши медленно поднялся.
 
 ぐるりとあたりを見まわす。%K%P
 He looked all around.
@@ -431,7 +431,7 @@ CN PLACEHOLDER
 少年「捜しても、お父さんにはぼくのことは見えないと思う」%K%P
 Even if you look for me, I don't think you can see me.
 CN PLACEHOLDER
-Папа, я не думаю, что ты меня увидишь, хоть усмотрись.
+Папа, я не думаю, что ты меня увидишь, даже если осмотришь здесь каждый закоулок.
 
 少年「ぼくは、見てるだけだから、お父さんのことを……」%K%P
 I'm only looking at you, Dad.
@@ -451,22 +451,22 @@ CN PLACEHOLDER
 少年「だから、もちろん声帯を使って言葉を発してるわけでもない」%K%P
 And it isn't like I'm using a speaker to send my words to you.
 CN PLACEHOLDER
-Я говорю с тобой, не используя голосовых связок.
+Так что... для беседы с тобой я не использую модификаторы голоса.
 
 少年「ぼくは、お父さんの心の中に、直接語りかけてるんだ」%K%P
 I'm connected to your mind, talking to you.
 CN PLACEHOLDER
-Я говорю с тобой прямо через твоё сознание.
+Потому что... папа... я соединён напрямую с твоим разумом, так что...
 
 武は耳の穴をほじった。%K%P
 Takeshi put his finger in his ear and wiggled it.
 CN PLACEHOLDER
-Такэси сунул палец в ухо и покрутил им.
+Такеши сунул палец в ухо и покрутил им.
 
 武「幻聴ってやつか？　俺もとうとう……」%K%P
 I must be hallucinating this. I wonder if I'm...
 CN PLACEHOLDER
-Может, у меня глюки? Наверное, от нехватки кислорода...
+Может у меня глюки? Наверно, от нехватки кислорода...
 
 少年「違うってば！」%K%P
 No!
@@ -486,12 +486,12 @@ CN PLACEHOLDER
 武「ああ、そう言えばさっき、ココが研究所にいるとか何とかって言ってたな？」%K%P
 Oh yeah, you mentioned earlier about Coco in the research facility, right?
 CN PLACEHOLDER
-И правда... ты, кажется, сказал, что Коко где-то в лаборатории?
+И правда...ты, кажется сказал, что Коко где-то в лаборатории, так?
 
 少年「うん、そうなんだ」%K%P
 That's right.
 CN PLACEHOLDER
-Угу, именно.
+У〜гу, именно.
 
 少年「ココは、潜水艇で脱出したわけじゃなかったんだ」%K%P
 Coco didn't get out in one of the submersibles.
@@ -501,12 +501,12 @@ CN PLACEHOLDER
 少年「管制官の言った『要救助者』っていうのは……優と桑古木と……それからあの研究員のことだったんだよ」%K%P
 The man from the rescue squad who told you about the survivors... He was talking about You, Kaburaki, and... the researcher.
 CN PLACEHOLDER
-Человек, что по рации сказал о выживших... имел в виду... Ю, Кабураки и... учёного.
+Человек, что по рации сказал о выживших... имел в виду...Ю, Кабураки и...учёного.
 
 武「嘘、だろ……？」%K%P
 You've got to be joking...?
 CN PLACEHOLDER
-Ты что, шутишь?..
+Ты что, шутишь...?!
 
 少年「とにかく、研究所の中をもう一度調べてみて？」%K%P
 You've got to go back and check the research facility one more time.
@@ -521,7 +521,7 @@ CN PLACEHOLDER
 武は通路を歩きまわった。%K%P
 Takeshi hurried down the corridor.
 CN PLACEHOLDER
-Такэси побежал по коридору.
+Такеши побежал по коридору.
 
 研究所の内部は無音に近かった。%K%P
 The research facility was almost entirely silent.
@@ -531,7 +531,7 @@ CN PLACEHOLDER
 武の靴音だけがひっそりと響いている。%K%P
 The only sound was the echo of Takeshi's shoes against the floor.
 CN PLACEHOLDER
-Единственное, что раздаётся в тишине – стук ботинок Такэси о металлический пол.
+Единственное, что раздаётся в тишине - стук ботинок Такеши о металлический пол.
 
 左へ右へと通路を折れ、しばらく歩き続けたが、人の気配はどこにもなかった。%K%P
 The corridor wound left and right. He searched around but didn't find any signs of anyone.
@@ -551,12 +551,12 @@ CN PLACEHOLDER
 少年「絶対、研究所の中にいるんだ！」%K%P
 I'm telling you she's got to be there somewhere!
 CN PLACEHOLDER
-Говорю же, она где-то здесь!
+Говорю...она где-то здесь!
 
 武はあきれ果てたように首を振った。%K%P
 Takeshi tilted his head a bit, quizzically.
 CN PLACEHOLDER
-Такэси задумчиво наклонил голову.
+Такеши задумчиво наклонил голову.
 
 武「まあ、お前には礼を言っておこう」%K%P
 Well, I suppose I should thank you.
@@ -566,12 +566,12 @@ CN PLACEHOLDER
 武「お前が『お父さん！』なんて狂言じみたことを言って俺を起こさなかったら……」%K%P
 If you hadn't woken me up saying something stupid like 'Dad!'...
 CN PLACEHOLDER
-Если бы ты своим криком „папа“ не разбудил меня...
+Если бы ты своим криком 'папа' не разбудил меня...
 
 武「きっと俺は、あのまま海の藻屑と化してただろうからな」%K%P
 I probably would have drowned...
 CN PLACEHOLDER
-Наверняка я бы уже стал кормом для рыб...
+Наверняка...я бы уже стал кормом для рыб...
 
 少年「体の方は大丈夫？」%K%P
 Are you alright?
@@ -601,27 +601,27 @@ CN PLACEHOLDER
 武「放り出されてと言うか、自分で飛び込んだわけではあるが……」%K%P
 Well, I guess I DID kind of throw myself out there...
 CN PLACEHOLDER
-Хотя я оказался там по собственной воле...
+Хотя, я оказался там по собственной воле...
 
 少年「そのわりには……元気そうに見えるけど……」%K%P
 In spite of all that... you seem to be doing alright to me...
 CN PLACEHOLDER
-По мне так... с тобой всё в порядке...
+По мне так...с тобой всё в порядке...
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「う、うむ、確かに。……つぐみから採取した抗体が、効いてきたのかな」%K%P
 W-Well, I suppose... Tsugumi's antibodies must've kicked in.
 CN PLACEHOLDER
-Н-ну да... Наверное, антитела Цугуми подействовали.
+У-Угу, ну да... Наверно антитела Цугуми подействовали.
 
 あるいは……。%K%P
 Or maybe...
@@ -636,12 +636,12 @@ CN PLACEHOLDER
 いや、そう簡単にＤＮＡの情報が書き換えられるはずはないか……。%K%P
 No, there was no way his DNA could be rewritten so quickly...
 CN PLACEHOLDER
-(Нет, его ДНК не могла так быстро перезаписаться...)
+(Нет, его ДНК не могла быть так быстро перезаписана...)
 
 だが、そう考えれば、武が深海で息を吹き返したことも説明できるような気がする。%K%P
 But that might have been another explanation for why Takeshi recovered so quickly from jumping into the water...
 CN PLACEHOLDER
-(Но может быть и другое объяснение, почему Такэси молниеносно оправился от глубоководного погружения...)
+(Но, возможно, есть и другое объяснение, почему Такеши молниеносно оправился от глубоководного погружения...)
 
 真相はわからない。%K%P
 I had no way of knowing.
@@ -651,17 +651,17 @@ CN PLACEHOLDER
 いずれにせよ、歩き続けているうちに、武の血色は見違えるほど良くなっていた。%K%P
 It didn't matter, though. He looked a lot better after walking around for a while.
 CN PLACEHOLDER
-(Ладно, не важно. После небольшой пробежки он выглядит гораздо лучше.)
+(Ладно, не важно. После небольшой пробежки, он выглядит гораздо лучше.)
 
 たくましささえ感じる。%K%P
 He looked strong, even.
 CN PLACEHOLDER
-(Даже кажется сильнее.)
+Даже кажется сильней.
 
 武はしっかりとした足取りで、通路をどこまでも進んでいった。%K%P
 Takeshi walked down the passageway on steady legs.
 CN PLACEHOLDER
-Такэси устойчиво идёт по коридору на своих двоих.
+Такеши устойчиво идёт по коридору на своих двоих.
 
 十字路に差しかかる。%K%P
 He came to an intersection.
@@ -686,17 +686,17 @@ CN PLACEHOLDER
 武「今、何か……動かなかったか？」%K%P
 Did something just... move right now?
 CN PLACEHOLDER
-Здесь... что-то шевельнулось?
+Здесь...что-то шевельнулось?
 
 ホクトの返事も待たずに、武は走り出した。%K%P
 Without waiting for Hokuto's reply, Takeshi started running.
 CN PLACEHOLDER
-Не дожидаясь ответа Хокуто, Такэси побежал.
+Не дожидаясь ответа Хокуто, Такеши побежал.
 
 武「コ、ココッ！！」%K%P
 C-Coco!
 CN PLACEHOLDER
-К-Коко!
+К-Коко!!
 
 ココが通路に倒れていた。%K%P
 Coco had fallen down in the corridor.
@@ -706,12 +706,12 @@ CN PLACEHOLDER
 武は取り乱し、うろたえながら、ココの体を抱き起こした。%K%P
 Takeshi rushed over to Coco and lifted up her motionless body.
 CN PLACEHOLDER
-Такэси подбежал к Коко и поднял на руки её обездвиженное тело.
+Такеши подбежал к Коко и поднял на руки её обездвиженное тело.
 
 ココ「た、たけぴょん……」%K%P
 Ta-Takepyon...
 CN PLACEHOLDER
-Та-Такэпён...
+Та-Такепён...
 
 ココが小さく口を開く。%K%P
 Coco spoke faintly.
@@ -721,17 +721,17 @@ CN PLACEHOLDER
 武「お前……こんなとこで何を……！？」%K%P
 What... What are you doing here...!?
 CN PLACEHOLDER
-Ч... что здесь делаешь?!
+Ты...что здесь делаешь...!?
 
 ココ「うんとねぇ……うんとねぇ……ピピがねぇ……いなかったからねぇ……」%K%P
 Umm... Well... Pipi wasn't, um... I couldn't find him, and...
 CN PLACEHOLDER
-М-м... Ну... Пипи потерялся... я не могла... его найти...
+Это......это......Пипи потерялся......я не могла......его найти...
 
 ココ「だからねぇ……探しに……来たんだよ……」%K%P
 So I went... looking for him...
 CN PLACEHOLDER
-Потому я... пошла... искать...
+Потому я......пошла......искать...
 
 どうやらココは、救助隊が到着する前に、たった１人でポッドを抜け出し、ピピを探し歩いていたようだ。%K%P
 It appeared that Coco had gotten out of the pod by herself, before the rescue squad had arrived, and gone off looking for Pipi.
@@ -741,32 +741,32 @@ CN PLACEHOLDER
 武「はぁ……お前ってやつは……ほんとに……ほんとに……」%K%P
 You are the most... totally... totally...
 CN PLACEHOLDER
-Эх... Так ты... Прям... прям...
+Эххх......значит ты......правда...... правда......
 
 武は大きくかぶりを振った。%K%P
 Takeshi shook his head, dumbfounded.
 CN PLACEHOLDER
-Такэси потрясённо покачал головой.
+Такеши потрясённо покачал головой.
 
 あきれ果てる武をよそに、ココは無邪気にも、こんな言葉をつぶやくのだった。%K%P
 Coco looked innocently at the exasperated Takeshi and muttered...
 CN PLACEHOLDER
-Коко невинными глазами посмотрела на сердитого Такэси и сказала...
+Коко невинными глазами посмотрела на сердитого Такеши и сказала...
 
 ココ「……ねえ？」%K%P
 Hey...?
 CN PLACEHOLDER
-Эй?..
+Эй...?
 
 ココ「……他のみんなは？」%K%P
 ...Is everyone else...
 CN PLACEHOLDER
-А где все?..
+А где все...?
 
 ココ「……まだ……寝てる……の？」%K%P
 ...Still... sleeping...?
 CN PLACEHOLDER
-Они... ещё... спят... да?..
+Они......ещё......спят......да...?
 
 ココはそれだけ言って、意識を失った。%K%P
 That was all Coco could say before she passed out.
@@ -781,7 +781,7 @@ CN PLACEHOLDER
 ――ドドォォォォォンッ！%K%P
 —BOOOOOooooM!
 CN PLACEHOLDER
-БУ-У-У-У-УМ!
+------БУУУУУууууум!
 
 地響きに似た重低音が、ＩＢＦの隔壁を揺さぶった。%K%P
 A loud explosion shook the walls of IBF.
@@ -806,22 +806,22 @@ CN PLACEHOLDER
 武はココの体を素早く背負い、床を蹴って駆け出した。%K%P
 Takeshi quickly scooped up Coco's body and dashed across the floor.
 CN PLACEHOLDER
-Такэси быстро поднял Коко и рванул по коридору.
+Такеши быстро поднял Коко и рванул по коридору.
 
 懸命に足を振り上げながら、武は虚空に向かって叫んだ。%K%P
 Kicking up his feet, Takeshi screamed to the void.
 CN PLACEHOLDER
-Сбивая ноги, Такэси закричал в пустоту.
+Сбивая ноги, Такеши закричал в пустоту.
 
 武「おいっ、どうすればいいんだ……！？」%K%P
 Hey, what am I supposed to do...!?
 CN PLACEHOLDER
-Э-э-эй! Что мне делать?..
+Эээй! Что мне делать...?!
 
 少年「プールから、泳いで脱出できない！？」%K%P
 Can't you escape by swimming through the pool!?
 CN PLACEHOLDER
-Ты можешь... эвакуироваться через бассейн?
+Ты можешь...эвакуироваться через бассейн?
 
 ホクトが答える。%K%P
 Hokuto answered.
@@ -831,7 +831,7 @@ CN PLACEHOLDER
 武「バカッ！」%K%P
 Idiot!
 CN PLACEHOLDER
-Балда!
+Идиот!
 
 武「ここは水深１１９ｍだぞ！？」%K%P
 It's 119 meters underwater down here!
@@ -851,12 +851,12 @@ CN PLACEHOLDER
 武「ここは１２．５気圧」%K%P
 It's 12.5 atmospheres down here.
 CN PLACEHOLDER
-Потому что здесь 12,5 атмосфер!
+Потому что здесь 12.5 атмосфер!
 
 武「海上は１気圧だ」%K%P
 And the ocean surface is one atmosphere.
 CN PLACEHOLDER
-А на поверхности – одна!
+А на поверхности - одна!
 
 武「減圧しなかったら、まず間違いなく、生きて帰ることはできない」%K%P
 There's no way we can survive unless we get ourselves decompressed.
@@ -886,7 +886,7 @@ CN PLACEHOLDER
 少年「ひとまず、診療室へ！」%K%P
 Well, let's go to the examination room!
 CN PLACEHOLDER
-Тогда скорее в смотровой зал!
+Тогда скорей в смотровой зал!
 
 武「わかってるよ、そんなことは……」%K%P
 Okay...
@@ -896,7 +896,7 @@ CN PLACEHOLDER
 武は診療室へと駆け込んだ。%K%P
 Takeshi ran into the examination room.
 CN PLACEHOLDER
-Такэси вбежал в смотровой зал, хлестнул по кнопке на панели управления и запер дверь.
+Такеши вбежал в смотровой зал, хлестнул по кнопке на панели управления и запер дверь.
 
 操作パネルを叩き、扉を閉鎖する。%K%P
 He hit the control panel and closed the door.
@@ -911,12 +911,12 @@ CN PLACEHOLDER
 流れ込む水の音も聞こえないし、今は震動も収まっている。%K%P
 There was no sound of running water, and the tremors had stopped for the time being.
 CN PLACEHOLDER
-Ни звука бегущей воды... даже тряска сейчас прекратилась.
+Ни звука бегущей воды...даже тряска сейчас прекратилась.
 
 だが、安心してはいられない。%K%P
 But there was still no time to relax.
 CN PLACEHOLDER
-Но на передышку нет времени.
+Но, на передышку нет времени.
 
 ココの肉体は限界をむかえつつあった。%K%P
 Coco's body was rapidly reaching its limit.
@@ -926,7 +926,7 @@ CN PLACEHOLDER
 武はココの体をベッドに横たえた。%K%P
 Takeshi laid Coco down on the bed.
 CN PLACEHOLDER
-Такэси уложил её на кровать и подбежал к столу, стоящему в углу помещения.
+Такеши уложил её на кровать и подбежал к столу, стоящему в углу помещения.
 
 部屋の隅に置かれていたデスクのわきへと駆け寄る。%K%P
 He ran toward the side of the desk at the corner of the room.
@@ -941,22 +941,22 @@ CN PLACEHOLDER
 何か――それはつぐみから採取した『ティーフブラウ・ウイルスの抗体』だった。%K%P
 Something... It was the antibodies for Tief Blau taken from Tsugumi.
 CN PLACEHOLDER
-Это «что-то» – антитела от Tief Blau, взятые из крови Цугуми.
+Это 'что-то' --- 'антитела для Tief Blau', взятые из крови Цугуми.
 
 そう、ココはまだ、それを接種していないのだ。%K%P
 Coco hadn't been inoculated with it yet.
 CN PLACEHOLDER
-Коко всё ещё не сделали «прививку».
+Коко всё ещё не сделали 'прививку'.
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 無言のまま、武は抗体をココの腕に打った。%K%P
 Without a word, Takeshi gave Coco the antibodies.
 CN PLACEHOLDER
-Без единого слова Такэси вколол Коко антитела.
+Без единого слова, Такеши вколол Коко антитела.
 
 ココは苦痛の表情を通り越してぐったりとしている。%K%P
 Coco had long passed the stage of suffering and lay there looking limp.
@@ -966,27 +966,27 @@ CN PLACEHOLDER
 武「頼む……早く効いてくれ……」%K%P
 Come on... Do the trick...
 CN PLACEHOLDER
-Давай же... работай...
+Давай же...работай...
 
 武は注射器を放り捨て、横たわったココの手の平を握りしめた。%K%P
 Takeshi threw the empty syringe away and held onto Coco's hand as she lay there.
 CN PLACEHOLDER
-Отбросив в сторону пустой шприц, Такэси держит Коко за руку.
+Отбросив в сторону пустой шприц, Такеши держит Коко за руку.
 
 ………………。%K%P
 .........
 CN PLACEHOLDER
-..............
+.................
 
 …………。%K%P
 ......
 CN PLACEHOLDER
-........
+...........
 
 ……。%K%P
 ...
 CN PLACEHOLDER
-...
+......
 
 しばらく経っても、ココの病状に変化は現れなかった。%K%P
 A while had passed, but Coco's condition didn't seem to be improving.
@@ -1006,37 +1006,37 @@ CN PLACEHOLDER
 武は壁を殴りつけた。%K%P
 Takeshi banged the wall.
 CN PLACEHOLDER
-Такэси ударил рукой о стену.
+Такеши ударил рукой о стену.
 
 少年「ココは、お父さん達よりも、何日か前に感染してるんだ」%K%P
 Coco was infected a few days earlier than you, Dad.
 CN PLACEHOLDER
-Коко заразилась на несколько дней раньше, чем ты, папа.
+Коко...заразилась несколькими днями ранее, чем ты, папа.
 
 少年「だからそのぶん、病気が進行しちゃってるんだと思う……」%K%P
 So her disease has been progressing for that much longer than everyone else...
 CN PLACEHOLDER
-Вот почему её состояние гораздо хуже, чем у остальных...
+Вот почему...её состояние гораздо хуже, чем у остальных...
 
 武「ちっ、このままじっとしてても始まらないな……」%K%P
 Damn it, we can't just sit here and wait...
 CN PLACEHOLDER
-Чёрт... мы не можем просто сидеть и ждать!..
+Чёрт...мы не можем просто сидеть и ждать...!
 
 武「とにかく脱出方法だ……脱出方法……」%K%P
 Besides, we've got to find a way to escape.
 CN PLACEHOLDER
-Кроме того, мы должны выбраться отсюда... выбраться...
+Кроме того, мы должны выбраться отсюда...... выбраться...
 
 武「何か、手を考えなければ……」%K%P
 I just need to think of something...
 CN PLACEHOLDER
-Ну же, надо что-то придумать...
+Давай, голова, думай. Не зря на плечах растёшь...
 
 武はうなだれながら、うろうろと室内を歩きまわった。%K%P
 Takeshi paced around the room with his head down.
 CN PLACEHOLDER
-Такэси ходит по комнате с опущенной головой.
+Такеши ходит по комнате с опущенной головой.
 
 時折、ゴンゴンと天井から重々しい響きが聞こえて来る。%K%P
 Occasionally, heavy noises echoed from the ceiling.
@@ -1046,7 +1046,7 @@ CN PLACEHOLDER
 その音に、武は耳を傾けた。%K%P
 Takeshi listened to the noises.
 CN PLACEHOLDER
-Такэси прислушался.
+Такеши прислушался.
 
 そして……。%K%P
 And then...
@@ -1056,7 +1056,7 @@ CN PLACEHOLDER
 ふと、何かに気づいたように顔をあげ、武はこんなことをつぶやいた。%K%P
 Takeshi, looking as if he had just realized something, whispered to himself.
 CN PLACEHOLDER
-Словно что-то осознав, прошептал...
+Словно что-то осознал, прошептал...
 
 武「さっき、俺とつぐみが脱出する前、アナウンスがあった」%K%P
 I heard an announcement earlier, before Tsugumi and I escaped.
@@ -1066,12 +1066,12 @@ CN PLACEHOLDER
 武「『圧潰何分前』とかいうドイツ語のアナウンスがな」%K%P
 The announcement said something in German like 'you're gonna be crushed in a few minutes'.
 CN PLACEHOLDER
-„Три минуты до затопления“ – так, кажется он произнёс на немецком...
+'Три минуты до затопления' - так, кажется он произнёс на немецком...
 
 武「なのに、どうしてなんだ？　なんでいまだにこの研究所は無事なんだ？」%K%P
 But this place is still standing. Why is that?
 CN PLACEHOLDER
-Тогда почему здесь всё по-прежнему цело и невредимо?
+Тогда почему... это место по-прежнему цело и невредимо?
 
 少年「そんなこと、ぼくに聞かれてもわからないけど……」%K%P
 I don't know why either...
@@ -1081,22 +1081,22 @@ CN PLACEHOLDER
 少年「でも……もしかしたら……」%K%P
 But... maybe...
 CN PLACEHOLDER
-Но... а что, если...
+Но...а что, если...
 
 武「もしかしたら……なんだ？」%K%P
 Maybe... what?
 CN PLACEHOLDER
-Что... если?
+Что...если?
 
 少年「そのアナウンスは、ＬｅＭＵの圧潰を告げる為のものだったんじゃないかな？」%K%P
 That announcement might have been about LeMU imploding.
 CN PLACEHOLDER
-Я вот думаю... может, это предупреждение было насчёт затопления LeMU?
+Я вот думаю...может это предупреждение было насчёт затопления LeMU?
 
 少年「だって、考えてみてよ？」%K%P
 But think about it...
 CN PLACEHOLDER
-Просто если подумать...
+Просто, если подумать...
 
 少年「この研究所は、内部の気圧と外の水圧が、同じになるように保たれてるんだよ？」%K%P
 This laboratory has been built so that the atmosphere on the inside and outside are equal.
@@ -1106,17 +1106,17 @@ CN PLACEHOLDER
 少年「力が釣り合ってるんだから、そう簡単に潰れることはないんだと思う……」%K%P
 Since they're still balanced, it probably won't implode as easily...
 CN PLACEHOLDER
-Если давление по-прежнему в балансе, её не так просто затопить...
+Если давление по-прежнему в балансе, её не так просто затопить....
 
 確かにそうかも知れなかった。%K%P
 That must have been it.
 CN PLACEHOLDER
-Трудно сказать... хотя, может так и есть.
+Трудно сказать...хотя, может так и есть.
 
 カラのペットボトルにキャップをして、地上の空気中に放置しておいたところで、それは何年経っても潰れはしない。%K%P
 If you left the cap on an empty plastic bottle, even if you came back years later, the air would still be trapped inside.
 CN PLACEHOLDER
-Если герметично закупорить пластиковую бутылку, то даже по прошествии нескольких лет воздух внутри никуда не денется.
+Если герметично закупорить пластиковую бутылку, то, даже по прошествии нескольких лет, воздух внутри никуда не денется.
 
 どこかに強烈な力が加わらない限り……。%K%P
 Which meant that the laboratory should have been safe...
@@ -1126,7 +1126,7 @@ CN PLACEHOLDER
 例えば、倒壊したＬｅＭＵの隔壁の、巨大な塊が落ちてくるとか……。%K%P
 Unless extreme force was added from somewhere...
 CN PLACEHOLDER
-По крайней мере, пока на неё не свалится что-то тяжёлое...
+По крайней мере, пока на неё не свалится нечто тяжёлое...
 
 そういうことがない限り、研究所は安全なのだ。%K%P
 Such as a giant piece of partition from LeMU falling on it.
@@ -1136,12 +1136,12 @@ CN PLACEHOLDER
 武はホクトの説明を聞いて、頷いた。%K%P
 Takeshi nodded upon hearing Hokuto's explanation.
 CN PLACEHOLDER
-Хоть он и не до конца был убеждён...
+Несмотря на оставшиеся частички сомнения...
 
 納得したようには見えなかったが……%K%P
 Although he didn't seem to be fully convinced...
 CN PLACEHOLDER
-Такэси кивнул, выслушав объяснение Хокуто.
+Такеши кивнул, выслушав объяснение Хокуто.
 
 ひとまず、その解釈を肯定することで、目の前に立ち並んだ危機のひとつを払拭しようと思ったのだろう。%K%P
 By accepting the explanation, he was probably trying to clear one of the many problems facing him at the moment.
@@ -1151,27 +1151,27 @@ CN PLACEHOLDER
 時間は刻一刻と進んで行き、時が経過するごとにココの病状は悪化していくばかりだった。%K%P
 As time progressed, Coco's condition got worse and worse.
 CN PLACEHOLDER
-Меж тем, Коко всё хуже и хуже.
+А, меж тем, Коко всё хуже и хуже.
 
 武「ちきしょうっ！　なんでこんなことに！　なんで！　なんで！　なんでなんだよ！」%K%P
 Damn it! Why is this all happening? Why!? Why!? Why!?
 CN PLACEHOLDER
-Проклятье! Ну почему всё так? Почему?! Почему?! Почему, чёрт побери?!
+Проклятье! Ну почему всё так? Почему!? Почему!? Почему, чёрт побери!?
 
 武はガンガンと壁を蹴った。%K%P
 Takeshi kicked the wall.
 CN PLACEHOLDER
-Такэси ударил кулаком о стену.
+Такеши ударил кулаком о стену.
 
 少年「お父さんが……もっと早く抗体を打ってあげてれば……」%K%P
 Well, Dad... you should have given her the antibody earlier...
 CN PLACEHOLDER
-Папа... надо было вколоть ей антитела раньше...
+Папа......надо было вколоть ей антитела раньше...
 
 武「あん！？　んなこと言ったってしょうがないだろ！」%K%P
 Huh!? It's a little late for that now, isn't it!?
 CN PLACEHOLDER
-А?! А не поздно ли ты спохватился?!
+Хааа?! А не поздно ли ты спохватился?!
 
 武「あのときココは、ポッドの中で加圧状態にあったんだ！」%K%P
 Besides, Coco was in the pod under pressure at that time!
@@ -1186,12 +1186,12 @@ CN PLACEHOLDER
 少年「でも……フタをあけなくても注射ぐらいできたはずだよ」%K%P
 But... you could've given her a shot without opening the lid.
 CN PLACEHOLDER
-Но... сделать укол можно было... и не открывая люк.
+Но...сделать укол можно было...и не открывая люк.
 
 少年「だって優が言ってたじゃないか……」%K%P
 Because You said...
 CN PLACEHOLDER
-Потому что... Ю сказала...
+Потому что...Ю сказала...
 
 優「高圧酸素治療の他にも、レーザーでの減菌やら、簡単な手術のできる機能も備わってるらしいし……」%K%P
 It seems that this pod can also do laser disinfecting, as well as simple surgery, in addition to the oxygen treatment.
@@ -1201,27 +1201,27 @@ CN PLACEHOLDER
 優「使い方によっては、ハイバネーションすら可能のようだけど……」%K%P
 And depending on how you use it, even cryogenic suspension...
 CN PLACEHOLDER
-И в зависимости от условий даже криогенную гибернацию, но...
+И, в зависимости от условий, даже криогенную гибернацию, но...
 
 少年「それだけの機能があるんだったら、きっと注射だって……」%K%P
 Since it has so many other functions, it probably should be able to give an injection...
 CN PLACEHOLDER
-Раз в нём столько функций... наверняка есть и такая...
+Раз в нём столько функций...наверняка есть и такая...
 
 武「でも、優は『フタを閉めたまま注射ができる』なんてひとことも言ってなかったぞ？」%K%P
 But You didn't say a word about being able to give shots without opening the lid, did she?
 CN PLACEHOLDER
-Но Ю... ничего не сказала насчёт „уколов без открывания крышки“.
+Но, Ю......ничего не сказала насчёт 'уколов без открывания крышки'.
 
 武「あいつが言わなかったってことは、それが不可能だからだろ……」%K%P
 And if she didn't mention it, it must not be possible...
 CN PLACEHOLDER
-А если не сказала, то значит, что это невозможно...
+А если не сказала, значит это невозможно...
 
 武「もちろん、俺や少年は、装置のことなんてまったくわからないしな」%K%P
 Besides, neither you nor I have any idea what this device can do.
 CN PLACEHOLDER
-Да и потом, ни я, ни ты не знаем, на что способна эта хреновина.
+Да и потом, ни я, ни ты, не знаем, на что способна эта хреновина.
 
 武「だいたい、ハイバネーションって何なんだよ？」%K%P
 What's cryogenic suspension anyway?
@@ -1246,22 +1246,22 @@ CN PLACEHOLDER
 武「って……あの、熊とかカエルとかがするやつか？」%K%P
 You mean... like bears do in the winter?
 CN PLACEHOLDER
-То есть... как у медведя по зиме?
+То есть...как у медведя или лягушки?
 
 少年「うん」%K%P
 Yeah.
 CN PLACEHOLDER
-Угу.
+У〜гу.
 
 少年「ハイバネーション機能があるってことは、つまり、人工冬眠ができるってことだと思う」%K%P
 I'm pretty sure that cryogenic suspension means you can artificially induce hibernation.
 CN PLACEHOLDER
-Гибернация – это... спячка, вызванная искусственно.
+Гибернация - это... спячка, вызванная искусственно.
 
 少年「人間の体を、６度から７度ぐらいの低体温状態に保って、心拍数と呼吸数をギリギリまで減らす……」%K%P
 It keeps human body temperature low, around six to seven degrees Celcius, and reduces your heartbeat and breathing to the absolute minimum...
 CN PLACEHOLDER
-При этом у человека понижается температура тела, где-то до 6-7 градусов по Цельсию, а сердцебиение и дыхание сводятся к абсолютному минимуму...
+При этом, у человека понижается температура тела, где-то до 6-7 градусов по Цельсию, а сердцебиение и дыхание сводятся к абсолютному минимуму...
 
 少年「そうすることによって、代謝効率をさげて、エネルギーを極力消費しないようにするんだ」%K%P
 That way, it increases your metabolic efficiency and conserves as much energy as possible.
@@ -1271,37 +1271,37 @@ CN PLACEHOLDER
 武「ふーん……」%K%P
 I see...
 CN PLACEHOLDER
-Хм-м-м...
+Хммм...
 
 武「だけど、なんでそんなもんがここに……」%K%P
 Hey, I wonder why they have it here...
 CN PLACEHOLDER
-Я вот думаю, а нафига она им вообще здесь нужна?..
+Я вот думаю, а нафига она им вообще здесь нужна...?
 
 言いかけて、武は動きを止めた。%K%P
 In the middle of saying that, Takeshi stopped suddenly.
 CN PLACEHOLDER
-Внезапно Такэси замолк на полуслове.
+Внезапно, Такеши замолк на полуслове.
 
 同時に、ホクトの思考も停止したのがわかった。%K%P
 At the same time, Hokuto's thoughts stopped too.
 CN PLACEHOLDER
-В то же время размышления Хокуто остановились.
+В то же время, размышления Хокуто остановились.
 
 そして、ふたりは声をあわせ、一斉にこう叫んだ。%K%P
 And then they screamed out at the same time.
 CN PLACEHOLDER
-И тут, практически в унисон, они воскликнули.
+И тут, практически в унисон, они воскрикнули.
 
 武「そうだ！　冬眠させちまえばいいんだ！」%K%P
 I got it! We'll put her in cryogenic suspension!
 CN PLACEHOLDER
-Точно! Мы погрузим Коко в гибернацию!
+Точно! Мы погрузим Коко в спячку!
 
 少年「そうだ！　冬眠させればいいんだよ！」%K%P
 I got it! We can put her in cryogenic suspension!
 CN PLACEHOLDER
-Точно! Мы можем погрузить Коко в гибернацию!
+Точно! Мы можем погрузить Коко в спячку!
 
 武「低体温状態に保てるってことは、ウイルスが体を蝕んで行く速度も遅くできるってことだよな？」%K%P
 If her body temperature is kept low, it'll slow down the rate of the virus infection too, right?
@@ -1311,32 +1311,32 @@ CN PLACEHOLDER
 少年「うん！」%K%P
 Yeah!
 CN PLACEHOLDER
-Точно!
+У〜гу!
 
 武「よしっ、今はとにかく時間だ、時間さえあれば、きっとなんとかなる……」%K%P
 Alright! All we need now is a little more time. If we have time, I'm sure it'll work...
 CN PLACEHOLDER
-Ништяк! Всё, что нам нужно – выгадать немного времени, и всё пойдёт как по маслу...
+Ништяк! Всё что нам нужно - выгадать немного времени, и всё пойдёт как по маслу......
 
 少年「１分でも１秒でもいいから、ウイルスの侵攻速度を遅くできれば……それに越したことはないし」%K%P
 If we can slow down that virus even for a minute, or a second... it'll be better than nothing.
 CN PLACEHOLDER
-Если это поможет замедлить вирус, хоть на минуту, хоть на секунду... это будет лучше, чем ничего.
+Если это поможет замедлить вирус, хоть на минуту, хоть на секунду...это будет лучше чем ничего.
 
 武「そうと決まれば早速……」%K%P
 Alright then...
 CN PLACEHOLDER
-Ну что же, решение принято!..
+Ну что же, решение принято...!
 
 武はぐったりとしたココを抱きかかえ、ポッドの中に運び込んだ。%K%P
 Takeshi carried the frail Coco and set her into the pod.
 CN PLACEHOLDER
-Такэси поднял хрупкую Коко и уложил в модуль.
+Такеши поднял хрупкую Коко и уложил в модуль.
 
 続いてマニュアルのページを凄まじい速度でめくり、にらみつけた。%K%P
 Then he started flipping through the manual at full speed, skimming it.
 CN PLACEHOLDER
-Затем на бешеной скорости стал листать и бегло прочитывать руководство по эксплуатации.
+Затем, на бешеной скорости, стал листать и бегло прочитывать руководство по эксплуатации.
 
 どうやら設定はたいして難しいものではなかったらしい。%K%P
 It didn't seem too difficult to set up.
@@ -1346,7 +1346,7 @@ CN PLACEHOLDER
 武は、武らしからぬ俊敏な動作で、華麗に、めまぐるしく端末を操った。%K%P
 Takeshi, unlike his usual self, manipulated the computer terminal swiftly and smoothly.
 CN PLACEHOLDER
-Такэси, не походя на себя самого, быстро и чётко настраивает компьютерный терминал.
+Такеши, не походя на себя самого, быстро и чётко настраивает компьютерный терминал.
 
 やがて……。%K%P
 Then...
@@ -1366,27 +1366,27 @@ CN PLACEHOLDER
 カバーを閉鎖するスイッチに、武は手を伸ばした。%K%P
 Takeshi reached out his hand to the switch that would close the lid.
 CN PLACEHOLDER
-Такэси дотянулся до выключателя, чтобы закрыть модуль.
+Такеши дотянулся до выключателя, чтобы закрыть модуль.
 
 スイッチを入れる直前……ココが静かに目をあけた。%K%P
 A split second before he flipped the switch... Coco quietly opened her eyes.
 CN PLACEHOLDER
-Но за долю секунды до того, как тот успел щёлкнуть выключателем... Коко приоткрыла свои глаза.
+Но, за долю секунды до того, как тот успел щёлкнуть выключателем...Коко приоткрыла свои глаза.
 
 ココ「誰……？」%K%P
 Who is that...?
 CN PLACEHOLDER
-Кто там?..
+Кто там...?
 
 武「えっ？」%K%P
 What?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 ココ「たけぴょんの後ろに立ってるのは、誰……？」%K%P
 Who's standing behind you, Takepyon...?
 CN PLACEHOLDER
-Такэпён, за твоей спиной... кто это?..
+Такепён, за твоей спиной......кто это...?
 
 武「俺の後ろ？」%K%P
 Behind me?
@@ -1396,7 +1396,7 @@ CN PLACEHOLDER
 武は振り返った。%K%P
 Takeshi looked back.
 CN PLACEHOLDER
-Такэси огляделся.
+Такеши огляделся.
 
 そこにはホクトがいた。%K%P
 Hokuto was there.
@@ -1411,27 +1411,27 @@ CN PLACEHOLDER
 ココ「うん、見える……」%K%P
 Yeah, I do...
 CN PLACEHOLDER
-Угу... вижу...
+У〜гу......вижу...
 
 少年「ココ……ぼくだよ、ホクトだよ」%K%P
 Coco... It's me, Hokuto.
 CN PLACEHOLDER
-Коко... это я... Хокуто.
+Коко...это я...Хокуто.
 
 ココ「ホクト……」%K%P
 Hokuto...
 CN PLACEHOLDER
-Хокуто?..
+Хокуто...?
 
 ココ「ホクトって言うんだ……？」%K%P
 Hokuto is your name...?
 CN PLACEHOLDER
-Хокуто... так тебя зовут?..
+Хокуто...так тебя зовут...?
 
 ココ「じゃあ、ホクたんって、呼んでもいい……？」%K%P
 Can I call you Hokutan...?
 CN PLACEHOLDER
-Тогда... можно звать тебя... Хокутан?..
+Тогда...можно звать тебя...Хокутан...?
 
 この時代のココは、ホクトのことをまだ知らないのか。%K%P
 The Coco of that time didn't seem to know Hokuto yet.
@@ -1441,22 +1441,22 @@ CN PLACEHOLDER
 じゃあ、あの幻影の少女は一体……？%K%P
 So who was the phantom girl that I had been seeing...?
 CN PLACEHOLDER
-Тогда... кто эта девочка-призрак, которую я видел?..
+Тогда...кто эта девочка-призрак, которую я видел...?
 
 武「ホクト……」%K%P
 Hokuto...
 CN PLACEHOLDER
-Хокуто...
+Хокуто...?
 
 武「それが、お前の名前なのか？」%K%P
 Is that your name?
 CN PLACEHOLDER
-Значит... тебя так зовут?
+Значит...тебя так зовут?
 
 少年「う、うん」%K%P
 Uh-huh.
 CN PLACEHOLDER
-А-ага...
+У-гу...
 
 武「そうか」%K%P
 Really.
@@ -1471,12 +1471,12 @@ CN PLACEHOLDER
 武「俺には見えないが、そのホクトってやつが、俺たちのことを助けてくれたんだぞ？」%K%P
 I can't see him, but this guy Hokuto helped us, you know.
 CN PLACEHOLDER
-Я не вижу его... но, этот паренёк по имени Хокуто спас нас.
+Я не вижу его...но, этот паренёк по имени Хокуто спас нас.
 
 ココ「ホクたん……」%K%P
 Hokutan...
 CN PLACEHOLDER
-Хокутан...
+Хокутааан...
 
 ココ「ありがとう……」%K%P
 Thank you...
@@ -1491,12 +1491,12 @@ CN PLACEHOLDER
 ココ「それから……もうひとりの……きみも……」%K%P
 And... the other person... you...
 CN PLACEHOLDER
-А ещё... спасибо... ему...
+А ещё......спасибо......ему...
 
 ココ「ありが……とう……」%K%P
 Thank... you....
 CN PLACEHOLDER
-Спаси... бо...
+Спаси......бо...
 
 武「もうひとり？　もうひとり、誰かいるのか？」%K%P
 Other person? There's someone else?
@@ -1506,22 +1506,22 @@ CN PLACEHOLDER
 ココ「うん、いる……」%K%P
 Yeah, there is...
 CN PLACEHOLDER
-Угу... есть...
+У〜гу......есть...
 
 ココ「ホクたんの向こうに……見える……」%K%P
 I can see him... behind Hokutan...
 CN PLACEHOLDER
-Хокутан... он стоит... за тобой...
+Хокутан......он стоит......за тобой...
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 沈黙が部屋に満ちた。%K%P
 Silence filled the room.
@@ -1531,7 +1531,7 @@ CN PLACEHOLDER
 なぜかいきなり、室温がぐんと上がったような気がした。%K%P
 The room temperature suddenly felt lower for some reason.
 CN PLACEHOLDER
-Почему-то внутри стало холоднее.
+Почему-то, внутри стало холодней.
 
 ココは……。%K%P
 Coco...
@@ -1541,7 +1541,7 @@ CN PLACEHOLDER
 ココは今……ボクのことを見ていた……。%K%P
 Coco was... looking at me.
 CN PLACEHOLDER
-Коко... смотрит на меня.
+Коко...смотрит на меня.
 
 ただ、ボクだけのことを……。%K%P
 Just me...
@@ -1566,7 +1566,7 @@ CN PLACEHOLDER
 ココ「そう、きみの、こと」%K%P
 Yes, you.
 CN PLACEHOLDER
-Да... про... тебя...
+Да......про......тебя...
 
 ココ「やっと会えたね……？」%K%P
 We finally meet...
@@ -1576,17 +1576,17 @@ CN PLACEHOLDER
 ＢＷ「……えっ？」%K%P
 ...Huh?
 CN PLACEHOLDER
-...А?
+...эээ?
 
 ココ「ココ、ホクたんのことは、知らないけど……」%K%P
 I don't know Hokutan, but...
 CN PLACEHOLDER
-Я не знаю Хокутана, но...
+Коко...не знает Хокутана...но...
 
 ココ「きみのことは、知ってるんだよ……？」%K%P
 But I sure know you...
 CN PLACEHOLDER
-Я знаю... тебя...
+Я знаю......тебя...
 
 ココ「だって……」%K%P
 Because...
@@ -1596,12 +1596,12 @@ CN PLACEHOLDER
 ココ「だって……ずっと……ココのこと、見守って、くれてたでしょ？」%K%P
 Because... all this time... you've been watching over me, haven't you?
 CN PLACEHOLDER
-Потому что... всё это время... ты наблюдал за мной... ведь так?
+Потому что...всё это время...ты наблюдал за Коко...ведь так?
 
 ＢＷ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「４次元人間、さん……」%K%P
 Fourth dimension-san...
@@ -1616,27 +1616,27 @@ CN PLACEHOLDER
 ＢＷ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「またひよこごっこ、やろうね？」%K%P
 Let's play chicks again some time.
 CN PLACEHOLDER
-Давай снова... сыграем в „цыпочек“...
+Давай снова......сыграем в 'цыпочек'...
 
 ココ「ぴよぴよって……ぴよぴよって……」%K%P
 We go piyo-piyo... Piyo-piyo...
 CN PLACEHOLDER
-Пьё-пьё... пьё-пьё...
+Пьё〜пьё〜〜〜......пьё〜пьё〜〜〜...
 
 武「ココ……それは俺と……」%K%P
 Coco... I was the one...
 CN PLACEHOLDER
-Коко... это же я...
+Коко...это же я...
 
 ココ「ふふっ」%K%P
 Hee.
 CN PLACEHOLDER
-Хе-хе...
+Хе〜хе...
 
 ココの頬が微かにゆるんだ。%K%P
 Coco's cheeks eased up a little.
@@ -1646,17 +1646,17 @@ CN PLACEHOLDER
 ココ「たけぴょんには、わからないと、思うけど……」%K%P
 I don't think you knew it, Takepyon, but...
 CN PLACEHOLDER
-Такэпён, ты, наверное, не в курсе, но...
+Такепён, ты наверно не в курсе, но...
 
 ココ「ココは、たけぴょんだけじゃなくて、この人とも、遊んだの」%K%P
 I was playing with him too, not just you.
 CN PLACEHOLDER
-Я... играла не только с тобой... но ещё и... с ним.
+Коко...играла не только с Такепёном...но, ещё и...с ним.
 
 ココ「ね？　そうだよね？」%K%P
 Huh? Isn't that right?
 CN PLACEHOLDER
-А?.. Так всё и было?..
+Эй...? Так всё и было...?
 
 ココはボクに問いかけていた。%K%P
 Coco was asking me.
@@ -1666,7 +1666,7 @@ CN PLACEHOLDER
 ＢＷ「う、うん……」%K%P
 Uh-huh...
 CN PLACEHOLDER
-Ага...
+А〜га....
 
 ＢＷ「ボクは、確かにココのこと、ずっと、見てたのかも知れない」%K%P
 I might have been watching over Coco for all this time.
@@ -1681,27 +1681,27 @@ CN PLACEHOLDER
 ＢＷ「できることなら、もっと近づきたいとさえ、思ってた」%K%P
 I wanted to get closer to you too.
 CN PLACEHOLDER
-А ещё хотел стать ближе к тебе.
+А ещё, хотел стать ближе к тебе.
 
 ＢＷ「でも、そんなことは……きっと無理で……」%K%P
 But it was probably... not possible...
 CN PLACEHOLDER
-Но наверное это было... Невозможно...
+Но, наверно это было...невозможно...
 
 ココ「ふふっ……」%K%P
 Heehee...
 CN PLACEHOLDER
-И-хи-хи...
+И〜хи〜хи...
 
 ココ「ほいじゃあさあ……ココに、告白したのも、きみだったの、かな？」%K%P
 Then... you were the one who told me that you liked me?
 CN PLACEHOLDER
-Значит... это ты... сказал мне... что я... тебе... нравлюсь?
+Значит...это ты...сказал Коко...что она... тебе...нравится?
 
 ＢＷ「うん、そうかも知れない……」%K%P
 Yes, I suppose I was...
 CN PLACEHOLDER
-Да, наверное, так и есть...
+Да, наверно так и есть...
 
 ＢＷ「……そうかも、知れない……」%K%P
 ...I suppose I was...
@@ -1711,7 +1711,7 @@ CN PLACEHOLDER
 ボクとココは視線を重ねた。%K%P
 Coco and I looked at each other.
 CN PLACEHOLDER
-Мы с Коко смотрим друг на друга.
+Коко и я смотрим друг на друга.
 
 見つめあう……。%K%P
 We were staring at each other...
@@ -1731,7 +1731,7 @@ CN PLACEHOLDER
 ココ「ココ、これから、どうなっちゃうの？」%K%P
 What's going to happen to me?
 CN PLACEHOLDER
-Что... будет... со мной?..
+Что...будет...с...Коко...?
 
 ふいに、ココの瞳の奥に陰が射した。%K%P
 All of a sudden, a dark shadow had covered Coco's eyes.
@@ -1741,7 +1741,7 @@ CN PLACEHOLDER
 ココ「ココ……死んじゃうの？」%K%P
 Am I... going to die?
 CN PLACEHOLDER
-Я... умру?
+Коко......умрёт?
 
 ＢＷ「バカッ！　死ぬわけないだろ！」%K%P
 Don't be silly! There's no way you're going to die!
@@ -1781,7 +1781,7 @@ CN PLACEHOLDER
 武「ココ……そういうわけだ……」%K%P
 Coco... Basically...
 CN PLACEHOLDER
-Коко... ты поняла?..
+Коко...ты поняла...?
 
 武「俺達が必ずおまえを救ってみせる」%K%P
 We're going to save you no matter what.
@@ -1796,7 +1796,7 @@ CN PLACEHOLDER
 そう言って、武はポッドを閉めようとした。%K%P
 As he was saying that, Takeshi went to close the pod.
 CN PLACEHOLDER
-С этими словами Такэси подошёл поближе к модулю.
+С этими словами, Такеши подошёл поближе к модулю.
 
 ココ「待って！」%K%P
 Wait!
@@ -1811,27 +1811,27 @@ CN PLACEHOLDER
 武「少しの間だけ、眠るんだよ、熊さんみたいにな」%K%P
 You're going to sleep for a while, just like a cuddly bear.
 CN PLACEHOLDER
-Ты просто немного поспишь... как мишка...
+Ты просто немного поспишь......как мишка...
 
 ココ「いや……」%K%P
 No...
 CN PLACEHOLDER
-Нет...
+Нет...!
 
 ココ「お願い……ココを置いてかないで……」%K%P
 Please... don't leave me...
 CN PLACEHOLDER
-Умоляю... не бросайте меня...
+Умоляю...не бросайте Коко...!
 
 ココ「どこにも、行かないで……」%K%P
 Don't go anywhere...
 CN PLACEHOLDER
-Не уходите... никуда...
+Не уходите......никуда...
 
 ココ「ひとりぼっちに、しないで……」%K%P
 Don't leave me alone...
 CN PLACEHOLDER
-Не оставляйте меня одну...
+Не оставляйте меня одну...!
 
 武「ひとりぼっちになんかするわけないだろ？」%K%P
 We're not going to leave you alone, are we?
@@ -1841,7 +1841,7 @@ CN PLACEHOLDER
 武「俺達が、ずっとそばにいてやる」%K%P
 We're going to stay right here.
 CN PLACEHOLDER
-Никто... никуда не уйдёт.
+Никто...никуда не уйдёт.
 
 ココ「嘘だもん……」%K%P
 You're lying...
@@ -1851,7 +1851,7 @@ CN PLACEHOLDER
 ココ「ココ、そんなの信じない……」%K%P
 I don't believe you...
 CN PLACEHOLDER
-Я... тебе не верю...
+Коко...тебе не верит...
 
 武「わがまま言うな！」%K%P
 Quit being so stubborn!
@@ -1861,47 +1861,47 @@ CN PLACEHOLDER
 武「このままじゃ、ほんとにお前は……お前は……」%K%P
 If we leave you like this, you're going to... You're going to...
 CN PLACEHOLDER
-Если мы этого не сделаем, ты... ты...
+Если мы этого не сделаем, ты......ты......
 
 ココ「いや……いや……いや……」%K%P
 No... No... No...
 CN PLACEHOLDER
-Нет... нет... не-е-ет...
+Нет...нет...нееет...!
 
 ココ「いやなの……」%K%P
 I don't want to...
 CN PLACEHOLDER
-Я не хочу...
+Я не хочу...!
 
 ココ「ひとりぼっち、寂しいから、いやなの」%K%P
 I don't want to be all by myself. I'll be too lonely.
 CN PLACEHOLDER
-Мне... будет одиноко... я не хочу...
+Мне...будет одиноко...я не хочу...!
 
 ココ「怖いの……怖いの……とっても……」%K%P
 I'm scared... I'm... so, so scared...
 CN PLACEHOLDER
-Страшно... страшно... мне...
+Страшно......страшно......мне...
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ＢＷ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「じゃあ、たけぴょん、一緒に……」%K%P
 Takepyon, will you...
 CN PLACEHOLDER
-Тогда... Такэпён... ты...
+Тогда......Такепён...ты...
 
 ココ「一緒に……添い寝して……くれる？」%K%P
 Lie down... and... sleep next to me?
 CN PLACEHOLDER
-Ты... заснёшь... вместе со мной?
+Ты......заснёшь......вместе со мной?
 
 武「無理言うな……」%K%P
 There's no way...
@@ -1916,12 +1916,12 @@ CN PLACEHOLDER
 言いかけて、武は言葉を切った。%K%P
 Takeshi stopped in the middle of what he was saying.
 CN PLACEHOLDER
-Такэси в очередной раз остановился на полуслове.
+Такеши, в очередной раз, остановился на полуслове.
 
 天井を仰ぎ見て、柱に取り付けられたモニターを見て、最後にココの隣のポッドへと視線を向けた。%K%P
 He looked up at the ceiling, then to the monitor on the wall, and finally to the pod next to Coco.
 CN PLACEHOLDER
-Он взглянул на потолок, затем на монитор на стене и, наконец, на модуль рядом с Коко.
+Он взглянул на потолок, затем на монитор на стене, и наконец на модуль рядом с Коко.
 
 武「よし、じゃあ、こうしよう」%K%P
 Alright, how about this then?
@@ -1931,7 +1931,7 @@ CN PLACEHOLDER
 ココ「……？」%K%P
 ...?
 CN PLACEHOLDER
-?
+.........
 
 武「ココの隣のポッドに、俺が寝る」%K%P
 I'll sleep in the pod next to you.
@@ -1946,7 +1946,7 @@ CN PLACEHOLDER
 ココは武とボクを交互に見た。%K%P
 Coco looked back and forth between Takeshi and me.
 CN PLACEHOLDER
-Коко с тревожным взглядом смотрит то на меня, то на Такэси...
+Коко, с тревожным взглядом, смотрит...то на меня, то на Такеши...
 
 眉根を寄せて、きゅっとくちびるをかみながら……。%K%P
 She had a worried look on her face...
@@ -1961,12 +1961,12 @@ CN PLACEHOLDER
 ココ「ほんとに……？」%K%P
 Really...?
 CN PLACEHOLDER
-Правда?..
+Правда...?
 
 ココ「嘘つかない……？」%K%P
 You aren't lying...?
 CN PLACEHOLDER
-Ты не врёшь?..
+Это не ложь...?
 
 武「ああ」%K%P
 Of course not.
@@ -1976,17 +1976,17 @@ CN PLACEHOLDER
 ココ「絶対だよ……？」%K%P
 You promise...?
 CN PLACEHOLDER
-Обещаешь?..
+Обещаешь...?
 
 ココ「ココを置いて、行っちゃやだよ？」%K%P
 You won't leave me and go?
 CN PLACEHOLDER
-Ты не оставишь меня?
+Ты не оставишь...Коко?
 
 武「行かないよ、行くわけないだろ？」%K%P
 I wouldn't do that. Of course I won't go.
 CN PLACEHOLDER
-Ни за что. Я не брошу тебя.
+Ни за какие коврижки, я не сдвинусь с этого места.
 
 ココ「わかった……」%K%P
 Alright then...
@@ -1996,7 +1996,7 @@ CN PLACEHOLDER
 ココ「ココ、たけぴょんのこと、信じる」%K%P
 I trust you, Takepyon.
 CN PLACEHOLDER
-Я... верю тебе, Такэпён...
+Коко...верит Такепёну...
 
 武「よし、いい子だ」%K%P
 That's a good girl.
@@ -2006,7 +2006,7 @@ CN PLACEHOLDER
 武がココの頭をなでる。%K%P
 Takeshi petted Coco's head.
 CN PLACEHOLDER
-Такэси погладил Коко по голове.
+Такеши погладил Коко по голове.
 
 武「じゃあ、閉めるぞ、ココ？」%K%P
 I'm going to close it now, okay, Coco?
@@ -2016,12 +2016,12 @@ CN PLACEHOLDER
 ココ「う、うん……」%K%P
 Uh-huh...
 CN PLACEHOLDER
-У-угу...
+Эхх...у〜гу...
 
 武がスイッチを押した。%K%P
 Takeshi turned on the switch.
 CN PLACEHOLDER
-Такэси щёлкнул выключателем.
+Такеши щёлкнул выключателем.
 
 ポッドのカバーが、ゆっくりと、ゆっくりと、下りて行く。%K%P
 The lid of the pod slowly went down.
@@ -2031,12 +2031,12 @@ CN PLACEHOLDER
 ココ「ねえ？」%K%P
 Hey?
 CN PLACEHOLDER
-Э-э-эй!
+Эээй!
 
 ココ「おやすみする前に、ひとつだけ、願い事、きいてくれる？」%K%P
 Before I go to sleep, will you listen to my request?
 CN PLACEHOLDER
-Прежде чем я усну... ты... выслушаешь... мою... просьбу?
+Прежде чем я усну...ты...выслушаешь...мою... просьбу?
 
 武「願い事？」%K%P
 Request?
@@ -2046,7 +2046,7 @@ CN PLACEHOLDER
 ココ「たけぴょんに言ったんじゃ、ないよぉ……」%K%P
 I wasn't talking to you, Takepyon...
 CN PLACEHOLDER
-Такэпён, я не с тобой... разговариваю...
+Такепён, я не с тобой...разговариваю...
 
 ココの視線は、ボクの方へと向けられていた。%K%P
 Coco's eyes were pointing toward me.
@@ -2066,37 +2066,37 @@ CN PLACEHOLDER
 ココ「あのね？　ココね？　ココね？」%K%P
 Well, um... I...
 CN PLACEHOLDER
-Ну-у... Я... Я...
+Эмм...Коко...Коко...
 
 ココ「きみに、あいたい」%K%P
 I want to see you.
 CN PLACEHOLDER
-Хочу увидеть тебя.
+Хочет увидеть тебя.
 
 ＢＷ「……えっ？」%K%P
 ...What?
 CN PLACEHOLDER
-...Что?
+...эээ?
 
 ココ「きみにもう一度、あいたい」%K%P
 I want to see you again.
 CN PLACEHOLDER
-Хочу увидеть тебя снова.
+Хочет увидеть тебя снова.
 
 ココ「あって、あって、もっといっぱい、お話し、したいの」%K%P
 I want to see you and talk with you more.
 CN PLACEHOLDER
-Я хочу ещё пообщаться с тобой.
+Правда...правда...я хочу ещё...пообщаться с тобой.
 
 ＢＷ「う、うん」%K%P
 Uh-huh.
 CN PLACEHOLDER
-Угу...
+У〜гу...
 
 ココ「もしかしたら、ココ……」%K%P
 I think that I...
 CN PLACEHOLDER
-Возможно... я...
+Возможно...Коко...
 
 ココ「きみのこと……」%K%P
 I might just...
@@ -2106,12 +2106,12 @@ CN PLACEHOLDER
 ココ「きみの、こと……」%K%P
 It's just that I...
 CN PLACEHOLDER
-Тебя... не...
+Тебя...не...
 
 ＢＷ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「ダメだ……」%K%P
 Oh...
@@ -2126,17 +2126,17 @@ CN PLACEHOLDER
 ＢＷ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ココ「でも、約束、して？」%K%P
 But will you promise me?
 CN PLACEHOLDER
-Но... ты обещаешь?
+Но...ты обещаешь?
 
 ココ「もう一度……いつか……あえるよね？」%K%P
 That... you and I will... see each other again someday?
 CN PLACEHOLDER
-Ты и я... когда-нибудь... встретимся... снова?
+Ты и я...когда-нибудь...встретимся...снова?
 
 ＢＷ「うん」%K%P
 Yes.
@@ -2146,22 +2146,22 @@ CN PLACEHOLDER
 ココ「ココ……待ってるから……」%K%P
 I'll be... waiting...
 CN PLACEHOLDER
-Я... буду ждать...
+Коко...будет ждать...
 
 ココ「ずっとずっと、待ってるから……」%K%P
 I'll wait for you no matter what...
 CN PLACEHOLDER
-Долго-долго... ждать...
+Долго-долго...ждать...
 
 ココ「必ず……迎えに……来てね……？」%K%P
 You'll... come... get me...?
 CN PLACEHOLDER
-Ты вернёшься... за мной... правда?..
+Ты вернёшься...за мной...правда...?
 
 ココ「約束、だよ？」%K%P
 Promise?
 CN PLACEHOLDER
-Обеща... ешь?
+Обеща...ешь?
 
 ＢＷ「うん、約束だ」%K%P
 Yes, I promise.
@@ -2176,17 +2176,17 @@ CN PLACEHOLDER
 細い隙間から、かろうじて見えるココの姿……。%K%P
 I could barely see Coco through the narrow slit...
 CN PLACEHOLDER
-Сквозь узкую щелочку я едва вижу Коко...
+Сквозь узкую щелочку, я едва вижу Коко...
 
 ココはしっかりとボクの方を向きながら、最後に小さくつぶやいた。%K%P
 Coco faced toward me and whispered one last thing in her tiny voice.
 CN PLACEHOLDER
-Глядя на меня, она тихим голосом прошептала одну последнюю фразу.
+Глядя на меня, она, тихим голосом, прошептала одну последнюю фразу.
 
 ココ「それじゃあ、おやすみ……」%K%P
 Well, good night...
 CN PLACEHOLDER
-Ну вот... спокойной ночи...
+Ну вот...спокойной ночи...
 
 ココ「お兄ちゃん……」%K%P
 Onii-chan...
@@ -2196,7 +2196,7 @@ CN PLACEHOLDER
 『お兄ちゃん！？』――問い返す間もなく、ポッドは閉じてしまった。%K%P
 “Onii-chan!?”—Before I could say anything in reply, the lid had closed.
 CN PLACEHOLDER
-«Братик?!» – Прежде чем я успел что-либо ответить, крышка закрылась.
+'Братик!?' --- Прежде чем я успел что-либо ответить, крышка закрылась.
 
 圧搾空気の弾ける音……。%K%P
 The sound of compressing air filled the room...
@@ -2211,12 +2211,12 @@ CN PLACEHOLDER
 軽い金属音を響かせて、ポッドは完全に密閉された。%K%P
 With a light metallic ring, the pod shut completely.
 CN PLACEHOLDER
-Модуль полностью закрылся с лёгким металлических звоном.
+С лёгким металлическим звяком, модуль полностью закрылся.
 
 その筐体のわきに付いていた次のスイッチを、武が押す。%K%P
 Takeshi pushed another switch attached to the pod's chassis.
 CN PLACEHOLDER
-Такэси щёлкнул другой выключатель, присоединённый к шасси модуля.
+Такеши щёлкнул другой выключатель, присоединённый к шасси модуля.
 
 ハイバネーション機能が、作動を始めた。%K%P
 The cryogenic suspension function was activated.
@@ -2226,7 +2226,7 @@ CN PLACEHOLDER
 シューッとガスの噴出するような小さな音が聞こえる。%K%P
 There were small sounds as though gas was leaking out.
 CN PLACEHOLDER
-С едва заметным свистящим шумом вытекает газ.
+С едва заметным свистящим шумом, вытекает газ.
 
 ポッドは微細な震動とともに、ゆるやかに冷やされていった。%K%P
 The pod slowly cooled down, humming with a slight vibration.
@@ -2251,7 +2251,7 @@ CN PLACEHOLDER
 武「なんだ、ホクトか……」%K%P
 Oh, it's you, Hokuto...
 CN PLACEHOLDER
-А, это ты, Хокуто?..
+А, это ты, Хокуто...?
 
 武「ったく、マギラワシイやつらだなぁ……」%K%P
 You guys are confusing me...
@@ -2261,7 +2261,7 @@ CN PLACEHOLDER
 武「お前は、なんとかヴィンケルとは別人なんだろ？」%K%P
 You and that Winkel guy are two different people, right?
 CN PLACEHOLDER
-Ты и этот Винкель – два разных парня?
+Ты и этот Винкель - два разных парня?
 
 武「それともホクトも、４次元の存在なのか？」%K%P
 Or you are from the fourth dimension too, Hokuto?
@@ -2271,22 +2271,22 @@ CN PLACEHOLDER
 少年「ううん、ぼくはただ、視点を借りてるだけなんだ、今は」%K%P
 No, I'm just borrowing his perspective for now.
 CN PLACEHOLDER
-Не-а. Просто я... заимствую его перспективу.
+Не〜а. Просто я...заимствую его перспективу.
 
 武「ふ〜ん……」%K%P
 Really...
 CN PLACEHOLDER
-Хм-м-м...
+Хммм...
 
 武「って言うか、全然わけがわからんのだけど……まあ、いいや」%K%P
 I mean, I still don't get it at all... but I don't suppose it matters.
 CN PLACEHOLDER
-Ладно, хоть я и не въехал... ну и пофиг.
+Ладно, хоть я и не въехал...ну и пофиг.
 
 それだけ言って、武はあいていたポッドの中へと身を沈めた。%K%P
 Saying that, Takeshi sank his body into an empty pod.
 CN PLACEHOLDER
-С этими словами Такэси погрузил своё тело в пустой модуль.
+С этими словами, Такеши погрузил своё тело в пустой модуль.
 
 ココの隣にあるポッドだ。%K%P
 The pod next to Coco's.
@@ -2296,12 +2296,12 @@ CN PLACEHOLDER
 少年「えっ！？　お、お父さん、どうするつもりなの！？」%K%P
 What!? Dad, what're you going to do!?
 CN PLACEHOLDER
-Э-э?! П-папа, что ты задумал?!
+Эээ!? П-Папа, что ты задумал!?
 
 武「どうするもこうするも……しかたないだろ？」%K%P
 What do you think...? There's nothing else I can do, right?
 CN PLACEHOLDER
-Что значит „что“? Разве не видно?
+Что значит 'что'? Разве не видно?
 
 武「約束しちまったからな……」%K%P
 I made her a promise, you know...
@@ -2311,7 +2311,7 @@ CN PLACEHOLDER
 少年「じゃあ、お父さんも……！？」%K%P
 So you're going to...!?
 CN PLACEHOLDER
-Так ты...
+Значит...папа...ты...!?
 
 武「うむ、そういうことだ」%K%P
 Yep, that's right.
@@ -2331,7 +2331,7 @@ CN PLACEHOLDER
 武「だが、ただ待っていても無駄に体力を消費するだけだから……」%K%P
 But it'll just be a waste of energy to wait here doing nothing, so...
 CN PLACEHOLDER
-Но мне просто не хочется попусту тратить энергию и ждать их, так что...
+Но, мне просто не хочется попусту тратить энергию и ждать их, так что...
 
 武「俺は、寝ることにする」%K%P
 I might as well get some sleep.
@@ -2341,7 +2341,7 @@ CN PLACEHOLDER
 少年「お、お父さん！　ちょっと待ってよ！」%K%P
 D-Dad! Wait a second!
 CN PLACEHOLDER
-П-п-папа, да подожди же!..
+П-П-Папа, да подожди же...!
 
 武「待たん」%K%P
 No.
@@ -2356,12 +2356,12 @@ CN PLACEHOLDER
 武「本当に、本当に、疲れたんだ……」%K%P
 I'm really, REALLY tired...
 CN PLACEHOLDER
-Правда... ПРАВДА... вымотался...
+Правда...ПРАВДА...вымотался...
 
 武は寝ながら腕を伸ばし、カバーの閉鎖ボタンと、ハイバネーションの起動スイッチを同時に押した。%K%P
 Takeshi stretched his arm from where he lay and flicked the switch for both closing the lid and starting the cryogenic suspension at the same time.
 CN PLACEHOLDER
-Такэси, не вставая, вытянул руку и одновременно щёлкнул оба выключателя, отвечающие за закрытие модуля и гибернацию.
+Такеши, не вставая, вытянул руку и одновременно щёлкнул оба выключателя, отвечающие за закрытие модуля и гибернацию.
 
 カバーが閉まって行く……。%K%P
 The lid started to close...
@@ -2386,7 +2386,7 @@ CN PLACEHOLDER
 武「あとは、よろしく頼むぞ……」%K%P
 I'm counting on you...
 CN PLACEHOLDER
-Теперь... дело за тобой...
+Теперь...дело за тобой...
 
 少年「お父さん！」%K%P
 Dad!
@@ -2401,22 +2401,22 @@ CN PLACEHOLDER
 少年「？？？」%K%P
 ?
 CN PLACEHOLDER
-???
+Эээ???
 
 武「その『お父さん』って呼び方、いいかげんやめてもらえないかな？」%K%P
 Quit calling me 'Dad', will you?
 CN PLACEHOLDER
-Может, перестанешь звать меня „папой“?
+Может перестанешь звать меня 'папой'?
 
 少年「だって……しょうがないじゃないか……」%K%P
 Well... I can't help it...
 CN PLACEHOLDER
-Но... я не могу...
+Но...я не могу...
 
 少年「ぼくはお父さんの、子供なんだから……」%K%P
 I'm your son...
 CN PLACEHOLDER
-Потому что... я же твой сын... папа...
+Потому что...я же твой сын...папа...
 
 武「違う違う、そういう意味で言ったんじゃないんだ」%K%P
 No, no, that's not what I mean.
@@ -2426,17 +2426,17 @@ CN PLACEHOLDER
 武「どうせ『お父さん』って呼ぶんなら、もっと上品に、エレガントにだなぁ」%K%P
 If you call me 'Dad', why don't you say it a little more elegantly?
 CN PLACEHOLDER
-Вместо „папы“ можно же сказать чуточку ласковей.
+Вместо 'папы', можно же сказать чуточку ласковей.
 
 武「『パパ』と、『パパ』と、そうお呼びなさい」%K%P
 Call me 'Father', okay? 'Father'.
 CN PLACEHOLDER
-„Папочка“... „папочка“... вот так...
+'Папочка'...'папочка'...вот так...
 
 武「わかったね？」%K%P
 You got it?
 CN PLACEHOLDER
-Понял меня?..
+Ладушки...?
 
 ホクトが何かを言おうとして息を吸った。%K%P
 Hokuto took a deep breath, trying to say something.
@@ -2446,12 +2446,12 @@ CN PLACEHOLDER
 けれど、その言葉がこぼれる前に、ポッドのカバーは閉じてしまった。%K%P
 But before he could say it, the lid of the pod had shut.
 CN PLACEHOLDER
-Но не успел – крышка модуля закрылась.
+Но, не успел - крышка модуля закрылась.
 
 さっきの、ココのときと同じような音が重なり合うように響いた。%K%P
 A familiar hissing sound echoed in the room.
 CN PLACEHOLDER
-Всё повторилось... те же свистящие звуки, тот же газ.
+Всё повторилось...те же свистящие звуки, тот же газ.
 
 ハイバネーションが起動する。%K%P
 The cryogenic suspension had activated.
@@ -2466,12 +2466,12 @@ CN PLACEHOLDER
 …………………………。%K%P
 .........
 CN PLACEHOLDER
-...
+..............
 
 念の為、ボクとホクトはモニターを確認した。%K%P
 Just in case, Hokuto and I checked the monitor.
 CN PLACEHOLDER
-На всякий случай мы с Хокуто взглянули на монитор.
+На всякий случай, мы с Хокуто взглянули в монитор.
 
 ふたつのポッドのハイバネーション装置は順調に作動している。%K%P
 The cryogenic suspension in the two pods was functioning properly.
@@ -2481,7 +2481,7 @@ CN PLACEHOLDER
 ココと武の生体反応にも異常は無かった。%K%P
 There were no signs of abnormalities in the bio scans of Coco and Takeshi.
 CN PLACEHOLDER
-На биосканерах Коко и Такэси нет никаких аномалий.
+На биосканерах Коко и Такеши нет никаких аномалий.
 
 ２０１７年の世界――。%K%N
 The world in 2017...
@@ -2496,7 +2496,7 @@ CN PLACEHOLDER
 取り残された『視点』――。%K%N
 All that remained there was a “perspective”...
 CN PLACEHOLDER
-Всё, что там осталось – «перспектива».
+Всё, что там осталось - 'перспектива'.
 
 ボクとホクトは考え始めた。%K%O
 Hokuto and I started to think.
@@ -2506,17 +2506,17 @@ CN PLACEHOLDER
 『そうだ！　ココと武がＩＢＦにいることを、すぐにみんなに知らせなくちゃ！』%K%N
 “Oh yeah! We gotta let everyone know Coco and Takeshi are here in IBF!”
 CN PLACEHOLDER
-«Ну конечно! Надо сообщить остальным, что Коко и Такэси остались в IBF!»
+'Ну конечно! Надо сообщить остальным, что Коко и Такеши остались в IBF!'
 
 そう思ったのは、ボクだったのか、ホクトだったのか、定かではない。%K%N
 I wasn't sure whether it was I or Hokuto who thought that.
 CN PLACEHOLDER
-Я не знаю, чья это была мысль – моя или Хокуто.
+Я не знаю, чья это была мысль - моя или Хокуто.
 
 入れ替わり立ち替わりを繰り返していたせいか、今や、ボクとホクトの境界はひどくあいまいなものになっていた。%K%N
 Maybe it was because we had switched places so often that the boundary between Hokuto and myself had started to become very vague.
 CN PLACEHOLDER
-Видимо, всё потому, что мы так часто менялись местами, что границы между нами стали размываться.
+Видимо, потому что мы так часто менялись местами, что границы между нами стали размываться.
 
 ふたりの意識は混濁し、からみ合い、もつれ合って、融合の一歩手前の段階にまで達している。%K%O
 Our consciousnesses had gotten muddy, tangled, and intertwined. We were close to a state of fusion.
@@ -2531,22 +2531,22 @@ CN PLACEHOLDER
 もしかしたら、今までだってずっとそうだったのかも知れない。%K%N
 We might have been that way ever since the beginning.
 CN PLACEHOLDER
-Наверное мы были в ней с самого начала.
+Наверно мы были в ней с самого начала.
 
 ボクの考えていることはホクトの考えていることと同じで、ホクトの考えていることはボクの考えていることと同じで……。%K%N
 My thoughts were the same as Hokuto's, and Hokuto's thoughts were the same as mine...
 CN PLACEHOLDER
-Я думал так же, как Хокуто, а Хокуто – так же, как и я...
+Я думал так же, как Хокуто, а Хокуто - так же как и я...
 
 『ボクであること』と『ホクトであること』には、そうたいして差はないんじゃないのか？%K%O
 “Being me” and “being Hokuto” weren't all that different.
 CN PLACEHOLDER
-«Быть мной» и «быть Хокуто» – особой разницы нет.
+'Быть мной' и 'быть Хокуто' - особой разницы нет.
 
 ボク達は前からひとつだったし、これからも、ひとつ……。%K%N
 We had been one since long ago and would continue to be one...
 CN PLACEHOLDER
-(Мы были единым целым давным-давно, и, наверное, так им и останемся...)
+(Мы были единым целым давным-давно, и, наверно, так им и останемся...)
 
 ふと、そんなことを思った。%K%N
 That thought just went through my mind.
@@ -2556,7 +2556,7 @@ CN PLACEHOLDER
 でも、今は思索にふけっている余裕はないのだ。%K%N
 But it wasn't the time to be engrossed in such thoughts.
 CN PLACEHOLDER
-Но сейчас не время, чтобы заморачиваться на такой ерунде.
+Но, сейчас не время, чтобы заморачиваться на такой ерунде.
 
 ボクとホクトの意識は浮島へと飛んだ。%K%O
 Our consciousness flew up to the floating island.
@@ -2596,12 +2596,12 @@ CN PLACEHOLDER
 だけどそれはつぐみではなかった。%K%P
 But it wasn't Tsugumi.
 CN PLACEHOLDER
-Но это не Цугуми.
+Но, это не Цугуми.
 
 優美清春香菜だ。%K%P
 It was Yubiseiharukana.
 CN PLACEHOLDER
-Это Юбисэйхарукана.
+Это Юбисейхарукана.
 
 ボクとホクトは彼女のそばへと舞い降りた。%K%P
 Hokuto and I flew down near her side.
@@ -2611,7 +2611,7 @@ CN PLACEHOLDER
 優美清春香菜の足元にはピピが歩いていた。%K%P
 Walking along with Yubiseiharukana was Pipi.
 CN PLACEHOLDER
-Вместе с Юбисэйхаруканой идёт Пипи.
+Вместе с Юбисейхаруканой идёт Пипи.
 
 ピピの体はびしょびしょに濡れ尽くしている。%K%P
 He was soaking wet.
@@ -2621,7 +2621,7 @@ CN PLACEHOLDER
 ということは、この時間は――『海面に浮かんでいたピピを、彼女が回収した直後』――ということになるのか。%K%P
 Which meant that it must have been... right after You had picked up Pipi from the ocean surface.
 CN PLACEHOLDER
-Значит, сейчас мы находимся в том моменте... «когда Ю подобрала Пипи».
+Значит сейчас мы находимся в том моменте... 'когда Ю подобрала Пипи'.
 
 彼女は、ＬｅＭＵの職員と思しき男性数名に付き添われて、遊歩道を歩いていた。%K%P
 She was walking down the trail, attended by a few men who seemed to be staff members of LeMU.
@@ -2636,7 +2636,7 @@ CN PLACEHOLDER
 もしかしたら、これから大病院かどこかに搬送されるのかも知れない。%K%P
 She was probably on her way to a large hospital or something.
 CN PLACEHOLDER
-Должно быть, сейчас её собираются эвакуировать в больницу... или вроде того.
+Должно быть, сейчас её собираются эвакуировать в больницу...или вроде того.
 
 とは言え、顔色は悪くなかった。自分の足でしっかりと歩いている。%K%P
 She looked surprisingly healthy. She was walking steadily without support.
@@ -2651,12 +2651,12 @@ CN PLACEHOLDER
 恐らく、武と同じように抗体が効いたのだろう。%K%P
 The antibodies must have worked, just like with Takeshi.
 CN PLACEHOLDER
-Похоже, что антитела сработали, как и в случае с Такэси.
+Похоже, что антитела сработали, как и в случае с Такеши.
 
 とにかく、武とココのことを一刻も早く彼女に教えなければ！%K%P
 Anyway, I needed to tell her what had happened to Takeshi and Coco!
 CN PLACEHOLDER
-Ладно, проехали. Я должен сказать ей, что случилось с Коко и Такэси!
+Ладно, проехали. Я должен сказать ей, что случилось с Коко и Такеши!
 
 少年「優！　優！」%K%P
 You! You!
@@ -2671,7 +2671,7 @@ CN PLACEHOLDER
 優春「だ、だれ……？」%K%P
 Wh-Who is it...?
 CN PLACEHOLDER
-К... кто это?..
+К...кто это...?
 
 彼女は驚いた様子であたりを見まわした。%K%P
 Caught off guard, she glanced all around.
@@ -2681,7 +2681,7 @@ CN PLACEHOLDER
 付き添いの職員は、独り言をつぶやく彼女のことを、訝しげに見ている。%K%P
 The staff members darted skeptical looks at her when she started talking to herself all of a sudden.
 CN PLACEHOLDER
-Работники парка скептически бросили на неё своими взглядами, когда та ни с того ни с сего заговорила сама с собой.
+Работники парка скептически бросили на неё своими взглядами, когда та, ни с того ни с сего, заговорила сама с собой.
 
 少年「ぼくだよ、ぼく！」%K%P
 It's me!
@@ -2691,7 +2691,7 @@ CN PLACEHOLDER
 優春「『ぼく』って……誰よ？」%K%P
 Who is... this 'me'?
 CN PLACEHOLDER
-Кто это... „я“?
+Кто это...'я'?
 
 彼女がホクトのことを知っているはずがない。%K%P
 There was no way she could have known Hokuto.
@@ -2706,7 +2706,7 @@ CN PLACEHOLDER
 『１７年後の未来から語りかけているんだ』なんて言ったって、とても信じてもらえるとは思えなかった。%K%P
 And she wouldn't have believed us if we had told her, “We're talking to you from seventeen years in the future.”
 CN PLACEHOLDER
-И вряд ли она поверит, если мы скажем, что «говорим с ней из 17 лет в будущем».
+И вряд ли она поверит, если мы скажем, что 'говорим с ней из 17 лет в будущем'.
 
 ホクトは言った。%K%P
 Hokuto told her...
@@ -2731,22 +2731,22 @@ CN PLACEHOLDER
 ホクトは、研究所にココと武が取り残され、現在、ポッドの中で冬眠状態になっていることを告げた。%K%P
 Hokuto told her that Coco and Takeshi had been left in the laboratory and that they were under cryogenic suspension in the pods.
 CN PLACEHOLDER
-Хокуто рассказал ей, что Коко и Такэси остались в лаборатории, и что сейчас они погружены в состояние гибернации.
+Хокуто рассказал ей, что Коко и Такеши остались в лаборатории, и что сейчас они погружены в состояние гибернации.
 
 優春「ま、まさか！　そんな……」%K%P
 N-No way! It can't be...
 CN PLACEHOLDER
-Н... не может быть... это же...
+Н...не может быть...это же...!
 
 少年「だから、早くふたりを助けてあげて！？」%K%P
 So you have to help them right away, okay!?
 CN PLACEHOLDER
-Так что... поторопись, ты должна помочь им!
+Так что...торопись, ты должна помочь им!
 
 優春「本当なの！？」%K%P
 Are you serious!?
 CN PLACEHOLDER
-Ты серьёзно?!
+Ты серьёзно!?
 
 少年「本当だよ！」%K%P
 Totally!
@@ -2756,12 +2756,12 @@ CN PLACEHOLDER
 少年「優を救出した潜水艇には、ココも武も乗ってなかったんだ」%K%P
 Coco and Takeshi weren't on the sub that rescued you.
 CN PLACEHOLDER
-Ю, на судне, которое тебя эвакуировало, не было Коко и Такэси!
+Ю, на судне, которое тебя эвакуировало, не было Коко и Такеши!
 
 少年「助かったのはあと、つぐみと、桑古木だけで……」%K%P
 And the only others who were rescued were Tsugumi and Kaburaki...
 CN PLACEHOLDER
-Единственные, кто спаслись – ты, Цугуми и Кабураки...
+Единственные, кто спаслись - ты, Цугуми и Кабураки...
 
 ピピ「わんわんっ！」%K%P
 *Woof*, *woof*!
@@ -2771,7 +2771,7 @@ CN PLACEHOLDER
 ピピがホクトとボクの方を見て、高く吠えた。%K%P
 Pipi looked at Hokuto and me, then gave a loud bark.
 CN PLACEHOLDER
-Пипи взглянул на Хокуто и меня и громко гавкнул.
+Пипи взглянул на Хокуто и меня, и громко гавкнул.
 
 少年「あっ、そうだ！　ピピ！」%K%P
 Oh yeah! Pipi!
@@ -2781,12 +2781,12 @@ CN PLACEHOLDER
 少年「今、優の足元にいるピピ……ディスクをくわえてたでしょ？」%K%P
 Pipi... had a disc in his mouth, didn't he?
 CN PLACEHOLDER
-Ю, ты осматривала Пипи... у него был диск?
+Ю, ты смотрела Пипи...у него был диск во рту?
 
 優春「う、うん……テラバイトディスクのことね？」%K%P
 Uh-huh... You mean the terabyte disc, right?
 CN PLACEHOLDER
-Угу... ты имеешь в виду терабайтовый диск?
+У-гу...ты имеешь в виду терабайтовый диск?
 
 少年「そう、そこに、空のデータが、記憶が、入ってるから……」%K%P
 That's right, Sora's data and her memories are in it...
@@ -2796,17 +2796,17 @@ CN PLACEHOLDER
 少年「それから、えーっと……」%K%P
 What else, um...
 CN PLACEHOLDER
-А ещё, м-м...
+А ещё, это...
 
 優春「ちょ、ちょっと待ってよ！」%K%P
 W-Wait a second!
 CN PLACEHOLDER
-П-погоди минуту!
+П-Погоди минуту!
 
 優春「あなた一体、どこにいるの！？」%K%P
 Where on earth are you now!?
 CN PLACEHOLDER
-Ты вообще... кто такой?!
+Ты вообще...кто такой!?
 
 少年「そんなことどうでもいいんだよ」%K%P
 That doesn't really matter.
@@ -2821,12 +2821,12 @@ CN PLACEHOLDER
 優春「信じられるわけないでしょ……」%K%P
 How am I supposed to do that...?
 CN PLACEHOLDER
-С какой это стати?..
+С какой это стати...?
 
 優春「なんなのよ、これ……。幻聴？」%K%P
 What is this... Am I hearing things?
 CN PLACEHOLDER
-У меня что... глюки?..
+У меня что......глюки...?
 
 少年「違うってば！」%K%P
 No, you're not!
@@ -2836,7 +2836,7 @@ CN PLACEHOLDER
 少年「本当に武とココは……」%K%P
 Seriously, Takeshi and Coco are...
 CN PLACEHOLDER
-Это правда! Такэси и Коко...
+Это правда! Такеши и Коко...
 
 ピピ「わんっ！」%K%P
 *Bow*!
@@ -2851,7 +2851,7 @@ CN PLACEHOLDER
 少年「あ、ああ、そうそうそうそう、そうだよ！」%K%P
 Oh, oh, I know!
 CN PLACEHOLDER
-Ах, ну-ну-ну-ну, ну конечно!
+А-Ах, ну〜ну〜ну〜ну, ну конечно!
 
 少年「ピピが、ピピが、目撃してるはずだ！」%K%P
 Pipi! Pipi must have seen it!
@@ -2876,22 +2876,22 @@ CN PLACEHOLDER
 優春「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優春「……………………」%K%P
 ..................
 CN PLACEHOLDER
-......
+..................
 
 少年「……………………」%K%P
 ..................
 CN PLACEHOLDER
-......
+..................
 
 彼女は考え込むようにうなだれ、まぶたを閉じ、コメカミのあたりをトントンと指先で叩いた。%K%P
 She dropped her head down as if deep in thought, closed her eyes, and massaged her temples with her fingertips.
@@ -2901,7 +2901,7 @@ CN PLACEHOLDER
 悩みに悩んだ末、ようやく結論を見出したのか、彼女は見当違いの方角をうわめづかいに見て、こう言った。%K%P
 After seeming distressed in that manner for a while, she must have reached a conclusion. You looked up in different direction and spoke.
 CN PLACEHOLDER
-Застыв в таком положении на некоторое время, она что-то для себя решила. Ю взглянула в другую сторону и ответила.
+Застыв в таком положении на некоторое время... она что-то для себя решила. Ю взглянула в другую сторону и ответила.
 
 優春「わかった……」%K%P
 Alright...
@@ -2911,7 +2911,7 @@ CN PLACEHOLDER
 優春「あなたが誰だか知らないけど……とにかく、調べてみるよ」%K%P
 I have no idea who you are, but I'll see what I can do.
 CN PLACEHOLDER
-Я не знаю, кто ты, но... тем не менее сделаю всё, что смогу.
+Я не знаю, кто ты, но...тем не менее, сделаю всё что смогу.
 
 少年「ありがとう、優」%K%P
 Thank you, You.
@@ -2926,15 +2926,15 @@ CN PLACEHOLDER
 優春「もとの世界って？」%K%P
 Where did you come from?
 CN PLACEHOLDER
-Что ещё за... „твой мир“?
+Что ещё за...'твой мир'?
 
 少年「きっと、信じてもらえないと思うけど……」%K%P
 You wouldn't believe me, but...
 CN PLACEHOLDER
-Наверное... ты мне не поверишь, но...
+Наверно...ты мне не поверишь, но...
 
 少年「今から……１７年後の、世界だよ……」%K%P
 It's... seventeen years in the future...
 CN PLACEHOLDER
-Мир... через 17 лет в будущем...
+Мир...через 17 лет в будущем...
 

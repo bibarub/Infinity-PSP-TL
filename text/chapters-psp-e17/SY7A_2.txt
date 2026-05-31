@@ -31,12 +31,12 @@ CN PLACEHOLDER
 優「いったい……どうしたら……」%K%P
 Isn't there anything we can do...?
 CN PLACEHOLDER
-Неужели мы больше ничего не можем поделать?..
+Неужели мы больше ничего не можем поделать...?
 
 そう言って、優はコーヒーに口をつけた。%K%P
 You lifted the coffee cup to her lips as she spoke.
 CN PLACEHOLDER
-С этими словами Ю пригубила чашку кофе.
+С этими словами, Ю пригубила чашку кофе.
 
 彼女のカップの中身は、自分で入れなおしたブラックである。%K%P
 Her cup contained only black coffee. She had refilled it herself.
@@ -56,7 +56,7 @@ CN PLACEHOLDER
 サイフォン……下の容器にたまった水が、アルコールランプの炎に熱されてぐつぐつと沸き立っている。%K%P
 The machine... was an interesting contraption with a lower chamber containing boiling water heated from an alcohol lamp.
 CN PLACEHOLDER
-Автомат... представляет из себя интересное приспособление. Вода в нижней ёмкости кипит, разогретая пламенем спиртовой лампы.
+Автомат...представляет из себя интересное приспособление. Вода в нижней ёмкости кипит, разогретая пламенем спиртовой лампы.
 
 その水は、水蒸気の圧力に押され、中央のパイプを通って上の容器内へと噴出していた。%K%P
 The water was siphoned up the central pipe into the upper chamber by the pressure of the steam.
@@ -71,12 +71,12 @@ CN PLACEHOLDER
 サイフォン…………。%K%P
 Siphon......
 CN PLACEHOLDER
-Сифон...
+Сифон......
 
 サイフォン………………。%K%P
 Siphon.........
 CN PLACEHOLDER
-Сифон...
+Сифон.........
 
 少年「あっ！」%K%P
 I got it!
@@ -101,7 +101,7 @@ CN PLACEHOLDER
 少年「ここって、前はドライエリアじゃなかったはずだけど……」%K%P
 This area wasn't dry earlier...?
 CN PLACEHOLDER
-Эта зона раньше не была сухой?..
+Эта зона раньше не была сухой...?
 
 空「昨日、排水を行なったので……」%K%P
 No, but I was able to drain it yesterday, so...
@@ -121,7 +121,7 @@ CN PLACEHOLDER
 空「倉成さん、松永さん、小町さんの３名が助かったのも、水密扉が自動閉鎖されたからでしょう」%K%P
 It was thanks to the safety doors closing automatically that Kuranari-san, Matsunaga-san, and Komachi-san survived.
 CN PLACEHOLDER
-Благодаря автоматически закрывшимся дверям, Куранари-сан, Мацунага-сан и Комати-сан выжили.
+Благодаря автоматически закрывшимся дверям, Куранари-сан, Мацунага-сан и Комачи-сан выжили.
 
 少年「この部屋から、非常階段までの距離は？」%K%P
 How far is it from this room to the emergency stairwell?
@@ -136,12 +136,12 @@ CN PLACEHOLDER
 少年「そっか……そっか……８０ｍ……」%K%P
 Really... 80 meters... huh...?
 CN PLACEHOLDER
-Правда... 80 метров... хмм?..
+Правда......80 метров...хмм...?
 
 少年「ねえ？　もう一度確認するけど……この非常階段をのぼれば、浮島へと脱出することができるんだよねぇ？」%K%P
 I just want to confirm this, but... if you were to climb those emergency stairs, you could escape up to the floating island, right?
 CN PLACEHOLDER
-Просто хочу уточнить, но... если удастся забраться по этой аварийной лестнице, то можно выбраться на плавучий остров, правильно?
+Просто хочу уточнить, но...если удастся забраться по этой аварийной лестнице, то можно выбраться на плавучий остров, правильно?
 
 空「はい」%K%P
 That is correct.
@@ -151,7 +151,7 @@ CN PLACEHOLDER
 少年「で、この非常階段の水密扉は、手動であけることも……」%K%P
 And... the safety doors to the emergency stairwell can be opened manually...
 CN PLACEHOLDER
-А... люки, ведущие до аварийной лестничной шахты, можно открыть вручную?..
+А...люки, ведущие до аварийной лестничной шахты, можно открыть вручную...?
 
 空「可能です」%K%P
 It is possible.
@@ -161,7 +161,7 @@ CN PLACEHOLDER
 優「ちょ、ちょっと待ってよ！　いったい何考えてんの、少年？」%K%P
 S-Slow down, Kid! What are you saying?
 CN PLACEHOLDER
-П-притормози, Малой! Ты о чём?
+П-Притормози, Кид! Ты о чём?
 
 少年「なにって……」%K%P
 What I'm saying is...
@@ -171,7 +171,7 @@ CN PLACEHOLDER
 少年「この非常階段を通って脱出しようかなぁ〜……なんてことを考えてます」%K%P
 To escape by going through the emergency stairwell... maybe...
 CN PLACEHOLDER
-Чтобы пройти через аварийную шахту... наверное...
+Чтобы пройти через аварийную шахту... наверно...
 
 優「またそうやって短絡的な発想をする！」%K%P
 There you go again! Coming up with another stupid idea!
@@ -206,7 +206,7 @@ CN PLACEHOLDER
 優「うわっ、まさか……」%K%P
 Come on! You can't be serious...
 CN PLACEHOLDER
-А! Только не это...
+А〜〜〜! Только не это...
 
 優「まさかまさか……泳いで行くなんて言い出さないよねぇ？」%K%P
 There's no way you're thinking about swimming there, are you?
@@ -216,7 +216,7 @@ CN PLACEHOLDER
 少年「あっ、初めてハズれたね」%K%P
 Ah... I think that's the first time I've ever heard you make a mistake.
 CN PLACEHOLDER
-Ах... кажется, на моей памяти это первый раз, когда ты ошиблась.
+Ах...кажется, на моей памяти это первый раз, когда ты ошиблась.
 
 少年「言い出さないよ、そんなこと」%K%P
 I wasn't going to say that.
@@ -231,22 +231,22 @@ CN PLACEHOLDER
 優「じゃあ、どうやって非常階段までたどりつくつもりなの？」%K%P
 Well, how do you expect to reach the emergency stairs then?
 CN PLACEHOLDER
-Ну а как тогда, по-твоему, ещё можно добраться до лестницы?
+Ну, а как тогда по-твоему ещё можно добраться до лестницы?
 
 少年「まず、この浮島につながった非常階段を『Ａ階段』……」%K%P
 First, let's call the emergency stairwell that connects to the floating island 'Staircase A'.
 CN PLACEHOLDER
-Во-первых, пометим аварийную лестницу, идущую от плавучего острова, как „А“.
+Во-первых, пометим аварийную лестницу, идущую от плавучего острова, как 'А'.
 
 少年「第４区画のこの非常階段を『Ｂ階段』……」%K%P
 Then let's call the Sector Four emergency stairwell here 'Staircase B'...
 CN PLACEHOLDER
-А лестничный пролёт в Секторе 4 обозначим как „Б“...
+А лестничный пролёт в Секторе 4 обозначим как 'Б'...
 
 少年「Ａ階段に接続されている緊急避難用通路を『Ｃ通路』とする」%K%P
 And the emergency corridor connecting to 'Staircase A' will be 'Corridor C'.
 CN PLACEHOLDER
-А коридор, соединённый с „А“, обозначим как „В“.
+А коридор, соединённый с 'А', обозначим как 'В'.
 
 優「それで？」%K%P
 And?
@@ -261,7 +261,7 @@ CN PLACEHOLDER
 少年「そうすれば、スキップしたってＡ階段にたどりつくことができるよ」%K%P
 Once that's done, we could just skip our way to 'Staircase A'.
 CN PLACEHOLDER
-Как только это будет сделано, мы сможем добраться до лестницы „А“.
+Как только это будет сделано, мы сможем добраться до лестницы 'А'.
 
 優「簡単に言っちゃってくれるけどさぁ……無理だと思うよ？」%K%P
 You say it as if it's the easiest thing in the world, but... there's no way we can do it, if you ask me.
@@ -281,7 +281,7 @@ CN PLACEHOLDER
 優「だいいちＣ通路にたまった大量の水を、排水する場所が無いじゃない」%K%P
 First of all, there isn't anywhere to drain the floodwater in 'Corridor C'.
 CN PLACEHOLDER
-Во-первых, воду из „В“ откачивать некуда.
+Во-первых, воду из 'В' откачивать некуда.
 
 少年「場所ならあるって」%K%P
 But there IS a place.
@@ -296,7 +296,7 @@ CN PLACEHOLDER
 優「はぁ……きみって本物のバカ？」%K%P
 *Sigh*... Are you really that dumb?
 CN PLACEHOLDER
-*вздох*%NТы реально глупый?
+*вздох*... Ты правда такой тупой?
 
 優「水は高い所から低い所に向かって流れるの」%K%P
 Water only flows from high to low with the help of gravity.
@@ -336,7 +336,7 @@ CN PLACEHOLDER
 優「は？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 少年「第８区画の浸水エリアを開放するんだ！」%K%P
 We're going to release the floodwater from Sector Eight!
@@ -346,17 +346,17 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「あのぉ……ひとつ単純な質問してもいいですか？」%K%P
 Kid... Can I ask you one simple little question?
 CN PLACEHOLDER
-Малой... можно задать тебе малюсенький вопросик?
+Кид...можно задать тебе малюсенький вопросик?
 
 少年「うん」%K%P
 Sure.
@@ -366,7 +366,7 @@ CN PLACEHOLDER
 優「そんなことしたら、この警備室の周囲は、すべて海水に呑み込まれることになっちゃうと思うんですけど……」%K%P
 Wouldn't doing that put this security office and the entire surrounding area completely underwater...?
 CN PLACEHOLDER
-А это, случаем, не погрузит Офис охраны и близлежащие зоны под воду?..
+А это, случаем, не погрузит Офис Охраны и близлежащие зоны под воду...?
 
 少年「そうだよ」%K%P
 That's right.
@@ -376,12 +376,12 @@ CN PLACEHOLDER
 優「はぁ……ついにそんなところまで逝っちゃったか……」%K%P
 *Sigh*... I should have noticed the warning signs...
 CN PLACEHOLDER
-*вздох*%NНадо было сразу понять, что дело пахнет керосином...
+*вздох*...надо было сразу понять, что дело пахнет керосином...
 
 優「いいのよ、いいのよ、少年……」%K%P
 It's okay. There, there, Kid...
 CN PLACEHOLDER
-Всё хорошо. Вот, здесь, Малой...
+Всё хорошо. Вот, здесь, Кид...
 
 優「もうなにも心配することはないの……」%K%P
 There's nothing to worry about now...
@@ -441,12 +441,12 @@ CN PLACEHOLDER
 それらを手にして、再び警備室に戻った。%K%P
 With the goods in hand, I returned to the security office.
 CN PLACEHOLDER
-И с этим добром вернулся в Офис охраны.
+И, с этим добром, вернулся в Офис Охраны.
 
 優「な、なに……これ……？」%K%P
 Huh? What's... that...?
 CN PLACEHOLDER
-Э-э? Это... что?..
+Эээ? Это...что...?
 
 少年「さっきの作戦を証明するための実験装置さ」%K%P
 It's something I threw together to test my idea.
@@ -461,32 +461,32 @@ CN PLACEHOLDER
 少年「いいかい？　まず、こっちの高い位置にあるバケツ……ホースの突っ込まれた方のバケツを、ぼくらのいる第８区画だとするね？」%K%P
 Listen. First, this bucket up here, the one with the hose stuck in it... It represents Sector Eight, where we are, okay?
 CN PLACEHOLDER
-Смотри. Во-первых, представь, что вот это ведро с приделанным шлангом... Сектор 8, где сейчас находимся мы.
+Смотри. Во-первых, представь, что вот это ведро с приделанным шлангом...Сектор 8, где сейчас находимся мы.
 
 少年「で、ホースの水が溜まった部分を、Ａ階段のあるＣ通路だと思ってほしい」%K%P
 Next, the hose part that's filled with water represents Corridor C leading to Staircase A.
 CN PLACEHOLDER
-Во-вторых, представь, что часть шланга, наполненная водой... коридор „В“, ведущий к лестничной шахте „А“.
+Во-вторых, представь, что часть шланга, наполненная водой...коридор 'В', ведущий к лестничной шахте 'А'.
 
 少年「さらに、下に置いたバケツを３階の第４区画、そこに向かって垂らしてあるホースの水のない部分をＢ階段に見立てるんだ」%K%P
 Finally, the bucket set down low represents the fourth block on the third floor. And the empty hose part hanging down to it is Staircase B.
 CN PLACEHOLDER
-И, наконец, в-третьих, ведро, что стоит на полу – это Сектор 4 третьего этажа. А сухая часть шланга, свисающая вниз – лестница „Б“.
+И, наконец, в третьих, ведро, что стоит на полу - это Сектор 4 третьего этажа. А сухая часть шланга, свисающая вниз - лестница 'Б'.
 
 少年「ちなみに、ホースの折り曲げた部分は、Ｃ通路とＢ階段とを繋ぐ連絡通路だからね」%K%P
 Just to let you know, the bent hose part represents the connecting corridor joining up Corridor C with Staircase B, okay?
 CN PLACEHOLDER
-Может, ты догадалась, но я на всякий случай скажу. Согнутая часть шланга – это место, где коридор „B“ соединяется с лестницей „Б“. Понятно?
+Может ты догадалась, но я на всякий случай скажу. Согнутая часть шланга - это место, где коридор 'B' соединяется с лестницей 'Б'. Понятно?
 
 優「うーん……」%K%P
 Uh... Okay.
 CN PLACEHOLDER
-Мм... ладно.
+Хммммм...
 
 優「うん、そこまではわかったけど……それで？」%K%P
 I got you so far... So then what?
 CN PLACEHOLDER
-Да, пока всё ясно и доходчиво... и что дальше?
+Да, пока всё ясно и доходчиво...и что дальше?
 
 少年「その前に確認するけど、このホースに溜まっている水をなんとかして排水できれば、ぼくらは非常階段に到達できるわけだよね？」%K%P
 Before I show you, I want to make sure of one thing. If we drain the water filling the hose here, then we can move safely to the emergency stairs, right?
@@ -496,7 +496,7 @@ CN PLACEHOLDER
 優「まあね」%K%P
 Yeah, I guess.
 CN PLACEHOLDER
-Ну, да, наверное.
+Ну, да, наверно.
 
 少年「よしっ！　では排水してご覧にいれよう！」%K%P
 Alright! Let the draining begin!
@@ -506,7 +506,7 @@ CN PLACEHOLDER
 優「？？？？」%K%P
 ?
 CN PLACEHOLDER
-?
+????
 
 少年「さっき、ぼくがなんて言ったか覚えてる？」%K%P
 Remember what I said earlier?
@@ -516,7 +516,7 @@ CN PLACEHOLDER
 優「確か……『私達のいる第８区画の浸水エリアを開放する』、と」%K%P
 I think you said... 'We're going to release the floodwater from Sector Eight', right?
 CN PLACEHOLDER
-Кажется, ты сказал... „Мы выпустим воду из Сектора 8“, так?
+Кажется, ты сказал...'Мы выпустим воду из Сектора 8', так?
 
 少年「じゃあ、開放しようか」%K%P
 So let's release it.
@@ -526,7 +526,7 @@ CN PLACEHOLDER
 そう言ってぼくは、外の通路から汲んできたバケツの水を、上層のバケツに注ぎ入れた。%K%P
 Next, I began to pour water into the top bucket from a second bucket which I had filled with water from the corridor.
 CN PLACEHOLDER
-В следующее мгновение я стал переливать воду в верхнее ведро из другого, что я наполнил водой из коридора.
+В следующее мгновение, я стал переливать воду в верхнее ведро из другого, что я наполнил водой из коридора.
 
 ドボドボドボ……。%K%P
 Glug, glug, glug...
@@ -546,7 +546,7 @@ CN PLACEHOLDER
 やがて……排水は完了した。%K%P
 Before long... all the water was drained.
 CN PLACEHOLDER
-Чуть позже... вода полностью стекла.
+Чуть позже...вода полностью стекла.
 
 上層のバケツはもちろん、ホースの中にはわずかな水が残っただけで、すべて下層のバケツへと水は移動していた。%K%P
 Except for a negligible amount left in the hose, all the water from the top bucket drained completely to the lower bucket.
@@ -566,7 +566,7 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「では、もう一度、マップを見ながら検証してみようか」%K%P
 Okay, let's prove this one more time by looking at the map.
@@ -576,7 +576,7 @@ CN PLACEHOLDER
 少年「Ａ階段、Ｂ階段、Ｃ通路、それから第４区画のドライエリアに、亀裂や損傷はない」%K%P
 The walls of Staircase A, Staircase B, Corridor C, and the area in Sector Four are all intact without cracks or damage.
 CN PLACEHOLDER
-Стены в пролёте „А“, пролёте „Б“, коридоре „В“ и в зоне%NСектора 4 – целы и невредимы.
+Стены в пролёте 'А', пролёте 'Б', коридоре 'В' и в зоне%NСектора 4 - целы и невредимы.
 
 少年「つまり、これらは外海から完全に隔離されてるってわけ」%K%P
 So we can assume that all these areas are protected from outside seawater.
@@ -596,12 +596,12 @@ CN PLACEHOLDER
 少年「ここで、ツヴァイトシュトック第８区画の水没エリア……の、亀裂や損傷のない部屋……の、水密扉をいっせいに開く……と、どうなるか？」%K%P
 Given that those areas don't have cracks or damage, what will happen if we simultaneously open all the watertight doors in the submerged area in Sector Eight of Zweiter Stock?
 CN PLACEHOLDER
-Что произойдёт, если мы одновременно откроем все водоупорные двери в этой затопленной зоне Сектора 8 на Цвайте Шток...»%K%PМалой«...если комната, в которой мы находимся, не имеет ни трещин, ни повреждений?..
+Что произойдёт, если мы одновременно откроем все водоупорные двери в этой затопленной зоне Сектора 8 на Цвайте шток...»%K%PКид«...если комната, в которой мы находимся, не имеет ни трещин, ни повреждений...?
 
 優「大量の水が、Ｃ通路に流れ込む？」%K%P
 An enormous amount of water is going to flow into Corridor C?
 CN PLACEHOLDER
-Огромное количество воды устремится в коридор „В“?
+Огромное количество воды устремится в коридор 'В'?
 
 少年「と、どうなるか？」%K%P
 And then, what next?
@@ -611,7 +611,7 @@ CN PLACEHOLDER
 優「Ｃ通路にたまっていた水が、第４区画のドライエリアに流れ込む？」%K%P
 The water accumulated in Corridor C will drain into the dry area in Sector Four?
 CN PLACEHOLDER
-Вода, собравшаяся в коридоре „В“, вытечет в сухую зону Сектора 4?
+Вода, собравшаяся в коридоре 'В', вытечет в сухую зону Сектора 4?
 
 少年「と、どうなるか？」%K%P
 And then what will happen?
@@ -626,7 +626,7 @@ CN PLACEHOLDER
 優「Ｃ通路にたまってた水も、第８区画にあふれ出した水も、全部第４区画に移動する、みたいなことになるのかな？」%K%P
 All the water in Corridor C, as well as Sector Eight, will flow into Sector Four, I guess.
 CN PLACEHOLDER
-Видимо, вся вода из коридора „В“ вместе с водой из Сектора 8 перетечёт в Сектор 4.
+Видимо, вся вода из коридора 'В', вместе с водой из Сектора 8, перетечёт в Сектор 4.
 
 少年「うん、そういうこと」%K%P
 Yep, that's the plan.
@@ -636,7 +636,7 @@ CN PLACEHOLDER
 優「でも、そんなにうまくいくと思う？」%K%P
 But do you really think it'll work?
 CN PLACEHOLDER
-Но ты действительно думаешь, что это сработает?
+Но, ты действительно думаешь, что это сработает?
 
 少年「なにもしないよりはマシだって」%K%P
 It's a hell of a lot better than nothing.
@@ -666,7 +666,7 @@ CN PLACEHOLDER
 モニターに映し出されたマップには、ツヴァイトの第８区画とＣ通路がグリーンで示されている。%K%P
 According to the color-coded map on the monitor, Zweiter Stock's Sector Eight and Corridor C had changed to green.
 CN PLACEHOLDER
-Судя по цветной карте на мониторе, Сектор 8 Цвайте Шток и коридор «В» сменили цвет на зелёный.
+Судя по цветной карте на мониторе, Сектор 8 Цвайте шток и коридор 'В' сменили цвет на зелёный.
 
 グリーンの色は、ドライエリア。%K%P
 The color green meant it was a dry area.
@@ -676,7 +676,7 @@ CN PLACEHOLDER
 つまり排水は……作戦は無事成功したのだ。%K%P
 Meaning the drainage... had worked perfectly.
 CN PLACEHOLDER
-Нам... удалось успешно откачать воду.
+Нам...удалось успешно откачать воду.
 
 空「圧潰推定時刻まで、あとわずかです。急いでください」%K%P
 There is very little time left before the estimated implosion time. You must hurry.
@@ -691,12 +691,12 @@ CN PLACEHOLDER
 空「では、どうかご無事で」%K%P
 Well, be careful.
 CN PLACEHOLDER
-Тогда будьте осторожны.
+Тогда, будьте осторожны.
 
 少年「……え？」%K%P
 ...Huh?
 CN PLACEHOLDER
-...а?
+...эээ?
 
 少年「空は？　空は行かないの？」%K%P
 What about you, Sora? You're not coming?
@@ -706,27 +706,27 @@ CN PLACEHOLDER
 優「少年？　空はね……ＬｅＭＵから離れることができないの」%K%P
 Listen, Kid. Sora... can't leave LeMU.
 CN PLACEHOLDER
-Малой, пойми. Сора... Она не может оставить LeMU.
+Кид, пойми. Сора.... Она не может оставить LeMU.
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「……え？」%K%P
 ...Huh?
 CN PLACEHOLDER
-...а?
+...что?
 
 空「お忘れになりましたか？　私はＲＳＤ……ホログラムなのですよ」%K%P
 Have you forgotten? I am an RSD-generated image... I'm just a computer program.
 CN PLACEHOLDER
-Неужели ты забыл? Я RSD-изображение... Я всего лишь компьютерная программа.
+Неужели ты забыл? Я RSD-изображение.... Я всего лишь компьютерная программа.
 
 少年「………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「私はみなさんと一緒には行けません」%K%P
 I am not able to join you.
@@ -751,12 +751,12 @@ CN PLACEHOLDER
 空「仮に、私が浮島までついて行ったとしても、やっぱりそこで、少年さんとはお別れしなければなりません」%K%P
 And even if I accompanied you as far as the floating island, we would eventually have to say goodbye there.
 CN PLACEHOLDER
-И даже если бы я проводила вас до плавучего острова, нам бы всё равно пришлось проститься.
+И, даже если бы я проводила вас до плавучего острова, нам бы всё равно пришлось проститься.
 
 空「私の場合、他のみなさんとは違って、そのタイミングが少しだけ早く訪れただけなのです」%K%P
 In my case, the parting comes a little earlier than with everyone else.
 CN PLACEHOLDER
-В моём случае расставание наступает немного раньше, чем у всех остальных.
+В моём случае, расставание наступает немного раньше, чем у всех остальных.
 
 少年「でも……」%K%P
 But...
@@ -766,7 +766,7 @@ CN PLACEHOLDER
 空「少年さんが、誰かお友達の家に遊びに行った場合を考えてみて下さい」%K%P
 Kid-san, think about it like this. When you go to visit a friend's house...
 CN PLACEHOLDER
-Малой-сан, подумай в таком ключе. Когда ты приходишь к другу в гости...
+Кид-сан, подумай в таком ключе. Когда ты приходишь к другу в гости...
 
 空「帰るときになって、そのお友達は見送りこそするでしょうが、一緒に少年さんの家までついて来るようなことはしませんよね？」%K%P
 When it's time to leave, the friend may see you to the door, but the friend can't accompany you home, right?
@@ -781,7 +781,7 @@ CN PLACEHOLDER
 空「ＬｅＭＵは……私の家なのです」%K%P
 LeMU is... my home.
 CN PLACEHOLDER
-LeMU... мой дом.
+LeMU...мой дом.
 
 少年「もう一度、会えるよね？」%K%P
 We'll meet again, won't we?
@@ -801,7 +801,7 @@ CN PLACEHOLDER
 空「ここにいる私が消えたとしても、あそこにいる私は存在し続けるのです」%K%P
 Even if the 'me' here disappears, the 'me' there will still go on existing.
 CN PLACEHOLDER
-Даже если „я“ исчезнет, „я“ по-прежнему будет существовать.
+Даже если 'я' исчезнет, 'я' по-прежнему будет существовать.
 
 少年「消えるなんて、言わないでよ」%K%P
 Don't talk about disappearing.
@@ -811,7 +811,7 @@ CN PLACEHOLDER
 空「ふふっ、これは、ただのたとえ話です」%K%P
 Heh heh. This is merely an example, you see.
 CN PLACEHOLDER
-Хи-хи. Видишь ли, это просто метафора.
+Хи, хи. Видишь ли, это просто метафора.
 
 空「私は必ず、少年さんや田中さんと再会することになるでしょう」%K%P
 Don't worry. I'm sure that I'll meet you and Tanaka-san again.
@@ -821,7 +821,7 @@ CN PLACEHOLDER
 空「それも、近いうちに……」%K%P
 And it may be sooner than you think...
 CN PLACEHOLDER
-И, возможно, даже раньше, чем ты думаешь...
+И, возможно даже раньше, чем ты думаешь...
 
 少年「きっとだよ？」%K%P
 Do you promise?
@@ -836,7 +836,7 @@ CN PLACEHOLDER
 少年「約束だからね？」%K%P
 It's a promise then?
 CN PLACEHOLDER
-Значит, это обещание?
+Значит это обещание?
 
 空「はい、約束です」%K%P
 Yes, it's a promise.
@@ -851,7 +851,7 @@ CN PLACEHOLDER
 ぼくと優は警備室のドアを開け、通路に出た。%K%P
 You and I opened the security office doors and exited into the corridor.
 CN PLACEHOLDER
-Мы с Ю открыли дверь Офиса охраны и вышли в коридор.
+Ю и я открыли дверь Офиса Охраны и вышли в коридор.
 
 笑顔で見送る空に手を振り、ぼくらは避難用通路へと上がった。%K%P
 Giving a wave to the smiling Sora as she saw us off, we climbed the stairs to the emergency corridor.
@@ -861,7 +861,7 @@ CN PLACEHOLDER
 優とふたり、水のなくなったＣ通路を歩く。%K%P
 We then walked down Corridor C, which was no longer flooded.
 CN PLACEHOLDER
-Затем пошли по коридору «В», который теперь абсолютно сух.
+Затем пошли по коридору 'В', который теперь абсолютно сух.
 
 少年「ねえ、ちょっと気になったんだけど……」%K%P
 Hey, I was just thinking, but...
@@ -876,17 +876,17 @@ CN PLACEHOLDER
 少年「まさか空は……事故の責任をとって、ここで死ぬつもりじゃ……」%K%P
 Surely Sora isn't planning to take responsibility for the accident by dying here...
 CN PLACEHOLDER
-А Сора, часом, не собирается умереть, взяв тем самым на себя ответственность за аварию?..
+А Сора часом не собирается умереть, взяв тем самым на себя ответственность за аварию...?
 
 優「バカねぇ……空は、死んだりなんてしないの」%K%P
 Don't be stupid... Sora doesn't plan to sacrifice herself.
 CN PLACEHOLDER
-Не глупи... Сора не собирается пожертвовать собой.
+Не глупи...Сора не собирается пожертвовать собой.
 
 優「空は、私達とは違うんだよ？」%K%P
 Sora, you know, is different from us.
 CN PLACEHOLDER
-Понимаешь... Сора отличается от нас.
+Понимаешь...Сора отличается от нас.
 
 少年「そんなことないよ！　空はっ」%K%P
 No way! Sora's not...
@@ -896,7 +896,7 @@ CN PLACEHOLDER
 優「あぁ、えっと、そうじゃなくって……うーん……」%K%P
 Umm... I don't mean it that way, umm...
 CN PLACEHOLDER
-Эмм... я не то хотела сказать, эмм...
+Эмм...я не то хотела сказать, эмм...
 
 優「まあとにかく、きみが心配するようなことにはならないと思う」%K%P
 Anyway, what you're worried about isn't going to happen to her.
@@ -941,7 +941,7 @@ CN PLACEHOLDER
 優「他の何よりも、自分自身を――」%K%P
 Above all else...
 CN PLACEHOLDER
-Больше всего на свете она должна защищать... себя.
+Больше всего на свете, она должна защищать... себя.
 
 優「空自身を、大切にすること」%K%P
 She must value herself most.
@@ -976,7 +976,7 @@ CN PLACEHOLDER
 少年「あ、そうか……」%K%P
 Oh... right.
 CN PLACEHOLDER
-Ах... да.
+Ах...да.
 
 ぼくは優と一緒にハンドルをきつく握りしめた。%K%P
 Together, we gripped the handle.
@@ -986,7 +986,7 @@ CN PLACEHOLDER
 ――その時だった！%K%P
 —It was then that it happened!
 CN PLACEHOLDER
-И тут!..
+И тут...!
 
 カーーーンッ……。%K%P
 Claaaaang...
@@ -1006,12 +1006,12 @@ CN PLACEHOLDER
 少年「あっ！」%K%P
 Ah!
 CN PLACEHOLDER
-А-а!
+Аа!
 
 通路の突き当たり……あの幻の少女が立っていた。%K%P
 At the end of the corridor... stood the girl.
 CN PLACEHOLDER
-В конце коридора... стоит девочка.
+В конце коридора...стоит девочка.
 
 少女と目が合った。%K%P
 Her eyes met mine.
@@ -1031,12 +1031,12 @@ CN PLACEHOLDER
 優「えっ！？」%K%P
 Huh!?
 CN PLACEHOLDER
-Что?!
+Что!?
 
 優「ココって……ココって誰なの！？」%K%P
 Coco... Who's Coco!?
 CN PLACEHOLDER
-Коко... что ещё за Коко?!
+Коко...что ещё за Коко!?
 
 きびすを返し、向こうへと駆け出すココ。%K%P
 Turning on her heels, Coco ran off in the other direction.
@@ -1051,7 +1051,7 @@ CN PLACEHOLDER
 だが、ぼくは優に腕を掴まれ、引きとめられた。%K%P
 But You grabbed my arm, holding me back.
 CN PLACEHOLDER
-Но Ю схватила меня за руку и не отпускает.
+Но, Ю схватила меня за руку и не отпускает.
 
 少年「は、離せよっ！」%K%P
 C'mon, let go!
@@ -1081,7 +1081,7 @@ CN PLACEHOLDER
 所々漏水が始まる。%K%P
 Here and there, water began to leak in.
 CN PLACEHOLDER
-Со всех сторон протекает вода.
+Со всех сторон, протекает вода.
 
 少年「ココーーーッ！」%K%P
 Cocoooo!
@@ -1091,7 +1091,7 @@ CN PLACEHOLDER
 優「あっ、少年！」%K%P
 Kid! Stop!
 CN PLACEHOLDER
-Малой! Остановись!
+Кид! Остановись!
 
 ぼくは優を振り切って少女を追い駆けた。%K%P
 Tearing myself away from You's grasp, I ran after the girl.
@@ -1116,7 +1116,7 @@ CN PLACEHOLDER
 空「早く戻って下さい！」%K%P
 You must return quickly!
 CN PLACEHOLDER
-Возвращайтесь скорее!
+Возвращайтесь скорей!
 
 少年「やだ！」%K%P
 No way!
@@ -1126,7 +1126,7 @@ CN PLACEHOLDER
 優「あとどれくらい！？　どれくらいもつの！？」%K%P
 How long!? How much longer will they hold!?
 CN PLACEHOLDER
-Как долго?! Сколько ещё они продержатся?
+Как долго!? Сколько ещё они продержатся?
 
 空「１０分〜１５分！」%K%P
 Ten to fifteen minutes!
@@ -1136,12 +1136,12 @@ CN PLACEHOLDER
 空「ですが、今すぐに圧潰してもオカシクない状況です！」%K%P
 But it could implode at any time!
 CN PLACEHOLDER
-Однако я не уверена. Стены могут разрушиться в любую секунду!
+Однако, я не уверена. Стены могут разрушиться в любую секунду!
 
 ちらりと少女の背中が見える。%K%P
 For one instant, I saw the back of the girl.
 CN PLACEHOLDER
-На мгновение я заметил девочку.
+На мгновение, я заметил девочку.
 
 通路をひたすら逃げて行く少女。%K%P
 She continued to run down the corridor.
@@ -1151,17 +1151,17 @@ CN PLACEHOLDER
 ぼくは全速力で、彼女を追いかけた。%K%P
 With all my strength, I burst after her.
 CN PLACEHOLDER
-Я рванул за ней что есть мочи.
+Что есть мочи, я рванул за ней.
 
 途中から照明が消え、非常灯へと切り替わる。%K%P
 The main building lights flickered and went out, then were replaced by dim emergency lights.
 CN PLACEHOLDER
-Главное освещение здания погасло, загорелось тусклое аварийное.
+Главное освещение здания погасло, и загорелось тусклое аварийное.
 
 僅かな明かりを頼りに、ぼくは追い続ける。%K%P
 With the help of the pale lights, I kept up the chase.
 CN PLACEHOLDER
-Благодаря тусклому свету я продолжаю погоню.
+Благодаря тусклому свету, я продолжаю погоню.
 
 非常階段を駆け下り……%K%P
 I bounded down the emergency staircase...
@@ -1201,7 +1201,7 @@ CN PLACEHOLDER
 少年「一緒に行こう！」%K%P
 Come on, we're going together!
 CN PLACEHOLDER
-Скорее, возьми меня за руку, бежим отсюда!
+Скорей, возьми меня за руку, бежим отсюда!
 
 首を振る少女。%K%P
 The girl shook her head.
@@ -1216,12 +1216,12 @@ CN PLACEHOLDER
 だがしかし……！%K%P
 But to my surprise...!
 CN PLACEHOLDER
-Но к моему удивлению!..
+Но, к моему удивлению...!
 
 少年「――えっ！？」%K%P
 ...Huh!?
 CN PLACEHOLDER
-А?!
+...〜〜〜!?
 
 やがて少女は……
 After a moment...
@@ -1241,7 +1241,7 @@ CN PLACEHOLDER
 優「ふーっ、やっと追いついた……」%K%P
 Whew! I finally caught up with you...
 CN PLACEHOLDER
-Уф-ф-ф! Наконец я тебя догнала...
+Уффф! Наконец я тебя догнала...
 
 優「で？　その少女とやらは？」%K%P
 And? What about the girl, or whatever?
@@ -1251,7 +1251,7 @@ CN PLACEHOLDER
 少年「…………………………」%K%P
 ............
 CN PLACEHOLDER
-...
+............
 
 茫然自失のぼく。%K%P
 I stood there as if in a trance.
@@ -1261,12 +1261,12 @@ CN PLACEHOLDER
 はっと我に返り、ヒンメルの扉を開こうとした。%K%P
 Coming back to myself, I tried to open the door to Himmel.
 CN PLACEHOLDER
-Придя в себя, я попытался открыть дверь, ведущую в Химмель.
+Придя в себя, я попытался открыть дверь, ведущую в ХИММЕЛ.
 
 しかし扉はビクとも動かない。%K%P
 But the door wouldn't budge.
 CN PLACEHOLDER
-Но она даже не пошевелилась.
+Но, она даже не пошевелилась.
 
 少年「空！　ここを開けてくれ！」%K%P
 Sora! Open this door!
@@ -1286,12 +1286,12 @@ CN PLACEHOLDER
 少年「ココーッ！」%K%P
 Coco!
 CN PLACEHOLDER
-Коко!
+Коко —!
 
 ブシューーーーーッ！%K%P
 Ssssssss!
 CN PLACEHOLDER
-Фффффшшш!
+Фффффшшш —!
 
 通路の壁面から、水が猛烈な勢いで噴出を始める。%K%P
 From the surface of the walls, water began to gush in.
@@ -1306,12 +1306,12 @@ CN PLACEHOLDER
 アナウンス「緊急警報が……発令されました。ご来場のお客様……及び館内の職員は…………すみやかに……退去して下さい」%K%P
 Emergency warning... All patrons in the park... and all staff... are advised to evacuate immediately.
 CN PLACEHOLDER
-Предупреждение... всем управляющим парка... а также всему персоналу... просьба немедленно эвакуироваться.
+Предупреждение...всем управляющим парка...а также всему персоналу...просьба немедленно эвакуироваться.
 
 アナウンス「圧潰まで……あと……５分……です」%K%P
 Five minutes... until... implosion.
 CN PLACEHOLDER
-Пять минут... до... затопления.
+Пять минут...до...затопления.
 
 アナウンスはやがて、ドイツ語、英語で呼びかける。%K%P
 The announcement repeated itself in German and English.
@@ -1321,7 +1321,7 @@ CN PLACEHOLDER
 少年「くそっ！　開けよ！　開けったら！！」%K%P
 Damn it! Open up! Open this door!
 CN PLACEHOLDER
-Проклятье! Открой! Открой эту дверь!
+Проклятье! Открой! Открой эту дверь!!
 
 ドン！　ドン！　ドン！%K%P
 Boom! Boom! Boom! I struck with my fists.
@@ -1331,7 +1331,7 @@ CN PLACEHOLDER
 少年「ひらけよぉーーーーーーーーっ！！！！」%K%P
 Open uuuuuup!
 CN PLACEHOLDER
-Открывайся!
+Открывайся —————!!
 
 優「ねえっ、お願いだから、しっかりしてよ！」%K%P
 Listen, Kid, you've got to snap out of it!
@@ -1341,12 +1341,12 @@ CN PLACEHOLDER
 優「しっかりして、少年！！」%K%P
 Wake up!
 CN PLACEHOLDER
-Малой, очнись!
+Кид, очнись!!
 
 少年「くっ……！！」%K%P
 Ugh...!
 CN PLACEHOLDER
-Угх!
+Угх...!!
 
 ぼくは固く握りしめた拳を扉に押しつけた。%K%P
 I pounded fiercely against the door again with my clenched fists.
@@ -1356,17 +1356,17 @@ CN PLACEHOLDER
 いつまでも、この場に踏みとどまっていたって、どうにもならない。%K%P
 But no matter how hard I tried, it was in vain.
 CN PLACEHOLDER
-Но неважно, как бы сильно я ни пытался, всё бесполезно.
+Но, не важно, как бы сильно я не пытался, всё бесполезно.
 
 やっぱりあの少女は……ただの幻だったのかもしれない。%K%P
 (Is she just... Just my imagination?)
 CN PLACEHOLDER
-(Может, она... просто моё воображение?)
+(Может она...просто моё воображение?)
 
 それに……こんなことをしていたら、なにより優が……%K%P
 (...If I keep this up, what's going to happen to You...?)
 CN PLACEHOLDER
-(...если я буду продолжать в том же духе, то что станет с Ю?..)
+(...если я буду продолжать в том же духе, то что станет с Ю...?)
 
 ――優が死んじゃうかもしれないじゃないか！%K%P
 You would die if I didn't do something!
@@ -1376,17 +1376,17 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「少年……？」%K%P
 Kid...?
 CN PLACEHOLDER
-Малой?..
+Кид...?
 
 少年「ごめんよ……優」%K%P
 I'm so sorry... You.
 CN PLACEHOLDER
-Ю... прости меня.
+Ю...прости меня. Какой же я идиот.
 
 かろうじて、振り絞るような声で、ぼくはそう言った。%K%P
 I strained to speak, squeezing out my words.
@@ -1396,7 +1396,7 @@ CN PLACEHOLDER
 少年「わかった、行こう！」%K%P
 OKAY, LET'S GO!
 CN PLACEHOLDER
-СКОРЕЕ, БЕЖИМ ОТСЮДА!
+СКОРЕЙ, БЕЖИМ ОТСЮДА!
 
 ぼくは優に手を差し伸べた。%K%P
 I reached out my hand to You.
@@ -1416,12 +1416,12 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ぼくは、もう一度だけ扉を振り返り……%K%P
 One last time, I looked back at the door...
 CN PLACEHOLDER
-В последний раз я взглянул на дверь...
+В последний раз, я взглянул на дверь...
 
 それから前を向き、全速力で駆け出した。%K%P
 And then turned and ran with all my might.
@@ -1441,12 +1441,12 @@ CN PLACEHOLDER
 アナウンス「圧潰まで……あと……３分……です」%K%P
 Three minutes... until... implosion.
 CN PLACEHOLDER
-Три минуты... до... затопления.
+Три минуты...до...затопления.
 
 非常階段を駆け上がり、ツヴァイトシュトックへと到着する。%K%P
 Bounding up the emergency stairs, we reached Zweiter Stock.
 CN PLACEHOLDER
-Запрыгнув на аварийную лестницу, мы добрались до Цвайте Шток.
+Запрыгнув на аварийную лестницу, мы добрались до Цвайте шток.
 
 緊急避難用通路を走る。%K%P
 We ran hard down the emergency corridor.
@@ -1456,12 +1456,12 @@ CN PLACEHOLDER
 アナウンス「圧潰まで……あと……２分……です」%K%P
 Two minutes... until... implosion.
 CN PLACEHOLDER
-Две минуты... до... затопления.
+Две минуты...до...затопления.
 
 ふたりで力を合わせ、非常階段の扉を開く。%K%P
 We applied our strength together and pushed open the emergency stairwell door.
 CN PLACEHOLDER
-Со всей силы мы вместе надавили на засов аварийного люка, чтобы открыть его.
+Со всей силы, мы вместе надавили на засов аварийного люка, чтобы открыть его.
 
 扉を閉め、長い階段を駆けのぼって行く。%K%P
 Closing the door tightly, we then headed up the long set of stairs.
@@ -1471,12 +1471,12 @@ CN PLACEHOLDER
 アナウンス「圧潰まで……あと……１分……です」%K%P
 One minute... until... implosion.
 CN PLACEHOLDER
-Одна минута... до... затопления.
+Одна минута...до...затопления.
 
 １階――エルストボーデンの表示が目に飛び込んで来る。%K%P
 In the distance, the sign read Erster Boden. The first floor.
 CN PLACEHOLDER
-На расстоянии отчётливо читается надпись «Эрсте Боден». Первый этаж!
+На расстоянии отчётливо читается надпись 'Эрсте боден'. Первый этаж!
 
 あと１７ｍだ！%K%P
 Just seventeen meters left!
@@ -1496,7 +1496,7 @@ CN PLACEHOLDER
 アナウンス「１０・９・８・７……」%K%P
 10, 9, 8, 7...
 CN PLACEHOLDER
-Десять, девять, восемь, семь...
+Десять, Девять, Восемь, Семь...
 
 最後の扉の前へ……。%K%P
 We ran toward the final door...
@@ -1511,17 +1511,17 @@ CN PLACEHOLDER
 扉が――扉があかない！%K%P
 The door... the door wouldn't open!
 CN PLACEHOLDER
-Дверь... дверь не открывается!
+Дверь...дверь не открывается!
 
 アナウンス「６・５・４・３……」%K%P
 6, 5, 4, 3...
 CN PLACEHOLDER
-Шесть, пять, четыре, три...
+Шесть, Пять, Четыре, Три...
 
 アナウンス「……２……１…………………………」%K%P
 ...2... 1...
 CN PLACEHOLDER
-...Два... один...
+...Два...Один......
 
 ドッドッドッ……ドドドドドドドドドドドドドドドドドッ！%K%P
 Grrrrrrrr... Groannnnnnnnnnn!
@@ -1541,5 +1541,5 @@ CN PLACEHOLDER
 あるいはそれとも……断末魔だったのか……。%K%P
 Or possibly... the last agonizing cry before death.
 CN PLACEHOLDER
-Или наверное... его последний предсмертный крик.
+Или наверно...его последний предсмертный крик.
 

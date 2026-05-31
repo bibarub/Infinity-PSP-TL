@@ -1,12 +1,12 @@
 ﻿会議室へと戻る途上のことである。%K%P
 She was on the way to the conference room.
 CN PLACEHOLDER
-Она пошла в сторону Комнаты переговоров.
+Она пошла в сторону Комнаты Переговоров.
 
 少年「あ……！」%K%P
 Ah...!
 CN PLACEHOLDER
-Ах!..
+Ах...!
 
 ふとぼくは天井を見上げた。%K%P
 I looked up at the ceiling.
@@ -16,7 +16,7 @@ CN PLACEHOLDER
 少年「あ、あれっ……？？」%K%P
 Wh-What's that...?
 CN PLACEHOLDER
-Ч-что это?..
+Ч-что это...?
 
 一瞬、何かが『見えた』気がしたのだ。%K%P
 I had thought I had seen something for a second.
@@ -26,7 +26,7 @@ CN PLACEHOLDER
 だが、はっきりと意識した時、すでにそこには何も見えなかった。%K%P
 But when I had done a double take, I didn't see anything.
 CN PLACEHOLDER
-Но как следует вглядевшись, я ничего не заметил.
+Но, как следует вглядевшись, я ничего не заметил.
 
 武「お、おい、どうしたんだ？」%K%P
 H-Hey, what's wrong?
@@ -36,7 +36,7 @@ CN PLACEHOLDER
 ぼくは声をかけられても、まだ天井から目を離すことができずにいた。%K%P
 Even with Takeshi calling out to me, I couldn't tear my eyes from the ceiling.
 CN PLACEHOLDER
-Несмотря на то, что Такэси обратился ко мне, я не смог оторвать глаза от потолка.
+Несмотря на то, что Такеши обратился ко мне, я не смог оторвать глаза от потолка.
 
 少年「なんだろう……」%K%P
 I wonder...
@@ -46,7 +46,7 @@ CN PLACEHOLDER
 少年「なんだかわからないけど、見たんだ」%K%P
 I don't know what it was, but I swear I saw something.
 CN PLACEHOLDER
-Не знаю, что это было. Но могу поклясться, я что-то видел.
+Не знаю, что это было. Но, могу поклясться, я что-то видел.
 
 武「見た？　何を見たんだ？」%K%P
 Saw something? Like what?
@@ -56,17 +56,17 @@ CN PLACEHOLDER
 少年「ううん、そうじゃない、見たっていうか……」%K%P
 Uhh... Well, I didn't really see it...
 CN PLACEHOLDER
-Э-э... ну, не знаю, видел ли я это...
+Эээ...ну, не знаю, видел ли я это...
 
 少年「嫌な予感がする……２階……どこだろう」%K%P
 I just have a bad feeling... about the second floor... somewhere.
 CN PLACEHOLDER
-У меня плохое предчувствие... со вторым этажом... что-то не так.
+У меня плохое предчувствие...со вторым этажом...что-то не так.
 
 武「な、何言ってるんだよ、お前」%K%P
 What the heck are you talking about?
 CN PLACEHOLDER
-Погоди... о чём это ты?
+Погоди...о чём это ты?
 
 少年「ねぇ、もう一度フロアを調べたほうが――」%K%P
 Um, I think we should check that floor one more time...
@@ -76,7 +76,7 @@ CN PLACEHOLDER
 そこまで言ったとき、武がぼくの肩を揺すった。%K%P
 Saying that, Takeshi slapped me on the shoulder.
 CN PLACEHOLDER
-Сказав это, Такэси хлопнул меня по плечу.
+Сказав это, Такеши хлопнул меня по плечу.
 
 ハッと我に返る、ぼく。%K%P
 Suddenly, I came back to myself.
@@ -91,7 +91,7 @@ CN PLACEHOLDER
 少年「うん……確かに、そうだよね。だけど……」%K%P
 Yeah... You're right... but still...
 CN PLACEHOLDER
-Да... ты прав... но всё же...
+Да...ты прав...но всё же...
 
 武「お前も疲れ、溜まってるみたいだな」%K%P
 Looks like I'm not the only one who's tired.
@@ -106,7 +106,7 @@ CN PLACEHOLDER
 本当に、それだけなのだろうか。%K%P
 I wondered if that was really all it was.
 CN PLACEHOLDER
-Может, я правда всего-навсего переутомился.
+Может я правда всего-навсего переутомился.
 
 歩きながらぼくは、ぼくが見たものを思い出そうとした。%K%P
 I tried to remember what I had seen while I was walking.
@@ -116,12 +116,12 @@ CN PLACEHOLDER
 けれど、夢から覚めたあと夢を忘れてしまうように……ぼくはもう、それを思い浮かべることはできなかった。%K%P
 But it was like waking up after a dream and having the dream slip away... I couldn't remember it.
 CN PLACEHOLDER
-Но это всё равно, что проснуться и забыть только что увиденный сон... Вспомнить его снова практически невозможно.
+Но, это всё равно, что проснуться и забыть только что увиденный сон...вспомнить его снова практически невозможно.
 
 会議室に戻ると、そこにつぐみの姿があった。%K%P
 When we returned to the conference room, Tsugumi was there.
 CN PLACEHOLDER
-Когда мы вернулись в Комнату переговоров, туда уже пришла Цугуми.
+Когда мы вернулись в Комнату Переговоров, туда уже пришла Цугуми.
 
 なんと、つぐみは食事中だった。%K%P
 And to our surprise, she was eating.
@@ -141,7 +141,7 @@ CN PLACEHOLDER
 武「あーーーーーーっ！！！」%K%P
 Ahhhh!
 CN PLACEHOLDER
-А-а-а-а-а-а!
+Аааааа!!!!
 
 なぜぼくらが、こんなにも驚いているのか？%K%P
 The reason we were all so surprised...
@@ -156,27 +156,27 @@ CN PLACEHOLDER
 つぐみが今まさに食べているものが、ホットドッグだったのだから。%K%P
 Tsugumi was eating a... hotdog.
 CN PLACEHOLDER
-Цугуми ест... хот-дог.
+Цугуми ест...хот-дог.
 
 つぐみ「………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 沙羅「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「何？」%K%P
 What?
@@ -186,12 +186,12 @@ CN PLACEHOLDER
 武「き、き、き…………」%K%P
 You... You... You...
 CN PLACEHOLDER
-Ах ты... ты... ты...
+Ах ты...ты...ты...
 
 つぐみ「………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「貴様かぁーーーーーーっ！！！」%K%P
 You thief!
@@ -211,17 +211,17 @@ CN PLACEHOLDER
 そんな態度に、武の怒りは加速度的に膨れあがっていく。%K%P
 That just served to fuel Takeshi's fury.
 CN PLACEHOLDER
-Это лишь ещё сильнее разозлило Такэси.
+Это лишь ещё сильней разозлило Такеши.
 
 武「タツタサンドばかりじゃウンザリだろうっていう、俺の思いやりを、お前は……お前は……お前はぁーーーっ！！！」%K%P
 I thought everyone was sick of tuna sandwiches... and here I was going to make... and you... you...!
 CN PLACEHOLDER
-Я думал, что всех уже тошнит от сэндвичей с тунцом... Хотел сделать... А ты... ты!..
+Я думал, что всех уже тошнит от бутербродов с курятиной...хотел сделать...а ты...ты...!
 
 少年「まあまあ……落ち着いて」%K%P
 Just... calm down.
 CN PLACEHOLDER
-Такэси... расслабься.
+Такеши...расслабься.
 
 なだめようとする、ぼく。%K%P
 I tried to calm him down.
@@ -236,7 +236,7 @@ CN PLACEHOLDER
 沙羅「でもさ、さすがに独り占めはズルいと思うよ？」%K%P
 I think that's pretty selfish of you to keep them all to yourself.
 CN PLACEHOLDER
-Это был весьма эгоистичный поступок – съесть их все самой.
+Это был весьма эгоистичный поступок - съесть их все самой.
 
 武「そうだ、そうだ、食い意地の張った奴め！」%K%P
 You selfish pig!
@@ -246,7 +246,7 @@ CN PLACEHOLDER
 武「今にクジラみたいに太って、マリアナ海溝に沈んでいくハメになるぞーい！」%K%P
 I hope you get fat like a whale and drown in the Mariana Trench, you hog!
 CN PLACEHOLDER
-Надеюсь, ты растолстеешь как кит и затонешь в Марианской впадине, зараза!
+Надеюсь, ты растолстеешь как кит и затонешь рядом с Титаником, зараза!
 
 つぐみ「独り占め？」%K%P
 All to myself?
@@ -256,7 +256,7 @@ CN PLACEHOLDER
 彼女は最後の一口を平らげると、両手を払いながら武に向き直った。%K%P
 Tsugumi polished off the last bite and turned to face Takeshi as she wiped her hands.
 CN PLACEHOLDER
-Цугуми дожевала последний кусочек и, попутно вытерев руки, обратилась к Такэси.
+Цугуми дожевала последний кусочек и, попутно вытерев руки, обратилась к Такеши.
 
 つぐみ「何を言っているのか意味不明ね。私が食べたのはこれだけよ」%K%P
 I'm not sure what you're talking about. This is the only one I ate.
@@ -276,22 +276,22 @@ CN PLACEHOLDER
 つぐみ「さあね……数なんて覚えていない」%K%P
 Well... I didn't really count how many there were.
 CN PLACEHOLDER
-Ну... сказать по правде, я не считала, сколько их там было.
+Ну...сказать по правде, я не считала, сколько их там было.
 
 つぐみ「ネズミにでも、やられたんじゃないの？」%K%P
 Maybe the rats got them.
 CN PLACEHOLDER
-Может, их крысы съели.
+Может их крысы съели...
 
 武「ごまかすんじゃねーよ！　そのネズミってのはお前のことだろ！」%K%P
 You pathetic liar! The only rat here is you!
 CN PLACEHOLDER
-Жалкая притвора! Единственная крыса, что здесь обитает – ТЫ!
+Жалкая притвора! Единственная крыса, что здесь обитает - ТЫ!
 
 加熱する武に対して、つぐみは至って冷静だった。%K%P
 Takeshi's fury only grew while Tsugumi stayed calm.
 CN PLACEHOLDER
-Пока Цугуми оставалась спокойной, у Такэси уже пар из ушей повалил.
+Пока Цугуми оставалась спокойной, у Такеши уже пар из ушей повалил.
 
 額の髪を振り払いつつ、椅子からそっと立ち上がる。%K%P
 She brushed away the hair from her forehead and stood up quietly.
@@ -311,7 +311,7 @@ CN PLACEHOLDER
 つぐみ「私も言ったはずよ。私が食べたのは、これだけ」%K%P
 And I told you this was all I ate.
 CN PLACEHOLDER
-А я ещё раз отвечу – это всё, что я съела.
+А я ещё раз отвечу - это всё, что я съела.
 
 つぐみ「それに……」%K%P
 Besides...
@@ -321,7 +321,7 @@ CN PLACEHOLDER
 そこでつぐみは、ジロリと武を睨みつけた。%K%P
 Tsugumi glared at Takeshi.
 CN PLACEHOLDER
-Цугуми уставилась на Такэси.
+Цугуми уставилась на Такеши.
 
 つぐみ「あなたが怒っている『本当の理由』は、そんなことなの？」%K%P
 Are you sure that's the real reason that you're angry?
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 予定……？%K%P
 Schedule...?
 CN PLACEHOLDER
-График?..
+График...?
 
 武「おお、そうだとも。本来ならば、みんなにご馳走するはずだったホットドッグが、なくなっちまったんだからなっ！」%K%P
 We-Well yeah! Because the hotdogs that I wanted everyone to eat are gone now!
@@ -356,7 +356,7 @@ CN PLACEHOLDER
 じぃっと、武の目を見つめるつぐみ。%K%P
 Tsugumi stared unflinchingly at Takeshi.
 CN PLACEHOLDER
-Цугуми твёрдо глазела на Такэси.
+Цугуми твёрдо уставилась на Такеши.
 
 睨みあうふたり。%K%P
 The two glared at each other.
@@ -386,32 +386,32 @@ CN PLACEHOLDER
 武「な、なんだ！？」%K%P
 Wh-What was that!?
 CN PLACEHOLDER
-Ч-что это было?!
+Ч-что это было!?
 
 つぐみ「少し……揺れたわね」%K%P
 This whole place just shook... a little.
 CN PLACEHOLDER
-Нас тряхнуло... слегка.
+Нас тряхнуло...слегка.
 
 突然の異常事態にふたりはケンカしていたことも忘れ、注意を周囲に向けた。%K%P
 The two turned their attention to the new situation, forgetting their fight.
 CN PLACEHOLDER
-Они оба перевели внимание на изменившуюся ситуацию, забыв о собственной ссоре.
+Они оба перевели внимание на изменившуюся ситуацию, забыв о собственной драке.
 
 武「なぁ少年、今のは？」%K%P
 Hey, Kid, what was that?
 CN PLACEHOLDER
-Слушай, Малой, что это было?
+Слушай, Кид, что это было?
 
 少年「さぁ、わからない……」%K%P
 Uh, I don't know...
 CN PLACEHOLDER
-Э-э, я не знаю...
+Эээ, я не знаю...
 
 武「まさか、さっきの『嫌な予感』とやらが関係してるのか？」%K%P
 Hey, this doesn't have anything to do with that 'bad feeling' you had earlier, does it?
 CN PLACEHOLDER
-Это как-то связано с твоим недавним „плохим предчувствием“?
+Это как-то связано с твоим недавним 'плохим предчувствием'?
 
 ぼくは首を横に振った。%K%P
 I shook my head.
@@ -421,7 +421,7 @@ CN PLACEHOLDER
 少年「わからない。空に訊ければいいんだけど……」%K%P
 I don't know. Maybe we should ask Sora...
 CN PLACEHOLDER
-Не знаю. Может, стоит спросить Сору...
+Не знаю. Может стоит спросить Сору...?
 
 空「呼びましたか？」%K%P
 Did you call for me?
@@ -481,7 +481,7 @@ CN PLACEHOLDER
 空「はい、事前の計算にはありません。海流の乱れに影響された模様です」%K%P
 Yes, well, it wasn't in my calculations. It appears as if the ocean currents may have caused it.
 CN PLACEHOLDER
-Да, э-э, этого не было в моих подсчётах. Видимо, разрушению способствовало морское течение.
+Да, эээ, этого не было в моих подсчётах. Видимо, разрушению способствовало океанское течение.
 
 武「どのくらいヤバいんだ？」%K%P
 How dangerous are we talking here?
@@ -491,12 +491,12 @@ CN PLACEHOLDER
 空「誤差の範囲内だと思いますが……いえ、待ってください」%K%P
 Well it should be within the margin of error, but... No, wait a second.
 CN PLACEHOLDER
-Если исходить из границ погрешности... нет, секундочку.
+Если исходить из границ погрешности...нет, секундочку.
 
 空「ツヴァイトシュトックの倉庫、圧力制御用の配管に異状があります」%K%P
 There is an anomaly in one of the pressure-regulating pipes at Zweiter Stock's warehouse.
 CN PLACEHOLDER
-Обнаружено отклонение от нормы в трубопроводе регуляции давления, на складе на Цвайте Шток.
+Обнаружено отклонение от нормы в трубопроводе регуляции давления, в складе на Цвайте шток.
 
 武「圧力制御用の配管って？」%K%P
 What are pressure-regulating pipes?
@@ -516,7 +516,7 @@ CN PLACEHOLDER
 空「異状は軽微ですから、緊急は要しませんが……倉庫の状況を確認いただいたほうが良いと思います。お願いできますか？」%K%P
 The anomaly is only slight, so you shouldn't have to hurry, but... I think it is best if someone goes to check on it. Would you please go for me?
 CN PLACEHOLDER
-Отклонение от нормы лишь незначительное, поэтому в спешке нет нужды, но... думаю, будет лучше, если кто-нибудь пойдёт и проверит. Вы поможете мне?
+Отклонение от нормы лишь незначительное, поэтому в спешке нет нужды, но...думаю, будет лучше, если кто-нибудь пойдёт и проверит. Вы поможете мне?
 
 武「ああ、任せてくれ」%K%P
 Sure, leave it to me.
@@ -526,7 +526,7 @@ CN PLACEHOLDER
 武はすぐに頷く。%K%P
 Takeshi volunteered right away.
 CN PLACEHOLDER
-Такэси согласился без раздумий.
+Такеши согласился без раздумий.
 
 つぐみ「……しょうがないわね」%K%P
 ...I guess that's that, then.
@@ -566,7 +566,7 @@ CN PLACEHOLDER
 武「いや……そういうわけじゃねぇけど……」%K%P
 No... That's not it... It's just...
 CN PLACEHOLDER
-Нет... это не так... просто...
+Нет...это не так...просто...
 
 つぐみ「誤解しないで。事態が事態だけに、一時休戦ってことよ」%K%P
 Don't get me wrong. We've got a situation on our hands, so you and I will call a truce.
@@ -576,12 +576,12 @@ CN PLACEHOLDER
 つぐみ「修理するなら、工具類が必要なんじゃないの？　私ならいろいろ、扱い方を知ってる」%K%P
 Well, if we're going to fix something, we'll need tools, right? I know my way around a workshop.
 CN PLACEHOLDER
-Значит, так. Если мы собираемся что-то чинить, то нам понадобятся инструменты. Я знаю, в какой стороне мастерская.
+Значит так, если мы собираемся что-то чинить, то нам понадобятся инструменты. Я знаю, в какой стороне мастерская.
 
 武「そうだな……わかった。頼むよ」%K%P
 Alright... Let's go.
 CN PLACEHOLDER
-Хорошо... Пойдём.
+Хорошо.... Пойдём.
 
 沙羅「私も手伝うよ」%K%P
 I'll help too.
@@ -596,12 +596,12 @@ CN PLACEHOLDER
 武「あれ、そういえば優はどうしたんだ？　あいつ、まだ戻ってこないのか？」%K%P
 So what happened with You, anyway? She's not back yet?
 CN PLACEHOLDER
-Стойте... а где, собственно, Ю? Она ещё не вернулась?
+Стойте...а где, собственно, Ю? Она ещё не вернулась?
 
 少年「さっきの揺れに、気づかなかったのかな？」%K%P
 I wonder if she didn't notice the shaking just now.
 CN PLACEHOLDER
-Может, она не заметила недавнюю тряску?
+Может она не заметила недавнюю тряску?
 
 空「いえ、そんなはずはないと思うのですが……」%K%P
 There's no way she could have missed that...
@@ -626,7 +626,7 @@ CN PLACEHOLDER
 沙羅「ねえ少年？　先輩を捜しに行ってくれる？」%K%P
 Hey, Kid. Will you go look for Senpai?
 CN PLACEHOLDER
-Эй, Малой. Ты пойдёшь искать Няку?
+Эй, Кид. Ты пойдёшь искать Няку?
 
 少年「え？　ぼくが？」%K%P
 Huh? Me?
@@ -646,7 +646,7 @@ CN PLACEHOLDER
 心配と言えば、沙羅達だけで大丈夫なのだろうか。%K%P
 I was also worried about Sara and everyone going off suddenly like that.
 CN PLACEHOLDER
-Но ещё я волнуюсь о Саре и всех остальных... что они так поспешно сорвались с места.
+Но, ещё я волнуюсь о Саре и всех остальных... что они так поспешно сорвались с места.
 
 人手は多いに越したことはないはずだが……？%K%P
 An extra set of hands couldn't hurt...
@@ -671,7 +671,7 @@ CN PLACEHOLDER
 少年「武、ぼくも修理を手伝うよ」%K%P
 Takeshi, I'll come along and help with the repairs.
 CN PLACEHOLDER
-Такэси, я пойду с вами.
+Такеши, я пойду с вами.
 
 沙羅「なっきゅ先輩はどうするの？」%K%P
 What about Nakkyu-senpai?
@@ -686,12 +686,12 @@ CN PLACEHOLDER
 少年「それに、何かあればレミを使って連絡してくるさ」%K%P
 Besides, if something was wrong, she would use LeMMIH to contact us.
 CN PLACEHOLDER
-Кроме того, если бы что-то случилось, то она бы связалась с нами через LeMMIH.
+Кроме того, если бы что-то случилось, то она бы связалась с нами через ЛеММИХ.
 
 沙羅「でも、さっきの揺れで、先輩の身に何かあったとしたら……」%K%P
 But if something happened to her during that shaking...
 CN PLACEHOLDER
-Но если с ней что-то случилось во время той тряски...
+Но, если с ней что-то случилось во время той тряски...
 
 空「それは大丈夫です」%K%P
 You needn't worry about that.
@@ -706,7 +706,7 @@ CN PLACEHOLDER
 空「田中さんの居場所についても、もうしばらくすればセンサーが回復しますので、すぐに判明すると思います」%K%P
 As for Tanaka-san's whereabouts, the sensors should be online in a moment, and then I will be able to detect her.
 CN PLACEHOLDER
-Что же касается местоположения Танаки-сан, сенсоры скоро должны снова заработать, и я смогу её обнаружить.
+Что же касается местоположения Танаки-сан, сенсоры скоро должны снова заработать и я смогу её обнаружить.
 
 武「よし！　ひとまず優のことは後回しだ。倉庫の状況を確認して、それから考えよう」%K%P
 Alright. We'll forget about You for now. Let's go check the warehouse, and then we'll worry about everything else.
@@ -731,7 +731,7 @@ CN PLACEHOLDER
 でも不思議と、ぼくには自信があった。%K%P
 But somehow, I was sure of it.
 CN PLACEHOLDER
-Но почему-то я в этом уверен.
+Но, почему-то я в этом уверен.
 
 沙羅「わかった」%K%P
 Okay.
@@ -741,17 +741,17 @@ CN PLACEHOLDER
 その一言で沙羅も安心できたようだった。%K%P
 With that one word, the tension seemed to leave Sara.
 CN PLACEHOLDER
-После этих слов напряжение Сары, казалось, спало.
+Сказав лишь одно слово, Сара, кажется, избавилась от напряжённости.
 
 つぐみ「何やっているの？　置いていくわよ」%K%P
 What are you doing? You're gonna get left behind.
 CN PLACEHOLDER
-Чего вы ждёте? Давайте скорее, а то одни останетесь.
+Чего вы ждёте? Давайте скорей, а то одни останетесь.
 
 気がつけば、もう部屋の中には誰もいない。%K%P
 The next thing I noticed, we were the only people left in the room.
 CN PLACEHOLDER
-Следующее, что я понял – мы оказались единственными, кто остался в комнате.
+Следующее, что я понял - мы оказались единственными, кто остался в комнате.
 
 ぼくと沙羅は、みんなを追って駆け出した。%K%P
 Sara and I chased after everyone.
@@ -761,22 +761,22 @@ CN PLACEHOLDER
 少年「武、ちょっと行って、優を捜してくるよ」%K%P
 Takeshi, I'll go have a look around for You.
 CN PLACEHOLDER
-Такэси, пойду поищу Ю.
+Такеши, пойду поищу Ю.
 
 武「よし、それじゃ少年、任せた」%K%P
 Alright. It's in your hands then, Kid.
 CN PLACEHOLDER
-Хорошо. Смотри, не подкачай, Малой.
+Хорошо. Смотри, не подкачай, Кид.
 
 空「何かわかったら、レミを通じて私を呼んでください」%K%P
 If something comes up, use LeMMIH to contact me.
 CN PLACEHOLDER
-Если что-то случится, воспользуйся LeMMIH, чтобы связаться с нами.
+Если что-то случится, воспользуйся ЛеММИХ чтобы связаться с нами.
 
 少年「わかった、それじゃ！！」%K%P
 Alright. See you later!
 CN PLACEHOLDER
-Ладно. Увидимся!
+Ладно. Увидимся!!
 
 ぼくは水面を跳ねながら、通路へと駆けて行った。%K%P
 I ran through the corridor, kicking up spray as I went.

@@ -16,7 +16,7 @@ CN PLACEHOLDER
 ……やがて、行き止まり。%K%P
 ...Finally, we reached a dead end.
 CN PLACEHOLDER
-...И наконец, мы дошли до тупика.
+...И, наконец, мы дошли до тупика.
 
 そこから先は海水に満たされていたため、水密扉が閉ざされている場所だった。%K%P
 The watertight door was shut because the area from there onward was filled with seawater.
@@ -26,7 +26,7 @@ CN PLACEHOLDER
 その水密扉が開いていく。%K%P
 The door swung open.
 CN PLACEHOLDER
-Со скрипом... дверь открылась.
+Со скрипом...дверь открылась.
 
 すでに水はない。%K%P
 The water was gone.
@@ -41,12 +41,12 @@ CN PLACEHOLDER
 ……………………。%K%P
 ......
 CN PLACEHOLDER
-...
+....
 
 先に、沙羅と武とつぐみが……。%K%P
 Sara, Takeshi, and Tsugumi walked ahead....
 CN PLACEHOLDER
-Сара, Такэси и Цугуми идут впереди...
+Сара, Такеши и Цугуми идут впереди....
 
 遅れること数十メートル――優とぼくと空が歩いている。%K%P
 You, Sora, and I walked a few dozen meters behind them.
@@ -56,7 +56,7 @@ CN PLACEHOLDER
 ……………………。%K%P
 ......
 CN PLACEHOLDER
-...
+....
 
 武「おーいっ！　先行ってるぞーい！」%K%P
 Hey! We're going ahead!
@@ -66,12 +66,12 @@ CN PLACEHOLDER
 武達は、すでに非常階段に到着したようだった。%K%P
 It seemed like Takeshi had already reached the emergency stairs.
 CN PLACEHOLDER
-Видимо, Такэси уже добрался до аварийной лестницы.
+Видимо, Такеши уже добрался до аварийной лестницы.
 
 沙羅と武とつぐみが非常階段に消える。%K%P
 Sara, Takeshi, and Tsugumi disappeared up the stairs.
 CN PLACEHOLDER
-Сара, Такэси и Цугуми ушли вверх по ступеням.
+Сара, Такеши и Цугуми ушли вверх по ступеням.
 
 しかし――その直後！%K%P
 But immediately after that—
@@ -81,7 +81,7 @@ CN PLACEHOLDER
 少年「えっっ！？！？」%K%P
 Oh no!
 CN PLACEHOLDER
-НЕЕЕТ!
+НЕЕЕТ!!!
 
 空「いけません！　浸水が始まりました！！」%K%P
 This is bad! Water is flooding in!
@@ -91,22 +91,22 @@ CN PLACEHOLDER
 空「……第３区画……避難通路の隔壁が圧潰……！」%K%P
 ...Sector Three... The partition on the emergency corridor is collapsing...!
 CN PLACEHOLDER
-...Сектор 3... секция аварийного коридора рушится!..
+...Сектор 3...секция аварийного коридора рушится...!
 
 空「前方……５１ｍ先より水が押し寄せてきます！」%K%P
 Water is rushing in 51 meters ahead!
 CN PLACEHOLDER
-С 51-метровой высоты на нас несётся вода!
+С 51 метровой высоты на нас несётся вода!
 
 遥か彼方――進行方向より向こうから、怒濤のように迫る水の塊！！！%K%P
 The sound of rushing water could be heard in the distance!
 CN PLACEHOLDER
-Звук наступающей воды слышно с такого далёкого расстояния?!
+Звук наступающей воды слышно с такого далёкого расстояния!?
 
 空「だめです！　もう間に合いません！　早くっ、早く引き返してください！」%K%P
 It's no good! We won't make it! Go back now!
 CN PLACEHOLDER
-Это плохо! Мы не успеем! Скорее, назад!
+Это плохо! Мы не успеем! Скорей, назад!
 
 非常階段へと通じるドアが水に呑み込まれる。%K%P
 The door leading to the emergency stairs was swallowed by water.
@@ -116,12 +116,12 @@ CN PLACEHOLDER
 少年「優っ、何やってんだよ！　早く逃げるよ！！」%K%P
 You, what're you doing? Run! Now!
 CN PLACEHOLDER
-Ю, что с тобой?! Беги! Живо!
+Ю, что с тобой?! Беги! Живо!!
 
 優「……あ、うん……」%K%P
 ...Okay...
 CN PLACEHOLDER
-...Хорошо...
+〜〜〜? Да...
 
 少年「ほらっ！　しっかりしろ！」%K%P
 Now hang on!
@@ -136,7 +136,7 @@ CN PLACEHOLDER
 警備室に緊急避難した。%K%P
 We fled to the security office.
 CN PLACEHOLDER
-Мы влетели в Офис охраны.
+Мы влетели в Офис Охраны.
 
 優・ぼく・空だけがいる。%K%P
 You, Sora, and I were there.
@@ -146,7 +146,7 @@ CN PLACEHOLDER
 ひとまず、先ほどの浸水は収まったようだが……。%K%P
 It looked like the flooding had subsided...
 CN PLACEHOLDER
-Кажется, затопление остановилось...
+Кажется, затопление остановилось....
 
 空が言うには、もはや館内に残されたドライエリアは、ごくわずかとのことだった。%K%P
 According to Sora, there were only a few dry areas left in the complex.
@@ -156,7 +156,7 @@ CN PLACEHOLDER
 外部から通信が入る。%K%P
 A message came from outside.
 CN PLACEHOLDER
-Вызов... это вызов с поверхности!
+Вызов...это вызов с поверхности!
 
 男「他の３名は無事だ！」%K%P
 The other three are fine!
@@ -186,7 +186,7 @@ CN PLACEHOLDER
 男「原因が……まったくわからない」%K%P
 So... we don't know what caused it.
 CN PLACEHOLDER
-То есть... мы не знаем, что его вызвало.
+То есть...мы не знаем, что его вызвало.
 
 少年「ねえ？　ぼくらはこれから、どうしたらいいの？」%K%P
 What do you want us to do now?
@@ -196,7 +196,7 @@ CN PLACEHOLDER
 男「ひとまず、そこに待機していてくれ。すぐに対策を講じる」%K%P
 For now, you wait there. We'll come up with something soon.
 CN PLACEHOLDER
-Пока... оставайтесь на месте. Мы что-нибудь придумаем.
+Пока...оставайтесь на месте. Мы что-нибудь придумаем.
 
 少年「もう一度、高圧力送風機で排水できないの？」%K%P
 Can't you use the high-pressure gas fan to get rid of the water again?
@@ -206,7 +206,7 @@ CN PLACEHOLDER
 男「それが………なんだ……」%K%P
 Actually... no...
 CN PLACEHOLDER
-Вообще-то... нет...
+Вообще-то....нет...
 
 男「動かない…これも………不明…」%K%P
 The thing won't work... and we're not sure why...
@@ -216,7 +216,7 @@ CN PLACEHOLDER
 少年「え？　なに？　よく聞こえないよ？」%K%P
 Huh? What? I'm having trouble hearing you.
 CN PLACEHOLDER
-Э-э? Что? Я вас не слышу.
+Эээ? Что? Я вас не слышу.
 
 途中から音声にノイズが混じりだし、よく聞き取れなくなった。%K%P
 Static had broken up part of the message, and I hadn't caught it.
@@ -236,7 +236,7 @@ CN PLACEHOLDER
 男「なんだ…て………………それは本当……か……」%K%P
 What is... Is that... real...?
 CN PLACEHOLDER
-Что это... я правда... это вижу?..
+Что это...я правда...это вижу...?
 
 男「もしかし…ら……」%K%P
 Is that...
@@ -246,12 +246,12 @@ CN PLACEHOLDER
 男「………リック……………ケル……」%K%P
 ...lick... kel...
 CN PLACEHOLDER
-...лик... кель...
+...лик...кель...
 
 男「………ブリック・ヴィンケル………現れ…………のか………」%K%P
 ...Blick Winkel... is... here...
 CN PLACEHOLDER
-...Блик Винкель... он... здесь...
+...Блик Винкель...он...здесь...
 
 通信が……途絶えた。%K%P
 And then... communications were cut off.
@@ -261,17 +261,17 @@ CN PLACEHOLDER
 少年「空……？」%K%P
 Sora...?
 CN PLACEHOLDER
-Сора?..
+Сора...?
 
 沈痛な顔で、黙って首を振る空。%K%P
 With a solemn look, Sora shook her head.
 CN PLACEHOLDER
-С серьёзным взглядом Сора покачала головой.
+С серьёзным взглядом, Сора покачала головой.
 
 少年「……………………」%K%P
 ............
 CN PLACEHOLDER
-...
+............
 
 少年「ち、ちっくしょーっ！　あと……あとちょっとだったってのに！」%K%P
 Damn it! We were almost there!
@@ -281,7 +281,7 @@ CN PLACEHOLDER
 少年「なんだってこんなことに……！　どうしてなんだよ……？」%K%P
 Why this? Why did this happen to us...?
 CN PLACEHOLDER
-Почему? Как такое могло с нами случиться?..
+Почему? Как такое могло с нами случиться...?
 
 コンソールをガンと叩く。%K%P
 I punched the console.
@@ -301,12 +301,12 @@ CN PLACEHOLDER
 少年「ねえ、空……どういうことなの……？」%K%P
 Hey, Sora... What does this mean...?
 CN PLACEHOLDER
-Эй, Сора... что это значит?..
+Эй, Сора...что это значит...?
 
 空「………………」%K%P
 ............
 CN PLACEHOLDER
-...
+............
 
 空は、再び首を横に振った。%K%P
 Sora shook her head again.
@@ -316,12 +316,12 @@ CN PLACEHOLDER
 ぼくはため息をついて、椅子に座る。%K%P
 I sighed and sat down in a chair.
 CN PLACEHOLDER
-Я вздохнул и сел в кресло.
+Я вздохнул и сел в стул.
 
 隣には、優がダラリともたれかかるようにして座っている。%K%P
 You sat slumped in the chair next to me.
 CN PLACEHOLDER
-Ю развалилась в кресле по соседству.
+Ю свалилась в стул по соседству.
 
 何気なく……モニターに目をやる。%K%P
 I looked at the monitor.
@@ -336,12 +336,12 @@ CN PLACEHOLDER
 『生体反応：３』%K%P
 “Life readings: 3”
 CN PLACEHOLDER
-«Живые существа : 3»
+'Живые существа : 3'
 
 少年「………………………………え？」%K%P
 .........Huh?
 CN PLACEHOLDER
-.........а?
+.........Что?
 
 ――３！？%K%P
 —Three!?
@@ -356,12 +356,12 @@ CN PLACEHOLDER
 空は……空は、生体反応には検出されないはず……。%K%P
 And Sora... The bio scan shouldn't pick her up...
 CN PLACEHOLDER
-Но Сора... Биосканер не должен считать её...
+Но, Сора...биосканер не должен считать её...
 
 少年「なんだ、これ……また故障……？」%K%P
 What is this? Is this broken...?
 CN PLACEHOLDER
-Что с ним? Он сломан?..
+Что с ним? Он сломан...?
 
 少年「どういうこと？　空？」%K%P
 What does this mean? Sora?
@@ -371,7 +371,7 @@ CN PLACEHOLDER
 空「わ、わかりません……」%K%P
 I... I don't know...
 CN PLACEHOLDER
-Я... я не знаю...
+Я...я не знаю...
 
 空「ただ……何かが起きていることだけは、確かなようです……」%K%P
 ...I know that something is happening...
@@ -381,22 +381,22 @@ CN PLACEHOLDER
 空「私にも知らされていない……何かが……」%K%P
 But I haven't been informed what...
 CN PLACEHOLDER
-Но я не знаю, что именно...
+Но, я не знаю, что именно...
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ぼくは、椅子から立ち上がった。%K%P
 I stood up from the chair.
 CN PLACEHOLDER
-Я встал с кресла.
+Я встал со стула.
 
 そのとき、テーブルに乗っていた空き缶に肘がぶつかった。%K%P
 Just then, my elbow bumped an empty can on the table.
 CN PLACEHOLDER
-И тут я задел локтём пустую банку на столе.
+И тут, я задел локтём пустую банку на столе.
 
 ――カラン！%K%P
 Kabang!
@@ -406,7 +406,7 @@ CN PLACEHOLDER
 カラカラカラ……。%K%P
 Clatter, clatter, clatter...
 CN PLACEHOLDER
-Цок, цок, цок, цок, цок...
+Цок, цок, цок, цок, цок....
 
 床に落ちた空き缶が、そのまま、壁際までコロコロと転がって行く。%K%P
 The can fell to the floor and rolled to the wall.
@@ -416,12 +416,12 @@ CN PLACEHOLDER
 少年「………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「これ、ひょっとして……」%K%P
 Is the floor...?
 CN PLACEHOLDER
-Этаж...
+Этаж...?
 
 床が、傾いてる？%K%P
 (The floor is tilting!)
@@ -441,7 +441,7 @@ CN PLACEHOLDER
 空「はい、わかりました」%K%P
 Certainly.
 CN PLACEHOLDER
-Да, сию минуту.
+Да.
 
 モニターにＬｅＭＵのマップが表示される。%K%P
 A map of LeMU appeared on the monitor.
@@ -456,22 +456,22 @@ CN PLACEHOLDER
 少年「ＬｅＭＵが……傾いてる……」%K%P
 LeMU is... slanting...
 CN PLACEHOLDER
-LeMU... накренился...
+LeMU...накренился...
 
 かといって、それがなんになるわけでもない。%K%P
 But the tilt of the complex didn't really mean anything.
 CN PLACEHOLDER
-Но сам крен здания ничего не значит.
+Но, сам крен здания ничего не значит.
 
 幸いと言うべきか、ぼくらの生存に影響はなさそうではあるが……。%K%P
 Thankfully, it didn't look like it was affecting our chances of survival.
 CN PLACEHOLDER
-К счастью, непохоже, что он может повлиять на наши шансы выжить.
+К счастью, не похоже, что он может повлиять на наши шансы выжить.
 
 少年「ねえ、優……これから、どうしようか」%K%P
 Hey, You... Whaddya think we should do now?
 CN PLACEHOLDER
-Эй, Ю... как думаешь, что нам делать?
+Эй, Ю...как думаешь, что нам делать?
 
 優「…………………………………………」%K%P
 ....................................
@@ -481,7 +481,7 @@ CN PLACEHOLDER
 少年「優……？」%K%P
 You...?
 CN PLACEHOLDER
-Ю?..
+Ю...?
 
 優は完全に放心状態だった。%K%P
 You was completely dazed.
@@ -491,10 +491,10 @@ CN PLACEHOLDER
 ぼくの声が耳に届いている様子もなく……。%K%P
 It didn't even look like my voice was reaching her brain....
 CN PLACEHOLDER
-Кажется, что она и вовсе не слышит мой голос...
+Кажется, что она и вовсе не слышит мой голос....
 
 その２つの瞳は、この世界の光をまったく映していなかった。%K%P
 It seemed that the light of the world had been extinguished from her eyes.
 CN PLACEHOLDER
-А свет... жизнь... испаряется из её глаз.
+А свет...жизнь...испаряется из её глаз.
 

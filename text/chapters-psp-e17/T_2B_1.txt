@@ -6,12 +6,12 @@ CN PLACEHOLDER
 とは言え、扉の向こうには依然として、焼けつくような熱さの蒸気が充満しているのだ。%K%P
 Even so, on the other side of the door, it was still hot enough to scald.
 CN PLACEHOLDER
-Однако на двери по-прежнему можно жарить яичницу.
+Однако, на двери по-прежнему можно жарить яичницу.
 
 俺とつぐみは発電室の前で、中の温度が下がるのを待つことにした。%K%P
 Tsugumi and I waited in front of the generator room until the temperature inside had cooled down sufficiently.
 CN PLACEHOLDER
-Мы с Цугуми выжидаем перед Генераторной, пока температура не спадёт достаточно.
+Цугуми и я выжидаем перед Генераторной, пока температура не спадёт достаточно.
 
 水の溜まった床の上に腰を下ろし、背中を壁に預ける。%K%P
 We sat on the water-covered floor and leaned against the wall.
@@ -31,17 +31,17 @@ CN PLACEHOLDER
 それに、思ったよりも水は温かかったし……。%K%P
 Besides, the water was warmer than it looked...
 CN PLACEHOLDER
-Кроме того, она гораздо теплее, чем кажется...
+Кроме того, она гораздо теплее, чем кажется....
 
 きっと発電室の熱が、ここまで伝わっているのだろう。%K%P
 I thought it was probably the heat from the generator room.
 CN PLACEHOLDER
-Наверное, это из-за жара в Генераторной.
+Наверно, это из-за жара в Генераторной.
 
 武「なぁ、あとどれぐらい待てばいいんだ？」%K%P
 Hey, how long do you think we're gonna have to wait?
 CN PLACEHOLDER
-Слушай, и сколько нам, по-твоему, придётся ждать?
+Слушай, и сколько нам по-твоему придётся ждать?
 
 俺はつぐみに尋ねた。%K%P
 I asked Tsugumi that.
@@ -56,7 +56,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみは答えようとしない。%K%P
 Tsugumi didn't even try to answer.
@@ -76,7 +76,7 @@ CN PLACEHOLDER
 まるでシャーペンの頭の所をノックするような、プラスチックの乾いた響きだった。%K%P
 It was like the sound of dry plastic crinkling, like on the top of a champagne bottle.
 CN PLACEHOLDER
-Словно кто-то стучит ногтем о крышку пластиковой бутылки.
+Словно кто-то стучит ногтем об крышку пластиковой бутылки.
 
 その音は、つぐみの手元の辺りで鳴っていた。%K%P
 It sounded like it was coming from near Tsugumi's hands.
@@ -111,7 +111,7 @@ CN PLACEHOLDER
 『教えるつもりはない』という意思表示なのかもしれない。%K%P
 I thought it might be her way of saying “I'm not going to tell”.
 CN PLACEHOLDER
-Наверное, это её манера ответа: «Не скажу».
+Наверно, это её манера ответа: 'Не скажу'.
 
 武「お前はさぁ、気が向いたときにしか答えないのか？」%K%P
 What is it with you? You only answer when you feel like it?
@@ -121,7 +121,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「猫みたいなやつだな」%K%P
 You're like a cat.
@@ -146,7 +146,7 @@ CN PLACEHOLDER
 武「何わけわかんないこと言ってんだよ」%K%P
 I don't have a clue what you're talking about.
 CN PLACEHOLDER
-То есть... ты это о чём?
+То есть...ты это о чём?
 
 つぐみ「私は……」%K%P
 I...
@@ -171,7 +171,7 @@ CN PLACEHOLDER
 つぐみ「意味のある質問には答える、そうじゃなければ答えない……ただそれだけ」%K%P
 If a question has meaning, I answer. If it doesn't, I don't... That's all.
 CN PLACEHOLDER
-Если в вопросе есть смысл, я отвечу. Если нет, значит, нет... вот и всё.
+Если в вопросе есть смысл, я отвечу. Если нет, значит нет...вот и всё.
 
 武「本当か？」%K%P
 Really?
@@ -181,7 +181,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「本当なんだな？」%K%P
 So you are serious.
@@ -206,7 +206,7 @@ CN PLACEHOLDER
 つぐみ「私が知らないことを知ってるくせに聞いてくるような質問……」%K%P
 Or questions about things that you know I don't know, but you ask anyway...
 CN PLACEHOLDER
-А ещё когда пытаются блеснуть умом...
+А ещё, когда пытаются блеснуть умом...
 
 つぐみ「世の中には、あまりにも不毛な会話が多すぎる……そう思わない？」%K%P
 There is more than enough pointless conversation in the world... don't you think?
@@ -221,7 +221,7 @@ CN PLACEHOLDER
 武「じゃあ意味のある質問をしてやろうじゃないか」%K%P
 How about I ask you a meaningful question?
 CN PLACEHOLDER
-Тогда как насчёт толкового вопроса?
+Тогда, как на счёт толкового вопроса?
 
 俺は……%K%p
 I wanted to ask...
@@ -246,7 +246,7 @@ CN PLACEHOLDER
 この際だから、それを聞いてみることにした。%K%P
 So I decided to take the opportunity and ask about it.
 CN PLACEHOLDER
-Так что я решил воспользоваться предоставленным шансом.
+Так что, я решил воспользоваться предоставленным шансом.
 
 武「『この発電室の気圧について』……なんだけど」%K%P
 It's about the air pressure of the generator room...
@@ -261,7 +261,7 @@ CN PLACEHOLDER
 武「その熱水は気化して水蒸気になり、ギュウギュウに、パンパンに詰め込まれて行った」%K%P
 And that water turns to steam, and it gets more and more packed in there.
 CN PLACEHOLDER
-Вода превращалась в пар, и воздух внутри становился всё плотнее и плотнее.
+Вода превращалась в пар и внутри воздух становился всё плотнее и плотнее.
 
 武「しかも、そいつは数百度という高温の蒸気だ」%K%P
 What's more, it's steam at a temperature of several hundred degrees.
@@ -276,12 +276,12 @@ CN PLACEHOLDER
 武「例えば、ヤカンに水を注ぎ、フタのところを溶接かなんかして、完全に出口を塞いだ状態で、火にかけたとする」%K%P
 For example, it's like if you poured a bunch of water into a kettle, welded it shut, blocked the spout, and put it on a fire.
 CN PLACEHOLDER
-То есть, это всё равно, что залить воды в котёл доверху, заварить его наглухо и бросить в огонь.
+То есть, это всё равно, что залить воды в котёл до верху, заварить его наглухо и бросить в огонь.
 
 武「そしたら、やがてヤカンは『ドッカーン！』と大爆発を起こしちまうよな？」%K%P
 Then, finally, it would go and explode with a 'boom', right?
 CN PLACEHOLDER
-И в конце концов он возьмёт и взорвётся. „Бабах!“ Так ведь?
+И в конце концов он возьмёт и взорвётся. 'Бабах!' Так ведь?
 
 武「でもこの通り……なぜか発電室は無事だ」%K%P
 But somehow... the generator room is fine.
@@ -296,17 +296,17 @@ CN PLACEHOLDER
 武「いや、だからそれは、どうしてなのかと思って……」%K%P
 Uh, I mean, why is that...?
 CN PLACEHOLDER
-Э-э, ну, то есть, почему?..
+Ээ, ну, то есть, почему...?
 
 つぐみ「はぁ……」%K%P
 *Sigh*...
 CN PLACEHOLDER
-*вздох*
+*Вздох*...
 
 つぐみ「それが、あなたの考えた『意味のある質問』なの？」%K%P
 Is that what you call a 'meaningful question'?
 CN PLACEHOLDER
-И это, по-твоему, „толковый вопрос“?
+И это по-твоему 'толковый вопрос'?
 
 武「そりゃそうだよ、俺達の生死にかかわってくる問題なんだから」%K%P
 You bet. Because it's a matter of life and death.
@@ -316,7 +316,7 @@ CN PLACEHOLDER
 つぐみ「ふぅん……」%K%P
 Hmph...
 CN PLACEHOLDER
-Хм-м-м...
+Хммм...
 
 つぐみ「典型的な愚問に思えるけど……まあ、いいわ」%K%P
 It sounds to me like a typical stupid question... but whatever.
@@ -336,7 +336,7 @@ CN PLACEHOLDER
 つぐみ「そうして役目を終えた水蒸気は、最終的にどこへ行くのか……？」%K%P
 Where would the steam usually go once it was used...?
 CN PLACEHOLDER
-А куда девался отработанный пар?..
+А куда девался отработанный пар...?
 
 つぐみ「たぶん、ＬｅＭＵの外に排出されてたんだと思う」%K%P
 I think it was probably sent outside of LeMU.
@@ -356,12 +356,12 @@ CN PLACEHOLDER
 武「この発電室のどこかに、外部へと通じるパイプか何かがついてるってことか」%K%P
 So the generator room is connected to the outside by a pipe or something.
 CN PLACEHOLDER
-Значит, Генераторная имеет выход в океан через трубу или что-то такое?
+Значит Генераторная имеет выход в океан через трубу или нечто подобное?
 
 ふむふむ……。%K%P
 Hmmmm...
 CN PLACEHOLDER
-Хм-м-м... тогда всё встаёт на свои места.
+Хмммм...тогда всё встаёт на свои места.
 
 俺はひとり、頷いていた。%K%P
 I nodded to myself.
@@ -381,17 +381,17 @@ CN PLACEHOLDER
 武「この発電室にしろ、隣のパイプ部屋にしろ、細かいところまで熟知してるって感じじゃないか」%K%P
 I mean, you seem to know a bunch of details, like about this Generator Room or the pipe room or whatever.
 CN PLACEHOLDER
-То есть, меня поразило, что ты знаешь столько всего, и об этой Генераторной, и о помещении с трубами... обо всём.
+То есть, меня поразило, что ты знаешь столько всего, и об этой Генераторной, и о помещении с трубами...обо всём.
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 表情を窺うことはできなかったが、つぐみは何やら考え込んでいるようだった。%K%P
 I couldn't check her expression, but it seemed like she was deep in thought about something.
 CN PLACEHOLDER
-Я не разглядел выражения её лица, но мне показалось, что она глубоко задумалась о чём-то.
+Я не разглядел выражения её лица, но её состояние напомнило мне крылатую фразу 'ушла в себя, вернусь не скоро'.
 
 武「どうだ、意味のある質問だろ？」%K%P
 How's that for a meaningful question?
@@ -401,7 +401,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「全然……」%K%P
 Completely...
@@ -456,7 +456,7 @@ CN PLACEHOLDER
 だが、今ここで問い詰めたところで答えてくれるとも思えない。%K%P
 But I didn't think that she would answer if I badgered her about it anymore.
 CN PLACEHOLDER
-Но я не думаю, что она ответит, если я буду постоянно ей надоедать.
+Но, я не думаю, что она ответит, если я буду постоянно ей надоедать.
 
 俺は少々のイラ立ちを感じながら、貧乏揺すりなんかして、その気持ちをごまかしてみることにした。%K%P
 I was irritated, but decided to play it cool and pretend like I didn't care.
@@ -501,17 +501,17 @@ CN PLACEHOLDER
 武「あっ、えーと……どうぞ……」%K%P
 Uh, sure... Go ahead...
 CN PLACEHOLDER
-Э-э, конечно... давай...
+Ээ, конечно...давай...
 
 つぐみ「目……閉じてくれる？」%K%P
 Will you close... your eyes?
 CN PLACEHOLDER
-Ты не мог бы закрыть... глаза?
+Ты не мог бы закрыть...глаза?
 
 武「……それが……質問か？」%K%P
 ... Is... that the question?
 CN PLACEHOLDER
-...Это... вопрос?
+...Это...вопрос?
 
 つぐみ「正確に言うと『お願い』」%K%P
 It's more of a favor.
@@ -521,12 +521,12 @@ CN PLACEHOLDER
 暗闇の中……。%K%P
 There in the darkness...
 CN PLACEHOLDER
-Здесь в темноте...
+Здесь в темноте....
 
 狭い通路……。%K%P
 In that narrow corridor...
 CN PLACEHOLDER
-В этом узком коридоре...
+В этом узком коридоре....
 
 鼻先数センチの距離……。%K%P
 Just a few centimeters from my nose...
@@ -536,7 +536,7 @@ CN PLACEHOLDER
 ふたりきり……。%K%P
 The two of us...
 CN PLACEHOLDER
-Мы вдвоём...
+Мы вдвоём....
 
 俺の魂は蒸発し、気体となった。%K%P
 My mind turned to steam and evaporated.
@@ -561,17 +561,17 @@ CN PLACEHOLDER
 ――カパンッカパンッカパンッ！%K%P
 —Shake, shake, shake!
 CN PLACEHOLDER
-– Фшик, фшик, фшик!
+- Фшик, фшик, фшик!
 
 ――バッシャーンッ！%K%P
 —Splish, splash!
 CN PLACEHOLDER
-– Плюх, плюмс!
+- Плюх, плюмс!
 
 ――シャカシャカシャカシャカシャカッ！%K%P
 —Slosh, slosh, slosh, slosh, slosh!
 CN PLACEHOLDER
-– Шварк, шварк!
+- Шварк, шварк!
 
 ――ぱかっ！%K%P
 Click!
@@ -586,7 +586,7 @@ CN PLACEHOLDER
 思わず目をあける俺……。%K%P
 I opened my eyes without thinking...
 CN PLACEHOLDER
-И машинально открыл глаза...
+И машинально открыл глаза....
 
 ニマ〜っとしたつぐみの笑顔が、俺の眼前に立ちはだかっている。%K%P
 Tsugumi was grinning mischievously right in front of me.
@@ -611,12 +611,12 @@ CN PLACEHOLDER
 ――プシューーーーーーーーーーッ！！%K%P
 Fwwwiiiiiiiiish!
 CN PLACEHOLDER
-Пши-и-и-и-и-ик!
+Пшшшиииииииииик!
 
 武「うわっ、うわっ、なにすんだよ！」%K%P
 Hey, hey, what're you doing!?
 CN PLACEHOLDER
-Эй-эй, ты чего удумала?!
+Эй, чёрт, что ты делаешь?
 
 つぐみ「このゴキブリ野郎！　ゴキブリ野郎っ！！」%K%P
 You jerk! You dumb jerk!
@@ -641,7 +641,7 @@ CN PLACEHOLDER
 武「おえっ……おえっ……口ん中に入っちゃ……おえっ……」%K%P
 You... You... That went in my mouth...
 CN PLACEHOLDER
-Ты... кхе... эта фигня попала мне в рот...
+Ты...кхе...эта фигня попала мне в рот...
 
 つぐみ「これでも食らえぇーっ！　ちきしょーっ！」%K%P
 Take that! You loser!
@@ -651,7 +651,7 @@ CN PLACEHOLDER
 武「やめろ！　やめろ！　どうしちゃったっつーんだよ、うえっ……」%K%P
 Stop it! Stop it! What's the matter with you...?
 CN PLACEHOLDER
-Стой! Прекрати! Что на тебя нашло?..
+Стой! Прекрати! Что на тебя нашло...?
 
 必死に抵抗を試みるが、思うように身動きを取ることができない。%K%P
 I desperately tried to resist, but my body wouldn't obey me.
@@ -676,37 +676,37 @@ CN PLACEHOLDER
 その言葉と共に、ようやく噴射が止まった。%K%P
 With those words, the eruption in my face stopped.
 CN PLACEHOLDER
-После этих слов издевательства над моим лицом прекратились.
+С этими словами, издевательства над моим лицом прекратились.
 
 武「れぇ、れぇ、くつぇんなかが、ぺれぺれせれぇぇぇ……」%K%P
 My mwouth... iz nwumb... Whaddya spway won me...
 CN PLACEHOLDER
-;Такэси«Мой в-вот... оневвел... чем ф-фы м-ма мев-вя вв-ввысс-ввува?..»%N(Мой рот... онемел... чем ты на меня брызнула?..)%K%P
+Мой в-вот...оневвел...ф-фшо ф-фы м-ма мев-вя вв-ввысс-ввува...?" (Мой рот...онемел...что ты на меня брызнула...?)
 
 つぐみ「ふっふっふっ……」%K%P
 Heeheehee...
 CN PLACEHOLDER
-Хе-хе-хе...
+Хее〜хее〜хее...
 
 笑ったかと思うと、今度は布のようなもので、つぐみは俺の顔面をこすり始めた。%K%P
 I thought she was laughing, but the next thing I knew, Tsugumi had started rubbing my face with a cloth.
 CN PLACEHOLDER
-Я думал, что она смеётся, но... следующее, что я понял – Цугуми стала вытирать моё лицо тряпкой.
+Я думал, что она смеётся, но... следующее, что я понял - Цугуми стала вытирать моё лицо тряпкой.
 
 ゴシゴシゴシゴシと、荒っぽい手つきで……。%K%P
 It was rough, and her technique didn't make it any better...
 CN PLACEHOLDER
-Она оказалась грубой, а рука Цугуми – тяжёлой...
+Она оказалась грубой, а рука Цугуми - тяжёлой....
 
 武「う、うぅっ……ああぁ……」%K%P
 Ohhhh... Ahhhh...
 CN PLACEHOLDER
-Ох... Ой...
+Ойййй...айййй...
 
 俺は無駄な抵抗をやめた。%K%P
 I stopped my futile resistance.
 CN PLACEHOLDER
-Я понял, что сопротивляться бесполезно.
+Я прекратил своё бесполезное сопротивление.
 
 まさに虫の息だった。%K%P
 I was almost choking.
@@ -716,12 +716,12 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「これで……いいかな……」%K%P
 That's... just about right...
 CN PLACEHOLDER
-Ну вот... так уже лучше...
+Ну вот...так уже лучше...
 
 つぐみの手が、俺の首から離れた。%K%P
 Tsugumi took her hand off of my neck.
@@ -761,7 +761,7 @@ CN PLACEHOLDER
 武「おまえなぁ！　おまえなぁ！　おまえなぁーっ！」%K%P
 You! You! Yoooooou!
 CN PLACEHOLDER
-Ты! Ты! Да ты-ы-ы!
+Ты! Ты! Тыыыыыыыы!
 
 文句を言いたかったが、今は顔を洗う方が先だ。%K%P
 I wanted to say something to her, but washing my face took priority.
@@ -781,7 +781,7 @@ CN PLACEHOLDER
 武「どどどどどどどどどーいうつもりなんだよ、つぐみ！」%K%P
 Whaaaaaaaaaaaat do you think you're doing!?
 CN PLACEHOLDER
-Что-о-о-о ты вытворяешь?
+Чтооооооооооооо ты вытворяешь?
 
 武「俺の顔に何かけやがったんだ！？」%K%P
 What did you put on my face?
@@ -816,7 +816,7 @@ CN PLACEHOLDER
 武「はあ〜？　何が？」%K%P
 Huh? What was?
 CN PLACEHOLDER
-Э-э? На что?
+Эээ? На что?
 
 つぐみ「顔が」%K%P
 Your face.
@@ -836,7 +836,7 @@ CN PLACEHOLDER
 武「て、て、て、てめぇ……」%K%P
 Y-Y-Y-Y-You...
 CN PLACEHOLDER
-Т-т-т-ты...
+Т-т-т-т-ы...
 
 言いかけて、俺ははたと気づいた。%K%P
 And then I realized something.
@@ -851,7 +851,7 @@ CN PLACEHOLDER
 あの、手の平にこびりついた……『黒いインク』のことを……。%K%P
 The black ink that had been on the palms of my hands...
 CN PLACEHOLDER
-Чёрная краска, что была у меня на ладонях...
+Чёрная краска, что была у меня на ладонях....
 
 武「そうか……」%K%P
 I see...
@@ -861,12 +861,12 @@ CN PLACEHOLDER
 武「落書き、か……」%K%P
 It was the graffiti...
 CN PLACEHOLDER
-Рисунки...
+Граффити...
 
 武「まだ、書いてあったのか……」%K%P
 It was still there...?
 CN PLACEHOLDER
-Значит, оно всё ещё было там?..
+Значит оно всё ещё было там...?
 
 武「落書きを、消してくれたんだ……」%K%P
 You erased all of it...
@@ -881,7 +881,7 @@ CN PLACEHOLDER
 タツタサンドを作っていたときも、空を捜していたときも、ここまで辿り着く間にも、俺の顔には今朝の落書きが、ずっと残ったままだったんだ。%K%P
 When I had been making sandwiches, looking for Sora, and coming there, the writing had been on my face the entire time.
 CN PLACEHOLDER
-Когда делал сэндвичи, искал Сору и находился здесь... эта гадость была на моём лице с самого утра.
+Когда делал бутерброды, искал Сору и находился здесь... эта гадость была на моём лице с самого утра.
 
 武「それで、アセトンを……」%K%P
 And the acetone...
@@ -891,12 +891,12 @@ CN PLACEHOLDER
 武「アセトンって確か、除光液とか薄め液に入ってる成分だったよな？」%K%P
 Acetone... That's supposed to be like nail polish remover, right?
 CN PLACEHOLDER
-Ацетон... это же растворитель, верно?
+Ацетон...это же растворитель, верно?
 
 つぐみ「工具箱に入ってたの……見つけたから……」%K%P
 I found it... in the toolbox...
 CN PLACEHOLDER
-Я нашла его... в ящике с инструментами...
+Я нашла его...в ящике с инструментами...
 
 辺りには、強い刺激臭が漂っていた。%K%P
 There was a strong stench from it in the air.
@@ -931,27 +931,27 @@ CN PLACEHOLDER
 俺は尋ねてみた。%K%P
 I asked her about the graffiti.
 CN PLACEHOLDER
-Спросил я её про рисунки.
+Спросил я её про граффити.
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「待ってても、答えないよ」%K%P
 You can wait if you want, but I'm not answering.
@@ -981,12 +981,12 @@ CN PLACEHOLDER
 水蒸気の満ちた部屋の空気は重く、肌にまとわりつくようだ。%K%P
 The air in the steam-filled room was heavy and stuck to the skin.
 CN PLACEHOLDER
-Воздух тяжелее, чем в бане – он словно прилипал к коже.
+Воздух тяжелее, чем в бане - кожа вспотела мгновенно.
 
 息を吸い込むと、ネバネバとした湯気の塊が喉を通り過ぎて行くのがわかる。%K%P
 Inhaling felt like swallowing globs of sticky hot steam.
 CN PLACEHOLDER
-От такого «воздуха» закружилась голова.
+От такого 'воздуха' закружилась голова.
 
 俺は酸欠に喘ぐ魚のように、口をぱくぱくとさせていた。%K%P
 I was opening and closing my mouth like a fish out of water.
@@ -1006,7 +1006,7 @@ CN PLACEHOLDER
 つぐみは俺のことを完全に無視し、発電機の復旧作業に取りかかった。%K%P
 She completely ignored me as she started working to get the generator up and running again.
 CN PLACEHOLDER
-Она вообще не обратила на меня внимания и принялась за генератор.
+Она вообще не обращает на меня внимания и принялась за генератор.
 
 作業そのものは協同で行なわれた。%K%P
 We did the work together.
@@ -1021,17 +1021,17 @@ CN PLACEHOLDER
 ボルトを締めたり、バルブを緩めたり、パイプをかじったり……力仕事にかかわる部分が、俺の役割だった。%K%P
 I did the grunt work... tightening bolts, loosening valves, and working on the pipes.
 CN PLACEHOLDER
-Я делаю тяжёлую работу... закручиваю болты, ослабляю вентили и работаю с трубами.
+Я делаю тяжёлую работу...закручиваю болты, ослабляю вентили и работаю с трубами.
 
 そうして、最後のボルトをしっかりと締めつけると……。%K%P
 And when I finished tightening the last bolt...
 CN PLACEHOLDER
-Когда я закончил прикручивать последнюю гайку...
+Когда я закончил прикручивать последнюю гайку....
 
 武「ふぃ〜っ、これでＯＫだな」%K%P
 Whew. That should do it.
 CN PLACEHOLDER
-Уф. Надеюсь, сработает.
+Уфф. Надеюсь, сработает.
 
 俺は噴き出した汗を袖で拭った。%K%P
 I wiped my sweat away with my collar.
@@ -1046,17 +1046,17 @@ CN PLACEHOLDER
 『水蒸気の圧力が過剰に増加した場合、バルブが自動的に開いてガス抜きを行い、破裂損傷を防止する』%K%P
 “When pressure from the steam becomes excessive, the valve automatically opens to release the gas and prevent damage.”
 CN PLACEHOLDER
-«Когда давление в паровой трубе становится избыточным, вентиль автоматически открывается, чтобы выпустить газ и предотвратить повреждение.»
+'Когда давление в паровой трубе становится избыточным, вентиль автоматически открывается, чтобы выпустить газ и предотвратить повреждение.'
 
 『通常は、余分な蒸気を排出した後、バルブは自然に閉じるような仕組みになっているのだが……何しろ、室内は１気圧だ』%K%P
 “Normally, after a release of surplus gas, the valve is designed to shut automatically... but we're at one atmosphere, so...”
 CN PLACEHOLDER
-«Обычно после высвобождения избыточного газа вентиль сразу должен закрываться... Но сейчас здесь 1 атмосфера.»
+'Обычно, после высвобождения избыточного газа, вентиль сразу должен закрыться...но, сейчас здесь 1 атмосфера, поэтому...'
 
 『安全バルブは閉鎖されずに、いつまで経っても蒸気が漏れ続けた』%K%P
 “Because the safety valve never closed, the steam continued leaking.”
 CN PLACEHOLDER
-«Аварийный вентиль так и не закрылся, а утечка пара продолжалась.»
+'Аварийный вентиль так и не закрылся, а утечка пара продолжалась.'
 
 ……どうやら、そういうことらしい。%K%P
 ...Anyway, that was the gist of the explanation.
@@ -1066,7 +1066,7 @@ CN PLACEHOLDER
 俺とつぐみは、一度発電室を出てパイプ部屋へ入ると……%K%P
 Tsugumi and I went to the generator room and then to the pipe room...
 CN PLACEHOLDER
-Мы с Цугуми оставили Генераторную и вернулись в помещение с трубами...
+Цугуми и я оставили Генераторную и вернулись в помещение с трубами...
 
 修理前に閉じたバルブを開放し……%K%P
 There, we opened the valve we had closed before the repairs...
@@ -1086,7 +1086,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「スイッチ、入れるぞ？」%K%P
 I'm turning it on.
@@ -1096,7 +1096,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「心の準備はできたかな？」%K%P
 You ready?
@@ -1106,7 +1106,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「では、カウントダウンを始めよう」%K%P
 Let's start the countdown...
@@ -1116,7 +1116,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「３０秒前……」%K%P
 30 seconds...
@@ -1126,7 +1126,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「２５秒前……」%K%P
 25 seconds...
@@ -1136,12 +1136,12 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「２０……１９……１８……１７」%K%P
 20... 19... 18... 17...
 CN PLACEHOLDER
-20... 19... 18... 17...
+20...19...18...17
 
 ――ぽちっ。%K%P
 —Click.
@@ -1161,7 +1161,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「たかだか１０秒ちょっとも待てないのか、お前は！」%K%P
 You can't wait a little more than a mere thirteen seconds?
@@ -1171,12 +1171,12 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「こういうのはだなぁ、ある種の儀式と言うか、形式と言うか、とにかく非常に大切なことであって……」%K%P
 This... This is kind of like a ritual... Anyway, it's very important...
 CN PLACEHOLDER
-Это... это вроде как ритуал... для меня это важно...
+Это...это вроде как ритуал...для меня это важно...
 
 つぐみ「ゼロ……」%K%P
 Zero...
@@ -1201,7 +1201,7 @@ CN PLACEHOLDER
 つぐみ「ほらね……電気が点くまで、ちょうど１７秒……」%K%P
 See... It took exactly seventeen seconds for the lights to come on...
 CN PLACEHOLDER
-Видишь... чтобы зажёгся свет, понадобилось ровно 17 секунд...
+Видишь...чтобы зажёгся свет, понадобилось ровно 17 секунд...
 
 つぐみは見下すような視線を俺に向け、スタスタと部屋を出て行った。%K%P
 Tsugumi flashed me a condescending glance and strolled out of the room.
@@ -1211,7 +1211,7 @@ CN PLACEHOLDER
 武「ちぇっ」%K%P
 Tsk.
 CN PLACEHOLDER
-Тц!
+Гррр!
 
 重たい工具箱を肩に担ぐと、俺はつぐみの後を追った。%K%P
 I shouldered the weighty toolbox and followed after Tsugumi.
@@ -1226,7 +1226,7 @@ CN PLACEHOLDER
 つぐみは腕組みをして待っていた。%K%P
 Tsugumi was waiting with her arms crossed.
 CN PLACEHOLDER
-Цугуми ждёт, скрестив руки.
+Цугуми ждёт с собранными руками.
 
 つぐみ「遅い」%K%P
 You're slow.
@@ -1266,7 +1266,7 @@ CN PLACEHOLDER
 穴の開いた卵――もはや、これは使い物にならない。%K%P
 It was an egg with a hole in it. It was useless to us.
 CN PLACEHOLDER
-Это «дырявый» лифт. Для нас он бесполезен.
+Это 'дырявый' лифт. Для нас он бесполезен.
 
 左のほうは……。%K%P
 To the left...
@@ -1281,7 +1281,7 @@ CN PLACEHOLDER
 武「このフロアに、もう１台卵が停まってるっていうの……知ってたんだ？」%K%P
 Did you know there was another egg elevator stopped down here...?
 CN PLACEHOLDER
-Так ты знала о том, что на этом этаже остановился ещё один лифт?..
+Так ты знала о том, что на этом этаже остановился ещё один лифт...?
 
 つぐみ「知らなきゃ来ない」%K%P
 Wouldn't have come if I didn't.
@@ -1291,7 +1291,7 @@ CN PLACEHOLDER
 武「まあ、そりゃそうだな……」%K%P
 I suppose not...
 CN PLACEHOLDER
-Да нет, наверное...
+Да нет наверно...
 
 武「はぁ、よっこらどっこいしょと」%K%P
 Oh, this is heavy.
@@ -1301,7 +1301,7 @@ CN PLACEHOLDER
 卵に乗り込んだ俺は、工具箱を床の上に置いた。%K%P
 Inside the egg elevator, I put the toolbox on the floor.
 CN PLACEHOLDER
-Внутри лифта я поставил коробку на пол.
+Внутри лифта, я поставил коробку на пол.
 
 つぐみ「オッサンみたい……」%K%P
 You sound like an old man...
@@ -1316,7 +1316,7 @@ CN PLACEHOLDER
 そう言って、扉のわきについていた『△』のボタンを押す。%K%P
 As I said that, I pushed the up button next to the elevator door.
 CN PLACEHOLDER
-Сказав это, я нажал на кнопку возле двери лифта.
+Сказав это, я нажал кнопку возле двери лифта.
 
 内側・外側の水密扉は、既に自動で閉じられていた。%K%P
 The internal and external watertight doors had already sealed automatically.
@@ -1346,7 +1346,7 @@ CN PLACEHOLDER
 床下から聞こえていた音はいつの間にか消え失せ、辺りはひっそりと静まり返っていた。%K%P
 The sound beneath the floor had stopped, and silence had returned.
 CN PLACEHOLDER
-Исходящий из-под пола звук прекратился, вернулась тишина.
+Звук, исходящий из-под пола, прекратился и вернулась тишина.
 
 武「またですか……」%K%P
 Not again...
@@ -1361,12 +1361,12 @@ CN PLACEHOLDER
 ムダだとは知りながらも『△』のボタンを連打してみた。%K%P
 Knowing it was useless, I pushed the up button repeatedly.
 CN PLACEHOLDER
-От отчаяния я стал долбить по кнопке.
+От отчаяния, я стал долбить по кнопке.
 
 つぐみはいつも通り無表情……。%K%P
 Tsugumi was as matter-of-fact as always...
 CN PLACEHOLDER
-Цугуми прозаична, как всегда...
+Цугуми прозаична, как всегда....
 
 まだ乾き切っていない長い髪の毛の先端を、ぐりぐりと指先でいじっている。%K%P
 She was playing with and coiling her long, still-damp hair with her finger.
@@ -1376,7 +1376,7 @@ CN PLACEHOLDER
 武「さてと、どうすっかな……」%K%P
 Alright, so what do we do...?
 CN PLACEHOLDER
-Ладно, и что будем делать?..
+Ладно, и что будем делать...?
 
 俺が呟いた瞬間……。%K%P
 Just as I said that...
@@ -1391,7 +1391,7 @@ CN PLACEHOLDER
 空「倉成さん、小町さん」%K%P
 Kuranari-san, Komachi-san.
 CN PLACEHOLDER
-Куранари-сан, Комати-сан.
+Куранари-сан, Комачи-сан.
 
 武「空！　お前、どこ行ってたんだよ！　捜したんだぞ！」%K%P
 Sora! Where have you been? We looked everywhere for you!
@@ -1411,7 +1411,7 @@ CN PLACEHOLDER
 武「まあ、そんなことはどうでもいいや」%K%P
 That's not important right now.
 CN PLACEHOLDER
-Не извиняйся. У нас есть кое-что поважнее.
+Не извиняйся. У нас есть кое-что поважней.
 
 武「発電機のほうだけどさ、俺とつぐみで直しといたから」%K%P
 Tsugumi and I fixed the generator.
@@ -1431,7 +1431,7 @@ CN PLACEHOLDER
 武「でだ。わかってると思うけど、今俺達は、卵……えーっと『ＥＩ』の中にいて……」%K%P
 I think you know this, but we're in this egg... Uh, this Ei...
 CN PLACEHOLDER
-Наверное ты в курсе, но мы в этом яйце... э-э, этом EI...
+Наверно ты в курсе, но мы в этом яйце...эээ, этом EI...
 
 空「ええ、わかっています」%K%P
 Yes, I know.
@@ -1456,7 +1456,7 @@ CN PLACEHOLDER
 空「恐らく内部気圧が減少した関係で、バラストタンク内の海水を、充分に排出することができないからだと思われます」%K%P
 It is likely the result of a decrease in internal air pressure that has made the device incapable of sufficiently expelling the seawater in the ballast tank.
 CN PLACEHOLDER
-Видимо, из-за падения внутреннего давления воздуха механизм не может окончательно вытолкнуть воду из балластного бака.
+Видимо, из-за падения внутреннего давления воздуха, механизм не может окончательно вытолкнуть воду из балластного бака.
 
 空「つまり……」%K%P
 In other words...
@@ -1506,12 +1506,12 @@ CN PLACEHOLDER
 武「えっ！？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?..
+Эээ...?
 
 卵を出て行こうとするつぐみ……。%K%P
 Tsugumi tried to get out of the elevator...
 CN PLACEHOLDER
-Цугуми попыталась выйти из лифта...
+Цугуми попыталась выйти из лифта....
 
 俺はその腕を掴んで引き止めた。%K%P
 I grabbed her arm, trying to stop her.
@@ -1531,27 +1531,27 @@ CN PLACEHOLDER
 直後、強烈な平手打ち……。%K%P
 An immediate, brutal slap...
 CN PLACEHOLDER
-Я получил мощную пощёчину...
+Я получил мощную пощёчину....
 
 つぐみ「触らないでって……言ったでしょ……」%K%P
 I told you... don't touch me...
 CN PLACEHOLDER
-Я же сказала... не трогай меня...
+Я же сказала...не трогай меня...
 
 頬に、痛みはなかった。%K%P
 My cheek didn't hurt.
 CN PLACEHOLDER
-Хотя щека не болит.
+Хотя, щека не болит.
 
 俺は茫然とし、フロアへ戻って行くつぐみの姿を見つめていた。%K%P
 I absently watched Tsugumi return to the floor.
 CN PLACEHOLDER
-Я растерянно наблюдаю, как Цугуми вернулась на этаж.
+Растерянно, я наблюдаю, как Цугуми вернулась на этаж.
 
 アナウンス「Ａｎｆａｎｇ．」%K%P
 <Anfang.>
 CN PLACEHOLDER
-;Автообъявление«Anfang.»%N(Старт.)%K%P
+Старт.
 
 卵が、静かに上昇を始める。%K%P
 The egg quietly started to ascend.
@@ -1566,17 +1566,17 @@ CN PLACEHOLDER
 アナウンス「Ｔｉｅｆｅ⑳５０ｍ．」%K%P
 <Tiefe 50 meter.>
 CN PLACEHOLDER
-;Автообъявление«Tiefe 50 meter.»%N(Глубина – 50 метров.)%K%P
+Глубина: 50 метров.
 
 アナウンス「Ｔｉｅｆｅ⑳４５ｍ．」%K%P
 <Tiefe 45 meter.>
 CN PLACEHOLDER
-;Автообъявление«Tiefe 45 meter.»%N(Глубина – 45 метров.)%K%P
+Глубина: 45 метров.
 
 アナウンス「Ｔｉｅｆｅ⑳４０ｍ．」%K%P
 <Tiefe 40 meter.>
 CN PLACEHOLDER
-;Автообъявление«Tiefe 40 meter.»%N(Глубина – 40 метров.)%K%P
+Глубина: 40 метров.
 
 無機的なアナウンスが、虚しく響き渡っていた。%K%P
 The recorded announcement echoed with a tinny sound.
@@ -1591,12 +1591,12 @@ CN PLACEHOLDER
 俺はツヴァイトシュトックに転がり込むと、集まっていた皆に向かって叫び声をあげた。%K%P
 When I met everyone on Zweiter Stock, they greeted me with friendly shouts.
 CN PLACEHOLDER
-Когда я прибыл на Цвайте Шток, то моментально услышал дружеские вопли.
+Когда я прибыл на Цвайте шток, то моментально услышал дружеские вопли.
 
 少年「つぐみが……どうかしたの？」%K%P
 What happened... to Tsugumi?
 CN PLACEHOLDER
-А что стало... с Цугуми?
+А что стало...с Цугуми?
 
 武「あのバカ、ひとりで下のフロアに残って……」%K%P
 That idiot decided to stay alone on the floor below...
@@ -1611,12 +1611,12 @@ CN PLACEHOLDER
 武「『そうみたいね』――じゃないだろーが！」%K%P
 No, it doesn't 'look like it'—she did!
 CN PLACEHOLDER
-Да нет, не „похоже“ – так оно и есть!
+Да нет, не 'похоже' - так оно и есть!
 
 武「あいつ、ひとりぼっちになっちゃったんだぞ！」%K%P
 She's all alone down there!
 CN PLACEHOLDER
-Она там одна-одинёшенька!
+Она там одна одинёшенька!
 
 武「心配じゃないのか！？」%K%P
 Aren't you worried about her?
@@ -1651,17 +1651,17 @@ CN PLACEHOLDER
 武「あいつは……あいつは……本当は、かよわい女の子で……」%K%P
 Look... She's... really not as tough as she acts...
 CN PLACEHOLDER
-Поверьте... она... отнюдь не такая крутая, какой хочет казаться...
+Поверьте...она...отнюдь не такая крутая, какой хочет казаться...
 
 武「誰かが……そばについててやらなくちゃ……いけなくて……」%K%P
 Somebody... has to be with her...
 CN PLACEHOLDER
-Кто-то... должен быть рядом с ней...
+Кто-то...должен быть рядом с ней...
 
 少年「ふーん……」%K%P
 Hmmm...
 CN PLACEHOLDER
-Хм-м-м...
+Хммм...
 
 ココ「へぇ……」%K%P
 Wow...
@@ -1676,7 +1676,7 @@ CN PLACEHOLDER
 武「つぐみがちょっと無愛想だからって、そんな冷たい態度、取ることないだろ！？」%K%P
 Tsugumi can be a bit of an ass, but that doesn't mean you have to be so cold to her!
 CN PLACEHOLDER
-Может, Цугуми и доставляет неприятности, но это вовсе не значит, что надо быть к ней такими бессердечными!
+Может Цугуми и доставляет неприятности, но это вовсе не значит, что надо быть к ней такими бессердечными!
 
 武「もういいよ！」%K%P
 Enough!
@@ -1706,32 +1706,32 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「あの……」%K%P
 Uh...
 CN PLACEHOLDER
-Э-э...
+Ээ...
 
 つぐみ「どいてもらえる？」%K%P
 Will you move?
 CN PLACEHOLDER
-Может, пропустишь меня?
+Может пропустишь меня?
 
 つぐみ「邪魔なんだけど」%K%P
 You're in my way.
@@ -1741,7 +1741,7 @@ CN PLACEHOLDER
 立ち尽くす俺……。%K%P
 I simply stood there...
 CN PLACEHOLDER
-Я просто застыл на месте...
+Я просто застыл на одном месте....
 
 つぐみは俺のことを押し退けて、去って行った。%K%P
 Tsugumi pushed me out of the way and walked by.
@@ -1756,27 +1756,27 @@ CN PLACEHOLDER
 だから、俺は最も近くにあった穴蔵へと潜り込んだ。%K%P
 So I did the next closest thing I could think of.
 CN PLACEHOLDER
-Поэтому я сделал то, что первым пришло ко мне в голову.
+Поэтому, я сделал то, что первым пришло ко мне в голову.
 
 アナウンス「Ｔｉｅｆｅ⑳３５ｍ．」%K%P
 <Tiefe 35 meter.>
 CN PLACEHOLDER
-;Автообъявление«Tiefe 35 meter.»%N(Глубина – 35 метров.)%K%P
+Глубина: 35 метров.
 
 アナウンス「Ｔｉｅｆｅ⑳４０ｍ．」%K%P
 <Tiefe 40 meter.>
 CN PLACEHOLDER
-;Автообъявление«Tiefe 40 meter.»%N(Глубина – 40 метров.)%K%P
+Глубина: 40 метров.
 
 アナウンス「Ｔｉｅｆｅ⑳４５ｍ．」%K%P
 <Tiefe 45 meter.>
 CN PLACEHOLDER
-;Автообъявление«Tiefe 45 meter.»%N(Глубина – 45 метров.)%K%P
+Глубина: 45 метров.
 
 意味もなくドリットへと下りて行く卵。%K%P
 I went back down to Dritter Stock in the egg for no reason.
 CN PLACEHOLDER
-Без видимой на то причины я вернулся в этом яйце на Дритте Шток.
+Безпричинно, я вернулся в этом яйце на Дритте шток.
 
 （アイの浮力が足りないから、上がれるのはひとりずつだろ……）%K%P
 (It didn't have enough buoyancy, so we had to come up one by one...)

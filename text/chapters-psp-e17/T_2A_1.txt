@@ -1,7 +1,7 @@
 ﻿武「ふぁ〜〜〜〜〜〜〜〜〜〜〜〜あっと」%K%P
 *Yaaaaaaaaawn*...
 CN PLACEHOLDER
-*зевает*
+Ааааааааааав.
 
 武「眠い……」%K%P
 I'm sleepy...
@@ -26,7 +26,7 @@ CN PLACEHOLDER
 少し遅れて、少年とココが俺達の後に続いている。%K%P
 Coco and the Kid trailed a little way behind us.
 CN PLACEHOLDER
-Коко и Малой чуть позади.
+Коко и Кид чуть позади.
 
 優「あんなにぐっすり眠ってたくせに……」%K%P
 And you slept so hard...
@@ -36,7 +36,7 @@ CN PLACEHOLDER
 武「って言ったってさぁ、今何時だと思ってんだよ？」%K%P
 Yeah, but what time is it right now?
 CN PLACEHOLDER
-Ага, а сколько сейчас, по-твоему, времени?
+Ага, а сколько сейчас по-твоему времени?
 
 優「５時半」%K%P
 5:30 a.m.
@@ -61,7 +61,7 @@ CN PLACEHOLDER
 武「こんな状況だからこそ、ちゃんと睡眠はとっとかなきゃいけないんじゃないか」%K%P
 It's because it is this kinda situation that we've gotta sleep.
 CN PLACEHOLDER
-А что нам ещё остаётся? Как ты выразилась, Ю, „в такой ситуации“...
+А что нам ещё остаётся? Как ты выразилась, Ю, 'в такой ситуации'...
 
 武「いざと言うときになって、頭が回転しなかったらヤバいだろ？」%K%P
 Our minds have to be sharp. We have to be ready for anything, right?
@@ -71,7 +71,7 @@ CN PLACEHOLDER
 優「じゃあ、今は回転してるんだ？」%K%P
 So your mind is sharp right now?
 CN PLACEHOLDER
-Значит, у тебя сейчас ясный ум?
+Значит у тебя сейчас ясный ум?
 
 武「まあ、寝不足気味だからな、フル回転とまではいかないけど……」%K%P
 Well, I'm still a bit sleep-deprived, so not all my pistons are firing...
@@ -81,17 +81,17 @@ CN PLACEHOLDER
 武「それなりに、人並み程度にはまわってるんじゃないかと……」%K%P
 But I think I'm doing about as good as the next guy.
 CN PLACEHOLDER
-Хотя не факт, что я соображаю хуже, чем ты...
+Хотя, не факт, что я соображаю хуже, чем ты...
 
 武「って、あれ？」%K%P
 Hey, aren't you...?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 気がつくと、隣に優の姿はなかった。%K%P
 The next thing I noticed, You was no longer next to me.
 CN PLACEHOLDER
-Не успел я осознать, как Ю уже нет рядом.
+Следующее что я понял, Ю уже нет рядом.
 
 立ち止まって振り返る。%K%P
 I stopped and looked back.
@@ -101,7 +101,7 @@ CN PLACEHOLDER
 少年とココが、右に伸びた脇道へと入って行くところが見えた。%K%P
 I saw the Kid and Coco vanish into a small side corridor to the right.
 CN PLACEHOLDER
-Я увидел, как Малой и Коко ушли по коридору вправо.
+Я увидел, как Кид и Коко ушли по коридору вправо.
 
 俺は慌てて３人の後を追いかけた。%K%P
 I hurried after the three of them.
@@ -126,7 +126,7 @@ CN PLACEHOLDER
 優「はぁ〜〜〜……」%K%P
 *Sigh*...
 CN PLACEHOLDER
-*вздох*
+*вздох*...
 
 大げさな溜め息と共に、優は肩をすくめた。%K%P
 You let out an exasperated sigh and shrugged her shoulders.
@@ -151,12 +151,12 @@ CN PLACEHOLDER
 武「は？　鏡？」%K%P
 Huh? Mirror?
 CN PLACEHOLDER
-Э-э? В зеркало?
+Эээ? В зеркало?
 
 優「あんたねぇ……ともかく、さっさと顔洗ったほうがいいよ」%K%P
 You'd... really better wash your face.
 CN PLACEHOLDER
-Слушай... надо хоть иногда умываться.
+Слушай...надо хоть иногда умываться.
 
 緊急避難用通路から非常階段に入る。%K%P
 We entered the emergency stairs from the emergency corridor.
@@ -166,12 +166,12 @@ CN PLACEHOLDER
 ついさっき空に叩き起こされたばかりの俺達４人は、３階――ドリットシュトックにある制御室へと向かっていた。%K%P
 We had just been roused from sleep by Sora, and the four of us shuffled to the control room on the third floor, Dritter Stock.
 CN PLACEHOLDER
-Сора только что разбудила нас и попросила собраться в Центре управления на третьем этаже, Дритте Шток.
+Сора только что разбудила нас и попросила собраться в Центре Управления на третьем этаже, Дритте шток.
 
 あの狭苦しい再圧チャンバーでの加減圧は無事終了し、不調を訴える者も出なかった。%K%P
 We seemed to have passed through the decompression process without a hitch, as no one had any complaints.
 CN PLACEHOLDER
-Процесс рекомпрессии прошёл без сучка без задоринки... ну, по крайней мере никто не пожаловался.
+Процесс рекомпрессии прошёл без сучка без задоринки...ну, по-крайней мере никто не пожаловался.
 
 昨夜あんなに辛そうだったココも、今では……%K%P
 Even Coco, who had seemed to be having such a rough time, was...
@@ -191,7 +191,7 @@ CN PLACEHOLDER
 ココ「ぴっかりぴかぴかピピ曜日ぃ〜♪」%K%P
 Pretty, pretty Pipi today〜
 CN PLACEHOLDER
-Вот и мой Пипи, дружочек!..
+Вот и мой Пипи, дружочек...!
 
 ピピ「わんっ！」%K%P
 *Woof*!
@@ -206,7 +206,7 @@ CN PLACEHOLDER
 昨日に輪をかけてハイかもしれないほどに。%K%P
 They looked even happier than the day before.
 CN PLACEHOLDER
-Теперь, кажется, я понимаю, что означает выражение «собачья радость». Даже вчерашний день меркнет по сравнению с сегодняшним.
+Теперь, кажется, я понимаю, что означает выражение 'собачья радость'. Даже вчерашний день меркнет по сравнению с сегодняшним.
 
 床に溜まった水をバシャバシャと蹴飛ばしながら通路を進んで行く。%K%P
 The water on the corridor floor splashed and sprayed as we walked.
@@ -221,12 +221,12 @@ CN PLACEHOLDER
 （何を怒ってるんだ、こいつ……？）%K%P
 (I wonder what she's peeved about...)
 CN PLACEHOLDER
-(И на что это она намекает?..)
+(И на что это она намекает...?)
 
 俺は速度を緩め、後ろを歩いていた少年と並んだ。%K%P
 I slowed down my pace to walk with the Kid.
 CN PLACEHOLDER
-Я притормозил, чтобы оказаться рядом с Малым и Коко.
+Я притормозил, чтобы оказаться рядом с Кидом и Коко.
 
 武「なぁ、優のやつ、何であんなにピリピリしてんだ？」%K%P
 Hey, you got any idea what You's all miffed about?
@@ -241,7 +241,7 @@ CN PLACEHOLDER
 ニヤニヤと笑いながら、少年は答えた。%K%P
 The Kid answered, grinning.
 CN PLACEHOLDER
-Улыбчиво ответил Малой.
+Улыбчиво ответил Кид.
 
 武「っておい、お前なんで笑ってんだよ。何か知ってるのか？」%K%P
 Hey, what're you laughing about? Do you know something that I don't?
@@ -256,12 +256,12 @@ CN PLACEHOLDER
 武「あったら聞いたりしないぞ」%K%P
 If I did, I wouldn't be asking you.
 CN PLACEHOLDER
-Если б я знал, думаешь, стал бы спрашивать?
+Если б я знал, думаешь стал бы спрашивать?
 
 武「優は、鏡を見ろとかなんとかって言ってたけどさ」%K%P
 You told me to 'look in the mirror', but...
 CN PLACEHOLDER
-Ю сказала мне „посмотреться в зеркало“, но...
+Ю сказала мне 'посмотреться в зеркало', но...
 
 少年「ははっ、なぁ〜んだ、教えちゃったのかぁ」%K%P
 Huh?
@@ -281,12 +281,12 @@ CN PLACEHOLDER
 少年は俺の顔をチラチラと見ながら笑いを堪えていた。%K%P
 The Kid kept glancing at my face and trying not to smile.
 CN PLACEHOLDER
-Малой продолжает пялиться на моё лицо и старается не смеяться.
+Кид продолжает пялиться на моё лицо и старается не смеяться.
 
 （顔……？）%K%P
 (My face...?)
 CN PLACEHOLDER
-(Моё лицо?..)
+(Моё лицо...?)
 
 俺は手の平で、自分の顔を拭ってみた。%K%P
 I wiped the palm of my hand on my face.
@@ -296,7 +296,7 @@ CN PLACEHOLDER
 広げた手の平には、黒いインクのようなものが付着していた。%K%P
 It looked like black ink was smeared there.
 CN PLACEHOLDER
-На ней размазалась чёрная краска... ЧТО?!
+На ней размазалась чёрная краска...ЧТО?!
 
 武「なんだ、これ」%K%P
 What's this?
@@ -316,7 +316,7 @@ CN PLACEHOLDER
 少年「ふふっ……」%K%P
 Haha...
 CN PLACEHOLDER
-Ха-ха...
+Ха〜ха...
 
 少年「あ、トイレならあっちだよ」%K%P
 Oh, there's a toilet over there.
@@ -326,7 +326,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 水道の壊れた洗面台から、水が溢れ続けていた。%K%P
 The faucet was broken, and the sink was overflowing with water.
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 が、手の汚れは水であらかた落とせたし、恐らく大丈夫だろう。%K%P
 But most of the black had come off of my hands, so I thought my face was probably alright.
 CN PLACEHOLDER
-Слава богу, краска практически полностью сошла с рук, так что лицо, наверное, тоже в порядке.
+Слава богу, краска практически полностью сошла с рук, так что лицо наверно тоже в порядке.
 
 武「ちっ、あの女……」%K%P
 Damn, that girl...
@@ -371,7 +371,7 @@ CN PLACEHOLDER
 優「は？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 武「俺が寝てる間に、落書きか何かしたんだろ？」%K%P
 While I was asleep, you scribbled all over my face, didn't you?
@@ -391,12 +391,12 @@ CN PLACEHOLDER
 優「なぁ〜に言っちゃってんだかねぇ〜、この人は……」%K%P
 What are you talking about...?
 CN PLACEHOLDER
-О чём это ты говоришь?..
+О чём говорит этот парень...?
 
 優「ひょっとして、まだ寝ぼけてるとか？」%K%P
 You're probably still asleep.
 CN PLACEHOLDER
-Наверное ты всё ещё спишь на ходу.
+Наверно ты всё ещё спишь на ходу.
 
 武「とぼけたってムダなんだよ、こんにゃろーっ」%K%P
 Don't play dumb with me, You!
@@ -436,7 +436,7 @@ CN PLACEHOLDER
 優「う〜ん、どれどれ……」%K%P
 Hmmm, what...?
 CN PLACEHOLDER
-Хм-м-м, и что же у нас тут?..
+Хммм, и что же у нас тут...?
 
 優は呟くと、俺に近寄り……%K%P
 You mumbled that, so I stepped closer...
@@ -446,7 +446,7 @@ CN PLACEHOLDER
 優「ふむふむ、ふむふむ……」%K%P
 Well...
 CN PLACEHOLDER
-Ну-ка, ну-ка, ага...
+Ну-ка, ну-ка, а-га...
 
 不意に俺の手の平をつまみあげ、食い入るように見つめ始めた。%K%P
 Suddenly she grabbed my hand and stared at my palm intently.
@@ -481,7 +481,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「一方に進めば、金運、仕事運、共に上々で、美しい女性とめぐり逢い、子宝にも恵まれ、幸せな家庭を築けるじゃろう」%K%P
 One path will put you on the road to riches, a good job, an encounter with a beautiful woman, and bless you with a strong home and offspring.
@@ -506,17 +506,17 @@ CN PLACEHOLDER
 優「もう一方に進んでしまうと……これは本当に大変なことになるぞ？」%K%P
 If you take the other path... you will be in dire straits.
 CN PLACEHOLDER
-Если ты выберешь другой путь... то попадёшь в беду.
+Если ты выберешь другой путь...то попадёшь в беду.
 
 武「た、たいへん……って？」%K%P
 D-Dire...?
 CN PLACEHOLDER
-Б-беду?..
+Б-беду...?
 
 優「う〜む……これ以上は、わしの口からは言えんのぉ」%K%P
 Yes... but I can tell you no more.
 CN PLACEHOLDER
-Да... но больше я ничего сказать не могу.
+Да...но больше я ничего сказать не могу.
 
 優「この生命線の真ん中のところを、よーくよーく、じーーーっくりと見つめてみるのじゃ」%K%P
 You should take a good look at the middle of your lifeline.
@@ -531,7 +531,7 @@ CN PLACEHOLDER
 優「ふぉっふぉっふぉっふぉっふぉっふぉっふぉ……」%K%P
 Heeheehee...
 CN PLACEHOLDER
-Хо-о, хо-о-о, хо-о-о...
+Хии〜хиии〜хиии...
 
 俺は自分の手の平に視線を落とした。%K%P
 I looked down at the palm of my hand.
@@ -551,7 +551,7 @@ CN PLACEHOLDER
 しかしどこにも答えらしきものは見当たらない。%K%P
 But I didn't see an answer anywhere.
 CN PLACEHOLDER
-Но так ничего и не понял.
+Но, так ничего и не понял.
 
 シワの隙間にはまだ少しだけ、黒いインクが埋もれていた。%K%P
 There was still black ink in the creases of my hand.
@@ -571,7 +571,7 @@ CN PLACEHOLDER
 ――黒いインク！？%K%P
 Black ink!?
 CN PLACEHOLDER
-Чёрная краска?!
+Чёрная краска!?
 
 そうだよ、手相なんかどうだっていいじゃないか！%K%P
 I remembered what I was angry about. Forget fortune telling!
@@ -591,7 +591,7 @@ CN PLACEHOLDER
 気がつくと、隣に優の姿はなかった。%K%P
 The next thing I noticed, You was no longer next to me.
 CN PLACEHOLDER
-И секунды не прошло, а Ю уже нет рядом.
+Следующее что я понял, Ю уже нет рядом.
 
 立ち止まって振り返る。%K%P
 I stopped and looked back.
@@ -601,12 +601,12 @@ CN PLACEHOLDER
 少年とココが、左に伸びた脇道へと入って行くところが見えた。%K%P
 I saw the Kid and Coco vanish into a small side corridor to the left.
 CN PLACEHOLDER
-На моих глазах Малой и Коко смылись в маленький боковой коридор.
+На моих глазах Кид и Коко смылись в маленький боковой коридор.
 
 武「うわっ！　うわっ！　またかよ、くっそぉーっ！」%K%P
 Whoa! Geez! I don't believe these guys!
 CN PLACEHOLDER
-А-а-а-а! Боже! Что за люди!
+Аааа! Боже! Что за люди!
 
 俺は慌てて３人の後を追いかけた。%K%P
 I hurried after the three of them.
@@ -616,7 +616,7 @@ CN PLACEHOLDER
 制御室の前にはつぐみがいた。%K%P
 Tsugumi was in front of the control room.
 CN PLACEHOLDER
-Мы наткнулись на Цугуми, что стоит прямо напротив Центра управления, облокотившись к стене.
+Мы наткнулись на Цугуми, что стоит прямо напротив Центра Управления, облокотившись к стене.
 
 壁に寄りかかり、腕を組んで顔をうつむけている。%K%p
 She was leaning against the wall with her arms folded and head down.
@@ -636,7 +636,7 @@ CN PLACEHOLDER
 こいつは昨日いったいどこに……いや、まぁ今はそれは問わないことにしよう。%K%P
 I wondered where she could have run off to the day before... but decided not to ask.
 CN PLACEHOLDER
-Мне было интересно, куда она ушла вечером... но решил не спрашивать.
+Я думал о том, где она была днём ранее...но решил не спрашивать.
 
 俺はなるたけ朗らか爽やかに、朝の挨拶を繰り出した。%K%P
 I decided to shower her with the cheeriest greeting I could muster.
@@ -656,7 +656,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみは動かなかった。%K%P
 Tsugumi didn't budge.
@@ -701,7 +701,7 @@ CN PLACEHOLDER
 つぐみ「……最低ね」%K%P
 ...Are the absolute worst.
 CN PLACEHOLDER
-...просто ужасен.
+...хуже всего на свете.
 
 俺はつぐみの顔を覗き込んだ。%K%P
 I peered at Tsugumi's face.
@@ -711,32 +711,32 @@ CN PLACEHOLDER
 こいつは昨日どこに行っていたのか……。%K%P
 I was curious where she had gone off to the day before...
 CN PLACEHOLDER
-Мне интересно, где она была вечером...
+Мне интересно, где она была днём ранее...
 
 何かひと言あっても良さそうなものだ。%K%P
 She could at least have given me a hint.
 CN PLACEHOLDER
-Хоть бы намекнула.
+Хотя бы намекнула.
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみは動かなかった。%K%P
 Tsugumi didn't budge.
@@ -751,12 +751,12 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「なに？」%K%P
 What?
@@ -781,12 +781,12 @@ CN PLACEHOLDER
 武「え？　あ、ああ、おはよう……」%K%P
 Huh? Oh... good... morning...
 CN PLACEHOLDER
-Э-э? Ой... доброе... утро...
+Эээ? Ой...доброе...утро...
 
 武「昨日はよく眠れたか？　こっちはいまいちだ。あのくそ狭い部屋で、地べたに座ってたからな……」%K%P
 Did you get a good sleep last night? I didn't. That damn room was so small that I ended up sitting on the floor all night...
 CN PLACEHOLDER
-Как ты спала этой ночью? Я – с трудом. Эта чёртова комната оказалась такой маленькой, что всю ночь пришлось провести на полу...
+Как ты спала этой ночью? Я - с трудом. Эта чёртова комната оказалась такой маленькой, что всю ночь пришлось провести на полу...
 
 俺は欠伸をし、顔面を両手でゴシゴシとこすりながら言った。%K%P
 I yawned and rubbed my eyes with both hands as I spoke.
@@ -816,7 +816,7 @@ CN PLACEHOLDER
 つぐみ「……最低ね」%K%P
 ...The absolute worst.
 CN PLACEHOLDER
-...просто ужасное.
+...хуже всего на свете.
 
 武「は？」%K%P
 Huh?
@@ -826,12 +826,12 @@ CN PLACEHOLDER
 つぐみは呆れ果てたように首を振ると、制御室の中へと消えて行った。%K%P
 Tsugumi shook her head as if she was fed up with me and vanished inside the control room.
 CN PLACEHOLDER
-Цугуми тряхнула головой, делая вид, что сыта мной по горло и испарилась внутри Центра управления.
+Цугуми тряхнула головой, делая вид, что сыта мной по горло и испарилась внутри Центра Управления.
 
 （……さ、最低？）%K%P
 (...A-Absolute worst?)
 CN PLACEHOLDER
-(...Э-это она про меня-то?)
+(...Х-хуже всего на свете?)
 
 武「おいおいっ、ちょっと待ってくれよ！」%K%P
 Hey! Hold on a sec!
@@ -866,7 +866,7 @@ CN PLACEHOLDER
 空「いいから、早く……お願いします」%K%P
 Just please... go inside.
 CN PLACEHOLDER
-Пожалуйста... проходи.
+Пожалуйста...проходи.
 
 昨日よりもさらに強張った空の表情が、そこにあった。%K%P
 The expression on her face appeared more stressed than the day before.
@@ -876,7 +876,7 @@ CN PLACEHOLDER
 何か深刻な事態が起こりつつある……その表情はすべてを物語っていた。%K%P
 It seemed as if her face said... that something serious was unfolding...
 CN PLACEHOLDER
-Видимо... случилось нечто непредвиденное...
+Видимо...случилось нечто непредвиденное...
 
 空「こんなにも早い時間に、皆さんにお集まりいただいたのは、他でもありません」%K%P
 I'm sorry that I had to have you gather so early. There was no other way.
@@ -896,7 +896,7 @@ CN PLACEHOLDER
 優・つぐみ・ココ・少年・そして俺……集まった５人の顔を、空は順番に確かめて行く。%K%P
 Sora looked at all five of us in turn... You, Tsugumi, Coco, the Kid, and me.
 CN PLACEHOLDER
-Она окинула взглядом нас пятерых... Ю, Коко, Малого, Цугуми и меня.
+Она окинула взглядом нас пятерых...Ю, Коко, Кида, Цугуми и меня.
 
 静寂の中、空冷用のファンが唸りをあげて廻っていた。%K%P
 The cooling fan whirred away in the silence.
@@ -916,12 +916,12 @@ CN PLACEHOLDER
 空「昨夜、小町さんを除く４人の皆さんが加減圧室に入られた後……」%K%P
 Last night, after the four of you apart from Komachi-san entered the pressurization chamber...
 CN PLACEHOLDER
-Прошлой ночью, после того, как вы четверо, за исключением Комати-сан, вошли в медицинскую барокамеру...
+Прошлой ночью, после того, как Вы четверо, за исключением Цугуми, вошли в медицинскую барокамеру...
 
 空「私はこの制御室で、ここからの脱出方法や、外部への通信手段について考えていました」%K%P
 I was in the control room here, thinking about ways to escape or contact the outside.
 CN PLACEHOLDER
-Я была здесь, в Центре управления, и пыталась найти путь к спасению, а также связаться с внешним миром.
+Я была здесь, в Центре Управления, и пыталась найти путь к спасению, а также связаться с внешним миром.
 
 空「そして……」%K%P
 And...
@@ -966,7 +966,7 @@ CN PLACEHOLDER
 空「圧力隔壁の耐久強度……その限界が、わかりました」%K%P
 I discovered the amount of pressure the bulkheads can withstand... I found their limits.
 CN PLACEHOLDER
-Я выяснила, давление какой силы может выдержать обшивка сооружения... я нашла предел.
+Я выяснила, давление какой силы может выдержать обшивка сооружения...я нашла предел.
 
 そう言って、空は視線をコンソールの脇へと向けた。%K%P
 Saying that, Sora turned her eyes to the side of the console.
@@ -981,7 +981,7 @@ CN PLACEHOLDER
 ココ「『あつりょくかくへき』って、なぁ〜に？」%K%P
 What's the... pressure bulkhead thingy...?
 CN PLACEHOLDER
-Что ещё за... обшивка?..
+Что ещё за...обшивка...?
 
 ココが懐に抱いたピピをきつく抱きしめながら尋ねた。%K%P
 Coco held Pipi tightly as she asked.
@@ -991,12 +991,12 @@ CN PLACEHOLDER
 空「ＬｅＭＵの壁のことです。外側の海水と内側の空間を隔てている部分」%K%P
 I mean LeMU's walls. The partitions between the outer seawater and the inner air.
 CN PLACEHOLDER
-Я имею в виду стены LeMU. То единственное, что отделяет нас от водной пучины.
+Я имею ввиду стены LeMU. То единственное, что отделяет нас от водной пучины.
 
 少年「その限界がわかったって……どういうことなの？」%K%P
 What do you mean... when you say you found the limit?
 CN PLACEHOLDER
-Что ты имела в виду... когда сказала, что нашла предел?
+Что ты имела в виду...когда сказала, что нашла предел?
 
 空「昨日もお伝えしましたように、ＬｅＭＵは基本的に、飽和潜水仕様の設計をもとに建造された構造物です」%K%P
 Like I said yesterday, LeMU is a structure basically constructed on a saturation diving specification design.
@@ -1011,7 +1011,7 @@ CN PLACEHOLDER
 空「しかし、今や館内の気圧は１気圧……」%K%P
 However, the complex's internal air pressure is currently at one atmosphere...
 CN PLACEHOLDER
-Однако сейчас давление внутри комплекса составляет 1 атмосферу...
+Однако, сейчас давление внутри комплекса составляет 1 атмосферу...
 
 空「ですから……」%K%P
 Therefore...
@@ -1031,7 +1031,7 @@ CN PLACEHOLDER
 優「ところが、ＬｅＭＵは元々、このような状況に長く耐えられるようには造られていない」%K%P
 But LeMU is not constructed to endure this situation for a long period of time.
 CN PLACEHOLDER
-Но в таком состоянии LeMU долго не протянет.
+Но, в таком состоянии LeMU долго не протянет.
 
 優「必然的に、いつかは限界が訪れることになる……」%K%P
 Inevitably, it will, at some point, reach its limit...
@@ -1046,12 +1046,12 @@ CN PLACEHOLDER
 武「で……その限界って言うのは、いつ……？」%K%P
 So... when is this limit...?
 CN PLACEHOLDER
-И... когда будет достигнут предел?..
+И...когда будет достигнут предел...?
 
 空「レミの計算によると、今から約１１９時間後に……」%K%P
 According to LeMMIH's calculations, 119 hours from now...
 CN PLACEHOLDER
-Согласно расчётам LeMMIH, через 119 часов...
+Согласно расчётам ЛеММИХ, через 119 часов...
 
 つぐみ「１１９時間……」%K%P
 119 hours...
@@ -1061,12 +1061,12 @@ CN PLACEHOLDER
 つぐみ「５日後、か」%K%P
 Five days, huh?
 CN PLACEHOLDER
-Пять дней?
+Пять дней, хмм?
 
 空「完全圧潰推定時刻は『５月７日午前４時３０分前後』となっています」%K%P
 The estimated time of implosion is approximately 4:30 a.m. on May 7th.
 CN PLACEHOLDER
-Согласно расчётам, разрушение произойдёт приблизительно 7 мая в 4:30 утра.
+Согласно расчётам, разрушение произойдёт приблизительно в 4:30 утра, 7 Мая.
 
 空「勿論、あくまでも推定ですから、誤差はありますが」%K%P
 Of course, it is only a calculation, and there is a margin of error.
@@ -1086,7 +1086,7 @@ CN PLACEHOLDER
 武「う〜ん……」%K%P
 Hmmm...
 CN PLACEHOLDER
-Хм-м-м...
+Хммм...
 
 皆、黙って考えを巡らせ始める。%K%P
 Everyone went silent, lost in thought.
@@ -1101,17 +1101,17 @@ CN PLACEHOLDER
 しかし俺には、いまいちピンと来なかった。%K%P
 But I still didn't know what to make of it.
 CN PLACEHOLDER
-Но я по-прежнему не знаю, что делать.
+Но, я по-прежнему не знаю, что делать.
 
 ５日という時間は、果たして長いのか、短いのか？%K%P
 I didn't know if five days was a long time or a short one.
 CN PLACEHOLDER
-Пять дней – длинный или короткий срок?
+Пять дней - длинный, или короткий срок?
 
 今のところ目処は立っていないが……でも脱出の方法さえわかれば、５日もここにいることはなくなるだろう。%K%P
 We didn't have a schedule... but if we could find a way out, I didn't figure we'd be sticking around five days.
 CN PLACEHOLDER
-Нам нечем заняться... но, если мы сможем найти способ спастись, не думаю, что нам придётся торчать тут целых пять дней.
+Нам нечем заняться...но, если мы сможем найти способ спастись, не думаю, что нам придётся торчать тут целых пять дней.
 
 あるいはこちらから呼ばずとも、救助隊が俺達に気づいて、すぐに来てくれるかもしれない……。%K%P
 Even if we didn't call anyone, a rescue team might have been on its way anyway...
@@ -1126,7 +1126,7 @@ CN PLACEHOLDER
 ココ「ココ、バカだからあんまりよくわかんなかったんだけどぉ……それって、こういうことだよねぇ？」%K%P
 I'm not very smart, so I'm not sure I understand... What does all that mean?
 CN PLACEHOLDER
-Я не очень умная, поэтому не могла бы ты уточнить... Что это означает?
+Я не очень умная, поэтому не могла бы ты уточнить.... Что это означает?
 
 空「？」%K%P
 ?
@@ -1136,12 +1136,12 @@ CN PLACEHOLDER
 ココ「５月７日午前４時３０分頃に、ＬｅＭＵはくしゃっとペッタンコになっちゃう」%K%P
 Does that mean at 4:30 a.m. on May 7th, LeMU will get squashed like a pancake?
 CN PLACEHOLDER
-То есть, 7 мая в 4:30 утра LeMU расплющит, как блин?
+То есть, 7 Мая в 4:30 утра LeMU расплющит, как блин?
 
 ココ「もしかしたらそうなっちゃうのは、６日の午後４時半ぐらいかもしれないし、７日の午後４時半ぐらいかもしれない」%K%P
 But that might happen at around 4:30 p.m. on the 6th or at 4:30 p.m. on the 7th.
 CN PLACEHOLDER
-Но это может произойти как шестого числа в 16:30, так и седьмого в тот же час.
+Но, это может произойти как шестого в 4:30 вечера, так и седьмого в тот же час.
 
 ココ「ここまではＯＫだよねぇ？」%K%P
 Is that okay so far?
@@ -1156,12 +1156,12 @@ CN PLACEHOLDER
 ココ「ってことはさぁ、逆に言うと、こういうことにならない？」%K%P
 So doesn't that mean the opposite is also true?
 CN PLACEHOLDER
-Но что, если верно и обратное?
+Но, что если верно и обратное?
 
 ココ「最低でも、６日の午後４時半ぐらいまでは、ＬｅＭＵはペッタンコにならない」%K%P
 I mean, at the worst, LeMU will last until 4:30 p.m. on May 6th.
 CN PLACEHOLDER
-То есть, в худшем случае с LeMU ничего не случится, пока не наступит вечер 6 мая.
+То есть, в худшем случае с LeMU ничего не случится, пока не наступит вечер 6 Мая.
 
 ココ「だからぁ、それまでは全然大丈夫でぇ〜、心配することなんかないぴょろり〜ん♪」%K%P
 So we're fine until then. There's nothing to worry about. Hooray〜
@@ -1171,7 +1171,7 @@ CN PLACEHOLDER
 ココ「ね？　そういうことでしょ？」%K%P
 Right? Is that what it means?
 CN PLACEHOLDER
-Правда? Правда-правда?
+Правда? Правда-правда??
 
 空「絶対に安全だと断定することはできませんが……」%K%P
 We can't be absolutely certain that we will be safe...
@@ -1181,7 +1181,7 @@ CN PLACEHOLDER
 空「でも確かに、レミの計算結果から判断すると、そうなりますね」%K%P
 But judging from the results of LeMMIH's calculations, that would appear to be the case.
 CN PLACEHOLDER
-Но если судить по результатам вычислений LeMMIH...
+Но, если судить по результатам вычислений ЛеММИХ...
 
 ココ「なぁ〜んだなんだ、だったらぁ、それでいいじゃん」%K%P
 Oh, goodie. Then no problem.
@@ -1196,12 +1196,12 @@ CN PLACEHOLDER
 ピピ「わんわんっ、わんわんっ、わんっ！」%K%P
 *Bow-wow*! *Wooooooof*!
 CN PLACEHOLDER
-Гав-гав! Га-а-а-а-а-а-ав!
+Гав-гав! Гааааааав!
 
 ココ「『まったく、おどかすんじゃないぜベイブ』って、ピピもそう言ってるよ？」%K%P
 'Geez, don't scare me, babe.' I think that's what Pipi's trying to say.
 CN PLACEHOLDER
-„Боже, не пугай меня, детка“, – кажется, это пытается сказать Пипи.
+'Боже, не пугай меня, детка'. Кажется это пытается сказать Пипи.
 
 ピピ「わんっ！」%K%P
 *Woof*!
@@ -1211,17 +1211,17 @@ CN PLACEHOLDER
 優「そうだよね……『あと１日で』なんて言われたら、思わず大暴れするかもしれないところだけど」%K%P
 I see... If you had said, 'We only have one more day', or something, I might have burst out crying.
 CN PLACEHOLDER
-Ясненько... Знаешь, если бы ты сказала что-то вроде „Мы можем продержаться лишь один день“, я бы точно впала в депрессняк.
+Ясненько.... Знаешь, если бы ты сказала нечто вроде 'Мы можем продержаться лишь один день', я бы точно впала в депресняк.
 
 優「まだまだ時間は充分あるんだし……それまでにはきっと、誰か助けに来てくれるよ。ね？」%K%P
 So we still have lots of time... Someone will surely come to help us before that, right?
 CN PLACEHOLDER
-Так что у нас ещё куча времени... До 6 числа сюда обязательно кто-нибудь нагрянет.
+Так что у нас ещё куча времени.... До 6 числа сюда обязательно кто-нибудь нагрянет.
 
 優は隣にいた少年に同意を求めた。%K%P
 The Kid, standing next to You, agreed.
 CN PLACEHOLDER
-Малой, что стоит рядом с Ю, согласился.
+Кид, что стоит рядом с Ю, согласился.
 
 少年はそれに答えるように『うんうん』と何度か頷く。%K%P
 He nodded rhythmically, as if answering a question.

@@ -13,64 +13,64 @@ CN PLACEHOLDER
 %LC%FS長弓背負いし月の精%FE%V%N
 Moon sprite shouldering a long bow.
 CN PLACEHOLDER
-На спине богиня лунная носит лук и стрелы.
+Лунный луч-дорожка, водной глади дрожь,
 
 %LC%FS夢の中より待ちをりぬ%FE%V%N
 Waiting inside a dream.
 CN PLACEHOLDER
-И во сне скорее ждёт тебя – сказку рассказать.
+Ждёт, когда во сне ты тихо к ней придёшь.
 
 %LC%FS今宵やなぐゐ、月夜見囃子%FE%V%N
 Tonight, a story by moonlight.
 CN PLACEHOLDER
-А колчан со стрелами сказку ту сопроводит.
+Она тебе хочет сказку рассказать,
 
 %LC%FS早く来んかと待ちをりぬ%FE%V%N
 Hoping the wait will be short.
 CN PLACEHOLDER
-Торопись, богиня ждёт в сновидении.
+Только лишь не сможет слишком долго ждать.
 
 %LC%FS眠りたまふ、ぬくと丸みて%FE%V%N
 Sleeping curled and snug.
 CN PLACEHOLDER
-Засыпай скорей, и в тепле ты позабудь про страх.
+Спи малыш спокойно, позабудь про страх,
 
 %LC%FS眠りたまふ、母に抱かれて%FE%V%O
 Sleeping in mother's arms.
 CN PLACEHOLDER
-Засыпай скорей в нежных маминых руках.
+Засыпая в нежных маминых руках.
 
 %N
 
 %LC%FS真櫂掲げし水の精%FE%V%N
 Water sprite lifting a pair of paddles.
 CN PLACEHOLDER
-Из реки богиня водная поднимает вёсла.
+Лучик утопает, водной глади дрожь,
 
 %LC%FS夢の中より待ちをりぬ%FE%V%N
 Waiting inside a dream.
 CN PLACEHOLDER
-И во сне скорее ждёт тебя – сказку рассказать.
+Ждёт, когда во сне ты тихо к ней придёшь.
 
 %LC%FS今宵とりふね、うずまき鬼%FE%V%N
 Tonight, the whirlpool demon, waiting for a boat.
 CN PLACEHOLDER
-Закрутил водоворот в эту ночь её челнок.
+Водяной мечтает по небу летать...
 
 %LC%FS早く来んかと待ちをりぬ%FE%V%N
 Hoping the wait will be short.
 CN PLACEHOLDER
-Торопись, богиня ждёт, чтоб ты ей помог.
+Он тебя заметил, и ложится спать.
 
 %LC%FS眠りたまふ、ゆるゆる揺られ%FE%V%N
 Rock, rock, rocked to sleep.
 CN PLACEHOLDER
-Засыпай скорей, раскачайся, волном вторя.
+Он зевнул устало, ластясь на волнах,
 
 %LC%FS眠りたまふ、海に抱かれて%FE%V%O
 Sleeping, sleeping, held by the ocean.
 CN PLACEHOLDER
-Засыпай скорей, окружённый морем.
+Словно лежит в нежных маминых руках.
 
 どこか懐かしい思いを抱きながら、ぼくは目覚めた。%K%P
 I awoke with a nostalgic feeling.
@@ -95,7 +95,7 @@ CN PLACEHOLDER
 宇宙クジラの浸水と、沙羅の救出。%K%P
 Flooding at the Cosmic Whale and saving Sara.
 CN PLACEHOLDER
-Потоп в зале Космического кита и спасение Сары.
+Потоп в Зале Космического Кита и спасение Сары.
 
 そして、沙羅の蘇生……。%K%P
 Sara coming back to life...
@@ -140,7 +140,7 @@ CN PLACEHOLDER
 遠すぎて、もごもごとくぐもった音しか聞こえないが、つぐみと武のようだ。%K%P
 They seemed to come from an incredible distance and were all jumbled together, but they sounded like Tsugumi and Takeshi.
 CN PLACEHOLDER
-Они прилетают с невероятно далёкого расстояния и перемешиваются друг с другом, но явно принадлежат Цугуми и Такэси.
+Они прилетают с невероятно далёкого расстояния, и просто перемешиваются друг с другом, но явно принадлежат Цугуми и Такеши.
 
 ふたりの声がかすかに響いてくる。%K%P
 Their voices echoed slightly.
@@ -150,12 +150,12 @@ CN PLACEHOLDER
 かすかすぎて、内容はほとんどつかめない。%K%P
 The words were too faint for me to make out what they were saying.
 CN PLACEHOLDER
-Слова звучат слишком невнятно, чтобы можно было что-то разобрать.
+Слова слишком вялые, чтобы можно было что-то внятно разобрать.
 
 ヒンメルだかハーメルンだかなんだか、聞き慣れない単語が聞こえてきたが、すぐにこもった意味のない音へと変わり、%K%P
 They were talking about Hammel or Harmeln something. Words that I thought I'd heard before, but the sounds quickly became meaninglessly garbled in my mind.
 CN PLACEHOLDER
-Они говорят не то про «химмел», не то про хмель... Кажется, я где-то раньше слышал эти слова, но звуки тут же искажаются в моём сознании и превращаются в полнейшую белиберду.
+Они говорят то-ли о хомяках, то-ли о хидзири. Кажется, я где-то раньше слышал эти слова, но сейчас звуки молниеносно искажаются в моём сознании и превращаются в полнейшую белиберду.
 
 しばらくして、その声も聞こえなくなった。%K%P
 After a while, the voices stopped.
@@ -190,7 +190,7 @@ CN PLACEHOLDER
 傷跡がなくなっている！%K%P
 The scar was gone!
 CN PLACEHOLDER
-Шрам... он пропал!
+Шрам...он пропал!
 
 なぜ？　どうしてだ？%K%P
 Why? How could it be gone?
@@ -230,17 +230,17 @@ CN PLACEHOLDER
 いや……、そんなはずはない。確かに傷跡はここにあった。%K%P
 No... I was sure it hadn't been. I was positive there had been a scar.
 CN PLACEHOLDER
-Нет... не привиделось. Я уверен на все сто, что здесь был шрам.
+Нет...не привиделось. Я уверен на все сто, что здесь был шрам.
 
 だったら、なぜ……、なぜ傷跡が消えているんだ？%K%P
 But... why had the scar suddenly vanished?
 CN PLACEHOLDER
-Но... как он мог взять и исчезнуть?
+Но...как он мог взять и исчезнуть?
 
 ぼくの心に、ぽっかりと穴があいたかのような喪失感が走る。%K%P
 A sense of loss flooded through me, making me feel like I had a gaping hole in my heart.
 CN PLACEHOLDER
-Нахлынуло чувство потери... кажется, будто в сердце появилась зияющая дыра.
+Нахлынуло чувство потери...кажется, будто в сердце появилась зияющая дыра.
 
 なにか、とても大事なものをなくしてしまって、でも、それがなにかわからない。%K%P
 I sensed that I had lost something critically important, but I was unsure of what.
@@ -265,7 +265,7 @@ CN PLACEHOLDER
 空「はい、少年さん、なにか？」%K%P
 Yes, Kid-san. What is it?
 CN PLACEHOLDER
-Да, Малой-сан. Что стряслось?
+Да, Кид-сан. Что стряслось?
 
 空の声だけが答える。%K%P
 Sora's voice answered me.
@@ -275,22 +275,22 @@ CN PLACEHOLDER
 少年「空、君は……、ぼくに何かしたのか？」%K%P
 Sora... Did you do something to me?
 CN PLACEHOLDER
-Сора... ты что-то со мной сделала?
+Сора...ты что-то со мной сделала?
 
 空「何か……、とは？」%K%P
 Something...? What do you mean?
 CN PLACEHOLDER
-Что-то?.. Что ты имеешь в виду?
+Что-то...что ты имеешь в виду?
 
 少年「とぼけないで！　ぼくの左手……、ここには傷跡があったはずだ！」%K%P
 Don't pretend you don't know! There was... a scar on my left hand!
 CN PLACEHOLDER
-Не притворяйся, будто ничего не знаешь! На моей левой руке... был шрам!
+Не притворяйся, будто ничего не знаешь! На моей левой руке...был шрам!
 
 少年「それが……、無くなってる！」%K%P
 But... it's gone now!
 CN PLACEHOLDER
-Но... теперь его нет!
+Но...теперь его нет!
 
 空「ああ、そのことですか」%K%P
 Oh, so that is what you mean.
@@ -315,7 +315,7 @@ CN PLACEHOLDER
 少年「摘出？　なにを？」%K%P
 Extracted what?
 CN PLACEHOLDER
-Извлекла?..
+Извлекла...?
 
 空「こちらにいらしてください」%K%P
 Perhaps you should come over here.
@@ -345,7 +345,7 @@ CN PLACEHOLDER
 少年「どうして……、どうしてそんな勝手なこと！」%K%P
 What... gave you the right to do that?
 CN PLACEHOLDER
-Кто... дал тебе право его вытаскивать?
+Кто...дал тебе право его вытаскивать?
 
 少年「ぼくの過去を解明する為の、なにかの手がかりになったかもしれないのに！」%K%P
 It could have been a clue leading to my past!
@@ -365,7 +365,7 @@ CN PLACEHOLDER
 空「しかし、身体の中に異物を入れておいても、なにも良いことはありませんよ」%K%P
 However, no good can come of leaving a foreign object in your body to fester.
 CN PLACEHOLDER
-Однако если бы я не вынула у тебя из тела инородный объект, это по меньшей мере грозило бы нагноением.
+Однако, если бы я не вынула у тебя из тела инородный объект, это, по меньшей мере, грозило бы нагноением.
 
 空「それより少年さん」%K%P
 More importantly...
@@ -375,7 +375,7 @@ CN PLACEHOLDER
 空「このカケラに見覚えはありませんか？」%K%P
 Kid, do you recall seeing this fragment before?
 CN PLACEHOLDER
-Малой-сан, ты помнишь, чтобы когда-либо видел ранее этот фрагмент?
+Кид-сан, ты помнишь, чтобы когда-либо видел ранее этот фрагмент?
 
 少年「ないよ！　あるわけないでしょ！」%K%P
 No! How could I?
@@ -385,7 +385,7 @@ CN PLACEHOLDER
 なんだって、空はそんなことを聞くんだ？%K%P
 It didn't make sense to me why Sora would ask such a thing.
 CN PLACEHOLDER
-Что Сора пытается этим сказать?
+Понятия не имею, зачем Сора спрашивает столь странные вещи.
 
 空「このカケラには、ある画像が記録されていました」%K%P
 This fragment has an image recorded on it.
@@ -415,12 +415,12 @@ CN PLACEHOLDER
 少年「こ、これは……！？」%K%P
 Th-This...?
 CN PLACEHOLDER
-Э-это?..
+Э-Это...?
 
 そこには、沙羅のホログラムペンダントと同じ画像、%K%P
 It had the same holographic image as in Sara's pendant.
 CN PLACEHOLDER
-На нём та же самая голографическая фотография, что и в кулоне Сары.
+На нём та же самая голографическая фотография, как и в кулоне Сары.
 
 つまりあの男の姿が浮かび上がっていた。%K%P
 There was an image of a man floating there.
@@ -445,7 +445,7 @@ CN PLACEHOLDER
 空「今は、レミのシステムを使って、そのカケラに光線をあてています」%K%P
 Right now, I am using LeMMIH to shine the proper light on it.
 CN PLACEHOLDER
-Сейчас я использую LeMMIH для проецирования на него требуемого освещения.
+Сейчас я использую ЛеММИХ для проецирования на него требуемого освещения.
 
 空「このホログラム、製造年代は特定できませんでしたが、とても古いバージョンのものであることは確かです」%K%P
 I could not confirm the date of manufacture of this hologram, but it is undoubtedly very old.
@@ -455,22 +455,22 @@ CN PLACEHOLDER
 空「今、ＬｅＭＵの売店で売っているような商品とは、基本的に原理が異なります」%K%P
 Its makeup is fundamentally different from the ones being sold at LeMU's kiosks.
 CN PLACEHOLDER
-Принцип её создания в корне отличается от тех, что продаются в магазинчиках LeMU.
+Принцип её создания в корне отличается от тех, что продаются в киосках LeMU.
 
 空「かつてのホログラムは、物体光と参照光……このふたつの光によってできた干渉縞を記録したものでした」%K%P
 In the past, holograms were recorded using an interference pattern made from an object beam and a reference beam.
 CN PLACEHOLDER
-В прошлом голограммы записывали с помощью картины интерференционных полос, создававшейся из объектного и опорного лучей.
+В прошлом, голограммы записывали с помощью картины интерференционных полос, создававшейся из объектного и опорного лучей.
 
 空「簡単に言うと、物体光は被写体に反射した光のこと」%K%P
 Put simply, the object beam is the light reflected off of the object.
 CN PLACEHOLDER
-Проще говоря, объектный луч – это свет, отражающийся от объекта.
+Проще говоря, объектный луч - это свет, отражающийся от объекта.
 
 空「参照光は、物体光を干渉させる光のことです、よろしいですか？」%K%P
 The reference beam is the light that interferes with the object beam. Do you understand?
 CN PLACEHOLDER
-А опорный луч – это свет, что скрещивается в пространстве с объектным лучом. Ты понимаешь?
+А опорный луч - это свет, что скрещивается в пространстве с объектным лучом. Ты понимаешь?
 
 空は考える間も与えず話を続けた。%K%P
 Sora continued on without giving me time to think.
@@ -480,7 +480,7 @@ CN PLACEHOLDER
 空「そして、ここからが大事なところなのですが……」%K%P
 And now comes the important part...
 CN PLACEHOLDER
-И здесь есть нечто интересное и важное...
+И, здесь есть нечто интересное и важное...
 
 空「こうしてできたホログラムを再生するには……」%K%P
 In order to make this hologram appear...
@@ -510,7 +510,7 @@ CN PLACEHOLDER
 空「蛍光灯の光では見えません」%K%P
 It also cannot be seen under fluorescent light.
 CN PLACEHOLDER
-Вот почему его нельзя увидеть под светом флуоресцентных ламп.
+Вот почему его нельзя увидеть под свечением флуоресцентных ламп.
 
 空「例えば日光や、或いはライターの炎のように、高温で発熱する光源が必要なのです」%K%P
 You must use light generated by a heat-emitting light source, such as sunlight or the flame of a lighter.
@@ -530,7 +530,7 @@ CN PLACEHOLDER
 その特定の波長とは８５０ｎｍ前後の赤外線であった。%K%P
 She said the special wavelength of light was infrared and around 850 nanometers.
 CN PLACEHOLDER
-Она сказала, что особая длина световой волны – инфракрасный свет, а сама длина примерно равняется 850 нанометрам.
+Она сказала, что особая длина световой волны - инфракрасный свет, а сама длина примерно равняется 850 нанометрам.
 
 赤外線は、普通の人には見えない。%K%P
 And that ordinary people couldn't see infrared light.
@@ -545,7 +545,7 @@ CN PLACEHOLDER
 ただし、物体がある程度の熱を発していれば、という条件がつく。%K%P
 But that they could only see objects that emitted heat.
 CN PLACEHOLDER
-С единственной оговоркой, что видеть он сможет лишь «тёплые» объекты.
+С единственной оговоркой, что видеть он сможет лишь 'тёплые' объекты.
 
 逆に言えば、発熱するものは、すべて赤外線を出していると言うことだ。%K%P
 Put another way, objects that gave off heat also emitted infrared rays.
@@ -565,12 +565,12 @@ CN PLACEHOLDER
 空「この映像が見えると言うことは、少年さんは、赤外線が見える……、ということです」%K%P
 The fact that you can see this image means that you can see infrared light, Kid-san.
 CN PLACEHOLDER
-Малой-сан, это доказывает, что ты всё-таки владеешь инфракрасным зрением.
+Кид-сан, это доказывает, что ты всё-таки владеешь инфракрасным зрением.
 
 少年「でも……、沙羅は？　沙羅もそうだって言うのか？」%K%P
 But... what about Sara? Does that mean that Sara can too?
 CN PLACEHOLDER
-Но... а Сара? Значит, она тоже?
+Но...а Сара? Значит, она тоже?
 
 空「はい、おふたりは、赤外線が見える、特殊な視力の持ち主、ということになります」%K%P
 Yes. Both of you have a very unique ability to see infrared light.
@@ -580,12 +580,12 @@ CN PLACEHOLDER
 それならば、ペンダントの映像が、武や優に見えなかった訳もわかる。%K%P
 Thinking back on it, that probably explained why Takeshi and You couldn't see the image in the pendant.
 CN PLACEHOLDER
-Если подумать, вот поэтому ни Такэси, ни Ю не видели голограмму в кулоне.
+Если подумать, вот почему ни Такеши, ни Ю не видели голограмму в кулоне.
 
 少年「でも……どうしてこのカケラが、ぼくの指に……？」%K%P
 But... why was this hologram in my finger...?
 CN PLACEHOLDER
-Но... что эта голограмма делала в моём пальце?..
+Но...что эта голограмма делала в моём пальце...?
 
 ぼくは震えながら呟いた。%K%P
 I trembled as I said that.
@@ -615,17 +615,17 @@ CN PLACEHOLDER
 少年「だけど……どうして……」%K%P
 But... why...?
 CN PLACEHOLDER
-Но... как?..
+Но...как...?
 
 空「それは……少年さん……」%K%P
 That... Kid-san...
 CN PLACEHOLDER
-Потому что... Малой-сан...
+Потому что...Кид-сан...
 
 空「あなたと松永さんが、兄妹だからです」%K%P
 Is because you and Matsunaga-san are siblings.
 CN PLACEHOLDER
-Потому что ты и Мацунага-сан – брат и сестра.
+Потому что ты и Мацунага-сан - брат и сестра.
 
 少年「そんなバカな……」%K%P
 What? It can't be!
@@ -650,12 +650,12 @@ CN PLACEHOLDER
 少年「違う……違う……違う……」%K%P
 No... No... No...
 CN PLACEHOLDER
-Нет... нет... нет...
+Нет...нет...нет...
 
 空「少年さん。どうしてお喜びにならないのですか？」%K%P
 Kid-san. Why wouldn't that make you happy?
 CN PLACEHOLDER
-Малой-сан. Неужели ты не счастлив?
+Кид-сан. Неужели ты не счастлив?
 
 空「あなたの肉親が見つかったのですよ？」%K%P
 You have found a blood relative.
@@ -670,12 +670,12 @@ CN PLACEHOLDER
 少年「違う……違う……」%K%P
 No... No...
 CN PLACEHOLDER
-Нет... нет...
+Нет...нет...
 
 ぼくは頭を抱えてうずくまった。%K%P
 I held my head and crouched down.
 CN PLACEHOLDER
-Я схватился за голову и упал на колени.
+Я схватился за голову и свалился на пол.
 
 空「いずれにせよ、これは事実です、受け入れてください」%K%P
 In either case, it is a fact and you should accept it.
@@ -685,7 +685,7 @@ CN PLACEHOLDER
 空「おふたりが寝ている間に、ＤＮＡ鑑定をさせて頂きました」%K%P
 While you two were asleep, I performed a DNA analysis on both of you.
 CN PLACEHOLDER
-Пока вы спали, я провела сравнительный анализ ДНК.
+Пока вы двое спали, я провела сравнительный ДНК-анализ.
 
 空「データはディスプレイに表示してあります」%K%P
 The results are indicated on the display.
@@ -695,17 +695,17 @@ CN PLACEHOLDER
 空「おふたりが兄妹である確率は……ほぼ１００％です」%K%P
 The probability that you are brother and sister is... nearly 100％.
 CN PLACEHOLDER
-Вероятность того, что вы являетесь братом и сестрой... почти 100 процентов.
+Вероятность того, что вы являетесь братом и сестрой...почти 100 процентов.
 
 少年「違う違う違う違う違う違う違う違う違う違う違う違う！」%K%P
 No... No... No... No... No... No... No... No... No... No... No... No...!
 CN PLACEHOLDER
-Нет... нет... нет... нет... нет... нет... нет... нет... нет... нет... нет... нет... нет... нет!
+Нет...нет...нет...нет...нет...нет...нет... нет...нет...нет...нет...нет...нет...нет...!!
 
 突然、今までどんなに破ろうとしても破れなかった記憶を包む膜がはじけた。%K%P
 Suddenly, the wall to my memory that I had tried so hard to destroy, but I had been unable to breach, crumbled.
 CN PLACEHOLDER
-И тут непробиваемая стена, что я так тяжко пытался разрушить, но не мог прорвать, рассыпалась.
+И тут, непробиваемая стена, что я так тяжко пытался разрушить, но не мог прорвать, рассыпалась.
 
 今まで、何かに押しとどめられ、ふれることのできなかった過去の記憶が、奔流のように頭の中を駆けめぐる。%K%P
 Like a dam that was holding back the overflow of my memory, it burst, unleashing a torrent of images that flooded into my mind.
@@ -715,7 +715,7 @@ CN PLACEHOLDER
 少年「うわ〜〜〜〜〜」%K%P
 Uggghhh...
 CN PLACEHOLDER
-Ух-х-х...
+Угггххх...
 
 ぼくが生きてきたこれまでの記憶が、時系列に関係なく、まるでバラバラになったスライドを次々に写すように、%K%P
 Memories of my life, in no apparent order, flashed across my mind like random slides appearing on a screen.
@@ -725,7 +725,7 @@ CN PLACEHOLDER
 次から次へと脈絡もなく浮かんでは消えていく。%K%P
 From one to the next, they floated up and vanished.
 CN PLACEHOLDER
-Одно за другим – всплывают и испаряются.
+Одно за другим - всплывают и испаряются.
 
 ぼくの脳みそは、その記憶の奔流に耐えきれなかった。%K%P
 My mind couldn't handle the flood of memories.

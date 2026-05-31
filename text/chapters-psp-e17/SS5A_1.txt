@@ -51,7 +51,7 @@ CN PLACEHOLDER
 熱と薬の影響だ。%K%P
 I thought it was from the fever and medicine.
 CN PLACEHOLDER
-Должно быть, это из-за высокой температуры и антибиотиков.
+Должно быть это из-за высокой температуры и антибиотиков.
 
 きっとそうだ。%K%P
 I was sure of it.
@@ -71,7 +71,7 @@ CN PLACEHOLDER
 壁に埋め込まれた時計に目をやると、午前２時を少し回ったところだった。%K%P
 I looked at the clock on the wall. It was a bit past two in the morning.
 CN PLACEHOLDER
-Я посмотрел на настенные часы. Уже чуть больше двух часов ночи.
+Я посмотрел на настенные часы. Уже чуть больше двух часов утра.
 
 普通なら真夜中といったところか……。%K%P
 Normally, it would be the middle of the night...
@@ -81,7 +81,7 @@ CN PLACEHOLDER
 しかし、そんな実感はわいてこない。%K%P
 But somehow, it didn't feel like that at all.
 CN PLACEHOLDER
-Но почему-то мне совсем так не кажется.
+Но, почему-то мне совсем так не кажется.
 
 ここに閉じこめられてからもうどれくらいたったのか……。%K%P
 I tried to remember how long we had been trapped there...
@@ -111,7 +111,7 @@ CN PLACEHOLDER
 ぼくはこのペンダントを握りしめたまま眠っていたらしい。%K%P
 It looked like I had fallen asleep with it clasped in my hand.
 CN PLACEHOLDER
-Наверное я так и заснул, держа его.
+Наверно я так и заснул, держа его.
 
 少年「ペンダント、返さなきゃ」%K%P
 I've gotta return this.
@@ -126,12 +126,12 @@ CN PLACEHOLDER
 右腕は少し熱を持っている様だったが、武に注射された薬がまだ効いているのか、それほどの痛みはなかった。%K%P
 My right arm felt slightly feverish, but because the medicine Takeshi had injected was probably still working, it didn't hurt much.
 CN PLACEHOLDER
-Правая рука всё ещё слегка горит. Но благодаря инъекции, что сделал мне Такэси, которая, видимо, всё ещё работает, не шибко уж и болит.
+Правая рука всё ещё слегка горит. Но, благодаря инъекции, что сделал мне Такеши, которая видимо всё ещё работает, не шибко уж и болит.
 
 ただ、思うように力が入らない。%K%P
 But I was still unable to move it normally.
 CN PLACEHOLDER
-Но нормально двигаться по-прежнему не могу.
+Но, нормально двигаться по-прежнему не могу.
 
 枕元をみると、腕をつるための三角巾が用意してあった。%K%P
 Next to the pillow was a sling for me to hang my arm in.
@@ -141,7 +141,7 @@ CN PLACEHOLDER
 武が、置いておいてくれたんだろうか？　それとも、優が？%K%P
 I wondered if Takeshi had left it. Or maybe You.
 CN PLACEHOLDER
-Должно быть, её оставил здесь Такэси. Или даже Ю.
+Должно быть её оставил здесь Такеши. Или даже Ю.
 
 どちらにしろ、痛む腕をぶらぶらさせて歩くわけにはいかない。ありがたく使わせてもらうことにしよう。%K%P
 Either way, I couldn't just let my hurt arm swing back and forth as I walked. I put it on.
@@ -186,7 +186,7 @@ CN PLACEHOLDER
 エレベーターで下に降り、宇宙クジラに向かう。%K%P
 I went down in the elevator and headed for the Cosmic Whale.
 CN PLACEHOLDER
-Спустившись на лифте, я направился к Космическому киту.
+Спустившись на лифте, я направился к Космическому Киту.
 
 と、どこかから、バシャバシャと水のはねる音が聞こえて来た。%K%P
 I heard the sound of splashing.
@@ -196,7 +196,7 @@ CN PLACEHOLDER
 発電室……ではない。%K%P
 It wasn't from the... generator room.
 CN PLACEHOLDER
-Нет, это не из... Генераторной.
+Нет, это не из...Генераторной.
 
 どうやら音は配管室の方から聞こえてくる様だった。%K%P
 It sounded like it came from the pipe room.
@@ -206,7 +206,7 @@ CN PLACEHOLDER
 少年「何だろう」%K%P
 I wonder what that is.
 CN PLACEHOLDER
-Что за?..
+Что за...?
 
 配管室に入ると……。%K%P
 When I entered the room...
@@ -216,12 +216,12 @@ CN PLACEHOLDER
 ――！%K%P
 —!
 CN PLACEHOLDER
-!
+-!
 
 少年「さ、沙羅！」%K%P
 S-Sara!
 CN PLACEHOLDER
-С-Сара!
+С...Сара!
 
 その光景を見た瞬間、ぼくは何も考えずに水に飛び込んだ。%K%P
 The moment I saw what was happening, I jumped into the water.
@@ -246,12 +246,12 @@ CN PLACEHOLDER
 沙羅「え、な、何よ少年」%K%P
 Huh? Kid, what're you doing?
 CN PLACEHOLDER
-Э-э? Малой, ты что делаешь?
+Эээ? Кид, ты что делаешь?
 
 少年「いいから、掴まれ」%K%P
 Just grab hold of me!
 CN PLACEHOLDER
-Хватайся за меня, скорее!
+Хватайся за меня, скорей!
 
 沙羅の体をつかもうとするが、沙羅は逆にぼくから逃げていく。%K%P
 I tried to grab Sara, but she swam away from me.
@@ -266,17 +266,17 @@ CN PLACEHOLDER
 少年「え？　ちょ、ちょっと、沙羅？」%K%P
 Huh? W-W-Wait, Sara?
 CN PLACEHOLDER
-Что? П-п-погоди... Сара?
+Что? П-п-погоди...Сара?
 
 沙羅「だからぁ、近づかないでってば、スケベ！」%K%P
 I said stay away from me, pervert!
 CN PLACEHOLDER
-Я сказала отстань – извращенец!
+Я сказала отстань - извращенец!
 
 少年「スケベって……、え？」%K%P
 Pervert... What?
 CN PLACEHOLDER
-Извращенец... что?..
+Извращенец....что...?
 
 そこにきて、ぼくは何かおかしいことに気づいた。%K%P
 Then I noticed something a little bit strange.
@@ -291,7 +291,7 @@ CN PLACEHOLDER
 少年「さ、沙羅？」%K%P
 Sa-Sara?
 CN PLACEHOLDER
-Са... Сара?
+Са...Сара?
 
 沙羅「なによ」%K%P
 What?
@@ -301,7 +301,7 @@ CN PLACEHOLDER
 少年「あ、あの〜、何してるの？」%K%P
 Uh, what're you doing?
 CN PLACEHOLDER
-Э-э, что ты делаешь?
+Ээ, что ты делаешь?
 
 沙羅「見ての通りだよ」%K%P
 Just what it looks like.
@@ -311,7 +311,7 @@ CN PLACEHOLDER
 少年「……見てわからないから質問してるんだけど」%K%P
 ...I don't know what it looks like. That's why I asked.
 CN PLACEHOLDER
-...Я не знаю, что именно. Потому и спросил.
+...я не знаю, что именно. Потому и спросил.
 
 沙羅「だからぁ、泳ぎの練習」%K%P
 I'm practicing swimming.
@@ -333,7 +333,7 @@ CN PLACEHOLDER
 %LCわ、わかるかい！%K%N
 (As if I would know!?)
 CN PLACEHOLDER
-(На что похоже? На что похоже?!)
+(На что похоже? На что похоже!?)
 
 %LCそんな必死の形相で水中でバタバタやられたら、%K%N
 (Flailing around like that...)
@@ -348,12 +348,12 @@ CN PLACEHOLDER
 心の中でそんなつっこみを入れながら、口から出たのは……。%K%P
 That was the comeback I launched in my mind. But what came out of my mouth was...
 CN PLACEHOLDER
-Так я подумал, но вместо этого изо рта вырвалось...
+Так я подумал, но вместо этого изо рта вырвалась...
 
 少年「そ、そうなんだ……。大変だね……」%K%P
 Oh... I see... Well, geez...
 CN PLACEHOLDER
-Ой... вот как... ну, блин...
+Ой...вот как...ну, блин...
 
 そんなマヌケなセリフだった。%K%P
 ...Only that stupid line.
@@ -363,7 +363,7 @@ CN PLACEHOLDER
 沙羅「ま、少年には、見られちゃったから言うけど」%K%P
 Well, since you've seen me, I guess I'll tell you.
 CN PLACEHOLDER
-Мда, раз уж ты видел, так и быть, скажу.
+М-да, раз уж ты видел, так и быть, скажу.
 
 沙羅「実はさ、私泳げないんだよねぇ」%K%P
 I actually don't know how to swim.
@@ -378,7 +378,7 @@ CN PLACEHOLDER
 沙羅「どうせ暇でやることもないし……更衣室で水着を見つけたのね」%K%P
 I realized that we have all this time... and I found a swimsuit in the changing room.
 CN PLACEHOLDER
-Я решила времени даром не терять... заодно в раздевалке нашла этот купальник.
+Я решила времени даром не терять...заодно в раздевалке нашла этот купальник.
 
 気が動転して、いままで気がつかなかったが……、%K%N
 Distracted, I hadn't noticed...
@@ -388,12 +388,12 @@ CN PLACEHOLDER
 そう言われてみれば、沙羅はＬｅＭＵの職員用らしい、ワンピースタイプの水着を着ていた。%K%N
 But when she told me, I did for the first time. Sara was decked out like a LeMU employee in a one-piece swimsuit.
 CN PLACEHOLDER
-Но сейчас до меня дошло, что Сара надела слитный купальник кого-то из работников LeMU.
+Но, сейчас до меня дошло, что Сара выглядит как работник LeMU, в купальном костюме.
 
 なぜそんな事にも気がつかなかったのか……。%K%N
 I wondered why I hadn't noticed...
 CN PLACEHOLDER
-И почему я не заметил этого раньше?..
+И почему я не заметил этого раньше...?
 
 気恥ずかしさに、顔がカーッとほてってくる。%K%O
 I blushed with embarrassment.
@@ -413,17 +413,17 @@ CN PLACEHOLDER
 それに、まだ薬の影響も残ってたし……。%K%N
 Besides, the medicine was still affecting me...
 CN PLACEHOLDER
-Да и потом, я всё ещё под действием лекарства...
+Да и потом, я всё ещё под 'кайфом'...
 
 必死で自分自身にいいわけをする。%K%O
 I was making up all kinds of excuses.
 CN PLACEHOLDER
-Я отчаянно ищу себе оправдание.
+Эх, делаю одно извинение за другим.
 
 そんなぼくの態度にも、沙羅は、気がつかないで先を続けた。%K%P
 But Sara didn't notice my confusion and kept at it.
 CN PLACEHOLDER
-Но Сара не заметила моего смущения, и продолжает объяснять.
+Но, Сара не заметила моего смущения, и продолжает объяснять.
 
 沙羅「だから、今の内に少しでも練習しとこうとおもったわけ」%K%P
 So I thought that I would try to get in a little swim practice.
@@ -433,7 +433,7 @@ CN PLACEHOLDER
 沙羅「ここなら、水もそんなに冷たくないし」%K%P
 I mean, the water here isn't all that cold.
 CN PLACEHOLDER
-Всё равно вода здесь не такая уж и холодная.
+Всё равно, вода здесь не такая уж и холодная.
 
 言われて見れば、ここの水は、通路にあふれていた水よりは温かい気がする。%K%P
 Once she mentioned it, I realized the water was warmer than in the corridors.
@@ -478,27 +478,27 @@ CN PLACEHOLDER
 少年「あ、そう……」%K%P
 Is that right...?
 CN PLACEHOLDER
-Неужели?..
+Неужели...?
 
 沙羅「ぷっ、あははは……」%K%P
 Ah, heehee...
 CN PLACEHOLDER
-Ах, хи-хи-хи...
+Ах, хии, хии...
 
 少年「な、なに？」%K%P
 Wh-What?
 CN PLACEHOLDER
-Ч-что?
+Ч...что?
 
 沙羅「ぷぷぷ、少年殿は、あんな冗談を真に受けておられたか、ニンニン」%K%P
 Heehee. Kid, you take everything so seriously. Nin! Nin! Ninja!
 CN PLACEHOLDER
-Хи-хи. Малой, какой же ты наивный. Ниндзя!
+Хии, хии. Кид, какой же ты наивный. Ниндзя!
 
 少年「え……、あ、冗談だったの！」%K%P
 Oh... So... that was a joke!
 CN PLACEHOLDER
-Ох... так... это была шутка!
+Ох...так...это была шутка!
 
 沙羅「当たり前でしょ。何よ、忍者って」%K%P
 Sure it was. Me? A ninja?
@@ -518,7 +518,7 @@ CN PLACEHOLDER
 沙羅「なんかさぁ、こんな状況で泳げないのって不安でしょ」%K%P
 And being in this situation and not being able to swim... It makes me nervous.
 CN PLACEHOLDER
-Знаешь, если не умеешь плавать... да ещё и попадаешь в такую ситуацию... нервы ни к чёрту.
+Знаешь, если не умеешь плавать...да ещё и попадаешь в такую ситуацию...нервы ни к чёрту.
 
 沙羅「たぶん、みんなの中で泳げないのって私だけだと思うんだよねぇ」%K%P
 I think I'm probably the only one here who can't swim.
@@ -528,7 +528,7 @@ CN PLACEHOLDER
 沙羅「少年も、泳げるでしょ」%K%P
 You can swim, right, Kid?
 CN PLACEHOLDER
-Ты ведь умеешь, Малой?
+Ты ведь умеешь, Кид?
 
 少年「ぼくは……」%K%P
 I...
@@ -538,7 +538,7 @@ CN PLACEHOLDER
 意識しなかったが、さっきぼくは泳いでいたはずだ。%K%P
 I hadn't thought about it, but I thought I'd been swimming alright a minute ago.
 CN PLACEHOLDER
-Я не думал об этом, но кажется отлично с этим справлялся лишь минуту назад... да ещё и одной рукой.
+Я не думал об этом, но кажется отлично с этим справлялся лишь минуту назад...да ещё и одной рукой.
 
 という事は泳げると言うことだ。%K%P
 That meant that I could swim.
@@ -548,7 +548,7 @@ CN PLACEHOLDER
 少年「うん……、そうだね」%K%P
 Yeah... I can swim.
 CN PLACEHOLDER
-Да... я умею плавать.
+Да...я умею плавать.
 
 沙羅「ちょうどいいや、少年、私に教えてくれない」%K%p
 That's perfect! Will you teach me?
@@ -568,7 +568,7 @@ CN PLACEHOLDER
 少年「いや、それはちょっと……」%K%P
 Uh, I don't think so...
 CN PLACEHOLDER
-Э-э, нет, не стоит...
+Ээ, нет, не стоит...
 
 沙羅「え〜、なんで〜」%K%P
 Oh, why not?
@@ -578,12 +578,12 @@ CN PLACEHOLDER
 少年「だって、腕はこんなだし……」%K%P
 Well, my arm is no good like this...
 CN PLACEHOLDER
-Как тебе сказать... моя рука не в очень хорошем состоянии...
+Как тебе сказать...моя рука не в очень хорошем состоянии...
 
 実際、今無理したせいなのか、骨折したところがズキズキとうずき出している。%K%P
 My broken arm actually felt like it was on fire, probably because I had strained it trying to swim.
 CN PLACEHOLDER
-Моя сломанная рука горит просто адски. Сам виноват – растянул её, когда пытался плыть.
+Моя сломанная рука горит просто адски. Сам виноват - растянул её, когда пытался плыть.
 
 沙羅「いいじゃない、どこが悪いか言ってくれるだけでいいんだから」%K%P
 That's okay. You can just watch and tell me what I'm doing wrong.
@@ -633,17 +633,17 @@ CN PLACEHOLDER
 沙羅「も〜、怒った、絶対ゆるさん」%K%P
 Now you've made me mad. I can't believe you'd say that.
 CN PLACEHOLDER
-Не зли меня. Да как ты мог!..
+Не зли меня. Да как ты мог...!
 
 少年「泳ぎ、教えてほしくないの？」%K%P
 So you don't want me to teach you how to swim?
 CN PLACEHOLDER
-Так ты не хочешь, чтобы я научил тебя плавать?
+Значит ты не хочешь, чтобы я научил тебя плавать?
 
 沙羅「あ……、う〜、ずるいぞ少年」%K%P
 Aw... You're tricky!
 CN PLACEHOLDER
-А-агх... мерзавец!
+Аагх...мерзавец!
 
 沙羅「おぬしも武士なら、正々堂々と勝負せい」%K%P
 I think you've got samurai in you, so you better fight fair!
@@ -663,12 +663,12 @@ CN PLACEHOLDER
 少年「へ、へりくつって……」%K%P
 Difficult...?
 CN PLACEHOLDER
-Зануда?..
+Зануда...?
 
 沙羅「い〜の、もう決まりなの、少年は私に泳ぎを教えるの！」%K%P
 Forget it! That's it, you're teaching me to swim.
 CN PLACEHOLDER
-Проехали! Вот что – будешь учить меня плавать, и точка!
+Проехали! Вот что - будешь учить меня плавать, и точка!
 
 少年「勝手に決めつけないでよ」%K%P
 Hey, it's not all up to you.
@@ -678,12 +678,12 @@ CN PLACEHOLDER
 沙羅「いいの、これは運命なの、必然なの、前世から決まってたことなの！」%K%P
 I didn't decide it. It's fate. Inevitable and decided by the stars!
 CN PLACEHOLDER
-Это не я решила. Это судьба. Неминуемая и избранная Господом!
+Это не я решила. Это судьба. Неминуемая и избранная господом!
 
 少年「あの〜」%K%P
 Uh...
 CN PLACEHOLDER
-Э-э...
+Ээ...
 
 沙羅「はい、決まり！」%K%P
 It's settled!
@@ -698,7 +698,7 @@ CN PLACEHOLDER
 沙羅「あ〜、もう、男のくせにごちゃごちゃと！」%K%P
 You sure whine a lot for a guy!
 CN PLACEHOLDER
-Для парня ты слишком много ноешь!
+Для парня в тебе слишком много нытья!
 
 沙羅「決まったことに文句をいわな〜い」%K%P
 When something is decided, you accept it.
@@ -713,7 +713,7 @@ CN PLACEHOLDER
 沙羅「今よ今、たった今。私が決めたの、もう決まったの、だから少年は私に泳ぎを教えるの！」%K%P
 EXACTLY right now. I decided, so it's decided. Kid, you're gonna teach me to swim!
 CN PLACEHOLDER
-КОНКРЕТНО сейчас. Раз я решила, значит, так и будет. Малой, ты научишь меня плавать!
+КОНКРЕТНО сейчас. Раз я решила, значит так и будет. Кид, ты научишь меня плавать!
 
 なんだか、これ以上言い争うのがばからしくなってきた。%K%P
 I didn't think there was any point to continuing the argument.
@@ -768,7 +768,7 @@ CN PLACEHOLDER
 少年「な、なにが？」%K%P
 Wh-What?
 CN PLACEHOLDER
-Ч-что?
+---?
 
 沙羅「少年、私の水着姿にホレたな〜。だ〜めだよ、おそっちゃぁ！」%K%P
 It's because I look so good in this swimsuit! Better keep your hands off!
@@ -793,12 +793,12 @@ CN PLACEHOLDER
 沙羅「あ、わ、まって、いかないで、おねがい〜」%K%P
 Oh, no, wait! Pleaaaaaaasssee〜
 CN PLACEHOLDER
-Ой, нет! Постой, пожалуйста!..
+Ой, нет! Постой, пожалуйста...!
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 沙羅「もう、からかったりしないから〜」%K%P
 I won't tease you anymore〜
@@ -818,7 +818,7 @@ CN PLACEHOLDER
 少年「う〜ん」%K%P
 Hmmm.
 CN PLACEHOLDER
-Хм-м-м.
+Хммм.
 
 沙羅「ほんとだってば！　神様仏様、ついでにご先祖様にも誓って」%K%P
 I said I promise! I swear to God, to Buddha, and to anyone else who'll listen!
@@ -828,7 +828,7 @@ CN PLACEHOLDER
 少年「ふう……。わかったよ」%K%P
 Well... alright.
 CN PLACEHOLDER
-Ну... ладно.
+Ну...ладно.
 
 沙羅「本当？　私の気持ち、わかってくれたのねぇ」%K%P
 Really? You know I love you, right?
@@ -838,22 +838,22 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 沙羅「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「じゃ、そういう事で……」%K%P
 Anyway... I should be going...
 CN PLACEHOLDER
-Ладушки... мне пора...
+Ладушки...мне пора...
 
 沙羅「わ〜、ウソウソ冗談だってば〜！　少年〜、カンバ〜ック！」%K%P
 Ohhhhh, I'm kidding! Come back here!
 CN PLACEHOLDER
-Ооооой, шучу, шучу! Малой, вернись!
+Ооооой, шучу, шучу! Кид, вернись!
 
 沙羅は、さらに体をバタバタと動かし、激しい水しぶきを上げる。%K%P
 Sara flapped her arms about, making even more spray.
@@ -863,7 +863,7 @@ CN PLACEHOLDER
 少年「うわっ、わかったよ。教える。教えるから」%K%P
 Oh, alright. I'll teach you, okay?
 CN PLACEHOLDER
-Грррр... хорошо. Я буду тебя учить.
+Грррр...хорошо. Я буду тебя учить.
 
 沙羅「わーい、やったぁ！」%K%P
 Yeah!
@@ -878,7 +878,7 @@ CN PLACEHOLDER
 少年「だから、やめろって……」%K%P
 I said stop that...
 CN PLACEHOLDER
-Я сказал прекрати!..
+Я сказал прекрати...!
 
 少年「沙羅、もっと体の力を抜いて！」%K%P
 Sara, you've gotta relax more!
@@ -908,32 +908,32 @@ CN PLACEHOLDER
 右腕を吊っている状態では、泳ぎを教えるって言ってもたいした事はできない。%K%P
 With my right arm in a sling, there were only so many ways to teach swimming.
 CN PLACEHOLDER
-Учитывая, что у меня сломана правая рука, не так уж легко научить кого-то плавать.
+Со сломанной правой рукой, из возможных уроков по плаванию остаётся лишь 'теория' и 'тренерская работа'.
 
 ただ、沙羅の動きを見て声をかけるだけだ。%K%P
 I just watched what she was doing and hollered out advice.
 CN PLACEHOLDER
-Я просто наблюдаю за тем, что она делает, и выкрикиваю команды вперемешку с советами.
+Я как раз делаю последнее - наблюдаю за тем, что она делает и выкрикиваю команды вперемешку с советами.
 
 しかし……、いくら言っても沙羅の動きはぎこちないままだった。%K%P
 But... no matter what I said, she still looked clumsy.
 CN PLACEHOLDER
-Но... что бы я ни говорил... она по-прежнему выглядит неуклюже.
+Но...не важно, что бы я не говорил...она по-прежнему выглядит неуклюже.
 
 少年「沙羅、そんなんじゃいつまでたっても泳げるようにはならないよ」%K%P
 If you keep that up, you'll never learn to swim!
 CN PLACEHOLDER
-Будешь продолжать в том же духе – никогда не научишься плавать!
+Будешь продолжать в том же духе - никогда не научишься плавать!
 
 沙羅「しかた、ないでしょ！　ハア、ハア」%K%P
 Well, what am I s'posed to do? *Pant*, *pant*...
 CN PLACEHOLDER
-А что я... могу поделать...*хха*, *хха*...
+А что я...могу поделать...*хха*, *хха*...
 
 沙羅「これでも、精一杯、言われた、通りに、しようと、してるんだから」%K%P
 I'm doing my best to do just like you said.
 CN PLACEHOLDER
-Я... стараюсь... делать... всё... так... как... ты... говоришь...*хха*....
+Я...стараюсь...делать...всё...так...как... ты...говоришь...*хха*....
 
 少年「はあ……」%K%P
 I see...
@@ -953,7 +953,7 @@ CN PLACEHOLDER
 沙羅「こ、こお？」%K%P
 Like this?
 CN PLACEHOLDER
-Вот... так?
+Вот...так?
 
 ――バシャバシャバシャバシャッ！%K%P
 —Splish, splash, splish, splash!
@@ -963,12 +963,12 @@ CN PLACEHOLDER
 今までよりもさらに激しい水しぶきが上がる。%K%P
 She only whirled the water into a bigger froth with more spray.
 CN PLACEHOLDER
-Она лишь сильнее завертелась в воде, отчего та вспенилась.
+Она лишь сильней завертелась в воде, что та от её напора вспенилась.
 
 少年「うわっ、さ、沙羅、もっとゆっくり！」%K%P
 Whoa! S-Sara, slow down!
 CN PLACEHOLDER
-О-хо! С-Сара, давай медленней!
+Не части! С-Сара, медленней!
 
 こちらにまで降りかかってくる水をよけながら叫ぶ。%K%P
 I shouted instructions as I avoided the spray showering down around me.
@@ -993,12 +993,12 @@ CN PLACEHOLDER
 少年「だから、もっと動きを柔らかく……」%K%P
 You've gotta move more slowly... gently...
 CN PLACEHOLDER
-Ты должна двигаться медленней... нежнее, как...
+Ты должна двигаться медленней...нежнее, как...
 
 沙羅「柔らかく、っていわれたって、どうすればいいのか、わかんないんだから、しょうがないでしょ！」%K%P
 How am I supposed to know what you mean by gentle? What else can I do?
 CN PLACEHOLDER
-Откуда мне знать, что ты имеешь в виду своим „нежнее“? А как тогда?
+Откуда мне знать, что ты имеешь в виду своим 'нежнее'? А как тогда?
 
 沙羅「もう、少年の教え方が、悪いんだよ！」%K%P
 You're no good at teaching!
@@ -1033,12 +1033,12 @@ CN PLACEHOLDER
 少年「ふーん、そう？」%K%P
 Hmmm. Really?
 CN PLACEHOLDER
-Хм-м-м. Правда?
+Хммм. Правда?
 
 沙羅「な、なに？」%K%P
 Wh-Whaddya mean?
 CN PLACEHOLDER
-Ч-что?
+Ч...что?
 
 少年「ねえ、沙羅」%K%P
 Listen, Sara.
@@ -1053,7 +1053,7 @@ CN PLACEHOLDER
 沙羅「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「ぼくの言うこと、ちゃんと聞けるはずだよねぇ」%K%P
 Then you should listen to what I say.
@@ -1063,7 +1063,7 @@ CN PLACEHOLDER
 沙羅「う……」%K%P
 Oh...
 CN PLACEHOLDER
-Уху...
+Уу...
 
 少年「ぼくの言うことが聞けないって言うのなら……」%K%P
 If you can't listen to what I say...
@@ -1078,7 +1078,7 @@ CN PLACEHOLDER
 沙羅「う〜……」%K%P
 Oh...
 CN PLACEHOLDER
-Угх...
+Ууууугх...
 
 少年「泳ぎ、教えてほしい？」%K%P
 Do you want me to teach you to swim?
@@ -1088,7 +1088,7 @@ CN PLACEHOLDER
 沙羅「……うん」%K%P
 ...Yes.
 CN PLACEHOLDER
-...Хочу.
+Ммм...
 
 少年「じゃあ、なにかぼくに言うことない？」%K%P
 So is there anything you want to say to me?
@@ -1098,7 +1098,7 @@ CN PLACEHOLDER
 沙羅「むぅ……」%K%P
 Mmmmm...
 CN PLACEHOLDER
-М-м...
+Ммммм....
 
 沙羅は恨めしげにぼくのことをにらんだ。%K%P
 Sara glared at me menacingly.
@@ -1118,27 +1118,27 @@ CN PLACEHOLDER
 沙羅「あう、ご、ごめん……」%K%P
 Uh, I'm sorry...
 CN PLACEHOLDER
-Ай... Извини...
+Аййййй...п...прости...
 
 少年「な〜に？　聞こえないなぁ」%K%P
 What? Did you say something?
 CN PLACEHOLDER
-Что? Я не расслышал.
+Что? Я что-то слышал, или показалось?
 
 沙羅「だから、ごめんってば！」%K%P
 I said I'm sorry!
 CN PLACEHOLDER
-Я сказала – прости!
+Я сказала прости!
 
 沙羅「もう、意地悪しないでおしえてよ」%K%P
 Now, just teach me without being mean.
 CN PLACEHOLDER
-Не надо со мной так жестоко.
+Не будь такой противозиной, научи меня, а?
 
 沙羅「ね、お・ね・が・い」%K%P
 P-W-E-T-T-Y P-W-E-A-S-E!
 CN PLACEHOLDER
-ПО-ЖА-ЛУЙ-СТА!
+Ммм...ПО-ЖА-ЛУЙ-СТА!
 
 少年「言葉を不気味にくぎるな〜！」%K%P
 Don't talk like a baby!
@@ -1170,17 +1170,17 @@ CN PLACEHOLDER
 正直、ホントは沙羅の水着姿にドキドキしていた。%K%N
 Truthfully, Sara was something in a swimsuit.
 CN PLACEHOLDER
-Сказать по правде, Сара в купальнике – действительно нечто.
+Сказать по-правде, Сара в купальнике - действительно нечто.
 
 でもそれを認めるのは癪だし、%K%N
 But I couldn't tell her that.
 CN PLACEHOLDER
-Но я держу язык за зубами.
+Но, я держу язык за зубами.
 
 認めて沙羅をいい気分にさせる気はさらさらない。%K%O
 I didn't want her to get full of herself.
 CN PLACEHOLDER
-Не собираюсь давать Саре поводов зазнаваться.
+Потому что не хочу, чтобы та стала воображулей.
 
 少年「なんで、沙羅の水着姿で喜ばなきゃならないの？」%K%P
 Now why should I be so happy about seeing you in a swimsuit?
@@ -1190,7 +1190,7 @@ CN PLACEHOLDER
 沙羅「あ〜、ムカツク〜」%K%P
 Oh! You're such a jerk.
 CN PLACEHOLDER
-А-агх! Болван.
+Аагх! Болван.
 
 沙羅は、バタ足を激しくして、ぼくの方に水をとばす。%K%P
 Sara started kicking and showered me with water.
@@ -1200,7 +1200,7 @@ CN PLACEHOLDER
 少年「うわっ、やめろ、こら！」%K%P
 Whoa! Stop that right now!
 CN PLACEHOLDER
-Стой! А ну прекрати, сейчас же!
+Стой! А ну прекрати сейчас же!
 
 沙羅「こら、正直に言え！　ホントはドキドキしちゃってるんでしょ〜」%K%P
 Then you tell the truth! You like me in a swimsuit, right?
@@ -1210,22 +1210,22 @@ CN PLACEHOLDER
 少年「そんな訳ないだろ！　なんで沙羅に……」%K%P
 Why would I? You in a swimsuit...?
 CN PLACEHOLDER
-С чего бы? Ты? Да ещё и в купальнике?..
+С чего бы? Ты? Да ещё и в купальнике...?
 
 なんだか、自分の気持ちを見透かされたようで顔が赤くなる。%K%P
 I was blushing, completely giving away my feelings.
 CN PLACEHOLDER
-Я стал краснее редьки... У меня всё на лице написано.
+Я стал краснее редьки...у меня всё на лице написано.
 
 沙羅「あ、ほら、赤くなってる〜」%K%P
 Oh! Look! You're getting red.
 CN PLACEHOLDER
-Оп-па! Смотрите, какие мы красные!
+Опа! Смотрите какие мы красные!
 
 沙羅「ホントは、うれし〜んでしょ〜」%K%P
 See! You do like seeing me!
 CN PLACEHOLDER
-Значит, я правда тебе нравлюсь!
+Значит я правда тебе нравлюсь!
 
 少年「ち、違うってば！」%K%P
 You're not listening to me!
@@ -1245,7 +1245,7 @@ CN PLACEHOLDER
 沙羅「ま、こ〜んな水着姿の美少女と一緒にいられたら、健康な男の子なら誰だってうれしーもんねぇ」%K%P
 Well, any healthy guy in his right mind would like to be with a beautiful girl in a bathing suit.
 CN PLACEHOLDER
-Ну, любой здравый парень мечтает оказаться вместе с красивой девушкой в купальнике.
+Ну, любой здравый (во всех смыслах) парень мечтает оказаться вместе с красивой девушкой в купальнике.
 
 少年「だ〜から、違うって」%K%P
 It's not like that.
@@ -1260,7 +1260,7 @@ CN PLACEHOLDER
 少年「そ、そんなわけないだろ」%K%P
 I said I don't!
 CN PLACEHOLDER
-Я сказал, нет!
+Я сказал---!!
 
 少年「もういいよ、ぼくはもう行くからね！」%K%P
 I've had enough. I'm leaving!
@@ -1270,12 +1270,12 @@ CN PLACEHOLDER
 心を見透かされたような気恥ずかしさから、ぼくは本気で部屋を出ようとした。%K%P
 I was embarrassed because she'd seen through me. I really meant to leave the room.
 CN PLACEHOLDER
-Я больше этого не вынесу – она видит меня насквозь. На этот раз я всерьёз решил уйти.
+Я больше этого не вынесу - она видит меня насквозь. На этот раз я всерьёз решил уйти.
 
 沙羅「きゃあっ！」%K%P
 Aiiiieeee!
 CN PLACEHOLDER
-А-а-а-а-а-а-агх!
+Ааааааагх!
 
 背後から沙羅の悲鳴。%K%P
 I heard Sara scream behind me.
@@ -1295,17 +1295,17 @@ CN PLACEHOLDER
 少年「沙羅、沙羅？」%K%P
 Sara? Sara?
 CN PLACEHOLDER
-Сара? Сара?!
+Сара? Сара!?
 
 少年「どうしたの、沙羅！」%K%P
 What's the matter?
 CN PLACEHOLDER
-Сара, что с тобой?!
+Сара, что с тобой!?
 
 足でもつったのか！？%K%P
 I wondered if her leg had cramped.
 CN PLACEHOLDER
-А что, если она поскользнулась и упала?
+А что если она поскользнулась и упала?
 
 あわてて水辺に駆け寄る。%K%P
 I sprinted to the water's edge.
@@ -1330,12 +1330,12 @@ CN PLACEHOLDER
 あっ、と思ったときにはぼくの体は宙を舞っていた。%K%P
 The next thing I knew, I had slipped and was spinning in the air.
 CN PLACEHOLDER
-Следующее, что я понял – я поскользнулся и кувыркаюсь в воздухе.
+Следующее, что я понял - я поскользнулся и кувыркаюсь в воздухе.
 
 ――ドボン！%K%P
 —Crasplash!
 CN PLACEHOLDER
-Бультых!
+Плюлялямс!
 
 次の瞬間、ぼくは水中にいた。%K%P
 The following instant, I was in the water.
@@ -1345,7 +1345,7 @@ CN PLACEHOLDER
 少年「ガボァ！」%K%P
 Aaagghhh!
 CN PLACEHOLDER
-А-а-агх!
+Аааггххх!
 
 あまりにもいきなりな事で大量に水を吸い込んでしまった。水は鼻にまで入り込む。%K%P
 It all happened so quickly that I swallowed a ton of water. And some went up my nose.
@@ -1370,17 +1370,17 @@ CN PLACEHOLDER
 沙羅「ん〜、な〜に、少年」%K%P
 Whaaaaaaat is it?
 CN PLACEHOLDER
-Хм-м-м-м... чего тебе, Малой?
+Хмммм...чего тебе, Кид?
 
 沙羅は素知らぬ顔で、泳ぎの練習を再開していた。%K%P
 Sara, pretending that nothing had happened, had resumed her swim practice.
 CN PLACEHOLDER
-Сара, притворившись, будто ничего не произошло, продолжила «плавать».
+Сара, притворившись будто ничего не произошло, продолжила 'плавать'.
 
 少年「さ、ゲホッ、ゲホッ、沙羅、ひどいじゃないか！」%K%P
 *Cough*, *sputter*... Sara, you're mean!
 CN PLACEHOLDER
-*Кхе* *блюэ* ...Сара, вот зараза!
+*Кхе*, *блюэ*...Сара, пакость!
 
 ぼくは沙羅につめよる。%K%P
 I approached Sara.
@@ -1390,7 +1390,7 @@ CN PLACEHOLDER
 沙羅「ぷっ……、くっ、あは、あははははは」%K%P
 Paaa... AHAHAhaaaaaa!
 CN PLACEHOLDER
-Пф... А-ХА-ХА-Ха-а-а-а-а-а!
+Пф......А-ХА-ХА-Хаааааа!
 
 少年「な、なんだよ」%K%P
 Wh-What?
@@ -1400,7 +1400,7 @@ CN PLACEHOLDER
 沙羅「だって、プププ、あんなにあっさり引っかかるんだもん、クククク……」%K%P
 You fall for EVERYTHING so easily! Heehee...
 CN PLACEHOLDER
-Тебя... гы-гы-гы-гы... ТАК легко наколоть... *сдавленный смех*....
+Тебя...гы-гы-гы-гы...ТАК легко наколоть...! *сдавленный смех*....
 
 少年「さ、沙羅！」%K%P
 S-Sara!
@@ -1410,17 +1410,17 @@ CN PLACEHOLDER
 沙羅「修行がたらんでござるな、少年殿」%K%P
 It would seem you're still wet behind the ears, Kid.
 CN PLACEHOLDER
-Какой же ты всё-таки ещё ребёнок, Малой.
+Видимо, ты всё ещё ребёнок, Кид.
 
 沙羅「ぷっ、あははははは！」%K%P
 Paaa... AHAHAhaaaaaa!
 CN PLACEHOLDER
-Пф... гы-гы-гы... А-ХА-ХА-Ха-а-а-а-а-а!
+Пф......гы-гы-гы...А-ХА-ХА-Хаааааа!
 
 屈託無く笑う沙羅の笑顔に、それ以上怒っているのがばからしくなってきた。%K%P
 Seeing Sara laughing with such enthusiasm, I realized that getting any angrier was pointless.
 CN PLACEHOLDER
-Видя, как Сара столь восторженно смеётся, я понял, что злиться дальше нет никакого смысла.
+Видя как Сара столь восторженно смеётся, я понял, что злиться и дальше нет никакого смысла.
 
 それどころか、なぜか笑いがこみ上げてくる。%K%P
 Actually, for some reason, I started to laugh.
@@ -1430,17 +1430,17 @@ CN PLACEHOLDER
 少年「……くすっ、ふふふ、はっははははは」%K%P
 ...Hee... Kyahahahaha...
 CN PLACEHOLDER
-...Хи-и... А-а-а, Ха-ха-ха-ха...
+...Хии....Ааа, Ха, ха, ха, ха...
 
 沙羅「あはははははははは！」%K%P
 Ahahahahaha!
 CN PLACEHOLDER
-А-ха-ха-ха-ха-ха-ха-ха!
+А, Ха, ха, ха...а, ха, ха, ха...!
 
 少年「ははははははははは！」%K%P
 Hahahahahahahaha!
 CN PLACEHOLDER
-Ха-ха-ха-ха-ха-ха-ха!
+Ха, ха, ха, ха, ха, ха, ха, ха!
 
 沙羅とぼくは、ひとしきり笑い続けた。%K%P
 Sara and I laughed for a while.
@@ -1460,7 +1460,7 @@ CN PLACEHOLDER
 沙羅「あ、少年……」%K%P
 Uh, Kid...
 CN PLACEHOLDER
-А... Малой...
+А...Кид...
 
 沙羅が少し心細そうな声で呼びかける。%K%P
 Sara called out to me shyly.
@@ -1470,12 +1470,12 @@ CN PLACEHOLDER
 少年「じゃあ、やろうか沙羅」%K%P
 So should we start?
 CN PLACEHOLDER
-Ну так, может, начнём?
+Ну так, может начнём?
 
 沙羅「あ……、うん」%K%P
 Uh... Yeah.
 CN PLACEHOLDER
-Э-э... Угу.
+Ээ...угу.
 
 沙羅「では、よろしくお願いするでござるよ、師匠！」%K%P
 Okay, wise teacher! Please douse me with swimming knowledge!
@@ -1505,7 +1505,7 @@ CN PLACEHOLDER
 少年「いい、沙羅。沙羅の場合、たぶん自分が泳げないっていう思いがあるから体が硬くなってるんだ」%K%P
 Listen. I think with you, Sara, your body gets tight because you think you can't swim.
 CN PLACEHOLDER
-Слушай, Сара. Мне кажется, у тебя тело напряжено, потому что ты думаешь, что не умеешь плавать.
+Сара, похоже, ты думаешь что не умеешь плавать, вот почему твоё тело столь напряжено.
 
 少年「だから、もっと体の力を抜いたほうがいいよ」%K%P
 So you have to relax more.
@@ -1515,22 +1515,22 @@ CN PLACEHOLDER
 沙羅「でも……、言われたとおりにやろうとしてるんだけど……」%K%P
 But... I'm trying to do it just the way you say...
 CN PLACEHOLDER
-Но... я делаю всё в точности, как ты говоришь...
+Но...я делаю всё в точности как ты говоришь...
 
 少年「う〜ん、なんだか、硬いんだよ。なんか、棒を振り回してるみたいで……」%K%P
 Yeah, but you're so stiff. Like a scarecrow, or you're made of wood, or something...
 CN PLACEHOLDER
-Да, но ты нигде не сгибаешься. Как дерево или типа того...
+Да, но ты такая жёсткая. Как деревянный Буратино...
 
 少年「うーん、そうだなぁ。もっと足をしなやかに……、たとえば、魚の動きみたいに」%K%P
 You need to let your legs flow freely... like a fish, maybe.
 CN PLACEHOLDER
-Расслабь ноги и дай им плыть свободно... Представь, что ты рыбка.
+Расслабь ноги и дай им плыть свободно... представь, что ты рыбка.
 
 沙羅「魚……、ん、よし、お魚になったわたし〜」%K%P
 A fish... Alright then, I'm a fish now.
 CN PLACEHOLDER
-Рыбка... Хорошо, я буду рыбкой!
+Рыбка... хорошо, я рыбка, рыбка, рыбка!
 
 少年「沙羅！　やる気あるの！」%K%P
 Okay, Sara! You need to get pumped!
@@ -1540,17 +1540,17 @@ CN PLACEHOLDER
 沙羅「う〜、だって、イメージがつかめないよ〜」%K%P
 I just can't picture what you mean.
 CN PLACEHOLDER
-Гр-р-р... и как мне, по-твоему, это делать?
+Гррррр...и как мне, по-твоему, это делать?
 
 少年「魚がだめなら、イルカでも鯨でも……、とにかく、なめらかに柔らかく動かしてごらん」%K%P
 Well, if you can't imagine a fish, then how about a dolphin or whale... Anyway, you have to be relaxed and move freely.
 CN PLACEHOLDER
-Ну, если не можешь представить себе рыбку, тогда представь дельфина или кита... То есть тебе нужно быть более расслабленной и двигаться свободно.
+Ну, если не можешь представить себе рыбку, тогда представь дельфина или кита...то есть, тебе нужно быть более расслабленной и двигаться свободно.
 
 沙羅「う〜〜」%K%P
 Uuuuh...
 CN PLACEHOLDER
-У-у-у-у...
+Уууууууууу...
 
 少年「だめ、まだ硬い！　もっと柔らかく」%K%P
 No. You're still too stiff! Relax more.
@@ -1565,7 +1565,7 @@ CN PLACEHOLDER
 ぼくは、なんだか、その状況が楽しくなってきていた。%K%P
 Somehow, teaching her to swim had become fun.
 CN PLACEHOLDER
-И всё-таки учить Сару плавать – забавно.
+И всё-таки учить Сару плавать - забавно.
 
 いつもいい気になっている沙羅と、完全に立場が逆転しているのだ。%K%P
 It was fun to see Sara, who was always in control of things, in the opposite position.
@@ -1590,7 +1590,7 @@ CN PLACEHOLDER
 手持ち無沙汰に手の中で、沙羅のペンダントを遊ばせる。%K%P
 I played with her pendant.
 CN PLACEHOLDER
-От нечего делать я играюсь с её кулоном.
+От нечего делать, играюсь с её кулоном.
 
 ペンダントを見ても、ライターの明かりが無ければただの鏡だ。%K%P
 Looking at it without the flame or the lighter, it was just a mirror.
@@ -1600,7 +1600,7 @@ CN PLACEHOLDER
 ペンダントの縁に指を滑らせる。%K%P
 I ran my finger around the edge of the pendant.
 CN PLACEHOLDER
-Я провёл пальцем по его краю.
+Я пробежался пальцем по его краю.
 
 昨日の、加減圧室での沙羅を思い出す。%K%P
 I thought about what Sara had said in the compression chamber.
@@ -1625,7 +1625,7 @@ CN PLACEHOLDER
 沙羅「ん、どうしたの？　暗い顔して？」%K%P
 What's wrong? Why the glum face?
 CN PLACEHOLDER
-Хм-м... что с тобой? Чё хмуришься?
+Хмм...что с тобой? Чё хмуришься?
 
 少年「ん、あ、ああ、何でもないよ」%K%P
 Oh, it's nothing.
@@ -1635,12 +1635,12 @@ CN PLACEHOLDER
 少年「それより、これ……」%K%P
 But I brought this...
 CN PLACEHOLDER
-Я кое-что принёс...
+Я кое-что принёс....
 
 沙羅「あ、うん、それ持ってきてくれたんだ」%K%P
 Oh, you brought it for me.
 CN PLACEHOLDER
-Ах, да... так вот почему ты пришёл.
+Ах, да...так вот почему ты пришёл.
 
 沙羅「なのにゴメンね〜、最後までつきあわせちゃって」%K%P
 Sorry you had to stick around teaching me until the end.
@@ -1660,7 +1660,7 @@ CN PLACEHOLDER
 沙羅「ん〜、なんか言った〜？　少年」%K%P
 Huh? What did you say?
 CN PLACEHOLDER
-Хм-м-м? Мне послышалось, Малой?
+Хммм? Мне послышалось, Кид?
 
 少年「い〜え、何にも」%K%P
 Oh, nothing.
@@ -1670,12 +1670,12 @@ CN PLACEHOLDER
 沙羅「ふ〜ん。でも、本当にありがとう……」%K%P
 Well, anyway, thanks a lot...
 CN PLACEHOLDER
-Ну, спасибо тебе большое...
+Ммммм...но, правда, большое тебе спасибо...
 
 沙羅「最後までつきあってくれて……」%K%P
 And thanks for hanging out until the end.
 CN PLACEHOLDER
-И спасибо, что стерпел всё это.
+И спасибо что стерпел всё это.
 
 少年「え？」%K%P
 What?
@@ -1690,7 +1690,7 @@ CN PLACEHOLDER
 沙羅が、あの沙羅が、素直にお礼を言っている。%K%P
 But Sara was sincerely saying thanks.
 CN PLACEHOLDER
-Но Сара говорит спасибо от чистого сердца.
+Но, Сара говорит спасибо от чистого сердца.
 
 少年「ず、ずいぶん素直じゃないか」%K%P
 W-Wow. You're being surprisingly nice to me...
@@ -1715,7 +1715,7 @@ CN PLACEHOLDER
 沙羅「でも、なんだかうれしかったよ。あんなに真剣になってくれて……」%K%P
 But it was fun. I was happy you were so serious about it...
 CN PLACEHOLDER
-Но это было весело. Я рада, что ты так серьёзно к этому отнёсся...
+Но, это было весело. Я счастлива, что ты так серьёзно к этому отнёсся...
 
 少年「沙羅……」%K%P
 Sara...
@@ -1735,32 +1735,32 @@ CN PLACEHOLDER
 そりゃあ、ちゃんと泳ぎの指導はしたけど、ちょっと意地悪な気持ちがあったのは事実だし……。%K%P
 I had taught her how to swim correctly, but I did have an urge to be a bit of a bully about it.
 CN PLACEHOLDER
-Хоть я и учил её, как правильно плавать... всё же не стоило перегибать палку и так кричать на неё.
+Хоть я и учил её, как правильно плавать...всё же не стоило перегибать палку и так кричать на неё.
 
 なのに、沙羅は、こんなに素直に『ありがとう』と言ってくれた……。%K%P
 Still, I never thought that she would come out and say, “Thanks”...
 CN PLACEHOLDER
-И всё же, мне и в голову не могло прийти, что она возьмёт и скажет «спасибо»...
+И всё-таки, мне и в голову не могло придти, что она возьмёт и скажет 'Спасибо'...
 
 沙羅「ホントに、アリガトね、少年」%K%P
 I really mean it. Thanks, Kid.
 CN PLACEHOLDER
-Серьёзно. Спасибо тебе, Малой.
+Серьёзно. Спасибо тебе, Кид.
 
 少年「う、うん。でも、いい気にならないでよ。まだまだあんなんじゃ、泳げたなんて言えないんだから」%K%P
 Y-Yeah. But don't let it go to your head, because you can't really call what you were doing swimming.
 CN PLACEHOLDER
-В-всегда пожалуйста. Только не воображай ничего, ладно? Потому что то, что ты делаешь, нельзя назвать плаванием.
+В-всегда пожалуйста. Только не воображай ничего, ладно? Потому что, то что ты делаешь, нельзя назвать плаванием.
 
 ぼくは、気恥ずかしくて、つい憎まれ口をたたいてしまった。%K%P
 I was embarrassed and reflexively went into mean mode.
 CN PLACEHOLDER
-Из-за смущения я чисто рефлекторно перешёл в режим «зануды».
+Из-за смущения, я чисто рефлекторно перешёл в режим 'зануды'.
 
 沙羅「うん、わかってるよ。機会があったら、また教えてね、少年」%K%P
 I know. If we have another chance, I hope you'll teach me again.
 CN PLACEHOLDER
-Понимаю. Если представится ещё один случай, надеюсь, что ты поучишь меня снова.
+Понимаю. Если представится ещё один случай, надеюсь что ты поучишь меня снова.
 
 少年「う、うん」%K%P
 S-Sure.
@@ -1770,7 +1770,7 @@ CN PLACEHOLDER
 沙羅「今度こそ、ちゃんと泳げるようになるんだから」%K%P
 Next time, I'll really learn to swim.
 CN PLACEHOLDER
-В следующий раз я правда научусь плавать.
+В следующий раз, я правда научусь плавать.
 
 少年「そうだね。もう少しだよ」%K%P
 Yeah. You just need a little more practice.
@@ -1795,7 +1795,7 @@ CN PLACEHOLDER
 沙羅はそう言いながら、手に持っていたペンダントを身に着けた。%K%P
 As she spoke, Sara took the pendant and put it on.
 CN PLACEHOLDER
-С этими словами Сара взяла кулон и надела его.
+С этими словами, Сара взяла кулон и надела его.
 
 そのまま、ペンダントを手に取り見つめる。%K%P
 Then she took it in her hand and stared at it.
@@ -1820,7 +1820,7 @@ CN PLACEHOLDER
 沙羅「うん、私ね……」%K%P
 Yes. I...
 CN PLACEHOLDER
-Да... я...
+Да...я...
 
 沙羅「お兄ちゃんがいたんだ……」%K%P
 I had an older brother...
@@ -1830,22 +1830,22 @@ CN PLACEHOLDER
 沙羅「すごくかっこよくて、強くて、大好きだった……」%K%P
 He was fun, strong, and I adored him...
 CN PLACEHOLDER
-Он был таким весёлым, сильным. Я обожала его...
+Он был задорен, силён. Я обожала его...
 
 沙羅「すごく、小さい頃に離ればなれになっちゃったけど……」%K%P
 But when we were little, we got separated...
 CN PLACEHOLDER
-Но когда мы были маленькими, нас разлучили...
+Но, когда мы были маленькими, нас разлучили...
 
 少年「そう……」%K%P
 I see...
 CN PLACEHOLDER
-Правда?..
+Правда...?
 
 沙羅「でも、約束したんだ……」%K%P
 But he promised me...
 CN PLACEHOLDER
-Но он обещал...
+Но, он обещал...
 
 少年「約束？」%K%P
 Promised you?
@@ -1865,7 +1865,7 @@ CN PLACEHOLDER
 少年「そうなんだ」%K%P
 Is that right?
 CN PLACEHOLDER
-Правда?
+...?
 
 沙羅「うん……」%K%P
 Yup...
@@ -1875,17 +1875,17 @@ CN PLACEHOLDER
 沙羅「だから……、待ってるの」%K%P
 So... I'm waiting for him.
 CN PLACEHOLDER
-И... я жду его.
+И...я жду его.
 
 沙羅「待ってるんだ、助けに来てくれるの……。ずっと……」%K%P
 Waiting for him to come save me... Always...
 CN PLACEHOLDER
-Жду, что он придёт за мной... вечно...
+Жду, что он придёт за мной...вечно...
 
 沙羅の言葉に、以前見た幻想がよみがえってくる。%K%P
 Sara's words brought back a vision I had seen.
 CN PLACEHOLDER
-От слов Сары из памяти вырвалось старое видение.
+От слов Сары, из памяти вырвалось старое видение.
 
 %N
 
@@ -1902,12 +1902,12 @@ CN PLACEHOLDER
 %LC%FSいい子にして……待ってるから……%FE%V%N
 I'll wait... like a good girl...
 CN PLACEHOLDER
-Я буду умницей... и буду ждать...
+Я буду умницей...и буду ждать....
 
 %LC%FSずっと……待ってる……から……%FE%V%O
 I'll wait... forever...
 CN PLACEHOLDER
-Я буду ждать... вечно...
+Я буду ждать....вечно...
 
 ぼくは、必死でその幻想を振り払った……。%K%P
 I desperately tried to shake off the vision...

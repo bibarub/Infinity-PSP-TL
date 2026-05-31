@@ -26,12 +26,12 @@ CN PLACEHOLDER
 『タツタサンド売店以外のまともな食い物を探そう！』とか、%K%P
 “Let's find something decent to eat—no more of those tuna sandwiches from the kiosk!”
 CN PLACEHOLDER
-«Давайте что ли попробуем найти что-то кроме этих сэндвичей с тунцом!»
+'Давайте что ли поищем нормальную еду - от этих бутербродов с курятиной мы вот-вот сами скоро закукарекаем!'
 
 『浮力の足りないＥＩには果たして何人乗れるのか？』とか、%K%P
 And “How many people can really ride on an Ei that doesn't have enough buoyancy?”
 CN PLACEHOLDER
-...а потом: «Интересно, а сколько человек могут проехаться на EI, не ладящим с силой выталкивания?»
+...а потом - 'Интересно, а сколько человек могут проехаться на EI, не ладящим с силой выталкивания?'
 
 くだらない提案をいくつかしてみた。%K%P
 I also made other ridiculous propositions.
@@ -61,7 +61,7 @@ CN PLACEHOLDER
 今日の夕食の集合時間を、俺達は２０時と決めた。%K%P
 We decided to meet at 8 p.m. for dinner.
 CN PLACEHOLDER
-Мы решили собраться в 8 вечера, чтобы поужинать.
+Мы решили собраться в 8 вечера чтобы поужинать.
 
 それまではめいめい、自由に過ごすことにする。%K%P
 Everyone was left to wander around freely until then.
@@ -81,12 +81,12 @@ CN PLACEHOLDER
 つぐみはまだベッドで眠っているはずだった。%K%P
 I thought Tsugumi would still be sleeping in bed.
 CN PLACEHOLDER
-Наверное Цугуми всё ещё спит на кровати.
+Наверно Цугуми всё ещё спит на кровати.
 
 （様子を見てみようか……？）%K%P
 (Maybe I should check on her...?)
 CN PLACEHOLDER
-(Пойти что ли проведать её?..)
+(Пойти что ли проведать её...?)
 
 俺がスライド扉の前に立つと、扉は開いた。%K%P
 As I stood in front of the sliding door, it opened.
@@ -111,32 +111,32 @@ CN PLACEHOLDER
 武「俺は単なる野暮用だよ。目の覚める薬でももらおうかと思ってね」%K%P
 Nothing, really. I just thought I'd get some coffee or something to wake me up.
 CN PLACEHOLDER
-Да ничего. Просто думал взять чашечку кофе или ещё чего-нибудь, чтобы взбодриться.
+Да ничего. Просто думал взять чашечку кофе, или ещё чего-нибудь, чтобы взбодриться.
 
 武「そういう優は、少年と何やってるんだ？」%K%P
 What about you two? What are you and the Kid up to?
 CN PLACEHOLDER
-А вы двое? Чем ты и Малой сейчас заняты?
+А вы двое? Чем ты и Кид сейчас заняты?
 
 優は、例のスキャナー『Ｌ−ＭＲＩ』のところに、何やら工具や部品を広げている最中だった。%K%P
 It looked like she was in the middle of spreading out tools and parts next to the “L-MRI” scanner.
 CN PLACEHOLDER
-На первый взгляд, она вроде бы раскладывает инструменты и запчасти у сканера «L-MRI».
+На первый взгляд, она вроде бы раскладывает инструменты и запчасти у сканера 'Л-МРИ'.
 
 少年もスキャナーの近くにしゃがんで、資料のようなものを眺めている。%K%P
 The Kid was crouched down by the scanner as well, looking at what appeared to be pages of data.
 CN PLACEHOLDER
-Малой же лёг рядом со сканером, глядя на нечто, напоминающее инструкцию по ремонту.
+Кид же лёг рядом со сканером, глядя на нечто, напоминающее инструкцию по ремонту.
 
 優「ああ……やっぱりね、この機械直しておこうかなって思って」%K%P
 Well... you know, I thought I'd try to fix this machine after all.
 CN PLACEHOLDER
-Ну... видишь ли, я решила в конце концов попытаться починить этот агрегат.
+Ну...видишь ли, я решила в конце концов попытаться починить этот агрегат.
 
 武「ふーん。少年は手伝いか」%K%P
 Wow. And the Kid's helping?
 CN PLACEHOLDER
-Круто. А Малой тебе помогает?
+Круто. А Кид тебе помогает?
 
 少年「うん、そうだよ」%K%P
 You got it.
@@ -146,12 +146,12 @@ CN PLACEHOLDER
 優「こう見えても彼、頼りになるのよ。図面を読むの速いし……」%K%P
 He's much more helpful than he looks. He's really quick at reading blueprints...
 CN PLACEHOLDER
-Он гораздо более способный, чем может показаться на первый взгляд. А как быстро он читает чертежи...
+Он гораздо более способный, чем может показаться на первый взгляд. А как быстро он читает чертежи....
 
 武「そういや時々妙に冴えてることあるよな、少年って。なんでだろうな？」%K%P
 Sometimes that happens, where the Kid'll be strangely good at something. I wonder why that is?
 CN PLACEHOLDER
-Бывает, конечно, что Малому что-то удаётся поразительно легко. Единственное, чего я не могу понять – почему?
+Бывает конечно, когда Киду нечто удаётся поразительно легко. Единственное, чего я не могу понять - почему?
 
 少年「さぁ、何故かはぼくが訊きたいよ」%K%P
 That's what I'd like to know.
@@ -166,22 +166,22 @@ CN PLACEHOLDER
 少年「ううん……全然」%K%P
 Nope... not a clue.
 CN PLACEHOLDER
-Не-а... без понятия.
+Не-а...без понятия.
 
 少年「何か理由があるのかもしれないけど……」%K%P
 There might be some reason, but...
 CN PLACEHOLDER
-Может, на то есть причина, но...
+Может на то есть причина, но...
 
 少年はうつむいて考え始める。%K%P
 The Kid hung his head, thinking.
 CN PLACEHOLDER
-Малой повесил голову, призадумавшись.
+В раздумье, Кид повесил голову.
 
 優「まぁまぁ、思い詰めなさんなって。今は考えたってさ、しょうがないよ」%K%P
 Hey, hey, don't worry about it. No use wondering about it now.
 CN PLACEHOLDER
-Малой, расслабься, не думай об этом. Пока это бесполезно.
+Кид, расслабься, не думай об этом. Пока это бесполезно.
 
 優「そーゆーのは、いずれ記憶が戻れば、自然にわかるんだから……」%K%P
 It'll all make sense anyway when your memory comes back.
@@ -191,7 +191,7 @@ CN PLACEHOLDER
 優「少年、そっちのレンチ取ってくれる？」%K%P
 Hey, Kid, can you hand me that wrench?
 CN PLACEHOLDER
-Малой, передай-ка мне во-о-он ту отвёртку.
+Кид, передай-ка мне вооон ту отвёртку.
 
 少年「あ、これかな？」%K%P
 This one?
@@ -231,12 +231,12 @@ CN PLACEHOLDER
 武「しかし、少年の頭が冴えてるうちに、いろいろ難しいことを片づけておいたほうがいいかもな」%K%P
 But you know, while the Kid's head is clear, maybe we should tackle some of the trickier problems.
 CN PLACEHOLDER
-Но знаешь, пока у Малого голова ничем не забита, нам стоит развязать пару трудных узелков.
+Но, знаешь, пока у Кида голова ничем не забита, нам стоит развязать пару трудных узелков.
 
 優「ん？　なんで？」%K%P
 Huh? Why?
 CN PLACEHOLDER
-Э-э? С чего вдруг?
+Эээ? С чего вдруг?
 
 武「だってほら、たとえば頭をどこぞにブツけたお陰で、今だけ冴えてるのかもしれないだろ？」%K%P
 Because, what if he hit his head or something, and he's only going to be good at this stuff for a little bit?
@@ -251,7 +251,7 @@ CN PLACEHOLDER
 優「まさかぁ、マンガじゃあるまいし。ねぇ少年」%K%P
 Oh, please. This isn't like some manga. Right, Kid?
 CN PLACEHOLDER
-Ой, да ладно. Мы же не персонажи манги, в конце концов. Правда, Малой?
+Ой, да ладно. Мы же не персонажи манги, в конце концов. Правда, Кид?
 
 少年「いや、ぼくに訊かれても……」%K%P
 Listen, don't ask me...
@@ -261,12 +261,12 @@ CN PLACEHOLDER
 優「ん？　そっか……それもそうね」%K%P
 Hm? Oh... That's right.
 CN PLACEHOLDER
-Э-э? А... ну да.
+Эээ? А...ну да.
 
 少年「ところで、マンガってなんだっけ？」%K%P
 So what's a manga again?
 CN PLACEHOLDER
-Ну, а что такое „манга“?
+Ну, а что такое 'манга'?
 
 優「うわ！　マンガも忘れたの？」%K%P
 What!? You've even forgotten manga?
@@ -286,12 +286,12 @@ CN PLACEHOLDER
 優と少年は妙なやり取りを続ける。%K%P
 The Kid and You continued their strange conversation...
 CN PLACEHOLDER
-Малой и Ю продолжили свой странный разговор...
+Кид и Ю продолжили свой странный разговор...
 
 ……なんか、俺がここにいても意味がない気がしてきたな。%K%P
 ...And I started to feel like there was no real reason for me to be there at all.
 CN PLACEHOLDER
-...а я чувствую себя третьим лишним. Какой смысл здесь дальше оставаться?
+...а я чувствую себя как третий лишний. Какой смысл здесь дальше оставаться?
 
 武「それじゃ、頑張ってな」%K%P
 Well, hang in there.
@@ -326,27 +326,27 @@ CN PLACEHOLDER
 優「まだ意識は戻らないし、当分身体を動かせないし……安静にしてもらわなくちゃいけないけど」%K%P
 She isn't conscious yet, and of course she can't move her body... She really just needs to rest.
 CN PLACEHOLDER
-Она пока не пришла в себя, и, естественно, не может пошевелиться... ей нужен покой.
+Она пока не пришла в себя, и, естественно, не может пошевелиться...ей нужен покой.
 
 優は伏し目がちに、少しずつ言葉を口にした。%K%P
 You was speaking slowly, her eyes downcast.
 CN PLACEHOLDER
-Тихо, с опущенным взглядом сказала Ю.
+Тихо, с опущенным взглядом, сказала Ю.
 
 その表情はどことなく硬くなる。%K%P
 For some reason, her expression hardened.
 CN PLACEHOLDER
-И почему-то её выражение лица ужесточилось.
+И, почему-то, её выражение лица ужесточилось.
 
 優「それから、そんなに自信ないけど……でも、私なりにベストは尽くしたつもりだから」%K%P
 And it's not that I'm so sure of myself, but... still, I've done my very best for her...
 CN PLACEHOLDER
-И я не то чтобы так в себе уверена, но... всё-таки я сделала для неё всё, на что только была способна...
+И -- не то что я так в себе уверена, но... всё-таки, я сделала для неё всё, на что только была способна...
 
 優「完全に保証はできないけど、治って欲しいと思ってる……」%K%P
 I can't guarantee that she will, but I want her to get better...
 CN PLACEHOLDER
-Я не могу гарантировать, но хочу, чтобы она поправилась...
+Я не могу гарантировать, но хочу, чтобы она поправилась....
 
 優「だから……」%K%P
 So we'll just...
@@ -371,7 +371,7 @@ CN PLACEHOLDER
 優「でも、まだ、ほんとに治るかどうかわからないよ……？」%K%P
 But we still don't know if she will really recover...
 CN PLACEHOLDER
-Но мы всё ещё не знаем, действительно ли она выздоровеет...
+Но, мы всё ещё не знаем, действительно ли она выздоровеет...
 
 武「心配すんな。なんだよ、そんなに自信ないのか？」%K%P
 You worry too much. What? Don't you trust yourself?
@@ -396,22 +396,22 @@ CN PLACEHOLDER
 武「あいつは助かるよ。……絶対に」%K%P
 She'll pull through... I know it.
 CN PLACEHOLDER
-Она выкарабкается... я знаю.
+Она выкарабкается...я знаю.
 
 武「そんでもってまた元通り、俺のことをさんざんに扱き下ろしてくれるはずだよ」%K%P
 She'll be just like she was before in no time and giving me a hard time as usual for sure.
 CN PLACEHOLDER
-И будет точно так же, как и всегда, делать всё возможное и невозможное, чтобы жизнь мне мёдом не казалась.
+И будет точно также, как и всегда, делать всё возможное и невозможное, чтобы жизнь мне мёдом не казалась.
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「そうだね、うん。なんか、私もそんな気がしてきた」%K%P
 I guess so. Actually, I'm starting to feel the same way.
 CN PLACEHOLDER
-Наверное, ты прав. По правде говоря, не могу с тобой не согласиться.
+Наверно, ты прав. По-правде говоря, не могу с тобой не согласиться.
 
 はにかんだように、優は微笑んでくれた。%K%P
 She gave me a small smile.
@@ -421,7 +421,7 @@ CN PLACEHOLDER
 武「さてと、それじゃ憎いあんちくしょうのツラを拝ませてもらうとするかねぇ……」%K%P
 Well then, I guess I'm off to see that mean-spirited girl's face...
 CN PLACEHOLDER
-Ну, ладушки, тогда, наверное, пойду посмотрю на личико этого ходячего недоразумения...
+Ну, ладушки, наверно тогда пойду посмотрю на личико этого ходячего недоразумения...
 
 武「スキャナーの修理、頼んだぞ」%K%P
 So fix that scanner, okay?
@@ -436,7 +436,7 @@ CN PLACEHOLDER
 優は再びあぐらをかき、少年と一緒に、カバーを外したスキャナーの部品と格闘し始めた。%K%P
 You plopped down again, and she and the Kid began grappling with the coverless scanner.
 CN PLACEHOLDER
-Ю снова шлёпнулась на пол и вместе с Малым взялась за теперь уже вскрытый сканер.
+Ю снова шлёпнулась на пол, и вместе с Кидом взялась за, теперь уже вскрытый, сканер.
 
 俺は奥にあるベッドのひとつに歩み寄る。%K%P
 I went toward the bed in the back.
@@ -461,7 +461,7 @@ CN PLACEHOLDER
 幸いにも、苦しそうな表情は浮かべていない。%K%P
 Thankfully, she didn't look like she was in pain.
 CN PLACEHOLDER
-К счастью, непохоже, что сейчас Цугуми страдает от боли.
+К счастью, не похоже, что сейчас Цугуми страдает от боли.
 
 本当に穏やかな顔で、眠っていた。%K%P
 She was sleeping so serenely.
@@ -516,12 +516,12 @@ CN PLACEHOLDER
 周囲の床を見ると、滲んだようにタイルが変色していた。%K%P
 I looked down at the floor, and it was as if the tiles were blurring, changing color.
 CN PLACEHOLDER
-Я посмотрел на пол – узор на нём словно размыт, меняя цвет.
+Я посмотрел на пол - узор на нём словно размыт, меняя цвет.
 
 （拭き取られた……血の色だ……）%K%P
 (It's the color... of her blood...)
 CN PLACEHOLDER
-(Это цвет... её крови...)
+(Это цвет......её крови...)
 
 それは生々しい、手術の跡だった。%K%P
 It was the raw, brutal traces of the surgery.
@@ -546,7 +546,7 @@ CN PLACEHOLDER
 助からなかったら……。%K%P
 If she didn't make it...
 CN PLACEHOLDER
-Если она не выкарабкается...
+Если она не выкарабкается......
 
 謝って済む問題ではない気がする。%K%P
 It wasn't the kind of thing made better by an apology.
@@ -556,7 +556,7 @@ CN PLACEHOLDER
 仮に無事治ったとしても……。%K%P
 And even if she did recover...
 CN PLACEHOLDER
-Но даже если она выздоровеет...
+Но, даже если она выздоровеет...
 
 そのとき、俺が面と向かって何を言おうと……。%K%P
 What would I say to her face?
@@ -566,7 +566,7 @@ CN PLACEHOLDER
 つぐみにぶん殴られても、あるいは、罵倒されても、それは当然だろうと思う。%K%P
 It would only be natural for her to hit me or yell at me.
 CN PLACEHOLDER
-Естественно, она ударит меня или станет бранить.
+Естественно, она ударит меня, или станет бранить.
 
 武「……ごめんな」%K%P
 ...So sorry.
@@ -576,7 +576,7 @@ CN PLACEHOLDER
 今は何も答えないつぐみに、ただ俺はそう繰り返すしかなかった。%K%P
 All I could do was repeat it over and over to Tsugumi, who couldn't even answer.
 CN PLACEHOLDER
-Всё, что я сейчас могу – лишь без конца повторять эти слова безмолвной Цугуми.
+Всё, что я сейчас могу - лишь без конца повторять эти слова безмолвной Цугуми.
 
 空「倉成さん」%K%P
 Kuranari-san.
@@ -596,7 +596,7 @@ CN PLACEHOLDER
 武「やぁ、空か……」%K%P
 Hey, Sora...
 CN PLACEHOLDER
-Ой, Сора...
+Ой, Господи, Сора...
 
 空は俺のすぐ後ろに姿を現していた。%K%P
 Sora had suddenly appeared behind me.
@@ -606,7 +606,7 @@ CN PLACEHOLDER
 空「小町さんは当分、目を覚まさないと思いますよ」%K%P
 It is unlikely that Komachi-san will wake up for a while.
 CN PLACEHOLDER
-Боюсь, что Комати-сан вряд ли проснётся в ближайшее время.
+Боюсь, что Комачи-сан вряд ли проснётся в ближайшее время.
 
 空「まだ麻酔も効いてるはずですし……今はそっとしておくのが一番です」%K%P
 The anesthetic is still in effect... It is probably best to leave her alone right now.
@@ -646,7 +646,7 @@ CN PLACEHOLDER
 空「ふふふっ、内緒です」%K%P
 It's, um, um, a secret.
 CN PLACEHOLDER
-Это, ну-у, м-м, секрет.
+Это, нуу, мм, секрет.
 
 空はにこにこと笑った。%K%P
 She laughed a little.
@@ -666,7 +666,7 @@ CN PLACEHOLDER
 空「ここだとなんですから……外、行きませんか？」%K%p
 This room is... Well, why don't we go outside?
 CN PLACEHOLDER
-Здесь это... ну, может выйдем ненадолго?
+Здесь это...ну, может выйдем ненадолго?
 
 行かない
 Don't go
@@ -711,7 +711,7 @@ CN PLACEHOLDER
 武「あ、そっか。そりゃそうだ……どうしよう」%K%P
 Oh, right. That makes sense... Let's see.
 CN PLACEHOLDER
-Эх, правда. Тогда... ясно.
+Эх, правда. Тогда...ясно.
 
 空「……いえ、大した話ではないですから。また今度にしましょうか」%K%P
 ...Never mind, it's not a big deal. We can discuss it later.
@@ -721,7 +721,7 @@ CN PLACEHOLDER
 武「ああ」%K%P
 Ah.
 CN PLACEHOLDER
-Э-э...
+Эээ...
 
 空「では、失礼しますね」%K%P
 If you'll excuse me, then.
@@ -751,7 +751,7 @@ CN PLACEHOLDER
 今は何も、語り出そうとはしない。%K%P
 But instead, she wasn't saying anything at all.
 CN PLACEHOLDER
-Но сейчас она вообще ничего не говорит.
+Но, сейчас она вообще ничего не говорит.
 
 ……何か聞きたい。%K%P
 ...I wanted to hear something.
@@ -761,7 +761,7 @@ CN PLACEHOLDER
 できるだけ早く。%K%P
 As soon as possible.
 CN PLACEHOLDER
-Как можно скорее.
+Как можно скорей.
 
 何でもいいから、つぐみの言葉を聞いてみたくなった。%K%P
 Anything, I didn't care, I just wanted to hear Tsugumi's voice again.
@@ -776,7 +776,7 @@ CN PLACEHOLDER
 （おやっ？）%K%P
 (What?)
 CN PLACEHOLDER
-(Какого?..)
+(Какого...?)
 
 俺は見間違いかと思って頭を振った。%K%P
 I turned my head, sure I had been mistaken.
@@ -871,7 +871,7 @@ CN PLACEHOLDER
 しかしピピだけがココと離れて、しかもこんな通路にいるだろうか。%K%P
 But if Pipi had separated from Coco, he surely wouldn't be in a place like that.
 CN PLACEHOLDER
-Но если Пипи сбежал от Коко, то уж точно не стал бы шастать в таких местах.
+Но, если Пипи сбежал от Коко, то уж точно не стал бы шастать в таких местах.
 
 足音の主は、もっと小さいもののようにも感じられた。%K%P
 I sensed that the owner of the footsteps was something smaller.
@@ -886,7 +886,7 @@ CN PLACEHOLDER
 時々壁に激突する音も聞こえる。%K%P
 Sometimes even crashing into walls.
 CN PLACEHOLDER
-...иногда даже ударяясь о стены.
+...иногда даже ударяясь об стены.
 
 相当慌てているらしい。%K%P
 It was in a desperate hurry.
@@ -901,7 +901,7 @@ CN PLACEHOLDER
 （でも……なんだろう？）%K%P
 (But... what is it?)
 CN PLACEHOLDER
-(Но... какое именно?)
+(Но...какое именно?)
 
 それが救護室から下に逃げたらしいことが気にかかった。%K%P
 It bothered me that it had run out of the infirmary.
@@ -916,7 +916,7 @@ CN PLACEHOLDER
 そこまでは俺も追跡してきたはずだったのだが……見失ってしまった。%K%P
 I had followed it right up until that point... but somehow, I lost it.
 CN PLACEHOLDER
-Я следовал буквально по пятам... но как-то умудрился потерять след.
+Я следовал буквально по пятам...но как-то умудрился потерять след.
 
 途中の階段から落ちたか、あるいはどこかのダクトにでも入って、フロアに飛び降りたのかもしれない。%K%P
 Maybe it fell down the stairs along the corridor or climbed into a duct and jumped down a floor.
@@ -931,17 +931,17 @@ CN PLACEHOLDER
 あれは……ネズミだろうか。%K%P
 Maybe it was... a rat?
 CN PLACEHOLDER
-Может это... крыса?
+Может это...крыса?
 
 ……そうかもしれない。ＬｅＭＵにネズミがいてもそう不思議ではないだろう。%K%P
 ...Could be. It wouldn't be so strange for LeMU to have rats.
 CN PLACEHOLDER
-...Наверняка. Ничего удивительного – где море, там и крысы. А LeMU – отнюдь не исключение.
+...Наверняка. Ничего удивительного - где море, там и крысы. А LeMU - отнюдь не исключение.
 
 だとすると――%K%P
 In which case...
 CN PLACEHOLDER
-В таком случае –
+В таком случае —
 
 武「なんだ、バカバカしい」%K%P
 This is stupid.
@@ -966,7 +966,7 @@ CN PLACEHOLDER
 武「誰だよ、ここでメシ食ったの……」%K%P
 Hey, who ate their dinner here...?
 CN PLACEHOLDER
-Эй, кто это чавкал на постели?..
+Эй, кто это чавкал на постели...?
 
 ベッドの上に、僅かだがパンくずが落ちていた。%K%P
 There were small breadcrumbs on the bed.
@@ -986,7 +986,7 @@ CN PLACEHOLDER
 リフトから降りると、俺は修理を続けていた優達にツカツカと歩み寄った。%K%P
 I got out of the lift and stomped over to where You and the Kid were still in the middle of their repair efforts.
 CN PLACEHOLDER
-Я вышел из лифта и встал рядом с Ю и Малым, что до сих пор застряли посреди ремонтных работ.
+Я вышел из лифта и встал рядом с Ю и Кидом, что до сих пор застряли посреди ремонтных работ.
 
 武「誰か加減圧室でパン食べた奴いるか？」%K%P
 Who was eating bread in the decompression chamber?
@@ -1016,7 +1016,7 @@ CN PLACEHOLDER
 少年は指に絶縁テープを巻きつけていた。%K%P
 The Kid had insulation tape wrapped around his fingers.
 CN PLACEHOLDER
-У Малого пальцы замотаны в изоленту.
+У Кида пальцы замотаны в изоленту.
 
 優「倉成ぃ〜、あんたじゃないの？」%K%P
 Kuranari, you sure it wasn't you?
@@ -1026,12 +1026,12 @@ CN PLACEHOLDER
 武「俺なもんか。俺が訊いてるのに……」%K%P
 Why would it be me if I'm the one asking about it...?
 CN PLACEHOLDER
-Если бы это сделал я, думаешь стал бы спрашивать?..
+Если бы это сделал я, думаешь стал бы спрашивать...?
 
 武「ま、誰でもいいけどさぁ、気をつけたほうがいいんじゃないか？」%K%P
 I mean, it doesn't really matter who it was, but don't you think we'd better be a little more careful?
 CN PLACEHOLDER
-То есть, на самом деле не важно, кто это сделал. Но не думаешь, что нам стоит быть чуть более осторожными?
+То есть, на самом деле не важно, кто это сделал. Но, не думаешь, что нам стоит быть чуть более осторожными?
 
 少年「何を？」%K%P
 Careful of what?
@@ -1051,12 +1051,12 @@ CN PLACEHOLDER
 優「ああ……それなら確かに気をつけたほうがいいかも」%K%P
 Oh... In that case, I guess we should be more careful.
 CN PLACEHOLDER
-Ой... в таком случае нам, наверное, правда стоит вести себя более осторожно.
+Ой...в таком случае, наверно нам правда стоит вести себя более осторожно.
 
 優「今のところ売店に充分な食料があると思うけど、荒らされたらたまらないもんね」%K%P
 We've got plenty of food in the kiosk for now, but it would be awful if it was broken into.
 CN PLACEHOLDER
-У нас куча еды в киоске, пока что куча. Но будет фиговенько, если она до неё доберётся.
+У нас куча еды в киоске, пока что куча. Но, будет фиговенько, если она до неё доберётся.
 
 少年「ネズミ獲り、必要かな？」%K%P
 Do you think we should try to catch it?
@@ -1071,7 +1071,7 @@ CN PLACEHOLDER
 優「あっ少年、もしかしてネズミ獲りの作り方、知ってるの？」%K%P
 Hey, Kid, you don't happen to know how to make a rat trap, do you?
 CN PLACEHOLDER
-Слушай, Малой, а ты случайно не знаешь, как сделать крысоловку?
+Слушай, Кид, а ты случайно не знаешь, как сделать крысоловку?
 
 少年「……さぁね」%K%P
 Who knows...?
@@ -1086,7 +1086,7 @@ CN PLACEHOLDER
 少年は笑いながら、大げさに肩をすくめた。%K%P
 The Kid laughed and shrugged his shoulders exaggeratedly.
 CN PLACEHOLDER
-Малой засмеялся, преувеличительно пожав плечами.
+Кид засмеялся, преувеличительно пожав плечами.
 
 武「ＯＫ、どこに行くんだ？」%K%P
 Okay. Where are you going?
@@ -1101,7 +1101,7 @@ CN PLACEHOLDER
 空「カルセル・デルフィーネに。私、あそこが好きなんです」%K%P
 To the Dolphin Carousel. I like that place.
 CN PLACEHOLDER
-К Дельфиньей карусели. Мне нравится то место.
+К Дельфиньей Карусели. Мне нравится то место.
 
 武「わかった。じゃ、行こうか」%K%P
 Alright. Let's go.
@@ -1111,7 +1111,7 @@ CN PLACEHOLDER
 救護室を出る時、優と少年がなんだか不思議そうな顔をして俺を見ていた。%K%P
 As we left the infirmary, You and the Kid were looking at me with curious expressions on their faces.
 CN PLACEHOLDER
-Выходя из лазарета, я заметил, что Ю и Малой как-то странно на меня смотрят.
+Выходя из лазарета, я заметил, что Ю и Кид как-то странно на меня смотрят.
 
 武「なんだあいつら、キツネにつままれたみたいな顔しやがって」%K%P
 What's up with them, looking like they were just bit on the butt by something?
@@ -1121,7 +1121,7 @@ CN PLACEHOLDER
 空「ふふっ……」%K%P
 Heehee...
 CN PLACEHOLDER
-Хи-хи...
+Хии〜хии...
 
 空はおかしそうに笑いを堪えた。%K%P
 Sora answered me with an amused laugh.
@@ -1151,15 +1151,15 @@ CN PLACEHOLDER
 武「へ？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 武「……あ、ああ。そういうことね……」%K%P
 ...A-Ah. Now I get it...
 CN PLACEHOLDER
-А, теперь до меня дошло...
+...Ох, теперь до меня дошло...
 
 空の姿は、優と少年には見えなかったらしい。%K%P
 Apparently, You and the Kid couldn't see Sora.
 CN PLACEHOLDER
-Очевидно, что Ю и Малой не видели и, уж тем более, не слышали Сору.
+Очевидно, что Ю и Кид не видели и, уж тем более, не слышали Сору.
 

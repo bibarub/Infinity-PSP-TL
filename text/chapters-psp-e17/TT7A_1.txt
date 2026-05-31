@@ -41,7 +41,7 @@ CN PLACEHOLDER
 だが、不安は感じない。%K%P
 But for some reason, I was at peace.
 CN PLACEHOLDER
-Но почему-то я спокоен.
+Но, почему-то я спокоен.
 
 浮かんでいる。%K%P
 I was floating.
@@ -71,7 +71,7 @@ CN PLACEHOLDER
 人生で、最初に記憶したその音は――%K%P
 The first sound I had heard in my life—
 CN PLACEHOLDER
-Первый звук, что я слышал в своей жизни –
+Первый звук, что я слышал в своей жизни —
 
 そう、鼓動の音だ。%K%P
 Yes, it was the sound of a heart beating.
@@ -116,7 +116,7 @@ CN PLACEHOLDER
 けれど、悲しくはない。%K%P
 But I wasn't sad.
 CN PLACEHOLDER
-Но я не печалюсь.
+Но, я не печалюсь.
 
 その時が、来たならば……%K%P
 If that time must come...
@@ -151,7 +151,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ベッドに横たえられていた。%K%P
 I was lying down in bed.
@@ -191,12 +191,12 @@ CN PLACEHOLDER
 俺のポケットから、つぐみはＰＤＡを取り出す。%K%P
 Tsugumi took the PDA out of my pocket.
 CN PLACEHOLDER
-Цугуми вытащила КПК у меня из кармана.
+Цугуми вытащила наладонник у меня из кармана.
 
 つぐみ「電池が切れてるわ」%K%P
 The batteries are dead.
 CN PLACEHOLDER
-Батарейки... сели.
+Батарейки...сели.
 
 ボタンを押したが、画面には何も映らなかった。%K%P
 She pressed the buttons, but nothing appeared on the screen.
@@ -211,7 +211,7 @@ CN PLACEHOLDER
 つぐみ「端末の時計、見て確かめてこようか？」%K%P
 You want me to go check the clock on the terminal?
 CN PLACEHOLDER
-Могу взглянуть... на терминале, если хочешь.
+Могу взглянуть...на терминале, если хочешь.
 
 武「いや、いいよ。そのままそこにいてくれ」%K%P
 Nah, that's okay. Just stay here with me.
@@ -221,7 +221,7 @@ CN PLACEHOLDER
 つぐみ「うん……」%K%P
 Okay...
 CN PLACEHOLDER
-Угу...
+У〜гу...
 
 つぐみの目は、涙に腫れていた。%K%P
 There were tears in Tsugumi's eyes.
@@ -261,7 +261,7 @@ CN PLACEHOLDER
 武「でもまぁ、最悪って程じゃないかな？」%K%P
 But it could be worse, I guess.
 CN PLACEHOLDER
-Но, наверное, могло быть и хуже.
+Но, наверно, могло быть и хуже.
 
 つぐみ「そう……」%K%P
 Okay...
@@ -286,17 +286,17 @@ CN PLACEHOLDER
 武「傷……？」%K%P
 Cut...?
 CN PLACEHOLDER
-Порез?..
+Порез...?
 
 つぐみ「いきなり倒れるから……抱き止めたつもりだったんだけど……」%K%P
 You fell over, and... I tried to stop you from falling, but...
 CN PLACEHOLDER
-Ты свалился и... я пыталась поймать тебя, но...
+Ты свалился и...я пыталась поймать тебя, но...
 
 つぐみ「間に合わなくって……。額が割れてるわ、武」%K%P
 I didn't get there in time. You split your forehead, Takeshi.
 CN PLACEHOLDER
-Я не успела. Ты раскроил себе лоб, Такэси.
+Я не успела. Ты раскроил себе лоб, Такеши.
 
 つぐみは小さく、艶やかな唇を開いて呟く。%K%P
 Tsugumi opened her glossy lips slightly and murmured.
@@ -311,7 +311,7 @@ CN PLACEHOLDER
 武「額？　……割れた？」%K%P
 Forehead...? Split?
 CN PLACEHOLDER
-Лоб?... Раскроил?
+Лоб?...Раскроил?
 
 つぐみ「ねぇ……」%K%P
 Hey...
@@ -356,12 +356,12 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 俺はそっと自分の額を、手でなぞってみる。%K%P
 I touched my forehead lightly.
@@ -411,7 +411,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「誰のせいでもありゃしないんだから」%K%P
 It isn't anyone's fault.
@@ -421,7 +421,7 @@ CN PLACEHOLDER
 武「だから、気にすんな」%K%P
 So don't worry about it.
 CN PLACEHOLDER
-Так что не думай об этом.
+Так что, не думай об этом.
 
 ぽむぽむ、とつぐみの頭に手を乗せた。%K%P
 I patted Tsugumi on the head.
@@ -476,7 +476,7 @@ CN PLACEHOLDER
 つぐみ「来そうにないわ」%K%P
 Doesn't look like it's coming.
 CN PLACEHOLDER
-Наверное, сломался на полпути.
+Наверно, сломался на полпути.
 
 武「タクシーは？」%K%P
 How about a taxi?
@@ -526,7 +526,7 @@ CN PLACEHOLDER
 武「じゃ、タクシーが来るまで、のんびりしよう」%K%P
 I guess that leaves us some time to relax until the taxi gets here.
 CN PLACEHOLDER
-Наверное, пока мы ждём такси, у нас есть ещё достаточно времени, чтобы немного расслабиться.
+Наверно, пока мы ждём такси, у нас есть ещё достаточно времени, чтобы немного расслабиться.
 
 武「じたばたしたって、始まらないからな」%K%P
 Won't do us a bit of good getting worked up about it.
@@ -536,7 +536,7 @@ CN PLACEHOLDER
 つぐみ「……うん」%K%P
 ...Yeah.
 CN PLACEHOLDER
-Угу.
+У〜гу.
 
 もっとも、じたばたしたくても……%K%P
 Even if I had wanted to...
@@ -561,17 +561,17 @@ CN PLACEHOLDER
 頭はうまく働かない。%K%P
 I couldn't think straight.
 CN PLACEHOLDER
-Я не мог ясно мыслить.
+Духовно и физически.
 
 気力も体力も、とうに限界を超えているはずだった。%K%P
 I had gone beyond the limits of my strength and spirit.
 CN PLACEHOLDER
-Я уже давно должнен был выйти за пределы своих физических и умственных сил.
+В голове словно медведь потоптался.
 
 武「……ん？」%K%P
 ...Huh?
 CN PLACEHOLDER
-...А?
+...Эээ?
 
 ふと気づいて、俺はつぐみに顔を寄せた。%K%P
 I noticed something and brought my face closer to Tsugumi.
@@ -581,12 +581,12 @@ CN PLACEHOLDER
 つぐみ「な、何？　武……」%K%P
 Wh-What? Takeshi...
 CN PLACEHOLDER
-Ч-что? Такэси...
+Ч-что? Такеши...
 
 武「俺……」%K%P
 Takeshi...
 CN PLACEHOLDER
-Такэси...
+Такеши...
 
 武「俺さぁ……」%K%P
 I...
@@ -601,7 +601,7 @@ CN PLACEHOLDER
 つぐみ「な、な、な、何よ……？」%K%P
 Wh-Wh-Wh-What...?
 CN PLACEHOLDER
-Ч-ч-ч-что?..
+Ч-ч-ч-что...?
 
 泣き腫らした彼女の頬に、少しずつ赤味が差す。%K%P
 Her cheeks, which had been puffed up from crying, started to turn slightly red.
@@ -626,17 +626,17 @@ CN PLACEHOLDER
 つぐみ「そ……そう……」%K%P
 R-Really...
 CN PLACEHOLDER
-П... правда?..
+П...правда...?
 
 武「それでさぁ……なぁ、つぐみ」%K%P
 And guess what... Tsugumi.
 CN PLACEHOLDER
-И, знаешь что... Цугуми?
+И, знаешь что...Цугуми?
 
 つぐみ「うん……何よ？」%K%P
 Huh... What?
 CN PLACEHOLDER
-Э-э... что?
+Эээ...что?
 
 つぐみの顔は、ほのかに火照っている。%K%P
 Tsugumi's face became redder and redder.
@@ -651,7 +651,7 @@ CN PLACEHOLDER
 つぐみ「……は？」%K%P
 ...Huh?
 CN PLACEHOLDER
-А-а-а?
+Ааа?
 
 困ったように、怒ったように、彼女は眉を曲げた……。%K%P
 Her eyebrows arched, as if she was annoyed...
@@ -696,7 +696,7 @@ CN PLACEHOLDER
 つぐみ「それだけはダメ！　絶対ダメ！！」%K%P
 You can't! I won't let you!
 CN PLACEHOLDER
-Ну уж нет! Я не позволю!
+Ну уж нет! Я не позволю!!
 
 武「そんなことしねーよ、バカ……」%K%P
 As if I would, stupid...
@@ -706,7 +706,7 @@ CN PLACEHOLDER
 つぐみ「バカって言わないでよ、バカ……」%K%P
 Don't call me stupid, stupid...
 CN PLACEHOLDER
-Я не глупая... глупый...
+Я не глупая...глупый...
 
 彼女は表情を戻す。%K%P
 Her expression returned to normal.
@@ -736,7 +736,7 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 俺はそれをずっと見ていた。%K%P
 I watched the whole time.
@@ -746,7 +746,7 @@ CN PLACEHOLDER
 つぐみ「あ……武……」%K%P
 Ah... Takeshi...
 CN PLACEHOLDER
-А-а... Такэси?..
+Аа...Такеши...?
 
 ボタンを閉じながら、彼女は言う。%K%P
 Tsugumi spoke to me as she redid her buttons.
@@ -766,7 +766,7 @@ CN PLACEHOLDER
 つぐみ「何、って……その……」%K%P
 What do you mean 'what?'... When I was...
 CN PLACEHOLDER
-Ну... когда я...
+Ну...когда я...
 
 つぐみ「見たいの？」%K%P
 Did you want to see more?
@@ -781,22 +781,22 @@ CN PLACEHOLDER
 つぐみ「……いいよ、もう……バカ」%K%P
 ...Forget it, you... jerk.
 CN PLACEHOLDER
-Ничего... балбес.
+Ничего......балбес.
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ごごごん……。%K%P
 Ga-ga-ga-gong...
 CN PLACEHOLDER
-Ба-бух...
+Ба-бух....
 
 フロアに低い振動音が伝わる。%K%P
 A low vibrating sound shot across the room.
@@ -816,7 +816,7 @@ CN PLACEHOLDER
 天井を一度見上げて、すぐに彼女は視線を戻した。%K%P
 She looked up for a second, then quickly returned her gaze.
 CN PLACEHOLDER
-На мгновение она посмотрела наверх, а затем быстро вернула взгляд ко мне.
+На мгновение, она посмотрела наверх, а затем быстро вернула взгляд ко мне.
 
 つぐみ「安心して？」%K%P
 Don't worry, alright?
@@ -826,12 +826,12 @@ CN PLACEHOLDER
 つぐみ「まだ、大丈夫だと……思う」%K%P
 We're okay for now... I think.
 CN PLACEHOLDER
-Думаю... пока бояться нечего.
+Думаю...пока бояться нечего.
 
 つぐみ「ううん、きっと大丈夫よ」%K%P
 Yeah, we'll be fine, I know it.
 CN PLACEHOLDER
-Угу, всё будет хорошо.
+У〜гу, всё будет хорошо.
 
 つぐみ「根拠は何もないけどね」%K%P
 I don't have any proof, but...
@@ -841,22 +841,22 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「ふふっ、なんだかまるで、武みたいなこと言ってる」%K%P
 Haha, I'm even starting to talk like you now.
 CN PLACEHOLDER
-Ха-ха, я говорю совсем как ты, Такэси.
+Ха〜ха, я говорю совсем как ты, Такеши.
 
 つぐみ「どうかしてるわね、私……」%K%P
 There must be something wrong with me...
 CN PLACEHOLDER
-С чего это я?..
+С чего это я...?
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「ああっ！！」%K%P
 Aaah!
@@ -876,7 +876,7 @@ CN PLACEHOLDER
 つぐみ「な、何、いきなり！？」%K%P
 Wh-What is it!?
 CN PLACEHOLDER
-Ч-что на тебя нашло?!
+Ч-Что на тебя нашло!?
 
 武「わかったぞ、つぐみ！」%K%P
 I know, Tsugumi!
@@ -886,7 +886,7 @@ CN PLACEHOLDER
 つぐみ「な、何が？」%K%P
 Wh-What?
 CN PLACEHOLDER
-Ч-что?
+Ч-Что?
 
 武「こりゃあ、大変だ！」%K%P
 This is incredible!
@@ -896,7 +896,7 @@ CN PLACEHOLDER
 つぐみ「だ、だから、なんなのよ……？」%K%P
 Wh-What are you talking about...?
 CN PLACEHOLDER
-Т-Так о чём ты?!
+Т-Так о чём ты...!?
 
 戸惑って頬を染めながら、つぐみは軽くうろたえた。%K%P
 Flustered, Tsugumi's cheeks changed color in her confusion.
@@ -936,22 +936,22 @@ CN PLACEHOLDER
 武「つまり、それは――」%K%P
 It is...
 CN PLACEHOLDER
-Это –
+Это —
 
 武「つぐみだ！！」%K%P
 You!
 CN PLACEHOLDER
-Ты!
+Ты!!
 
 つぐみ「……え？」%K%P
 ...Huh?
 CN PLACEHOLDER
-...А?
+...Эээ?
 
 つぐみ「えっ？　ええっ！？」%K%P
 Huh? What!?
 CN PLACEHOLDER
-Э-э? Чего?!
+Эээ? Эээ!?
 
 武「つぐみが、いい匂いなんだ……」%K%P
 You're what smells so great...
@@ -976,22 +976,22 @@ CN PLACEHOLDER
 つぐみ「ち、ちょっと……何するの？」%K%P
 Wh-What are you doing...?
 CN PLACEHOLDER
-П-Постой... ты что делаешь?..
+П-Постой...ты что делаешь...?
 
 つぐみ「や、やだ……放して、放してよ……」%K%P
 S-Stop it... Let go of me. Let me go...
 CN PLACEHOLDER
-Н-нет... пусти. Пусти меня!..
+Н-Нет...пусти. Пусти меня...!
 
 つぐみ「痛っ……」%K%P
 OW...
 CN PLACEHOLDER
-АЙ!
+АЙ!!
 
 つぐみ「ば、バカ！　やめなさい！！」%K%P
 You idiot! Cut it out!
 CN PLACEHOLDER
-Б-Балбес! Перестань!
+Б-Балбес! Перестань!!
 
 パシン！%K%P
 SMACK!
@@ -1006,7 +1006,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「そんな、平手でぶたなくても」%K%P
 Hey, did you really have to smack me?
@@ -1026,12 +1026,12 @@ CN PLACEHOLDER
 つぐみ「だったら怪我人らしく……おとなしくしなさいよ……」%K%P
 Well, act like one... and lie there quietly...
 CN PLACEHOLDER
-Так веди себя соответствующе... и лежи смирно...
+Так веди себя соответствующе...и лежи смирно...
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「バカ」%K%P
 Jerk.
@@ -1041,7 +1041,7 @@ CN PLACEHOLDER
 つぐみ「いきなり、人の指かじるなんて……」%K%P
 What were you thinking, biting on my finger like that...?
 CN PLACEHOLDER
-Да что тебе в голову взбрело?.. Куснул меня за палец...
+Да что тебе в голову взбрело...? Куснул меня за палец...
 
 指先には、歯型がくっきり残っていた。%K%P
 My teeth had left an imprint on her finger.
@@ -1076,7 +1076,7 @@ CN PLACEHOLDER
 武「はははっ……」%K%P
 Hahaha...
 CN PLACEHOLDER
-Ха-ха-ха...
+Ха〜ха〜ха...
 
 俺はあえて笑ってみた。%K%P
 I laughed at the situation.
@@ -1121,7 +1121,7 @@ CN PLACEHOLDER
 つぐみ「うん……」%K%P
 Yeah...
 CN PLACEHOLDER
-Угу...
+У〜гу...
 
 つぐみ「バカみたい……」%K%P
 So stupid...
@@ -1151,7 +1151,7 @@ CN PLACEHOLDER
 つぐみ「うん……バカね……」%K%P
 Yeah... you are an idiot...
 CN PLACEHOLDER
-Угу... глупый...
+У〜гу...глупый...
 
 つぐみは笑った。%K%P
 Tsugumi laughed.
@@ -1161,22 +1161,22 @@ CN PLACEHOLDER
 つぐみ「本当に大バカね……」%K%P
 You are the world's biggest idiot...
 CN PLACEHOLDER
-Правда... чудик ты, чудик...
+Правда...чудик ты, чудик...
 
 つぐみ「信じられないくらい、バカなのね……」%K%P
 I can't believe how stupid you are...
 CN PLACEHOLDER
-И как ты только можешь... быть таким глупым...
+И как ты только можешь...быть таким глупым...
 
 つぐみ「いつも、いつも……」%K%P
 And it never stops...
 CN PLACEHOLDER
-Всегда... всегда!..
+Всегда...всегда...!
 
 つぐみ「どうして、あんなバカなこと……」%K%P
 How did you ever get to be so dumb...
 CN PLACEHOLDER
-Как... ты можешь быть таким глупым?..
+Как...ты можешь быть таким глупым...?
 
 微笑みながらも……%K%P
 She was smiling...
@@ -1186,7 +1186,7 @@ CN PLACEHOLDER
 涙は止まらなかった。%K%P
 But her tears wouldn't stop falling.
 CN PLACEHOLDER
-Но её слёзы не перестают капать, словно слепой дождик в лучах солнца.
+Но, её слёзы не перестают капать, словно слепой дождик в лучах солнца.
 
 武「大した理由なんてない」%K%P
 No reason, I guess.
@@ -1211,7 +1211,7 @@ CN PLACEHOLDER
 つぐみ「たった、それだけのことで……？」%K%P
 That's it...?
 CN PLACEHOLDER
-Ты... правда так считаешь?..
+Ты...правда так считаешь...?
 
 とめどなく、涙は溢れる。%K%P
 The tears continued to fall.
@@ -1226,7 +1226,7 @@ CN PLACEHOLDER
 武「確かに、ちょっとナメてかかってたところがあったよな」%K%P
 I think there were some things that I was taking too lightly.
 CN PLACEHOLDER
-Наверное, к кое-чему я относился слишком легкомысленно.
+Наверно, к кое-чему я относился слишком легкомысленно.
 
 武「死にたくても生かされてるやつがいる」%K%P
 There are people who go on living even when they want to die.
@@ -1246,7 +1246,7 @@ CN PLACEHOLDER
 武「世の中、甘く見てた」%K%P
 I guess I was pretty naïve about the way the world works...
 CN PLACEHOLDER
-Наверное, я был чересчур наивным, лицезрел его через розовые очки...
+Наверно, я был черезчур наивным, лицезрел его через розовые очки...
 
 武「このＬｅＭＵに来るまで、な」%K%P
 Until coming to LeMU, that is.
@@ -1256,12 +1256,12 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「だけど、お前に会って……」%K%P
 But then I met you...
 CN PLACEHOLDER
-Но затем я встретил тебя...
+Но, затем я встретил тебя...
 
 武「その認識は変わったよ」%K%P
 And the way that I thought about things changed.
@@ -1276,7 +1276,7 @@ CN PLACEHOLDER
 つぐみ「うん……」%K%P
 Yeah...
 CN PLACEHOLDER
-Угу...
+У〜гу...
 
 頷く。%K%P
 She nodded.
@@ -1311,7 +1311,7 @@ CN PLACEHOLDER
 武「いや……生きていることそのものが、いいことなんだから」%K%P
 Wait... Not just that, that being alive is a good thing in itself.
 CN PLACEHOLDER
-Стоп... не только в том смысле, что жизнь сама по себе хороша.
+Стоп...не только в том смысле, что жизнь сама по себе хороша.
 
 武「その考えは、俺の中で変わってない」%K%P
 In that way, my thinking still hasn't changed.
@@ -1321,7 +1321,7 @@ CN PLACEHOLDER
 つぐみ「……うん……」%K%P
 ...Yeah...
 CN PLACEHOLDER
-Угу...
+У〜гу...
 
 頷く。%K%P
 She nodded.
@@ -1346,7 +1346,7 @@ CN PLACEHOLDER
 そこに何があるかは知らない。%K%P
 I didn't know if there was “something above”.
 CN PLACEHOLDER
-Я не знаю, есть ли «что-то над нами».
+Я не знаю, есть ли 'что-то над нами'.
 
 知る必要があるのだろうか。%K%P
 Didn't know if it really mattered.
@@ -1356,7 +1356,7 @@ CN PLACEHOLDER
 そこにあるものを、ただ受け入れればいいのではないだろうか。%K%P
 Maybe all I had to do was accept what was there.
 CN PLACEHOLDER
-Наверное мне просто стоит смириться с этим.
+Наверно мне просто стоит смириться с этим.
 
 武「生き続ける理由ってのは、つまり……」%K%P
 The reason we keep living, in other words...
@@ -1376,7 +1376,7 @@ CN PLACEHOLDER
 武「その『現実』を――」%K%P
 Until you can stare...
 CN PLACEHOLDER
-Пока ты можешь смотреть –
+Пока ты можешь смотреть —
 
 武「きちんと見極められるときが来るまで、待てってことだよ」%K%P
 ...Really STARE reality in the face, I think you should wait.
@@ -1411,12 +1411,12 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「うんっ……」%K%P
 Yeah...
 CN PLACEHOLDER
-Угу...
+У〜гу...
 
 彼女は……%K%P
 She...
@@ -1456,17 +1456,17 @@ CN PLACEHOLDER
 武「お前……指から、血が出てるぞ」%K%P
 Hey... you're bleeding from your finger.
 CN PLACEHOLDER
-Цугуми... у тебя палец кровоточит.
+Цугуми...у тебя палец кровоточит.
 
 つぐみ「さっきあなたが……噛んだからでしょ？」%K%P
 Well, you... bit me earlier, right?
 CN PLACEHOLDER
-Потому что ты... меня укусил.
+Потому что ты...меня укусил.
 
 武「そうだっけ……？」%K%P
 Is that so...?
 CN PLACEHOLDER
-Да ну?..
+Да ну...?
 
 つぐみ「そうよ」%K%P
 Yes, that is SO.
@@ -1481,7 +1481,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみの顔は、俺の鼻に擦れるくらい、近づいていた。%K%P
 Tsugumi's face was close enough that we were almost touching noses.
@@ -1501,7 +1501,7 @@ CN PLACEHOLDER
 武「あっ……！」%K%P
 Ah...!
 CN PLACEHOLDER
-А-а-а!..
+Ааа...!
 
 つぐみ「今度は……なぁに？」%K%P
 Now, what is it?
@@ -1526,17 +1526,17 @@ CN PLACEHOLDER
 つぐみ「……ねぇ、ほんとに出てるの？　血……」%K%P
 ...Are you being serious? Blood...
 CN PLACEHOLDER
-Эй... ты серьёзно?.. Кровь?..
+Эй...ты серьёзно...? Кровь...?
 
 武「ああ」%K%P
 Yeah.
 CN PLACEHOLDER
-Угу.
+У〜гу.
 
 つぐみ「嘘……？」%K%P
 You're lying...?
 CN PLACEHOLDER
-Шутишь?..
+Шутишь...?
 
 武「えーと……」%K%P
 Um...
@@ -1546,32 +1546,32 @@ CN PLACEHOLDER
 つぐみ「うん……出てるかも」%K%P
 Um... maybe you're right.
 CN PLACEHOLDER
-Угу... наверное, ты прав.
+У〜гу...наверно ты прав.
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「さっき……建物が揺れて、ぶつけたから」%K%P
 It was probably from when the building shook earlier.
 CN PLACEHOLDER
-Должно быть... я прикусила её, когда сооружение тряхнуло.
+Должно быть...я прикусила её, когда сооружение тряхнуло.
 
 武「痛そうだなぁ」%K%P
 Looks painful.
 CN PLACEHOLDER
-Наверное это больно.
+Наверно это больно.
 
 つぐみ「うん……痛かったら、武のせいだからね？」%K%P
 Well... if it hurts, it's your fault, Takeshi.
 CN PLACEHOLDER
-Угу... если это больно, значит, это ты виноват, Такэси...
+У〜гу...если это больно, значит это ты виноват, Такеши...
 
 武「そうか……？」%K%P
 You think so...?
 CN PLACEHOLDER
-Да ну?..
+Да ну...?
 
 つぐみ「そうよ……」%K%P
 Yeah...
@@ -1581,12 +1581,12 @@ CN PLACEHOLDER
 武「……そうかもな」%K%P
 ...Maybe you're right.
 CN PLACEHOLDER
-Угу... наверное, ты права.
+У〜гу...наверно ты права.
 
 つぐみ「責任、取ってくれる？」%K%P
 How are you going to make up for it?
 CN PLACEHOLDER
-И как ты загладишь... свою вину?
+И как ты загладишь...свою вину?
 
 唇を、強く重ねた。%K%P
 She pressed her lips tightly on mine.
@@ -1691,12 +1691,12 @@ CN PLACEHOLDER
 つぐみ「武……」%K%P
 Takeshi...
 CN PLACEHOLDER
-Такэси...
+Такеши...
 
 つぐみ「武、起きてよ」%K%P
 Takeshi, get up.
 CN PLACEHOLDER
-Такэси, проснись.
+Такеши, проснись.
 
 つぐみ「タクシーが着いたわ」%K%P
 The taxi's here.
@@ -1706,7 +1706,7 @@ CN PLACEHOLDER
 武「あ、ああ……」%K%P
 O-Okay...
 CN PLACEHOLDER
-Ах, да...
+Ах, да...!
 
 ベッドから跳ねるようにして、俺は起き上がった。%K%P
 I jumped out of the bed and stood up.
@@ -1731,27 +1731,27 @@ CN PLACEHOLDER
 思考も順調に、明晰になっていく。%K%P
 My mind was firing and my head felt clear.
 CN PLACEHOLDER
-Мысли текли гладко, становясь всё более ясными.
+Мой разум работает на полную катушку, а в голове ясно, как весенним солнечным днём.
 
 つぐみ「チャミ、チャミ……おいで」%K%P
 Chami. Chami... come here.
 CN PLACEHOLDER
-Чами! Чами... иди сюда.
+Чами! Чами...иди сюда.
 
 つぐみ「ほら、そろそろ行くよ？」%K%P
 Come on, we've got to get going now.
 CN PLACEHOLDER
-Давай, нам пора идти.
+Давай, побыстрей.
 
 つぐみは床で遊んでいたチャミを拾い上げ、また胸元にしまってから、服のボタンを整える。%K%P
 Tsugumi scooped up Chami, who'd been running around on the floor, and held him to her chest.
 CN PLACEHOLDER
-Цугуми поймала Чами, что бегал по полу, и прижала его к своей груди.
+Цугуми поймала Чами, что бегал по полу и прижала его к своей груди.
 
 つぐみ「あれっ……？」%K%P
 Huh...?
 CN PLACEHOLDER
-Что?..
+Что...?!
 
 かがんだまま、つぐみは声をあげた。%K%P
 Bending over, Tsugumi let out a cry of alarm.
@@ -1766,7 +1766,7 @@ CN PLACEHOLDER
 つぐみ「武……ベッドの、下」%K%P
 Takeshi... Under the bed.
 CN PLACEHOLDER
-Такэси... под... кроватью...
+Такеши......под...кроватью...
 
 武「ベッドの、下？　俺の？」%K%P
 Under the bed? Mine?
@@ -1781,7 +1781,7 @@ CN PLACEHOLDER
 俺は今しがたまで寝ていたベッドの下を覗き込んだ。%K%P
 I looked under the bed I had been sleeping on.
 CN PLACEHOLDER
-Я заглянул под кровать, на которой спал.
+Я заглянул под кровать, на которой я спал.
 
 何か落ちてる……。%K%P
 Something was lying there...
@@ -1796,7 +1796,7 @@ CN PLACEHOLDER
 武「あれ？？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ??
 
 つぐみ「ピピ……」%K%P
 Pipi...
@@ -1816,7 +1816,7 @@ CN PLACEHOLDER
 ピピ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ピピは返事をしない。%K%P
 Pipi didn't respond.
@@ -1836,7 +1836,7 @@ CN PLACEHOLDER
 死んでしまったように……動かない。%K%P
 Pipi was frozen... as if he was dead.
 CN PLACEHOLDER
-Пипи застыл... словно мёртвый.
+Пипи застыл...словно мёртвый.
 
 口には何かを、しっかりとくわえ込んだままだった。%K%P
 There was something stuck fast in his mouth.
@@ -1851,7 +1851,7 @@ CN PLACEHOLDER
 円盤……ポリカーボネイト製のテラバイトディスクだ。%K%P
 It was a disc... a terabyte disc made of polycarbonate.
 CN PLACEHOLDER
-Это диск... поликарбонатовый терабайтовый диск.
+Это диск...пластиковый терабайтовый диск.
 
 俺はピピの持っていたそのディスクを、自分のポケットにねじ込んだ。%K%P
 I put the disc Pipi had been carrying in my pocket.
@@ -1861,27 +1861,27 @@ CN PLACEHOLDER
 ドオオォォォン！！%K%P
 BOOOooom!
 CN PLACEHOLDER
-– Бу-у-у-ум!!!
+— Буууууууммм!!!
 
 激しく突き飛ばされたかと思うほどに、唐突に部屋全体が振動する。%K%P
 With a roaring sound, the whole room suddenly shook violently, and my body vibrated.
 CN PLACEHOLDER
-Всё сооружение с гулким звуком неистово тряхнуло.
+С гулким звуком, всё сооружение неистово тряхнуло.
 
 アナウンス「Ｆüｎｆ⑳Ｍｉｎｕｔｅｎ⑳
 <Fünf Minuten 
 CN PLACEHOLDER
-Fünf Minuten 
+Пять минут
 
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
 vor der Implosion.>”
 CN PLACEHOLDER
-vor der Implosion.»%N(Пять минут до затопления.)
+до затопления.»
 
 武「おい、なんだ今のアナウンス」%K%P
 Hey, WHAT did that announcement just say!?
 CN PLACEHOLDER
-Эй, ЧТО сказал этот механический голос?!
+Эй, ЧТО сказал этот механический голос!?
 
 ピピを小脇に抱え持って、俺は天井を見上げる。%K%P
 Holding Pipi under my arm, I looked up at the ceiling.
@@ -1891,32 +1891,32 @@ CN PLACEHOLDER
 つぐみもすぐに立ち上がった。%K%P
 Tsugumi quickly got up.
 CN PLACEHOLDER
-Цугуми тут же поднялась.
+Цугуми быстро встала.
 
 つぐみ「圧潰……５分前」%K%P
 We've got five minutes... until this place implodes.
 CN PLACEHOLDER
-Осталось... пять минут.
+Осталось...пять минут.
 
 武「５分前だと！？」%K%P
 FIVE MINUTES!?
 CN PLACEHOLDER
-ПЯТЬ МИНУТ?!
+ПЯТЬ МИНУТ!?
 
 武「マジかよ……！！」%K%P
 Give me a break!
 CN PLACEHOLDER
-Да ну нафиг!
+Твою мать!
 
 武「なんで５分前になってから言うかなぁ！」%K%P
 Why do they gotta tell us when there's only FIVE minutes left!?
 CN PLACEHOLDER
-Почему ты сообщаешь об этом всего за пять минут?!
+Почему эта гнида разинула рот только когда осталось лишь ПЯТЬ минут?!
 
 武「もっと早く教えろよなぁ……ったく！」%K%P
 Give us some more warning... for cryin' out loud!
 CN PLACEHOLDER
-Как будто раньше нельзя было сказать... чёрт!
+Как будто раньше нельзя было сказать...чёрт побери!
 
 ぶつぶつと俺は文句を垂れた。%K%P
 I started mumbling complaints to myself.
@@ -1931,7 +1931,7 @@ CN PLACEHOLDER
 つぐみ「はぁー……」%K%P
 *Sigh*...
 CN PLACEHOLDER
-*вздох*
+*вздох*...
 
 つぐみは大きな溜め息をつく。%K%P
 Tsugumi let out a big sigh.
@@ -1951,32 +1951,32 @@ CN PLACEHOLDER
 でも、なんだか……笑ってしまっていた。%K%P
 But for some reason... she seemed to be smiling.
 CN PLACEHOLDER
-Но почему-то... мне кажется, что она улыбается.
+Но, почему-то...мне кажется, что она улыбается.
 
 つぐみ「素直に現実を受け入れなさいよ。寛容な私を見習って、ね？」%K%P
 You've just got to accept reality. You could learn something from me, you know?
 CN PLACEHOLDER
-Надо смотреть правде в глаза. Мог бы и у меня кое-чему поучиться, знаешь ли.
+Надо смотреть правде в глаза. Мог бы и у меня кое-чему поучиться, правда?
 
 武「はははっ、よく言った、つぐみ」%K%P
 Hahaha, listen to yourself, Tsugumi.
 CN PLACEHOLDER
-Ха-ха-ха, Цугуми, если бы ты только себя слышала.
+Ха〜ха〜ха, Цугуми, если бы ты только себя слышала.
 
 武「この状況で冗談言える余裕が出てきたじゃないか。俺流に、な？」%K%P
 Telling jokes at a time like this is more MY style, don't you think?
 CN PLACEHOLDER
-Шутить в такую минуту... это порядком смахивает на МЕНЯ.
+Шутить в такую минуту...это порядком смахивает на МЕНЯ, не так ли?
 
 つぐみ「ふふっ、まぁね……」%K%P
 Haha. Well, I guess you're right...
 CN PLACEHOLDER
-Ха-ха. Ну, пожалуй, ты прав...
+Ха〜ха. Ну, пожалуй ты прав...
 
 つぐみ「でも、５分もあれば『大丈夫』でしょ？」%K%P
 But we should be 'fine' if we've got five minutes, right?
 CN PLACEHOLDER
-Но у нас целых пять минут, так что всё в порядке.
+Но, у нас целых пять минут, так что всё в порядке.
 
 微笑みを浮かべ、彼女は俺に手を差し出す。%K%P
 A smile floated to her lips, and Tsugumi held out a hand to me.
@@ -1996,12 +1996,12 @@ CN PLACEHOLDER
 アナウンス「Ｖｉｅｒ⑳Ｍｉｎｕｔｅｎ⑳
 <Vier Minuten 
 CN PLACEHOLDER
-Vier Minuten 
+Четыре минуты
 
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
 vor der Implosion.>”
 CN PLACEHOLDER
-vor der Implosion.»%N(Четыре минуты до затопления.)
+до затопления.»
 
 ＩＢＦ全体を揺るがす地響きは止まない。%K%P
 The shaking and rumbling of IBF continued.
@@ -2051,7 +2051,7 @@ CN PLACEHOLDER
 その、こぼれそうなプールの水面の上で――%K%P
 And on top of the pool, which looked like it was threatening to overflow at any moment—
 CN PLACEHOLDER
-И посреди бассейна, что, кажется, перельётся через край в любую секунду...
+И, посреди бассейна, что, кажется, перельётся через край в любую секунду —
 
 小型潜水艇は、ちゃんと待機していた。%K%P
 Our minisub was waiting for us.
@@ -2076,7 +2076,7 @@ CN PLACEHOLDER
 つぐみは澄ました顔で言ってのける。%K%P
 Tsugumi looked at me with a smug face and said...
 CN PLACEHOLDER
-Цугуми взглянула на меня невозмутимым лицом и сказала...
+Цугуми взглянула на меня чопорным лицом и сказала...
 
 つぐみ「タクシーなんだから……」%K%P
 It's a TAXI...
@@ -2086,12 +2086,12 @@ CN PLACEHOLDER
 つぐみ「勝手にお客をすっぽかしたりしないのよ」%K%P
 They aren't going to just leave us high-tipping customers here.
 CN PLACEHOLDER
-Ещё бы оно нас взяло и бросило.
+Они не бросают столь значимых для них клиентов, как мы.
 
 武「ああ、そうだな……って、ああっ、いけねぇ！！」%K%P
 Oh yeah, you're right... Oh NO!
 CN PLACEHOLDER
-Да, и правда... Ой, НЕТ!!!
+Да, и правда...Ой, НЕТ!!!
 
 つぐみ「どうしたの？」%K%P
 What's wrong?
@@ -2101,7 +2101,7 @@ CN PLACEHOLDER
 武「俺、小銭を持ってないや！！」%K%P
 I forgot my wallet!
 CN PLACEHOLDER
-Бумажник забыл!
+Бумажник забыл!!
 
 つぐみ「バカねぇ……」%K%P
 You idiot...
@@ -2126,17 +2126,17 @@ CN PLACEHOLDER
 つぐみ「ええ、勿論」%K%P
 Well, of course.
 CN PLACEHOLDER
-Ага... с удовольствием!
+Ага...с удовольствием!
 
 アナウンス「Ｄｒｅｉ⑳Ｍｉｎｕｔｅｎ⑳
 <Drei Minuten 
 CN PLACEHOLDER
-Drei Minuten 
+Три минуты
 
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
 vor der Implosion.>”
 CN PLACEHOLDER
-vor der Implosion.»%N(Три минуты до затопления.)
+до затопления.»
 
 圧潰３分前。%K%P
 Three minutes until implosion.
@@ -2206,7 +2206,7 @@ CN PLACEHOLDER
 最後の吐息を、泡と吐きながら……。%K%P
 Letting out its final breath of bubbles...
 CN PLACEHOLDER
-Издав последний вздох пузырями воздуха...
+Издав последний выдох воздушных пузырьков...
 
 深い青に満ちた海の底に、消えた。%K%P
 It disappeared to the bottom of the deep blue sea.
@@ -2226,7 +2226,7 @@ CN PLACEHOLDER
 つぐみ「これから……どうするの？」%K%P
 What... do we do from here?
 CN PLACEHOLDER
-Что теперь... будем делать?
+Что теперь...будем делать?
 
 穏やかな声で、つぐみは訊いた。%K%P
 Tsugumi asked in a quiet voice.
@@ -2246,7 +2246,7 @@ CN PLACEHOLDER
 武「まぁ、ひとまず……」%K%P
 But first...
 CN PLACEHOLDER
-Но для начала...
+Но, для начала...
 
 武「どこから手をつけるか、考えてるところさ」%K%P
 I'm thinking more about where to start.
@@ -2256,7 +2256,7 @@ CN PLACEHOLDER
 つぐみ「ふぅん……」%K%P
 Hmmm...
 CN PLACEHOLDER
-Хм-м-м...
+Хммм...
 
 武「そういうつぐみは、どうするんだ？」%K%P
 What about you, Tsugumi? What do you want to do?
@@ -2266,7 +2266,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「くだらない質問だったかな？」%K%P
 What, you didn't like the question?
@@ -2281,12 +2281,12 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「私も、ゆっくり考えてみてもいい？」%K%P
 Can I have a minute to think about it?
 CN PLACEHOLDER
-Можно я как следует подумаю?
+Можно я...как следует подумаю?
 
 武「どうぞ」%K%P
 Sure.
@@ -2296,27 +2296,27 @@ CN PLACEHOLDER
 ゴンッ……。%K%P
 Wham...
 CN PLACEHOLDER
-Хлоп!
+Бааааааааоооооооооммммм...
 
 武「……？？」%K%P
 ...?
 CN PLACEHOLDER
-?
+...???
 
 つぐみ「今の音、なぁに？」%K%P
 What was that sound?
 CN PLACEHOLDER
-Что это было?
+Что это...было?
 
 武「さぁ……ね？」%K%P
 I... dunno.
 CN PLACEHOLDER
-Я... не знаю.
+Я...не знаю.
 
 ぷー、ぷー……。%K%P
 Beep, beep...
 CN PLACEHOLDER
-*бип* *бип*
+Биип, Биип.....
 
 操縦コンソールが間抜けな音を奏でた。%K%P
 The operating console made a funny sound.
@@ -2326,7 +2326,7 @@ CN PLACEHOLDER
 つぐみ「何の音……？」%K%P
 What's that noise...?
 CN PLACEHOLDER
-Что это?..
+Что это...?
 
 武「わからん……」%K%P
 No clue...
@@ -2346,17 +2346,17 @@ CN PLACEHOLDER
 つぐみ「なんて書いてあるの……？」%K%P
 What does it say...?
 CN PLACEHOLDER
-Что там сказано?..
+Что там сказано...?
 
 武「そっちのほうが近いんだから、振り向いて自分で見ろよ」%K%P
 You're closer than I am, so why don't you turn around and look at it yourself?
 CN PLACEHOLDER
-Ты ближе, чем я. Развернись и посмотри сама.
+Ты ближе чем я. Развернись и посмотри сама.
 
 つぐみ「い……嫌よ……」%K%P
 N-No...
 CN PLACEHOLDER
-Н-нет...
+Н...нет...
 
 つぐみ「見たくない……」%K%P
 I don't want to see it...
@@ -2366,7 +2366,7 @@ CN PLACEHOLDER
 つぐみ「嫌な感じが……するから」%K%P
 I've got... a really bad feeling about this.
 CN PLACEHOLDER
-У меня... плохое предчувствие...
+У меня...плохое предчувствие...
 
 武「ワガママ言うなよ、お前」%K%P
 Don't be so selfish.
@@ -2381,12 +2381,12 @@ CN PLACEHOLDER
 武「あー、どれどれ……」%K%P
 Ah... Which one, which one...
 CN PLACEHOLDER
-Так... где же, где же...
+Так...где же, где же...
 
 武「えーと……」%K%P
 Uumm...
 CN PLACEHOLDER
-Эм-м...
+Ээмм...
 
 武「『電源バッテリー不足』……」%K%P
 'Low battery'...
@@ -2396,12 +2396,12 @@ CN PLACEHOLDER
 武「……だとさ」%K%P
 ...That's what it says.
 CN PLACEHOLDER
-...„батарея разряжена“.
+...'батарея разряжена'.
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 ふっ、と潜水艇内の照明が消える。%K%P
 The lights in the sub suddenly went out.
@@ -2426,17 +2426,17 @@ CN PLACEHOLDER
 アナログの圧力計器類だけが、まともに動いている。%K%P
 The only thing still working was the analog pressure gauge.
 CN PLACEHOLDER
-Единственное, что ещё работает – аналоговый датчик давления.
+Единственное, что ещё работает - аналоговый датчик давления.
 
 現在の水深――６３ｍ。%K%P
 Depth—63 meters.
 CN PLACEHOLDER
-Глубина – 63 метра.
+Глубина — 63 метра.
 
 内部気圧――１２．５気圧。%K%P
 Internal pressure—12.5 atmospheres.
 CN PLACEHOLDER
-Внутреннее давление – 12,5 атмосфер.
+Внутреннее давление — 12.5 атмосфер.
 
 この潜水艇は、飽和潜水仕様だった。%K%P
 The submarine was set to saturation diving specifications.
@@ -2451,7 +2451,7 @@ CN PLACEHOLDER
 つぐみ「た、武……」%K%P
 Ta-Takeshi...
 CN PLACEHOLDER
-Т-Такэси...
+Т-Такеши...
 
 武「大丈夫、大丈夫だって」%K%P
 It's okay. We're going to be fine.
@@ -2461,12 +2461,12 @@ CN PLACEHOLDER
 武「そんな泣きそうな顔すんな」%K%P
 Stop looking like you're going to cry.
 CN PLACEHOLDER
-Не делай вид, будто собираешься заплакать.
+Не делай вид, будто хочешь заплакать.
 
 水深――６４ｍ。%K%P
 Depth—64 meters.
 CN PLACEHOLDER
-Глубина – 64 метра.
+Глубина — 64 метра.
 
 浮上の為の推力を失って……%K%P
 We had lost our upward momentum...
@@ -2491,27 +2491,27 @@ CN PLACEHOLDER
 武「やれやれ、ポンコツタクシーだ……」%K%P
 Wonderful, we hitched a ride on a junker...
 CN PLACEHOLDER
-Ей богу, не такси, а развалюха...
+Здорово, мы сели в ржавый тарантас...
 
 武「田舎道だと、すぐエンストしちまう」%K%P
 You know, this cab always seems to stall on these country roads...
 CN PLACEHOLDER
-Вечно глохнут на просёлочных дорогах...
+Да уж, эти старые такси вечно глохнут на просёлочных дорогах...
 
 武「困ったもんですなぁ、お客さん……」%K%P
 I'm terribly sorry, esteemed passenger...
 CN PLACEHOLDER
-Приношу свои глубочайшие извинения, уважаемый пассажир...
+Прошу покорнейше меня простить, сударыня...
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 水深――６５ｍ。%K%P
 Depth—65 meters.
 CN PLACEHOLDER
-Глубина – 65 метров.
+Глубина — 65 метров.
 
 俺は潜水艇後方のハッチを見た。%K%P
 I looked at the aft hatch.
@@ -2526,7 +2526,7 @@ CN PLACEHOLDER
 こちら側は強化ガラスとＦＲＰ、さらに外側に高張力鋼製の扉がある。%K%P
 The inner side was made of reinforced glass and FRP, while the outer side had a door made from high-strength steel.
 CN PLACEHOLDER
-Внутренняя сторона сделана из закалённого стекла и волокнита, тогда как наружная – из высокопрочной стали.
+Внутренняя сторона сделана из пуленепробиваемого стекла и волокнита, тогда как наружная из высокопрочной стали.
 
 武「なぁ、ハッチから船内の高圧空気を抜いたら、勢いで浮上できると思うか？」%K%P
 Hey, you think if we let some of the high-pressure gas out of the hatch, we'd start rising again?
@@ -2546,7 +2546,7 @@ CN PLACEHOLDER
 つぐみ「そんなことをすれば、浸水転覆するのは目に見えてる……」%K%P
 Not to mention the fact that if we do that, we'll start flooding...
 CN PLACEHOLDER
-Не говоря уже о том, что, если мы это сделаем, нас затопит...
+Не говоря уже о том, что если мы это сделаем, нас затопит...
 
 つぐみ「余分な圧搾空気だって、ないんだから」%K%P
 Because we don't have any spare compressed air.
@@ -2556,12 +2556,12 @@ CN PLACEHOLDER
 つぐみ「そもそも、この本体を浮かべる為の浮力が不足してるの」%K%P
 And we don't have enough buoyancy in the main fuselage.
 CN PLACEHOLDER
-И у нас не хватает выталкивающей силы в фюзеляже.
+И, у нас не хватает выталкивающей силы в фюзеляже.
 
 武「浮力……」%K%P
 Buoyancy...
 CN PLACEHOLDER
-Выталкивающая сила?..
+Выталкивающая сила...?
 
 つぐみ「バラストを、捨てないと……」%K%P
 We've got to get rid of ballast...
@@ -2571,12 +2571,12 @@ CN PLACEHOLDER
 武「バラスト……」%K%P
 Ballast...
 CN PLACEHOLDER
-Балласта?..
+Балласта...?
 
 水深――６６ｍ。%K%P
 Depth—66 meters.
 CN PLACEHOLDER
-Глубина – 66 метров.
+Глубина — 66 метров.
 
 つぐみ「本来なら、バラストのバルブは電動制御される」%K%P
 The valve used to release ballast is usually electronically controlled.
@@ -2586,7 +2586,7 @@ CN PLACEHOLDER
 つぐみ「だけど、今はっ……」%K%P
 But now, we're...
 CN PLACEHOLDER
-Но сейчас мы...
+Но, сейчас мы...
 
 武「まぁまぁ、落ち着こう」%K%P
 Alright, let's just stay calm.
@@ -2611,12 +2611,12 @@ CN PLACEHOLDER
 つぐみ「簡単に引っこ抜けると思う？」%K%P
 You think it's going to be easy?
 CN PLACEHOLDER
-Думаешь, это так просто?
+Думаешь, что это так просто?
 
 武「いや……がっちり溶接されてるしなぁ、素手じゃ難しそうだな」%K%P
 Well... they seem to be welded on fairly well. Probably not easy to do bare-handed.
 CN PLACEHOLDER
-Ну... похоже, они крепко приварены. Наверное, голыми руками их не оторвёшь.
+Ну...похоже, они крепко приварены. Наверно, голыми руками их не оторвёшь.
 
 武「あいにく、今は何の道具の持ち合わせもないし……」%K%P
 And unfortunately, we don't have any tools...
@@ -2626,7 +2626,7 @@ CN PLACEHOLDER
 つぐみ「やっぱり、無理よ……」%K%P
 So that's it, huh...
 CN PLACEHOLDER
-Вот значит как...
+Так я.....и знала...
 
 つぐみは、唇を噛んでうつむいた。%K%P
 Tsugumi bit her lip and looked down.
@@ -2646,7 +2646,7 @@ CN PLACEHOLDER
 水深――６７ｍ。%K%P
 Depth—67 meters.
 CN PLACEHOLDER
-Глубина – 67 метров.
+Глубина — 67 метров.
 
 沈んでいく。%K%P
 Sinking...
@@ -2661,7 +2661,7 @@ CN PLACEHOLDER
 つぐみ「ぬか喜び、しちゃったね……」%K%P
 Looks like we celebrated too soon...
 CN PLACEHOLDER
-Рано... обрадовались...
+Рано...обрадовались...
 
 つぐみ「結局……」%K%P
 Doesn't it...
@@ -2671,12 +2671,12 @@ CN PLACEHOLDER
 つぐみ「あははっ……」%K%P
 Hahaha...
 CN PLACEHOLDER
-А-ха-ха...
+А〜ха〜ха...
 
 悔しくて、肩を震わせて……力なく笑った。%K%P
 Her shoulders shook from disappointment... and she laughed without conviction.
 CN PLACEHOLDER
-Её плечи трясёт от разочарования... она смеётся без упрёка.
+Её плечи трясёт от разочарования...она смеётся без упрёка.
 
 つぐみ「バカみたい……」%K%P
 So stupid...
@@ -2686,32 +2686,32 @@ CN PLACEHOLDER
 つぐみ「私、バカみたい……」%K%P
 I'm so stupid...
 CN PLACEHOLDER
-Я... такая глупая...
+Я......такая глупая...
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 つぐみ「あっ！？」%K%P
 Ah!?
 CN PLACEHOLDER
-Ах?!
+Ах!?
 
 ハッと息を呑む音が聞こえた。%K%P
 She audibly sucked in her breath.
 CN PLACEHOLDER
-Она громко вздохнула.
+%P
 
 つぐみ「な、なにやってるのよ、武！？」%K%P
 Wh-What are you doing, Takeshi!?
 CN PLACEHOLDER
-Ч-что ты делаешь, Такэси?!
+Ч-Что ты делаешь, Такеши!?
 
 武「何って、お前……見てわからないか？」%K%P
 What... you can't tell by looking?
 CN PLACEHOLDER
-Что... разве не видно?
+Что...разве не видно?
 
 武「ハッチを開けてるんだよ」%K%P
 I'm opening the hatch.
@@ -2721,7 +2721,7 @@ CN PLACEHOLDER
 つぐみ「だ、だからっ！　なにやってるのよっ！！」%K%P
 That's why I'm asking you! What are you doing!?
 CN PLACEHOLDER
-Т-Так я и спрашиваю! Что ты делаешь?!
+Т-Так я и спрашиваю...! Что ты делаешь?!
 
 武「何が『だから』なんだ？」%K%P
 Do you even need to ask?
@@ -2731,17 +2731,17 @@ CN PLACEHOLDER
 水深――６８ｍ。%K%P
 Depth—68 meters.
 CN PLACEHOLDER
-Глубина – 68 метров.
+Глубина — 68 метров.
 
 つぐみ「やめてよ！！」%K%P
 Stop it!
 CN PLACEHOLDER
-Прекрати!
+Прекрати!!
 
 つぐみ「何をする気なの！？」%K%P
 What are you planning to do!?
 CN PLACEHOLDER
-Что ты задумал?!
+Что ты задумал!?
 
 つぐみが俺の腕を掴む。%K%P
 Tsugumi grabbed onto my arm.
@@ -2771,7 +2771,7 @@ CN PLACEHOLDER
 武「俺に触るな」%K%P
 Don't touch me.
 CN PLACEHOLDER
-Не трогай... меня.
+Не трогай...меня.
 
 つぐみ「嫌！　離さないっ！」%K%P
 No! I won't let you go!
@@ -2786,22 +2786,22 @@ CN PLACEHOLDER
 つぐみ「死んでも……離してやらないから」%K%P
 I don't care if I die... I'm not letting go.
 CN PLACEHOLDER
-Даже если умру... я тебя не отпущу.
+Даже если умру...я тебя не отпущу.
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 水深――６９ｍ。%K%P
 Depth—69 meters.
 CN PLACEHOLDER
-Глубина – 69 метров.
+Глубина — 69 метров.
 
 ゆっくり、ゆっくりと、しかし、確実に。%K%P
 Slowly, slowly, but steadily...
 CN PLACEHOLDER
-Медленно и неуклонно... мы тонем.
+Медленно и неуклонно...мы падаем.
 
 沈降は止まらない。%K%P
 We wouldn't stop sinking.
@@ -2811,7 +2811,7 @@ CN PLACEHOLDER
 武「ふぅん……」%K%P
 Hmmm...
 CN PLACEHOLDER
-Хм-м-м...
+Хммм...
 
 武「ほんとにワガママ勝手なやっちゃなぁ、お前」%K%P
 You know, you really are selfish.
@@ -2821,17 +2821,17 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少し考える……。%K%P
 I thought for a bit...
 CN PLACEHOLDER
-На мгновение я задумался...
+На мгновение, я задумался...
 
 それから、ゆっくり口を開く。%K%P
 And slowly opened my mouth.
@@ -2841,12 +2841,12 @@ CN PLACEHOLDER
 武「なぁ、つぐみ……」%K%P
 Hey, Tsugumi...
 CN PLACEHOLDER
-Эй, Цугуми?..
+Эй, Цугуми...?
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「アルキメデスの原理って知ってるか？」%K%P
 Do you know what the Archimedes principle is?
@@ -2856,12 +2856,12 @@ CN PLACEHOLDER
 つぐみ「えっ」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 一瞬、虚を突かれたつぐみの手が緩んだ。%K%P
 For a moment, Tsugumi's grip relaxed.
 CN PLACEHOLDER
-От удивления хватка Цугуми ослабла.
+От удивления, на мгновение хватка Цугуми ослабла.
 
 すかさず、つぐみを振り払う。%K%P
 In that brief instant, I tore myself forcefully away from her grasp.
@@ -2886,7 +2886,7 @@ CN PLACEHOLDER
 水深――７０ｍ。%K%P
 Depth—70 meters.
 CN PLACEHOLDER
-Глубина – 70 метров.
+Глубина — 70 метров.
 
 つぐみは、呆然と……%K%P
 Tsugumi was stunned...
@@ -2901,17 +2901,17 @@ CN PLACEHOLDER
 つぐみ「武、武……！！」%K%P
 Takeshi! Takeshi!
 CN PLACEHOLDER
-Такэси! Такэси!
+Такеши! Такеши!!
 
 つぐみ「何やってるの！　開けて！　出てきて！！」%K%P
 What are you doing!? Open it up! Get out of there!
 CN PLACEHOLDER
-Что ты задумал?! Открывай! Открой сейчас же!
+Что ты задумал?! Открывай! Открой сейчас же!!
 
 ガンガン、とつぐみは乱暴に、強化ガラスを拳で叩く。%K%P
 Tsugumi wildly pounded on the reinforced glass with her fist.
 CN PLACEHOLDER
-Цугуми бешено бьётся о закалённое стекло кулаком.
+Цугуми бешено бъётся о пуленепробиваемое стекло кулаком.
 
 力ずくでハッチのレバーを引いたが、彼女には開けられなかった。%K%P
 She tried as hard as she could to pull up the lever, but was unable to.
@@ -2921,7 +2921,7 @@ CN PLACEHOLDER
 武「つぐみ……何言ってるんだ？」%K%P
 Tsugumi... What are you saying?
 CN PLACEHOLDER
-Цугуми... что ты говоришь?
+Цугуми...что ты говоришь?
 
 武「ガラスが厚くて、よく聞こえんぞ？」%K%P
 The glass is pretty thick, you know. I really can't hear very well.
@@ -2936,7 +2936,7 @@ CN PLACEHOLDER
 つぐみ「何考えてるのよおっ！！」%K%P
 What are you thinking!?
 CN PLACEHOLDER
-О чём ты думаешь?!
+О чём ты думаешь!!?
 
 見開いた瞳から、ぽろぽろ、ぽろぽろと、涙は……%K%P
 Tears started falling from Tsugumi's wide-open eyes.
@@ -2956,12 +2956,12 @@ CN PLACEHOLDER
 叩かれたガラスは、みしみし軋んだ。%K%P
 The glass creaked as she hit it.
 CN PLACEHOLDER
-С каждым ударом стекло скрипит.
+С каждым ударом, стекло скрипит.
 
 水深――７１ｍ。%K%P
 Depth—71 meters.
 CN PLACEHOLDER
-Глубина – 71 метр.
+Глубина — 71 метр.
 
 武「あれぇ、ひょっとしてお前……」%K%P
 Hey, wait a second, didn't you...
@@ -2981,22 +2981,22 @@ CN PLACEHOLDER
 武「そりゃあ知ってるわな。すまんかった。はっはっは……」%K%P
 I guess you'd know that. Sorry. Hahaha...
 CN PLACEHOLDER
-Я думал, что ты его знаешь. Прости. Ха-ха-ха...
+Я думал, что ты его знаешь. Прости. Ха〜ха〜ха...
 
 つぐみ「笑い事じゃないのっ！　冗談じゃないっ！」%K%P
 This isn't funny! Stop joking!
 CN PLACEHOLDER
-Не смешно! Совсем не смешно!
+Не смешно! Совсем не смешно!!
 
 つぐみ「そういう、問題じゃあ……ないんだよおっ……！！」%K%P
 This isn't... It's not about that!
 CN PLACEHOLDER
-Нет... так не должно быть!
+Нет...так не должно быть!!
 
 つぐみ「バカっ……武の……バカあっ！！」%K%P
 You fool... Takeshi, you idiot!
 CN PLACEHOLDER
-Придурок... Такэси... придурок!!!
+Придурок...Такеши...придурок!!!
 
 涙声で、彼女は叫んだ。%K%P
 Tsugumi sobbed as she screamed.
@@ -3006,7 +3006,7 @@ CN PLACEHOLDER
 武「ああ、俺はバカだ。大バカだとも！」%K%P
 Yeah, I'm an idiot. The biggest one there is!
 CN PLACEHOLDER
-Да, я придурок – каких свет не видывал!
+Да, я придурок — каких свет не видывал!
 
 武「そんなことも知らなかったのか？　つぐみ……」%K%P
 You didn't know that? Tsugumi...
@@ -3016,17 +3016,17 @@ CN PLACEHOLDER
 水深――７２ｍ。%K%P
 Depth—72 meters.
 CN PLACEHOLDER
-Глубина – 72 метра.
+Глубина — 72 метра.
 
 いくら彼女が拳で叩いても、ガラスは割れない。%K%P
 No matter how hard she pounded on the glass, it didn't break.
 CN PLACEHOLDER
-Как бы сильно она ни била по стеклу, оно не ломается.
+Не важно, как сильно она ни бьёт по стеклу, оно не ломается.
 
 ハッチも開かないし、壊れない。%K%P
 The hatch wouldn't open, and it wouldn't break either.
 CN PLACEHOLDER
-Люк не откроется и не сломается.
+Люк не откроется, и тоже не сломается.
 
 かなり頑丈なようだ。%K%P
 It looked fairly sturdy.
@@ -3036,12 +3036,12 @@ CN PLACEHOLDER
 これだけ頑丈なら、安心だろう。%K%P
 It made me feel good to know that it would hold.
 CN PLACEHOLDER
-У меня спокойно на душе, потому что я знаю – он выдержит.
+У меня спокойно на душе, потому что я знаю - он выдержит.
 
 武「まぁ、ともかくとして……」%K%P
 Well, anyway...
 CN PLACEHOLDER
-Ну, ладно...
+Ну, ладушки...
 
 武「この卵の浮力を、確保しようじゃないか」%K%P
 We gotta make sure this little egg stays afloat.
@@ -3066,7 +3066,7 @@ CN PLACEHOLDER
 つぐみ「た……武……っ？」%K%P
 Ta... Takeshi...?
 CN PLACEHOLDER
-Т... Такэси?..
+Т...Такеши...?
 
 つぐみは、ガラスハッチを叩くのをやめた。%K%P
 Tsugumi stopped hitting the glass.
@@ -3081,12 +3081,12 @@ CN PLACEHOLDER
 つぐみ「まさか、まさか……」%K%P
 Do you really...
 CN PLACEHOLDER
-Нет... нет...
+Нет...нет...
 
 つぐみ「死ぬ……気……なの……？」%K%P
 Want... to... die...?
 CN PLACEHOLDER
-Ты... хочешь... умереть?..
+Ты... хочешь... умереть...?
 
 武「大丈夫だよ」%K%P
 Don't worry.
@@ -3111,7 +3111,7 @@ CN PLACEHOLDER
 水深――７３ｍ。%K%P
 Depth—73 meters.
 CN PLACEHOLDER
-Глубина – 73 метра.
+Глубина — 73 метра.
 
 ハンドルを廻す、背中の手を休めない。%K%P
 I kept turning the handle with my other hand.
@@ -3131,7 +3131,7 @@ CN PLACEHOLDER
 つぐみ「ひとりに、しないで……」%K%P
 Don't leave me...
 CN PLACEHOLDER
-Не бросай... меня...
+Не бросай...меня...
 
 つぐみ「私を、ひとりにしないで……！」%K%P
 Don't leave me all by myself!
@@ -3151,22 +3151,22 @@ CN PLACEHOLDER
 武「大丈夫だって、何度も何度も言ってるだろ？」%K%P
 I keep telling you it's going to be okay, right?
 CN PLACEHOLDER
-Я же говорю, всё будет хорошо.
+Я же говорю, всё будет хорошо, правда?
 
 つぐみ「うん……」%K%P
 Yes...
 CN PLACEHOLDER
-Угу...
+У〜гу...
 
 武「ちゃんと、生きる気になったろ、お前……？」%K%P
 You want to live, don't you...?
 CN PLACEHOLDER
-Ты же хочешь жить, ведь так?..
+Ты же хочешь жить, правда...?
 
 つぐみ「うん……」%K%P
 Yes...
 CN PLACEHOLDER
-Агх!..
+Агх...!
 
 武「だったら、生きろ」%K%P
 So live!
@@ -3196,7 +3196,7 @@ CN PLACEHOLDER
 ――７４ｍ。%K%P
 —74 meters.
 CN PLACEHOLDER
-– 74 метра.
+— 74 метра.
 
 船底のハッチは開かれた。%K%P
 The hatch on the bottom of the submarine opened.
@@ -3216,7 +3216,7 @@ CN PLACEHOLDER
 つぐみ「…………！！」%K%P
 ........!
 CN PLACEHOLDER
-!
+(Такеши!!)
 
 もう聞こえない。%K%P
 I could no longer hear her voice.
@@ -3226,17 +3226,17 @@ CN PLACEHOLDER
 海の中までは、声は伝わってこなかった。%K%P
 In the middle of the ocean, her voice wouldn't carry to me.
 CN PLACEHOLDER
-Её голос не достигает меня посреди океана.
+Посреди океана, её голос не достигает меня.
 
 ガラスの向こうに、彼女の姿は揺らめいた。%K%P
 On the other side of the glass, I could make out her blurry outline.
 CN PLACEHOLDER
-Её силует еле различим по ту сторону стекла.
+По другую сторону стекла, едва различим её размытый силуэт.
 
 泣き濡れて、くしゃくしゃになったつぐみの顔が……。%K%P
 Tsugumi's face was covered with tears, broken with sadness...
 CN PLACEHOLDER
-Лицо Цугуми омыто слезами, и сломлено печалью...
+Лицо Цугуми омыто слезами, и сломлено печалью....
 
 やがて水の中で、屈折して見えた。%K%P
 Her image refracted through the water.
@@ -3246,7 +3246,7 @@ CN PLACEHOLDER
 ――７５ｍ。%K%P
 —75 meters.
 CN PLACEHOLDER
-– 75 метров.
+—75 метров.
 
 潜水艇の枠につかまり、身体を支える。%K%P
 I grabbed onto a rail on the outside of the submarine and steadied myself.
@@ -3271,7 +3271,7 @@ CN PLACEHOLDER
 ――７６ｍ。%K%P
 —76 meters.
 CN PLACEHOLDER
-– 76 метров.
+—76 метров.
 
 最後の支えを、俺は手放す。%K%P
 I let go of my last source of support.
@@ -3296,7 +3296,7 @@ CN PLACEHOLDER
 ――７７ｍ。%K%P
 —77 meters.
 CN PLACEHOLDER
-– 77 метров.
+—77 метров.
 
 意識は浮遊する。%K%P
 My consciousness was floating.
@@ -3306,7 +3306,7 @@ CN PLACEHOLDER
 だが、意志は確固としてここにあった。%K%P
 But my will steadfastly clung to my body. It was still there.
 CN PLACEHOLDER
-Но моя воля прочно прижалась к телу. Она всё ещё здесь.
+Но, моя воля прочно прижалась к телу. Она всё ещё здесь.
 
 粉々になろうとも。%K%P
 Even if it was threatening to turn to dust.
@@ -3331,7 +3331,7 @@ CN PLACEHOLDER
 ただの意地かもしれないが……。%K%P
 Maybe it was just stubbornness...
 CN PLACEHOLDER
-Наверное это просто упрямство...
+Наверно это просто упрямство...
 
 俺はそのまま、海の底へと沈んで行った。%K%P
 I was sinking to the bottom of the ocean.
@@ -3366,7 +3366,7 @@ CN PLACEHOLDER
 こ⑳こ⑳⑳に⑳⑳⑳、い⑳⑳⑳⑳る⑳⑳⑳⑳⑳。%K%P
 I        a    m        h     e    r    e.
 CN PLACEHOLDER
-Я         з   д   е   с   ь.
+Я з.д..е...с....ь.
 
 俺の姿は海に溶け、やがて混ざり合って……ひとつになった。%K%P
 My body dissolved in the ocean, mixing with it... becoming one with it.

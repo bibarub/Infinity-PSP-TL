@@ -1,7 +1,7 @@
 ﻿翌朝、ぼくと優は朝食を済ませると、警備室へとやってきた。%K%P
 The next day after breakfast, You and I went to the security office.
 CN PLACEHOLDER
-На следующий день мы с Ю после завтрака зашли в Офис охраны.
+На следующий день, после завтрака, Ю и я зашли в Офис Охраны.
 
 再度、ネットワークへの侵入を試みるためである。%K%P
 She tried to access the computer network again.
@@ -36,7 +36,7 @@ CN PLACEHOLDER
 『アクセス不可／現在この名前ではログインできません』%K%P
 “Access denied. Cannot log in with the given name at this time.”
 CN PLACEHOLDER
-«В доступе отказано. Некорректное имя или пароль.»
+"В доступе отказано. Некорректное имя или пароль."
 
 まだ、例のプロテクトは解除されていないようだった。%K%P
 It seemed like she still couldn't get past the security.
@@ -46,7 +46,7 @@ CN PLACEHOLDER
 優「くぅ、まさに万事休す、ね……」%K%P
 Oh no. It looks like it's no good...
 CN PLACEHOLDER
-Гх-х-х... Господи, похоже, это бесполезно...
+Гххх... Господи, похоже это бесполезно....
 
 優はガックリと肩をおとした。%K%P
 You's shoulders slumped dejectedly.
@@ -61,17 +61,17 @@ CN PLACEHOLDER
 優「あとは……システムをクラックしてムリヤリ侵入するか、レミの側からプロテクトを解除してもらうか……」%K%P
 I could... enter by cracking the system open or get LeMMIH to remove the protection mechanism...
 CN PLACEHOLDER
-Я могу... войти, если взломать систему или добраться до LeMMIH, чтобы снять защитный механизм...
+Я могу...войти, если взломать систему или добраться до ЛеММИХ, чтобы снять защитный механизм...
 
 少年「ねえ、沙羅にお願いしてみようよ」%K%P
 Why don't you ask Sara?
 CN PLACEHOLDER
-Может, стоит попросить Сару?
+Может стоит попросить Сару?
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 口を閉ざし、うつむく優。%K%P
 You stopped talking and looked down.
@@ -101,7 +101,7 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「優は、どうしたいの？」%K%P
 So, You, what do you want to do?
@@ -121,27 +121,27 @@ CN PLACEHOLDER
 優「……………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優は自身の指先を見つめ……それから、ディスプレイを見つめ……%K%P
 You stared at her fingers... and then she looked at the display...
 CN PLACEHOLDER
-Ю уставилась немигающим взглядом на свои руки... затем на монитор...
+Ю уставилась немигающим взглядом на свои руки...затем на монитор...
 
 ……天井へと視線を移した。%K%P
 ...Finally her eyes drifted to the ceiling.
 CN PLACEHOLDER
-...Наконец, её взгляд направился на потолок.
+...и, наконец, её глаза переместились на потолок.
 
 ややあって、優はひとつ頷く。%K%P
 You gave a nod after a while.
 CN PLACEHOLDER
-Через несколько мгновений... Ю кивнула.
+Через несколько мгновений...Ю кивнула.
 
 優「そうね、マヨには悪いけど、力を貸してもらおっか」%K%P
 It might be a lot to ask, but I'll ask Mayo for her help.
 CN PLACEHOLDER
-Ладно... Майо может и отказаться... попытка – не пытка.
+Ладно...Майо может и отказаться...попытка - не пытка.
 
 少年「うん」%K%P
 Good.
@@ -151,7 +151,7 @@ CN PLACEHOLDER
 彼女は間違ってなんかいない。臆する必要なんてない。%K%P
 She wasn't wrong. She didn't need to feel intimidated.
 CN PLACEHOLDER
-Она права, ей не стоит так об этом тревожиться.
+Она права, ей не стоит так об этом тревожится.
 
 少年「よしっ！　じゃあ、ぼくが行って頼んでくるよ」%K%P
 Alright! I'll go ask her for you.
@@ -161,7 +161,7 @@ CN PLACEHOLDER
 そう元気よく言い残して、ぼくは警備室を飛び出した。%K%P
 With those energetic words, I bounded out of the security office.
 CN PLACEHOLDER
-С этим энергичным настроем, я выскочил за пределы Офиса охраны.
+С этим энергичным настроем, я выскочил за пределы Офиса Охраны.
 
 通路を駆け出しながら……%K%P
 As I was sprinting down the corridor...
@@ -171,7 +171,7 @@ CN PLACEHOLDER
 （あれ？　そう言えば、沙羅はどこにいるんだろう？）%K%P
 (Wait a second... Where is Sara anyway?)
 CN PLACEHOLDER
-(Секундочку... а где, собственно, Сара?)
+(Секундочку...а где, собственно, Сара?)
 
 ようやく、それに気づいた。%K%P
 Finally, I realized something.
@@ -181,22 +181,22 @@ CN PLACEHOLDER
 警備室のモニターで確認しておけばよかったのだ。%K%P
 I should have checked on the monitor in the security office.
 CN PLACEHOLDER
-Надо было посмотреть на мониторах в Офисе охраны.
+Надо было посмотреть на мониторах в Офисе Охраны.
 
 だけど、ここで警備室に戻るのもカッコワルイ……。%K%P
 But I thought I'd look stupid going all the way back again...
 CN PLACEHOLDER
-Но я буду выглядеть глупо, если побегу обратно...
+Но, я буду выглядеть глупо, если побегу обратно...
 
 空に訊いてみようか……？%K%P
 I thought I might ask Sora...
 CN PLACEHOLDER
-Может, стоит спросить Сору?..
+Может стоит спросить Сору...?
 
 そんな矢先、通路の向こうを横切る沙羅の姿が目に映った。%K%P
 But then I saw Sara cutting across the far corridor.
 CN PLACEHOLDER
-Но тут я заметил, как Сара пересекает дальний коридор.
+Но, тут я заметил, как Сара пересекает дальний коридор.
 
 すかさず、ぼくは彼女のあとを追いかけた。%K%P
 I immediately went after her.
@@ -221,7 +221,7 @@ CN PLACEHOLDER
 沙羅「わぁっ！　びっくりしたぁ！」%K%P
 Waaaa! Geez! You scared me!
 CN PLACEHOLDER
-А-а-а-а-а! Не пугай меня!
+Ааааа! Не пугай меня!
 
 驚き、飛び上がる沙羅。%K%P
 Sara jumped, startled.
@@ -231,12 +231,12 @@ CN PLACEHOLDER
 少年「あ、ごめん、驚かすつもりじゃ……」%K%P
 Oh... Sorry. I didn't mean to surprise you...
 CN PLACEHOLDER
-Ой... прости. Я не собирался тебя пугать...
+Ой...прости. Я не собирался тебя пугать...
 
 沙羅「もう、眠いんだからカンベンしてよぉ。身も心もクタクタなんだから」%K%P
 I'm exhausted, so cut me some slack. My mind and body are shot.
 CN PLACEHOLDER
-Я как выжатый лимон, так что отвянь. Я устала физически и морально.
+Я как выжатый лимон, так что отвянь. Сейчас мозги и тело просто никакие.
 
 憔悴した様子で言い放つ沙羅。%K%P
 Sara's haggard expression told the same story.
@@ -251,7 +251,7 @@ CN PLACEHOLDER
 昨夜はほとんど眠れなかったのかもしれない。%K%P
 She had probably had a sleepless night.
 CN PLACEHOLDER
-Должно быть, бедняга ночью и глаз сомкнуть не смогла.
+Должно быть бедняга ночью и глаз сомкнуть не смогла.
 
 少年「ひょっとして、これから寝るつもりだった、とか？」%K%P
 Were you thinking of going to sleep now?
@@ -271,7 +271,7 @@ CN PLACEHOLDER
 沙羅「ん？　何か不都合でもあるの？　言ってみ？」%K%P
 Huh? Is there something wrong?
 CN PLACEHOLDER
-Хм-м-м... а что? Что-то не так?
+Хммм...а что? Что-то не так?
 
 少年「実は……」%K%P
 Actually...
@@ -296,12 +296,12 @@ CN PLACEHOLDER
 レミのプロテクトに阻まれて、調査が難航していること。%K%P
 That her search was being blocked by some protective mechanism in LeMMIH.
 CN PLACEHOLDER
-Что её поиски накрылись медным тазом из-за защитного механизма LeMMIH.
+Что её поиски накрылись медным тазом из-за защитного механизма ЛеММИХ.
 
 沙羅「へぇ、そんな事情があったんだ……知らなかったよ」%K%P
 Wow. I had no idea about any of that.
 CN PLACEHOLDER
-Хм-м... вот значит как... а я даже не знала.
+Хмм...вот значит как...а я даже не знала.
 
 少年「うん。もう、ぼくと優だけでは、どうにもならなくて」%K%P
 Yeah. Well, You and I can't figure it out alone.
@@ -316,17 +316,17 @@ CN PLACEHOLDER
 少年「沙羅には、ネットワークに侵入できるように、レミのプロテクトを破って欲しいんだ」%K%P
 Well, we were hoping you could try taking out LeMMIH's security so that we can get into the network.
 CN PLACEHOLDER
-В общем... мы надеялись, что ты попробуешь снести защиту к чертям.
+В общем...мы надеялись, что ты попробуешь снести защиту к чертям.
 
 沙羅「ふーん、プロテクト破りねぇ……」%K%P
 Hmmm. Cracking the security, huh...?
 CN PLACEHOLDER
-Хм-м-м... взлом защиты?..
+Хммм...взлом защиты...?
 
 少年「体調が悪い時に申し訳ないんだけど、お願いできないかなぁ？」%K%P
 I feel bad asking when you're so tired, but could you do it for her?
 CN PLACEHOLDER
-Мне стыдно просить, когда ты так вымоталась, но ты можешь сделать это ради неё?
+Мне стыдно просить, когда ты так вымоталась, но, ты можешь сделать это ради неё?
 
 沙羅「いいよ」%K%P
 Sure.
@@ -341,7 +341,7 @@ CN PLACEHOLDER
 沙羅「いいよ、って言ったんだけど」%K%P
 I said 'sure' already.
 CN PLACEHOLDER
-Я же сказала, „конечно“.
+Я же сказала, 'конечно'.
 
 少年「ほんとに？」%K%P
 Really?
@@ -361,7 +361,7 @@ CN PLACEHOLDER
 少年「あ、ありがとう！」%K%P
 Th-Thanks!
 CN PLACEHOLDER
-С... спасибо!
+С...спасибо!
 
 沙羅の手をとって、ぼくは歓喜した。%K%P
 I grabbed Sara's hand and shouted happily.
@@ -371,7 +371,7 @@ CN PLACEHOLDER
 飛び跳ねんばかりに嬉しかった……っていうか、実際に飛び跳ねていた。%K%P
 I was so happy I could have jumped for joy... Actually, I did jump.
 CN PLACEHOLDER
-Я столь счастлив, что уже практически прыгаю от радости... то есть... я на самом деле прыгаю.
+Я столь счастлив, что уже практически прыгаю от радости...то есть...я на самом деле прыгаю.
 
 きっと、これですべて上手くいくに違いない。%K%P
 I was sure that things would go fine.
@@ -381,17 +381,17 @@ CN PLACEHOLDER
 沙羅「ちょ、ちょっと、ちょっとぉ……なんで、少年がそんなに喜ぶの？」%K%P
 H-Hey, hey, wait... Kid, what are you so happy about?
 CN PLACEHOLDER
-С... стой, стой, секундочку... Малой, с чего это ты так счастлив?
+С...стой, стой, секундочку...Кид, с чего это ты так счастлив?
 
 少年「え？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+Эээ?
 
 沙羅「私は先輩に協力するって言ったけど、それって少年にはあまり関係ないことでしょ？　ビタ一文の得にもならないわけじゃん？」%K%P
 All I said was that I'd help Senpai. This doesn't really have anything to do with you, does it? There's nothing in this for you.
 CN PLACEHOLDER
-Я лишь сказала, что помогу Няку. Про тебя я ничего не говорила. Тогда чему ты радуешься?
+Я лишь сказала, что помогу Няку. Про тебя я ничего не говорила. Тогда, чему ты радуешься?
 
 沙羅「なのに、どうしてそんなに一所懸命なのよ？」%K%P
 So what are you so pumped about?
@@ -401,12 +401,12 @@ CN PLACEHOLDER
 少年「そんなの、当たり前じゃないか。優は大切な仲間なんだから」%K%P
 Well, of course I'm happy. You's a good friend of mine.
 CN PLACEHOLDER
-Глупый вопрос. Конечно же, я счастлив. Неужели я не могу порадоваться за Ю, свою подругу?
+Глупый вопрос. Конечно же, я счастлив. Неужели я не могу порадоваться за Ю, своего друга?
 
 沙羅「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 じーっと、ぼくの目を覗き込む沙羅。%K%P
 Sara stared at me suspiciously.
@@ -416,7 +416,7 @@ CN PLACEHOLDER
 沙羅「はっはーん♪」%K%P
 Oh, I get it〜
 CN PLACEHOLDER
-О, вот оно что...
+Хиии...
 
 少年「な、なんだよ！」%K%P
 Wh-What?
@@ -436,7 +436,7 @@ CN PLACEHOLDER
 沙羅「ふむふむ、そういうことでござったか」%K%P
 Uh huh. So that's what's been going on.
 CN PLACEHOLDER
-А-ха... Так вот где собака зарыта.
+Хмм... так вот где собака порылась.
 
 ニヤリとほくそ笑む沙羅。%K%P
 Sara shot me a sly grin.
@@ -456,7 +456,7 @@ CN PLACEHOLDER
 沙羅「あいや待たれい！　言われずともわかってるでござるよ」%K%P
 Dear Jove! Love, 'tis a beautiful thing.
 CN PLACEHOLDER
-Любовь... Великое чувство „любовь“.
+Ну конечно... Любви все возрасты покорны.
 
 沙羅「安心めされい、あとのことは、すべて拙者にお任せあれ」%K%P
 Fret not, dear Kid, I shan't tell a soul.
@@ -476,22 +476,22 @@ CN PLACEHOLDER
 少年「まあいいや、優が待ってるから、早く行こう」%K%P
 Well, You is waiting, so we'd best get going.
 CN PLACEHOLDER
-Ладно, Ю ждёт. Чем скорее мы пойдём, тем лучше.
+Ладно, Ю ждёт. Чем скорей мы пойдём, тем лучше.
 
 沙羅の手を引いて、警備室へと向かおうとした。%K%P
 I started heading for the security office while pulling Sara's hand.
 CN PLACEHOLDER
-Я уже собрался идти к Офису охраны и потянул Сару за руку.
+Я уже собрался идти к Офису Охраны и потянул Сару за руку.
 
 が、逆に腕をぐいっと引っ張られる。%K%P
 But it ended up being my arm that got yanked.
 CN PLACEHOLDER
-Но закончилось это тем, что моя рука едва не оторвалась.
+Но, закончилось это тем, что моя рука едва не оторвалась.
 
 少年「うわっ……！」%K%P
 Whoa...!
 CN PLACEHOLDER
-Чёрт!..
+Чёрт...!
 
 バランスを崩したぼくは、沙羅に寄りかかる体勢になってしまう。%K%P
 I lost my balance and stumbled forward, leaning on Sara.
@@ -511,7 +511,7 @@ CN PLACEHOLDER
 沙羅「ほんとは、ちょっと悔しいんだよ？」%K%P
 To tell you the truth, I'm a bit jealous.
 CN PLACEHOLDER
-По правде говоря, я слегка ревную.
+По-правде говоря, я слегка ревную.
 
 沙羅「悔しいんだけど……」%K%P
 I'm jealous, but...
@@ -521,17 +521,17 @@ CN PLACEHOLDER
 少年「……？」%K%P
 ...?
 CN PLACEHOLDER
-?
+...?
 
 沙羅「相手が少年だから、許したげる！」%K%P
 But since it's you that she's gone for, I'll let it go.
 CN PLACEHOLDER
-Но если ты ей нравишься, то ничего страшного.
+Но, если ты ей нравишься, то ничего страшного.
 
 言うと同時に彼女はぼくを突き離し、背中をバンバンと叩いてきた。%K%P
 As she spoke, she pushed me away and slapped me on the back.
 CN PLACEHOLDER
-С этими словами она оттолкнула меня и шлёпнула по заднице.
+С этими словами, она оттолкнула меня и шлёпнула по заднице.
 
 ぼくは、ますます、わけがわからなくなっていた。%K%P
 I was getting more and more confused.
@@ -541,12 +541,12 @@ CN PLACEHOLDER
 沙羅「さて、それでは始めるとしますか」%K%P
 Alright. Shall we get started?
 CN PLACEHOLDER
-Итак... начнём, пожалуй?
+Итак... начнём пожалуй?
 
 椅子に腰かけた沙羅は、指をパキポキと鳴らしながら、キーボードに向かう。%K%P
 Sara sat in the chair, popped her knuckles, and faced the keyboard.
 CN PLACEHOLDER
-Сара села в кресло, сделала пальцами смачный «хрясь» и забурилась в клавиатуру.
+Сара села в кресло, сделала пальцами смачный 'хрясь' и забурилась в клавиатуру.
 
 優「マヨ、ほんとにゴメンね？」%K%P
 Mayo, I'm really sorry.
@@ -576,7 +576,7 @@ CN PLACEHOLDER
 キーボードを叩く沙羅。%K%P
 Sara started tapping away on the keyboard.
 CN PLACEHOLDER
-Сара начала печатать на клавиатуре.
+Пальцы Сары ритмично заплясали по клавиатуре.
 
 画面にいくつもウィンドウが開かれる。%K%P
 A number of windows opened up on the screen.
@@ -586,12 +586,12 @@ CN PLACEHOLDER
 沙羅「まずは、パスワードの奪取から試してみようかな」%K%P
 First, let's try stealing a password.
 CN PLACEHOLDER
-Для начала попробуем спереть пароль.
+Для начала, попробуем спереть пароль.
 
 素早く、リズミカルなタイピング。%K%P
 Her typing was fast and rhythmical.
 CN PLACEHOLDER
-Она печатала быстро и ритмично.
+%P
 
 やがて、何かのリストが表示される。%K%P
 Finally, a list of files came up.
@@ -611,12 +611,12 @@ CN PLACEHOLDER
 沙羅「えーと……」%K%P
 Let's see...
 CN PLACEHOLDER
-Чего?..
+Чего...?
 
 沙羅「あれぇ？　ないなぁ……」%K%P
 Huh? It's not there...
 CN PLACEHOLDER
-Какого?.. Нету...
+Какого...? Нету...
 
 沙羅「この系統のＯＳなら、このファイルの中に保存されてるはずなんだけど……」%K%P
 In this kind of OS, the file should be saved here, but...
@@ -641,7 +641,7 @@ CN PLACEHOLDER
 沙羅「ユーザーがパスワードを設定する際に不可逆性を持った関数により生成されるアルファベットおよび数値により構成される文字列のこと」%K%P
 It's an unchangeable string of letters or numbers created by a mathematical function when a user sets a password.
 CN PLACEHOLDER
-Это неменяющаяся строка из букв и цифр, генерируемая математической функцией, когда юзер устанавливает пароль.
+Это неменяющаяся строка из букв и цифр, генерируемая математической функцией, когда юзверь устанавливает пароль.
 
 少年「は、はい？？？」%K%P
 Wh-What?
@@ -661,12 +661,12 @@ CN PLACEHOLDER
 少年「……もう少し、わかりやすく言ってもらえる？」%K%P
 ...Can't you make it easier to understand?
 CN PLACEHOLDER
-...А нельзя ли объяснить это более простыми словами?
+...а нельзя ли объяснить это более простыми словами?
 
 沙羅「うーん、簡単に言っちゃえば、パスワードの指紋みたいなものかな」%K%P
 Alright. It's basically like the password's fingerprint. While you can't create a person from a fingerprint, you can identify one, right?
 CN PLACEHOLDER
-Хм-м... Хэш – это нечто вроде отпечатка пальца.
+Хмм... Хэш - это нечто вроде отпечатка пальца.
 
 沙羅「ほら、指紋から元の人物を再現できないけど、人物を特定することは可能でしょ？」%K%P
 It's the same as a fingerprint. The hash always reflects the characteristics of the original.
@@ -701,7 +701,7 @@ CN PLACEHOLDER
 沙羅「もしかしたら、ｒｏｏｔ権限でしかアクセスできないファイルに格納されてるのかな……」%K%P
 I wonder... It might be that there's a file that only the root authority can access...
 CN PLACEHOLDER
-Я вот думаю... А что, если файл доступен только под рутом...
+Я вот думаю...а что если файл доступен только под рутом...
 
 沙羅「仮に見つかったとしても、ランダムで組み替えられる方式かもしれないし……」%K%P
 Even if I did find it, it could be randomly sequenced...
@@ -711,7 +711,7 @@ CN PLACEHOLDER
 沙羅「となると、別の方法を……」%K%P
 That'd mean I'd need another message...
 CN PLACEHOLDER
-То есть где-то придётся искать ещё один ключ...
+То есть, где-то придётся искать ещё один ключ...
 
 ぶつぶつ独り言を呟きながら、沙羅は作業を続けている。%K%P
 Sara mumbled to herself as she worked.
@@ -721,7 +721,7 @@ CN PLACEHOLDER
 ときどき、リボンをグリグリいじくったり、指先で机をコツコツ叩いたり……そんな様子から、あまり順調でないことが窺える。%K%P
 Occasionally, Sara would fiddle with her ribbon or tap her fingers on the desk... so it didn't seem that she was having much luck.
 CN PLACEHOLDER
-Время от времени она скрипит бантом или стучит пальцами по столу... видимо, пока удача не повернулась к ней лицом.
+Время от времени она скрипит бантом или стучит пальцами по столу...видимо, пока удача не повернулась к ней лицом.
 
 少年「大丈夫かな」%K%P
 I wonder if this'll work.
@@ -751,7 +751,7 @@ CN PLACEHOLDER
 少年「……それって、どの程度凄いの？　イマイチわからないよ」%K%P
 ...I'm not really sure how incredible that is.
 CN PLACEHOLDER
-...Я не очень понимаю, насколько это круто.
+...я не очень понимаю, насколько это круто.
 
 優「暗号強度っていうのは、パスワードを暗号化するときの鍵の長さのこと」%K%P
 The strength of a code depends on how long the key to it is when the password is encrypted.
@@ -761,12 +761,12 @@ CN PLACEHOLDER
 優「これが長ければ長いほど、その暗号は解析が困難だ、ってことになるの」%K%P
 The longer it is, the harder it is to decode.
 CN PLACEHOLDER
-Чем он длиннее, тем сложнее его расшифровать.
+Чем он длинней, тем сложней его расшифровать.
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「まだちょっとピンと来ないかな？　じゃあ、実例をあげてみるけど……」%K%P
 You still don't quite get it? Well, how about a specific example...
@@ -781,17 +781,17 @@ CN PLACEHOLDER
 優「例えるなら、『Ｅ』という文字は、１ｂｉｔの鍵では『０』と『１』のどちらかに暗号化されちゃうってことね」%K%P
 For example, say that 'E' is the letter. That can either be encrypted as a zero or a one with a 1-bit key.
 CN PLACEHOLDER
-Допустим, у нас есть буква „Е“. Если использовать ключ размером в 1 бит, она может закодироваться как 0 или 1.
+Допустим, у нас есть буква 'Ж'. Если использовать ключ размером в 1 бит, она может закодироваться как 0 или 1.
 
 優「これが２ｂｉｔの鍵になると、暗号の可能性は２倍の４通りになる」%K%P
 So when this becomes a 2-bit key, the possibilities are double the code, or four.
 CN PLACEHOLDER
-Значит, когда мы имеем дело с ключом размером в 2 бита, возможная длина пароля увеличивается вдвое, а варианты – учетверяются.
+Значит, когда мы имеем дело с ключом размером в 2 бита, возможная длина пароля увеличивается вдвое, а варианты - учетверяются.
 
 優「さっきの例なら、『Ｅ』の文字は、『００』『０１』『１０』『１１』のどれかに変換されるってこと」%K%P
 So, for the example of 'E', it would be either 00, 01, 10, or 11.
 CN PLACEHOLDER
-То есть, наша „Е“ теперь может превратиться в 00, 01, 10 или 11.
+То есть, наша 'Ж' теперь может превратиться в 00, 01, 10 или 11.
 
 優「これが３ｂｉｔの鍵になると……」%K%P
 So, with a 3-bit key...
@@ -806,7 +806,7 @@ CN PLACEHOLDER
 少年「え？　えーと……１ｂｉｔで２通りで、２ｂｉｔで４通りだから……」%K%p
 Uh... Let's see... Um, there are two ways for a 1-bit, and four ways for a 2-bit, so...
 CN PLACEHOLDER
-Э-э... так, посмотрим... м-м, если для ключа в 1 бит их два, а для ключа в 2 бита – четыре...
+Ээ...так, посмотрим....мм, если для ключа в 1 бит их два, а для ключа в 2 бита - четыре...
 
 ６通り？
 Six ways?
@@ -826,7 +826,7 @@ CN PLACEHOLDER
 優「ぶー、不正解……」%K%P
 Wrong answer. Afraid not...
 CN PLACEHOLDER
-М-м... Ответ неверный...
+Ммм... Ответ не верный...
 
 少年「…………」%K%P
 ...
@@ -846,7 +846,7 @@ CN PLACEHOLDER
 優「３ｂｉｔ鍵では、『Ｅ』の暗号パターンは『０００』『００１』『０１０』『０１１』『１００』『１０１』『１１０』『１１１』の計８通りとなる」%K%P
 So, a 3-bit key for the letter 'E' could be 000, 001, 010, 011, 100, 101, 110, or 111. A total of eight combinations.
 CN PLACEHOLDER
-То есть, для ключа размером в 3 бита, буква „Е“ превратится в 000, 001, 010, 011, 100, 101, 110 или 111. Всего восемь возможных битовых комбинаций.
+То есть, для ключа размером в 3 бита, буква 'Ж' превратится в 000, 001, 010, 011, 100, 101, 110 или 111. Всего восемь возможных битовых комбинаций.
 
 優「このように、暗号の鍵が１ｂｉｔ長くなるごとに、暗号パターンの数は倍になっていくの」%K%P
 Every time the code key increases by one bit, the number of code patterns increases exponentially.
@@ -871,17 +871,17 @@ CN PLACEHOLDER
 ６ｂｉｔで６４通り……７ｂｉｔで１２８通り……８ｂｉｔで２５６通り……。%K%P
 A 6-bit would be 64... A 7-bit would be 128... an 8-bit would be 256...
 CN PLACEHOLDER
-Если 6 бит – 64...7 бит – 128... а 8 бит – 256...
+Если 6 бит - 64...7 бит - 128...а 8 бит - 256...
 
 （えーと、えーと…………）%K%P
 (Uh... Uh... Let's see...)
 CN PLACEHOLDER
-(Э-э... э-э... секундочку...)
+(Ээ...ээ...секундочку...)
 
 優「正解は、２の６８乗通り」%K%P
 The right answer is 2 to the 68th power.
 CN PLACEHOLDER
-Правильный ответ – 2 в 68-й степени.
+Правильный ответ - 2 в 68-й степени.
 
 警備室の備品の電卓で計算する優。%K%P
 You was doing the calculations on the security office calculator.
@@ -891,7 +891,7 @@ CN PLACEHOLDER
 優「およそ、２．９５１４７９０５２×１０＾２０通りもの暗号パターンが考えられるの」%K%P
 So the number of code patterns that would be possible is roughly 2.951479052 x 10 to the 20th power.
 CN PLACEHOLDER
-Иными словами, количество возможных комбинаций будет приблизительно ... 2,951479052 x 10 в двадцатой степени.
+Иными словами, количество возможных комбинаций будет приблизительно ... 2.951479052 x 10 в двадцатой степени.
 
 優「２垓９５１４京７９０５兆１７９３億５２８２万５８５６通り」%K%P
 Or 295 quintillion, 147 quadrillion, 905 trillion, 179 billion, 352 million, 825 thousand, 856 different ways.
@@ -901,12 +901,12 @@ CN PLACEHOLDER
 少年「………………………………」%K%P
 ......
 CN PLACEHOLDER
-...
+......
 
 優「これは、海を含めた地球上のどこかに落ちてる、髪の毛を探してるようなものよ」%K%P
 It's like looking for a hair on the whole of the planet Earth, including the oceans.
 CN PLACEHOLDER
-Это всё равно, что искать иголку в стоге сена размером с земной шар, включая океаны.
+Это всё равно, что искать иголку в стоге сена, размером с земной шар.
 
 優「マヨが解読したのは、そんな暗号なの」%K%P
 That's the code that Mayo decrypted.
@@ -916,7 +916,7 @@ CN PLACEHOLDER
 優「でもね？　マヨの本当に凄いのは、そんなことじゃなくて、それを解読したときの方法」%K%P
 But you know what? What's so incredible about it isn't that Mayo was able to do it, but the method she used to do it.
 CN PLACEHOLDER
-Но знаешь что? Невероятно не то, что Майо смогла это сделать, а метод, которым она для этого пользовалась.
+Но, знаешь что? Невероятно не то, что Майо смогла это сделать, а метод, которым она для этого пользовалась.
 
 少年「方法？」%K%P
 The method?
@@ -926,12 +926,12 @@ CN PLACEHOLDER
 優「うん。パスワードを探し出す方法としては『数学的に何やら難しい計算をしながら解いていく方法』と……」%K%P
 Yeah. There are two ways of finding a password. One involves difficult mathematical calculations...
 CN PLACEHOLDER
-Да. Существует два способа найти пароль. Первый – использовать сложные математические вычисления...
+Да. Существует два способа найти пароль. Первый - использовать сложные математические вычисления...
 
 優「『全ての鍵をしらみつぶしに組み合わせて解いていく方法』の２種類があるの」%K%P
 The other is a method that has to do with trying every key.
 CN PLACEHOLDER
-Второй – метод перебора всех возможных комбинаций ключа.
+Второй - метод перебора всех возможных комбинаций ключа.
 
 優「前者の方法は、まだ有効なアルゴリズムが見つかってないらしくて……」%K%P
 It seems like she couldn't find an algorithm to work for the first method...
@@ -946,12 +946,12 @@ CN PLACEHOLDER
 優「それも、大会に参加する世界中のコンピューターを一度に使ってね。じゃないと、計算に何十万年もかかってしまうと言われてるの」%K%P
 And that's using all of the computers around the world participating in the contest. If you didn't, they say the calculations would take tens of thousands of years.
 CN PLACEHOLDER
-Но в таком случае пришлось бы задействовать для состязания все компьютеры на планете. Иначе расчёты заняли бы сотни тысяч лет.
+Но, в таком случае пришлось бы задействовать для состязания все компьютеры на планете. Иначе расчёты заняли бы сотни тысяч лет.
 
 優「だけど……だけどね？　マヨは違った」%K%P
 But... But Mayo did it differently.
 CN PLACEHOLDER
-Но... но... у Майо получилось.
+Но...но...у Майо получилось.
 
 少年「まさか……」%K%P
 She didn't...
@@ -971,7 +971,7 @@ CN PLACEHOLDER
 優「そして、大会参加後、わずか７日でパスワードを探し出した」%K%P
 And just seven days after the competition started, she had found the password.
 CN PLACEHOLDER
-И на седьмой день после начала соревнования она подобрала пароль.
+И, на седьмой день после начала соревнования, она подобрала пароль.
 
 少年「………………………………………………………………」%K%P
 ............................
@@ -991,17 +991,17 @@ CN PLACEHOLDER
 目の前にいる少女の存在が、あまりにも遠すぎて……。%K%P
 It was just too hard to imagine that the girl in front of me could do that...
 CN PLACEHOLDER
-Просто... слишком тяжело представить, что девушка передо мной способна на ТАКОЕ...
+Просто...слишком тяжело представить, что девушка передо мной способна на ТАКОЕ...
 
 （沙羅……きみはいったい……何者なんだ？）%K%P
 (Sara... What in the world... are you?)
 CN PLACEHOLDER
-(Сара... что... ты такое?)
+(Сара...что...ты такое?)
 
 沙羅「あー、もう！　これも違う！！」%K%P
 Agghh! This isn't right!
 CN PLACEHOLDER
-А-а-агх! Это хреново!
+Ааагх! Это хреново!
 
 拳でコンソールを『ゴン！』と叩く沙羅。%K%P
 Sara pounded her fist on the console.
@@ -1021,12 +1021,12 @@ CN PLACEHOLDER
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 沙羅「あ、ごめん……ちょっとイラついてて……」%K%P
 Oh, I'm sorry... I'm just a little irritated.
 CN PLACEHOLDER
-Ох... прости... я просто слегка на нервах.
+Ох...прости...я просто слегка на нервах.
 
 少年「いいよ、こっちも沙羅だけに苦労させて、悪いと思ってるから」%K%P
 Don't worry about it. I'm sorry for asking you to do this.
@@ -1036,7 +1036,7 @@ CN PLACEHOLDER
 沙羅「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「ねえ、ちょっと休憩しようか？　コーヒー淹れたの」%K%P
 Hey, why don't we take a break? I made some coffee.
@@ -1061,42 +1061,42 @@ CN PLACEHOLDER
 沙羅「わぁ、どうもありがとうございますぅ〜、先輩〜♪」%K%P
 Oh, thank you so much
 CN PLACEHOLDER
-Ой... спасибочки тебе, сэмпай.
+Ооой...спасибочки тебе, подружка.
 
 沙羅のコーヒーには、ミルクとシュガーポットが添えられている。%K%P
 Sara's coffee came with milk and the sugar bowl.
 CN PLACEHOLDER
-Кофе Сары... с молоком и сахаром.
+Кофе Сары...с молоком и сахаром.
 
 少年「あ、あれれ？」%K%P
 H-Hey.
 CN PLACEHOLDER
-Э-эй!
+Э〜эй!
 
 少年「ねえ、コーヒーには不純物を入れちゃイケナイんでしょ？」%K%P
 Didn't you say that you weren't supposed to put impurities in coffee?
 CN PLACEHOLDER
-А кто мне тут недавно затирал про чёрный кофе?
+А кто мне тут недавно втирал мозги про чёрный кофе?
 
 優「いいのいいの、マヨだけは特別なんだから」%K%P
 It's okay. Mayo is a special exception.
 CN PLACEHOLDER
-Да ладно тебе. Майо – это отдельная песня.
+Да ладно тебе. Майо - это отдельная песня.
 
 沙羅「そうそう」%K%P
 Yup.
 CN PLACEHOLDER
-Ага.
+А〜га.
 
 優・沙羅「ねぇ〜？♪」%K%P
 That's right〜
 CN PLACEHOLDER
-Именно так!
+Дяяя!
 
 少年「差別だよ」%K%P
 That's discrimination...
 CN PLACEHOLDER
-Эй, так нечестно!
+Эй, так не честно!
 
 優「あ、差別なんて、人聞き悪〜い」%K%P
 Ah, discrimination sounds so harsh〜
@@ -1106,17 +1106,17 @@ CN PLACEHOLDER
 沙羅「うむうむ、区別と言って欲しいでござるな」%K%P
 Yeah, yeah, we'd prefer if you called it 'distinction', if you please.
 CN PLACEHOLDER
-Угу. Ты это ты, а я это Я.
+У〜гу. Ты это ты, а я это Я.
 
 （おんなじだろっ！）%K%P
 (That's the same thing!)
 CN PLACEHOLDER
-(Как же это в духе Ю – менять правила на ходу!)
+(Как же это в духе Ю - менять правила на ходу!)
 
 が、口には出さずに、ぼくは自分のコーヒーにミルクと砂糖を入れた。%K%P
 Not wanting to start an argument, I silently put milk and sugar in my coffee.
 CN PLACEHOLDER
-Не желая с ними связываться, я молча налил себе в кофе молоко и добавил сахар.
+Не желая с ними связываться, я молча налил себе в кофе молоко и посыпал сахару.
 
 ………………。%K%P
 ...
@@ -1146,12 +1146,12 @@ CN PLACEHOLDER
 お手上げ、ということらしい。%K%P
 She meant she had zilch.
 CN PLACEHOLDER
-Значит, и правда результата ноль.
+Значит и правда результата ноль.
 
 優「そっか、マヨの腕をもってしても、手強いのね……」%K%P
 Wow, if this is even tough for you, Mayo, this must be some security...
 CN PLACEHOLDER
-Ого, значит, эта штука не даётся даже тебе, Майо. Что же там за защита...
+Мда-с, значит эта штука не даётся даже тебе, Майо. Что же там за защита...
 
 沙羅「はっきり言って、尋常じゃないですよ、ここのセキュリティ」%K%P
 To tell you the truth, the security here is way above normal.
@@ -1166,27 +1166,27 @@ CN PLACEHOLDER
 少年「ふぁいあーうぉーる？　でーもん？」%K%P
 Fire well? Daem what...? Huh?
 CN PLACEHOLDER
-Файер... вол? Демо-чего? А?
+Файербол? Демоны...?»%K%P(Они что, в Диаблу играют?!)%K%P
 
 沙羅「ファイアーウォールは、ネットワーク内に知らない人が侵入してこないようにするための仕組みのこと」%K%P
 A firewall is a way of protecting a network from unknown intruders.
 CN PLACEHOLDER
-Файервол это система, которая предотвращает от проникновения в сеть неизвестных лиц.
+Файервол - это программа, защищающая сеть от 'залётных гастролёров'.
 
 沙羅「デーモンって言うのは、ＯＳ上でメモリに常駐して、サーバーの……」%K%P
 Daemons reside on the OS in the memory. They're responsible for all of the...
 CN PLACEHOLDER
-Демоны работают в памяти ОС. Они отвечают за...
+Демоны работают в памяти ОС. Они отвечают за все...
 
 少年「も、もういいよ……わかったから……ありがと」%K%P
 Uh, okay... I get it... Thanks.
 CN PLACEHOLDER
-Э-э, ладно... я понял... спасибо.
+Ээ, ладно...я понял...спасибо.
 
 （質問するのは、もうやめておこう……）%K%P
 (That's it, I'm not asking any more questions...)
 CN PLACEHOLDER
-(Всё, с меня хватит – молчу в тряпочку...)
+(Всё, с меня хватит - молчу в тряпочку...)
 
 優「そんなに堅固なの？　ここって」%K%P
 It's that tough, huh?
@@ -1201,22 +1201,22 @@ CN PLACEHOLDER
 『……普通、この系統のＯＳのソフトは、Ｃで組んであるだけだから……』%K%P
 “...Normally this kind of OS software is put together using C...”
 CN PLACEHOLDER
-«...обычно эти ОС пишут на языке Си...»
+'...обычно эти ОС пишут на сишняке...'
 
 『……そこを狙ってＤｏＳ攻撃をかけてやれば……』%K%P
 “...So, I tried to attack it using DoS...”
 CN PLACEHOLDER
-«...поэтому я попыталась провести DoS-атаку...»
+'...поэтому, я попыталась провести DoS-атаку...'
 
 『……だけど、どれも改良が加えられていて……』%K%P
 “...But it's been reinforced...”
 CN PLACEHOLDER
-«...но она не сработала...»
+'...но, она не сработала....'
 
 『……なかなかセキュリティホールが見つからない……』%K%P
 “...I'm having trouble finding a hole in the security...”
 CN PLACEHOLDER
-«...Мне не удаётся пробить брешь в защите...»
+'...такое ощущение, что девелоперы залатали все дырки в системе безопасности...'
 
 そんな宇宙語的な会話が（ほとんど沙羅主体で）繰り広げられる。%K%P
 The conversation (mostly Sara talking) might as well have been in some alien language.
@@ -1226,7 +1226,7 @@ CN PLACEHOLDER
 優「うーん、そこまでくると、私にもよくわかんないんだけど……」%K%P
 Well, when it gets that complicated, that's pretty much my limit...
 CN PLACEHOLDER
-Ну, когда всё становится столь серьёзным, я мало на что гожусь...
+Эээххх... Когда всё становится столь серьёзно, я мало на что гожусь...
 
 優「ますます胡散臭くなってきたわね、ここのデータベース」%K%P
 I'm getting more and more suspicious about this database.
@@ -1241,7 +1241,7 @@ CN PLACEHOLDER
 沙羅「そうですね……異常です。たかが一企業のセキュリティとは思えない」%K%P
 Yeah... It's really strange. This isn't your average company's security system.
 CN PLACEHOLDER
-Точно... странно как-то... такую защиту редко где встретишь.
+Точно...странно как-то...такую защиту редко где встретишь.
 
 ふと、空が１日に、ライプリヒがここにＬｅＭＵを建造した理由を『企業秘密』だと言っていたことを思い出す。%K%P
 I suddenly remembered that on the first day, Sora had told me the reason why Leiblich built LeMU was a corporate secret.
@@ -1251,12 +1251,12 @@ CN PLACEHOLDER
 なにか関係があるのだろうか。%K%P
 I wondered if it could be related.
 CN PLACEHOLDER
-А что, если всё это связано?
+А что если всё это связано?
 
 優「あ、そうだ。マヨがコンテストで暗号を解読したプログラム、使えないかな？」%K%P
 Hey, can't you use the program that worked to win that decoding contest, Mayo?
 CN PLACEHOLDER
-Ох, конечно же... Майо, а что, если воспользоваться той программой, что помогла тебе выиграть соревнование по дешифровке?
+Ох, конечно же... Майо, а что если воспользоваться той программой, что помогла тебе выиграть соревнование по дешифровке?
 
 少年「あぁ、なるほど」%K%P
 Oh, that's an idea.
@@ -1266,7 +1266,7 @@ CN PLACEHOLDER
 優「それでｒｏｏｔ権限のパスワードがわかれば……」%K%P
 And if we could figure out the root authority password...
 CN PLACEHOLDER
-И если мы сможем получить пароль от учётки рута...
+И, если мы сможем получить пароль от учётки рута...
 
 沙羅「それは無理ですよ」%K%P
 That's impossible.
@@ -1296,17 +1296,17 @@ CN PLACEHOLDER
 少年「え！？」%K%P
 What?
 CN PLACEHOLDER
-Что?!
+?!?
 
 優「な、なによ……それ……」%K%P
 Wh-What...? That means...
 CN PLACEHOLDER
-Ч-что... это же...
+Ч-что...это же...
 
 ２の１３６乗通りの暗号パターン。%K%P
 The number of possible patterns was 2 to the 136th power.
 CN PLACEHOLDER
-Число возможных комбинаций – два в 136-й степени.
+Число возможных комбинаций - два в 136-й степени.
 
 沙羅「仮に、同程度の暗号強度だったとしても、パスワードがわかった頃には……」%K%P
 Even if you had what it took to get the password, by the time you found it...
@@ -1321,7 +1321,7 @@ CN PLACEHOLDER
 『ぼ〜ん！』%K%P
 Booom!
 CN PLACEHOLDER
-«Бууум!»
+'Бууум!'
 
 そう……。%K%P
 She was right...
@@ -1371,12 +1371,12 @@ CN PLACEHOLDER
 沙羅「私が今まで試したのは、正攻法的なクラッキングなんです」%K%P
 Everything I tried up until now has been cracking this using orthodox methods.
 CN PLACEHOLDER
-Всё, что я испробовала для взлома – сплошь традиционные методы.
+Всё, что я испробовала для взлома - сплошь традиционные методы.
 
 少年「あの、クラッキングに正攻法も何もないんじゃ……」%K%P
 Uh, there's no such thing as orthodox cracking, is there...?
 CN PLACEHOLDER
-Э-э, неужели есть такая вещь, как традиционное хакерство?..
+Ээ, неужели есть такая вещь, как традиционное хакерство...?
 
 ぼくを無視して沙羅は続ける。%K%P
 Sara ignored me and went on talking.
@@ -1401,17 +1401,17 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「なんなの？　それは？」%K%P
 What's that?
 CN PLACEHOLDER
-Что это?
+???
 
 沙羅「簡単に言えば、社会的な行為を利用した情報入手方法なんだけど……例えば……」%K%P
 Simply put, it's using social behavior to get information... For example...
 CN PLACEHOLDER
-Проще говоря, воспользоваться социальным поведением для добычи информации... Например...
+Проще говоря, воспользоваться социальным поведением для добычи информации...Например...
 
 そこで沙羅は、言いにくそうに、一度言葉を切った。%K%P
 Sara stopped as if it was hard to say.
@@ -1421,17 +1421,17 @@ CN PLACEHOLDER
 沙羅「例えば、攻撃対象のサーバーを運営してる会社の人間をだまして、パスワードの情報を入手する、とか」%K%P
 For example, finding a person that works for the company operating the server you want to attack and tricking them into giving you a password.
 CN PLACEHOLDER
-Например, найти человека, работающего на мэйнфрейме компании, что ты хочешь атаковать, обмануть и выведать у него пароль.
+Например, найти человека, работающего на мэйнфрейме компании, что ты хочешь атаковать; обмануть, запугать, задобрить, чтобы тот дал тебе пароль.
 
 少年「会社の内部の人間をだまして……って、まさか……！」%K%P
 You get it by tricking... someone...?
 CN PLACEHOLDER
-Получить пароль... обманув кого-то?..
+Получить пароль...обманув кого-то...?
 
 優「空を、だますってこと？」%K%P
 You're talking about tricking Sora?
 CN PLACEHOLDER
-Ты подводишь к тому, чтобы обмануть Сору?
+Сора...это хочешь сказать?
 
 頷く沙羅。%K%P
 Sara nodded.
@@ -1441,7 +1441,7 @@ CN PLACEHOLDER
 少年「そんな……そんなことできるはずがないじゃないか」%K%P
 There... There's no way we could do it.
 CN PLACEHOLDER
-Мы... мы не сможем этого сделать.
+Мы...мы не сможем этого сделать.
 
 少年「よりによって、空をだますなんて……」%K%P
 Even if we could trick Sora...
@@ -1466,17 +1466,17 @@ CN PLACEHOLDER
 沙羅「でも、不法に情報を入手するってのは、そういうことなんだよ？」%K%P
 But that's how you get information illegally.
 CN PLACEHOLDER
-Но именно поэтому такая добыча информации и называется незаконной.
+Но, именно поэтому такая добыча информации и называется незаконной.
 
 沙羅「もし先輩が、その情報をどうしても手に入れる必要があるなら、手段を選んでなんかいられないの」%K%P
 But if you're set on getting that information no matter what, you don't have much choice.
 CN PLACEHOLDER
-Но если ты должен получить информацию во что бы то ни стало, иного выбора у тебя нет.
+Но, если ты должен получить информацию чего бы то не стоило, большого выбора у тебя нет.
 
 沙羅「それだけは、わかってほしい」%K%P
 I just want you to know that.
 CN PLACEHOLDER
-Я просто хочу, чтобы вы оба это знали.
+Я просто хочу, чтобы Вы оба это знали.
 
 ぼくは何も言えなくなる。%K%P
 I couldn't think of anything to say.
@@ -1486,7 +1486,7 @@ CN PLACEHOLDER
 コンピューターを介して行っているからこそ実感はないが、ぼくらは他人をだまして情報を手に入れようとしている。%K%P
 We were using a computer to do it, so it didn't seem real, but we were actually trying to deceive someone to get information.
 CN PLACEHOLDER
-Когда мы использовали компьютер, это не казалось столь реальным. Но сейчас мы собираемся сознательно сбить с толку кого-то, чтобы получить сведения.
+Когда мы использовали компьютер, это не казалось столь реальным. Но, сейчас мы собираемся сознательно сбить с толку кого-то, чтобы получить сведения.
 
 ぼくらがやっていることは、そういうことなのだ。%K%P
 That was exactly what we were trying to do.
@@ -1496,7 +1496,7 @@ CN PLACEHOLDER
 優「最大のバグは人間である、か……」%K%P
 A system's biggest bug is the people who use it...
 CN PLACEHOLDER
-Самый большой баг системы – люди, что в ней работают...
+Самый большой баг системы - люди, что в ней работают....
 
 優「これ、よくお母さんが言ってたの」%K%P
 My mom used to say that a lot.
@@ -1506,7 +1506,7 @@ CN PLACEHOLDER
 優「そういう意味では、私達こそが、レミの中に紛れ込んだバグなのかもしれないね」%K%P
 In that way, maybe we're all bugs in LeMMIH's system.
 CN PLACEHOLDER
-Если так, то наверное мы все – баги в системе LeMMIH.
+Если так, то наверно мы все - баги в системе ЛеММИХ.
 
 優は沙羅をまっすぐ見つめる。%K%P
 You stared straight at Sara.
@@ -1521,7 +1521,7 @@ CN PLACEHOLDER
 優「けど、それだけはできない」%K%P
 But I just can't do it.
 CN PLACEHOLDER
-Но я просто не могу так поступить.
+Но, я просто не могу так поступить.
 
 優「空をだますなんて方法は、私にはとれない」%K%P
 I can't do anything to deceive Sora.
@@ -1536,7 +1536,7 @@ CN PLACEHOLDER
 優「マヨだけに辛い思いさせて申し訳ないんだけど……もう少しだけ、別の方法を探してみましょう？」%K%P
 Mayo, I'm sorry for asking for such a difficult favor... but I think I'd rather try something else for now.
 CN PLACEHOLDER
-Майо, прости, что прошу тебя о такой непростой услуге... но, наверное, пока лучше попробовать что-то ещё.
+Майо, прости что упросила тебя о медвежьей услуге...но, наверно пока лучше попробовать что-то ещё.
 
 沙羅はうつむく。%K%P
 Sara looked down.
@@ -1606,17 +1606,17 @@ CN PLACEHOLDER
 ――空！？%K%P
 Sora!?
 CN PLACEHOLDER
-Сора?!
+Сора!?
 
 まばゆい光に包まれた空が、宙に浮かんでいる。%K%P
 Sora was floating in the air and surrounded by a bright ring of light.
 CN PLACEHOLDER
-Сора висит в воздухе, окружённая ореолом яркого света.
+Сора плывёт в воздухе, окружённая кольком яркого света.
 
 高みから、ぼくらを見下ろしている。%K%P
 She was looking down at us from above.
 CN PLACEHOLDER
-Она смотрит на нас сверху.
+Она смотрит на нас верху.
 
 白いストールを翼のように左右へと広げ……。%K%P
 She was wearing a white-looking cape that fanned out like a pair of wings...
@@ -1631,12 +1631,12 @@ CN PLACEHOLDER
 少年「ど、どうしたの、空……いきなり現れたりして……」%K%P
 Wh-What is it, Sora...? Showing up all of a sudden...
 CN PLACEHOLDER
-Ч-что стряслось, Сора?.. Ты так внезапно появилась...
+Ч-что стряслось, Сора...? Ты появилась столь неожиданно...
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「空？」%K%P
 Sora?
@@ -1651,17 +1651,17 @@ CN PLACEHOLDER
 空「レミの一部に異常なトラフィックが出ていたので、様子を見にきたのですが……」%K%P
 There was some abnormal traffic on LeMMIH, so I came to see what was going on...
 CN PLACEHOLDER
-Обнаружен аномальный межсетевой трафик LeMMIH. Я здесь для проведения расследования...
+Обнаружен аномальный межсетевой траффик ЛеММИХ. Я здесь для проведения расследования...
 
 空「みなさん、何をやっておられるのですか？」%K%P
 What are you all doing?
 CN PLACEHOLDER
-Что вы здесь делаете?
+Что Вы здесь делаете?
 
 口調は柔らかだが、その視線は氷雨のように冷たい。%K%P
 Sora spoke politely, but her eyes were like ice.
 CN PLACEHOLDER
-Сора говорит спокойно, но взгляд её холоден.
+Сора...её тон и глаза...холодные как лёд.
 
 やはりと言うべきか、空にはすべてお見通しだったのだ。%K%P
 We should have expected her to see through us.
@@ -1671,7 +1671,7 @@ CN PLACEHOLDER
 しかし、いつもの空とは別人のような、この雰囲気は？%K%P
 But why did she seem completely different than the Sora we were used to?
 CN PLACEHOLDER
-Но почему сейчас здесь ДРУГАЯ, совершенно незнакомая нам Сора?
+Но, почему сейчас здесь ДРУГАЯ, совершенно незнакомая нам Сора?
 
 空「答えてください」%K%P
 Please answer.
@@ -1681,7 +1681,7 @@ CN PLACEHOLDER
 沙羅「見てわからない？　レミをクラックしてるの」%K%P
 Can't you tell by looking? We're trying to crack LeMMIH.
 CN PLACEHOLDER
-Неужели не видно? Мы пытаемся взломать LeMMIH.
+Неужели не видно? Мы пытаемся взломать ЛеММИХ.
 
 沙羅は、しれっと答える。%K%P
 Sara answered coldly.
@@ -1701,7 +1701,7 @@ CN PLACEHOLDER
 少年「レミを作ったメンバーの中に、優のお父さんがいたんだ」%K%P
 You's father was a member of the team that made LeMMIH.
 CN PLACEHOLDER
-Отец Ю был членом команды разработчиков LeMMIH.
+Отец Ю был членом команды разработчиков ЛеММИХ.
 
 少年「つまり、空のお父さんのひとりでもあるんだよ」%K%P
 In other words, he's your father too, Sora.
@@ -1711,17 +1711,17 @@ CN PLACEHOLDER
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「でも、優のお父さんは、１７年前に失踪してしまっていて……」%K%P
 But he disappeared seventeen years ago...
 CN PLACEHOLDER
-Но он пропал без вести 17 лет назад...
+Но, он пропал без вести 17 лет назад...
 
 少年「それと同じ時期に、ここで原因不明の事故が起きたらしいじゃないか」%K%P
 There was an accident here at the same time, the cause of which was unclear.
 CN PLACEHOLDER
-Тогда же здесь произошла авария, причина которой неизвестна и по сей день.
+В тот же самый временной период, здесь случилась авария, причина которой не известна и по сей день.
 
 少年「何かオカシイんだよ」%K%P
 Something about the whole thing is shady.
@@ -1731,7 +1731,7 @@ CN PLACEHOLDER
 少年「事故のことも、優のお父さんのことも、謎だらけで……きっと、何か裏があるに決まってるんだ」%K%P
 Both the accident and the disappearance of You's father... We think that there's probably something behind the scenes connecting them...
 CN PLACEHOLDER
-И авария, и исчезновение отца Ю... мы думаем, что они связаны... одни только догадки повергают нас в ужас...
+И авария, и исчезновение отца Ю...мы думаем, что они связаны...одни только догадки повергают нас в ужас...
 
 少年「だから、優はその事実関係を調べようとしてるだけなんだ。真実が知りたいだけなんだよ」%K%P
 So You is trying to get the facts about her dad. She's looking for the truth.
@@ -1751,7 +1751,7 @@ CN PLACEHOLDER
 空「………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「空……」%K%P
 Sora...
@@ -1761,7 +1761,7 @@ CN PLACEHOLDER
 空「そうですか……そのようなことが……」%K%P
 So that's... what this is about...
 CN PLACEHOLDER
-Значит... вот в чём дело...
+Значит...вот в чём дело...
 
 空「田中さんの、お父様が……」%K%P
 Tanaka-san's father was...
@@ -1771,7 +1771,7 @@ CN PLACEHOLDER
 優「空……？」%K%P
 Sora...?
 CN PLACEHOLDER
-Сора?..
+Сора...?
 
 空「私も、できることなら、力をお貸ししたい」%K%P
 If it was something I could do, I would like to help you.
@@ -1801,12 +1801,12 @@ CN PLACEHOLDER
 空「ですが私にはレミを部外者から護るという使命があります」%K%P
 But my duty is to protect LeMMIH from intruders.
 CN PLACEHOLDER
-Однако это мой долг – защищать LeMMIH от взломщиков.
+Однако, это мой долг - защищать ЛеММИХ от взломщиков.
 
 空「むしろ、みなさんをとめなければならない」%K%P
 So I am supposed to stop you.
 CN PLACEHOLDER
-Поэтому... я обязана вас остановить.
+Поэтому...я обязана вас остановить.
 
 空「そのように、作られているのです」%K%P
 That is how I am designed.
@@ -1816,17 +1816,17 @@ CN PLACEHOLDER
 空「私ひとりでは、どうすることもできない……命令に従うしかない」%K%P
 I alone have no choice... but to obey my orders.
 CN PLACEHOLDER
-У меня нет иного выбора... кроме как исполнять свои приказы.
+У меня нет иного выбора...кроме как исполнять свои приказы.
 
 少年「そんな……」%K%P
 But that's not...
 CN PLACEHOLDER
-Но это не...
+Но, это не...
 
 空「ああ……私はいったい、どうしたら……」%K%P
 Oh... but... what should I...
 CN PLACEHOLDER
-Нет... что... что мне делать...
+Нет...что...что мне делать...
 
 苦しそうに肩を震わす空。%K%P
 Sora's shoulders shook, and she had a pained look on her face.
@@ -1851,7 +1851,7 @@ CN PLACEHOLDER
 少年「なんとかなる、って……沙羅、いったい、どうするつもりなの？」%K%P
 Work out somehow...? Sara, what are you trying to do?
 CN PLACEHOLDER
-Получится?.. Сара, что ты задумала?
+Получится...? Сара, что ты задумала?
 
 沙羅「空は今のプログラムに従う限り、私達の邪魔をしなければならない」%K%P
 If Sora follows her current program, then she'll have to get in our way.
@@ -1861,7 +1861,7 @@ CN PLACEHOLDER
 沙羅「でも空自身は、それを望んでない」%K%P
 But Sora doesn't want that.
 CN PLACEHOLDER
-Но сама Сора этого не хочет.
+Но, сама Сора этого не хочет.
 
 沙羅「だったら、空が望む行動がとれるように、プログラムを書き換えてやればいいってわけよ」%K%P
 So I should just rewrite the program so that Sora can take the action that she wants to take.
@@ -1871,7 +1871,7 @@ CN PLACEHOLDER
 空「そのようなことが、できるのですか？」%K%P
 Can you do that?
 CN PLACEHOLDER
-То есть... ты можешь это сделать?
+То есть...ты можешь это сделать?
 
 沙羅「たぶんね」%K%P
 Maybe.
@@ -1886,7 +1886,7 @@ CN PLACEHOLDER
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空の肩が、わずかに震えている。%K%P
 Sora's shoulders quivered slightly.
@@ -1901,22 +1901,22 @@ CN PLACEHOLDER
 空「はい、少し」%K%P
 Yes, a little.
 CN PLACEHOLDER
-Да... немножко.
+Да...немножко.
 
 空「いえ……とても、です」%K%P
 No... I am very scared.
 CN PLACEHOLDER
-Нет... мне очень страшно.
+Нет...мне очень страшно.
 
 沙羅「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「やっぱり……やめようよ」%K%P
 Let's... not do this.
 CN PLACEHOLDER
-Давайте... забудем об этом.
+Давайте...забудем об этом.
 
 優「私のわがままで、これ以上みんなに迷惑かけられないよ」%K%P
 I don't want my selfishness to cause any more problems for everyone.
@@ -1926,27 +1926,27 @@ CN PLACEHOLDER
 沙羅「先輩は黙ってて」%K%P
 Be quiet, Senpai.
 CN PLACEHOLDER
-Сэмпай, помолчи.
+Подруга, молчи.
 
 沙羅「もうこれは、なっきゅ先輩だけの問題じゃないんです」%K%P
 This has something to do with everyone, not just you.
 CN PLACEHOLDER
-Это касается всех, не только тебя.
+Это касается всех, а не только Няку.
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 沙羅「さあ、空？　判断して」%K%P
 Okay, Sora. It's up to you.
 CN PLACEHOLDER
-Итак... Сора... твоё слово.
+Итак...Сора...твоё слово.
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「ねえ、空？」%K%P
 Hey, Sora?
@@ -1956,7 +1956,7 @@ CN PLACEHOLDER
 少年「これは、判断材料のひとつとして聞いてほしいんだけど……」%K%P
 I'd like you to listen to me and then decide after you hear what I've got to say...
 CN PLACEHOLDER
-Выслушай меня, а затем сама реши, что для тебя важнее...
+Выслушай меня, а затем сама реши, что для тебя важней...
 
 少年「空は、前にこう言ってたよね？」%K%P
 Sora, you said it yourself.
@@ -1966,17 +1966,17 @@ CN PLACEHOLDER
 空「私は、皆さんと同じではありませんが、皆さんと同じでありたいと思っています」%K%P
 I am different from everyone else, but I want to be the same.
 CN PLACEHOLDER
-„Я отличаюсь от остальных, но я хочу быть как все“.
+'Я отличаюсь от остальных, но я хочу быть как все'.
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「空自身は、ぼくらと同じような存在でありたいと、願っている」%K%P
 You wanted to exist in the same way that we do.
 CN PLACEHOLDER
-Ты хотела существовать точно так же, как и мы.
+Ты хотела существовать точно также, как и мы.
 
 少年「そしてぼくらも、それと同じことを、望んでいる」%K%P
 And we want the same thing.
@@ -1991,27 +1991,27 @@ CN PLACEHOLDER
 空「……………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 沙羅「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+........
 
 やがて空は顔をあげ、沙羅の目をまっすぐに見つめた。%K%P
 Finally, Sora lifted her face and focused her eyes on Sara.
 CN PLACEHOLDER
-Наконец, Сора подняла голову и сфокусировала взгляд на Саре.
+Наконец, Сора полняла голову и сфокусировала свои глаза на Саре.
 
 空「わかりました。松永さん、よろしくお願いします」%K%P
 Alright. I agree. Matsunaga-san, please do your best.
@@ -2046,7 +2046,7 @@ CN PLACEHOLDER
 沙羅「じゃ、悪いけど、空の内部を見せてもらうわね？」%K%P
 Alright then. Sorry, Sora, but I'm going to take a look inside you now.
 CN PLACEHOLDER
-Поехали. Прости, Сора, но сейчас мне придётся заглянуть в твои внутренности.
+По〜оехали. Прости, Сора, но сейчас мне придётся заглянуть в твои внутренности.
 
 沙羅「心配しないで、レントゲンを撮るみたいなものだから」%K%P
 Don't worry. Think of it like an x-ray.
@@ -2071,7 +2071,7 @@ CN PLACEHOLDER
 空「う、うぅ……！」%K%P
 Ugghhh...!
 CN PLACEHOLDER
-Г... ууугх!..
+Г...ууугх...!
 
 空が苦しみはじめたのは。%K%P
 Sora began to suffer.
@@ -2086,17 +2086,17 @@ CN PLACEHOLDER
 空「あ、あぁ……やめて……やめてください……！」%K%P
 Ohhhh... Please stop...!
 CN PLACEHOLDER
-Гх-х-х... стойте... гх-х-х... Прошу вас, прекратите!..
+Гххх...стойте...гххх...прошу Вас, прекратите...!
 
 空「やめて、やめて…………やめてーーーっ！！！」%K%P
 Stop, stop... Stooop!
 CN PLACEHOLDER
-Прекратите, прекратите... прекратите!
+Прекратите, прекратите...прекратите!!
 
 少年「そ、空…………？」%K%P
 S-Sora...?
 CN PLACEHOLDER
-С-Сора?..
+С-Сора...?
 
 空「『システムスキャニングエラー』」%K%P
 System scanning error.
@@ -2106,7 +2106,7 @@ CN PLACEHOLDER
 空「『自律神経回路内に、不正な侵入を確認』」%K%P
 Unauthorized access to the autonomic nervous system confirmed.
 CN PLACEHOLDER
-Незаконное проникновение в автономную нервную систему... подтверждено.
+Незаконное проникновение в автономную нервную систему...подтверждено.
 
 少年「ど、どうしちゃったの！？」%K%P
 Wh-What happened?
@@ -2121,7 +2121,7 @@ CN PLACEHOLDER
 沙羅「ちぃ、まずったなぁ……スキャンに引っかかったっぽい……」%K%P
 Dang. That sucks... It looks like I got snagged by the scan...
 CN PLACEHOLDER
-Чёрт. Хреновенько... похоже, что я нарвалась на сканер...
+Чёрт. Хреновенько...похоже, что я нарвалась на сканер...
 
 少年「どういうこと？」%K%P
 What's that mean?
@@ -2136,47 +2136,47 @@ CN PLACEHOLDER
 空「いけない……！」%K%P
 Oh no...!
 CN PLACEHOLDER
-Нет!..
+Нет...!
 
 空「みなさん……今すぐ、逃げてください！」%K%P
 Everyone... Please escape at once!
 CN PLACEHOLDER
-Скорее... все... бегите отсюда!
+Скорее...все...бегите отсюда!
 
 空「このままでは……私は…………」%K%P
 If you stay... I...
 CN PLACEHOLDER
-Если вы останетесь... я...
+Если Вы останетесь...я...
 
 空「私は、みなさんに……危害を加えてしまうかもしれない」%K%P
 I may... harm you.
 CN PLACEHOLDER
-Я... могу... навредить вам.
+Я...могу...навредить Вам.
 
 優「えっ！？」%K%P
 Huh?
 CN PLACEHOLDER
-Что?
+〜〜〜?!
 
 空「逃げて……」%K%P
 Escape...
 CN PLACEHOLDER
-Спасайтесь!..
+Спасайтесь...!
 
 空「は、早く！」%K%P
 H-Hurry!
 CN PLACEHOLDER
-С-скорее!
+С...скорей〜〜〜!
 
 空「『侵入経路、判明』」%K%P
 Intruder route discovered.
 CN PLACEHOLDER
-Вторжение... подтверждено.
+Вторжение...подтверждено.
 
 空「ああ……もう間に合わない！！」%K%P
 Oh... I'm not going to make it!
 CN PLACEHOLDER
-Ух... только не это!
+Гххх...только не это!!
 
 手をかざす空。%K%P
 Sora held out her hand.
@@ -2186,7 +2186,7 @@ CN PLACEHOLDER
 空「『これより、侵入者の排除を実行します』」%K%P
 I will now carry out elimination of the intruder.
 CN PLACEHOLDER
-Уничтожение нарушителя... инициализировано.
+Уничтожение нарушителя...инициализировано.
 
 ――突如、周囲の景色が変わった。%K%P
 Our surroundings suddenly changed.
@@ -2196,7 +2196,7 @@ CN PLACEHOLDER
 そこは、もう警備室の中ではなかった。%K%P
 We were no longer in the security office.
 CN PLACEHOLDER
-Мы больше не в Офисе охраны.
+Мы больше не в Офисе Охраны.
 
 荒れ狂う海流の中！%K%P
 We were in the middle of a roiling ocean.
@@ -2221,17 +2221,17 @@ CN PLACEHOLDER
 声を上げようとして……だが、口から容赦なく肺の中へと水が入り込んできた。――息ができない。%K%P
 I tried to shout... but water continued to rush into my lungs, and I couldn't breathe.
 CN PLACEHOLDER
-Я попытался закричать... но вода побежала в мои лёгкие, не давая произнести ни звука.
+Я попытался закричать...но вода побежала в мои лёгкие, не давая произнести ни звука.
 
 （そんな……なんで！？）%K%P
 (What is... happening?)
 CN PLACEHOLDER
-(Что... происходит?)
+(Что...происходит?)
 
 優「これは……ＲＳＤ！？」%K%P
 Is this... an RSD image?
 CN PLACEHOLDER
-Это... RSD-изображение?!
+Это...RSD-изображение?!
 
 優が叫んだ。%K%P
 You shouted that.
@@ -2241,7 +2241,7 @@ CN PLACEHOLDER
 優「みんな、目を閉じて！」%K%P
 Everyone, close your eyes!
 CN PLACEHOLDER
-Ребята, скорее, закройте глаза!
+Все, скорей, закройте глаза!
 
 目を閉じると、周囲の地獄絵図は、途端に嘘のように失せていった。%K%P
 When I closed my eyes, the surrounding apocalyptic scenery seemed like a lie.
@@ -2251,12 +2251,12 @@ CN PLACEHOLDER
 耳元では依然として、海流が唸りをあげている。%K%P
 The ocean current continued to amplify in my ears.
 CN PLACEHOLDER
-Но океан продолжает шуметь в моих ушах.
+Но, океан продолжает шуметь в моих ушах.
 
 すべてホログラムの作り出した幻覚だったのだ。%K%P
 It was all the work of a generated hologram.
 CN PLACEHOLDER
-Значит, это всё-таки голограмма.
+Значит это всё-таки голограмма.
 
 ならば、もう怖くない。%K%P
 So it was no longer scary.
@@ -2271,7 +2271,7 @@ CN PLACEHOLDER
 空「ああっ！　これ以上は、やめてぇ！！」%K%P
 Aaahh! Please, stop!
 CN PLACEHOLDER
-А-а-агх! Прошу... прекратите!
+Ааагх! Прошу...прекратите!
 
 次の瞬間、頭の中にキィィーーーーーーン！　という高周波が鳴り響いた。%K%P
 The next instant, a high-frequency scream rang out in my mind.
@@ -2286,7 +2286,7 @@ CN PLACEHOLDER
 少年「うわぁぁぁぁぁぁぁぁぁぁああああ！！！！！」%K%P
 Waaaaaaaaaaaaaaaaaahhhhh!
 CN PLACEHOLDER
-А-а-а-а-а-а-а-а-а-а-а-агх-х-х-х!
+Ааааааааааааааааааагхххх!
 
 たまらなくなって、ぼくは音の元凶だと思われる音声変換器を取り外した。%K%P
 Unable to withstand it, I took out the voice converters that I thought were causing the pain.
@@ -2296,7 +2296,7 @@ CN PLACEHOLDER
 しかし、それを取っても音は鳴りやまない。%K%P
 But the sound went on.
 CN PLACEHOLDER
-Но звук не прекратился.
+Но, звук не прекратился.
 
 空「『ですから無駄だと申し上げたのです』」%K%P
 That is why I said it was no use.
@@ -2311,17 +2311,17 @@ CN PLACEHOLDER
 空「『ＬｅＭＵの中にいる限り、逃れることはできません』」%K%P
 As long as you are in LeMU, you cannot escape.
 CN PLACEHOLDER
-Пока вы находитесь в LeMU, вам никуда не деться.
+Пока Вы находитесь в LeMU, Вам никуда не деться.
 
 少年「や、やめてくれぇ……っ！！」%K%P
 Pl-Please stop...!
 CN PLACEHOLDER
-П... прекрати!..
+П...прекрати...!
 
 優「あ、あぁぁぁぁぁあああっ！！」%K%P
 Ahhhhhhhhhhhh!
 CN PLACEHOLDER
-А-а-а-аааа-ааАААГХ!
+Ааа〜〜〜аааа〜〜〜〜ааАААГХ!
 
 あまりの痛みに、床を転げ回るぼくら。%K%P
 The pain was so intense that we were rolling around on the floor.
@@ -2331,42 +2331,42 @@ CN PLACEHOLDER
 空「あぁ……ああっ！！　私は……私は……！！」%K%P
 Ahh... Aaahhhh! I... I...!
 CN PLACEHOLDER
-А-а-а-ааа-ааагх... Я... Я!..
+Ааа〜〜〜ааа〜〜〜ааагх...! Я...я...!
 
 空「『警告します。大人しく、レミから手を引きなさい』」%K%P
 I am warning you. Remove yourself from LeMMIH.
 CN PLACEHOLDER
-Предупреждение. Немедленно прекратите вторжение в LeMMIH.
+Предупреждение. Немедленно прекратите вторжение в ЛеММИХ.
 
 空「『ただちに、中止するのです』」%K%P
 Cease what you are doing immediately.
 CN PLACEHOLDER
-Прекратите... сейчас же.
+Прекратите...сейчас же.
 
 沙羅「い、いやよ……！」%K%P
 N-No...!
 CN PLACEHOLDER
-Ч... чёрта с два!..
+Ч...чёрта с два...!
 
 空「お願いです、松永さん。もう結構ですから、中止してください！」%K%P
 Please, Matsunaga-san. That is enough. Please stop!
 CN PLACEHOLDER
-Прошу... Сара... хватит... прекрати!
+Прошу...Сара...хватит...прекрати!!
 
 沙羅「いやだって、言ってるでしょっ！！」%K%P
 I said no!
 CN PLACEHOLDER
-Н-ни за что!
+Н〜〜ни за что!
 
 沙羅「空のためにも、先輩のためにも……私自身のためにも……私はやらなきゃいけないの」%K%P
 I have to do this... for Sora... for Senpai... and for myself.
 CN PLACEHOLDER
-Я сделаю это... ради Соры... ради Няку... ради себя!
+Я сделаю это...ради Соры...ради Няку...ради себя!
 
 沙羅「ライプリヒなんかに、負けてらんないのよっ！」%K%P
 I won't lose to Leiblich!
 CN PLACEHOLDER
-Я... не сдамся Лейблих!
+Я...не сдамся Лейблих!
 
 キーを叩き続ける沙羅。%K%P
 Sara continued pecking at the keyboard.
@@ -2381,57 +2381,57 @@ CN PLACEHOLDER
 空「『これ以上続けるというのなら、命の保証はできません』」%K%P
 If you persist in your efforts, I cannot guarantee your safety.
 CN PLACEHOLDER
-Если вы не подчинитесь моему приказу, я не могу гарантировать вашу безопасность.
+Если Вы не подчинитесь моему приказу, я не могу гарантировать Вашу безопасность.
 
 沙羅「くぅぅ……っ！　どこかに……どこかにきっと、セキュリティの手薄な箇所があるはずなのに……！」%K%P
 There has to be a hole somewhere in the security...!
 CN PLACEHOLDER
-В этой чёртовой защите где-то должна быть брешь!..
+В этой чёртовой защите где-то должна быть брешь...!
 
 空「ま、松永さん……！」%K%P
 M-Matsunaga-san...!
 CN PLACEHOLDER
-М-Мацунага-сан!..
+С-Сара...!
 
 沙羅「な……何よ？　私は絶対に……手を引かないからね……！」%K%P
 Wh... what? I'm not giving up... no matter what...!
 CN PLACEHOLDER
-Ч... что? Я не сдамся... чего бы мне это ни стоило!..
+Ч...что? Я не сдамся...чего бы мне это ни стоило...!
 
 空「そうではありません……私はこれから……自分のセキュリティの一部を解放します」%K%P
 There is no... I will from now... release one segment of my security.
 CN PLACEHOLDER
-Нет, не надо... сейчас я... разблокирую один из сегментов моей защиты.
+Нет, не надо...сейчас я...разблокирую один из сегментов моей защиты.
 
 空「そこを狙って……大量のデータを送り込んでください」%K%P
 Please aim for it... by sending in a massive load of data.
 CN PLACEHOLDER
-Нацелься на него... послав... массивный объём данных.
+Нацелься на него...послав...массивный объём данных.
 
 沙羅「つまり……オーバーフローを起こせってこと……？」%K%P
 You mean... Cause an overload...?
 CN PLACEHOLDER
-То есть... вызвать переполнение?..
+То есть...вызвать переполнение...?
 
 空「はい……それで……私のシステムは暴走するはずです」%K%P
 Yes... That should... make my system go out of control.
 CN PLACEHOLDER
-Да... это... выведет систему из строя.
+Да...это...выведет систему из строя.
 
 空「結果……どうなるかわかりませんが……うまくいけば、システムを書き換える隙ができるかもしれません」%K%P
 I can't guarantee... the outcome... but it might create a gap long enough for you to rewrite the system.
 CN PLACEHOLDER
-Я не знаю, какие... будут последствия... но это может создать интервал, достаточный для перезаписи системы.
+Я не знаю, какие...будут последствия...но, это может создать интервал, достаточный для перезаписи системы.
 
 沙羅「わかった……お願い！」%K%P
 Okay... Please do it!
 CN PLACEHOLDER
-Хорошо... прошу тебя!
+Хорошо...прошу тебя!
 
 空「私の力では……解放できるのは、ほんのわずかな時間だけです」%K%P
 With my power... I can only free it up for a short amount of time.
 CN PLACEHOLDER
-Я могу... освободить его лишь... на короткий срок.
+Я могу...освободить его лишь...на короткий срок.
 
 空「タイミングを見逃さないでください」%K%P
 Don't miss the chance.
@@ -2451,12 +2451,12 @@ CN PLACEHOLDER
 空「では、いきます……」%K%P
 Okay. Here I go...
 CN PLACEHOLDER
-Итак... начали...
+Итак...начали...
 
 空「くっ……！」%K%P
 Gggrrrrhhh...!
 CN PLACEHOLDER
-Гх-х-х-х!..
+Ггххххх...!
 
 ピーーーーーー！%K%P
 Beeeeeeeep!
@@ -2476,7 +2476,7 @@ CN PLACEHOLDER
 沙羅「ていやぁ、御免っ！」%K%P
 Sorry, Sora!
 CN PLACEHOLDER
-Сора... прости!
+Сора...прости!!
 
 空「『セキュリティの一部に……』」%K%P
 One segment of security...
@@ -2496,7 +2496,7 @@ CN PLACEHOLDER
 空「うっ、ああ、ああぁぁぁぁぁぁぁあああああああ！！！！！！！」%K%P
 Aaaaaaaaaaaaaaaaaaaaahhhh!
 CN PLACEHOLDER
-Гхх-гхх-аааааааааагх!
+Гхх〜〜〜гхх〜〜〜аааааааааагх!!
 
 ピーーーーーー！%K%P
 Beeeeeeeep!
@@ -2526,7 +2526,7 @@ CN PLACEHOLDER
 空「あっ、あああっ……はぁはぁ……ううぅぅぅっ……！！！」%K%P
 Aaaah... Arrrghhh... Oooooowww!
 CN PLACEHOLDER
-Ах.... А-г-г-гх... О-о-о-ох!
+Ааагх〜〜〜ааггхххх〜〜〜оооооогхх!
 
 苦しみ、悶える空。%K%P
 Sora struggled in pain.
@@ -2541,12 +2541,12 @@ CN PLACEHOLDER
 少年「空！？」%K%P
 Sora!?
 CN PLACEHOLDER
-Сора?!
+Сора!?
 
 優「空の……様子が……」%K%P
 Sora... looks bad...
 CN PLACEHOLDER
-Сора... ей плохо...
+Сора...ей плохо...
 
 ピーーーーーー！%K%P
 Beeeeeeeep!
@@ -2566,7 +2566,7 @@ CN PLACEHOLDER
 沙羅「暴走が、始まる……」%K%P
 Here goes the overload...
 CN PLACEHOLDER
-Вот и... перегрузка...
+Вот и...перегрузка...
 
 ピーーーーーー！%K%P
 Beeeeeeeep!
@@ -2576,17 +2576,17 @@ CN PLACEHOLDER
 空「ううぅぅぅっ！！！　わ、わからなくなっていく……」%K%P
 Waaaaa! Wh-What's happening to me...?
 CN PLACEHOLDER
-Га-а-а-агх! Ч-что со мной происходит?..
+Гаааагх! Ч-что со мной происходит...?
 
 空「私は……私は茜ヶ崎空……ＬｅＭＵ開発部ＳＥ主任代理……ＬｅＭＵの運行を補佐する者」%K%P
 I am... I am Akanegasaki Sora... A system engineer in LeMU's research and development division... and assistant in charge of operating LeMU.
 CN PLACEHOLDER
-Я... я... Аканэгасаки Сора... системный инженер... Отдела разработки... LeMU... и заместитель директора...
+Я...я...Аканегасаки Сора...системный инженер...Департамента Разработки...LeMU...и заместитель директора...
 
 バチッ！%K%P
 Crackle!
 CN PLACEHOLDER
-Треск!
+Треск!!
 
 コンソールの一部から火花があがる。%K%P
 A part of the console sparked.
@@ -2596,17 +2596,17 @@ CN PLACEHOLDER
 空「私は……ＬｅＭＵを訪れる皆様を、ご案内する者」%K%P
 I... will be your guide today during your visit to LeMU.
 CN PLACEHOLDER
-С... сегодня я буду вашим гидом, во время... посещения LeMU.
+С...сегодня я буду Вашим гидом, во время... посещения LeMU.
 
 空「私は……ＬｅＭＵと、そこに依存する人々の、安全を保証する者」%K%P
 I... guarantee your safety and the safety of everyone in LeMU.
 CN PLACEHOLDER
-Я... гарантирую вашу безопасность и безопасность всех посетителей LeMU.
+Я...гарантирую Вашу безопасность и безопасность всех посетителей LeMU.
 
 空「ＬｅＭＵにいるすべてを守る者」%K%P
 I am the protector of everyone in LeMU.
 CN PLACEHOLDER
-В LeMU... я ваш защитник.
+В LeMU...я Ваш защитник.
 
 空「ＬｅＭＵのすべてを守護する者」%K%P
 I am the defender of all in LeMU.
@@ -2621,22 +2621,22 @@ CN PLACEHOLDER
 空「私は……私は…………」%K%P
 I am... I am...
 CN PLACEHOLDER
-Я... я...
+Я...я...
 
 空「私は、いったい、誰なの……？」%K%P
 Who am I?
 CN PLACEHOLDER
-К-кто... я?
+К〜〜〜кто...я?
 
 沙羅「見失わないで！　あなたは空よ！　私達と一緒の時間を過ごしてきた茜ヶ崎空なの！」%K%P
 Don't lose yourself! You are Sora! You are Akanegasaki Sora and have been spending time with us!
 CN PLACEHOLDER
-Не теряй себя! Ты Сора! Ты Аканэгасаки Сора! Ты проводишь время с нами!
+Не теряй себя! Ты Сора! Ты Сора Аканегасаки! Ты проводишь время с нами!
 
 空「私は……みなさんと……？」%K%P
 I have... with everyone...?
 CN PLACEHOLDER
-Я... с кем?..
+Я...с кем...?
 
 ピーーーーーー！%K%P
 Beeeeeeeep!
@@ -2656,7 +2656,7 @@ CN PLACEHOLDER
 空「ううっ、ああーーーーーーーーーーーっ！！！！」%K%P
 Uuughhhhhhh!
 CN PLACEHOLDER
-Гха-а-а-А-А-АГХ!
+Гххх〜〜〜аааАААГХ!
 
 空は、いっそう激しく苦しみ出し……%K%P
 Sora started suffering even more...
@@ -2671,17 +2671,17 @@ CN PLACEHOLDER
 空が……ふたりになったのだ。%K%P
 Sora... split in two.
 CN PLACEHOLDER
-Сора... раздвоилась.
+Сора...раздвоилась.
 
 少年「空が……ふたり……」%K%P
 Sora... is two...
 CN PLACEHOLDER
-Две... Соры...
+Две...Соры...
 
 優「分裂……したってこと？」%K%P
 You mean... she divided...?
 CN PLACEHOLDER
-Как это... она разделилась?..
+Как это...она разделилась...?
 
 目の錯覚ではない。%K%P
 It wasn't an illusion.
@@ -2691,7 +2691,7 @@ CN PLACEHOLDER
 もちろん、実体のないＲＳＤという性質上、それが錯覚でない保証などないのだが……。%K%P
 Of course, given that it was all RSD-generated, there was no guarantee that it all wasn't an illusion...
 CN PLACEHOLDER
-Конечно, если учесть, что всё это результат работы RSD, нет никаких гарантий, что это не иллюзия...
+Конечно, если учесть что всё это результат работы RSD, нет никаких гарантий, что это не иллюзия...
 
 少なくとも、ぼくだけが知覚している事象ではなかった。%K%P
 At least I wasn't the only one that saw it.
@@ -2711,7 +2711,7 @@ CN PLACEHOLDER
 拮抗している両者。%K%P
 The two of them struggled equally.
 CN PLACEHOLDER
-Но больно им обеим.
+Но, больно им обеим.
 
 ふたりになった空……。%K%P
 The two Soras...
@@ -2721,7 +2721,7 @@ CN PLACEHOLDER
 リンゴが、ふたつに切り分けられたかのように？%K%P
 It was like an apple split into two pieces...?
 CN PLACEHOLDER
-Это же не всё равно, что разрезать яблоко пополам?..
+Это же не всё равно, что разрезать яблоко пополам...?
 
 いや違う！　リンゴは、ふたつに増殖したのだ。%K%P
 No! It was like an apple reproduced in whole.
@@ -2731,12 +2731,12 @@ CN PLACEHOLDER
 非減数分裂……。%K%P
 Non-reductional division...
 CN PLACEHOLDER
-Как при митозе...
+...Клеточное Деление.
 
 これがレミの暴走が引き起こした結果なのか。%K%P
 I figured that it was the result of overloading LeMMIH.
 CN PLACEHOLDER
-Видимо, это результат перегрузки LeMMIH.
+Видимо, это результат перегрузки ЛеММИХ.
 
 沙羅「よしっ！　ｒｏｏｔ権限が奪えた！」%K%P
 Okay! I got the root authority!
@@ -2746,32 +2746,32 @@ CN PLACEHOLDER
 空「さあ、今です！　今なら、そちらでシステムを書き換えることができます！」%K%P
 Do it now! If you strike now, you can rewrite the system!
 CN PLACEHOLDER
-Скорее! Если сделать всё сейчас, ты сможешь переписать систему!
+Скорей! Если сделать всё сейчас, ты сможешь переписать систему!
 
 空「『システムに……致命的な……エラーが発生……』」%K%P
 A fatal... system error... has occurred...
 CN PLACEHOLDER
-Обнаружена... фатальная системная... ошибка...
+Обнаружена...фатальная системная...ошибка...
 
 空「『データ破損の……恐れあり……ただちに……復旧を……』」%K%P
 Data may be... damaged... Immediately... initiate... rebuilding...
 CN PLACEHOLDER
-Данные могут быть... повреждены... Система... будет... сброшена...
+Данные могут быть...повреждены... Система... будет...сброшена...
 
 空「『３０秒の……待機ののち……エマージェンシーリセット』」%K%P
 In 30 seconds... the emergency reset... will initiate.
 CN PLACEHOLDER
-До аварийного сброса... осталось...30 секунд.
+До аварийного сброса...осталось...30 секунд.
 
 空「早く！　レミがシステムを復旧するために、リセットをかけようとしています！」%K%P
 Hurry! LeMMIH is resetting the system to rebuild it!
 CN PLACEHOLDER
-Скорее... LeMMIH перезапускает систему!..
+Скорее...! ЛеММИХ перезапускает систему...!
 
 空「その前に、早く！」%K%P
 You must act before that! Hurry!
 CN PLACEHOLDER
-Скорее... поторопись!
+Скорей...торопись!
 
 沙羅「ＯＫ！　もう少しの辛抱だからね、空」%K%P
 Okay! Just be patient, Sora.
@@ -2786,7 +2786,7 @@ CN PLACEHOLDER
 ぼくらは、ただ黙ってそれを見守ることしかできない。%K%P
 All we could do was stand helplessly and watch.
 CN PLACEHOLDER
-Всё, что мы с Ю сейчас можем – беспомощно стоять и смотреть.
+Всё, что мы с Ю сейчас можем - беспомощно стоять и смотреть.
 
 空「『――リセットまで、あと１７秒』」%K%P
 Seventeen seconds to reset.
@@ -2801,7 +2801,7 @@ CN PLACEHOLDER
 沙羅「もうちょい！」%K%P
 Just a little more!
 CN PLACEHOLDER
-Почти!..
+Почти...!
 
 額の汗を拭いながら、沙羅はコードを打ち込み続ける。%K%P
 Sara continued pounding in code as she wiped the sweat from her brow.
@@ -2816,12 +2816,12 @@ CN PLACEHOLDER
 空「松永さん！」%K%P
 Matsunaga-san!
 CN PLACEHOLDER
-Мацунага-сан!
+Сара...!!
 
 沙羅「できたぁっ！」%K%P
 I've got it!
 CN PLACEHOLDER
-Г... готово!
+Г...готово!
 
 飛び上がるようにして、椅子から立ち上がる沙羅。%K%P
 Sara stood as if she were ejected from her chair.
@@ -2836,12 +2836,12 @@ CN PLACEHOLDER
 沙羅「いざ！　科学忍法……」%K%P
 Okay! Ninja Technology Technique...
 CN PLACEHOLDER
-Есть! Ка-га-ку-ни-пооо!
+Есть! Ка〜га〜ку〜ни〜пооо〜〜〜!
 
 沙羅「――どんでん返し！！」%K%P
 Time to turn the tables!
 CN PLACEHOLDER
-Пе-ре-за-пуск!
+Пе〜ре〜за〜пу〜ск!
 
 手の平で、叩きつけるようにエンターキーを押し込んだ。%K%P
 Sara struck the keyboard with her palm.
@@ -2856,7 +2856,7 @@ CN PLACEHOLDER
 その中で、ふたりの空の影がひとつに重なり合っていく。%K%P
 The two of Sora's images began to overlap...
 CN PLACEHOLDER
-Два изображения Соры стали перекрывать друг друга...
+Два изображения Соры стали перекрывать друг друга..
 
 ふたりはひとつに融合する。%K%P
 The two fused into one.
@@ -2866,7 +2866,7 @@ CN PLACEHOLDER
 と同時に、システムが緊急リセットされた。%K%P
 At the same time, the system underwent an emergency reset.
 CN PLACEHOLDER
-В ту же секунду произошёл аварийный сброс.
+В ту же секунду, произошёл аварийный сброс.
 
 途端に周囲は、漆黒の闇に呑み込まれる。%K%P
 At that instant, we were all swallowed into pitch blackness.
@@ -2876,12 +2876,12 @@ CN PLACEHOLDER
 暗闇と静寂……色あるもの、音あるものが失われる。%K%P
 Darkness and silence... colors and sound lost.
 CN PLACEHOLDER
-Темнота и тишина... цвета и звуки пропали.
+Темнота и тишина...цвета и звуки пропали.
 
 一時的に、レミ――ＬｅＭＵが挙動を停止したのだ。%K%P
 LeMMIH temporarily ceased functioning.
 CN PLACEHOLDER
-LeMMIH временно перестал функционировать.
+ЛеММИХ временно перестал функционировать.
 
 それから、ジャスト１７０秒後……%K%P
 And then, exactly 170 seconds later...
@@ -2891,12 +2891,12 @@ CN PLACEHOLDER
 レミ、再起動す。%K%P
 LeMMIH rebooted.
 CN PLACEHOLDER
-LeMMIH перезапустился.
+ЛеММИХ перезапустился.
 
 照明、その他の機器が回復した。%K%P
 The lights and other machinery restarted.
 CN PLACEHOLDER
-Лампы зажглись, а техника перезапустилась.
+Лампы зажглись и техника перезапустилась.
 
 コンピューターのファンが静かなうなり声をあげ、壁面に設置されたディスプレイが一斉に表示される。%K%P
 The fan of the computer gave off a quiet whirring sound. The display on the wall came online all at once.
@@ -2906,7 +2906,7 @@ CN PLACEHOLDER
 画面上を流れる大量の文字……システムの起動画面……やがて自動処理で監視モードへ。%K%P
 There was a surge of letters rushing across the monitor... The system start up screen... It finally switched to automatic operating mode.
 CN PLACEHOLDER
-По ним побежало огромное количество символов... отобразился экран приветствия... а затем система переключилась в режим автономной работы.
+По ним побежало огромное количество символов... отобразился экран приветствия...а затем система переключилась в режим автономной работы.
 
 そして空が、再びぼくらの前に降臨した。%K%P
 And then Sora appeared again before us.
@@ -2916,7 +2916,7 @@ CN PLACEHOLDER
 忽然と宙に浮かび上がるように、けれどしっかりとした存在感を持って。%K%P
 She seemed to suddenly appear floating in the air, but she still had a solid presence.
 CN PLACEHOLDER
-Кажется, будто она, возвышаясь под потолком, вот-вот взорвётся на нас. Но она не полупрозрачная, как в прошлый раз.
+Кажется, будто она, возвышаясь под потолком, вот-вот взорвётся на нас. Но, в то же время, она не полупрозрачная, как в прошлый раз.
 
 彼女は目を閉ざし、自身を抱きかかえるような姿勢で現れ、床に降り立った。%K%P
 She closed her eyes, and it looked as if she was embracing herself as she descended.
@@ -2926,7 +2926,7 @@ CN PLACEHOLDER
 少年「空……？」%K%P
 Sora...?
 CN PLACEHOLDER
-Сора?..
+Сора...?
 
 ゆっくりと、目を開く空。%K%P
 Sora slowly opened her eyes.
@@ -2946,7 +2946,7 @@ CN PLACEHOLDER
 そう言って、ニコリと微笑んだ。%K%P
 Saying that, she smiled broadly.
 CN PLACEHOLDER
-С этими словами она широко улыбнулась.
+С этими словами, она широко улыбнулась.
 
 少年「ぼくらのこと、わかる？　覚えてる？」%K%P
 Do you know who we are? Do you remember us?
@@ -2961,7 +2961,7 @@ CN PLACEHOLDER
 空「はい、少年さん」%K%P
 Yes, Kid-san.
 CN PLACEHOLDER
-Да, Малой-сан.
+Да, Кид-сан.
 
 空「それに、田中さんと、松永さんですよね？」%K%P
 And Tanaka-san and Matsunaga-san as well.
@@ -2971,12 +2971,12 @@ CN PLACEHOLDER
 空「今ここにはいませんが、倉成さんと小町さんのことも、もちろん存じていますよ」%K%P
 And Kuranari-san and Komachi-san, although they of course are not present.
 CN PLACEHOLDER
-А также помню Куранари-сана и Комати-сан, которых, разумеется, сейчас здесь нет.
+А так же помню Куранари-сана и Комачи-сан, которых, разумеется, сейчас здесь нет.
 
 優「よ、よかったぁ……私達の知ってる空だよ……」%K%P
 Oh... I'm so glad you remember...
 CN PLACEHOLDER
-Охх... слава Богу... ты всё помнишь...
+Охх...слава Богу...ты всё помнишь...
 
 空「はい」%K%P
 Yes.
@@ -2986,7 +2986,7 @@ CN PLACEHOLDER
 沙羅「ねえ、空？　これからレミのＣレベルデータを調べたいんだけど、手伝ってくれる？」%K%P
 Hey, Sora. I'd like to investigate LeMMIH's C level data. Could you help me?
 CN PLACEHOLDER
-Слушай, Сора. Я бы хотела добраться до сведений LeMMIH категории С. Можешь протянуть мне руку помощи?
+Слушай, Сора. Я бы хотела добраться до сведений ЛеММИХ категории С. Можешь протянуть мне руку помощи?
 
 空「もちろんです。微力ながらご協力させて頂きます」%K%P
 Of course. I'll do my best.
@@ -3011,7 +3011,7 @@ CN PLACEHOLDER
 沙羅「うんとねぇ……実際には何も変えてないの」%K%P
 Uh, well... Actually, I didn't change anything.
 CN PLACEHOLDER
-Э-э, ну... на самом деле я ничего не изменила.
+Ээ, ну...на самом деле я ничего не изменила.
 
 沙羅「私は命令の優先順位を入れ替えるパッチを当てただけ」%K%P
 I just added a patch that changes the priority duties.
@@ -3026,17 +3026,17 @@ CN PLACEHOLDER
 空「ですが、レミを護るという義務よりも、みなさんのお役に立つという項目の方が、優先されるようになったのです」%K%P
 However, now my duty to serve you is higher priority than that of my duty to protect LeMMIH.
 CN PLACEHOLDER
-Однако теперь моя обязанность служить вам имеет более высокий приоритет, чем обязанность защиты LeMMIH.
+Однако, теперь моя обязанность служить Вам имеет более высокий приоритет, чем обязанность защиты ЛеММИХ.
 
 少年「うーん、よくわからないんだけど……」%K%P
 Hmmm. I don't really understand, but...
 CN PLACEHOLDER
-Хм-м-м... я не совсем понял, но...
+Хммм... я не совсем понял, но...
 
 少年「ようするに、ぼくらの邪魔をする必要はなくなったってこと？」%K%P
 But you mean that you no longer have to stop us?
 CN PLACEHOLDER
-Но это означает, что тебе больше не придётся останавливать нас?
+Но, это означает, что тебе больше не придётся останавливать нас?
 
 空「そういうことです」%K%P
 That is correct.
@@ -3046,12 +3046,12 @@ CN PLACEHOLDER
 空「それが、みなさんの為になることであれば、私はレミの内部ですらお見せします」%K%P
 And if it will be of use to you, then I will show you the internal workings of LeMMIH.
 CN PLACEHOLDER
-И, если это будет для вас полезно, я могу показать, как устроена логика LeMMIH.
+И, если это будет для Вас полезным, я могу показать, как устроена логика ЛеММИХ.
 
 沙羅「それじゃ、さっそく調査開始といきますか？」%K%P
 Now then, shall we jump right into the search?
 CN PLACEHOLDER
-Ну что же, может, тогда сразу перейдём к делу?
+Ну что же, может тогда сразу перейдём к делу?
 
 空「そうですね」%K%P
 By all means.
@@ -3061,7 +3061,7 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「あれ？　優、どうしたの？」%K%P
 Hey? You, what's wrong?
@@ -3076,12 +3076,12 @@ CN PLACEHOLDER
 優「ありがとね……空、マヨ」%K%P
 Thank you... Sora... and Mayo.
 CN PLACEHOLDER
-Спасибо... Сора... Майо.
+Спасибо...Сора...Майо.
 
 優「私の為に、こんなに苦労してくれて」%K%P
 You've done so much for me...
 CN PLACEHOLDER
-Вы не представляете... как я вам благодарна...
+Вы не представляете...как я Вам благодарна...
 
 すると沙羅は……%K%P
 And then Sara said...
@@ -3091,7 +3091,7 @@ CN PLACEHOLDER
 沙羅「らしくないですよぉ……せんぷぁーい」%K%P
 That doesn't seem like you... Senpai.
 CN PLACEHOLDER
-Это на тебя непохоже, сэмпай.
+Это на тебя не похоже, подружка.
 
 沙羅「目的の為なら手段を選ばない、いつものなっきゅ先輩でいてくださいってば」%K%P
 You can't choose what you have to do to get what you want, so please just keep being yourself!
@@ -3116,7 +3116,7 @@ CN PLACEHOLDER
 空「はい、私もそう思います」%K%P
 I agree.
 CN PLACEHOLDER
-Да... я тоже так считаю.
+Да...я тоже так считаю.
 
 優「うん……」%K%P
 Okay...
@@ -3126,7 +3126,7 @@ CN PLACEHOLDER
 優「それに少年も、さんきゅーね」%K%P
 And thank you too, Kid.
 CN PLACEHOLDER
-И тебе тоже, Малой... спасибо.
+И тебе тоже, Кид...спасибо.
 
 少年「え？　ぼく？　ぼくは何もしてないよ？」%K%P
 Huh? Me? I didn't do anything.
@@ -3146,7 +3146,7 @@ CN PLACEHOLDER
 『ぼくらも、それと同じことを、望んでいる』%K%P
 “We want the same thing.”
 CN PLACEHOLDER
-«Ты сказал мне, что вы все этого хотите.»
+'Ты сказал мне, что Вы все этого хотите.'
 
 空「少年さんの一言で、私は決意することができたのです」%K%P
 It was your advice that helped me to make up my mind.
@@ -3156,7 +3156,7 @@ CN PLACEHOLDER
 少年「そっか……そうだったんだ」%K%P
 I see... So that's what happened.
 CN PLACEHOLDER
-Понимаю... вот значит как было дело.
+Понимаю...вот значит как было дело.
 
 なんだか少し、照れくさかった。%K%P
 I felt a bit embarrassed.
@@ -3166,17 +3166,17 @@ CN PLACEHOLDER
 優「よーーーーし！　そんじゃ、湿っぽいのはここまでにして……」%K%P
 Alright! Now, enough warm fuzzies...
 CN PLACEHOLDER
-Ладушки! Хватит нахваливать...
+Ладушки! Хватит играть в торчалки...
 
 優「しーらべーるぞーーーーっ！」%K%P
 Let's start investigating!
 CN PLACEHOLDER
-База да-а-анных!
+База да〜анных!
 
 みんな「おーーーっ！！」%K%P
 Alright!
 CN PLACEHOLDER
-Ага!
+Ага!!
 
 かくして、優のお父さんに関する調査が再開された。%K%P
 And so we restarted the investigation into You's father.
@@ -3186,22 +3186,22 @@ CN PLACEHOLDER
 調査の手がかりは、優から聞いた――『田中陽一／タナカヨウイチ』――優のお父さんの名前、ただひとつ。%K%P
 The only clue that we had to start off our investigation was the name of You's father, “Tanaka Yoichi”.
 CN PLACEHOLDER
-Единственная улика, с которой мы начали это самое%Nрасследование – имя её отца. Танака Ёити.
+Единственная улика, с которой мы начали это самое%Nрасследование - имя её отца. Йоичи Танака.
 
 実際のところ、その作業はレミの中に潜り込んだ空の手によって行われた。%K%P
 Actually, the work going on beneath the surface of LeMMIH's exterior was all done by Sora.
 CN PLACEHOLDER
-Правда, работать во внутренностях LeMMIH пришлось Соре.
+Правда, работать во внутренностях ЛеММИХ пришлось Соре.
 
 依然として正規の方法ではアクセスできないようだし、沙羅はクタクタに疲れ果てていたのだ。%K%P
 It looked like the system still couldn't be accessed by normal means. Sara was worn out, but she kept on typing.
 CN PLACEHOLDER
-Видимо, система по-прежнему не доступна через «парадный вход». Сара уже измучилась, но продолжает ввод с клавиатуры.
+Видимо, система по-прежнему не доступна через 'парадный вход'. Сара уже измучилась, но продолжает ввод с клавиатуры.
 
 ……空がレミに入ってから、３０分ほどが経過した。%K%P
 ...Nearly half an hour had passed since Sora had disappeared inside LeMMIH.
 CN PLACEHOLDER
-Прошло почти полчаса с того момента, как Сора исчезла внутри LeMMIH.
+Прошло почти пол часа с того момента, как Сора исчезла внутри ЛеММИХ.
 
 コンソールの中から、空がスゥーと姿を現す。%K%P
 Sora suddenly appeared from inside the console.
@@ -3231,7 +3231,7 @@ CN PLACEHOLDER
 空「………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「だめだったの？」%K%P
 It didn't work?
@@ -3246,12 +3246,12 @@ CN PLACEHOLDER
 優「な〜んだ、だったら教えてよ。もったいぶらずにさ」%K%P
 In that case, hurry up and tell us.
 CN PLACEHOLDER
-И? Что же ты молчишь? Выкладывай скорее.
+И? Что же ты молчишь? Выкладывай скорей.
 
 空「……………………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 沙羅「……空？」%K%P
 ...Sora?
@@ -3266,7 +3266,7 @@ CN PLACEHOLDER
 その真摯な表情に、優は眉をひそめる。%K%P
 Her serious expression made You wrinkle her brow.
 CN PLACEHOLDER
-От её серьёзного выражения лица Ю нахмурилась.
+От её серьёзного выражения лица, Ю нахмурилась.
 
 冗談や軽口をたたけるような状況ではなさそうであった。%K%P
 It didn't look like the kind of situation suitable for light talk or jokes.
@@ -3276,7 +3276,7 @@ CN PLACEHOLDER
 空の入手した情報とは一体……？%K%P
 I wondered what Sora could have found...?
 CN PLACEHOLDER
-Что же такое узнала Сора?..
+Что же такое узнала Сора...?
 
 空「田中さん、落ち着いて聞いて下さいね」%K%P
 Tanaka-san, I want you to stay calm and listen.
@@ -3286,7 +3286,7 @@ CN PLACEHOLDER
 空「あなたのお父様『タナカヨウイチ』様は……」%K%P
 There is a possibility...
 CN PLACEHOLDER
-Есть вероятность, что твоего отца, Танаки Ёити...
+Есть вероятность, что твоего отца, Танаки Йоичи...
 
 空「すでにお亡くなりになっている可能性があります」%K%P
 That your father, Tanaka Yoichi, has already died.
@@ -3296,7 +3296,7 @@ CN PLACEHOLDER
 優「……えっ？　……お父さんが……死んだ？」%K%P
 ...Huh...? My father... dead?
 CN PLACEHOLDER
-Что?... Папа... умер?
+...Что?.... Папа... умер?
 
 空「はい。今から、３４年前に」%K%P
 Yes, 34 years ago.
@@ -3306,7 +3306,7 @@ CN PLACEHOLDER
 少年「３４年前……？」%K%P
 34 years ago...?
 CN PLACEHOLDER
-Тридцать четыре года назад?..
+Тридцать четыре года назад...?
 
 沙羅「………………」%K%P
 ...
@@ -3316,42 +3316,42 @@ CN PLACEHOLDER
 優「ちょ……ちょっと……待って？」%K%P
 H-Hold... on...
 CN PLACEHOLDER
-Секунду... Погодите...
+Нет...стоп...подождите...
 
 優「３４年前って、どういうこと？」%K%P
 What do you mean 34 years ago?
 CN PLACEHOLDER
-Что значит „34 года назад“?
+Что значит...34 года назад?
 
 優「私、まだ１８歳なんだよ？」%K%P
 I'm only 18 years old.
 CN PLACEHOLDER
-Мне же только 18 лет...
+Мне 18 лет...!
 
 優「今から１８年前に生まれたんだよ？」%K%P
 I was born 18 years ago.
 CN PLACEHOLDER
-Я родилась 18 лет назад.
+Я родилась 18 лет назад...!
 
 優「なのに、お父さんが３４年前に死んだなんて、そんなバカなことっ」%K%P
 How could anything as ridiculous as my father dying 34 years ago be true?
 CN PLACEHOLDER
-Как это... отец умер 34 года назад?.. Это же полная чушь!
+Как это...отец умер 34 года назад...? Это же полная чушь!
 
 少年「そ、そうだよ……空の言ってること、全然つじつまが合わないよ」%K%P
 Y-Yeah... Sora, what you're saying just doesn't match the facts.
 CN PLACEHOLDER
-Т-точно... Сора... то, что ты говоришь, не вяжется с фактами.
+Т-точно...Сора...то, что ты говоришь, не вяжется с фактами.
 
 空「とにかく、落ち着いて聞いて下さい」%K%P
 Please just stay calm and listen.
 CN PLACEHOLDER
-Прошу вас, расслабьтесь и выслушайте.
+Прошу Вас, расслабьтесь и выслушайте.
 
 空「私はまだ、断定したわけではありません」%K%P
 I have not reached a final conclusion.
 CN PLACEHOLDER
-Я ещё... не пришла к окончательному выводу.
+Я ещё...не пришла к окончательному выводу.
 
 空「可能性があると、申し上げただけです」%K%P
 I am merely saying that there is the possibility.
@@ -3361,7 +3361,7 @@ CN PLACEHOLDER
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「私はまず、田中さんのお父様に関するデータを検索しようと試みました」%K%P
 First, I tried to search for information on Tanaka-san's father.
@@ -3371,7 +3371,7 @@ CN PLACEHOLDER
 空「しかし『タナカヨウイチ』なる人物が存在した記録は、このＬｅＭＵ内のデータベースには一切保存されておりませんでした」%K%P
 However, there were no files pertaining to 'Tanaka Yoichi' recorded in LeMU's database.
 CN PLACEHOLDER
-Однако файлов, принадлежащих Танаке Ёити, в базе данных LeMU не обнаружено.
+Однако, файлов, принадлежащих Танаке Йоичи, в базе данных LeMU не обнаружено.
 
 空「つまり、同姓同名の人物さえ存在しないということです」%K%P
 In other words, there are no records that anyone by that name existed.
@@ -3381,17 +3381,17 @@ CN PLACEHOLDER
 少年「じゃあ、優のお父さんは……ここにはいなかった、と？」%K%P
 So are you saying... that You's father wasn't here?
 CN PLACEHOLDER
-Ты хочешь сказать... что отца Ю здесь не было?
+Ты хочешь сказать...что отца Ю здесь не было?
 
 優「そ、そんなはず……」%K%P
 It... It can't be...
 CN PLACEHOLDER
-Н... не может быть...
+Н...не может быть...
 
 沙羅「でも、それは限られた範囲内のことでしょ？　空でさえアクセスすることのできない領域があるって、前に聞いたことがあるけど」%K%P
 But that's only based on limited information from the areas of files you can access, right, Sora? You said there were areas you couldn't breach, right?
 CN PLACEHOLDER
-Но это основано лишь на ограниченном объёме доступных тебе данных. Верно, Сора? Ты сказала, что в некоторые зоны ты пробиться не смогла, так?
+Но, это основано лишь на ограниченном объёме доступных тебе данных. Верно, Сора? Ты сказала, что в некоторые зоны ты пробиться не смогла, так?
 
 空「ええ、もちろんそうです」%K%P
 Of course, that is correct.
@@ -3401,7 +3401,7 @@ CN PLACEHOLDER
 空「私は、レミの末端に位置するプログラムに過ぎません」%K%P
 I am merely an interface program for LeMMIH.
 CN PLACEHOLDER
-Я всего лишь интерфейсная программа для LeMMIH.
+Я всего лишь интерфейсная программа для ЛеММИХ.
 
 空「セキュリティレベルの高いデータには、一切触れることができないのです」%K%P
 I am not permitted to access high-security data.
@@ -3411,7 +3411,7 @@ CN PLACEHOLDER
 沙羅「だったら、そこに『タナカヨウイチ』という人の記録もっ」%K%P
 So records about Tanaka Yoichi might be there.
 CN PLACEHOLDER
-Значит... записи о Танаке Ёити могут быть там?
+Значит...записи о Йоичи Танака могут быть там?
 
 沙羅の言葉を制して、空は続ける。%K%P
 Sora continued, responding to Sara's question.
@@ -3426,12 +3426,12 @@ CN PLACEHOLDER
 空「しかし、社内名簿にも、経理関係の書類にも、ローカルエリアネットワーク上に於いて取り交わされたあらゆるメッセージのログにも……」%K%P
 However, there is no such name on company name lists, accounting records, or any of the message logs exchanged on the local area network...
 CN PLACEHOLDER
-Однако это имя отсутствует в списке сотрудников компании, бухгалтерии и даже логах чата локальной сети...
+Однако, это имя отсутствует в списке сотрудников компании, бухгалтерии и даже логах чата локальной сети...
 
 空「『タナカヨウイチ』なる記述は発見されなかったのです」%K%P
 As far as these are concerned, no record of 'Tanaka Yoichi' exists.
 CN PLACEHOLDER
-Всё, что могло бы указывать на существование Танаки Ёити, отсутствует.
+Всё, что могло бы указывать на существование Танаки Йоичи, отсутствует.
 
 優「そんなはずないって！」%K%P
 That can't be!
@@ -3446,12 +3446,12 @@ CN PLACEHOLDER
 優「それに、それによ」%K%P
 And besides... Besides...
 CN PLACEHOLDER
-И, кроме того... Кроме того...
+И, кроме того...кроме того...
 
 優「もしも仮に、お父さんがここにいたことがなかったとしても……だからってお父さんが死んだことにはならないでしょ？」%K%P
 Even if he wasn't here... that doesn't mean that he's dead, right?
 CN PLACEHOLDER
-Даже если его здесь не было... Это же не значит, что он мёртв, верно?
+Даже если его здесь не было...это же не значит, что он мёртв, верно?
 
 空「はい……」%K%P
 Correct...
@@ -3461,17 +3461,17 @@ CN PLACEHOLDER
 ――バン！%K%P
 —Bang!
 CN PLACEHOLDER
-Бух!
+Бух!!
 
 優「『はい』じゃないでしょーが！　どっからそんな仮説が導き出されたのか、ちゃんと説明してよ！」%K%P
 No, it's not 'correct'! Tell me how you reached that theory!
 CN PLACEHOLDER
-Какое ещё нахрен „Да“?! Объясни, откуда ты взяла ту бредовую теорию?!
+Какое ещё нахрен 'Да'?! Объясни, откуда ты взяла ту бредовую теорию!?
 
 沙羅「お、落ち着いてください、先輩」%K%P
 Senpai, please calm down.
 CN PLACEHOLDER
-Сэмпай, держи себя в руках.
+П-подруга, держи себя в руках.
 
 空に掴みかかろうとする優を、沙羅が押さえ込む。%K%P
 Sara grabbed You as she went to grab Sora.
@@ -3486,22 +3486,22 @@ CN PLACEHOLDER
 空「では、順を追って御説明申し上げます」%K%P
 I will explain my research and reasoning.
 CN PLACEHOLDER
-Да... я объясню, откуда эта гипотеза.
+Да...я объясню, откуда эта гипотеза.
 
 空「ですがその前に……ひとつお尋ねしてもよろしいでしょうか？」%K%P
 But first... may I ask you a question?
 CN PLACEHOLDER
-Но сначала... могу я задать тебе вопрос?
+Но сначала...могу я задать тебе вопрос?
 
 優「？」%K%P
 ?
 CN PLACEHOLDER
-?
+〜〜〜?!
 
 空「失礼ですが、田中さん……『お父様がＬｅＭＵで働いていた』というお話は、どこからお聞きになったのでしょうか？」%K%P
 This may sound rude, but... where did you hear that your father was an employee at LeMU?
 CN PLACEHOLDER
-Я знаю, это может звучать грубо, но... откуда ты знаешь, что твой отец был работником LeMU?
+Я знаю, это может звучать грубо, но...откуда ты знаешь, что твой отец был работником LeMU?
 
 優「それは……」%K%P
 I...
@@ -3516,7 +3516,7 @@ CN PLACEHOLDER
 空「その話が事実だとすれば、田中さんにはお父様の記憶は残っていないはず……」%K%P
 If that is a fact, then you should have no memories of your father...
 CN PLACEHOLDER
-Если это правда, значит, у тебя нет о нём никаких воспоминаний...
+Если это правда, значит у тебя нет о нём никаких воспоминаний...
 
 空「そうではないのですか？」%K%P
 Am I wrong?
@@ -3526,7 +3526,7 @@ CN PLACEHOLDER
 優「ええ、そうよ」%K%P
 No, you're right.
 CN PLACEHOLDER
-Да... так и есть.
+Да...так и есть.
 
 優「私には、お父さんの記憶がない」%K%P
 I don't remember anything about my father.
@@ -3541,7 +3541,7 @@ CN PLACEHOLDER
 優「でも、１歳のときまで、お父さんは絶対に私のそばにいたの」%K%P
 But I'm sure that he was around until I was one.
 CN PLACEHOLDER
-Но я уверена, что до того момента он был рядом.
+Но, я уверена, что до того момента он был рядом.
 
 優「その時の写真やムービーは残ってるし、絶対にいたの」%K%P
 There are pictures and films of that time. I'm sure he was there.
@@ -3551,7 +3551,7 @@ CN PLACEHOLDER
 優「お母さんだって、そう言ってたんだもん。間違いないのよ」%K%P
 I'm sure that my mom said so as well.
 CN PLACEHOLDER
-Я уверена, что моя мама сказала мне то же самое.
+Я уверена, что моя мама сказала мне тоже самое.
 
 空「やはり、そうでしたか……」%K%P
 So that was the case...
@@ -3561,37 +3561,37 @@ CN PLACEHOLDER
 優「えっ？」%K%P
 Huh?
 CN PLACEHOLDER
-А?
+〜〜〜?!
 
 空「その、お母様に関することなのですが……」%K%P
 It is about your mother...
 CN PLACEHOLDER
-Это... насчёт твоей мамы...
+Это...насчёт твоей мамы...
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 沙羅「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「どうしたの？　なんで黙るの？」%K%P
 What is it? Why won't you say anything?
 CN PLACEHOLDER
-Что?.. Почему ты молчишь?..
+Что...? Почему ты молчишь...?
 
 空「それが……」%K%P
 It's because...
@@ -3601,27 +3601,27 @@ CN PLACEHOLDER
 優「なに？」%K%P
 What?
 CN PLACEHOLDER
-Что?..
+Что...?
 
 空「とても、申し上げ難いことで……」%K%P
 It is difficult to say...
 CN PLACEHOLDER
-Это... очень тяжело сказать...
+Это...очень тяжело сказать...
 
 優「申し上げ難いって……今までさんざん申し上げ難いことをつらつらと言って来たじゃない」%K%P
 It might be difficult... but you've already told me many difficult things.
 CN PLACEHOLDER
-Может и тяжело... но ты меня сегодня и так огрела тяжестями по уши.
+Может и тяжело...но ты меня сегодня и так огрела тяжестями по уши.
 
 空「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 優「ねえ？　教えて？　お母さんが、どうしたの？」%K%P
 So tell me. What happened with my mother?
 CN PLACEHOLDER
-Ну... Говори! Что... с моей мамой?!
+Ну...Говори! Что...с моей мамой?!
 
 空「よろしいのですね？」%K%P
 You're sure?
@@ -3636,12 +3636,12 @@ CN PLACEHOLDER
 空「では、お伝え致します」%K%P
 Then I will tell you.
 CN PLACEHOLDER
-Тогда... я отвечу.
+Тогда...я отвечу.
 
 空「田中さんのお母様――『タナカユキエ』様も……」%K%P
 Your mother... Tanaka Yukie...
 CN PLACEHOLDER
-Твоя мама... Танака Юкиэ...
+Твоя мама...Танака Юки...
 
 空「今から１５年前に、やはりお亡くなりになられています」%K%P
 Passed away fifteen years ago.
@@ -3651,22 +3651,22 @@ CN PLACEHOLDER
 優「っ！？」%K%P
 No!?
 CN PLACEHOLDER
-Нет!
+〜〜〜!?
 
 優「な、なに言ってるのよ、空……」%K%P
 Wh-What are you saying? Sora...
 CN PLACEHOLDER
-Ч-что ты говоришь, Сора?..
+〜〜〜?! Что ты говоришь, Сора...?
 
 優「いい加減にしてよ……」%K%P
 How can you tell me that...
 CN PLACEHOLDER
-Как ты могла!..
+Как ты могла...!
 
 優「そんな、バカなこと、あるわけないじゃない……」%K%P
 That's just not possible...
 CN PLACEHOLDER
-Это же... полнейший бред!
+Это же...полнейший бред...!!
 
 空「私の方からは、これ以上申し上げることはできません」%K%P
 That is all that I can tell you.
@@ -3691,7 +3691,7 @@ CN PLACEHOLDER
 ぼくと沙羅は、優の肩越しから画面を覗き込んだ。%K%P
 Sara and I read the display from over her shoulder.
 CN PLACEHOLDER
-Мы с Сарой уставились на экран через её плечо.
+Сара и я уставились на экран через её плечо.
 
 そこには……%K%P
 On the screen...
@@ -3701,17 +3701,17 @@ CN PLACEHOLDER
 社内ＬＡＮの中に保存されていた記録。%K%P
 Was a record from the company LAN.
 CN PLACEHOLDER
-Запись внутренних переговоров сотрудников компании по локальной сети.
+Запись внутренних переговоров сотрудников компании по локальной сети, в которых идёт речь о её смерти.
 
 訃報を知らせるメール、%K%P
 It was a notice of death.
 CN PLACEHOLDER
-Сведения о смерти.
+Запись о смерти.
 
 田中ゆきえ死去による事務的な手続きのファイル、%K%P
 There was a file about the office procedures related to Tanaka Yukie's death.
 CN PLACEHOLDER
-Материалы конторских процедур, относящихся ко смерти Танаки Юкиэ.
+Здесь также идут конторские операции, относящиеся ко смерти Юки Танака.
 
 訃報を知った社員が交わしたメッセージのログ、%K%P
 There was a message log of messages exchanged among employees about the notice of her death.
@@ -3731,7 +3731,7 @@ CN PLACEHOLDER
 それらがサーバー上にＵＰされた日時は、%K%P
 The next thing that was uploaded to the server read...
 CN PLACEHOLDER
-Следующее, что отобразилось на мониторе сервера – дата сохранения этих записей...
+Следующее, что отобразилось на мониторе сервера - дата сохранения этих записей...
 
 確かに『０２／０７／１９』……。%K%P
 02/07/19...
@@ -3741,7 +3741,7 @@ CN PLACEHOLDER
 （つまり、今から１５年前の『２００２年７月１９日』ってことか……）%K%P
 (So this was on July 19th, 2002, 15 years ago...)
 CN PLACEHOLDER
-(Получается, это было 19-го июля 2002-го, 15 лет назад...)
+(Получается, это было 19-го Июля 2002-го, 15 лет назад...)
 
 これらのファイルの最後に、次のようなものが現れた。%K%P
 At the end of the files, what appeared was...
@@ -3751,47 +3751,47 @@ CN PLACEHOLDER
 総務部人事課の男性社員Ａと、研究部研究第２課の女性社員Ｂの交わしたチャットのログである。%K%P
 A record of an online conversation between employee “Man A” in the Personnel Section of the General Affairs Division and “Woman B” in the Second Section of the Research Division.
 CN PLACEHOLDER
-Запись переписки между работником «A» из Кадрового отдела Департамента по общим вопросам и работницей «B» из Второго подразделения Отдела исследований.
+Запись сетевых переговоров между неким господином 'A' из Кадрового Отдела Делового Подразделения и некой госпожи 'B' из Вторичного Отдела Исследовательского Подразделения.
 
 Ａ＞しかし驚いたよなー%K%N
 A > But it really was a shock.
 CN PLACEHOLDER
-A > But it really was a shock.%N(но для меня это был просто шок)
+A > но, для меня это был просто шок.
 
 Ｂ＞え？%K%N
 B > What was?
 CN PLACEHOLDER
-B > What was?%N(ты о чём?)
+B > ты о чём?
 
 Ａ＞ゆきえさんのことだよ、田中ゆきえさん%K%N
 A > I mean about Yukie-san. Tanaka Yukie-san.
 CN PLACEHOLDER
-A > I mean about Yukie-san. Tanaka Yukie-san.%N(я о Юкиэ. Танаке Юкиэ)
+A > я о Юки. Юки Танака.
 
 Ｂ＞あ、うん……%K%N
 B > Ah, yeah...
 CN PLACEHOLDER
-B > Ah, yeah...%N(ах, да...)
+B > ах, да...
 
 Ｂ＞わたし、Ｙüｋｉｅさんにはすごくかわいがってもらったから%K%N
 B > Yükie-san was always so nice to me.
 CN PLACEHOLDER
-B > Yükie-san was always so nice to me.%N(она всегда была такой обходительной)
+B > она всегда была столь обходительна.
 
 Ａ＞そうだよな、Ｂの直属の上司だもんな%K%N
 A > That's right. She was your boss, right?
 CN PLACEHOLDER
-A > That's right. She was your boss, right?%N(эх, да. она же была твоей начальницей, правда?)%K%P
+A > эх, да. она же была твоей начальницей, правда?
 
 Ａ＞ところで、死因とかって知ってる？%K%N
 A > Do you know the cause of death?
 CN PLACEHOLDER
-A > Do you know the cause of death?%N(ты знаешь причину ее смерти?)
+A > ты знаешь причину ее смерти?
 
 Ｂ＞ＴＢ%K%P
 B > TB
 CN PLACEHOLDER
-B > TB%K%N
+B > TB
 
 Ａ＞ＴＢ？%K%N
 A > TB?
@@ -3801,72 +3801,72 @@ A > TB?
 Ｂ＞ティーフブラウ%K%N
 B > Tief Blau
 CN PLACEHOLDER
-B > tief blau
+B > tief blau. помнишь проект "голубая синева"?
 
 Ａ＞またあれか……%K%N
 A > That again...
 CN PLACEHOLDER
-A > That again...%N(опять эта хрень...)
+A > опять эта хрень...
 
 Ａ＞ほら、旦那さんと同じじゃないか……%K%N
 A > It's the same as how her husband died...
 CN PLACEHOLDER
-A > It's the same as how her husband died...%N(по той же причине умер ее муж...)
+A > из-за этой пакости скончался ее муж...
 
 Ｂ＞だんなさんって？%K%N
 B > Her husband?
 CN PLACEHOLDER
-B > Her husband?%N(её муж?)%K%P
+B > её муж?
 
 Ａ＞え？　まさか、知らないとか？%K%N
 A > What? Oh, you mean you didn't know?
 CN PLACEHOLDER
-A > What? Oh, you mean you didn't know?%N(в смысле? погоди, так ты не знала?)
+A > в смысле? погоди, так ты не знала?
 
 Ｂ＞そうだったの！？%K%N
 B > Is that so?
 CN PLACEHOLDER
-B > Is that so?%N(вот как?)
+B > вот как?
 
 Ａ＞でもこの話、あんまり社内でしちゃマズイんだ%K%P
 A > But we really shouldn't talk about this at the company.
 CN PLACEHOLDER
-A > But we really shouldn't talk about this at the company.%N(но знаешь, по локалке говорить об этом не стоило.)%K%N
+A > но, знаешь, по локалке говорить об этом не стоило.
 
 Ｂ＞どうして？%K%N
 B > Why?
 CN PLACEHOLDER
-B > Why?%N(почему?)
+B > почему?
 
 Ａ＞それはまた今度%K%N
 A > I'll tell you later.
 CN PLACEHOLDER
-A > I'll tell you later.%N(я те потом объясню, почему)
+A > я те потом объясню, почему.
 
 Ｂ＞Ｙöｉｃｈｉさんが亡くなられたのって１９年前でしょ？%K%N
 B > But Yöichi-san died 19 years ago, right?
 CN PLACEHOLDER
-B > But Yöichi-san died 19 years ago, right?%N(но Йоити умер 19 лет назад, так ведь?)%K%P
+B > но, Ёичи умер 19 лет назад, так ведь?
 
 Ａ＞だからマズイって！　ほんとに！%K%N
 A > That's why we can't talk about it! I'm serious!
 CN PLACEHOLDER
-A > That's why we can't talk about it! I'm serious!%N(вот поэтому нам лучше заткнуться! я серьезно)
+A > вот поэтому нам лучше заткнуться! я серьезно.
 
 Ｂ＞お子さんもいるのに……かわいそう……%K%N
 B > And she had a child... The poor thing...
 CN PLACEHOLDER
-B > And she had a child... The poor thing...%N(у неё же ребёнок... бедняжка...)
+B > у неё же ребёнок...бедняжка...
 
 Ａ＞確か、ひとり娘だったよね%K%N
 A > She had a daughter, right?
 CN PLACEHOLDER
-A > She had a daughter, right?%N(постой, у нее вроде как дочь?)
+A > постой, у нее вроде как дочь?
 
 Ａ＞かわいそうだよな、ほんとに%K%P
 A > I feel so sorry for her...
 CN PLACEHOLDER
-A > I feel so sorry for her...%N(и правда, бедняжка...)
+A > и правда, бедняжка...
 
 このログが保存された日付を確かめてみると、%K%P
 I checked to see when the log had been saved.
@@ -3876,17 +3876,17 @@ CN PLACEHOLDER
 やはり『０２／０７／１９』であった。%K%P
 The date read 02/07/19.
 CN PLACEHOLDER
-Дата гласит... 19 июля 2002 года.
+Дата гласит... 19 Июля 2002 года.
 
 優「そんな……そんな…………」%K%P
 That... can't be...
 CN PLACEHOLDER
-Этого... этого...
+Этого...этого...
 
 優「私は信じない……そんなの信じられない……」%K%P
 I won't believe it! I won't!
 CN PLACEHOLDER
-Я не верю... не верю!..
+Я не верю...не верю...!
 
 優「絶対、私は信じないからねっ！！！」%K%P
 I absolutely can't believe it!
@@ -3896,12 +3896,12 @@ CN PLACEHOLDER
 そう叫んで、優は警備室を飛び出していった。%K%P
 As she shouted that, You fled from the security office.
 CN PLACEHOLDER
-Ю с криком вылетела из Офиса охраны.
+Ю с криком вылетела из Офиса Охраны.
 
 沙羅「先輩！」%K%P
 Senpai!
 CN PLACEHOLDER
-Сэмпай!
+Подруга!
 
 沙羅があとを追っていった。%K%P
 Sara followed after her.
@@ -3911,7 +3911,7 @@ CN PLACEHOLDER
 ぼくと空は残され、ふたりきりになった。%K%P
 Sora and I remained behind.
 CN PLACEHOLDER
-Мы с Сорой остались одни.
+Я и Сора остались одни.
 
 空「おわかりになりましたでしょうか？」%K%P
 Did you understand?
@@ -3921,37 +3921,37 @@ CN PLACEHOLDER
 空「すでにお伝えしたように『田中陽一』という方のお名前は、私の知り得る範囲内でのデータベースには、まったく存在しませんでした」%K%P
 As I said before, when I searched the database for the name 'Tanaka Yoichi', the data which I can access had no records.
 CN PLACEHOLDER
-Как я сказала ранее, когда я сканировала базу данных на имя Танака Ёити, не было обнаружено ни одной записи.
+Как я сказала ранее, когда я сканировала базу данных на имя Танака Йоичи, не было обнаружено ни одной записи.
 
 空「しかし、今から１５年前に交わされたと思われる、このＡ氏Ｂ氏のチャットのログには……」%K%P
 However, the chat log that appears to be fifteen years old...
 CN PLACEHOLDER
-Однако логу этого чата более 15 лет...
+Однако, логу этого чата более 15 лет...
 
 空「田中ゆきえ様の旦那様と思しき『Ｙöｉｃｈｉ』さんなる人物の名が、確かに記載されております」%K%P
 It seems to indicate that Tanaka Yukie-sama had a husband named Yoichi-san.
 CN PLACEHOLDER
-И, судя по нему, у Танаки Юкиэ был муж по имени „Йоити“.
+И, судя по нему, у Танаки Юки был муж по имени Ёичи.
 
 空「文脈から判断するに……『Ｙöｉｃｈｉ』さんは、当時からさかのぼること１９年前、すなわち今から３４年前に亡くなられたものと推測されます」%K%P
 Judging from the context of the document... I conjectured that if Yoichi-san had died 19 years before, that would mean 34 years before now.
 CN PLACEHOLDER
-Судя по содержанию документа... Я предполагаю, что „Йоити“ умер за 19 лет до его сохранения – то есть 34 года назад.
+Судя по содержанию документа...я предполагаю, что Ёичи умер за 19 лет до его сохранения - то есть, 34 года назад.
 
 少年「だけど、他のデータには『タナカヨウイチ』という名前はどこにもなかったのに、どうしてこのログにだけ、残ってたんだろう？」%K%P
 But the name 'Tanaka Yoichi' doesn't appear in any of the other data. Why is it only here?
 CN PLACEHOLDER
-Но имя Танака Ёити не упоминается больше нигде. Почему только здесь?
+Но, имя Танака Йоичи не упоминается больше нигде. Почему только здесь?
 
 空「これも推測の範囲内を出ませんが……」%K%P
 I can only speculate from my limited knowledge...
 CN PLACEHOLDER
-С моей ограниченной осведомлённостью я могу лишь предполагать...
+С моей ограниченной осведомлённостью, я могу лишь предполагать...
 
 空「恐らく、なんらかの理由により、田中陽一さんに関するすべての記録は抹消されたものと思われます」%K%P
 All records related to Tanaka Yoichi-san were erased for a reason.
 CN PLACEHOLDER
-Все записи, относящиеся к Танаке Ёити были удалены специально.
+Все записи, относящиеся к Танаке Йоичи были удалены специально.
 
 空「このログの、１４行目と１５行目を今一度御確認下さい」%K%P
 Please read the fourteenth and fifteenth line of this log one more time.
@@ -3961,12 +3961,12 @@ CN PLACEHOLDER
 ――Ａ＞え？　まさか、知らないとか？%K%P
 —A > What? Oh, you mean you didn't know?
 CN PLACEHOLDER
--A > What? Oh, you mean you didn't know?%N(в смысле? погоди, так ты не знала?)
+-A > в смысле? погоди, так ты не знала?
 
 ――Ｂ＞そうだったの！？%K%P
 —B > Is that so?
 CN PLACEHOLDER
--B > Is that so?%N(вот как?)
+-B > вот как?
 
 少年「会話のつながり方が、なんか不自然だね」%K%P
 The flow of the conversation seems unnatural.
@@ -3981,32 +3981,32 @@ CN PLACEHOLDER
 空「本来ならば、１４行目と１５行目の間には、なんらかの会話文が挿入されていたはずなのです」%K%P
 Originally, there seems to have been some text between these lines.
 CN PLACEHOLDER
-Похоже, что изначально между этими строками был ещё какой-то текст.
+Похоже, что в оригинале между этими строками был ещё какой-то текст.
 
 少年「つまり、何者かの手によって、その部分が削除されてしまった、と？」%K%P
 So you mean that someone erased part of it?
 CN PLACEHOLDER
-То есть... кто-то специально стёр его часть?
+То есть...кто-то специально стёр его часть?
 
 空「Ａ氏の発言からも、そのことがうかがえます」%K%P
 From A's comments, it would appear so.
 CN PLACEHOLDER
-Судя по ответам „A“, так оно и есть.
+Судя по ответам 'A', так оно и есть.
 
 少年「だけど、その後のＢの発言には、ちゃんと『Ｙöｉｃｈｉ』さんの名前が残って……」%K%P
 But Yoichi-san's name was left in B's comments...
 CN PLACEHOLDER
-Но тогда почему имя „Йоити“ осталось в комментариях „B“...
+Но, тогда почему имя Ёичи осталось в комментариях 'B'...?
 
 少年「……あっ、そういうことか」%K%p
 ...Oh, I see.
 CN PLACEHOLDER
-...О, я понял.
+...ха〜а, я понял.
 
 ローマ字表記だったから
 It was because it was in English
 CN PLACEHOLDER
-Потому что переговоры велись на английском
+Потому что переговоры велись на русском
 
 ウムラウトが含まれているから
 It was because it had an umlaut
@@ -4016,7 +4016,7 @@ CN PLACEHOLDER
 少年「きっと、陽一さんに関するデータを探すときに、コンピューターが自動的に検索をかけて……」%K%P
 What probably happened is that when the computer was searching, it automatically looked for...
 CN PLACEHOLDER
-Скорее всего они искали имя Ёити через автопоиск...
+Скорее всего они искали имя Йоичи через автопоиск...
 
 少年「『陽一／ヨウイチ』などが含まれる記述については、片っ端から全部抹消して行ったんだ」%K%P
 'Yoichi' in Japanese, erasing everything it found.
@@ -4026,12 +4026,12 @@ CN PLACEHOLDER
 少年「ところが、このＢさんの発言だけはなぜか見逃されることになった」%K%P
 However, B's comments were overlooked for some reason.
 CN PLACEHOLDER
-Однако они по какой-то причине проглядели сообщения "B".
+Однако, они проглядели сообщения 'B', потому что они были на русском.
 
 少年「『Ｙｏｉｃｈｉ』――つまり、ローマ字で表記されてたからだ！」%K%P
 That's because Yoichi's name is spelled in English.
 CN PLACEHOLDER
-Потому что имя Ёити написано латиницей – "Yoichi".
+Потому что имя Йоичи написано кириллицей.
 
 空「いいえ。残念ながら、そうではありません」%K%P
 No. Unfortunately, that is not correct.
@@ -4041,27 +4041,27 @@ CN PLACEHOLDER
 少年「あれ？」%K%P
 What?
 CN PLACEHOLDER
-Что?
+〜〜〜?!
 
 空「削除を行った人間は、そこまで愚かではありません」%K%P
 The person that did the search would not be so foolish.
 CN PLACEHOLDER
-Те, кто делал поиск, не столь глупы.
+Те, что делали поиск, не столь глупы.
 
 空「削除対象には、『Ｙｏｉｃｈｉ』というローマ字表記も含まれていたと思われます」%K%P
 It would appear that the name 'Yoichi' in English was also searched for and erased.
 CN PLACEHOLDER
-Дело в том, что, по всей видимости, имя "Yoichi" тоже искали и удаляли.
+Дело в том, что, по всей видимости, имя 'Йоичи' тоже искали и удаляли.
 
 少年「でも、現にこうしてっ」%K%P
 But what about this one?
 CN PLACEHOLDER
-Но... тогда как же быть с этим?
+Но...тогда как же быть с этим?
 
 空「少年さん？　Ｂさんの発言をよく見てください」%K%P
 Kid-san, look very closely at B's comments.
 CN PLACEHOLDER
-Малой-сан, посмотри внимательнее на сообщения „B“.
+Кид, присмотрись хорошенько к сообщениям 'B'.
 
 空「彼女は、普通とは少し異なる書き方をしていませんか？」%K%P
 Didn't she use a way of rendering the name that is uncommon?
@@ -4071,12 +4071,12 @@ CN PLACEHOLDER
 ――Ｂ＞Ｙöｉｃｈｉさんが亡くなられたのって１９年前でしょ？%K%P
 —B > But Yöichi-san died 19 years ago, right?
 CN PLACEHOLDER
-- B > But Yöichi-san died 19 years ago, right?%N(но Йоити умер 19 лет назад, так ведь?)
+- B > но, Ёичи умер 19 лет назад, так ведь?
 
 少年「あっ！　これ……『ｏ』が『ö』になってる……？」%K%P
 Oh! The... 'o' is an 'ö'...?
 CN PLACEHOLDER
-Стой... Вместо "o" написано "ö"...»%K%PМалой«То есть вместо "Yoichi" – "Yöichi"...
+Стоп...! Вместо 'Йо' написано 'Ё'...»%K%PКид«В русском эта буква читается не как 'е', а примерно как 'йо'... Фонетически это не ошибка, но вот орфографически...
 
 空「はい。これは『ウムラウト』と申しまして、ゲルマン語、主にドイツ語で……」%K%P
 Yes. This is called an 'umlaut' and is used mainly in German...
@@ -4086,12 +4086,12 @@ CN PLACEHOLDER
 空「母音『ａ／ｕ／ｏ』が後続のｉまたはｅに引かれて、それに近づいた音に変わるときに使用される記号なのです」%K%P
 When an 'a', 'u', or 'o' vowel is followed by the letters 'i' or 'e', an umlaut is used to indicate that the sound is closer to the second.
 CN PLACEHOLDER
-Когда гласный звук „a“, „u“ или „o“ идёт за „i“ или „e“, используется умляут для указания, что звук произносится ближе ко второму.
+Когда гласный звук 'a', 'u' или 'o' идёт за 'i' или 'e', используется умляут для указания, что звук произносится ближе ко второму.
 
 少年「ということは……そのウムラウトが含まれてたから……？」%K%P
 So you're saying... that because this included an umlaut...
 CN PLACEHOLDER
-То есть... всё из-за обыкновенной безграмотности собеседницы?
+То есть...всё из-за обыкновенной безграмотности собеседницы?
 
 少年「きっと、陽一さんに関するデータを探すときに、コンピューターが自動的に検索をかけて……」%K%P
 What probably happened is that when the computer was searching, it automatically looked for...
@@ -4101,17 +4101,17 @@ CN PLACEHOLDER
 少年「『陽一／ヨウイチ／Ｙｏｉｃｈｉ』などが含まれる記述については、片っ端から全部抹消して行ったんだ」%K%P
 'Yoichi' in Japanese and in English, erasing everything it found.
 CN PLACEHOLDER
-...то брали имя „Ёити“ на японском и английском, стирая их все.
+...то брали имя Йоичи как на японском и английском, так и на русском, стирая их все.
 
 空「ところが、このＢさんの発言だけはなぜか見逃されることになった」%K%P
 However, B's comments were overlooked for some reason.
 CN PLACEHOLDER
-Однако они проглядели сообщения „B“.
+Однако, они проглядели сообщения 'B'.
 
 少年「『Ｙöｉｃｈｉ』――つまり、ウムラウトが含まれてたからだ！」%K%P
 And her comments had his name spelled as 'Yöichi'!
 CN PLACEHOLDER
-И вот почему – вместо „Yoichi“ – „Yöichi“. Имя написано с орфографической ошибкой!
+И вот почему - вместо 'Йоичи' - 'Ёичи'. Имя написано с орфографической ошибкой!
 
 空「はい」%K%P
 Correct.
@@ -4121,12 +4121,12 @@ CN PLACEHOLDER
 空「私もそう考えたので、Ｂさんの、その他の発言についても調べてみました」%K%P
 So I tried to look for other similar comments by B.
 CN PLACEHOLDER
-Поэтому я попыталась найти другие сообщения „B“, схожие с этими.
+Поэтому я попыталась найти другие сообщения 'B', схожие с этими.
 
 空「彼女は、チャットやメールなど、親しい間でやり取りするような砕けた形式の文章では……」%K%P
 It appears that she had a habit of using abbreviated words...
 CN PLACEHOLDER
-Оказалось, что у госпожи „B“ была особая манера ведения беседы...
+Оказалось, что у госпожи 'B' была особая манера ведения беседы...
 
 空「アルファベットの『ａ／ｕ／ｏ』をウムラウトにして記述する癖があったようです」%K%P
 ...And spelling words in her own way in her communications with friends.
@@ -4136,12 +4136,12 @@ CN PLACEHOLDER
 少年「彼女なりのこだわり、スタイルみたいなものなのかな？」%K%P
 It seems to be a style particular to her.
 CN PLACEHOLDER
-Типа своего стиля письма?
+Догадываюсь. Стиль интернет-чатов?
 
 空「『だよね』を『だよネ』と書いたり、『なのさ』を『なのサ』と書いたりする方をしばしばお見受けしますが、これもその類と考えて差し支えないでしょう」%K%P
 There are numerous examples of her writing things such as 'CU later' or 'B4' for before.
 CN PLACEHOLDER
-Да, есть несколько примеров вроде „ок“ вместо „окей“ („хорошо“) или „локалка“ вместо „локальная сеть“.
+Да, есть несколько примеров, вроде '3.14сец', 'ППЦ', 'CU later', 'LOL', 'А4?' вместо 'а что?'.
 
 言いながら、空は指先で、ひらがなとカタカナを書き分けて示した。%K%P
 As she spoke, Sora pulled up samples of correspondences.
@@ -4151,7 +4151,7 @@ CN PLACEHOLDER
 空「それはそうと……田中さん、大丈夫でしょうか」%K%P
 But... do you think that Tanaka-san is alright?
 CN PLACEHOLDER
-Но... как думаешь, с Танакой-сан всё в порядке?
+Но...как думаешь, с Танакой-сан всё в порядке?
 
 少年「そうだね、沙羅が追いかけていったけど、ちょっと心配だ」%K%P
 Well, Sara went after her, but I'm still kinda worried about her.
@@ -4161,7 +4161,7 @@ CN PLACEHOLDER
 空「やはり、お教えしない方が良かったのでしょうか……」%K%P
 I wonder if I shouldn't have told her after all...
 CN PLACEHOLDER
-Может, мне всё-таки не стоило ей это рассказывать...
+Может мне всё-таки не стоило ей это рассказывать...
 
 少年「そんなことはないよ！　どんな事実だろうと、優が望んでた情報を教えただけなんだから」%K%P
 No! You did the right thing! No matter what the facts are, that's what You wanted to know, and you told her.
@@ -4171,7 +4171,7 @@ CN PLACEHOLDER
 少年「優だってそれはわかってるはずだし、彼女は強いから、きっと受け入れてくれるよ」%K%P
 You knows that. She's tough. She can take it.
 CN PLACEHOLDER
-Знаешь... она крепкая. Она выдержит.
+Знаешь...она крепкая. Она выдержит.
 
 空「よくご存じなのですね」%K%P
 You know her well.
@@ -4181,7 +4181,7 @@ CN PLACEHOLDER
 少年「う、うん……」%K%P
 No... Not really...
 CN PLACEHOLDER
-Да нет... не совсем...
+Да нет...не совсем...
 
 顔が火照る。ぼくはソワソワと落ち着かなくなった。%K%P
 My face started to flush. I started to fidget uncomfortably.
@@ -4191,7 +4191,7 @@ CN PLACEHOLDER
 空「様子を見てこられた方がいいのではないですか？」%K%P
 Don't you think you should go see how she is doing?
 CN PLACEHOLDER
-Может, будет лучше, если ты пойдёшь проведать её?
+Может будет лучше, если ты пойдёшь проведать её?
 
 少年「うん、そうするよ」%K%P
 Yeah. I will.
@@ -4216,7 +4216,7 @@ CN PLACEHOLDER
 少年「ありがとう……本当に、色々」%K%P
 I just wanted to say... thanks for everything.
 CN PLACEHOLDER
-Я просто хотел сказать... спасибо тебе, Сора.
+Я просто хотел сказать...спасибо тебе, Сора.
 
 空は頬をほんのりと染め、はにかむように笑った。%K%P
 Sora's cheeks seemed to redden just a bit and she smiled shyly.
@@ -4231,7 +4231,7 @@ CN PLACEHOLDER
 空「みなさんが喜んでくれるのなら、それは私自身にとっても至上の喜びとなるのですよ」%K%P
 If that makes everyone happy, then I know no greater joy.
 CN PLACEHOLDER
-Если это делает всех счастливыми, то и меня тоже.
+Если это делает всех счастливыми, значит и меня саму.
 
 至上の微笑みを浮かべ、空はディスプレイの向こうへと消えた。%K%P
 With the ultimate smile plastered on her face, Sora disappeared into the display.
@@ -4241,5 +4241,5 @@ CN PLACEHOLDER
 誰もいなくなった警備室をあとにし、ぼくは優達を追いかけた。%K%P
 I left the empty security office and went in search of You and the others.
 CN PLACEHOLDER
-Я оставил опустевший Офис охраны и отправился на поиски Ю и остальных.
+Я оставил опустевший Офис Охраны и отправился на поиски Ю и остальных.
 

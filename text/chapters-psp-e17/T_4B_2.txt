@@ -56,7 +56,7 @@ CN PLACEHOLDER
 武「……グーで小突かなくてもいいじゃないか」%K%P
 ...You don't have to push and poke me...
 CN PLACEHOLDER
-А тебе не стыдно тыкать меня под рёбра?..
+...а тебе не стыдно тыкать меня под рёбра...?
 
 バカなやり取りを繰り返しながら、俺達はベッドに近づいていった。%K%P
 Exchanging stupid banter, we approached the bed.
@@ -81,12 +81,12 @@ CN PLACEHOLDER
 少年「あ、あれっ！？」%K%P
 H-Hey!
 CN PLACEHOLDER
-Ч-что?!
+Ч-что!?
 
 少年は急に立ち止まった。%K%P
 The Kid had stopped suddenly.
 CN PLACEHOLDER
-Неожиданно Малой встал как вкопанный.
+Неожиданно Кид встал как вкопанный.
 
 一番奥のベッドを凝視して、目を見開いている。%K%P
 He was pointing at the bed in the back.
@@ -96,12 +96,12 @@ CN PLACEHOLDER
 武「ん、どうした少年？　新しい生き物でも見つけたのか？」%K%P
 What's the matter, Kid? You discover a new species or something?
 CN PLACEHOLDER
-Что с тобой, Малой? Увидел привидение?
+Что с тобой, Кид? Увидел привидение?
 
 少年「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+......
 
 少年「つぐみが……」%K%P
 Tsugumi's...
@@ -111,12 +111,12 @@ CN PLACEHOLDER
 少年「つぐみが、いない……」%K%P
 Tsugumi's gone...
 CN PLACEHOLDER
-Цугуми... пропала...
+Цугуми...пропала...
 
 優「え？」%K%P
 What?
 CN PLACEHOLDER
-Э-э?!
+Ээээ?!
 
 ココ「ふえ？」%K%P
 Whahoo?
@@ -126,12 +126,12 @@ CN PLACEHOLDER
 武「なんだって！？」%K%P
 What!?
 CN PLACEHOLDER
-Что?!
+〜〜〜〜〜!?
 
 驚いて俺は、奥のベッドへと駆け寄った。%K%P
 I ran to the bed in shock.
 CN PLACEHOLDER
-В состоянии шока я побежал к кровати.
+В состоянии шока, я побежал к кровати.
 
 皆もすぐに駆けつける。%K%P
 Everyone followed right behind me.
@@ -166,12 +166,12 @@ CN PLACEHOLDER
 しかし、点滴の管や心拍計測用のリードは、ずたずたに引きちぎられて、ばら撒かれている。%K%P
 But the IV tube and the heart monitor had been torn up and scattered around.
 CN PLACEHOLDER
-Но внутривенные трубки и проаода кардиомонитора были вырваны и разбросаны по полу.
+Но внутривенные трубки и кардиомонитор оторваны и валяются на полу.
 
 武「そんな……レミはどうして気づかなかったんだ？」%K%P
 What the... Why didn't LeMMIH pick up on this?
 CN PLACEHOLDER
-Что за... почему LeMMIH об этом не сообщил?
+Что за...почему ЛеММИХ об этом не сообщил?
 
 武「優、つぐみのデータはレミがずっと監視してたんだろ？　どうしてだよ？」%K%P
 LeMMIH was monitoring Tsugumi's data, right, You? What happened?
@@ -181,7 +181,7 @@ CN PLACEHOLDER
 優「知らない……知らないわよ、そんなこと」%K%P
 I don't know... I have no idea.
 CN PLACEHOLDER
-Н-не знаю... п-понятия не имею.
+Н-не знаю...п-понятия не имею.
 
 うろたえて優は、視線を逸らした。%K%P
 She averted her eyes from mine.
@@ -191,12 +191,12 @@ CN PLACEHOLDER
 優「ああっ……！？」%K%P
 Hey...!?
 CN PLACEHOLDER
-А-а-а?!
+Ааа...!?
 
 優「あ、あれ見て！！」%K%P
 Look at that!
 CN PLACEHOLDER
-Г-глядите!
+---глядите!
 
 優が救護室の一角を指差す。%K%P
 She pointed to the corner of the room.
@@ -211,7 +211,7 @@ CN PLACEHOLDER
 武「！？」%K%P
 !?
 CN PLACEHOLDER
-?!
+!?
 
 そこにある医療用コンピューターのコードが裂け、モニターは粉々に割られていた。%K%P
 The cord was torn off the medical computer, and the monitor had been smashed to pieces.
@@ -226,7 +226,7 @@ CN PLACEHOLDER
 優「いったい誰が、こんなことを……？」%K%P
 Who could have done this...?
 CN PLACEHOLDER
-Кто... мог это сделать?..
+Кто...мог это сделать...?!
 
 武「知るかよ。俺が訊きたいぞ……」%K%P
 That's what I'd like to know...
@@ -236,7 +236,7 @@ CN PLACEHOLDER
 ココ「ね、ねぇ。あれ、何？」%K%P
 Um, um, what's that?
 CN PLACEHOLDER
-Э-э... эй! Это... что?
+Ээ...эй! Это...что?
 
 今度はココが何か見つけた。%K%P
 Coco had found something.
@@ -246,32 +246,32 @@ CN PLACEHOLDER
 コンピューターのコンソールの下には、包帯と共に、細長いケースのようなものが落ちていた。%K%P
 Under the computer console, there were some bandages and a long, skinny case of some sort.
 CN PLACEHOLDER
-Под компьютерной консолью... лежат бинты и длинный, тонкий ящик.
+Под компьютерной консолью...лежат бинты и длинный, тонкий ящик.
 
 白い、ハードケース……。%K%P
 A white, hard case...
 CN PLACEHOLDER
-Твёрдый белый корпус или футляр...
+Белый, тяжёлый ящик...
 
 ココ「これって、もしかして……？」%K%P
 Is this...?
 CN PLACEHOLDER
-Это... похоже на?..
+Это...похоже на...?
 
 武「つぐみの足にはまってたギプスだ……。違うか？」%K%P
 It's Tsugumi's brace, right?
 CN PLACEHOLDER
-Это гипс Цугуми, так?
+Это скоба Цугуми, так?
 
 優「ううん、間違いない。つぐみのだよ、これ」%K%P
 You're right. It's Tsugumi's.
 CN PLACEHOLDER
-Да. Он самый.
+Да, скоба Цугуми. Она самая.
 
 少年「って、ことは……」%K%P
 Which means...
 CN PLACEHOLDER
-Значит, это...
+Значит это...
 
 武「つぐみだ」%K%P
 Tsugumi.
@@ -281,12 +281,12 @@ CN PLACEHOLDER
 武「つぐみが自分のギプスを外して、それでコンピューターをブッ壊したんだ」%K%P
 She took off her own brace and smashed up the computer.
 CN PLACEHOLDER
-Она сняла с себя гипс и разбила им компьютер.
+Она сняла собственные бинты и разбила компьютер.
 
 武「ベッドから降りて、コンピューターを壊して、それから部屋を出て行った……」%K%P
 She got out of bed, smashed the computer, and then left the room...
 CN PLACEHOLDER
-После чего она встала с кровати и ушла...
+Встала с кровати, разбила компьютер, а затем ушла...
 
 俺は自分の考えをそのまま口にした。%K%P
 My thoughts leaped right out of my mouth.
@@ -301,17 +301,17 @@ CN PLACEHOLDER
 ココ「そ、そうなの！？」%K%P
 Really!?
 CN PLACEHOLDER
-Т-ты серьёзно?!
+Т-ты серьёзно!?
 
 ココ「ココがサンドを持ってきたときには、まだちょっと苦しそうにしながら、ベッドに寝てたんだよ……？」%K%P
 But when I brought her the sandwiches, she still looked like she was in pain, in bed...
 CN PLACEHOLDER
-Но когда я приносила сэндвичи, казалось что ей больно, она всё ещё лежала на кровати...
+Но, когда я приносила бутерброды, казалось что ей больно, она всё ещё лежала на кровати...
 
 ココ「ほんとに、つぐみんが……？」%K%P
 You really think that Tsugumin...?
 CN PLACEHOLDER
-Неужели Цугумин правда?..
+Неужели Цугуми правда...?
 
 武「だ、だってそれ以外、考えられないだろ！」%K%P
 Well, what else could it be?
@@ -321,12 +321,12 @@ CN PLACEHOLDER
 少年「誰かが、つぐみをさらって行ったんじゃ……？」%K%P
 Maybe someone ran off with her...?
 CN PLACEHOLDER
-Может кто-то помог ей бежать?..
+Может кто-то помог ей бежать...?
 
 武「だ、誰かって誰だよ。俺達以外の誰かか？」%K%P
 Someone... like who? Who's here besides us?
 CN PLACEHOLDER
-Кто-то... кто например? Кроме нас здесь вообще никого нет!
+Кто-то...кто например? Кроме нас здесь вообще никого нет!
 
 優「おかしいよ！　どっちにしたって！」%K%P
 It's crazy either way!
@@ -356,7 +356,7 @@ CN PLACEHOLDER
 優「コンピューターを壊したからって、レミが何の反応も示さなかったのも、変だよ……」%K%P
 And it's strange that LeMMIH didn't respond, even if the computer is broken...
 CN PLACEHOLDER
-Компьютер сломан, но почему сам LeMMIH ничего не сообщил?..
+Компьютер сломан, но почему сам ЛеММИХ ничего не сообщил...?!
 
 優「もし、誰かがここに来てつぐみを連れ出したとしても、そう……」%K%P
 Even if someone had taken her out of here...
@@ -371,7 +371,7 @@ CN PLACEHOLDER
 そう言って、優は頭上に視線をさまよわせた。%K%P
 Saying that, You raised her eyes to the ceiling.
 CN PLACEHOLDER
-С этими словами Ю подняла взгляд на потолок.
+С этими словами, Ю подняла взгляд на потолок.
 
 優「どういう、ことなの……」%K%P
 What in the world...
@@ -386,7 +386,7 @@ CN PLACEHOLDER
 ココ「つぐみん、どうなっちゃったの？」%K%P
 What happened to Tsugumin?
 CN PLACEHOLDER
-Цугумин... что с ней стало?
+Цугуми...что с ней стало?
 
 ココが小さく口を開いた。%K%P
 Coco barely opened her mouth.
@@ -406,12 +406,12 @@ CN PLACEHOLDER
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+......
 
 つぐみが、消えた……？%K%P
 Tsugumi, disappeared...?
 CN PLACEHOLDER
-Цугуми... исчезла?
+Цугуми...исчезла?
 
 そのことに全員、少なからぬショックを受けていた。%K%P
 We were all in shock.
@@ -431,12 +431,12 @@ CN PLACEHOLDER
 優「そんなの、信じられない……」%K%P
 I don't believe that...
 CN PLACEHOLDER
-Этого... не может быть...
+Этого...не может быть...
 
 優「しんじられ、な……っ」%K%P
 I don't believe...
 CN PLACEHOLDER
-Не может!..
+Не может...!
 
 あまりの出来事に、優は青ざめていた。%K%P
 All of the color had drained from You's face as she absorbed the enormity of what had happened.
@@ -446,12 +446,12 @@ CN PLACEHOLDER
 胸を押さえて天井を見上げ、脂汗すら浮かべていた。%K%P
 She was holding her chest, looking up at the ceiling in a cold sweat.
 CN PLACEHOLDER
-Она схватилась за грудь, глядя в потолок. Даже проступил холодный пот.
+Она схватилась за грудь, глядя на потолок, в холодном поту.
 
 優「ううっ……」%K%P
 Uuugh...
 CN PLACEHOLDER
-Ух...
+〜〜〜〜〜〜!!
 
 武「お、落ち着けよ、優」%K%P
 Calm down, You.
@@ -466,32 +466,32 @@ CN PLACEHOLDER
 優「う……うんっ……」%K%P
 Uh... Ugh...
 CN PLACEHOLDER
-Фух... Ух...
+〜〜...〜〜〜...
 
 優「ううっ……はあっ……はあっ」%K%P
 Oo... haaa... haa...
 CN PLACEHOLDER
-Хух... хах... хах...
+〜〜〜...〜〜〜...〜〜〜...
 
 ゆっくりと息を吸って、吐き出す。%K%P
 She breathed in and out, slowly.
 CN PLACEHOLDER
-Она медленно отдышалась.
+С большим трудом, она медленно отдышалась.
 
 彼女の表情に、少し色が戻った。%K%P
 A little color came back to her face.
 CN PLACEHOLDER
-К её лицу вернулась прежняя краска.
+Я волнуюсь...а с Ю точно всё в порядке?
 
 しかし、この事態……どうすればいい？%K%P
 But the question was what to do about the... situation.
 CN PLACEHOLDER
-Это хорошо, но что же нам делать с... главной проблемой?
+Хорошо, потом узнаю. Сейчас вопрос в другом...
 
 どうすれば……。%K%P
 What to do?
 CN PLACEHOLDER
-Что же делать...
+Что делать?
 
 武「そ、そうだ！　空に訊けばいいじゃないか！」%K%P
 Hey, I know! We'll ask Sora!
@@ -521,7 +521,7 @@ CN PLACEHOLDER
 俺と優は、部屋の隅にあるレミの端末へと急いだ。%K%P
 We rushed over to the LeMMIH terminal in the corner of the room.
 CN PLACEHOLDER
-Мы бросились ко стоящему в углу комнаты терминалу LeMMIH.
+Мы бросились ко стоящему в углу комнаты терминалу ЛеММИХ.
 
 コンソールに向かい、優がパネルを操作する。%K%P
 Standing in front of the console, You began operating the panel.
@@ -531,7 +531,7 @@ CN PLACEHOLDER
 優「レミが気づいてないってことは、空もまだ、つぐみがいないことに気づいてないかも……」%K%P
 If LeMMIH hasn't realized it yet, that may mean that Sora doesn't know yet either...
 CN PLACEHOLDER
-Если LeMMIH не в курсе, значит, и Сора тоже наверняка ещё ничего не знает...
+Если ЛеММИХ не в курсе, значит и Сора тоже наверняка ещё ничего не знает...
 
 武「でも、とにかく呼んでくれ。俺達が無闇につぐみを捜し回るより、空に訊いたほうがずっと早い」%K%P
 But call her anyway. It's faster to ask her than to go on a blind search.
@@ -541,7 +541,7 @@ CN PLACEHOLDER
 優「ええ、そうね」%K%P
 You're right.
 CN PLACEHOLDER
-Э-э... конечно.
+Эээ...конечно.
 
 程なくして、レミの端末に変化が現れた。%K%P
 Before long, there was a change in the terminal.
@@ -561,12 +561,12 @@ CN PLACEHOLDER
 優「空、大変なの。つぐみが急に、いなくなっちゃって……」%K%P
 Sora, something terrible has happened. Tsugumi is missing...
 CN PLACEHOLDER
-Сора, случилось нечто страшное. Цугуми пропала!..
+Сора, случилось нечто страшное. Цугуми пропала...!
 
 空「えっ！？　本当ですか？」%K%P
 What!? Are you sure?
 CN PLACEHOLDER
-Что?! Вы уверены?
+Что!? Вы уверены??
 
 空「救護室のモニターに異状があるとは思っていたんですが……」%K%P
 I thought something had happened to the monitor in the room, but...
@@ -576,22 +576,22 @@ CN PLACEHOLDER
 優「異状はわかってたの？　知らせてくれればよかったのに」%K%P
 What!? Why didn't you tell us!?
 CN PLACEHOLDER
-Но почему ты нам ничего не сказала?!
+Но почему ты нам ничего не сказала!?
 
 空「すいません。先程からひどいジャミングがかかっていて……ご連絡が遅れました」%K%P
 I am terribly sorry. There has been terrible jamming, and... it delayed me.
 CN PLACEHOLDER
-Простите. Здесь были жуткие помехи и... это задержало меня.
+Простите. Здесь были жуткие помехи и...это задержало меня.
 
 武「ジャミング？　なんだ？」%K%P
 Jamming? What's that?
 CN PLACEHOLDER
-Помехи? Что за?..
+Помехи? Что за...?
 
 優「電波妨害……？」%K%P
 Electromagnetic interference...?
 CN PLACEHOLDER
-Электромагнитные помехи?..
+Электромагнитные помехи...?
 
 空「部屋の状況は？　皆さん、その部屋にいらっしゃるんですか？」%K%P
 How is the room? Is everyone there?
@@ -606,7 +606,7 @@ CN PLACEHOLDER
 空「実は今、救護室の様子が、私の『目』には見えていないんです」%K%P
 Because, actually, my 'eyes' aren't working.
 CN PLACEHOLDER
-Дело в том, что мои „глаза“ не работают.
+Дело в том, что мои 'глаза' не работают.
 
 空「ですので、ちょっと確認に手間取ってしまって……」%K%P
 So I wasted time trying to confirm...
@@ -641,7 +641,7 @@ CN PLACEHOLDER
 空「ええと……立ち位置は合ってますか？　私の映像、ちゃんと出てますよね……？」%K%P
 Am I standing in the right place? Can you see me alright?
 CN PLACEHOLDER
-Э-э... я стою в правильной точке? Вы меня видите?
+Эээ...я стою в правильной точке? Вы меня видите?
 
 空は不安げに眉を下げる。%K%P
 Sora looked worried.
@@ -651,17 +651,17 @@ CN PLACEHOLDER
 武「大丈夫だよ。……本当に見えてないのか？」%K%P
 You're fine... You really can't see?
 CN PLACEHOLDER
-Да, вполне... Сора, ты правда ничего не видишь?
+Да, вполне.... Сора, ты правда ничего не видишь?
 
 空「回復しつつありますが、まだ少しおかしいです」%K%P
 It is getting better, but there is still something wrong.
 CN PLACEHOLDER
-Уже лучше, но... здесь всё ещё что-то не так.
+Уже лучше, но...здесь всё ещё что-то не так.
 
 空「ジャイロで皆さんの位置はなんとなくわかるんですが、向きが……」%K%P
 I can tell approximately where you are standing, but not which way you are facing...
 CN PLACEHOLDER
-Я могу примерно сказать, где вы стоите, но не в какую сторону повёрнуты...
+Я могу примерно сказать, где Вы стоите, но не в какую сторону повёрнуты...
 
 空は俺から少しズレた方向を見ながらしゃべっていた。%K%P
 She was talking to a spot just next to me.
@@ -676,12 +676,12 @@ CN PLACEHOLDER
 空「やってみます……これから全館に、生体反応スキャンをかけます」%K%P
 Let me try... I'll do a bio scan on the entire building.
 CN PLACEHOLDER
-Секундочку... сейчас проведу биосканирование по всему сооружению.
+Секундочку...сейчас проведу биосканирование по всему сооружению.
 
 そう言ってレミの端末に手をかざすと、直接アクセスし始める。%K%P
 She put her hands on the LeMMIH terminal and started accessing it right away.
 CN PLACEHOLDER
-Она положила руки на терминал LeMMIH.
+Она положила руки на терминал ЛеММИХ.
 
 少年「ね、ねぇ……」%K%P
 Hey, hey...
@@ -691,12 +691,12 @@ CN PLACEHOLDER
 少年「優達、誰と話してるの？」%K%P
 Who are you guys talking to?
 CN PLACEHOLDER
-Ребята... с кем вы говорите?
+Ребята...с кем вы говорите?
 
 ベッドのほうに残っていた少年は、恐る恐る俺達に声をかけた。%K%P
 The Kid asked us fearfully from over by the bed.
 CN PLACEHOLDER
-С опаской, сидя на кровати, спросил нас Малой.
+С опаской, сидя на кровати, спросил нас Кид.
 
 救護室を出る。%K%P
 We left the infirmary.
@@ -716,7 +716,7 @@ CN PLACEHOLDER
 少年「救護室のベッドの辺りから、加減圧室に下りるリフトまでの天井のセンサー類が、一時的に故障してた……？」%K%P
 Does that mean the ceiling sensors from the bed over to the elevator are all temporarily broken?
 CN PLACEHOLDER
-Все сенсоры, от кровати до лифтов, временно вышли из строя?
+Все сенсоры, от кровати до лифтовой, временно вышли из строя?
 
 優「うん。そのせいで、空の調子が悪かったみたい」%K%P
 Yeah. That's what's affecting Sora.
@@ -726,22 +726,22 @@ CN PLACEHOLDER
 少年「非常用の通路から、部屋の外に出たんだね」%K%P
 So she left through the emergency corridor.
 CN PLACEHOLDER
-Значит, Цугуми вышла через аварийный коридор?
+Значит она...вышла через аварийный коридор?
 
 武「ああ。ご丁寧に発煙筒まで焚いて行ったらしいぞ、つぐみの奴」%K%P
 Yeah, but Tsugumi was kind enough to leave candles burning for us.
 CN PLACEHOLDER
-Да. Она была столь добра, что оставила для нас зажжённые свечи .
+Да. Цугуми была столь добра, что оставила свечи для нас зажжёнными.
 
 燃えさしの非常用発煙筒をリフトで見つけたとき、俺はさすがに呆れ返った。%K%P
 When we had found the emergency flares in the elevator, I was completely shocked.
 CN PLACEHOLDER
-Я потерял дар речи, когда увидел в лифте догоревшие фальшфайеры.
+Когда мы обнаружили, что в лифте мерцают аварийные огни, я уронил челюсть на пол.
 
 そうまでして俺達を遠ざけたいのだろうか……？%K%P
 She wanted to keep us away that badly?
 CN PLACEHOLDER
-Неужели она на полном серьёзе хочет держаться от нас подальше?
+Неужели она так серьёзно хочет держаться от нас подальше?
 
 空「お待たせしました。検索結果が出ました」%K%P
 Sorry to keep you waiting. I have the results of the bio scan.
@@ -751,27 +751,27 @@ CN PLACEHOLDER
 救護室の扉から、空は遅れて現れた。%K%P
 After a delay, Sora appeared in the door of the infirmary.
 CN PLACEHOLDER
-Чуток погодя Сора появилась в дверях лазарета.
+Чуток погодя, Сора появилась в дверях лазарета.
 
 武「で、つぐみは今、どこをほっつき歩いてるんだ？」%K%P
 And where has Tsugumi hobbled off to?
 CN PLACEHOLDER
-И куда же поковыляла Цугуми?
+И куда же ухромала Цугуми?
 
 まぁ、そう遠くまで行けるとは思えないが……とにかく捕まえて、お灸のひとつも据えてやらないとならないだろう。%K%P
 She couldn't have gone far... In any case, we would find her, and when we did, we would figure everything out.
 CN PLACEHOLDER
-Далеко она уйти не могла... так или иначе, мы найдём её. А когда найдём, всё выясним.
+Далеко она уйти не могла...так или иначе, мы найдём её. А когда найдём, всё выясним.
 
 空「アイがドリットシュトックに下ろされています。小町さんは、隔離区画の先をゆっくり移動しています」%K%P
 An Ei has gone down to Dritter Stock. Komachi-san is slowly moving past the isolated sector.
 CN PLACEHOLDER
-Один из EI спустился до Дритте Шток. Комати-сан медленно проходит изолированный сектор.
+Один из EI спустился до Дритте шток. Комачи-сан медленно проходит изолированный сектор.
 
 武「アイ……？　ああ、『ＥＩ』――中性浮力式エレベーターか！」%K%P
 Ei...? Oh, 'Ei'—the neutral buoyancy elevator!
 CN PLACEHOLDER
-EI? Ах да, тот механический плавучий лифт...
+EI..? Ах да, тот механический плавучий лифт...
 
 武「こっちで呼べばちゃんと来るよな、ＥＩは？」%K%P
 If we call it, Ei will come to us, right?
@@ -791,17 +791,17 @@ CN PLACEHOLDER
 優「え？　ち、ちょっと倉成……？」%K%P
 What? Hold on, Kuranari...
 CN PLACEHOLDER
-Э-э?! П-погоди, Куранари...
+Эээ!? П-погоди, Куранари...
 
 優「あの区画にはアイでしか出入りできないんだから、しばらく待ってれば――」%K%P
 You can only enter and exit that sector using Ei, so if you just wait a little...
 CN PLACEHOLDER
-В тот сектор можно попасть и выйти только с помощью EI...
+В тот сектор можно попасть и выйти только с помощью EI...!
 
 武「放っておけないだろーが！　あいつの傷がヤバくなったらどーすんだ！？」%K%P
 We can't just leave her be! What if her injury gets worse!?
 CN PLACEHOLDER
-Нельзя просто взять и оставить её там! А что, если рана станет хуже?!
+Нельзя просто взять и оставить её там! А что если рана станет хуже!?
 
 武「それにな……なんでこんなことまでしてベッドから逃げ出したのか、俺はきっちり問い詰めてやりたいんだよっ！」%K%P
 And besides, I want to hear a good explanation for why she ran off like this!
@@ -811,22 +811,22 @@ CN PLACEHOLDER
 武「だって、放っておけないだろ。あいつの傷がヤバくなったらどーすんだ？」%K%P
 We can't let her be out there. What if her injury gets worse?
 CN PLACEHOLDER
-Нельзя просто взять и оставить её там. А что, если рана станет хуже?
+Нельзя просто взять и оставить её там.  А что если рана станет хуже?
 
 武「まったく、ベッドでおとなしくしてろっつーの……！」%K%P
 Why couldn't she just stay in bed...!?
 CN PLACEHOLDER
-И какого хрена ей в кровати не лежалось?!
+И какого хрена ей в кровати не лежалось...!?
 
 優「あっ、倉成！」%K%P
 Hey, Kuranari!
 CN PLACEHOLDER
-А-а-а?! Куранари!
+Ааа!? Куранари!
 
 空「倉成さんっ」%K%P
 Kuranari-san?
 CN PLACEHOLDER
-Куранари-сан?..
+Куранари-сан...?!
 
 優達をその場に置いて、俺は猛然と走り出す。%K%P
 I left them there and ran out.
@@ -846,7 +846,7 @@ CN PLACEHOLDER
 ランプが点灯し、正常にエレベーターが作動していることを知らせる。%K%P
 The lamp lit up, letting me know that it was working normally.
 CN PLACEHOLDER
-Лампочка зажглась, дав понять, что лифт работает нормально.
+Лампочка зажглась, давая понять что тот работает нормально.
 
 二重扉が開かれると、俺は飛び乗った。%K%P
 I sprang in when the double doors opened.
@@ -876,7 +876,7 @@ CN PLACEHOLDER
 （待ってろよつぐみ、こんにゃろーっ……！！）%K%P
 (Watch out, Tsugumi, because here I come!)
 CN PLACEHOLDER
-(Берегись, Цугуми! А вот и я!)
+(Берегись, Цугуми! А вот и я!!)
 
 俺は組んだ指の関節をポキポキと鳴らした。%K%P
 I cracked my knuckles.
@@ -886,22 +886,22 @@ CN PLACEHOLDER
 傷ついた身体をおして、ひとり遠くへ行ってしまったつぐみ……。%K%P
 Tsugumi had pushed herself, despite her injury, and gone off all alone...
 CN PLACEHOLDER
-Цугуми не жалеет себя, озлоблена из-за ранения. Она сбежала... одна-одинёшенька...
+Цугуми не жалеет себя, озлоблена из-за ранения. Она сбежала...одна одинёшенька...
 
 そうまでして、死んじまいたいのかよ……。%K%P
 Did she really mean to kill herself...?
 CN PLACEHOLDER
-Неужели она правда хочет совершить самоубийство?..
+Неужели она правда хочет совершить самоубийство...?
 
 本当に、そう思ってるのかよ……。%K%P
 Was she actually trying...?
 CN PLACEHOLDER
-То есть, прямо сейчас она пытается?..
+То есть, прямо сейчас она пытается...?
 
 だったらいっそ、勝手にすればいい。%K%P
 I wondered if I should just let her.
 CN PLACEHOLDER
-Может, тогда лучше позволить ей...
+Может тогда лучше позволить ей---?
 
 だが、しかし！！%K%P
 But still!
@@ -926,7 +926,7 @@ CN PLACEHOLDER
 きっと今ごろ、びーびー泣いてる。%K%P
 But I figured she was bawling by now.
 CN PLACEHOLDER
-Но готов спорить, что сейчас Цугуми что есть мочи зовёт на помощь.
+Но, готов спорить, что сейчас Цугуми что есть мочи зовёт на помощь.
 
 足の傷だって当然、痛んでるだろうしな。%K%P
 And that her leg would be killing her.
@@ -936,12 +936,12 @@ CN PLACEHOLDER
 ひとりあんな所まで行ってしまって、戻るに戻れなくなっているに違いない。%K%P
 She'd gone so far that she probably couldn't get back even if she wanted to.
 CN PLACEHOLDER
-Она забралась слишком далеко и, должно быть, не может вернуться, даже если бы захотела.
+Она забралась слишком далеко и, должно быть, не может вернуться даже если бы захотела.
 
 もしかしたら、反省してるだろうか……？%K%P
 Maybe she was regretting it...?
 CN PLACEHOLDER
-Может, она жалеет, что так поступила?..
+Может она жалеет, что так поступила...?
 
 本当なら横っ面のひとつふたつ、張り倒してやりたいところだが……。%K%P
 What I really wanted to do was get in a couple good wisecracks to pay her back for all the hard times she'd given me...

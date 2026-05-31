@@ -16,12 +16,12 @@ CN PLACEHOLDER
 頭上には、高く澄み切った青空。%K%P
 Above, high above, stretched a clear blue sky.
 CN PLACEHOLDER
-В вышине раскинулось чистое голубое небо.
+В вышине раскинулось чистое, голубое небо.
 
 まだ生まれたばかりの空は、今にもこぼれ落ちそうな程に瑞々しく艶めいていた。%K%P
 The fresh new sky looked so glossy and vivid that it might spill down to Earth at any moment.
 CN PLACEHOLDER
-Свежее, девственное – оно кажется столь ярким, будто вот-вот прольётся на землю.
+Свежее, девственное - оно кажется столь ярким, будто вот-вот прольётся на землю.
 
 彼の瞳に映ったものは、それだけだった。%K%P
 That was all that was reflected in his eyes.
@@ -31,7 +31,7 @@ CN PLACEHOLDER
 遥か彼方に真っ直ぐ伸びた水平線が、海と空を分けていた。%K%P
 The straight line of the horizon stretched into the distance, dividing the sea from the heavens.
 CN PLACEHOLDER
-Линия горизонта, раскинувшаяся вдоль океана, отчётливо разделяла его от океана воздушного.
+Линия горизонта, раскинувшаяся вдоль океана, отчерчивает его от океана воздушного.
 
 武「のどかだなぁ……」%K%P
 So tranquil...
@@ -76,17 +76,17 @@ CN PLACEHOLDER
 ――東京都駒ヶ原諸島Ｍ島沖１６Ｋｍ。%K%P
 —16 km from M Island, Komagahara Archipelago, Tokyo.
 CN PLACEHOLDER
-– В 16 километрах к западу от острова M, Архипелаг Комагахара, префектура Токио...
+—В 16 километрах к западу от острова M, Архипелаг Комагахара, префектура Токио...
 
 洋上に浮かんだ人工島『インゼル・ヌル』は、まさに現実とはかけ離れた別天地を思わせた。%K%P
 The man-made island, Insel Null, rose above the waves of the water. It seemed like a place entirely removed from reality.
 CN PLACEHOLDER
-Над океанскими волнами возвышается рукотворный остров – Инсель Нуль. Это место напоминает гостя из другой реальности.
+Над океанскими волнами возвышается рукотворный остров - Инсель нуль. Это место напоминает гостя из другой реальности.
 
 その様相は、ユートピア（楽園）という言葉さえ連想させる。%K%P
 The word “utopia” might have sprung to mind to describe it.
 CN PLACEHOLDER
-Слово «утопия» приходит в голову при попытке его описать.
+Слово 'утопия' приходит в голову при попытке его описать.
 
 実際、この浮島の船着場にある石碑には、このような文字が刻まれていた。%K%P
 Actually, on a slab of rock on the boat dock of the floating island were carved the words:
@@ -96,12 +96,12 @@ CN PLACEHOLDER
 『天国はどこにある？』%K%P
 “Where is heaven?”
 CN PLACEHOLDER
-«Где рай?»
+'Где рай?'
 
 『空の上と、あなたの足元に……』%K%P
 “Above the sky, and at your feet...”
 CN PLACEHOLDER
-«Высоко в небе, и у твоих ног...»
+'Высоко в небе, и у твоих ног...'
 
 彼は浮島の手すりから身を乗り出すと、海中を覗き込んだ。%K%P
 Leaning out over the railing of the island, he gazed into the ocean depths.
@@ -111,22 +111,22 @@ CN PLACEHOLDER
 金属製の巨大な構造物が、青い視界の彼方にゆらゆらと揺らめいて見える。%K%P
 He could see a massive metallic structure wavering faintly in the distant blue expanse.
 CN PLACEHOLDER
-В далёкой синеве виднеются массивные, но элегантные стальные конструкции.
+В далёкой синеве виднеются массивные, элегантные стальные конструкции.
 
 武「楽園、か……」%K%P
 Utopia, huh...?
 CN PLACEHOLDER
-Утопия, значит?..
+Утопия, значит..?
 
 呟いて、彼は何気なく振り向いてみた。%K%P
 He mumbled and looked back casually...
 CN PLACEHOLDER
-С этими словами он машинально оглянулся...
+С этими словами, он машинально оглянулся...
 
 タヌキがいた。%K%P
 And there was a tanuki, or raccoon dog.
 CN PLACEHOLDER
-Рядом стоит тануки, или же енотовидная собака.
+Рядом стоит 'тануки', или енотовидная собака.
 
 タヌキと目が合ってしまった。%K%P
 His eyes met those of the animal's.
@@ -141,27 +141,27 @@ CN PLACEHOLDER
 武「ど、どうも……」%K%P
 Uh... H-Hello...
 CN PLACEHOLDER
-Э-э... П-привет...
+Эээ... п-привет...
 
 気まずい雰囲気を取り繕うように、彼は軽く会釈をする。%K%P
 He tried saying something to clear the air...
 CN PLACEHOLDER
-В попытке развеять вынужденную неловкость, Такэси поздоровался.
+В попытке развеять вынужденную неловкость, Такеши сделал лёгкий кивок.
 
 タヌキは答えずに、そっぽを向いてしまった。%K%P
 ...But the animal turned away, ignoring him.
 CN PLACEHOLDER
-Но зверь отвернулся, не обращая на него внимания.
+Зверь отвернулся, не обращая на него внимания.
 
 よく見ると、タヌキの尻尾のところには、何かがかじりついているのがわかった。%K%P
 Upon closer inspection, he noticed something biting the tanuki's tail.
 CN PLACEHOLDER
-И тут он заметил, что в тануки сзади кто-то вцепился.
+И тут он заметил, что в 'тануки' сзади кто-то вцепился.
 
 ？？「ウーッ……ウーッ……ウーッ……」%K%P
 Grr... Grr... Grr...
 CN PLACEHOLDER
-Гр-р-р... Гр-р-р... Гр-р-р...
+Ррр... ррр... ррр...
 
 少女だった。%K%P
 It was a girl.
@@ -171,37 +171,37 @@ CN PLACEHOLDER
 誤解を招かぬよう念を押すが、彼女は『人間の』姿形をしていた。%K%P
 For the record, yes, a “human” girl.
 CN PLACEHOLDER
-Да, именно человеческая девочка.
+И откуда она только нарисовалась?
 
 さらによくよく見ると、少女のお尻にも、何かがかじりついていた。%K%P
 Looking closer revealed that there was something strange about her as well.
 CN PLACEHOLDER
-Но кажется, что и с ней нечто из ряда вон выходящее.
+Но, кажется, и с ней нечто из ряда вон выходящее.
 
 ？？「ウーッ……ウーッ……ウーッ……」%K%P
 Grr... Grr... Grr...
 CN PLACEHOLDER
-Гр-р-р... Гр-р-р... Гр-р-р...
+Грр... грр... грр...
 
 小ダヌキ――少女のお尻に小ダヌキがかじりついていた。%K%P
 Namely, a small tanuki attached to the girl's backside.
 CN PLACEHOLDER
-Сзади к девочке прицепился тануки поменьше.
+Сзади к девочке прицепился маленький пёсик.
 
 『大ダヌキの尻尾にかじりついている少女のお尻にかじりついている小ダヌキ』%K%P
 “A small tanuki biting a girl who was biting a bigger tanuki.”
 CN PLACEHOLDER
-«Перед ним стоит большой тануки, укушенный девочкой, которая укушена маленьким тануки.»
+'Перед ним стоит большой тануки, укушенный девочкой, которая укушена маленьким псом.'
 
 その光景は、彼から現実感を奪うのに充分だった。%K%P
 The scene was enough to shatter his sense of reality.
 CN PLACEHOLDER
-Сцены оказалось достаточно, чтобы он потерял чувство реальности.
+Сцены оказалось достаточно, чтобы потерять чувство реальности.
 
 まぶたをこすり、こすっては開き……。%K%P
 He rubbed his eyes, rubbed them some more, and tried looking again...
 CN PLACEHOLDER
-Он протёр глаза, протёр снова и снова и опять открыл их, пошире...
+Он протёр глаза, протёр снова и снова, и опять открыл их, пошире...
 
 まばたきを何度繰り返してみても、その奇妙な光景が消えることはなかった。%K%P
 But no matter how many times he blinked, the bizarre scene just refused to go away.
@@ -226,37 +226,37 @@ CN PLACEHOLDER
 しかし放心状態の彼の耳に、その言葉は届かない。%K%P
 But in his state of sheer confusion, the words went in one ear and right out the other.
 CN PLACEHOLDER
-Но слова не дошли до его разума, поскольку Такэси явно в ступоре от абсурдности происходящего.
+Но слова не дошли до его разума, поскольку Такеши явно в ступоре от абсурдности происходящего.
 
 ？？「ウーッ……ウーッ……ウーッ……」%K%P
 Grr... Grr... Grr...
 CN PLACEHOLDER
-Гр-р-р... Гр-р-р... Гр-р-р...
+Грр... грр... грр...
 
 ？？「ウーッ……ウーッ……ウーッ……」%K%P
 Grr... Grr... Grr...
 CN PLACEHOLDER
-Гр-р-р... Гр-р-р... Гр-р-р...
+Грр... грр... грр...
 
 （やっぱり俺は、夢の中に？）%K%P
 (Is this really a dream after all?)
 CN PLACEHOLDER
-(Я, должно быть, сплю?)
+(Я должно быть сплю, правда?)
 
 ――彼は本気でそう思っていた。%K%P
 —For a moment, he seriously had to consider the possibility.
 CN PLACEHOLDER
-– Это единственное, что пришло ему в голову.
+—Это единственное, что пришло ему в голову.
 
 （ん？）%K%P
 (Huh?)
 CN PLACEHOLDER
-(Хм-м-м?)
+(Хмм?)
 
 ふと気づくと、タヌキ達が列を成して前に進んでいくのが見えた。%K%P
 When he finally snapped out of his daze, he noticed that the two tanuki had formed a line and were moving forward.
 CN PLACEHOLDER
-Наконец опомнившись, он заметил, что «семейка тануки» выстроилась паровозиком и быстро пошла вперёд...
+Он заметил, что "семейка тануки" выстроилась паровозиком и быстро пошла вперёд.
 
 行く手には密閉式の巨大なゲートがあった。%K%P
 In front of them was a massive gate that was shut tight.
@@ -266,7 +266,7 @@ CN PLACEHOLDER
 音もなくゲートは開かれ、大ダヌキ・小ダヌキ・少女は連なったまま、その中に入る。%K%P
 The gate swung open without a sound, and the big tanuki, the little tanuki, and the girl went inside.
 CN PLACEHOLDER
-Они беззвучно раскрылись, а два тануки вместе с девочкой прошли внутрь.
+Они беззвучно раскрылись, а большой тануки с маленьким пёсиком и девочкой прошли внутрь.
 
 （ようやく俺の番か……）%K%P
 (Finally! My turn...)
@@ -286,12 +286,12 @@ CN PLACEHOLDER
 ゲートには数人の係員が待機していて、訪れる客へ小型のイヤホンのようなものを手渡している。%K%P
 Several park employees waited at the gate and handed over what looked like earphones to the arriving guests.
 CN PLACEHOLDER
-Несколько работников ждут у ворот и раздают посетителям нечто, похожее на наушники.
+Несколько работников ждут у ворот и раздают посетителям нечто, напоминающее наушники.
 
 この先では、このイヤホンを装着しなければならないらしい。%K%P
 It seemed that the earphones were to be used at some point up ahead.
 CN PLACEHOLDER
-Похоже, что «наушники» нужны для чего-то особенного.
+Похоже, что 'наушники' нужны для чего-то особенного.
 
 何故こんなことをするのだろう？%K%P
 He wondered why.
@@ -311,7 +311,7 @@ CN PLACEHOLDER
 窓がなかった。よく磨かれた丸い壁の様子から、この部屋が半球状のドームであることがわかる。%K%P
 There were no windows. From the polished round walls, it was clear that the room was dome-shaped.
 CN PLACEHOLDER
-Там не оказалось окон. Глядя на шлифованные округлые стены, Такэси понял, что помещение выполнено в форме купола.
+Там не оказалось окон. Глядя на шлифованные округлые стены, Такеши понял, что помещение выполнено в форме купола.
 
 辺りを見渡す。%K%P
 He looked around.
@@ -326,22 +326,22 @@ CN PLACEHOLDER
 友達同士、恋人同士、家族連れの姿もある。%K%P
 Among them were friends, amorous couples, and families alike.
 CN PLACEHOLDER
-Среди них – друзья, влюблённые пары и семейки в полном составе.
+Среди них - друзья, влюблённые пары и семейки в полном составе.
 
 しかし、先程のタヌキの一家は離散していた。%K%P
 However, it seemed the “Tanuki family” had split up.
 CN PLACEHOLDER
-«Семейка тануки», тем не менее, разделилась.
+'Семейка тануки', тем не менее, разделилась.
 
 大ダヌキは大勢の客を掻き分け、部屋の奥にあるもうひとつの扉へと進み出る。%K%P
 The large tanuki shoved its way through the crowd of people and made its way toward a door on the other side of the room.
 CN PLACEHOLDER
-Большой тануки протолкался через людскую толпу и прошёл к двери на противоположной стороне комнаты.
+Большой тануки протолкался через людскую толпу и удалился в дверь, ведущую в другую часть помещения.
 
 少女は小ダヌキと一緒に、こちら側にたたずんでいた。%K%P
 The young girl stayed on the same side of the room as the little tanuki.
 CN PLACEHOLDER
-Девочка стоит в той же части комнаты, что и маленький тануки.
+Девочка стоит в той же части комнаты, что и маленький пёсик.
 
 （あのタヌキ達は結局なんだかわからんが、ともかく……）%K%P
 (Can't say I have a clue what those tanuki are all about, but...)
@@ -366,12 +366,12 @@ CN PLACEHOLDER
 ２０分程前のことだが、入場待ちをしていた彼の目の前で、客が部屋の定員に達してしまった為に――%K%P
 Just 20 minutes earlier, while he'd been waiting in line, the visitor room had reached capacity...
 CN PLACEHOLDER
-Лишь двадцатью минутами ранее комната для посетителей была битком...
+Лишь двадцатью минутами ранее, комната для посетителей была битком...
 
 一緒に並んでいた友人達は先にこの部屋に入り、彼だけがひとり、次回に取り残されることになっていたのだ。%K%P
 And the friends he had been waiting with had gone ahead, leaving him behind to go down with the next group.
 CN PLACEHOLDER
-А друзья, с которыми он стоял в очереди, прошли вперёд, оставив его позади. Такэси ничего не оставалось, как ждать новый «рейс».
+А друзья, с которыми он стоял в очереди, прошли вперёд, бросив его позади. Такеши ничего не оставалось, как ждать новый 'рейс'.
 
 （ま、いいか。下に行けば、みんなじきに見つかるさ）%K%P
 (Oh well. I'm sure I'll find everyone down below soon enough.)
@@ -381,17 +381,17 @@ CN PLACEHOLDER
 やがて、静かに入場ゲートが閉じられる。%K%P
 Finally, the gate to the entrance quietly slipped shut.
 CN PLACEHOLDER
-Наконец, ворота беззвучно закрылись.
+Наконец, ворота беззвучно захлопнулись.
 
 大ダヌキが壁面に据え付けられたパネルを操作すると、部屋が少し暗くなった。%K%P
 The big tanuki fiddled with something on the wall, and the room got a shade darker.
 CN PLACEHOLDER
-Большой тануки повозился с чем-то на стене, и свет в помещении внезапно погас.
+Большой тануки скрипнул чем-то о стену, и свет в помещении внезапно погас.
 
 係員「皆さん、どうもこんにちは！」%K%P
 Hello, everybody!
 CN PLACEHOLDER
-Итак, всем добрый день!
+Итак, всем привет!
 
 係員が闇の中に浮かぶ。%K%P
 A park employee emerged out of the darkness.
@@ -401,22 +401,22 @@ CN PLACEHOLDER
 いつの間に現れたのだろう。彼女は派手なドレスを着ている。%K%P
 He wondered when she had gotten there. She was wearing a flashy dress.
 CN PLACEHOLDER
-Он не заметил, откуда та пришла. Она одета в кричащее платье.
+Он удивился, откуда та пришла. Она одета в кричащее платье.
 
 ほのかな光を放つその姿はやはり、夢の中の出来事のように見えた。%K%P
 The dim light illuminating her made her seem like something out of a dream indeed.
 CN PLACEHOLDER
-Тусклый свет, падающий на неё, делает её похожей на персонажа из красочного сна.
+Тусклый отражающийся свет делает её похожей на персонажа из красочного сна.
 
 客「…………」%K%P
 ...
 CN PLACEHOLDER
-...
+.........
 
 係員「あれ？　反応がないですねぇ」%K%P
 What? No reaction, folks?
 CN PLACEHOLDER
-М-м? Почему все такие молчаливые?
+Эй? Почему все такие молчаливые?
 
 係員「もう一度いきますよ？」%K%P
 I'll try that again...
@@ -431,12 +431,12 @@ CN PLACEHOLDER
 少女「こーんにっちゃーーーっ！」%K%P
 Hellooooo!
 CN PLACEHOLDER
-Добрый де-е-е-е-ень!
+Добрый деееееень!
 
 先程、大ダヌキの尻尾にかじりついていた少女が叫んだ。%K%P
 It was the girl who had been biting the large tanuki's tail earlier.
 CN PLACEHOLDER
-Прокричала девочка, что не так давно вцепилась зубами в хвост большого тануки.
+Прокричала девочка, что не так давно вцепилась зубами в филейную часть большого тануки.
 
 係員「あっ、元気のいい女の子、発見」%K%P
 Oh! I've found a girl with some spunk.
@@ -451,12 +451,12 @@ CN PLACEHOLDER
 少女「やーーーがーーーみぃ、こーーーこーーーでーーーっす！」%K%P
 I'm Ya-ga-mi Co-co!
 CN PLACEHOLDER
-Я-ГА-МИ КО-КО, ВО-О-ОТ КА-А-АК!
+Я-ГА-МИ КО-КО, ВОООТ КАК!
 
 ココ「で、こっちが愛犬のピピ」%K%P
 And this is my pet dog, Pipi.
 CN PLACEHOLDER
-А это мой ручной пёсик, Пипи.
+Это мой ручной пёсик, Пипи.
 
 ピピ「わんっ！」%K%P
 *Woof*!
@@ -466,12 +466,12 @@ CN PLACEHOLDER
 （あれはタヌキではなく犬だったのか）%K%P
 (Oh, so that's not a tanuki, it's a dog.)
 CN PLACEHOLDER
-(А, так это не тануки, а собака.)
+(Значит мне не показалось, это и впрямь собака.)
 
 （でも、普通ペットは持ち込み禁止なはずでは？）%K%P
 (Wait, I thought they didn't let pets in here...)
 CN PLACEHOLDER
-(А я думал, что с животными сюда нельзя...)
+(А я думал, что с животными сюда вход запрещён.)
 
 彼は首を傾げる。%K%P
 He tilted his head, puzzled.
@@ -486,7 +486,7 @@ CN PLACEHOLDER
 ココ「んーとねぇ、んーとねぇ……１・２・３・４・５……」%K%P
 Um, well... One, two, three, four, five...
 CN PLACEHOLDER
-Эм-м... так-так, эм-м... Раз, два, три, четыре, пять...
+Эммм... так-так, эммм... так-так... раз, два, три, четыре, пять...
 
 ココ「今回が、はじめて！」%K%P
 This is my first time!
@@ -496,22 +496,22 @@ CN PLACEHOLDER
 係員「ふふふっ、面白い子ね」%K%P
 Hehe, aren't you a funny girl?
 CN PLACEHOLDER
-Хи-хи. А ты забавная!
+Хи〜хи. А ты забавная, неправда ли?
 
 ココ「よく言われます」%K%P
 I get that a lot.
 CN PLACEHOLDER
-Все так говоря-я-ят.
+Все так говоряяят.
 
 ココ「ついでだから、もっとオモシロイこと、やってあげよっか？」%K%P
 You want me to do something even more funny?
 CN PLACEHOLDER
-А хочешь, я сделаю кое-что гораздо забавнее?
+А хочешь, я сделаю что-то гораздо забавней?
 
 係員「えっ？」%K%P
 Hm?
 CN PLACEHOLDER
-М-м?
+Эээ?
 
 ココ「最近ね、友達からちょーうけるコメッチョ教わったの！」%K%P
 My friend told me a real good joke the other day!
@@ -521,12 +521,12 @@ CN PLACEHOLDER
 係員「あ、ああ……えーっと……それは、また今度ね」%K%P
 O-Oh... Er... Maybe some other time.
 CN PLACEHOLDER
-О-ой... Ну... Лучше как-нибудь в другой раз.
+О-Ой.... Э-Это... лучше как-нибудь в другой раз.
 
 ココ「どうしてぇーっ？」%K%P
 Why not?
 CN PLACEHOLDER
-Почему-у-у?
+Почему〜〜〜?!
 
 係員「これから、皆さんにお伝えしなくちゃいけないことがあるの」%K%P
 Because I have to tell everyone something important right now.
@@ -536,12 +536,12 @@ CN PLACEHOLDER
 ココ「う〜ん……そっか、ほいじゃあしょうがないよね」%K%P
 Hmm... Oh well, okay then...
 CN PLACEHOLDER
-Хм-м-м... вот как. Ну, тогда ладно.
+Хммм... вот как. Ну, тогда ладно.
 
 ココ「でも、ほんとにオモシロイのになぁ……」%K%P
 It's really funny, though...
 CN PLACEHOLDER
-Но он очень смешной...
+Но, он очень смешной...
 
 ココ「残念だね？　ピピ」%K%P
 Too bad, huh, Pipi?
@@ -556,12 +556,12 @@ CN PLACEHOLDER
 係員「オホン……では、改めまして……」%K%P
 Ahem. Now, once again...
 CN PLACEHOLDER
-Кхм... Итак, сначала, с вашего позволения...
+Э-кхм... Итак, сначала, с вашего позволения...
 
 係員「このたびは、海洋テーマパーク『ＬｅＭＵ』に御来場くださいまして、誠にありがとうございます」%K%P
 On behalf of the marine theme park LeMU, I'd like to thank you all very much for coming.
 CN PLACEHOLDER
-От имени администрации тематического морского парка LeMU хочу поблагодарить вас за то, что решили его посетить.
+От имени администрации тематического морского парка LeMU, хочу поблагодарить вас, что решили его посетить.
 
 係員「これから皆さんに、このテーマパーク『ＬｅＭＵ』の御説明と、少しだけ、注意事項をお知らせいたします」%K%P
 I am about to give you a brief explanation about the park and tell you a few things to watch out for.
@@ -571,7 +571,7 @@ CN PLACEHOLDER
 ココ「え〜っ、そんなのどうでもいいから、早く中に入れてよぉ〜！」%K%P
 Hey, who cares? Hurry up and let us inside already!
 CN PLACEHOLDER
-Эй, да какая кому разница! Лучше поскорее впусти нас внутрь!
+Эй, это скучно! Лучше поскорей впусти нас внутрь!
 
 係員「私も勿論、すぐにでも皆さんを御案内したいのですが……」%K%P
 I would love to take everyone inside right away...
@@ -581,7 +581,7 @@ CN PLACEHOLDER
 係員「申し訳ありません」%K%P
 But I'm terribly sorry.
 CN PLACEHOLDER
-Но мне очень жаль.
+Но, мне очень жаль.
 
 係員「実はどうしても、皆さんにはこの加圧室に留まっていただく必要があるのです」%K%P
 Everyone will actually have to stay in this room for the time being.
@@ -616,7 +616,7 @@ CN PLACEHOLDER
 係員「その前に、ひとまず注意事項をお伝え致します」%K%P
 But before that, let me tell you a few things you should be aware of.
 CN PLACEHOLDER
-Но прежде, разрешите предупредить вас о нескольких вещах, о которых следует знать заранее.
+Но прежде, разрешите предупредить вас о нескольких вещах, которые следует знать заранее.
 
 係員「これから気圧の上昇に伴い、皆さんは耳に違和感をお感じになると思います」%K%P
 As the air pressure rises, you may start to feel a strange sensation in your ears.
@@ -641,7 +641,7 @@ CN PLACEHOLDER
 係員「それでも耳が治らない場合や、体調が悪くなってしまわれた場合には、手をあげて知らせて下さいね」%K%P
 If that doesn't get your ears back to normal, or you if don't feel well, please raise your hand and let me know.
 CN PLACEHOLDER
-Если ничего не изменится или если вы будете неважно себя чувствовать, то, пожалуйста, поднимите руку и дайте мне знать.
+Если ничего не изменится, или если вы себя будете неважно чувствовать, тогда пожалуйста поднимите руку и дайте мне знать.
 
 係員「そのときには、すぐに加圧を停止します」%K%P
 In the event that happens, we will immediately stop increasing the air pressure.
@@ -656,7 +656,7 @@ CN PLACEHOLDER
 係員「…………」%K%P
 ...
 CN PLACEHOLDER
-...
+.........
 
 係員「よろしいでしょうか？」%K%P
 Is everything clear then?
@@ -666,7 +666,7 @@ CN PLACEHOLDER
 係員「…………」%K%P
 ...
 CN PLACEHOLDER
-...
+.........
 
 係員「では、加圧を始めましょう」%K%P
 Very well, then. We'll initiate the rise in pressure.
@@ -681,7 +681,7 @@ CN PLACEHOLDER
 係員「その間に、皆さんにＬｅＭＵの構造について御説明いたします」%K%P
 During that time, I will explain a little about the structure of LeMU to you all.
 CN PLACEHOLDER
-За это время я расскажу вам о том, как устроен LeMU.
+За это время я расскажу вам о том, как LeMU устроен.
 
 係員「皆さんも御存知の通り、ＬｅＭＵは海の中に浮かんでいます」%K%P
 As you all know, LeMU is floating in the ocean...
@@ -691,7 +691,7 @@ CN PLACEHOLDER
 係員「水深１７ｍ〜５１ｍの、海の中に……」%K%P
 At a depth of between 17 and 51 meters...
 CN PLACEHOLDER
-На глубине от 17 до 51 метров...
+На глубине между 17 и 51 метром...
 
 係員「さて、図を御覧いただければおわかりになるように、これらは４つの層に分かれた構造をしています」%K%P
 Now, if you look at this chart, you will see that the structure is divided into four layers.
@@ -701,17 +701,17 @@ CN PLACEHOLDER
 係員「上から順に、インゼル・ヌル、エルストボーデン、ツヴァイトシュトック、ドリットシュトックと呼ばれていますが……」%K%P
 From the top, these are called Insel Null, Erster Boden, Zweiter Stock, and Dritter Stock...
 CN PLACEHOLDER
-Сверху вниз они называются Инсель Нуль, Эрсте Боден, Цвайте Шток и Дритте Шток...
+Сверху вниз они называются Инсель нуль, Эрсте боден, Цвайте шток и Дритте шток...
 
 係員「一般的に言われるグランドフロア〜地下３階までのことだとお考えいただいて結構です」%K%P
 In terms of a normal building, you might think of it as a structure with a ground floor extending down to a three-story basement.
 CN PLACEHOLDER
-Если сравнивать с обычным зданием, его можно описать как структуру с одним наземным и тремя подземными этажами.
+В сравнении с обычным зданием, его можно описать как структуру с одним наземным и тремя подземными этажами.
 
 係員「インゼル・ヌルとは、ここ……浮島のことです」%K%P
 Insel Null, where we are at the moment, is a floating island.
 CN PLACEHOLDER
-Инсель Нуль, в самом верху, это плавучий остров.
+Инсель нуль, в самом верху, это плавучий остров.
 
 係員「洋上に浮かんだ巨大な人工島……」%K%P
 It is an immense man-made island floating on the ocean's surface...
@@ -721,7 +721,7 @@ CN PLACEHOLDER
 係員「インゼルは島、ヌルはゼロという意味のドイツ語です」%K%P
 In German, 'insel' means 'island' and 'null' means 'zero'.
 CN PLACEHOLDER
-По-немецки „инсель“ значит ‘остров’ или ‘земля’, а „нуль“ значит ‘ноль’.
+По-немецки 'инсель' значит 'остров' или 'земля', а 'нуль' значит 'ноль'.
 
 係員「つまりここは地上階、『ゼロ・フロア』ということになりますね」%K%P
 In other words, this is floor zero, or the ground floor.
@@ -731,22 +731,22 @@ CN PLACEHOLDER
 係員「次に、エルスト〜ドリットについてですが……」%K%P
 Next is from Erster to Dritter...
 CN PLACEHOLDER
-Следующие – по порядку, от Эрсте к Дритте...
+Следующие - по порядку, от Эрсте к Дритте...
 
 と、そのときだった。%K%P
 Just then...
 CN PLACEHOLDER
-И тут...
+И тут.
 
 ココ「ねえねえ？　ねえねえ？」%K%P
 Hey, hey. Hey, you.
 CN PLACEHOLDER
-Эй, эй... Эй, эй...
+Эй, эй...... Эй, эй......
 
 ココ「ねえってばぁ！」%K%P
 Hey, I'm talking to you!
 CN PLACEHOLDER
-Эй, ты-ы-ы!
+Эй, ты〜〜〜!
 
 説明に耳を傾けていた彼の背中を、ふいに誰かが引っぱった。%K%P
 As he was listening to the explanation, someone pulled on him from behind.
@@ -766,12 +766,12 @@ CN PLACEHOLDER
 名前は確か……%K%P
 (What was her name again...?)
 CN PLACEHOLDER
-(Блин, как же её зовут?..)
+(Блин, как её зовут...?)
 
 ココ「ねえ？　ココのコメッチョ、気にならない？」%K%P
 Hey. Don't you want to hear my joke?
 CN PLACEHOLDER
-Эй. Хочешь, я расскажу тебе анекдот?
+Эй. Хочешь, Коко расскажет тебе свой анекдот?
 
 ああ、そうだった。%K%P
 (Oh, that's right.)
@@ -786,7 +786,7 @@ CN PLACEHOLDER
 懐に抱えているのはぺぺだったか、ポポだったか……。%K%P
 (And that animal she's holding is Pepe, or Popo, or something...)
 CN PLACEHOLDER
-(И животное, что она держит – Пепе, или Попо, или как там его...)
+(И животное, что она держит - Пепе, или Попо, или как там его...)
 
 ココ「気になるでしょ？」%K%P
 You wanna hear it, don't you?
@@ -801,12 +801,12 @@ CN PLACEHOLDER
 ココ「さっき言おうとしたコメッチョのことだよ」%K%P
 The joke I was just talking about. It's an Ameri-joke.
 CN PLACEHOLDER
-Анекдот, о котором я тебе говорю, это „аме-кдот“.
+Анекдот, о котором я тебе говорю, это 'аме-кдот'.
 
 武「こ、こめっちょ？」%K%P
 An ameri... joke?
 CN PLACEHOLDER
-А... амек... дот?
+А-А... амек... дот?
 
 ココ「知らないの？　最近流行ってるっしょ？」%K%P
 You haven't heard about them? They're real popular nowadays, ya know.
@@ -816,22 +816,22 @@ CN PLACEHOLDER
 武「知らないな、そんなの……何だ、それ？」%K%P
 No, I haven't. What's the deal with them?
 CN PLACEHOLDER
-Нет, не слышал... Что это такое?
+Нет, не слышал... Так, о чём это ты?
 
 ココ「アメリカンジョークのことだってば……米っちょ、米っちょ」%K%P
 An Ameri-joke is an American joke. Get it? 'Ameri-joke'.
 CN PLACEHOLDER
-Аме-кдот – это американский анекдот. Ну, понял? „Аме-кдот“.
+Аме-кдот это американский анекдот. Ну, понял? 'Аме-кдот.'
 
 武「ふ、ふ〜ん……」%K%P
 O-Oh...
 CN PLACEHOLDER
-А... А-а...
+А-Ааа...
 
 ココ「気になるでしょ？　教えて欲しいでしょ？」%K%p
 Makes you wanna hear it, right? Want me to tell you?
 CN PLACEHOLDER
-Так ты выслушаешь его? Хочешь, расскажу?
+Так ты выслушаешь его, правда? Хочешь, расскажу?
 
 米っちょを聞く
 Listen to the joke
@@ -846,7 +846,7 @@ CN PLACEHOLDER
 武「うん、気になる、かも」%K%P
 Yeah, I guess I'll listen to it.
 CN PLACEHOLDER
-Хм-м-м, ну, так уж и быть.
+Хммм, ну, так уж и быть.
 
 ココ「ＯＫ！　じゃあ教えてあげよう！」%K%P
 Okay! Here goes!
@@ -861,7 +861,7 @@ CN PLACEHOLDER
 ココ「『百万年と言ったら、幽霊にとってどれぐらいの時間なんでしょうか？』」%K%P
 'How long is a million years to a ghost?', he asked.
 CN PLACEHOLDER
-„Что для призрака миллион лет?“ – спросил он.
+'Что для призрака миллион лет?' - спросил он.
 
 ココ「すると幽霊はこう答えた」%K%P
 And the ghost answered...
@@ -871,7 +871,7 @@ CN PLACEHOLDER
 ココ「『百万年と言ったら、わしにとっては１秒みたいなもんだよ』」%K%P
 'A million years is like a second to me.'
 CN PLACEHOLDER
-„Миллион лет для меня – лишь секунда“.
+'Миллион лет для меня - лишь секунда.'
 
 ココ「次に男はこんなことを尋ねた」%K%P
 Next, the man asked...
@@ -881,7 +881,7 @@ CN PLACEHOLDER
 ココ「『幽霊にとって、百万ドルってぇのは、どんなもんなんでしょうか？』」%K%P
 'How much is a million dollars to a ghost?'
 CN PLACEHOLDER
-„Что для призрака миллион баксов?“
+'Что для призрака миллион баксов?'
 
 ココ「幽霊は答えた」%K%P
 And the ghost answered...
@@ -891,7 +891,7 @@ CN PLACEHOLDER
 ココ「『百万ドル？　それは人間の価値で言えば１セントと同じようなものじゃ』」%K%P
 'A million dollars? It's nothin' but one small cent to me.'
 CN PLACEHOLDER
-„Миллион баксов? Для меня это всего лишь один цент“.
+'Миллион баксов? Для меня это всего лишь один цент.'
 
 ココ「その答えを聞いて、男はニヤニヤと愛想笑いを浮かべながら、最後にこんなことを聞いてみたんだ」%K%P
 When he heard that, the man pretended to smile all nice and then said...
@@ -901,7 +901,7 @@ CN PLACEHOLDER
 ココ「『おお、おじいさん！　ならばあなたの１セントを、私にひとつ頂けないでしょうか？』ってね」%K%P
 'Well then, gramps, how about giving me one of your cents?'
 CN PLACEHOLDER
-„Ну тогда, дедуля, может, подаришь мне один из своих центов?“
+'Ну тогда, дедуля, может подаришь мне один из своих центов?'
 
 ココ「幽霊は微笑みながらこう言った」%K%P
 Laughing, the ghost replied.
@@ -911,12 +911,12 @@ CN PLACEHOLDER
 ココ「『ああ、勿論いいとも、すぐにでもやろう』」%K%P
 'Sure. Right away.'
 CN PLACEHOLDER
-„Конечно, внучёк“.
+'Конечно, внучек.'
 
 ココ「『だが１秒だけ、待ってくれないかな』」%K%P
 'But can I get you to wait just a second?'
 CN PLACEHOLDER
-„Погодь, одну секундочку...“
+'Погодь, одну секундочку...'
 
 武「…………」%K%P
 ...
@@ -926,12 +926,12 @@ CN PLACEHOLDER
 ココ「ぷぷっ、ぷぷっ……」%K%P
 Pft... Heehee...
 CN PLACEHOLDER
-Хи-хи-хи-и-и...
+Хи〜хи〜хиии...
 
 ココ「キャハハハハハハハハ！」%K%P
 Waaahahaha!
 CN PLACEHOLDER
-Нья-ха-ха-ха-ха-ха-ха-и-ха-и!
+Нья〜ха〜ха〜ха〜ха〜ха〜ха〜и〜ха〜и〜!
 
 ココ「どう？　とびっきりいかしたジョークでしょ？」%K%P
 Well? Pretty good joke, huh?
@@ -941,12 +941,12 @@ CN PLACEHOLDER
 武「まぁ、気にならないこともないけど……後でな」%K%P
 It's not that I don't want to hear it, but... later, okay?
 CN PLACEHOLDER
-Я бы его с радостью выслушал, но... Давай попозже, хорошо?
+Ну, могло быть и хуже, но, знаешь что...? Потом поговорим, ладно?
 
 ココ「えーっ」%K%P
 Whaaat?!
 CN PLACEHOLDER
-Э-э?!
+Эээ?!
 
 彼は子犬の頭を撫でると、向き直って係員の説明に耳を傾けた。%K%P
 He patted the little dog's head and turned back to listen to the explanation.
@@ -981,7 +981,7 @@ CN PLACEHOLDER
 係員「ですから、今このようにして、皆さんの身体を６気圧の大気に慣らしているというわけです」%K%P
 So right now our bodies are adjusting to be able to handle pressure equivalent to six atmospheres.
 CN PLACEHOLDER
-То есть сейчас наши тела приспосабливаются к существованию при этом давлении.
+То есть, сейчас наши тела приспосабливаются к существованию при этом давлении.
 
 係員「勿論、この混合ガスは、酸素・窒素・ヘリウムで構成されておりますので、人体にはまったく無害です」%K%P
 This mixture of gases is composed of oxygen, nitrogen, and helium, and is of course completely harmless to people.
@@ -1011,12 +1011,12 @@ CN PLACEHOLDER
 係員「海水が漏れて中に入って来たらどうするんだ、とか、水圧に押し潰されて沈没してしまうんじゃないか、とか」%K%P
 You might be worrying about what would happen if seawater started leaking inside, or that we might be crushed by the water pressure and start sinking.
 CN PLACEHOLDER
-Возможно, вы переживаете, что морская вода может начать протекать внутрь, или что комплекс может начать тонуть под давлением воды.
+Возможно, вы думаете, что может случиться, если морская вода начнёт протекать внутрь, или что вас может раздавить водная масса, или что мы утонем.
 
 係員「しかし、どうか御安心ください。そのような心配は一切御無用です」%K%P
 However, please rest assured. There is nothing to worry about.
 CN PLACEHOLDER
-Но будьте спокойны. Для волнения нет причин.
+Тем не менее, расслабьтесь. Для волнения нет причин.
 
 係員「内部の気圧を高めているので、このＬｅＭＵが水圧によって押し潰されることは絶対にあり得ないのです」%K%P
 It is absolutely impossible for LeMU to be crushed by the outside water pressure because we have raised the air pressure inside.
@@ -1036,27 +1036,27 @@ CN PLACEHOLDER
 係員「これはただのイヤホンではなく『音声変換機』と言います」%K%P
 These are not just ordinary earphones. They are 'voice alternators'.
 CN PLACEHOLDER
-Это не простые наушники. Это – „модификаторы голоса“.
+Это не простые наушники. Это - 'модификаторы голоса'.
 
 係員「ＬｅＭＵの中にはヘリウムガスが充満しているので、この変換機を耳につけていないと、アヒルのような声に聞こえてしまうのです」%K%P
 LeMU is pumped full of helium gas, so without these in your ears, you'll sound like a duck.
 CN PLACEHOLDER
-LeMU заполнен гелием, поэтому без надетых „наушников“ ваши голоса будут похожи на утиные.
+LeMU заполнен гелием, поэтому без надетых 'наушников' ваши голоса будут похожи на утиные.
 
 彼は、試しに音声変換機を外してみた。%K%P
 He removed his voice alternators to see what would happen.
 CN PLACEHOLDER
-Такэси вынул модификаторы голоса, чтобы понять, что произойдёт.
+Такеши вынул модификаторы голоса, чтобы понять, что произойдёт.
 
 （ははっ、ほんとだ、確かにアヒルの声だ）%K%P
 (Haha! It's true! People really do sound like ducks.)
 CN PLACEHOLDER
-(Ха-ха! Правда! Люди действительно говорят как утки.)
+(Ха〜ха! Правда! Люди действительно говорят как утки.)
 
 （いや、アヒルと言うよりは宇宙人と言った方が近いか？）%K%P
 (Then again, maybe they sound more like aliens than ducks.)
 CN PLACEHOLDER
-(Хотя нет, скорее как инопланетяне, а не утки.)
+(Хотя нет, скорей как инопланетяне, а не утки.)
 
 周りにいる人達の声が、不思議なトーンに変わっていた。%K%P
 The voices of the people around him jumped to a strange higher pitch.
@@ -1076,7 +1076,7 @@ CN PLACEHOLDER
 武「はははっ、なんだよその声、すげー笑える」%K%P
 Hahaha! Your voice is hilarious!
 CN PLACEHOLDER
-Ха-ха-ха. Твой голос звучит смешно.
+Ха〜ха〜ха. Твой голос звучит смешно.
 
 ココ「えっ？　声？」%K%P
 Huh? My voice?
@@ -1111,7 +1111,7 @@ CN PLACEHOLDER
 ココ「『百万年と言ったら、幽霊にとってどれぐらいの時間なんでしょうか？』」%K%P
 'How long is a million years to a ghost?', he asked.
 CN PLACEHOLDER
-„Что для призрака миллион лет?“ – спросил он.
+'Что для призрака миллион лет?' - спросил он.
 
 ココ「すると幽霊はこう答えた」%K%P
 And the ghost answered...
@@ -1121,17 +1121,17 @@ CN PLACEHOLDER
 武「ぷっ……ぷぷっ……」%K%P
 Pft... Heh, heh...
 CN PLACEHOLDER
-Хи... хи-хи-хи...
+Хи... хи〜хи〜хи...
 
 武「だははははははははっ！」%K%P
 Waaahaaaah!
 CN PLACEHOLDER
-Ха-ха-ха-ха-ха-ха-ха!
+Ха〜ха〜ха〜ха〜ха〜ха〜ха〜〜〜!
 
 ココ「ん？　変なの。さっきはちっとも笑わなかったくせに」%K%P
 What? That's weird. You didn't even laugh at all just a second ago.
 CN PLACEHOLDER
-А? Как странно. До этого ты вообще не смеялся.
+Эээ? Это странно. Секунду назад ты не обронил ни звука.
 
 彼は音声変換機を耳に戻すと、再び係員のほうに視線を向けた。%K%P
 He put the voice alternators back in his ears and looked back at the staff member again.
@@ -1146,7 +1146,7 @@ CN PLACEHOLDER
 武「はははっ、さっきの説明聞いてなかったのかよ」%K%P
 Hahaha, you weren't listening to the explanation, were you?
 CN PLACEHOLDER
-Ха-ха-ха. Ты ведь не слушала объяснения гида!
+Ха〜ха〜ха. Ты ведь не слушала объяснения гида!
 
 ココ「なーに笑ってるのー？　にやにやしてるのー？」%K%P
 What's so funny? Why are you smiling like that?
@@ -1161,57 +1161,57 @@ CN PLACEHOLDER
 武「つーか自分の声、自分で聞いてみ？」%K%P
 Well, why don't you try listening to your own voice?
 CN PLACEHOLDER
-Знаешь, может, попробуешь послушать свой голос?
+Знаешь, может попробуешь послушать свой голос?
 
 ココ「へ？」%K%P
 Huh?
 CN PLACEHOLDER
-Чего?
+Эээ?
 
 武「おかしいぞ、まるで８本脚の宇宙人だ」%K%P
 It's so funny. You sound like an eight-legged alien.
 CN PLACEHOLDER
-Это так смешно. Ты разговариваешь как восьминогий пришелец.
+Это так смешно. Ты разговариваешь как девятиногий пришелец.
 
 ココ「宇宙人？　宇宙人ってピロピロのケロケロ？」%K%P
 Alien? Alien as in 'Take us to your leader'... goooba joooba doooba space alien?
 CN PLACEHOLDER
-Пришелец?.. Пришелец, который ещё издаёт звуки „пуи-и“, „пу-и“ и „пиро-о, пиро-о“?
+Пришелец...? Пришелец, прямо как... в 'Звёздных Войнах'?
 
 ココ「クィクィ星人とか、太陽星人とか？」%K%P
 Like a Martian, or a sun person, or someone from Planet Kuikui, or something?
 CN PLACEHOLDER
-Как туземец с планеты Куй-куй или как солнечный человек?
+Как туземец с планеты Куй-куй, или как Марсианин?
 
 ココ「イカン星人だと、この辺のさきっちょから、ビームがみゅ〜っと……」%K%P
 A star person, from the far edge of the galaxy, with pew-pew laser beams...?
 CN PLACEHOLDER
-Звёздный человек? С далёкого края галактики, с лазерным пистолетом?..
+Звёздный человек? С далёкого края галактики, с лазерным пистолетом...?
 
 武「…………」%K%P
 ...
 CN PLACEHOLDER
-...
+.........
 
 ココ「それよりさぁ、コメッチョのほうが絶対面白いって！」%K%P
 My joke was a lot funnier than THAT!
 CN PLACEHOLDER
-Как бы там ни было, мой амекдот ГОРА-А-АЗДО смешнее!
+Как бы там ни было, мой амекдот ГОРАААЗДО смешней〜!
 
 武「ぷっ……ぷぷっ……」%K%P
 Pft... Haha...
 CN PLACEHOLDER
-Хи... хи-хи-хи...
+Хи... хи〜хи〜хи...
 
 武「だははははははははっ！」%K%P
 Waaahaaaah!
 CN PLACEHOLDER
-Ха-ха-ха-ха-ха-ха-ха!
+Ха〜ха〜ха〜ха〜ха〜ха〜ха〜〜〜!
 
 武「もういい、もうお腹いっぱい。サンキュー……」%K%P
 All right, that's enough. I can't take any more of this. Thanks.
 CN PLACEHOLDER
-Хватит, я больше не могу. Спасибо.
+Хвааатит, я больше не могу. Спасибо.
 
 彼は音声変換機を耳に戻すと、再び係員のほうに視線を向けた。%K%P
 He put the voice alternators back in his ears and looked back at the staff member again.
@@ -1236,17 +1236,17 @@ CN PLACEHOLDER
 係員「それでは、海洋テーマパーク『ＬｅＭＵ』を、心ゆくまでお楽しみください」%K%P
 We hope that you enjoy yourself to your heart's content here at the marine theme park LeMU.
 CN PLACEHOLDER
-Мы надеемся, что вы приятно проведёте время здесь, в морском тематическом парке LeMU.
+Мы надеемся, что вы приятно проведёте время здесь, в морском тематическом парке, LeMU.
 
 武「さて、それじゃ行くか……」%K%P
 Well then, time to get going...
 CN PLACEHOLDER
-Так, пора идти...
+Ну что, пошли...?
 
 彼はエレベーターへ向かおうとする。%K%P
 Just as he headed for the elevator...
 CN PLACEHOLDER
-Такэси уже было собрался идти к лифту...
+Такеши собрался идти к лифту...
 
 ココ「ところで、ねぇ、ひとりで来たの？」%K%P
 So, are you here by yourself?
@@ -1256,7 +1256,7 @@ CN PLACEHOLDER
 武「ああ、俺？　いや、友達とはぐれちゃってさ」%K%P
 Who, me? Nah, I got separated from my friends.
 CN PLACEHOLDER
-Кто, я? Да не, отстал от своих друзей.
+Кто, я? Да так, отстал от своих друзей.
 
 ココ「迷子なんだ？」%K%P
 So you're lost?
@@ -1266,7 +1266,7 @@ CN PLACEHOLDER
 武「んー、ちょっと違うけど、まぁ似たようなもんかな」%K%P
 Not exactly, but something like that.
 CN PLACEHOLDER
-М-м, не совсем. Ну, можно и так сказать.
+Ммм, не совсем. Ну, можно и так сказать.
 
 武「エレベーターを降りたらそこらへん、歩いて捜してみるよ」%K%P
 I'll head down the elevator and take a look around.
@@ -1276,7 +1276,7 @@ CN PLACEHOLDER
 ココ「さっきの係のひとに相談してみたら？」%K%P
 How about checking with that lady who was just talking?
 CN PLACEHOLDER
-А может, спросишь у той девушки, что недавно вела рассказ?
+А может спросишь у той девушки, что недавно вела рассказ?
 
 武「お、それもそうだな。ちょっとすいません……」%K%P
 Oh, good idea. One sec...

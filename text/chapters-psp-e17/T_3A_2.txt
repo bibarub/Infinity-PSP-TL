@@ -36,7 +36,7 @@ CN PLACEHOLDER
 つぐみ「パイプが少し歪んでしまっているわ……金具を締め直すから、パイプを持って支えてくれる？」%K%P
 The pipe is bent a little bit... I'm going to clamp a metal sleeve on it. Would you support the pipe for me?
 CN PLACEHOLDER
-Труба слегка погнута... Я собираюсь распрямить металлическую муфту на ней. Ты не мог бы подержать трубу?
+Труба слегка погнута...я собираюсь распрямить металлическую муфту на ней. Ты не мог бы подержать мне трубу?
 
 武「ああ、了解！」%K%P
 Roger that!
@@ -51,12 +51,12 @@ CN PLACEHOLDER
 つぐみ「向こうの……このパイプが繋がってるバルブがあるの。わかる？　あれを少しだけ緩めて欲しいの」%K%P
 On the other side of this... there should be a valve attached to this pipe. You see it? I want you to loosen that a bit.
 CN PLACEHOLDER
-Вон там... к этой трубе присоединён вентиль. Видишь его? Я хочу, чтобы ты его слегка ослабила.
+С другой стороны...к этой трубе должен быть присоединён вентиль. Видишь его? Я хочу, чтобы ты его слегка ослабила.
 
 ココ「はーい、りょうかい！」%K%P
 Okaaaay, gotcha!
 CN PLACEHOLDER
-Хорошо-о, так точно-о-о!
+Хорошоо, так точноооо.
 
 皆で作業を始める。%K%P
 We all started working in unison.
@@ -66,7 +66,7 @@ CN PLACEHOLDER
 いくつかのパイプのバルブを閉めたり開いたり、パイプを取り付けなおしたり、穴を溶接して塞いだり……。%K%P
 We opened and closed a number of valves, connected and repaired pipes, and welded shut cracks...
 CN PLACEHOLDER
-Мы открываем и закрываем вентили на куче труб, пересоединяем трубы и завариваем трещины...
+Мы открываем и закрываем вентили на куче труб, пере-соединяем трубы и завариваем трещины...
 
 武「それにしても手馴れてるな」%K%P
 You seem really used to all this.
@@ -91,7 +91,7 @@ CN PLACEHOLDER
 武「いや、そりゃお前……」%K%P
 Uh, well, it's just that...
 CN PLACEHOLDER
-Э-э, ну, просто...
+Ээ, ну, просто...
 
 つぐみ「どうでもいいことを訊くの、悪い癖よね」%K%P
 You know, asking meaningless questions is a bad habit of yours.
@@ -106,7 +106,7 @@ CN PLACEHOLDER
 空はしばらく、俺達の横で見ていた。%K%P
 Sora watched us for a while from the side.
 CN PLACEHOLDER
-А что до Соры, то она смотрит на нас со стороны.
+А что Сора? Стоит рядом, наблюдает.
 
 やがて、部屋の隅にあるインターホンが鳴った。%K%P
 After a while, an intercom in the corner of the room sounded.
@@ -116,7 +116,7 @@ CN PLACEHOLDER
 武「あれ、何かの呼び出しか？」%K%P
 Huh, did someone call?
 CN PLACEHOLDER
-Э-э, кто-то звонит?
+Эээ, кто-то звонит?
 
 空「すいません皆さん、田中さんが私を呼んでいます。向こうに行かなくてはならないのですが――」%K%P
 Excuse me, everyone, but Tanaka-san is calling me. I must be going.
@@ -141,17 +141,17 @@ CN PLACEHOLDER
 空が瞬間移動できるのはもうわかっていたが……奇妙な光景だった。%K%P
 I knew she could travel instantly, but... it was still an odd sight.
 CN PLACEHOLDER
-Хоть я и знаю, что она может перемещаться мгновенно, но всё же... это сбивает с толку.
+Хоть я и знаю, что она может перемещаться мгновенно, но всё же...это сбивает с толку.
 
 つぐみ「武？　ぼーっとしていないで、次のパイプをお願い」%K%P
 Takeshi? Don't just stand there. On to the next pipe.
 CN PLACEHOLDER
-Такэси? Чё встал, берись за следующую трубу.
+Такеши? Чё встал, берись за следующую трубу.
 
 武「えっ？　ああ、わかった」%K%P
 Huh? Oh, okay.
 CN PLACEHOLDER
-А? Ах, д-да.
+Ч-чего? Ах, д-да.
 
 つぐみ「まず、そこの青いバルブを――」%K%P
 First, take that blue valve and...
@@ -181,22 +181,22 @@ CN PLACEHOLDER
 ココ「うん。準備おっけーだよ♪」%K%P
 Okay, I'm ready〜
 CN PLACEHOLDER
-Хорошо, я наготове!
+Хорошо.
 
 つぐみ「武、今言った順番でバルブをお願い」%K%P
 Takeshi, turn the valves in the order I told you.
 CN PLACEHOLDER
-Такэси, поверни вентили в том порядке, как я тебе сказала.
+Такеши, будь добр, поверни вентили в том порядке, как я тебе сказала.
 
 武「…………」%K%P
 ...
 CN PLACEHOLDER
-...
+......
 
 つぐみ「ちょっと武、聞いてるの？」%K%P
 Hey, Takeshi, are you listening?
 CN PLACEHOLDER
-Эй, Такэси, ты меня слышишь?
+Эй, Такеши, ты меня слышишь?
 
 武「え？　いや、わかったわかった。ゴメンゴメン。青、赤だよな？」%K%P
 Huh? Yeah, alright, alright. I'm sorry. Blue, then red, right?
@@ -221,7 +221,7 @@ CN PLACEHOLDER
 （あれ、どっちに廻すんだっけ……？）%K%p
 (Eh? Which way was I supposed to turn it again...?)
 CN PLACEHOLDER
-(Но... блин, в какую же сторону его надо было повернуть?..)
+(Но... блин, в какую же сторону его надо было повернуть...?)
 
 時計回り
 Clockwise
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 つぐみ「武、そっちのパイプを押さえて。ぐらついてるみたい」%K%P
 Takeshi, go support that pipe. It looks like it's shaking.
 CN PLACEHOLDER
-Такэси, скорее, вон к той трубе, её трясёт, видишь?
+Такеши, скорей вон к той трубе, её трясёт, видишь?
 
 溶接を続けながらつぐみが言う。%K%P
 Tsugumi barked the order to me as she was welding.
@@ -376,12 +376,12 @@ CN PLACEHOLDER
 つぐみ「えっ？　そんなはず……バルブはちゃんと動かした？」%K%P
 Huh? That shouldn't be... Did you turn the valve the right way?
 CN PLACEHOLDER
-П-погоди, так не должно быть... Ты повернул вентили так, как я говорила?
+П-погоди, так не должно быть.... Ты повернул вентили так, как я говорила?
 
 武「ああ、そのつもりだけど」%K%P
 Yeah, I think so.
 CN PLACEHOLDER
-Да... вроде бы.
+Да...вроде бы.
 
 つぐみ「おかしいわね……」%K%P
 That's strange...
@@ -401,17 +401,17 @@ CN PLACEHOLDER
 そして、パイプから一瞬目を離した。%K%P
 And the moment I took my eyes off the pipe...
 CN PLACEHOLDER
-Но только я успел отвернуться от трубы...
+Но, только я успел отвернуться от трубы...
 
 ばきばき……ばきんっ！！%K%P
 Creak, crackle... crack!
 CN PLACEHOLDER
-Скрип, хруст... щёлк!
+Скрип, хруст....щёлк!!
 
 武「えっ？」%K%P
 What?
 CN PLACEHOLDER
-Какого?..
+Какого...?
 
 その音に振り向くと、鉄製のパイプがみるみる膨らんでいるのが見えた。%K%P
 Turning toward the sound, I could see the pipe swelling rapidly.
@@ -441,7 +441,7 @@ CN PLACEHOLDER
 武「危ねぇ……って、おおっ！？」%K%P
 That was close... WoooAAH!?
 CN PLACEHOLDER
-Нихрена себе. Это было... А-а-а-а?!
+Нихрена себе. Это было....АаааААА!?
 
 ばしゅっ！！%K%P
 BAM!
@@ -461,7 +461,7 @@ CN PLACEHOLDER
 武「うわっ！！」%K%P
 Waaagh!
 CN PLACEHOLDER
-Ва-а-а!
+Мааамааа!
 
 大慌てでその場から飛び退く。%K%P
 I panicked and got the hell out of there.
@@ -471,12 +471,12 @@ CN PLACEHOLDER
 だが、身を避けた方向には、古いコンテナや廃材が山と積んであった。%K%P
 But there were stacks of crates and old containers in the direction I tried to escape.
 CN PLACEHOLDER
-Но в том направлении, куда я бегу, сложены ящики и старые контейнеры...
+Но, в том направлении, куда я бегу, сложены ящики и старые контейнеры...
 
 つぐみ「武、ここをつけたらすぐに、そっちのバルブを元に戻して」%K%P
 Takeshi, after I've finished attaching this, return the valve to its original position right away.
 CN PLACEHOLDER
-Такэси, когда я закончу скреплять здесь, верни вентили в исходные положения.
+Такеши, когда я закончу скреплять здесь, верни вентили в исходные положения.
 
 武「ああ、了解だ」%K%P
 Okay, gotcha.
@@ -491,7 +491,7 @@ CN PLACEHOLDER
 つぐみ「バルブを！　早く！」%K%P
 The valve! Hurry!
 CN PLACEHOLDER
-Вентиль! Скорее!
+Вентиль! Скорей!
 
 武「わかってる！」%K%P
 Alright! Geez!
@@ -521,12 +521,12 @@ CN PLACEHOLDER
 つぐみ「そうね……ちょっと待って」%K%P
 Hmmm... Hold on just a second.
 CN PLACEHOLDER
-Хм-м-м... погоди секундочку.
+Хммм...погоди секундочку.
 
 足元の水はまだ減らず、渦を巻くように流れている。%K%P
 The water underfoot still hadn't gone down at all and was swirling around like a whirlpool.
 CN PLACEHOLDER
-Вода у ног не собиралась спадать и текла, закручиваясь в спирали.
+Уровень воды под ногами так и не спал. Журчит, зараза.
 
 壁に据えられたエアコンは水を飲み込んでしまい、ごぶごぶと咳き込んでいる。%K%P
 The air conditioner on the wall was sucking in water and gurgling it out.
@@ -561,7 +561,7 @@ CN PLACEHOLDER
 武「！？」%K%P
 !?
 CN PLACEHOLDER
-?!
+!?
 
 エアコンは嫌な音を立てた。%K%P
 The air conditioner made an awful sound.
@@ -571,7 +571,7 @@ CN PLACEHOLDER
 そして吹出口から大量の泥水が、いきなり溢れ出した。%K%P
 And all of a sudden, muddy water started overflowing from the exhaust vent.
 CN PLACEHOLDER
-И тут ни с того ни с сего из вытяжной вентиляции потекла грязная вода.
+И тут, ни с того ни с сего, из вытяжной вентиляции потекла грязная вода.
 
 足元は急速にぬかるみ始める。%K%P
 The area around my legs was quickly getting grimy.
@@ -581,17 +581,17 @@ CN PLACEHOLDER
 つぐみ「排水が逆流してる、気をつけて」%K%P
 The drainage is starting to backflow, so be careful.
 CN PLACEHOLDER
-В дренажной системе начался противоток, осторожнее.
+В дренажной системе начался противоток, осторожней!
 
 武「うわっ！！」%K%P
 Wagh!
 CN PLACEHOLDER
-А-агх!
+Аагх!
 
 濁流に足を取られ、姿勢が乱れた。%K%P
 My leg got caught up in the jet of muddy water, and I lost my balance.
 CN PLACEHOLDER
-Нога попала в поток грязи, и я потерял равновесие.
+Нога попала в поток грязи и я потерял равновесие.
 
 俺は咄嗟にどこかに掴まろうと手を伸ばした。%K%P
 I reached out to grab something.
@@ -606,12 +606,12 @@ CN PLACEHOLDER
 がしゃあん！！%K%P
 CRASH!
 CN PLACEHOLDER
-БУ-У-УХ!
+БУУУХ!!
 
 廃材は俺の体重を受け止めたが、がらがらと崩れ始めた。%K%P
 Although the crates caught my weight, they shifted and began spilling over.
 CN PLACEHOLDER
-Под моим весом груда ящиков накренилась и начала падать.
+Под моим весом, груда ящиков накренилась и стала падать.
 
 たくさんのコンテナや錆びたパイプが、頭上から落ちてくる。%K%P
 Countless containers and rusty pipes started raining down.
@@ -626,22 +626,22 @@ CN PLACEHOLDER
 落下物の行く先には――%K%P
 And in their path was—
 CN PLACEHOLDER
-Но на их пути –
+Но, на их пути —
 
 武「！！　ココ、危ないっ！！」%K%P
 Coco, watch out!
 CN PLACEHOLDER
-Коко, назад!
+Коко, назад!!
 
 ココ「え……？」%K%P
 Wha...?
 CN PLACEHOLDER
-Что?..
+Что...?
 
 つぐみ「避けて！！」%K%P
 Get back!
 CN PLACEHOLDER
-Назад!
+Назад!!
 
 鉄材が降ってきた。%K%P
 Metal was raining down.
@@ -681,17 +681,17 @@ CN PLACEHOLDER
 さっきまで、ココの座っていた場所……。%K%P
 And where Coco had been sitting only a moment earlier...
 CN PLACEHOLDER
-Но на том месте, где секунду назад сидела Коко...
+Но, на том месте, где секунду назад сидела Коко...
 
 つぐみが……そこに倒れていた。%K%P
 Tsugumi lay... fallen over.
 CN PLACEHOLDER
-В груде обломков... лежит Цугуми.
+В груде обломков...лежит Цугуми.
 
 ココ「……！！」%K%P
 ...!
 CN PLACEHOLDER
-!
+...!!
 
 ココは震える手でピピを抱きしめながら、茫然と目前の光景を眺めている。%K%P
 Coco looked around at the spectacle and hugged Pipi to herself tightly, her hands trembling.
@@ -706,12 +706,12 @@ CN PLACEHOLDER
 かばったのだ……身を挺して……。%K%P
 She'd protected her... while risking her own life...
 CN PLACEHOLDER
-Она смогла защитить её... рискуя собственной жизнью...
+Она смогла защитить её...рискуя собственной жизнью...
 
 武「つぐみ！！」%K%P
 Tsugumi!
 CN PLACEHOLDER
-Цугуми!
+Цугуми!!
 
 つぐみ「くっ……」%K%P
 Agh...
@@ -756,12 +756,12 @@ CN PLACEHOLDER
 武「おいっ、大丈夫かっ！？」%K%P
 Hey, you okay!?
 CN PLACEHOLDER
-Цугуми, ты в порядке?!
+Цугуми, ты в порядке!?
 
 つぐみ「ふふっ、これが大丈夫に見えるの？」%K%P
 Heh heh. Does this LOOK okay to you?
 CN PLACEHOLDER
-Ха, ха. А что, по-твоему, ЭТО называется „в порядке“?
+Ха, ха. А что, по-твоему ЭТО называется 'в порядке'?
 
 つぐみ「まったく、バカなこと訊くのね」%K%P
 Always asking stupid questions.
@@ -771,7 +771,7 @@ CN PLACEHOLDER
 武「わ、笑うな！　今そいつを退けてやるから待ってろ！」%K%P
 S-Stop laughing! I'm going to get that stuff off you, just wait!
 CN PLACEHOLDER
-Н-не смешно! Я выну из тебя эту штуковину, держись!
+Н-не смешно! Я выну из тебя эту штуковину, держись!!
 
 俺は水を掻き分けてつぐみに走り寄り、鉄材を持ち上げようとした。%K%P
 I hurried through the water to Tsugumi and tried to lift the metal off of her.
@@ -781,7 +781,7 @@ CN PLACEHOLDER
 だが、どんなに力を込めようとも、重い塊はびくともしない。%K%P
 But no matter how hard I tried, the heavy chunk wouldn't budge.
 CN PLACEHOLDER
-Но как я ни пытался оттащить тяжёлый кусок, тот даже не пошевелился.
+Но, как я ни пытался оттащить тяжёлый кусок, тот даже не пошевелился.
 
 武「くそっ！！」%K%P
 Damn it!
@@ -791,7 +791,7 @@ CN PLACEHOLDER
 つぐみ「無駄みたいね……」%K%P
 Looks like it's no use...
 CN PLACEHOLDER
-Похоже, это бесполезно...
+Похоже это бесполезно...
 
 その間にも水位は増し、くるぶしから膝を満たそうとしていた。%K%P
 In the meantime, the water level had risen from ankle to knee height.
@@ -801,7 +801,7 @@ CN PLACEHOLDER
 ココ「つぐみんっ！！」%K%P
 Tsugumiiin!
 CN PLACEHOLDER
-Цугуми-и-ин!
+Цугумиии!!
 
 ココは這うようにして、つぐみに近づこうとした。%K%P
 Coco crawled over to get closer to Tsugumi.
@@ -826,22 +826,22 @@ CN PLACEHOLDER
 つぐみ「武も、早く逃げたほうがいい……」%K%P
 You too, Takeshi. Get out while you can...
 CN PLACEHOLDER
-Ты тоже, Такэси. Уходи, пока можешь...
+Ты тоже, Такеши. Уходи, пока можешь...
 
 つぐみ「このままだと、この部屋の隔壁が持たない」%K%P
 At this rate, this room's partitions won't last.
 CN PLACEHOLDER
-Если так пойдёт дальше, переборки этой комнаты не выдержит.
+В таком состоянии части этого помещения долго не продержатся.
 
 つぐみ「みんな死ぬことになるわ」%K%P
 You'll both die if you stay.
 CN PLACEHOLDER
-Вы погибнете, если останетесь.
+Вы все умрёте, если останетесь.
 
 つぐみ「だから、早く……」%K%P
 So hurry...
 CN PLACEHOLDER
-Поэтому скорее...
+Поэтому, скорей...
 
 つぐみ「逃げなさい」%K%P
 Get out of here.
@@ -851,17 +851,17 @@ CN PLACEHOLDER
 ココ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+......
 
 武「……ばっ」%K%P
 ...St—
 CN PLACEHOLDER
-Но...
+....Но-
 
 武「バカヤロウ！！　お前を置いていけるかよっ！！」%K%P
 Stupid idiot! You think I can just leave you!?
 CN PLACEHOLDER
-ДУРА! Думаешь, я тебя здесь брошу?!
+ДУРА!! Думаешь я тебя здесь брошу!?
 
 つぐみ「しょうがないでしょ？　ここから動けないんだし」%K%P
 There's nothing you can do, right? I'm stuck here.
@@ -871,12 +871,12 @@ CN PLACEHOLDER
 つぐみ「この怪我じゃ、どうせ手遅れ――」%K%P
 And with this injury, you can't help me anyway—
 CN PLACEHOLDER
-Да и всё равно, с такой раной ты мне не поможешь...
+Да и всё равно, с такой раной ты мне не поможешь ——
 
 武「ふざけんなよ！！」%K%P
 Shut up!
 CN PLACEHOLDER
-Заткнись!
+Заткнись!!
 
 俺は怒鳴った。%K%P
 I roared out.
@@ -886,17 +886,17 @@ CN PLACEHOLDER
 武「こんなところでくたばられたら、困るんだよっ！」%K%P
 I won't let you give up on me now, damn it!
 CN PLACEHOLDER
-Не вздумай умирать тут, ты мне всё только осложнишь!
+Я не дам тебе повода во мне сомневаться, чёрт побери!
 
 武「おいココ！　何ボケッとしてんだ！」%K%P
 Hey, Coco! What are you standing there for!?
 CN PLACEHOLDER
-Эй, Коко! Какого хрена ты тут стоишь?!
+Эй, Коко! Какого хрена ты тут стоишь!?
 
 ココ「わ、は、はいっ！！」%K%P
 Wah! Y-Yes!?
 CN PLACEHOLDER
-Ах! Д-да?!
+Ааа! Д-да!?
 
 武「そこのインターホンで連絡しろっ！」%K%P
 Get on that intercom and contact the others!
@@ -906,12 +906,12 @@ CN PLACEHOLDER
 ココは震える足を必死で持ち上げながら、インターホンに駆け寄る。%K%P
 With all her might, Coco moved her trembling legs to get closer to the intercom.
 CN PLACEHOLDER
-Коко что есть сил бросилась на подкашивающихся ногах к коммуникационному терминалу.
+Коко, что есть мочи, на подкашивающихся ногах, бросилась к коммуникационному терминалу.
 
 ココ「ダメ……壊れてるっ！　ボタンを押しても通じないよっ！」%K%P
 It's no use... It's broken! I pushed the button, but nothing happened!
 CN PLACEHOLDER
-Не выходит... Он сломан! Я нажала кнопку, но ничего не происходит!
+Не выходит.... Он сломан! Я нажала кнопку, но ничего не происходит!!
 
 武「だったら上に行け！　早く他の奴を呼んで来るんだ！」%K%P
 So run up and tell the others to get over here!
@@ -921,7 +921,7 @@ CN PLACEHOLDER
 ココ「わ、わかったよおっ！！」%K%P
 O-Okay, I'm going!
 CN PLACEHOLDER
-Х-хорошо, уже бегу!
+Х-хорошо, уже бегу!!
 
 ココはうろたえながらも強く頷き、出て行った。%K%P
 Although she looked flustered, Coco nodded and ran off.
@@ -941,12 +941,12 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+......
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+......
 
 水没する。%K%P
 The water continued to rise.
@@ -966,12 +966,12 @@ CN PLACEHOLDER
 つぐみ「なに突っ立ってるのよ……」%K%P
 What are you trying to prove...?
 CN PLACEHOLDER
-И что ты пытаешься этим доказать?..
+И что ты пытаешься этим доказать...?
 
 つぐみ「意味もなく……そんなとこにいないでよ。目障りだから」%K%P
 It doesn't mean anything... Just leave. I don't want you here.
 CN PLACEHOLDER
-Это ничего не значит... уходи. Я не хочу, чтобы ты был здесь.
+Это ничего не значит...уходи. Я не хочу, чтобы ты был здесь.
 
 武「意味もなく立ってやしない」%K%P
 I wouldn't be here if there wasn't a reason.
@@ -996,7 +996,7 @@ CN PLACEHOLDER
 つぐみ「ああ、そう……。ふふっ、いい心がけね」%K%P
 Oh, really... Heh heh. Well, that's reason enough, I suppose.
 CN PLACEHOLDER
-Ах, и правда... хе, хе. Да, это веская причина, я полагаю.
+Ах, и правда...хе, хе. Да, это веская причина, я полагаю.
 
 つぐみは力なく笑う。%K%P
 Tsugumi laughed weakly.
@@ -1021,7 +1021,7 @@ CN PLACEHOLDER
 武「いいか、つぐみ……気を確かに持ってくれ」%K%P
 Alright, Tsugumi... I need you to stay with me now.
 CN PLACEHOLDER
-Так, Цугуми... я хочу, чтобы ты оставалась со мной, здесь и сейчас.
+Так, Цугуми...я хочу, чтобы ты оставалась со мной, здесь и сейчас.
 
 俺は努めて冷静に、言葉を搾り出した。%K%P
 I chose my words as carefully as possible.
@@ -1041,7 +1041,7 @@ CN PLACEHOLDER
 つぐみ「『大丈夫』なんて……何を根拠に言ってるの」%K%P
 'You'll be okay'... What makes you think that?
 CN PLACEHOLDER
-„Ты поправишься“... С чего ты это взял?
+'Ты поправишься'...с чего ты это взял?
 
 つぐみ「どうかしてるわね……」%K%P
 You're the one who's crazy...
@@ -1056,12 +1056,12 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 水位は、つぐみの頭上にまで達しようとしていた。%K%P
 The water level was rising up to Tsugumi's head.
@@ -1071,7 +1071,7 @@ CN PLACEHOLDER
 隔壁の一部は壊れ、海水が直に流れ込んできた。%K%P
 A section of the partitioning had broken, and seawater was rushing in.
 CN PLACEHOLDER
-Часть модуля лопнула, и внутрь хлынула морская вода.
+Часть модуля лопнула и внутрь хлынула морская вода.
 
 その水は冷たく、身体は凍えるようだ。%K%P
 The water was ice cold and seemed like it would freeze us.
@@ -1086,7 +1086,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 苦痛に歪むつぐみの顔。%K%P
 Her face contorted with pain.
@@ -1096,7 +1096,7 @@ CN PLACEHOLDER
 苦しさの為か、息を吐き出す。%K%P
 In agony, she labored for breath.
 CN PLACEHOLDER
-Из-за невыносимой боли ей тяжело дышать.
+Из-за агонии она уже не может дышать.
 
 もう時間がない。%K%P
 There wasn't any time.
@@ -1121,7 +1121,7 @@ CN PLACEHOLDER
 （……ぁぁぁあああ！！）%K%P
 (...AaaaaAAAAGGGH!)
 CN PLACEHOLDER
-(...а-а-а-а-а-А-А-А-А!)
+(аааааААААГГГХ!)
 
 （こんちくしょうぅぅっ！！）%K%P
 (DAMN IT!)
@@ -1186,7 +1186,7 @@ CN PLACEHOLDER
 しかし扉は既に、完全に水の中に没していた。%K%P
 But the door was already underwater.
 CN PLACEHOLDER
-Но... дверь уже под водой.
+Но...дверь уже под водой.
 
 つぐみ「ねぇ、助かりっこないわ……」%K%P
 Look, there's no way you can save me...
@@ -1201,7 +1201,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「他にも出口があるはずだ。それを探す」%K%P
 There's got to be another exit. I'll look for it.
@@ -1211,7 +1211,7 @@ CN PLACEHOLDER
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「大丈夫だ。なんとかなる」%K%P
 It'll be okay. We'll find a way out of this.
@@ -1221,22 +1221,22 @@ CN PLACEHOLDER
 つぐみ「また、『大丈夫』って……無責任ねぇ……」%K%P
 There you go again, saying 'it'll be okay'... You're so irresponsible...
 CN PLACEHOLDER
-Опять за своё, говоришь „Всё будет хорошо“... Какой же ты безответственный...
+Опять за своё, говоришь 'Всё будет хорошо'... какой же ты безответственный...
 
 武「うるせぇな、少し黙ってろよ」%K%P
 Would you keep quiet!?
 CN PLACEHOLDER
-Может помолчишь, а?!
+Может помолчишь, а!?
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 強引に扉を開けることもできただろうが、それでは２階全体を浸水の危機にさらすことになる。%K%P
 I probably could have forced open the door if I had tried, but it would have put the second floor in danger of flooding.
@@ -1266,22 +1266,22 @@ CN PLACEHOLDER
 武「……！！」%K%P
 ...!
 CN PLACEHOLDER
-!
+.....!!
 
 武「ハシゴだ！　部屋の隅にハシゴがあるぞ、非常通路に出られそうだ！」%K%P
 There's a ladder! In the corner of the room, there's a ladder. We can use it to get to the emergency passage.
 CN PLACEHOLDER
-Лестница! В углу комнаты есть лестница. По ней можно забраться в аварийный переход.
+Лестница! В углу комнаты есть лестница. Мы можем воспользоваться ей, чтобы добраться до аварийного перехода.
 
 武「助かるぞ、つぐみっ！」%K%P
 We're going to make it, Tsugumi!
 CN PLACEHOLDER
-У нас получится, Цугуми!
+У нас получится, Цугуми!!
 
 全力でハシゴに向かって泳ぐ。%K%P
 I swam with all my might to get to the ladder.
 CN PLACEHOLDER
-Я как можно скорее подплыл к лестнице.
+Как можно скорей, я подплыл к лестнице.
 
 つぐみを背負い、ハシゴを登った。%K%P
 With Tsugumi draped over my back, I climbed up the ladder.
@@ -1301,12 +1301,12 @@ CN PLACEHOLDER
 濁流の音は遠ざかっていく……。%K%P
 The sound of the flood faded away...
 CN PLACEHOLDER
-Звук наплыва воды стих...
+Звук наплыва воды стих....
 
 しかし一時も休んでいられなかった。%K%P
 But there wasn't time to rest.
 CN PLACEHOLDER
-Но некогда расслабляться.
+Но, некогда расслабляться.
 
 つぐみの足からは、まだ出血が続いている。%K%P
 Tsugumi was still losing blood.
@@ -1321,7 +1321,7 @@ CN PLACEHOLDER
 武「くそっ、どっちに行けばいいんだ……？」%K%P
 Damn, which way should I go...?
 CN PLACEHOLDER
-Чёрт, и куда же идти теперь?..
+Чёрт, и куда же идти теперь...?
 
 通路の行き止まりで、俺は途方に暮れた。%K%P
 A dead end in the passage had me totally lost.
@@ -1341,7 +1341,7 @@ CN PLACEHOLDER
 武「空っ！　つぐみが、つぐみがっ！！」%K%P
 Sora! Tsugumi is... Tsugumi is!
 CN PLACEHOLDER
-Сора! Цугуми... она!..
+Сора! Цугуми...она...!!!
 
 空「わかっています。ココちゃんから報告を受けました」%K%P
 I know. I heard everything from Coco-chan.
@@ -1351,7 +1351,7 @@ CN PLACEHOLDER
 空「救護室に連れて来てください。田中さんが処置準備を進めてくれています」%K%P
 Bring her to the infirmary immediately. Tanaka-san is currently preparing to treat her.
 CN PLACEHOLDER
-Немедленно неси её в лазарет. Танака-сан уже готовит всё необходимое для операции.
+Немедленно доставь её в лазарет, Танака-сан уже готовит всё необходимое для операции.
 
 武「わかった、すぐに行く！　どっちだ？」%K%P
 Alright, I'm on my way! Now, which way do I go?
@@ -1376,12 +1376,12 @@ CN PLACEHOLDER
 武「大丈夫だ、大丈夫だからな……！」%K%P
 It's okay, it's going to be okay...!
 CN PLACEHOLDER
-Всё хорошо, всё будет хорошо!..
+Всё хорошо, всё будет хорошо....!
 
 つぐみ「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.....
 
 つぐみは俺の背中で苦しそうに唸っている。%K%P
 Tsugumi groaned painfully from her place on my back.
@@ -1391,7 +1391,7 @@ CN PLACEHOLDER
 たとえ無責任だと言われようと、俺は『ダメだ、手遅れだ』なんて言えなかった。%K%P
 Even if she thought it was irresponsible of me, I couldn't bring myself to tell her, “It's no use, it's too late.”
 CN PLACEHOLDER
-Пускай она считает, что я безответственный, но я не могу заставить себя сказать ей «Бесполезно, всё кончено».
+Пускай она считает, что я безответственный, но я не могу заставить себя сказать ей 'Бесполезно, всё кончено'.
 
 少しでも望みがある限りは、絶対にそれを捨てたくなかった。%K%P
 As long as I had even a little hope, I didn't want to throw it away.
@@ -1421,12 +1421,12 @@ CN PLACEHOLDER
 武「おいっ、どうすればいい？」%K%P
 Hey, what are we going to do!?
 CN PLACEHOLDER
-Чёрт, что же делать?!
+Чёрт, что же делать!?
 
 優「どいて！！」%K%P
 Get out of the way!
 CN PLACEHOLDER
-С дороги!
+С дороги!!
 
 部屋で待っていた優は、俺を押し退けた。%K%P
 You, who'd been waiting in the room, pushed me aside.
@@ -1436,12 +1436,12 @@ CN PLACEHOLDER
 壁面の医療器具ラックから止血帯を取り出し、つぐみの大腿部を締める。%K%P
 A tourniquet was taken out from a rack of medical instruments on the wall and fastened around Tsugumi's thigh.
 CN PLACEHOLDER
-Она схватила жгут из медицинского набора на стене и обвязала им голень Цугуми.
+Она схватила жгут с медицинского набора на стене и обвязала им голень Цугуми.
 
 優「ちょっとマズいわね……」%K%P
 This is bad...
 CN PLACEHOLDER
-Плохо дело...
+Это плохо...
 
 武「状態は？　どうなってる？」%K%P
 What's the status? How bad is it?
@@ -1451,12 +1451,12 @@ CN PLACEHOLDER
 武「あのスキャナーで調べられないのか？」%K%P
 Can't we use that scanner to check it out?
 CN PLACEHOLDER
-Может, воспользуемся вон тем сканером?
+Может воспользуемся вон тем сканером?
 
 俺は『Ｌ−ＭＲＩ』を指差した。%K%P
 I pointed to the L-MRI.
 CN PLACEHOLDER
-Я указал на L-MRI.
+Я указал на Л-МРИ.
 
 優「あれはダメ、故障してるみたいなの」%K%P
 It seems to be broken.
@@ -1476,7 +1476,7 @@ CN PLACEHOLDER
 天井にある小さなカメラやセンサー群が移動している……。%K%P
 A small sensor or camera started moving on the ceiling.
 CN PLACEHOLDER
-Я заметил, что по потолку движется что-то вроде камеры или сенсора.
+Я заметил, что на потолке движется что-то вроде камеры или сенсора.
 
 空「あくまで生体スキャンの応用ですから、はっきりとは申し上げられませんが……」%K%P
 Well, this is just a bio scan, so I can't tell for certain, but...
@@ -1486,22 +1486,22 @@ CN PLACEHOLDER
 空「大腿骨に損傷。複雑骨折しているかもしれません」%K%P
 Her femur is fractured. And it looks like it might be a complex fracture.
 CN PLACEHOLDER
-Кость порвала голень. Но кажется, она может нормально срастись.
+Кость порвала голень. Но, кажется, она может нормально срастись.
 
 空「それと、動脈が切れています。切開縫合が必要でしょう」%K%P
 That, and the artery is severed. She'll need sutures.
 CN PLACEHOLDER
-Часть вен и артерий разорваны. Необходимо наложить швы.
+Часть вен и артерий разорваны. Необходимо наложить шов.
 
 優「私、自分の指くらいなら縫ったことあるよ。サバイバルキットでだけど……」%K%P
 I've stitched up my finger before. It was with a survival kit, but...
 CN PLACEHOLDER
-Я уже когда-то зашивала себе палец. Тогда у меня был экстренный медицинский набор, но...
+Я уже когда-то пришивала себе палец. Тогда у меня был экстренный медицинский набор, но...
 
 空「では田中さん、お願いできますか？」%K%P
 Well, Tanaka-san, do you think you can assist me?
 CN PLACEHOLDER
-Тогда ты поможешь мне, Танака-сан?
+Тогда, Танака-сан, ты поможешь мне?
 
 優「なんとか、やってみるよ！　麻酔は？」%K%P
 I'll do my best! Do we have anesthetic?
@@ -1511,7 +1511,7 @@ CN PLACEHOLDER
 空「用意します。他にもレーザーメス、鉗子、縫合糸……必要なものはすべてこの部屋にありますから」%K%P
 I'll get it ready. The laser scalpel, forceps, and sutures... Everything we need is already in the room.
 CN PLACEHOLDER
-Сейчас подготовлю. Лазерный скальпель, хирургические щипцы, нитки для сшивания раны... Всё, что нам нужно, есть в этой комнате.
+Сейчас подготовлю. Лазерный скальпель, хирургические щипцы, нитки для сшивания раны... всё, что нам нужно, есть в этой комнате.
 
 空は電動ワゴンを動かして、ワゴンのマニピュレーターで器具を集める。%K%P
 Sora moved the electric wagon and used its robotic arm to gather the necessary surgical tools.
@@ -1526,7 +1526,7 @@ CN PLACEHOLDER
 優「倉成っ！！」%K%P
 Kuranari!
 CN PLACEHOLDER
-Куранари!
+Куранари!!
 
 優「そんなとこに立っていないでよ！　邪魔になっちゃうからっ！」%K%P
 Don't stand there! You're in the way!
@@ -1541,7 +1541,7 @@ CN PLACEHOLDER
 武「ああ、わかった、すまん……後は頼んだぞ！」%K%P
 Uh, yeah, sorry... Take care of her, okay!?
 CN PLACEHOLDER
-Э-э, да, извини... Позаботьтесь о ней, хорошо?
+Ээ, да, извини...позаботьтесь о ней, хорошо?
 
 優「まかせなさいっ！」%K%P
 Leave it to me!
@@ -1561,22 +1561,22 @@ CN PLACEHOLDER
 武「はぁ……」%K%P
 *Sigh*...
 CN PLACEHOLDER
-*вздох*
+*вздох*....
 
 近くの椅子に、身体を預けた。%K%P
 I set myself down on a nearby chair.
 CN PLACEHOLDER
-Я повалился на кресло неподалёку.
+Я повалился на близлежащее кресло.
 
 ココ「あっ、たけぴょん……。つぐみんは……」%K%P
 Oh, Takepyon... Is Tsugumin going to be...?
 CN PLACEHOLDER
-Ой, Такэпён... Неужели Цугумин...
+Ой, Такепён... Неужели Цугуми...
 
 ココはピピを抱えたまま、落ち着かない様子で座っていた。%K%P
 Coco was gripping Pipi but looked as if she was having a hard time relaxing.
 CN PLACEHOLDER
-Коко сидела, держа Пипи, и никак не могла успокоиться.
+Коко держит Пипи, но по ней можно сказать, что не может успокоиться.
 
 武「ココがすぐに知らせてくれたからな……なんとかなりそうだ」%K%P
 You let them know right away, so... she should be fine.
@@ -1586,7 +1586,7 @@ CN PLACEHOLDER
 ココ「ほんと……？」%K%P
 Really...?
 CN PLACEHOLDER
-Правда?..
+Правда...?
 
 ココは目を潤ませていた。%K%P
 Coco's eyes were moist.
@@ -1601,17 +1601,17 @@ CN PLACEHOLDER
 それでもココは、笑顔を作ろうとする。%K%P
 Even still, she tried to smile.
 CN PLACEHOLDER
-Но даже так она старается улыбаться.
+Да ещё и старается улыбаться.
 
 ココ「ねぇねぇ、つぐみんは……」%K%P
 Hey, you think Tsugumin's...
 CN PLACEHOLDER
-Ты считаешь, что Цугумин...
+Ты считаешь, что Цугуми...
 
 ココ「つぐみんは……大丈夫だよね？」%K%P
 Tsugumin's... gonna be okay, right?
 CN PLACEHOLDER
-Цугумин... поправится, правда?
+Цугуми...поправится, правда?
 
 まだ不安げな色を残しながら、首を傾げて俺に尋ねた。%K%P
 Still looking worried, she tilted her head as she asked me.
@@ -1626,7 +1626,7 @@ CN PLACEHOLDER
 武「絶対、大丈夫だ……」%K%P
 Absolutely fine...
 CN PLACEHOLDER
-Обязательно...
+Безусловно...
 
 俺は拳を握りしめる。%K%P
 I closed my hand into a fist...
@@ -1651,7 +1651,7 @@ CN PLACEHOLDER
 手術は終了――%K%P
 The surgery was over—
 CN PLACEHOLDER
-Операция завершилась –
+Операция завершилась —
 
 つぐみは一命を取りとめたらしい。%K%P
 Tsugumi was going to live.
@@ -1681,12 +1681,12 @@ CN PLACEHOLDER
 武「それと……お疲れさま、優」%K%P
 And... good job, You.
 CN PLACEHOLDER
-И... молодчина, Ю.
+И...молодчина, Ю!
 
 優「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 武「優？　どうした？」%K%P
 You? What's wrong?
@@ -1701,12 +1701,12 @@ CN PLACEHOLDER
 優「あっ……ううん、さすがにちょっと疲れたわね……」%K%P
 Oh... Um, nothing, I'm just really tired... You know...
 CN PLACEHOLDER
-Э-э... ой, н-ничего, я просто здорово устала... понимаешь...
+Ээ...ой, н-ничего, я просто здорово устала... понимаешь...
 
 優「こんな大手術なんて、したことなかったから……」%K%P
 I've never done an operation like that before...
 CN PLACEHOLDER
-Раньше я никогда таких операций не проводила...
+Раньше я никогда таких операций не делала...
 
 優はそれきりうつむいて、多くを語らなかった。%K%P
 After that, You looked down and didn't say much.
@@ -1716,7 +1716,7 @@ CN PLACEHOLDER
 空「尚、ツヴァイトシュトック倉庫の浸水は止まりました」%K%P
 By the way, it looks like the flooding stopped in the Zweiter Stock warehouse.
 CN PLACEHOLDER
-Да, кстати, кажется, что затопление не ушло дальше склада на Цвайте Шток.
+Да, кстати, кажется, что затопление не ушло дальше склада на Цвайте шток.
 
 空「倉庫へ繋がる全配管を緊急閉鎖、ブロックごとツヴァイトから切り離しました。浸水被害拡大の心配はありません」%K%P
 All pipelines connecting to the warehouse have been closed as an emergency measure, and the whole area has been sealed off from Zweiter. So we don't have to worry about the flood damage expanding.

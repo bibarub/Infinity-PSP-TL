@@ -6,7 +6,7 @@ CN PLACEHOLDER
 あんなことがあった後だけに、武や優と一緒にはいたくはない。%K%P
 After what had happened, I didn't want to be around You or Takeshi.
 CN PLACEHOLDER
-После того, что случилось, я не хочу находиться рядом с Ю или Такэси.
+После того, что случилось, я не хочу находиться рядом с Ю или Такеши.
 
 かといって、一カ所にじっとしているのはなんだか落ち着かなかった。%K%P
 But I was too worked up to just stick around in one place.
@@ -21,17 +21,17 @@ CN PLACEHOLDER
 あのとき、自分の中ではじけた怒りが何だったのか……。%K%P
 I wondered what that fit of rage had been about...
 CN PLACEHOLDER
-Господи, что это была за вспышка ярости?..
+Господи, что это была за вспышка ярости...?
 
 なぜあんな風にぼくは怒ったのだろう……。%K%P
 Why had I gotten so mad...?
 CN PLACEHOLDER
-Из-за чего я так взбесился?..
+Из-за чего я так взбесился...?
 
 なぜ……。%K%P
 Why...?
 CN PLACEHOLDER
-Почему?..
+Почему...?
 
 沙羅を見下ろしたつぐみの冷たい視線。%K%P
 Tsugumi had stared coldly down at Sara.
@@ -46,7 +46,7 @@ CN PLACEHOLDER
 あの瞬間、ぼくの中にわき上がったあの感情は何だったのか……。%K%P
 What were the emotions that had welled up within me in that instant...?
 CN PLACEHOLDER
-Что за чувства захлестнули меня в тот миг?..
+Что за чувства захлестнули меня в тот миг...?
 
 もう少しでなにかわかりそうな気がした。%K%P
 I felt like I was on the verge of figuring it out.
@@ -71,12 +71,12 @@ CN PLACEHOLDER
 考えれば考えるほど、記憶はまた霧の彼方へと遠ざかってしまう。%K%P
 The more I thought about it, the further away into the fog my memory seemed to recede.
 CN PLACEHOLDER
-Чем больше я об этом думаю, тем сильнее память пятится обратно в туман.
+Чем больше я об этом думаю, тем сильней память пятится обратно в туман.
 
 いったい、ぼくの過去には何があったというのか……。%K%P
 I wondered what I could have had in my past...
 CN PLACEHOLDER
-Что же такое было со мной в прошлом?..
+Что же такое было со мной в прошлом...?
 
 何もわからないまま、ぼくはＬｅＭＵの中をさまよい続けた……。%K%P
 I continued to wander LeMU without understanding anything...
@@ -101,22 +101,22 @@ CN PLACEHOLDER
 そこは宇宙クジラの部屋だった。%K%P
 It was the Cosmic Whale room.
 CN PLACEHOLDER
-Что интересно, аттракцион так и называется – зал Космического кита.
+Что интересно, аттракцион так и называется - Космический Кит.
 
 クジラも、そしてこの星空も、もちろん作り物にすぎない。%K%P
 Of course, the whale and the starry sky were all merely theme park attractions.
 CN PLACEHOLDER
-Конечно, кит и звёздное небо были лишь частью аттракциона.
+Конечно, звёздное небо не настоящее, как и сам кит.
 
 たとえ作り物でも、その空間の広がりは、ずっと閉鎖された空間に閉じこめられて緊張していたぼくの心をほっと落ち着かせてくれる。%K%P
 I thought that wide open space and the attractions would help to ease my ragged nerves.
 CN PLACEHOLDER
-Я подумал, что открытое пространство и аттракционы помогут успокоить мои растрёпанные нервы.
+Может широкие, открытые пространства и аттракционы помогут успокоить мои растрёпанные нервы?
 
 長い間緊張した状態で、閉鎖された空間に閉じこめられていた。%K%P
 Even though it was fake, the expansive space eased my tense mind and nerves, frazzled from being cooped up for so long.
 CN PLACEHOLDER
-Пусть всё это не настоящее, но безграничное пространство всё же ослабило моё напряжение – пережить ту нервотрёпку было весьма непросто.
+Пусть всё это не настоящее, но безграничное пространство всё же ослабило моё напряжение - пережить ту нервотрёпку было весьма непросто.
 
 しかも、何の記憶もない状態で……。%K%P
 But I still had no memory...
@@ -141,7 +141,7 @@ CN PLACEHOLDER
 少年「あれ……」%K%P
 What...?
 CN PLACEHOLDER
-Э-э?..
+Эээ...?
 
 クジラの上で何かがもぞもぞと動いた。%K%P
 Something moved slightly on top of the whale.
@@ -156,7 +156,7 @@ CN PLACEHOLDER
 少年「沙羅……？」%K%P
 Sara...?
 CN PLACEHOLDER
-Сара?..
+Сара...?
 
 ぼくは、クジラが次につく惑星を素早く見極め、その惑星に上る階段へと向かった。%K%P
 I glanced quickly at the planet next to the whale and headed for the stairs leading to it.
@@ -171,7 +171,7 @@ CN PLACEHOLDER
 もっとも、クジラやイルカの鼻腔は頭の天辺にあるのだから、ここを鼻先と表現することは的確ではないのだが……。%K%P
 I thought that, normally, whales and dolphins had their blowholes or nostrils near the middle of their head, so it probably wasn't accurate to say “its nose”.
 CN PLACEHOLDER
-Ну, у настоящих китов и дельфинов дыхательный клапан расположен ближе к центру головы, так что это скорее пасть, а не «нос».
+Ну, у настоящих китов и дельфинов дыхательный клапан расположен ближе к центру головы, так что это скорее пасть, а не 'нос'.
 
 ぼくらの頭上には無数の星々が瞬いていた。%K%P
 We looked at the countless stars sparkling overhead.
@@ -186,7 +186,7 @@ CN PLACEHOLDER
 実際、立ち上がってつま先立ちすれば、ぼくは星に触れることができただろう。%K%P
 If I had stood up, I could have probably actually touched a star.
 CN PLACEHOLDER
-Хотя, если я встану, то, наверное, и впрямь смогу до них дотянуться.
+Хотя, если я встану, то наверно и впрямь смогу до них дотянуться.
 
 それは天井に投影された、偽物の夜空だったのだから。%K%P
 Because it was all a facade of fake stars projected onto the ceiling.
@@ -196,7 +196,7 @@ CN PLACEHOLDER
 偽物と言えば、このクジラもそうだった。%K%P
 Speaking of fake, the whale was too.
 CN PLACEHOLDER
-Кстати о подделках... Кит тоже ненастоящий.
+Кстати, о подделках... кит, если вы ещё не поняли, тоже не настоящий.
 
 しかし、どんな技術を駆使したのか知らないが、この偽物のクジラは本物と見まがうような肌の質感をしていた。%K%P
 I didn't know what kind of cutting-edge technology they used, but the skin on the whale felt like it could have been real.
@@ -211,7 +211,7 @@ CN PLACEHOLDER
 それとも『クジラの肌とはこういうものだろう』というぼくなりのイメージに、しっくりきたからなのか？%K%P
 Maybe I was just working from some image I had of what whale skin would feel like.
 CN PLACEHOLDER
-Наверное я просто представляю себе, каков он на ощупь.
+Наверно я просто представляю себе, каков он на ощупь.
 
 %N%N
 
@@ -223,12 +223,12 @@ CN PLACEHOLDER
 平常と異常、常識と非常識は、すべて記憶によって%N判別されるものだと思う。%K%O
 Normal and abnormal, common sense and nonsense... were all dictated by memory.
 CN PLACEHOLDER
-Нормальность и аномальность, здравый смысл и бред – всё это диктуется памятью.
+Нормальность и аномальность, здравый смысл и бред - всё это диктуется памятью.
 
 例えば――%K%N
 For example...
 CN PLACEHOLDER
-Например...
+Например --
 
 今突然目の前にラッコの姿をした男が現れて、%K%N
 If a sea otter suddenly appeared right in front of me...
@@ -238,7 +238,7 @@ CN PLACEHOLDER
 『オレはおまえの父親だ』と言われても、%Nきっとぼくは彼の言葉を信じないだろう。%K%N
 And he said, “I'm your father”, then, well, I probably wouldn't believe him.
 CN PLACEHOLDER
-И произнёс «Я твой отец», я бы ни за что ему не поверил.
+И произнёс 'Я твой отец', я бы ни за что ему не поверил.
 
 それはたぶん、ぼくが今までの人生の中で、%N一度たりともラッコ人間なるものに出逢ったことがないからであり……。%K%O
 Because in life, I had never met a cross between a sea otter and a person...
@@ -248,7 +248,7 @@ CN PLACEHOLDER
 しかし、本当にラッコ人間に逢ったことがないのか%Nどうか、ぼくには確かめる手段はなく……。%K%N
 But with no memory, there was no way for me to know for sure if I had ever met a sea otter person...
 CN PLACEHOLDER
-Но как я могу это утверждать, если вообще не знаю, а видел ли этого Дарта Вейдера...
+Но, как я могу это утверждать, если вообще не знаю, а видел ли этого Дарта Вейдера...
 
 そう考えてみると……%K%N
 Thinking of it that way...
@@ -263,7 +263,7 @@ CN PLACEHOLDER
 ぼくの記憶は、ぼくの脳のヒキダシの中に、%N確かに蓄えられているのだろう。%K%N
 I imagined that my memories were stored away in a drawer in my brain somewhere.
 CN PLACEHOLDER
-Так и представляю, что мои воспоминания были запрятаны в одном из ящиков картотечного шкафа, где-то глубоко в сером веществе.
+Как если бы мои воспоминания были запрятаны в одном из ящиков картотечного шкафа, где-то глубоко в сером веществе.
 
 そして今も、蓄えられ続けている。%K%N
 And I was adding to the drawers even then.
@@ -278,7 +278,7 @@ CN PLACEHOLDER
 ５月１日以前のヒキダシは、ぼくにはどこに埋ずもれているのかさえ見当もつかない。%K%O
 I had no idea where the drawers from before May 1st were packed away.
 CN PLACEHOLDER
-А я понятия не имею, куда делись ключи от тех, что содержат данные вплоть до 1-го мая.
+А я -- понятия не имею, куда делись ключи от тех, что содержат данные вплоть до 1-го Мая.
 
 にもかかわらず……%K%N
 Still...
@@ -313,12 +313,12 @@ CN PLACEHOLDER
 ところで、このクジラが精巧にできているのは、なにも肌の質感だけに限ったことではない。%K%P
 Incidentally, it wasn't just the texture of the whale's skin that made it seem so lifelike.
 CN PLACEHOLDER
-Забавно, но не только текстура кожи кита делала его таким реалистичным.
+Забавно, но не только одна кожа делает этого кита столь похожим на живого.
 
 クジラは生きていた。%K%P
 The whale was alive.
 CN PLACEHOLDER
-Он сам по себе как живой.
+Он сам по себе жив.
 
 少なくともぼくにはそう見えた。%K%P
 At least it seemed that way to me.
@@ -333,12 +333,12 @@ CN PLACEHOLDER
 脊椎を波のようにうねらせ、ドルフィンキックを繰り返す。%K%P
 Its back surging like a wave, it undulated again and again.
 CN PLACEHOLDER
-Волнообразно вращает хвостом из стороны в сторону.
+Волнообразно вращает хвостом из стороны в сторону, словно плывёт по небу.
 
 やわらかな口は、閉じたり開いたり、時折もこもこと膨らんだりする。%K%P
 Its soft mouth opened, closed, and even puffed up from time to time.
 CN PLACEHOLDER
-Его мягкая пасть открывается и закрывается, время от времени даже пыхча.
+Его мягкий рот открывается и закрывается, время от времени даже пыхча.
 
 およそ３分ごとに、鼻腔から生温かい息を吐き出す。%K%P
 About every three minutes, it blew out a warm breath through its blowhole.
@@ -353,12 +353,12 @@ CN PLACEHOLDER
 クジラの鼻先に座ったぼくと沙羅は、当然、彼の動きにあわせて、浮いたり沈んだり……。%K%P
 Sitting at the tip of its nose, Sara and I bobbed up and down in time with its movements...
 CN PLACEHOLDER
-Сидя на краю носа, мы с Сарой качаемся вверх-вниз в ритм его движениям...
+Сидя на краю носа, мы с Сарой качаемся вверх-вниз, в ритм его движениям...
 
 とは言え、手を放していてもなんら支障ないぐらいの緩慢な動きである。%K%P
 However, the whale undulated so slowly that we could let go with our hands and feel safe.
 CN PLACEHOLDER
-И всё же кит двигается так медленно, что можно спокойно не держаться за него руками и не бояться при этом свалиться.
+И всё же кит двигается столь медленно, что можно спокойно отпустить руки и не бояться свалиться.
 
 まるでゆりかごに揺られているように……。%K%P
 It was like a cradle rocking back and forth...
@@ -368,7 +368,7 @@ CN PLACEHOLDER
 ぼくらはクジラとともに宇宙を航る。%K%P
 On the back of the whale, we sailed through the cosmos.
 CN PLACEHOLDER
-Мы плывём по космосу на спине у кита.
+На спине у кита мы плывём по космосу.
 
 それはクィクィ星へと向かう途中でのことだった。%K%P
 We were on our way to Planet Kuikui.
@@ -398,7 +398,7 @@ CN PLACEHOLDER
 どうして、ライターなんか持ち歩いているのだろう？%K%P
 I wondered why she was carrying around a lighter.
 CN PLACEHOLDER
-Единственное, чего я не могу понять – зачем она носит с собой зажигалку.
+Единственное, чего я не могу понять -- зачем она носит с собой зажигалку.
 
 まさかタバコを吸うとは思えないし。%K%P
 I couldn't picture her as the type that would smoke.
@@ -408,7 +408,7 @@ CN PLACEHOLDER
 訊いてみようか？%K%P
 I thought I might ask her.
 CN PLACEHOLDER
-Наверное стоит спросить её.
+Наверно стоит спросить её.
 
 そう思ったとき、沙羅はもう一方の手の平を開いた。%K%P
 But as I did, Sara opened her other hand.
@@ -468,7 +468,7 @@ CN PLACEHOLDER
 沙羅「ん？　なにが可笑しいの？」%K%P
 Huh? Is something funny?
 CN PLACEHOLDER
-А-а? Что такого смешного?
+Эмм〜〜〜? Что такого смешного?
 
 少年「だって……」%K%P
 I mean...
@@ -488,7 +488,7 @@ CN PLACEHOLDER
 少年「沙羅って、意外とナルシスト、なの？」%K%P
 I guess you've got a bit of a narcissistic side?
 CN PLACEHOLDER
-Должно быть, ты самую малость нарцисс?
+Должно быть ты чуточку самовлюблённая?
 
 沙羅「だからぁ、違うって！」%K%P
 I said I'm not!
@@ -563,7 +563,7 @@ CN PLACEHOLDER
 割れていただけではなく、その一部分は欠け落ちていた。%K%P
 It wasn't just broken. A piece of it was missing.
 CN PLACEHOLDER
-Причём не просто треснуто – в нём недостаёт небольшого осколка.
+Причём не просто треснуто - в нём недостаёт небольшого осколка.
 
 ぼくはその欠落した切り口を、指先でなぞった。%K%P
 I touched the area that was missing.
@@ -608,7 +608,7 @@ CN PLACEHOLDER
 少年「あっ……」%K%P
 Oh...
 CN PLACEHOLDER
-О-о-о...
+Ооо...
 
 気がつくと、ぼくは声をもらしていた。%K%P
 I had spoken without thinking.
@@ -628,7 +628,7 @@ CN PLACEHOLDER
 沙羅「えっ？」%K%P
 Huh?
 CN PLACEHOLDER
-А-а?!
+Эээ?!
 
 沙羅「そ、そうだけど……」%K%P
 Y-Yes, but...
@@ -658,7 +658,7 @@ CN PLACEHOLDER
 ホロマシンというのは、好きな形のペンダントや%Nキーホルダーを買って、ホログラムを焼き付ける事ができる機械だ。%K%N
 Holomachines were machines that would burn a hologram into pendants, keychains, or any other object that a person wanted.
 CN PLACEHOLDER
-Это устройства, что выжигают голограммы на кулонах, цепочках, брелоках и прочих безделушках клиента.
+Это устройства, что выжигают голограммы на кулонах, цепочках, брелоках и прочих безделицах клиента.
 
 たしかＬｅＭＵにも『ホロクラ』と呼ばれるマシンが%N何台も置いてあったっけ。%K%O
 On LeMU, there were even a number of those machines.
@@ -673,12 +673,12 @@ CN PLACEHOLDER
 さっきと一緒だった。何かきっかけがあれば、そのことについての記憶が呼び出される。%K%P
 It was the same as before—if there was something to trigger my memory, I could recall some things.
 CN PLACEHOLDER
-Ну вот, опять – если бы я смог найти нечто, что щёлкнуло бы этот проклятый выключатель, то что-нибудь да вспомнил.
+Ну вот, опять -- если бы я смог найти нечто, что щёлкнуло бы этот проклятый выключатель, то что-нибудь, да вспомнил.
 
 こういう事は、簡単に思い浮かぶのにな……。%K%P
 I thought that if I could remember those kinds of things, why not...
 CN PLACEHOLDER
-То есть, если это получилось с кулонами, то почему бы и нет?..
+То есть, если это получилось с кулонами, то почему бы и нет...?
 
 そんな想いを抑えて、改めてぼくは、ペンダントの上の画像を見つめた。%K%P
 But I shoved that thought aside and focused again on the image in the pendant.
@@ -688,7 +688,7 @@ CN PLACEHOLDER
 ホログラムだから、当然奥行きもある。%K%P
 Since it was a hologram, it also had depth.
 CN PLACEHOLDER
-В отличие от простой фотографии, у этой есть ещё и глубина.
+В отличии от простой фотографии, у этой есть ещё и глубина.
 
 鏡面の角度を変えると、それにあわせて彼の顔の向きも変わった。%K%P
 Changing the angle of the mirror changed the angle of his face.
@@ -698,7 +698,7 @@ CN PLACEHOLDER
 彼、と今言ったが……そう、それは男性だった。%K%P
 His... It was an image of a man.
 CN PLACEHOLDER
-Его... это изображение парня.
+Его...это изображение парня.
 
 ぼくの知らない男性。%K%P
 A man I didn't know.
@@ -723,17 +723,17 @@ CN PLACEHOLDER
 沙羅「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 少年「ねえ？」%K%P
 Huh?
 CN PLACEHOLDER
-Хм-м?
+Хмм?
 
 沙羅「…………」%K%P
 ...
 CN PLACEHOLDER
-...
+.........
 
 少年「ひょっとして、彼氏？」%K%P
 Is it your boyfriend?
@@ -743,7 +743,7 @@ CN PLACEHOLDER
 沙羅「…………」%K%P
 .........
 CN PLACEHOLDER
-...
+.........
 
 沙羅は答えなかった。%K%P
 Sara remained quiet.
@@ -773,7 +773,7 @@ CN PLACEHOLDER
 大好きな彼氏の顔を見れば、誰だって自然と口元がゆるんでしまうものだ。%K%P
 Any girl looking at her boyfriend's picture would probably show a smile.
 CN PLACEHOLDER
-На месте Сары любая девушка, склонившаяся над фотографией любимого, скорее всего, улыбнулась бы.
+На месте Сары любая девушка, склонившаяся над фотографией любимого, скорее всего бы улыбнулась.
 
 特に、こんな海の底では……。%K%P
 Especially stuck in the middle of the ocean...
@@ -793,12 +793,12 @@ CN PLACEHOLDER
 実際、彼は憎らしいほど男前だった。%K%P
 Actually, he was so good-looking that it was enough to make you sick.
 CN PLACEHOLDER
-По правде говоря, он симпатичный до тошноты.
+По-правде говоря, он симпатичный до тошноты.
 
 『やあ、ハニ〜、元気かぁ〜い』と今にも甘い声でささやきそうだった。%K%P
 I thought she might chirp out, “Oh, honey, I hope you're well. I miss you.”
 CN PLACEHOLDER
-Я думал, что она может прощебетать нечто вроде «Ох, милый, как же ты там... Мне тебя так не хватает».
+Я думал, что она может прощебетать нечто вроде 'Ох, милый, как же ты там... Мне тебя так не хватает'.
 
 ただ、気になったことがひとつだけ……。%K%P
 But there was one thing that bothered me...
@@ -813,7 +813,7 @@ CN PLACEHOLDER
 まあ、最近では懐古趣味的な流行で、あえてセピアやモノクロのホログラムを作る人もいることだし、%K%P
 But there was kind of a retro trend going on, and some people did go for the sepia or monochrome holograms.
 CN PLACEHOLDER
-Правда, в последнее время в моду вошло ретро, и некоторые делают монохромные голограммы и голограммы в сепии.
+Правда, в последнее время есть мода на ретро, и некоторые делают монохромные голограммы, или через фильтр сепия.
 
 これにしたところで、特に珍しいというわけではないのだが。%K%P
 So it didn't really seem all that outlandish.
@@ -838,7 +838,7 @@ CN PLACEHOLDER
 相変わらず固まったまま、息をすることさえ忘れているようだった。%K%P
 She was still frozen stiff. It looked like she was forgetting to breathe.
 CN PLACEHOLDER
-Она по-прежнему будто застыла, забыв, как дышать.
+Она по-прежнему застыла на одном месте. Стоп, она хоть дышит?
 
 少年「ねえ、沙羅？　沙羅？」%K%P
 Hey, Sara? Sara?
@@ -858,7 +858,7 @@ CN PLACEHOLDER
 沙羅はまばたきもしなかった。%K%P
 Sara didn't even blink.
 CN PLACEHOLDER
-Но она и глазом не моргнула.
+Но, она и глазом не моргнула.
 
 と、そのとき……。%K%P
 And then...
@@ -878,7 +878,7 @@ CN PLACEHOLDER
 沙羅「きゃっ！」%K%P
 Kyaaa!
 CN PLACEHOLDER
-Кяяаа!
+Кяяаа〜〜〜!
 
 沙羅は飛び上がると、ぼくの身体に強烈なタックルを食らわした。%K%P
 Sara leaped up and smashed into me, leveling me with a powerful tackle.
@@ -888,7 +888,7 @@ CN PLACEHOLDER
 沙羅にしてみれば、驚きのあまり抱きつきたかっただけなのかもしれないけれど、%K%P
 It might have been that she was so surprised she just wanted something to grab onto.
 CN PLACEHOLDER
-Не знаю, может, из-за сильного удивления она пыталась хоть за что-то ухватиться.
+Не знаю, может из-за сильного удивления она пыталась хоть за что-то ухватиться.
 
 その勢いはどう少なめに見積もっても、体当たり以外の何ものでもなかった。%K%P
 Still, her full weight came barreling into me.
@@ -898,7 +898,7 @@ CN PLACEHOLDER
 そんなわけで、ぼくは見事に体勢を崩し、ぼくと沙羅は重なりあったまま、滑らかなクジラの肌をすべり落ちる。%K%P
 With that, I went down, and she crumpled with me. We slid down and off the whale's smooth skin.
 CN PLACEHOLDER
-Поскольку кожа кита очень даже гладкая, в результате «контакта» мы стали сползать вниз.
+Поскольку кожа кита очень даже гладкая, в результате 'контакта' мы стали сползать вниз.
 
 星々が遠のいて行く。%K%P
 The stars appeared to gain distance.
@@ -908,7 +908,7 @@ CN PLACEHOLDER
 宇宙空間が無重力だというのは嘘だったのか？%K%P
 What they said about space being weightless, well, that seemed to be a lie.
 CN PLACEHOLDER
-Тот, кто сказал, что в космосе всё невесомо, наврал с три короба.
+Тот, кто сказал, что в космосе всё невесомо -- наврал с три короба.
 
 と思う間もなく、ぼくの身体は固いフロアに叩きつけられていた。%K%P
 Before I had time to think anything else, my body made contact with the hard floor.
@@ -918,7 +918,7 @@ CN PLACEHOLDER
 仰向けになったぼくの顔に、細かい霧が舞い降りて来る。%K%P
 A fine mist descended onto my skyward face.
 CN PLACEHOLDER
-Пока я лежал на спине, на моё лицо попало несколько капель.
+Водяные капли полетели на меня вдогонку, прокрапав на лицо...потому что я упал на спину.
 
 沙羅はぼくの上に乗ったまま、動かなかった。%K%P
 Sara was on top of me, unmoving.
@@ -933,7 +933,7 @@ CN PLACEHOLDER
 沙羅「着陸成功、だね？」%K%P
 Safe landing, huh?
 CN PLACEHOLDER
-Мягкая посадка... да?
+Мягкая посадка...ага?
 
 沙羅は頭をあげると、ぼくの顔をのぞき込むようにして、こう続けた。%K%P
 Sara continued talking as she lifted up her face and peered into my own.
