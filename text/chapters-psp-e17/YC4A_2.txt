@@ -1391,7 +1391,7 @@ CN PLACEHOLDER
 優「例えば、ここに積まれてるキャンディーの山が、実際の人魚の涙じゃないのと同じようにね」%K%P
 I mean, these candies aren't actual mermaid teardrops.
 CN PLACEHOLDER
-Ну, то есть, и эти конфеты на самом деле не являются русалочьими слезами.
+Я имею в виду, что и эти конфеты на самом деле не являются русалочьими слезами.
 
 武「なるほど」%K%P
 Well, you have a point.
@@ -1591,7 +1591,7 @@ CN PLACEHOLDER
 優「『タマテ箱』の中に詰め込まれていたものは……『生物の老化を急速に促進する作用を持った気体』だった」%K%P
 The dwarven liquor was actually... a solution that rapidly accelerates aging.
 CN PLACEHOLDER
-Наверное в шкатулке просто был газ, ускоряющий процесс старения.
+Наверное, в шкатулке просто был газ, ускоряющий процесс старения.
 
 優「『トックリ』の中に詰め込まれていたものは……『生物の老化を極限まで抑制する作用を持った液体』だった」%K%P
 What was in the tears was... a solution that slows down aging.

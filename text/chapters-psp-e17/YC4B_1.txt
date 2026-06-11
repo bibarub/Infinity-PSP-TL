@@ -181,7 +181,7 @@ CN PLACEHOLDER
 優「って言うか、ほとんど思い出してるんでしょ？」%K%P
 I mean, you've actually remembered most everything, haven't you?
 CN PLACEHOLDER
-То есть, ты и так уже вспомнил практически всё?
+В смысле ты и так уже вспомнил практически всё?
 
 少年「ほとんど、じゃないよぉ」%K%P
 Not everything.
@@ -236,7 +236,7 @@ CN PLACEHOLDER
 優「少年はマヨのお兄ちゃんなんだよねぇ？　そのことは、ちゃんと思い出したんだよねぇ？」%K%P
 You're Mayo's brother, right? You did remember that, don't you?
 CN PLACEHOLDER
-Ты же брат Майо, так? То есть, это ты помнишь.
+Ты же брат Майо, так? Это-то ты помнишь.
 
 少年「う、うん」%K%P
 Uh, yeah.
@@ -631,7 +631,7 @@ CN PLACEHOLDER
 少年「便宜上……だから、なければ不便なのかもしれないけど、でも『絶対になきゃダメだ』っていうもんでもないと思うんだ」%K%P
 It's just for convenience... So while living without a name certainly has its own challenges, I don't think a name is an absolute necessity.
 CN PLACEHOLDER
-Лишь удобный ярлык... То есть, не спорю, жить без имени довольно проблематично. Но не думаю, что имя – вещь абсолютно необходимая.
+Лишь удобный ярлык... Типа, не спорю, жить без имени довольно проблематично. Но не думаю, что имя – вещь абсолютно необходимая.
 
 少年「例えばイルカは、かなり頭のいい動物だけど、１頭１頭に名前を付けて呼び合ってるわけじゃないでしょ？」%K%P
 Take dolphins. They're highly intelligent creatures, but they don't go around calling one another by name.
@@ -1696,7 +1696,7 @@ CN PLACEHOLDER
 さらに今回のチャミ救出劇では、５１ｍ×２＝１０２ｍの潜水をしたわけで……。%K%P
 And with my effort to rescue Chami, I swam over 102 meters underwater...
 CN PLACEHOLDER
-Чтобы спасти Чами, я проплыл под водой 51 метр, причём дважды. То есть, целых 102 метра...
+Чтобы спасти Чами, я проплыл под водой 51 метр, причём дважды. В сумме целых 102 метра...
 
 （でも、本当に疲れてるだけか？）%K%P
 (Is this really just fatigue?)
@@ -1721,7 +1721,7 @@ CN PLACEHOLDER
 （風邪かな？）%K%P
 (Maybe I caught a cold?)
 CN PLACEHOLDER
-(Наверное я простудился?)
+(Наверное, я простудился?)
 
 つぐみ「どうしたの？」%K%P
 What's wrong?
@@ -3021,7 +3021,7 @@ CN PLACEHOLDER
 優「むしろ良かったと思ってるぐらい……」%K%P
 It's probably better this way...
 CN PLACEHOLDER
-Наверное так даже лучше...
+Наверное, так даже лучше...
 
 優「だって……罪を犯したのは、私だけなんだから……」%K%P
 Because, this way, I'm the only one who's sinned...

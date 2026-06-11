@@ -902,12 +902,12 @@ CN PLACEHOLDER
 優「じゃあ、あの小部屋の造りと、かつて少年がいた場所の造りとは、なんらかの共通点があるってことね？」%K%P
 So that little room and the room that you were in before were similar somehow?
 CN PLACEHOLDER
-То есть, та маленькая комната и место, где тебя раньше держали, оказались чем-то похожи?
+Та маленькая комната и место, где тебя раньше держали, оказались чем-то похожи?
 
 少年「たぶん」%K%P
 Probably.
 CN PLACEHOLDER
-Видимо да.
+Видимо, да.
 
 優「話を聞いた限りでは、それってどこかの病室みたいだよね？」%K%P
 Listening to that, it sounds like a sickroom or isolation ward somewhere.
@@ -932,7 +932,7 @@ CN PLACEHOLDER
 優「こんなことを言ったら失礼かもしれないけど……」%K%P
 Maybe I shouldn't say this, but...
 CN PLACEHOLDER
-Наверное не стоило это говорить, но...
+Наверное, не стоило это говорить, но...
 
 優「少年は前にも、今と同じようなことを……」%K%P
 Kid, maybe you've had the same...
@@ -942,7 +942,7 @@ CN PLACEHOLDER
 優「つまり、記憶喪失や、突然暴れ出したりといった発作を、何度か繰り返してきたんじゃないかな？」%K%P
 I mean, maybe you've lost your memory or had violent fits repeatedly before.
 CN PLACEHOLDER
-То есть, может, твои беспричинные приступы помешательства и потеря памяти случались и раньше.
+Ну, может, твои беспричинные приступы помешательства и потеря памяти случались и раньше.
 
 優「だから、小さな窓がひとつしか付いていないような病室に、監禁されてしまった……」%K%P
 So maybe you were detained in a sickroom with a tiny window like that...

@@ -41,7 +41,7 @@ CN PLACEHOLDER
 武「なぁ、あとどれぐらい待てばいいんだ？」%K%P
 Hey, how long do you think we're gonna have to wait?
 CN PLACEHOLDER
-Слушай, и сколько нам, по-твоему, придётся ждать?
+Слушай, как думаешь, сколько нам ещё сидеть ждать?
 
 俺はつぐみに尋ねた。%K%P
 I asked Tsugumi that.
@@ -161,7 +161,7 @@ CN PLACEHOLDER
 武「当たり前だっ！」%K%P
 That's for sure!
 CN PLACEHOLDER
-Уж это точно!
+Это уж точно!
 
 つぐみ「私が答えるかどうかは、気分とは関係ないの」%K%P
 My answering has nothing to do with my mood.
@@ -171,7 +171,7 @@ CN PLACEHOLDER
 つぐみ「意味のある質問には答える、そうじゃなければ答えない……ただそれだけ」%K%P
 If a question has meaning, I answer. If it doesn't, I don't... That's all.
 CN PLACEHOLDER
-Если в вопросе есть смысл, я отвечу. Если нет, значит, нет... вот и всё.
+Если в вопросе есть смысл, я отвечу. Если нет, значит, нет... Вот и всё.
 
 武「本当か？」%K%P
 Really?
@@ -256,7 +256,7 @@ CN PLACEHOLDER
 武「ついさっき、つぐみがバルブを閉めるまで、この中にはドンドコドンドコと熱水が送り込まれてたわけだろ？」%K%P
 A while ago, until you closed that valve, really hot water was being pumped in, right?
 CN PLACEHOLDER
-Совсем недавно, пока ты не закрыла тот вентиль, там била невообразимо горячая вода, так?
+Итак, пока ты не закрыла вентиль, туда подавалась горячая вода, так?
 
 武「その熱水は気化して水蒸気になり、ギュウギュウに、パンパンに詰め込まれて行った」%K%P
 And that water turns to steam, and it gets more and more packed in there.
@@ -276,12 +276,12 @@ CN PLACEHOLDER
 武「例えば、ヤカンに水を注ぎ、フタのところを溶接かなんかして、完全に出口を塞いだ状態で、火にかけたとする」%K%P
 For example, it's like if you poured a bunch of water into a kettle, welded it shut, blocked the spout, and put it on a fire.
 CN PLACEHOLDER
-То есть, это всё равно, что залить воды в котёл доверху, заварить его наглухо и бросить в огонь.
+Это всё равно, что залить воды в котёл доверху, заварить его наглухо и бросить в огонь.
 
 武「そしたら、やがてヤカンは『ドッカーン！』と大爆発を起こしちまうよな？」%K%P
 Then, finally, it would go and explode with a 'boom', right?
 CN PLACEHOLDER
-И в конце концов он возьмёт и взорвётся. „Бабах!“ Так ведь?
+И в конце концов он возьмёт и взорвётся. Так ведь?
 
 武「でもこの通り……なぜか発電室は無事だ」%K%P
 But somehow... the generator room is fine.
@@ -381,7 +381,7 @@ CN PLACEHOLDER
 武「この発電室にしろ、隣のパイプ部屋にしろ、細かいところまで熟知してるって感じじゃないか」%K%P
 I mean, you seem to know a bunch of details, like about this Generator Room or the pipe room or whatever.
 CN PLACEHOLDER
-То есть, меня поразило, что ты знаешь столько всего, и об этой Генераторной, и о помещении с трубами... обо всём.
+Типа, я в шоке, что ты столько знаешь и про Генераторную, и о помещении с трубами... да и в вообще обо всём.
 
 つぐみ「…………」%K%P
 .........
@@ -521,7 +521,7 @@ CN PLACEHOLDER
 暗闇の中……。%K%P
 There in the darkness...
 CN PLACEHOLDER
-Здесь в темноте...
+Здесь, в темноте...
 
 狭い通路……。%K%P
 In that narrow corridor...
@@ -741,12 +741,12 @@ CN PLACEHOLDER
 武「ぐぢゅぐぢゅぐぢゅぐぢゅぐぢゅぅ……」%K%P
 *Swish*, *swish*, *swish*, *swish*, *swish*...
 CN PLACEHOLDER
-*Хварк*, *хварх*, *хварк*...
+*Хварк*, *хварх*, *хварк*
 
 武「ぺっ」%K%P
 Blah!
 CN PLACEHOLDER
-*Блюэ*!
+*Блюэ*
 
 つぐみ「ちょ、ちょっと！」%K%P
 H-Hey!
@@ -756,7 +756,7 @@ CN PLACEHOLDER
 つぐみ「汚いからこんなとこに吐き出さないでよ！」%K%P
 That's dirty, so don't go spitting it over here!
 CN PLACEHOLDER
-Это грязь, так что не расплёскивай её по всей округе!
+Отвратительно, не сплёвывай сюда!
 
 武「おまえなぁ！　おまえなぁ！　おまえなぁーっ！」%K%P
 You! You! Yoooooou!
@@ -766,7 +766,7 @@ CN PLACEHOLDER
 文句を言いたかったが、今は顔を洗う方が先だ。%K%P
 I wanted to say something to her, but washing my face took priority.
 CN PLACEHOLDER
-Я хотел сказать что-то, но сперва надо вымыть лицо.
+Я хотел сказать что-то, но сперва надо умыть лицо.
 
 俺は再び水をすくい、バシャバシャと顔にかけ、うがいを繰り返し……%K%P
 I scooped more water, splashed it on my face, and gargled again.
@@ -786,7 +786,7 @@ CN PLACEHOLDER
 武「俺の顔に何かけやがったんだ！？」%K%P
 What did you put on my face?
 CN PLACEHOLDER
-Что ещё за хрень ты брызнула мне на лицо?
+Что за хрень ты брызнула мне на лицо?
 
 つぐみ「アセトン」%K%P
 Acetone.
@@ -796,12 +796,12 @@ CN PLACEHOLDER
 武「なぁーんだ、アセトンだったのかぁ、殺虫剤じゃなくてよかったぽーん♪」%K%P
 Oh GREAT! I'm so HAPPY it wasn't some pesticide.
 CN PLACEHOLDER
-Ох ОТЛИЧНО! Я так СЧАСТЛИВ, что это не серная кислота.
+О, так это был ацетон! Как здорово, что это не отрава для насекомых!
 
 武「――なんて、俺が言うとでも思ってんのか、こんにゃろーっ！」%K%P
 You think I'm serious? You idiot! I'm not!
 CN PLACEHOLDER
-Думаешь я серьёзно? Дура! Я шучу!
+Думаешь, я серьёзно? Дура! Я шучу!
 
 武「なんでそんなもんを突然かけたりなんかしたんだよ！」%K%P
 Whaddya doing, spraying that on me all of a sudden!?
@@ -971,7 +971,7 @@ CN PLACEHOLDER
 発電室の扉から温もりが失せるのを待って、俺達は中へと踏み込んだ。%K%P
 We waited for the generator room to cool before going in.
 CN PLACEHOLDER
-Мы выжидали ещё некоторое время, пока Генераторная не охладилась.
+Мы выждали ещё некоторое время, пока Генераторная не охладилась.
 
 それでも、室内は信じられないぐらいに暑かった。%K%P
 The heat inside must have defied imagination.
@@ -1036,7 +1036,7 @@ CN PLACEHOLDER
 俺は噴き出した汗を袖で拭った。%K%P
 I wiped my sweat away with my collar.
 CN PLACEHOLDER
-Я вытер рубашкой пот со лба.
+Я вытер кофтой пот со лба.
 
 つぐみの指摘した通り、停電の主な原因は、気圧減少に伴った安全バルブの開放にあった。%K%P
 It was just like Tsugumi had said. The blackout had been caused when the safety valve had opened due to the drop in air pressure.
@@ -1201,7 +1201,7 @@ CN PLACEHOLDER
 つぐみ「ほらね……電気が点くまで、ちょうど１７秒……」%K%P
 See... It took exactly seventeen seconds for the lights to come on...
 CN PLACEHOLDER
-Видишь... чтобы зажёгся свет, понадобилось ровно 17 секунд...
+Видишь ли... чтобы зажёгся свет, понадобилось ровно 17 секунд...
 
 つぐみは見下すような視線を俺に向け、スタスタと部屋を出て行った。%K%P
 Tsugumi flashed me a condescending glance and strolled out of the room.
@@ -1256,12 +1256,12 @@ CN PLACEHOLDER
 そんなことを考えながら、何気なく、卵のほうへと目を向けてみる。%K%P
 As I recalled that, I turned my eyes to the egg-like elevator.
 CN PLACEHOLDER
-Вспоминая, я повернул глаза на яйцевидный лифт.
+Размышляя об этом, я небрежно взглянул на „яйцо“.
 
 右側の扉の向こうに、俺達の乗って来た卵があるはずだった。%K%P
 On the other side of that door, the egg that we came in should have been waiting.
 CN PLACEHOLDER
-Мы пришли сюда с другой стороны этой двери. Значит...
+По ту сторону находится лифт, на котором мы приехали.
 
 穴の開いた卵――もはや、これは使い物にならない。%K%P
 It was an egg with a hole in it. It was useless to us.
@@ -1276,7 +1276,7 @@ CN PLACEHOLDER
 階数表示の明かりが『３』のところに点灯しているのがわかる。%K%P
 The floor display was lit up with a number three.
 CN PLACEHOLDER
-На дисплее горит номер три.
+На дисплее горит цифра три.
 
 武「このフロアに、もう１台卵が停まってるっていうの……知ってたんだ？」%K%P
 Did you know there was another egg elevator stopped down here...?
@@ -1301,7 +1301,7 @@ CN PLACEHOLDER
 卵に乗り込んだ俺は、工具箱を床の上に置いた。%K%P
 Inside the egg elevator, I put the toolbox on the floor.
 CN PLACEHOLDER
-Внутри лифта я поставил коробку на пол.
+Зайдя в лифт, я поставил ящик на пол.
 
 つぐみ「オッサンみたい……」%K%P
 You sound like an old man...
@@ -1311,7 +1311,7 @@ CN PLACEHOLDER
 武「うるせー、どうせお前に比べりゃオッサンだよ、俺は」%K%P
 Shut up. I AM an old man compared to you.
 CN PLACEHOLDER
-Заткнись. Я И ЕСТЬ старикашка по сравнению с тобой.
+Заткнись. Я И ЕСТЬ старикашка в сравнении с тобой.
 
 そう言って、扉のわきについていた『△』のボタンを押す。%K%P
 As I said that, I pushed the up button next to the elevator door.
@@ -1366,7 +1366,7 @@ CN PLACEHOLDER
 つぐみはいつも通り無表情……。%K%P
 Tsugumi was as matter-of-fact as always...
 CN PLACEHOLDER
-Цугуми прозаична, как всегда...
+Цугуми, как обычно, не выражает никаких эмоций...
 
 まだ乾き切っていない長い髪の毛の先端を、ぐりぐりと指先でいじっている。%K%P
 She was playing with and coiling her long, still-damp hair with her finger.
@@ -1431,7 +1431,7 @@ CN PLACEHOLDER
 武「でだ。わかってると思うけど、今俺達は、卵……えーっと『ＥＩ』の中にいて……」%K%P
 I think you know this, but we're in this egg... Uh, this Ei...
 CN PLACEHOLDER
-Наверное ты в курсе, но мы в этом яйце... э-э, этом EI...
+Наверное, ты в курсе, но мы в этом яйце... э-э, этом EI...
 
 空「ええ、わかっています」%K%P
 Yes, I know.
@@ -1621,7 +1621,7 @@ CN PLACEHOLDER
 武「心配じゃないのか！？」%K%P
 Aren't you worried about her?
 CN PLACEHOLDER
-Вам на неё начхать?
+Вам совсем всё равно на неё?
 
 ココ「でも……」%K%P
 But...

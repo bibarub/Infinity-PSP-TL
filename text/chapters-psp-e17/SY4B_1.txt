@@ -191,7 +191,7 @@ CN PLACEHOLDER
 沙羅「むっ！　ひょっとして、少年は先輩のこと嫌いなの？」%K%P
 Maybe you just don't like Senpai.
 CN PLACEHOLDER
-Я ошиблась, наверное Ю тебе совсем не нравится.
+Я ошиблась. Наверное, Ю тебе совсем не нравится.
 
 少年「そんなこと、あるわけないって」%K%P
 That's a stupid thing to say.

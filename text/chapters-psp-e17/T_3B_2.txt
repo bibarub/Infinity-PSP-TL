@@ -41,17 +41,17 @@ CN PLACEHOLDER
 武「空はいつから、ＬｅＭＵにいるんだ？」%K%P
 Sora, how long have you been here at LeMU?
 CN PLACEHOLDER
-Сора, как долго ты была здесь, в LeMU?
+Сора, как долго ты здесь, в LeMU?
 
 空「私が実用レベルで稼動したのは、２０１１年の４月です」%K%P
 I started working at a functional level in April of 2011.
 CN PLACEHOLDER
-Я начала работать на уровне функций в апреле 2011 года.
+Я была введена в эксплуатацию в апреле 2011 года.
 
 空「それ以来、ということになります」%K%P
 So since then.
 CN PLACEHOLDER
-То есть, с тех самых пор.
+Получается, с тех пор.
 
 武「６年、か……」%K%P
 Six years, huh...
@@ -1436,7 +1436,7 @@ CN PLACEHOLDER
 空「物理学者……あるいは、哲学者の」%K%P
 At physics... or perhaps even philosophy.
 CN PLACEHOLDER
-В физике... или наверное даже в философии.
+В физике... или, наверное, даже в философии.
 
 武「おだてないでくれ」%K%P
 You don't have to flatter me.

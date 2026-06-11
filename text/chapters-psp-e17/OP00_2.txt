@@ -146,7 +146,7 @@ CN PLACEHOLDER
 濡れたズボンはまだ、乾きそうになかった。%K%P
 It didn't seem his pants would dry any time soon.
 CN PLACEHOLDER
-Непохоже, что его штаны высохнут в ближайшее время.
+Едва ли его штаны высохнут в ближайшее время.
 
 係員「どうしたの？」%K%P
 What's wrong?
@@ -246,7 +246,7 @@ CN PLACEHOLDER
 係員「でも、待ち人来たらずって感じねぇ」%K%P
 But it looks like they're not coming.
 CN PLACEHOLDER
-Но непохоже, что те, кого ты ждал, придут.
+Не думаю, что те, кого ты ждёшь, придут.
 
 係員の彼女は、首を傾げる。%K%P
 She tilted her head.

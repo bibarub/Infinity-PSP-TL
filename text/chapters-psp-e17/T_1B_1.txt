@@ -66,7 +66,7 @@ CN PLACEHOLDER
 あんたのせいじゃない
 It's not your fault
 CN PLACEHOLDER
-Ты не виновата
+Вы не виноваты
 
 そんなことより……
 That's not important right now...
@@ -81,7 +81,7 @@ CN PLACEHOLDER
 武「あんたみたいな係員を責めてもしょうがないけどさ、なんで……」%K%P
 It's no good blaming someone that works here like you, but...
 CN PLACEHOLDER
-Мне совсем не хочется обвинять обычного сотрудника вроде тебя, но...
+Мне совсем не хочется обвинять обычного сотрудника вроде вас, но...
 
 武「なんでこんなことになってるんだよ。説明してくれよ！！」%K%P
 How could this happen? I want an explanation!
@@ -91,7 +91,7 @@ CN PLACEHOLDER
 武「友達と遊びに来てさぁ、エレベーターひとつ余計に待っただけだぞ……」%K%P
 I came here with my friends and just missed taking the elevator...
 CN PLACEHOLDER
-Я отдыхал здесь со своими друзьями и всего лишь запоздал на лифт...
+Я просто пришёл сюда отдохнуть с друзьями и всего лишь запоздал на лифт...
 
 武「信じられない……！」%K%P
 I don't believe this..!
@@ -136,7 +136,7 @@ CN PLACEHOLDER
 武「別に、あんたのせいじゃない」%K%P
 It's not your fault.
 CN PLACEHOLDER
-Ты не виновата.
+Вы не виноваты.
 
 武「誰かひとりの落ち度だなんて、思っていないよ……」%K%P
 I don't think that this is any one person's fault.
@@ -156,7 +156,7 @@ CN PLACEHOLDER
 武「すまない、ちょっと気が立ってるんだ。当り散らして、悪かった……」%K%P
 Sorry. I'm just a little aggravated. I didn't mean to take it out on you...
 CN PLACEHOLDER
-Прости. Меня просто это малость бесит. Я не хотел срываться на тебе.
+Простите. Меня просто это малость бесит. Я не хотел срываться на вас.
 
 係員「いえ……」%K%P
 It's okay...
@@ -231,7 +231,7 @@ CN PLACEHOLDER
 女の子「ここに突っ立っていても仕方ないわ、案内してくれる？」%K%P
 It doesn't do us any good just standing around here. Can you show us the way?
 CN PLACEHOLDER
-Стоять здесь можно до вечера, но это нам никак не поможет. Можешь отвести нас куда-нибудь?
+Стоять здесь можно до вечера, но это нам никак не поможет. Можете отвести нас куда-нибудь?
 
 係員「わかりました……。近くに比較的安全な場所があります、ご案内します……」%K%P
 Certainly. There is a relatively safe place nearby. I will take you there...
@@ -297,7 +297,7 @@ CN PLACEHOLDER
 係員「聞き間違いではないですか？」%K%P
 Are you sure you aren't mistaken?
 CN PLACEHOLDER
-Может, тебе показалось?
+Может, вам показалось?
 
 係員「このＬｅＭＵでは、水圧の関係で、鉄の隔壁がゴトゴトと鳴るようなことは珍しくありませんから」%K%P
 Due to all of the water pressure here at LeMU, it isn't uncommon for the metal partitions to rattle occasionally.
@@ -312,7 +312,8 @@ CN PLACEHOLDER
 空の言う通り、ＬｅＭＵの隔壁が軋んだのかもしれない。%K%P
 Maybe it was just like she said, and LeMU's partitions were only creaking.
 CN PLACEHOLDER
-Может, всё именно так, как сказала Сора, и единственное, что издаёт звуки – перегородки LeMU.
+Может, всё именно так, как она и сказала, и единственное, что издаёт звуки – перегородки LeMU.
+//к этому моменту она еще даже не представилась
 
 気を取り直し、先へ進むことにする。%K%P
 Shaking it off, we kept trudging forward.
@@ -352,7 +353,7 @@ CN PLACEHOLDER
 係員「聞き間違いではないですか？」%K%P
 Are you sure you aren't mistaken?
 CN PLACEHOLDER
-Ты точно не ошибся?
+Вы точно не ошибаетесь?
 
 係員「このＬｅＭＵでは、水圧の関係で、鉄の隔壁がゴトゴトと鳴るようなことは珍しくありませんから」%K%P
 Due to all of the water pressure here at LeMU, it isn't uncommon for the metal partitions to rattle occasionally.
@@ -387,7 +388,7 @@ CN PLACEHOLDER
 係員「では、私も御一緒します」%K%P
 Alright, we'll go with you.
 CN PLACEHOLDER
-Хорошо. Тогда, если не возражаешь, я пойду с тобой.
+Хорошо. Тогда, если не возражаете, я пойду с вами.
 
 女の子は何も言わず、俺達について来た。%K%P
 The girl didn't say anything. She just silently tagged along with us.
@@ -417,7 +418,7 @@ CN PLACEHOLDER
 女の子「つまり、私達以外にも閉じ込められた人が……？」%K%P
 So there's someone else trapped here too...?
 CN PLACEHOLDER
-Значит... в западню попался кто-то ещё?..
+Значит, в западню попался кто-то ещё?..
 
 耳を澄まし、音のありかを探る。%K%P
 We strained our ears to find where the sound was coming from.
@@ -682,7 +683,7 @@ CN PLACEHOLDER
 したたかヒザを打ちつけてしまった。%K%P
 I struck my knee painfully.
 CN PLACEHOLDER
-Я жутко больно ушиб колено.
+Я до жути ушиб колено.
 
 ？？「大丈夫ですかぁ〜？」%K%P
 Are you alriiight?
@@ -697,7 +698,7 @@ CN PLACEHOLDER
 係員「お怪我ないですかぁ〜？」%K%P
 Did you hurt yourself?
 CN PLACEHOLDER
-Ты не ушибся?
+Вы не ушиблись?
 
 上からも声が……。%K%P
 And then a voice from above...
@@ -1178,7 +1179,7 @@ CN PLACEHOLDER
 ココ「ところで、この方達は……？」%K%P
 Um, by the way, who are these people...?
 CN PLACEHOLDER
-Э-э, кстати... Кто все эти люди?..
+Э-э, кстати... Кто те двое?..
 
 パタパタと服の汚れをはたきながら、ココは係員と黒服の女の子の顔を交互に見た。%K%P
 Coco looked back and forth between the faces of the female park employee and the girl in black clothing.
@@ -1338,7 +1339,7 @@ CN PLACEHOLDER
 ピピ「く〜ん、く〜ん……」%K%P
 *Whine*, *whimper*...
 CN PLACEHOLDER
-*писк* *визг*...
+*писк* *визг*
 
 武「なぁ？　俺の名前は？　聞かなくていいのか？」%K%P
 Hey? How about my name? You don't want to know?
@@ -2049,7 +2050,7 @@ CN PLACEHOLDER
 俺はズボンのポケットに入っていたＰＤＡを、ココに貸してやった。%K%P
 I took my PDA from my pocket and loaned it to Coco.
 CN PLACEHOLDER
-Я вытащил КПК из своего кармана и передал его Коко.
+Я вытащил КПК из своего кармана и протянул его Коко.
 
 ココ「こんな感じ？」%K%P
 Like this?
@@ -2245,7 +2246,8 @@ CN PLACEHOLDER
 （『私が』把握できなかった……？）%K%P
 (What does she mean “she” wasn't able to...?)
 CN PLACEHOLDER
-(Что она имеет в виду, говоря «я не могла»?..)
+(Что она имеет в виду, говоря «не могла воспринимать»?..)
+// Чёт мне исходная вырезка не нравится, всё-таки Такэси не понимает её, потому что она напрямую взаимодействует в системами
 
 少し引っかかるものを覚えたが、続きを聞くことにする。%K%P
 Something about her words nagged at my mind, but I listened to the rest of what she had to say.
@@ -2385,7 +2387,7 @@ CN PLACEHOLDER
 優「短期アルバイト。連休中だけの臨時雇いなの♪」%K%P
 I work here part-time and only over the holidays.
 CN PLACEHOLDER
-А здесь просто подрабатываю, да и то только по выходным.
+А здесь просто подрабатываю, да и то по выходным.
 
 優「まぁなんていうか、いきなりなツアー＆不慣れなツアコンではありますが、宜しくお願いしまーすっ……」%K%P
 Well, I'm kind of new to this whole tour thing, but I will be leading the tour...
@@ -2410,7 +2412,7 @@ CN PLACEHOLDER
 武「ゆびせ……なんだって？」%K%P
 Yubise... what?
 CN PLACEHOLDER
-Юбисе... чего?
+Юбисэ... чего?
 
 優「たなかゆうびせいはるかな」%K%P
 Tanaka Yubiseiharukana.
@@ -2505,7 +2507,7 @@ CN PLACEHOLDER
 世の中は広い、と思う。%K%P
 It seemed the surprises would never cease.
 CN PLACEHOLDER
-Да уж, похоже, что сюрпризы ещё не скоро кончатся.
+Да уж, похоже, что сюрпризы ещё не скоро кончатся. Я думал, она сильно младше...
 
 優「ココとピピね、よろしくね♪」%K%P
 Okay, nice to meet you, Coco and Pipi!
@@ -3175,7 +3177,7 @@ CN PLACEHOLDER
 器質的病変に基づく健忘を器質健忘というのに対して、心因に基づくものを心因健忘といい、全般健忘（全生活史健忘）が代表的なものである。%T030%K%N
 Amnesia caused by inherent mental factors is referred to as “organic amnesia”, while that induced by psychological stress is typically known as “psychogenic amnesia”, with “hysterical amnesia” being the most typical example.
 CN PLACEHOLDER
-Амнезия, вызванная физическими повреждениями мозга, называется органической, тогда как воозникшая вследствие психогенных факторов – диссоциативной.
+Амнезия, вызванная физическими повреждениями мозга, называется органической, тогда как возникшая вследствие психогенных факторов – диссоциативной.
 
 これは社会的事実についての知識はよく保たれていながら、名前・生いたち・家族や友人のことなど自分の全生活史にわたるすべてを想起できない状態であり……%T030%K%N
 This is an affliction in which the victim often cannot recall knowledge relating to his or her personal history, such as one's name, history, family, or friends...%T030%K%O
@@ -3585,7 +3587,7 @@ CN PLACEHOLDER
 そして、内部気圧が外と同じ１気圧にまで低下した。%K%O
 Air pressure in the complex dropped to one atmosphere, the same as the level outside.
 CN PLACEHOLDER
-Давление воздуха в сооружении упало до 1 атмосферы – того же уровня, что на открытом пространстве.
+Давление воздуха в сооружении упало до 1 атмосферы – того же уровня, что на поверхности.
 
 １４時３９分――%T030%K%N
 2:39 p.m.—
@@ -4021,7 +4023,7 @@ CN PLACEHOLDER
 武「館内のセンサーやモニターにまだ異状が残ってて、現状が正しく把握できない、とも言ってただろ？」%K%P
 You were just talking about how some sensors or monitors weren't working right and you can't get a full sense of the current situation.
 CN PLACEHOLDER
-Ты давеча упоминала про неработающие датчики, из-за которых не удаётся получить полную картину происходящего.
+Ты давеча упоминала неработающие датчики, из-за которых не удаётся получить полную картину происходящего.
 
 優「あー、なるほどね」%K%P
 Oh, I see.
@@ -4036,7 +4038,7 @@ CN PLACEHOLDER
 優「空がＳＯＳを発信してる間に、私達が自分の足で状況を見てくる、と」%K%P
 So while Sora is trying to send an SOS, we should use our own two legs to see what kind of a situation we're in.
 CN PLACEHOLDER
-То есть пока Сора пытается послать сигнал SOS, мы на своих двоих оценим ситуацию, в которой оказались.
+Пока Сора пытается послать сигнал SOS, мы на своих двоих оценим ситуацию, в которой оказались.
 
 優「どう？　空もそのほうが楽になるんじゃないかな？」%K%P
 How about it? Sora, that would be easier on you, wouldn't it?
@@ -4261,7 +4263,7 @@ CN PLACEHOLDER
 その間も空は引き続き、ＬｅＭＵの管制コンピューターであるレミシステムとコンタクトを取り、情報の収集に努めていた。%K%P
 While we were out searching, Sora continued to try to get into contact with LeMU's central computer, LeMMIH, and gather more information.
 CN PLACEHOLDER
-Пока мы были заняты поисками, Сора продолжала пытаться связаться с центральным компьютером LeMU, LeMMIH, и собрать больше информации.
+Пока мы были заняты поисками, Сора продолжала пытаться связаться с LeMMIH, центральным компьютером LeMU, и собрать больше информации.
 
 できれば、なんらかの方法を用いて外部との通信手段を確立したい、と空は言っていた。%K%P
 Sora had said that she wanted to establish a means of communicating with the outside.

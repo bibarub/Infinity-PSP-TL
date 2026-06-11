@@ -866,17 +866,17 @@ CN PLACEHOLDER
 つぐみ「もう食べた。だから、もういいでしょ」%K%P
 I ate, okay? Enough already.
 CN PLACEHOLDER
-Я сыта, ладно? Хватит уже.
+Я наелась, ладно? Хватит уже.
 
 武「え？　ああ、まぁそれはそうなんだけどな？」%K%P
 What? No, uh, I mean, YEAH, but...
 CN PLACEHOLDER
-Что? Нет, э-э, то есть, КОНЕЧНО, но...
+А? А-а... Ну, хорошо, если так, но...
 
 武「気になるっつーか、心配っつーか……」%K%P
 It was on my mind, you know? I guess I was worried...
 CN PLACEHOLDER
-Я всё время думаю об этом, понимаешь? Полагаю, я беспокоюсь...
+Знаешь, мне не просто интересно... Я скорее переживаю.
 
 武「『つぐみ、どうしたのかなぁ〜ん』っと思ってさ」%K%P
 I wondered, what happened to you?

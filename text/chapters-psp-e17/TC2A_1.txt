@@ -401,7 +401,7 @@ CN PLACEHOLDER
 ココ「こんな大事件が起きたんだよ？　たぶん、ニュースとかワイドショーとかに、おっき〜く報道されてるってば」%K%P
 An accident as big as this? It's probably all over the news. They might even be doing a huge TV special about it.
 CN PLACEHOLDER
-Это же крупная катастрофа? И в новостях наверное только и трещат об этом. Может, на телевидении даже сделали огромный спецрепортаж.
+Это же крупная катастрофа? И в новостях, наверное, только и трещат об этом. Может, на телевидении даже сделали огромный спецрепортаж.
 
 武「ひとり暮らし、だ」%K%P
 I live alone.
@@ -426,7 +426,7 @@ CN PLACEHOLDER
 優「だって、こんな大事件が起きたんだよ？　新聞とかテレビとかで、大々的に報道されてるでしょ？」%K%P
 An accident as big as this? It's probably all over the newspapers and television.
 CN PLACEHOLDER
-Это же крупная катастрофа, как-никак! И в новостях наверное только и трещат об этом.
+Это же крупная катастрофа, как-никак! И в новостях, наверное, только и трещат об этом.
 
 武「そうかな？　そうとは限らないと思うが……」%K%P
 You think so? I'm not sure about that...
@@ -541,7 +541,7 @@ CN PLACEHOLDER
 優「だから、こんなふうになっちゃったのかもね？」%K%P
 I suppose that's why I turned out the way I did.
 CN PLACEHOLDER
-Наверное потому-то я и стала такой, какая есть.
+Наверное, потому-то я и стала такой, какая есть.
 
 優はアルバムのページを開いて見せた。%K%P
 You showed me a page from her album that she'd turned to.

@@ -71,7 +71,7 @@ CN PLACEHOLDER
 声をかけようか？　と思ったとき、%K%P
 I thought I might call out to her.
 CN PLACEHOLDER
-Наверное стоит позвать её.
+Наверное, стоит позвать её.
 
 沙羅はおもむろに何かを……%K%P
 She seemed to be focusing on something...
@@ -226,7 +226,7 @@ CN PLACEHOLDER
 沙羅「そんなつまらないことまで覚えてるから、突然記憶喪失になっちゃったりするんだよ」%K%P
 Maybe you lost your memory because you packed your head with so many useless little things like that.
 CN PLACEHOLDER
-Наверное ты потерял память потому, что забивал её всякой фигнёй, вроде этой.
+Наверное, ты потерял память потому, что забивал её всякой фигнёй, вроде этой.
 
 沙羅はそう言って笑った。%K%P
 Sara laughed as she said that.
@@ -386,7 +386,7 @@ CN PLACEHOLDER
 少年「つまり、そのライターの炎を近づけないと見えないってこと？」%K%P
 So you have to hold the lighter flame next to it to see it?
 CN PLACEHOLDER
-То есть, чтобы его увидеть, нужно поднести к нему горящую зажигалку?
+Так, значит, чтобы его увидеть, нужно поднести к нему горящую зажигалку?
 
 ぼくは尋ねた。%K%P
 I asked her.

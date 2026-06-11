@@ -716,7 +716,7 @@ CN PLACEHOLDER
 ココ「ココ、味見しなかったから、ちょこっとドキドキもんだったんだけどぉ……」%K%P
 I didn't actually taste it, so I was a bit nervous...
 CN PLACEHOLDER
-Ну, если бы я сначала не попробовала, то наверное бы испугалась одного вида...
+Ну, если бы я сначала не попробовала, то, наверное, испугалась бы одного вида...
 
 ココ「そっかぁ！　あれ、おいしかったんだ……？」%K%P
 But you said it was delicious, right?
@@ -1526,7 +1526,7 @@ CN PLACEHOLDER
 うむ、めでたしめでたし
 Right, happily ever after...
 CN PLACEHOLDER
-Точно, и умерли в один день
+Точно, и жили долго и счастливо
 
 黙って見ている
 Watch silently
@@ -1541,7 +1541,7 @@ CN PLACEHOLDER
 武「うむ、めでたしめでたし」%K%P
 Right, happily ever after...
 CN PLACEHOLDER
-Точно, и умерли в один день...
+Точно, и жили долго и счастливо.
 
 と、俺も拍手をした。%K%P
 I applauded with them.
@@ -1686,7 +1686,7 @@ CN PLACEHOLDER
 優「望んで願い、努力を怠らなければ、それは叶うという、そのことを言い表しているのよ」%K%P
 Shows that if you hope and ask and persevere, your wish will come true.
 CN PLACEHOLDER
-Показывает, что если ты надеешься и упорно чего-то добиваешься, твоё желание сбудется.
+Она показывает, что если ты веришь и упорно чего-то добиваешься, твоё желание сбудется.
 
 優「魂込めて作った彫像を本気で愛し、いつか言葉を返してくれると信じたからこそ、ピグマリオンの願いは叶ったんだから」%K%P
 His longing was answered because he put his heart into his sculpture and then loved her, believing that she would speak to him one day...
@@ -1726,27 +1726,29 @@ CN PLACEHOLDER
 優「プラシーボ効果というのは、それとちょっと意味合いが違ってて――」%K%P
 It's not quite the same as the placebo effect.
 CN PLACEHOLDER
-Конечно, это не совсем то же, что и эффект плацебо...»%K%P„Плацебо“?%K%PКажется, я где-то читал об этом... Нечто вроде лекарства-пустышки, что приписывают больным для успокоения...%K%P
+Конечно, это не совсем то же, что и эффект плацебо...
 
 優「どちらにせよ、そうであると信じることが重要になるのであって――」%K%P
 But both of them involve believing in something.
 CN PLACEHOLDER
-Но оба они основаны на вере во что бы то ни было...
+Но суть в том, что главное – верить во что-то...
 
 優「つまり、私達のサバイバリティにも関係しているわけであり――」%K%P
 So they both have to do with our chances of survival.
 CN PLACEHOLDER
-А значит косвенно относятся и к нашим шансам на выживание.
+В общем, это напрямую связано и с нашими шансами на выживание.
 
 優「寿司桶に入ってるバランがビニール製だからと言って、その寿司が安物だと言い切ることはできないはずなのよっ！」%K%P
 Just because the sushi in the display case is made of plastic doesn't mean the sushi inside is cheap!
 CN PLACEHOLDER
-То есть, если блюдо на витрине сделано из папье-маше и ваты, это вовсе не значит, что настоящее стоит дёшево!
+Нельзя говорить, что набор суши должен стоить дешевле лишь потому, что внутри используется пластиковый разделитель, а не из бамбука!
+//Иначе говоря, если блюдо на витрине сделано из папье-маше и ваты, это вовсе не значит, что настоящее стоит дёшево!
+//совершенно не понимаю эту аналогию, если в ней вообще есть смысл
 
 少年「おおーっ……！」%K%P
 Whoa!?
 CN PLACEHOLDER
-Ого?!
+Ого!
 
 ココ「なるほどぉーっ……！」%K%P
 Wow...

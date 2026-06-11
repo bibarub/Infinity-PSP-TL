@@ -856,7 +856,7 @@ CN PLACEHOLDER
 すぐに扉を閉め、下降を開始する。%K%P
 The doors shut quickly, and it started going down.
 CN PLACEHOLDER
-Двери быстро закрылись и лифт начал опускаться.
+Двери быстро закрылись, и лифт начал опускаться.
 
 （ＥＩを使わなければ、あいつはここに上がってこられない……）%K%P
 (If she doesn't use Ei, she can't get up here...)

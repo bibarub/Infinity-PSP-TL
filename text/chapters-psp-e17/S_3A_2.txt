@@ -216,7 +216,7 @@ CN PLACEHOLDER
 昨日聞いたコンピューター関連のことといい、やっぱり沙羅は、ぼくらとちょっと違う次元の人種なのかもしれない。%K%P
 That and the information from the day before about Sara's computer skills made me think that she might be on a different level than the rest of us.
 CN PLACEHOLDER
-Зная о том, что в компьютерах она отнюдь не чайник, может, Сара и впрямь гораздо более мозговитая, чем мы все вместе взятые.
+Зная о том, что в компьютерах она отнюдь не чайник, может, Сара и впрямь гораздо более мозговитая, чем все мы вместе взятые.
 
 沙羅「別に……」%K%P
 It's no...
@@ -241,7 +241,7 @@ CN PLACEHOLDER
 武「でもよ、学校は同じって言っても、学年は違うわけだろ？」%K%P
 So you went to the same school but were in different classes?
 CN PLACEHOLDER
-То есть, вы ходили в одну и ту же школу, но были в разных классах?
+Получается, вы ходили в одну и ту же школу, но были в разных классах?
 
 武「ってことは、クラブか何かで一緒だったとか？」%K%P
 Were you on a team or in a club together or something?
@@ -536,7 +536,7 @@ CN PLACEHOLDER
 沙羅「なにしろ、なっきゅ先輩を入れて、たったの３人しか部員がいなかったでござるからなぁ」%K%P
 I mean, including Nakkyu-senpai, there were only three members.
 CN PLACEHOLDER
-То есть, включая Няку-сэмпай, там было всего трое человек.
+Включая Няку-сэмпай, там было всего три человека.
 
 武「だっはっは♪　そりゃ、ひでぇな」%K%P
 Hahaha! That's pretty grim.
@@ -916,7 +916,7 @@ CN PLACEHOLDER
 松永「ようするに、入れないって言ってるんですけど」%K%P
 I mean, there's no way I'll fit in here.
 CN PLACEHOLDER
-То есть, я вообще вряд ли здесь помещусь.
+Типа, мне вряд ли найдётся тут место.
 
 優「まあねぇ。なっはっは♪」%K%P
 I suppose not... Ahaha.

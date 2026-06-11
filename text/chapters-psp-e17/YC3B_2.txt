@@ -296,7 +296,7 @@ CN PLACEHOLDER
 もしかしたら、お花畑に飛んでいる蝶々さんを捕まえようとしているのかもしれない。%K%P
 He might have thought he was chasing butterflies over the flower garden.
 CN PLACEHOLDER
-Наверное гоняется за воображаемыми бабочками на воображаемой цветочной полянке.
+Наверное, гоняется за воображаемыми бабочками на воображаемой цветочной полянке.
 
 ぼくには、そんなふうに見えた。%K%P
 That was what it looked like to me.
@@ -1771,7 +1771,7 @@ CN PLACEHOLDER
 ココ「怒ってるかなぁ……」%K%P
 I wonder if she's angry...
 CN PLACEHOLDER
-Наверное она обиделась...
+Наверное, она обиделась...
 
 武「そんわけないだろ？」%K%P
 Don't be silly.
@@ -1871,7 +1871,7 @@ CN PLACEHOLDER
 ココの流したそれは、俺の肌に沁み渡り、体中を駆けめぐり、心の中に雨を降らせた。%K%P
 Coco's tears seeped through into my skin and into my core, like rain falling on my heart.
 CN PLACEHOLDER
-Её слёзы просочились через рубашку на кожу, а через кожу дождём пролились мне на сердце.
+Её слёзы просочились через кофту на кожу, а через кожу дождём пролились мне на сердце.
 
 冷たい雨だった。%K%P
 Cold rain.

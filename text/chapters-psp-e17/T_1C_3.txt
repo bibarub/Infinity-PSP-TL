@@ -131,12 +131,12 @@ CN PLACEHOLDER
 武「おいおい、大丈夫か？　言っとくがそれは俺のせいじゃあないぞ……」%K%P
 Hey, are you alright? Just so you know, that wasn't my doing...
 CN PLACEHOLDER
-Эй, ты в порядке? Что бы ты не думал, я тут ни при чём...
+Эй, ты в порядке? Просто к твоему сведению, я тут ни при чём...
 
 少年「コーラ……甘いね、これ……」%K%P
 This cola... it's sweet...
 CN PLACEHOLDER
-Эта кола... сладкая...
+Кола... Она сладкая...
 
 優「あーあもう、気をつけないと」%K%P
 Oh, guys! You should be more careful.
@@ -151,7 +151,7 @@ CN PLACEHOLDER
 優「その缶、ＬｅＭＵの特殊ガスの気圧に合わせて、６気圧で封入してあるんだから」%K%P
 These cans contain special gas so that they can be used at six atmospheres.
 CN PLACEHOLDER
-Эти банки были запаяны при 6 атмосферах специально для нахождения в LeMU.
+Эти банки были запаяны при 6 атмосферах специально для реализации в LeMU.
 
 優「『缶飲料の持込・持ち帰りは厳禁です』って、入場するときに聞かなかったの？」%K%P
 Weren't you listening when they said that the bringing in and taking home of canned beverages was strictly prohibited?
@@ -446,7 +446,7 @@ CN PLACEHOLDER
 武「いや、なにか……他の病気なんじゃないかって……」%K%P
 I mean, well, you know... It might be something else...
 CN PLACEHOLDER
-То есть, ну, видите ли... это может быть нечто иное...
+Ну, знаете... может, это что-то ещё?
 
 武「なんとなく、そう思ったから……」%K%P
 You know, I just kinda thought...
@@ -611,7 +611,7 @@ CN PLACEHOLDER
 武「はぁ、はぁ……着いたか。……よし、上にあがるぞ」%K%P
 Whew! We made it. Let's get her up there.
 CN PLACEHOLDER
-Фух... Мы пришли. Теперь давайте её поднимем.
+Фух... Мы на месте. Давайте её поднимем.
 
 空「いえ、倉成さん。そのまま、そこにある部屋に入ってください」%K%P
 No, Kuranari-san. Please go ahead into that room there.
@@ -681,7 +681,7 @@ CN PLACEHOLDER
 空「それが、今私達にできる最も適切な処置ではないかと……」%K%P
 This seems to me to be the most appropriate treatment at the moment.
 CN PLACEHOLDER
-На данный момент это лучшее, что мы можешь сделать.
+На данный момент это лучшее, что мы можем сделать.
 
 優「ココをそこに寝かせてあげて」%K%P
 Just let her sleep there.
@@ -781,7 +781,7 @@ CN PLACEHOLDER
 武「つまり、缶コーラが破裂しないようにしてやるわけか……」%K%P
 So basically, you make us like a can of cola that won't blow up...
 CN PLACEHOLDER
-То есть, как банка с колой, которая не должна взорваться...
+Прям как банка с колой, которая не должна взорваться...
 
 空「ええ、その通りです」%K%P
 Yes, precisely.
@@ -821,7 +821,7 @@ CN PLACEHOLDER
 優「ねぇ、倉成も部屋に入ったほうがいいんじゃない？」%K%P
 Hey, Kuranari, don't you think you should probably go in the room too?
 CN PLACEHOLDER
-Слушай, Куранари, может, тебе тоже стоит прилечь в этой комнате?
+Слушай, Куранари, может, тебе тоже стоит остаться в этой комнате?
 
 優「軽い減圧症は、すぐに自覚症状が現れるわけじゃないの。ひと晩ふた晩経ってから痛み出すこともあるのよ」%K%P
 In light cases of decompression sickness, you aren't necessarily aware of it immediately.
@@ -1036,7 +1036,7 @@ CN PLACEHOLDER
 つぐみは俺や優の制止を振り切って、どこかに駆けて行った。%K%P
 Tsugumi ignored You and me and went off somewhere.
 CN PLACEHOLDER
-Цугуми проигнорировала Ю и меня. А затем ушла.
+Цугуми проигнорировала нас с Ю. А затем ушла.
 
 空は『小町さんはこのフロアのどこかにいます、安全です』と言っていたが……%K%P
 Sora had reported to us that she was somewhere on the floor and safe...
@@ -1321,7 +1321,7 @@ CN PLACEHOLDER
 武「はぁ、はぁ……着いたか。……よし、上にあがるぞ」%K%P
 Whew! We made it. Let's get her up there.
 CN PLACEHOLDER
-Фух... Мы пришли. Теперь давайте её поднимем.
+Фух... Мы на месте. Давайте её поднимем.
 
 空「いえ、倉成さん。そのまま、そこにある部屋に入ってください」%K%P
 No, Kuranari-san. Please go ahead into that room there.
@@ -1436,7 +1436,7 @@ CN PLACEHOLDER
 武「つまり、缶コーラが破裂しないようにしてやるわけか……」%K%P
 So basically, you make us like a can of cola that won't blow up...
 CN PLACEHOLDER
-То есть, как банка с колой, которая не должна взорваться...
+Прям как банка с колой, которая не должна взорваться...
 
 空「ええ、その通りです」%K%P
 Yes, precisely.
@@ -1476,7 +1476,7 @@ CN PLACEHOLDER
 優「ねぇ、倉成も部屋に入ったほうがいいんじゃない？」%K%P
 Hey, Kuranari, don't you think you should probably go in the room too?
 CN PLACEHOLDER
-Слушай, Куранари, может, тебе тоже стоит прилечь в этой комнате?
+Слушай, Куранари, может, тебе тоже стоит остаться в этой комнате?
 
 優「軽い減圧症は、すぐに自覚症状が現れるわけじゃないの。ひと晩ふた晩経ってから痛み出すこともあるのよ」%K%P
 In light cases of decompression sickness, you aren't necessarily aware of it immediately.
@@ -1641,7 +1641,7 @@ CN PLACEHOLDER
 つぐみ「急に……行くところができたのよ」%K%P
 There... is a place that I just realized I need to go to.
 CN PLACEHOLDER
-Есть... место, куда мне мне надо сходить.
+Есть... место, куда мне надо сходить.
 
 武「だからどこだよそれは。それより今は治療をっ」%K%P
 Where? Treatment is more urgent than that.
@@ -1686,7 +1686,7 @@ CN PLACEHOLDER
 つぐみは俺や優の制止を振り切って、どこかに駆けて行った。%K%P
 Tsugumi ignored You and me and went off somewhere.
 CN PLACEHOLDER
-Цугуми проигнорировала Ю и меня. А затем ушла.
+Цугуми проигнорировала нас с Ю. А затем ушла.
 
 空は『小町さんはこのフロアのどこかにいます、安全です』と言っていたが……%K%P
 Sora had reported to us that she was somewhere on the floor and safe...

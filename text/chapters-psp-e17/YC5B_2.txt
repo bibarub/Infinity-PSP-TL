@@ -141,7 +141,7 @@ CN PLACEHOLDER
 少年「じゃあ、あれは……あれは……」%K%P
 So are you telling me that...
 CN PLACEHOLDER
-То есть ты хочешь сказать...
+Так ты хочешь сказать...
 
 少年「２００２年７月１９日じゃなくて……」%K%P
 That wasn't July 19th, 2002...
@@ -1421,7 +1421,7 @@ CN PLACEHOLDER
 たった数センチだったのかもしれない、そのときのふたりは……。%K%O
 They might have only been only a centimeter big at that time...
 CN PLACEHOLDER
-Тогда они наверное были не больше стручка гороха...
+Тогда они, наверное, были не больше стручка гороха...
 
 しかし、ふたつの胎児の存在は、それらを覆い包む母親の肉体さえ凌駕して……%K%N
 But the survival of the two babies outstripped the needs of the mother's body that surrounded them...
@@ -2981,7 +2981,7 @@ CN PLACEHOLDER
 いや、覚えているというよりも……『見ることができる』と言った方が的確かも知れない。%K%P
 No, rather than remembering, it was better to say that I could see it.
 CN PLACEHOLDER
-Хотя наверное стоит сказать «я это увидел», а не «вспомнил».
+Хотя, наверное, стоит сказать «я это увидел», а не «вспомнил».
 
 とにかく、ぼくは彼女に逢った。%K%P
 Anyway, I saw her.
@@ -2996,7 +2996,7 @@ CN PLACEHOLDER
 つまり彼女の正体は、優美清春香菜だったということだ。%K%P
 Meaning she was actually Yubiseiharukana.
 CN PLACEHOLDER
-То есть, в действительности это Юбисэйхарукана.
+Значит, в действительности она Юбисэйхарукана.
 
 優美清春香菜と優美清秋香菜は、常識的な範疇から逸脱した繋がりではあるが、それでもやはりふたりの関係は、親子であるとしか言いようがない。%K%P
 Although their relationship defied the norm, Yubiseiharukana and Yubiseiakikana were still mother and daughter.

@@ -351,7 +351,7 @@ CN PLACEHOLDER
 優「去り際に、お酒が飲みたいとかなんとか言ってたから、どこかで一杯やってるかもね」%K%P
 When he left, he was saying something about wanting a drink. He might be having a beer or something.
 CN PLACEHOLDER
-Когда он уходил, то сказал, что хочет выпить. Кажется, он где-то раздобыл пиво.
+Когда он уходил, то сказал, что хочет выпить. Кажется, он где-то достал пиво.
 
 少年「え？　ＬｅＭＵにお酒なんか、あるの？」%K%P
 Huh? A beer in LeMU?
@@ -361,7 +361,7 @@ CN PLACEHOLDER
 『さあ？』といった感じで、肩をすくめる優。%K%P
 You shrugged as if to say “Who knows?”
 CN PLACEHOLDER
-Ю пожала плечами, словно говоря «А кто его знает?»
+Ю пожала плечами, словно говоря: «А кто его знает?»
 
 優「そう言うそっちは、どうだったの？　つぐみは？」%K%P
 What about you? How did things go with Tsugumi?
@@ -446,7 +446,7 @@ CN PLACEHOLDER
 優「そうみたいね」%K%P
 Looks like it.
 CN PLACEHOLDER
-Ага, кажется.
+Ага, вроде.
 
 少年「なにやってるんだろう？」%K%P
 I wonder what he's doing.
@@ -471,7 +471,7 @@ CN PLACEHOLDER
 優が言っていたように、晩酌している様子だった。%K%P
 As You had said, it looked like he was having a drink.
 CN PLACEHOLDER
-Как сказала Ю, наверное он пьёт в гордом одиночестве.
+Как сказала Ю, он пьёт.
 
 少年「本当にあったんだ……お酒」%K%P
 So there really is... beer here.
@@ -486,7 +486,7 @@ CN PLACEHOLDER
 店員か誰かがこっそり持ち込んでいたものを、運良く見つけたのかもしれない。%K%P
 Maybe it was something that an employee or someone had sneaked in.
 CN PLACEHOLDER
-Наверное кто-то из работников парка пронёс сюда пиво вместе с сосисками.
+Наверное, кто-то из работников киоска тайно пронёс его, а тому повезло найти бесхозную банку.
 
 今ひとつわからないのは、もう１本ビールがあること。%K%P
 What I didn't understand was why there was one more beer.
@@ -496,12 +496,12 @@ CN PLACEHOLDER
 いや、その缶が開封されたまま、武の隣に置いてあること、と言うべきか。%K%P
 Rather, why the can was opened and sitting next to Takeshi.
 CN PLACEHOLDER
-То есть, она открыта и стоит на скамейке рядом с Такэси.
+Она открыта и стоит на скамейке рядом с Такэси.
 
 （あれじゃ、気が抜けてしまうんじゃ……？）%K%P
 (It'll get flat if he leaves it like that...)
 CN PLACEHOLDER
-(Упаду и не встану, если он просто возьмёт и оставит её вот так...)
+(Разве оно так не выдохнется?..)
 
 もちろん、そこに他の人の姿はない。%K%P
 Of course, there was no one there.
@@ -521,12 +521,12 @@ CN PLACEHOLDER
 酔っぱらっているのだろうか？%K%P
 I wondered if he was drunk.
 CN PLACEHOLDER
-Наверное он пьян.
+Наверное, он пьян.
 
 それにしても、かなりアブナイ人に見えるのだが。%K%P
 He looked dangerous.
 CN PLACEHOLDER
-Люди в таком состоянии опасны, а этот фрукт – отнюдь не исключение.
+Он в таком состоянии может представлять угрозу.
 
 優「まったく……何やってんだか、あのアホは」%K%P
 Geez... What is that fool up to?
@@ -1351,15 +1351,15 @@ CN PLACEHOLDER
 優「うぅ〜〜〜、砂糖くさ〜い……」%K%P
 Yuck! This stinks like sugar...
 CN PLACEHOLDER
-Фу! Несёт как от сахара...
+Фу! Воняет сахаром...
 
 （コーヒー臭いの間違いだろ！？）%K%N
 (You mean it smells like coffee!)
 CN PLACEHOLDER
-(То есть, несёт как от кофе!)
+(Ты имела в виду «кофе»?!)
 
 ……というツッコミを、ぼくはやっとのことで我慢した。%K%P
 ...That was what I wanted to say, but I just barely held my tongue.
 CN PLACEHOLDER
-...уж было хотел сказать я, но решил держать язык за зубами.
+...Уж было хотел сказать я, но решил держать язык за зубами.
 

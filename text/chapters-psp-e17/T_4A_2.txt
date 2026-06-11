@@ -371,7 +371,7 @@ CN PLACEHOLDER
 空「それに、小町さんにも、田中さんにも……ココちゃんに、少年さん……皆さんに感謝しています」%K%P
 Komachi-san, Tanaka-san, Coco-chan, Kid-san... I am indebted to everyone.
 CN PLACEHOLDER
-То есть, Комати-сан, Танаку-сан... Коко-тян и Малой-сана... я перед вами в неоплатном долгу.
+Комати-сан, Танаку-сан... Коко-тян и Малой-сана... я перед вами в неоплатном долгу.
 
 武「感謝？」%K%P
 Indebted?
@@ -381,7 +381,7 @@ CN PLACEHOLDER
 空「私はここ数日で――」%K%P
 Lately, I have felt...
 CN PLACEHOLDER
-В последнее время, мне...
+В последнее время мне...
 
 空「人が生きるということに、改めて触れている気がしているんです」%K%P
 I feel like I've gained a new perspective on human life.
@@ -1296,7 +1296,7 @@ CN PLACEHOLDER
 俺はその暖かさを確かめようとした。%K%P
 I felt, trying to see if there was some sort of warm feeling.
 CN PLACEHOLDER
-Наверное я чисто машинально пытаюсь найти чувство тепла... там, где его нет.
+Наверное, я чисто машинально пытаюсь найти чувство тепла... там, где его нет.
 
 武「そうだな……俺の見解を言おう」%K%P
 Let's see... Let me tell you what I think.

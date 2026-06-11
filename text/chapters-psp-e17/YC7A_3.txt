@@ -1686,7 +1686,7 @@ CN PLACEHOLDER
 ＢＷ「でも、そんなことは……きっと無理で……」%K%P
 But it was probably... not possible...
 CN PLACEHOLDER
-Но наверное это было... Невозможно...
+Но, наверное, это было... невозможно...
 
 ココ「ふふっ……」%K%P
 Heehee...
@@ -2531,7 +2531,7 @@ CN PLACEHOLDER
 もしかしたら、今までだってずっとそうだったのかも知れない。%K%N
 We might have been that way ever since the beginning.
 CN PLACEHOLDER
-Наверное мы были в ней с самого начала.
+Наверное, мы были в ней с самого начала.
 
 ボクの考えていることはホクトの考えていることと同じで、ホクトの考えていることはボクの考えていることと同じで……。%K%N
 My thoughts were the same as Hokuto's, and Hokuto's thoughts were the same as mine...

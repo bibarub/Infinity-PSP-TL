@@ -2987,7 +2987,7 @@ CN PLACEHOLDER
 優「どうも、そんな感じでもなさそうだし……」%K%P
 But that doesn't seem to be the case...
 CN PLACEHOLDER
-Но непохоже, что причина в этом...
+Хотя, судя по всему, дело не в этом...
 
 優はぼくの髪に手をそえ、まぶしいぐらいの笑みを浮かべて見せた。%K%P
 You put her hand on my hair and gave me a smile so bright I almost needed sunglasses.
@@ -3087,12 +3087,12 @@ CN PLACEHOLDER
 優「当たり前でしょ？」%K%P
 It's pretty obvious, isn't it?
 CN PLACEHOLDER
-Это же очевидно.
+Разве не очевидно?
 
 優「それどころか、エルストボーデンだって、まだまだ先なんだから……」%K%P
 Not even. I mean, we haven't even hit Erster Boden, so we've still got a long way to go...
 CN PLACEHOLDER
-Ещё нет. То есть, мы даже не дошли до Эрсте Боден, так что впереди долгий путь...
+Ещё нет. Мы даже не дошли до Эрсте Боден, так что впереди долгий путь...
 
 少年「エルストボーデンって、水面下１階のことだっけ？」%K%P
 Erster Boden... Was that the first basement floor?

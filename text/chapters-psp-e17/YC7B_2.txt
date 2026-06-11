@@ -1555,7 +1555,7 @@ CN PLACEHOLDER
 優春「まず間違いなく父親の遺伝ね……うんうん……」%K%P
 It must come from your father's side of the family... Yeah...
 CN PLACEHOLDER
-Наверное это у вас семейное... по отцовской линии... точно...
+Наверное, это у вас семейное... по отцовской линии... точно...
 
 そんな小言が浮上するまで続いた。%K%P
 She kept picking on Hokuto until they reached the surface.
@@ -1660,7 +1660,7 @@ CN PLACEHOLDER
 武「じゃあ何か？　俺はこの歳で、二児の父親だってぇのか？」%K%P
 So are you telling me I'm the father of two children at my age?
 CN PLACEHOLDER
-То есть, что? У меня двое детей, в моём-то возрасте?!
+В смысле, что? У меня двое детей, в моём-то возрасте?!
 
 少年「そうだよ？」%K%P
 That's right.

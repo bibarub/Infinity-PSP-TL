@@ -495,7 +495,7 @@ CN PLACEHOLDER
 空「つまり、まとめると、こういうことになります」%K%P
 So, to sum up, it is like this...
 CN PLACEHOLDER
-То есть, подытоживая сказанное...
+Подводя итог, получается, что...
 
 空「このホログラムのカケラの画像は、ある特定の波長の光を使って撮影されたものであり」%K%P
 The image on this fragmented hologram was recorded using light that was a certain wavelength.
@@ -505,7 +505,7 @@ CN PLACEHOLDER
 空「この画像を見る為には、それとおなじ波長の光をあてなければならないということです」%K%P
 And in order to see the image, you must shine light of the same wavelength on it.
 CN PLACEHOLDER
-А чтобы его увидеть, необходимо спроецировать на неё свет с той же самой волновой длиной.
+А чтобы его увидеть, необходимо направить на неё свет с той же самой длиной волны.
 
 空「蛍光灯の光では見えません」%K%P
 It also cannot be seen under fluorescent light.

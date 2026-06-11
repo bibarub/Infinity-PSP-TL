@@ -608,7 +608,7 @@ CN PLACEHOLDER
 きっと、考える間もないくらい短い瞬間に……。%K%P
 He doubtlessly hadn't had any time to wonder, it had happened so fast...
 CN PLACEHOLDER
-Наверное он даже не почувствовал... всё произошло так быстро...
+Наверное, он даже не почувствовал... всё произошло так быстро...
 
 こいつの命は……絶えたのだ……。%K%P
 His life had been... extinguished...
@@ -1563,7 +1563,7 @@ CN PLACEHOLDER
 違うよ。ううん……たぶん、違うんだろうな。%K%P
 No. Ummm... I mean, probably not.
 CN PLACEHOLDER
-Нет. Эм-м... то есть, наверное, не та же самая.
+Нет. Эм-м... Наверное, не та же самая.
 
 もしかして……わかんないの？%K%P
 You mean... you aren't sure?

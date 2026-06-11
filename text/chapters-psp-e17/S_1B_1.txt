@@ -947,7 +947,7 @@ CN PLACEHOLDER
 武「つまり、行ってもムダってことだな？」%K%P
 So, even if we could make it there we'd be wasting our time?
 CN PLACEHOLDER
-То есть, пытаться пробраться туда бесполезно – только зря время потратим?
+Хочешь сказать, пытаться пробраться туда – бесполезно, только зря время потратим?
 
 空「そういうことです」%K%P
 That is correct.
@@ -1067,7 +1067,7 @@ CN PLACEHOLDER
 沙羅「当分の間、私達が中で過ごしていくぶんには問題ない、ってこと？」%K%P
 You mean the environment is suitable for us to stay here for a while?
 CN PLACEHOLDER
-То есть, окружающая среда позволяет нам оставаться здесь некоторое время?
+Значит, какое-то время мы можем не переживать?
 
 空「申し訳ありません、その通りです……」%K%P
 I'm sorry, but that is the current situation...
@@ -1737,7 +1737,7 @@ CN PLACEHOLDER
 武「記憶ってやつはさ、不思議なもんで、別のことを考えてるときに、ほわっと蘇ってきたりするもんだろ？」%K%P
 I mean, memory's a weird thing. Sometimes, when you're thinking about something entirely different, boom, you just remember.
 CN PLACEHOLDER
-То есть, странная штука эта память. Бывает, когда думаешь о чём-то совершенно отвлечённом, бах, и вспоминаешь.
+Ну, странная штука эта память. Бывает, когда думаешь о чём-то совершенно отвлечённом, бах, и вспоминаешь.
 
 武「例えば……芸能人とかで、顔はわかるのに、名前がどうしても思い出せないとき、とかな」%K%P
 Like with celebrities... You know their face, but you just can't remember their name...
@@ -2779,7 +2779,7 @@ CN PLACEHOLDER
 少年「で？　なんの話してたの？　今」%K%P
 So? What were you talking about? I mean just now.
 CN PLACEHOLDER
-Ну и? О чём это вы? То есть, что вы сейчас обсуждали?
+Ну и? О чём это вы? Вы что-то обсуждали?
 
 空「このような事態が発生した原因について……」%K%P
 The cause of the current situation...
@@ -3109,7 +3109,7 @@ CN PLACEHOLDER
 空「では、ペットボトルをへこまさないようにするには、どうすればいいと思いますか？」%K%P
 So to keep the bottle from being compressed, what do you have to do?
 CN PLACEHOLDER
-То есть, чтобы предотвратить деформацию бутылки, что необходимо сделать?
+Так и что тогда надо сделать, чтобы предотвратить её деформацию?
 
 少年「う〜んと、そうだなぁ……」%K%P
 Oh, I see...

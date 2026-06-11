@@ -356,7 +356,7 @@ CN PLACEHOLDER
 少年「収穫ゼロってこと？」%K%P
 So it was a big zero?
 CN PLACEHOLDER
-То есть, продули всухую?
+Значит, продули всухую?
 
 優「ゼロかどうかはわからないけど、１じゃないことだけは確かでしょう」%K%P
 I don't know if it was a zero. But we sure didn't hit a home run.
@@ -591,7 +591,7 @@ CN PLACEHOLDER
 少年「えっ？　違うの？」%K%P
 No? You didn't?
 CN PLACEHOLDER
-Нет? То есть, тебе здесь не нравится?
+Нет? Тебе здесь не нравится?
 
 優「違うよ」%K%P
 No.
@@ -1336,7 +1336,7 @@ CN PLACEHOLDER
 空の背後にある、大画面のモニターに目を向けた。%K%P
 I turned my eyes to the massive monitor behind Sora.
 CN PLACEHOLDER
-Я повернул глаза в сторону массивного монитора, что находится за Сорой.
+Я отвёл взгляд в сторону массивного монитора, что находится за Сорой.
 
 そこには、ＬｅＭＵのツヴァイトとドリットの平面図が映し出されている。%K%P
 A flat map of LeMU's Zweiter Stock and Dritter Stock floors was displayed.
@@ -1499,7 +1499,7 @@ CN PLACEHOLDER
 少年「要するに、ＬｅＭＵの実権を握ってるのが、ライプリヒ製薬ってことになるのかな？」%K%P
 So essentially, I guess that Leiblich has the right to say whatever happens at LeMU.
 CN PLACEHOLDER
-То есть, Лейблих несёт полную ответственность за всё, что происходит в LeMU.
+Значит, Лейблих несёт полную ответственность за всё, что происходит в LeMU.
 
 空「そのように解釈していただいても、差し支えないと思われます」%K%P
 I suppose that is a reasonable interpretation.
@@ -1599,7 +1599,7 @@ CN PLACEHOLDER
 少年「そのライプリヒ製薬って会社、かなりＬｅＭＵと深い関係があるってことだね？」%K%P
 So Leiblich Pharmaceuticals has a pretty strong relationship with LeMU, then?
 CN PLACEHOLDER
-То есть, у Лейблих Фармасьютикалс и LeMU весьма тесные взаимосвязи?
+Выходит, у Лейблих Фармасьютикалс и LeMU весьма тесные взаимосвязи?
 
 空「…………」%K%P
 .........
@@ -2619,7 +2619,7 @@ CN PLACEHOLDER
 武「たぶん、１４、５歳ってとこじゃないかな」%K%P
 You're probably in the neighborhood of fourteen or fifteen.
 CN PLACEHOLDER
-Наверное тебе где-то 14 или 15.
+Наверное, тебе где-то 14 или 15.
 
 武「仮に１８歳だとしたら、かなりの童顔だ」%K%P
 If you're eighteen, then you've got a baby face.

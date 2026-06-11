@@ -461,7 +461,7 @@ CN PLACEHOLDER
 などと思いつつも、ちっとも不安を感じないのは気のせいだろうか？%K%P
 I wondered if I should have been more uneasy about my lost memory than I was.
 CN PLACEHOLDER
-Наверное мне стоит тревожиться о потерянных воспоминаниях сильнее, чем я думал.
+Наверное, мне стоит тревожиться о потерянных воспоминаниях сильнее, чем я думал.
 
 ひとまずぼくもコーラを飲もうと、缶を１本手にした。%K%P
 First, I thought I'd have a cola.
@@ -736,7 +736,7 @@ CN PLACEHOLDER
 サンドの包みは、空の履いているサンダルのシルエットに覆い被さり……%K%P
 The sandwich wrapper covered the silhouette of Sora's sandal...
 CN PLACEHOLDER
-Обёртка сэндвича накрыла силуэт сандали Соры...
+Обёртка сэндвича накрыла сверху сандалию Соры...
 
 完全に一体化して、溶け込んでいるようだった。%K%P
 It was as if the two had melded together.
@@ -916,7 +916,7 @@ CN PLACEHOLDER
 武「だっ、だから！　それはなんだよ！」%K%P
 So what!? What about it!?
 CN PLACEHOLDER
-И-и? О чём это ты?
+Ну и? Что дальше-то?!
 
 見渡すと、ぼく以外に驚いているのは武だけだった。%K%P
 Looking around, only Takeshi and I were surprised.
@@ -1046,7 +1046,7 @@ CN PLACEHOLDER
 優「ＬｅＭＵの自慢の出し物のひとつだからね」%K%P
 It's one of LeMU's big attractions.
 CN PLACEHOLDER
-Это один из больших аттракционов LeMU.
+Это один из интереснейших аттракционов LeMU.
 
 沙羅「だから空は、停電の間、いなくなっちゃってたんだ？」%K%P
 So that's why Sora disappeared during the blackout?
@@ -1091,7 +1091,7 @@ CN PLACEHOLDER
 ぼくは深く頷く。%K%P
 I nodded.
 CN PLACEHOLDER
-Я сделал глубокий кивок.
+Я глубоко кивнул.
 
 本当は、ちっとも理解なんてできていなかったのだが……。%K%P
 I had no clue what she was talking about...
@@ -1101,7 +1101,7 @@ CN PLACEHOLDER
 だけどそれは、ぼくに記憶がないせいかもしれない。%K%P
 But I thought it might have been because I had no memory.
 CN PLACEHOLDER
-Но наверное это потому, что я просто потерял память.
+Но, наверное, это потому, что я просто потерял память.
 
 今ここで質問を重ねると、話がこじれてしまうような気がした。%K%P
 It also seemed that any more questions would stall the conversation.
@@ -1726,12 +1726,12 @@ CN PLACEHOLDER
 空「少年さんは、さっきおっしゃいましたよね？　私が何者であっても、私は私なんです」%K%P
 What did you just say... I'm Sora. So I am what I am.
 CN PLACEHOLDER
-То, что ты только что сказал... я Сора. Я та, кто я есть.
+Насчёт того, что ты только что сказал... Я Сора. Я такая, какая есть.
 
 空「例え、私の根元に関わるようなことをお話しするとしても……それは私自身を知ってもらうことに他ならないのです」%K%P
 For example, by explaining about what I am... it is a way for you to better understand me.
 CN PLACEHOLDER
-То есть, рассказав о том, что я... я помогу тебе лучше меня понять.
+Если я начну говорить о том, что лежит в моей основе... это всего лишь поможет тебе понять меня лучше.
 
 少年「…………」%K%P
 .........
@@ -1901,7 +1901,7 @@ CN PLACEHOLDER
 少年「網膜？　ぼくの目玉に？」%K%P
 Retina? You mean my eye?
 CN PLACEHOLDER
-Сетчатка? То есть, на мой глаз?
+Сетчатка? В смысле на мой глаз?
 
 空「はい」%K%P
 Yes.
@@ -2161,7 +2161,7 @@ CN PLACEHOLDER
 空「ですから、少年さんが動いても、私は同じ場所に立っているように見えます」%K%P
 So that even if you move, I still appear in the same place.
 CN PLACEHOLDER
-То есть, даже если ты движешься, я по-прежнему буду в том же самом месте.
+Иначе говоря, даже если ты движешься, я по-прежнему буду в том же самом месте.
 
 空「そう見えるような画像を、レミがスキャン（走査）している、ということです」%K%P
 This means that LeMMIH scans the image onto your eye in this way.
@@ -2321,7 +2321,7 @@ CN PLACEHOLDER
 少年「そのレーザーが届かない場所では、空の姿は見えないってことなの？」%K%P
 So if I was in a place that the laser couldn't reach, then I couldn't see you?
 CN PLACEHOLDER
-А есть ли здесь такое место, куда его луч просто не может добраться? То есть, где я не смогу тебя увидеть?
+А есть ли здесь такое место, куда его луч просто не может добраться? Ну, где я не смогу тебя увидеть?
 
 空「勿論そうです。ですが……」%K%P
 Of course not. But...
@@ -2381,7 +2381,7 @@ CN PLACEHOLDER
 空「例えば、ここにいる５人全員が、いっせいにまぶたを閉じたりしたら……」%K%P
 For example, if the five of you here all closed your eyes at once...
 CN PLACEHOLDER
-Например, если каждый из вас одновременно закроет глаза...
+Например, если вы все вместе одновременно закроете глаза...
 
 空「その瞬間、私の姿はどこにも存在しなくなってしまうのです」%K%P
 At that moment, I would cease to exist.
@@ -2626,7 +2626,7 @@ CN PLACEHOLDER
 空「例えば、ここにいる５人全員が、いっせいにまぶたを閉じたりしたら……」%K%P
 For example, if the five of you here all closed your eyes at once...
 CN PLACEHOLDER
-Например, если каждый из вас одновременно закроет глаза...
+Например, если вы все вместе одновременно закроете глаза...
 
 空「その瞬間、私の姿はどこにも存在しなくなってしまうのです」%K%P
 At that moment, I would cease to exist.
@@ -3001,7 +3001,7 @@ CN PLACEHOLDER
 はにかむように、空はきゅっとクチビルを結んだ。%K%P
 Sora pinched her lips closed as if she was slightly embarrassed.
 CN PLACEHOLDER
-Сора прижала губы на лице так, словно сильно смущена.
+Сора сжала губы так, словно сильно смущена.
 
 空「ところで少年さん……」%K%P
 By the way, Kid-san...

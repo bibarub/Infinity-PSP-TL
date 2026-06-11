@@ -26,7 +26,7 @@ CN PLACEHOLDER
 空「このフロアは下と違って、各種センサースキャンの機能が正常に動くようです。フロアそのものの安全性も比較的確保されています」%K%P
 Unlike the floor below, all of the scanning sensors on this floor seem to be functioning normally. This floor appears safer as well.
 CN PLACEHOLDER
-В отличие от этажа ниже, на данном этаже все сканирующие сенсоры функционируют нормально. Этот этаж также безопасен.
+В отличие от этажа ниже, здесь все сканирующие сенсоры функционируют нормально. Этот этаж также безопасен.
 
 空「あっ……小町さんは確かに、このフロアにいます……エレベーター付近を歩いているようです」%K%P
 Oh, Komachi-san is on this floor... She seems to be walking in the vicinity of the elevator.
@@ -256,7 +256,7 @@ CN PLACEHOLDER
 武「ちょっぴりブルっちゃったぞっ！」%K%P
 You surprised the heck out of me!
 CN PLACEHOLDER
-Ты меня чертовски напугала!
+Ты меня напугала до чёртиков!
 
 俺は拳をわなわなと振るわせた。%K%P
 I shook my fist at her.
@@ -351,7 +351,7 @@ CN PLACEHOLDER
 優「テーマパークであると同時に、クローズド・スペースプラントのテストモデルの側面も、このＬｅＭＵは持ってるの」%K%P
 While LeMU is a theme park, it's also a closed-cycle plant and a test case for self-sufficient power generation.
 CN PLACEHOLDER
-LeMU – не просто тематический парк, но ещё и тестовая модель завода для  выработки электроэнергии с закрытым производственным циклом.
+LeMU – не просто тематический парк, но ещё и тестовая модель завода для выработки электроэнергии с закрытым производственным циклом.
 //LeMU – не просто тематический парк, но и одновременно завод с закрытым производственным циклом, поэтому здесь востребована собственная электроэнергия.
 
 優「――以上、新人マニュアルからの受け売りでしたぁ」%K%P
@@ -468,7 +468,7 @@ CN PLACEHOLDER
 武「強いんだな……気が滅入りそうな状況だってのに」%K%P
 You're tough... I mean, this situation is so depressing, and it doesn't seem to faze you.
 CN PLACEHOLDER
-Ты сильная... В смысле, ситуация не из лёгких, но непохоже, что она тебя смущает.
+Ты сильная... В смысле ситуация не из лёгких, но не похоже, что она тебя смущает.
 
 優「そんなんじゃないよ。さっきも言ったでしょ？　暗いほうがいいの？」%K%P
 No, I'm really not. It's just easier. I said it earlier, didn't I? Would you rather I get depressed?
@@ -1368,7 +1368,7 @@ CN PLACEHOLDER
 壁のモニターに一斉にウィンドウが開いて、閉じた。%K%P
 All of the windows in the wall monitors opened and closed.
 CN PLACEHOLDER
-Окошки во всех мониторах разом открылись и закрылись.
+Окошки на всех мониторах разом открылись и закрылись.
 
 空「くくっ倉成さん、いつの間にいらしたんですか？」%K%P
 Ku-Kuranari-san... when did you get here?
@@ -1740,7 +1740,7 @@ CN PLACEHOLDER
 武「ああ……俺達が乗ってた奴か」%K%P
 Oh... that's the one we rode down in?
 CN PLACEHOLDER
-А-а... это тот самый, из которого мы выбрались?
+А-а... Это тот самый, из которого мы выбрались?
 
 つぐみ「私達が脱出した時のまま、あそこにあるの」%K%P
 It's still there from when we escaped.
@@ -1955,7 +1955,7 @@ CN PLACEHOLDER
 武「あまりにも、でき過ぎてるって言うか……」%K%P
 Like everything is just too neat...
 CN PLACEHOLDER
-Уж выходит всё шибко гладко...
+Выходит всё уж шибко гладко...
 
 つぐみ「…………」%K%P
 .........
@@ -2065,7 +2065,7 @@ CN PLACEHOLDER
 武「じゃあ、つぐみは？」%K%P
 Well, what about you then, Tsugumi?
 CN PLACEHOLDER
-Тогда как же ты, Цугуми?
+А как же ты, Цугуми?
 
 つぐみ「私は……」%K%P
 I...
@@ -2242,7 +2242,7 @@ CN PLACEHOLDER
 ここはテーマパークとはいえ、深い海中にある特殊な施設だ。%K%P
 While the place was a theme park, it was also deep in the ocean and had other facilities.
 CN PLACEHOLDER
-Несмотря на то, что это тематический парк, он ведь посреди океана, и поэтому имеет отделы на все случаи жизни.
+Несмотря на то, что это тематический парк, он ведь посреди океана, что довольно уникально. Потому имеет прочие отделы.
 
 ＬｅＭＵでは外界と気圧の違う混合ガスを使っていたし、人の体質によってはたぶん、それだけで具合が悪くなることもある……。%K%P
 LeMU's atmosphere was maintained using a mix of gases at an air pressure different from the outside world. It seemed that it could make some people feel ill...
@@ -2272,7 +2272,7 @@ CN PLACEHOLDER
 普通のベッドがふたつ、それから他に手術台らしきものがひとつある。%K%P
 There were two normal beds and one that looked like it was for surgery.
 CN PLACEHOLDER
-Рядышком стоят две обычные кровати и одна, похожая на операционный стол.
+Рядом стоят две обычные кровати и одна, похожая на операционный стол.
 
 それには、大型の機械が取り付けられていた。%K%P
 There was also a huge machine attached to one of them.
@@ -2297,7 +2297,7 @@ CN PLACEHOLDER
 館内で病人や怪我人が出た場合、すぐに外に搬送することができない為、ここで応急処置程度はこなせるようにしてあるのだろう。%K%P
 It was probably in case somebody fell ill or got injured here. It wouldn't be possible to move anyone outside, so they would have to be treated on-site.
 CN PLACEHOLDER
-Видимо, он тут на случай, если кто-то плохо себя почувствует или поранится. Они же не могут моментально вытащить кого бы то ни было наружу, поэтому и лечат прямо на месте.
+Видимо, он тут на случай, если кто-то плохо себя почувствует или поранится. Ведь нет возможности моментально вытащить кого-либо наружу, потому и лечат прямо на месте.
 
 ？？「うん、そうだね。きっともう、出られないよ」%K%P
 Yeah. I don't think there's any way out now.
@@ -2372,7 +2372,7 @@ CN PLACEHOLDER
 慎重に部屋の奥へと進む。%K%P
 I carefully crept toward the rear of the room.
 CN PLACEHOLDER
-Я осторожно пробрался в заднюю часть комнаты.
+Я осторожно пробрался в дальнюю часть комнаты.
 
 床に四角く切り抜かれた空間があることに気づいた。%K%P
 I noticed a squarish hole cut out of the floor.
@@ -2437,7 +2437,7 @@ CN PLACEHOLDER
 弾かれたように、ココは振り向いた。%K%P
 Coco jumped as if she had been stung.
 CN PLACEHOLDER
-Коко подпрыгнула так, словно её ужалили в одно место.
+Коко подпрыгнула как ужаленная.
 
 ベッドに腰かけている。特に異状は見られない、と思う……。%K%P
 She was sitting on the bed. Nothing looked out of the ordinary...
@@ -2562,7 +2562,7 @@ CN PLACEHOLDER
 武「それじゃ、『たけぴょん』ってのは、俺のことなわけね？」%K%P
 So you're calling me 'Takepyon'. Is that it?
 CN PLACEHOLDER
-Так теперь ты будешь меня называть „Такэпёном“, да?
+Так ты теперь будешь меня называть „Такэпёном“?
 
 ココ「うん」%K%P
 Yup.
@@ -2607,7 +2607,7 @@ CN PLACEHOLDER
 ココ「ぴょんぴょんたけぴょん、たけぴょんぴょん♪」%K%P
 Pyon, pyon, Takepyon〜
 CN PLACEHOLDER
-Пён-пён-Такэпён, Такэпён-пён.
+Пён-пён-Такэпён, Такэпён-пён!
 
 まぁ、いいか……。%K%P
 Whatever...
@@ -2649,7 +2649,7 @@ CN PLACEHOLDER
 ２分ほどだが、予定の時間を過ぎている。%K%P
 We were only two minutes late, but still, we were late.
 CN PLACEHOLDER
-Мы опаздываем всего на две минуты, но всё же опаздываем.
+Всего на пару минут, но всё же мы опаздываем.
 
 小走りで警備室へと向かった。%K%P
 I jogged toward the security office.

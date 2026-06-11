@@ -366,7 +366,7 @@ CN PLACEHOLDER
 沙羅「たぶん浸水のとき、厨房の冷蔵庫から流れてきたんだと思う」%K%P
 I guess it probably washed out from the kitchen fridge during the flood.
 CN PLACEHOLDER
-Наверное её смыло из холодильника на кухне во время затопления.
+Наверное, её смыло из холодильника на кухне во время затопления.
 
 少年「…………」%K%P
 .........
@@ -1766,7 +1766,7 @@ CN PLACEHOLDER
 少年「気のせいだって言うわけ？」%K%P
 You mean my mind is playing tricks on me?
 CN PLACEHOLDER
-То есть, хочешь сказать, у меня помутился рассудок?
+Хочешь сказать, у меня помутился рассудок?
 
 優「平たく言えばそうね」%K%P
 To be perfectly blunt, yes.
@@ -2006,7 +2006,7 @@ CN PLACEHOLDER
 優「つまり、幽霊とか超能力とかＵＦＯとか、そういうオカルトを信じ切っちゃって、あっちの世界に逝っちゃってる人いるでしょ？」%K%P
 I mean, there are those people that swear by ghosts, the supernatural, UFOs, and that occult stuff. They're completely loony.
 CN PLACEHOLDER
-То есть, все люди, что якобы видели призраков, сверхъестественные вещи, НЛО и прочую оккультную хрень – просто законченные психи.
+Те, кто якобы видел призраков, сверхъестественные вещи, НЛО и прочую оккультную хрень – просто полные психи.
 
 優「私の知識は、彼らをぎゃふんと言わせる為にあるの」%K%P
 My knowledge is so I can take them down when I meet them.
@@ -2331,7 +2331,7 @@ CN PLACEHOLDER
 優「だとしたらそれは、きっとシヴァ神みたいな神様の仕業ね」%K%P
 That would have to be the work of a god like Shiva.
 CN PLACEHOLDER
-Наверное того бога звали Шива.
+Наверное, того бога звали Шива.
 
 少年「シヴァ神？」%K%P
 Shiva?
@@ -2858,7 +2858,7 @@ CN PLACEHOLDER
 少年「盲腸とか、指の間の水掻きとかと同じってこと？」%K%P
 You mean like an appendix or the webbing between fingers?
 CN PLACEHOLDER
-То есть, как аппендикс или перепонки между пальцами?
+Как аппендикс или перепонки между пальцами?
 
 優「そう。そういうこと」%K%P
 That's exactly what I mean.

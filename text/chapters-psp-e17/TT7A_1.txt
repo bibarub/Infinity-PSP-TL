@@ -716,7 +716,7 @@ CN PLACEHOLDER
 それから、少し服のボタンを緩めて、胸元からチャミを取り出す。%K%P
 She undid a few of her buttons and let Chami out from her shirt.
 CN PLACEHOLDER
-Она расстегнула несколько пуговиц и выпустила Чами из рубашки.
+Она расстегнула несколько пуговиц и выпустила Чами из блузки.
 
 つぐみ「ずっとこんなとこに押し込めててごめんね、チャミ」%K%P
 I'm sorry for keeping you in there the whole time, Chami.
@@ -1356,7 +1356,7 @@ CN PLACEHOLDER
 そこにあるものを、ただ受け入れればいいのではないだろうか。%K%P
 Maybe all I had to do was accept what was there.
 CN PLACEHOLDER
-Наверное мне просто стоит смириться с этим.
+Наверное, мне просто стоит смириться с этим.
 
 武「生き続ける理由ってのは、つまり……」%K%P
 The reason we keep living, in other words...
@@ -1561,7 +1561,7 @@ CN PLACEHOLDER
 武「痛そうだなぁ」%K%P
 Looks painful.
 CN PLACEHOLDER
-Наверное это больно.
+Наверное, это больно.
 
 つぐみ「うん……痛かったら、武のせいだからね？」%K%P
 Well... if it hurts, it's your fault, Takeshi.
@@ -2976,7 +2976,7 @@ CN PLACEHOLDER
 武「ていうか、俺がお前に教わったのかもしれんなぁ〜」%K%P
 I mean, I think you were the one who taught me about it.
 CN PLACEHOLDER
-То есть, ты же сама ему меня и научила.
+Я ведь именно у тебя ему и научился.
 
 武「そりゃあ知ってるわな。すまんかった。はっはっは……」%K%P
 I guess you'd know that. Sorry. Hahaha...
@@ -3331,7 +3331,7 @@ CN PLACEHOLDER
 ただの意地かもしれないが……。%K%P
 Maybe it was just stubbornness...
 CN PLACEHOLDER
-Наверное это просто упрямство...
+Наверное, это просто упрямство...
 
 俺はそのまま、海の底へと沈んで行った。%K%P
 I was sinking to the bottom of the ocean.

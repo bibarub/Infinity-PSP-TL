@@ -66,7 +66,7 @@ CN PLACEHOLDER
 武「いざと言うときになって、頭が回転しなかったらヤバいだろ？」%K%P
 Our minds have to be sharp. We have to be ready for anything, right?
 CN PLACEHOLDER
-Спать необходимо. Иначе, как поддерживать разум в ясном состоянии? Мы должны быть готовы ко всему, ведь так?
+Спать необходимо. Иначе как поддерживать разум в ясном состоянии? Мы должны быть готовы ко всему, ведь так?
 
 優「じゃあ、今は回転してるんだ？」%K%P
 So your mind is sharp right now?
@@ -171,7 +171,7 @@ CN PLACEHOLDER
 あの狭苦しい再圧チャンバーでの加減圧は無事終了し、不調を訴える者も出なかった。%K%P
 We seemed to have passed through the decompression process without a hitch, as no one had any complaints.
 CN PLACEHOLDER
-Процесс рекомпрессии прошёл без сучка без задоринки... ну, по крайней мере никто не пожаловался.
+Процесс рекомпрессии прошёл гладко. Ну, по крайней мере никто не пожаловался.
 
 昨夜あんなに辛そうだったココも、今では……%K%P
 Even Coco, who had seemed to be having such a rough time, was...
@@ -221,7 +221,7 @@ CN PLACEHOLDER
 （何を怒ってるんだ、こいつ……？）%K%P
 (I wonder what she's peeved about...)
 CN PLACEHOLDER
-(И на что это она намекает?..)
+(И на что это она намекала?..)
 
 俺は速度を緩め、後ろを歩いていた少年と並んだ。%K%P
 I slowed down my pace to walk with the Kid.
@@ -306,7 +306,7 @@ CN PLACEHOLDER
 俺はシャツの裾でそれを拭おうとする。%K%P
 I tried to wipe it off with my shirt collar.
 CN PLACEHOLDER
-Я попробовал стереть её краем рубашки.
+Я попробовал стереть её краем кофты.
 
 だが、どうもうまく落ちない。%K%P
 But it wouldn't come off.
@@ -396,7 +396,7 @@ CN PLACEHOLDER
 優「ひょっとして、まだ寝ぼけてるとか？」%K%P
 You're probably still asleep.
 CN PLACEHOLDER
-Наверное ты всё ещё спишь на ходу.
+Наверное, ты всё ещё спишь на ходу.
 
 武「とぼけたってムダなんだよ、こんにゃろーっ」%K%P
 Don't play dumb with me, You!
@@ -431,7 +431,7 @@ CN PLACEHOLDER
 俺はさっき手のインクを拭いたシャツの裾を示した。%K%P
 I showed her my shirt collar where I had wiped the ink.
 CN PLACEHOLDER
-Я показал ей край рубашки, которым вытер краску.
+Я показал ей край кофты, которым вытер краску.
 
 優「う〜ん、どれどれ……」%K%P
 Hmmm, what...?
@@ -486,7 +486,7 @@ CN PLACEHOLDER
 優「一方に進めば、金運、仕事運、共に上々で、美しい女性とめぐり逢い、子宝にも恵まれ、幸せな家庭を築けるじゃろう」%K%P
 One path will put you on the road to riches, a good job, an encounter with a beautiful woman, and bless you with a strong home and offspring.
 CN PLACEHOLDER
-Один из путей ведёт тебя к богатству, хорошей работе, встрече с красивой женщиной, сулит надёжный дом и отпрысков.
+Один из путей ведёт тебя к богатству, хорошей работе, встрече с красивой женщиной, сулит надёжный дом и детишек.
 
 優「おまけに健康運も最高ときとる……」%K%P
 And you will be as healthy as possible...
@@ -616,7 +616,7 @@ CN PLACEHOLDER
 制御室の前にはつぐみがいた。%K%P
 Tsugumi was in front of the control room.
 CN PLACEHOLDER
-Мы наткнулись на Цугуми, что стоит прямо напротив Центра управления, облокотившись к стене.
+Мы наткнулись на Цугуми, что стоит прямо напротив Центра управления, прильнув к стене.
 
 壁に寄りかかり、腕を組んで顔をうつむけている。%K%p
 She was leaning against the wall with her arms folded and head down.
@@ -966,7 +966,7 @@ CN PLACEHOLDER
 空「圧力隔壁の耐久強度……その限界が、わかりました」%K%P
 I discovered the amount of pressure the bulkheads can withstand... I found their limits.
 CN PLACEHOLDER
-Я выяснила, давление какой силы может выдержать обшивка сооружения... я нашла предел.
+Я выяснила, давление какой силы может выдержать обшивка сооружения... Я рассчитала предел.
 
 そう言って、空は視線をコンソールの脇へと向けた。%K%P
 Saying that, Sora turned her eyes to the side of the console.
@@ -991,12 +991,12 @@ CN PLACEHOLDER
 空「ＬｅＭＵの壁のことです。外側の海水と内側の空間を隔てている部分」%K%P
 I mean LeMU's walls. The partitions between the outer seawater and the inner air.
 CN PLACEHOLDER
-Я имею в виду стены LeMU. То единственное, что отделяет нас от водной пучины.
+Я имею в виду стены LeMU. Ту часть, что отделяет внутреннее пространство от морской воды снаружи.
 
 少年「その限界がわかったって……どういうことなの？」%K%P
 What do you mean... when you say you found the limit?
 CN PLACEHOLDER
-Что ты имела в виду... когда сказала, что нашла предел?
+Что ты имела в виду... когда сказала, что рассчитала предел?
 
 空「昨日もお伝えしましたように、ＬｅＭＵは基本的に、飽和潜水仕様の設計をもとに建造された構造物です」%K%P
 Like I said yesterday, LeMU is a structure basically constructed on a saturation diving specification design.
@@ -1006,7 +1006,7 @@ CN PLACEHOLDER
 空「つまり、内部の気圧が、外部の水圧と同等か、それを上まわるような構造になっていた、ということです」%K%P
 In other words, the internal air pressure equals or is greater than the external water pressure.
 CN PLACEHOLDER
-То есть, давление воздуха внутри равно или больше, чем давление воды снаружи.
+Другими словами, давление воздуха внутри равно или больше, чем давление воды снаружи.
 
 空「しかし、今や館内の気圧は１気圧……」%K%P
 However, the complex's internal air pressure is currently at one atmosphere...
@@ -1021,7 +1021,7 @@ CN PLACEHOLDER
 優「ＬｅＭＵの外殻は、常に苛烈な水圧の力にさらされてるということになる」%K%P
 LeMU's outer shell is constantly being subjected to severe water pressure.
 CN PLACEHOLDER
-Внешняя оболочка LeMU постоянно компенсирует возросшее в несколько раз давление воды.
+Внешняя оболочка LeMU постоянно компенсирует огромное давление воды.
 
 空「はい」%K%P
 Correct.
@@ -1041,7 +1041,7 @@ CN PLACEHOLDER
 空「おっしゃる通りです」%K%P
 Well put, Tanaka-san.
 CN PLACEHOLDER
-Хорошо сказано, Ю.
+Совершенно верно.
 
 武「で……その限界って言うのは、いつ……？」%K%P
 So... when is this limit...?
@@ -1071,7 +1071,7 @@ CN PLACEHOLDER
 空「勿論、あくまでも推定ですから、誤差はありますが」%K%P
 Of course, it is only a calculation, and there is a margin of error.
 CN PLACEHOLDER
-Конечно, это лишь расчёт. Вероятна небольшая погрешность.
+Конечно, это лишь примерная оценка. Вероятна небольшая погрешность.
 
 つぐみ「誤差はどのぐらいなの？」%K%P
 What is the margin of error?
@@ -1111,7 +1111,7 @@ CN PLACEHOLDER
 今のところ目処は立っていないが……でも脱出の方法さえわかれば、５日もここにいることはなくなるだろう。%K%P
 We didn't have a schedule... but if we could find a way out, I didn't figure we'd be sticking around five days.
 CN PLACEHOLDER
-Нам нечем заняться... но, если мы сможем найти способ спастись, не думаю, что нам придётся торчать тут целых пять дней.
+Нам нечем заняться... Но если мы сможем найти способ спастись, не думаю, что нам придётся торчать тут целых пять дней.
 
 あるいはこちらから呼ばずとも、救助隊が俺達に気づいて、すぐに来てくれるかもしれない……。%K%P
 Even if we didn't call anyone, a rescue team might have been on its way anyway...
@@ -1136,7 +1136,7 @@ CN PLACEHOLDER
 ココ「５月７日午前４時３０分頃に、ＬｅＭＵはくしゃっとペッタンコになっちゃう」%K%P
 Does that mean at 4:30 a.m. on May 7th, LeMU will get squashed like a pancake?
 CN PLACEHOLDER
-То есть, 7 мая в 4:30 утра LeMU расплющит, как блин?
+То есть 7 мая в 4:30 утра LeMU расплющит как блинчик?
 
 ココ「もしかしたらそうなっちゃうのは、６日の午後４時半ぐらいかもしれないし、７日の午後４時半ぐらいかもしれない」%K%P
 But that might happen at around 4:30 p.m. on the 6th or at 4:30 p.m. on the 7th.
@@ -1146,7 +1146,7 @@ CN PLACEHOLDER
 ココ「ここまではＯＫだよねぇ？」%K%P
 Is that okay so far?
 CN PLACEHOLDER
-Это и правда случится нескоро?
+То есть пока всё не так плохо?
 
 空「ええ……」%K%P
 Yes...
@@ -1161,12 +1161,12 @@ CN PLACEHOLDER
 ココ「最低でも、６日の午後４時半ぐらいまでは、ＬｅＭＵはペッタンコにならない」%K%P
 I mean, at the worst, LeMU will last until 4:30 p.m. on May 6th.
 CN PLACEHOLDER
-То есть, в худшем случае с LeMU ничего не случится, пока не наступит вечер 6 мая.
+В худшем случае с LeMU ничего не случится, пока не наступит вечер 6 мая.
 
 ココ「だからぁ、それまでは全然大丈夫でぇ〜、心配することなんかないぴょろり〜ん♪」%K%P
 So we're fine until then. There's nothing to worry about. Hooray〜
 CN PLACEHOLDER
-То есть, пока нам не о чем волноваться. Ура!
+Получается, пока нам не о чем волноваться. Ура!
 
 ココ「ね？　そういうことでしょ？」%K%P
 Right? Is that what it means?

@@ -736,7 +736,7 @@ CN PLACEHOLDER
 制御室の前にはつぐみがいた。%K%P
 Tsugumi was in front of the control room.
 CN PLACEHOLDER
-Мы наткнулись на Цугуми, что стоит прямо напротив Центра управления, облокотившись к стене.
+Мы наткнулись на Цугуми, что стоит прямо напротив Центра управления, прильнув к стене.
 
 壁に寄りかかり、腕を組んで顔をうつむけている。%K%P
 She was leaning against the wall with her arms folded and head down.

@@ -206,7 +206,7 @@ CN PLACEHOLDER
 武「おじさーん、平日半額のサンドふたつおくれ！」%K%P
 Hey, buddy, I'll take two of the sandwiches that are half price on weekdays!
 CN PLACEHOLDER
-Эй, за прилавком! Я возьму парочку, что за полцены по выходным.
+Эй, за прилавком! Можно мне два сэндвича, что со скидкой по будням?
 
 武「……って、いないじゃねーか、オヤジ」%K%P
 ...Hey, wait, where'd the guy behind the counter go?
@@ -256,7 +256,7 @@ CN PLACEHOLDER
 女の子「……別に」%K%P
 ...Not really.
 CN PLACEHOLDER
-...Да нет.
+...Да без разницы.
 
 女の子「あなたのことは、どうでもいい」%K%P
 I can't say I particularly care about you.
@@ -766,7 +766,7 @@ CN PLACEHOLDER
 武「おいおい、どうしたんだ？　何がどう危ないんだ？　取り乱さないで、説明してくれ……」%K%P
 Hey, what are you talking about? What's so dangerous? Just calm down and explain what's going on...
 CN PLACEHOLDER
-Эй, эй... Что случилось? Что опасно? Успокойся. Объясни толком...
+Эй, эй... Что случилось? Что опасно? Успокойтесь. Объясните хоть что-то...
 
 係員「お客様、はやく……速やかな避難を……予想外の……トラブルが」%K%P
 Sir, you must evacuate right away... There have been... unexpected complications...
@@ -841,17 +841,17 @@ CN PLACEHOLDER
 すさまじい圧力と破壊力。%K%P
 The destructive force of the wave was staggering.
 CN PLACEHOLDER
-Сила воды и разрушений, что та чинит на своём пути, невероятна.
+Сила воды и разрушения, что та за собой оставляет, невероятны.
 
 迫り来るうねりが、すべてをなぎ倒していく。%K%P
 The approaching swell mowed down everything in its path.
 CN PLACEHOLDER
-Огромная масса из воды и металлопластика перемалывает внутренности помещения в кашу.
+Сильнейший поток просто сметает всё на своём пути.
 
 床に残っていたパンフレットの残骸も、誰かのポシェットも、順路案内の看板も、何もかもが飲まれていく。%K%P
 It swirled and swallowed debris on the floor, someone's dropped purse, a floor guide for the facility... anything and everything it encountered.
 CN PLACEHOLDER
-Она отрывает и проглатывает обломки на полу, чей-то забытый кошелёк, стенд со схемой этажа – всё, чего успевает коснуться.
+Обрывки буклетов, что валялись на полу, чья-то сумочка, указатели – он поглощал всё, что ему попадётся.
 
 （あの水は、時速何キロくらいなんだろう……？）%K%P
 (How fast is that water moving...?)

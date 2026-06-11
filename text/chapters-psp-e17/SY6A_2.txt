@@ -251,7 +251,7 @@ CN PLACEHOLDER
 優「だったら、今夜も、つきあわない？」%K%P
 In that case, will you hang out with me tonight?
 CN PLACEHOLDER
-В таком случае, ты не против прогуляться со мной сегодня ночью?
+В таком случае ты не против прогуляться со мной сегодня ночью?
 
 少年「ああ、いいよ」%K%P
 Uh, sure.

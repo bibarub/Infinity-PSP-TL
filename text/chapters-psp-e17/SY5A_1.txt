@@ -596,7 +596,7 @@ CN PLACEHOLDER
 少年「つまり、今まで優がお母さんだと思ってた人は、本当のお母さんではなく……」%K%P
 I mean the person that you thought was your mom up until now isn't your mom, but...
 CN PLACEHOLDER
-То есть, человек, которого ты считала своей мамой...
+Ну, человек, которого ты считала своей мамой...
 
 優「育ての親？」%K%P
 A foster parent?
@@ -866,7 +866,7 @@ CN PLACEHOLDER
 少年「優はどこかで、たぶん記憶も定かじゃないぐらいの幼いときに、１５年後の未来へとタイムスリップしたんだ」%K%P
 Somewhere along the line, maybe when you were small, before you can even remember, I'll bet you jumped fifteen years into the future.
 CN PLACEHOLDER
-Когда-то давно, наверное когда ты была настолько маленькой, что и не помнишь. Голову даю на отсечение, что ты перепрыгнула на 15 лет в будущее.
+Когда-то давно, наверное, когда ты была настолько маленькой, что и не помнишь. Голову даю на отсечение, что ты перепрыгнула на 15 лет в будущее.
 
 少年「優が生まれた本当の年は、今から３３年前……」%K%P
 You were probably really born 33 years ago...

@@ -51,7 +51,7 @@ CN PLACEHOLDER
 少年「だって、ぼくは男だし、沙羅は女なんだから……」%K%P
 I mean, I'm a guy, and Sara's a girl...
 CN PLACEHOLDER
-То есть, я мальчик, а Сара – девочка...
+Типа, я мальчик, а Сара – девочка...
 
 優「どうして、当たり前なの？」%K%P
 So?
@@ -61,7 +61,7 @@ CN PLACEHOLDER
 少年「一卵性の双子って言うのは、ひとつの卵子にひとつの精子が結合して、それが途中でふたつに分かれてできるものなんだ」%K%P
 Monozygotic is when one egg is fertilized, and then that embryo splits into two.
 CN PLACEHOLDER
-Есть близнецы монозиготные. Это когда оплодотворяется одна яйцеклетка, а затем эмбрион делится на два.
+Есть близнецы однояйцевые. Это когда оплодотворяется одна яйцеклетка, а затем эмбрион делится на два.
 
 少年「もともとひとつだったわけだから、遺伝子も同じものを持ってるわけで……当然、性別も一緒になるし、顔もそっくりになる」%K%P
 So both twins have the exact same genetic makeup... That's why they're called identical, because they look the same. And of course they're the same gender.
@@ -546,7 +546,7 @@ CN PLACEHOLDER
 でも、気が済むまで泣いたせいか、その後の優はだいぶ落ち着きを取り戻したみたいだった。%K%P
 Maybe she had cried herself out. Because, since then, she had seemed much calmer.
 CN PLACEHOLDER
-Наверное она выплакала все слёзы без остатка, потому что с той поры она казалась гораздо спокойней.
+Наверное, она выплакала все слёзы без остатка, потому что с той поры она казалась гораздо спокойней.
 
 そして、今の優は……%K%P
 But then...
@@ -751,7 +751,7 @@ CN PLACEHOLDER
 優「例えば、契約を交わすときとか、申請を出すときとか、試験のときとか、オマワリにパクられたときとか……」%K%P
 I mean, any time that you make a contract, or apply for something, take an exam, or get arrested...
 CN PLACEHOLDER
-То есть, для подписания любого контракта, для подписки на журнал, для учёбы и экзаменов, даже при аресте...
+Типа, для подписания любого контракта, для подписки на журнал, для учёбы и экзаменов, даже при аресте...
 
 優「なんだかんだ言っても、本人かどうかを確認するときには、名前ってものが一番重要視されるんだよ」%K%P
 Whatever you say, your name is the most important way to verify who you are.
@@ -986,12 +986,12 @@ CN PLACEHOLDER
 優「名前は、人間を識別する為の記号……本人かどうかを確認するときに、一番重要視されるもの……」%K%P
 A name is like an identification number for a person... It's what confirms who you are...
 CN PLACEHOLDER
-Имя – это как идентификационный номер для человека... он подтверждает то, кто ты есть...
+Имя – это как идентификационный номер для человека... Оно подтверждает то, кто ты есть...
 
 優「つまり、名前が間違ってたら、いくらパスワードが正しくっても認証は下りないってこと」%K%P
 So, if we had the name wrong, it wouldn't matter how perfectly we put the password in.
 CN PLACEHOLDER
-То есть, если мы написали его неправильно, то не важно, насколько правильным был пароль.
+Так, если мы написали его неправильно, то не важно, насколько правильным был пароль.
 
 『アクセス不可／名前またはパスワードが違います』%K%P
 “Access denied. Invalid name or password.”

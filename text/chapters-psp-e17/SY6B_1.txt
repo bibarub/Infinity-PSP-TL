@@ -306,7 +306,7 @@ CN PLACEHOLDER
 少年「うん、優とは何度も遺跡に足を運んだけど、あの場所に行くと本当に過去にタイムスリップしたような……」%K%P
 Yeah. I mean, I've been there with you several times, but every time I go there I feel like I've traveled back through time...
 CN PLACEHOLDER
-Да. То есть, я был там с тобой несколько раз, но каждый раз как я приходил туда, казалось, словно я возвращаюсь в далёкое прошлое...
+Да. Я был там с тобой несколько раз, но каждый раз, как я приходил туда, казалось, словно я возвращаюсь в прошлое...
 
 少年「……あっ」%K%P
 ...Oh.
@@ -1053,7 +1053,7 @@ CN PLACEHOLDER
 少年「要するに、第３視点を獲得することによって、４次元的な情報を入手することができるようになるわけだ」%K%P
 So basically, if you're able to gain the third eye, then you have enough information to experience four dimensions.
 CN PLACEHOLDER
-То есть, по существу, если завладеть третьим глазом, то можно получить достаточно сведений о четырёх измерениях.
+Короче говоря, если завладеть третьим глазом, то можно получить достаточно сведений о четырёх измерениях.
 
 優「そう、空間＋時間」%K%P
 Yup. It's space plus time.
@@ -1128,7 +1128,7 @@ CN PLACEHOLDER
 優「だって全然説得力ないもん」%K%P
 I mean, there's no evidence.
 CN PLACEHOLDER
-То есть, это ничем не подтверждается.
+Это ничем не подтверждается.
 
 優「どうして少年は、いきなり第３視点を開眼することになったの？」%K%P
 Why would your third eye suddenly open?

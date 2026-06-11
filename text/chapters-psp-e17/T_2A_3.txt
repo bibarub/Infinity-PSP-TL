@@ -31,7 +31,7 @@ CN PLACEHOLDER
 あとは、ＬｅＭＵに接続されているロックを開放すれば、自然と『卵』は沈んで行くはずだ。%K%P
 All we had to do was release the lock connecting us to LeMU, and the “egg” would sink away.
 CN PLACEHOLDER
-Осталось лишь открыть замок, соединяющий «яйцо» с сооружением.
+Осталось лишь разблокировать замок, соединяющий «яйцо» с сооружением.
 
 つぐみは、扉の脇に付いていた作動レバーを引いた。%K%P
 Tsugumi pulled the operating lever next to the door.
@@ -76,7 +76,7 @@ CN PLACEHOLDER
 つぐみは平然と言うと、持ち込んでおいた工具箱を開いた。%K%P
 Tsugumi calmly opened up the toolbox she had brought with her.
 CN PLACEHOLDER
-Цугуми со спокойствием открыла коробку с инструментами, которую притащила с собой.
+Цугуми спокойно открыла ящик с инструментами, который притащила с собой.
 
 中には、電動式のドライバーや油圧式の切断機、レーザーか何かの溶接機みたいなものや小型のガスバーナーなど……%K%P
 Inside were things like an electric screwdriver, hydraulic cutting machine, some kind of laser or welding device, a small gas burner...
@@ -206,7 +206,7 @@ CN PLACEHOLDER
 武「お前、絶対頭おかしいだろ！？」%K%P
 You're crazy, right!?
 CN PLACEHOLDER
-Ты спятила, так?!
+Ты совсем спятила?!
 
 武「いや、おかしくなっちゃったんだ、こんなとこに閉じ込められたもんだから！」%K%P
 Yeah, being cooped up in here's made you crazy!
@@ -261,7 +261,7 @@ CN PLACEHOLDER
 こんな頭の変な女に、これ以上付き合ってはいられない。%K%P
 I didn't want to be around that crazy woman anymore.
 CN PLACEHOLDER
-Я больше не могу находится рядом с этой чокнутой.
+Я больше не могу находиться рядом с этой чокнутой.
 
 さりげなーく、水密扉のハンドルに手を伸ばす俺……。%K%P
 I discreetly reached for the handle of the watertight door...
@@ -306,7 +306,7 @@ CN PLACEHOLDER
 武「よ、よーしっ、上等じゃねーか！」%K%P
 F-Fine, have it your way!
 CN PLACEHOLDER
-Х-хорошо, будь по твоему!
+Х-хорошо, будь по-твоему!
 
 武「こうなったら最後の最後まで、たとえ地の底水の底！　徹底的に付き合ってやらぁ！！」%K%P
 I'll go along with you to the end! Even if we sink to the bottom of the ocean!
@@ -326,7 +326,7 @@ CN PLACEHOLDER
 昨日、風呂入れなかったし……。%K%P
 I'd missed bathing the day before...
 CN PLACEHOLDER
-Я жалею, что не помылся днём ранее...
+Вчера я так и не смог помыться...
 
 俺は水流へと頭を向け、シャカシャカと髪をかきむしった。%K%P
 I dunked my head under the inflowing water and mussed up my hair.
@@ -356,7 +356,7 @@ CN PLACEHOLDER
 武「――ってやってる場合かよ、俺！」%K%P
 ...Er, what the heck am I doing?
 CN PLACEHOLDER
-Э-э... что это я делаю?
+Э-э... чем я вообще занимаюсь?
 
 つぐみ「…………」%K%P
 .........
@@ -376,7 +376,7 @@ CN PLACEHOLDER
 ガクンッ！　――大きな揺れと共に、卵が動き出した。%K%P
 Boom! The egg elevator took a big jolt and started to move.
 CN PLACEHOLDER
-Бух! Лифт пошатнулся и стал двигаться.
+Бух! Лифт пошатнулся и пришёл в движение.
 
 ゆっくりとゆっくりと、潜行を始める『ＥＩ』……。%K%P
 Ei began to descend ever so slowly...
@@ -421,7 +421,7 @@ CN PLACEHOLDER
 足が浮く……。つま先立ち……。%K%P
 My legs were floating... I was on my toes...
 CN PLACEHOLDER
-Я не достаю ногами до дна... о боже...
+Я не достаю ногами до дна... Еле стою на цыпочках...
 
 床を思い切り蹴り上げて、天井の細いへりにつかまった。%K%P
 I kicked off the floor with all my power and seized an edge of the ceiling.
@@ -581,7 +581,7 @@ CN PLACEHOLDER
 『ひーらーけーーーーーーーっ！！！』%K%P
 Ooppppppeeeeeeeen!!!
 CN PLACEHOLDER
-«Открыва-а-а-айся-я-я-я!!!»
+«Открыва-а-а-айся!!!»
 
 二重扉が開く。%K%P
 The double-ply door opened.
@@ -666,7 +666,7 @@ CN PLACEHOLDER
 つぐみはうつむいたまま、少し咳き込んでいた。%K%P
 Tsugumi was coughing a little, looking down.
 CN PLACEHOLDER
-Цугуми откашливаясь, опустила лицо.
+Цугуми, откашливаясь, опустила лицо.
 
 こちらに顔を向けようとしない。%K%P
 She didn't try to look at me.
@@ -686,7 +686,7 @@ CN PLACEHOLDER
 （こいつは他人との協調性を、うっかりどこかに置き忘れて来てしまっただけなんじゃないだろうか……？）%K%P
 (Maybe she just isn't a “people person” and has a hard time getting along with others...)
 CN PLACEHOLDER
-(Может, она просто не «публичный человек» и очень тяжело идёт на контакт...)
+(Может, она просто где-то потеряла способность уживаться с другими людьми и тяжело идёт на контакт...)
 
 孤立無援の、脆い存在……。%K%P
 She seemed fragile and lonely...
@@ -826,17 +826,17 @@ CN PLACEHOLDER
 武「んなこと言ったって、実際俺が扉を開かなかったら、今ごろふたりとも、卵の中で溺れ死んでたかもしれないんだぞ？」%K%P
 Yeah, but if I hadn't opened up that door, the chances are you and I would both be floating drowned in that egg.
 CN PLACEHOLDER
-Допустим, но если бы я не открыл дверь, мы имели все шансы плавать дохлыми в этом треклятом яйце.
+Допустим, но, если бы я не открыл дверь, скорее всего мы бы уже плавали дохлыми в этом яйце.
 
 つぐみ「あなたに助けられるくらいなら、死んだほうがまだよかった」%K%P
 If I have to be saved by you, then I'd rather die.
 CN PLACEHOLDER
-Если мне посчастливится быть спасённой тобой, тогда лучше умереть.
+Уж лучше сдохнуть, чем быть спасённой тобой.
 
 武「あっ、そうですか……」%K%P
 Oh reeeallly...
 CN PLACEHOLDER
-Ох, неуже-е-ели...
+Да неуже-е-ели...
 
 （ったく、素直じゃないな、ほんとに……）%K%P
 (Geez... Why can't this girl ever be honest with people?)
@@ -861,12 +861,12 @@ CN PLACEHOLDER
 問い返しながら、つぐみは俺を追い抜き前に出た。%K%P
 As she fired another short question at me, Tsugumi passed me again.
 CN PLACEHOLDER
-Она снова выстрелила в меня коротким вопросом и прошла вперёд.
+Она снова стрельнула в меня коротким вопросом и прошла вперёд.
 
 武「２階で『卵』に乗る前に言った言葉だよ」%K%P
 What you said before we got in the 'egg' on the second floor.
 CN PLACEHOLDER
-То, что ты сказала перед тем, как мы сели в лифт на втором этаже.
+Ну, ты сказала, как мы сели в лифт на втором этаже.
 
 武「『あなたのことが、どうしても……どうしてもどうしても必要なの〜ん！』」%K%P
 'I really... really need you!'
@@ -876,7 +876,7 @@ CN PLACEHOLDER
 武「目、うるうるさせちゃってさ、俺に懇願してたじゃないか」%K%P
 Your eyes were watery. You were begging me, right?
 CN PLACEHOLDER
-Даже глаза были влажные. Ты умоляла меня, так ведь?
+И глаза были на мокром месте. Ты ведь умоляла меня?
 
 つぐみ「ええ、したわ」%K%P
 Yes. I did.
@@ -1071,7 +1071,7 @@ CN PLACEHOLDER
 武「あっ！」%K%P
 Oh!
 CN PLACEHOLDER
-Ох!
+О!
 
 角を曲がったとき、俺はようやく気がついた。%K%P
 Turning the corner, it finally hit me.
@@ -1081,7 +1081,7 @@ CN PLACEHOLDER
 武「なるほどね……そういうことですかぁ……」%K%P
 I see... So that's what you meant...
 CN PLACEHOLDER
-Ясненько... Вот значит что...
+Ясно... Вот, значит, что...
 
 武「お前から誘って来るなんて、おかしいと思ったんだ」%K%P
 I thought it was weird, you inviting me along.
@@ -1096,12 +1096,12 @@ CN PLACEHOLDER
 武「あの卵を３階まで沈めるには、その総重量が浮力を上まわらなければならない」%K%P
 To sink that egg elevator to the third floor, its total weight had to be greater than the force of the buoyancy.
 CN PLACEHOLDER
-Чтобы утопить тот лифт-яйцо до третьего этажа, его суммарный вес должен был быть больше, чем сила выталкивания.
+Чтобы утопить тот лифт-яйцо до третьего этажа, его суммарный вес должен был быть больше, чем выталкивающая сила.
 
 武「つぐみみたいに体重の軽い女の子が、たったひとりあの中に乗っただけでは、重さが足りなかった」%K%P
 So just one skinny girl like you wasn't going to be enough weight.
 CN PLACEHOLDER
-То есть, одна тощая девушка вроде тебя весит слишком мало.
+В таком случае одна худая девушка вроде тебя весит слишком мало.
 
 つぐみ「そう」%K%P
 Right.
@@ -1136,7 +1136,7 @@ CN PLACEHOLDER
 『ウツケモノォ〜！？』――と反論する間もなく目的地に着いてしまったようだ。%K%P
 As I was thinking of a comeback to “rock head”, we arrived at our destination.
 CN PLACEHOLDER
-Пока я думал, как отомстить за «твердолобого», мы добрались до места назначения.
+Пока я думал, как ответить на «твердолобого», мы добрались до места назначения.
 
 黄色と黒のストライプがぼんやりと見える。%K%P
 Dim yellow and black stripes appeared ahead.
@@ -1231,7 +1231,7 @@ CN PLACEHOLDER
 武「危険？　この、部屋の中がか？」%K%P
 Dangerous? Inside this room?
 CN PLACEHOLDER
-Опасно? Там внутри?
+Опасно? Там, внутри?
 
 つぐみは頷くと、俺の腕からそっと手を放した。%K%P
 Tsugumi nodded and gently removed her hand from my arm.
@@ -1281,7 +1281,7 @@ CN PLACEHOLDER
 つぐみ「とても高い温度の水蒸気が、中に充満してるんだと思う」%K%P
 I think it's just packed full of extremely hot steam.
 CN PLACEHOLDER
-Видимо, он очень горячий и его концентрация высока.
+Видимо, он очень горячий, и его концентрация высока.
 
 武「…………」%K%P
 .........

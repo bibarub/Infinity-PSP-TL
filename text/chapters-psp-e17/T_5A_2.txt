@@ -186,7 +186,7 @@ CN PLACEHOLDER
 目覚めると、シャツは寝汗でじっとりと濡れていた。%K%P
 When I woke, my shirt was soaked with sweat.
 CN PLACEHOLDER
-Я проснулся в холодном поту. Рубашку – хоть выжимай.
+Я проснулся в холодном поту. Кофту – хоть выжимай.
 
 気分の悪い寝覚めだった。%K%P
 What an awful way to start the day.
@@ -876,7 +876,7 @@ CN PLACEHOLDER
 つぐみ「その、つまり……チャミと一緒に……」%K%P
 You see, well... I was with Chami...
 CN PLACEHOLDER
-То есть, ну... Чами...
+Ну, сам знаешь... Чами...
 
 武「ああ、ハムスターな？」%K%P
 You mean your hamster?

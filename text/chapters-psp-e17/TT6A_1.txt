@@ -2188,7 +2188,7 @@ CN PLACEHOLDER
 つぐみ「本当は、関わり合いになりたくないと思っていたんでしょう？」%K%P
 You're probably thinking that you don't want anything more to do with me, right?
 CN PLACEHOLDER
-Наверное ты и знать меня больше не хочешь?
+Наверное, ты и знать меня больше не хочешь?
 
 優「そんな、そんなことないよ……！」%K%P
 I-I wouldn't think that...!

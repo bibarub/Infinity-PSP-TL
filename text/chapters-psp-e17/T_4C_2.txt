@@ -551,7 +551,7 @@ CN PLACEHOLDER
 武「……空に訊いてみるか」%K%P
 Maybe I should ask Sora.
 CN PLACEHOLDER
-Наверное стоит спросить Сору.
+Наверное, стоит спросить Сору.
 
 救護室の端末で呼び出しをかけてみる。%K%P
 I called Sora from the infirmary terminal.
@@ -2711,7 +2711,7 @@ CN PLACEHOLDER
 武「それ、本当にネズミか？　って言うか、なんでネズミが、そのネズミ――」%K%P
 Is that really a rat? I mean, what are you doing with that thing in the first place!?
 CN PLACEHOLDER
-Так это правда крыса? То есть, что ты с ним делаешь?!
+Так это правда крыса? Погоди, что ты с ней делаешь?!
 
 俺は面食らってしまった。%K%P
 I was taken aback.

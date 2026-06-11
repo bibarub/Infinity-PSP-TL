@@ -216,7 +216,7 @@ CN PLACEHOLDER
 空「小町さんの居所を、調べればいいんですね？」%K%P
 You want me to investigate the location of Komachi-san, then?
 CN PLACEHOLDER
-То есть, вы хотите, чтобы я вычислила текущее местоположение Комати-сан?
+Вы хотите, чтобы я вычислила текущее местоположение Комати-сан?
 
 空「少々お待ち下さい……」%K%P
 Please wait a moment...
@@ -286,7 +286,7 @@ CN PLACEHOLDER
 こっちは、たぶんこの制御室を示しているのだろう。%K%P
 I figured that was probably the control room.
 CN PLACEHOLDER
-Они находятся в Центре управления. То есть, это мы.
+Очевидно, это Центр управления.
 
 （……あ、あれっ？？？）%K%P
 (...Huh? What is...?)
@@ -506,7 +506,7 @@ CN PLACEHOLDER
 優「壊れてたんじゃないの？　センサーの誤動作なんて、よくあることでしょ？」%K%P
 It's probably broken or something.
 CN PLACEHOLDER
-Наверное просто барахлит. Сенсор мог сломаться, ведь правда же?
+Наверное, просто барахлит. Сенсор мог сломаться, ведь правда же?
 
 空「い、いえ……そんなはずは……」%K%P
 No... No, it shouldn't be...
@@ -1691,7 +1691,7 @@ CN PLACEHOLDER
 少年「こんなこと、って？」%K%P
 What do you mean by 'something like this'?
 CN PLACEHOLDER
-В смысле, „то, что здесь творится“?
+В смысле „то, что здесь творится“?
 
 つぐみ「だからすべてよ！　今ここで起きてること全部！」%K%P
 Everything! Everything that's happening here!
@@ -1701,7 +1701,7 @@ CN PLACEHOLDER
 少年「じゃあ、事故も偶然起きたわけじゃない、と？」%K%P
 So you're saying that the accident and all didn't happen by chance?
 CN PLACEHOLDER
-То есть, ты считаешь, что авария и всё остальное не было случайным?
+Хочешь сказать, что авария и всё остальное произошло не случайно?
 
 つぐみ「当たり前じゃない」%K%P
 Of course that's what I mean.
@@ -1711,7 +1711,7 @@ CN PLACEHOLDER
 武「誰かが仕組んだってことか？」%K%P
 You mean like somebody planned it?
 CN PLACEHOLDER
-Хочешь сказать, типа, кто-то это спланировал?
+То есть кто-то это спланировал?
 
 つぐみ「誰かじゃない。……あなた達が仕組んだの」%K%P
 Not somebody... YOU ALL did.
@@ -1761,7 +1761,7 @@ CN PLACEHOLDER
 優「少年は……年齢不詳だけど、私より年下なのは確かよね」%K%P
 Nobody knows the Kid's age... but he's definitely younger than me.
 CN PLACEHOLDER
-Никто не знает возраст Малого... но он определённо моложе меня.
+Никто не знает возраст Малого... но он определённо младше меня.
 
 優「この３人で、あんな大事故が起こせると思う？」%K%P
 You think the three of us could cause this kind of massive accident?
@@ -2366,7 +2366,7 @@ CN PLACEHOLDER
 空「ＬｅＭＵは水面下に３つの層を持っています」%K%P
 LeMU has three layers below the ocean's surface.
 CN PLACEHOLDER
-Под поверхностью океана расположено три слоя конструкции LeMU.
+Под поверхностью океана расположено три слоя конструкций LeMU.
 
 空「エルストボーデン、ツヴァイトシュトック、ドリットシュトック……」%K%P
 Erster Boden, Zweiter Stock, Dritter Stock...
@@ -2381,7 +2381,7 @@ CN PLACEHOLDER
 空「従って３階――ドリットシュトックは、水深５１ｍの位置に沈んでいることになりますね」%K%P
 Thus, the third floor, Dritter Stock, is 51 meters deep.
 CN PLACEHOLDER
-Данный, третий этаж, Дритте Шток, расположен на глубине в 51 метр.
+Данный, третий этаж, Дритте Шток, расположен на глубине 51 метр.
 
 暇を持て余したぼくは、制御室の空のもとを訪れていた。%K%P
 With all of that time on my hands, I visited Sora in the control room.
@@ -2601,7 +2601,7 @@ CN PLACEHOLDER
 少年「それなら……なんとか……」%K%P
 Well... somehow, I think I could...
 CN PLACEHOLDER
-Знаешь что... наверное я смогу...
+Знаешь что... наверное, я смогу...
 
 空「ええっ？　泳ぐんですよ？　歩いたり走ったりするわけではないんですよ？」%K%P
 What? You'd have to swim it, you know. This isn't walking or running.

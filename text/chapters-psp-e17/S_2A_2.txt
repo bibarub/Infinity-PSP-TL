@@ -81,7 +81,7 @@ CN PLACEHOLDER
 空「圧力隔壁の耐久強度……その限界が、わかりました」%K%P
 I discovered the amount of pressure the bulkheads can withstand... I found their limits.
 CN PLACEHOLDER
-Я выяснила, давление какой силы может выдержать обшивка сооружения... я нашла предел.
+Я выяснила, давление какой силы может выдержать обшивка сооружения... Я рассчитала предел.
 
 そう言って、空は視線をコンソールの脇へと向けた。%K%P
 Saying that, Sora turned her eyes to the side of the console.
@@ -101,12 +101,12 @@ CN PLACEHOLDER
 空「ＬｅＭＵの壁のことです。外側の海水と内側の空間を隔てている部分」%K%P
 I mean LeMU's walls. The partitions between the outer seawater and the inner air.
 CN PLACEHOLDER
-Я имею в виду стены LeMU. То единственное, что отделяет нас от водной пучины.
+Я имею в виду стены LeMU. Ту часть, что отделяет внутреннее пространство от морской воды снаружи.
 
 沙羅「その限界がわかったって……どういうことなの？」%K%P
 What do you mean... when you say you found the limit?
 CN PLACEHOLDER
-Что ты имела в виду... когда сказала, что нашла предел?
+Что ты имела в виду... когда сказала, что рассчитала предел?
 
 空「昨日もお伝えしましたように、ＬｅＭＵは基本的に、飽和潜水仕様の設計をもとに建造された構造物です」%K%P
 Like I said yesterday, LeMU is a structure basically constructed on a saturation diving specification design.
@@ -116,7 +116,7 @@ CN PLACEHOLDER
 空「つまり、内部の気圧が、外部の水圧と同等か、またはそれを上まわるような構造になっていた、ということです」%K%P
 In other words, the internal air pressure equals or is greater than the external water pressure.
 CN PLACEHOLDER
-То есть, давление воздуха внутри равно или больше, чем давление воды снаружи.
+Другими словами, давление воздуха внутри равно или больше, чем давление воды снаружи.
 
 空「しかし、今や館内の気圧は１気圧……」%K%P
 However, the complex's internal air pressure is currently at one atmosphere...
@@ -131,7 +131,7 @@ CN PLACEHOLDER
 優「ＬｅＭＵの外殻は、常に苛烈な水圧の力にさらされてるということになる」%K%P
 LeMU's outer shell is constantly being subjected to severe water pressure.
 CN PLACEHOLDER
-Внешняя оболочка LeMU постоянно компенсирует возросшее в несколько раз давление воды.
+Внешняя оболочка LeMU постоянно компенсирует огромное давление воды.
 
 空「はい」%K%P
 Correct.
@@ -196,7 +196,7 @@ CN PLACEHOLDER
 空「もちろん、あくまでも推定ですから、誤差はありますが」%K%P
 Of course, it is only a calculation, and there is a margin of error.
 CN PLACEHOLDER
-Конечно, это лишь расчёт. Вероятна небольшая погрешность.
+Конечно, это лишь примерная оценка. Вероятна небольшая погрешность.
 
 つぐみ「±１２時間程度……それが、誤差の範囲ね？」%K%P
 Plus or minus twelve hours... Is that the margin of error?
@@ -251,7 +251,7 @@ CN PLACEHOLDER
 少年「今、空が言ったことを整理すると、こういうことになるよねぇ？」%K%P
 Can I summarize what you said to make sure I got it?
 CN PLACEHOLDER
-Можно я уточню всё, что ты сказала, просто чтобы убедиться, что правильно понял?
+Я подытожу всё, что ты только что сказала?
 
 空「？」%K%P
 ?
@@ -286,7 +286,7 @@ CN PLACEHOLDER
 少年「最低でも、６日の午後４時半ぐらいまでは、ＬｅＭＵは充分持ちこたえることができる」%K%P
 I mean, at the worst, LeMU will last until 4:30 p.m. on May 6th.
 CN PLACEHOLDER
-То есть, в худшем случае с LeMU ничего не случится, пока не наступит вечер 6 мая.
+В худшем случае с LeMU ничего не случится, пока не наступит вечер 6 мая.
 
 少年「だから、それまでは全然大丈夫で、心配することなんかないんだ」%K%P
 So, until then, we have nothing to worry about.

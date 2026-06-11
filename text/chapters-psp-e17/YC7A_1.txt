@@ -1262,7 +1262,7 @@ CN PLACEHOLDER
 武「って言うか、俺がお前に教わったのかも知れんなぁ〜」%K%P
 I mean, I think you were the one that taught me about it.
 CN PLACEHOLDER
-То есть, ты же сама ему меня и научила.
+Я ведь именно у тебя ему и научился.
 
 武「そりゃあ知ってるわな。すまんかった。はっはっは……」%K%P
 I guess you'd know that. Sorry. Hahaha...
@@ -2373,7 +2373,7 @@ CN PLACEHOLDER
 優春「だって、あなたの本当の名前は、ホクトではないでしょ？」%K%P
 I mean, your real name isn't Hokuto, right?
 CN PLACEHOLDER
-То есть, на самом деле тебя зовут не Хокуто, правда?
+На самом деле тебя зовут не Хокуто, правда?
 
 少年「……ぼくは……ぼく……は……」%K%P
 ...I'm... I'm...

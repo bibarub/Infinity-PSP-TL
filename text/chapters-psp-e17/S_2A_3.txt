@@ -881,7 +881,7 @@ CN PLACEHOLDER
 制御室のどこかから、探し出して来たのだろう。%K%P
 I imagined she had gotten it somewhere in the control room.
 CN PLACEHOLDER
-Наверное она нашла его где-то в комнате.
+Наверное, она нашла его где-то в комнате.
 
 スイッチを入れる優……。%K%P
 You turned it on...
@@ -896,7 +896,7 @@ CN PLACEHOLDER
 懐中電灯を左右に振り、優が室内の隅々を照らす。%K%P
 You shined the flashlight left and right, lighting up all corners of the room.
 CN PLACEHOLDER
-Ю водит фонариком влево-вправо, просвечивая углы.
+Ю водит фонариком влево-вправо, подсвечивая углы.
 
 電気系統は完全に沈黙していた。%K%P
 The electrical system was completely down.
@@ -1601,7 +1601,7 @@ CN PLACEHOLDER
 制御室のどこかから、探し出して来たのだろう。%K%P
 I imagined she had gotten it somewhere in the control room.
 CN PLACEHOLDER
-Наверное она нашла его где-то в комнате.
+Наверное, она нашла его где-то в комнате.
 
 スイッチを入れる優……。%K%P
 You turned it on...
@@ -1616,7 +1616,7 @@ CN PLACEHOLDER
 懐中電灯を左右に振り、優が室内の隅々を照らす。%K%P
 You shined the flashlight left and right, lighting up all corners of the room.
 CN PLACEHOLDER
-Ю водит фонариком влево-вправо, просвечивая углы.
+Ю водит фонариком влево-вправо, подсвечивая углы.
 
 電気系統は完全に沈黙していた。%K%P
 The electrical system was completely down.

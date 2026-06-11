@@ -1121,7 +1121,7 @@ CN PLACEHOLDER
 武「２０歳の男を捕まえといて、パパっぽいとは聞き捨てならんぞ？　俺が老けてるって意味か？」%K%P
 You're telling me, after you trapped me into this, that a 20-year-old guy like me seems like the 'daddy type'? You telling me I look old?
 CN PLACEHOLDER
-То есть, ты говоришь мне после того, как втянула в эту нелепую ситуацию, что двадцатилетний парень вроде меня „кажется тебе папой“? Неужели я выгляжу таким старым?
+Погоди-погоди. Называть двадцатилетнего парня „папочкой“ – это уже чересчур. Ты что, хочешь сказать, что я выгляжу старым?
 
 ココ「ううん」%K%P
 Nope.
@@ -1166,7 +1166,7 @@ CN PLACEHOLDER
 俺のステータスは、危うく『混乱』へと陥りそうになった。%K%P
 I guess you could say I was too distracted to be angry with her.
 CN PLACEHOLDER
-Наверное я просто настолько растерялся, что даже не в состоянии злиться на неё.
+Наверное, я просто настолько растерялся, что даже не в состоянии злиться на неё.
 
 武「そう言えば……ココのお父さんって、今『しゅっちょーちゅー』なんだよな？」%K%P
 By the way... you said your dad is on a 'business trip' right now, didn't you?
@@ -1226,12 +1226,12 @@ CN PLACEHOLDER
 そう、ただなんとなく、なんとなく、だ。%K%P
 It was just a feeling, but...
 CN PLACEHOLDER
-Наверное мне просто так кажется, но...
+Наверное, мне просто так кажется, но...
 
 武「……じゃあ……心配だろ？　……お父さんのこと」%K%P
 Then... you must be worried, right...? I mean, about your dad.
 CN PLACEHOLDER
-Значит... ты волнуешься, верно?.. То есть, за своего отца.
+Значит... ты волнуешься, верно?.. Ну, за своего отца.
 
 俺はココに尋ねた。%K%P
 I asked Coco.
@@ -2206,7 +2206,7 @@ CN PLACEHOLDER
 どうやら、さっきの俺のひよこ姿を思い出したらしい。%K%P
 She was probably recalling my antics from earlier.
 CN PLACEHOLDER
-Наверное вспоминает мои недавние кривляния.
+Наверное, вспоминает мои недавние кривляния.
 
 嫌な予感がした。%K%P
 I had a bad feeling.

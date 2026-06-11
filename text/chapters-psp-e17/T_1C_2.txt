@@ -116,7 +116,7 @@ CN PLACEHOLDER
 空「ＬｅＭＵは水面下に３つの層を持っています」%K%P
 LeMU has three layers below the ocean's surface.
 CN PLACEHOLDER
-Под поверхностью океана расположено три слоя конструкции LeMU.
+Под поверхностью океана расположено три слоя конструкций LeMU.
 
 空「エルストボーデン、ツヴァイトシュトック、ドリットシュトック……」%K%P
 Erster Boden, Zweiter Stock, Dritter Stock...
@@ -131,7 +131,7 @@ CN PLACEHOLDER
 空「従って３階――ドリットシュトックは、水深５１ｍの位置に沈んでいることになりますね」%K%P
 Thus, the third floor, Dritter Stock, is 51 meters deep.
 CN PLACEHOLDER
-Данный, третий этаж, Дритте Шток, расположен на глубине в 51 метр.
+Данный, третий этаж, Дритте Шток, расположен на глубине 51 метр.
 
 空「ドリットの外は、約５気圧の水圧＋大気圧１気圧で、合計約６気圧の圧力がかかっています」%K%P
 Outside of Dritter is a total of six atmospheres of pressure—five atmospheres water pressure and one atmosphere air pressure.
@@ -306,7 +306,7 @@ CN PLACEHOLDER
 優「ねぇ、倉成は５０ｍの長さに敷いたふとんの上、何秒くらいで走れる？」%K%P
 Hey, Kuranari. How fast do you think you could run 50 meters on mattresses?
 CN PLACEHOLDER
-Слушай, Куранари. Как быстро ты сможешь пробежать 50 метров по матрасам?
+Слушай, Куранари. Как быстро ты сможешь пробежать 50 метров по футонам?
 
 優がいきなり尋ねた。%K%P
 You suddenly shot me the question.
@@ -316,7 +316,7 @@ CN PLACEHOLDER
 武「なんでふとんなんだよ」%K%P
 Why mattresses?
 CN PLACEHOLDER
-А при чём тут матрасы?
+А при чём тут футоны?
 
 優「いいから答えてよ」%K%P
 Because. Just answer the question.
@@ -331,7 +331,7 @@ CN PLACEHOLDER
 優「じゃあ、寝てる倉成の上に高さ５０ｍ、同じふとんが積み上がってたら？」%K%P
 So how about if the mattresses were piled on you?
 CN PLACEHOLDER
-А если матрасы положить на тебя?
+А если, предположим, пока ты спал, на тебя сверху положили стопку одинаковых футонов фусотой в 50 метров?
 
 武「……は？」%K%P
 ...Huh?
@@ -341,7 +341,7 @@ CN PLACEHOLDER
 優「全部どけるのに、何秒かかる？」%K%P
 How long would it take to get them off of you?
 CN PLACEHOLDER
-Сколько времени тебе понадобится, чтобы снять их?
+Сколько времени тебе понадобится, чтобы снять их с себя?
 
 武「そんなのわかんねーよ、やったことねーし」%K%P
 How would I know? I've never tried that.
@@ -351,22 +351,22 @@ CN PLACEHOLDER
 優「７秒でできる？」%K%P
 Think you could do it in seven seconds?
 CN PLACEHOLDER
-Думаешь, что справишься за семь секунд?
+Думаешь, справишься за семь секунд?
 
 武「んなもん、無理に決まってんだろっ！！」%K%P
 You know I couldn't!
 CN PLACEHOLDER
-Ну нет конечно!
+Ну нет, конечно!
 
 武「だいたい地べたを走るのと、乗っかった物体をどけるんじゃ要領が全然――」%K%P
 Running on something and taking them off of you are two different things.
 CN PLACEHOLDER
-Бежать по матрасам и снимать их с себя – две разные ве–
+Бежать по матрасам и снимать их с себя – две большие разни–
 
 俺はハッとした。%K%P
 I gasped.
 CN PLACEHOLDER
-Меня осенило.
+До меня дошло.
 
 武「……ああ、なるほど……」%K%P
 ...Oh, I get it...
@@ -596,7 +596,7 @@ CN PLACEHOLDER
 空「あ、何して遊んでるんです？　楽しそう……」%K%P
 Oh, what game are you playing? It looks fun...
 CN PLACEHOLDER
-Ой, во что это вы ребята играете? Выглядит забавно...
+Ой, во что это вы играете? Выглядит забавно...
 
 空が興味津々な感じで寄ってくる。%K%P
 Sora, who appeared taken with the game, also came over.
@@ -606,7 +606,7 @@ CN PLACEHOLDER
 武「犬対人間のにらめっこだよ」%K%P
 It's a staring contest, canine versus human.
 CN PLACEHOLDER
-Это конкурс гляделок – собака против человека.
+Это соревнование по гляделкам – собака против человека.
 
 空「まぁ、それは凄そうですね」%K%P
 Well, that seems pretty incredible.
@@ -621,7 +621,7 @@ CN PLACEHOLDER
 武「実際凄いんだ、ピピ……夢に見そうだ」%K%P
 Actually, Pipi is incredible... I think I'm gonna have nightmares about this.
 CN PLACEHOLDER
-Вообще-то, очевидное невероятное здесь – Пипи... теперь мне начнут сниться кошмары с его участием.
+Вообще, Пипи – просто нечто... Как бы он теперь не приснился мне в кошмарах.
 
 俺は身震いする。%K%P
 I shuddered.
@@ -716,7 +716,7 @@ CN PLACEHOLDER
 ココ「しぷりあーの・くりすぴん・くりすぴにあーの・で・ら・さんてぃしま・とりにだっど・るいす・い・ぴかそ！」%K%P
 Siburiano Critiano de la Santeshima Trinidado Luis Picasso!
 CN PLACEHOLDER
-Сибуриано Критиано де ла Сантешима Тринидадо Луис Пикассо!
+Сибуриано Критиано де ла Сантэсима Тринидадо Луис Пикассо!
 
 武「長ぇ〜〜〜よ！！　田中優美清春香菜より長いのは却下だ！」%K%P
 That's too long! Anything longer than Tanaka Yubiseiharukana is out!
@@ -741,7 +741,7 @@ CN PLACEHOLDER
 武「例の着ぐるみにちなんで貴様を『油揚げみゅー吾』と命名する！」%K%P
 In honor of the mascot, I name you 'Earl Myun of Hamburger'!
 CN PLACEHOLDER
-В честь талисмана я нарекаю тебя „Абурагэ Мюмунскэ“!
+В честь талисмана я нарекаю тебя „Абурагэ Мюмюнскэ“!
 
 武「例の着ぐるみにちなんで、貴様を『タヌ吉ポン太郎』と命名する！」%K%P
 In honor of the mascot, I name you 'John Raccoon Dog Smith'!
@@ -766,7 +766,7 @@ CN PLACEHOLDER
 空「そうですね、私もひとつ考えましょう。それでは……キワクさん、というのはいかがでしょうか？」%K%P
 Well, let's see. Why don't I think of one... How about Melos-san?
 CN PLACEHOLDER
-Так, посмотрим. Может... Может „Попа“? Что скажете?
+Так, посмотрим. Может... Может, „Попа-сан“? Что скажете?
 
 武「なんだ、キワクさんって」%K%P
 Why Melos?
@@ -801,7 +801,7 @@ CN PLACEHOLDER
 つぐみ「一時的な名前を適当につけたりしたら、彼が本名を思い出したときにいろいろ困るわよ」%K%P
 If we come up with some random name, it'll be a hassle when he remembers his real one.
 CN PLACEHOLDER
-Если мы запомним случайное имя, это будет катастрофа, когда он вспомнит настоящее.
+Если мы запомним случайное имя, это будет катастрофой, когда он вспомнит настоящее.
 
 つぐみ「少年なんだから……」%K%P
 He is a kid...
@@ -886,7 +886,7 @@ CN PLACEHOLDER
 空「ドリットシュトック第６区画、資材置き場付近から浸水中」%K%P
 Water has penetrated the material storage space in Sector Six of Dritter Stock.
 CN PLACEHOLDER
-Вода проникла на склад материалов в Секторе 6 Дритте Шток.
+В секторе 6 на Дритте Шток на склад материалов проникла вода.
 
 武「浸水中だって！？　さっきの見回りではそんな兆候は――」%K%P
 It's flooding? I didn't see any signs of that when I made the rounds...
@@ -1336,7 +1336,7 @@ CN PLACEHOLDER
 優「ＬｅＭＵの約半分は水の中、ってわけね」%K%P
 You mean nearly half of LeMU is underwater.
 CN PLACEHOLDER
-То есть, LeMU затопило уже наполовину.
+Так LeMU затопило уже наполовину.
 
 空「ドリットには水没していない区画が３箇所あります」%K%P
 There are three sectors in Dritter that are not flooded.
@@ -1421,7 +1421,7 @@ CN PLACEHOLDER
 つぐみ「つまり、行ってもムダってことね？」%K%P
 So even going there would be a waste?
 CN PLACEHOLDER
-То есть, пытаться пробраться туда бесполезно – только зря время потратим?
+Значит, пытаться пробраться туда – бесполезно?
 
 空「そういうことです」%K%P
 That is correct.

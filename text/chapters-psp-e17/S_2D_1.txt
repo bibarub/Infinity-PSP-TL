@@ -141,12 +141,12 @@ CN PLACEHOLDER
 優「身体動かさないと余計に疲れるのよね、私……」%K%P
 I've got to move around or I'll get tired...
 CN PLACEHOLDER
-Я устаю только сильнее, если не двигаюсь...
+Я только сильнее устаю, если не двигаюсь...
 
 沙羅「あっ！　拙者、いいこと思いついたでござるよ」%K%P
 Hey! I've got a great idea.
 CN PLACEHOLDER
-Точно! У меня здравая идея.
+Точно! У меня отличная идея.
 
 沙羅が手を挙げて立ち上がった。%K%P
 Sara raised her hand and stood.
@@ -636,7 +636,7 @@ CN PLACEHOLDER
 空「音が大きく聞こえれば、水のある通路を誰かが移動していればわかります。これなら、鬼の人が有利ですね」%K%P
 If sounds carry, then you can hear when someone moves across a corridor with water. That will give the person who is 'it' an advantage.
 CN PLACEHOLDER
-Если кто-то начнёт шуметь, шагая по воде, это увеличит водящему шансы на победу.
+Если кто-то начнёт шуметь, шагая по воде, это увеличит шансы водящего на победу.
 
 空「それから私も、移動中の場所がわかるようにします。足音を合成して、音声変換機に発振しますから……」%K%P
 And I will make it so that you know when people are moving. I will synthesize footsteps and play the sound on the voice converters.
@@ -721,7 +721,7 @@ CN PLACEHOLDER
 武「いーち、にー、さーん……」%K%P
 O-n-e, t-w-o, t-h-r-e-e...
 CN PLACEHOLDER
-Р-а-з, д-в-а, т-р-и...
+Раз, два, три...
 
 武が目を閉じて数え始めたのを合図に、ぼくらは会議室を飛び出した。%K%P
 As Takeshi started counting, we dashed out of the conference room.
@@ -1201,7 +1201,7 @@ CN PLACEHOLDER
 武「お前って『缶蹴り』のルールはちゃんと知ってるんだな」%K%P
 You sure know your kick the can rules.
 CN PLACEHOLDER
-А ты и впрямь хорошо знаешь правила этой игры.
+А ты и впрямь хорошо усвоил правила этой игры.
 
 ？？「とぉーーーっ！！」%K%P
 Whack!
@@ -1226,7 +1226,7 @@ CN PLACEHOLDER
 いきなり脇から走り込んできた優が、思い切り武にジャンピングクロスチョップをぶちかました。%K%P
 Suddenly, You came flying from the side and completely sideswiped Takeshi with a jumping cross-chop to the neck.
 CN PLACEHOLDER
-Ю вылетела из-за угла и хладнокровно врезала Такэси ударом в прыжке.
+Ю вылетела из-за угла и хладнокровно врезала Такэси в прыжке.
 
 武「ゴボゴボ……」%K%P
 *Gurgle*, *gurgle*...
@@ -1251,7 +1251,7 @@ CN PLACEHOLDER
 武「ゴボゴボ……ゴボゴボ……ぷっはぁーーーっ！！」%K%P
 *Cough*, *cough*... pwahh!
 CN PLACEHOLDER
-Кхе, кхе... пваах!
+Кхе, кхе... пва-ах!
 
 武は海水をはじいて、がばりと起き上がる。%K%P
 Floundering in the water, Takeshi stood up.
@@ -1376,7 +1376,7 @@ CN PLACEHOLDER
 すると部屋の反対側の入り口から、ぱしゃぱしゃと近づく足音……。%K%P
 As they were talking, the sound of splashing footsteps could be heard approaching the door...
 CN PLACEHOLDER
-Пока они говорили, я услышал звук шагов, приближающихся к двери...
+Пока они говорили, я услышал звук приближающихся к двери шагов...
 
 沙羅「しゅたたたた……只今参上！」%K%P
 Shweeen... I'm here!
@@ -2485,7 +2485,7 @@ CN PLACEHOLDER
 武「だからぁ！　蹴られたはずの缶が、こうやって立ってたんだって！」%K%P
 I mean that the can should have been kicked, but it was still standing up!
 CN PLACEHOLDER
-То есть, банка должна валяться на полу, но она стоит там, где стояла!
+Ну, банка должна валяться на полу, но она стоит там, где стояла!
 
 缶をゲシゲシ踏みながら、武は言った。%K%P
 Takeshi said that as he squished the can some more.
@@ -3085,7 +3085,7 @@ CN PLACEHOLDER
 （っていうか、それ、隠れてるって言えるの？）%K%P
 (I mean, can you really call that hiding?)
 CN PLACEHOLDER
-(То есть, неужели кто-то правда посчитал, что так он спрятался?)
+(Неужели кто-то правда посчитал, что так его не видно?)
 
 ぼくは、その『へばりついている誰か』に呼びかけた。%K%P
 I called out to that clinging “something”.

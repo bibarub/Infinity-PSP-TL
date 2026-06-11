@@ -2086,7 +2086,7 @@ CN PLACEHOLDER
 まさかとは思ったが、念の為尋ねてみる。%K%P
 I didn't think it was possible, but I asked anyway.
 CN PLACEHOLDER
-Наверное это невозможно, но я всё же решил уточнить.
+Наверное, это невозможно, но я всё же решил уточнить.
 
 沙羅「もちろんピンピンしてるよ」%K%P
 She's fine, of course!
@@ -2691,7 +2691,7 @@ CN PLACEHOLDER
 沙羅「ある日突然、鏡の中に救いようのないヘチャムクレな顔が映ってたとしたら、確かに私だって卒倒しちゃうと思うけどさぁ」%K%P
 I mean, if you looked into the mirror and were suddenly hopelessly ugly, even I would faint, but...
 CN PLACEHOLDER
-То есть, если бы человек посмотрел в зеркало и увидел, что безнадёжно уродлив, даже я бы на его месте грохнулась в обморок, но...
+Типа, если бы человек посмотрел в зеркало и увидел, что безнадёжно уродлив, даже я бы на его месте грохнулась в обморок, но...
 
 沙羅「少年の顔は……そんなに悪くはないんだし……」%K%P
 Your face... isn't that bad...
@@ -2701,7 +2701,7 @@ CN PLACEHOLDER
 沙羅「逆に『ああ、ぼくはこんなにマトモな顔をしてたんだ』って、普通だったら安心すると思うんだけどなぁ」%K%P
 I would think that you'd be relieved and think, 'You know, I've got a pretty nice-looking face.'
 CN PLACEHOLDER
-То есть, на твоём месте я бы подумала: „Надо же, а я ведь лапочка“.
+На твоём месте я бы подумала: „Надо же, а я ведь лапочка“.
 
 沙羅は鏡面をのぞき込むようにして、ぼくの顔をためつすがめつ眺めている。%K%P
 Sara glanced at the mirror and took a good look at my face.
@@ -3136,7 +3136,7 @@ CN PLACEHOLDER
 例えばぼくは、そらが青いことを知っているし、雲が白いことを知っているし、草木の葉が緑色だということを知っている。%K%P
 For example, I knew that the sky was blue, the clouds were white, and the leaves were green.
 CN PLACEHOLDER
-То есть, я знаю о том, что небо – голубое, облака – белые,%Nтравка – зеленеет, солнышко – блестит...
+Например, я знаю о том, что небо – голубое, облака – белые,%Nтравка – зеленеет, солнышко – блестит...
 
 人工的に作られたもの――各種電化製品から始まって……%K%P
 I knew all about man-made things as well, such as electrical appliances...
@@ -3291,7 +3291,7 @@ CN PLACEHOLDER
 沙羅「逆に『ああ、ぼくはこんなにマトモな顔をしてたんだ』って、普通だったら安心すると思うんだけどなぁ」%K%P
 I would think that you'd be relieved and think, 'You know, I've got a pretty nice-looking face.'
 CN PLACEHOLDER
-То есть, на твоём месте я бы подумала „Надо же, а я ведь лапочка“.
+На твоём месте я бы подумала: „Надо же, а я ведь лапочка“.
 
 うん、そうかもしれない。%K%P
 I supposed that might be true.
@@ -4231,7 +4231,7 @@ CN PLACEHOLDER
 優「何度もパスワードを間違えたから、プロテクトが作動しちゃったんじゃないかな」%K%P
 Maybe I entered the wrong password too many times and it activated some kind of protection.
 CN PLACEHOLDER
-Наверное я ввела неверный пароль слишком много раз, и система активировала защиту.
+Наверное, я ввела неверный пароль слишком много раз, и система активировала защиту.
 
 優「つまり、レミの方から、お母さんの名前でのアクセスを、完全に遮断されてるってこと」%K%P
 In other words, LeMMIH has completely denied access to my mom's name.
@@ -4266,7 +4266,7 @@ CN PLACEHOLDER
 優は興奮状態のさなかにあったせいか、そのことに対して疑問を抱いてはいないようだった。%K%P
 But at the time, possibly due to her intense excitement, that suspicion never crossed my mind.
 CN PLACEHOLDER
-Хотя к тому времени, даже наверное из-за её возбуждённого состояния, эта мысль так и не посетила мою голову.
+Хотя к тому времени, даже, наверное, из-за её возбуждённого состояния, эта мысль так и не посетила мою голову.
 
 知らないはずのことを知っている不思議……。%K%P
 The strange feeling of knowing what I shouldn't have been able to know...
@@ -5316,7 +5316,7 @@ CN PLACEHOLDER
 少年「さあ〜？　わからないよ……」%K%P
 I can't say. I mean, I don't really know...
 CN PLACEHOLDER
-Не могу сказать. То есть, я правда не знаю...
+Не могу сказать. Я правда не знаю...
 
 少年「ただなんとなく、開けたら危険なんじゃないかと、思っただけで……」%K%P
 It's just that I thought it would be dangerous for her to open the door...

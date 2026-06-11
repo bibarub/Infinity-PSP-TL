@@ -2893,12 +2893,12 @@ CN PLACEHOLDER
 武「減圧だと？　この部屋で待てって言うのか？」%K%P
 Decompression? Are you telling me to just wait here?
 CN PLACEHOLDER
-Декомпрессировать? То есть, ты говоришь мне ждать здесь?
+Декомпрессировать? Хочешь сказать, чтобы я ждал здесь?
 
 空「はい。規則です。でなければ……ＩＢＦに戻っていただきます」%K%P
 Yes. It is a rule. If you won't... I'm going to have to ask you to go back to IBF.
 CN PLACEHOLDER
-Да. Так требуется. Иначе... мне придётся попросить тебя вернуться в IBF.
+Да. Это необходимо. Иначе... мне придётся попросить тебя вернуться в IBF.
 
 武「時間は？」%K%P
 How long will it take?

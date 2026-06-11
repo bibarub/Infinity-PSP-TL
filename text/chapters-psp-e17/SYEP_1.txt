@@ -86,7 +86,7 @@ CN PLACEHOLDER
 少年「でも、聞かない方がいいかもしれないよ？」%K%P
 You know, it might be better if you didn't ask.
 CN PLACEHOLDER
-Знаешь, наверное лучше тебе не спрашивать.
+Знаешь, наверное, лучше тебе не спрашивать.
 
 優「え？」%K%P
 Huh?
@@ -146,7 +146,7 @@ CN PLACEHOLDER
 優「まあいいや、とにかく聞いてあげよう」%K%P
 Anyway, I guess I'll listen to your reasoning.
 CN PLACEHOLDER
-Ладно, наверное тогда я выслушаю тебя.
+Ладно, наверное, тогда я выслушаю тебя.
 
 やっぱり、前言撤回。%K%P
 There she went changing her mind again.
@@ -256,7 +256,7 @@ CN PLACEHOLDER
 つまりは、そういうことなのかもしれない。%K%P
 Maybe that was it.
 CN PLACEHOLDER
-Наверное так оно и есть.
+Наверное, так оно и есть.
 
 優「そうだね。もう、あの時のきみじゃないかもね？」%K%P
 You're right. You're not like you used to be.
@@ -396,7 +396,7 @@ CN PLACEHOLDER
 優の上着の裾には、うっすらと黒いシミが残っている。%K%P
 There was a thin black stain on the hem of her jacket that had remained.
 CN PLACEHOLDER
-На её рубашке видно тонкое чёрное пятнышко.
+На её блузке видно тонкое чёрное пятнышко.
 
 思い出のシミ。%K%P
 It was a memorable stain.

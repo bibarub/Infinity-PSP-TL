@@ -1111,7 +1111,7 @@ CN PLACEHOLDER
 優「その缶、ＬｅＭＵの特殊ガスの気圧に合わせて、６気圧で封入してあるんだからぁ」%K%P
 These cans contain special gas so that they can be used at six atmospheres.
 CN PLACEHOLDER
-Эти банки были запаяны при 6 атмосферах специально для нахождения в LeMU.
+Эти банки были запаяны при 6 атмосферах специально для реализации в LeMU.
 
 優「でも、今ここは１気圧でしょ？」%K%P
 But right now, we're at one atmosphere, right?
@@ -1661,7 +1661,7 @@ CN PLACEHOLDER
 優「その缶、ＬｅＭＵの特殊ガスの気圧に合わせて、６気圧で封入してあるんだからぁ」%K%P
 These cans contain special gas so that they can be used at six atmospheres.
 CN PLACEHOLDER
-Эти банки были запаяны при 6 атмосферах специально для нахождения в LeMU.
+Эти банки были запаяны при 6 атмосферах специально для реализации в LeMU.
 
 優「でも、今ここは１気圧でしょ？」%K%P
 But right now, we're at one atmosphere, right?

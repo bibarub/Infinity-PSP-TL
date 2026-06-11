@@ -81,7 +81,7 @@ CN PLACEHOLDER
 つぐみはまだベッドで眠っているはずだった。%K%P
 I thought Tsugumi would still be sleeping in bed.
 CN PLACEHOLDER
-Наверное Цугуми всё ещё спит на кровати.
+Наверное, Цугуми всё ещё спит на кровати.
 
 （様子を見てみようか……？）%K%P
 (Maybe I should check on her...?)
@@ -1031,7 +1031,7 @@ CN PLACEHOLDER
 武「ま、誰でもいいけどさぁ、気をつけたほうがいいんじゃないか？」%K%P
 I mean, it doesn't really matter who it was, but don't you think we'd better be a little more careful?
 CN PLACEHOLDER
-То есть, на самом деле не важно, кто это сделал. Но не думаешь, что нам стоит быть чуть более осторожными?
+Да и вообще, не важно, кто это сделал. Но не думаешь, что нам стоит быть чуть более осторожными?
 
 少年「何を？」%K%P
 Careful of what?

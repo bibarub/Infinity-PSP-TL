@@ -1071,7 +1071,7 @@ CN PLACEHOLDER
 武「いや、信じることにしたんだ」%K%P
 I mean, we've decided to believe you.
 CN PLACEHOLDER
-То есть, мы решили тебе поверить.
+Точнее, мы решили тебе поверить.
 
 武「な？　だからそう……自暴自棄になるなよ、少年」%K%P
 Alright? So... So you just keep your cool, okay, Kid?

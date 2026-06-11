@@ -1720,12 +1720,12 @@ CN PLACEHOLDER
 優「マヨは、彼に見覚えはないんでしょう？」%K%P
 I mean, Mayo, you don't remember him from anywhere, right?
 CN PLACEHOLDER
-То есть, Майо, ты ведь не помнишь, чтобы раньше его где-нибудь видела?
+Майо, ты ведь точно его не узнаёшь?
 
 沙羅「はい……」%K%P
 Right...
 CN PLACEHOLDER
-Правда...
+Точно...
 
 優「でも、彼はマヨの本名を知っていた……」%K%P
 But he knew your name...
@@ -2157,7 +2157,7 @@ CN PLACEHOLDER
 沙羅「なんかちょっとカッコヨクない？　記憶喪失って」%K%P
 That's kind of cool, isn't it? I mean, like, amnesia.
 CN PLACEHOLDER
-Это же круто! То есть, такая штука, как амнезия.
+Это же круто! Ну, в смысле амнезия.
 
 沙羅「『影のある男』的な匂いがするもん」%K%P
 It sounds kind of like an international man of mystery kind of thing.
@@ -2497,7 +2497,7 @@ CN PLACEHOLDER
 そんなことをしても無駄だということは、優も知っているんだろうけど……。%K%P
 You should have known that it was a waste of energy...
 CN PLACEHOLDER
-Наверное она понимает, что это пустая трата энергии...
+Наверное, она понимает, что это пустая трата энергии...
 
 優「はぁ……」%K%P
 Haaaaaa...

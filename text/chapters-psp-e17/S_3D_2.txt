@@ -561,7 +561,7 @@ CN PLACEHOLDER
 そこまで言ってハッと思う。%K%P
 I thought I had said enough.
 CN PLACEHOLDER
-Наверное я и так сказал достаточно.
+Наверное, я и так сказал достаточно.
 
 （確かに、ぼくには関係ないことじゃないか）%K%P
 (It really probably doesn't have anything to do with me.)
@@ -626,12 +626,12 @@ CN PLACEHOLDER
 別にゴンドラに乗りたくて、ここへやってきたわけではなさそうだった。%K%P
 And it didn't look as though she had stopped there with any intention of riding the gondola.
 CN PLACEHOLDER
-Но непохоже, что она остановилась здесь ради того, чтобы прокатиться в гондоле.
+Сомневаюсь, что она просто решила прокатиться в гондоле.
 
 かといって、どこかへ移動する様子もなく、どこかへ座るわけでもなく……%K%P
 But it didn't look like she was going to move elsewhere either, or even sit down for that matter.
 CN PLACEHOLDER
-Правда, непохоже и на то, что она собирается идти куда-то ещё, или вообще присесть там и отдохнуть.
+Правда, не думаю, что она собирается идти куда-то ещё, или вообще присесть там и отдохнуть.
 
 ただじっと、ゲートの先に見え隠れする、半透明のゴンドラに視線を向けている。%K%P
 Her eyes were just trained on the half-transparent gondola, which was partially visible beyond the gate.
@@ -671,7 +671,7 @@ CN PLACEHOLDER
 少年「でもお願いだから、ケンカだけはしてほしくないんだ」%K%P
 But that doesn't mean that you have to fight with anyone.
 CN PLACEHOLDER
-Но это не значит, что ты должна драться с кем бы то ни было.
+Но это не значит, что ты должна ссориться с кем бы то ни было.
 
 少年「こういった状況なんだから、ぼくらは助け合っていかなきゃいけないんだよ」%K%P
 We're all in the same situation here. We have to help each other.

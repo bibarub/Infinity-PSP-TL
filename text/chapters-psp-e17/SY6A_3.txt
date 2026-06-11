@@ -1003,7 +1003,7 @@ CN PLACEHOLDER
 武「止める？　おい、ちゃんと説明してくれ」%K%P
 Stop what? Hey, explain what's going on.
 CN PLACEHOLDER
-Остановить? Объясни толком, что стрялось.
+Остановить? Объясни, что стрялось.
 
 沙羅「な、何があったの？」%K%P
 Wh-What happened?

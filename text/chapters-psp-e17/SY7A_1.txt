@@ -411,7 +411,7 @@ CN PLACEHOLDER
 優「ねえ、それってつまり、傷ついていくってこと？」%K%P
 So you're saying that we live only to get hurt?
 CN PLACEHOLDER
-То есть, исходя из твоих слов, жить – значит терпеть боль?
+Хочешь сказать, жить – значит терпеть боль?
 
 少年「…………」%K%P
 .........
@@ -581,7 +581,7 @@ CN PLACEHOLDER
 少年「優だって、わかってるはずだろ？」%K%P
 I mean, you do understand, don't you...?
 CN PLACEHOLDER
-То есть, ты ведь понимаешь, правда?..
+Ты ведь понимаешь, правда?..
 
 少年「ちゃんと最後まで話を聞かない限り……結論は出せないんだよ」%K%P
 That until you hear her side of the story... you can't go jumping to conclusions.

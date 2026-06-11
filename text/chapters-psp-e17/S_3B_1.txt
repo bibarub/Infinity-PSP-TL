@@ -606,7 +606,7 @@ CN PLACEHOLDER
 優「だって、関係者とは言え、私は何の権限もない、いちバイトに過ぎないわけで……」%K%P
 I mean, I work here, but I don't have any authority. It's just a part-time gig...
 CN PLACEHOLDER
-То есть, хоть я тут и работаю, но авторитета как такового не имею. Временная шестёрка...
+Хоть я тут и работаю, но я просто на подработке. Без каких-либо особых полномочий...
 
 優「そんな人間が、事故のどさくさに紛れて、ＬｅＭＵの機密事項に触れようとしてるんだよ？」%K%P
 Taking advantage of this accident to gain access to secret information in LeMU.
@@ -811,12 +811,12 @@ CN PLACEHOLDER
 少年「じゃあ、まだ何も調べてないってこと？」%K%P
 So you haven't looked up anything yet?
 CN PLACEHOLDER
-То есть, ты ещё ничего не выяснила?
+Ты ещё ничего не выяснила?
 
 優「調べてないって言うか……調べることができないって言うか……」%K%P
 It's not that I haven't... I haven't been able to. I haven't been able to get in...
 CN PLACEHOLDER
-Не совсем... просто ещё не смогла. Я не смогла проскочить внутрь...
+Не совсем... Просто ещё не смогла. Я не смогла проскочить внутрь...
 
 少年「つまり、『困ってる』って……」%K%P
 So you're stuck...
@@ -1513,7 +1513,7 @@ CN PLACEHOLDER
 少年「盲腸とか、指の間の水掻きとかと同じってこと？」%K%P
 You mean like an appendix or the webbing between fingers?
 CN PLACEHOLDER
-То есть, как аппендикс или перепонки между пальцами?
+Как аппендикс или перепонки между пальцами?
 
 優「そう。そういうこと」%K%P
 That's exactly what I mean.
@@ -1523,7 +1523,7 @@ CN PLACEHOLDER
 少年「それにしても、すごい知識量だね……歩く百科事典みたい」%K%P
 Still, you've got tons of knowledge... You're like a walking dictionary.
 CN PLACEHOLDER
-И всё-таки, у тебя куча знаний... ты словно ходячая энциклопедия.
+И всё-таки, у тебя куча знаний... Ты словно ходячая энциклопедия.
 
 優「たいしたことないよ、こんなの」%K%P
 It's no big deal.
@@ -1733,12 +1733,12 @@ CN PLACEHOLDER
 少年「優のお母さんが研究してるのは、『第３視点』っていう名前の古い概念で……」%K%P
 Your mom is researching an ancient concept called the third eye or third perspective...
 CN PLACEHOLDER
-Твоя мама исследует древнюю теорию, называемую третьим глазом или третьей проекцией...
+Твоя мама исследует древнюю теорию, называемую третьим глазом или третьей перспективой...
 
 少年「それによると、４次元の視覚を得た人は、この世界のすべてを見ることができる」%K%P
 And once someone has acquired the third eye, they can sense the fourth dimension and see the whole of the world.
 CN PLACEHOLDER
-То есть, если кто-то завладеет третьим глазом, то сможет чувствовать 4-е измерение и видеть полную картину мира.
+Если кто-то завладеет третьим глазом, то сможет чувствовать 4-е измерение и видеть полную картину мира.
 
 少年「そしてその様子は、伝説の『第３の眼』に通じるところがある、と」%K%P
 And that is in line with the legend of the third eye.
@@ -1753,17 +1753,17 @@ CN PLACEHOLDER
 優「お母さんに言わせれば、第３の眼という概念そのものが、第３視点のひとつだって言いかねないけど」%K%P
 Well, to hear my mom tell it, the third eye and third perspective are the same.
 CN PLACEHOLDER
-Ну, исходя из слов моей мамы, третий глаз и третья проекция – одно и то же.
+Ну, исходя из слов моей мамы, третий глаз и третья перспектива – одно и то же.
 
 少年「いまいち、よくわからないなぁ……」%K%P
 I don't quite get it...
 CN PLACEHOLDER
-То есть, как?..
+До меня так и не дошло...
 
 少年「どうして４次元の視覚があると、世界のすべてを見られるの？」%K%P
 Why would a sense of the fourth dimension allow someone to understand the whole world?
 CN PLACEHOLDER
-Чем осязание 4-го измерения может помочь кому бы то ни было видеть всю картину мира?
+Чем осязание 4-го измерения может помочь видеть всю картину мира?
 
 少年「というより、なんで４次元の視覚なんて必要なの？　現にぼくらはこうして、世界をちゃんと見てるよ？」%K%P
 Or why is a sense of the fourth dimension necessary? We're seeing the world the way we are right now.
@@ -1948,7 +1948,7 @@ CN PLACEHOLDER
 少年「つまり、デタラメなアルファベットの組み合わせとかを使ってる人は、滅多にいないってこと」%K%P
 I mean, there's almost nobody that uses a meaningless combination of numbers and letters.
 CN PLACEHOLDER
-То есть, практически никто не использует бессмысленные комбинации из букв и цифр.
+Иначе говоря, практически никто не использует бессмысленные комбинации из букв и цифр.
 
 少年「だって、そんなことをしたら、きっと忘れちゃうからね」%K%P
 If they did, they would probably forget it.
@@ -2198,7 +2198,7 @@ CN PLACEHOLDER
 少年「それじゃあ、今優が持ってるその紙に、パスワードが書かれてるんじゃ……？」%K%P
 So the paper you have now is the one with the password on it?
 CN PLACEHOLDER
-То есть, лист, на котором написан пароль, при тебе?
+А лист, на котором написан пароль, при тебе?
 
 優はなにも言わずに、その紙を差し出した。%K%P
 You held out the paper without saying anything.
@@ -3388,7 +3388,7 @@ CN PLACEHOLDER
 優「何度もパスワードを間違えたから、プロテクトが作動しちゃったんじゃないかな」%K%P
 Maybe I entered the wrong password too many times and it activated some kind of protection.
 CN PLACEHOLDER
-Наверное я ввела неверный пароль слишком много раз, и система активировала защиту.
+Наверное, я ввела неверный пароль слишком много раз, и система активировала защиту.
 
 優「つまり、レミの方から、お母さんの名前でのアクセスを、完全に遮断されてるってこと」%K%P
 In other words, LeMMIH has completely denied access to my mom's name.

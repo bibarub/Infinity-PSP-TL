@@ -536,7 +536,7 @@ CN PLACEHOLDER
 優「さっき教えた名前が嘘なら、ドアは開かない」%K%P
 So, if the name I just told you is a lie, then it won't open the door.
 CN PLACEHOLDER
-То есть, если имя, что я тебе сказала – ложь, то дверь не откроется.
+Если я назвала тебе ненастоящее имя, дверь не откроется.
 
 優「おわかり？」%K%P
 Get it?
@@ -1371,7 +1371,7 @@ CN PLACEHOLDER
 少年「その時が来たら話してくれる、ってこと？」%K%P
 You mean you'll tell me when the time is right?
 CN PLACEHOLDER
-То есть, ты скажешь, когда придёт время?
+Ты скажешь, когда придёт время?
 
 空「はい」%K%P
 Yes.
@@ -1551,7 +1551,7 @@ CN PLACEHOLDER
 少年「うん、ぼくもどうせ行く所なんてないし、一緒に探してあげる」%K%P
 Yeah. I mean, I don't have anywhere to go either. I'll look with you.
 CN PLACEHOLDER
-Да. То есть, у меня тоже нет места, куда идти. Будем искать вместе.
+Да. Мне ведь тоже некуда идти. Будем искать вместе.
 
 沙羅「…………」%K%P
 .........

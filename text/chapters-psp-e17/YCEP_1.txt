@@ -790,7 +790,7 @@ CN PLACEHOLDER
 沙羅「あっ、なっきゅ先輩……じゃなかった、えーっと……」%K%P
 Oh. Hi, Nakkyu-senpai... No, wait, uh...
 CN PLACEHOLDER
-Ой, Няку-сэмпай... то есть, э-э-эм...
+Ой, Няку-сэмпай... нет, погодите...
 
 沙羅「田中先生――優美清春香菜さん、でしたよね？」%K%P
 Tanaka—Yubiseiharukana-san, right?
@@ -935,7 +935,7 @@ CN PLACEHOLDER
 沙羅「パパと、あのココちゃんっていう女の子を、助ける為に？」%K%P
 You mean in order to rescue Dad and that girl, Coco-chan?
 CN PLACEHOLDER
-То есть, чтобы спасти папу и эту девочку, Коко?
+Чтобы спасти папу и эту девочку, Коко?
 
 優春「そういうこと」%K%P
 That's right.
@@ -1718,7 +1718,7 @@ CN PLACEHOLDER
 心霊現象、超能力、ＵＦＯ、ＵＭＡ、超古代文明、都市伝説、オマジナイ、占い、奇蹟、神秘……。%K%P
 Psychic phenomena, supernatural powers, UFOs, UMAs, super-ancient civilizations, urban myths, curses, fortune-telling, miracles, mysteries...
 CN PLACEHOLDER
-Телепатии, сверхчеловеческих возможностях, пришельцах, НЛО, мифах о древнейших цивилизациях, проклятьях, предсказаниях, чудесах, загадках...
+О телепатии, сверхчеловеческих возможностях, пришельцах, НЛО, мифах о древнейших цивилизациях, проклятьях, предсказаниях, чудесах, загадках...
 
 私はこれまで、それらのすべてをひとつ残らず否定し、少女達の幼い夢を片っ端から打ち崩してきた……ような気がする。%K%P
 I thought I had dismissed all of those things as girlish fantasies...
@@ -1728,12 +1728,12 @@ CN PLACEHOLDER
 でも今は……少し変わった。%K%P
 But something... had changed slightly.
 CN PLACEHOLDER
-Но теперь... моя точка зрения слегка изменилась.
+Но теперь... ситуация немного изменилась.
 
 だって、私の存在自体が信じられない奇蹟なのだから……。%K%P
 Because my existence itself was something hard to explain...
 CN PLACEHOLDER
-То есть, моё собственное существование – нечто из ряда вон...
+Ведь моё собственное существование – нечто из ряда вон...
 
 この世界に『優美清秋香菜』という人間が実在するという神秘性を考えれば……%K%P
 If I thought about the fact that I myself, “the girl called You”, was somewhat of a mystic entity...
@@ -3219,7 +3219,7 @@ CN PLACEHOLDER
 ただ、何となく楽しかったので、追い駆けているのだと思います。%K%P
 It was probably just something fun to do.
 CN PLACEHOLDER
-Наверное потому, что это весело.
+Наверное, потому, что это весело.
 
 ピピは甲板の上を飛び跳ねるように走りまわっていました。%K%P
 Pipi ran across the surface of the deck like he was flying.

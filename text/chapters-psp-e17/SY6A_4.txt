@@ -11,7 +11,7 @@ CN PLACEHOLDER
 沙羅「じゃあ、ここのネットワークを通じてライプリヒ本社のデータベースにも侵入できるんだね？」%K%P
 So you can get into the Leiblich company database through this network, right?
 CN PLACEHOLDER
-То есть, ты можешь проникнуть в базу данных Лейблих через эту сеть, так?
+Так ты можешь проникнуть в базу данных Лейблих через эту сеть?
 
 空「ええ、理論上は可能です」%K%P
 Yes, it is theoretically possible.
@@ -26,7 +26,7 @@ CN PLACEHOLDER
 空「並大抵のことでは侵入どころか、逆ハックされてしまうことでしょう」%K%P
 Not only is it hard to break into, it will hack back at you.
 CN PLACEHOLDER
-Её не просто тяжело атаковать, но придётся и защищаться от обратной атаки.
+Её не просто тяжело атаковать, придётся защищаться от обратной атаки.
 
 空「それに現在、外部との通信は不通状態ですし……」%K%P
 Besides, there are no open communication channels with the outside...
@@ -36,7 +36,7 @@ CN PLACEHOLDER
 沙羅「でも、ケーブルが断線してるわけじゃないんだよね？」%K%P
 But it's not like the cable connecting us to the group is cut off, right?
 CN PLACEHOLDER
-Но непохоже, что оборваны все кабели, соединяющие строение с плавучим островом, так?
+Но физического обрыва кабеля связи вроде как нет?
 
 空「はい」%K%P
 Correct.
@@ -511,7 +511,7 @@ CN PLACEHOLDER
 優は上着の裾を摘んでみせる。%K%P
 You took the collar of her jacket and showed it to us.
 CN PLACEHOLDER
-Ю схватилась за ворот своей рубашки и показала нам.
+Ю схватилась за ворот своей блузки и показала нам.
 
 優「ほらぁ見てよ、あのコーヒーの汚れ……シミついちゃったの……」%K%P
 Look at this... It's got a coffee stain on it... Do you believe that...?
@@ -541,7 +541,7 @@ CN PLACEHOLDER
 優「だってぇ、この服、お気に入りだったんだもん」%K%P
 I mean, this is my favorite jacket.
 CN PLACEHOLDER
-То есть, это же моя любимая рубашка.
+Это же моя любимая блузка.
 
 少年「ひ、人騒がせにも程があるよ……それに着替え終わってるなら、何も物を投げなくても……」%K%P
 D-Don't just freak out like that... And if you're done changing, why'd you throw that at me...?

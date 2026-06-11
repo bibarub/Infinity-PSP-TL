@@ -536,7 +536,7 @@ CN PLACEHOLDER
 優「かくして、こんな神殿を作ってみた、と、そういうことみたい」%K%P
 So I guess that's why we built this temple.
 CN PLACEHOLDER
-Наверное потому мы и построили этот храм.
+Наверное, потому мы и построили этот храм.
 
 少年「ふーん、なるほどねぇ」%K%P
 I see.
@@ -641,7 +641,7 @@ CN PLACEHOLDER
 優「つまり、今回の出来事はただの事故じゃなかったってこと」%K%P
 I mean, I don't think what happened here was just a simple accident.
 CN PLACEHOLDER
-То есть, я не верю, что в этот раз всё было несчастным случаем.
+Я не верю, что в этот раз всё было несчастным случаем.
 
 優「誰かが意図的に、私達のことを閉じ込めたの」%K%P
 I think that somebody trapped us here on purpose.
