@@ -368,7 +368,7 @@ CN PLACEHOLDER
 %LCＶｉｅｒ⑳Ｍｉｎｕｔｅｎ⑳Ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．
 <Vier Minuten vor der Implosion.>
 CN PLACEHOLDER
-<Vier Minuten vor der Implosion.> (Четыре минуты до затопления.)»
+Vier Minuten vor der Implosion.%N(Четыре минуты до затопления.)»
 
 %P
 
