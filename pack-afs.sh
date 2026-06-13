@@ -94,6 +94,16 @@ repack_mac_afs () {
 		printf "\x0b" | dd oflag=seek_bytes conv=notrunc seek=8370 of=./${GAME}_mac_${TL_SUFFIX}/T_2A_2.SCN
 		$COMPRESS ./${GAME}_mac_${TL_SUFFIX}/T_2A_2.{SCN,BIP}
 	fi
+	if [ -f "${GAME}_mac_${TL_SUFFIX}/T_1B_1.SCN" ]; then
+		# add a missing goto
+		echo "Fixing T_1B_1.SCN"
+		ssize="$(wc -c < "${GAME}_mac_${TL_SUFFIX}/T_1B_1.SCN")"
+		hack_offset=$(((ssize+3)/4))
+		dd bs=4 skip=1407 count=3 if="${GAME}_mac_${TL_SUFFIX}/T_1B_1.SCN" seek=$hack_offset conv=notrunc of="${GAME}_mac_${TL_SUFFIX}/T_1B_1.SCN"
+		printf "\x03\x00\x00\x00\xbc\x18\x00\x00" >> "${GAME}_mac_${TL_SUFFIX}/T_1B_1.SCN"
+		echo "0: 03000000 $(printf "%08x" $((hack_offset*4)) | tac -rs ..)" | xxd -r | dd bs=4 conv=notrunc seek=1407 of="${GAME}_mac_${TL_SUFFIX}/T_1B_1.SCN"
+		$COMPRESS ./${GAME}_mac_${TL_SUFFIX}/T_1B_1.{SCN,BIP}
+	fi
 	if [ -f "${GAME}_mac_${TL_SUFFIX}/USER20A.SCN" ]; then
 		echo "Patching year in Pinocchio's Tears [1/2]"
 		for i in 16 1356 7928 8464; do
