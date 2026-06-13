@@ -36,7 +36,7 @@ CN PLACEHOLDER
 つぐみ「パイプが少し歪んでしまっているわ……金具を締め直すから、パイプを持って支えてくれる？」%K%P
 The pipe is bent a little bit... I'm going to clamp a metal sleeve on it. Would you support the pipe for me?
 CN PLACEHOLDER
-Труба слегка погнута... Я собираюсь распрямить металлическую муфту на ней. Ты не мог бы подержать трубу?
+Труба слегка погнута... Я собираюсь закрепить её креплением. Ты не мог бы подержать трубу?
 
 武「ああ、了解！」%K%P
 Roger that!
@@ -56,7 +56,7 @@ CN PLACEHOLDER
 ココ「はーい、りょうかい！」%K%P
 Okaaaay, gotcha!
 CN PLACEHOLDER
-Хорошо-о, так точно-о-о!
+Хорошо-о, так то-о-очно!
 
 皆で作業を始める。%K%P
 We all started working in unison.
@@ -101,7 +101,7 @@ CN PLACEHOLDER
 それ以上は訊けなくなる。%K%P
 And after that, I didn't feel I could ask anything else.
 CN PLACEHOLDER
-Да, после такого, у меня уже нет настроения что-либо спрашивать.
+Да, после такого у меня уже нет настроения что-либо спрашивать.
 
 空はしばらく、俺達の横で見ていた。%K%P
 Sora watched us for a while from the side.
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 つぐみ「武、そっちのパイプを押さえて。ぐらついてるみたい」%K%P
 Takeshi, go support that pipe. It looks like it's shaking.
 CN PLACEHOLDER
-Такэси, скорее, вон к той трубе, её трясёт, видишь?
+Такэси, скорее, вон к той трубе, её трясёт?
 
 溶接を続けながらつぐみが言う。%K%P
 Tsugumi barked the order to me as she was welding.
@@ -371,12 +371,12 @@ CN PLACEHOLDER
 パイプが熱を帯びていたので、すぐに手を引っ込める。%K%P
 The pipe was scalding hot, and I pulled my hand back instinctively.
 CN PLACEHOLDER
-Труба оказалась обжигающе горячей, а я инстинктивно отдёрнул руку.
+Труба оказалась обжигающе горячей, а я инстинктивно одёрнул руку.
 
 つぐみ「えっ？　そんなはず……バルブはちゃんと動かした？」%K%P
 Huh? That shouldn't be... Did you turn the valve the right way?
 CN PLACEHOLDER
-П-погоди, так не должно быть... Ты повернул вентили так, как я говорила?
+П-погоди, так не должно быть... Ты точно правильно повернул вентили?
 
 武「ああ、そのつもりだけど」%K%P
 Yeah, I think so.
@@ -476,7 +476,7 @@ CN PLACEHOLDER
 つぐみ「武、ここをつけたらすぐに、そっちのバルブを元に戻して」%K%P
 Takeshi, after I've finished attaching this, return the valve to its original position right away.
 CN PLACEHOLDER
-Такэси, когда я закончу скреплять здесь, верни вентили в исходные положения.
+Такэси, когда я закончу скреплять здесь, верни вентили в исходное положение.
 
 武「ああ、了解だ」%K%P
 Okay, gotcha.
@@ -496,7 +496,7 @@ CN PLACEHOLDER
 武「わかってる！」%K%P
 Alright! Geez!
 CN PLACEHOLDER
-Хорошо! Чёрт!
+Да знаю!
 
 素早くバルブを逆回転させる。%K%P
 I quickly turned the valve back in the other direction.
@@ -546,7 +546,7 @@ CN PLACEHOLDER
 感電しないだろうな……。%K%P
 (I hope it doesn't shock me...)
 CN PLACEHOLDER
-(Господи, только бы его не коротнуло вместе со мной...)
+(Вот бы его не коротнуло...)
 
 俺は少し怖くなった。%K%P
 I was starting to get a little scared.
@@ -556,7 +556,7 @@ CN PLACEHOLDER
 ばちんっ！！%K%P
 CRACK!
 CN PLACEHOLDER
-БЗЗЗК!
+БЗ-З-З!
 
 武「！？」%K%P
 !?
@@ -651,7 +651,7 @@ CN PLACEHOLDER
 古いパイプはバラバラになり、散乱した。%K%P
 The old pipe broke apart into thousands of pieces.
 CN PLACEHOLDER
-Старые трубы поломались на тысячи мелких осколков.
+Старые трубы разнесло на мелкие осколки.
 
 コンテナは粉々に砕かれた。%K%P
 The containers were splintering.
@@ -736,7 +736,7 @@ CN PLACEHOLDER
 つぐみ「しくじったわ」%K%P
 I guess I messed up.
 CN PLACEHOLDER
-Кажется, я оплошала.
+Похоже, я оплошала.
 
 つぐみは顔をしかめた。腿を押さえている。%K%P
 Tsugumi grimaced and clasped her thigh tightly.
@@ -796,7 +796,7 @@ CN PLACEHOLDER
 その間にも水位は増し、くるぶしから膝を満たそうとしていた。%K%P
 In the meantime, the water level had risen from ankle to knee height.
 CN PLACEHOLDER
-А меж тем, уровень воды увеличился с лодыжек до высоты колена.
+А меж тем, уровень воды поднялся с лодыжек до высоты колена.
 
 ココ「つぐみんっ！！」%K%P
 Tsugumiiin!
@@ -831,7 +831,7 @@ CN PLACEHOLDER
 つぐみ「このままだと、この部屋の隔壁が持たない」%K%P
 At this rate, this room's partitions won't last.
 CN PLACEHOLDER
-Если так пойдёт дальше, переборки этой комнаты не выдержит.
+Если так пойдёт дальше, переборки этой комнаты не выдержат.
 
 つぐみ「みんな死ぬことになるわ」%K%P
 You'll both die if you stay.
@@ -1021,7 +1021,7 @@ CN PLACEHOLDER
 武「いいか、つぐみ……気を確かに持ってくれ」%K%P
 Alright, Tsugumi... I need you to stay with me now.
 CN PLACEHOLDER
-Так, Цугуми... я хочу, чтобы ты оставалась со мной, здесь и сейчас.
+Так, Цугуми... Главное не раскисай.
 
 俺は努めて冷静に、言葉を搾り出した。%K%P
 I chose my words as carefully as possible.
@@ -1091,7 +1091,7 @@ CN PLACEHOLDER
 苦痛に歪むつぐみの顔。%K%P
 Her face contorted with pain.
 CN PLACEHOLDER
-Её лицо скривилось от боли.
+Лицо Цугуми скривилось от боли.
 
 苦しさの為か、息を吐き出す。%K%P
 In agony, she labored for breath.
@@ -1221,12 +1221,12 @@ CN PLACEHOLDER
 つぐみ「また、『大丈夫』って……無責任ねぇ……」%K%P
 There you go again, saying 'it'll be okay'... You're so irresponsible...
 CN PLACEHOLDER
-Опять за своё, говоришь „Всё будет хорошо“... Какой же ты безответственный...
+Опять ты со своим „всё будет хорошо“... Какой же ты безответственный...
 
 武「うるせぇな、少し黙ってろよ」%K%P
 Would you keep quiet!?
 CN PLACEHOLDER
-Может помолчишь, а?!
+Может, помолчишь, а?!
 
 つぐみ「…………」%K%P
 .........
@@ -1321,7 +1321,7 @@ CN PLACEHOLDER
 武「くそっ、どっちに行けばいいんだ……？」%K%P
 Damn, which way should I go...?
 CN PLACEHOLDER
-Чёрт, и куда же идти теперь?..
+Чёрт, и куда теперь?..
 
 通路の行き止まりで、俺は途方に暮れた。%K%P
 A dead end in the passage had me totally lost.
@@ -1356,7 +1356,7 @@ CN PLACEHOLDER
 武「わかった、すぐに行く！　どっちだ？」%K%P
 Alright, I'm on my way! Now, which way do I go?
 CN PLACEHOLDER
-Хорошо, так и сделаю! Только, куда?
+Хорошо, так и сделаю! Только куда?
 
 空「その通路を戻って右の階段を下り、通常通路へ……」%K%P
 Return back along this passage, go down the stairs on the right, and take the standard passage to...
@@ -1391,7 +1391,7 @@ CN PLACEHOLDER
 たとえ無責任だと言われようと、俺は『ダメだ、手遅れだ』なんて言えなかった。%K%P
 Even if she thought it was irresponsible of me, I couldn't bring myself to tell her, “It's no use, it's too late.”
 CN PLACEHOLDER
-Пускай она считает, что я безответственный, но я не могу заставить себя сказать ей «Бесполезно, всё кончено».
+Пускай она считает, что я безответственный, но я не могу заставить себя сказать ей «бесполезно, всё кончено».
 
 少しでも望みがある限りは、絶対にそれを捨てたくなかった。%K%P
 As long as I had even a little hope, I didn't want to throw it away.
@@ -1651,7 +1651,7 @@ CN PLACEHOLDER
 手術は終了――%K%P
 The surgery was over—
 CN PLACEHOLDER
-Операция завершилась –
+Операция завершилась...
 
 つぐみは一命を取りとめたらしい。%K%P
 Tsugumi was going to live.
@@ -1681,7 +1681,7 @@ CN PLACEHOLDER
 武「それと……お疲れさま、優」%K%P
 And... good job, You.
 CN PLACEHOLDER
-И... молодчина, Ю.
+И... отлично постаралась, Ю.
 
 優「…………」%K%P
 .........
@@ -1721,7 +1721,7 @@ CN PLACEHOLDER
 空「倉庫へ繋がる全配管を緊急閉鎖、ブロックごとツヴァイトから切り離しました。浸水被害拡大の心配はありません」%K%P
 All pipelines connecting to the warehouse have been closed as an emergency measure, and the whole area has been sealed off from Zweiter. So we don't have to worry about the flood damage expanding.
 CN PLACEHOLDER
-Все трубопроводы, ведущие к складу, были закрыты во время аварии и помещение целиком отделено от Цвайте. Поэтому, нам нет нужды беспокоиться о дальнейшем разрушении этажа.
+Все трубопроводы, ведущие к складу, были закрыты во время аварии, и помещение целиком отделено от Цвайте. Дальнейшего разрушения не последовало.
 
 空「以上です」%K%P
 That's it, then.

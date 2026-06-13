@@ -1591,7 +1591,7 @@ CN PLACEHOLDER
 その笑顔に少し決意を削がれながらも、俺は言うべきことを言おうと思う。%K%P
 When I saw her smile, I wavered slightly. Yet I continued to speak.
 CN PLACEHOLDER
-Увидев её улыбку, я поколебался. И всё же, нашёл в себе сил продолжить.
+Увидев её улыбку, я поколебался. И всё же нашёл в себе силы продолжить.
 
 武「昨日のことなんだけど……」%K%P
 About yesterday...

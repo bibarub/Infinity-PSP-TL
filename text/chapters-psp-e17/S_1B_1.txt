@@ -2166,7 +2166,7 @@ CN PLACEHOLDER
 少年「じゃあ……」%K%p
 Well...
 CN PLACEHOLDER
-;Мальчик«Ну...»%K%P
+;Мальчик«Ну...»%K%p
 
 三上智也
 Mikami Tomoya
@@ -2201,7 +2201,7 @@ CN PLACEHOLDER
 渡良瀬恭介
 Watarase Kyousuke
 CN PLACEHOLDER
-Ватарасе Кёске
+Ватарасэ Кёскэ
 
 王子様
 Prince

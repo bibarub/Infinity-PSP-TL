@@ -236,7 +236,7 @@ CN PLACEHOLDER
 優「って言っても、どうやって開ければいいんだろう？」%K%P
 Hang on, how are we going to open this?
 CN PLACEHOLDER
-И всё же, как нам его открыть?
+И всё же как нам его открыть?
 
 優はドアに両手をついて、左右に力を込めた。%K%P
 You placed both of her hands on the door and pushed left and right.
@@ -2592,7 +2592,7 @@ CN PLACEHOLDER
 少年「そうだなぁ……例えば……」%K%p
 Well, let's see... How about...
 CN PLACEHOLDER
-;Мальчик«Так, посмотрим... как насчёт того, чтобы...»%K%P
+;Мальчик«Так, посмотрим... как насчёт того, чтобы...»%K%p
 
 外部へ連絡してみる、とか
 Try to contact the outside

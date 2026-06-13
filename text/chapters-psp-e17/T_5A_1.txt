@@ -526,7 +526,7 @@ CN PLACEHOLDER
 それに手を伸ばしてみようかとも考えたが、やめておいた。%K%P
 Still, I thought about reaching out to push it again, but decided against it.
 CN PLACEHOLDER
-И всё же, хоть я и хотел вновь нажать её... решил этого не делать.
+И всё же хоть я и хотел вновь нажать её... решил этого не делать.
 
 つぐみ「こんばんは……」%K%P
 Hi.
@@ -1031,7 +1031,7 @@ CN PLACEHOLDER
 それでも、やっぱり、また……%K%P
 But after all, I thought...
 CN PLACEHOLDER
-И всё же, мне кажется...
+И всё же мне кажется...
 
 彼女は僅かに微笑みを湛えているように、俺には見えた。%K%P
 That a slight smile still remained on her face.
@@ -1256,7 +1256,7 @@ CN PLACEHOLDER
 けれど、彼女は嘘をついていたわけではなかった。%K%P
 But then again, I knew she wasn't lying.
 CN PLACEHOLDER
-И всё же, я знаю что Цугуми говорит правду.
+И всё же я знаю, что Цугуми говорит правду.
 
 自分の年齢について、彼女はひと言も触れたことはない。%K%P
 We had never touched upon the subject of her age.

@@ -166,7 +166,7 @@ CN PLACEHOLDER
 それでも俺はなんだか苛立ちながら、冷めた油が再び温まるのを待っていた。%K%P
 Still, I was irritated as I waited for the cold oil to heat up again.
 CN PLACEHOLDER
-И всё же, не могу избавиться от раздражённости, пока разогреваю успевшее остыть масло.
+И всё же не могу избавиться от раздражённости, пока разогреваю успевшее остыть масло.
 
 貧乏揺すりのように足踏みを繰り返す。%K%P
 I anxiously fidgeted as I waited.
@@ -1176,12 +1176,12 @@ CN PLACEHOLDER
 突如、低い金属音が響いた。%K%P
 Suddenly, a low metallic sound reverberated throughout the complex.
 CN PLACEHOLDER
-Через мини-парк пронёсся металлический гром.
+Внезапно раздался низкий металлический звук.
 
 こもったような鈍い音だった。%K%P
 It was a dull, muffled sound.
 CN PLACEHOLDER
-Жуткий звук.
+Глухой, даже приглушённый.
 
 フロアは少し揺れた。%K%P
 The floor shook slightly.
