@@ -666,7 +666,7 @@ CN PLACEHOLDER
 空「ここだとなんですから……外、行きませんか？」%K%p
 This room is... Well, why don't we go outside?
 CN PLACEHOLDER
-Здесь, знаешь... Ну, может выйдем ненадолго?
+Здесь, знаешь... Ну, может, выйдем ненадолго?
 
 行かない
 Don't go
