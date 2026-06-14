@@ -376,12 +376,12 @@ CN PLACEHOLDER
 突如、低い金属音が響いた。%K%P
 Suddenly, a low metallic sound reverberated throughout the complex.
 CN PLACEHOLDER
-Внезапно сооружение встряхнуло в сопровождении грома.
+Внезапно раздался низкий металлический звук.
 
 こもったような鈍い音だった。%K%P
 It was a dull, muffled sound.
 CN PLACEHOLDER
-Точнее, глухого металлического звука.
+Глухой, словно доносится откуда-то изнутри сооружения.
 
 武「な、なんだ！？」%K%P
 Wh-What was that!?
@@ -406,7 +406,7 @@ CN PLACEHOLDER
 少年「さぁ、わからない……」%K%P
 Uh, I don't know...
 CN PLACEHOLDER
-Э-э, я не знаю...
+Ну, я не знаю...
 
 武「まさか、さっきの『嫌な予感』とやらが関係してるのか？」%K%P
 Hey, this doesn't have anything to do with that 'bad feeling' you had earlier, does it?
@@ -431,7 +431,7 @@ CN PLACEHOLDER
 いきなり中空から空の姿が現れ、ぼくらの眼前へと下りてくる。%K%P
 From out of nowhere, Sora appeared in midair and floated down in front of us.
 CN PLACEHOLDER
-Откуда ни возьмись, перед нами появилась Сора.
+Перед нами откуда ни возьмись появилась Сора.
 
 沙羅「あっ、空！」%K%P
 Oh, Sora!
@@ -476,7 +476,7 @@ CN PLACEHOLDER
 少年「昨日は兆候が見られなかったと思うけど……」%K%P
 We didn't see any signs of it yesterday...
 CN PLACEHOLDER
-Вчера мы не видели никаких признаков...
+Вчера мы не видели никаких намёков на это...
 
 空「はい、事前の計算にはありません。海流の乱れに影響された模様です」%K%P
 Yes, well, it wasn't in my calculations. It appears as if the ocean currents may have caused it.
@@ -491,12 +491,12 @@ CN PLACEHOLDER
 空「誤差の範囲内だと思いますが……いえ、待ってください」%K%P
 Well it should be within the margin of error, but... No, wait a second.
 CN PLACEHOLDER
-Если исходить из границ погрешности... нет, секундочку.
+Если исходить из границ погрешности... Нет, секундочку.
 
 空「ツヴァイトシュトックの倉庫、圧力制御用の配管に異状があります」%K%P
 There is an anomaly in one of the pressure-regulating pipes at Zweiter Stock's warehouse.
 CN PLACEHOLDER
-Обнаружено отклонение от нормы в трубопроводе регуляции давления, на складе на Цвайте Шток.
+Обнаружено отклонение от нормы в трубопроводе регуляции давления на складе на Цвайте Шток.
 
 武「圧力制御用の配管って？」%K%P
 What are pressure-regulating pipes?
@@ -576,7 +576,7 @@ CN PLACEHOLDER
 つぐみ「修理するなら、工具類が必要なんじゃないの？　私ならいろいろ、扱い方を知ってる」%K%P
 Well, if we're going to fix something, we'll need tools, right? I know my way around a workshop.
 CN PLACEHOLDER
-Значит, так. Если мы собираемся что-то чинить, то нам понадобятся инструменты. Я знаю, в какой стороне мастерская.
+Если нужно что-то починить, нужны же инструменты, правда ведь? А я умею ими пользоваться.
 
 武「そうだな……わかった。頼むよ」%K%P
 Alright... Let's go.

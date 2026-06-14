@@ -16,7 +16,7 @@ CN PLACEHOLDER
 空「ここ連日の賑わいが、まるで全部嘘だったように思えます」%K%P
 Sometimes, it seems that the everyday hubbub is all an empty lie...
 CN PLACEHOLDER
-Иногда кажется, что будничная суета, что этот шум-гам – всё пустая ложь...
+Вся та каждодневная суета – словно её и не было вовсе.
 
 空は小さく口にした。%K%P
 Sora spoke quietly.
@@ -31,12 +31,12 @@ CN PLACEHOLDER
 武「いや、構わないよ。俺だって、もしもここのことを、何日も前から――」%K%P
 No, I don't mind. If I had known about this place days before...
 CN PLACEHOLDER
-Да нет, я не против. Если бы я знал о существовании этого места несколько дней назад...
+Да нет, я не против. Если бы я узнал об этом месте раньше...
 
 武「……そう、お客がいっぱいの頃から見て知ってたら、たぶん同じことを思うよ」%K%P
 ...Yeah, and if I'd seen it back in the days when it was full of people, I'd probably be thinking the same thing.
 CN PLACEHOLDER
-...точно, и если бы я видел его, когда здесь было полно народу, то наверняка думал точно так же.
+...точно, и если бы я увидел его, когда здесь было полно народу, то наверняка бы думал точно так же.
 
 武「空はいつから、ＬｅＭＵにいるんだ？」%K%P
 Sora, how long have you been here at LeMU?
@@ -106,7 +106,7 @@ CN PLACEHOLDER
 頃合を見計らって、俺は切り出す。%K%P
 I broke in, hoping it was the right moment.
 CN PLACEHOLDER
-Я оборвал молчание, думая что пришёл подходящий момент.
+Я оборвал молчание, решив, что уже пора.
 
 空「はい、なんでしょう？」%K%P
 Yes? What is it?
@@ -236,7 +236,7 @@ CN PLACEHOLDER
 空「こっちこっち」%K%P
 This way, this way!
 CN PLACEHOLDER
-Тутачки я, тутачки!
+Сюда, сюда!
 
 空「どうしたんですか？」%K%P
 What's the matter?
@@ -291,7 +291,7 @@ CN PLACEHOLDER
 思い切りとぼけた。%K%P
 She was playing dumb.
 CN PLACEHOLDER
-Она прикидывается.
+Она дурачится.
 
 空は３人になっていた……。%K%P
 Sora had split into three images...
@@ -321,7 +321,7 @@ CN PLACEHOLDER
 ３人全員が同時に傾いた……。%K%P
 All three leaned toward me at the same time...
 CN PLACEHOLDER
-Все три одновременно склонились надо мной...
+Все три одновременно наклонились...
 
 空Ｂ「私、変ですか？」%K%P
 Do you think I am strange?
@@ -386,7 +386,7 @@ CN PLACEHOLDER
 武「重大なエラーがないかどうか……レミに診てもらおうか？」%K%P
 Maybe we should get LeMMIH to check you out... to make sure there's not some serious error...
 CN PLACEHOLDER
-Может нам стоит дать команду LeMMIH на проверку... чтобы убедиться в сохранности всех кластеров на твоём жёстком диске...
+Может, нам стоит дать команду LeMMIH на проверку... чтобы проверить, нет ли каких серьёзных ошибок?
 
 空「もう……！　倉成さんったら……」%K%P
 Why, Kuranari-san...!
@@ -401,7 +401,7 @@ CN PLACEHOLDER
 それから突然、ぴしり、とかしこまったポーズで俺の目の前に現れた。%K%P
 Then, suddenly, she appeared right in front of me in a slightly troubled pose.
 CN PLACEHOLDER
-И тут она появилась прямо передо мной, в слегка озабоченной позе.
+И тут она появилась прямо передо мной в слегка озабоченной позе.
 
 その像は動かず、ひとつだった。%K%P
 She didn't move, and there was only one of her.
@@ -526,12 +526,12 @@ CN PLACEHOLDER
 空「さっきのあれ……」%K%P
 Just now...
 CN PLACEHOLDER
-А сейчас...
+А теперь...
 
 空「どれが私か、わかりましたか？」%K%P
 Could you tell which one was me?
 CN PLACEHOLDER
-Ты можешь сказать, которая из них была я?
+Ты можешь сказать, которая из них была мной?
 
 武「えっ？」%K%P
 Huh?
@@ -541,17 +541,17 @@ CN PLACEHOLDER
 空「どれが、私でしょう」%K%P
 Which one was me?
 CN PLACEHOLDER
-Которая из них была я?
+Которая из них была мной?
 
 武「さぁ、どれって、言われてもなぁ……」%K%P
 Well, which... Uh...
 CN PLACEHOLDER
-Ну, которая... ой...
+Ну, раз ты спрашиваешь...
 
 武「だいたい、あの、複数の空の姿……それぞれに違いがあるのか？」%K%P
 So the several versions of you... they're all different?
 CN PLACEHOLDER
-Значит... несколько версий тебя... они все различны?
+Значит... несколько версий тебя... Они все различны?
 
 空「いいえ、ありません」%K%P
 No.
@@ -566,7 +566,7 @@ CN PLACEHOLDER
 武「全部、同じ空だ」%K%P
 They're all the same Sora.
 CN PLACEHOLDER
-...они все одна и та же Сора.
+...они все – одна и та же Сора.
 
 空「正解」%K%P
 Correct.

@@ -31,12 +31,12 @@ CN PLACEHOLDER
 突如、低い金属音が響いた。%K%P
 Suddenly, a low metallic sound reverberated throughout the complex.
 CN PLACEHOLDER
-Вдруг воздух прорезал глухой металлический звон.
+Внезапно раздался низкий металлический звук.
 
 こもったような鈍い音だった。%K%P
 It was a dull, muffled sound.
 CN PLACEHOLDER
-Это был приглушённый, глухой звук.
+Глухой, словно доносится откуда-то изнутри сооружения.
 
 武「な、なんだ！？」%K%P
 Wh-What was that!?
@@ -141,7 +141,7 @@ CN PLACEHOLDER
 つぐみ「修理するなら、工具類が必要なんじゃないの？　私ならいろいろ、扱い方を知ってる」%K%P
 Well, if we're going to fix something, we'll need tools, right? I know my way around a workshop.
 CN PLACEHOLDER
-Значит, так. Если мы собираемся что-то чинить, то нам понадобятся инструменты. Я знаю, в какой стороне мастерская.
+Если нужно что-то починить, нужны же инструменты, правда ведь? А я умею ими пользоваться.
 
 武「そうだな……わかった。頼むよ」%K%P
 Alright... Let's go.
@@ -256,7 +256,7 @@ CN PLACEHOLDER
 つぐみ「パイプが少し歪んでしまっているわ……金具を締め直すから、パイプを持って支えてくれる？」%K%P
 The pipe is bent a little bit... I'm going to clamp a metal sleeve on it. Would you support the pipe for me?
 CN PLACEHOLDER
-Труба слегка погнута... Я собираюсь распрямить металлическую муфту на ней. Ты не мог бы подержать трубу?
+Труба слегка погнута... Я собираюсь закрепить её хомутом. Ты не мог бы подержать трубу?
 
 武「ああ、了解！」%K%P
 Roger that!
@@ -791,7 +791,7 @@ CN PLACEHOLDER
 つぐみ「しくじったわ」%K%P
 I guess I messed up.
 CN PLACEHOLDER
-Кажется, я оплошала.
+Похоже, я оплошала.
 
 つぐみは顔をしかめた。傷口を押さえている。%K%P
 Tsugumi grimaced and pushed down on the wound.
@@ -851,7 +851,7 @@ CN PLACEHOLDER
 その間にも水位は増し、クルブシからヒザを満たそうとしていた。%K%P
 In the meantime, the water level had risen from ankle to knee height.
 CN PLACEHOLDER
-А меж тем, уровень воды увеличился с лодыжек до высоты колена.
+А меж тем уровень воды поднялся с лодыжек до высоты колена.
 
 ココ「つぐみんっ！！」%K%P
 Tsugumiiin!
@@ -886,7 +886,7 @@ CN PLACEHOLDER
 つぐみ「このままだと、この部屋の隔壁が持たない」%K%P
 At this rate, this room's partitions won't last.
 CN PLACEHOLDER
-Если так пойдёт дальше, переборки этой комнаты не выдержит.
+Если так пойдёт дальше, переборки этой комнаты не выдержат.
 
 つぐみ「みんな死ぬことになるわ」%K%P
 You'll both die if you stay.
@@ -1076,7 +1076,7 @@ CN PLACEHOLDER
 武「いいか、つぐみ……気を確かに持ってくれ」%K%P
 Alright, Tsugumi... I need you to stay with me now.
 CN PLACEHOLDER
-Так, Цугуми... я хочу, чтобы ты оставалась со мной, здесь и сейчас.
+Так, Цугуми... Главное не раскисай.
 
 俺は努めて冷静に、言葉をしぼり出した。%K%P
 I chose my words as carefully as possible.
@@ -1161,7 +1161,7 @@ CN PLACEHOLDER
 苦痛に歪むつぐみの顔。%K%P
 Her face contorted with pain.
 CN PLACEHOLDER
-Её лицо скривилось от боли.
+Лицо Цугуми скривилось от боли.
 
 苦しさの為か、息を吐き出す。%K%P
 In agony, she labored for breath.
@@ -1291,12 +1291,12 @@ CN PLACEHOLDER
 つぐみ「また、『大丈夫』って……無責任ねぇ……」%K%P
 There you go again, saying 'it'll be okay'... You're so irresponsible...
 CN PLACEHOLDER
-Опять за своё, говоришь „Всё будет хорошо“... Какой же ты безответственный...
+Опять ты со своим „всё будет хорошо“... Какой же ты безответственный...
 
 武「うるせえな、少し黙ってろよ」%K%P
 Would you keep quiet!?
 CN PLACEHOLDER
-Может помолчишь, а?!
+Может, помолчишь, а?!
 
 つぐみ「…………」%K%P
 .........

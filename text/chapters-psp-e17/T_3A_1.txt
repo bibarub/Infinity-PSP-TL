@@ -1,7 +1,7 @@
 ﻿まどろみから覚める。%K%P
 I awoke from my slumber.
 CN PLACEHOLDER
-Я очнулся от полусонного состояния.
+Подремав, я проснулся.
 
 硬く冷たい感触……。%K%P
 A stale, cold feeling...
@@ -16,12 +16,12 @@ CN PLACEHOLDER
 それでも、昨日よりは遥かに充実した眠りだった。%K%P
 Even then, the sleep that I'd gotten was far better than the day before.
 CN PLACEHOLDER
-И всё же, сегодня я спал в более уютных условиях, чем днём ранее.
+И всё же сегодня я спал в более уютных условиях, чем днём ранее.
 
 武「やぁ、おはよう……」%K%P
 Hey, g'mornin'...
 CN PLACEHOLDER
-Добро... утро...
+Доброе... утро...
 
 優「ああ、おはよう倉成」%K%P
 Oh, good morning.
@@ -51,7 +51,7 @@ CN PLACEHOLDER
 優「何言ってんの、ぐーたらしてるのはあんただけ――」%K%P
 What are you talking about? You're just lazy...
 CN PLACEHOLDER
-Что ты вообще несёшь? Ленивец...
+Что ты вообще несёшь? Сам-то ты такой лентяй...
 
 言いかけて、優は大きく欠伸をした。%K%P
 Saying that, You let out a big yawn.
@@ -86,7 +86,7 @@ CN PLACEHOLDER
 はっきりとは答えず、優は軽く笑った。%K%P
 Dodging the subject, You laughed slightly.
 CN PLACEHOLDER
-Ю хихикнула, пытаясь отвязаться от этого разговора.
+Не дав внятного ответа, Ю слегка улыбнулась.
 
 優「起きるんなら、顔、洗ってきたら？」%K%P
 Hey, since you're up, why don't you go wash your face?
@@ -156,7 +156,7 @@ CN PLACEHOLDER
 武「そんなこたぁねーよ。まだ眠いだけだ」%K%P
 I'm still sleepy.
 CN PLACEHOLDER
-Да так. Просто устал.
+Да так. Просто ещё сонный.
 
 少年「一昨日、昨日といろいろあったからね。疲れ溜まってる？」%K%P
 Well, a lot's happened in the last couple of days. Are you worn out?
@@ -166,7 +166,7 @@ CN PLACEHOLDER
 武「大丈夫だって。ちっと眠気覚ましてくる。じゃあな」%K%P
 I'm alright. I just need to freshen up, that's all. See ya.
 CN PLACEHOLDER
-Да в порядке я. Просто не проснулся окончательно. Увидимся.
+Да в порядке я. Просто ещё не пришёл в себя. Увидимся.
 
 近くの洗面所を目指して歩き出す。%K%P
 I headed to the nearest bathroom.
@@ -221,7 +221,7 @@ CN PLACEHOLDER
 身震いしたが、同時に、全身が目を覚ましていく。%K%P
 I was shivering, but at the same time, my whole body felt awake.
 CN PLACEHOLDER
-Меня встряхнуло как от электрического разряда, зато я окончательно проснулся.
+Меня встряхнуло, как от разряда тока, зато я окончательно проснулся.
 
 爽快な朝は洗顔からだと、改めて知った。%K%P
 So that was why people washed their faces in the morning...
@@ -361,7 +361,7 @@ CN PLACEHOLDER
 そして今日もまた、調理は俺が担当している。%K%P
 I was relegated to cook duty again.
 CN PLACEHOLDER
-Меня опять низвели до роли повара.
+И вот опять я за повара.
 
 優「ねぇ〜倉成、まだぁ〜？」%K%P
 Hey, Kuranari, are they done yet?
@@ -431,7 +431,7 @@ CN PLACEHOLDER
 武「おらぁ、食いたい奴ぁ順に前に出ろ！」%K%P
 Alright, whoever wants to eat, get in line!
 CN PLACEHOLDER
-Так-с, все самые голодные, в очередь!
+Так-с, все самые голодные – в очередь!
 
 ココ「じゃあココ一番」%K%P
 I'm first!
@@ -456,12 +456,12 @@ CN PLACEHOLDER
 少年「あ、ぼくにもひとつください……」%K%P
 Uh, I'd like one too...
 CN PLACEHOLDER
-Э-э, я тоже буду...
+А-а, я тоже буду...
 
 優「ちょっとぉ、並びなさいよぉ、次はわ・た・し」%K%P
 Hey, wait in line! The next person is M-E-!
 CN PLACEHOLDER
-Эй, в очередь! Дальше буду я!
+Эй, в очередь! Следующий ДЛЯ МЕ-НЯ!
 
 これはたぶん、この場所で日常的に繰り返されてきた光景。%K%P
 That was probably the way things usually were at the shop.
@@ -486,7 +486,7 @@ CN PLACEHOLDER
 武「え、俺？　楽しいっていうか……楽しいかな？　そう見える？」%K%P
 Who, me? You think so? Fun... I guess, maybe...
 CN PLACEHOLDER
-Кому, мне? Думаешь? Нравится... ну, наверное...
+Кому, мне? Думаешь? Нравится ли... ну, наверное...
 
 俺は揚げ物の熱にあおられた額の汗を拭う。%K%P
 I wiped the sweat caused by the heat of cooking from my face.
@@ -496,7 +496,7 @@ CN PLACEHOLDER
 ココ「うん、なんか暮らしイキイキ！　って感じ」%K%P
 Yeah, you look like you might even be enjoying your life here.
 CN PLACEHOLDER
-Ага, выглядишь так, будто ты наслаждаешься этим!
+Ага, очень похоже, что тебе это приносит удовольствие!
 
 武「どんな感じだそれは……でも、結構面白いぞ。屋台経営は！」%K%P
 I wonder how that'd feel... I guess it'd be kind of fun, owning a stand like this!
@@ -531,7 +531,7 @@ CN PLACEHOLDER
 武「お客さん、そりゃあ誉めすぎだ……」%K%P
 Aw shucks, dear customer, you're just sayin' that...
 CN PLACEHOLDER
-Ну ё-моё, мадам, да как вам не стыдно...
+Да что вы говорите, вы меня сейчас перехвалите...
 
 優「違うってココ、ミスターホットドッグというよりは」%K%P
 No, Coco, I don't think he was a hotdog man, I think he was...
@@ -726,7 +726,7 @@ CN PLACEHOLDER
 おもむろに、右手にケチャップ左手にマスタードのチューブを掴んでむいいぃぃっとばかりにひねり出した。%K%P
 Slowly, with the ketchup in her right hand and the mustard in her left, she squeezed the tubes. Their contents gushed out.
 CN PLACEHOLDER
-Медленно взяв кетчуп в правую руку, а горчицу взяв в левую, она с силой сдавила оба тюбика. Их содержимое хлынуло наружу.
+Медленно взяв кетчуп в правую руку, а горчицу взяв в левую, она с силой сдавила обе бутылки. Их содержимое хлынуло наружу.
 
 武「お、おい、つぐみ」%K%P
 H-Hey, Tsugumi!
@@ -856,12 +856,12 @@ CN PLACEHOLDER
 武「関係なくないぞ」%K%P
 That's not true.
 CN PLACEHOLDER
-Не правда.
+Неправда.
 
 武「俺は朝食係だからな、お前が朝飯を食べるかどうか訊きたかったんだ」%K%P
 I'm in charge of breakfast, right? So I just wanted to know if you wanted some.
 CN PLACEHOLDER
-Я здешний повар. Поэтому, хочу знать, чего ты хочешь.
+Я здешний повар. Поэтому хочу знать, чего ты хочешь.
 
 つぐみ「もう食べた。だから、もういいでしょ」%K%P
 I ate, okay? Enough already.
@@ -926,7 +926,7 @@ CN PLACEHOLDER
 武「なんか、つぐみってモソモソボソボソ食ってるからなぁ。食わせ甲斐がいまいち足りないんだよ」%K%P
 You always just wolf your food down. I don't know, but there just isn't much satisfaction in cooking for you.
 CN PLACEHOLDER
-Ты всегда с устрашающей жадностью проглатываешь пищу. Не знаю... но я просто не чувствую удовлетворения, когда готовлю для тебя.
+Ты всегда с устрашающей жадностью проглатываешь еду. Не знаю, я просто не чувствую удовлетворения, когда готовлю для тебя.
 
 武「それに、さっきのケチャップマスタード山盛りだと味なんかわかんなかったろ？」%K%P
 Besides, with all that ketchup and mustard on it, you probably can't even taste it.
@@ -951,12 +951,12 @@ CN PLACEHOLDER
 武「ばっちり美味いものを食ってもらいたいんでいっ！」%K%P
 You just wait, I'll cook you up a meal that'll wake up your taste buds...!
 CN PLACEHOLDER
-Погоди, я ещё успею приготовить тебе сногсшибательный обед!
+Погоди, я ещё успею приготовить тебе такой обалденный обед!
 
 つぐみ「もう充分食べたから、いい」%K%P
 I've had enough to eat, okay?
 CN PLACEHOLDER
-Я больше не хочу есть, понимаешь?
+Я больше не хочу есть, ладно?
 
 つぐみ「お腹いっぱいだから……」%K%P
 I'm full...
@@ -981,12 +981,12 @@ CN PLACEHOLDER
 突如、低い金属音が響いた。%K%P
 Suddenly, a low metallic sound reverberated throughout the complex.
 CN PLACEHOLDER
-Внезапно сооружение встряхнуло в сопровождении грома.
+Внезапно раздался низкий металлический звук.
 
 こもったような鈍い音だった。%K%P
 It was a dull, muffled sound.
 CN PLACEHOLDER
-Точнее, глухого металлического звука.
+Глухой, словно доносится откуда-то изнутри сооружения.
 
 武「な、なんだ！？」%K%P
 Wh-What was that!?
@@ -1001,7 +1001,7 @@ CN PLACEHOLDER
 つぐみは辺りを探るように見回す。%K%P
 Tsugumi's eyes darted around as if searching for something.
 CN PLACEHOLDER
-Глаза Цугуми стали стрелять по сторонам, будто что-то ища.
+Взгляд Цугуми бегает из стороны в сторону, будто в поиске чего-то.
 
 離れたところで休んでいた少年とココもこちらにやってきた。%K%P
 Moments later, the Kid and Coco, who'd both been resting in another room, appeared.
@@ -1016,7 +1016,7 @@ CN PLACEHOLDER
 少年「さぁ、わからない……」%K%P
 Uh, I don't know...
 CN PLACEHOLDER
-Э-э, я не знаю...
+Ну, я не знаю...
 
 武「まさか、さっきの『嫌な予感』とやらが関係してるのか？」%K%P
 Hey, this doesn't have anything to do with that 'bad feeling' you had earlier, does it?
@@ -1041,7 +1041,7 @@ CN PLACEHOLDER
 いきなり中空から空の姿が現れ、俺達の眼前へと下りてくる。%K%P
 From out of nowhere, Sora appeared in midair and floated down in front of us.
 CN PLACEHOLDER
-Откуда ни возьмись, перед нами появилась Сора.
+Перед нами откуда ни возьмись появилась Сора.
 
 ココ「あっ、空さん！」%K%P
 Ah, hi, Sora-san!
@@ -1086,7 +1086,7 @@ CN PLACEHOLDER
 少年「昨日は兆候が見られなかったと思うけど……」%K%P
 We didn't see any signs of it yesterday...
 CN PLACEHOLDER
-Вчера мы не видели никаких признаков...
+Вчера мы не видели никаких намёков на это...
 
 空「はい、事前の計算にはありません。海流の乱れに影響された模様です」%K%P
 Yes, well, it wasn't in my calculations. It appears as if the ocean currents may have caused it.
@@ -1101,12 +1101,12 @@ CN PLACEHOLDER
 空「誤差の範囲内だと思いますが……いえ、待ってください」%K%P
 Well it should be within the margin of error, but... No, wait a second.
 CN PLACEHOLDER
-Если исходить из границ погрешности... нет, секундочку.
+Если исходить из границ погрешности... Нет, секундочку.
 
 空「ツヴァイトシュトックの倉庫、圧力制御用の配管に異状があります」%K%P
 There is an anomaly in one of the pressure-regulating pipes at Zweiter Stock's warehouse.
 CN PLACEHOLDER
-Обнаружено отклонение от нормы в трубопроводе регуляции давления, на складе на Цвайте Шток.
+Обнаружено отклонение от нормы в трубопроводе регуляции давления на складе на Цвайте Шток.
 
 武「圧力制御用の配管って？」%K%P
 What are pressure-regulating pipes?
@@ -1156,7 +1156,7 @@ CN PLACEHOLDER
 つぐみ「修理するなら、工具類が必要なんじゃないの？　私ならいろいろ、扱い方を知ってる」%K%P
 Well, if we're going to fix something, we'll need tools, right? I know my way around a workshop.
 CN PLACEHOLDER
-Значит, так. Если мы собираемся что-то чинить, то нам понадобятся инструменты. Я знаю, в какой стороне мастерская.
+Если нужно что-то починить, нужны же инструменты, правда ведь? А я умею ими пользоваться.
 
 武「そうだな……わかった。頼むよ」%K%P
 Alright... Let's go.
@@ -1176,7 +1176,7 @@ CN PLACEHOLDER
 武「ＯＫ、じゃあココも一緒に行こうか。……あれ、優はどこ行ったんだ？」%K%P
 Okay, you can come too, Coco... Hey, does anyone know where You went?
 CN PLACEHOLDER
-Хорошо, Коко, ты тоже можешь пойти с нами... Стойте... а где, собственно, Ю?
+Хорошо, Коко, ты тоже можешь пойти с нами... Погодите, а куда делась Ю?
 
 見回したが、優はいなかった。%K%P
 I looked around but didn't see You anywhere.
@@ -1191,12 +1191,12 @@ CN PLACEHOLDER
 空「私と入れ違いになってしまいましたね」%K%P
 We must have just missed each other.
 CN PLACEHOLDER
-Должно быть, мы просто потеряли друг друга из виду.
+Наверное, мы просто разминулись.
 
 少年「ちょっと行って、武達が上に行くことを知らせてくるよ」%K%P
 I'll go and tell her that you're going up above.
 CN PLACEHOLDER
-Пойду, расскажу ей, что вы будете делать наверху.
+Пойду расскажу ей, что вы будете делать наверху.
 
 武「よし、それじゃ少年、任せた。制御室からの状況も見ておいてくれ。見落としがないかどうか……」%K%P
 Alright, Kid. I'll leave it to you. Keep an eye on things from the control room, will you? Just to make sure we don't miss anything...
@@ -1291,7 +1291,7 @@ CN PLACEHOLDER
 俺はなんだか笑ってしまった。%K%P
 I laughed for some reason.
 CN PLACEHOLDER
-Я засмеялся. И даже понял, почему.
+Я не смог сдержать смех.
 
 空「あっ、そのあのっ、な、何か……おかしかったですか、私？」%K%P
 Um, er, what... Did I say something amusing?
@@ -1321,7 +1321,7 @@ CN PLACEHOLDER
 空「かっ、『可愛い』……ですか！？」%K%P
 'Cute'...!?
 CN PLACEHOLDER
-„Мило“?!
+А-а, „мило“... это?!
 
 武「うん」%K%P
 Yeah.
@@ -1366,7 +1366,7 @@ CN PLACEHOLDER
 空「あっ、はい。ありがとうございます……」%K%P
 Ah, yes. Thank you...
 CN PLACEHOLDER
-Э-э, да. Спасибо тебе...
+А-а, ладно. Спасибо тебе...
 
 空はなんだか戸惑いながらも、嬉しそうに頬を染める。%K%P
 Although Sora looked somewhat puzzled, her cheeks seemed to glow with joy.
@@ -1476,7 +1476,7 @@ CN PLACEHOLDER
 ココ「うん、そうだよね。ね、つぐみん？」%K%P
 Yeah, I guess so. Right, Tsugumin?
 CN PLACEHOLDER
-Да, наверное. Цугумин, это правда?
+Да, наверное. Всё так, Цугумин?
 
 つぐみ「ええ。心配いらないわ、ココ」%K%P
 Yeah. Don't worry about it, Coco.

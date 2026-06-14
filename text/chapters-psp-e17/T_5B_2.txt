@@ -896,7 +896,7 @@ CN PLACEHOLDER
 武「でも、本当に何もわからないよりは、数倍マシだ」%K%P
 But I still think it's loads better than knowing nothing at all.
 CN PLACEHOLDER
-И всё же, я думаю, что так во сто крат лучше, чем не знать вообще ничего.
+И всё же я думаю, что так во сто крат лучше, чем не знать вообще ничего.
 
 優「ま、そうだよねぇ」%K%P
 Well, maybe you're right.

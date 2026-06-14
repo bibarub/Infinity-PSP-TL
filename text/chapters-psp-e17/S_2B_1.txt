@@ -2923,7 +2923,7 @@ CN PLACEHOLDER
 優「なのに、捨てようと思っても捨てられない」%K%P
 Still, I can't very well just throw it away.
 CN PLACEHOLDER
-И всё же, я не могу просто взять их и выбросить.
+И всё же я не могу просто взять их и выбросить.
 
 優「たぶん、頭の根っこのとこに、しっかりと溶接されちゃってるんだと思う」%K%P
 Maybe it's completely rooted itself into my brain.
