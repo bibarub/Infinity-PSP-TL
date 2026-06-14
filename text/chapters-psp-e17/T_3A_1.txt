@@ -1191,7 +1191,7 @@ CN PLACEHOLDER
 空「私と入れ違いになってしまいましたね」%K%P
 We must have just missed each other.
 CN PLACEHOLDER
-Наверное мы просто разминулись.
+Наверное, мы просто разминулись.
 
 少年「ちょっと行って、武達が上に行くことを知らせてくるよ」%K%P
 I'll go and tell her that you're going up above.
