@@ -456,7 +456,7 @@ CN PLACEHOLDER
 呼吸器はつけていなかった。もっとも、この救護室に呼吸器がないだけかもしれない。%K%P
 At least she wasn't hooked up to a ventilator. Then again, that could have been because the infirmary didn't have a ventilator...
 CN PLACEHOLDER
-По крайней мере, она не в респираторе. Хотя, может, потому, что в лазарете его просто нет...
+По крайней мере, она не на аппарате ИВЛ. Хотя, может, его просто нет в лазарете...
 
 幸いにも、苦しそうな表情は浮かべていない。%K%P
 Thankfully, she didn't look like she was in pain.
@@ -886,7 +886,7 @@ CN PLACEHOLDER
 時々壁に激突する音も聞こえる。%K%P
 Sometimes even crashing into walls.
 CN PLACEHOLDER
-...иногда даже ударяясь об стены.
+...иногда даже ударяясь о стены.
 
 相当慌てているらしい。%K%P
 It was in a desperate hurry.

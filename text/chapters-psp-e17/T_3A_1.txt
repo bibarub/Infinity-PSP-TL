@@ -986,7 +986,7 @@ CN PLACEHOLDER
 こもったような鈍い音だった。%K%P
 It was a dull, muffled sound.
 CN PLACEHOLDER
-Глухой, даже приглушённый.
+Глухой, словно доносится откуда-то изнутри сооружения.
 
 武「な、なんだ！？」%K%P
 Wh-What was that!?
@@ -1156,7 +1156,7 @@ CN PLACEHOLDER
 つぐみ「修理するなら、工具類が必要なんじゃないの？　私ならいろいろ、扱い方を知ってる」%K%P
 Well, if we're going to fix something, we'll need tools, right? I know my way around a workshop.
 CN PLACEHOLDER
-Если нужно что-то починить, нужны же инструменты, я права? А я умею ими пользоваться.
+Если нужно что-то починить, нужны же инструменты, правда ведь? А я умею ими пользоваться.
 
 武「そうだな……わかった。頼むよ」%K%P
 Alright... Let's go.
@@ -1476,7 +1476,7 @@ CN PLACEHOLDER
 ココ「うん、そうだよね。ね、つぐみん？」%K%P
 Yeah, I guess so. Right, Tsugumin?
 CN PLACEHOLDER
-Да, наверное. Верно, Цугумин?
+Да, наверное. Всё так, Цугумин?
 
 つぐみ「ええ。心配いらないわ、ココ」%K%P
 Yeah. Don't worry about it, Coco.
