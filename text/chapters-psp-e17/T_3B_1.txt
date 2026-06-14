@@ -116,7 +116,7 @@ CN PLACEHOLDER
 武「そういう優は、少年と何やってるんだ？」%K%P
 What about you two? What are you and the Kid up to?
 CN PLACEHOLDER
-А вы? Чем ты и Малой сейчас заняты?
+А вы? Чем вы с Малым сейчас заняты?
 
 優は、例のスキャナー『Ｌ−ＭＲＩ』のところに、何やら工具や部品を広げている最中だった。%K%P
 It looked like she was in the middle of spreading out tools and parts next to the “L-MRI” scanner.
