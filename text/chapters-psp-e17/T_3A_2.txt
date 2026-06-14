@@ -36,7 +36,7 @@ CN PLACEHOLDER
 つぐみ「パイプが少し歪んでしまっているわ……金具を締め直すから、パイプを持って支えてくれる？」%K%P
 The pipe is bent a little bit... I'm going to clamp a metal sleeve on it. Would you support the pipe for me?
 CN PLACEHOLDER
-Труба слегка погнута... Я собираюсь закрепить её креплением. Ты не мог бы подержать трубу?
+Труба слегка погнута... Я собираюсь закрепить её хомутом. Ты не мог бы подержать трубу?
 
 武「ああ、了解！」%K%P
 Roger that!
