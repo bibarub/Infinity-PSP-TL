@@ -611,7 +611,7 @@ CN PLACEHOLDER
 武「それまで禁止されていた人間のクローン受精は、法律で認められたんだ」%K%P
 Human cloning, which had been illegal up until then, was allowed by law.
 CN PLACEHOLDER
-Клонирование человека, что до той поры было запрещено, было узаконено.
+...было узаконено клонирование человека, что ранее было запрещено.
 
 武「省庁の許可さえ得られれば、誰でもクローン受精による不妊治療が受けられるようになった」%K%P
 As long as anyone receives the approval of the authorities, they can undergo clone fertilization as a way to treat infertility.
