@@ -79,12 +79,14 @@ def main():
     tips_txt = args.tips
     if tips_txt:
         tips = r11.tipsparser.parse_tip_file(tips_txt)
-        if len(tips) != tip_amount:
-            raise Exception(tip_amount, "tips expected, got", len(tips))
+        #if len(tips) != tip_amount:
+        #    raise Exception(tip_amount, "tips expected, got", len(tips))
         page_amount = sum(len(getattr(tip.pages, args.lang) or tip.pages.jp) for tip in tips)
-        tip_offset = page_amount*4+tip_amount*12+seg_table_tips[0]-seg_table_tips[1]
+        tip_offset = page_amount*4+len(tips)*12+seg_table_tips[0]-seg_table_tips[1]
+        tip_ptr_offset = (len(tips)-tip_amount)*12
     else:
         tip_offset = 0
+        tip_ptr_offset = 0
 
     chrono_txt = args.chronology
     if chrono_txt:
@@ -97,7 +99,7 @@ def main():
 
     pos = seg_text[0]
 
-    offset = lyric_offset+tip_offset+chrono_offset
+    offset = lyric_offset+tip_ptr_offset+tip_offset+chrono_offset
     if offset:
         pos += offset
         for i in range(head_int_view[0x8c//4]//4, head_int_view[head_int_view[0x8c//4]//4]//4-1, 1):
@@ -110,16 +112,18 @@ def main():
             for i in range(seg_table_tip_ptrs[0]//4, seg_table_tip_ptrs[1]//4, 3):
                 head_int_view[i] += lyric_offset
                 head_int_view[i+1] += lyric_offset
-            for i in range(head_int_view[0x68//4]//4, head_int_view[head_int_view[0x68//4]//4+1]//4-2, 2):
-                head_int_view[i+1] += lyric_offset
-            for i in (0x64, 0x68):
+            for i in (0x64, 0x78):
                 head_int_view[i//4] += lyric_offset
-        if lyric_offset or tip_offset:
-            for i in (0x78, 0x7c, 0x6c, 0x80, 0x84, 0x88):
-                head_int_view[i//4] += lyric_offset+tip_offset
-        seg_table_tips = tuple(x+lyric_offset for x in seg_table_tips)
+        if lyric_offset or tip_ptr_offset:
+            for i in range(head_int_view[0x68//4]//4, head_int_view[head_int_view[0x68//4]//4+1]//4-2, 2):
+                head_int_view[i+1] += lyric_offset+tip_ptr_offset
+            head_int_view[0x68//4] += lyric_offset+tip_ptr_offset
+        if lyric_offset or tip_offset or tip_ptr_offset:
+            for i in (0x7c, 0x6c, 0x80, 0x84, 0x88):
+                head_int_view[i//4] += lyric_offset+tip_ptr_offset+tip_offset
         seg_table_tip_ptrs = tuple(x+lyric_offset for x in seg_table_tip_ptrs)
-        seg_table_chrono = tuple(x+lyric_offset+tip_offset for x in seg_table_chrono)
+        seg_table_tips = tuple(x+lyric_offset+tip_ptr_offset for x in seg_table_tips)
+        seg_table_chrono = tuple(x+lyric_offset+tip_offset+tip_ptr_offset for x in seg_table_chrono)
 
     if songs:
         lyric_ptrs = bytearray()
@@ -143,16 +147,18 @@ def main():
         head_int_view=mv.cast("I")
 
     if tips_txt:
-        tip_i = seg_table_tip_ptrs[0]//4
+        #tip_i = seg_table_tip_ptrs[0]//4
         tip_ptr_off = seg_table_tips[0]
         tip_text_ptrs = bytearray()
+        tip_ptrs = bytearray()
         for tip in tips:
             tl_title = getattr(tip.title, args.lang)
             tl_pages = getattr(tip.pages, args.lang)
             pages = tl_pages or tip.pages.jp
             title = r11.clean_translation_line(tl_title or tip.title.jp, args.lang, args.game)
             title_bytes = r11.str_to_r11_bytes(title, lang=args.lang)+b'\0'
-            head_int_view[tip_i] = tip_ptr_off
+            #head_int_view[tip_i] = tip_ptr_off
+            tip_ptrs += struct.pack("<I", tip_ptr_off)
             tip_text_ptrs += struct.pack("<I", pos)
             tip_ptr_off += 4
             body += title_bytes
@@ -163,12 +169,14 @@ def main():
                 tip_ptr_off += 4
                 body += p_bytes
                 pos += len(p_bytes)
-            head_int_view[tip_i+1] = tip_ptr_off+4
+            #head_int_view[tip_i+1] = tip_ptr_off+4
+            tip_ptrs += struct.pack("<II", tip_ptr_off+4, 0)
             tip_text_ptrs += struct.pack("<II", 0, 0x9090ffff)
             tip_ptr_off += 8
-            tip_i += 3
+            #tip_i += 3
         head_int_view.release()
         mv.release()
+        head[seg_table_tip_ptrs[0]:seg_table_tip_ptrs[1]] = tip_ptrs
         head[seg_table_tips[0]:seg_table_tips[1]] = tip_text_ptrs
         mv = memoryview(head)
         head_int_view=mv.cast("I")
@@ -209,6 +217,8 @@ def main():
         table_offset = int(addr, 16)
         if table_offset > seg_table_lyrics[0]:
             table_offset += lyric_offset
+        if table_offset > seg_table_tip_ptrs[0]:
+            table_offset += tip_ptr_offset
         if table_offset > seg_table_tips[0]:
             table_offset += tip_offset
         if table_offset > seg_table_chrono[0]:
@@ -220,6 +230,8 @@ def main():
             dupe_ref = int(dupe_ref_bytes, 16)
             if dupe_ref > seg_table_lyrics[0]:
                 dupe_ref += lyric_offset
+            if dupe_ref > seg_table_tip_ptrs[0]:
+                dupe_ref += tip_ptr_offset
             if dupe_ref > seg_table_tips[0]:
                 dupe_ref += tip_offset
             if dupe_ref > seg_table_chrono[0]:
