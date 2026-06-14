@@ -116,7 +116,7 @@ CN PLACEHOLDER
 武「そういう優は、少年と何やってるんだ？」%K%P
 What about you two? What are you and the Kid up to?
 CN PLACEHOLDER
-А вы? Чем ты и Малой сейчас заняты?
+А вы? Чем вы с Малым сейчас заняты?
 
 優は、例のスキャナー『Ｌ−ＭＲＩ』のところに、何やら工具や部品を広げている最中だった。%K%P
 It looked like she was in the middle of spreading out tools and parts next to the “L-MRI” scanner.
@@ -206,7 +206,7 @@ CN PLACEHOLDER
 優は床にあぐらをかきながら、スキャナーのカバーをコキコキ開け始めた。%K%P
 You sat cross-legged on the floor and began to unscrew the cover of the scanner.
 CN PLACEHOLDER
-Ю села, скрестив ноги, на пол и начала откручивать крышку сканера.
+Ю села на пол, скрестив ноги, и начала откручивать крышку сканера.
 
 武「お前、んな格好してるとパンツ見えるぞ」%K%P
 Hey, I can see up your skirt when you sit like that.
@@ -336,7 +336,7 @@ CN PLACEHOLDER
 その表情はどことなく硬くなる。%K%P
 For some reason, her expression hardened.
 CN PLACEHOLDER
-И почему-то на ее лице появилось напряжение.
+И почему-то на её лице появилось напряжение.
 
 優「それから、そんなに自信ないけど……でも、私なりにベストは尽くしたつもりだから」%K%P
 And it's not that I'm so sure of myself, but... still, I've done my very best for her...
@@ -666,7 +666,7 @@ CN PLACEHOLDER
 空「ここだとなんですから……外、行きませんか？」%K%p
 This room is... Well, why don't we go outside?
 CN PLACEHOLDER
-Здесь, знаешь... Ну, может выйдем ненадолго?
+Здесь, знаешь... Ну, может, выйдем ненадолго?
 
 行かない
 Don't go

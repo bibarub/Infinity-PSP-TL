@@ -221,7 +221,7 @@ CN PLACEHOLDER
 身震いしたが、同時に、全身が目を覚ましていく。%K%P
 I was shivering, but at the same time, my whole body felt awake.
 CN PLACEHOLDER
-Меня встряхнуло как от разряда тока, зато я окончательно проснулся.
+Меня встряхнуло, как от разряда тока, зато я окончательно проснулся.
 
 爽快な朝は洗顔からだと、改めて知った。%K%P
 So that was why people washed their faces in the morning...
@@ -1191,7 +1191,7 @@ CN PLACEHOLDER
 空「私と入れ違いになってしまいましたね」%K%P
 We must have just missed each other.
 CN PLACEHOLDER
-Наверное мы просто разминулись.
+Наверное, мы просто разминулись.
 
 少年「ちょっと行って、武達が上に行くことを知らせてくるよ」%K%P
 I'll go and tell her that you're going up above.

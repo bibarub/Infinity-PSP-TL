@@ -36,7 +36,7 @@ CN PLACEHOLDER
 つぐみ「パイプが少し歪んでしまっているわ……金具を締め直すから、パイプを持って支えてくれる？」%K%P
 The pipe is bent a little bit... I'm going to clamp a metal sleeve on it. Would you support the pipe for me?
 CN PLACEHOLDER
-Труба слегка погнута... Я собираюсь закрепить её креплением. Ты не мог бы подержать трубу?
+Труба слегка погнута... Я собираюсь закрепить её хомутом. Ты не мог бы подержать трубу?
 
 武「ああ、了解！」%K%P
 Roger that!
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 つぐみ「武、そっちのパイプを押さえて。ぐらついてるみたい」%K%P
 Takeshi, go support that pipe. It looks like it's shaking.
 CN PLACEHOLDER
-Такэси, скорее, вон к той трубе, её трясёт?
+Такэси, скорее, вон к той трубе, её трясёт.
 
 溶接を続けながらつぐみが言う。%K%P
 Tsugumi barked the order to me as she was welding.
@@ -496,7 +496,7 @@ CN PLACEHOLDER
 武「わかってる！」%K%P
 Alright! Geez!
 CN PLACEHOLDER
-Да знаю!
+Да знаю я!
 
 素早くバルブを逆回転させる。%K%P
 I quickly turned the valve back in the other direction.
@@ -796,7 +796,7 @@ CN PLACEHOLDER
 その間にも水位は増し、くるぶしから膝を満たそうとしていた。%K%P
 In the meantime, the water level had risen from ankle to knee height.
 CN PLACEHOLDER
-А меж тем, уровень воды поднялся с лодыжек до высоты колена.
+А меж тем уровень воды поднялся с лодыжек до высоты колена.
 
 ココ「つぐみんっ！！」%K%P
 Tsugumiiin!
