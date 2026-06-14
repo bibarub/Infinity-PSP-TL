@@ -346,7 +346,7 @@ CN PLACEHOLDER
 つぐみ「武、そっちのパイプを押さえて。ぐらついてるみたい」%K%P
 Takeshi, go support that pipe. It looks like it's shaking.
 CN PLACEHOLDER
-Такэси, скорее, вон к той трубе, её трясёт?
+Такэси, скорее, вон к той трубе, её трясёт.
 
 溶接を続けながらつぐみが言う。%K%P
 Tsugumi barked the order to me as she was welding.
