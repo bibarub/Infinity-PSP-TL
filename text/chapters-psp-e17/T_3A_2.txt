@@ -496,7 +496,7 @@ CN PLACEHOLDER
 武「わかってる！」%K%P
 Alright! Geez!
 CN PLACEHOLDER
-Да знаю!
+Да знаю я!
 
 素早くバルブを逆回転させる。%K%P
 I quickly turned the valve back in the other direction.
