@@ -1,32 +1,32 @@
 ﻿気がつくと、ぼくはベッドの上にいた。%K%P
 The next thing I knew, I was on a bed.
 CN PLACEHOLDER
-Следующее, что я понял – я на кровати.
+Внезано я осознал, что лежу на кровати.
 
 まぶしいくらいに白い天井……。%K%P
 The ceiling was so white that it was slightly blinding...
 CN PLACEHOLDER
-Яркое, ослепляюще белое помещение...
+Яркий, ослепляюще белый потолок...
 
 消毒薬の匂い……。%K%P
 It smelled of disinfectant...
 CN PLACEHOLDER
-Здесь пахнет медикаментами...
+Пахнет антисептиком...
 
 ここはどこだろう？%K%P
 I wondered where I was.
 CN PLACEHOLDER
-Интересно, где я?
+Интересно, где это я?
 
 ？？「気がついた？」%K%P
 Are you awake now?
 CN PLACEHOLDER
-Ты уже очнулся?
+Ты очнулся?
 
 横たわっていたぼくの上に、ひとつの影が覆い被さる。%K%P
 A shadow passed above me on the bed.
 CN PLACEHOLDER
-Напротив кровати, на которой я лежу, промелькнула тень.
+На меня упала чья-то тень.
 
 誰だろう、この人は……？%K%P
 I wondered who it could be...
@@ -36,7 +36,8 @@ CN PLACEHOLDER
 いや……待てよ……。%K%P
 (No... Wait a minute...)
 CN PLACEHOLDER
-(Нет... минуточку...)
+(Нет... стоп...)
+// мне кажется, так звучит естественнее по нынешним меркам --bibarub
 
 だけどどこかで……。%K%P
 Somewhere...
@@ -46,17 +47,17 @@ CN PLACEHOLDER
 どこかで……ぼくはこの人に会ったような気がする。%K%P
 I felt like... I had met that person somewhere before.
 CN PLACEHOLDER
-Кажется... я уже где-то встречался с этим человеком.
+Кажется... я уже где-то видел этого человека.
 
 ？？「具合はどう？」%K%P
 How are you doing?
 CN PLACEHOLDER
-Ты в порядке?
+Как самочувствие?
 
 ？？「顔色は……良さそうだけど」%K%P
 You look... alright enough.
 CN PLACEHOLDER
-Кажется... тебе уже лучше.
+По виду... более-менее.
 
 誰だ？　誰だっけ？%K%P
 Who? Who was it?
@@ -76,7 +77,7 @@ CN PLACEHOLDER
 にもかかわらず、ぼくが彼女について知っていることと言えば、何ひとつなかった。%K%P
 Still, I couldn't put my finger on any one thing about her that I knew.
 CN PLACEHOLDER
-Всё же, я не могу собраться с мыслями о том, откуда я её знаю.
+И всё же я не могу вспомнить, что именно о ней знаю.
 
 考えれば考えるほど、コメカミの辺りがズキズキと痛んだ。%K%P
 The more I thought about it, the more the area around my temples pounded with pain.
@@ -86,7 +87,7 @@ CN PLACEHOLDER
 ？？「あれ？　やっぱりダメそう、かな？」%K%P
 Oh? I guess it's no good then?
 CN PLACEHOLDER
-Ох? Полагаю, рано радоваться?
+Ох? Видимо, всё-таки не очень?
 
 ？？「頭……痛いの？」%K%P
 Does your head... hurt?
@@ -116,7 +117,7 @@ CN PLACEHOLDER
 身体を起こし、辺りを見まわしてみた。%K%P
 I raised myself up and looked around.
 CN PLACEHOLDER
-Я приподнялся и огляделся вокруг.
+Я приподнялся и огляделся.
 
 真っ白い部屋……。%K%P
 The room was completely white...
@@ -131,22 +132,24 @@ CN PLACEHOLDER
 振り向くと、湾曲した壁には小さな窓がついていた。%K%P
 Looking behind me, there was a curved glass window in the wall.
 CN PLACEHOLDER
-Позади меня в стене виднеется фигурное стеклянное окно.
+Позади меня в стене виднеется маленькое стеклянное окошко.
+// dsp2003: Позади меня в стене виднеется фигурное стеклянное окно.
+// яп: Позади меня в вогнутой стене виднеется маленькое стеклянное окошко. [а где она вогнутая?] --bibarub
 
 ぼくはベッドから下り、きれいに揃えてあった靴を履き、窓のそばに近づいてみた。%K%P
 I got off the bed and put on my shoes, which were neatly arranged below me. I approached the window.
 CN PLACEHOLDER
-Я встал с кровати и надел ботинки, стоявшие рядом, дошёл до окна и взглянул в него.
+Встав с кровати и надев свою обувь, что аккуратно стояла на полу, я подошёл к окну.
 
 外は、見渡す限り一面の青だった。%K%P
 Outside, as far as the eye could see, was one endless sheet of blue.
 CN PLACEHOLDER
-Снаружи, во всё поле видимости, лишь бесконечная голубая стена.
+Снаружи не видно ничего, кроме бесконечного голубого океана.
 
 濃紺の深いかすみの中に、透き通るような光の帯が揺れている。%K%P
 Transparent waves of light swayed gently in the dense, deep navy mist.
 CN PLACEHOLDER
-Прозрачные волны света едва колыхаются в глубокой, плотной дымке.
+Прозрачные лучи света едва колышутся в густой, плотной дымке.
 
 ぼくは壁に両手をつくと、ぴったりとガラスに顔を寄せた。%K%P
 I put both of my hands on the wall and pushed my face up against the glass.
@@ -161,7 +164,7 @@ CN PLACEHOLDER
 一瞬、ひるんだものの、それが『魚』だと気づくまでに、そうたいして時間はかからなかった。%K%P
 For an instant, I was afraid. Then I noticed it was just a fish.
 CN PLACEHOLDER
-В какой-то момент я даже испугался. Но оказалось, что это всего лишь рыба.
+На секунду я даже испугался. Но оказалось, что это всего лишь рыба.
 
 少年「ここは……」%K%P
 This is...
@@ -171,12 +174,12 @@ CN PLACEHOLDER
 少年「……海の中なんだ」%K%P
 ...the middle of the ocean.
 CN PLACEHOLDER
-;Мальчик«...посреди океана?»%K%P
+;Мальчик«...посреди океана...»%K%P
 
 ？？「えっ？　どうしちゃったの？」%K%P
 What's the matter?
 CN PLACEHOLDER
-Э-э?.. Что ты сказал?
+М-м? В чём дело?
 
 いつの間にか、彼女がぼくの隣に立っていた。%K%P
 At some point, the girl had come to stand beside me.
@@ -186,7 +189,7 @@ CN PLACEHOLDER
 ？？「当たり前でしょ？」%K%P
 Of course it is!
 CN PLACEHOLDER
-Ну конечно же!
+А где же ещё?
 
 ？？「ここは、ＬｅＭＵの救護室なんだから」%K%P
 This is the LeMU infirmary.
@@ -206,7 +209,7 @@ CN PLACEHOLDER
 そうだ！　そうだよ！%K%P
 That was right! That was right!
 CN PLACEHOLDER
-Всё верно! Конечно!
+Конечно! Ну конечно же!
 
 ぼくはＬｅＭＵに来たんだ！%K%P
 I had come to LeMU!
@@ -221,7 +224,7 @@ CN PLACEHOLDER
 そして、ぼくは彼女と一緒にＬｅＭＵの中を歩きまわったんだ。%K%P
 And I had been walking around LeMU with her.
 CN PLACEHOLDER
-И я гулял там вместе с ней.
+И гулял там вместе с ней.
 
 古代の遺跡……%T030
 There were ancient ruins... 
@@ -276,12 +279,12 @@ CN PLACEHOLDER
 苦痛に顔をゆがめ、何度も何度も首を振る。%K%P
 I shook my head again and again, my face distorted from the pain.
 CN PLACEHOLDER
-Она ударяет снова и снова, моё лицо перекосило от этой боли.
+Моё лицо перекосило от этой боли. Я снова и снова трясу головой.
 
 ？？「ちょ、ちょっと……大丈夫？」%K%P
 Hey... Are you alright?
 CN PLACEHOLDER
-С-стой... ты в порядке?!
+О-ой... ты в порядке?
 
 ？？「もう少し、横になってた方がいいんじゃない？」%K%P
 Shouldn't you rest a little more?
@@ -336,7 +339,7 @@ CN PLACEHOLDER
 とっさに、ぼくはそう答えていた。%K%P
 I replied instantly.
 CN PLACEHOLDER
-Я ответил машинально...
+Ответил я машинально.
 
 彼女の手から顔を背ける。%K%P
 I looked away from her hand.
@@ -356,7 +359,7 @@ CN PLACEHOLDER
 ？？「だったら飲まないと……痛み、退かないよ」%K%P
 Well, if you don't take these... the pain won't go away.
 CN PLACEHOLDER
-Тогда, если ты их не примешь... боль никуда не денется.
+Ну и если ты их не примешь... боль никуда не денется.
 
 少年「…………」%K%P
 ...
@@ -366,7 +369,7 @@ CN PLACEHOLDER
 依然として、頭はズキズキとした痛みを発している。%K%P
 Pain continued to throb through my skull.
 CN PLACEHOLDER
-Боль продолжает проламываться сквозь мой череп.
+Голова по-прежнему пульсирует от боли.
 
 彼女の手にする錠剤は、それを和らげてくれるものであり……。%K%P
 The pills in her hand would help to ease that pain...
@@ -386,7 +389,7 @@ CN PLACEHOLDER
 なぜかぼくは、薬から目を逸らしていたかった。%K%P
 For some reason, I wanted to look away from the medicine...
 CN PLACEHOLDER
-Почему-то я не хочу даже прикасаться к этим лекарствам...
+Почему-то я не хочу даже смотреть на эти лекарства...
 
 ？？「あっ、わかったー♪」%K%P
 Oh, I get it!
@@ -396,7 +399,7 @@ CN PLACEHOLDER
 ？？「さては、きみ……」%K%P
 I see, you...
 CN PLACEHOLDER
-Ясно, ты...
+Ясно, тебе...
 
 ？？「お薬、苦手なんでしょう？」%K%P
 You don't like the taste, right?
@@ -411,22 +414,22 @@ CN PLACEHOLDER
 ？？「もぉ、なっさけないなぁ」%K%P
 That's kind of sad.
 CN PLACEHOLDER
-Ну, жалко конечно.
+Ну, жалко, конечно.
 
 ？？「でも、だいじょ〜ぶ♪　この薬、ちっとも苦くなんてないから」%K%P
 But that's okay. This medicine isn't bitter at all.
 CN PLACEHOLDER
-Но ничего. Эти лекарства даже не горькие.
+Но не-е-е волнуйся! Эти лекарства совсем не горькие.
 
 ？？「苦いどころか、芳醇で濃厚な甘みが口いっぱ〜いに広がっていき、それでいて少しもしつこくなくぅ――」%K%P
 It's more than not bitter. It's got a mellow, sweet, full flavor that floods throughout the mouth without an aftertaste...
 CN PLACEHOLDER
-Более того, у них дынный, сладкий наполнитель, после которого не остаётся неприятного привкуса...
+Скажу тебе больше: у них вкуснейший сладкий наполнитель, после которого даже и приторного вкуса не остаётся.
 
 少年「痛たた……」%K%P
 Ooouccch...
 CN PLACEHOLDER
-;Мальчик«О-о-ой...»%K%P
+;Мальчик«А-а-ай...»%K%P
 
 頭痛がいっそう酷くなってきた。%K%P
 My headache had gotten worse.
@@ -441,22 +444,22 @@ CN PLACEHOLDER
 ？？「どうしても飲めないっていうなら、お尻から坐薬を入れちゃうぞっ」%K%P
 If you REALLY can't swallow it, then I can give it to you anally via a suppository.
 CN PLACEHOLDER
-Если ты ДЕЙСТВИТЕЛЬНО не можешь их выпить, я могу ввести тебе ректальную свечку.
+Если ты СОВСЕМ не можешь их выпить, я введу тебе ректальную свечку.
 
 瞬間、貞操の危機を感じ、ズボンを押さえるぼく。%K%P
 For an instant, I feared my chastity might be violated and grabbed the belt of my pants.
 CN PLACEHOLDER
-Я испугался за своё целомудрие и моментально схватил ремень на брюках.
+Я испугался за своё целомудрие и моментально схватился за ремень на брюках.
 
 少年「わ、わかったよ……飲む……飲むってば」%K%P
 A-Alright. I'll take it... I'll take it.
 CN PLACEHOLDER
-;Мальчик«Л-ладно. Я выпью... выпью.»%K%P
+;Мальчик«Л-ладно. Я выпью их... выпью.»%K%P
 
 半ば脅迫される形で、ぼくは痛み止めをムリヤリ飲み込んだ。%K%P
 Feeling half-threatened, I downed the medicine even though I didn't want to.
 CN PLACEHOLDER
-Положение безвыходное – придётся пить, даже если не хочется.
+Положение безвыходное. Я с трудом проглотил таблетки.
 
 とても、苦かった。%K%P
 It was super bitter.
@@ -466,17 +469,17 @@ CN PLACEHOLDER
 ？？「たぶん、軽い気圧障害だと思うよ？」%K%P
 It's probably just mild barotrauma, or decompression sickness.
 CN PLACEHOLDER
-Скорее всего это просто кессонная болезнь.
+Наверное, это от перепада давления.
 
 ？？「よくいるのよ、お客さんで……」%K%P
 It happens a lot to visitors...
 CN PLACEHOLDER
-Это случается со многими посетителями...
+Такое случается со многими посетителями...
 
 ？？「突然、具合が悪くなって、運び込まれちゃう人が……」%K%P
 They just feel ill all of a sudden and get carted in here...
 CN PLACEHOLDER
-Ни с того ни с сего нездоровится, и их приносят сюда...
+Ни с того ни с сего им нездоровится, и их приносят сюда...
 
 言いながら、彼女はぼくの持ったカップをそっとつかみ取った。%K%P
 She said that as she slyly took the cup from my hand.
@@ -486,37 +489,39 @@ CN PLACEHOLDER
 ぼくはふかふかの枕に頭を沈めた。%K%P
 I sank my head back into the fluffy pillow.
 CN PLACEHOLDER
-Я положил голову обратно на пуховую подушку.
+Я положил голову обратно на мягкую подушку.
 
 ？？「そもそも無理があるのよ」%K%P
 It's a bit rough coming down here anyway.
 CN PLACEHOLDER
-Меня это уже постепенно стало раздражать. Сам посуди...
+Ну, учитывая то, как сюда приходиться спускаться...
 
 ？？「慣れない人が、いきなり６気圧の中で、長時間活動するのなんてさ」%K%P
 People with no experience just jumping to six atmospheres for long periods of time. Sheesh.
 CN PLACEHOLDER
-Люди без подготовки берут и перепрыгивают в 6 атмосфер на долгое время.
+Тяжело с непривычки долго ходить под давлением в 6 атмосфер.
 
 ？？「人間は、地表の気圧の中で、快適に過ごせるように作られてるんだもん」%K%P
 The air pressure in the earth's atmosphere is made for people to live comfortably.
 CN PLACEHOLDER
-Давление воздуха на планете создано таким, чтобы людям жилось легко.
+Ведь человек создан так, чтобы ему комфортно жилось под давлением на планете.
+// dsp2003: Давление воздуха на планете создано таким, чтобы людям жилось легко.
+// наоборот --bibarub
 
 ？？「こんな密度の濃い空気を吸ってたら、体が拒絶反応おこしちゃうのは当然だと思う」%K%P
 Of course people are going to have bad reactions to breathing air this thick.
 CN PLACEHOLDER
-Конечно, ни одно живое существо не перенесёт такое резкое изменение давления без последствий.
+Конечно, не получится без последствий дышать таким тяжёлым воздухом.
 
 ？？「空気と初恋は、淡い方がいいに決まってるの」%K%P
 Air and first love; both should be light. No doubt about that.
 CN PLACEHOLDER
-Воздух и первая любовь – эти две вещи, без сомнения, должны быть лёгкими.
+Воздух и первая любовь – эти две вещи, бесспорно, должны быть изящными.
 
 ？？「コーヒーと初行為なら……濃い方がいいけどね」%K%P
 Coffee and your first TIME... those, of course, are better thick.
 CN PLACEHOLDER
-Кофе и твой первый РАЗ... ну, лучше больше и покрепче.
+А вот кофе и твой первый РАЗ... ну, лучше покрепче.
 
 少年「……えっ？」%K%P
 ...Huh?
@@ -531,7 +536,7 @@ CN PLACEHOLDER
 細い指の背中が、ぼくの頬をなでた。%K%P
 The backs of her slender fingers stroked my cheek.
 CN PLACEHOLDER
-Фаланги её тонких пальцев щекочут мою щёку.
+Её тонкие пальцы нежно гладят мою щёку.
 
 なめらかなその肌の感触は、ぼくの首筋をなぞるように流れ落ち、ちょうど鎖骨の上の辺りでピタリと止まった。%K%P
 The smooth texture of her skin slipped down from my neck to above my chest, stopping there.
@@ -541,7 +546,7 @@ CN PLACEHOLDER
 ？？「大丈夫、熱は無いみたい」%K%P
 It's alright. You don't seem to have a fever.
 CN PLACEHOLDER
-Всё в порядке. Похоже, у тебя нет жара.
+Всё в порядке. Температуры вроде нет.
 
 彼女が微笑みを向ける。%K%P
 She smiled at me.
@@ -551,7 +556,7 @@ CN PLACEHOLDER
 ぼくはなぜだかとても恥ずかしくなって、目線ギリギリまで布団をかぶり、顔を隠した。%K%P
 Somehow, I felt all embarrassed. I pulled the bedcover up to my eyes and hid my face.
 CN PLACEHOLDER
-Почему-то я чувствую себя смущённым. Натянув одеяло на глаза, я закрыл лицо.
+Почему-то я чувствую себя смущённым. Я закрыл лицо, натянув одело до самых глаз.
 
 ？？「それじゃあそのまま、しばらく休んでて？」%K%P
 Just rest like that for a while. Okay?
@@ -561,7 +566,7 @@ CN PLACEHOLDER
 ？？「私、外の様子、見て来るから」%K%P
 I'll go see what's going on outside.
 CN PLACEHOLDER
-Я посмотрю, что происходит снаружи.
+А я посмотрю, что происходит снаружи.
 
 少年「外？」%K%P
 Outside?
@@ -571,7 +576,7 @@ CN PLACEHOLDER
 ？？「うーん……何て説明すればいいのかな？」%K%P
 Yes... How should I put this?
 CN PLACEHOLDER
-Да... Как бы тебе сказать...
+Да... Ну, как бы тебе сказать...
 
 ？？「きみが寝てる間に、ちょっとしたトラブルがあったみたいで……」%K%P
 While you were asleep, it seems that there was a bit of trouble...
@@ -601,17 +606,17 @@ CN PLACEHOLDER
 少年「あっ、ちょっと待って！」%K%P
 Uh, hey! Wait a second!
 CN PLACEHOLDER
-;Мальчик«А, эй! Погоди секундочку!»%K%P
+;Мальчик«А, эй! Погоди секунду!»%K%P
 
 ？？「ん？」%K%P
 What?
 CN PLACEHOLDER
-Что?
+А?
 
 少年「ひとつだけ、聞きたいことがあるんだ」%K%P
 Just let me ask you one thing.
 CN PLACEHOLDER
-;Мальчик«Всего один вопрос.»%K%P
+;Мальчик«У меня один вопрос.»%K%P
 
 ？？「なーに？」%K%P
 What might that be?
@@ -626,12 +631,12 @@ CN PLACEHOLDER
 少年「さっき『ここはＬｅＭＵの救護室だ』って、言ってたけど……？」%K%P
 You just told me that this is the LeMU infirmary... right?
 CN PLACEHOLDER
-;Мальчик«Ты вроде как сказала, что это лазарет LeMU... так?»%K%P
+;Мальчик«Ты вроде как сказала, что это лазарет LeMU... да?»%K%P
 
 ？？「きみはね？　ツヴァイトシュトックの売店で、いきなり倒れちゃったの」%K%P
 You passed out all of a sudden at the kiosk on Zweiter Stock.
 CN PLACEHOLDER
-Ты ни с того ни с сего свалился у лавки на Цвайте Шток.
+Ты ни с того ни с сего упал в обморок у лавки на Цвайте Шток.
 
 ？？「それで私は……通りがかりの男の人と、きみをこの救護室まで運んで来て……」%K%P
 And then some guy and I... hauled you here...
@@ -641,7 +646,7 @@ CN PLACEHOLDER
 ？？「って言うか、覚えてないの？　あのときのこと」%K%P
 You don't remember what happened?
 CN PLACEHOLDER
-Разве ты не помнишь, что произошло?
+А ты сам что ли не помнишь, что произошло?
 
 売店……売店……。%K%P
 Kiosk... At the kiosk...
@@ -661,7 +666,7 @@ CN PLACEHOLDER
 ぼくの身体を覆う何か……。%K%P
 Something covering my body...
 CN PLACEHOLDER
-Что-то покрыло моё тело...
+Что-то накрыло моё тело...
 
 レミュールの、着ぐるみ……。%K%P
 The lemur mascot...
@@ -672,21 +677,22 @@ CN PLACEHOLDER
 You... You hit me!
 CN PLACEHOLDER
 Это был ты... Ты ударил меня!
+// надо синхр с OP00_3
 
 ――そうだ！　――思い出した！%K%P
 That's right! I remember!
 CN PLACEHOLDER
-Всё верно! Я помню!
+Точно! Я вспомнил!
 
 ぼくはあのとき、突然めまいに襲われて……。%K%P
 And I was struck dizzy...
 CN PLACEHOLDER
-Головокружительное чувство...
+А потом у меня закружилась голова...
 
 何かが奪われて行くような……すべての感覚を失ってしまったような……そんな気がして……。%K%P
 Like something being stolen away... I lost consciousness... and...
 CN PLACEHOLDER
-Я был в шоке... потерял сознание... и...
+А потом я... потерял сознание... будто бы у меня его отобрали...
 
 ？？「どう？　思い出した？」%K%P
 So? Do you remember?
@@ -711,7 +717,8 @@ CN PLACEHOLDER
 ？？「はいっ、それじゃあいい子にして待っててねぇ〜？」%K%P
 Well, be a good boy and wait here, alright?
 CN PLACEHOLDER
-Тогда будь хорошим мальчиком и подожди здесь, ладушки?
+Тогда будь паинькой и подожди здесь, хорошо?
+// ладушки
 
 ？？「すぐ戻って来るから」%K%P
 I'll be right back.
@@ -721,7 +728,7 @@ CN PLACEHOLDER
 彼女はぼくの頭をポンポンとやさしくたたくと、救護室のドアに向かって歩き出した。%K%P
 She patted my head gently and began walking for the door.
 CN PLACEHOLDER
-Она нежно похлопала меня по голове и стала выходить в дверь.
+Она нежно похлопала меня по голове и начала идти в сторону двери.
 
 ぼくは首を横に向け、彼女の背中を見つめながら……%K%P
 While I turned my head to stare at her back...
@@ -746,7 +753,7 @@ CN PLACEHOLDER
 『めんどくさいから……「優」でいいよ』%K%P
 “But it's such a pain... Just call me 'You'.”
 CN PLACEHOLDER
-«Но об него язык сломаешь... Зови меня „Ю“»
+«Но об него язык сломаешь... Зови меня „Ю“.»
 
 そんな彼女の言葉を思い出していた。%K%P
 I remembered her words.
@@ -756,27 +763,27 @@ CN PLACEHOLDER
 優はドアの前で振り返り、ぼくに向かって軽く手をあげ……そのまま、救護室を出て行った。%K%P
 You turned at the door and looked back at me, lifting her hand to wave, and left the infirmary.
 CN PLACEHOLDER
-Ю повернулась у двери и взглянула на меня, подняла руку чтобы помахать, и оставила лазарет.
+Ю повернулась у двери и взглянула на меня, подняла руку, чтобы помахать, и оставила лазарет.
 
 誰もいなくなった室内は、時が止まったように静かだった。%K%P
 All alone inside the quiet room, it was like time had stopped.
 CN PLACEHOLDER
-Пока я один в комнате, так тихо, словно время остановилось.
+Я остался один в комнате. Воцарилась тишина, из-за которой казалось, будто время остановилось.
 
 薬が効いてきたのか、頭の痛みはすっかりと失せている。%K%P
 I didn't know if the medicine had started to work or not, but my headache was completely gone.
 CN PLACEHOLDER
-Я не знаю, начали ли действовать лекарства, но головная боль полностью прошла.
+Не знаю, начали ли действовать лекарства, но головная боль полностью прошла.
 
 ぼくは、天井を見つめながら考えた。%K%P
 As I stared at the ceiling, I thought.
 CN PLACEHOLDER
-Рассматривая помещение, я думаю.
+Глядя на потолок, я начал думать.
 
 ここに運び込まれるまでの出来事を……。%K%P
 I thought about the events leading to my being in that bed...
 CN PLACEHOLDER
-Я думаю, что за события привели к тому, что я оказался в этой постели...
+Думать о тех событиях, вследствие которых я оказался в этой постели...
 
 ………………………………。%K%P
 .........
@@ -786,7 +793,7 @@ CN PLACEHOLDER
 ぼくは気を失う前、%K%N
 Before I passed out,
 CN PLACEHOLDER
-До того как отключиться,
+До того, как я упал в обморок,
 
 優と一緒にＬｅＭＵの中を歩きまわっていた。%K%N
 I had been walking around LeMU with You.
@@ -796,12 +803,12 @@ CN PLACEHOLDER
 売店に行って話をして……%K%N
 We had gone to a shop and were talking...
 CN PLACEHOLDER
-Мы ходили по магазинам и болтали...
+Мы болтали, зашли в какой-то магазин...
 
 それから卵みたいなエレベーターに乗って、%N２階に上がったんだ。%K%N
 Then we rode an egg-shaped elevator up two floors.
 CN PLACEHOLDER
-Потом мы ехали на яйцевидном лифте на верхний этаж.
+Потом мы проехали на яйцевидном лифте на второй этаж.
 
 優と出会う前は、小さな公園にいた。%K%O
 Before I had met You, I had been in a small park.
@@ -811,7 +818,7 @@ CN PLACEHOLDER
 その公園のベンチで、ぼくは……%K%N
 I was on a bench in that park...
 CN PLACEHOLDER
-Я был на скамейке в том парке...
+На скамейке в том парке я...
 
 ぼくは……誰かを待っていた……。%K%N
 I was... waiting for someone.
@@ -835,12 +842,14 @@ CN PLACEHOLDER
 記憶がとてもあいまいで、その先のことを考えると、頭の中にかすみがかかったように、すべてがぼやけてしまうのだった。%K%N
 My memory was a fog, and thinking about events after that would make my mind seemingly cloud over.
 CN PLACEHOLDER
-Всё как в тумане, а мысли о произошедших событиях ещё сильнее перекрывают мою память.
+Всё как в тумане. А когда я пытаюсь вспомнить, что было до этого, то этот туман перекрывается расплывчатой дымкой.
+// мне не нравится, но так ближе к япу --bibarub
+// "до этого" потому, что так хронологически, хоть и цепочка событий выстраивается вперед --bibarub
 
 ぼくは何度も何度も頭を振り、意識を集中させた。%K%O
 I shook my head several times, trying to clear it and concentrate.
 CN PLACEHOLDER
-Я тряхнул головой несколько раз чтобы очистить её от мыслей и сконцентрироваться.
+Я тряхнул головой несколько раз в попытке сконцентрироваться.
 
 ぼくは、どうしてここ――%K%N
 Why was I there?
@@ -850,7 +859,7 @@ CN PLACEHOLDER
 ＬｅＭＵにやって来たんだろう？%K%N
 Why had I come to LeMU?
 CN PLACEHOLDER
-Почему я пришёл в LeMU?
+Зачем я пришёл в LeMU?
 
 ひとりで来たのか？　それとも、誰かと一緒に？%K%N
 Did I come alone? Or was I with someone else?
@@ -885,7 +894,7 @@ CN PLACEHOLDER
 記憶の糸は、そこでぷっつりと途絶えていた。%K%P
 The thread of my memory was cut off right there.
 CN PLACEHOLDER
-Осколок моей памяти обрывается прямо здесь.
+Нить моих воспоминаний обрывается прямо здесь.
 
 『あの公園のベンチでアイスクリームをなめていたとき』……そこから先へと進むことができなかった。%K%P
 I couldn't recall anything beyond that time on the park bench enjoying ice cream...
@@ -895,7 +904,7 @@ CN PLACEHOLDER
 森の中で道に迷い、来た道を引き返してみると、そこには何も無い暗闇が広がっていて……。%K%P
 It was like getting lost in a forest and going to turn back only to discover that everything had gone dark...
 CN PLACEHOLDER
-Будто я заблудился в лесу и блуждаю по нему в темень...
+Будто я заблудился в лесу, а пройдя назад по своим шагам оказался в необъятной тьме...
 
 なんだか不思議な気分だった。%K%P
 I felt very strange.
@@ -905,12 +914,12 @@ CN PLACEHOLDER
 まるで夢の中にでもいるようだ。%K%P
 It felt just like I was in the middle of a dream.
 CN PLACEHOLDER
-Словно я нахожусь посреди сна.
+Словно я во сне.
 
 何か、大切なものをなくしてしまったような気がする。%K%P
 I felt like I had lost something. Something very important.
 CN PLACEHOLDER
-Словно я потерял что-то, что-то очень важное.
+Кажется, что я что-то потерял. Что-то очень важное.
 
 それが何なのかはわからない。%K%P
 But I didn't know what that something was.
@@ -920,32 +929,32 @@ CN PLACEHOLDER
 ただ、先へ進むことができないのは、その『大切な何か』を失ってしまったからだ、という直感みたいなものがあった。%K%P
 And not being able to move forward made me feel that it was specifically because I had lost something important.
 CN PLACEHOLDER
-То, что я не могу никуда пойти, наводит на мысль, что я действительно потерял что-то важное.
+И мне казалось, что я не могу вспомнить всё именно из-за того, что потерял это что-то.
 
 心地の悪い欠落感……。%K%P
 I felt an unpleasant sense of something lacking...
 CN PLACEHOLDER
-Словно чего-то не хватает...
+Меня не покидает чувство, что чего-то не хватает.
 
 いらいらするような違和感が、頭の中でうずいていた。%K%P
 And that sense of something not being quite right irritated me.
 CN PLACEHOLDER
-Не то, чтобы мне было не по себе, но...
+И это гнетущее чувство меня раздражает.
 
 ぼくは布団の中から右手を出し、手の平をぼんやりと眺めた。%K%P
 I took my right hand out from under the blanket and stared dreamily at my palm.
 CN PLACEHOLDER
-Я высунул свою правую руку из-под одеяла и внимательно посмотрел на кисть.
+Я высунул правую руку из-под одеяла и бездумно уставился на кисть.
 
 刻み込まれた無数のシワ……絡み合い、枝のように伸びて行く複雑な模様……。%K%P
 The countless wrinkles etched there... intertwining, reaching out like the branches of a tree in complicated patterns...
 CN PLACEHOLDER
-Бесконечные морщинки на ладони... Они переплетаются и ветвятся, будто корни дерева, образуя замысловатый рисунок...
+Бессчётные морщинки на ладони... Они переплетаются и ветвятся, будто ветви дерева, образуя замысловатый рисунок...
 
 赤みがかった肌の色……奥に埋ずもれた血管の、ほのかな青……。%K%P
 The pinkish skin... and buried deeper, the slightly blue veins...
 CN PLACEHOLDER
-Розоватая кожа... и находящиеся глубоко под ней вены...
+Розоватая кожа... и находящиеся глубоко под ней голубоватые вены...
 
 そして……５本の指……。%K%P
 And... five fingers...
@@ -955,32 +964,32 @@ CN PLACEHOLDER
 （ぼくの手の平は、生まれたときから、こんな奇妙な形をしていたのだろうか？）%K%P
 (Had my hand had always had this strange shape?)
 CN PLACEHOLDER
-(Разве моя рука всегда была такой?)
+(Разве моя рука всегда была такой странной формы?)
 
 ふと、そんなことを思った。%K%P
 Bizarre thoughts hit me from nowhere.
 CN PLACEHOLDER
-Странные мысли посетили мою голову.
+Эта мысль внезапно посетила мою голову.
 
 いや、ぼくの右の手の平は、いつもと何も変わらない、普通の形をしている。%K%P
 No, my right palm was no different than it had ever been.
 CN PLACEHOLDER
-Нет, моя рука всегда была такой.
+Да нет, моя правая рука всегда была такой – обычной.
 
 にもかかわらず、そんな当たり前のことにさえも、疑問を抱かずにはいられなかった。%K%P
 Yet, for some reason, I felt that I had to doubt even that natural fact.
 CN PLACEHOLDER
-Хотя почему-то я чувствовал, что должен усомниться даже в этом совершенно естественном факте.
+Но почему-то я начал сомневаться даже в таком совершенно естественном факте.
 
 もしかしたら、ほんの数時間前まで、ぼくの指は６本だったのかもしれない……。%K%P
 Maybe, just maybe, until a few hours ago, I might have had six fingers...
 CN PLACEHOLDER
-Может быть, хотя вряд ли, всего несколько часов назад у меня было шесть пальцев...
+Может быть, всего несколько часов назад у меня было шесть пальцев...
 
 ７本だったかも、８本だったかもしれない……。%K%P
 Or seven, or maybe even eight...
 CN PLACEHOLDER
-Или семь, или все девять...
+Или семь. Или, может, восемь...
 
 何かが間違っているような気がする。%K%P
 I felt like something was wrong.
@@ -990,17 +999,17 @@ CN PLACEHOLDER
 こんなことを思うのも『大切な何か』をなくしてしまったから……なのだろうか？%K%P
 Could I have been feeling that way because... I lost something special?
 CN PLACEHOLDER
-Может, мне так кажется, потому что... я потерял «что-то особенное»?
+Может, мне так кажется потому, что я... потерял это «нечто особенное»?
 
 手の平を、握っては開き、握っては開き……意味も無く、単調な動作を繰り返す。%K%P
 I opened and closed my hand a few times... just repeating that meaningless, simple exercise.
 CN PLACEHOLDER
-Я несколько раз сжал и разжал ладонь... бессмысленное, простое упражнение.
+Я несколько раз сжал и разжал ладонь... простое бессмысленное упражнение.
 
 ぼくは森の中をさまよっていた。%K%P
 I wandered in the forest.
 CN PLACEHOLDER
-Я брожу по лесу.
+Я будто бы брожу по лесу.
 
 失ったもう１本の指を、探し求めて……。%K%P
 Searching for that one lost finger...
@@ -1015,12 +1024,12 @@ CN PLACEHOLDER
 優は部屋の中に駆け込むと、そのまま突進するような勢いでぼくのそばに近づき……%K%P
 You dashed into the room and ran toward me as if she was going to bowl me over...
 CN PLACEHOLDER
-Ю ворвалась в комнату и подбежала ко мне так, будто собирается выбросить с кровати...
+Ю ворвалась в комнату и подбежала ко мне так, будто собирается напрыгнуть на меня...
 
 優「何やってるの！　寝てる場合じゃないでしょ！」%K%P
 What are you doing? This is no time to be sleeping!
 CN PLACEHOLDER
-Ты что разлёгся?! Некогда спать!
+Ты чего разлёгся?! Некогда спать!
 
 突然、怒鳴り声をあげた。%K%P
 She shouted at me suddenly.
@@ -1035,7 +1044,7 @@ CN PLACEHOLDER
 わけがわからず、唖然とするぼく……。%K%P
 Completely clueless, I simply laid there in a daze.
 CN PLACEHOLDER
-Не соображая, я лишь лежу на месте, парализованный.
+Я лишь лежу на месте в ступоре.
 
 優「早く起きて！」%K%P
 Get up! Hurry!
@@ -1060,12 +1069,12 @@ CN PLACEHOLDER
 優「わかんないけど……とにかく、逃げなくちゃ！」%K%P
 I dunno, but... Anyway, we've gotta escape from here!
 CN PLACEHOLDER
-Я не знаю, но... Всё равно мы должны уходить отсюда!
+Я не знаю, но... Не важно, мы должны уходить отсюда!
 
 優の引きつった表情――。%K%P
 You had a panicked expression.
 CN PLACEHOLDER
-Ю в панике.
+Ю явно напряжена.
 
 さっきまでの穏やかな面影は、もうそこにはなかった。%K%P
 The relaxed look that had been on her face just a while ago had vanished completely.
@@ -1080,12 +1089,12 @@ CN PLACEHOLDER
 優「決まってるでしょ！？」%K%P
 There's only one place!
 CN PLACEHOLDER
-Есть только одно место!
+А ты как думаешь?!
 
 優「海の上、浮島に逃げるの！」%K%P
 The floating island on the ocean!
 CN PLACEHOLDER
-Плавучий остров!
+На плавучий остров!
 
 少年「どうして？」%K%P
 Why?
@@ -1095,17 +1104,18 @@ CN PLACEHOLDER
 優「いいから！　いちいち聞き返さないで！」%K%P
 Because I say so! Don't ask questions!
 CN PLACEHOLDER
-Потому что я так сказала! Не спрашивай!
+Да потому что! Не задавай тупых вопросов!
 
 優「逃げなきゃいけないから逃げるの！」%K%P
 We're escaping because we have to escape!
 CN PLACEHOLDER
-Мы убегаем, потому что у нас нет другого выхода!
+Мы убегаем потому, что надо убегать!
 
 優の言葉には鬼気迫るものがあった。%K%P
 There was something urgent and powerful in You's words.
 CN PLACEHOLDER
-В словах Ю есть нечто неотложное и властное.
+В тоне Ю было нечто жутко серьёзное.
+// в япе "в словах", но мне кажется, такая формулировка не сильно подходит --bibarub
 
 ぐいぐいとぼくの腕を引っぱる優……。%K%P
 She dragged me along...
@@ -1120,17 +1130,17 @@ CN PLACEHOLDER
 ぼくは慌ててスニーカーをつっかけると、優とともに救護室を飛び出した。%K%P
 I hurriedly slipped on my sneakers and fled out of the room with her.
 CN PLACEHOLDER
-Я спешно впрыгнул в свои ботинки и вылетел вместе с ней из комнаты.
+Я наспех накинул кроссовки и вместе с ней вылетел из комнаты.
 
 広い通路に出たとたん、ぼくの両足はパタリと止まった。%K%P
 The instant we emerged into the sprawling corridor, my feet stopped.
 CN PLACEHOLDER
-Как только мы вышли в большой коридор, мои ноги остановились.
+Как только мы вышли в большой коридор, мои ноги встали на месте.
 
 息を呑み、体を凍らせ、ただ目の前に広がった光景をぼう然と見つめる。%K%P
 I sucked in my breath, my body froze, and I just stared at the light spreading before me.
 CN PLACEHOLDER
-Дыхание перекрыло, тело замерло, я просто смотрю на просвет передо мной.
+Дыхание перекрыло, тело замерло. Я просто смотрю на картину передо мной.
 
 そこには、あるべきはずのものが無かった。%K%P
 There was something missing.
@@ -1145,17 +1155,17 @@ CN PLACEHOLDER
 少年「嘘……でしょ……」%K%P
 No way... This can't be...
 CN PLACEHOLDER
-;Мальчик«Нет... Не может быть...»%K%P
+;Мальчик«Не может... быть...»%K%P
 
 呟いた言葉は、不気味な静寂の中へと呑み込まれていった。%K%P
 The words I muttered were devoured by the eerie silence.
 CN PLACEHOLDER
-Мои слова моментально пронеслись эхом вдаль.
+Мои слова моментально поглотила зловещая тишина.
 
 通路の前後……遠く彼方まで視線を向けても、人の姿は見当たらない。%K%P
 Looking back and forth in the corridor... even in the furthest direction, there was no sign of anyone.
 CN PLACEHOLDER
-Я смотрю по сторонам... но нигде никого нет.
+Я смотрю по сторонам... но нигде, даже в глубинах коридора, никого нет.
 
 人工的な左右の壁……。%K%P
 Just the man-made walls on both sides...
@@ -1165,7 +1175,7 @@ CN PLACEHOLDER
 天井から降り注ぐ無機質な光は、白よりも白く、冷たい輝きを放っていた。%K%P
 Unnatural light, whiter than white, shone from the ceiling and gave off a cold light.
 CN PLACEHOLDER
-Неестественный свет, ярче солнечного, сияющий из помещений, такой холодный.
+Неестественный свет, сияющий с потолка, был белее белого и отдавал холодом.
 
 少年「ど、どうして……」%K%P
 Wh-Why...
@@ -1190,7 +1200,7 @@ CN PLACEHOLDER
 少年「みんな……みんな……一体どこに……？」%K%P
 Everyone... Where could everyone be...?
 CN PLACEHOLDER
-;Мальчик«Все... где же все?..»%K%P
+;Мальчик«Все... Где же... все?..»%K%P
 
 優「かくれんぼでもしてると思う？」%K%P
 Do you think they're playing hide and seek?
@@ -1210,17 +1220,18 @@ CN PLACEHOLDER
 優「一刻も早くここを出ないと……」%K%P
 We need to get out of here as soon as possible, or...
 CN PLACEHOLDER
-Мы должны срочняк выбраться отсюда, иначе...
+Мы должны срочно выбраться отсюда, а иначе...
+// dsp2003: Мы должны срочняк выбраться отсюда, иначе...
 
 そう言って、優は再びぼくの腕を引いた。%K%P
 Saying that, You again tugged my arm.
 CN PLACEHOLDER
-Сказав это, Ю снова схватила меня за руку.
+Сказав это, Ю снова потащила меня за руку.
 
 体勢を崩し、つんのめりそうになりながらも、ぼくは優に導かれるがまま、広い通路を走り出した。%K%P
 Hunched over and on the verge of tripping, I let You lead me through the wide corridors as we ran.
 CN PLACEHOLDER
-Чуть не потеряв равновесие, я дал Ю вести меня за собой через длиннющие коридоры. Мы побежали.
+Чуть не потеряв равновесие и не упав, я дал Ю вести себя, и мы побежали по широченным коридорам.
 
 静まり返った館内に、ふたりの足音だけが響いている。%K%P
 Our footsteps were the only sound echoing in the quiet complex.
@@ -1245,22 +1256,23 @@ CN PLACEHOLDER
 怪物の正体はわからず、どうして自分が逃げなければならないのかもわからない。%K%P
 With no clue as to the identity of the monster nor why we needed to escape.
 CN PLACEHOLDER
-Не понимая, что за монстр нас преследует, и почему мы должны убегать.
+Причём непонятно, что за монстр нас преследует и почему мы должны убегать.
 
 ゾワゾワと背筋をはい上がって来る恐怖に、なす術もなく怯えている。%K%P
 Hair-raising fear rose within me, and I was powerless to do anything. I simply cowered.
 CN PLACEHOLDER
-Со страхом, от которого волосы дыбом, я беспомощен и не знаю, что делать. Я просто сползаю.
+От страха волосы встают дыбом. Я абсолютно беспомощен перед ним, я не знаю, что делать.
+// адаптация от япа но окей? --bibarub
 
 誰もいない世界で……。%K%P
 In a world devoid of people...
 CN PLACEHOLDER
-В мир, лишённый людей...
+В мире, лишённом людей...
 
 色あせた景色の中で……。%K%P
 Among faded colors...
 CN PLACEHOLDER
-И ярких красок...
+...и ярких красок...
 
 ただ、ぼくの腕をつかんだ優の手の平……。%K%P
 Just You's palms grasped my arm...
@@ -1276,11 +1288,12 @@ CN PLACEHOLDER
 Finally, we arrived in front of the elevator.
 CN PLACEHOLDER
 Наконец, мы оказались перед лифтом.
+// а тут нужна запятая? --bibarub
 
 優はドアの前に駆け寄ると『△』のボタンを押した。%K%P
 You rushed to the front of the door and pushed the up button.
 CN PLACEHOLDER
-Ю подбежала к двери и нажала кнопку.
+Ю подбежала к двери и нажала на кнопку.
 
 優「…………」%K%P
 .........
@@ -1300,7 +1313,7 @@ CN PLACEHOLDER
 優「えっ、ちょっとちょっと……冗談でしょ！？」%K%P
 No way! You've got to be kidding!
 CN PLACEHOLDER
-Э-э?! Что... что... что всё это значит?!
+Э-э?! Нет, нет, да не может быть!
 
 優「どうして止まっちゃってるわけ！？」%K%P
 Why is this thing stopped!?
@@ -1320,17 +1333,18 @@ CN PLACEHOLDER
 ドアの上の階数表示も、動く気配を見せなかった。%K%P
 There was no sign that the floor display above the elevator doors was functioning either.
 CN PLACEHOLDER
-Дисплей, расположенный у лифта, тоже не подаёт признаков жизни.
+Дисплей над дверьми лифта тоже не подаёт признаков жизни.
 
 少年「ねえ！　非常階段とかって、無いの！？」%K%P
 Hey! Aren't there any emergency stairs or anything?
 CN PLACEHOLDER
-;Мальчик«Эй! А здесь нет аварийной лестницы?»%K%P
+;Мальчик«Слушай, а разве здесь нет аварийной лестницы?»%K%P
 
 優は振り返り、何か考え込むように視線をめぐらせると……%K%P
 You looked back and shifted her eyes around as if she was thinking...
 CN PLACEHOLDER
-Ю оглянулась и обвела взглядом помещение, словно о чём-то думает...
+Ю оглянулась и обвела взглядом коридор, словно о чём-то думает...
+// вообще тут не упоминается ни помещение, ни коридор --bibarub
 
 優「ついて来て！」%K%P
 Follow me!
@@ -1355,27 +1369,27 @@ CN PLACEHOLDER
 目的のものは、すぐに見つかったようだ。%K%P
 It looked like she soon found what she was looking for.
 CN PLACEHOLDER
-Кажется, что она вот-вот это найдёт.
+Кажется, она нашла то, что искала.
 
 そこに向かって、優はわき目も振らずに駆け寄って行く。%K%P
 And she headed toward it single-mindedly.
 CN PLACEHOLDER
-Она целенаправленно прошла вперёд.
+Она целенаправленно побежала вперёд.
 
 １本の梯子……その脇には真っ赤な文字で『ａｕｓｇａｎｇ／非常口』と書かれ、矢印が上に向かって伸びている。%K%P
 A ladder... Next to it, the words “Ausgang / Emergency Exit” were written in straight red letters with an arrow pointing upward.
 CN PLACEHOLDER
-Лестница... за ней красными буквами написано «Аварийный выход» и нарисована стрелка, указывающая наверх.
+Лестница... рядом с ней красными буквами написано «Ausgang / Аварийный выход» и нарисована стрелка, указывающая наверх.
 
 梯子の先――天井には頑丈そうな扉があり、円形のハンドルのようなものがついていた。%K%P
 At the other end of the ladder was the ceiling and a sturdy looking door with a round-shaped handle attached to it.
 CN PLACEHOLDER
-На другом конце лестницы виднеется узкое помещение с крепкой дверью, на которой стоит округлый засов.
+Лестница шла до потолка, в котором виднелась крепкая дверь с округлой ручкой.
 
 少年「この向こうに非常階段が？」%K%P
 Are there emergency stairs on the other side?
 CN PLACEHOLDER
-;Мальчик«С другой стороны – аварийные лестницы?»%K%P
+;Мальчик«С другой стороны – аварийная лестница?»%K%P
 
 優は答えずに、梯子を登っていく。%K%P
 Without answering, You started climbing the ladder.
@@ -1385,7 +1399,7 @@ CN PLACEHOLDER
 ハンドルをキュルキュルとまわし、扉を開く彼女。%K%P
 She turned the handle and opened the door.
 CN PLACEHOLDER
-Она повернула засов и открыла дверь.
+Она повернула ручку и открыла дверь.
 
 優「さあ、早く！」%K%P
 Now, hurry!
@@ -1396,6 +1410,8 @@ CN PLACEHOLDER
 This is an emergency escape corridor.
 CN PLACEHOLDER
 Это аварийно-спасательный коридор.
+// "аварийно-спасательный"? --bibarub
+// переводчик говорит emergency evacuation route --bibarub
 
 優「この通路の途中に、非常階段がついてるの」%K%P
 There are emergency stairs that run along it.
