@@ -1,4 +1,4 @@
-﻿####################################################################################################
+\﻿####################################################################################################
 ~tip~0
 ~jp
 アーティフィシャル・インテリジェンス
@@ -2763,4 +2763,25 @@ LeMUは東京都駒ヶ原諸島沖、水深17〜51mに
 ~jp~1~
 
 ####################################################################################################
+
+# custom tips ahead, contents will differ from language to language
+
+~tip~119
+# author: badspot
+~en
+KID Names
+~en~0
+The names that appear in the previous choice are all based on characters, largely main protagonists, that appear in games KID released before Ever17 -the out of infinity-. Below is a list of the names from said choice and the games they're referencing:
+Mikami Tomoya — protagonist of the first entry in the “Memories Off” series
+Hayasegawa Shiina — protagonist of the first entry in the “Tentama” series
+Miyama Naoto — protagonist of Yume no Tsubasa
+~en~0~
+~en~1
+Ishihara Makoto — protagonist of the first entry in the “Infinity” series, infinity / Never7 -the end of infinity-
+Homura Motoki — protagonist of Close to 〜Inori no
+Oka〜 / Omoi no Kakera -Close to-
+Inami Ken — protagonist of the second entry in the “Memories Off” series, Memories Off 2nd
+Watarase Kyousuke — protagonist of the first entry in the “My Merry May” series
+Prince — a reference to Ouji-sama Lv1, a game KID ported to the original PlayStation in 2002
+~en~1~
 

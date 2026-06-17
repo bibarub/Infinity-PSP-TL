@@ -2179,9 +2179,9 @@ CN PLACEHOLDER
 Исихара Макото
 
 深山直人
-Fukayama Naoto
+Miyama Naoto
 CN PLACEHOLDER
-Фукаяма Наото
+Мияма Наото
 
 早瀬川椎名
 Hayasegawa Shiina
@@ -2189,9 +2189,9 @@ CN PLACEHOLDER
 Хаясэгава Сиина
 
 穂村元樹
-Inamura Motoki
+Homura Motoki
 CN PLACEHOLDER
-Инамура Мотоки
+Хомура Мотоки
 
 伊波健
 Inami Ken
@@ -2209,7 +2209,7 @@ CN PLACEHOLDER
 Принц
 
 少年「『智也』がいい」%K%P
-'Tomoya' sounds good.
+'%TS119Tomoya%TE' sounds good.
 CN PLACEHOLDER
 ;Мальчик«Мне нравится "Томоя".»%K%P
 //;Мальчик«Мне нравится „Томоя“.»%K%P
@@ -2220,7 +2220,7 @@ CN PLACEHOLDER
 Томоя?!
 
 少年「『誠』がいい」%K%P
-'Makoto' is good.
+'%TS119Makoto%TE' is good.
 CN PLACEHOLDER
 ;Мальчик«"Макото" звучит неплохо.»%K%P
 //;Мальчик«„Макото“ звучит неплохо.»%K%P
@@ -2231,7 +2231,7 @@ CN PLACEHOLDER
 Макото?!
 
 少年「『直人』がいい」%K%P
-'Naoto' has a nice ring to it.
+'%TS119Naoto%TE' has a nice ring to it.
 CN PLACEHOLDER
 ;Мальчик«По мне, "Наото" звучит неплохо.»%K%P
 //;Мальчик«По мне, „Наото“ звучит неплохо.»%K%P
@@ -2242,7 +2242,7 @@ CN PLACEHOLDER
 Наото?!
 
 少年「『椎名』がいい」%K%P
-'Shiina' works.
+'%TS119Shiina%TE' works.
 CN PLACEHOLDER
 ;Мальчик«А "Сиина" ничё.»%K%P
 //;Мальчик«А „Сиина“ ничё.»%K%P
@@ -2253,7 +2253,7 @@ CN PLACEHOLDER
 Сиина?!
 
 少年「『元樹』がいい」%K%P
-'Motoki' sounds nice.
+'%TS119Motoki%TE' sounds nice.
 CN PLACEHOLDER
 ;Мальчик«"Мотоки" звучит неплохо.»%K%P
 //;Мальчик«„Мотоки“ звучит неплохо.»%K%P
@@ -2264,7 +2264,7 @@ CN PLACEHOLDER
 Мотоки?!
 
 少年「『イナケン』がいい」%K%P
-'Inaken' is good.
+'%TS119Inaken%TE' is good.
 CN PLACEHOLDER
 ;Мальчик«"Кид" мне по душе.»%K%P
 //;Мальчик«„Кид“ мне по душе.»%K%P
@@ -2275,7 +2275,7 @@ CN PLACEHOLDER
 Кид?!
 
 少年「『恭介』がいい」%K%P
-I like 'Kyousuke'.
+I like '%TS119Kyousuke%TE'.
 CN PLACEHOLDER
 ;Мальчик«Мне нравится "Кёске".»%K%P
 //;Мальчик«Мне нравится „Кёске“.»%K%P
@@ -2286,7 +2286,7 @@ CN PLACEHOLDER
 Кёске?!
 
 少年「『王子様』がいい」%K%P
-I like 'Prince'.
+I like '%TS119Prince%TE'.
 CN PLACEHOLDER
 ;Мальчик«Зовите меня "Принц".»%K%P
 //;Мальчик«Зовите меня „Принц“.»%K%P
