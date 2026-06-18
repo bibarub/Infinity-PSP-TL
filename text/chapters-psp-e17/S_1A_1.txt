@@ -2625,22 +2625,22 @@ CN PLACEHOLDER
 まぶしいくらいに白い天井……。%K%P
 The ceiling was so white that it was slightly blinding...
 CN PLACEHOLDER
-Яркое, ослепляюще белое помещение...
+Яркий, ослепляюще белый потолок...
 
 消毒薬の匂い……。%K%P
 It smelled of disinfectant...
 CN PLACEHOLDER
-Здесь пахнет медикаментами...
+Пахнет антисептиком...
 
 優「気がついた？」%K%P
 Are you awake now?
 CN PLACEHOLDER
-Ты уже очнулся?
+Ты очнулся?
 
 横たわっていたぼくの上に、ひとつの影が覆い被さる。%K%P
 A shadow passed above me on the bed.
 CN PLACEHOLDER
-Напротив кровати, на которой я лежу, промелькнула тень.
+На меня упала чья-то тень.
 
 少年「優……」%K%P
 You...
@@ -2650,7 +2650,7 @@ CN PLACEHOLDER
 優は心配そうに、ぼくの顔をのぞき込んでいた。%K%P
 You looked at me as if she was worried.
 CN PLACEHOLDER
-Ю с беспокойством посмотрела на меня.
+Ю посмотрела на меня с беспокойством.
 
 少年「ここは……」%K%P
 This is...
@@ -2675,12 +2675,12 @@ CN PLACEHOLDER
 優「ねえ？　今度から倒れるときには、この部屋の近くにしてくれない？」%K%P
 Hey, next time you decide to go and keel over, can you do it somewhere a little closer to this room?
 CN PLACEHOLDER
-Эй, в следующий раз, когда решишь упасть в обморок, можешь быть поближе к этой комнате?
+Слушай, в следующий раз, когда решишь упасть в обморок, можешь быть поближе к этой комнате?
 
 優「大変だったんだからね？　きみを背負ってここまで来るの……」%K%P
 Because it was really a pain hauling you piggyback all the way here...
 CN PLACEHOLDER
-Потому что тащить тебя сюда было очень мучительно...
+Потому что тащить тебя на спине сюда было очень мучительно...
 
 少年「ご、ごめん……」%K%P
 S-Sorry...
@@ -2700,7 +2700,7 @@ CN PLACEHOLDER
 優「思い出した？　名前」%K%P
 Did you remember? Your name.
 CN PLACEHOLDER
-Ты вспомнил? Своё имя?
+Ты вспомнил? Своё имя.
 
 名前――。%K%P
 Name...
@@ -2710,7 +2710,7 @@ CN PLACEHOLDER
 そ、そうだよ、ぼくの名前は――。%K%P
 That's right... my name...
 CN PLACEHOLDER
-Точно... Моё имя...
+Т-точно... Моё имя...
 
 優「あっ！　ちょっと待った！」%K%P
 Oh! Hold on a sec!
@@ -2720,7 +2720,7 @@ CN PLACEHOLDER
 優「無理に思い出そうとしなくていいから！」%K%P
 You don't have to try to force yourself to remember!
 CN PLACEHOLDER
-Ты не должен заставлять себя вспоминать!
+Не заставляй себя вспоминать!
 
 少年「…………」%K%P
 ...
@@ -2731,21 +2731,23 @@ CN PLACEHOLDER
 I don't want you getting like you did before... Alright?
 CN PLACEHOLDER
 Я не хочу, чтобы ты снова потерял сознание... ладно?
+// в япе нет явного "потерял сознание", а просто упоминается все произошедшее в целом --bibarub
 
 はれものに触れるような感じで、優はそう言った。%K%P
 You said it very carefully.
 CN PLACEHOLDER
-Опасливо сказала Ю.
+Осторожно сказала Ю.
+// не могу понять, к прошлой это реплике относится, или к следующей --bibarub
 
 優「これから、いくつか質問するけど……」%K%P
 I'm gonna ask you a couple of questions...
 CN PLACEHOLDER
-Я собираюсь задать тебе несколько вопросов...
+Я собираюсь задать тебе пару вопросов, но...
 
 優「とにかく落ち着いて……体を楽ぅ〜にして、答えて欲しいの」%K%P
 So just calm down... I want you to relax and answer them.
 CN PLACEHOLDER
-Так что успокойся... Я хочу, чтобы ты расслабился и ответил на них.
+Сначала успокойся... Я хочу, чтобы ты расслабился и ответил на них.
 
 優「いい？」%K%P
 Alright?
@@ -2755,7 +2757,7 @@ CN PLACEHOLDER
 少年「う、うん……」%K%P
 S-Sure...
 CN PLACEHOLDER
-;Мальчик«К-конечно...»%K%P
+;Мальчик«А-ага...»%K%P
 
 優「まず、今日の日付は……わかるかなぁ？」%K%P
 First, do you know... today's date?
@@ -2775,7 +2777,7 @@ CN PLACEHOLDER
 少年「５月、１日、だよね……？」%K%P
 May 1st, right?
 CN PLACEHOLDER
-;Мальчик«Первое мая, верно?»%K%P
+;Мальчик«Первое мая, да?..»%K%P
 
 優「日付は覚えてるんだぁ……」%K%P
 You remember the date...
@@ -2795,7 +2797,7 @@ CN PLACEHOLDER
 優「生年月日でもいいんだけど……」%K%P
 Your birthday will do... Either way.
 CN PLACEHOLDER
-Ну... когда твой день рождения?
+Ну или скажи, когда у тебя день рождения.
 
 ぼくは懸命に記憶の糸をたぐり寄せた。%K%P
 I tried hard to pull together the threads of my memory.
@@ -2810,7 +2812,7 @@ CN PLACEHOLDER
 考え出すと、コメカミの辺りがズキズキとうずき始めた。%K%P
 When I started to think about it, my temples began to throb.
 CN PLACEHOLDER
-Как только я задумался, мои виски начали болеть.
+Как только я задумался, виски начали болеть.
 
 優「ほらぁ、深く考えないの！」%K%P
 Hey, no straining yourself!
@@ -2820,27 +2822,27 @@ CN PLACEHOLDER
 優「思い出せないなら思い出せないって、そう言ってくれればいいだけだから」%K%P
 If you can't remember, then you can't remember. Just say so.
 CN PLACEHOLDER
-Если ты не можешь вспомнить, значит, не помнишь. Так и скажи.
+Если не можешь вспомнить – значит, не помнишь. Так и скажи.
 
 そんなことを言われても、考えないわけにはいかなかった。%K%P
 But that didn't mean I could just stop thinking about it.
 CN PLACEHOLDER
-Но это не значит, что я могу просто взять и перестать думать об этом.
+Но я же не могу просто взять и перестать об этом думать.
 
 頭痛をこらえながら、迷い込んだ森の中をさまよう。%K%P
 I endured the headache as I felt like I wandered lost through a forest.
 CN PLACEHOLDER
-Голова снова заболела, и я почувствовал себя заблудившимся в лесу.
+Я продолжил блуждать по лесу, терпя эту боль.
 
 出口はきっとどこかに隠されているのだ。%K%P
 There had to be an exit hidden somewhere.
 CN PLACEHOLDER
-Где-то должна быть потайная дверца.
+Где-то из него должен быть выход.
 
 ただ、どこに隠されているのかがわからなくて……。%K%P
 I just didn't know where...
 CN PLACEHOLDER
-Я просто не знаю, где...
+Но я просто не знаю, где...
 
 優「ＯＫ、わかった」%K%P
 Okay, I got it.
@@ -2856,6 +2858,7 @@ CN PLACEHOLDER
 How about your address or telephone number?
 CN PLACEHOLDER
 Как насчёт твоего адреса или номера телефона?
+// "как насчет" мне не сильно нравится --bibarub
 
 優「じゃなかったら、家族のこととか、友達のこととか……なんでもいいんだけど……」%K%P
 If not those, then how about your family, friends... or anything...?
@@ -2870,7 +2873,7 @@ CN PLACEHOLDER
 優「やっぱり、思い出せない？」%K%P
 So you really can't remember?
 CN PLACEHOLDER
-Значит, ты не помнишь?
+Значит, совсем не помнишь?
 
 確かに、優の言った通りだった。%K%P
 It was just like You said.
@@ -2880,42 +2883,43 @@ CN PLACEHOLDER
 ぼくには、それらの記憶が一切無かったのだ。%K%P
 I didn't have any memories of anything.
 CN PLACEHOLDER
-Я ничего не помню.
+Я совсем ничего не помню.
 
 欠落感が胸を締めつける。%K%P
 A sense of something not being right gnawed at my mind.
 CN PLACEHOLDER
-Будто что-то неправильно вкручено в мой разум.
+Сердце сжало чувством какой-то пустоты.
 
 いや、それは喪失感に近かった。%K%P
 No, it was something closer to a sense of loss.
 CN PLACEHOLDER
-Нет, ближе к чувству потери.
+Нет, скорее чувством потери.
 
 ぼくは、ぼくという存在の大部分を失ってしまったような気がした。%K%P
 I felt that I had lost the bulk of my existence.
 CN PLACEHOLDER
-Я чувствую, что потерял смысл своего существования.
+Я чувствую, что потерял значительную часть «себя».
 
 誰かが『ぼく』をごっそりと奪い去って行き、残された『ぼく』はただの抜け殻で……。%K%P
 Like someone had stolen “me” away. And the “me” who was left was just an empty shell.
 CN PLACEHOLDER
-Будто кто-то выкрал «меня». А «я», что остался, всего лишь пустая оболочка.
+Будто кто-то выкрал моё «Я». А «Я», что остался – лишь пустая оболочка.
+// стоит ли использовать большую "Я"? --bibarub
 
 ここにいる『ぼく』は、本当の『ぼく』じゃ……ないのかもしれない。%K%P
 The “me” that was there... Who knew if it was even the real me?
 CN PLACEHOLDER
-«Я», что находится здесь... кто может сказать, что это действительно я?
+«Я», что находится здесь... кто может сказать, что это действительно «Я»?
 
 そう考えたとたん、凍りつくような不安がぼくを襲った。%K%P
 The instant that thought went through my mind, I was frozen by an icy wave of unease.
 CN PLACEHOLDER
-С этой мыслью меня заморозило ледяной волной тревоги.
+С этой мыслью меня накрыло ледяной волной тревоги.
 
 怖くて、心細くて、寂しくて……。%K%P
 Scared, isolated, lonely...
 CN PLACEHOLDER
-Я напуган, изолирован, одинок...
+Мне страшно, тревожно, одиноко...
 
 少年「優……」%K%P
 You...
@@ -2925,7 +2929,7 @@ CN PLACEHOLDER
 ぼくは優の手をきつく握りしめた。%K%P
 I grabbed firmly onto You's hand.
 CN PLACEHOLDER
-Я крепко схватил её руку.
+Я крепко схватил её за руку.
 
 温かな手の平……。%K%P
 Her warm palm...
@@ -2935,7 +2939,7 @@ CN PLACEHOLDER
 そのぬくもりだけが、今のぼくには救いだった。%K%P
 That warmth was the only thing saving me.
 CN PLACEHOLDER
-Лишь эта теплота может меня спасти.
+Эта теплота была моим единственным спасением.
 
 優「もう、大丈夫だよぉ〜」%K%P
 It's alright now.

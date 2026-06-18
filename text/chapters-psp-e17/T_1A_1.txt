@@ -456,12 +456,12 @@ CN PLACEHOLDER
 俺もすぐに立ち上がってその後に続く。%K%P
 I quickly stood up and followed her.
 CN PLACEHOLDER
-Я быстро встал и последовал за ней.
+Я быстро встал и поспешил за ней.
 
 疲れ果てていたが、力を振り絞って前へ前へと進む。%K%P
 Exhausted as I was, I used every bit of my strength to push ahead.
 CN PLACEHOLDER
-Несмотря на свою усталость, я изо всех сил шёл вперёд.
+Несмотря на свою усталость, я изо всех сил двигался вперёд.
 
 通路の脇にある小さな入り口に、俺と彼女は勢いよく飛び込んだ。%K%P
 We jumped into a small entrance on the side of the corridor.
@@ -471,12 +471,12 @@ CN PLACEHOLDER
 上へ。%K%P
 ...And headed up.
 CN PLACEHOLDER
-И пошли вверх.
+А теперь вверх.
 
 階段をあらん限りの速度で上り始めた。%K%P
 We started racing up the stairs as fast as we could.
 CN PLACEHOLDER
-Начали подниматься по лестнице, словно ракета, летящая на первой космической.
+Мы начали подниматься по лестнице, словно ракета, летящая на первой космической.
 
 息が切れるのも構わず、走る。%K%P
 Ignoring our pounding hearts, we simply ran.
