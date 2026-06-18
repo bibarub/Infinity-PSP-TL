@@ -2949,7 +2949,8 @@ CN PLACEHOLDER
 優「男の子なんだから、そんな泣きそうな顔しないの」%K%P
 What are you, a baby? Stop with that sad face.
 CN PLACEHOLDER
-Ты что, плакса? Кончай хмуриться.
+Ты же мальчик. Кончай хмуриться.
+// будто бы "хмуриться" не сильно подходит. в япе что-то вроде "не делай такое лицо, будто сейчас заплачешь" --bibarub
 
 優は笑みを浮かべながら、ぼくの手の平を握り返した。%K%P
 She shot me a smile as she squeezed my hand back.
@@ -2959,7 +2960,7 @@ CN PLACEHOLDER
 優「記憶喪失って、そんなに珍しいことじゃないと思うよ？」%K%P
 I don't think amnesia is all that uncommon.
 CN PLACEHOLDER
-Не думаю, что амнезия – нечто необычное.
+Знаешь, амнезия – не такая уж и редкая штука.
 
 少年「……記憶……喪失？」%K%P
 Amnesia...?
@@ -2969,27 +2970,27 @@ CN PLACEHOLDER
 優「記憶が無いんだから、記憶喪失でしょ？　当たり前だけど」%K%P
 You don't have any memory, so that's memory loss, or amnesia, right? Of course it is.
 CN PLACEHOLDER
-Ты ничего не помнишь, значит, это потеря памяти, или же „амнезия“, верно? Конечно верно.
+Ты потерял память, а значит, у тебя амнезия, верно? Конечно верно.
 
 優「原因は……なんだろうなぁ……」%K%P
 I wonder what caused it...
 CN PLACEHOLDER
-Интересно, что её вызвало...
+Интересно, конечно, что её вызвало...
 
 優「気圧障害の関係か……どこかで頭を打っちゃったのか……」%K%P
 The air pressure change... or maybe you hit your head somewhere...
 CN PLACEHOLDER
-Изменение давления... или ты где-нибудь ударился головой...
+Изменение давления... или, может ты где-то ударился головой...
 
 優「それとも、何か精神的な、強いショックを受けたのかもしれない」%K%P
 Or maybe some severe mental shock.
 CN PLACEHOLDER
-Или, может быть, умственное потрясение.
+Или это из-за какого-то эмоционального шока.
 
 優「例えば、過激なアトラクションに乗って、頭がパニくっちゃった、とかさ」%K%P
 Like maybe you were riding a crazy ride and you panicked, or something.
 CN PLACEHOLDER
-Что, если ты попал в жуткую ситуацию и запаниковал...
+Например, ты катался на каком-то аттракционе и очень сильно испугался или типа того.
 
 少年「…………」%K%P
 ...
@@ -2999,12 +3000,12 @@ CN PLACEHOLDER
 優「でも、心配しないで？」%K%P
 But don't worry.
 CN PLACEHOLDER
-Но не волнуйся.
+Но ты не волнуйся, ладно?
 
 優「きっと一時的なものだから、すぐに記憶は戻るはず」%K%P
 It's probably just temporary. It'll come back.
 CN PLACEHOLDER
-Это пройдёт. Я так думаю.
+Это всё временно. Память к тебе вернётся.
 
 少年「そう、なの？」%K%P
 Think so?
@@ -3019,32 +3020,33 @@ CN PLACEHOLDER
 優「大事故にでもあって、脳に致命的な損傷を受けた、とかだったら別だけどね」%K%P
 Of course, if you were in a major accident and had severe trauma to the brain, that would be a whole different thing.
 CN PLACEHOLDER
-Конечно, если ты получил сотрясение мозга, то это уже другая песня.
+Конечно, если бы ты попал в серьезный несчастный случай и заработал повреждение мозга, то это была бы уже другая песня.
 
 優「どうも、そんな感じでもなさそうだし……」%K%P
 But that doesn't seem to be the case...
 CN PLACEHOLDER
-Хотя, судя по всему, дело не в этом...
+Но у тебя вроде бы не такая ситуация...
 
 優はぼくの髪に手をそえ、まぶしいぐらいの笑みを浮かべて見せた。%K%P
 You put her hand on my hair and gave me a smile so bright I almost needed sunglasses.
 CN PLACEHOLDER
 Ю положила руку на мои волосы и улыбнулась так ярко, что мне захотелось надеть солнечные очки.
+// положила руку на волосы? непонятно, положила ли она руку ему на голову, или просто прикоснулась рукой к волосам --bibarub
 
 その笑顔はぼくの心にさんさんと降り注ぎ、胸に渦巻いていた不安を跡形も無く拭い去ってくれた。%K%P
 That smile flooded into my heart, wiping away the remains of the unease that was swirling there.
 CN PLACEHOLDER
-Эта улыбка забралась в моё сердце, выметая остатки угнетения.
+Эта улыбка забралась в моё сердце, выметая остатки тревоги.
 
 優「さあ、そろそろ行こうか？」%K%P
 So, do you want to get going?
 CN PLACEHOLDER
-Так, может, пойдём?
+Ну что, пойдём?
 
 優「このまま子守歌でも歌って、きみを寝かしつけてあげてもいいんだけど……」%K%P
 I could sing you a lullaby and tuck you in, but...
 CN PLACEHOLDER
-Я могла бы спеть тебе колыбельную и накрыть, но...
+Я, конечно, могла бы спеть тебе колыбельную и уложить спать, но...
 
 優「残念ながら、そんなのんびりとしてられる状況じゃないのよねぇ〜」%K%P
 Unfortunately, we don't have time to relax.
@@ -3054,7 +3056,7 @@ CN PLACEHOLDER
 優「わかるでしょ？」%K%P
 You understand, right?
 CN PLACEHOLDER
-Ты же понимаешь?
+Ты же сам понимаешь, да?
 
 ぼくは頷いて、ベッドから起き上がった。%K%P
 I nodded and got off of the bed.
@@ -3069,42 +3071,44 @@ CN PLACEHOLDER
 ふと、優の背中についた水色のリボンに目がとまった。%K%P
 My eyes stopped on the bluish ribbon on You's back.
 CN PLACEHOLDER
-Мой взгляд остановился на банте, что у Ю на спине.
+Мой взгляд остановился на голубом банте, что у Ю на спине.
 
 水のしみ込んだ大きなリボンは艶々と輝いていて、生まれたばかりの妖精の羽に似ていた。%K%P
 The ribbon seemed to have taken on water and glittered brightly, almost like the wings of a newborn fairy.
 CN PLACEHOLDER
-Похоже, что он ещё не успел просохнуть и ярко сияет, словно крылья новорождённой феи.
+Похоже, что он ещё не успел просохнуть и ярко сияет, напоминая крылья новорождённой феи.
+// перед "и ярко сияет" нужна запятая? --bibarub
 
 優「ダメ……開かないみたい……」%K%P
 It's no good... It doesn't seem to open...
 CN PLACEHOLDER
-Ничего хорошего... она не открывается...
+Бесполезно... Она не открывается...
 
 鉄の扉に何度か体当たりを繰り返した後、優はそう言った。%K%P
 You said that after trying to move the door with her weight several times.
 CN PLACEHOLDER
-Сказала Ю после того, как попыталась несколько раз открыть её всем своим весом.
+Сказала Ю после того, как попыталась несколько раз открыть дверь всем своим весом.
 
 ここは非常階段――。%K%P
 Those were the emergency stairs.
 CN PLACEHOLDER
-Там находятся аварийные лестницы.
+Мы на аварийной лестнице.
 
 正確に言うと、その途中にある踊り場だ。%K%P
 Or more accurately, it was the passage on the way there.
 CN PLACEHOLDER
-Точнее говоря, проход к ним.
+Точнее говоря, на пролёте где-то посередине её.
+// не уверен в этом переводе --bibarub
 
 非常階段は、太いパイプの側面を沿うように、ぐるぐると螺旋状に伸びている。%K%P
 The emergency stairs were wound in a spiral around a fat pipe.
 CN PLACEHOLDER
-Аварийные лестничные пролёты спиралью спускаются через толстую трубу.
+Аварийная лестница спиралью обвивает толстую трубу.
 
 この階段をひたすらのぼり続ければ、浮島へとたどりつくことができる……はずだった。%K%P
 If we followed those stairs, they would take us to the floating island... At least in theory.
 CN PLACEHOLDER
-Мы надеялись, что они выведут нас к плавучему острову... хотя бы теоретически.
+По идее мы должны были выйти на плавучий остров, поднимаясь по ней наверх...
 
 だけど今、ぼくらの眼前には分厚い鉄の壁が立ちはだかっている。%K%P
 But then, right in front of us stood a thick steel wall.
@@ -3114,22 +3118,23 @@ CN PLACEHOLDER
 壁には小さな水密扉がついていて、ここをくぐり抜けない限り、これ以上うえへ進むことはできない。%K%P
 The wall had a small watertight door, and if we couldn't squeeze through that, then we couldn't make our way any higher.
 CN PLACEHOLDER
-На ней небольшая водоупорная дверь и, если мы не сможем через неё пройти, то и выше не поднимемся.
+На ней небольшая водоупорная дверь, и, кроме как через эту дверь, дальше пройти никак.
+// перефразировать бы --bibarub
 
 少年「ここはまだ……浮島じゃないよね？」%K%P
 This isn't... the floating island yet, is it...?
 CN PLACEHOLDER
-;Мальчик«Это ещё... не плавучий остров?..»%K%P
+;Мальчик«Мы ведь ещё... не на плавучем острове?..»%K%P
 
 優「当たり前でしょ？」%K%P
 It's pretty obvious, isn't it?
 CN PLACEHOLDER
-Разве не очевидно?
+А ты как думаешь?
 
 優「それどころか、エルストボーデンだって、まだまだ先なんだから……」%K%P
 Not even. I mean, we haven't even hit Erster Boden, so we've still got a long way to go...
 CN PLACEHOLDER
-Ещё нет. Мы даже не дошли до Эрсте Боден, так что впереди долгий путь...
+И не близко. Мы ещё даже до Эрсте Боден не дошли...
 
 少年「エルストボーデンって、水面下１階のことだっけ？」%K%P
 Erster Boden... Was that the first basement floor?
@@ -3154,12 +3159,12 @@ CN PLACEHOLDER
 優「３０ｍ前後、ってとこかな……」%K%P
 Around 30 meters, give or take, I guess...
 CN PLACEHOLDER
-Около 30 метров, надо полагать...
+Где-то около 30 метров, я думаю...
 
 優「まだ４、５ｍぐらいしかのぼって来てないもん、この階段」%K%P
 We've only climbed around four or five meters on these stairs.
 CN PLACEHOLDER
-По этим ступенькам мы поднялись лишь на 16-17 метров.
+По этим ступенькам мы поднялись лишь на 4-5 метров.
 
 水深３０ｍか……。%K%P
 30 meters deep...
@@ -3169,12 +3174,12 @@ CN PLACEHOLDER
 『３０ｍ』と聞いただけだと、すぐ近くに思えるけど……。%K%P
 30 meters sounded so close, but...
 CN PLACEHOLDER
-30 метров кажется что так близко, но...
+30 метров звучит очень близко, но...
 
 でも、どっちにしろ、この扉が開かないことにはどうにもならないんだ。%K%P
 But in any event, if the door didn't open up, then that was it.
 CN PLACEHOLDER
-Но в любом случае, если дверь не откроется, тогда какая разница.
+Но нет никакой разницы, если мы не можем открыть эту дверь.
 
 少年「ねえ？　なんで開かないのかな？」%K%P
 Hey. I wonder why it won't open.
@@ -3200,7 +3205,7 @@ CN PLACEHOLDER
 優「またそうやって真に受ける……」%K%P
 There you go, taking me seriously...
 CN PLACEHOLDER
-Опять ты воспринимаешь серьёзно...
+Опять ты воспринимаешь всё всерьёз...
 
 少年「じゃあ、どうして？」%K%P
 Well, what then?
@@ -3210,7 +3215,7 @@ CN PLACEHOLDER
 優「教えて欲しい？」%K%P
 You really wanna know?
 CN PLACEHOLDER
-Ты и вправду хочешь знать?
+Ты правда хочешь, чтобы я тебе сказала?
 
 少年「うん……」%K%P
 Yeah...
@@ -3220,12 +3225,12 @@ CN PLACEHOLDER
 優「聞かない方がいいかもよ？」%K%P
 Maybe you'd better not ask.
 CN PLACEHOLDER
-Может тебе лучше не спрашивать.
+Может, тебе всё-таки лучше не спрашивать.
 
 少年「……えっ？」%K%P
 ...Huh?
 CN PLACEHOLDER
-;Мальчик«...Хм-м?»%K%P
+;Мальчик«...А?»%K%P
 
 優「どうするの？　聞くの？　聞かないの？　どっち？」%K%p
 So what're you gonna do? Do you wanna hear it? Or not? Which is it?
@@ -3250,7 +3255,7 @@ CN PLACEHOLDER
 優「ＯＫ。なら教えてあげよう」%K%P
 Okay, I'll tell you.
 CN PLACEHOLDER
-Ладно. Слушай внимательно.
+Ладно. Тогда я тебе расскажу.
 
 少年「…………」%K%P
 ...
@@ -3265,7 +3270,7 @@ CN PLACEHOLDER
 優「は？」%K%P
 Huh?
 CN PLACEHOLDER
-Хаа?
+Чего?
 
 優「なんでよ！　聞きなさいよ！」%K%P
 Why not? Ask away!
@@ -3275,7 +3280,7 @@ CN PLACEHOLDER
 少年「だって……『聞かない方がいい』って言ったじゃないか」%K%P
 But you said that I'd better not ask, right?
 CN PLACEHOLDER
-;Мальчик«Но ты ведь сказала, что мне лучше не знать?»%K%P
+;Мальчик«Но ты ведь сказала, что мне лучше не спрашивать?»%K%P
 
 優「ほんとぉーに、純情だよね、きみ」%K%P
 You are so naïve.
@@ -3290,7 +3295,7 @@ CN PLACEHOLDER
 優「いけなくはないけど……損するよ？　何かと」%K%P
 Nothing's wrong with it... but you miss out... somehow.
 CN PLACEHOLDER
-Да ничего плохого... но ты пропустишь самое интересное.
+Да ничего плохого... но знаешь, ты многое упускаешь.
 
 少年「…………」%K%P
 .........
@@ -3300,7 +3305,7 @@ CN PLACEHOLDER
 優「まあいいや、とにかく教えてあげよう」%K%P
 Whatever. Anyway, I'll tell ya.
 CN PLACEHOLDER
-Проехали. Я всё равно тебе расскажу.
+Ладно. Я всё равно тебе расскажу.
 
 少年「だから、聞きたくないって」%K%P
 I said I don't want to hear.
@@ -3320,7 +3325,7 @@ CN PLACEHOLDER
 優「さっききみは『いきなり水密扉が閉まり始めた』って、そう言ったよねぇ？」%K%P
 You just were talking about how the watertight doors started closing all of a sudden, right?
 CN PLACEHOLDER
-Помнишь, мы говорили о том, как водоупорные двери вдруг начали закрываться?
+Помнишь, ты говорил, что водоупорные двери вдруг начали закрываться?
 
 少年「うん」%K%P
 Yeah.
@@ -3340,7 +3345,7 @@ CN PLACEHOLDER
 優「浸水を感知した『レミ』が、危険なエリアの水密扉を自動的に閉めちゃったってこと」%K%P
 LeMMIH detected flooding and automatically shut the doors in the areas that were in danger.
 CN PLACEHOLDER
-LeMMIH обнаружил течь и задраил затопленные участки.
+LeMMIH обнаружил течь и задраил опасные участки.
 
 少年「あのぉ……『レミ』って何でしょうか？」%K%P
 Uh... What's 'LeMMIH'?
@@ -3351,12 +3356,12 @@ CN PLACEHOLDER
 優「このＬｅＭＵ内のすべての電子的システムを、統括・管理しているメインコンピューター……その略称みたいなもんね」%K%P
 That's what we call the main computer that supervises and manages all of the electronic systems in LeMU.
 CN PLACEHOLDER
-Так называется головной компьютер LeMU. Он управляет здесь всей электроникой.
+Так называется головной компьютер LeMU, который управляет здесь всей электроникой. Вроде как это какая-то аббревиатура.
 
 少年「ふ〜ん……」%K%P
 Hmmmm.
 CN PLACEHOLDER
-;Мальчик«Хм-м-м-м.»%K%P
+;Мальчик«Хм-м-м.»%K%P
 
 少年「……で？」%K%P
 ...So what?
@@ -3366,7 +3371,7 @@ CN PLACEHOLDER
 優「だからね？　きっとこれも……」%K%P
 So what? Here, I'll show you.
 CN PLACEHOLDER
-Что ну? Видимо он...
+Что ну? Видимо, он...
 
 コンコンッ……優は軽く握った拳で、鉄の扉をノックした。%K%P
 Clang, clang. You knocked on the steel door with her lightly closed fist.
@@ -3376,7 +3381,7 @@ CN PLACEHOLDER
 優「これも……『レミ』に閉められちゃったんだと思うの」%K%P
 This... was probably closed by 'LeMMIH' as well.
 CN PLACEHOLDER
-Похоже... она тоже была закрыта „LeMMIH“.
+Похоже... LeMMIH закрыл и эту дверь.
 
 少年「なるほどぉ……」%K%P
 I see...
@@ -3386,7 +3391,7 @@ CN PLACEHOLDER
 少年「要するに、この扉の向こう側は、水でいっぱいになっちゃってるってわけだ」%K%P
 So, in other words, the other side of this door is flooded with water.
 CN PLACEHOLDER
-;Мальчик«Иными словами, с другой стороны этой двери всё затоплено.»%K%P
+;Мальчик«Иными словами, по ту сторону этой двери всё затоплено.»%K%P
 
 優「たぶん」%K%P
 Probably.
@@ -3396,7 +3401,7 @@ CN PLACEHOLDER
 確かに、気持ちの良い話じゃなかった。%K%P
 She had been right. It really wasn't something I had wanted to hear.
 CN PLACEHOLDER
-Она права. Этого я действительно не хотел услышать.
+Да уж, неприятная ситуация.
 
 ただ単に扉がロックされてるだけなら、それを解除する方法さえ見つかれば、上へのぼることができる。%K%P
 If the doors were simply locked, all we had to do was find a way to open it and we could climb up to freedom.
@@ -3406,12 +3411,13 @@ CN PLACEHOLDER
 でも、向こう側に海水が充満してるとしたら……。%K%P
 But if the other side was full of seawater, then...
 CN PLACEHOLDER
-Но если с другой стороны всё затоплено, тогда...
+Но вот если по ту сторону – морская вода...
 
 その先は、あまり考えたくなかった。%K%P
 Thinking beyond that was no fun.
 CN PLACEHOLDER
-Ничего весёлого в этом нет.
+Не хочу даже думать, что было бы, если бы мы её открыли.
+// последняя часть – моё дополнение для большей ясности --bibarub
 
 少年「これから、どうするの？」%K%P
 So what do we do now?
@@ -3426,12 +3432,12 @@ CN PLACEHOLDER
 優「それしかないでしょ？」%K%P
 That's all we can do, right?
 CN PLACEHOLDER
-Это всё, что мы сейчас можем, правда?
+Больше нам ничего не остаётся, правда?
 
 優はため息まじりにそう言って、階段を下り始めた。%K%P
 You said that with a sigh and started heading down the stairs.
 CN PLACEHOLDER
-Ю выдохнула из себя эту фразу и пошла вниз по ступеням.
+Сказала Ю, вздохнув, и пошла вниз по ступеням.
 
 その後……。%K%P
 After that...
@@ -3446,17 +3452,18 @@ CN PLACEHOLDER
 同じように、分厚い隔壁に阻まれて、ツヴァイトシュトックより上へは行けないようになっていたのだ。%K%P
 They were shut off by thick partitions, making it impossible to climb up to Zweiter Stock.
 CN PLACEHOLDER
-Они оказались наглухо задраены, так что подняться на Цвайте Шток оказалось невозможно.
+Как и эта лестница, они оказались наглухо задраены, так что подняться дальше второго этажа – Цвайте Шток – оказалось невозможно.
 
 優の話によると、ＬｅＭＵ内には合計で１２本の非常階段があると言う。%K%P
 According to You, there were a total of twelve emergency staircases in LeMU.
 CN PLACEHOLDER
-Согласно плану здания, всего в LeMU насчитывается 12 аварийных лестниц.
+Как сказала Ю, всего в LeMU насчитывается 12 аварийных лестниц.
 
 そのうちの３本が閉鎖されていたのだから、残りは９本ということになる。%K%P
 Three of those were closed off, so that left nine.
 CN PLACEHOLDER
-Три из них закрыты, так что остаются ещё девять.
+Трое из них закрыты, так что остаются ещё девять.
+// может, что-то другое вместе "закрыты"? --bibarub
 
 ぼくと優は、その９本を探し求めて、緊急避難用の通路を歩きまわった。%K%P
 You and I walked around emergency corridors searching for those nine.
@@ -3476,12 +3483,12 @@ CN PLACEHOLDER
 行き止まり…………。%K%P
 And a dead end......
 CN PLACEHOLDER
-И снова тупик...
+И ещё один тупик...
 
 行き止まり………………。%K%P
 And a dead end.........
 CN PLACEHOLDER
-И снова тупик...
+И опять тупик...
 
 水密扉が完全閉鎖されていて、手動ではどうにもこうにも開くことができなかった。%K%P
 The watertight doors were completely shut and there was no way we were getting them open manually.
@@ -3506,27 +3513,28 @@ CN PLACEHOLDER
 行き止まり…………。%K%P
 And a dead end......
 CN PLACEHOLDER
-И снова тупик...
+И ещё один тупик...
 
 行き止まり………………。%K%P
 And a dead end.........
 CN PLACEHOLDER
-И снова тупик...
+И опять тупик...
 
 広いＬｅＭＵの中、張りめぐらされた通路は何十本とある。%K%P
 Inside the sprawling LeMU complex was a web of several dozen corridors.
 CN PLACEHOLDER
-Внутри растянутого комплекса LeMU сеть из нескольких тысяч коридоров.
+Огромный комплекса LeMU охватывает сеть из нескольких десятков коридоров.
 
 それらのすべての突き当たり、閉ざされた扉を調べてみたが、ことごとく全滅だった。%K%P
 We investigated each, only finding closed doors everywhere. It seemed hopeless.
 CN PLACEHOLDER
-Мы обследовали каждый уголок, находя повсюду лишь закрытые двери. Это безнадёжно.
+Мы обследовали каждый уголок, находя повсюду лишь закрытые двери. Ситуация безнадёжная.
 
 通常の通路も、緊急避難用の通路も、全部だ。%K%P
 Both the normal corridors and the emergency corridors were sealed.
 CN PLACEHOLDER
 И обычные, и аварийные коридоры запечатаны.
+// "запечатаны" прикольно звучит. а есть более хорошая альтернатива? --bibarub
 
 全部がダメだったのだ。%K%P
 All of them were blocked off.
@@ -3536,7 +3544,7 @@ CN PLACEHOLDER
 残された手段はと言うと……%K%P
 The only thing left for us to try was...
 CN PLACEHOLDER
-Единственное, что нам осталось сделать, это...
+Единственное, что мы ещё могли попробовать, так это...
 
 優「ドリットシュトック」%K%P
 Dritter Stock.
@@ -3556,15 +3564,15 @@ CN PLACEHOLDER
 幸いなことに、残された３本の非常階段は、まだ『下３分の１』ほどが生きていた。%K%P
 Thankfully, one-third of the remaining three stairways were still operating.
 CN PLACEHOLDER
-К счастью, треть из оставшихся лестниц ещё проходимы.
+К счастью, оставшиеся лестницы ещё проходимы где-то на треть.
 
 つまり、のぼることはできなくても、下ることだけは可能だったのだ。%K%P
 Which meant that even if there was no going up, we could still go down.
 CN PLACEHOLDER
-Это означает, что если даже нет дороги наверх, спуститься вниз всё ещё возможно.
+Иными словами, хоть пути вверх и нет, мы всё ещё можем спуститься вниз.
 
 ぼくと優は、螺旋階段をぐるぐると何周もして、ドリットシュトック（水面下３階）にたどりついた。%K%P
 You and I wound around and around the spiral stairwell until we reached Dritter Stock (three floors underwater).
 CN PLACEHOLDER
-Мы с Ю кружили по лестнице-спирали, пока не добрались до Дритте Шток (третьего подводного этажа).
+Мы с Ю кружили по лестнице-спирали, пока не добрались до Дритте Шток, третьего подводного этажа.
 
