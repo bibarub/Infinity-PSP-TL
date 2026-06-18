@@ -721,7 +721,7 @@ CN PLACEHOLDER
 係員「インゼルは島、ヌルはゼロという意味のドイツ語です」%K%P
 In German, 'insel' means 'island' and 'null' means 'zero'.
 CN PLACEHOLDER
-По-немецки „инсель“ значит ‘остров’ или ‘земля’, а „нуль“ значит ‘ноль’.
+По-немецки „инсель“ значит ‘остров’, а „нуль“ значит ‘ноль’.
 
 係員「つまりここは地上階、『ゼロ・フロア』ということになりますね」%K%P
 In other words, this is floor zero, or the ground floor.
