@@ -606,7 +606,7 @@ CN PLACEHOLDER
 武「ああ、知ってる。２０１０年に――」%K%P
 Yes, I know of it. In 2010...
 CN PLACEHOLDER
-Да, я в курсе. В 2010-м...
+Да, я в курсе. В 2010-м году...
 
 武「それまで禁止されていた人間のクローン受精は、法律で認められたんだ」%K%P
 Human cloning, which had been illegal up until then, was allowed by law.
@@ -616,47 +616,47 @@ CN PLACEHOLDER
 武「省庁の許可さえ得られれば、誰でもクローン受精による不妊治療が受けられるようになった」%K%P
 As long as anyone receives the approval of the authorities, they can undergo clone fertilization as a way to treat infertility.
 CN PLACEHOLDER
-Как только оно получило одобрение среди авторитетных людей, любой желающий смог пройти процедуру клонирования – по сути оно стало просто одним из способов лечения бесплодия.
+С разрешения соответствующего ведомства любой желающий мог с помощью клонирования пройти „лечение“ бесплодия.
 
 武「培養した体細胞から核を抜き取り、別の、既に核を抜き取ってある卵細胞の中にそれを移植し、母体子宮内に着床させる……」%K%P
 The nucleus is taken from an already-cultivated somatic cell and inserted into an egg that has had its original nucleus removed. Then it's implanted into the mother's womb...
 CN PLACEHOLDER
-Берётся ядро из развитой соматической клетки, затем внедряется в яйцеклетку, из которой удалили её изначальное ядро.»%K%PТакэси«Затем яйцеклетку имплантируют в матку будущей маме...
+Берётся ядро из развитой соматической клетки, затем внедряется в яйцеклетку с уже удалённым ядром. Затем яйцеклетку вживляют в матку будущей матери...
 
 武「俺の友達の親戚にも、経験者がいるよ」%K%P
 One of my friend's relatives went through it.
 CN PLACEHOLDER
-Один из знакомых моего кореша прошёл через это.
+Родственник моего кореша имеет такой опыт.
 
 空「だったら、クローンについての説明はいりませんね……」%K%P
 Well then, you don't need an explanation about cloning.
 CN PLACEHOLDER
-Ну что же, в таком случае тебе не требуются разъяснения о клонировании.
+В таком случае тебе не требуются разъяснения о клонировании.
 
 武「いや、知らない。つーか……忘れた」%K%P
 No, I don't know. I mean... I forget.
 CN PLACEHOLDER
-Не-а, понятия не имею. То есть... может и знал, но забыл. Наверное, от Малого заразился.
+Не-а, понятия не имею. То есть... я забыл.
 
 空「２０１０年に――」%K%P
 In 2010?
 CN PLACEHOLDER
-В 2010-м...
+В 2010-м году...
 
 空「それまで禁止されていた人間のクローン受精は、法律で認められました」%K%P
 Human cloning, which had been illegal up until then, was allowed by law.
 CN PLACEHOLDER
-Клонирование человека, что до той поры было запрещено, было узаконено.
+...было узаконено клонирование человека, что ранее было запрещено.
 
 空「現在では、省庁の許可さえ得られれば、誰でもクローン受精による不妊治療が受けられるようになっています」%K%P
 Currently, as long as anyone receives the approval of the authorities, they can undergo clone fertilization as a way to treat infertility.
 CN PLACEHOLDER
-Сейчас, если у человека есть разрешение от авторитетных врачей, клонирование может применяться в качестве средства для лечения бесплодия.
+Сейчас, с разрешения соответствующего ведомства любой желающий может с помощью клонирования пройти „лечение“ бесплодия.
 
 空「培養した体細胞から核を抜き取り、別の、既に核を抜き取ってある卵細胞の中にそれを移植し、母体子宮内に着床させることで……」%K%P
 The nucleus is taken from an already-cultivated somatic cell and inserted into an egg that has had its original nucleus removed. Then it's implanted into the mother's womb...
 CN PLACEHOLDER
-Берётся ядро из развитой соматической клетки, затем внедряется в яйцеклетку, из которой удалили её изначальное ядро. Затем яйцеклетку имплантируют в матку будущей маме...
+Берётся ядро из развитой соматической клетки, затем внедряется в яйцеклетку с уже удалённым ядром. Затем, имплантируя яйцеклетку в матку будущей матери...
 
 武「ああ、そうだ思い出した！！」%K%P
 Oh, that's right, I remember now!
@@ -666,12 +666,12 @@ CN PLACEHOLDER
 武「俺の友達の親戚にも、確か経験者がいるよ、うん」%K%P
 One of my friend's relatives went through it.
 CN PLACEHOLDER
-Один из знакомых моего кореша прошёл через это.
+Родственник моего кореша имеет такой опыт.
 
 空「ご理解頂けましたか？」%K%P
 Do you understand?
 CN PLACEHOLDER
-Ты понимаешь?
+Тебе всё понятно?
 
 武「あ、えーと……」%K%P
 Uh... Uhm... Well...
@@ -681,17 +681,17 @@ CN PLACEHOLDER
 武「だけど、それとこれとは話が違うんじゃないかなぁ……」%K%P
 But what does that have to do with this?
 CN PLACEHOLDER
-Но тогда при чём здесь наш разговор?
+А как это относится к нашему разговору?
 
 武「クローンはそれぞれ別々に成長して、別個の存在になるだろ？」%K%P
 Clones develop separately. In other words, they're different entities.
 CN PLACEHOLDER
-Клоны развиваются отдельно. Иными словами, они разные личности.
+Клоны развиваются отдельно и становятся разными личностями, ведь так?
 
 武「同一の人間じゃないよ。双子みたいなもので……」%K%P
 They're not the same person. They're more like twins...
 CN PLACEHOLDER
-Они не один и тот же человек. Скорее близнецы...
+Они не один и тот же человек. Они скорее как близнецы...
 
 空「でも、その由来は単一です」%K%P
 But their source is the same.
@@ -701,7 +701,7 @@ CN PLACEHOLDER
 空は淡々と述べた。%K%P
 She spoke almost casually.
 CN PLACEHOLDER
-Обыденным тоном сказала она.
+Сказала Сора обыденным тоном.
 
 空「話を戻しますね……」%K%P
 Let's go back to what we were talking about...
@@ -726,27 +726,27 @@ CN PLACEHOLDER
 空「この、等しく分けられた『私』……」%K%P
 This 'me', evenly divided...
 CN PLACEHOLDER
-Эти равнозначно разделённые „Я“...
+В каждой из этих равноценных „Я“...
 
 空「すべてが『茜ヶ崎空』なのです」%K%P
 ...is all 'Akanegasaki Sora'.
 CN PLACEHOLDER
-...все Аканэгасаки Сора.
+...есть „Аканэгасаки Сора“.
 
 空「そこには『私』がいますが、同時に『ここにいる私』はそこにはいない」%K%P
 That 'me' is over there, and at the same time, this 'me' is not there.
 CN PLACEHOLDER
-Эти „я“ здесь, и, в то же время, эти „я“ не здесь.
+Там находятся „Я“, но в то же время „Я“, что находится здесь, там отсутствует.
 
 空「ここに私がいて、けれど、向こうの『私』とは違う私」%K%P
 I am here, but the 'me' over there is a different 'me'.
 CN PLACEHOLDER
-Я здесь, но „я“ вон там – другая „я“.
+Я здесь, но эта „Я“ отличается от другой „Меня“ там.
 
 空「しかし私であることにかわりはない『私』……」%K%P
 But they are all me, the same 'me'...
 CN PLACEHOLDER
-Но они все – я, та же самая, „Я“...
+И всё же эти „Я“ являются мной...
 
 空「すべて、私」%K%P
 All me.
@@ -761,12 +761,12 @@ CN PLACEHOLDER
 空「私は単一であると同時に多数になる」%K%P
 I am one, yet at the same time, I am many.
 CN PLACEHOLDER
-Я одна, и в то же самое время я – множество.
+Являясь единственной, одновременно я и многочисленна.
 
 空「私は、あらゆる場所、どこにでもいる存在になる」%K%P
 I can be in any place, exist everywhere.
 CN PLACEHOLDER
-Я могу быть в любом месте, существовать везде.
+Я являюсь существом, что может быть в любом месте, повсюду.
 
 空「私は――遍在している」%K%P
 I am—omnipresent.
@@ -781,7 +781,7 @@ CN PLACEHOLDER
 空「同じ空間の中に、時間の中に、複数の私が存在できるのです」%K%P
 There can be several of me existing in the same space at the same time.
 CN PLACEHOLDER
-В одном и том же пространстве, в одном и том же времени, могут существовать несколько меня.
+В одном и том же пространстве, в одно и то же время может существовать несколько меня.
 
 空「例えば、倉成さんの前と、ココちゃんの前」%K%P
 For example, in front of you and in front of Coco-chan.
@@ -791,27 +791,27 @@ CN PLACEHOLDER
 空「あそことここに、ふたりの私がいる」%K%P
 There and here, there are two of me.
 CN PLACEHOLDER
-Там и тут, здесь две меня.
+Там и здесь – две меня.
 
 空「けれどそれは、決して『Ｗ』ではなく……」%K%P
 But they are definitely not 'W'...
 CN PLACEHOLDER
-Но они разделены определённо не по оси „W“...
+Если представить ситуацию визуально, она похожа не на „W“...
 
 空「『Ｙ』なのです」%K%P
 But 'Y'.
 CN PLACEHOLDER
-...а по „Y“.
+...а скорее на „Y“.
 
 武「『Ｙ』？」%K%P
 'Y'?
 CN PLACEHOLDER
-По „Y“?
+На „Y“?
 
 空「ある由来から出でて、分かれた『Ｙ』」%K%P
 'Y' because we split from our source, branching off.
 CN PLACEHOLDER
-Да. „Y“ – потому что мы исходим из одного и того же источника.
+У „Y“ ветки расходятся из одной точки.
 
 空は宙を舞った。%K%P
 Sora danced around in midair.
@@ -821,7 +821,7 @@ CN PLACEHOLDER
 その残像は増えたり減ったりしている。%K%P
 Her other images multiplied and disappeared.
 CN PLACEHOLDER
-Её другие изображения размножились и исчезли.
+Её другие изображения то множились, то исчезали.
 
 もはや、大きさも量も距離も不定だった。%K%P
 It was impossible to even tell their size, amount, or distance.
@@ -831,12 +831,12 @@ CN PLACEHOLDER
 空「そうですね……考えてみてください」%K%P
 You see... Please think of it this way.
 CN PLACEHOLDER
-Понимаешь... пожалуйста, порассуждай в таком ключе.
+Знаешь... Попробуй порассуждать в таком ключе.
 
 空「もしも、あなたという人格を、そっくりそのままコピーすることができるとしたら……？」%K%P
 What if you could be copied exactly, just the way you are?
 CN PLACEHOLDER
-Что, если бы твою личность можно было воспроизвести один в один?
+Что, если бы твою личность можно было скопировать целиком, один в один?
 
 武「？？」%K%P
 ?
@@ -851,37 +851,37 @@ CN PLACEHOLDER
 空「たとえば……」%K%P
 For instance...
 CN PLACEHOLDER
-То есть...
+К примеру...
 
 空「たとえば、あなたの脳に刻まれたすべての記憶、考えかた、感じかた、人格、性格、感情……」%K%P
 For instance, what if every recollection, thought, feeling, character trait, personality, and emotion that is etched into your mind...
 CN PLACEHOLDER
-То есть, что если бы каждое воспоминание, мысль, чувство, черты характера, личность, и даже эмоции, вытравленные на твоей подкорке...
+К примеру, взять все воспоминания, что хранятся в твоём мозге, образ мышления, восприятие, личность, характер, эмоции...
 
 空「それらすべての情報を、正確に、忠実に摘出することができたとして」%K%P
 In other words, your whole intelligence could be perfectly, exactly extracted...
 CN PLACEHOLDER
-Проще говоря, весь твой разум, мог быть совершенно, абсолютно точно извлечён...
+Допустим, все эти сведения удалось бы точно и достоверно извлечь...
 
 空「それを何らかの記憶媒体に複製し、しかもその機能を再現できるとしたら」%K%P
 And then duplicated in some kind of storage medium, even reproducing all your abilities...
 CN PLACEHOLDER
-...а затем продублирован на каком-нибудь носителе, даже с воссозданием всех твоих способностей...
+...а затем скопировать их на некий носитель – и притом воспроизвести их свойства...
 
 空「そのとき、本当のあなたは、どこにいるでしょうか？」%K%P
 Then where is the real 'you'?
 CN PLACEHOLDER
-Тогда где же настоящий „ты“?
+Где тогда будет настоящий „Ты“?
 
 空「肉体に残ったままの人格が、本当のあなた？」%K%P
 The 'you' who stays in your body, is that the real 'you'?
 CN PLACEHOLDER
-„Ты“, что остался в этом теле – настоящий „ты“?
+„Ты“, что остался в этом теле – настоящий „Ты“?
 
 空「それとも、複製した人格が、本当のあなた？」%K%P
 Or is the duplicate character, in fact, 'you'?
 CN PLACEHOLDER
-Или личность-дубликат, являющаяся „тобой“?
+Или личность-дубликат – настоящий „Ты“?
 
 武「…………」%K%P
 .........
@@ -891,7 +891,7 @@ CN PLACEHOLDER
 空「正解は、そのいずれにも、本当のあなたがいる、です」%K%P
 The answer is, in any case, that the real 'you' does exist in both.
 CN PLACEHOLDER
-Ответ в любом случае один – настоящий „ты“ существует в каждом из них.
+Правильный ответ такой: настоящий „Ты“ есть и там, и там.
 
 空「もしそのようなことが可能になったら……」%K%P
 If such a thing was possible...
@@ -901,22 +901,22 @@ CN PLACEHOLDER
 空「あなたは、非減数分裂的に分裂するでしょう」%K%P
 You would split in a form of non-reductional division.
 CN PLACEHOLDER
-Ты смог бы разделиться, как при митозе, с сохранением всего тебя.
+Вы бы разделились будто при митозе.
 
 空「つまり、リンゴをふたつに割るような分裂の仕方ではなく……」%K%P
 In other words, it is not the same as splitting an apple into two...
 CN PLACEHOLDER
-Другими словами, это не всё равно, что разрезать яблоко пополам...
+Другими словами, это не как разрезать яблоко пополам...
 
 空「そのリンゴと同じ質量、同じ形、同じ成分を持ったリンゴが、もうひとつ誕生するということです」%K%P
 It is as if another apple with the exact same mass, shape, and composition comes into being.
 CN PLACEHOLDER
-Это как если бы стало существовать ещё одно яблоко, абсолютно той же массы, формы и содержания.
+Это как если бы появилось ещё одно яблоко, абсолютно той же массы, формы и состава.
 
 空「そのとき、あなたはふたつになるでしょう」%K%P
 When that happens, you become two.
 CN PLACEHOLDER
-Когда это происходит, тебя становится двое.
+Стоит этому случиться, и вас станет двое.
 
 空は分身をひとつだけ残して他を消し、俺の前に立った。%K%P
 Sora got rid of all but one extra body and stood in front of me.
@@ -931,7 +931,7 @@ CN PLACEHOLDER
 どちらが元の空なのか、区別はつかない……。%K%p
 There was no way to tell which was the original...
 CN PLACEHOLDER
-И невозможно даже предположить, какая из них – оригинал...
+И никак не узнать, какая из них – оригинал...
 
 もっと聞く
 Hear more
@@ -951,7 +951,7 @@ CN PLACEHOLDER
 そう思ったが、俺は黙って耳を傾けた。%K%P
 I wondered, but kept quiet and listened.
 CN PLACEHOLDER
-Я едва не роняю челюсть на пол, но продолжаю молча её слушать.
+Так я подумал, но продолжил молча слушать.
 
 武「…………」%K%P
 .........
@@ -971,22 +971,22 @@ CN PLACEHOLDER
 俺は頭を掻きむしりたくなった。%K%P
 I wanted to scratch my head.
 CN PLACEHOLDER
-Я хочу почесать себе затылок.
+Я был готов рвать на себе волосы.
 
 いや、実際掻きむしった。%K%P
 No, I actually did scratch my head.
 CN PLACEHOLDER
-Нет, я УЖЕ чешу себе затылок.
+Нет, я их уже вырываю.
 
 武「俺がふたつだって！？」%K%P
 There's two of me!?
 CN PLACEHOLDER
-Меня двое?!
+Двое меня?!
 
 武「何を言ってる？」%K%P
 What are you saying?
 CN PLACEHOLDER
-Что ты хочешь этим сказать?
+О чём ты?
 
 武「俺は誰だっ？」%K%P
 Who am I?
@@ -996,7 +996,7 @@ CN PLACEHOLDER
 武「俺は俺だあっ！」%K%P
 Who am I!?
 CN PLACEHOLDER
-Кто я?!
+Я – это я!
 
 武「他に俺はいるかあぁっ！？」%K%P
 Is there another me!?
@@ -1011,12 +1011,12 @@ CN PLACEHOLDER
 暴れたくなった。%K%P
 I wanted to rage, to hit something.
 CN PLACEHOLDER
-Сейчас бы врезать кулаком по чему-нибудь, чтобы прийти в себя.
+Хотелось что-нибудь разбить.
 
 そうしないように歯をギリギリ食いしばっていた。%K%P
 I had to grind my teeth together to keep myself still.
 CN PLACEHOLDER
-Я нервно сжал зубы, пытаясь удержать себя в руках.
+Я крепко сжал зубы, пытаясь сдержать себя в руках.
 
 空「倉成さん、落ち着いて……」%K%P
 Calm down, Kuranari-san...
@@ -1026,7 +1026,7 @@ CN PLACEHOLDER
 空「ちゃんと聞いてください……」%K%P
 Listen to me...
 CN PLACEHOLDER
-Выслушай меня...
+Пожалуйста, послушай внимательно...
 
 空は眉をへの字にする。%K%P
 She arched her eyebrow.
@@ -1036,22 +1036,22 @@ CN PLACEHOLDER
 空「そうだとしたら、の話なんですよ……」%K%P
 I'm saying, what if...
 CN PLACEHOLDER
-Я имею в виду, что если...
+Мы говорим о том, что бы было, если бы это было так...
 
 空「細胞クローンでなく、真の意味でのクローニングというものがあったなら」%K%P
 If there were such a thing as true cloning, not just cellular cloning.
 CN PLACEHOLDER
-Что если бы существовала такая вещь, как настоящее клонирование, а не просто клонирование клеточного строения.
+Если бы существовало настоящее клонирование, а не просто клонирование клеточного строения.
 
 空「オリジナルとまったく区別されることのないコピーがこの世に存在したら」%K%P
 If there were a copy that could exist in the world with absolutely no difference from the original.
 CN PLACEHOLDER
-Что, если бы в мире могли существовать копии, абсолютно ничем не отличающиеся от оригинала.
+Если бы в мире могли существовать копии, абсолютно неотличимые от оригинала.
 
 空「そういう、仮定の話なんです……」%K%P
 I am simply speaking hypothetically...
 CN PLACEHOLDER
-Я говорю чисто гипотетически...
+Вот об этом, о таком допущении, и идёт речь...
 
 空「聞いてください、お願いですから……」%K%P
 Please, just listen to me...
@@ -1111,52 +1111,52 @@ CN PLACEHOLDER
 空「歴史的には、その瞬間から、ふたりのあなたは別々の個体として、時間軸上を歩んで行くことになります」%K%P
 Historically, and from that moment forward, the two of you are traveling down the time axis as separate entities.
 CN PLACEHOLDER
-С того самого мгновения вы двое идёте по временной оси как отдельные существа.
+С исторической точки зрения, с того самого момента двое вас начнут идти по оси времени как два отдельных существа.
 
 空「けれど、その道のりを振り返ってみれば、ふたつのあなたは、ある１点で結ばれていたことがわかるはずです」%K%P
 But, if you turn around and look at the journey you have taken, you will see that the two of you were joined together at one point.
 CN PLACEHOLDER
-Но если вы оглянетесь и посмотрите на свой путь, то увидите, что в одной из точек вы оба были одним целым.
+Но если вы оглянетесь и посмотрите на свой путь, вы непременно обнаружите, что два ваших „Я“ были связаны в одной точке.
 
 空「それが……つまり『Ｙ』なのです。『Ｗ』ではなく%N『Ｙ』」%K%P
 It is split like a 'Y', with two points emerging from one line. Not a 'W', with two separate points of origin.
 CN PLACEHOLDER
-Это разделение, в точности похожее на „Y“, с двумя точками, исходящими из одной линии. А не „W“, с двумя различными исходными точками.
+Это как в том сравнении... Иначе говоря, ваш путь – это „Y“, не „W“.
 
 空「あるポイントを基点として、別々に分かれて行くふたつの自分を、あなたは想像できないかもしれません」%K%P
 You may be unable to imagine two of yourself splitting apart and going different ways at a particular base point.
 CN PLACEHOLDER
-Конечно, ты не можешь представить двоих себя, разделяющихся между собой и идущих по разным путям в конкретный момент, что мы используем как точку отсчёта.
+Наверное, тебе трудно представить двух себя, которые расходятся в разные стороны, отправившись из одной точки.
 
 空「しかし、それは既に起こっていることなのです」%K%P
 But that is something that has already happened.
 CN PLACEHOLDER
-Однако фактически это уже произошло.
+Однако это уже происходило.
 
 空「あなたは常に、絶え間なく訪れては過ぎ去って行く瞬間の中で、何らかの選択を迫られています」%K%P
 You are always, constantly, approaching a choice in each present moment that becomes the past the instant you visit it.
 CN PLACEHOLDER
-Ты всегда, бесконечно, достигаешь выбора каждую секунду, что становится прошлым, как только ты его достигаешь.
+Ты постоянно, в каждом из бесконечно сменяющих друг друга мгновений, оказываешься перед необходимостью сделать тот или иной выбор.
 
 空「Ａの道を行くか？　Ｂの道を行くか？」%K%P
 Will you choose path A? Will you choose path B?
 CN PLACEHOLDER
-Выберешь ли ты путь А? Или выберешь путь Б?
+Идти ли по пути А? Или идти по пути Б?
 
 空「ここにいるあなたがＡの道を歩んできたとしても、別の時間軸上では、Ｂの道を歩んできたあなたが存在するかもしれません」%K%P
 The 'you' that is standing here may have come down path A, but in another time axis, there may be a 'you' who is going down path B.
 CN PLACEHOLDER
-„Ты“, стоящий здесь, возможно, пошёл по пути А, но в другой временной оси здесь можешь стоять „ты“, что пошёл по пути Б.
+„Ты“, что стоит здесь, возможно, пошёл по пути А, но на другой временной оси здесь можешь стоять „Ты“, что пошёл по пути Б.
 
 空「そして、Ａの道のあなたも、Ｂの道のあなたも、あなたであることに変わりはない」%K%P
 And both the 'you' on path A and the 'you' on path B are still 'you'.
 CN PLACEHOLDER
-И оба „тебя“ – на пути А и на пути Б – по-прежнему „ты“.
+И тот „Ты“, что на пути A, и тот „Ты“, что на пути Б – оба остаются тобой.
 
 空「ただ、Ａの道にいるあなたは、Ｂの道にいるあなたのことを知りません」%K%P
-Except that the 'you' on path A doesn't know about the 'you' on path B.
+Except that the 'you' on path A doesn't know about the 'you' on path Б.
 CN PLACEHOLDER
-С единственным исключением, что „ты“ на пути А не знает о „тебе“ на пути Б.
+Только „Ты“ на пути A не знает о „Тебе“ на пути Б.
 
 空「知る手段がないからです」%K%P
 Because there is no way to know.
@@ -1166,7 +1166,7 @@ CN PLACEHOLDER
 空「同様に、Ｂの道にいるあなたも、Ａの道にいるあなたのことには気づかないでしょう」%K%P
 In the same way, the 'you' on path B probably isn't aware of the 'you' on path A either.
 CN PLACEHOLDER
-В то же самое время, „ты“ на пути Б наверняка даже не в курсе о существовании „тебя“ на пути А.
+В то же самое время, „Ты“ на пути Б наверняка даже не в курсе о существовании „Тебя“ на пути А.
 
 空「なぜだかわかりますか？」%K%P
 Do you know why that is?
@@ -1201,7 +1201,7 @@ CN PLACEHOLDER
 空「あなたが３次元的な知覚能力しか持っていないからです」%K%P
 It is because you only have the ability to perceive three dimensions.
 CN PLACEHOLDER
-Потому что твоё восприятие работает лишь в трёх измерениях.
+Потому что ты обладаешь лишь трёхмерным восприятием.
 
 空「倉成さん、私が立体に見えますか？」%K%P
 Kuranari-san, do I look corporeal to you?
@@ -1301,7 +1301,7 @@ CN PLACEHOLDER
 空「次は、右目をつぶってみてください」%K%P
 Now, please close your right eye.
 CN PLACEHOLDER
-Теперь, пожалуйста закрой свой правый глаз.
+Теперь, пожалуйста, закрой свой правый глаз.
 
 武「こうか？」%K%P
 Like this?
@@ -1361,17 +1361,17 @@ CN PLACEHOLDER
 空「ふたつの眼から得た２次元情報のずれ、視差を利用します」%K%P
 You take two-dimensional information acquired from both of your eyes, and your brain analyzes and processes it accordingly to gain the correct depth.
 CN PLACEHOLDER
-Твой мозг воспринимает двумерную информацию, полученную из обоих глаз, основываясь на которой расчитывает правильную глубину.
+Твой мозг воспринимает двумерную информацию, полученную из обоих глаз, основываясь на которой рассчитывает правильную глубину.
 
 空「では、３次元の空間そのものを外から眺め、認識するには……？」%K%P
 So to see a three-dimensional space from the outside, and be able to recognize it...?
 CN PLACEHOLDER
-То есть, чтобы увидеть трёхмерное пространство снаружи и суметь его воспринять...
+Как можно увидеть трёхмерное пространство извне...
 
 武「……わからん。わからんけど……」%K%P
 ...I don't get it. I don't get it, but...
 CN PLACEHOLDER
-...я не понял. Я не понял, но...
+...Я не понял. Я не понял, но...
 
 武「なんとなく、わかってきた」%K%P
 Somehow, I think I DO get it.
@@ -1426,7 +1426,7 @@ CN PLACEHOLDER
 空「素晴らしいですね……。倉成さん、素質があるんじゃないですか？」%K%P
 Wonderful... Kuranari-san, you might be a natural at this.
 CN PLACEHOLDER
-Здорово... Куранари-сан, а ты неплохо в этом разбираешься.
+Здорово... Куранари-сан, а ты довольно способный.
 
 武「何の？」%K%P
 At what?
@@ -1466,7 +1466,7 @@ CN PLACEHOLDER
 空「仮に、２次元の世界に知的生命体がいるとしましょう」%K%P
 Let's say that there are intelligent beings in a two-dimensional world.
 CN PLACEHOLDER
-Предположим, что в этом двумерном мире существуют разумные создания.
+Предположим, что в этом двумерном мире существуют разумные существа.
 
 空「彼は３次元の立体を見ることができますか……？」%K%P
 Can they see a three-dimensional object?
@@ -1596,7 +1596,7 @@ CN PLACEHOLDER
 空「そのとき初めて『自分がＹの字の一部であったこと』に気づき」%K%P
 You would realize for the first time that you were at a particular point on the 'Y'...
 CN PLACEHOLDER
-То впервые бы осознал, что был в конкретной точке по „Y“...
+То впервые бы осознал, что был в конкретной точке на „Y“...
 
 空「さらに『枝分かれしたもうひとりの自分がいること』にも気づけるのです」%K%P
 And realize, too, that there is another 'you' who took a different branch of the 'Y'.
@@ -1666,12 +1666,12 @@ CN PLACEHOLDER
 空「そのとき初めて『自分がΨの字の一部であったこと』に気づき」%K%P
 You will realize for the first time that you were on one point of the 'Y'...
 CN PLACEHOLDER
-То поймёшь, что ты был в одной из точек оси „Y“...
+То поймёшь, что ты был в одной из точек „Y“...
 
 空「さらに『枝分かれした他の自分がいること』にも気づけるのです」%K%P
 And realize too that there is another 'you' who took a different branch of the 'Y'.
 CN PLACEHOLDER
-...но также и поймёшь, что есть другой ты, что выбрал другой путь на оси „Y“.
+...но также и поймёшь, что есть другой ты, что выбрал другой путь на „Y“.
 
 武「…………」%K%P
 .........
@@ -1696,17 +1696,17 @@ CN PLACEHOLDER
 空「あなたと同様に、私という存在も、遍在しています」%K%P
 And in the same way, so am I.
 CN PLACEHOLDER
-И, одновременно, я тоже.
+То же касается и меня.
 
 空「あなたも、私と同じ……」%K%P
 You and I...
 CN PLACEHOLDER
-Ты и я...
+Мы с тобой...
 
 空「単一から分かれた『Ｙ』……」%K%P
 We are just branches of the 'Y'...
 CN PLACEHOLDER
-Мы всего-навсего ответвления оси „Y“...
+Мы всего-навсего ответвления „Y“...
 
 空「ですが……」%K%P
 However...
@@ -1741,7 +1741,7 @@ CN PLACEHOLDER
 空「あなたの知らない『あなた』が、あなた自身と不可分の存在になれるとしたら」%K%P
 If the self you don't know were to become inseparably bound with you...
 CN PLACEHOLDER
-Если ты, которого ты не знаешь, неразрушимо соединён с тобой...
+А что, если ты, которого ты не знаешь, может стать неотъемлемой частью тебя...
 
 空「あなた自身が、他のあらゆる『あなた』を把握できる位置に立って、すべてを見通せたとしたら」%K%P
 If you could stand in a place where you could see and understand all the others that were 'you'...
@@ -1791,7 +1791,7 @@ CN PLACEHOLDER
 空「ふふっ……いい質問ですね……」%K%P
 Hmm... That's a good question...
 CN PLACEHOLDER
-Хм-м... хороший вопрос...
+Хм-м... Хороший вопрос...
 
 空はくるりとその場で一回転して、にっこりと笑む。%K%P
 Sora turned in a full circle right where she was and smiled.

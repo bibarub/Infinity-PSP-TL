@@ -1,12 +1,12 @@
 ﻿予定通り俺達はタツタ売店に集合し、食事をとった。%K%P
 We met at the tuna sandwich stand and ate as scheduled.
 CN PLACEHOLDER
-Мы собрались у киоска и, словно по расписанию, принялись за ужин.
+Как было решено, мы собрались возле киоска и принялись за ужин.
 
 結局、夕食も何故か俺が作っていた……。%K%P
 In the end, I didn't fix anything for dinner...
 CN PLACEHOLDER
-В конце концов, я так и не смог приготовить ничего, кроме...
+Так вышло, что и ужин готовил я...
 
 少年「それにしてもさぁ、武」%K%P
 Hey, Takeshi.
@@ -31,12 +31,12 @@ CN PLACEHOLDER
 武「この売店には元々、食い物はタツタサンドしかなかったみたいなんだ」%K%P
 There wasn't much at this kiosk except tuna sandwiches to start with.
 CN PLACEHOLDER
-В киоске с самого начала не было практически ничего, кроме этого треклятого тунца.
+Видать, в этом киоске ничего кроме сэндвичей с тунцом и не продавали.
 
 武「ホットドッグは朝出したぶんで終わりだしな。あれはたぶん、売店のオヤジの気紛れで置いてあっただけだろ」%K%P
 I cooked all the hotdogs this morning, so they're finished. The owner probably just kept them for a little variation.
 CN PLACEHOLDER
-Сосиски мы прикончили ещё сегодня утром, пока я готовил хот-доги. Владелец киоска, должно быть, просто держал их себе на завтрак.
+Сосиски мы прикончили ещё сегодня утром, пока я готовил хот-доги. Владелец киоска, должно быть, просто держал их для себя.
 
 少年「ふーん、そっかぁ……」%K%P
 Oh really...
@@ -46,12 +46,12 @@ CN PLACEHOLDER
 少年は右手でサンドの袋を指先でいじっていた。%K%P
 The Kid held the sandwich wrapping in his right hand and twisted it around his fingertip.
 CN PLACEHOLDER
-Малой держит обёртку от сэндвича в правой руке и вертит её вокруг пальца.
+Малой держит обёртку от сэндвича в правой руке и теребит её пальцами.
 
 左手には半分だけかじったサンドが、一向に減らないまま残っている。%K%P
 The half-eaten sandwich remained in his left hand, not getting any smaller.
 CN PLACEHOLDER
-Но что интересно, наполовину съеденный сэндвич в его левой руке и не думает уменьшаться.
+В левой же руке у него надкусанный сэндвич, который и не собирается уменьшаться.
 
 食べきれなかった……というわけではないようだった。%K%P
 It didn't seem like he couldn't finish it...
@@ -111,7 +111,7 @@ CN PLACEHOLDER
 武「まるで本物のサバイバル経験者のようだ」%K%P
 Yeah, looks like we've got a real survivor on our hands.
 CN PLACEHOLDER
-И, кстати, кажется в нашей маленькой компании попался настоящий борец за выживание.
+Похоже, среди нас нарисовался настоящий эксперт по выживанию.
 
 優「うん、そうだよ」%K%P
 Yep, that's right.
@@ -126,17 +126,17 @@ CN PLACEHOLDER
 武「……え？」%K%P
 ...Huh?
 CN PLACEHOLDER
-Э-э?
+А?
 
 優「ちょっとした趣味でね、私、時々ひとりで山に入ったりするの」%K%P
 Yeah, just a little hobby of mine. Sometimes, I go into the mountains alone.
 CN PLACEHOLDER
-Да так, моё незатейливое хобби. Иногда я одна хожу в горы.
+Да так, моё незатейливое хобби. Иногда я сама хожу в горы.
 
 優「道なき道を掻き分けて……たまに迷子になったりするんだけど……」%K%P
 I carve my own path... Sometimes, I even get a bit lost...
 CN PLACEHOLDER
-Проделываю свой собственный путь... пару раз даже довелось заблудиться...
+Проделываю свой собственный путь... Пару раз даже довелось заблудиться...
 
 武「山ごもりか！？」%K%P
 Into the mountains alone?
@@ -181,12 +181,12 @@ CN PLACEHOLDER
 優「違うっての！　いい加減ツキノワグマから離れなさいよ……」%K%P
 No, no, no. Would you shut up about bears already...
 CN PLACEHOLDER
-Нет, нет, нет. Может ты наконец заткнёшься про медведей, а?!
+Нет, нет, нет. Может ты уже заткнёшься про медведей, а?!
 
 武「へいへい……」%K%P
 Heh heh...
 CN PLACEHOLDER
-Хее-хее...
+Хе-хе...
 
 武「しかし見かけによらずワイルドなやっちゃな、お前」%K%P
 So despite appearances, you're really wild at heart.
@@ -221,12 +221,12 @@ CN PLACEHOLDER
 武「ふーん……」%K%P
 Hmph.
 CN PLACEHOLDER
-Ххаа.
+М-м...
 
 武「やっぱりクマと決闘を」%K%P
 Just like I thought, bear wrestling.
 CN PLACEHOLDER
-Так я и знал – поцапалась с Михайло Потапычем.
+Небось сцапалась с медведем.
 
 優「しつこいっ！！」%K%P
 Just give it up!
@@ -246,7 +246,7 @@ CN PLACEHOLDER
 優「ああ、もう……ほんとに……」%K%P
 Aaagghhh... I can't take this anymore.
 CN PLACEHOLDER
-А-а-агх... я больше этого не вынесу.
+А-а-агх... Я больше этого не вынесу.
 
 優「…………」%K%P
 .........
@@ -286,12 +286,12 @@ CN PLACEHOLDER
 優「ねぇ、倉成……？」%K%P
 Hey, Kuranari...?
 CN PLACEHOLDER
-Это, Куранари?..
+Слушай, Куранари?..
 
 優「つぐみの、ことなんだけど」%K%P
 Umm, about Tsugumi...
 CN PLACEHOLDER
-Эмм, насчёт Цугуми...
+Насчёт Цугуми...
 
 何か言い辛そうにしている。%K%P
 It seemed like she wanted to say something, but she didn't know what to say.
@@ -306,12 +306,12 @@ CN PLACEHOLDER
 優「ああ、うん。それがね……」%K%P
 Um, what I mean is, uh...
 CN PLACEHOLDER
-Эм, я хочу сказать, что, м-м...
+Ну-у, я хочу сказать, что...
 
 そこへ、ばしゃばしゃと元気に水を蹴る音が近づいてきた。%K%P
 Just then, we heard the sounds of people running through the water toward us.
 CN PLACEHOLDER
-И тут послышалось, как кто-то бежит в нашу сторону по воде.
+И тут послышался звук плещущейся воды.
 
 ばしゃばしゃばしゃ……。%K%P
 Splish, splash, splish...
@@ -331,12 +331,12 @@ CN PLACEHOLDER
 武「おっココ、そろそろメシ食えそうか？」%K%P
 Hey, Coco, you about ready to eat?
 CN PLACEHOLDER
-Погоди, Коко. Ты, наверное, проголодалась?
+Эй, Коко. Ты, наверное, проголодалась?
 
 ココ「うんっ、走り回ってたらお腹減ってきた」%K%P
 Yeah, all that running around's made me starved!
 CN PLACEHOLDER
-Ага, вся эта беготня отняла кучу энергии!
+Ага, пока носилась, так проголодалась!
 
 ピピ「わん」%K%P
 *Woof*
@@ -361,7 +361,7 @@ CN PLACEHOLDER
 ココ「えい、ガブリ」%K%P
 Yay! Chow time!
 CN PLACEHOLDER
-Ням! Жуй-жуй глотай!
+Ням! Кусь!
 
 ココ「…………」%K%P
 .........
@@ -371,17 +371,17 @@ CN PLACEHOLDER
 ココ「おいしーい♪」%K%P
 Oh, this is yummy〜
 CN PLACEHOLDER
-Ой, вкуснотища!
+Вкусноти-и-ища!
 
 ココ「マグロタツタ揚げとしょう油マヨネーズのハーモニーが絶妙です♪」%K%P
 Mmm. This blend of soy sauce, mayonnaise, and fried tuna is perfect. Yum. Supreme〜
 CN PLACEHOLDER
-М-м-м. Эта смесь соевого соуса, майонеза и жареного тунца просто чудо. Ням. Верх блаженства...
+Сочетание жареного во фритюре тунца и майонеза с соевым соусом просто восхитительно!
 
 ココ「絶妙です♪　ね、少ちゃん？」%K%P
 Yeah, Kiddo. This is divine, isn't it?
 CN PLACEHOLDER
-Да, Малой-тян. Это божественно, правда?
+Как это здорово-о-о! Правда, Малой-тян?
 
 ココは、売店前に立っていた少年に訊く。%K%P
 Coco shot the question to the Kid, who was standing in front of the store.
@@ -416,7 +416,7 @@ CN PLACEHOLDER
 少年「え？　わっ……」%K%P
 Huh? What is that?
 CN PLACEHOLDER
-Э-э?! Это ещё что?
+А?! Это ещё что?
 
 ココ「むにむにむにむにーっ♪」%K%P
 Here it comes, ooey-gooey〜
@@ -426,7 +426,7 @@ CN PLACEHOLDER
 ココは背中に隠し持っていたチューブを、少年のタツタの上にひねり出した。%K%P
 Coco pulled out a tube she had hidden behind her back, held it over the Kid's sandwich, and squeezed.
 CN PLACEHOLDER
-Коко вытащила тюбик у себя из-за спины, протянула его к сэндвичу Малого и выдавила его содержимое.
+Коко вытащила тюбик из-за спины, протянула его к сэндвичу Малого и выдавила его содержимое.
 
 武「ココ、なんだそれ？」%K%P
 Coco, what the heck is that?
@@ -436,32 +436,32 @@ CN PLACEHOLDER
 ココ「サワークリーム！」%K%P
 Sour cream!
 CN PLACEHOLDER
-Китайский кисло-сладкий соус!
+Сметана!
 
 ココ「サラダ用のやつが、おみやげの売店にいっこだけあったの」%K%P
 It's supposed to be for salads. It was the last one at the gift shop.
 CN PLACEHOLDER
-Обычно его используют для салатов. Это единственный, что я нашла в сувенирном киоске.
+Там в сувенирной лавке нашлась всего одна – в тюбиках для салата.
 
 武「ほう……」%K%P
 Hmmmmm...
 CN PLACEHOLDER
-Хм-м-м-м-м...
+Хм-м...
 
 チューブには『暮らしに彩りを添える逸品』『練りカニ海鮮　甘口』と書いてあった。%K%P
 The tube said “Add some spice to your life” and “Crab-flavored cream sauce: mild”.
 CN PLACEHOLDER
-На тюбике написано «Придай своей жизни пикантности» и «Крем-соус со вкусом краба: неострый».
+На тюбике написано «Придай своей жизни пикантности» и «Паста из крабового мяса и морепродуктов, сладковатая».%K%P(Ну и какая это сметана?!)
 
 武「食生活に幅が出そうだな」%K%P
 That could really broaden your culinary horizons.
 CN PLACEHOLDER
-Слушай, эта штука может здорово расширить твой кулинарный кругозор.
+Ну, уж это сильно разнообразит твой рацион.
 
 ココ「うん。はむはむ……」%K%P
 Yep. *Munch*, *munch*...
 CN PLACEHOLDER
-Ага. Ммм...
+Ага. М-м-м...
 
 ココは自分のサンドにもサワークリームを浴びせて、大きく口をあけてかぶりついた。%K%P
 She doused her sandwich with the sour cream, opened her mouth wide, and shoved it in.
@@ -471,7 +471,7 @@ CN PLACEHOLDER
 ココ「おいしーい♪」%K%P
 Delicious〜
 CN PLACEHOLDER
-Вкуснотища.
+Вкуснотища!
 
 ココ「これは絶妙のさらに上を行く絶妙ですっ♪」%K%P
 It doesn't get any better than this〜
@@ -486,7 +486,7 @@ CN PLACEHOLDER
 少年は半信半疑といった顔で、左手のタツタをひと口食べた。%K%P
 The Kid looked at her doubtfully before taking a bite.
 CN PLACEHOLDER
-Малой с подозрением посмотрел на неё, прежде чем сделал один укус.
+Малой с подозрением посмотрел на неё, прежде чем откусить.
 
 少年「あ……確かに」%K%P
 Hmmm... Not bad.
@@ -501,7 +501,7 @@ CN PLACEHOLDER
 ココ「でしょ？　絶妙の絶妙っしょ？」%K%P
 I told you! Yummy, yummy!
 CN PLACEHOLDER
-А я что говорила! Няям-няям-няям!
+А я что говорила! Ням-ням-ням!
 
 ピピ「わん」%K%P
 *Woof*
@@ -536,12 +536,12 @@ CN PLACEHOLDER
 ココ「できたらココが持って行こうか？」%K%P
 How's about I hold onto it for her?
 CN PLACEHOLDER
-Может я возьму и отнесу его к ней?
+Может, я возьму и отнесу его к ней?
 
 武「え、ああ……」%K%P
 Uh, well...
 CN PLACEHOLDER
-Э-э, ну...
+А, ну...
 
 俺は一応つぐみのサンドも作って、保温器の奥に置いてはあった。%K%P
 I had made it for her and stuck it in the warmer to keep for her.
@@ -561,7 +561,7 @@ CN PLACEHOLDER
 優「つぐみはまだ寝てるの。しばらく起きないから……」%K%P
 Tsugumi's still asleep. She won't wake up for a while, so...
 CN PLACEHOLDER
-Цугуми всё ещё спит. И вряд ли вскоре проснётся, так что...
+Цугуми всё ещё спит. И вряд ли скоро проснётся, так что...
 
 優はココの頭を撫でる。%K%P
 You gave Coco a pat on the head.
@@ -576,7 +576,7 @@ CN PLACEHOLDER
 優「うん。疲れてるだろうし……今はね、もうちょっと寝かせてあげて」%K%P
 Yep, I'll bet she's pretty tired. Let's let her sleep a bit longer.
 CN PLACEHOLDER
-Правда, готова спорить, что она здорово устала. Пускай поспит ещё немножко.
+Ага, готова спорить, что она здорово устала. Пускай поспит ещё немножко.
 
 ココ「ふーん……」%K%P
 *Sigh*...
@@ -591,12 +591,12 @@ CN PLACEHOLDER
 武「え？」%K%P
 Huh?
 CN PLACEHOLDER
-Что?
+А?
 
 ココ「ちゃんととって置きましょ〜。つまみ食いしちゃダメだよ？」%K%P
 Let's save it for her. No snacking on it, either!
 CN PLACEHOLDER
-Давайте побережём его для неё. Чтобы никто и не думал им перекусывать!
+Надо сохранить его для неё. Не смейте его тайком умыкнуть, ладно?
 
 ココは保温器の奥のサンドを指差す。%K%P
 Coco pointed to the sandwich nestled deep in the food warmer.
@@ -611,7 +611,7 @@ CN PLACEHOLDER
 武「ＯＫ、了解だ」%K%P
 Alright. Roger that.
 CN PLACEHOLDER
-Так точно!
+Окей, понял.
 
 ココ「よろし〜い！」%K%P
 Great!
@@ -651,7 +651,7 @@ CN PLACEHOLDER
 武「ああっと、そうだ優……」%K%P
 Oh, by the way, You...
 CN PLACEHOLDER
-Ох, да, кстати, Ю...
+О, да, кстати, Ю...
 
 武「つぐみは安静にしてるのか？」%K%P
 Is Tsugumi resting up?
@@ -676,17 +676,17 @@ CN PLACEHOLDER
 優「回復は今のところ、順調よ」%K%P
 But she seems to be recuperating. Satisfactory progress, I think.
 CN PLACEHOLDER
-Но кажется она поправляется. Восстановление идёт быстро...
+Но кажется, она поправляется. Восстановление идёт быстро...
 
 優「順調過ぎるくらい……」%K%P
 Maybe too satisfactory...
 CN PLACEHOLDER
-Может даже слишком быстро...
+Может, даже слишком быстро...
 
 武「順調過ぎる？」%K%P
 What do you mean by 'too satisfactory'?
 CN PLACEHOLDER
-„Слишком быстро“? То есть?
+„Слишком быстро“? В смысле?
 
 優「ううん、なんて言ったらいいんだろう……」%K%P
 I really don't know how to put it...
@@ -711,7 +711,7 @@ CN PLACEHOLDER
 優「……うーん……」%K%P
 ...Yeeeaaah...
 CN PLACEHOLDER
-.... Дааааааа...
+....Да-а-а-а...
 
 武「なんだよ優、また自信喪失しちまったのか？」%K%P
 What's up with you? Lose your confidence somewhere or something?
@@ -736,7 +736,7 @@ CN PLACEHOLDER
 武「？？」%K%P
 ?
 CN PLACEHOLDER
-??
+?
 
 何事かひとり納得して、優は顔をあげた。%K%P
 You lifted her head as if she had just realized something.
@@ -786,7 +786,7 @@ CN PLACEHOLDER
 また他の１体は天に向かって、手を伸ばしていた。%K%P
 Yet another looked to the heavens while reaching a hand upward.
 CN PLACEHOLDER
-Ещё одна, с обращённой к небесам рукой, указывает вверх.
+Ещё одна с обращённой к небесам рукой указывает вверх.
 
 残る１体は……胸に両手をあて、目をそっと閉じている。%K%P
 The remaining figure... had both hands pressed to its chest and eyes closed.
@@ -796,7 +796,7 @@ CN PLACEHOLDER
 何か意味があるのだろうか？%K%P
 I wondered if there was some kind of meaning to all of it.
 CN PLACEHOLDER
-Интересно, может у этих скульптур есть какой-то смысл?
+Интересно, может, у этих скульптур есть какой-то смысл?
 
 優に尋ねてみたが、彼女はわからないと首を振った。%K%P
 I asked You, but she just shook her head unknowingly.
@@ -861,17 +861,17 @@ CN PLACEHOLDER
 俺はひとつ伸びをしてから、追いかけっこを続けるココ達を、目で追ってみた。%K%P
 After having a good stretch, I watched Coco and the others play.
 CN PLACEHOLDER
-Что касаемо меня... Развалившись на скамейке, я слежу глазами за Коко и остальными.
+Потянувшись разок, я взглядом проводил Коко и компанию, всё ещё гонявшихся друг за другом.
 
 石像の周りを輪になって巡るふたりと１匹。%K%P
 The three of them, two kids and an animal, circled the stone statue.
 CN PLACEHOLDER
-То же самое трио, состоящее из двух людей и одного пса, нарезает круги между каменными изваяниями.
+Два ребёнка и один пёс нарезают круги между каменными изваяниями.
 
 誰が鬼なのかは、特に決まっていないようだ。%K%P
 They were playing a game of chase, not really caring who was “it”.
 CN PLACEHOLDER
-Наверное, они играют в догонялки, не беспокоясь о том, кто сейчас «водит».
+Непохоже, что водит у них кто-то конкретный.
 
 飽きもせずにくるくる、ずっと同じ場所を回り続けている。%K%P
 Without seeming to get bored, they kept running around and around.
@@ -956,7 +956,7 @@ CN PLACEHOLDER
 花は萎れ、枯れかかっていた。%K%P
 The flowers had wilted, and the plants were beginning to dry up.
 CN PLACEHOLDER
-Цветы увядают... нет, даже хуже, они начали засыхать.
+Цветы увядают... нет, даже хуже – они начали засыхать.
 
 空「生命とは不思議な現象です」%K%P
 Life is sure a strange phenomenon.
@@ -1051,7 +1051,7 @@ CN PLACEHOLDER
 空「きっと、意味や目的なんて、花には何の関係もないことなんでしょうね」%K%P
 Maybe it's no use contemplating the meaning or purpose of flowers...
 CN PLACEHOLDER
-Наверное, это бесполезно... пытаться разглядеть в цветах смысл...
+Наверное, бессмысленно пытаться разглядеть в цветах смысл...
 
 ふと天井を、空は見上げた。%K%P
 Sora glanced up at the ceiling.
@@ -1071,7 +1071,7 @@ CN PLACEHOLDER
 けたたましく鳴り響くサイレンの音。%K%P
 The shrill sound of a siren rang out loudly.
 CN PLACEHOLDER
-Я вздрогнул от пронзительного возгласа сирен.
+Я вздрогнул от пронзительного воя сирен.
 
 天井のパネルの隙間にある小さなセンサーが、激しく動いた。%K%P
 Tiny sensors hidden in openings of the ceiling panels were moving wildly.
@@ -1111,17 +1111,17 @@ CN PLACEHOLDER
 空の姿は虹に変わった。%K%P
 Sora's appearance changed to that of a rainbow.
 CN PLACEHOLDER
-Сора приобрела радужный оттенок.
+Сора начала мерцать радугой.
 
 武「あわわわっっ、な、なんだ！？」%K%P
 What in the world?
 CN PLACEHOLDER
-Что это?
+А-а-а-а, что происходит?!
 
 武「おいっ、空、なんのトラブルだっ！？」%K%P
 Hey, Sora, what's going on?
 CN PLACEHOLDER
-Слушай, Сора, что происходит?
+Слушай, Сора, что это такое?
 
 動揺を抑えながら俺は訊いた。%K%P
 I tried to steady myself while asking.
@@ -1161,7 +1161,7 @@ CN PLACEHOLDER
 武「スプリンクラー、か？」%K%P
 Oh, it's sprinklers, huh?
 CN PLACEHOLDER
-Ой, так это разбрызгиватели?!
+Ой, так это разбрызгиватели?
 
 空は静かに頷いてみせた。%K%P
 Sora nodded without speaking.
@@ -1191,7 +1191,7 @@ CN PLACEHOLDER
 空「はい」%K%P
 Yes...
 CN PLACEHOLDER
-Да...
+Да.
 
 空「館内水道用の真水です」%K%P
 This complex uses the purest possible water.
@@ -1246,7 +1246,7 @@ CN PLACEHOLDER
 皆は足元の水を蹴り飛ばしながら、バタバタと大慌てでやって来る。%K%P
 Everyone came running over in a frenzy, splashing water with every step.
 CN PLACEHOLDER
-Все в неистовом отчаянии прибежали сюда, разбрызгивая воду на своём пути.
+Все в панике прибежали сюда, разбрызгивая воду на своём пути.
 
 少年「もしかして、また浸水なの？」%K%P
 Don't tell me there's another flood!?
@@ -1296,12 +1296,12 @@ CN PLACEHOLDER
 武「だから、火事とか浸水とか、そんなんじゃないんだ……」%K%P
 I'm telling you, there's no fire or flooding...
 CN PLACEHOLDER
-Господи, я же сказал вам – всё в полном порядке.
+Да это не пожар, наводнение или что-то такое...
 
 武「だからさぁ……」%K%P
 Uh, let me explain...
 CN PLACEHOLDER
-Э-э, я всё объясню...
+Э-э, давайте объясню...
 
 武「優……それ、引っ込めてくれないか？」%K%P
 You... could you put that away?
@@ -1336,7 +1336,7 @@ CN PLACEHOLDER
 天井からの雨は、じきに止んだ。%K%P
 After a while, the water stopped.
 CN PLACEHOLDER
-Через несколько мгновений «дождь» прекратился.
+Вскоре «дождь» прекратился.
 
 空は微笑んで花壇を眺めた。%K%P
 Sora smiled and gazed at the flowerbed.
@@ -1381,7 +1381,7 @@ CN PLACEHOLDER
 武「ついつい、ポチッとな？」%K%P
 I couldn't help giving it a little push.
 CN PLACEHOLDER
-Не смог удержаться и слегка её нажал...
+Не смог удержаться и слегка надавил на неё...
 
 俺が言うと、優は消火器を投げ出す。%K%P
 When I said that, You tossed the fire extinguisher aside.
