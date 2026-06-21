@@ -811,7 +811,7 @@ CN PLACEHOLDER
 空「ある由来から出でて、分かれた『Ｙ』」%K%P
 'Y' because we split from our source, branching off.
 CN PLACEHOLDER
-У „Y“ ветки расходятся из одной точки.
+У „Y“ ветви расходятся из одной точки.
 
 空は宙を舞った。%K%P
 Sora danced around in midair.
