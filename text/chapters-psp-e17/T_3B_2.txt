@@ -616,7 +616,7 @@ CN PLACEHOLDER
 武「省庁の許可さえ得られれば、誰でもクローン受精による不妊治療が受けられるようになった」%K%P
 As long as anyone receives the approval of the authorities, they can undergo clone fertilization as a way to treat infertility.
 CN PLACEHOLDER
-С разрешения соответствующего ведомства любой желающий мог с помощью клонирования пройти „лечение“ бесплодия.
+С разрешения соответствующего ведомства любой желающий при бесплодии мог прибегнуть к клонированию.
 
 武「培養した体細胞から核を抜き取り、別の、既に核を抜き取ってある卵細胞の中にそれを移植し、母体子宮内に着床させる……」%K%P
 The nucleus is taken from an already-cultivated somatic cell and inserted into an egg that has had its original nucleus removed. Then it's implanted into the mother's womb...
