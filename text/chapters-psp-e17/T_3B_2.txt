@@ -1361,7 +1361,7 @@ CN PLACEHOLDER
 空「ふたつの眼から得た２次元情報のずれ、視差を利用します」%K%P
 You take two-dimensional information acquired from both of your eyes, and your brain analyzes and processes it accordingly to gain the correct depth.
 CN PLACEHOLDER
-Твой мозг воспринимает двумерную информацию, полученную из обоих глаз, основываясь на которой рассчитывает правильную глубину.
+Твой мозг воспринимает двумерную информацию, полученную из обоих глаз, и правильно рассчитывает глубину, основываясь на ней.
 
 空「では、３次元の空間そのものを外から眺め、認識するには……？」%K%P
 So to see a three-dimensional space from the outside, and be able to recognize it...?
