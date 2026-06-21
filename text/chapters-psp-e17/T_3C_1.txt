@@ -181,7 +181,7 @@ CN PLACEHOLDER
 優「違うっての！　いい加減ツキノワグマから離れなさいよ……」%K%P
 No, no, no. Would you shut up about bears already...
 CN PLACEHOLDER
-Нет, нет, нет. Может ты уже заткнёшься про медведей, а?!
+Нет, нет, нет. Да хорош уже со своими медведями...
 
 武「へいへい……」%K%P
 Heh heh...
@@ -381,7 +381,7 @@ CN PLACEHOLDER
 ココ「絶妙です♪　ね、少ちゃん？」%K%P
 Yeah, Kiddo. This is divine, isn't it?
 CN PLACEHOLDER
-Как это здорово-о-о! Правда, Малой-тян?
+Как это здо-о-орово! Правда, Малой-тян?
 
 ココは、売店前に立っていた少年に訊く。%K%P
 Coco shot the question to the Kid, who was standing in front of the store.
