@@ -1176,7 +1176,7 @@ CN PLACEHOLDER
 空「なぜだかわかりますか？」%K%p
 Do you?
 CN PLACEHOLDER
-Ведь знаешь?
+А знаешь, почему?
 
 わからない
 I don't know
