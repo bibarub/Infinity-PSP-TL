@@ -881,7 +881,7 @@ CN PLACEHOLDER
 また、資金調達という目的も、なかったわけではない。%T030%K%N
 At the same time, they could also get much-needed funds for research.
 CN PLACEHOLDER
-В то же время, это отличный источник для финансирования исследований.
+В то же время это отличный источник для финансирования исследований.
 
 テーマパークを併設することによって、いくらかでも研究所の運営費を補えれば……と、そんな思惑もあったようだ。%T030%K%N
 If they set up a successful theme park, they could get pretty much all the money they needed to run the research facility...

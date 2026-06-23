@@ -536,7 +536,7 @@ CN PLACEHOLDER
 同時に、ＤＮＡを書き換えられた細胞は、あたかもガン細胞のごとく、次々と分裂を繰り返し、体中に転移して行く。%K%N
 At the same time, the cells with the rewritten DNA go on to divide and multiply, spreading throughout the body like cancer cells.
 CN PLACEHOLDER
-В то же время, клетки с перезаписанной ДНК делятся и размножаются, распространяясь по телу, словно раковые клетки.
+В то же время клетки с перезаписанной ДНК делятся и размножаются, распространяясь по телу, словно раковые клетки.
 
 ところで、通常、体に発生したガン細胞は……%K%N
 Normally, when cancer cells develop in a body...

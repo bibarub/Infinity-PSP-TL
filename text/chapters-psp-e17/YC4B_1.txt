@@ -3141,7 +3141,7 @@ CN PLACEHOLDER
 優「だけど、彼女は私自身でもあるの」%K%P
 And at the same time, she is me.
 CN PLACEHOLDER
-И, в то же время, она – это я.
+И в то же время она – это я.
 
 優「彼女と私は……」%K%P
 She and I are...

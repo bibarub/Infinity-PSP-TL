@@ -2146,7 +2146,7 @@ CN PLACEHOLDER
 空「同時に、倉成さんの眼球の動きと位置も、常に計測し、入力しているのです」%K%P
 At the same time, LeMMIH is also monitoring the position of your eyeballs.
 CN PLACEHOLDER
-В то же время, LeMMIH следит и за положением твоих глазниц.
+В то же время LeMMIH следит и за положением твоих глазниц.
 
 空「ですから、倉成さんが動いても、私は同じ場所に立っているように見えます」%K%P
 So that even if you move, I still appear in the same place.

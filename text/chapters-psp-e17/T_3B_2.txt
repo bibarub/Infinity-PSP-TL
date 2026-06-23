@@ -606,7 +606,7 @@ CN PLACEHOLDER
 武「ああ、知ってる。２０１０年に――」%K%P
 Yes, I know of it. In 2010...
 CN PLACEHOLDER
-Да, я в курсе. В 2010-м году...
+Да, я в курсе. В 2010 году...
 
 武「それまで禁止されていた人間のクローン受精は、法律で認められたんだ」%K%P
 Human cloning, which had been illegal up until then, was allowed by law.
@@ -641,7 +641,7 @@ CN PLACEHOLDER
 空「２０１０年に――」%K%P
 In 2010?
 CN PLACEHOLDER
-В 2010-м году...
+В 2010 году...
 
 空「それまで禁止されていた人間のクローン受精は、法律で認められました」%K%P
 Human cloning, which had been illegal up until then, was allowed by law.
@@ -1146,7 +1146,7 @@ CN PLACEHOLDER
 空「ここにいるあなたがＡの道を歩んできたとしても、別の時間軸上では、Ｂの道を歩んできたあなたが存在するかもしれません」%K%P
 The 'you' that is standing here may have come down path A, but in another time axis, there may be a 'you' who is going down path B.
 CN PLACEHOLDER
-„Ты“, что стоит здесь, возможно, пошёл по пути А, но на другой временной оси здесь можешь стоять „Ты“, что пошёл по пути Б.
+„Ты“, что стоит здесь, пошёл по пути А, но на другой временной оси здесь можешь стоять „Ты“, что пошёл по пути Б.
 
 空「そして、Ａの道のあなたも、Ｂの道のあなたも、あなたであることに変わりはない」%K%P
 And both the 'you' on path A and the 'you' on path B are still 'you'.
@@ -1166,7 +1166,7 @@ CN PLACEHOLDER
 空「同様に、Ｂの道にいるあなたも、Ａの道にいるあなたのことには気づかないでしょう」%K%P
 In the same way, the 'you' on path B probably isn't aware of the 'you' on path A either.
 CN PLACEHOLDER
-В то же самое время, „Ты“ на пути Б наверняка даже не в курсе о существовании „Тебя“ на пути А.
+В то же самое время „Ты“ на пути Б наверняка даже не в курсе о существовании „Тебя“ на пути А.
 
 空「なぜだかわかりますか？」%K%P
 Do you know why that is?
@@ -1366,7 +1366,7 @@ CN PLACEHOLDER
 空「では、３次元の空間そのものを外から眺め、認識するには……？」%K%P
 So to see a three-dimensional space from the outside, and be able to recognize it...?
 CN PLACEHOLDER
-Как можно увидеть трёхмерное пространство извне...
+Итак, как можно увидеть трёхмерное пространство извне?..
 
 武「……わからん。わからんけど……」%K%P
 ...I don't get it. I don't get it, but...
@@ -1651,12 +1651,12 @@ CN PLACEHOLDER
 空「そう、そしてこれは、３次元空間においても同じことです」%K%P
 You see, it's the same for a three-dimensional space...
 CN PLACEHOLDER
-Понимаешь, это справедливо и для трёхмерного пространства...
+Так вот, это справедливо и для трёхмерного пространства...
 
 空「あなたが４次元的視野を獲得したとき」%K%P
 When you acquire four-dimensional vision.
 CN PLACEHOLDER
-Если бы ты обрёл четырёхмерное зрение.
+Когда ты обретёшь четырёхмерное зрение.
 
 空「つまり、倉成さんが、３次元空間から脱出して、４次元空間内から、その空間を『見下ろした』とき」%K%P
 In other words, if you escape this third-dimensional space and look 'down' at it from a fourth-dimensional space...
@@ -1666,7 +1666,7 @@ CN PLACEHOLDER
 空「そのとき初めて『自分がΨの字の一部であったこと』に気づき」%K%P
 You will realize for the first time that you were on one point of the 'Y'...
 CN PLACEHOLDER
-То поймёшь, что ты был в одной из точек „Y“...
+...то поймёшь, что ты был в одной из точек „Y“...
 
 空「さらに『枝分かれした他の自分がいること』にも気づけるのです」%K%P
 And realize too that there is another 'you' who took a different branch of the 'Y'.

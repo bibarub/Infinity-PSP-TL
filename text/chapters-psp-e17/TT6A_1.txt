@@ -4705,12 +4705,12 @@ CN PLACEHOLDER
 空「しかし、私はどこにでもいます」%K%P
 And yet I am everywhere.
 CN PLACEHOLDER
-И, в то же время, я везде.
+И в то же время я везде.
 
 空「ここにいると同時にあそこにもいます」%K%P
 I am here, and at the same time there.
 CN PLACEHOLDER
-Я здесь, и, в то же время, там.
+Я здесь, и в то же время там.
 
 武「…………」%K%P
 .........

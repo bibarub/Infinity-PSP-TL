@@ -526,7 +526,7 @@ CN PLACEHOLDER
 空「２０１０年に――」%K%P
 In 2010...
 CN PLACEHOLDER
-В 2010-м году...
+В 2010 году...
 
 空「それまで禁止されていた人間のクローン受精は、法律で認められました」%K%P
 Human cloning, which had been illegal up until then, was allowed by law.
@@ -721,7 +721,7 @@ CN PLACEHOLDER
 空「ここにいるあなたがＡの道を歩んできたとしても、別の時間軸上では、Ｂの道を歩んできたあなたが存在するかもしれません」%K%P
 The 'you' that is standing here may have come down path A, but in another time axis, there may be a 'you' who is going down path B.
 CN PLACEHOLDER
-„Ты“, что стоит здесь, возможно, пошёл по пути А, но на другой временной оси здесь можешь стоять „Ты“, что пошёл по пути Б.
+„Ты“, что стоит здесь, пошёл по пути А, но на другой временной оси здесь можешь стоять „Ты“, что пошёл по пути Б.
 
 空「そして、Ａの道のあなたも、Ｂの道のあなたも、あなたであることに変わりはない」%K%P
 And both the 'you' on path A and the 'you' on path B are still 'you'.
@@ -741,7 +741,7 @@ CN PLACEHOLDER
 空「同様に、Ｂの道にいるあなたも、Ａの道にいるあなたのことには気づかないでしょう」%K%P
 In the same way, the 'you' on path B probably isn't aware of the 'you' on path A either.
 CN PLACEHOLDER
-В то же самое время, „Ты“ на пути Б наверняка даже не в курсе о существовании „Тебя“ на пути А.
+В то же самое время „Ты“ на пути Б наверняка даже не в курсе о существовании „Тебя“ на пути А.
 
 空「なぜだかわかりますか？」%K%P
 Do you know why that is?

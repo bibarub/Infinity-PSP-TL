@@ -1431,7 +1431,7 @@ CN PLACEHOLDER
 優はいたずらっぽく、照れ笑いをしてみせた。%K%P
 You laughed mischievously and with a hint of embarrassment.
 CN PLACEHOLDER
-Ю вредно и, в то же время, смущённо засмеялась.
+Ю вредно и в то же время смущённо засмеялась.
 
 俺達は一旦、部屋の中央に集まる。%K%P
 We gathered in the center of the room.
