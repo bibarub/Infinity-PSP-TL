@@ -1918,7 +1918,7 @@ CN PLACEHOLDER
 滝のように流れ落ちる水が、なだらかなフロアの上をはうように、通路の彼方に向かって広がって行く。%K%P
 It was flowing down like a waterfall and spreading smoothly toward the far corridor as if it was crawling across the floor.
 CN PLACEHOLDER
-Вода стекает вниз словно водопад и разливается по коридору, будто ползёт по полу.
+Вода, падавшая сплошным водопадом, стелилась по полу и стремительно заполняла пространство до самого дальнего конца коридора.
 // яп: Water cascading down like a waterfall spreads out across the gently sloping floor, creeping toward the far end of the passageway.
 // отсылка на то, что LeMU накреняется? --bibarub
 
