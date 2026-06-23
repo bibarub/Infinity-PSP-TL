@@ -16,12 +16,12 @@ CN PLACEHOLDER
 ならば、眠れるうちにゆっくり眠っておくのが一番だ……。%K%P
 It was better that we just slept to prepare for what might come...
 CN PLACEHOLDER
-Чтобы и дальше держать ухо востро, надо набраться сил и хорошенько выспаться...
+Надо постараться хорошенько отдохнуть, пока есть такая возможность...
 
 と頭で思ってはいるのだが……。%K%P
 ...If only I could...
 CN PLACEHOLDER
-...если бы я только мог...
+...Я прекрасно это осознаю, но...
 
 武「寝つけねぇ」%K%P
 I can't sleep.
@@ -31,7 +31,7 @@ CN PLACEHOLDER
 思いと裏腹に、しっかり目が冴えていた。%K%P
 %P
 CN PLACEHOLDER
-%P
+Я понимал, что надо поспать, но вопреки этому сон не шёл вовсе.
 
 きっとはたから見たら、俺の目はらんらんと輝いていたに違いなかった。%K%P
 If anyone was awake, they would see me bright-eyed and bushy-tailed.
@@ -41,7 +41,7 @@ CN PLACEHOLDER
 疲れきっているはずなのに、どうして眠れないんだ？%K%P
 How could I be so tired but not be able to sleep?
 CN PLACEHOLDER
-Казалось бы, я вымотан, но почему я не могу заснуть?
+Казалось бы, я вымотан, так почему я не могу заснуть?
 
 俺は俺の身体に疑問を覚えた。%K%P
 I started wondering about my body.
@@ -71,12 +71,12 @@ CN PLACEHOLDER
 武「うわ、冷たぁ〜い……」%K%P
 It's freezing!
 CN PLACEHOLDER
-Чёрт, холодно!
+Чёрт, холодная!
 
 どこからか流入し続けている海水は、夜になった為か、温度を下げていた。%K%P
 The ocean water flowing into the room was colder than usual, maybe because it was evening.
 CN PLACEHOLDER
-Морская вода, устремившаяся в комнату, оказалась холоднее, чем обычно. Должно быть, потому что наступила ночь.
+Морская вода, устремившаяся в комнату, оказалась холоднее, чем обычно. Должно быть потому, что наступила ночь.
 
 （余計に目が覚めちまった、ったく……）%K%P
 (Damn, now I'm even more awake...)
@@ -106,7 +106,7 @@ CN PLACEHOLDER
 だけど、悲観しないことに決めていた。%K%P
 ...But I decided not to let it get me down.
 CN PLACEHOLDER
-...но я решил не позволять нехорошим мыслям вгонять себя в депрессию.
+...но я твёрдо решил не отчаиваться.
 
 俺達はまだここで生きているし、これから先も当分生きる。%K%P
 We were still alive. We had survived so far, and we would live for the foreseeable future.
@@ -116,7 +116,7 @@ CN PLACEHOLDER
 誰か来るまで、生きていけると思う。%K%P
 I thought to myself that anyone who had made it as far as us would survive.
 CN PLACEHOLDER
-Любой, кто оказался бы на моём месте и продержался ровно столько же, выживет наверняка.
+Мне кажется, мы сумеем продержаться до тех пор, пока нас не найдут.
 
 （そうだよ……）%K%P
 (Yeah...)
@@ -126,7 +126,7 @@ CN PLACEHOLDER
 （まだまだ大丈夫さ……）%K%P
 (We'll make it...)
 CN PLACEHOLDER
-(Мы выживем, выстоим...)
+(Мы продержимся до того времени...)
 
 頷きながら、俺は通路の角を折れた。%K%P
 As I nodded to myself, I turned a corner in the corridor.
@@ -151,7 +151,7 @@ CN PLACEHOLDER
 空「よかった！　倉成さん、ここにいたんですか？　探しましたよ」%K%P
 Oh good! There you are, Kuranari-san! I was looking for you.
 CN PLACEHOLDER
-Слава богу! Куранари-сан, вот ты где! Я тебя искала.
+Как здорово! Куранари-сан, вот ты где! Я тебя искала.
 
 武「…………」%K%P
 .........
@@ -236,27 +236,27 @@ CN PLACEHOLDER
 空「変な風に見えてました？　私……」%K%P
 Oh, did I look strange? I...
 CN PLACEHOLDER
-Я кажусь странной?.. Я...
+Я выгляжу странно?.. Я...
 
 武「いや、それは大丈夫。心配ない。いつも通り、綺麗だ」%K%P
 No, no. Don't worry about it. You're beautiful, as always.
 CN PLACEHOLDER
-Нет, нет. Расслабься. Ты, как всегда, красива.
+Нет, нет. Расслабься. Ты так же красива, как и всегда.
 
 空「そ、そうですか。ありがとうございます」%K%P
 Oh, well, thank you.
 CN PLACEHOLDER
-П... правда? Спасибо.
+П-правда? Спасибо.
 
 空「なんだか……ちょっと照れますね」%K%P
 It is just... I'm a little embarrassed.
 CN PLACEHOLDER
-Просто... слегка смущаюсь.
+Просто... Я слегка смущаюсь.
 
 ん？　なんか今とんでもないことを口走らなかったか……？%K%P
 Huh? I felt like I'd just blurted out something ridiculous...
 CN PLACEHOLDER
-Ой. Кажется, я сболтнул очередную глупость...
+А? Похоже, я сболтнул очередную глупость...
 
 しかし空はにこにこ笑っているので、恐らく構わないのだろう。%K%P
 But Sora had smiled when I said it, so maybe it was okay.
@@ -331,12 +331,12 @@ CN PLACEHOLDER
 空「あっ、倉成さん――！」%K%P
 Ah, Kuranari-san...!
 CN PLACEHOLDER
-Куранари-сан!..
+Ах, Куранари-сан!..
 
 俺は叫ぶ空を置き去りにして走り出した。%K%P
 I just left her standing there, calling after me.
 CN PLACEHOLDER
-В мгновение ока я оставил в одиночестве ошеломлённую Сору.
+Я побежал, оставив позари Сору, что кричала мне вслед.
 
 階段を駆け上り、通路を急ぎ足で進んだ。%K%P
 I flew up the stairs as fast as I could and sprinted down the corridor.
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 ２階の救護室前に到着する。%K%P
 I arrived in front of the infirmary on the second floor.
 CN PLACEHOLDER
-Оказавшись перед лазаретом на втором этаже, я ткнул кнопку, чтобы открыть дверь... эти секунды показались мне вечностью.
+Оказавшись перед лазаретом на втором этаже, я ткнул кнопку, чтобы открыть дверь... Эти секунды показались мне вечностью.
 
 扉のオープンボタンを押す手ももどかしく感じた。%K%P
 I poked the button to open the door, but it seemed to take forever.
@@ -421,7 +421,7 @@ CN PLACEHOLDER
 どうしよう。%K%P
 I wondered what I should do.
 CN PLACEHOLDER
-Боже, что же мне делать?
+Что я должен делать?
 
 俺は何を言おう。%K%P
 What I should say.
@@ -606,7 +606,7 @@ CN PLACEHOLDER
 彼女が助かったのは、喜ばしいことだ。%K%P
 Her life had been saved, and for that I was grateful.
 CN PLACEHOLDER
-Её жизнь спасена, за что я по гроб жизни обязан Ю и Соре.
+Как здорово, что она выжила.
 
 けれど……怪我をさせたのは、俺なんだ……。%K%p
 But... it was my fault... I was the one who caused her injury...
@@ -636,7 +636,7 @@ CN PLACEHOLDER
 つぐみ「……どうして謝るの？」%K%P
 ...Why are you apologizing?
 CN PLACEHOLDER
-...зачем ты извиняешься?
+...Зачем ты извиняешься?
 
 武「お前が俺の為に、怪我をしたからだよ」%K%P
 It was my fault you were injured.
@@ -691,7 +691,7 @@ CN PLACEHOLDER
 こちらを睨みつける。%K%P
 ...She was glaring at me.
 CN PLACEHOLDER
-...она гневно уставилась на меня.
+...Она сверлит меня взглядом.
 
 つぐみ「勘違いしないで」%K%P
 Don't misunderstand.
@@ -786,7 +786,7 @@ CN PLACEHOLDER
 つぐみ「死にたかっただけ」%K%P
 ...It's just that... I wanted to die.
 CN PLACEHOLDER
-...хотела умереть.
+...Я просто хотела умереть.
 
 武「……えっ？」%K%P
 ...What?
@@ -931,17 +931,17 @@ CN PLACEHOLDER
 つぐみ「人生なんて、ただの悪夢」%K%P
 Life is a nightmare.
 CN PLACEHOLDER
-Жизнь это... кошмар.
+Жизнь – это... кошмар.
 
 つぐみ「この世の中で、命ほど醜いものはない」%K%P
 This world is littered with ugliness.
 CN PLACEHOLDER
-Этот мир устлан уродством.
+В этом мире нет ничего омерзительнее жизни.
 
 武「あまったれたこと言ってんじゃねぇぞ！」%K%P
 Cut your poetic garbage!
 CN PLACEHOLDER
-Заткни свой философский фонтан!
+Не неси эту чушь!
 
 バンッ！%K%P
 Wham!
@@ -991,7 +991,7 @@ CN PLACEHOLDER
 武「違う、それは違うぞ、つぐみ」%K%P
 Wrong. You are wrong, Tsugumi.
 CN PLACEHOLDER
-Ошибаешься. Ох, Цугуми, как же ты ошибаешься.
+Ох, Цугуми, как же ты ошибаешься.
 
 俺は声を押し殺す。%K%P
 I hesitated for a moment.
@@ -1021,7 +1021,7 @@ CN PLACEHOLDER
 つぐみ「命は欲望の塊」%K%P
 Life is just a cluster of empty desires.
 CN PLACEHOLDER
-Жизнь... это просто нагромождение несбыточных надежд.
+Вся жизнь – лишь кучка желаний.
 
 つぐみ「生命は、他の生命の犠牲によって成り立つ」%K%P
 We build our lives on the corpses of others.
@@ -1036,7 +1036,7 @@ CN PLACEHOLDER
 つぐみ「そうしなければ人は生き続けることができない」%K%P
 ...And if we don't, we die.
 CN PLACEHOLDER
-...а если нет, мы умрём.
+...а если нет, умрём мы.
 
 つぐみ「食欲とはすなわち、殺戮本能の源」%K%P
 Our appetites are whetted by the slaughtering of others.
@@ -1046,32 +1046,32 @@ CN PLACEHOLDER
 つぐみ「睡眠欲は、怠惰のあかし」%K%P
 Our desire for sleep only proves our indolence.
 CN PLACEHOLDER
-Потребность во сне лишь доказывает нашу леность.
+Потребность во сне – лишь прояаление лени.
 
 つぐみ「卑猥で淫ら、醜悪なる交わりこそが、性欲の発露」%K%P
 Our sexual desires are expressed through obscenity and sin.
 CN PLACEHOLDER
-Наши сексуальные желания выражаются через непристойность и грех.
+Сексуальные желания выражаются через непристойное и развратное поведение.
 
 つぐみ「あらゆる生命活動に伴う欲望はけがらわしい」%K%P
 All the things that keep us alive, the things that drive us, are filthy.
 CN PLACEHOLDER
-Всё, ради чего мы живём – грех.
+Любые влечения, возникающие в процессе жизни, отвратительны.
 
 つぐみ「欲望なくして生命を維持することはできない」%K%P
 We can't live without them.
 CN PLACEHOLDER
-Мы не можем жить без него.
+Мы не можем жить без этого.
 
 つぐみ「清廉潔白な命なんて存在しないのよ」%K%P
 There is no such thing as a life of purity.
 CN PLACEHOLDER
-Нет такой вещи, как безгреховная жизнь.
+Жизнь не может быть абсолютно непорочна и чиста.
 
 つぐみ「つまり……」%K%P
 Ultimately...
 CN PLACEHOLDER
-То есть...
+Другими словами...
 
 つぐみ「命は、それが存在した時点で、既に汚濁にまみれているの」%K%P
 ...From the moment we are born, we are already corrupted.
@@ -1106,7 +1106,7 @@ CN PLACEHOLDER
 武「お前は、もっと賢いやつだと思ってたけど……どうやら買いかぶってたみたいだな」%K%P
 I thought you were smarter than that... but I guess I overrated you.
 CN PLACEHOLDER
-Я думал что ты умнее... но, наверное, я просто тебя переоценил.
+Я думал что ты умнее... но, наверное, я тебя переоценил.
 
 つぐみ「…………」%K%P
 .........
@@ -1126,12 +1126,12 @@ CN PLACEHOLDER
 武「人が生きる為には、ある程度の罪を犯さなければならない」%K%P
 In order for us to live, it's true that we must commit some atrocities.
 CN PLACEHOLDER
-Правда. Чтобы жить, нам приходится совершать кое-какие злодеяния.
+Правда. Чтобы жить, нам приходится так или иначе грешить.
 
 武「時には醜いこと、卑しいこともするさ」%K%P
 Sometimes people do terrible, despicable things.
 CN PLACEHOLDER
-Некоторые люди совершают ужасные, презренные поступки.
+Иногда приходится совершать ужасные, презренные поступки.
 
 武「でもな、そもそも『生きること』そのものは罪か？」%K%P
 But do you really think 'living' is a sin?
@@ -1186,12 +1186,12 @@ CN PLACEHOLDER
 武「そのことは、お前も知ってるはずだ」%K%P
 You have to realize that, don't you?
 CN PLACEHOLDER
-Ты же понимаешь?
+Ты ведь тоже это знаешь.
 
 つぐみ「バカみたい……」%K%P
 It's ridiculous.
 CN PLACEHOLDER
-Вздор.
+Как нелепо...
 
 つぐみは眉をひそめた。%K%P
 Tsugumi frowned.
@@ -1206,7 +1206,7 @@ CN PLACEHOLDER
 俺はベッドを蹴り飛ばしたくなったが、堪える。%K%P
 I wanted to kick the bed over, yet I resisted somehow.
 CN PLACEHOLDER
-Я хотел снова ударить кулаком по кровати, но почему-то удержался.
+Я хотел снова ударить кулаком по кровати, но почему-то сдержался.
 
 武「じゃあどうしてあのときココをかばった！？」%K%P
 Alright, so why did you protect Coco?
@@ -1236,12 +1236,12 @@ CN PLACEHOLDER
 武「生命活動に伴う一切の欲望を、不埒だと考えようと自ら仕向けてる」%K%P
 Everyone's desires are born out of life. You only want to believe they're wrong to prove your selfish point.
 CN PLACEHOLDER
-Желания и побуждения окружающих отталкиваются от жизни, а ты пытаешься заставить себя поверить в то, что они ошибочны. Чтобы доказать свою эгоистичную точку зрения.
+Ты пытаешься убедить себя в том, что все желания, связанные с жизнью, непристойны.
 
 武「理屈に意固地にしがみついて、『死にたい』と思いながら生きて……」%K%P
 You're holding on obstinately, living while all you want to do is die...
 CN PLACEHOLDER
-Ты противишься, живя, когда желаешь умереть...
+Цепляешься за эту логику, живя, при этом желая умереть...
 
 武「論理が逆なんだよ！」%K%P
 Your logic is completely backwards!
@@ -1331,7 +1331,7 @@ CN PLACEHOLDER
 俺ももう、言いたくはなかった。%K%P
 I didn't even want to have to say those things.
 CN PLACEHOLDER
-Не думал, что когда-либо это скажу.
+Мне тоже не хотелось больше такое говорить.
 
 生き残ったからには、死ぬなんて絶対に言わせない。%K%P
 She survived for a reason. She shouldn't say she wanted to throw that away.
@@ -1366,7 +1366,7 @@ CN PLACEHOLDER
 おお、やっとわかってくれたか……俺の顔も緩んでしまった。%K%P
 What, had I finally gotten through to her...? I couldn't help but smile.
 CN PLACEHOLDER
-Что, неужели я наконец пробился через эту глухую стену?.. Я улыбнулся, ничего не могу с собой поделать.
+О, так она, наконец, поняла?.. Как тут не улыбнуться.
 
 つぐみはそれから微笑みをひとつ浮かべると……%K%P
 A smile appeared on her lips...
@@ -1421,7 +1421,7 @@ CN PLACEHOLDER
 空「く、倉成さん！　本当に言われたんですか、そんなことっ」%K%P
 Ku-Kuranari-san! Did she really tell you that?
 CN PLACEHOLDER
-К-Куранари-сан... она что, правда так сказала?
+К-Куранари-сан... Она что, правда так сказала?
 
 武「ああ、本当だ」%K%P
 Yup. It's true.
