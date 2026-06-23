@@ -71,7 +71,7 @@ CN PLACEHOLDER
 どんなに悪口雑言を吐こうと、つぐみは全治数ヶ月の傷を負っているのだ。%K%P
 No matter how badly she had treated me, Tsugumi would still be bedridden for months recovering.
 CN PLACEHOLDER
-Как бы плохо она со мной не обращалась, Цугуми будет восстанавливаться ещё несколько месяцев.
+Как бы плохо она со мной ни обращалась, Цугуми будет восстанавливаться ещё несколько месяцев.
 
 武「そうだな……そうだよな。悪かった。なんか言い方がキツかったな」%K%P
 You're right. I'm sorry. That came out a little harsh.
