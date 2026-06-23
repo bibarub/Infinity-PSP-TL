@@ -131,12 +131,12 @@ CN PLACEHOLDER
 優「ちょっとした趣味でね、私、時々ひとりで山に入ったりするの」%K%P
 Yeah, just a little hobby of mine. Sometimes, I go into the mountains alone.
 CN PLACEHOLDER
-Да так, моё незатейливое хобби. Иногда я сама хожу в горы.
+Да так, моё небольшое хобби. Иногда я сама хожу в горы.
 
 優「道なき道を掻き分けて……たまに迷子になったりするんだけど……」%K%P
 I carve my own path... Sometimes, I even get a bit lost...
 CN PLACEHOLDER
-Проделываю свой собственный путь... Пару раз даже довелось заблудиться...
+Продираюсь там, где нет никаких троп... Правда, иногда из-за этого и сама теряюсь.
 
 武「山ごもりか！？」%K%P
 Into the mountains alone?
@@ -276,7 +276,7 @@ CN PLACEHOLDER
 （からかったせいにしては、なんか暗いような……？）%K%P
 (Teasing her could have gotten her THAT down...?)
 CN PLACEHOLDER
-(Неужели она ТАК расстраивается из-за какой-то дразнилки...)
+(Неужели это её настолько задело?..)
 
 そう思っていると、優は俺から目を逸らしたまま呟く。%K%P
 Just as I was thinking that, You avoided my eyes and muttered...
@@ -286,7 +286,7 @@ CN PLACEHOLDER
 優「ねぇ、倉成……？」%K%P
 Hey, Kuranari...?
 CN PLACEHOLDER
-Слушай, Куранари?..
+Слушай, Куранари...
 
 優「つぐみの、ことなんだけど」%K%P
 Umm, about Tsugumi...
@@ -441,7 +441,7 @@ CN PLACEHOLDER
 ココ「サラダ用のやつが、おみやげの売店にいっこだけあったの」%K%P
 It's supposed to be for salads. It was the last one at the gift shop.
 CN PLACEHOLDER
-Там в сувенирной лавке нашлась всего одна – в тюбиках для салата.
+Там в сувенирной лавке нашлась только она – в тюбиках для салата.
 
 武「ほう……」%K%P
 Hmmmmm...
@@ -596,7 +596,7 @@ CN PLACEHOLDER
 ココ「ちゃんととって置きましょ〜。つまみ食いしちゃダメだよ？」%K%P
 Let's save it for her. No snacking on it, either!
 CN PLACEHOLDER
-Надо сохранить его для неё. Не смейте его тайком умыкнуть, ладно?
+Надо приберечь его для неё. Не смейте его тайком умыкнуть, ладно?
 
 ココは保温器の奥のサンドを指差す。%K%P
 Coco pointed to the sandwich nestled deep in the food warmer.
