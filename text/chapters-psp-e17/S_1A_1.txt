@@ -1765,7 +1765,7 @@ CN PLACEHOLDER
 間違いない！%K%P
 There was no doubt!
 CN PLACEHOLDER
-Без сомнений!
+Ну точно!
 // мне кажется, тут нужно что-то более разговорное --bibarub
 
 それは大量の水の塊……。%K%P
