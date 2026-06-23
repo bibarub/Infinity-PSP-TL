@@ -1391,7 +1391,7 @@ CN PLACEHOLDER
 空「あ、倉成さん。どうでしたか、小町さんは？」%K%P
 Ah, Kuranari-san. What happened? Where is Komachi-san?
 CN PLACEHOLDER
-Ах... Куранари-сан... что с тобой?.. Как Комати-сан?
+А... Куранари-сан... что с тобой?.. Как Комати-сан?
 
 空は扉のすぐ外で、心配そうに待っていた。%K%P
 Sora was waiting just outside the door with a worried expression on her face.
