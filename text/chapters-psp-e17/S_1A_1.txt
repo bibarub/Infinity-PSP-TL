@@ -1634,7 +1634,7 @@ CN PLACEHOLDER
 震動が徐々に激しさを増して行く。%K%P
 The vibration gradually increased in intensity.
 CN PLACEHOLDER
-Вибрация усиливается в геометрической прогрессии.
+Вибрация всё нарастала.
 // геом. прогрессия тут уместна? --bibarub
 
 キリキリと鉄のきしむ音が鼓膜を突き刺す。%K%P
