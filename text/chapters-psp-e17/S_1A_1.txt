@@ -1895,7 +1895,7 @@ CN PLACEHOLDER
 滝のように流れ落ちる水が、なだらかなフロアの上をはうように、通路の彼方に向かって広がって行く。%K%P
 It was flowing down like a waterfall and spreading smoothly toward the far corridor as if it was crawling across the floor.
 CN PLACEHOLDER
-Вода стекает вниз словно водопад и разливается по коридору, будто ползёт по полу.
+Вода, падавшая сплошным водопадом, стелилась по полу и стремительно заполняла пространство до самого дальнего конца коридора.
 
 （――そうだ！　――優は！？）%K%P
 (That's right! What about You!?)
@@ -2340,12 +2340,12 @@ CN PLACEHOLDER
 少年「優には借りがあるし……」%K%P
 Well, I suppose I owed you one anyway...
 CN PLACEHOLDER
-;Мальчик«Ну, полагаю, я всё равно тебе должен...»%K%P
+;Мальчик«Всё-таки я у тебя в долгу...»%K%P
 
 優「借り？」%K%P
 Owed me?
 CN PLACEHOLDER
-Мне?
+В долгу?
 
 少年「売店で倒れたとき、優が助けてくれたんでしょ？」%K%P
 When I collapsed at the shop, you helped me, right?
@@ -2495,7 +2495,7 @@ CN PLACEHOLDER
 ――突如、殴りつけられたような衝撃が、ぼくの全身をつらぬいた！%K%P
 —Then, all of a sudden, a shock shot through my whole body.
 CN PLACEHOLDER
-– Моё тело... словно пронзило электрическим разрядом.
+– Внезапно через всё моё тело прошла волна, словно от удара кулаком.
 
 少年「う、うぅっ……あぁ……」%K%P
 Oooh... arggh...
@@ -2555,7 +2555,7 @@ CN PLACEHOLDER
 溶けて行く……ドロドロと……ドロドロと……。%K%P
 And dissolve it... into... mush...
 CN PLACEHOLDER
-И перемалывает его... в... кашу...
+...растворяя его... превращая в бесформенную вязкую массу...
 
 優「ねえっ！　しっかりしてよ！　ねえっ！」%K%P
 Hey! Hang in there! Hey!
@@ -2697,12 +2697,12 @@ CN PLACEHOLDER
 優「また、さっきみたいになっちゃうと……あれだし……ね？」%K%P
 I don't want you getting like you did before... Alright?
 CN PLACEHOLDER
-Я не хочу, чтобы ты снова потерял сознание... ладно?
+А то опять получится как тогда... ну, сам понимаешь...
 
 はれものに触れるような感じで、優はそう言った。%K%P
 You said it very carefully.
 CN PLACEHOLDER
-Опасливо сказала Ю.
+Ю старается подбирать слова.
 
 優「これから、いくつか質問するけど……」%K%P
 I'm gonna ask you a couple of questions...
@@ -2822,7 +2822,7 @@ CN PLACEHOLDER
 優「住所や電話番号はどう？」%K%P
 How about your address or telephone number?
 CN PLACEHOLDER
-Как насчёт твоего адреса или номера телефона?
+А твой домашний адрес или телефон?
 
 優「じゃなかったら、家族のこととか、友達のこととか……なんでもいいんだけど……」%K%P
 If not those, then how about your family, friends... or anything...?
@@ -2912,7 +2912,7 @@ CN PLACEHOLDER
 優「男の子なんだから、そんな泣きそうな顔しないの」%K%P
 What are you, a baby? Stop with that sad face.
 CN PLACEHOLDER
-Ты что, плакса? Кончай хмуриться.
+Ты же мальчик. Кончай нюни распускать.
 
 優は笑みを浮かべながら、ぼくの手の平を握り返した。%K%P
 She shot me a smile as she squeezed my hand back.
@@ -2982,7 +2982,7 @@ CN PLACEHOLDER
 優「大事故にでもあって、脳に致命的な損傷を受けた、とかだったら別だけどね」%K%P
 Of course, if you were in a major accident and had severe trauma to the brain, that would be a whole different thing.
 CN PLACEHOLDER
-Конечно, если ты получил сотрясение мозга, то это уже другая песня.
+Конечно, если бы ты попал в серьёзный несчастный случай и заработал повреждение мозга, то это была бы уже другая песня.
 
 優「どうも、そんな感じでもなさそうだし……」%K%P
 But that doesn't seem to be the case...
@@ -2992,7 +2992,7 @@ CN PLACEHOLDER
 優はぼくの髪に手をそえ、まぶしいぐらいの笑みを浮かべて見せた。%K%P
 You put her hand on my hair and gave me a smile so bright I almost needed sunglasses.
 CN PLACEHOLDER
-Ю положила руку на мои волосы и улыбнулась так ярко, что мне захотелось надеть солнечные очки.
+Ю положила руку мне на голову и одарила меня ослепительной улыбкой.
 
 その笑顔はぼくの心にさんさんと降り注ぎ、胸に渦巻いていた不安を跡形も無く拭い去ってくれた。%K%P
 That smile flooded into my heart, wiping away the remains of the unease that was swirling there.
@@ -3032,12 +3032,12 @@ CN PLACEHOLDER
 ふと、優の背中についた水色のリボンに目がとまった。%K%P
 My eyes stopped on the bluish ribbon on You's back.
 CN PLACEHOLDER
-Мой взгляд остановился на банте, что у Ю на спине.
+Мой взгляд остановился на голубом банте, что у Ю на спине.
 
 水のしみ込んだ大きなリボンは艶々と輝いていて、生まれたばかりの妖精の羽に似ていた。%K%P
 The ribbon seemed to have taken on water and glittered brightly, almost like the wings of a newborn fairy.
 CN PLACEHOLDER
-Похоже, что он ещё не успел просохнуть и ярко сияет, словно крылья новорождённой феи.
+Большая, пропитанная водой лента ярко блестела, напоминая крылья новорожденной феи.
 
 優「ダメ……開かないみたい……」%K%P
 It's no good... It doesn't seem to open...
@@ -3052,12 +3052,12 @@ CN PLACEHOLDER
 ここは非常階段――。%K%P
 Those were the emergency stairs.
 CN PLACEHOLDER
-Там находятся аварийные лестницы.
+Мы на аварийной лестнице.
 
 正確に言うと、その途中にある踊り場だ。%K%P
 Or more accurately, it was the passage on the way there.
 CN PLACEHOLDER
-Точнее говоря, проход к ним.
+Точнее говоря, на площадке посреди лестничного пролёта.
 
 非常階段は、太いパイプの側面を沿うように、ぐるぐると螺旋状に伸びている。%K%P
 The emergency stairs were wound in a spiral around a fat pipe.
@@ -3077,7 +3077,7 @@ CN PLACEHOLDER
 壁には小さな水密扉がついていて、ここをくぐり抜けない限り、これ以上うえへ進むことはできない。%K%P
 The wall had a small watertight door, and if we couldn't squeeze through that, then we couldn't make our way any higher.
 CN PLACEHOLDER
-На ней небольшая водоупорная дверь и, если мы не сможем через неё пройти, то и выше не поднимемся.
+На ней установлен небольшой водоупорный люк, и, не пройдя через него, выше не подняться.
 
 少年「ここはまだ……浮島じゃないよね？」%K%P
 This isn't... the floating island yet, is it...?
@@ -3132,12 +3132,12 @@ CN PLACEHOLDER
 『３０ｍ』と聞いただけだと、すぐ近くに思えるけど……。%K%P
 30 meters sounded so close, but...
 CN PLACEHOLDER
-30 метров кажется что так близко, но...
+Всего каких-то 30, но...
 
 でも、どっちにしろ、この扉が開かないことにはどうにもならないんだ。%K%P
 But in any event, if the door didn't open up, then that was it.
 CN PLACEHOLDER
-Но в любом случае, если дверь не откроется, тогда какая разница.
+Но нет никакой разницы, если мы не можем открыть этот люк.
 
 少年「ねえ？　なんで開かないのかな？」%K%P
 Hey. I wonder why it won't open.
@@ -3489,7 +3489,7 @@ CN PLACEHOLDER
 通常の通路も、緊急避難用の通路も、全部だ。%K%P
 Both the normal corridors and the emergency corridors were sealed.
 CN PLACEHOLDER
-И обычные, и аварийные коридоры запечатаны.
+И обычные, и аварийные коридоры перекрыты.
 
 全部がダメだったのだ。%K%P
 All of them were blocked off.
