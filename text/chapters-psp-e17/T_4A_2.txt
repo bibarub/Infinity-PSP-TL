@@ -1,12 +1,12 @@
 ﻿空「あ、倉成さん。どうでしたか、小町さんは？」%K%P
 Ah, Kuranari-san. What happened? Where is Komachi-san?
 CN PLACEHOLDER
-Ах... Куранари-сан... что с тобой?.. Как Комати-сан?
+А... Куранари-сан... что с тобой?.. Как Комати-сан?
 
 扉のすぐ外で、空は心配そうに待っていた。%K%P
 Again, Sora was waiting for me. She looked concerned.
 CN PLACEHOLDER
-Сора, что всё это время ждала снаружи, смотрит на меня со взволнованным выражением лица.
+Сора, что всё это время ждала снаружи, взволнованно смотрит на меня.
 
 武「あ、ああ……あいつは元気だ。ピンピンしてる」%K%P
 Oh, her? Yeah, she's fine.
@@ -16,32 +16,32 @@ CN PLACEHOLDER
 武「今のところは、おとなしくしてるよ……」%K%P
 She's pretty quiet...
 CN PLACEHOLDER
-Весьма немногословна...
+Пока ведёт себя спокойно...
 
 武「しかしそのうち勝手に出歩くかもしれないが、それはこっちの知ったこっちゃないし……」%K%P
 I'm no doctor, but I think she'll be back on her feet soon enough.
 CN PLACEHOLDER
-Я не врач, но думаю, она очень скоро встанет на ноги.
+Но потом, может, и начнёт самовольно бродить, но меня это уже не касается...
 
 武「まぁ、そうそう死にそうにないから、安心していいぞ」%K%P
 Besides, she doesn't look like she's dying... I think we can all relax.
 CN PLACEHOLDER
-Кроме того, не похоже, что она умирает... Так что мы можем спать спокойно.
+Не думаю, что она так просто помрёт, так что не переживай.
 
 空「え、あ、あのぉ……？」%K%P
 What, uh, um...?
 CN PLACEHOLDER
-Э-э... а-а... что?..
+Э-э... а-а... а?
 
 空は目をしばたいた。%K%P
 Sora simply blinked at me.
 CN PLACEHOLDER
-Опешив, Сора моргнула пару раз.
+Опешив, Сора моргнула.
 
 それから悲しそうに目を細める。%K%P
 And then her eyes narrowed sadly.
 CN PLACEHOLDER
-Затем с грустью опустила взгляд.
+Затем грустно посмотрела на меня.
 
 空「そ、そんな言い方をしてはいけませんよ、倉成さんっ」%K%P
 Y-You shouldn't talk like that, Kuranari-san.
@@ -51,7 +51,7 @@ CN PLACEHOLDER
 武「え？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?..
+А?
 
 空「小町さんは重傷なんです。まだまだ安静にしていないといけないんですよ？」%K%P
 Komachi-san is very hurt, Kuranari-san. She needs to rest more than anything, alright?
@@ -71,7 +71,7 @@ CN PLACEHOLDER
 どんなに悪口雑言を吐こうと、つぐみは全治数ヶ月の傷を負っているのだ。%K%P
 No matter how badly she had treated me, Tsugumi would still be bedridden for months recovering.
 CN PLACEHOLDER
-Как плохо бы она со мной не обращалась, Цугуми будет несколько месяцев прикована к постели, прежде чем поправится.
+Как бы плохо она со мной не обращалась, Цугуми будет восстанавливаться ещё несколько месяцев.
 
 武「そうだな……そうだよな。悪かった。なんか言い方がキツかったな」%K%P
 You're right. I'm sorry. That came out a little harsh.
@@ -91,7 +91,7 @@ CN PLACEHOLDER
 武「そんなんじゃねえって」%K%P
 No, I wouldn't say that.
 CN PLACEHOLDER
-Нет, не совсем так.
+Нет, не совсем.
 
 武「ただ単に俺があいつに対して、ちょっとガッカリしただけだ」%K%P
 I was just disappointed with her.
@@ -116,17 +116,17 @@ CN PLACEHOLDER
 ギリギリで生き長らえてなお、そんなことを言うなんて……信じられなかった。%K%P
 I still couldn't accept that she would say such a thing.
 CN PLACEHOLDER
-Потому что мне никогда не доводилось свыкаться с ТАКИМИ словами.
+До сих пор не верю, что можно сказать такое после того, как чуть не погиб.
 
 武「それと、他に――」%K%P
 Ah, never mind. Just forget it.
 CN PLACEHOLDER
-Ай, ладно, проехали.
+Ай, ладно, проехали...
 
 武「あいつは俺のせいで怪我したわけだし、なんつーか……気が引けて、な」%K%P
 It's just that I guess I'm still upset at myself. It was my fault Tsugumi got hurt.
 CN PLACEHOLDER
-Наверное, я всё ещё дуюсь на самого себя. Из-за меня Цугуми пострадала.
+Наверное, я всё ещё дуюсь на самого себя. Цугуми пострадала из-за меня.
 
 武「ほんとに、なんて言ったらいいか、もう、あいつは、あいつはっ、その……ああ、くそぅ！」%K%P
 You know, I just don't know what to say... She can... She can be... Ahh, damn it!
@@ -171,17 +171,17 @@ CN PLACEHOLDER
 空「倉成さん。小町さんがなんとおっしゃっていたか、わかりませんけど――」%K%P
 Kuranari-san, I am not sure what Komachi-san told you...
 CN PLACEHOLDER
-Куранари-сан, я не знаю, что тебе сказала Комати-сан, но...
+Куранари-сан, я не знаю, что тебе сказала Комати-сан...
 
 空「彼女は、助かったんですから。私は嬉しいです」%K%P
 ...All I know is that you saved her. And for that, I am grateful...
 CN PLACEHOLDER
-...Но я знаю, что ты её спас. И за это я тебе благодарна...
+...но она осталась в живых. И я этому рада...
 
 空「小町さんが無事、助かって……嬉しく思ってます……」%K%P
 ...I am just... so happy... that she was saved.
 CN PLACEHOLDER
-...Я просто... так счастлива... что Комати-сан спасена.
+...Рада, что Комати-сан спасена... и с ней всё в порядке...
 
 空は朗らかな笑みを、俺に向けた。%K%P
 Sora produced a bright smile.
@@ -221,7 +221,7 @@ CN PLACEHOLDER
 武「ＯＫ、ＯＫ……そうだよな」%K%P
 Okay, okay... that was probably it.
 CN PLACEHOLDER
-Да, наверное, так и есть.
+Да, да... точно.
 
 大怪我して、大手術の後で……。%K%P
 First she got hurt, then the operation...
@@ -231,17 +231,17 @@ CN PLACEHOLDER
 そのせいであいつはひどく、気が立っていた……。%K%P
 She must have been upset about that...
 CN PLACEHOLDER
-Наверняка она расстроилась из-за этого...
+Наверняка после этого она просто на нервах...
 
 たったそれだけのことかもしれない。%K%P
 Maybe that was all there was to it.
 CN PLACEHOLDER
-А может и всё сразу.
+А, может, и всё сразу.
 
 そうでないとしても……いつまでも引きずってはいたくなかった。%K%P
 Even if it wasn't that... I didn't want things to drag on forever.
 CN PLACEHOLDER
-Но даже если нет... Я не собираюсь вечно морочить этим себе голову.
+Но даже если нет... Я не хочу забивать этим себе голову дальше.
 
 つぐみは助かったし、これから傷は治る。%K%P
 I had helped Tsugumi, and she was recovering. It was as simple as that.
@@ -266,7 +266,7 @@ CN PLACEHOLDER
 空「え？　ええ、平気です、けど……？」%K%P
 What? No, not really, but...
 CN PLACEHOLDER
-Э-э?.. Нет, но...
+А?.. Нет, но...
 
 空「倉成さん、お休みにならなくてもいいんですか？」%K%P
 Kuranari-san, are you sure you do not need more rest?
@@ -286,12 +286,12 @@ CN PLACEHOLDER
 俺は空に向かってそっと手を差し出す。%K%P
 I turned to her and slowly reached out my open hand.
 CN PLACEHOLDER
-Я повернулся к ней и, с этими словами, медленно протянул свою ладонь.
+Я повернулся к ней и с этими словами медленно протянул свою ладонь.
 
 空「はいっ」%K%P
 Right!
 CN PLACEHOLDER
-Да!
+Хорошо!
 
 空は俺の手の位置に、ちょこんと自分の手を添えた。%K%P
 Sora brought her hand up and placed it on mine.
@@ -311,7 +311,7 @@ CN PLACEHOLDER
 空はカルセル・デルフィーネのスイッチを入れると、イルカにふわりとまたがった。%K%P
 Sora turned on the power to the carousel and got on before quickly taking off.
 CN PLACEHOLDER
-Сора включила питание карусели и заскочила на неё практически в момент запуска.
+Сора включила питание карусели и плавно уселась верхом на дельфине.
 
 俺も隣のイルカにしがみついた。%K%P
 I rode on the dolphin next to her.
@@ -321,12 +321,12 @@ CN PLACEHOLDER
 イルカは電飾を賑わせながら、同じ所をどこまでも廻る。%K%P
 The ride pulsated with vibrant colors as it revolved around the space.
 CN PLACEHOLDER
-Поездка сопровождается яркими пульсирующими огоньками, всё вокруг вращается.
+Поездка сопровождается яркими мерцающими огоньками.
 
 こんなものに乗るのはガキの頃以来だったが、抵抗はなかった。%K%P
 I hadn't ridden a carousel since my childhood, but I didn't feel strange about it.
 CN PLACEHOLDER
-Я с детства не катался на карусели, но мне ни капли не странно.
+Я с детства не катался на каруселях, но при этом мне это не показалось странным.
 
 むしろ、楽しかった。%K%P
 In fact, it was fun.
@@ -356,12 +356,12 @@ CN PLACEHOLDER
 空「フォロー？　そうですか……？」%K%P
 My help...?
 CN PLACEHOLDER
-Что... поддержала?
+Поддержала? Правда?
 
 武「ああ。だから、ありがとうな」%K%P
 Just keep it at that—thank you.
 CN PLACEHOLDER
-Просто я хотел сказать – спасибо тебе, Сора.
+Просто я хотел сказать... Спасибо тебе, Сора.
 
 空「いえ、そんな……私のほうこそ、いろいろ倉成さんにお世話になってますし」%K%P
 No, no, I... I should be the one thanking you. You have helped me so much.
@@ -371,7 +371,7 @@ CN PLACEHOLDER
 空「それに、小町さんにも、田中さんにも……ココちゃんに、少年さん……皆さんに感謝しています」%K%P
 Komachi-san, Tanaka-san, Coco-chan, Kid-san... I am indebted to everyone.
 CN PLACEHOLDER
-Комати-сан, Танаку-сан... Коко-тян и Малой-сана... я перед вами в неоплатном долгу.
+Комати-сан, Танаку-сан... Коко-тян и Малого-сана... я перед вами в неоплатном долгу.
 
 武「感謝？」%K%P
 Indebted?
@@ -386,7 +386,7 @@ CN PLACEHOLDER
 空「人が生きるということに、改めて触れている気がしているんです」%K%P
 I feel like I've gained a new perspective on human life.
 CN PLACEHOLDER
-Мне кажется, я смогла взглянуть на человеческую жизнь под новым ракурсом.
+Мне кажется, я смогла взглянуть на человеческую жизнь под другим углом.
 
 空「みんな、諦めないで、立ち向かって、工夫して」%K%P
 Everyone holds their ground. They fight and try to figure out ways to survive.
@@ -401,7 +401,7 @@ CN PLACEHOLDER
 武「うん……」%K%P
 Yeah...
 CN PLACEHOLDER
-Правда...
+Вот как...
 
 空「もしも、ですけど……」%K%P
 It was...
@@ -456,12 +456,12 @@ CN PLACEHOLDER
 空「私、また不謹慎なことばかり言ってしまって……」%K%P
 I am always saying things I should not. I didn't mean to gush...
 CN PLACEHOLDER
-Я... постоянно роняю мысли вслух...
+Я снова наговорила столько неуместных вещей...
 
 空「ごめんなさい、本当に。デリカシーが欠けてますよね、私……」%K%P
 I'm sorry. Really. It was really lacking refinement... I...
 CN PLACEHOLDER
-Прости. Правда. Это было столь бестактно... я...
+Прошу прощения. Мне наверное не достаёт чувства такта... 
 
 武「いやいや、いいんだよ」%K%P
 No, no. It's fine.
@@ -471,7 +471,7 @@ CN PLACEHOLDER
 俺は笑って手を振った。%K%P
 I laughed it off, waving my hand to show her it didn't matter.
 CN PLACEHOLDER
-Я обратил всё в шутку, дав понять Соре, что это не важно.
+Я улыбнулся и помахал рукой, чтобы успокоить её.
 
 武「そもそも空は、お客のいないＬｅＭＵを見たことなかったわけだからさ」%K%P
 You never saw LeMU when it was empty.
@@ -481,7 +481,7 @@ CN PLACEHOLDER
 武「ずっとＬｅＭＵの中にいて、ＬｅＭＵの仕事だけやってきたんだから」%K%P
 From the time you came to LeMU and started working, there have always been people.
 CN PLACEHOLDER
-С тех самых пор, как ты пришла в LeMU и стала работать, здесь всегда были люди.
+С тех самых пор, как ты пришла в LeMU и начала работать, здесь всегда были люди.
 
 武「それ以外のことを知らなかったり、戸惑ったり、間違えたりしても不思議じゃない……そりゃ当然だろ」%K%P
 It's natural that there were things you didn't know, that you had doubts, and made mistakes...
@@ -501,12 +501,12 @@ CN PLACEHOLDER
 空「皆さんの脱出経路を、きちんと確保できればいいんですけど。通信系の回復だって……」%K%P
 It would be great if we could ensure that everybody has an escape route, but even the communications are still...
 CN PLACEHOLDER
-Было бы просто здорово, если бы мы могли убедиться, что все могут спастись, но раз уж связь всё ещё...
+Вот бы только удалось вывести всех отсюда... Или хотя бы востановить связь...
 
 武「いいんだってば。それが難しいってことは、もうわかってる。無理難題は言わないよ」%K%P
 That's alright. I know it's difficult. We're not expecting the impossible.
 CN PLACEHOLDER
-Ничего. Я знаю, это трудно. Мы не ждём невероятного.
+Всё в порядке. Я понимаю, что это нелегко. Мы и не просим ничего невозможного.
 
 武「安全に外に出る手段も、見つかってないわけだし……」%K%P
 We haven't even found a safe route out of here...
@@ -531,7 +531,7 @@ CN PLACEHOLDER
 空「そうだ、倉成さん。ここから脱出できたら、まず何がしたいですか？」%K%P
 Tell me, Kuranari-san, after you escape from here, what's the first thing you want to do?
 CN PLACEHOLDER
-Кстати, Куранари-сан... а что ты будешь делать, когда выберешься отсюда?
+Кстати, Куранари-сан... А что ты будешь делать, когда выберешься отсюда?
 
 武「そうだなぁ……」%K%P
 Hmmm...
@@ -551,7 +551,7 @@ CN PLACEHOLDER
 武「そこのおばちゃんが、すごく人なつっこくてさぁ」%K%P
 It's run by a nice old lady. She gets along with everybody.
 CN PLACEHOLDER
-Ею заведует одна хорошая бабулька. Приятная во всех отношениях старушенция.
+Ею заведует одна милая бабулька.
 
 武「昔の、クラシックカーみたいな、まん丸い目と顔してて……」%K%P
 She's got a round face kind of like a classic car...
@@ -581,7 +581,7 @@ CN PLACEHOLDER
 武「今頃、何してんのかなぁ、おばちゃん」%K%P
 I wonder how she's doing right now.
 CN PLACEHOLDER
-Интересно, как она сейчас поживает...
+Интересно, как она сейчас.
 
 空「ふふっ……なんだかおかしいです」%K%P
 Hahaha... You are funny.
@@ -796,7 +796,7 @@ CN PLACEHOLDER
 空「倉成さんは、恋の経験者ですよね？」%K%P
 Kuranari-san, you are someone who has loved.
 CN PLACEHOLDER
-Куранари-сан, ты любил, правда?
+Куранари-сан, ты же любил?
 
 うっ、そう来たか……。%K%P
 Oh, it was coming...
@@ -811,7 +811,7 @@ CN PLACEHOLDER
 空「どんなものなのか、説明してはいただけないでしょうか」%K%p
 Can you explain it and help me understand it?
 CN PLACEHOLDER
-Ты можешь объяснить, попытаться помочь мне понять?
+Ты бы не мог попытаться мне объяснить?
 
 説明できる
 I can explain it
@@ -841,7 +841,7 @@ CN PLACEHOLDER
 空「『池の魚』というオチは禁止です……」%K%P
 You'd better not be preparing a punch line about fish...
 CN PLACEHOLDER
-Но предупреждаю. Не рассказывай сказку про русалочку...
+Но сразу попрошу. Не рассказывай сказку про русалочку...
 
 武「なにっ！　先手を打たれたぞ！」%K%P
 What!? Am I that transparent!?
@@ -881,12 +881,12 @@ CN PLACEHOLDER
 武「なにっ！　一度ならず二度までも！！」%K%P
 What!? You got me the second time too!?
 CN PLACEHOLDER
-Что?! Ты серьёзно?
+Что?! Угадала два раза подряд?!
 
 武「恐るべし、人工知能！」%K%P
 Artificial intelligence, how impressive!
 CN PLACEHOLDER
-Вы прямо-таки видите меня насквозь, мадам ИИ.
+Искусственный интеллект – поистине впечатляющая штука!
 
 空「そのくらいのネタはお見通しです。使い古されてますから」%K%P
 I only want an answer to the question, not a predictable joke.
@@ -896,7 +896,7 @@ CN PLACEHOLDER
 武「うぬぬ、では気を取り直して」%K%P
 Alright, get ready...
 CN PLACEHOLDER
-Хорошо, исправляюсь...
+Хорошо, ещё одна попытка...
 
 武「ずばり！　故意とはっ！」%K%P
 Okay! Love can be kind of intense—
@@ -931,7 +931,7 @@ CN PLACEHOLDER
 空「あ、えーと……」%K%P
 Hmmm...
 CN PLACEHOLDER
-Э-э... то есть...
+Э-э... Ну-у...
 
 空「データベースにあったから、私はそう答えただけです」%K%P
 I do not have anything more than that in my database.
