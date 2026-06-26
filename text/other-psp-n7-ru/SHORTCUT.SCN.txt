@@ -1,0 +1,407 @@
+﻿;10;24;１日⑳１ｓｔ（初めから）
+April 1 (1st) Beginning
+
+;44;22;１日⑳１ｓｔ（昼から）
+April 1 (1st) Afternoon
+
+;78;24;１日⑳１ｓｔ（夕方から）
+April 1 (1st) Evening
+
+;AC;22;１日⑳１ｓｔ（夜から）
+April 1 (1st) Night
+
+;E0;28;４月２日⑳１ｓｔ（初めから）
+April 2 (1st) Beginning
+
+;114;26;４月２日⑳１ｓｔ（夜から）
+April 2 (1st) Night
+
+;148;28;４月３日⑳１ｓｔ（初めから）
+April 3 (1st) Beginning
+
+;17C;28;４月３日⑳１ｓｔ（夕方から）
+April 3 (1st) Evening
+
+;1B0;26;４月３日⑳１ｓｔ（夜から）
+April 3 (1st) Night
+
+;1E4;28;４月４日⑳１ｓｔ（初めから）
+April 4 (1st) Beginning
+
+;218;28;４月４日⑳１ｓｔ（夕方から）
+April 4 (1st) Evening
+
+;24C;26;４月４日⑳１ｓｔ（夜から）
+April 4 (1st) Night
+
+;280;22;４月５日⑳優夏／１ｓｔ
+April 5 (1st)
+
+;2B4;22;４月６日⑳優夏／１ｓｔ
+April 6 (1st)
+
+;2E8;30;４月１日⑳優夏／２ｎｄ（前編）
+Yuka - April 1 (2nd) (1)
+
+;31C;30;４月１日⑳優夏／２ｎｄ（後編）
+Yuka - April 1 (2nd) (2)
+
+;350;22;４月２日⑳優夏／２ｎｄ
+Yuka - April 2 (2nd)
+
+;384;22;４月３日⑳優夏／２ｎｄ
+Yuka - April 3 (2nd)
+
+;3B8;22;４月４日⑳優夏／２ｎｄ
+Yuka - April 4 (2nd)
+
+;3EC;22;４月５日⑳優夏／２ｎｄ
+Yuka - April 5 (2nd)
+
+;420;22;４月６日⑳優夏／２ｎｄ
+Yuka - April 6 (2nd)
+
+;454;18;エンディング⑳優夏
+Yuka End
+
+;488;20;４月５日⑳遙／１ｓｔ
+Haruka - April 5 (1st)
+
+;4BC;20;４月６日⑳遙／１ｓｔ
+Haruka - April 6 (1st)
+
+;4F0;20;４月１日⑳遙／２ｎｄ
+Haruka - April 1 (2nd)
+
+;524;20;４月２日⑳遙／２ｎｄ
+Haruka - April 2 (2nd)
+
+;558;20;４月３日⑳遙／２ｎｄ
+Haruka - April 3 (2nd)
+
+;58C;20;４月４日⑳遙／２ｎｄ
+Haruka - April 4 (2nd)
+
+;5C0;20;４月５日⑳遙／２ｎｄ
+Haruka - April 5 (2nd)
+
+;5F4;20;４月６日⑳遙／２ｎｄ
+Haruka - April 6 (2nd)
+
+;628;16;エンディング⑳遙
+Haruka End
+
+;65C;30;４月５日⑳沙紀／１ｓｔ（前編）
+Saki - April 5 (1st) (1)
+
+;690;30;４月５日⑳沙紀／１ｓｔ（後編）
+Saki - April 5 (1st) (2)
+
+;6C4;22;４月６日⑳沙紀／１ｓｔ
+Saki - April 6 (1st)
+
+;6F8;22;４月１日⑳沙紀／２ｎｄ
+Saki - April 1 (2nd)
+
+;72C;22;４月２日⑳沙紀／２ｎｄ
+Saki - April 2 (2nd)
+
+;760;22;４月３日⑳沙紀／２ｎｄ
+Saki - April 3 (2nd)
+
+;794;22;４月４日⑳沙紀／２ｎｄ
+Saki - April 4 (2nd)
+
+;7C8;22;４月５日⑳沙紀／２ｎｄ
+Saki - April 5 (2nd)
+
+;7FC;22;４月６日⑳沙紀／２ｎｄ
+Saki - April 6 (2nd)
+
+;830;18;エンディング⑳沙紀
+Saki End
+
+;864;24;４月５日⑳くるみ／１ｓｔ
+Kurumi - April 5 (1st)
+
+;898;24;４月６日⑳くるみ／１ｓｔ
+Kurumi - April 6 (1st)
+
+;8CC;24;４月１日⑳くるみ／２ｎｄ
+Kurumi - April 1 (2nd)
+
+;900;24;４月２日⑳くるみ／２ｎｄ
+Kurumi - April 2 (2nd)
+
+;934;24;４月３日⑳くるみ／２ｎｄ
+Kurumi - April 3 (2nd)
+
+;968;24;４月４日⑳くるみ／２ｎｄ
+Kurumi - April 4 (2nd)
+
+;99C;24;４月５日⑳くるみ／２ｎｄ
+Kurumi - April 5 (2nd)
+
+;9D0;24;４月６日⑳くるみ／２ｎｄ
+Kurumi - April 6 (2nd)
+
+;A04;20;エンディング⑳くるみ
+Kurumi End
+
+;A38;24;４月５日⑳いづみ／１ｓｔ
+Izumi - April 5 (1st)
+
+;A6C;24;４月６日⑳いづみ／１ｓｔ
+Izumi - April 6 (1st)
+
+;AA0;34;４月１日⑳いづみ／２ｎｄ？（前編）
+Izumi - April 1 (2nd?) (1)
+
+;AD4;34;４月１日⑳いづみ／２ｎｄ？（後編）
+Izumi - April 1 (2nd?) (2)
+
+;B08;26;４月３日⑳いづみ／２ｎｄ？
+Izumi - April 3 (2nd?)
+
+;B3C;26;４月４日⑳いづみ／２ｎｄ？
+Izumi - April 4 (2nd?)
+
+;B70;20;エンディング⑳いづみ
+Izumi End
+
+;BA4;30;４月５日⑳いづみキュア／１ｓｔ
+Izumi Cure - April 5 (1st)
+
+;BD8;30;４月６日⑳いづみキュア／１ｓｔ
+Izumi Cure - April 6 (1st)
+
+;C0C;38;４月１日⑳いづみキュア／２ｎｄ（前編）
+Izumi Cure - April 1 (2nd) (1)
+
+;C40;38;４月１日⑳いづみキュア／２ｎｄ（後編）
+Izumi Cure - April 1 (2nd) (2)
+
+;C74;30;４月２日⑳いづみキュア／２ｎｄ
+Izumi Cure - April 2 (2nd)
+
+;CA8;30;４月３日⑳いづみキュア／２ｎｄ
+Izumi Cure - April 3 (2nd)
+
+;CDC;30;４月４日⑳いづみキュア／２ｎｄ
+Izumi Cure - April 4 (2nd)
+
+;D10;30;４月５日⑳いづみキュア／２ｎｄ
+Izumi Cure - April 5 (2nd)
+
+;D44;30;４月６日⑳いづみキュア／２ｎｄ
+Izumi Cure - April 6 (2nd)
+
+;D78;28;エンディング⑳いづみキュアＡ
+Izumi Cure End A
+
+;DAC;28;エンディング⑳いづみキュアＢ
+Izumi Cure End B
+
+;14;78;４月６日土曜日──%n絶望に満ちた世界……。%nそして……%n誠は目を覚ました……。
+A girl dies with a bell in her%npalm.%nA world full of despair...%nAnd then...%nMakoto awakens...
+
+;48;82;リビングに揃った皆の前に、%n優夏が作った朝食が出される。%nその料理の出来栄えは？？
+Everyone gathers in the%nliving room. Yuka makes%nbreakfast. Now, Makoto, %nHaruka, and Okuhiko are %nwaiting for it to be ready...
+
+;7C;80;テニス組と海組に分かれた%n誠達２組は、夕方合流し、%n商店街に繰り出すことに……。
+The group split up into a%ntennis and an ocean group.%nThey meet when the western %nsky is red, and head to the%nshopping district.
+
+;B0;84;買い出しから帰ってきた誠達。%nあとはいづみさんの料理を%n待つばかり。⑳さて、お味は？
+Makoto goes shopping with%nsomeone.%nAll Izumi-san has to do is%ncook.%nWell then, how will it taste?
+
+;E4;102;悪夢で見たあの『鈴』%nそれと同じものを拾った誠は%n不安で長い夜を過ごす。%n翌朝、約束のプールに向かう。
+On the way back, Makoto  %nsees the same “bell” from his  %nnightmare. After the uneasy  %nnight, the group prepares to%ngo to the pool.
+
+;118;84;プールからルナビーチに戻り、%n皆は会話に華を咲かせる。%n夕食後、みんなで月浜へ……。
+After returning to Lunabeach %nthe conversation continues%non the terrace. %nAfter dinner, everyone goes %nto Moon Beach...
+
+;14C;84;『無いから……心が……』%nそんな遙に、釣りを教えると%n約束する誠。そして、翌朝……。
+“Because I have... no heart.”%nMakoto has promised to fish%nwith Haruka.%nAnd the next morning...
+
+;180;96;釣った魚をすぐに逃がす遙。%nそんな遙を、%n守ってあげたいと感じる誠。%nそして、辺りは夕闇に……。
+Haruka lets go of the fish she %ncatches. Makoto feels  %nprotective of Haruka.  %nAnd then, as dusk draws  %nnear...
+
+;1B4;106;沙紀の口から発せられた、%n遙がクローンだという事実。%nそんな中、いづみさんは%nクローン法改正の経緯を話す。
+Saki reveals the truth that%nHaruka is a clone.%nIzumi-san tells the story%nabout the Clone Law.%nAnd then...
+
+;1E8;104;気まずい夕食のなか、%nくるみが肝試しを提案する。%nそれは、くるみなりの気配り%nだったのかもしれない……。
+During the awkward dinner,  %nKurumi suggested a Test of  %nCourage. That was probably  %nher plan from the start.%nThen, the next morning...
+
+;21C;114;自由な時間を過ごした各人。%nその後、ルナビーチに集合した%n一同は、姫ヶ浜へ集合する。%nバーベキュー大会の始まりだ。
+After spending their free%ntime, everyone meets at%nLunabeach.%nThey go to Princess Beach%nfor the barbecue.
+
+;250;86;些細なことから、%n再び遙と沙紀は衝突。%nバーベキューは重苦しい%n空気のまま終わり……。
+Haruka and Saki got into an%nargument.%nThe barbecue ends with a%ngloomy mood...
+
+;284;102;夜、行方不明になったくるみを%n神社で見つけた優夏と誠。%nその後、疲労困ぱいのまま%n眠りについたが……。
+In the middle of the night,  %nMakoto and Yuka find the  %nmissing Kurumi at the shrine.  %nThey then go to sleep...
+
+;2B8;110;優夏と誠は今後一切、神社には%n近寄らないと誓い合った。%Nやがて……日付は６日──%n運命の日が、やってきた──。
+Yuka and Makoto swear to%nnever approach the shrine%nagain. The date changes to %nthe 6th―The fated day has %ncome―.
+
+;2EC;90;神社と共に優夏は失われた。%nそして、ふたりの手から%nこぼれ落ちた鈴…………。%nそして──。
+Yuka and Makoto are lost in%nthe shrine's destruction,%nbells falling from their palms.%nAnd then...
+
+;320;102;目覚めると、そこは、%n２度目の４月１日……。%n誠と優夏は混乱しながらも、%nテニスコートへと足を向ける。
+When they wake up, it's the%n1st again...%nIn order to ascertain the%ndetails, Makoto and Yuka %nhead for the tennis court...
+
+;354;80;『良い歴史はそのままに』。%nそう優夏と画策した誠は、%n前回と同様プールへ向かう。
+“We can create a good%nhistory”.%nWith Yuka's plan in mind,%nMakoto heads for the pool...
+
+;388;94;釣りを教えて欲しいと言う遙。%n前回と同じように、誠は%n威勢良く承諾するのだった。%nそして……。
+Like the last loop, Haruka%nwants to learn how to fish,%nand Makoto decides to help.%nAnd then...
+
+;3BC;98;３日に沙紀は溺れず、%n平穏な１日が生まれた。%n計画どおりで安堵する誠。%nそして、４日を迎えた……。
+Because Saki didn't get%nangry, a peaceful day is%nborn. Everything is going%naccording to plan.%nAnd the 4th arrives...
+
+;3F0;94;バーベキューでも、%n悪い歴史は良く変わった。%n良い流れを感じながら、%n２人は５日を迎える……。
+The barbecue has changed %nfrom a bad history to a good %none. With fortune seeming to %nfavor them, Makoto and Yuka%nawait the 5th...
+
+;424;94;沙紀から優夏の過去を聞き、%n誠は自分の発言を悔いる。%n部屋で胸を痛ませる誠……%nそのとき……！
+After hearing about Yuka's%npast from Saki, Makoto %nregrets what he said to her. %nMakoto lies with a pain in his%nchest...
+
+;458;100;倒壊する神社……。%n誠と優夏は抱き合ったまま、%n漆黒の海原に落ちて行く。%n鈴の音を聞きながら……。%n
+The shrine is destroyed.%nMakoto embraces Yuka, and%nthey fall to the black sea.%nThe faint sound of a bell fills%ntheir ears...
+
+;48C;110;遙と沙紀──ふたりの過去に、%nいったい何があったのか？%nそんなことを考えながら、%n誠は眠りに落ちていった……。
+Haruka and Saki─just what%nhappened in their pasts?%nWhile thinking about that,%nMakoto falls asleep...
+
+;4C0;92;夜の姫ヶ浜で、寄りそいながら%n海を見る誠と遙。%nそのまま、まどろみの%n彼方へいざなわれて……
+At Princess Beach, Makoto%nholds Haruka while looking at%nthe ocean.%nThey then doze off...
+
+;4F4;102;病室で息をひきとった遙。%nその手からこぼれる鈴……。%n失意の中、誠の意識は%n遠のいていき、そして──。
+Haruka dies at the clinic.%nA bell falls from her hand...%nTrapped in despair, Makoto%nloses consciousness.
+
+;528;108;２度目の４月１日に目覚めた誠。%n２度と遙を失わないよう、%n歴史を変える決意をする。%n頼れるのは、前回の記憶！
+Makoto wakes up on the 1st %nagain... “I will change history%nand save Haruka”, he swears.%nAll he can rely on are his%nmemories...
+
+;55C;100;沙紀が高波にさらわれる事は%n変えることができなかった。%n誠は本当に歴史を%n変えることができるのか！？
+Makoto tries to change%nhistory when Saki almost%ndrowned, but fails.%nCan he really change%nhistory!?
+
+;590;108;遙に、自分という存在の%n尊さに気づいてもらうため、%n誠は、遙とくるみの決定的な%n差異を見つけようと決意する。
+To make Haruka understand  %nher own value, Makoto  %ndecides to search for  %ndifferences between her and  %nKurumi...
+
+;5C4;106;遙と共に釣りをした誠は、%n彼女の決定的な存在理由を%n見つけられなかった。%nタイムリミットは、２４時間……。
+Makoto spends the day %nfishing with Haruka. He tries %nto find differences, but fails. %nHis time limit is just one more%nday...
+
+;5F8;68;ロッジの外に飛び出した遙を、%n必死に探す誠。%nそして、遂に…………。
+Haruka runs out of the lodge,%nand Makoto desperately%nlooks for her.%nAnd then...
+
+;62C;80;くるみの輸血で命を留めた遙。%n──眠り姫は、ついに、%n眠りから目覚めたのだ……。
+Kurumi's blood saves%nHaruka's life.%nSleeping Beauty has finally%nawoken from her thousand%nyear sleep...
+
+;660;108;沙紀と遙、ふたりの過去に、%nいったい何があったのか？%nそんなことを考えながら、%n誠は眠りに落ちていった……。
+Haruka and Saki─just what%nhappened in their pasts?%nWhile thinking about that,%nMakoto falls asleep...
+
+;694;80;優夏は沙紀を誤解している。%nふたりの誤解を解くため、%n再び沙紀の別荘へ向かった。
+Yuka misunderstands Saki.%nIn order to clear up the %nmisunderstanding, Makoto %ngoes back to Saki's summer %nhouse.
+
+;6C8;102;遙か沙紀……そのどちらかが%n『鈴は持っていない』と%n嘘をついている……。%n誠は強い葛藤に身悶える……。
+Saki and Haruka... which one is  %nlying about “not having the %nbell”...? %nMakoto faces intense worry %nand conflict...
+
+;6FC;70;漆黒の闇へ落ちていった沙紀。%n彼女を失った誠は闇に叫ぶ。%nそして──。
+Saki falls down into the jet%nblack darkness.%nMakoto shouts her name...%nAnd then─
+
+;730;116;目覚めると２度目の１日だった。%n２度と沙紀を失わないよう、%n歴史を変える決意をした誠。%n前回の記憶だけを頼りに……。
+Makoto wakes up on the 1st%nagain... “I will change history%nand save Saki”, he swears.%nAll he can rely on are his%nmemories...
+
+;764;102;沙紀と遙、お互いの真実を%nはっきりさせる必要があると%n思った誠は、ふたりを%n会わせようと思案する……。
+Saki and Haruka need to  %nclear up the truth, so Makoto   %ndecides to have them meet,   %nwith him as the mediator...
+
+;798;104;歴史は繰り返し、再び沙紀が%nバスケットを壊してしまった。%n夜中にそれを直した誠は、%n沙紀の別荘へ向かう。
+History repeats, with Saki%ndestroying the basket again. %nMakoto fixes it overnight, %nand heads to Saki's summer%nhouse.
+
+;7CC;100;バーベキュー後、沙紀は%nバスケットの件を感謝する。%n歴史は変わりつつある……%nそう確信した誠だった。
+After the barbecue, Saki%nthanks Makoto for the%nbasket.%nHistory is changing...%nMakoto feels confident.
+
+;800;80;沙紀の潔白を証明するため、%n売上金窃盗犯を探す誠。%nいったい犯人は誰なのか……？
+To prove Saki's innocence, %nMakoto waits for the criminal %nwho stole Lunabeach's  %nearnings.  %nWho is the culprit...?
+
+;834;86;ついに信じあえた誠と沙紀。%nお互いの気持ちを確かめ合い、%nふたりはついに７日を迎えた。
+In the pouring rain, Saki finally%ntrusts Makoto. %nThey confirm their feelings %nfor each other, and go to %ngreet the 7th...
+
+;868;92;行方不明になったくるみは%n神社で見つかった。%nその後、疲労困ぱいのまま%n眠りについたが……。
+Makoto finds Kurumi in the%nshrine.%nAfter that, he goes to sleep%ncompletely exhausted.%nBut then...
+
+;89C;108;癒えない身体と心の傷を、%nくるみは誠に告白した。%nそれでも明るく振舞うくるみを%n誠はずっと見守りたいと誓う。
+Kurumi tells Makoto about the%nwounds on her body and %nheart. She acts cheerfully, %nwhile Makoto wants to watch%nover her.
+
+;8D0;100;非業の死を遂げたくるみ。%n彼女の手に握られた鈴が%n虚しい音色を奏でた。%n意識を失う誠……そして──。
+Kurumi meets her untimely%ndeath. Grasped in her hand%nis a bell. Makoto loses%nconsciousness...%nAnd then─
+
+;904;118;目覚めると２度目の１日だった。%n２度とくるみを失わないよう、%n歴史を変える決意をした誠。%n誠の孤独な戦いが始まる……。
+Makoto wakes up on the 1st %nagain. %n“I will change history and %nsave Kurumi.” Makoto's lonely %nbattle has begun...
+
+;938;112;誠の健闘空しく、くるみは%n再び神社の話を知ってしまう。%nだが、悲劇は防せごうと誓う。%nやがて、日付は３日に……。
+Makoto's efforts are in vain,  %nas Kurumi learns about the  %nshrine again. Makoto needs  %nto prevent the tragedy.%nAnd the 3rd comes...
+
+;96C;100;３日は平穏に過ぎて行った。%nそして、４日……。%nついに、くるみの秘密が%n明かされようとしている……。
+The 3rd passes without  %nincident. And the 4th  %narrives... The time has come  %nto learn the secrets of  %nKurumi's past...
+
+;9A0;116;今回、くるみは失踪しなかった。%nすやすやと眠るくるみを見て、%n穏やかな気持ちになる誠。%nこうして夜はふけていく……。
+Kurumi doesn't disappear.%nSeeing Kurumi while sleeping%ncalms down Makoto.%nAnd the night passes on...
+
+;9D4;106;再び背中の傷を見せたくるみ。%n誠はその悲しみを受け止める。%nそして、ふたたび遊園地に%n行く約束をする……。
+Kurumi shows her scar again. %nMakoto takes all of that%nsadness, embracing her, and%npromises to go to the %namusement park...
+
+;A08;100;タイムスリップ、自分の気持ち、%nその全てを話す誠に、%nくるみは応えた。%nそして運命の日を迎える……。
+Makoto tells Kurumi about the%ntime travel and his feelings%nfor her. She accepts them.%nAnd they greet the arrival of%nthe 7th...
+
+;A3C;94;行方不明になったくるみを%n神社で見つけた誠。%nその後、いづみさんに%n夜中に会いたいと誘われる。
+Makoto finds Kurumi in the%nshrine.%nAfter that, Izumi-san invites%nMakoto to meet her later that%nnight.
+
+;A70;98;ロッジに泊まることになった%nくるみといづみさん。%nそして、皆でカードゲームを%nすることになり……。
+Kurumi and Izumi-san sleep%nover at the lodge.%nAnd upon Kurumi's%nsuggestion, everyone plays%ncards...
+
+;AA4;98;どしゃ降りの雨の中、%n崖から落ちたいづみさん。%n冷たくなった手のひらから、%n鈴がこぼれ落ちた……。
+Izumi-san falls off the cliff in%nthe rain.%nA bell falls out of her cold%nhand...
+
+;AD8;108;億彦を騙すことになり、%n４月１日を演じ続ける班員達。%nやがてテニスの時間になり、%n一行はコートへと足を運ぶ。
+Everyone decides to trick  %nOkuhiko into thinking it's %nApril 1st. %nBefore long, the time for %ntennis has come.
+
+;B0C;104;順調に億彦を騙してはいたが、%n誠は告白できないでいた。%nあせる誠をよそに、%n次は３日を演じることに……。
+The deception of Okuhiko %ncontinues. Makoto decides%nto tell Izumi-san his feelings.%nThe group pretends%ntomorrow is the 3rd...
+
+;B40;104;どうしてもいづみさんと%nふたりきりになれない誠。%nタイムリミットが迫る中、%n誠は気持ちを伝えられるか！？
+Makoto can't get alone with%nIzumi-san.%nWith only two days left, can%nMakoto tell her his feelings!?
+
+;B74;96;億彦に真相を話し、%n楽しかった『合宿』は終わった。%nだが、誠にはまだ%nやり残していることがある。
+The “Seminar Camp” ends with %nOkuhiko fooled. But there's %nsomething Makoto has left %nto do.  %nHe goes to Lunabeach...
+
+;BA8;94;行方不明になったくるみを%n神社で見つけた誠。%nその後、いづみさんに%n夜中に会いたいと誘われる。
+Makoto finds Kurumi in the%nshrine.%nAfter that, Izumi-san invites%nMakoto to meet her later that%nnight.
+
+;BDC;110;予知を気に病むいづみさんの%n微笑みを取り戻すため、%n星の話をしようと提案する。%nこうして、夜はふけていく……。
+To return Izumi's smile, who's%nworried about the%npremonitions, Makoto%nproposes they talk about%nstars. The night goes on...
+
+;C10;98;どしゃ降りの雨の中、%n崖から落ちたいづみさん。%n冷たくなった手のひらから、%n鈴がこぼれ落ちた……。
+Izumi-san falls off the cliff in%nthe rain.%nA bell falls out of her cold%nhand...
+
+;C44;98;誠が絶望の中で目覚めると、%n世界は４月１日だった──。%n誠はその事実に%nただ混乱するばかりで……。
+Makoto awakes to find it's%nApril 1st.%nAll he can do is suspect this%nworld... Makoto just can't%naccept the truth...
+
+;C78;94;あの『鈴』を壊そうとする誠。%nだが潰したはずの鈴は、%n跡形も無く消えてしまう……。%nなぜ……？
+Makoto decides to destroy  %nthe bell.  %nBut when he strikes it with  %nconcrete, all traces of the   %nbell disappear...
+
+;CAC;94;キュレイシンドロ−ムの%n『第３の特徴』。%nその内容を聞けなかった誠は、%n眠れぬ夜を過ごす……。
+“The Third Trait” of Curé %nSyndrome. Because of %ninterference from the others, %nMakoto doesn't hear the  %ndetails...
+
+;CE0;96;この現実は、誠の妄想に%n過ぎないかもしれない。%n──そう告げるいづみさんを%n誠は抱きしめる……。
+This reality might be nothing  %nmore than a delusion of  %nMakoto's. Even so, Izumi-san  %ntells Makoto to believe in her%nwarmth...
+
+;D14;76;遙がビールをかけられ、%nくるみも失踪しなかった。%n穏やかな雰囲気が続く……。
+Saki spills beer on Haruka,%nand Kurumi doesn't%ndisappear.%nWith a calm atmosphere,%nthe 5th arrives...
+
+;D48;94;消えた鈴……消えた神社……%n消えたトランプ……。%n妄想か？⑳真実か？%n混乱したまま夜を迎える。
+The vanished bell, the vani- %nshed shrine, the vanished  %ncards... Is it a delusion or  %nreality? Makoto spends the%nnight at Lunabeach.
+
+;D7C;98;いづみさんをかばって、%n車に弾き飛ばされた誠。%n皆の無事を確認すると、%n誠は意識を……失った……。
+Makoto protects Izumi-san,%nand is hit by a car. Haruka%nand Izumi-san are safe. %nAnd then... Makoto loses %nconsciousness.
+
+;DB0;102;いづみさんをかばって、%n車に弾き飛ばされた誠。%n彼女の悲痛な声を聞きながら、%n意識は途切れる…………。
+Makoto protects Izumi-san,%nand is hit by a car. Haruka%nand Izumi-san are safe. %nWhile hearing her cries, he%nloses consciousness.
