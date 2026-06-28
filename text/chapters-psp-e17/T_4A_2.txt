@@ -836,32 +836,33 @@ CN PLACEHOLDER
 武「ずばり！　鯉とはっ」%K%P
 Okay! Love is when someone gets hooked—
 CN PLACEHOLDER
-Итак! Какие определения для любви есть в твоей базе данных?
+Итак! Любовь – она как карп...
 
 空「『池の魚』というオチは禁止です……」%K%P
 You'd better not be preparing a punch line about fish...
 CN PLACEHOLDER
-Но сразу попрошу. Не рассказывай сказку про русалочку...
+Ответ „по-японски они звучат одинаково“ – не в счёт...
+//Надо будет сделать заметку на слове "карп", а там дать описание типа "В японском языке слово "любовь" (иероглиф) и "карп" (иероглиф) произносятся одинаково – 'koi'.
 
 武「なにっ！　先手を打たれたぞ！」%K%P
 What!? Am I that transparent!?
 CN PLACEHOLDER
-Что? Как ты догадалась?
+Что? Так просто поняла?!
 
 空「そのくらいのネタはお見通しです。使い古されてますから」%K%P
 I only want an answer to the question, not a predictable joke.
 CN PLACEHOLDER
-Всё в порядке, есть и другие определения.
+Такие избитые шутки я понимаю очень легко.
 
 武「なかなか手ごわいな……うむ……」%K%P
 You're pretty hard to please... Hmmm...
 CN PLACEHOLDER
-Да уж, тебе не угодишь... Хм-м-м...
+Да уж, а это не так-то просто... Хм-м...
 
 俺は深呼吸した。%K%P
 I took a deep breath.
 CN PLACEHOLDER
-Я сделал глубокий вдох.
+Я глубоко вздохнул.
 
 武「では改めて！」%K%P
 Let's try this again!
@@ -871,12 +872,13 @@ CN PLACEHOLDER
 武「ずばり！　濃いとはっ！」%K%P
 Okay! Love is like a box of dark chocolates—
 CN PLACEHOLDER
-Любовь – это...
+Итак! Любовь – не какая-то жидкая... и ещё сложно разбавить...
 
 空「『薄いの反対』というのも、禁止です……」%K%P
 I thought I said 'no jokes'...
 CN PLACEHOLDER
-Только не говори „нечто невесомое и нематериальное“...
+Сравнивать любовь с чем-то густым – тоже нельзя...
+//Заметка на слове "густым", а там дать описание типа "В японском языке слово "любовь" (иероглиф) и "густой" (иероглиф) произносятся одинаково – 'koi'.
 
 武「なにっ！　一度ならず二度までも！！」%K%P
 What!? You got me the second time too!?
@@ -886,12 +888,12 @@ CN PLACEHOLDER
 武「恐るべし、人工知能！」%K%P
 Artificial intelligence, how impressive!
 CN PLACEHOLDER
-Искусственный интеллект – поистине впечатляющая штука!
+Вот он, искусственный интеллект!
 
 空「そのくらいのネタはお見通しです。使い古されてますから」%K%P
 I only want an answer to the question, not a predictable joke.
 CN PLACEHOLDER
-Всё в порядке, есть и другие определения.
+Такие избитые шутки я понимаю очень легко.
 
 武「うぬぬ、では気を取り直して」%K%P
 Alright, get ready...
@@ -901,12 +903,12 @@ CN PLACEHOLDER
 武「ずばり！　故意とはっ！」%K%P
 Okay! Love can be kind of intense—
 CN PLACEHOLDER
-Та-а-ак. Значит, нужен намёк на ещё одно значение...
+Итак! У любви нет...
 
 空「『わざと』ですか？」%K%P
 Because it happens with 'intent'?
 CN PLACEHOLDER
-В смысле „действия“ или „чувства“?
+„Умысла“?
 
 武「…………」%K%P
 .........
@@ -916,12 +918,13 @@ CN PLACEHOLDER
 武「いや、そうではなく」%K%P
 Yes, that's right.
 CN PLACEHOLDER
-Да, конечно.
+Нет, не совсем.
 
 空「『行為の一歩手前』のこと？」%K%P
 'Intent' as in actively pursuing it, correct?
 CN PLACEHOLDER
-Если „действие“, то какое?
+Или хочешь сказать „не предшествует поступку“?
+//Надо будет сделать заметку на кавычках, а там дать описание типа... ну, ты уже понял принцип.
 
 武「…………」%K%P
 .........
@@ -936,27 +939,27 @@ CN PLACEHOLDER
 空「データベースにあったから、私はそう答えただけです」%K%P
 I do not have anything more than that in my database.
 CN PLACEHOLDER
-Просто... это все сведения, что имеются в моей базе данных.
+Просто эти сведения имеются в моей базе данных.
 
 空「倉成さん、そろそろ本題に」%K%P
 Kuranari-san, can you please answer my original question?
 CN PLACEHOLDER
-Куранари-сан, так ты ответишь?
+Куранари-сан, давай перейдём к делу.
 
 武「ＯＫ、わかった、もう少しマシな答えを考えよう！」%K%P
 Okay. There's one more meaning for love. Give me a second to explain it.
 CN PLACEHOLDER
-Так и быть. У любви есть ещё одно значение. Сейчас, секундочку.
+Окей, понял, сейчас придумаю ответ получше!
 
 武「ああ、考える。考えるぞ、考えるとも……」%K%P
 Think, think, think, think...
 CN PLACEHOLDER
-Думай, думай, голова. Не просто так торчишь у меня на шее...
+А-а, я думаю, думаю. Думаю, думаю...
 
 武「だから、あと１分だけ、待ってくれないか？」%K%P
 Can you give me a minute to think?
 CN PLACEHOLDER
-Сора, можно взять минуту на размышление?
+Сора, можешь подождать минутку?
 
 空「どうぞ」%K%P
 Yes. One minute.
@@ -971,7 +974,7 @@ CN PLACEHOLDER
 心臓は意味もなく早鐘を打っていた。%K%P
 My heart was pounding.
 CN PLACEHOLDER
-Но сердце по-прежнему выпрыгивает из груди.
+Сердце без видимой причины бешено колотится в груди.
 
 空「１分経ちました」%K%P
 One minute has expired.
@@ -981,7 +984,7 @@ CN PLACEHOLDER
 武「え、も、もうっ！？」%K%P
 What? Already!?
 CN PLACEHOLDER
-Как? Уже?!
+Ого! Уже?!
 
 武「すまん、さらに５分待て」%K%P
 Sorry, gimme five more minutes.
@@ -991,12 +994,12 @@ CN PLACEHOLDER
 武「いや、１０分にしてくれ。いやいや、もうちょっと長いほうが……？」%K%P
 No, no. I need ten minutes. Please? No, no. I need more time. Much more time!
 CN PLACEHOLDER
-Нет, пожалуйста, лучше десять. Нет, нет! Нужно больше времени, гораздо больше!
+Нет, лучше десять. Нет! Нужно больше времени!
 
 簡単に答えられるもんじゃない。%K%P
 There was just no simple way to explain it to her.
 CN PLACEHOLDER
-Ибо просто так Соре это не объяснить.
+На такой вопрос ответить нелегко.
 
 空「そうですか……わかりました」%K%P
 Really...? Fine then.
@@ -1006,12 +1009,12 @@ CN PLACEHOLDER
 待ちきれなくなった空は、姿勢を正した。%K%P
 Sora waited impatiently.
 CN PLACEHOLDER
-Сора с нетерпением ждёт.
+Сора вся в нетерпении, аж выпрямилась.
 
 武「ええっと、そうだなぁ〜〜〜〜〜〜〜」%K%P
 Ummmm... Let's see...
 CN PLACEHOLDER
-Эмммм... значит так...
+Ну-у-у... значит так...
 
 空「はい」%K%P
 Yes?
@@ -1021,12 +1024,12 @@ CN PLACEHOLDER
 俺はとりあえず相槌を打ち、語尾を可能な限り引き延ばしながら考えた。%K%P
 I tried to buy myself time by lengthening sounds, as if I had an answer on the tip of my tongue.
 CN PLACEHOLDER
-Я пытаюсь тянуть время, растягивая звуки, словно ответ вертится у меня на языке.
+Я просто согласно кивнул, стараясь тянуть время, прежде чем закончить фразу.
 
 武「ぁ〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜」%K%P
 Uhhhhhhhhh...
 CN PLACEHOLDER
-Эххххххххх...
+А-а...
 
 恋。%K%P
 Love.
@@ -1046,17 +1049,17 @@ CN PLACEHOLDER
 他に置き換えられる言葉があるだろうか？%K%P
 Wasn't there some other way I could describe it?
 CN PLACEHOLDER
-Неужели нет иного способа описать её?
+Неужели нельзя объяснить её другими словами?
 
 武「ぁ〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜」%K%P
 Uhhhhhhhhh...
 CN PLACEHOLDER
-Ммммммммммммм...
+М-м...
 
 いや、考えよう！%K%P
 No, I had to think!
 CN PLACEHOLDER
-Нет, ну же! Думай, тыковка!
+Нет, ну же! Думай!
 
 考えてみよう！%K%P
 I had to think about it!
@@ -1066,17 +1069,17 @@ CN PLACEHOLDER
 恋とはどういうものなのか！%K%P
 What was love!?
 CN PLACEHOLDER
-Что есть любовь?
+Что же такое любовь?
 
 武「ぁ〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜」%K%P
 Uhhhhhhhhh...
 CN PLACEHOLDER
-Нууууууууу...
+Ну-у-у-у-у...
 
 体験したことのない者にどう伝えたらいいのか……！%K%P
 How could I explain love to someone who had never experienced it?
 CN PLACEHOLDER
-Как я могу объяснить, что такое любовь, тому, кто никогда её не испытывал?
+Как я могу объяснить её тому, кто никогда её не испытывал?
 
 恋とは……。%K%P
 Love...
@@ -1126,7 +1129,7 @@ CN PLACEHOLDER
 武「……ゼェゼェハァハァ」%K%P
 *Pant*... *pant*...
 CN PLACEHOLDER
-*Кхх*... *кхх*...
+*задыхается*
 
 空「？？」%K%P
 ?
@@ -1136,27 +1139,27 @@ CN PLACEHOLDER
 考えようにも酸欠で、それ以上頭が働かなかった。%K%P
 My brain couldn't work properly with such little oxygen.
 CN PLACEHOLDER
-Ничего удивительного, что мозги не могут работать – при такой нехватке кислорода...
+При такой нехватке воздуха неудивительно, что сложно думать.
 
 武「……ゼェゼェハァハァ」%K%P
 *Pant*... *pant*...
 CN PLACEHOLDER
-*Хха*...*хаа*...*хуу*...
+*задыхается*
 
 空「どうなさったんですか、倉成さん……？」%K%P
 What's the matter, Kuranari-san?
 CN PLACEHOLDER
-Что с тобой, Куранари-сан?!
+Что с тобой, Куранари-сан?
 
 俺の心臓は意味もなく早鐘を打っていた。%K%P
 For no reason, my heart started beating wildly again.
 CN PLACEHOLDER
-Безо всякой причины, моё сердце вновь заколотилось.
+Моё сердце опять без причины бешено заколотилось.
 
 空「あまり無理をしないでくださいね。身体を壊してしまいますよ」%K%P
 Don't try too hard, Kuranari-san. You're falling apart.
 CN PLACEHOLDER
-Не перенапрягайся так, иначе измотаешь себя.
+Пожалуйста, не перенапрягайся. Это повлияет на твоё здоровье.
 
 空は、姿勢を正した。%K%P
 Sora stood up straight.
@@ -1166,27 +1169,28 @@ CN PLACEHOLDER
 空「では、そうですね。自答してみましょう」%K%P
 Alright. I will try to answer my own question.
 CN PLACEHOLDER
-Хорошо. Я попытаюсь ответить на собственный вопрос.
+Хорошо. Я попытаюсь ответить на вопрос сама.
 
 空「私は、私なりの見解を述べます……」%K%P
 Let me express my notion of 'love'.
 CN PLACEHOLDER
-Позволь выразить моё представление о любви.
+Позволь выразить моё представление о любви...
 
 かしこまって、空は語り始める。%K%P
 Sora began to speak.
 CN PLACEHOLDER
-Начала Сора.
+Приняв торжественный вид, Сора начала говорить.
+//Начала Сора. - dsp2003
 
 空「私はこう、仮定します……」%K%P
 Let us imagine a flower...
 CN PLACEHOLDER
-Представь себе цветок...
+Давай предположим следующее...
 
 空「花々は、恋をしますか？」%K%P
 ...Can a flower love?
 CN PLACEHOLDER
-...может ли цветок любить?
+...Может ли цветок любить?
 
 空「しないような気がします」%K%P
 It seems to me it cannot.
@@ -1196,7 +1200,7 @@ CN PLACEHOLDER
 空「少なくとも人間の目からは、理解できる恋の行動は見られないようです」%K%P
 At least from the perspective of human beings, flowers don't act in any way that can be viewed as love.
 CN PLACEHOLDER
-Во всяком случае, с человеческой точки зрения действия цветов не могут рассматриваться как любовь.
+По крайней мере с человеческой точки зрения – никакого поведения, похожего на влюблённость, у них, похоже, не наблюдается.
 
 空「動物達は、恋をしますか？」%K%P
 What about animals? Do they love?
@@ -1211,7 +1215,7 @@ CN PLACEHOLDER
 空「恋であるように見える行動が、ある種の動物にはあります」%K%P
 Some animals seem to act out of love. We have observed this to an extent.
 CN PLACEHOLDER
-Кажется, что некоторые животные действительно действуют исходя из любви. Допустим, что так оно и есть.
+Некоторые животные демонстрируют поведение, которое, по-видимому, похоже на любовь.
 
 空「しかしその真意はわかりません……」%K%P
 But perhaps animals do not understand the true meaning of love.
@@ -1221,7 +1225,7 @@ CN PLACEHOLDER
 空「人間で言うところの恋と同義であるかどうかは、不明です」%K%P
 It's unclear whether it is the same as the human definition of love.
 CN PLACEHOLDER
-Не ясно, тождественно ли это человеческому определению любви.
+Неясно, можно ли это считать эквивалентом того, что люди называют любовью.
 
 空「人間は、恋をしますか？」%K%P
 Do humans love?
@@ -1231,7 +1235,7 @@ CN PLACEHOLDER
 空「はい。人は恋します」%K%P
 Yes, I believe so.
 CN PLACEHOLDER
-Мне кажется, да.
+Да, они любят.
 
 空「恋、それは――」%K%P
 Love is...
@@ -1241,22 +1245,22 @@ CN PLACEHOLDER
 空「つまり、人に備わった不可思議な機能なのです」%K%P
 Love is one of those mysterious things that people are programmed to do.
 CN PLACEHOLDER
-...одна из загадочных вещей, на которые люди запрограммированы.
+...это загадочная функция, присущая человеку от природы.
 
 空「人間が生殖を行なう上でのひとつの機能であり……」%K%P
 One of its functions is reproduction...
 CN PLACEHOLDER
-Одна из её функций – продолжение рода...
+Одна из функций, обеспечивающих продолжение рода у людей...
 
 空「それでいて、生殖そのものからは独立したものであるところのっ」%K%P
 ...But that appears to be a function independent of love.
 CN PLACEHOLDER
-...но в то же время эта функция не зависит от любви...
+...при этом она обособлена от самого процесса размножения.
 
 武「ストップ！」%K%P
 Stop!
 CN PLACEHOLDER
-Хватит!
+Стоп!
 
 話し続ける空の口を、俺は手の平で塞いだ。%K%P
 But Sora continued to speak, so I cupped my hand over her mouth.
@@ -1266,17 +1270,17 @@ CN PLACEHOLDER
 空「…………？？」%K%P
 ...?
 CN PLACEHOLDER
-?
+...?
 
 手の平に、唇の感触はない。%K%P
 I put my hand over her mouth, but I couldn't feel her lips.
 CN PLACEHOLDER
-Я прислонил руку ко рту, но не почувствовал, что коснулся её губ.
+Я не почувствовал, что коснулся её губ.
 
 武「まぁ、まぁ、待て、落ち着け」%K%P
 Hey, hey! Hold up. Slow down!
 CN PLACEHOLDER
-Притормози!
+По-по-погоди, успокойся.
 
 そこに温もりは、あるのだろうか。%K%P
 I couldn't tell if her lips were warm or not.
@@ -1296,12 +1300,12 @@ CN PLACEHOLDER
 俺はその暖かさを確かめようとした。%K%P
 I felt, trying to see if there was some sort of warm feeling.
 CN PLACEHOLDER
-Наверное, я чисто машинально пытаюсь найти чувство тепла... там, где его нет.
+Думаю, я просто пытался удостовериться, есть ли там тепло.
 
 武「そうだな……俺の見解を言おう」%K%P
 Let's see... Let me tell you what I think.
 CN PLACEHOLDER
-Так-с... позволь теперь сказать мне.
+Так-с... Давай теперь я выскажу своё мнение.
 
 武「薔薇は何故咲こうとする……？」%K%P
 Why does a rose bloom?
@@ -1331,62 +1335,62 @@ CN PLACEHOLDER
 武「恋は理屈じゃないんだ」%K%P
 Love is not rational.
 CN PLACEHOLDER
-В любви нет рационального зерна.
+В любви нет логики.
 
 武「意味を求めるようなことでもない」%K%P
 It's not something you try to explain through logic.
 CN PLACEHOLDER
-Её нельзя объяснить логически.
+В ней в принципе не надо искать смысла.
 
 武「心の奥底でひっそりと芽生え、すくすくと育ち、やがて花を咲かせる」%K%P
 It's something that is planted in the depths of your heart and steadily blossoms into something beautiful.
 CN PLACEHOLDER
-Это нечто, посаженное в глубине твоего сердца. Нечто, постепенно вырастающее в нечто красивое и цветущее.
+Она потихоньку прорастает глубоко в сердце, тянется вверх, и в свой час расцветает.
 
 武「何かの間違いで、花は散ってしまうかもしれないし、枯れ果ててしまうかもしれない」%K%P
 If something goes wrong, the flower might wilt and die.
 CN PLACEHOLDER
-Если что-то будет не так, цветок может завять и погибнуть...
+По какой-то ошибке цветок может осыпаться, может завянуть...
 
 武「しかしうまく行けば、実を結ぶこともできる」%K%P
 But if the love is true, it may bear amazing fruit.
 CN PLACEHOLDER
-Но если любовь настоящая, он завяжется в удивительный плод.
+Но если всё сложится – он способен принести плод.
 
 武「それら一連の過程に理由なんかない」%K%P
 There is no rhyme nor reason to the process of love.
 CN PLACEHOLDER
-Нет ни описания, ни алгоритма любви.
+Во всей этой череде нет никакой причины.
 
 武「意味を見つけたところで、自ら制御できるような単純な感情でもない」%K%P
 Even if you do find reason in it, love isn't an emotion that you can control easily.
 CN PLACEHOLDER
-Даже если найти её причину, любовь – это не просто эмоция, которую можно контролировать.
+Даже если найти её причину, любовь – это не просто чувство, которым можно управлять по своей воле.
 
 武「恋は、眠りから醒めるように訪れる」%K%P
 Love is something that visits like wakefulness after a slumber.
 CN PLACEHOLDER
-„Любовь нечаянно нагрянет, когда её совсем не ждёшь“.
+Любовь приходит подобно пробуждению ото сна.
 
 武「目覚めの目的が、その日、１日の活動の為にあるとするならば」%K%P
 Just as we awaken in the morning to begin our day...
 CN PLACEHOLDER
-Как простуда от малейшего дуновения ветра. Как утреннее солнышко, с которого начинается день.
+Если цель пробуждения – в делах и заботах наступившего дня...
 
 武「恋の目的は、その人の一生、人生の為にあると思う」%K%P
 ...We are put on this earth for the purpose of love.
 CN PLACEHOLDER
-Мы рождаемся на этой крохотной голубой планете ради любви.
+...то цель любви, мне кажется, – во всей жизни человека, в его судьбе.
 
 武「生きるとは、恋することだ」%K%P
 To live is to love.
 CN PLACEHOLDER
-Жизнь дана нам, чтобы любить.
+Жить – значит любить.
 
 武「恋の意味を問うことは、人生の意味を問うことに等しい」%K%P
 To ask what is the meaning of love is to ask what is the meaning of life.
 CN PLACEHOLDER
-Спрашивать о смысле любви – значит спрашивать о смысле жизни.
+Задаваться вопросом о смысле любви – значит спрашивать о смысле жизни.
 
 ゆっくりと、空の唇から手を退けた。%K%P
 I slowly removed my hand from her lips.
@@ -1406,12 +1410,12 @@ CN PLACEHOLDER
 武「どっかの受け売りだったかもしれないが、あながち間違いじゃないと思ってる」%K%P
 I might have borrowed bits and pieces from elsewhere, but I don't think it's all wrong.
 CN PLACEHOLDER
-Может я и собрал всё из деталей, что первыми попались под руку, но не думаю, что совсем не прав.
+Может, я это откуда-то подхватил – но думаю, что в этом есть своя правда.
 
 武「いや……、俺はそう、信じてるよ」%K%P
 No... Actually, I believe it's right.
 CN PLACEHOLDER
-Нет... на самом деле, я верю, что прав.
+Нет... на самом деле, я верю в это.
 
 武「わかるか、空？」%K%P
 Did you understand what I said, Sora?
@@ -1426,17 +1430,17 @@ CN PLACEHOLDER
 空「薔薇は咲く為に生まれた」%K%P
 Roses are born to blossom.
 CN PLACEHOLDER
-Роза рождается чтобы цвести.
+Роза рождена, чтобы цвести.
 
 空「カナリアは唄う為に生まれた」%K%P
 Canaries are born to sing.
 CN PLACEHOLDER
-Канарейка рождается чтобы петь.
+Канарейка рождена, чтобы петь.
 
 空「人は恋する為に生まれた」%K%P
 Humans are born to love.
 CN PLACEHOLDER
-Люди рождаются чтобы любить.
+Люди рождаются, чтобы любить.
 
 空「……そう考えるのは、とても素敵なことですね」%K%P
 I think that is a beautiful way of thinking.
@@ -1451,17 +1455,17 @@ CN PLACEHOLDER
 空「もし、薔薇に意識があるとしても、薔薇自身は咲く為に生きているとは思っていないでしょう」%K%P
 However, even if a rose is born to bloom, I don't believe that a rose knows this.
 CN PLACEHOLDER
-Однако, даже если роза рождается чтобы цвести, вряд ли она об этом знает.
+Даже если бы роза обладала сознанием, она, вероятно, не считала бы, что живёт исключительно для того, чтобы цвести.
 
 空「もし、カナリアに意識があるとしても、カナリア自身は唄う為に生きているとは思っていないでしょう」%K%P
 And I don't believe a canary believes its purpose to sing.
 CN PLACEHOLDER
-Как и не верит канарейка, что рождается для пения.
+Даже если бы канарейка обладала сознанием, она, вероятно, не считала бы, что живёт исключительно ради пения.
 
 空「けれど人間から見れば、薔薇の生命の目的は咲くことにのみ存在するかのごとく思えるし……」%K%P
 But from the eyes of a human, it might appear that the only purpose of a rose is to blossom.
 CN PLACEHOLDER
-Но с человеческой точки зрения, кажется, что единственное предназначение розы – цвести.
+Но с человеческой точки зрения кажется, что единственное предназначение розы – цвести...
 
 空「カナリアの一生の目的は、美しく唄うことにのみ存在するように思えてしまう」%K%P
 Similarly, from the eyes of a human, it might appear that the only purpose of a canary is to sing.
@@ -1486,7 +1490,7 @@ CN PLACEHOLDER
 空「人は恋する為に、ただそれだけの為に、生きているように思えます」%K%P
 ...I believe they are mistaken. It would seem to me that people only live to love.
 CN PLACEHOLDER
-...я верю, что они ошибаются. Мне кажется, люди живут лишь ради любви.
+Я верю – они ошибаются. Люди живут исключительно ради любви.
 
 空「そういうこと、なのかもしれません」%K%P
 It could be that is how things are.
@@ -1496,12 +1500,12 @@ CN PLACEHOLDER
 イルカ達の動きは段々スローになる。%K%P
 The movements of the dolphins gradually began to slow.
 CN PLACEHOLDER
-Вращение дельфинов постепенно стало замедляться.
+Дельфины постепенно замедлились.
 
 カルセル・デルフィーネは徐々に回転を遅めていき、そして、音もなく止まった。%K%P
 The music faded to a stop as the Dolphin Carousel continued to slow.
 CN PLACEHOLDER
-Музыка стихла вместе с остановкой Дельфиньей карусели.
+Карусель в итоге полностью остановилась, замерев в тишине.
 
 武「あれ、これにて終了か……？」%K%P
 Oh? Is this it...?
@@ -1521,7 +1525,7 @@ CN PLACEHOLDER
 武「結構楽しかったな、イルカ。また一緒に乗ろうか」%K%P
 But that was fun. Let's come ride these dolphins again sometime.
 CN PLACEHOLDER
-Было весело. Давай потом как-нибудь ещё разок оседлаем этих дельфинчиков.
+Было весело. Давай потом как-нибудь ещё разок покатаемся на них.
 
 武「なかなか有意義な話もできたし……あれ？」%K%P
 That was a pretty deep conversation we just had... Sora?
@@ -1551,7 +1555,7 @@ CN PLACEHOLDER
 空の視線は、虚空を見上げる。%K%P
 Sora looked up absently.
 CN PLACEHOLDER
-Сора отсутствующе устремила взгляд наверх.
+Взгляд Соры устремлён в пустоту.
 
 そこには何もない。%K%P
 But there was nothing in the air where she was looking.
@@ -1581,12 +1585,12 @@ CN PLACEHOLDER
 空「私は何の為に、生まれてきたのでしょうか？」%K%P
 Why was I created?
 CN PLACEHOLDER
-Я вот думаю... зачем меня создали?
+Зачем меня создали?
 
 空「私が生きていることの目的は、いったい何なのでしょう？」%K%P
 What is the purpose of my being alive?
 CN PLACEHOLDER
-С какой целью?.. Каково моё предназначение?
+В чём смысл моего существования?
 
 曲は鳴り止み、音は消えていた。%K%P
 With the music stopped, the room was quiet.
@@ -1596,12 +1600,12 @@ CN PLACEHOLDER
 色とりどりの電飾だけが、光を奏でていた。%K%P
 Different colored lights played off of the carousel.
 CN PLACEHOLDER
-Разноцветные огоньки потухли.
+Лишь разноцветные огни играли светом.
 
 イルカの上に、光は少し寂しげな横顔を映した。%K%P
 The light reflected a hint of sadness off of Sora's face.
 CN PLACEHOLDER
-Свет отражает намёк на грусть на лице Соры.
+На спине дельфина свет отразил чуть печальный профиль.
 
 武「…………」%K%P
 .........
@@ -1616,12 +1620,12 @@ CN PLACEHOLDER
 空「ちょっと訊いてみたかっただけです……」%K%P
 ...Curious about it.
 CN PLACEHOLDER
-...просто мысли вслух.
+...Мне просто было любопытно.
 
 空は何事もなかったように微笑んで、イルカを降り、俺の隣に並ぶ。%K%P
 Sora laughed as if nothing had happened, got off her dolphin, and came up next to me.
 CN PLACEHOLDER
-Сора засмеялась как ни в чём не бывало, слезла с дельфина и подошла ко мне.
+Сора улыбнулась как ни в чём не бывало, слезла с дельфина и встала рядом со мной.
 
 俺は答えられなかった。%K%P
 I didn't know what to say.
@@ -1631,17 +1635,17 @@ CN PLACEHOLDER
 空の生きる目的とは――？%K%P
 What was her purpose?
 CN PLACEHOLDER
-Каково её предназначение?
+В чём смысл существования Соры?
 
 その答えを今、ここに見つけられなかった。%K%P
 At that point, I just couldn't find an answer to that question.
 CN PLACEHOLDER
-Сейчас я просто не могу найти ответа на этот вопрос.
+Сейчас я не смогу найти ответ на этот вопрос.
 
 ただイルカ達に背を向け、そのまま暗い出口へと歩を進めることしかできなかった。%K%P
 All I could do was turn my back to the dolphins and head toward the dark exit.
 CN PLACEHOLDER
-Я лишь повернулся в противоположную от дельфинов сторону и направился к тёмному выходу...
+Я лишь повернулся к дельфинам спиной и направился к тёмному выходу...
 
 そして、俺は天を仰いだ。%K%P
 As I did, I looked skyward.
