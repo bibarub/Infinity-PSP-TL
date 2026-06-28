@@ -1,7 +1,7 @@
 ﻿二度寝した朝は寝覚めが悪い。%K%P
 It was really hard to wake up after falling back asleep.
 CN PLACEHOLDER
-Да уж, попробуй-ка проснуться, когда едва-едва уснул.
+Было очень трудно проснуться после того, как я снова заснул.
 
 そして、うまく起きられない朝は腹立たしかった。%K%P
 And when I couldn't get up, I'd get irritated.
@@ -11,7 +11,7 @@ CN PLACEHOLDER
 よく眠れなかった本来の理由は、もはや忘却の彼方にあった。%K%P
 The reason I couldn't sleep was beyond me.
 CN PLACEHOLDER
-Причина, по которой я не могу уснуть, за гранью моего понимания.
+Причина, по которой я не могу уснуть, покинула мою память.
 
 『眠れない原因そのものが気になって眠れない』%K%P
 I probably couldn't sleep because I was so caught up in not being able to sleep.
@@ -31,12 +31,12 @@ CN PLACEHOLDER
 幸い、やや気だるさは残るものの、眠くてたまらないというわけではなかった。%K%P
 I was still groggy, but thankfully, I wasn't so sleepy that it was driving me crazy.
 CN PLACEHOLDER
-К моей радости, хоть я и чувствую усталость, но дикой сонливости я не ощущал.
+К счастью, хотя я все еще чувствовал небольшую вялость, сонливость не была настолько сильной, чтобы быть совсем невыносимой.
 
 自分の手を握ったり開いたりしてみる。%K%P
 I opened and closed my hand.
 CN PLACEHOLDER
-Я разжал и сжал ладонь.
+Я сжал и разжал ладонь.
 
 身体の調子は悪くない……。%K%P
 My body seemed to be in pretty good shape...
@@ -61,7 +61,7 @@ CN PLACEHOLDER
 俺は勢いをつけ、寝床から跳ね起きた。%K%P
 Mustering up my strength, I jumped out of bed.
 CN PLACEHOLDER
-Собрав всю силу в кулак, я вскочил с кровати.
+Я собрался с силами и поднялся.
 
 音声変換機を耳に突っ込みなおす。%K%P
 I re-inserted the voice converter into my ear.
@@ -81,7 +81,7 @@ CN PLACEHOLDER
 武「……誰もいない！？」%K%P
 ...No one's here!?
 CN PLACEHOLDER
-...а где все?!
+...А где все?!
 
 会議室は無人だった。%K%P
 The conference room was empty.
@@ -96,7 +96,7 @@ CN PLACEHOLDER
 ＰＤＡのディスプレイを恐る恐る見る。%K%P
 I checked my PDA display anxiously.
 CN PLACEHOLDER
-Взволновавшись не на шутку, я сверился с часами на своём КПК.
+Я осторожно сверился с часами на своём КПК.
 
 間もなく午前９時になろうとしていた……。%K%P
 It was just shy of 9 a.m....
@@ -106,17 +106,17 @@ CN PLACEHOLDER
 優「おーーーーそぉーーーーいーーーーっ！！」%K%P
 You are so laaaaaaate!
 CN PLACEHOLDER
-Ты опоздал!
+Ты о-поз-да-а-а-ал!
 
 タツタ売店前には、優が仁王立ちしていた。%K%P
 You was standing guard in front of the kiosk.
 CN PLACEHOLDER
-Ю аки тюремный надзиратель стоит перед киоском.
+Перед киоском стояла Ю – руки в боки, ноги на ширине плеч.
 
 少年とココ、ピピも近くに座って待っていた。%K%P
 The Kid, Coco, and Pipi were sitting and waiting.
 CN PLACEHOLDER
-Малой, Коко и Пипи притихши сидят и ждут.
+Малой, Коко и Пипи тихо сидят и ждут.
 
 優「遅い遅い遅い遅いっ！」%K%P
 Late, late, late, late!
@@ -126,12 +126,12 @@ CN PLACEHOLDER
 優「たるんでるぞぅ〜、倉成ぃ〜」%K%P
 Kuranari, you're a total mess.
 CN PLACEHOLDER
-На тебя нельзя положиться, Куранари.
+Куранари-и-и, на тебя нельзя положиться...
 
 優はなんだか頬を膨らませていた。%K%P
 You's cheeks looked a little swollen.
 CN PLACEHOLDER
-Щёки Ю выглядят слегка надуто.
+Ю, казалось, надула щёки.
 
 武「へいへい、悪ぅござんしたね……」%K%P
 Aw, sorry, my bad...
@@ -141,42 +141,42 @@ CN PLACEHOLDER
 優「もう、待ちくたびれたぞぉ〜」%K%P
 We've been waiting forever!
 CN PLACEHOLDER
-Ёлки-палки, мы думали ты уже не придёшь!
+Мы тебя уже заждали-и-ись!
 
 優「お腹減ったぞぉ〜」%K%P
 I'm starving...
 CN PLACEHOLDER
-Я пухну с голоду...
+Я такая голо-о-одная...
 
 優「嫌だわ。これで本当にお腹と背中がくっついてしまったら、倉成のせいなんだわ……」%K%P
 Look, if my belly actually sticks to my spine, I'm holding you personally responsible...
 CN PLACEHOLDER
-Ну гляди, Куранари, если мой живот прилипнет к позвоночнику, ты ответишь по всем статьям...
+Это ужасно. Куранари, если из-за тебя мой живот прилипнет к позвоночнику...
 
 優「おお、神よ！」%K%P
 Dear Lord!
 CN PLACEHOLDER
-Ой, Боже!
+Ой, боги!
 
 優「お腹と背中がくっついて、平べったくなって、そよ風に乗ってインド洋の向こうまで飛んで行く私の不幸をお許しください」%K%P
 Remember me when I waste away to almost nothing and am blown by the wind across the Pacific!
 CN PLACEHOLDER
-Прими меня в райском саду, когда моё тело истончает и его развеет ветром по Тихому океану!
+Простите меня несчастную – живот слипся со спиной, стала плоской как лист и улетела на попутном ветерке куда-то за Индийский океан.
 
 武「そよ風ごときで飛べるんか、お前の身体？」%K%P
 You're worried about being blown away by the WIND?
 CN PLACEHOLDER
-Боишься, что тебя унесёт ВЕТРОМ?
+Боишься, что тебя сдует?
 
 武「メキシコ製の巨大ツイスターでも持ってこないと無理じゃないか？」%K%P
 I think it'd probably take a hurricane to carry you off.
 CN PLACEHOLDER
-Да твою тушу и ураган поднимет с трудом.
+Ну, с тобой справится разве что какой-нибудь мексиканский торнадо.
 
 優「……さりげなくひどいこと言ってない？　倉成……」%K%P
 ...You're a real gentleman, Kuranari.
 CN PLACEHOLDER
-Какой же ты всё-таки добрый, Куранари.
+...Не слишком ли это мерзко, а, Куранари?..
 
 優は何故か肩を落とす。%K%P
 You's shoulders sagged for some reason.
@@ -186,7 +186,7 @@ CN PLACEHOLDER
 武「つーかだなぁ……なんだよ、まだみんな、メシ食ってないのか？」%K%P
 I can't believe you guys haven't eaten yet.
 CN PLACEHOLDER
-Вы что, до сих пор ничего не ели? Весело.
+Вы что, до сих пор ничего не ели?
 
 俺は皆を見渡しながら言った。%K%P
 I looked around at them.
@@ -206,7 +206,7 @@ CN PLACEHOLDER
 少年「少しチャレンジャー過ぎたと言うか、ねぇ……」%K%P
 I'd say we tried a little too hard...
 CN PLACEHOLDER
-Слегка... переборщили что ли...
+Слегка переборщили с экспериментами, что ли...
 
 ピピ「わん？」%K%P
 *Woof*?
@@ -231,7 +231,7 @@ CN PLACEHOLDER
 武「……なんじゃこりゃ」%K%P
 What's going on here?
 CN PLACEHOLDER
-Что такое?
+Что это, чёрт возьми, такое?
 
 なんとも言い表し難い素敵な匂いが立ち込めている……。%K%P
 There was an impossibly delicious smell...
@@ -241,17 +241,17 @@ CN PLACEHOLDER
 まだらに焼け焦げた、マグロのタツタ揚げ。%K%P
 And a blackened, charred piece of fried tuna.
 CN PLACEHOLDER
-...и сожжённые до угля кусочки тунца.
+...и пережаренные до угля кусочки тунца.
 
 赤、黒、緑、そこらじゅうに飛び散っている、粘性のある謎の液体。%K%P
 Red, black, green—everything was splattered with a mysterious fluid.
 CN PLACEHOLDER
-Красное, чёрное, зелёное – всё вокруг забрызгано загадочной жидкостью.
+Красное, чёрное, зелёное – всё вокруг забрызгано загадочными жидкостями.
 
 べたべたとカラフルに彩られた、サンドのバンズ（パン）。%K%P
 The sandwich buns were colorful and sticky.
 CN PLACEHOLDER
-Сэндвичные булки пестрят яркими красками... и липкие на ощупь.
+Булки для сэндвичей пестрят яркими красками.
 
 バンズにタツタと一緒に挟むべきレタスの葉は、何故か繊切りになっていた。%K%P
 The lettuce that normally went into the tuna sandwiches had been diced.
@@ -261,7 +261,7 @@ CN PLACEHOLDER
 こんなおどろおどろしいキッチンを、俺はかつて見たことがない。%K%P
 I'd never seen such a shocking kitchen.
 CN PLACEHOLDER
-Никогда в жизни не лицезрел столь шокирующей кухни.
+Никогда в жизни не лицезрел столь карательной кулинарии.
 
 武「ど、どうしたんだ、これは？」%K%P
 Wh-What exactly happened here?
@@ -281,7 +281,7 @@ CN PLACEHOLDER
 ココ「たけぴょんも食べよう。食べてみよう♪」%K%P
 Let's eat, Takepyon, let's eat〜
 CN PLACEHOLDER
-Такэпён, хочешь? Попробуй, а?
+Такэпён, хочешь? Попробуй!
 
 武「ま、待て！　ちょっと待て！」%K%P
 H-Hey! Wait, wait!
@@ -316,7 +316,7 @@ CN PLACEHOLDER
 少年「おいしいかどうかは……」%K%P
 I don't exactly know if it'll taste GOOD, but...
 CN PLACEHOLDER
-Я НЕ пробовал, но...
+Вкусно ли это...
 
 少年「…………」%K%P
 .........
@@ -336,7 +336,7 @@ CN PLACEHOLDER
 ココ「まぁまぁ、堅いこと言わないの♪」%K%P
 Now, now, let's not be critical〜
 CN PLACEHOLDER
-Ну, ну, не будь столь критичным.
+Ну, ну, не будь таким критичным.
 
 武「…………」%K%P
 .........
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 俺が食事作り担当である理由は、どうやら多数決の結果によるものだけではなかったらしい……。%K%P
 Apparently, there had been a number of reasons why I was in charge of cooking.
 CN PLACEHOLDER
-Надеюсь, больше не возникает вопросов, почему готовлю здесь я.
+Похоже, причина, по которой я отвечаю за готовку, кроется не только в том, что так решило большинство...
 
 優「てなわけでぇ」%K%P
 Alrighty then.
@@ -356,17 +356,17 @@ CN PLACEHOLDER
 優「食後の休憩といきますか」%K%P
 Time for a post-meal break?
 CN PLACEHOLDER
-Время для послеобеденной дрёмы!
+А теперь передохнём после завтрака!
 
 俺達は揃って、憩いの間に移動した。%K%P
 They all trooped over to the rest area.
 CN PLACEHOLDER
-Они все скучковались и пошли до мини-парка.
+Мы все скучковались и пошли до мини-парка.
 
 しかし食事は無事に終えたが……まだ俺の腹の中は、ゴロゴロいっている。%K%P
 I had safely finished eating... but my stomach was still growling.
 CN PLACEHOLDER
-Я без проблем поел... но мой желудок по-прежнему урчит.
+Я без проблем доел свою еду, но... живот всё ещё урчит.
 
 大丈夫だろうか……？？%K%P
 Would I be okay?
@@ -376,7 +376,7 @@ CN PLACEHOLDER
 調理器具の片づけもそれなりに面倒だったが、そちらは皆きちんと協力してすませることができたのが何よりだった。%K%P
 Doing the dishes was an unpleasant job, but with everyone's cooperation, we got the ordeal over and done with.
 CN PLACEHOLDER
-Уборка после готовки – дело неблагодарное, но все вместе мы справились с этим в два счёта.
+Мыть посуду – дело неблагодарное, но все вместе мы справились с этим в два счёта.
 
 ココ「ねぇねぇ、たけぴょん」%K%P
 Hey, hey, Takepyon.
@@ -396,22 +396,22 @@ CN PLACEHOLDER
 俺はココの頭をそっと撫でた。%K%P
 I patted Coco's head.
 CN PLACEHOLDER
-Я похлопал Коко по голове.
+Я нежно погладила Коко по голове.
 
 さっきの売店の片づけの前に、なるべくまともそうなサンドをいくつか選んで、ココに持って行ってもらったのだ。%K%P
 Before I tackled the cleanup, I had picked out some decent sandwiches and had Coco take them over.
 CN PLACEHOLDER
-Прежде чем взяться за уборку, я сделал несколько приличных сэндвичей и попросил Коко отнести их.
+Прежде чем начать убираться, я выбрал несколько прилично выглядящих сэндвичей, и попросил Коко принести их сюда.
 
 病み上がりのつぐみが、食べるかどうかはわからなかったが……。%K%P
 Whether the still-recovering Tsugumi would actually eat them was another story...
 CN PLACEHOLDER
-Сможет ли покамест выздоравливающая Цугуми действительно их съесть – другой вопрос...
+Я не был уверен, что Цугуми, что восстанавливается после болезни, сможет хоть что-то съесть...
 
 武「あ、そうだココ。つぐみの奴、ちゃんと食ってたか？」%K%P
 Hey, Coco, was Tsugumi eating alright?
 CN PLACEHOLDER
-Слушай, Коко, Цугуми хоть поела-то нормально?
+Ах да, Коко. Цугуми-то хоть поела нормально?
 
 ココ「うん。なんかね、すごくお腹減ったって言ってた。３個くらい食べてたよ」%K%P
 Yeah, she said she was really hungry. I think she ate three.
@@ -421,12 +421,12 @@ CN PLACEHOLDER
 武「ふーん……。そっか、メシ食えるところまでは回復したんだな」%K%P
 Hm... Well, I guess she's gotten well enough to eat then.
 CN PLACEHOLDER
-Хм-м... Ну, надо полагать, состояние улучшилось, если она способна есть.
+Хм-м... Понятно. Видать, её стало лучше достаточно, чтобы есть.
 
 ココ「つぐみん、早く元気になりそうだね」%K%P
 She's getting better pretty fast, don't you think?
 CN PLACEHOLDER
-Цугуми поправляется очень быстро, правда?
+Цугумин, похоже, скоро поправится.
 
 武「ああ……」%K%P
 Yeah...
@@ -446,7 +446,7 @@ CN PLACEHOLDER
 ちゃんと食事をとったってことは……つぐみ自身が生きようとしてる証拠に違いなかった。%K%P
 The fact that she was eating meant that at least her body was determined to live.
 CN PLACEHOLDER
-То, что она ест, говорит о том, что, по крайней мере, её тело жить хочет.
+То, что она ест, говорит о том, что по крайней мере её тело жить хочет.
 
 このままきちんと快復しさえすれば、問題は何も――%K%P
 If she would just continue that tendency and get well, I thought there'd be no more problems...
@@ -461,37 +461,37 @@ CN PLACEHOLDER
 『あらゆる生命活動に伴う欲望はけがらわしい』%K%P
 “All the things that keep us alive, the things that drive us, are filthy.”
 CN PLACEHOLDER
-«Всё, ради чего мы живём – грех.»
+«Любые влечения, возникающие в процессе жизни, отвратительны.»
 
 『清廉潔白な命なんて存在しない』%K%P
 “There is no such thing as a life of purity.”
 CN PLACEHOLDER
-«Нет такой вещи, как безгреховная жизнь.»
+«Жизнь не может быть абсолютно непорочна и чиста.»
 
 あいつは、確かにそう言っていた。%K%P
 She said something along those lines.
 CN PLACEHOLDER
-Аппетиты, важные для поддержания жизни, есть зло.
+Она точно это говорила.
 
 それなのに……。%K%P
 But then...
 CN PLACEHOLDER
-Но значит...
+И всё равно...
 
 あれだけ言い張っておきながら、今朝は平気な顔してサンドをしっかり３個も平らげたなんて……？%K%P
 Despite that, she demolished three whole sandwiches without even thinking about it...?
 CN PLACEHOLDER
-В конце концов, она без промедления схавала за раз три сэндвича, так?
+После всего, что наговорила – и вот тебе, утром как ни в чём не бывало уплела три сэндвича.
 
 まぁ、俺も『つぐみだって何か食べなくちゃマズいだろうなー』と思って、ココがサンドを持ってくことを許可したんだけど……。%K%P
 Well, then again, I was the one who told Coco to take the sandwiches down because it would be bad if she didn't eat something...
 CN PLACEHOLDER
-Ну, ладно, это я попросил Коко отнести их Цугуми, потому что «Будет плохо, если она не подкрепится...»
+Ну, ладно, это я попросил Коко отнести их Цугуми, а то «ей тоже надо поесть хоть что-нибудь...»
 
 俺自身だって、そうやって矛盾しちゃってるけど……。%K%P
 So I was contradicting my earlier stance too, but...
 CN PLACEHOLDER
-Выходит, я тоже поступил вразрез со своей предыдущей позицией, но...
+Я тоже поступил вразрез со своей предыдущей позицией, но...
 
 でもそれって、やっぱりおかしいじゃないか！%K%P
 Something strange was going on!
@@ -506,22 +506,22 @@ CN PLACEHOLDER
 何が『偽善者』だよ……。%K%P
 The word “hypocrite” came to mind...
 CN PLACEHOLDER
-В голову пришло слово «лицемер»...
+Какой ещё «лицемер»...
 
 だったら、お前はいったい何様なんだ！？%K%P
 Then what on earth was she supposed to be!?
 CN PLACEHOLDER
-И кто теперь лицемер, Цугуми?!
+Ну а сама-то кто тогда ты?!
 
 つぐみの奴……まったく、何考えてるんだよ……！！%K%P
 Tsugumi... What was she thinking...!?
 CN PLACEHOLDER
-Цугуми... да что же творится у тебя в башке!
+Цугуми, чёрт возьми... да что же творится у тебя в башке?!
 
 胸にモヤモヤとした引っかかりと、憤りを、感じずにはいられなかった。%K%P
 I couldn't help but feel resentment rising in my chest.
 CN PLACEHOLDER
-В груди растёт чувство обиды, ничего не могу с собой поделать.
+В груди растёт какое-то гнетущее чувство – и злость не отпускала.
 
 ココ「どうしたの、たけぴょん？」%K%P
 What's the matter, Takepyon?
@@ -531,17 +531,17 @@ CN PLACEHOLDER
 ココ「なんか怖ーい顔してる……？」%K%P
 Your face got all scary for a moment...
 CN PLACEHOLDER
-Твой взгляд меня пуга-а-ает...
+Чего у тебя такое устрашающее лицо?..
 
 武「あ……いや、なんでもないよ」%K%P
 Ah, it's nothing.
 CN PLACEHOLDER
-Э-э, прости.
+А-а, прости.
 
 不機嫌を顔に出さないようにしたかった。%K%P
 I didn't want to show my sullen mood.
 CN PLACEHOLDER
-Я не хочу выказывать своё угрюмое настроение.
+Хотелось не выдавать своего раздражения.
 
 いつまでもあんな奴のことを考えていたくない。%K%P
 I didn't even want to be thinking about her anymore.
@@ -551,22 +551,22 @@ CN PLACEHOLDER
 俺は心のモヤモヤを、手で隅っこに追い払った。%K%P
 Waving with one hand, I tried my best to sweep my mood away.
 CN PLACEHOLDER
-Отмахнувшись одной рукой, я сделал всё возможное, чтобы смести прочь это чувство напряжённости.
+Я махнул рукой, чтобы развеять тревогу в сердце и отодвинуть её в угол.
 
 ココ「そっか、よかったー♪」%K%P
 Oh, good〜
 CN PLACEHOLDER
-Вооот, так-то лучше –!
+Во-о-от, так-то лучше!
 
 ココ「さっきのサンド食べて、お腹壊したのかと思っちゃったぁ♪」%K%P
 I thought maybe those sandwiches had given you a tummy ache〜
 CN PLACEHOLDER
-А то я уже боялась, что от этих сэндвичиков твой животик бобо!
+А то я уже испугалась, что от этих сэндвичей твой животик бобо!
 
 武「なっ！　何か腹を壊しそうなものでも入ってたのか……？」%K%P
 Why!? Did you put something in there that would make me sick?
 CN PLACEHOLDER
-П-почему? Вы положили туда нечто, от чего может стать плохо?
+П-почему? Вы положили туда что-то, от чего может стать плохо?
 
 ココ「ええっ、た、たけぴょん……訊きたい？」%K%P
 Well, Takepyon, do you really want to know?
@@ -586,7 +586,7 @@ CN PLACEHOLDER
 武「ダ、ダメだ！　やっぱり何も言うな、知りたくない」%K%P
 No, stop! Don't tell me, I don't want to know.
 CN PLACEHOLDER
-Нет, стой! Не говори, мне это не интересно.
+Нет, стой! Не говори, мне это неинтересно.
 
 想像しただけで、胃が痛くなってしまった……。%K%P
 Just imagining the possibilities was making my stomach hurt...
