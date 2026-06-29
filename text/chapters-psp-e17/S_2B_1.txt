@@ -1731,12 +1731,12 @@ CN PLACEHOLDER
 少年「でも、暗い部屋の中にひとりでいるときとか、誰かの視線を感じたこととかない？」%K%P
 But haven't you ever felt somebody's eyes on you when you were in a room all alone?
 CN PLACEHOLDER
-Но разве ты никогда не чувствовала, будто кто-то смотрит на тебя, когда была одна в комнате?
+Разве ты никогда не чувствовала на себе чей-то взгляд, когда находилась одна в тёмной комнате?
 
 優「視線？」%K%P
 Eyes?
 CN PLACEHOLDER
-Смотрит?
+Чей-то взгляд?
 
 少年「うん、まるで後ろの方から、誰かに見られてるような……」%K%P
 Yeah. Like someone was watching you from behind...
@@ -1761,7 +1761,7 @@ CN PLACEHOLDER
 優「妄想の産物。本人の興味や精神状態が生み出した幻想ってこと」%K%P
 A product of an overzealous mind. A delusion spawned by the mental state of the person.
 CN PLACEHOLDER
-Порождение перетрудившегося разума. Иллюзия, вызванная душевным состоянием человека.
+Порождение заблуждений. По сути иллюзий, вызванных интересами и психическим состоянием человека.
 
 少年「気のせいだって言うわけ？」%K%P
 You mean my mind is playing tricks on me?
@@ -1786,7 +1786,7 @@ CN PLACEHOLDER
 優「行き過ぎると、妄想と現実とがごっちゃになっちゃう」%K%P
 Taken to extremes, there is no distinguishing between reality and delusions.
 CN PLACEHOLDER
-Добились того, что стало невозможным отличить реальность от иллюзий.
+В крайних случаях различие между заблуждениями и реальностью становится неразличимым.
 
 少年「…………」%K%P
 .........
