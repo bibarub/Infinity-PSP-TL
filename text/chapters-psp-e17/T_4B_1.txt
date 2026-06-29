@@ -586,7 +586,7 @@ CN PLACEHOLDER
 武「ダ、ダメだ！　やっぱり何も言うな、知りたくない」%K%P
 No, stop! Don't tell me, I don't want to know.
 CN PLACEHOLDER
-Нет, стой! Не говори, мне это неинтересно.
+Не-не-нет! Лучше ничего не говори, не хочу знать!
 
 想像しただけで、胃が痛くなってしまった……。%K%P
 Just imagining the possibilities was making my stomach hurt...
@@ -596,17 +596,17 @@ CN PLACEHOLDER
 結局、あれは強がりのひとつに過ぎなかったのだろう。%K%P
 Tsugumi was probably always just pretending to be tough.
 CN PLACEHOLDER
-Похоже, Цугуми всё это время лишь притворялась непробиваемой.
+А что касается Цугуми, похоже, всё это было лишь показухой.
 
 ひどいことを言って他人をあえて遠ざけようとするのは、あいつの悪い癖だ。%K%P
 Distancing people by saying awful things was one of her bad habits.
 CN PLACEHOLDER
-Отталкивать от себя людей холодными словами и руганью – одна из её дурных привычек.
+У неё довольно дурная привычка нарочно говорить гадости, чтобы держать людей от себя на расстоянии.
 
 ちゃんと食事をとったってことは……つぐみ自身が生きようとしてる証拠に違いなかった。%K%P
 The fact that she was eating meant that at least her body was determined to live.
 CN PLACEHOLDER
-Если она ест... это доказывает, что Цугуми хочет жить.
+Раз она поела как следует... Это наверняка означает, что Цугуми сама хочет жить.
 
 このままきちんと快復しさえすれば、問題は何もない。%K%P
 As long as she recovered completely, there would be no more problems.
@@ -621,27 +621,27 @@ CN PLACEHOLDER
 俺は胸のつかえが下りた気がした。%K%P
 I felt my chest relax in relief.
 CN PLACEHOLDER
-Я почувствовал, как от живота отлегло.
+Словно упал камень с души.
 
 ココ「なんかホッとした顔してるね、たけぴょん」%K%P
 You just got a happy look on your face, Takepyon.
 CN PLACEHOLDER
-Твоё лицо прямо таки сияет радостью, Такэпён.
+Да ты прям светишься, Такэпён.
 
 武「え、そうか？」%K%P
 Oh, really?
 CN PLACEHOLDER
-Ой, неужели?
+О, неужели?
 
 ココ「つぐみんのこと、すっごく心配だったんだよね……？」%K%P
 You were really worrying about Tsugumin, huh...?
 CN PLACEHOLDER
-Цугумин... ты ведь беспокоишься о ней, правда?..
+Ты ведь переживаешь из-за Цугумин, да?..
 
 きっちり指摘されると、俺はなんだかごまかしたくなった。%K%P
 Feeling so transparent made me want to conceal the truth.
 CN PLACEHOLDER
-Не желая отождествлять себя с прозрачным стеклом, я решил не говорить Коко правду.
+Она попала прямо в точку – и мне тут же захотелось уйти от ответа.
 
 武「違う違う、そうじゃない」%K%P
 No, no, it's not that.
@@ -666,7 +666,7 @@ CN PLACEHOLDER
 ココ「たけぴょんのサンド、実はココが作ったのだぴょーん♪」%K%P
 Actually, I made your sandwich all by my very own self〜
 CN PLACEHOLDER
-Такэпён, между прочим, Коко сама сделала сэндвич, который ты съел!
+Такэпён, между прочим, я сама сделала сэндвич, который ты съел!
 
 ココ「ふっふっふ、あれはねぇ〜〜……」%K%P
 Heehee, you see...
@@ -676,22 +676,22 @@ CN PLACEHOLDER
 ココ「秘伝のソースがたっぷりかかっているのだぴょろーん♪」%K%P
 I used lots of my secret sauce〜
 CN PLACEHOLDER
-Я щедро налила туда своего фирменного секретного соуса!
+Там был мой секретный соус, и много, та-дам!
 
 ココ「マヨネーズとぉ、マスタードとぉ、かにみそとぉ、練りワサビっ」%K%P
 Mayo, mustard, horseradish...
 CN PLACEHOLDER
-Майонез, горчицу, хрен... а ещё...
+Майонез, горчица, крабовая паста и васаби...
 
 ココ「それからタツタ揚げには塩コショウして、しょう油ちびっと垂らして、バターたっぷり塗ってぇ」%K%P
 And then some salt and pepper, and a dab of soy sauce, and lots of butter...
 CN PLACEHOLDER
-А ещё... соль, перец, капельку соевого соуса и много подсолнечного масла...
+А тунца – посолить, поперчить, добавить капельку соевого соуса и побольше масла.
 
 ココ「焼けたらシナモンとカルダモンとターメリックとナツメグとバニラエッセンスをまぜまぜして振りかけてぇ」%K%P
 Then, when it was done, cinnamon and cardamon and turmeric and nutmeg and vanilla, all shaken together and poured!
 CN PLACEHOLDER
-А ещё... корицу, кардамон, куркуму, мускатный орех, ваниль... всё это как следует перемешала!..
+Как поджарится – смешать корицу, кардамон, куркуму, мускатный орех и ванильный экстракт и посыпать сверху!
 
 ココ「それから、それから、えーと……なんだっけ？」%K%P
 And then, then... What was it again?
@@ -701,7 +701,7 @@ CN PLACEHOLDER
 ココ「七味と、カレー粉と、ラー油と……なんかピピが見つけてきたチューブを、適当ぉ〜にぬりぬりしてぇ」%K%P
 Allspice, and curry, and hot sauce... and some tube of something Pipi found, we used lots of that...
 CN PLACEHOLDER
-Ямайский перец, карри, острый соус... и пару-тройку тюбиков с чем-то, что нашёл Пипи... да много чего...
+Семь специй, карри, чили и… какой-то тюбик, который нашёл Пипи, – всё это намазать как получится.
 
 ココ「そこに！　すかさず、レタスの繊切りを間に挟むっ！」%K%P
 And then we stuck the lettuce in between!
@@ -711,22 +711,22 @@ CN PLACEHOLDER
 ココ「豪勢っしょ？　なかなか見た目も、綺麗だったっしょ？」%K%P
 Magnificent, right? And pretty too.
 CN PLACEHOLDER
-Восхитительно, правда? И прикольно!
+Восхитительно, правда? И выглядит вроде неплохо?
 
 ココ「ココ、味見しなかったから、ちょこっとドキドキもんだったんだけどぉ……」%K%P
 I didn't actually taste it, so I was a bit nervous...
 CN PLACEHOLDER
-Ну, если бы я сначала не попробовала, то, наверное, испугалась бы одного вида...
+Я сама не пробовала, так что малясь переживала...
 
 ココ「そっかぁ！　あれ、おいしかったんだ……？」%K%P
 But you said it was delicious, right?
 CN PLACEHOLDER
-Ух ты, значит, на вкус оно было ништяк?..
+Так, значит, было правда вкусно?
 
 ココ「じゃ、次の食事もココが作ろっかな。いいかなぁ？」%K%P
 Well, maybe I should make the next meal then?
 CN PLACEHOLDER
-Слушай, а почему бы Коко не приготовить новый завтрак? Как считаешь?
+Может, тогда я приготовлю и на обед? Как считаешь?
 
 武「…………」%K%P
 .........
@@ -741,7 +741,7 @@ CN PLACEHOLDER
 聞いてるだけで、胃が痛くなってしまった……。%K%P
 Just listening to her was making my gut ache...
 CN PLACEHOLDER
-От одних только слов Коко, мой желудок взвыл...
+От одних только слов Коко мой желудок взвыл...
 
 気を取り直して、俺は少年と優の座るベンチに近づいていく。%K%P
 Gathering my wits, I went to the bench where You and the Kid were sitting.
@@ -761,12 +761,12 @@ CN PLACEHOLDER
 優「ああ、何か脱出の手がかりがないかどうか、もう一度調べてくるって言ってた」%K%P
 She went to go look again to see if she can find some clue to help us escape.
 CN PLACEHOLDER
-Да снова пошла посмотреть, сможет ли найти хоть какую-нибудь возможность для нашего спасения.
+А, сказала, что снова поищет способы выбраться отсюда.
 
 優「３階のセンサーの反応が、少しマシになったらしいから……」%K%P
 From what she said, the sensors on the third floor are working a little bit better...
 CN PLACEHOLDER
-Судя по её словам, сенсоры на третьем этаже заработали чуточку лучше...
+Ещё говорит, сенсоры на третьем этаже заработали получше...
 
 少年「ふーん……」%K%P
 Hmmm...
@@ -776,22 +776,22 @@ CN PLACEHOLDER
 武「空に会ったのか、優？」%K%P
 Did you see Sora, You?
 CN PLACEHOLDER
-Ю, ты с Сорой виделась?
+Ю, ты виделась с Сорой?
 
 俺は少年と優の前に割り込んで入った。%K%P
 I cut in front of them.
 CN PLACEHOLDER
-Я вклинился в разговор.
+Я встал рядом с Ю и Малым.
 
 優「え？　ああ、倉成が売店に来る前に少し、ね」%K%P
 Huh? Oh yeah, for a minute, before you came to the kiosk.
 CN PLACEHOLDER
-Чаво? Ах да, как раз перед тем, как ты подошёл к киоску.
+Э-э? Ах да, как раз перед тем, как ты подошёл к киоску.
 
 武「そうか……空、他に何か言ってたか？　態度とか、変わった様子はなかった？」%K%P
 I see... Did Sora say anything else? Did she seem different somehow?
 CN PLACEHOLDER
-Ясненько... Сора сказала что-нибудь ещё? Она не казалась странной?
+Вот как... Сора сказала что-нибудь ещё? Она не казалась странной?
 
 優「ううん、別に。普段どおりだったよ」%K%P
 No, not really. Same as always.
@@ -811,7 +811,7 @@ CN PLACEHOLDER
 優「んー……？　倉成、空になにかしたの？」%K%P
 Hm...? Kuranari, did you do something to her?
 CN PLACEHOLDER
-Хм-м-м?.. Куранари! Ты что-то сделал с Сорой?
+Хм-м?.. Куранари! Ты что-то сделал Соре?
 
 武「な、なんにもしてねーよ！」%K%P
 N-No! Nothing!
@@ -821,12 +821,13 @@ CN PLACEHOLDER
 優「なんかあやし〜い……『なら、いいんだけど』なーんて言っちゃってさぁ」%K%P
 You're acting pretty suspicious. Why'd you say, 'Well, that's good'...?
 CN PLACEHOLDER
-Че-го?! Знаешь, ты ведёшь себя уж слишком подозрительно. С чего бы?..
+Уж больно подозрительно... „Ну и хорошо“, говоришь?
 
 優「ま、チクチク追求するほど、あたしゃー野暮じゃございませんけどねぇ」%K%P
 Not that I'm the type to hound you with questions or anything.
 CN PLACEHOLDER
-Да ладно, не напрягайся. Никто тебя за язык тянуть не собирался.
+Ладно-ладно. Я не до той степени бестактна, чтобы докапываться до сих слов.
+//клод говорит, что тут Ю пытается в какой-то старомодный язык, но в остальном не очень уверен, надо будет подумать
 
 武「…………」%K%P
 .........
@@ -841,7 +842,7 @@ CN PLACEHOLDER
 優「で、実際どうなんですか、倉成さん？」%K%P
 So what's the story, my dear Kuranari-san?
 CN PLACEHOLDER
-Ну, пожалуйста в подробностях, господин Куранари.
+Ну, и как обстоят дела на самом деле, Куранари-сан?
 
 優はマイクを俺に向ける真似をして笑った。%K%P
 She laughed and pretended to hold a microphone to my face.
@@ -851,27 +852,27 @@ CN PLACEHOLDER
 優「今のお気持ちは？」%K%P
 Can you tell me how you're feeling right now?
 CN PLACEHOLDER
-Итак, о чём вы думаете?
+Поделитесь со мной, что чувствуете прямо сейчас?
 
 武「もしこの先何かあっても、お前には絶対しゃべる気がしなさそうだ」%K%P
 I don't care what happens, I'm not talking to you.
 CN PLACEHOLDER
-Ни о чём. И с жёлтой прессой я не разговариваю!
+Вдруг что случится – уж тебе точно не стану рассказывать.
 
 優「へいへい、以上レポーターの田中がお送りしました、っと」%K%P
 This is reporter Tanaka You, reporting live.
 CN PLACEHOLDER
-Это Танака Ю, у нас прямое включение.
+Итак, с вами был репортёр Танака, следите за новостями.
 
 すごすごと、優は透明マイクを引っ込める。%K%P
 She withdrew her invisible microphone.
 CN PLACEHOLDER
-Она отодвинула свой воображаемый микрофон.
+Ю нехотя убрала свой воображаемый микрофон.
 
 少年「あっ、そう言えば……」%K%P
 Hey, that reminds me...
 CN PLACEHOLDER
-Эй, точно...
+О, я тут вспомнил...
 
 少年はふと俺の顔を見て呟いた。%K%P
 The Kid muttered, glancing at me.
@@ -881,12 +882,12 @@ CN PLACEHOLDER
 少年「武、夜中に部屋を抜け出してたみたいだよ」%K%P
 Apparently, Takeshi sneaked out of his room in the middle of the night.
 CN PLACEHOLDER
-Такэси... посреди ночи уходил из комнаты.
+Кажется, Такэси втихушку вылез посреди ночи из Комнаты переговоров.
 
 優「おっ！　事情筋から有力な発言！」%K%P
 Oho! Relevant circumstantial evidence!
 CN PLACEHOLDER
-Ого! Я чую сенсационный эксклюзив!
+Ого! Сенсационное заявление от надёжного источника!
 
 再び優の透明マイクが現れ、今度は少年に向けられる。%K%P
 Next, the invisible microphone was pointed at the Kid.
@@ -896,7 +897,7 @@ CN PLACEHOLDER
 少年「散歩かなぁ、と思ったんだけど」%K%P
 I thought maybe you were sleepwalking.
 CN PLACEHOLDER
-Сначала я решил, что он ходит во сне...
+Сначала я подумал, что он просто решил прогуляться.
 
 少年「武、非常階段を走って上って行ったから……」%K%P
 But you ran up the emergency stairs, so...
@@ -906,12 +907,12 @@ CN PLACEHOLDER
 少年「ぼくはその後すぐ寝ちゃったんだけど、ちょっと気になってたんだ」%K%P
 I went to sleep right after that, but it's been bothering me.
 CN PLACEHOLDER
-Я пошёл спать, но этот факт не давал мне покоя. Правда, не сильно...
+После этого я сразу уснул, но ситуация меня не отпускала.
 
 優「というわけらしいけど、どうなの倉成？」%K%P
 What do you have to say for yourself, Kuranari?
 CN PLACEHOLDER
-Итак, Куранари, Вам есть что сказать в своё оправдание?
+Вот оно как. Дашь комментарий, Куранари?
 
 少年「言いたくなければ、別に構わないと思うけど……？」%K%P
 If you don't want to talk about it, don't worry...
@@ -941,7 +942,7 @@ CN PLACEHOLDER
 武「……はぁ」%K%P
 ...*Sigh*...
 CN PLACEHOLDER
-...*вздох*
+*вздох*
 
 武「わかったわかった、白状してやるよ」%K%p
 Alright, ALRIGHT, I'll confess.
@@ -981,7 +982,7 @@ CN PLACEHOLDER
 武「散歩のつもりで部屋を出たら、空がいきなりやってきて、『つぐみが意識を取り戻しそうだ』って」%K%P
 I was going to take a walk when Sora came up and told me that Tsugumi had woken up.
 CN PLACEHOLDER
-Я хотел прогуляться, но тут появилась Сора, сказала что Цугуми может проснуться в любую секунду...
+Я хотел прогуляться, но тут появилась Сора, сказала, что Цугуми может проснуться в любую секунду...
 
 武「あいつが無理に歩き回ったりしたらヤバいだろ？　慌てて救護室に飛んでったよ、俺は……」%K%P
 I didn't want her to start wandering around and hurt herself, so I rushed right over to the infirmary...
@@ -991,22 +992,22 @@ CN PLACEHOLDER
 優「ああ、そうか、なーんだ……」%K%P
 Oh... Is that it?
 CN PLACEHOLDER
-Ой... вот как... да уж...
+А-а... вот как... да уж...
 
 優「そう言えば確かさっき、空からちょっとだけ聞いたよ。つぐみが目を覚ました時のこと」%K%P
 Actually, I guess I did hear pretty much the same thing from Sora, how Tsugumi woke up.
 CN PLACEHOLDER
-Сказать по правде, я слышала практически то же самое от Соры. О том, что Цугуми проснулась.
+Раз уж мы заговорили об этом, Сора мне сказала почти слово в слово. О том, что Цугуми проснулась.
 
 武「な、何だよお前、知ってたのかよ？」%K%P
 What, so you knew all along?
 CN PLACEHOLDER
-Что?! Ты всё это время знала?
+Что? Так ты знала?
 
 優「ゴメン、ちょっと倉成のことからかってみようかなーと」%K%P
 Sorry, just thought I'd give you a hard time...
 CN PLACEHOLDER
-Прости, Куранари. Просто пыталась поставить тебя в неловкую ситуацию...
+Прости, Куранари. Просто захотелось тебя немного подразнить...
 
 武「ったく……」%K%P
 Man...
@@ -1026,7 +1027,7 @@ CN PLACEHOLDER
 武「でも少年はともかく、優は爆睡してたからな。起こしても無駄だと思ってさ」%K%P
 Well, I don't know about you, Kid, but You was dead to the world. I didn't figure it'd be any good to try to wake you guys up.
 CN PLACEHOLDER
-Ну, не знаю насчёт тебя, Малой, но Ю спала как убитая. Я подумал что будить крепко спящих людей не есть хорошо.
+Ну, не зна, как ты, Малой, но Ю спала как убитая. Подумал, будить её бесполезно.
 
 優「なによぅ」%K%P
 Hey.
@@ -1051,27 +1052,27 @@ CN PLACEHOLDER
 武「ていうか、散歩してたら空に会った。俺は目が冴えてたんで、ツヴァイトシュトックまで一緒にジョギングを」%K%P
 Well, I went for a walk and ran into her. I was awake, so we jogged to Zweiter Stock together.
 CN PLACEHOLDER
-Ну, я прогуливался и натолкнулся на неё. Я был бодр, поэтому мы прошлись вместе до Цвайте Шток.
+Ну, я просто бродил и натолкнулся на неё. Спать не хотелось, поэтому мы слегка пробежались вместе до Цвайте Шток.
 
 少年「ジョギングって感じじゃなかったよ。慌てて走ってた」%K%P
 It didn't sound like jogging. More like you were RUNNING.
 CN PLACEHOLDER
-Прошлись? А по-моему вы БЕЖАЛИ.
+Не было похоже на „слегка“. Ты прям нёсся сломя голову.
 
 少年「音が結構響いてたから……」%K%P
 The sound really echoed.
 CN PLACEHOLDER
-Эхо было громкое.
+Было довольно громко...
 
 武「空の足が異様に速かったから、慌てて追いかけたんだ」%K%P
 Well, you know Sora, she can run so fast, I had to hurry just to keep up.
 CN PLACEHOLDER
-Ну, знаешь, Сора... она бегает так быстро, что мне с трудом удалось её нагнать.
+Ну, Сора помчалась с такой скоростью, что я не мог за ней угнаться.
 
 優「足速いも何も……空って走れるの？」%K%P
 Forget fast... Sora can run?
 CN PLACEHOLDER
-Погоди-ка секунду... Сора может бегать?
+Да неважно, с какой скоростью... Сора может бегать?
 
 少年「…………」%K%P
 .........
@@ -1086,22 +1087,22 @@ CN PLACEHOLDER
 少年「なんで間を置いてから、走って行ったの？」%K%P
 Why did you wait and then run off?
 CN PLACEHOLDER
-Тогда зачем ты ждал, а потом побежал?
+А чего ты ждал, а потом побежал?
 
 武「途中から、切羽詰まったんだよ」%K%P
 At a certain point... it got pretty urgent.
 CN PLACEHOLDER
-В какой-то момент... это дело стало весьма срочным.
+На полпути прижало.
 
 少年「結構長い時間、かかってたみたいだけど」%K%P
 You were gone an awful long time.
 CN PLACEHOLDER
-Тебя очень долго не было.
+Тебя не было очень долго.
 
 武「長いんだよ、俺のトイレは……」%K%P
 Look, sometimes it takes me a long time...
 CN PLACEHOLDER
-Знаешь, иногда бывает и долго...
+Знаешь, иногда это занимает много времени...
 
 少年「わざわざ階段、上がって行ったの？」%K%P
 But why'd you go all the way upstairs?
@@ -1121,7 +1122,7 @@ CN PLACEHOLDER
 武「２階の奥の便器が気に入ってるんだ。あの色、あの形……それに座り心地が最高だね……」%K%P
 The one in the back. The color, the shape, the way it feels when you sit down...
 CN PLACEHOLDER
-Унитаз. Его цвет, форма... А как на нём комфортно сидится...
+Мне нравится туалет в конце коридора на втором этаже. Его цвет, форма... А как на нём удобно сидится...
 
 少年「…………」%K%P
 .........
@@ -1136,7 +1137,7 @@ CN PLACEHOLDER
 少年「痛っ」%K%P
 Ouch.
 CN PLACEHOLDER
-Ай!
+Ай.
 
 俺は少年の頭を、ポンと軽く叩いた。%K%P
 I cuffed him on the head.
@@ -1151,12 +1152,12 @@ CN PLACEHOLDER
 優「そうだよ、プライバシーの侵害だぞ？」%K%P
 Yeah, that's an invasion of privacy!
 CN PLACEHOLDER
-Ну да, вторжение в личную жизнь!
+Ага, это уже вторжение в личную жизнь!
 
 武「あのなぁ優、そういうお前がレポーターごっこを始めたんじゃないか」%K%P
 Listen, You, you're the one who started this with your whole reporter act.
 CN PLACEHOLDER
-Слушай, Ю, а не ты ли, часом, заварила всю эту кашу с дурацким репортажем?
+Эй, Ю, так это ты начала этот свой репортаж, разве нет?
 
 優「あれ、そうだっけ？」%K%P
 Who, me?
