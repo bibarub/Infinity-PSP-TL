@@ -4067,7 +4067,7 @@ CN PLACEHOLDER
 口元を曲げ、笑っているように見えた……。%K%P
 It looked like she was laughing, but her lips curled nastily.
 CN PLACEHOLDER
-Она смеётся, но её губы сжаты в противную гримасу.
+Уголки её губ приподняты, словно в улыбке.
 
 武「おいつぐみ、どこ行くんだよ！」%K%P
 Hey, Tsugumi! Where are you going?
@@ -4242,7 +4242,7 @@ CN PLACEHOLDER
 空によれば、システムは館内残存人数を『６』とはじき出したそうだが、この数字が正しいという保証は、今のところなかった。%K%P
 According to Sora, the system had told her that there were six people in the complex. Still, there was no guarantee that was right.
 CN PLACEHOLDER
-Система сказала Соре, что в сооружении шесть человек. И всё же не было никаких гарантий, что электроника не даёт сбой.
+Со слов Соры, система определила в сооружении шесть человек. И всё же не было никаких гарантий, что информация верна.
 
 もしも誰かを見つけられれば、この閉塞状況も変わるのではないだろうか。%K%P
 I thought that if we found somebody else, it might change our situation.
