@@ -1174,7 +1174,7 @@ CN PLACEHOLDER
 А знаешь, почему?
 
 空「なぜだかわかりますか？」%K%p
-Do you?
+Do you know why that is?
 CN PLACEHOLDER
 Ведь знаешь?
 

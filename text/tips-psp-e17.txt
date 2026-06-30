@@ -1,4 +1,4 @@
-\﻿####################################################################################################
+####################################################################################################
 ~tip~0
 ~jp
 アーティフィシャル・インテリジェンス
@@ -106,7 +106,7 @@ RSD。プログラミングされた膨大な選択肢の中から
 ~en
 Akanegasaki Sora
 ~en~0
-An artificial intellegence with the persona of a system enginneer working in LeMU's development department, created by RSD. Being an exceptionally advanced AI, she selects the most appropriate response from a vast array of programmed options. However, there are still many imperfections. She possesses both the composure of an adult woman and the fragile innocence of a young girl.
+An artificial intelligence with the persona of a system engineer working in LeMU's development department, created by RSD. Being an exceptionally advanced AI, she selects the most appropriate response from a vast array of programmed options. However, there are still many imperfections. She possesses both the composure of an adult woman and the fragile innocence of a young girl.
 ~en~0~
 ~en~1
 By 2034, she has somehow obtained a physical body, but none speak of the truth behind it. If anyone knows the real story, it may only be her former self―who, lacking a physical form, could exist everywhere at once.
