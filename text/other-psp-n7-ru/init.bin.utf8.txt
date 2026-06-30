@@ -56,7 +56,7 @@ Girl
 Security guard
 
 ;1bf4;6;看護師
-Мед-сестра
+Медсестра
 
 ;1bf8;4;少年
 Boy
