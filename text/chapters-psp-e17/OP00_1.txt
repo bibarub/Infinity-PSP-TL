@@ -799,7 +799,7 @@ CN PLACEHOLDER
 А? Чего?
 
 ココ「さっき言おうとしたコメッチョのことだよ」%K%P
-The joke I was just talking about. It's an Ameri-joke.
+The joke I was just talking about. It's a merry joke.
 CN PLACEHOLDER
 Анекдот, о котором я тебе говорю, это „аме-кдот“.
 
@@ -819,7 +819,7 @@ CN PLACEHOLDER
 Нет, не слышал... Что это такое?
 
 ココ「アメリカンジョークのことだってば……米っちょ、米っちょ」%K%P
-An Ameri-joke is an American joke. Get it? 'Ameri-joke'.
+They're American jokes. Get it? 'Ameri-joke'.
 CN PLACEHOLDER
 Аме-кдот – это американский анекдот. Ну, понял? „Аме-кдот“.
 
