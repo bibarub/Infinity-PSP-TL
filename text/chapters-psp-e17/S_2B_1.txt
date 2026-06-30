@@ -1729,12 +1729,12 @@ CN PLACEHOLDER
 И единственная цель, с которой их продолжают рассказывать – развлечь людей.
 
 少年「でも、暗い部屋の中にひとりでいるときとか、誰かの視線を感じたこととかない？」%K%P
-But haven't you ever felt somebody's eyes on you when you were in a room all alone?
+But even alone in a dark room, haven't you felt someone's gaze watching you? 
 CN PLACEHOLDER
 Но разве ты никогда не чувствовала, будто кто-то смотрит на тебя, когда была одна в комнате?
 
 優「視線？」%K%P
-Eyes?
+A gaze? 
 CN PLACEHOLDER
 Смотрит?
 
@@ -1759,7 +1759,7 @@ CN PLACEHOLDER
 Такие вещи – просто игра твоего воображения.
 
 優「妄想の産物。本人の興味や精神状態が生み出した幻想ってこと」%K%P
-A product of an overzealous mind. A delusion spawned by the mental state of the person.
+A product of delusions. Basically illusions spawned from someone's interests and mental state.
 CN PLACEHOLDER
 Порождение перетрудившегося разума. Иллюзия, вызванная душевным состоянием человека.
 
@@ -1784,7 +1784,7 @@ CN PLACEHOLDER
 Благодаря силе воображения люди смогли развиться до сегодняшнего уровня, но в то же время наслали на себя проклятье.
 
 優「行き過ぎると、妄想と現実とがごっちゃになっちゃう」%K%P
-Taken to extremes, there is no distinguishing between reality and delusions.
+Taken to extremes, there's no distinguishing between delusions and reality.
 CN PLACEHOLDER
 Добились того, что стало невозможным отличить реальность от иллюзий.
 
