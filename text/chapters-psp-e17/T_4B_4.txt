@@ -1,7 +1,7 @@
 ﻿やがて３階へと降り立つ。%K%P
 At last, we reached the third floor.
 CN PLACEHOLDER
-Наконец, мы дошли до третьего этажа.
+В итоге мы дошли до третьего этажа.
 
 優はなんだか調べ物があるらしく、少年と一緒に中央制御室にこもっているのだと空から聞いた。%K%P
 I had heard from Sora that You and the Kid were holed up in the central control room because she wanted to figure something out.
@@ -11,12 +11,12 @@ CN PLACEHOLDER
 ココはピピと、どこかに散歩に出かけていると言う。%K%P
 She said that Coco and Pipi had gone off somewhere on a walk.
 CN PLACEHOLDER
-Ещё Сора сказала, что Коко и Пипи ушли прогуляться.
+А Коко и Пипи пошли прогуляться.
 
 武「ふぅん……どこへ行ったのかな？」%K%P
 Hmmm... Wonder where they went?
 CN PLACEHOLDER
-Хм-м-м... интересно, куда это они смылись?
+Хм-м-м... Интересно, куда это они смылись?
 
 と俺が空に訊いたら、空は人差し指を口に当てて微笑んだ。%K%P
 When I asked Sora that, she put her finger to her lips and smiled.
@@ -26,12 +26,12 @@ CN PLACEHOLDER
 空「各自、自習時間ってことで、いいんじゃありませんか？」%K%P
 Shall we say, individual study time?
 CN PLACEHOLDER
-Как насчёт... небольшого частного урока?
+Пусть для остальных это будет чем-то вроде перемены?
 
 会議室には俺達の他に、誰もいなかった。%K%P
 We were the only ones in the conference room.
 CN PLACEHOLDER
-Сейчас мы в Комнате переговоров... одни.
+Кроме нас с Сорой в Комнате переговоров никого.
 
 自習時間……。%K%P
 Study time...
