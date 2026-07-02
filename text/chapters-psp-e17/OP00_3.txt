@@ -219,7 +219,7 @@ CN PLACEHOLDER
 И электронное оборудование, что используется в LeMU, не шибко совместимо с мобильными устройствами.
 
 何より、この施設そのものを、地上と隔離された別世界として演出する目的もあって、館内ではＰＤＡ通信は使えないのだ。%K%P
-But above all else, they didn't allow PDAs to work inside so the facility to enhance the atmosphere of being completely cut-off from the world up above.
+But above all else, they didn't allow PDAs to work inside the facility to enhance the atmosphere of being completely cut-off from the world up above.
 CN PLACEHOLDER
 Более того, оно не позволяет работать КПК внутри, чтобы изолировать сооружение от внешнего мира. Это считается одной из фишек парка.
 
