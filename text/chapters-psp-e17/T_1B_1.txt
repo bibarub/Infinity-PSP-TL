@@ -3209,7 +3209,7 @@ CN PLACEHOLDER
 Особенно это касается личностей демонстративных, с патологической тягой к вранью.
 
 数日〜１、２ヶ月のうちに自然にあるいは催眠療法や電撃療法で回復してくる。%T030%K%N
-Recovery normally occurs naturally within a span of a few days to one or two months, in a few days or months, or with the help of hypnosis or electroshock therapy.
+Recovery normally occurs naturally within a span of a few days to one or two months, in a few days or months, or with the help of hypnosis or electroshock therapy.%T030%K%O
 CN PLACEHOLDER
 Обычно через несколько дней или месяцев, с помощью гипноза или шоковой терапии, воспоминания возвращаются.
 
@@ -3580,7 +3580,7 @@ CN PLACEHOLDER
 В результате газовая смесь, рассчитанная на поддержку давления в 6 атмосфер, полностью улетучилась.
 
 ヘリウムガスは、酸素・窒素よりも軽い為、先に放出されたらしい。%T030%K%N
-Since helium is lighter than oxygen or nitrogen, it appears to have been vented out first.%K%O
+Since helium is lighter than oxygen or nitrogen, it appears to have been vented out first.%T030%K%O
 CN PLACEHOLDER
 Первым, так как имеет меньшую, чем кислород и азот, плотность, вышел гелий.
 
