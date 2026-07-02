@@ -125,7 +125,7 @@ Assaulted by Tsugumi in%NQualle, Takeshi is driven to%Nmadness.%NSora's omnipres
 Is Sora's smile real?%NTime continues to slip away.%NTaking Sora with him,%NTakeshi tries to escape.
 
 ;21C;100;圧潰の危険は知っている、%Nしかし考えるのはやめた……。%N『俺達がここにいる事』%Nただそれだけを思う。
-Takeshi and Sora try to%Nspend their last moments%Nthinking “We are still here.”
+Takeshi and Sora try to%Nspend their last moments%Nthinking “We are still here”.
 
 ;250;104;もはや退路を断たれ、%N全ての可能性は否定された。%N悪夢のような現実を、ただ%N緩やかに受け入れていく……。
 All escape routes and   %Npossibilities exhausted, the   %Nonly option left is to   %Naccept the nightmarish%Nreality.
@@ -185,7 +185,7 @@ Sara says her father was%Nfrom the Sun.%NCoco sings a nursery rhyme...%NWhat the
 Two clues appear: a haiku%Nand a lullaby.%NContained in them is the%Nsecret of the child's birth.
 
 ;62C;102;『キミハ……ダレ？』%N『ボクハ……ダレ？』%Nぼくは、本当はぼくではない。%Nブリックヴィンケルとは何か？
-“Who are... you?”%N“Who am...I?”%NI'm not who I think I am.%NWhat is Blick Winkel?
+“Who are... you?”%N“Who am... I?”%NI'm not who I think I am.%NWhat is Blick Winkel?
 
 ;660;110;何が起こったのか知っている。%Nだが何故こんな事をしたのか、%N訊かなくてはならない。%N交わした約束を果たす為に。
 I already know what%Nhappened. But why did I do%Nthese things?%NIt was to keep a promise I%Nmade.
