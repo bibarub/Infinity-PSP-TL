@@ -26,7 +26,7 @@ CN PLACEHOLDER
 俺は気合を入れ直し、通路の先へと歩を進めた。%K%P
 I walked toward the end of the hallway, marshaling my wits.
 CN PLACEHOLDER
-Я собрался с духом и устремился d коридор.
+Я собрался с духом и устремился в коридор.
 
 （おや……？）%K%P
 (What's that...?)
