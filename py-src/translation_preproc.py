@@ -138,6 +138,10 @@ def prepareTlLines(tl_buckets, tl_suffix, game, current_filename, jp_mac_chapter
     if jp_leading_bracket == "（" and not jp_trailing_bracket and jp_speaker == "穂鳥":
         jp_speaker, jp_leading_bracket, translated_speaker = "", "", ""
 
+    # SYEP "%LC少年『ぼくらは時間を超えられるんだ』%T090"
+    if jp_leading_bracket == "『" and jp_speaker == "少年" and jp_leading_meta == "%LC":
+        jp_speaker, jp_leading_bracket, jp_trailing_bracket, translated_speaker = "", "", "", ""
+
     export_translated_line = ""
     trailing_control = ""
     leading_control = ""
