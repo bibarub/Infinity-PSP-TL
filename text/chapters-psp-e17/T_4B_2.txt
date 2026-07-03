@@ -676,7 +676,7 @@ CN PLACEHOLDER
 空「やってみます……これから全館に、生体反応スキャンをかけます」%K%P
 Let me try... I'll do a bio scan on the entire building.
 CN PLACEHOLDER
-Секундочку... сейчас проведу биосканирование по всему сооружению.
+Я постараюсь... Сейчас проведу биосканирование по всему сооружению.
 
 そう言ってレミの端末に手をかざすと、直接アクセスし始める。%K%P
 She put her hands on the LeMMIH terminal and started accessing it right away.
