@@ -541,7 +541,7 @@ CN PLACEHOLDER
 Нет. До меня дошло, что это вовсе не пол, а крыша застопорившегося лифта.
 
 位置は、俺が立っている場所から２ｍぐらい下だ。%K%P
-It was a little more than two meters from where I was standing
+It was a little more than two meters from where I was standing.
 CN PLACEHOLDER
 Где-то чуть ниже пары метров от того места, где стою я.
 
@@ -756,7 +756,7 @@ CN PLACEHOLDER
 Ой, огромное спасибо!
 
 中にはひとりの女の子が乗っていた。%K%P
-There was a lone girl inside
+There was a lone girl inside.
 CN PLACEHOLDER
 Я смотрю на девочку, что стоит внутри.
 
@@ -942,7 +942,7 @@ CN PLACEHOLDER
 Я лёг на живот и стал протискиваться через верх лифта.
 
 小さな穴から身を乗り出すようにして、ココの方へと腕を伸ばす。%K%P
-I leaned down hrough the small hole and stuck my hand out to Coco.
+I leaned down through the small hole and stuck my hand out to Coco.
 CN PLACEHOLDER
 Едва не застряв в маленькой дыре, я протянул Коко свою руку.
 
