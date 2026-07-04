@@ -21,7 +21,7 @@ Ah!
 目の前には、避難小屋の扉。%K%P
 In front of me is the door to the shelter cabin.
 避难小屋的门就在眼前。
-Передо мной ― дверь в горную хижину.
+Передо мной – дверь в горную хижину.
 
 こころ「さ……寒い……」%K%P
 C... Cold...
@@ -936,12 +936,12 @@ Damn iiiit! If it's going to be that way, I'll get stubborn too.
 意地でも、はめつづけてやるんだから！%K%P
 Just as stubbornly, I'll keep putting it back on!
 就算赌这口气，我也要戴着。
-Снимешь ― надену!
+Снимешь – надену!
 
 どこへ隠したって見つけてやるもんね。%K%P
 Whenever you hide it, I'm going to find it!
 不管藏在哪里我都会找出来。
-Спрячешь ― найду!
+Спрячешь – найду!
 
 私は決意を胸に秘め、ベッドに座った。%K%P
 Strengthening my determination, I sit on the bed.
@@ -991,7 +991,7 @@ What kind of message will be next...?
 『『こころのいる世界は、１年後の、２０１２年なんだ』って……』%K%P
 “That the world you're in right now is one year later, the year 2012...”
 “‘心所在的世界，是一年后的２０１２年’”
-"Мир, в котором ты сейчас, ― это мир 2012 года, на один год позже".
+"Мир, в котором ты сейчас, – это мир 2012 года, на один год позже".
 
 確かに言っていた。%K%P
 So he said.
@@ -1076,7 +1076,7 @@ I listen carefully to the voice recorder.
 『スフィアのある世界が２０１２年、避難小屋のある世界が２０１１年』%K%N
 “In the world of SPHIA, it's 2012; in the world of the shelter cabin, it's 2011.”
 “ＳＰＨＩＡ所在的世界是２０１２年，避难小屋所在的世界是２０１１年”
-"в мире SPHIA сейчас 2012 год, в мире горной хижины ―%N2011-й".
+"в мире SPHIA сейчас 2012 год, в мире горной хижины –%N2011-й".
 
 『オレとこころの意識は、空間を移動すると同時に、時間も……』%K%N
 “Our consciousnesses are jumping not only through  space...”
@@ -1151,7 +1151,7 @@ Really, come on now.......
 『スフィアは２０１２年、避難小屋は２０１１年……』%K%N
 “It's 2012 in SPHIA, and 2011 in the shelter cabin...”
 “ＳＰＨＩＡ是２０１２年，避难小屋是２０１１年……”
-"В SPHIA ― 2012 год, в горной хижине ― 2011-й".
+"В SPHIA – 2012 год, в горной хижине – 2011-й".
 
 『オレとこころは、ふたつの異なった時間、空間、肉体のあいだを、ぐるぐるぐるぐると入れ替わり続けてるんだ』%K%P
 “Kokoro and I keep shifting back and forth between two different bodies, places, and times.”
@@ -1161,12 +1161,12 @@ Really, come on now.......
 こころ「どうしてそんなことが――」%K%P
 How can you——
 心「为什么你能——」
-Как ты можешь―
+Как ты можешь–
 
 『断言できるのよ？』と言おうとすると――%K%P
 “say this with such certainty?” I try to say——
 “断言这种事？”还没有说出口——
-"говорить об этом с такой уверенностью?" ― хотела я сказать...
+"говорить об этом с такой уверенностью?" – хотела я сказать...
 
 『ああ、今おまえは『どうしてそんなことが断言できるんだ』って、そう思ったな……？』%K%N
 “Aaah, now you must be thinking ‘How can you say this with such certainty?’...”
@@ -1186,7 +1186,7 @@ How can you——
 『つまりオレは、おまえにとっては未来の人間ということになる』%K%N
 “That is to say, to you, I'm a person from the future.”
 “也就是说，对你来说我来自未来”
-"И, таким образом, для тебя я ― человек из будущего".
+"И, таким образом, для тебя я – человек из будущего".
 
 『だから、オレはこの避難小屋が２０１１年だってことを知ってるんだ』%K%N
 “That's why I even know about the shelter cabin being in 2011.”
@@ -1246,12 +1246,12 @@ How can you——
 『片方のゆには２０１１年のゆに……』%K%N
 “One Yuni is the Yuni of the year 2011...”
 “一边的悠尼是２０１１年的悠尼”
-"Один Юни ― это Юни из 2011 года..."
+"Один Юни – это Юни из 2011 года..."
 
 『もう片方のゆには２０１２年のゆになんだよ』%K%P
 “...and the other one is the Yuni of the year 2012.”
 “另一边的悠尼是２０１２年的悠尼”
-"А другой ― Юни из 2012-го".
+"А другой – Юни из 2012-го".
 
 こころ「――！？」%K%P
 ——!?
@@ -1516,7 +1516,7 @@ I admire that smart solution.
 こころ「朱倉岳は２０１１年、スフィアは２０１２年」%K%P
 Mount Akakura is in 2011, SPHIA in 2012.
 心「朱仓岳是２０１１年，ＳＰＨＩＡ是２０１２年」
-Гора Акакура ― в 2011-м, SPHIA ― в 2012-м.
+Гора Акакура – в 2011-м, SPHIA – в 2012-м.
 
 悟はそう言っていた。%K%N
 According to Satoru.
@@ -1531,7 +1531,7 @@ I, thinking of this year as 2011, am in the shelter cabin.
 そして、２０１２年だと主張する悟は、スフィアにいる。%K%N
 And Satoru, who insists it's 2012, is in SPHIA.
 而主张今年是２０１２年的悟在ＳＰＨＩＡ。
-А Сатору, утверждающий, что сейчас 2012-й, ― в SPHIA.
+А Сатору, утверждающий, что сейчас 2012-й, – в SPHIA.
 
 私は納得してうなずいた。%K%N
 I nod in agreement.
@@ -1566,7 +1566,7 @@ The newspaper.
 新聞の日付は２０１１年７月４日だった。%K%N
 The date on the newspaper is July 4th, 2011.
 报纸的日期是２０１１年７月４日。
-На ней проставлена дата ― 4 июля 2011 года.
+На ней проставлена дата – 4 июля 2011 года.
 
 避難小屋が２０１２年だったら、その新聞が置かれていることに矛盾はない。%K%N
 If the time at the shelter cabin is 2012, there would be no contradiction in that newspaper being here.
@@ -1601,7 +1601,7 @@ Why?
 こころ「……まさか、避難小屋が２０１２年で、スフィアが２０１１年？」%K%P
 ...No way, the shelter cabin is in 2012 and SPHIA is in 2011?
 心「……莫非，避难小屋是２０１２年，ＳＰＨＩＡ是２０１１年？」
-...неужели, наоборот, горная хижина находится в 2012-м, а%NSPHIA ― в 2011-м?
+...неужели, наоборот, горная хижина находится в 2012-м, а%NSPHIA – в 2011-м?
 
 そう考えれば、新聞とラジオの問題はクリアになる。%K%N
 If I believe that, it solves the problems of the newspaper and the radio.
@@ -1678,17 +1678,17 @@ As I think about another possibility... something suddenly comes to mind.
 こころ「ひょっとして、私が転移してるのは避難小屋もスフィアも、両方とも２０１１年で…」%K%P
 What if, by some chance, the places I transfer between, the shelter cabin and SPHIA, are both in the year 2011...
 心「难道说，我转移到的避难小屋和ＳＰＨＩＡ两边都是２０１１年……」
-А что, если мои переносы, все события в SPHIA и здесь ― всё это происходит в 2011 году...
+А что, если мои переносы, все события в SPHIA и здесь – всё это происходит в 2011 году...
 
 こころ「悟が転移してるのは、両方とも２０１２年なんじゃない？」%K%P
 ...and Satoru's transfers take place in the year 2012?
 心「而悟转移到的两边都是２０１２年？」
-...а переносы Сатору ― в 2012-м?
+...а переносы Сатору – в 2012-м?
 
 そう考えれば、私が今年を２０１１年と感じていることと、悟が今年を２０１２年だと考えていることに答えがつく。%K%P
 If that's so, it accounts for how I feel this is 2011 but Satoru thinks it's 2012.
 这样一来，我觉得今年是２０１１年，悟觉得今年是２０１２年就没有问题了。
-Если это так, то это соответствует тому, что Сатору думает, что сейчас 2012-й, а я ― что 2011-й.
+Если это так, то это соответствует тому, что Сатору думает, что сейчас 2012-й, а я – что 2011-й.
 
 こころ「……でも、それじゃダメだ。全然ダメ」%K%P
 ...But like this, it's no good. Absolutely no good.
@@ -1738,7 +1738,7 @@ I'm hopeless at puzzles.
 ちまちま解いてるのが苦痛になって、投げ出したくなってしまう。%K%N
 Even a small one is painful and makes me want to give up.
 因为总是无法圆满完成，让人想打退堂鼓。
-Даже простенькая головоломка ― это большая мука, заставляющая меня непременно сдаться.
+Даже простенькая головоломка – это большая мука, заставляющая меня непременно сдаться.
 
 大学の研究でも、じっくりと観察を続けるのは好きなんだけど、いざ論文を書く段となり、推論を積み重ねる作業となると七転八倒するはめになる。%K%N
 Even for university research, I like keeping careful observations, but when the time comes to write up a paper on it and lay out all the reasoning, I end up writhing in agony.

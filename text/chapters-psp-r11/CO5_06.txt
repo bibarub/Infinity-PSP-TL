@@ -1196,7 +1196,7 @@ They're trying to pin a crime on me that I don't even remember committing...
 私だってずっと空腹に耐えているのに――%K%P
 Even though I've been enduring the hunger all this time——
 我还不是一直饿着肚子在忍耐吗——
-И я же всё это время терпела голод―
+И я же всё это время терпела голод–
 
 そこで私は、ギクリとする。%K%P
 At that moment, I suddenly realize.
@@ -1616,7 +1616,7 @@ I'm suddenly overcome with an extraordinary sense of loneliness.
 私はひとりじゃない、助け合う仲間がいる――そう思っていたのに。%K%P
 “I'm not alone, I have comrades that will help me”——that's what I thought.
 我不是孤单一人，我有互相帮助的同伴在——我曾经这么想。
-"Я не одна, у меня есть товарищи, которые мне помогут", ― так я думала.
+"Я не одна, у меня есть товарищи, которые мне помогут", – так я думала.
 
 燃料も、食糧もない地獄のような避難小屋で、%K%P
 Inside this hellish shelter cabin without food or fuel,
@@ -2061,7 +2061,7 @@ Holding my knees, I close my eyes.
 大丈夫。大丈夫だ――そう自分に必死に言い聞かせる。%K%P
 It's going to be okay. It's going to be okay——I desperately try to persuade myself.
 不要紧。不要紧的——我拼命这么告诉自己。
-"Всё будет хорошо, всё будет хорошо", ― отчаянно пытаюсь я убедить себя в этом.
+"Всё будет хорошо, всё будет хорошо", – отчаянно пытаюсь я убедить себя в этом.
 
 しかし、不安は去ってはいかなかった。%K%P
 However, the anxiety won't go away.
@@ -2431,7 +2431,7 @@ You can endure it if it's for me, right?
 ゆに「それとこれとは……別だよ」%K%P
 This and that are... different.
 悠尼「这个……根本是两回事」
-То и это ― разные вещи.
+То и это – разные вещи.
 
 こころ「むぅー」%K%P
 Geez...

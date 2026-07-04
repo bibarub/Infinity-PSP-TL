@@ -11,7 +11,7 @@
 これは世界初の女性宇宙飛行士ワレンチナ・テレシコワの言葉だ。%K%P
 These were the words uttered by the first woman in space, Valentina Tereshkova.
 这句话出自全球第一位女性宇航员瓦莲京娜·捷列什科娃之口。
-Так сказала первая женщина, побывавшая в космосе, ― Валентина Терешкова.
+Так сказала первая женщина, побывавшая в космосе, – Валентина Терешкова.
 
 旧ソ連の宇宙船ヴォストーク６号に乗り込んだ彼女は、ひとり、完全な静寂と虚無に支配された宇宙空間を漂いながら……%K%P
 All alone aboard the former Soviet Union spaceship Vostok 6, floating in the void of space, a place of complete silence and emptiness...
@@ -211,7 +211,7 @@ But...
 少年「『袖すりあうも和尚の霊』って言うじゃん？」%K%P
 ‘Everyone you come into contact with, it's thanks to the spirits of lamas’... That's what they say, right?
 男孩「“萍水相逢亦是缘”嘛？」
-"Каждая встреча неслучайна", ― так ведь говорят?
+"Каждая встреча неслучайна", – так ведь говорят?
 
 こころ「和尚の、霊？」%K%P
 The spirits... of lamas?
@@ -241,7 +241,7 @@ I'm eleven years old, my birthday is October 19th, 1999, and my sign is Libra.
 ゆに「血液型はＡＢ型」%K%P
 My blood type is AB.
 悠尼「血型是ＡＢ型」
-Группа крови ― четвёртая.
+Группа крови – четвёртая.
 
 ゆに「だからかどうかはわからないけど、よくひとに『変わってるね』って言われます」%K%P
 I don't know if that's the reason or not, but a lot of people tell me I'm weird.
@@ -501,7 +501,7 @@ This isn't really my field of expertise——all I can do is force a smile.
 私の専門は『ソスウ』や『インスウ』ではなく%N『%TS000ソシオロジィ%TE』や『%TS001インサニティ%TE』なのだ。%K%P
 You know, my specialty isn't “factors” or “prime numbers”, but rather “%TS000sociology%TE” and “%TS001insanity%TE”.
 我的专业不是“质数”与“因数”，而是《%TS000社会学%TE》和《%TS001精神异常%TE》
-Вообще-то мои исследования не связаны ни с делителями, ни с простыми числами ― я специализируюсь на социологии и душевных расстройствах.
+Вообще-то мои исследования не связаны ни с делителями, ни с простыми числами – я специализируюсь на социологии и душевных расстройствах.
 
 少年「お姉ちゃんは、素数じゃないね？」%K%P
 Onee-chan's age isn't a prime number, is it?
@@ -741,12 +741,12 @@ Evening lit by the moonlight?
 こころ「そう。だって『夜明けの晩』じゃ、意味が通らないじゃない」%K%P
 Right. Because ‘evening lit by the dawn’ doesn't really make much sense, does it?
 心「对。因为如果是“黎明时分的夜晚”的话，意思不就说不通了嘛」
-Да, именно. Потому что "рассветный вечер" ― бессмысленная фраза.
+Да, именно. Потому что "рассветный вечер" – бессмысленная фраза.
 
 こころ「明け方なのか夕方なのか、太陽は東にあるのか西にあるのか……ね？」%K%P
 When it's dawn, the sun RISES in the east, and at night, the sun sets in the west... right?
 心「是黎明还是傍晚，太阳是在东边还是西边……对吧？」
-Ведь рассвет ― это когда солнце восходит на востоке, а закат ― когда солнце садится на западе...
+Ведь рассвет – это когда солнце восходит на востоке, а закат – когда солнце садится на западе...
 
 ゆに「お姉ちゃんが子どもの頃は、そうやって唄ってたの？」%K%p
 So is that the way you sang it when you were a kid, Onee-chan?
@@ -911,7 +911,7 @@ Well... Let's see...
 ゆに「例えば、そもそも『かごめ』とは何を意味してるのか？」%K%P
 For example, just what does ‘kagome’ mean?
 悠尼「比如说，其实“笼中鸟”意味着什么呢？」
-Например, какой смысл скрыт за названием песни ― "Кагомэ"?
+Например, какой смысл скрыт за названием песни – "Кагомэ"?
 
 ゆに「『籠の中の鳥』が象徴するものとはいったい何なのか？」%K%P
 What is the symbolism behind ‘the bird within the cage’?
@@ -971,7 +971,7 @@ I have no way of knowing what Onee-chan's doing behind me right now, or what kin
 ゆに「お姉ちゃんの存在は今、ぼくにとっては不確定要素のうちのひとつなんだ」%K%P
 Right now, Onee-chan's existence is one of many unknowns to me.
 悠尼「姐姐的存在现在对我来说，是不确定因素的其中之一」
-И сейчас твоё существование ― одна из множества неизвестностей для меня.
+И сейчас твоё существование – одна из множества неизвестностей для меня.
 
 ゆに「後ろの正面は、振り返って目を開くまで……決まらない……」%K%P
 Until I open my eyes and turn around, what's behind me is... still undecided...
@@ -1036,7 +1036,7 @@ His cheeks lift into a broad smile as he laughs.
 まだあどけなさの残るその笑顔は確かに１１歳のそれだった。%K%P
 His smile is certainly that of an eleven-year-old.
 还残留着稚气的那张笑容,确实是１１岁的代表。
-Его смех определённо детский ― чистый и невинный.
+Его смех определённо детский – чистый и невинный.
 
 耳を澄ますと風の歌が聞こえた。%K%P
 Straining my ears, 'I' can still hear the sound of the wind.
@@ -1141,7 +1141,7 @@ Yuni suddenly says that.
 あまりにもしつこく付きまとってくるものだから、私は彼に名前（冬川こころ）だけは教えていた。%K%P
 I've ended up telling him my name (Fuyukawa Kokoro) due to his persistence.
 因为实在是太过缠人，所以我把名字（冬川心）告诉了他。
-Поскольку он настойчиво спрашивал, я всё-таки сказала ему своё имя ― Фуюкава Кокоро.
+Поскольку он настойчиво спрашивал, я всё-таки сказала ему своё имя – Фуюкава Кокоро.
 
 けれど年齢に関しては、その手がかりとなることすら話していない。%K%P
 However, I haven't said anything, not so much as a single clue, that would have allowed him to guess my age.
@@ -1186,7 +1186,7 @@ That's what he says right after I introduce myself.
 私は彼に名前（冬川こころ）を告げ、これから向かう目的地について軽く話していた。%K%P
 I told him my name (Fuyukawa Kokoro), and then had a little chat with him about our destination.
 我把自己的名字（冬川心）告诉了他，然后稍微说了一些我们前往的目的地的事情。
-Я сказала ему своё имя ― Фуюкава Кокоро ― и мы немного поболтали о месте назначения нашего рейса.
+Я сказала ему своё имя – Фуюкава Кокоро – и мы немного поболтали о месте назначения нашего рейса.
 
 けれど年齢に関しては、その手がかりとなることすら教えていない。%K%P
 However, I haven't given him any hints or clues that would help him to guess my age like that.
@@ -1321,7 +1321,7 @@ I give his head a little poke, and he blushes as he jumps into my arms.
 やれやれ……『袖すりあうも他生の縁』か……。%K%P
 My, my... “Everyone you come into contact with, it's thanks to your spiritual karma”... right?
 唉……“萍水相逢亦是缘”吗……
-Ну и ну... Это неспроста ― наверняка карма моей прошлой жизни.
+Ну и ну... Это неспроста – наверняка карма моей прошлой жизни.
 
 私の他生にはいったい何があったというのだろう。%K%P
 Just what exactly happened in my past life, I wonder?
@@ -1673,7 +1673,7 @@ And it was then that the feather came off the shawl and got attached to my hair?
 ゆに「成人式と言えば、小学校や中学校で机を並べた旧友達が一堂に会すビッグイベントでしょ？」%K%P
 The Coming of Age Ceremony is like a big event where you invite all your friends from elementary school and middle school to meet up, right?
 悠尼「说起成人仪式，算是能够与小学、中学的同窗旧友们重逢的大事件吧？」
-Церемония совершеннолетия ― это большой праздник, на который обычно приглашают всех своих друзей из начальной и средней школ, верно?
+Церемония совершеннолетия – это большой праздник, на который обычно приглашают всех своих друзей из начальной и средней школ, верно?
 
 ゆに「初恋の男の子が見違えるほどブサイクになってたり……」%K%P
 Where you find out that your first crush is now so homely you don't even recognize them...
@@ -1843,7 +1843,7 @@ Murmuring that in wonder, Yuni turns to look out the window.
 うろたえたゆにの姿は、電子犬を前にした仔犬みたいで可愛かった。%K%P
 His flustered appearance is cute, resembling that of a live puppy that's just come face-to-face with a robot dog.
 悠尼狼狈的样子，就好像面对电子狗的普通小狗一样可爱。
-Своим сконфуженным видом он напоминает щенка, которого посадили перед собакой-роботом ― он невозможно мил в своём смятении.
+Своим сконфуженным видом он напоминает щенка, которого посадили перед собакой-роботом – он невозможно мил в своём смятении.
 
 私はくすくすと笑ってしまった。%K%P
 I can't help but giggle quietly to myself.

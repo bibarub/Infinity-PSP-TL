@@ -511,7 +511,7 @@ Or...
 朱倉岳にいたゆにと、ここにいるゆには『別人』なのか……？%K%P
 Are the Yuni of Mount Akakura and the Yuni here really different people...?
 朱仓岳的悠尼，和这里的悠尼是“不同的人”……？
-Юни на горе Акакура и Юни здесь ― разные люди?..
+Юни на горе Акакура и Юни здесь – разные люди?..
 
 オレはゆにの顔をじっと見つめた。%K%P
 I stare fixedly at Yuni's face.
@@ -521,7 +521,7 @@ I stare fixedly at Yuni's face.
 輪郭、造形、瞳の色、髪型からメガネのデザインに至るまで、なにもかもが避難小屋にいたゆにと同じだった。%K%P
 Its shape, features, eye color, from his hairstyle to the design of his glasses, everything about him is the same as the Yuni from the shelter cabin.
 从轮廓，造型，瞳孔的颜色，发型到眼镜的设计，都跟避难小屋的悠尼一模一样。
-Фигура, форма лица, цвет глаз, причёска и даже форма очков ― всё точно такое же, как и у Юни в горной хижине.
+Фигура, форма лица, цвет глаз, причёска и даже форма очков – всё точно такое же, как и у Юни в горной хижине.
 
 ゆに「ど、どうしたの……？」%K%P
 Wh-What is it...?
@@ -786,12 +786,12 @@ It seems like he really doesn't know either of them.
 ということはつまり、ここにいるゆには、避難小屋にいたゆにとは別人ということになる。%K%P
 In other words, this means that the Yuni here and the Yuni at the shelter cabin are two different people.
 就是说，在这里的悠尼，和在避难小屋的悠尼果然是不同的人
-Иначе говоря, Юни здесь и Юни в горной хижине ― два разных человека.
+Иначе говоря, Юни здесь и Юни в горной хижине – два разных человека.
 
 今オレの目の前にいる彼は、１年前の１月１７日に救助隊によって発見されたゆにではない。%K%P
 The one right here in front of me isn't the person who was found by the rescue team on January 17th a year ago.
 现在在我眼前的他，不是在一年前的１月１７日被救助队发现的悠尼。
-Находящийся рядом со мной Юни ― не тот, которого 17 января прошлого года нашли спасатели.
+Находящийся рядом со мной Юни – не тот, которого 17 января прошлого года нашли спасатели.
 
 いや、ちょっと待て……。%K%P
 No, wait a second...
@@ -826,7 +826,7 @@ But I somehow suppress that impulse and continue thinking.
 よし、わかった、それじゃあとりあえず、こちらのゆにと、あちらのゆにを、別人だと仮定してみよう。%K%P
 Okay, I've got it. Let's assume that the Yuni here and the Yuni there are two different people.
 好，明白了，那么首先，就假设这里的悠尼，和那里的悠尼是不同的人。
-Ладно. Допустим, что тот и этот Юни ― два разных человека.
+Ладно. Допустим, что тот и этот Юни – два разных человека.
 
 すると必然的に湧きあがってくる疑問がある。%K%P
 That leads us to the inevitable question.
@@ -1541,7 +1541,7 @@ She asks.
 オレはくちを閉ざしたまま、答えることができない。%K%P
 My mouth is frozen shut. I can't answer.
 我闭着嘴，无法回答。
-Я не могу ответить ― мой рот просто не открывается.
+Я не могу ответить – мой рот просто не открывается.
 
 犬伏「ねえ、訊いてんでしょ？」%K%P
 Hey, you're listening, right?
@@ -1731,7 +1731,7 @@ After all, I'm the original owner of this body.
 犬伏「つまり、悟がメインの人格ってこと？」%K%P
 In other words, you're the main personality, Satoru?
 犬伏「就是说，悟是主人格？」
-Другими словами, ты ― основная личность, Сатору?
+Другими словами, ты – основная личность, Сатору?
 
 悟「うん、うーん……」%K%P
 Hmm, hmmmm...
@@ -1751,7 +1751,7 @@ I mutter somewhat bitterly.
 今、この状況で、よりによって彼女に対して、転移現象のことを説明する気にはなれなかった。%K%P
 Given the current situation, I don't feel like explaining the exchange phenomenon to her, of all people.
 现在这个状况，也没法跟她详细说明具体的转移现象。
-Не думаю, что это хорошая идея ― пытаться объяснить феномен переноса, тем более ей.
+Не думаю, что это хорошая идея – пытаться объяснить феномен переноса, тем более ей.
 
 犬伏「ＯＫ、わかった」%K%P
 Okay, got it.
@@ -1761,7 +1761,7 @@ Okay, got it.
 犬伏「今のあなたは優希堂悟」%K%P
 Then you're Yukidoh Satoru right now.
 犬伏「现在的你是优希堂悟」
-Сейчас ты ― Юкидо Сатору.
+Сейчас ты – Юкидо Сатору.
 
 犬伏「じゃあ、ゆうべ地下倉庫まで私を追い駆けてきたのも……？」%K%P
 Were you the one who chased me all the way to the basement yesterday...?
@@ -3171,7 +3171,7 @@ Flipping the switch, I turn my focus to the exchange phenomenon.
 この現象を解明するための手がかりとなるのが、ゆにの存在だった。%K%P
 There is a clue that could be the key to unfolding it, and that's Yuni's existence.
 能够解开这个现象真相的线索，就是悠尼。
-Ниточка к разгадыванию природы этого явления ― Юни.
+Ниточка к разгадыванию природы этого явления – Юни.
 
 オレはゆにのことを考えた。%K%P
 I think about Yuni.
@@ -3206,7 +3206,7 @@ If you compare the speech and behavior of the two Yunis at the shelter cabin and
 人格的には、こちらのゆには常にこちらのゆにで、あちらのゆには常にあちらのゆになのだ。%K%N
 In terms of personality, the Yuni at SPHIA is always the Yuni at SPHIA, and the Yuni at the shelter cabin is always the Yuni at the shelter cabin.
 就人格来说，这边的悠尼仍是这边的悠尼，那边的悠尼仍是那边的悠尼。
-Касательно личностей, тутошний Юни всегда был здесь, а тамошний ― там.
+Касательно личностей, тутошний Юни всегда был здесь, а тамошний – там.
 
 場所を基準にして、両者の発言には信頼度の高い一貫性が見られる。%K%P
 Based on the location, the behavior of the two has always been highly consistent.
@@ -3361,7 +3361,7 @@ Hey, come on, Kokoro!
 『午後１時７分転移』……。%K%N
 “Transfer at 1:07 PM”...
 “下午１时０７分转移”……
-"Время переноса ― 13:07"
+"Время переноса – 13:07"
 
 これだけか？　たったこれだけなのか？　おまえの言いたいことは……。%K%N
 That's it? That's all there is? Is this all you wanted to say...?
@@ -3391,12 +3391,12 @@ But, you know?
 たった１行だけの文章ってーのは、あまりにも素っ気なさ過ぎるんじゃないか？%K%N
 Isn't it cold to write only one sentence back?
 只有一行的回信，岂不是太过简陋了？
-Написать лишь одно предложение ― не слишком ли лаконично?
+Написать лишь одно предложение – не слишком ли лаконично?
 
 もうちょっと、なんと言うか、具体的なことを書いて欲しいんだ。%K%N
 Can't you, I don't know, write something a little more detailed?
 希望你能稍微多写一点，怎么说呢，多写一点具体的东西。
-Не могла бы ты ― как это выразить? ― написать что-нибудь с большей глубиной?
+Не могла бы ты – как это выразить? – написать что-нибудь с большей глубиной?
 
 お互い直接対面することはできないが、幸いなことに、こうして情報交換することはできるわけだし……。%K%N
 We can't meet in person, but at least we're lucky enough to be able to exchange information...
@@ -3471,7 +3471,7 @@ Be careful.
 オレも、避難小屋にいるときには、おまえの身体のことを最優先で考えるから。%K%N
 While I'm in the shelter cabin, I consider your body my top priority too.
 在避难小屋里的时候，我也会尽力保护你的身体安全的。
-Ведь когда я в твоём теле, забота о нём ― моя первостепенная задача.
+Ведь когда я в твоём теле, забота о нём – моя первостепенная задача.
 
 それじゃあ、頼んだぞ、こころ。%K%P
 Well then, I'm counting on you, Kokoro.

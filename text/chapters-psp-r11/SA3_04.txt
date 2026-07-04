@@ -396,7 +396,7 @@ Well... Actually, I would kill it, but...
 悟「でも、昆虫と哺乳類は別物だろ？」%K%P
 But insects are one thing and mammals are another, right?
 悟「可是昆虫跟哺乳动物是两回事吧？」
-Но насекомые и млекопитающие ― разные вещи.
+Но насекомые и млекопитающие – разные вещи.
 
 穂鳥「つまり、自分に近い生物種は殺さないってことね？」%K%P
 In other words, you wouldn't kill a creature that's too much like you?
@@ -541,7 +541,7 @@ So I ended its life.
 穂鳥「まあ、痛みや苦しみを取り除くという意味に於いては医者と同じね？」%K%P
 Actually, isn't taking away pain and suffering like that the same as what a doctor does?
 穗鸟「啊，从帮助人消除痛苦的角度来说，这跟医生是一样的吧？」
-Избавила от боли и страданий ― совсем как доктор, не находишь?
+Избавила от боли и страданий – совсем как доктор, не находишь?
 
 穂鳥「私のしたことは、ひと助けならぬ、ネズミ助けなわけであり〜」%K%P
 It's just that in that case, it wasn't a human I helped, but a rat〜
@@ -646,7 +646,7 @@ After all, she's already taken the lives of not one, but twelve people in the pa
 『痛みや苦しみを取り除くという意味に於いては医者と同じね？』%K%P
 “Isn't taking away pain and suffering like that the same as what a doctor does?”
 “从帮助人消除痛苦的角度来说，这跟医生是一样的吧？”
-"Избавила от боли и страданий ― совсем как доктор, не находишь?"
+"Избавила от боли и страданий – совсем как доктор, не находишь?"
 
 阿波墨市立病院での凶行も、あるいはそんな単純な動機から行なわれたものだったのかも知れない。%K%P
 The motive for the horrendous murders at Awazumi Municipal Hospital may have been as simple as that.
@@ -1211,5 +1211,5 @@ I attempt to call out to her again.
 だがオレがくちを開く前に――。%K%P
 But before I can open my mouth——
 然而，在我开口之前——
-Но, прежде чем успеваю открыть рот―
+Но, прежде чем успеваю открыть рот–
 

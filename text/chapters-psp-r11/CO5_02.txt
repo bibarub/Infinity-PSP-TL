@@ -261,7 +261,7 @@ I said you've got it all wrong!
 こころ「あれは、私と黄泉木さんとゆに、３人分の食糧をひとつにまとめただけだったんです！」%K%P
 What you ate was our combined rations! Yomogi-san's, Yuni's, and mine!
 心「那是我和黄泉木先生还有悠尼三个人的食物！」
-Это были наши ― Ёмоги, Юни и моя ― части еды, объединённые в одну!
+Это были наши – Ёмоги, Юни и моя – части еды, объединённые в одну!
 
 黛「フン、だまされるもんか……」%K%P
 Hmph, you think you can trick me...
@@ -296,7 +296,7 @@ We have to help each other.
 こころ「黛さん！　あなたは、自分のやったことが――」%K%P
 Mayuzumi-san! What you've done——
 心「黛！你知道自己做的事——」
-Маюдзуми-сан! То, что вы сделали―
+Маюдзуми-сан! То, что вы сделали–
 
 黄泉木「もう、いいよ」%K%P
 That's enough.
@@ -1241,7 +1241,7 @@ How much time has passed?
 何時間かが経過したのに、黄泉木はまったく動こうとしなかった。%K%P
 No matter how many long hours go by, Yomogi doesn't show even the slightest sign of movement.
 好几个小时之后，黄泉木还是一动不动。
-Не важно, сколько часов уже прошло, ― Ёмоги не двигается с места.
+Не важно, сколько часов уже прошло, – Ёмоги не двигается с места.
 
 ただひたすらに、地下へと続く穴を注視している。%K%P
 He does nothing but gaze steadily at the hole leading to the storeroom.

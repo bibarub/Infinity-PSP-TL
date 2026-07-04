@@ -486,7 +486,7 @@ Isn't there any way to protect ourselves from a tsunami? Like climbing up to hig
 ゆに「と、時計台はどうかな？　あそこなら」%K%P
 H-How about the clock tower? If we're there——
 悠尼「钟、钟楼怎么样？那里的话……」
-К-как насчёт часовой башни? Если мы―
+К-как насчёт часовой башни? Если мы–
 
 内海は首を横に振った。%K%P
 Utsumi shakes her head from side to side.
@@ -691,7 +691,7 @@ Isn't there any way to protect ourselves from a tsunami? Like climbing up to hig
 ゆに「と、時計台はどうかな？　あそこなら」%K%P
 H-How about the clock tower? If we're there——
 悠尼「钟、钟楼怎么样？那里的话……」
-К-как насчёт часовой башни? Если мы―
+К-как насчёт часовой башни? Если мы–
 
 内海は首を横に振った。%K%P
 Utsumi shakes her head from side to side.
@@ -791,7 +791,7 @@ The ten or so minutes that have passed feel like an eternity.
 聞こえてくるのは、ただゴウゴウと逆巻く吹雪の音だけ。%K%P
 What we hear is only the roaring of the raging snowstorm.
 听到的只是翻腾着的风雪声。
-Но всё, что мы слышим, ― только вой бури снаружи.
+Но всё, что мы слышим, – только вой бури снаружи.
 
 不吉な波音は近づいては来なかった。%K%P
 The ominous sound of an approaching wave never arrives.

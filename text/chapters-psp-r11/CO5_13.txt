@@ -11,7 +11,7 @@ The wreckage of the airframe is just lying there, the same as when I came here t
 あの炭化した多くの遺体は、雪に埋もれてしまったのか、見つけることはできなかった。%K%P
 Many of the carbonized corpses are nowhere to be seen, buried beneath the snow.
 那些炭化的尸体大概被埋在雪中了吧，现在已经看不到了。
-Обгорелые тела уже засыпаны снегом ― их нигде не видно.
+Обгорелые тела уже засыпаны снегом – их нигде не видно.
 
 黛「ヘリ……ヘリはどこ……！？」%K%P
 The helicopter... Where's the helicopter...!?
@@ -176,7 +176,7 @@ Death really seems like a resting place.
 死こそ、唯一の救いなんだ……。%K%P
 Death is my sole relief...
 死才是唯一的救赎……
-Смерть ― вот моё освобождение...
+Смерть – вот моё освобождение...
 
 ほら、世界中が、私の死を祝福してくれている。%K%P
 Look, the whole world is blessing my death.
@@ -340,7 +340,7 @@ If we can meet up with the helicopter... we can return to save Yuni.
 黄泉木「行こう……僕達に今できるのは、ヘリを見つけることだ……」%K%P
 Let's go... All we can do now is look for the helicopter...
 黄泉木「走吧……我们现在能做的，就是找到直升机……」
-Пойдёмте... Всё, что мы сейчас можем сделать, ― это найти вертолёт...
+Пойдёмте... Всё, что мы сейчас можем сделать, – это найти вертолёт...
 
 こころ「はい……」%K%P
 Okay...
@@ -370,7 +370,7 @@ The wreckage of the airframe is just lying there, the same as when I came here t
 あの炭化した多くの遺体は、雪に埋もれてしまったのか、見つけることはできなかった。%K%P
 Many of the carbonized corpses are nowhere to be seen, buried beneath the snow.
 那些炭化的尸体大概被埋在雪中了吧，现在已经看不到了。
-Обгорелые тела уже засыпаны снегом ― их нигде не видно.
+Обгорелые тела уже засыпаны снегом – их нигде не видно.
 
 黛「ヘリ……ヘリはどこ……！？」%K%P
 The helicopter... Where's the helicopter...!?
@@ -575,7 +575,7 @@ Death really seems like a resting place.
 死こそ、唯一の救いなんだ……。%K%P
 Death is my sole relief...
 死才是唯一的救赎……
-Смерть ― вот моё освобождение...
+Смерть – вот моё освобождение...
 
 ほら、世界中が、私の死を祝福してくれている。%K%P
 Look, the whole world is blessing my death.

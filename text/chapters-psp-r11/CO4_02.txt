@@ -941,7 +941,7 @@ Well then, what do you think we should do?
 黛「信じられるのは私だけ……」%K%P
 The only one I can trust is myself...
 黛「能相信的只有我……」
-Единственный человек, которому я могу доверять, ― это я.
+Единственный человек, которому я могу доверять, – это я.
 
 黛「そうだわ！　私が食糧を管理してあげる」%K%P
 That's it! I'll manage the food.
@@ -1001,7 +1001,7 @@ OLs are OLs, but I'm an Official Lawyer——a %TS040court-appointed attorney%TE
 黛「ここでは私が法律よ！」%K%P
 Here, I am the law!
 黛「在这里我就是法律！」
-Закон здесь ― это я!
+Закон здесь – это я!
 
 黛は胸を張った。%K%P
 Mayuzumi puffs out her chest.
@@ -1231,7 +1231,7 @@ I said I'd use my intelligence so everyone could survive too, didn't I!?
 黛「それを無にしようってわけ！？」%K%P
 Are you saying that means nothing!?
 黛「你想让我这份心意打水漂吗！？」
-Хочешь сказать, что мои слова ― пустой звук?!
+Хочешь сказать, что мои слова – пустой звук?!
 
 こころ「そういうつもりじゃ……」%K%P
 That's not what I meant...
@@ -1996,7 +1996,7 @@ As for me, I don't really intend to object.
 黄泉木は雪山のエキスパートだし、彼に任せておくのがベストの選択のはずなのだ。%K%P
 Yomogi's an expert at handling snowy mountains, so entrusting this to him should be the best choice.
 黄泉木是雪山专家，交给他应该是最好的选择。
-Ёмоги эксперт в том, что касается выживания в горах, так что поручение наших запасов ему ― лучший выбор.
+Ёмоги эксперт в том, что касается выживания в горах, так что поручение наших запасов ему – лучший выбор.
 
 彼に従っていれば、生き残れる可能性は高くなる。%K%P
 If we follow him, the chances of us surviving will be higher.
@@ -2211,7 +2211,7 @@ Yomogi had said so.
 黄泉木「あのな、脅すわけじゃないが、冬山の寒さってのは正真正銘、掛け値なしの死神だ」%K%P
 You know, I'm not trying to threaten you, but without exaggerating, a snowy mountain is truly the Grim Reaper.
 黄泉木「我说啊，我可不是威胁你，冬天山上的严寒可是如假包换、不折不扣的死神」
-Знаете, я не пытаюсь никого запугивать, но, без преувеличения, заснеженные горы ― настоящие жнецы смерти.
+Знаете, я не пытаюсь никого запугивать, но, без преувеличения, заснеженные горы – настоящие жнецы смерти.
 
 死神が、小屋の外で鎌を手に待っている。%K%P
 The Grim Reaper is waiting outside the cabin with his scythe in hand.

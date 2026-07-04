@@ -91,7 +91,7 @@ The bulb broke?
 ゆに「電球とダイオードは別だよ。電球みたいに切れたりしないの」%K%P
 A diode and a light bulb are two different things. A diode doesn't break like a light bulb.
 悠尼「不是电灯。一般不会像电灯那样轻易坏的」
-Диод и лампочка ― разные вещи. И ломаются они тоже по-разному.
+Диод и лампочка – разные вещи. И ломаются они тоже по-разному.
 
 ゆに「これが消えてるってことは、内部の線のどこか切れてるのかもしれない……」%K%P
 The fact that it's out means the wire inside might be broken somewhere...
@@ -198,7 +198,7 @@ That's right. The day before yesterday.
 穂鳥との格闘になった時、私は手近にあったラジオを投げつけてしまったのだ。%K%N
 During my fight with Hotori, I had thrown the first thing at hand, a radio, at her.
 和穗鸟打起来时，我把手边的收音机扔了出去。
-Во время борьбы с Хотори я бросила в неё первое, что подвернулось под руку, ― радио.
+Во время борьбы с Хотори я бросила в неё первое, что подвернулось под руку, – радио.
 
 ちょうど手に触れたから、咄嗟の判断で。%K%N
 I made the decision on the spur of the moment.
@@ -560,7 +560,7 @@ Hey, what's wrong...?
 その刹那――%K%P
 At that instant——
 就在那个时候——
-И в этот миг―
+И в этот миг–
 
 ゆに「うわあああああああ！！！」%K%P
 UWAAAAAAAA!!!
@@ -945,7 +945,7 @@ I hold Yuni tight and close my eyes.
 ゆには本当に『未来のゆに』なのか……？%K%P
 Is this Yuni really the Yuni from the future...?
 悠尼真的是“未来的悠尼”吗……？
-Действительно ли этот Юни ― "Юни из будущего"?
+Действительно ли этот Юни – "Юни из будущего"?
 
 聞きたかったけれど、彼は逃げ出してしまった。%K%P
 I wanted to hear it, but he ran away.
@@ -1005,5 +1005,5 @@ Before long, I fall asleep.
 生まれたての子どものような、深い、深い眠りに――――%K%P
 Like that of a newborn baby, a deep, deep sleep————
 像是初生婴儿经历的、深深的、深深的睡眠————
-Словно маленький ребёнок, засыпаю крепко-крепко―
+Словно маленький ребёнок, засыпаю крепко-крепко–
 

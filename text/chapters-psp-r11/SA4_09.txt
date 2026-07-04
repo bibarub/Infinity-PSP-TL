@@ -6,7 +6,7 @@ I don't believe it...
 悟「こんなこと……起こりえるはずが――」%K%P
 Something like this... it couldn't possibly——
 悟「这种事情……根本不可能发——」
-Этого же... просто быть не―
+Этого же... просто быть не–
 
 榎本「だが、実際に起きているだろう？」%K%P
 However, it's actually happening, is it not?
@@ -121,17 +121,17 @@ I see, so I'll have to start from there...?
 榎本「%TS061量子%TEテレポーテーションとは、%TS062量子力学%TEの性質を利用した技術のことだ」%K%P
 %TS061Quantum%TE teleportation is a technique based on the properties of %TS062quantum mechanics%TE.
 鼷本「所谓%TS061量子%TE远距传态，是一项应用%TS062量子力学%TE性质的技术」
-%TS061Квантовая%TE телепортация ― это процесс, основанный на понятиях %TS062квантовой механики%TE.
+%TS061Квантовая%TE телепортация – это процесс, основанный на понятиях %TS062квантовой механики%TE.
 
 榎本「テレポーテーション――物体をそっくりそのまま別の場所に転送させる現象」%K%P
 Teleportation——the ability to transport an object entirely to a different location.
 鼷本「远距传态——是指把物体原原本本地传送到别处的现象」
-Телепортация ― это феномен перемещения объекта из одной точки пространства в другую.
+Телепортация – это феномен перемещения объекта из одной точки пространства в другую.
 
 榎本「いや、物体を転送というのはちょっと語弊があるな」%K%P
 No, ‘transport an object’ isn't quite correct.
 鼷本「不，说是传送物体有点语病」
-Хотя нет, "перемещение объекта" ― не совсем верное определение.
+Хотя нет, "перемещение объекта" – не совсем верное определение.
 
 榎本「正確には物体を転送するのではなく、物体の情報を転送する」%K%P
 To be more accurate, it's not the object that is transferred, but the information which composes it.
@@ -146,7 +146,7 @@ There is no need to move the object itself.
 榎本「送りたいのは状態の情報であって状態自体ではない」%K%P
 What you want to transfer is the sum total of the object's present physical state, but not that state itself.
 鼷本「需要传送的是关于物体状态的情报，而并非它本身」
-Всё, что нужно переместить, ― информацию о состоянии, а не само состояние.
+Всё, что нужно переместить, – информацию о состоянии, а не само состояние.
 
 榎本「物体の量子情報を転送し、別の場所にその物体を再構築するわけだ」%K%P
 Transmitting the quantum information of an object, then reconstructing it at a different location.
@@ -191,7 +191,7 @@ Put simply...
 榎本「その双子の粒子はどんなに離れていようとも、一方を観測することによって生じた影響がもう一方に瞬時に伝わってしまうのだ」%K%P
 No matter how far apart the twin particles are spatially, any influence on the state of one particle is instantaneously transmitted to the other.
 鼷本「不管距离多远，对其中一个粒子进行观测时产生的影响，都会瞬间传递给另一个」
-Не важно, как далеко частицы находятся друг от друга, ― любое воздействие на состояние одной из них моментально передаётся другой.
+Не важно, как далеко частицы находятся друг от друга, – любое воздействие на состояние одной из них моментально передаётся другой.
 
 榎本「たとえ、両者が１万光年もの距離を隔てていてもね」%K%P
 Even if, for example, the distance between the pair is 10,000 light-years.
@@ -236,7 +236,7 @@ In other words, the transfer of something from one location to another. Thus, bo
 榎本「便宜上、%TS069送信側を『アリス』、受信側を『ボブ』%TEと呼ぶことにしよう」%K%P
 For the sake of convenience, let's call %TS069the sender ‘Alice’ and the receiver ‘Bob’%TE.
 鼷本「为了方便起见，称呼发信端为“%TS069Ａｌｉｃｅ%TE”，收信端为“Ｂｏｂ”」
-Для удобства назовём %TS069отправителя "Алиса", а получателя ― "Боб"%TE.
+Для удобства назовём %TS069отправителя "Алиса", а получателя – "Боб"%TE.
 
 榎本「では、アリスからボブに量子テレポーテーションを用いて情報を送信する手順をお見せする」%K%P
 Now, I'll show you the process by which information is transmitted from Alice to Bob via quantum teleportation.
@@ -336,7 +336,7 @@ The moment Alice makes her Bell measurement, the distinction between particles A
 榎本「それと同時にボブ側のＥＰＲ状態は部分的に収縮し、情報ψが粒子Ｃに移動する」%K%P
 At the same time, the half of the EPR pair Bob has partially collapses, and the state ψ migrates to particle C.
 鼷本「与此同时，Ｂｏｂ那边的ＥＰＲ状态发生塌缩，情报ψ移动到粒子Ｃ上」
-Одновременно с этим другая часть ЭПР-пары ― Боба ― частично коллапсирует и состояние ψ переходит к частице C.
+Одновременно с этим другая часть ЭПР-пары – Боба – частично коллапсирует и состояние ψ переходит к частице C.
 
 榎本「ただし、ボブはベル測定の結果をアリスから知らされるまでは、意味のある情報への変換の仕方がわからない」%K%P
 However, until Bob learns of the results of the Bell measurement, he won't be able to recreate the state of the ‘sent’ particle.
@@ -346,7 +346,7 @@ However, until Bob learns of the results of the Bell measurement, he won't be ab
 榎本「その次は、ベル測定の結果の送信だ――」%K%P
 So the next step is to communicate the results of the Bell measurement——
 鼷本「接下来，贝尔实验结果的发送——」
-Так что следующий этап ― передача результатов измерения Белла.
+Так что следующий этап – передача результатов измерения Белла.
 
 榎本「アリスが得たベル測定の結果をボブに送信する」%K%P
 Alice sends Bob the results of the measurements she obtained.
@@ -361,7 +361,7 @@ The means of communication at this time can be more orthodox, say, a phone call 
 榎本「最後に、量子情報の変換――」%K%P
 And then, the final step is the transformation of the quantum state——
 鼷本「最后，量子信息的变换——」
-Последний шаг ― преобразование квантового состояния.
+Последний шаг – преобразование квантового состояния.
 
 榎本「ボブは知らされたベル測定の結果を利用して、粒子Ｃの量子的な情報に%TS074ユニタリ変換%TE――」%K%P
 Using the results of the Bell measurement Bob was informed of, particle C becomes quantum information through a %TS074unitary transformation%TE——
@@ -421,7 +421,7 @@ However, the technology developed by the%N‘%TS075corporation%TE’ I belong to
 榎本「微粒子に分解された原子の状態――人間や物体の量子情報を転送するのだ」%K%P
 What we transfer is the state of the atoms disassembled——the quantum information of humans and objects.
 鼷本「先分解为微粒子，再把原子的状态——人类和宏观物体的量子信息传送过去」
-Мы переносим разложенное на атомы состояние ― квантовую информацию человека или вещи.
+Мы переносим разложенное на атомы состояние – квантовую информацию человека или вещи.
 
 榎本「ちなみに、転送後はオリジナルの量子情報は失われるわけだから……」%K%P
 By the way, the original quantum information is lost after the transfer...
@@ -436,7 +436,7 @@ In the case of inanimate objects, the transfer would only create a copy of the o
 榎本「オリジナルの人間は、送信元のサークル内では消滅――息を引き取り、受信先で再構築――蘇っている、ということになるわけだ」%K%P
 The original human dies when they disappear from inside the transmission circle, and then they're reconstructed at the place of reception. Essentially, they're resurrected.
 鼷本「原本那个人在发信端的转移圈内被消灭——也就是死亡，然后在收信端进行再构筑——也就是复活」
-Человек исчезает в точке передачи ― он умирает, ― а затем восстанавливается в точке приёма ― другими словами, воскресает.
+Человек исчезает в точке передачи – он умирает, – а затем восстанавливается в точке приёма – другими словами, воскресает.
 
 榎本「ただしきみ達の場合は例外で、意識が送信元に残留してしまうため……」%K%P
 However, you two are an exception. Your consciousnesses remain at the origin of transfer...
@@ -491,7 +491,7 @@ I see...
 悟「時空間転移の正体が量子テレポーテーションということはわかった」%K%P
 I understand that the space-time transfer is actually quantum teleportation.
 悟「我明白时空间转移实际上就是量子远距传态了」
-Я понял, что пространственно-временное перемещение ― это на самом деле квантовая телепортация.
+Я понял, что пространственно-временное перемещение – это на самом деле квантовая телепортация.
 
 悟「けれど、その量子テレポーテーションが、どのようにして時空間転移に結びつくかがわからない」%K%P
 Though, I don't know what quantum teleportation and transferring through space and time have to do with each other.
@@ -541,7 +541,7 @@ It's the same as what I stated before.
 榎本「時空間転移装置――そう私は呼んでいる」%K%P
 The space-time transfer device——that's what I'll call it.
 鼷本「时空间转移装置——余是这么称呼的」
-"Устройство для пространственно-временной передачи" ― так ||я|| его зову.
+"Устройство для пространственно-временной передачи" – так ||я|| его зову.
 
 榎本「装置はＥＰＲペアの粒子を生み出す発生源であり、粒子の測定機であり、転送時の変換機でもある」%K%P
 The device is the source which produces EPR pair particles, measuring the particles and converting them at the time of transfer.
@@ -561,7 +561,7 @@ Enough with the technical explanation!
 悟「オレが訊きたいのはそんなことでなく――」%K%P
 That wasn't what I wanted to ask about, it's——
 悟「我想问的不是这个——」
-Я хочу услышать не о том, как―
+Я хочу услышать не о том, как–
 
 榎本「わかっている」%K%P
 I know.
@@ -641,7 +641,7 @@ This figure represents time and space as a two-dimensional diagram.
 榎本「Ｙ軸を時間、Ｘ軸を空間――緯度を示している」%K%P
 The Y axis represents time, and the X axis represents space——specifically, the latitude of each location.
 鼷本「Ｙ轴表示时间，Ｘ轴表示空间——也就是纬度」
-Ось Y ― время, ось X ― пространство, показывает широту каждой локации.
+Ось Y – время, ось X – пространство, показывает широту каждой локации.
 
 悟「それで？」%K%P
 And?
@@ -651,12 +651,12 @@ And?
 榎本「この赤い印は２０１１年の朱倉岳、青い印を同じく２０１１年の青鷺島と考えてくれたまえ」%K%P
 Think of this red mark as the Mount Akakura of 2011 and this blue mark as the Aosagi Island of 2011.
 鼷本「先把红色标记看成是２０１１年的朱仓岳，把蓝色标记看成是２０１１年的青鹭岛」
-Представь, что красная точка ― гора Акакура 2011 года, голубая ― остров Аосаги 2011-го.
+Представь, что красная точка – гора Акакура 2011 года, голубая – остров Аосаги 2011-го.
 
 榎本「両者は同じ時間軸上に存在するが、空間については別の位置にある、ということだ」%K%P
 Both exist on the same time axis, but in different locations.
 鼷本「两者虽然在同一时间轴上，但空间上却处于不同位置」
-Обе они ― на одной оси времени, но в разных местах.
+Обе они – на одной оси времени, но в разных местах.
 
 榎本「両者をＹ軸上においてプラス方向に移動し、このような状態とする」%K%P
 If we move both into the positive region of the Y axis, it becomes like this.
@@ -706,7 +706,7 @@ At the moment, it's more like this.
 榎本「冬川こころのいる朱倉岳は２０１１年に存在し、我々のいる青鷺島は２０１２年にある」%K%P
 The Mount Akakura at which Fuyukawa Kokoro exists is in the year 2011, and the Aosagi Island where we currently stand is in the year 2012.
 鼷本「冬川心所在的朱仓岳是２０１１年，而我们所在的青鹭岛是２０１２年」
-На горе Акакура, где находится Кокоро, сейчас 2011 год, а на острове Аосаги, где находимся мы, ― 2012-й.
+На горе Акакура, где находится Кокоро, сейчас 2011 год, а на острове Аосаги, где находимся мы, – 2012-й.
 
 榎本「空間ばかりか、時間までも座標軸が異なっている」%K%P
 Not only space, but the time axis differs as well.
@@ -751,7 +751,7 @@ The two coordinate points are connected by a single straight line.
 榎本「リンクを結ぶんだ」%K%P
 A link between them.
 鼷本「建立连接」
-Эта линия ― связь между ними.
+Эта линия – связь между ними.
 
 榎本「仮に、この直線を『ｔ’』と呼ぼう」%K%P
 Let's call this line t'.
@@ -791,7 +791,7 @@ As if to say “that's right”, he begins typing on his keyboard, changing the 
 そこに映ったのは、『Ｙ軸――時間を傾け、直線ｔ’と垂直に交じり合わせた』映像……。%K%P
 Shown there is the image of the Y-axis (time) slanted, and the line marked t' perpendicular to it...
 屏幕上映出的是，“使Ｙ轴——时间轴倾斜，与直线ｔ’垂直相交”的画面……
-Ось Y ― ось времени ― начинает наклоняться, перпендикулярно пересекая линию t.
+Ось Y – ось времени – начинает наклоняться, перпендикулярно пересекая линию t.
 
 悟「…………」%K%P
 ......
@@ -801,7 +801,7 @@ Shown there is the image of the Y-axis (time) slanted, and the line marked t' pe
 榎本「これで理論上は――いや、事実上と言ってもいいかな――ふたつの地点は同じ時間軸上に存在することになった」%K%P
 According to this theory——no, you can see how it's a matter of fact——the two points can exist on the same time axis.
 鼷本「如此一来，在理论上——不，事实上也可以这么说——两个地点就存在于同一时间轴上了」
-Таким образом, теоретически ― нет, это уже свершившийся факт ― эти две точки могут существовать в один и тот же момент по оси времени.
+Таким образом, теоретически – нет, это уже свершившийся факт – эти две точки могут существовать в один и тот же момент по оси времени.
 
 悟「…………」%K%P
 ......
@@ -931,7 +931,7 @@ Inside the box in the middle is the origin of the EPR pair... where the particle
 榎本「そして、その両側にある箱がアリスとボブ――送信側と受信側だ」%K%P
 And those two boxes at either side represent Alice and Bob——the sender and the receiver.
 鼷本「然后，这两边的盒子就是Ａｌｉｃｅ和Ｂｏｂ——即发信端和收信端」
-А эти боксы по бокам представляют собой Алису и Боба ― отправителя и получателя, соответственно.
+А эти боксы по бокам представляют собой Алису и Боба – отправителя и получателя, соответственно.
 
 悟「能書きはいい。見れば大体わかる。さっさと始めてくれ」%K%P
 Enough showing off. I'll understand once I see it. Get started already.
@@ -956,12 +956,12 @@ Two cups of coffee are in Enomoto's hands.
 ひとつは白いカップと白いソーサーに入っていた。コーヒーにはミルクが入れられていた。%K%P
 One is a white cup on a white saucer. The coffee inside has milk in it.
 一份是白色杯子和白色咖啡盘的。里面是掺了牛奶的白咖啡。
-В одной руке ― белая чашка на белом блюдце, кофе в ней с молоком.
+В одной руке – белая чашка на белом блюдце, кофе в ней с молоком.
 
 もうひとつは黒いカップと黒いソーサーに入っていた。コーヒーはブラックだった。%K%P
 The other is a black cup on a black saucer. The coffee inside is black.
 另一份是黑色杯子和黑色咖啡盘的。里面是纯的黑咖啡。
-В другой ― чёрная чашка на чёрном блюдце, кофе чёрный.
+В другой – чёрная чашка на чёрном блюдце, кофе чёрный.
 
 榎本はふた組のコーヒーをアリスとボブ、それぞれの中にセットし、装置のスイッチを入れた。%K%P
 Enomoto places one cup in each of the Alice and Bob boxes, then switches on the device.
@@ -976,7 +976,7 @@ With a dull whine, it begins to operate.
 榎本「ちなみに、アリスは２０１１年の朱倉岳、白いコーヒーソーサーは朱倉岳サークル……」%K%P
 By the way, Alice is the Mount Akakura of 2011, and the white saucer is Mount Akakura's transfer circle...
 鼷本「顺带一提，Ａｌｉｃｅ代表２０１１年的朱仓岳，白色咖啡盘代表朱仓岳转移圈……」
-Кстати, Алиса ― это гора Акакура в 2011-м, а белое блюдце ― круг горы Акакура...
+Кстати, Алиса – это гора Акакура в 2011-м, а белое блюдце – круг горы Акакура...
 
 榎本「白いカップは冬川こころ、を示していると思ってくれたまえ」%K%P
 So think of the white cup as Fuyukawa Kokoro.
@@ -986,12 +986,12 @@ So think of the white cup as Fuyukawa Kokoro.
 榎本「逆にボブは２０１２年の青鷺島、黒いコーヒーソーサーは青鷺島サークル……」%K%P
 Conversely, Bob is the Aosagi Island of 2012, and the black saucer is Aosagi Island's transfer circle...
 鼷本「反之Ｂｏｂ代表２０１２年的青鹭岛，黑色咖啡盘代表青鹭岛转移圈……」
-С другой стороны, Боб ― это остров Аосаги 2012-го, а чёрное блюдце ― круг SPHIA.
+С другой стороны, Боб – это остров Аосаги 2012-го, а чёрное блюдце – круг SPHIA.
 
 榎本「黒いカップはきみ――優希堂悟、を示している」%K%P
 The black cup will be you——Yukidoh Satoru.
 鼷本「黑色杯子代表你——优希堂悟」
-Чёрная же кружка ― это ты, Юкидо Сатору.
+Чёрная же кружка – это ты, Юкидо Сатору.
 
 悟「なるほど……で？」%K%P
 I see... And?
@@ -1105,7 +1105,7 @@ With milk. Isn't it obvious?
 悟「ミルクを入れないコーヒーなんて、ソースのかかってないステーキみたいなものだ」%K%P
 Coffee without milk is like steak with no sauce.
 悟「咖啡不加牛奶，就像牛排没了芡汁一样」
-Кофе без молока ― это как стейк без соуса.
+Кофе без молока – это как стейк без соуса.
 
 悟「それにブラックは胃にも優しくないんだ。長生きしないぜ、あんた」%K%P
 And besides, isn't black coffee hard on the stomach? You won't have a long life drinking that all the time, you know.
@@ -1320,7 +1320,7 @@ Then the coffee inside Alice is...
 榎本「そう。未来――今から１分後のボブのコーヒーの情報が、アリス――過去へと転移したのだ」%K%P
 Exactly. The future——the information of Bob's cup from one minute in the future——has transferred to Alice's in the past.
 鼷本「没错。未来——也就是一分钟后Ｂｏｂ中咖啡的情报，转移到了Ａｌｉｃｅ这里——也就是过去」
-Именно. Будущее― Информация о состоянии кофе Боба через одну минуту от текущего времени передалась Алисе в прошлое.
+Именно. Будущее– Информация о состоянии кофе Боба через одну минуту от текущего времени передалась Алисе в прошлое.
 
 悟「…………」%K%P
 ......
@@ -1355,7 +1355,7 @@ The cup and saucer go from black to white. Now there's milk in the coffee.
 悟「過去――今から１分前のアリスのコーヒーの情報が、ボブ――未来へと転移してきた……」%K%P
 The past——the information of Alice's cup from one minute in the past——has transferred to Bob's in the future...
 悟「过去——也就是一分钟前Ａｌｉｃｅ中咖啡的情报，转移到了Ｂｏｂ——也就是未来……」
-Прошлое― Информация о состоянии кофе Алисы минуту назад передалась Бобу в будущее.
+Прошлое– Информация о состоянии кофе Алисы минуту назад передалась Бобу в будущее.
 
 榎本「その通り。さすが物わかりがいい」%K%P
 That's precisely it. You understand quite well.

@@ -296,7 +296,7 @@ How do I say this... Well... I'll be careful not to touch or look at anything un
 きみがオレの顔を見て、どういう印象を抱いたのかわからないが、オレは一応紳士だ。%K%N
 I don't know what your impression is of me from when you saw my face, but I am a gentleman.
 你看到我的脸会抱有什么样的印象我不清楚，但我还算是一个绅士。
-Не знаю, какое впечатление произвела на тебя моя внешность, но я ― джентльмен.
+Не знаю, какое впечатление произвела на тебя моя внешность, но я – джентльмен.
 
 どうか安心して欲しい。%K%P
 So please don't worry about that.
@@ -441,7 +441,7 @@ Well, we'll figure something out if and when that turns out to be the case.
 『法則性がない』ということがわかっただけでも前進というものだろう。%K%P
 Even realizing that the transfers are happening at random is a step forward, right?
 就算只知道“没有规律”，也是个进步吧。
-Даже знание того, что обмен происходит случайным образом, ― уже большой шаг вперёд.
+Даже знание того, что обмен происходит случайным образом, – уже большой шаг вперёд.
 
 ああ、そうそう。%K%N
 Ah, right, right.

@@ -36,7 +36,7 @@ Sitting atop a bundle of firewood, he's staring intently at the palms of his han
 傍らには斧が立てかけられている。%K%P
 An ax is leaning against the wall beside him.
 旁边还竖着一把斧头。
-Рядом с ним ― топор.
+Рядом с ним – топор.
 
 ようやく、オレは異変に気がついた。%K%P
 I finally notice something unusual.
@@ -96,7 +96,7 @@ Yuni stands at the window, looking outside.
 現在時刻――午後３時５７分。%K%P
 Present time——3:57 PM.
 现在时刻——下午３时５７分。
-Текущее время ― 15:57.
+Текущее время – 15:57.
 
 窓の向こうは茜色に染まっていた。%K%P
 Beyond the window, everything is dyed a madder red.
@@ -326,7 +326,7 @@ I frantically shake his shoulders, pressing him for a reply.
 すると突然――。%K%P
 Then, suddenly——
 这时突然——
-Но вдруг―
+Но вдруг–
 
 ゆに「わぁぁぁぁぁぁぁぁぁぁぁ！！」%K%P
 UAAAAAAAAAAAAAH!

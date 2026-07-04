@@ -291,7 +291,7 @@ I don't know about anything besides mountains.
 黄泉木「下界のこと、人々の流行、政治、経済、山以外のことは何もわからない」%K%P
 The world, fashion trends, politics, the economy——I don't know about anything outside of mountains.
 黄泉木「对外界的事情，人群里流行的东西、政治、经济……山以外的东西我什么也不知道」
-Наша планета, мода, политика, экономика ― ни в чём, помимо гор, я не разбираюсь.
+Наша планета, мода, политика, экономика – ни в чём, помимо гор, я не разбираюсь.
 
 黄泉木「とくに……」%K%P
 Especially...
@@ -381,7 +381,7 @@ Don't order me around.
 黄泉木「あのな、脅すわけじゃないが、冬山の寒さってのは正真正銘、掛け値なしの死神だ」%K%P
 You know, I'm not trying to threaten you, but without exaggerating, a snowy mountain is truly the Grim Reaper.
 黄泉木「我说啊，我可不是威胁你，冬天山上的严寒可是如假包换、不折不扣的死神」
-Знаешь, я не пытаюсь никого запугивать, но, без преувеличения, заснеженные горы ― настоящие жнецы смерти.
+Знаешь, я не пытаюсь никого запугивать, но, без преувеличения, заснеженные горы – настоящие жнецы смерти.
 
 黄泉木「弱いヤツから順番に、そして確実に命を奪っていく……」%K%P
 Starting with the weakest person and working up, it snatches away each life without fail...
@@ -591,7 +591,7 @@ And one week to call the rescue team and then return here.
 黛「な……っ！？」%K%P
 Wha...!?
 黛「什么……！？」
-Чт―?!
+Чт–?!
 
 驚きの声をあげる黛を無視して、黄泉木は手を合わせて見せた。%K%P
 Ignoring the surprise in Mayuzumi's voice, Yomogi puts his hands together.

@@ -1,5 +1,5 @@
 ﻿――私はイスに腰掛け、新聞を広げていた。%K%P
-――I'm sitting in a chair with the newspaper spread out in front of me.
+——I'm sitting in a chair with the newspaper spread out in front of me.
 ——我坐在椅子上，摊开报纸正在读。
 Я сижу на стуле, уткнувшись в развёрнутую газету.
 
@@ -46,12 +46,12 @@ I like black or purple more, you know.
 黄泉木「何を言うかっ。白が良いに決まってるだろ？」%K%P
 What are you saying!? It's obvious that white is best, right?
 黄泉木「说什么呢？！」
-Да что вы говорите?! Очевидно же, что белый ― лучший, верно?
+Да что вы говорите?! Очевидно же, что белый – лучший, верно?
 
 黄泉木「新雪のような純白こそが、漢のロマンなんだ」%K%P
 This pure white, like newly-fallen snow, can only truly be savored by a man.
 黄泉木「那样就不够浪漫了」
-Белоснежность, что словно только выпавший снег, ― вот что есть настоящая мужская романтика.
+Белоснежность, что словно только выпавший снег, – вот что есть настоящая мужская романтика.
 
 ゆに「それっておぢさんっぽいよ、黄泉木隊長ぉ？」%K%P
 That's more of an old man's taste, Captain Yomogi.

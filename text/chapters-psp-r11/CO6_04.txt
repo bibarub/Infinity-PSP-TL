@@ -71,7 +71,7 @@ Fufufu... Ahahahaha...
 黛「思えば、あっけない人生だったわ……」%K%P
 It was such a disappointing life...
 黛「想一想，真是平淡的人生啊……」
-Эта жизнь ― сплошное разочарование...
+Эта жизнь – сплошное разочарование...
 
 黛「つまらない人生……」%K%P
 A boring life...
@@ -460,7 +460,7 @@ I don't care what anyone else thinks.
 黛「だって、私に残されてるのは、あなただけだったんだもの」%K%P
 Because the only thing left for me in this world is you.
 黛「因为我在乎的只有你」
-Потому что единственное, что осталось у меня на этом свете, ― это ты.
+Потому что единственное, что осталось у меня на этом свете, – это ты.
 
 黛「悟……」%K%P
 Satoru...
@@ -790,7 +790,7 @@ I listen on as Satoru, not myself.
 その時、私は私ではなく、悟そのものだった。%K%O
 I'm Satoru in these moments alone with her.
 此时，我不再是我，而是悟。
-Сейчас я ― это он.
+Сейчас я – это он.
 
 私は黛を見つめていた。%K%N
 I gaze at Mayuzumi.
@@ -915,7 +915,7 @@ So she changes in front of the man she loves.
 いや、そうではなく……普段の彼女は自ら作り上げた仮面で、本来の姿に戻るということなのかもしれない。%K%P
 No, that's not it... It could be that her everyday personality is just a mask she created for herself, and this is a return to her real personality.
 不、不是这样……也许平时我看到的那个只是她自己造出来的面具，撒娇时她才恢复了本来的自我。
-Не, не так... Может, то, как она выглядит обычно, ― лишь маска, которую она создала сама для себя, а сейчас она такая, какая есть на самом деле?
+Не, не так... Может, то, как она выглядит обычно, – лишь маска, которую она создала сама для себя, а сейчас она такая, какая есть на самом деле?
 
 黛「あれ、楽しかったよね？」%K%P
 Don't you think that was fun?
@@ -1165,7 +1165,7 @@ Lovers playing with a beautiful night view behind them.
 ふたりだけの世界。ふたりだけの空間。ふたりだけの時間。%K%P
 A world, a space, a time for just the two of them.
 两个人的世界。两个人的空间。两个人的时间。
-Весь мир, пространство, время ― только для них двоих.
+Весь мир, пространство, время – только для них двоих.
 
 私にはよく理解できた。%K%P
 I can understand it well.

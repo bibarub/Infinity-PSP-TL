@@ -191,7 +191,7 @@ I remember what Kokoro said to me.
 こころ「ひとつなのがひとつのままでいるのとぉ、ひとつなのが半分こになっちゃうのはぁ、全然違うんだよ？」%K%P
 There's a difference between one staying as one and one suddenly becoming halved, you know?
 心「本来是一个后来还是一个，和本来是一个后来变成半个，那是完全不一样的吧？」
-Одно дело, когда человек остаётся один, совсем другое ― когда он внезапно лишается половины, понимаешь?
+Одно дело, когда человек остаётся один, совсем другое – когда он внезапно лишается половины, понимаешь?
 
 悟「半分こ、か……」%K%P
 Halved, huh...?
@@ -626,7 +626,7 @@ That was only the beginning.
 ゆに「『なぜ歴史をなぞる必要があったのか？』――いまそう言ったよね？」%K%P
 ‘Why did you need to make sure history was repeated?’——that's what you said just now, right?
 悠尼「“为什么必须要描绘历史呢？”——刚才是这么说的吧？」
-"В чём необходимость повторять историю?" ― так ты спросил?
+"В чём необходимость повторять историю?" – так ты спросил?
 
 ゆに「その理由をひとことで言うと『時空間転移を発生させるため』ってことになる」%K%P
 In short, just so the space-time transfers could occur.
@@ -1261,7 +1261,7 @@ No, it's okay.
 悟「歴史は変わらない、そう言ったんだよな？」%K%P
 History won't change. That's what you said, right?
 悟「你刚才说，历史没有变化是吗？」
-История не изменится ― это ты имел в виду?
+История не изменится – это ты имел в виду?
 
 ゆに「うん、そうだけど……？」%K%P
 Yeah, that's right...
@@ -1326,7 +1326,7 @@ You could say that's true, but you could also say that it isn't.
 ゆに「例えば、あくまでも例えばの話だよ？」%K%P
 For example, and remember that this is just an example...
 悠尼「比如说，只是比如说哦」
-К примеру ― и это самый простой пример, ―
+К примеру – и это самый простой пример, –
 
 ゆに「最初っから、雪崩に巻き込まれて死んだ人なんて存在しなかったとしたら……？」%K%P
 What if no one got caught in the avalanche and died in the first place...?

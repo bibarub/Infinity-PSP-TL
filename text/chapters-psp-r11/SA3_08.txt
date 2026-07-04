@@ -236,7 +236,7 @@ Eh? That can't be...
 悟「じゃあ、どうしてあのネズミは――」%K%P
 Then why did the rat——
 悟「那么，老鼠怎么会——」
-Почему же тогда крыса―
+Почему же тогда крыса–
 
 内海「待って、最後まで聞いて？」%K%P
 Wait. Let me explain, okay?
@@ -266,7 +266,7 @@ So more specifically, what kind of medicine is it?
 内海「ＭＡＯ阻害剤――それがあの液体の名前」%K%P
 An MAO inhibitor——that's what it's called.
 内海「ＭＡＯ阻碍剂——这就是液体的名称」
-Ингибитор МАО ― вот что это.
+Ингибитор МАО – вот что это.
 
 悟「まおそがいざい？」%K%P
 MAO inhibitor?
@@ -291,7 +291,7 @@ First, about the properties of the MAO inhibitor...
 内海「『Ｍ・Ａ・Ｏ』っていうのは『ＭｏｎｏＡｍｉｎｅ Ｏｘｉｄａｓｅ』の略」%K%P
 ‘MAO’ is short for ‘MonoAmine Oxidase’.
 内海「“Ｍ　Ａ　Ｏ”就是“ＭｏｎｏＡｍｉｎｅＯｘｉｄｅｓａ”的缩写」
-"МАО" ― это сокращение от "моноаминоксидаза".
+"МАО" – это сокращение от "моноаминоксидаза".
 
 内海「モノアミン酸化酵素のことなの」%K%P
 A monoamine oxidation enzyme.
@@ -301,7 +301,7 @@ A monoamine oxidation enzyme.
 内海「だからＭＡＯ阻害剤というのは、文字通り『体内にあるモノアミン酸化酵素の働きを阻害する薬品』ってこと」%K%P
 As the name suggests, the MAO inhibitor literally works to inhibit the oxidation of monoamines inside the body.
 内海「因此，名副其实，ＭＡＯ阻断剂就是“阻碍体内的ＭＡＯ发生作用的药品”」
-Как следует из названия, ингибиторы МАО ― вещества, ингибирующие работу моноаминоксидаз в организме.
+Как следует из названия, ингибиторы МАО – вещества, ингибирующие работу моноаминоксидаз в организме.
 
 内海「で、このモノアミン酸化酵素っていうのはね？」%K%P
 So what does that monoamine oxidation do?
@@ -366,7 +366,7 @@ The sympathetic nerves control blood pressure.
 内海「つまり、ＭＡＯ阻害剤を摂取することによって――」%K%P
 So if the MAO inhibitor is taken——
 内海「换句话说，摄取了ＭＡＯ阻碍剂之后——」
-Таким образом, если принять ингибитор МАО―
+Таким образом, если принять ингибитор МАО–
 
 悟「わかったよ、もう充分だ」%K%P
 I understand, that's enough explaining.
@@ -406,7 +406,7 @@ Most likely... the blood vessels in the brain will rupture...
 悟「最悪の場合は……死に至る……とか……」%K%P
 And then, in the worst-case scenario... death... I think...
 悟「最坏的情况下……会导致死亡……」
-В худшем случае ― смерть... Думаю, так...
+В худшем случае – смерть... Думаю, так...
 
 内海は深くうなずいて続けた。%K%P
 Utsumi nods deeply before continuing.
@@ -471,7 +471,7 @@ That's why, conversely...
 内海「チラミンが体内に残留していない状態だったら、いくらＭＡＯ阻害剤を飲んだところで、それは無害ってことになるわ」%K%P
 If you're in a situation where there is no tyramine present in your body, no matter how much of the MAO inhibitor you drank, it would be completely harmless.
 内海「假如没有酪胺残留在体内的话，不管喝多少ＭＡＯ阻碍剂也不会有害」
-Если в твоём теле нет тирамина, то не важно, как много ингибитора МАО ты принял, ― он будет абсолютно безвреден.
+Если в твоём теле нет тирамина, то не важно, как много ингибитора МАО ты принял, – он будет абсолютно безвреден.
 
 内海「チラミンは、遅くとも４８時間も経てば、身体の中からは完全に消えてしまう」%K%P
 Tyramine will completely disappear from the body after 48 hours at the latest.
@@ -571,7 +571,7 @@ Was Hotori the one who spread the MAO inhibitor on the cheese after all?
 『痛みや苦しみを取り除くという意味に於いては医者と同じね？』%K%P
 “Isn't taking away pain and suffering like that the same as what a doctor does?”
 “从帮助人消除痛苦的角度来说，这跟医生是一样的吧？”
-"Избавила от боли и страданий ― совсем как доктор, не находишь?"
+"Избавила от боли и страданий – совсем как доктор, не находишь?"
 
 穂鳥のことを考えると沈鬱な気分になった。%K%P
 Thinking about Hotori only makes me feel depressed.

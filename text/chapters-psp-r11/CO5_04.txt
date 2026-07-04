@@ -256,7 +256,7 @@ I said you've got it all wrong!
 こころ「あれは、私と黄泉木さんとゆに、３人分の食糧をひとつにまとめただけだったんです！」%K%P
 What you ate was our combined rations! Yomogi-san's, Yuni's, and mine!
 心「那是我和黄泉木先生还有悠尼三个人的食物！」
-Это были наши ― Ёмоги, Юни и моя ― части еды, объединённые в одну!
+Это были наши – Ёмоги, Юни и моя – части еды, объединённые в одну!
 
 黛「フン、だまされるもんか……」%K%P
 Hmph, you think you can trick me...
@@ -291,7 +291,7 @@ We have to help each other.
 こころ「黛さん！　あなたは、自分のやったことが――」%K%P
 Mayuzumi-san! What you've done——
 心「黛！你知道自己做的事——」
-Маюдзуми-сан! То, что вы сделали―
+Маюдзуми-сан! То, что вы сделали–
 
 黄泉木「とにかく、小屋に戻ろう。このままじゃ凍え死ぬ」%K%P
 In any case, let's go back to the cabin. We'll die of the cold if we keep hanging around here.
@@ -571,7 +571,7 @@ So Mayuzumi's theft of our rations becomes all the more unforgivable to him.
 黄泉木「だからって、黛を責めても、食糧が戻ってくるわけじゃない」%K%P
 Condemning her won't bring the food back.
 黄泉木「就算再怎么责怪黛，粮食也回不来啊」
-Обвиняй её, не обвиняй ― наша еда обратно не вернётся.
+Обвиняй её, не обвиняй – наша еда обратно не вернётся.
 
 ゆに「う、うぅー。そうだけど……」%K%P
 Uu-Uuuu. Right, but...

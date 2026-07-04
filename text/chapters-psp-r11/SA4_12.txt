@@ -345,12 +345,12 @@ Gradually, the intervals between each breath grow longer and longer.
 目に映るものは銀色の雪原……。%K%P
 What I see is a silver snowfield...
 映在眼中的是银色的雪原……
-Предо мной ― отливающий серебром снег.
+Предо мной – отливающий серебром снег.
 
 視界の果てには零れ落ちそうな星空……。%K%P
 At the edge of my sight is a starry sky that seems like it's about to overflow...
 视野的尽头是零落的星空……
-И последнее, что я вижу, ― это переливающееся миллиардами звёзд небо, готовое обрушиться в любой момент.
+И последнее, что я вижу, – это переливающееся миллиардами звёзд небо, готовое обрушиться в любой момент.
 
 星々のきらめきに包まれながら……。%K%P
 Surrounded by the twinkling of the stars...
@@ -734,7 +734,7 @@ Whoever just entered has suddenly stolen the knife out of my left hand.
 悟「なっ！？」%K%P
 Wh-!?
 悟「啊！？」
-Че―?!
+Че–?!
 
 誰だ！？%K%P
 Who's there!?
@@ -764,7 +764,7 @@ Her entire body is covered in blood.
 腕や服や顔が、赤黒く染まっている。%K%P
 Her arms, clothes, and face are all dyed a dark red.
 手腕、衣服还有脸，都被染成了暗红色。
-Её руки, одежда, лицо ― всё багрового цвета.
+Её руки, одежда, лицо – всё багрового цвета.
 
 ひょっとしたら、榎本が殺される間際、穂鳥はそのすぐ側にいたのかも知れない。%K%P
 Had Hotori been standing right next to Enomoto when it happened?

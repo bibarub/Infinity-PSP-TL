@@ -126,7 +126,7 @@ It's a magnificent scene.
 真っ青な空は、手が届きそうなほど近くに感じる。%K%P
 The deep blue sky feels so close you could reach out and touch it.
 蔚蓝的天空近在眼前，仿佛触手可及。
-Глубокое чистое небо кажется таким близким, что вот протяни руку ― и ты его коснёшься.
+Глубокое чистое небо кажется таким близким, что вот протяни руку – и ты его коснёшься.
 
 太陽の光が、真っ白な雪をキラキラと輝かせている。%K%P
 The pure white snow sparkles in the sunlight.
@@ -246,7 +246,7 @@ For the time being, I decide to take the things which catch my eye.
 羊毛のセーターを着込み、手袋をはめる。%K%P
 I put on a wool sweater as an extra layer, then some gloves.
 穿上羊毛制的毛衣，戴好手套。
-Поверх одежды я надеваю шерстяной свитер, а на руки ― перчатки.
+Поверх одежды я надеваю шерстяной свитер, а на руки – перчатки.
 
 %TS032ピッケル%TEがあったので、なんとなく持っていくことにする。%K%P
 There's an %TS032ice ax%TE, which I decide to take too for some reason.
@@ -781,7 +781,7 @@ It would be too dangerous.
 でも、ひとりで行かせていいんだろうか。%K%P
 But so is going alone.
 不过，就这样让黄泉木一个人去好吗？
-Но ведь идти одному ― тоже.
+Но ведь идти одному – тоже.
 
 どうせ私は、小屋に戻ったところでネガティブなことばかり考えてしまいそうだった。%K%P
 Anyhow, if I return to the cabin, I'll likely only think negative things.

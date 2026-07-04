@@ -1,5 +1,5 @@
 ﻿いきなり、天井の穴から顔をのぞかせたゆに――。%K%P
-Without warning, Yuni's head appears from the hole in the ceiling――
+Without warning, Yuni's head appears from the hole in the ceiling——
 突然，悠尼从天花板的洞中探出头来——
 В этот момент из отверстия в потолке внезапно появляется голова Юни.
 
@@ -506,7 +506,7 @@ The palm of your hand.
 ゆに「右でも左でもいいから、見せて？」%K%P
 It doesn't matter if it's the right or left, so would you show me?
 悠尼「左手也好右手也好，总之让我看看吧？」
-Левая или правая ― без разницы. Покажешь?
+Левая или правая – без разницы. Покажешь?
 
 悟「まさか……」%K%P
 No way...
@@ -536,7 +536,7 @@ Isn't that just fortune-telling!?
 ゆに「占いだって、予知能力の一種じゃん」%K%P
 Fortune-telling is a kind of precognition!
 悠尼「占卜也是预知能力之一嘛」
-Гадание ― это тоже предвидение.
+Гадание – это тоже предвидение.
 
 ゆに「もう、いいから見せてよぉ」%K%P
 Come on already and show meeee!

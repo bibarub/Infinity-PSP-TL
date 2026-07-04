@@ -451,7 +451,7 @@ They're all runny and slimy! Isn't it disgusting?
 悟「見た目もさ、岩みたいにゴツゴツしてて、ぶさいくだし」%K%P
 Even the way they look, all rough like a rock, is hideous!
 悟「外观也像岩石那样坚硬笨拙」
-Даже выглядит она уродливо ― просто булыжник!
+Даже выглядит она уродливо – просто булыжник!
 
 内海「へ〜、カボチャが嫌いなんて珍しいわねぇ〜」%K%P
 Huh〜, it's rare for someone to dislike pumpkins that much.
@@ -906,7 +906,7 @@ Afterward, I'd collapsed onto the floor and was then attacked by intense drowsin
 なるほど、ゼグタミンは睡眠薬……。%K%P
 I see, Zegtamin is a sleeping pill...
 原来如此，Ｚｅｇｔａｍｉｎ是安眠药……
-Значит, "Зегтамин" ― это снотворное...
+Значит, "Зегтамин" – это снотворное...
 
 言われてみるまで気づかなかったが、そう考えれば納得がいった。%K%P
 I hadn't noticed until she mentioned it, but now that I think about it, it makes sense.

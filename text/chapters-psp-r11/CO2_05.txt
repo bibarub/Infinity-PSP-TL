@@ -86,7 +86,7 @@ Which one do you want, Kokoron?
 ゆに「メロン味と、パイン味があるんだよ」%K%P
 There's a melon-flavored and pineapple-flavored one.
 悠尼「有蜜瓜味和菠萝味的」
-Одна со вкусом дыни, другая ― ананаса.
+Одна со вкусом дыни, другая – ананаса.
 
 こころ「そうねぇ……」%K%p
 Let's see...
@@ -446,12 +446,12 @@ After a bit of friendly chatter, I gather my resolve and decide to ask him:
 ゆには双子？
 Is Yuni a twin?
 悠尼是双胞胎？
-Юни ― близнец?
+Юни – близнец?
 
 ゆにはクローン？
 Is Yuni a clone?
 悠尼是克隆人？
-Юни ― клон?
+Юни – клон?
 
 こころ「ゆに、あなたって双子とかじゃないよね？」%K%P
 Yuni, you're not a twin or anything, right?
@@ -466,7 +466,7 @@ Yuni exists as two people.
 その最も単純な解が『双子』である可能性だ。%K%P
 The simplest solution would be if he were a twin.
 最简单的解释就是“双胞胎”。
-Самое простое этому объяснение ― у Юни есть брат-близнец.
+Самое простое этому объяснение – у Юни есть брат-близнец.
 
 彼が双子なら、こことスフィアの２箇所でゆにを目撃したことに、矛盾はなくなる。%K%P
 If he were a twin, that would take care of the contradiction of witnessing him both here and at SPHIA.
@@ -521,7 +521,7 @@ Yuni exists as two people.
 その最も単純な解が『クローン』である可能性だ。%K%P
 The simplest solution would be if he were a clone.
 最简单的解释就是“克隆人”。
-Самое простое этому объяснение ― один из них является клоном.
+Самое простое этому объяснение – один из них является клоном.
 
 彼がクローンなら、こことスフィアの２箇所でゆにを目撃したことに、矛盾はなくなる。%K%P
 If he were a clone, that would take care of the contradiction of witnessing him both here and at SPHIA.
@@ -1061,7 +1061,7 @@ Yomogi continues to carefully wipe the blade as he says that.
 黄泉木「ナイフってのはデリケートな代物なんだ」%K%P
 A knife is a delicate thing.
 黄泉木「小刀是精细的物件」
-Нож ― это деликатный инструмент.
+Нож – это деликатный инструмент.
 
 黄泉木「きちんと日頃から手入れしてあげないと、いざってときに役に立たなくなるからね」%K%P
 If you don't take care of it on a regular basis, it might not be of any use when you need it the most.
@@ -1121,7 +1121,7 @@ I pull it out from the sheath.
 全長３４，５ｃｍくらい。刃の長さは２０ｃｍくらいだ。%K%P
 The overall length is about 34.5 cm. The blade itself is about 20 cm in length.
 全长３４．５厘米左右，刃长大约２０厘米。
-Длина ножа примерно тридцать четыре сантиметра, из них сантиметров двадцать ― лезвие.
+Длина ножа примерно тридцать четыре сантиметра, из них сантиметров двадцать – лезвие.
 
 刃は分厚く、５ｍｍくらいはありそうだ。%K%P
 The blade is thick, about 5 mm at the blunt end.

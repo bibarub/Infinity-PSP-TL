@@ -101,7 +101,7 @@ Maybe she'll be able to find the helicopter.
 もしかしたら――%K%P
 Maybe——
 也许——
-Может быть―
+Может быть–
 
 私は首を振った。%K%P
 I shake my head.
@@ -721,7 +721,7 @@ Pulling at the hand of the sobbing Mayuzumi, I walk back in the direction where 
 いきなりだった。%K%P
 It happens without warning.
 突然之间。
-Внезапно―
+Внезапно–
 
 黛は振り向きざまに、私にピッケルを振るってきた。%K%P
 Mayuzumi whirls around and swings her ice ax toward me.
@@ -1310,7 +1310,7 @@ Mayuzumi violently shakes my hand off.
 黛「そんなの、行ってみなくちゃわからないでしょ……！？」%K%P
 We won't know that until we go and see, right...!?
 黛「我不去看一下怎么能够死心……！？」
-Пока не увидим ― не узнаем, верно?!
+Пока не увидим – не узнаем, верно?!
 
 黛「最初から諦めてたら……助かるものも助からないわ！」%K%P
 If we give up from the very beginning... we won't save even what could be saved!
@@ -1555,7 +1555,7 @@ Do you know what Yuni said to me?
 こころ「『鈴を助けてあげて』って、そう言ったんですよ……！」%K%P
 ‘Go and save Lin’, that's what he said...!
 心「他说“帮帮铃吧”，他是这么跟我说的……！」
-"Иди и спаси Рин", ― вот что он сказал!
+"Иди и спаси Рин", – вот что он сказал!
 
 こころ「黄泉木さんは、なんて言ったと思いますか？」%K%P
 What do you think Yomogi-san told me?
@@ -1565,12 +1565,12 @@ What do you think Yomogi-san told me?
 こころ「『生きている限り、私達には生きる義務と、みんなを生かす義務がある』って……」%K%P
 ‘As long as we're alive, we have the duty to live, and the duty to help each other live as well’... That's what he said...
 心「他说“只要还有一口气在，我们每个人都有活下去的义务，和帮助大家一起活下去的义务”……」
-"Пока живы... мы обязаны жить... и помогать друг другу выжить", ― вот его слова...
+"Пока живы... мы обязаны жить... и помогать друг другу выжить", – вот его слова...
 
 こころ「『黛を死なせるな』って、そう言ったんですよ……！」%K%P
 ‘Don't let Mayuzumi die’, that's what he told me...!
 心「他还说“别让黛死去”，他就是这么跟我说的……！」
-"Не дайте Маюдзуми погибнуть", ― так он мне сказал!..
+"Не дайте Маюдзуми погибнуть", – так он мне сказал!..
 
 黛「…………」%K%P
 ......
@@ -1690,7 +1690,7 @@ That's right... You should have just been honest like that from the beginning...
 黛「人間なんて……しょせん、自分だけがかわいい生き物なんだから……」%K%P
 Because... in the end, humans are beings that only value themselves...
 黛「人这种动物……说到底是只顾自己的……」
-Потому что... в конечном итоге люди ― милые существа, думающие только о себе...
+Потому что... в конечном итоге люди – милые существа, думающие только о себе...
 
 こころ「…………」%K%P
 ......

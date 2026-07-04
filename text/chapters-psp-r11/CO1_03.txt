@@ -26,7 +26,7 @@ A basement, huh...
 ここが地下だとするなら、さっきまでいたフロアは１階だということになる。%K%P
 If this is the basement, then that would mean the floor I was just on was the first floor.
 这里是地下室的话，刚才所在的就是一楼了。
-Раз это подвал, то наверху ― первый этаж.
+Раз это подвал, то наверху – первый этаж.
 
 もっとも、あの外界へと通じる扉が正面玄関だとすれば当然のことだが……。%K%P
 But then again, the door leading outside should have made that obvious...
@@ -351,7 +351,7 @@ Inubushi keeps staring at me expressionlessly.
 その顔からは何を考えているのかまったく読み取ることができない。%K%P
 Her face is devoid of any emotion; it's hard to tell if she's thinking anything at all.
 完全无法从那个表情中看出她在想些什么。
-Её лицо лишено всяких эмоций ― сложно сказать, о чём она сейчас думает.
+Её лицо лишено всяких эмоций – сложно сказать, о чём она сейчас думает.
 
 私は平静を装うべく必死に笑みを浮かべて見せた。%K%P
 I try to hide my panic behind a calm smile.
@@ -521,7 +521,7 @@ And by now, I know everything there is to know about you.
 こころ「あなたがいつどこで生まれ、どんな環境で育ち、これまで何をしてきたのかも、全部……」%K%P
 When and where you were born, what kind of environment you were brought up in, what you've done up until now, all of it...
 心「你是什么时候在哪里出生，在什么环境下长大，到现在为止都做了些什么，全部……」
-Когда и где ты родилась, в какой среде росла, чем до сих пор занималась ― всё.
+Когда и где ты родилась, в какой среде росла, чем до сих пор занималась – всё.
 
 こころ「当然、あなたに姉妹がいないことも知ってます」%K%P
 Of course, I also know you have no sisters.
@@ -616,7 +616,7 @@ She tilts her head as if in wonder and gives me a quick glance, then averts her 
 そらした視線が再び私の方へと向けられたそのとき――。%K%P
 She throws me another glance, and at that moment——
 当她的视线再次回到我这里时——
-Она снова поднимает на меня взгляд, и в этот момент―
+Она снова поднимает на меня взгляд, и в этот момент–
 
 彼女は突然、いきりたったかのように力強く立ち上がった。%K%P
 As if having lost her temper, the girl stands up forcefully.
@@ -926,7 +926,7 @@ After I've glanced around the room, I tilt my head toward Inubushi Keiko.
 彼女の右手には黒いサインペンが、左手にはＡ６サイズのメモ用紙が握られていた。%K%P
 She has a black felt-tip pen in her right hand and a size A6 memo pad in her left.
 她右手握着黑色签字笔，左手拿着Ａ６稿纸。
-В правой руке она держит чёрный фломастер, в левой ― блокнот формата А6.
+В правой руке она держит чёрный фломастер, в левой – блокнот формата А6.
 
 きっとこの部屋のどこかで見つけたのだろう。%K%P
 She most likely found them somewhere in this room.

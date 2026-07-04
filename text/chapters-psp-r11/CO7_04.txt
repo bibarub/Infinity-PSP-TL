@@ -446,7 +446,7 @@ I'm here to bring you back...
 黄泉木「夜の山に出るなんて、自殺行為だからな……」%K%P
 It's suicidal to go out into the mountains at night...
 黄泉木「像你这样半夜在山上乱晃简直就是自杀……」
-Это самоубийство ― идти ночью в горах.
+Это самоубийство – идти ночью в горах.
 
 黄泉木「足跡を追って来たんだが……いろいろあって遅くなった……」%K%P
 I was following your footprints, but... some things happened that slowed me down...
@@ -991,7 +991,7 @@ Wanting to check the compass, I reach a hand into my pocket.
 その刹那――%K%P
 At that moment——
 这个瞬间——
-В этот момент―
+В этот момент–
 
 足下の雪が崩れた。%K%P
 The snow under my feet collapses.
@@ -1366,7 +1366,7 @@ I sit in place, dazed and petrified.
 ――と、その時である。%K%P
 ——And then the time comes.
 ——就在这时。
-И тут―
+И тут–
 
 こころ「逃げて！　ふたりとも逃げて！」%K%P
 Run away! You two, get away from here!
@@ -1406,7 +1406,7 @@ I look in the direction of the ridge.
 白煙が猛烈な勢いで迫る――%K%P
 White smoke is approaching with raging force——
 白烟以排山倒海之势压过来——
-Белая волна приближается с пугающей скоростью―
+Белая волна приближается с пугающей скоростью–
 
 こころ「ゆに、逃げて！」%K%P
 YUNI, RUN!

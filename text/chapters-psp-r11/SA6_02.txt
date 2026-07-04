@@ -151,7 +151,7 @@ Do you think...
 悟「榎本を、あの男を殺したのがオレだって、そう思ってるのか？」%K%P
 Do you think... that I'm the one who killed Enomoto?
 悟「以为是我杀死了鼷本——那个男人吗？」
-Не считаешь, что того мужчину ― Эномото ― убил я?
+Не считаешь, что того мужчину – Эномото – убил я?
 
 ゆに「思ってるも何もないよ」%K%P
 This goes way beyond just thinking.
@@ -281,7 +281,7 @@ Yuni, please understand!
 悟「肉体は同じでも、オレとこころは別の人格を持った……」%K%P
 Our body is the same, but Kokoro and I have different personalities...
 悟「虽然肉体相同，但我和心拥有不同的人格……」
-Тело ― одно, но я и Кокоро ― разные люди...
+Тело – одно, но я и Кокоро – разные люди...
 
 ゆに「いいかげんにしてよ！　こっちはもうウンザリなんだよ！」%K%P
 Enough already! I'm sick of it!
@@ -301,12 +301,12 @@ I don't know anything about this DID or whatever, and I don't care!
 ゆに「悟もこころもない！　あんたはあんただ！」%K%P
 Enough with all the Satoru this and Kokoro that! You are you!
 悠尼「不管是悟还是心！你就是你！」
-Сатору или Кокоро ― мне безразлично! Ты ― это ты!
+Сатору или Кокоро – мне безразлично! Ты – это ты!
 
 ゆに「おまえはおまえなんだよ！」%K%P
 Just you!
 悠尼「你这家伙就是你！」
-Ты ― это просто ты!
+Ты – это просто ты!
 
 ゆに「あの男の人を殺し、ぼくまで殺そうとした……」%K%P
 You killed that man, and you tried to kill me too...
@@ -631,7 +631,7 @@ Hotori's suspicious behavior, Utsumi's quest for revenge...
 そんな状況で、頼りにしていたゆにまでも失ってしまった。%K%P
 And now I've lost Yuni, the only one I could rely on.
 这种状况下，又失去了可靠的悠尼。
-И вот я лишился Юни ― единственного, на кого мог положиться.
+И вот я лишился Юни – единственного, на кого мог положиться.
 
 もうとてもオレの手に負えるような事態ではない。%K%P
 This isn't the sort of situation I can possibly manage anymore.

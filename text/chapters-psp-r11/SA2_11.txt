@@ -206,12 +206,12 @@ Memories from yesterday arise like flashbacks.
 ――時計台からの転落。%K%P
 ——My fall from the clock tower.
 ——从钟楼上跌落。
-― Падение с башни.
+– Падение с башни.
 
 ――バスタブで溺れかけたこと。%K%P
 ——My nearly drowning in the bathtub.
 ——在浴缸里溺水。
-― Попытка утопить меня в ванне.
+– Попытка утопить меня в ванне.
 
 信じがたいことではあったが、やはりオレの命は狙われていたらしい。%K%P
 It's still hard to believe, but it appears that someone really is after my life.
@@ -540,7 +540,7 @@ My entire body is covered in a cold sweat.
 このままでは――%K%P
 At this rate——
 这样下去的话——
-Меня же так―
+Меня же так–
 
 ――殺される！！%K%P
 ——I'll be killed!

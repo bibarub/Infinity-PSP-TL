@@ -26,7 +26,7 @@ The air inside the shelter cabin is so dry that it's getting difficult to even b
 そう……空気はあまりにも冷たくて、吸い込むと肺が痛い。%K%P
 Yes... The air is so cold that breathing in makes my lungs cry out in pain.
 是的……空气太冷了……呼吸起来肺都痛。
-Каждый вздох обжигает ― так холоден воздух.
+Каждый вздох обжигает – так холоден воздух.
 
 鼻から呼吸をすると、鼻の中が凍ってしまいそうだった。%K%P
 And when I breathe in through my nose, I feel as if the inside of it will freeze solid.
@@ -457,7 +457,7 @@ But things are different now.
 この小屋にいるゆには、『未来のゆに』である可能性がある。%K%P
 There's a chance that the Yuni inside this cabin is actually the Yuni of the future.
 这个小屋里的悠尼，有可能是“未来的悠尼”。
-Есть вероятность, что Юни в этой хижине ― на самом деле "Юни из будущего".
+Есть вероятность, что Юни в этой хижине – на самом деле "Юни из будущего".
 
 だから――%K%P
 If so——

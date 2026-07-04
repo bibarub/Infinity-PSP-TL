@@ -326,7 +326,7 @@ Didn't I write it in one of my messages?
 悟「『借りた恩は必ず返す主義なんだ』って……」%K%P
 ‘I take it upon myself to always repay favors’...
 悟「“我是有恩必报的那种人”……」
-Я всегда возвращаю долги ― таков мой принцип
+Я всегда возвращаю долги – таков мой принцип
 
 悟「だから……」%K%P
 So...
@@ -376,7 +376,7 @@ I don't want to lose you.
 こころ「バカだよ、そんなの……」%K%P
 Idiot, what are you...?
 心「笨蛋，那种事……」
-Идиот, что ты―
+Идиот, что ты–
 
 悟「ああ、なんとでも言ってくれ」%K%P
 Oh, say whatever you want.
@@ -456,7 +456,7 @@ All I can hear is the faint sound of her breathing.
 現在時刻――午前６時４８分。%K%P
 Present time——6:48 AM.
 现在时刻——清晨６时４８分。
-Текущее время ― 6:48.
+Текущее время – 6:48.
 
 雪崩発生まで、残り５分だった。%K%P
 Five minutes until the avalanche.
@@ -576,7 +576,7 @@ I shake off the Grim Reaper's shadow, and I walk.
 右手にはコンパス、左手には腕時計……。%K%P
 With the compass in my right hand and the wristwatch in my left...
 右手是指南针，左手是手表……
-В правой руке зажат компас, в левой ― наручные часы...
+В правой руке зажат компас, в левой – наручные часы...
 
 その腕時計の時刻は今――６時５０分を示していた。%K%P
 The present time according to the watch is——6:50.
@@ -681,7 +681,7 @@ Satoru...!?
 黄泉木「きみは……いったい……」%K%P
 Who... are you...?
 黄泉木「你……究竟……」
-Ты... кто, чёрт по―
+Ты... кто, чёрт по–
 
 話をしている時間はない。%K%P
 We have no time for chit-chat.
@@ -831,7 +831,7 @@ I have to get them out of here before...!
 現在時刻――午前６時５３分。%K%P
 Present time——6:53 AM.
 现在时刻——清晨６时５３分。
-Текущее время ― 6:53.
+Текущее время – 6:53.
 
 尾根の方を仰ぎ見た。%K%P
 I look up at the ridge.

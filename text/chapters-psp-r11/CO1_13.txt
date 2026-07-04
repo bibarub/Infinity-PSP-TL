@@ -361,7 +361,7 @@ Hey, go over there, will you?
 黛に文句を言われたが、気にしている場合ではない。身体が凍えそうなのだ。%K%P
 This isn't the time to worry about what she just said since my body feels like it's frozen.
 虽然黛很是不满，但现在不是在意她的时候。因为身体已经快冻僵了。
-Я совершенно замёрзла ― не время придавать значение её мелким упрёкам.
+Я совершенно замёрзла – не время придавать значение её мелким упрёкам.
 
 黛「フンッ」%K%P
 Hmph!
@@ -416,7 +416,7 @@ Anyway, my body is now returning to normal.
 私は心も身体も冬川こころに戻れたわけだ。%K%P
 My heart and my body have also both returned to being those of Fuyukawa Kokoro.
 我身心都回到了冬川心这里。
-Я снова Фуюкава Кокоро ― и разумом, и плотью.
+Я снова Фуюкава Кокоро – и разумом, и плотью.
 
 でも、確かなのはそれだけだ。%K%P
 But that's all I can be certain of for now.
@@ -591,7 +591,7 @@ Yeah, that's right.
 黄泉木「きみのなかのもうひとりの人格、彼のことだよ」%K%P
 It's about him, the other personality inside of you.
 黄泉木「你心里的另一个人格，就是他了」
-О другой личности внутри тебя ― Юкидо Сатору.
+О другой личности внутри тебя – Юкидо Сатору.
 
 私は頭がクラクラした。%K%P
 My head feels dizzy.
@@ -1831,7 +1831,7 @@ If it was a prank, then the guy who made this newspaper article would have had t
 黛「私達４人が助かることも、この避難小屋へたどりつくことも、全部ぜんぶ知ってたことになるのよ！」%K%P
 The four of us surviving, us making it to this shelter cabin, that guy would have to know all of this!
 黛「我们四个人存活下来，到达这个避难小屋的事情，也全部被预言到了呀！」
-То, что мы вчетвером выживем, что мы доберёмся до этой горной хижины, ― он должен был всё это знать!
+То, что мы вчетвером выживем, что мы доберёмся до этой горной хижины, – он должен был всё это знать!
 
 黛「予言者？　予知能力者？　それとも%TS009ラプラスの悪魔%TEかしら？」%K%P
 A prophet? Or perhaps someone who can predict the future? Or maybe even %TS009Laplace's demon%TE?
@@ -1961,7 +1961,7 @@ It still can't be explained, right?
 黄泉木「未来の新聞が、どうしてこんなところにあるんだ？」%K%P
 Why is a newspaper article from the future in a place like this?
 黄泉木「未来的报纸，为什么会在这里？」
-"Она из будущего" ― но каким тогда образом она здесь появилась?
+"Она из будущего" – но каким тогда образом она здесь появилась?
 
 黄泉木「堂々巡りだ」%K%P
 We're just going around in circles.
@@ -1996,7 +1996,7 @@ Does that sound good? Just think of it like this.
 黄泉木「これは、どう解釈したって同じことなんだ」%K%P
 No matter how we explain this, the result is the same.
 黄泉木「这件事，无论怎么解释都是一样的」
-Не важно, как интерпретировать, ― результат будет одинаков.
+Не важно, как интерпретировать, – результат будет одинаков.
 
 黄泉木「どのみち説明のつかないことなんだ」%K%P
 Because it's not something that can be explained, no matter what we do.
@@ -2011,7 +2011,7 @@ If so... then let's just think positively.
 黄泉木「あの新聞はただの悪戯で……」%K%P
 That the newspaper article is just a prank...
 黄泉木「那个报纸只是恶作剧……」
-Что эта статья ― всего лишь чей-то розыгрыш...
+Что эта статья – всего лишь чей-то розыгрыш...
 
 黄泉木「僕達は必ず生きて帰れる、と」%K%P
 And all of us will make it back alive for sure.
@@ -2266,7 +2266,7 @@ His body is warm.
 彼のぬくもりは夢ではない、と思いたい。%K%P
 I really want to believe his warmth isn't just a dream.
 我想相信，他的温暖并不是梦。
-Я искренне хочу верить, что его тепло ― это не сон.
+Я искренне хочу верить, что его тепло – это не сон.
 
 こころ「ねえ、黄泉木さん……」%K%P
 Hey, Yomogi-san...
@@ -2366,7 +2366,7 @@ Is that really the truth?
 そもそも、あのスフィアの夢は本当に夢なのだろうか。%K%N
 Was the time I spent in SPHIA even a dream?
 说起来，那个ＳＰＨＩＡ的梦真的是梦吗。
-Правда ли, что время, проведённое в SPHIA, ― сон?
+Правда ли, что время, проведённое в SPHIA, – сон?
 
 避難小屋でベッドに横になっているこの私は、現実なのだろうか。%K%P
 Is the Kokoro lying here on the bed in this shelter cabin even real?
@@ -2376,17 +2376,17 @@ Is the Kokoro lying here on the bed in this shelter cabin even real?
 どちらが夢で、どちらが現実なのか。%K%N
 Which one is the dream, and which one is reality?
 哪一边是梦，哪一边是现实呢？
-Что есть сон, а что ― реальность?
+Что есть сон, а что – реальность?
 
 それとも、どちらも夢？%K%N
 Or perhaps both of them are a dream?
 还是说，都是梦？
-Или и то и другое ― сон?
+Или и то и другое – сон?
 
 どちらも、現実？%K%N
 Or perhaps both are reality?
 都是现实？
-Или, может быть, и то и то ― реальность?
+Или, может быть, и то и то – реальность?
 
 この避難小屋で、私が意識を失っている間、私の身体は何者かによって操られていた。%K%N
 When I lose consciousness in this shelter cabin, who is it that's controlling my body?
@@ -2491,7 +2491,7 @@ That must be it.
 ……そう言えば、スフィア側での私の最後の記憶は、バスルームだった。%K%N
 ...Now that I think about it, the last thing I remember about SPHIA is being in the bathroom.
 ……说起来，在ＳＰＨＩＡ那边我最后的记忆是在浴室里。
-...и сейчас... последнее, что я могу вспомнить о SPHIA, ― инцидент в ванной.
+...и сейчас... последнее, что я могу вспомнить о SPHIA, – инцидент в ванной.
 
 あの時、いきなりバスルームの電気が消えて……。%K%N
 At that time, the bathroom lights had suddenly gone out...

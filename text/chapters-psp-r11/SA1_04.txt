@@ -71,7 +71,7 @@ Leaving the bed, I switch on the lights.
 室内に転がっている日用品は、すべてオレの私物だ。%K%P
 The everyday items lying around the room are all mine.
 室内所摆放的日用品，都是我的东西。
-Все вещи, разбросанные по комнате, ― мои.
+Все вещи, разбросанные по комнате, – мои.
 
 何かが追加されているわけでも、削除されているわけでもなかった。%K%P
 Nothing has been added, and nothing has been removed.
@@ -121,7 +121,7 @@ I breathe a sigh of relief.
 ここが現実の世界だとするならば、今までオレが見ていたのは虚構の世界だったということになる。%K%P
 But if this is the real world, that means what I saw wasn't real.
 如果这里是现实世界的话，那么方才我所见的就是虚构的世界了。
-Если это ― реальный мир, то недавние события были ненастоящими.
+Если это – реальный мир, то недавние события были ненастоящими.
 
 つまり、あの山小屋らしき場所で経験したことは、なんのことはない、単なる『夢』だったということだ。%K%P
 In other words, I'd simply been dreaming about that mountain cabin place.
@@ -151,7 +151,7 @@ It could only occur within one's imagination; in fantasies, illusions, delusions
 『万物を支配する法則』という制約から解放された場所――すなわち夢幻世界――。%K%P
 In a space free from the constraints called “the laws that rule all things”——namely, the world of dreams——
 从“支配万物的法则”这个制约中解放的地方——也就是所谓的梦幻世界——
-И там, где не действуют ни законы, ни ограничения, ― в мире грёз.
+И там, где не действуют ни законы, ни ограничения, – в мире грёз.
 
 まあ、簡単に言ってしまえば『あんなバカげた出来事は、夢じゃなきゃあり得ないだろ』という話なのだけれど。%K%P
 Well, simply said, this sort of stupid event is only possible in a dream. That's all there is to it.
@@ -306,7 +306,7 @@ I don't remember being told what to do by anyone, and I can't find anything like
 オレの意志のベクトルはゼロだった。%K%P
 My will is nothing but a null vector.
 我的意志向量是零。
-Мои желания ― как нулевой вектор.
+Мои желания – как нулевой вектор.
 
 ひとは日々の生活を営む上で、何かしらの目的を持って生きている。%K%P
 A person exists for a purpose as they live their daily life.
@@ -376,7 +376,7 @@ I know all about this place, SPHIA.
 四方に配置された小部屋、中央のこのリビング、キッチン、周囲は高い塀に囲まれていて、施設の上には時計台が……。%K%P
 The small rooms arranged in every direction, this living area in the center, the kitchen, the surroundings enclosed by a high wall, the clock tower above the facility...
 被设置在四方的小房间，中央的客厅，厨房，周围被高高的围墙包围，设施上有钟楼……
-Небольшие комнаты располагаются по периметру гостиной и кухни, здание обнесено высокой стеной, сверху ― часовая башня...
+Небольшие комнаты располагаются по периметру гостиной и кухни, здание обнесено высокой стеной, сверху – часовая башня...
 
 時計台……？%K%P
 Clock tower...?
@@ -631,7 +631,7 @@ Yuni just said “someone named Kali”.
 『っていう人』……この表現は、発話者が、直前にかかる人物と出逢ってまだ間もないか、%K%P
 “Someone named”... This expression shows that the speaker has only recently met the person,
 “叫做某某的人”……这个表现，或是表示发言者和所说的人物见面还没有多长时间。
-Судя по тому, как он это сказал ― "женщина по имени", ― он сам лишь недавно с ней встретился...
+Судя по тому, как он это сказал – "женщина по имени", – он сам лишь недавно с ней встретился...
 
 あるいは伝聞による不確かな情報であるがために人物の特定に一抹の懐疑を抱いているか、いずれかを示している。%K%P
 or is skeptical about the identity of that person as a result of unverified information from hearsay.
@@ -1046,7 +1046,7 @@ Satoru doesn't have memories of the times he becomes Kokoron, right?
 ゆに「『優希堂悟』と『冬川こころ』は、別の人格で……」%K%P
 ‘Yukidoh Satoru’ and ‘Fuyukawa Kokoro’ are different personalities...
 悠尼「“优希堂悟”和“冬川心”，是不同的人格……」
-Юкидо Сатору и Фуюкава Кокоро ― это разные личности...
+Юкидо Сатору и Фуюкава Кокоро – это разные личности...
 
 悟「冬川……こころ……」%K%P
 Fuyukawa... Kokoro...
@@ -1086,7 +1086,7 @@ However, the other questions are endless.
 『優希堂悟と冬川こころは別の人格』とはどういう意味なのか……？%K%P
 What's the meaning behind “Yukidoh Satoru and Fuyukawa Kokoro are different personalities...”?
 “优希堂悟和冬川心是不同的人格”是什么意思……
-Что значит "Юкидо Сатору и Фуюкава Кокоро ― это разные личности"?
+Что значит "Юкидо Сатору и Фуюкава Кокоро – это разные личности"?
 
 『こころになってるときの記憶がない』？　ゆには何を言いたいんだ？%K%P
 “Doesn't have memories of the times he becomes Kokoro”? What is Yuni trying to say?

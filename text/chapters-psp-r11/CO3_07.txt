@@ -326,7 +326,7 @@ I think... she did something atrocious.
 こころ「ただ、彼女の行為は悪ですが、彼女自身の善悪についてはわかりません」%K%P
 But, while her actions were evil, I don't know yet whether she herself is good or evil.
 心「不过，她的行为虽然是恶，但她本人是善是恶我并不清楚」
-Но, несмотря на всё сотворённое ею зло, я не знаю, какая она ― плохая или хорошая.
+Но, несмотря на всё сотворённое ею зло, я не знаю, какая она – плохая или хорошая.
 
 こころ「わからないから、調べてみたいと思うんです」%K%P
 It's because I don't know that I want to find out.
@@ -976,7 +976,7 @@ Once again, my voice flows out.
 『こころ、言い忘れたことがあった、聞いてくれ』%K%N
 “Kokoro, there's something I forgot to mention, so please listen.”
 “心，有件事我忘了说，你好好听着”
-"Кокоро, есть кое-что, о чём я забыл упомянуть, ― слушай внимательно".
+"Кокоро, есть кое-что, о чём я забыл упомянуть, – слушай внимательно".
 
 『たぶん、すぐには信じてもらえないと思うけど……』%K%N
 “You probably won't believe me right away, but...”
@@ -1001,7 +1001,7 @@ Once again, my voice flows out.
 『こころのいる世界は、１年後の、２０１２年なんだよ』%K%N
 “In the world you're in right now, it's one year later, the year 2012.”
 “心所在的世界，是一年后的２０１２年”
-"Мир, в котором ты сейчас, ― это мир 2012 года, на один год позже".
+"Мир, в котором ты сейчас, – это мир 2012 года, на один год позже".
 
 『疑うんなら、まわりのヤツに訊いてもらってもかまわない』%K%P
 “If you don't believe me, you can ask the people around you.”
@@ -1011,7 +1011,7 @@ Once again, my voice flows out.
 『でも、これは厳然たる事実なんだ』%K%N
 “But this is an undeniable fact.”
 “不过，这是铁一般的事实”
-"Однако это ― бесспорный факт".
+"Однако это – бесспорный факт".
 
 『受け入れて欲しい』%K%N
 “I'd like for you to accept it as it is.”
@@ -1081,7 +1081,7 @@ Why has he made such a simple mistake?
 『疑うんなら、まわりのヤツに訊いてもらってもかまわない』――そうも言っていた。%K%P
 “If you don't believe me, you can ask the people around you”——That's what he told me.
 还说“如果你不信，就尽管问问周围的人”。
-"Если не веришь мне, можешь спросить других", ― сказал Сатору.
+"Если не веришь мне, можешь спросить других", – сказал Сатору.
 
 こころ「そこまで言うなら、訊いてやろうじゃないの」%K%P
 If you're going to say something like that, then I will ask!

@@ -486,7 +486,7 @@ But he looks like he's in critical condition because he's shivering...
 黄泉木「低体温症は、ひどくなると震えが止まるんだ。そうなると応急処置じゃどうにもならない」%K%P
 With hypothermia, the body stops shivering when it becomes serious. If that happens, then you won't be able to do anything with only emergency measures.
 黄泉木「低体温症的特征是一旦病重颤抖也会停止。到那个时候，应急措施就一点用处都派不上了」
-Человек перестаёт дрожать по мере развития переохлаждения ― тогда уже меры первой помощи бессильны.
+Человек перестаёт дрожать по мере развития переохлаждения – тогда уже меры первой помощи бессильны.
 
 こころ「マッサージとか、した方がいいんじゃ？」%K%P
 Wouldn't it be better to massage him or something like that?

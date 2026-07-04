@@ -1,5 +1,5 @@
 ﻿犬伏景子――現在１９歳。%K%N
-Inubushi Keiko――currently age nineteen.
+Inubushi Keiko——currently age nineteen.
 犬伏景子——现年１９岁。
 Инубуси Кэйко, девятнадцать лет.
 
@@ -11,7 +11,7 @@ She is the serial killer who, at age seventeen, murdered twelve innocent people 
 だが、ＤＩＤと診断されたために極刑を免れ、スフィアへと送致された――%K%N
 However, due to being diagnosed with DID, she escaped capital punishment and was sent to SPHIA——
 不过，因为被诊断为ＤＩＤ，她没有被判处死刑，而是被遣送到ＳＰＨＩＡ软禁起来——
-Однако из-за вынесенного диагноза ― "ДРИ" ― она избежала высшей меры наказания и была отослана в SPHIA.
+Однако из-за вынесенного диагноза – "ДРИ" – она избежала высшей меры наказания и была отослана в SPHIA.
 
 %N
 
@@ -88,12 +88,12 @@ The past precedent was overwritten because of Inubushi Keiko, and DID became a v
 彼女がＤＩＤであると認定された理由は諸説あるが、中でも%TS036ＤＳＭ%TE−Ⅵの存在が最も大きな理由と言われている。%K%N
 There were various reasons that she was acknowledged as suffering from DID, but the biggest one is said to have been the %TS036DSM%TE-VI.
 她被认定为ＤＩＤ的理由众说纷纭，不过其中最重要的就是%TS036ＤＳＭ%TE−Ⅵ。
-Были различные причины, по которым было решено, что она страдает ДРИ, и основная из них ― %TS036DSM%TE-VI.
+Были различные причины, по которым было решено, что она страдает ДРИ, и основная из них – %TS036DSM%TE-VI.
 
 ＤＳＭ−Ⅵは、ほんの数年前――２００８年に発行された最新版のことである。%K%P
 The DSM-VI had been published just a few years earlier——the latest revision had been issued in 2008.
 ＤＳＭ−Ⅵ是在几年前——２００８年发行的最新版诊断与统计手册。
-DSM-VI ― последнее переиздание руководства ― было издано в 2008 году.
+DSM-VI – последнее переиздание руководства – было издано в 2008 году.
 
 １９９４年発行の%TS037ＤＳＭ−Ⅳ%TEにおいて、ＤＩＤだと診断すべき症状は、次の四点を満たすものと規定されていた。%K%N
 In the 1994 edition, the %TS037DSM-IV%TE, the criteria for a DID diagnosis comprised the following four points.
@@ -154,7 +154,7 @@ There have also been those who have tried to exploit this through the misuse of 
 そこで、２００８年発行のＤＳＭ−Ⅵにおいて、次の項目が追加された。%K%N
 As a result, the 2008 edition of DSM-VI included the following appended criterion.
 因此，在２００８年发行的ＤＳＭ−Ⅵ中追加了以下条目：
-Поэтому в издании руководства от 2008 года ― DSM-VI ― был добавлен ещё один критерий:
+Поэтому в издании руководства от 2008 года – DSM-VI – был добавлен ещё один критерий:
 
 %N
 
@@ -168,7 +168,7 @@ As a result, the 2008 edition of DSM-VI included the following appended criterio
 つまり、催眠術にかけられて演技ができない状態でも別の人格が現れるようなら、ＤＩＤと認めようというわけだ。%K%P
 In other words, if a different personality arose even during hypnosis, a condition in which the patient is unable to pretend, it'll be acknowledged as DID.
 也就是说，在接受催眠而无法说谎的状态下，如果仍能出现其他人格，就可以被确诊为ＤＩＤ。
-Иначе говоря, если смена личности произойдёт даже во время гипноза ― в состоянии, при котором пациент не может симулировать, ― то признаётся диагноз ДРИ.
+Иначе говоря, если смена личности произойдёт даже во время гипноза – в состоянии, при котором пациент не может симулировать, – то признаётся диагноз ДРИ.
 
 この指針はＤＩＤに懐疑的だった日本精神医学界にも影響を及ぼした。%K%N
 The addition of this guideline had an influence on the skeptical field of Japanese psychology.
@@ -298,7 +298,7 @@ In other words, they protect themselves by thinking that the one being abused is
 虐待を受けた人格も、本来は自分自身なのだから、自分の記憶として受け止めなくてはならない。%K%P
 But the abused personality was also originally a part of the self, so it's necessary to accept those memories as their own.
 而受到虐待的人格，因为原本就是自己，所以仍然会有属于自己的记忆。
-Но изначально воображаемая личность ― это часть основной личности, поэтому необходимо принимать все воспоминания как свои собственные.%K%N
+Но изначально воображаемая личность – это часть основной личности, поэтому необходимо принимать все воспоминания как свои собственные.%K%N
 
 しかし、その別人格に宿る痛みや苦しみの記憶は、主人格にとって受け入れがたいものだ。%K%N
 However, the pain and suffering inflicted on the other personality is hard for the main personality to accept.
@@ -390,14 +390,14 @@ So I continue to think about these common names.
 さて、オリジナルの犬伏景子＝『Ｋ』を除いた、この『Ａ』から『Ｊ』の１０人であるが、オリジナルとは大きく異なる性格を持っていた。%K%N
 Let's see, aside from the original Inubushi Keiko, who is “K”, the other ten from “A” to “J” are wildly different from the original in terms of personality.
 那么，除去原型犬伏景子＝“Ｋ”，从“Ａ”到“Ｊ”其他１０人的性格与原型均有极大出入。
-Если отвлечься от настоящей Инубуси Кэйко ― то есть личности K, ― остальные личности от A до J очень сильно от неё отличаются.
+Если отвлечься от настоящей Инубуси Кэйко – то есть личности K, – остальные личности от A до J очень сильно от неё отличаются.
 
 %N
 
 例えば、『Ｃ』は子どもだ。%K%N
 For example, “C” is a child.
 例如，“Ｃ”是孩童。
-Например, C ― это ребёнок.
+Например, C – это ребёнок.
 
 医師のつけたあだ名は、チャイルドフッド。%K%N
 The nickname given to him by the doctor is Childhood.
@@ -412,12 +412,12 @@ This is an innocent but extremely quick to cry six-year-old boy.
 『Ｄ』は、陰鬱な青年。%K%N
 “D” is a melancholy young man.
 “Ｄ”是个阴郁的青年。
-D ― меланхоличный молодой человек.
+D – меланхоличный молодой человек.
 
 あだ名はダクネス。%K%N
 His nickname is Darkness.
 代号是Ｄａｒｋｎｅｓｓ。
-Его прозвище ― Darkness, "темнота".
+Его прозвище – Darkness, "темнота".
 
 塞ぎこみがちで、目を離すとすぐに自傷行為を行った。%K%N
 He tends to shut himself up and would try to hurt himself if you took your eyes off him.
@@ -429,7 +429,7 @@ He tends to shut himself up and would try to hurt himself if you took your eyes 
 『Ｆ』は、２０代後半の女性。%K%N
 “F” is a woman in her late twenties.
 “Ｆ”是接近３０岁的女性。
-F ― девушка чуть младше тридцати лет.
+F – девушка чуть младше тридцати лет.
 
 あだ名はフラウ。%K%N
 Her nickname is Frau.
@@ -533,12 +533,12 @@ Is this the personality of Suzukage Hotori?
 もちろん涼蔭穂鳥が、未知の１２番目の人格である可能性もあるが……、%K%N
 Of course, there is the possibility that Suzukage Hotori is an unknown twelfth personality...
 当然凉荫穗鸟也有可能是仍未查明的第十二个人格……
-Конечно, есть вероятность того, что Судзукагэ Хотори ― неизвестная двенадцатая личность...
+Конечно, есть вероятность того, что Судзукагэ Хотори – неизвестная двенадцатая личность...
 
 なんにせよ、私は穂鳥が犬伏の別人格であろうと確信していた。%K%N
 In any case, I'm convinced that Hotori is another personality within Inubushi.
 不管怎么说，我都确信穗鸟是犬伏的副人格。
-В любом случае я убеждена: Хотори ― личность внутри Инубуси Кэйко.
+В любом случае я убеждена: Хотори – личность внутри Инубуси Кэйко.
 
 %N%N
 
@@ -594,7 +594,7 @@ Unable to even conceive of such a thing as killing twelve innocent people, a gir
 こころ「やっぱり間違いない。穂鳥は、犬伏景子の別人格なんだわ」%K%P
 There's no mistake. Hotori's another personality of Inubushi Keiko.
 心「一定不会错。穗鸟是犬伏景子的副人格」
-Ошибки быть не может. Хотори ― альтер-личность Инубуси Кэйко.
+Ошибки быть не может. Хотори – альтер-личность Инубуси Кэйко.
 
 私は確信した。%K%N
 I'm convinced.
@@ -616,7 +616,7 @@ I can't confirm anything besides Hotori's condition yet, but...
 彼女がＤＩＤの別人格であるならば、その背後には確実に犬伏景子が――殺人鬼の人格が潜んでいるのである。%K%P
 If she is another DID personality, then behind her lurks Inubushi Keiko——the personality of a murderer.
 她既然是ＤＩＤ的副人格，那么背后一定潜藏有犬伏景子——杀人恶魔的人格。
-Даже если она одна из альтер-личностей, за ней всё равно таится Инубуси Кэйко ― личность убийцы.
+Даже если она одна из альтер-личностей, за ней всё равно таится Инубуси Кэйко – личность убийцы.
 
 こころ「……気をつけなくちゃ」%K%P
 ...I have to be careful.

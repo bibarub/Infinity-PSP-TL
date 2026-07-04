@@ -81,7 +81,7 @@ I suddenly notice that the sky has overflowed with that madder red hue.
 現在時刻――午後３時５５分。%K%P
 Present time——3:55 PM.
 现在时刻——下午３时５５分。
-Текущее время ― 15:55.
+Текущее время – 15:55.
 
 ８時まで、あと４時間もある。%K%P
 Four hours until 8.
@@ -651,7 +651,7 @@ But there's no need to waste my strength.
 床の上に落ちたものは、やはり雑誌だった。%K%P
 What's fallen to the floor is, as I suspected, a magazine.
 落在地板上的东西，果然是杂志。
-Как я и подозревал, то, что упало на пол, ― журнал.
+Как я и подозревал, то, что упало на пол, – журнал.
 
 表紙には『週刊新時評／７月２１日号』と印刷されている。%K%P
 On the front cover is the printed heading “Current Events Weekly/July 21st issue”.
@@ -816,7 +816,7 @@ Or perhaps...
 穂鳥「悟は本気で私が犯人だって、そう思ってるわけ？」%K%p
 Do you really believe I'm the culprit, Satoru?
 穗鸟「悟真的觉得我是犯人？」
-Ты действительно думаешь, что злоумышленник ― это я?
+Ты действительно думаешь, что злоумышленник – это я?
 
 ああ
 Yeah
@@ -1351,7 +1351,7 @@ My mind...
 『オレの心』は右利きだし……。%K%N
 My mind is right-handed...
 “我的心”还是右撇子……
-Мой разум ― правша...
+Мой разум – правша...
 
 頭の中が白く染まっていく。%K%N
 The inside of my head is dyed white.
@@ -1716,7 +1716,7 @@ Under the spell of that scent, I forget myself.
 ただ触れあうだけの淡いくちづけ……。%K%P
 The most fleeting kiss, our lips barely brushing...
 一个淡淡的吻迎面而来，我勉强地感受到了彼此双唇的味道……。
-Только одно касание ― лёгкий поцелуй...
+Только одно касание – лёгкий поцелуй...
 
 そのひっそりと静かな感触の中に、オレはまどろむような夢を見た。%K%P
 Within that quiet and peaceful sensation, I doze off into a dream.
@@ -1911,7 +1911,7 @@ In the corner of my mouth, only a bittersweet sphere remains.
 現在時刻――午後９時４５分。%K%P
 Present time——9:45 PM.
 现在时间──晚上９时４５分。
-Текущее время ― 21:45.
+Текущее время – 21:45.
 
 闇があたりを包んでから、もうだいぶ経つ。%K%P
 Night has long since fallen.

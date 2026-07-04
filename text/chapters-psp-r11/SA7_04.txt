@@ -186,7 +186,7 @@ Someone lives here...?
 しかしマットレスの上には布団も枕もシーツも見当たらなかった。%K%P
 But I can't see a blanket or pillows, not even sheets on the mattress.
 但是褥子上没有被子、枕头和床单。
-Но я не вижу ни одеяла, ни подушек, ни даже простыни ― лишь матрас.
+Но я не вижу ни одеяла, ни подушек, ни даже простыни – лишь матрас.
 
 住んで『いる』のではなく、住んで『いた』ということなのだろうか？%K%P
 Not “lives”, but “lived”?
@@ -201,7 +201,7 @@ The bed, the ladder, the sphere... It seems there's nothing here aside from thos
 現在時刻――午前５時２１分。%K%P
 Present time——5:21 AM.
 现在时刻——清晨５时２１分。
-Текущее время ― 5:21.
+Текущее время – 5:21.
 
 突如、地響きのような音が外から聞こえてきた。%K%P
 Suddenly, I hear a deep rumbling from outside, almost like an earthquake.
@@ -261,7 +261,7 @@ It doesn't move. It doesn't budge a millimeter.
 肩をぶつけてみてもビクともしない。%K%P
 Even when I try to force it open with my shoulder, it doesn't give in the slightest.
 用肩膀扛也没有一点动静。
-Упираюсь плечом ― безрезультатно.
+Упираюсь плечом – безрезультатно.
 
 とっさに鍵穴を探した。%K%P
 I immediately search for the keyhole.
@@ -396,7 +396,7 @@ R-Right... This is the past...
 ここにいる榎本は『過去の榎本』なのだ。%K%P
 The Enomoto here is the Enomoto of the past.
 这里的鼷本是“过去的鼷本”。
-Этот Эномото ― Эномото из прошлого.
+Этот Эномото – Эномото из прошлого.
 
 でも、なんでここにくる必要があったんだ……？%K%P
 But why would he need to come here...?
@@ -886,7 +886,7 @@ You...
 悟「なっ……」%K%P
 Wh...
 悟「什……」
-Чт―?
+Чт–?
 
 榎本「アイツの記憶を移植されてるとはいえ、ここまでなんにも理解できてないとは……」%K%P
 Even though the memories of That Guy were transplanted into you, you understand nothing, even now...
@@ -906,7 +906,7 @@ Memories? Transplanted...?
 悟「オレのこの記憶の異常は、やっぱり記憶移植だったのか？」%K%P
 This abnormal memory of mine... As I thought, it was a memory transplant?
 悟「我的记忆出现异常，果然是因为记忆移植？」
-Проблемы с памятью ― это следствие пересадки памяти?
+Проблемы с памятью – это следствие пересадки памяти?
 
 榎本「…………」%K%P
 ......
@@ -961,7 +961,7 @@ Other than that, I'll answer everything.
 榎本「何も知らないままというのは、あまりに可哀想だからな」%K%P
 It's just too pitiful for you to go on knowing nothing like this.
 鼷本「处于一无所知的状况，确实太可怜了」
-А то ничего не знающий ты ― слишком печальное зрелище.
+А то ничего не знающий ты – слишком печальное зрелище.
 
 榎本「感謝しろよ？　俺は慈悲深いんだ」%K%P
 Be grateful, okay? I'm doing this out of the goodness of my heart.
@@ -1226,7 +1226,7 @@ These two converge into a single, very simple solution.
 榎本「貴様は、朱倉岳と青鷺島の２点間で転移が行われてると考えてるだろう？」%K%P
 Being scum, I guess you thought the transfer occurs between the two points of Mount Akakura and Aosagi Island, correct?
 鼷本「你小子，认为朱仓岳和青鹭岛是在两点间进行转移的吧？」
-Ты наверняка думал, что перемещение происходит только между двумя точками ― горой Акакурой и островом Аосаги?
+Ты наверняка думал, что перемещение происходит только между двумя точками – горой Акакурой и островом Аосаги?
 
 悟「え？　転移は４点間で行われてたんじゃないのか？」%K%P
 Eh? Doesn't the transfer occur between four points?
@@ -1476,7 +1476,7 @@ Correct. In a word, ‘here’.
 榎本「『ここ』は地下に位置する」%K%P
 ‘Here’ is located underground.
 鼷本「“这里”位于地下」
-"Здесь" ― это под землёй.
+"Здесь" – это под землёй.
 
 榎本「地下にくり抜かれた広大な空間の中にな」%K%P
 In a vast space hollowed out underground.
@@ -1601,7 +1601,7 @@ And the other, the shelter cabin on Mount Akakura, in the South Hakkouda Mountai
 榎本「ふたつの空間は、東経『140度55分20秒』のラインをなぞるように存在してる」%K%P
 These two places both follow the line of 140°55'20" east longitude.
 鼷本「两个空间的存在，就像画出了东经“140度55分20秒”的线一样」
-Оба места находятся на одной линии восточной%Nдолготы ― 140°55'20".
+Оба места находятся на одной линии восточной%Nдолготы – 140°55'20".
 
 榎本「そして、ここは……」%K%P
 And finally, here...
@@ -1716,12 +1716,12 @@ Huhuh, you truly are a hopeless idiot.
 榎本「朱倉岳は２０１１年１月」%K%P
 Mount Akakura exists in January 2011.
 鼷本「朱仓岳是２０１１年１月」
-Гора Акакура ― январь 2011 года.
+Гора Акакура – январь 2011 года.
 
 榎本「青鷺島は２０１２年１月」%K%P
 Aosagi Island exists in January 2012.
 鼷本「青鹭岛是２０１２年１月」
-Остров Аосаги ― январь 2012 года.
+Остров Аосаги – январь 2012 года.
 
 榎本「だとしたら、時間も空間と同じように、両極の中点を通るように移動してたと考えるべきだろう？」%K%P
 If that's the case, shouldn't you suppose that like space, time was passing through the midpoint of the extremes as it transferred?
@@ -1751,7 +1751,7 @@ This, you scum...
 榎本「そして、冬川こころにとっての『未来』でもある」%K%P
 And to Fuyukawa Kokoro, it is the future.
 鼷本「而对冬川心来说是“未来”」
-А для Фуюкавы Кокоро ― в будущем.
+А для Фуюкавы Кокоро – в будущем.
 
 悟「あ、あぁぁ……」%K%P
 A-Aaaaah...
@@ -1881,7 +1881,7 @@ And then, there's the sound of the door being opened.
 続いて、誰かがハシゴを下りてくる音。%K%P
 And following that, the sound of someone descending the ladder.
 接着，是有人爬下梯子的声音。
-А следом ― звук шагов.
+А следом – звук шагов.
 
 誰だ？%K%P
 Who is it?
@@ -2236,7 +2236,7 @@ Saying that, Enomoto takes out his sunglasses and puts them on.
 榎本「俺とは関係のない『オレ』だからな」%K%P
 He is an ‘I’ that 'I' have nothing to do with.
 鼷本「跟“自己”没有关系的“我”啊」
-Он ― это я, к которому 'я' не имею никакого отношения.
+Он – это я, к которому 'я' не имею никакого отношения.
 
 悟「それはありがたい。では、好きにさせてもらうよ」%K%P
 ''I'''m grateful for that. Then ''I'''ll do as ''I'' please.
@@ -2366,7 +2366,7 @@ With my distorted vision, I can see my own face before me, full of twisted joy.
 オレの返り血を浴びて、真っ赤に染まった、オレが。%K%P
 The one bathing in the shower of my spurting blood, slowly turning red, is me.
 沐浴在我的鲜血中，全身鲜红的我。
-Купающийся в моей крови, пропитанный ею человек ― это я.
+Купающийся в моей крови, пропитанный ею человек – это я.
 
 悟「ぐぁ……ごぅ……ぐ、ぐぐぐぐぐ……ごあぁぁぁぁ……」%K%P
 Guah... ghh, kkk, kkkkkkk, kkkkkkh... guwaaaaahhhhhh...
@@ -2496,7 +2496,7 @@ ENOMOTO...?
 目の前のオレがエノモトで、榎本がユウキドウ……。%K%P
 The me before me is ENOMOTO, and Enomoto is YUKIDOH...
 眼前的我是鼷本，而鼷本是优希堂……
-Я, который передо мной, на самом деле ЭНОМОТО, а Эномото ― ЮКИДО...
+Я, который передо мной, на самом деле ЭНОМОТО, а Эномото – ЮКИДО...
 
 何が……いったい、どうなっているんだ？%K%P
 What... What the hell is going on?

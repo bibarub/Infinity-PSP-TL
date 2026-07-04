@@ -416,7 +416,7 @@ Should I head to Location X?
 私の行動が生み出す世界は……光溢れる天国か、闇に閉ざされた地獄か。%K%P
 The world birthed by my actions... Will it be a heaven overflowing with light or a hell engulfed in darkness?
 我的选择带我去往的目的地……是充满光辉的天国，还是遍布黑暗的地狱呢。
-Рождённый моими действиями мир ― каким он будет?.. Наполненным светом раем или же погружённым в темноту адом?
+Рождённый моими действиями мир – каким он будет?.. Наполненным светом раем или же погружённым в темноту адом?
 
 歴史を塗り替えられるのか。%K%P
 Can I repaint history?
@@ -541,7 +541,7 @@ Clinging onto the trunks of the trees, I carefully descend the mountain.
 その先に、生きる希望があることを信じて――%K%P
 Believing that a hope of living lies ahead——
 相信前方有活下去的希望——
-Я верю, что буду жить, до тех пор, пока―
+Я верю, что буду жить, до тех пор, пока–
 
 こころ「……はぁ……はぁ……」%K%P
 ...Haah... Haah...
@@ -611,7 +611,7 @@ But I can't help but say those words aloud.
 偶然では片づけられないほどに、避難小屋で、そしてスフィアで、いろいろなことが交錯しながら起こった。%K%P
 So many intricate things have happened at the shelter cabin and SPHIA that I can't resolve them as coincidence.
 避难小屋以及ＳＰＨＩＡ内交错发生的事用偶然来解释根本已经说不过去。
-События, в которые я была вовлечена, ― и в горной хижине, и в SPHIA ― от них голова идёт кругом.
+События, в которые я была вовлечена, – и в горной хижине, и в SPHIA – от них голова идёт кругом.
 
 中には、神懸かり的な、神が仕組んだとしか思えないようなことも発生したのだ。%K%P
 Some of what has occurred seems supernatural, like it must have been planned by God.
@@ -881,7 +881,7 @@ Why... are you here?
 黄泉木「どうしてって、きみが勝手に――」%K%P
 What do you mean ‘why’? It's because you went out——
 黄泉木「你还问，还不是你擅自——」
-Что значит "зачем"? Ты так внезапно―
+Что значит "зачем"? Ты так внезапно–
 
 いきなり――%K%P
 Without warning——
@@ -1056,7 +1056,7 @@ There's... no snow... or ground.
 すぐそこは断崖になっていて、雪の壁にしがみつくようにして黄泉木がいた。%K%P
 There's a cliff, and Yomogi is clinging to the edge of a wall of snow.
 那里是一片断崖，黄泉木像是贴在了断崖的壁面上。
-Там ― бездна, а Ёмоги вцепился в нависшую над пропастью снежную глыбу.
+Там – бездна, а Ёмоги вцепился в нависшую над пропастью снежную глыбу.
 
 %TS044雪庇%TEだ……。%K%P
 A %TS044cornice%TE...
@@ -1406,7 +1406,7 @@ Suddenly——
 亀裂の縁が崩れ――%K%N
 The edge of the cliff collapses——
 裂缝的边缘忽然崩坏——
-Пласт обваливается и падает вниз―
+Пласт обваливается и падает вниз–
 
 私の視界は回転し――%K%P
 My field of vision spins——
@@ -2385,7 +2385,7 @@ I recall Yomogi's words.
 黄泉木「低体温症は、ひどくなると震えが止まるんだ。そうなると応急処置じゃどうにもならない」%K%P
 With hypothermia, the body stops shivering when it becomes serious. If that happens, then you won't be able to do anything with only emergency measures.
 黄泉木「低体温症，严重到一定程度时人就不会颤抖了。到那个时候急救措施根本不起作用」
-Человек перестаёт дрожать по мере развития переохлаждения ― тогда уже меры первой помощи бессильны.
+Человек перестаёт дрожать по мере развития переохлаждения – тогда уже меры первой помощи бессильны.
 
 こころ「そんな……」%K%P
 It can't be...
@@ -2730,7 +2730,7 @@ I sit in place, dazed and petrified.
 ――と、その時である。%K%P
 ——And then the time comes.
 ——就在那个时候。
-И тут―
+И тут–
 
 唸るような地響きが聞こえてくる。%K%P
 I hear the groaning of the earth.

@@ -156,7 +156,7 @@ Having recorded DATA1 myself, I already know what's on it, but I play it back ev
 『これは世界初の女性宇宙飛行士ワレンチナ・テレシコワの言葉だ』%K%P
 “These were the words uttered by the first woman in space, Valentina Tereshkova.”
 “这句话出自全球第一位女性宇航员瓦莲京娜·捷列什科娃之口。”
-"Так сказала первая женщина, побывавшая в космосе, ― Валентина Терешкова".
+"Так сказала первая женщина, побывавшая в космосе, – Валентина Терешкова".
 
 『旧ソ連の宇宙船ヴォストーク６号に乗り込んだ彼女は、ひとり、完全な静寂と虚無に支配された宇宙空間を漂いながら……』%K%P
 “All alone aboard the former Soviet Union spaceship Vostok 6, floating in the void of space, a place of complete silence and emptiness...”
@@ -763,7 +763,7 @@ Walking around in that blizzard would be suicide.
 黄泉木「おとなしく救助を待つのが得策だ」%K%P
 Waiting quietly to be rescued is the best plan.
 黄泉木「老老实实等待救援才是上策」
-Лучшее, чем мы сейчас можем заняться, ― это дожидаться спасателей.
+Лучшее, чем мы сейчас можем заняться, – это дожидаться спасателей.
 
 黛「フン……」%K%P
 Hmph...
@@ -828,7 +828,7 @@ If we ration it, with four people we can endure for four days... Those words fro
 あとは、吹雪がやみ、救助隊がやって来るのを辛抱強く待つしかない。%K%P
 After that, all we can do is wait patiently for the blizzard to stop and the rescue team to arrive.
 接下来就只有耐心等待暴风雪的停止和救援队的到来。
-Всё, что мы можем сейчас делать, ― это ждать, когда прекратится снежная буря и прилетит спасательная команда.
+Всё, что мы можем сейчас делать, – это ждать, когда прекратится снежная буря и прилетит спасательная команда.
 
 ゆに「ねーねー、お腹すいたよ」%K%P
 Hey, hey, I'm hungry.
@@ -1112,12 +1112,12 @@ Yes, it's the date...
 今日は、平成２３年――つまり２０１１年の１月１１日のはず。%K%P
 Today's date is in Heisei 23——In other words, it should be January 11th, 2011.
 今天应该是平成２３年——也就是２０１１年的１月１１日。
-Сегодняшняя дата ― 11 января 2011 года.
+Сегодняшняя дата – 11 января 2011 года.
 
 なのに、この新聞の日付は『２０１１年７月４日』になっている。%K%P
 However, this newspaper's dated July 4th, 2011.
 可是，这张报纸的日期却是２０１１年７月４日。
-Однако дата рядом с заголовком газеты ― %N4 июля 2011 года.
+Однако дата рядом с заголовком газеты – %N4 июля 2011 года.
 
 そんなはずはない。ありえない。%K%P
 This shouldn't be. It's impossible.
@@ -1212,7 +1212,7 @@ The horrific crash of Flight 18, with the discovery of the three bodies, claimed
 助かったという唯一の生存者の氏名は――%K%N
 Saved was the sole survivor of the crash——
 唯一获救的生还者姓名是——
-Единственный, кому удалось выжить, ―
+Единственный, кому удалось выжить, –
 
 %N%N
 

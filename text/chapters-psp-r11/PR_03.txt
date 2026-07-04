@@ -61,12 +61,12 @@ Earthquakes, typhoons, lightning bolts, and avalanches took 128 lives.
 こころ「水難事故による死者の数は毎年１０００人以上」%K%P
 The number of people who die every year from accidents at sea is over 1,000.
 心「溺水者的死亡数每年有１０００人以上」
-Число ежегодно погибающих от несчастных случаев в море ― свыше тысячи.
+Число ежегодно погибающих от несчастных случаев в море – свыше тысячи.
 
 こころ「殺人事件の発生件数は平均して年間１２５０件にものぼる」%K%P
 The average number of people that are murdered is 1,250.
 心「杀人案件的案发数达到平均每年１２５０起」
-Среднее число погибших от рук убийц ― 1250.
+Среднее число погибших от рук убийц – 1250.
 
 こころ「それに対して航空機の墜落事故発生率はと言うと……」%K%P
 So, you know... Compared to that, the chances of an airplane getting in an accident and crashing are...
@@ -121,7 +121,7 @@ The bell in the clock tower echoes solemnly.
 １６時ちょうど――。%K%P
 4 PM sharp——
 刚好下午４时——
-И-и четыре часа―
+И-и четыре часа–
 
 時計台は１秒の狂いもなく正確に時を告げていた。%K%P
 The clock tower tells the time with not a second of deviation.
@@ -451,7 +451,7 @@ The well-honed blade strikes the earth.
 逆光に浮かびあがるシルエット――。%K%P
 A silhouette can be made out in the backlight——
 逆光浮现的那个影子——
-Приближающийся силуэт освещается их светом―
+Приближающийся силуэт освещается их светом–
 
 そのとき……俺は影の正体をようやく……。%K%P
 In that instant... 'I' finally figure out what that shadow really is...
@@ -486,7 +486,7 @@ A maddened passenger begins screaming. A strong jet of air can be felt blowing i
 次の瞬間――。%K%P
 And the next moment——
 下一个瞬间——
-И в этот момент―
+И в этот момент–
 
 悟「あっ……」%K%P
 Ah...

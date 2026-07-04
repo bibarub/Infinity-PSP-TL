@@ -116,12 +116,12 @@ Well, though I call them “rules”, they're nothing too complicated.
 ４：ゴールに入った場合の得点は『フリースローラインから、だったら２点』『スリーポイントラインから、だったら３点』とする。%K%N
 4: If the ball goes in, their team will receive two points for a shot from the free throw line or three points for a shot from the three-point line.
 ４：关于进球后的得分，“在罚球线进球可得２分”，“在三分线进球可得３分”。
-4. За попадание с линии штрафных бросков команда получит два очка, за попадание с трёхочковой линии ― три.
+4. За попадание с линии штрафных бросков команда получит два очка, за попадание с трёхочковой линии – три.
 
 （以降、フリースローラインのことを２ＰＬ、スリーポイントラインのことを３ＰＬと呼ぶ）%K%N
 (Hereinafter, the free throw line will be referred to as the 2PL, and the three-point line as the 3PL.)
 （以下，把罚球线称作２ＰＬ，把三分线称作３ＰＬ。）
-(Далее линия штрафных бросков будет обозначаться как "2ОЛ" (двухочковая линия), а трёхочковая ― "3ОЛ")
+(Далее линия штрафных бросков будет обозначаться как "2ОЛ" (двухочковая линия), а трёхочковая – "3ОЛ")
 
 ５：これを９セット行い、得点の多いチームが勝ちとなる。%K%P
 5: This will continue for nine sets, and the team with the most points at the end will win.
@@ -812,7 +812,7 @@ Yuni runs over with the ball and passes it to me.
 ハシッと両手でボールを受け取った瞬間――。%K%P
 But the moment I take it in my hands——
 在我双手接过球的瞬间——
-Как только я принимаю мяч двумя руками―
+Как только я принимаю мяч двумя руками–
 
 悟「ぐっ……！」%K%P
 Guh...!
@@ -887,7 +887,7 @@ Don't let your shoulders tense up!
 ゆに「風向きはねぇ、北西から南東に向かって――」%K%P
 Hey, the direction of the wind, it's from northwest to the southeast——
 悠尼「风向是，由西北向东南——」
-Ветер северный―
+Ветер северный–
 
 悟「ゆに！」%K%P
 Yuni!
@@ -999,7 +999,7 @@ The game continues unhurriedly, and we alternate between offense and defense, ga
 %LL２セット目――。%K%N
 The second set——
 第二回合——
-Второй сет―
+Второй сет–
 
 %LC『内海：０点／ゆに：０点』%K%N
 Utsumi: 0 points/Yuni: 0 points
@@ -1021,7 +1021,7 @@ Score: 5—3
 %LL３セット目――。%K%N
 The third set——
 第三回合——
-Третий сет―
+Третий сет–
 
 %LC『内海：０点／ゆに：２点』%K%N
 Utsumi: 0 points/Yuni: 2 points
@@ -1043,7 +1043,7 @@ Score: 7—8
 %LL４セット目――。%K%N
 The fourth set——
 第四回合——
-Четвёртый сет―
+Четвёртый сет–
 
 %LC『内海：０点／ゆに：０点』%K%N
 Utsumi: 0 points/Yuni: 0 points
@@ -1065,7 +1065,7 @@ Score: 10—8
 %LL５セット目――。%K%N
 The fifth set——
 第五回合——
-Пятый сет―
+Пятый сет–
 
 %LC『内海：０点／ゆに：２点』%K%N
 Utsumi: 0 points/Yuni: 2 points
@@ -1087,7 +1087,7 @@ Score: 10—12
 %LL６セット目――。%K%N
 The sixth set——
 第六回合——
-Шестой сет―
+Шестой сет–
 
 %LC『内海：０点／ゆに：０点』%K%N
 Utsumi: 0 points/Yuni: 0 points
@@ -1109,7 +1109,7 @@ Score: 13—14
 %LL７セット目――。%K%N
 The seventh set——
 第七回合——
-Седьмой сет―
+Седьмой сет–
 
 %LC『内海：０点／ゆに：２点』%K%N
 Utsumi: 0 points/Yuni: 2 points
@@ -1186,7 +1186,7 @@ Choose the 3PL
 手堅く２ＰＬの方を選んだ。%K%P
 ...go with the safe choice of the 2PL.
 我踏踏实实地选了２ＰＬ。
-Выбираю безопасный вариант ― 2ОЛ.
+Выбираю безопасный вариант – 2ОЛ.
 
 所定の場所に立ち、呼吸を整える。%K%P
 I stand at the line and steady my breathing.
@@ -1414,7 +1414,7 @@ While not expecting her to make it in this time...
 ところが――。%K%P
 Suddenly——
 然而——
-Однако―
+Однако–
 
 見事なエアボールがリングをくぐり抜けた。%K%P
 An incredibly skilled shot sends the ball flying through the hoop.
@@ -1760,7 +1760,7 @@ You should aim for a three-pointer here.
 悟「仮に入らなかったとしても、相手チームとのスコアは同じ、変わらない」%K%P
 Even if it doesn't go in, our score will still be the same as the other team's.
 悟「就算进不了，比分也不会变，我们依然是同分」
-Даже если не попадёшь, счёт будет таким же, как у соперника, ― ничего не изменится.
+Даже если не попадёшь, счёт будет таким же, как у соперника, – ничего не изменится.
 
 悟「だがもしも入ったとしたら……？」%K%P
 But what if it does go in...?
@@ -1850,7 +1850,7 @@ Don't worry about stuff like the direction of the wind!
 悟「その距離ならきっと――」%K%P
 From that distance, you can definitely——
 悟「这个距离一定——」
-Ты точно сможешь с этого расстояния―
+Ты точно сможешь с этого расстояния–
 
 ゆに「悟！」%K%P
 Satoru!
@@ -1880,7 +1880,7 @@ Yuni takes a girlish throwing stance.
 やや内股なのが気にかかるが、顔は真剣そのものだった。%K%P
 I'm worried about how he's a little pigeon-toed, but his face is the picture of seriousness.
 虽然很在意脚下，但那张脸是认真的。
-Быть может, он и нервничает, но внешне ― сама сосредоточенность.
+Быть может, он и нервничает, но внешне – сама сосредоточенность.
 
 『ぼくだって、ぼくだって、やればできるんだ！　見てろよぉー！』とでも言うような、決意を秘めた顔つき。%K%P
 It's a look with determination in it, as if it's saying “Even I can do it if I try! I can! Just you watch!”
@@ -2100,7 +2100,7 @@ If I get three points here, it'll be a four-point lead...
 穂鳥「その時点でゲームセットってことになる」%K%P
 At that point, it'll be game, set, and match.
 穗鸟「到时候比赛就结束了」
-И тогда ― шах и мат.
+И тогда – шах и мат.
 
 穂鳥「喜ぶのは早すぎるんじゃないのかな？」%K%P
 Maybe it's too early to celebrate?
@@ -2290,7 +2290,7 @@ If Hotori misses, they'll only have a one-point lead.
 悟「２ポイント決めたとしても――」%K%P
 And even if she manages two points——
 悟「就算她再拿２分也——」
-Даже если она заработает два очка―
+Даже если она заработает два очка–
 
 穂鳥「は？　２ポイント？」%K%P
 What? Two points?
@@ -2565,7 +2565,7 @@ It soars higher and higher into the air, then begins its descent...
 するとそこに一陣の風――。%K%P
 When suddenly, there's a gust of wind——
 就在这时，一阵风吹来——
-В этот момент налетает порыв ветра―
+В этот момент налетает порыв ветра–
 
 茶色の球体がふらふらとよろめく。%K%P
 The brown orb wobbles in the air.
@@ -2757,7 +2757,7 @@ As I watch her go, I remove my watch from my pocket.
 現在時刻――午後０時３２分。%K%P
 Present time——12:32 PM.
 现在时刻——中午１２时３２分。
-Текущее время ― 12:32.
+Текущее время – 12:32.
 
 太陽はわずかに西へと傾き始めていた。%K%P
 The sun has just begun to sink into the west.
@@ -3065,7 +3065,7 @@ Silence...
 次の瞬間――。%K%P
 But at that moment——
 下个瞬间——
-И в следующий момент―
+И в следующий момент–
 
 穂鳥「左腕……痛い？」%K%P
 Your left arm... does it hurt?
@@ -3281,7 +3281,7 @@ As I watch her go, I remove my watch from my pocket.
 現在時刻――午後０時３２分。%K%P
 Present time——12:32 PM.
 现在时刻——中午１２时３２分。
-Текущее время ― 12:32.
+Текущее время – 12:32.
 
 太陽はわずかに西へと傾き始めていた。%K%P
 The sun has just begun to sink into the west.
@@ -3492,7 +3492,7 @@ As I watch her go, I remove my watch from my pocket.
 現在時刻――午後０時３２分。%K%P
 Present time——12:32 PM.
 现在时刻——中午１２时３２分。
-Текущее время ― 12:32.
+Текущее время – 12:32.
 
 太陽はわずかに西へと傾き始めていた。%K%P
 The sun has just begun to sink into the west.

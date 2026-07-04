@@ -221,7 +221,7 @@ I try once more to pull Yomogi back.
 こころ「このまま進むのは自殺行為です！」%K%P
 It'd be suicide to continue like this!
 心「这样走下去就是自杀啊！」
-Вот так идти ― это же равносильно самоубийству!
+Вот так идти – это же равносильно самоубийству!
 
 こころ「戻りましょう！」%K%P
 Let's go back!
@@ -416,7 +416,7 @@ My coat is soaking wet.
 何枚も重ね着しているとはいえ、所詮は町で着るものだ。%K%P
 I can wear as many layers as I want, but these clothes are meant for the city.
 虽然是好几件叠在一起穿的，不过毕竟是平时在城镇上穿的。
-Не важно, во сколько слоёв я укутана, ― вся эта одежда хороша исключительно в городских условиях.
+Не важно, во сколько слоёв я укутана, – вся эта одежда хороша исключительно в городских условиях.
 
 こんな極寒の環境に耐えられる代物ではない。%K%P
 They aren't articles of clothing that can withstand this intensely cold environment.
@@ -426,7 +426,7 @@ They aren't articles of clothing that can withstand this intensely cold environm
 防寒着としての機能はほとんど果たしていなかった。%K%P
 They're hardly carrying out their function of protecting me from the cold.
 一点都起不了防寒装的作用。
-едва-едва выполняя своё назначение ― защищать от холода.
+едва-едва выполняя своё назначение – защищать от холода.
 
 それどころか、じわじわと私の身体を冷やしていく。%K%P
 On the contrary, my body is slowly starting to cool.
@@ -456,7 +456,7 @@ But I still continue to walk.
 置いていかれたら、死ぬ……。%K%P
 If I stop, I'll die...
 被丢下的话，会死……
-Остановиться ― значит погибнуть...
+Остановиться – значит погибнуть...
 
 かろうじて黄泉木達に追いつき、一瞬だけホッとした直後に、それは起こった。%K%P
 Barely managing to catch up with Yomogi and the other two, I have only a moment of relief before it happens.
@@ -466,7 +466,7 @@ Barely managing to catch up with Yomogi and the other two, I have only a moment 
 闇を切り裂く唯一の光源だった懐中電灯の光が、いきなり乱雑に揺れた。%K%P
 Our only means with which to tear through the darkness, the beam of the flashlight, suddenly starts shaking in a disorderly manner.
 割开黑暗的唯一光源，手电筒的光忽然晃动起来。
-Фонарик ― единственное, что позволяло нам двигаться в этой кромешной тьме, ― вдруг начинает хаотично мерцать...
+Фонарик – единственное, что позволяло нам двигаться в этой кромешной тьме, – вдруг начинает хаотично мерцать...
 
 かと思うと、急に消えてしまう。%K%P
 And then it suddenly disappears.
@@ -616,7 +616,7 @@ I saw it... with my own eyes!
 黄泉木「今は、僕のことより、ヘリとコンタクト……を、取ることが……最優先だ……！」%K%P
 Right now, rather than me, our top priority... is to make contact with the helicopter...!
 黄泉木「现在，先不要管我了，去找直升飞机……取得联络……才是最优先的……！」
-Не думайте обо мне, сейчас главная задача ― связаться с вертолётом!..
+Не думайте обо мне, сейчас главная задача – связаться с вертолётом!..
 
 ヘリ……。%K%P
 A helicopter...
@@ -996,7 +996,7 @@ Through my dimmed consciousness, even those words don't reach my ears, as if the
 ただぼんやりと『墜落現場へ行けばなんとかなる』と言っていた黄泉木の言葉だけが繰り返し頭の中にこだましている。%K%P
 I can hear only Yomogi's hazy words, “If we can reach the crash site, we'll be able to manage somehow!” over and over.
 只是在一片朦胧中，“去坠落地点会得救”，黄泉木的这句话在我的头脑中不断盘旋。
-И только слова Ёмоги ― "если мы доберёмся до места крушения... то ещё сможем что-то сделать!.." ― эхом звучат в моей голове.
+И только слова Ёмоги – "если мы доберёмся до места крушения... то ещё сможем что-то сделать!.." – эхом звучат в моей голове.
 
 墜落現場へたどり着くのが先か、力尽きここで死ぬのが先か。%K%P
 Will I reach the crash site first, or will I fall dead of exhaustion first?
@@ -1011,7 +1011,7 @@ My strength is already depleted.
 残っているのは、気力だけ。%K%P
 What remains is willpower alone.
 剩下的只是毅力。
-Всё, что осталось, ― одна сила воли.
+Всё, что осталось, – одна сила воли.
 
 気力が失せたとき、私は死ぬ。%K%P
 When that willpower runs out, I'll die.
@@ -1436,7 +1436,7 @@ That's right... You should have just been honest like that from the beginning...
 黛「人間なんて……しょせん、自分だけがかわいい生き物なんだから……」%K%P
 Because... in the end, humans are beings that only value themselves...
 黛「人这种动物……说到底是只顾自己的……」
-Потому что... в конечном итоге люди ― милые существа, думающие только о себе...
+Потому что... в конечном итоге люди – милые существа, думающие только о себе...
 
 こころ「…………」%K%P
 ......
@@ -1551,7 +1551,7 @@ I'm terribly sleepy.
 寒いのに眠いなんて、逆説的だ。%K%P
 It's quite paradoxical, being sleepy even though it's so cold.
 明明很冷却很想睡。
-Это так парадоксально ― хотеть спать, даже когда вокруг такой сильный холод.
+Это так парадоксально – хотеть спать, даже когда вокруг такой сильный холод.
 
 寝たら死ぬ。ドラマでよく見かけるパターン。%K%P
 I'll die if I go to sleep. It's a pattern you often see in dramas.
@@ -1601,7 +1601,7 @@ I slowly take in my surroundings.
 視界は真っ暗だ。%K%P
 My entire field of view is pitch black.
 一片漆黑。
-Куда ни глянь ― везде темнота.
+Куда ни глянь – везде темнота.
 
 自分の手を顔の前にかざしてみたが、それすらも見えない。%K%P
 I can't even see my own hand when I bring it in front of my face.
@@ -1781,7 +1781,7 @@ I rub my eyes.
 やはり周囲には誰もいない。%K%P
 As I thought, there's no one here.
 周围一个人也没有。
-Вокруг ― никого.
+Вокруг – никого.
 
 誰も返事をしてくれない。%K%P
 No one will answer me.
@@ -1796,7 +1796,7 @@ I'm alone.
 遭難――という言葉が脳裏に浮かび、パニックに陥る。%K%P
 Disaster——the word floats into my mind, and I fall into a panic.
 遇难——这个单词在头脑中浮现，我惊恐不已。
-"Катастрофа" ― от этого слова, крутящегося в моей голове, я впадаю в панику.
+"Катастрофа" – от этого слова, крутящегося в моей голове, я впадаю в панику.
 
 自分の考えが甘かったことを思い知らされる。%K%P
 My own thinking was too naïve.
@@ -1806,7 +1806,7 @@ My own thinking was too naïve.
 この吹雪の中、たったひとりで行動することほど無謀なことはなかったのだ。%K%P
 Nothing is more reckless than moving alone in this blizzard.
 在这样的风雪中，没有什么要比一个人单独行动还更愚蠢的了。
-Это полное безрассудство ― идти одной в такую бурю.
+Это полное безрассудство – идти одной в такую бурю.
 
 耳に聞こえてくる自分の呼吸が、荒く速くなっていくのが聞こえる。%K%P
 I can hear my own breathing quickly becoming ragged.
@@ -2001,7 +2001,7 @@ He probably isn't going to come and save me.
 それでも、ひとりで動き回るのは危険だ。%K%P
 Still, it's dangerous to move around alone.
 即使如此，一个人到处乱走很危险。
-Но всё равно, ходить одной кругами ― слишком опасно.
+Но всё равно, ходить одной кругами – слишком опасно.
 
 ここでじっと待って、吹雪が収まるのを待つんだ。%K%P
 I'll stay here and wait until the snowstorm settles.
@@ -2531,7 +2531,7 @@ All the sounds of the world outside are shut out.
 その中に、ただ自分の呼吸する声だけが聞こえている。%K%P
 Inside this space, I can hear only the sound of my own breathing.
 一片寂静中只听到自己的呼吸声。
-Всё, что я слышу, ― это звук своего собственного дыхания.
+Всё, что я слышу, – это звук своего собственного дыхания.
 
 とても穏やかな気分だった。%K%P
 It's an extremely gentle feeling.
@@ -2735,7 +2735,7 @@ Will I reach the crash site first, or will I fall dead of exhaustion first?
 体力はとっくに尽きている。残っているのは、気力だけ。%K%P
 My strength is already depleted. What remains is willpower alone.
 体力早已所剩无几。剩下的只是毅力。
-Мои силы на исходе. Всё, что осталось, ― одна сила воли.
+Мои силы на исходе. Всё, что осталось, – одна сила воли.
 
 気力が失せたとき、私は死ぬ。%K%P
 When that willpower runs out, I'll die.

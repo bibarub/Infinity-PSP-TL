@@ -456,7 +456,7 @@ I play DATA1.
 『これは世界初の女性宇宙飛行士ワレンチナ・テレシコワの言葉だ』%K%P
 “These were the words uttered by the first woman in space, Valentina Tereshkova.”
 “这句话出自全球第一位女性宇航员瓦莲京娜·捷列什科娃之口。”
-"Так сказала первая женщина, побывавшая в космосе, ― Валентина Терешкова".
+"Так сказала первая женщина, побывавшая в космосе, – Валентина Терешкова".
 
 『旧ソ連の宇宙船ヴォストーク６号に乗り込んだ彼女は、ひとり、完全な静寂と虚無に支配された宇宙空間を漂いながら……』%K%P
 “All alone aboard the former Soviet Union spaceship Vostok 6, floating in the void of space, a place of complete silence and emptiness...”

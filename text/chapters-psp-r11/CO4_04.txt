@@ -166,7 +166,7 @@ There's no injury to his forehead.
 よく見なければ気づかないような古キズがあったが、これは今ついたものではないだろう。%K%P
 You wouldn't see it unless you looked closely, but there's an old scar there. I don't think he got it just now.
 虽然额头上有一道不太明显的伤疤，但这应该不是刚受的伤吧？
-Зато есть старый шрам ― незаметный, если не присматриваться. Не похоже, что он получил его прямо сейчас.
+Зато есть старый шрам – незаметный, если не присматриваться. Не похоже, что он получил его прямо сейчас.
 
 こころ「大丈夫、血は出てないよ」%K%P
 It's okay, you're not bleeding.
@@ -915,7 +915,7 @@ Such a thing... No...
 遭難して食糧の尽きた人達が陥る、恐ろしい状態が私の脳裏に宿った。%K%P
 People who are stranded after an accident and run out of provisions, they fall into a horrifying state like this——that thought has become lodged in my mind.
 我的脑海中，浮现起遇难的人们在吃尽粮食后的恐怖状态。
-Люди, выжившие в катастрофе, оставшиеся без еды и тепла, сходят с ума ― эта ужасная мысль западает мне в голову.
+Люди, выжившие в катастрофе, оставшиеся без еды и тепла, сходят с ума – эта ужасная мысль западает мне в голову.
 
 人間の尊厳が揺さぶられる光景に、唇が震える。%K%P
 Before such a scene of shattered human dignity, my lips begin to tremble.
@@ -1025,7 +1025,7 @@ Mayuzumi directs an insolent smile toward me, as though she's trying to start a 
 黛「言ったでしょ？　ここでは私が法律よ」%K%P
 Didn't I say it before? I'm the law here.
 黛「我说过了吧？在这里我就是法律」
-Я разве не говорила? Закон здесь ― я.
+Я разве не говорила? Закон здесь – я.
 
 黛「計算してみたの」%K%P
 I did the math.
@@ -1780,7 +1780,7 @@ Carefully, as though carrying out a scientific experiment, Mayuzumi divides the 
 私と黄泉木、ゆには、３つの缶を選ぶ。%K%P
 Yomogi, Yuni, and I each choose from the three of them.
 我、黄泉木和悠尼选了三罐。
-Ёмоги, Юни и я ― каждый выбирает себе одну из частей.
+Ёмоги, Юни и я – каждый выбирает себе одну из частей.
 
 残ったひとつを、黛が手に取った。%K%P
 Mayuzumi picks up the last one.
@@ -1865,7 +1865,7 @@ Sounding worried himself, Yuni peers into the can.
 黄泉木「……だから、分配するのは嫌だったんだ……」%K%P
 ...That's why I didn't want to split it up...
 黄泉木「……所以，我才不愿意分配……」
-Я знал, что делить ― не самая хорошая идея...
+Я знал, что делить – не самая хорошая идея...
 
 黄泉木「食糧が少ないと実感すると、不安になるだろ？」%K%P
 You start feeling anxious as the food supply runs low, right?
@@ -1880,7 +1880,7 @@ That anxiety, it becomes a burden.
 黄泉木「不安は、希望を殺す」%K%P
 Anxiety is the killer of hope.
 黄泉木「不安会扼杀希望」
-Беспокойство ― убийца надежды.
+Беспокойство – убийца надежды.
 
 黄泉木「絶望は、恐怖を呼ぶ」%K%P
 And with despair comes fear.

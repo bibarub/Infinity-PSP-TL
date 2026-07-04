@@ -71,7 +71,7 @@ Just like with Yuni, I know this man's name.
 黄泉木聖司――。%K%P
 Yomogi Seiji——
 黄泉木圣司——
-Ёмоги Сэйдзи―
+Ёмоги Сэйдзи–
 
 年齢は３５。職業は登山家。%K%P
 Age 35. A mountaineer by trade.
@@ -361,7 +361,7 @@ On the starboard side of the plane, toward the back, if memory serves.
 黄泉木「きみは通路側の座席に、ゆには窓側の座席に、それぞれ腰を下ろしていた」%K%P
 You were sitting in the aisle seat, and Yuni had the window.
 黄泉木「你坐在靠近通道的位子，而悠尼坐在靠窗的位子」
-Ты ― ближе к проходу, Юни ― у окна.
+Ты – ближе к проходу, Юни – у окна.
 
 黄泉木「楽しそうに話してたじゃないか」%K%P
 It looked like you were having fun talking.
@@ -536,7 +536,7 @@ I'm looking up at Lin.
 鈴は、オレを、見下ろしていた。%K%P
 Lin is looking down at me.
 铃，正俯视着我。
-А она на меня ― сверху вниз.
+А она на меня – сверху вниз.
 
 実際には『見上げる』『見下ろす』と表現するほどの差はなかったかも知れない。%K%P
 Maybe it isn't actually enough of a difference to describe it as looking up or down.
@@ -616,7 +616,7 @@ I'm only sure of one thing...
 殴ったのはオレの目の前にいる人物――黛鈴だということぐらいだった。%K%P
 Right in front of me is the person who hit me——Mayuzumi Lin.
 打我的正是站在我眼前的人物——黛铃。
-Меня ударил стоящий передо мной человек ― Маюдзуми Рин.
+Меня ударил стоящий передо мной человек – Маюдзуми Рин.
 
 ぼやけていた焦点が、やがて像を結んだ。%K%P
 My blurry vision eventually comes back into focus.
@@ -821,7 +821,7 @@ Like a pair of gears that don't line up properly, clattering along to no product
 オレはオレ――優希堂悟だ。間違いない。%K%P
 I am me——Yukidoh Satoru. There can be no mistake about it.
 我就是我——优希堂悟。没错。
-Я есть я ― Юкидо Сатору. Тут ошибки быть не может.
+Я есть я – Юкидо Сатору. Тут ошибки быть не может.
 
 にもかかわらず鈴は、オレをオレとして、優希堂悟として、認識していない。%K%P
 And yet Lin isn't recognizing me as who I am, as Yukidoh Satoru.
@@ -1011,7 +1011,7 @@ The dog lacks “the element which proves that a cat is a cat”.
 では『猫が猫であるべき要素』とは何なのか？%K%N
 Then just what is “the element which proves that a cat is a cat”?
 那么“猫身为猫的要素”是什么样的？
-Но каковы признаки того, что кошка ― это кошка?
+Но каковы признаки того, что кошка – это кошка?
 
 そんなことはとてもひとことでは言い表わせない。%K%P
 It's absolutely not something you can express in one word.
@@ -1101,7 +1101,7 @@ I keep quiet.
 突如襲ってきた無力感は、オレの中から言葉どころか、意識や思考さえも奪おうとしていた。%K%P
 The sudden sense of helplessness that strikes me attempts to steal my awareness and thoughts from within me, to say nothing of my words.
 突然袭来的无力感，除了话语，就连我的意识和思考都被一起夺走了。
-Внезапно нахлынувшее ощущение беспомощности лишает меня способности мыслить ― в голове становится совершенно пусто.
+Внезапно нахлынувшее ощущение беспомощности лишает меня способности мыслить – в голове становится совершенно пусто.
 
 黄泉木「なあ？　そろそろ仲直りしたらどうなんだ？」%K%P
 Hey, why don't you both just make up already?
@@ -1236,7 +1236,7 @@ That's why, even if a certain part of my body entered my field of vision, I didn
 指ならユビ、腕ならウデ、足ならアシ、といった具合に、単なる『意味としての情報』だけしか脳内に入力されなかったということだ。%K%P
 Nothing but mere “information as meaning” was input into my brain, such as a finger as “finger”, an arm as “arm”, and a leg as “leg”.
 手指就是手指，手腕就是手腕，脚就是脚，这只是作为“有意义的情报”输入脑中。
-Пальцы как пальцы, руки как руки, ноги как ноги ― привычные данные, на автомате обрабатывающиеся мозгом.
+Пальцы как пальцы, руки как руки, ноги как ноги – привычные данные, на автомате обрабатывающиеся мозгом.
 
 ひとは目の前にある物、その%TS048物自体%TEを見ているわけではないという。%K%N
 It's said that people don't see what's before their eyes, the %TS048thing-in-itself%TE.
@@ -1276,7 +1276,7 @@ We're programmed to naturally think that “the me of ten years ago and the me o
 実際には、物質的に見ても、脳の記憶内容を比べてみても、それらは完全に異なるのに、だ。%K%P
 Yet in practice, both physically and mentally, the two are almost completely different.
 实际上，无论从物质的角度来看，还是从脑内记忆对比的角度来看，它们都是完全不同的。
-В действительности же это два практически полностью разных человека ― как физически, так и психически.
+В действительности же это два практически полностью разных человека – как физически, так и психически.
 
 同じようにオレも、目覚める前の自分と、今の自分が、同一のものであると思い込んでいた。%K%N
 In much the same way, I too was convinced that the me of before and the me of the present were identical.
@@ -1391,7 +1391,7 @@ I urgently rush to the window.
 見覚えのない顔――。%K%P
 A face I have no memory of——
 陌生的面孔——
-Незнакомое лицо―
+Незнакомое лицо–
 
 若い女の子の姿がそこには映し出されていた。%K%P
 The image reflected there is that of a young girl.
@@ -1441,7 +1441,7 @@ Who is this woman...?
 この女がオレなのか……。%K%P
 Is this woman me...?
 这个女的是我吗……
-Эта девушка ― я?..
+Эта девушка – я?..
 
 だとするならオレの知っているオレはどこへ行ってしまったんだ……。%K%P
 If that's so, then where has the me I recognize gone...?
@@ -1461,7 +1461,7 @@ I don't understand... I don't understand... I don't understand...
 何かが狂っている。この世界はオレの知っている世界ではない。%K%P
 Something's wrong. This world isn't the world I know.
 有什么地方失控了。这个世界不是我所知道的世界。
-Что-то не так. Этот мир ― не тот мир, который я знаю.
+Что-то не так. Этот мир – не тот мир, который я знаю.
 
 圧倒的な孤独感、疎外感にさいなまれ、自分自身の存在がとても稀薄なもののように思えてくる。%K%P
 Loneliness and alienation overwhelm me, and my own existence suddenly seems thin and fragile.

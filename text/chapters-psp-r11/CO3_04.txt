@@ -236,7 +236,7 @@ And then, Hotori abruptly throws the chair!
 直撃したら無事では済まない――%K%p
 If that hits me, I'm done for——
 被直接打到的话可不是开玩笑的——
-Если он попадёт в меня―
+Если он попадёт в меня–
 
 しゃがんで避ける
 Duck to avoid it
@@ -631,7 +631,7 @@ Um... I...
 内海「あら？　冬川さんだったの？」%K%P
 Oh? Were you Fuyukawa-san?
 内海「啊？莫非是冬川小姐？」
-Ох, вы ― Фуюкава-сан?
+Ох, вы – Фуюкава-сан?
 
 こころ「はい……」%K%P
 Yeah...
@@ -671,7 +671,7 @@ Perhaps her fits are occurring more frequently.
 穂鳥＝犬伏はＤＩＤと診断されている。%K%P
 Hotori = Inubushi diagnosed with DID.
 穂鳥＝犬伏已经确诊是ＤＩＤ。
-Хотори―Инубуси с диагнозом ДРИ.
+Хотори–Инубуси с диагнозом ДРИ.
 
 精神状態が不安定になれば、人格交代が起こってもおかしくない。%K%P
 If her mental condition becomes unstable, it wouldn't be strange for her to change personalities.
@@ -731,7 +731,7 @@ She responds to my call with a slight nod.
 よかった。彼女は穂鳥だ。%K%P
 What a relief. She's Hotori.
 太好了。她还是穗鸟。
-Она ― Хотори. Какое облегчение.
+Она – Хотори. Какое облегчение.
 
 穂鳥「…………っ」%K%P
 ......Ah.
@@ -956,7 +956,7 @@ That file Yomogi found at the crash site, I need to reread it one more time.
 涼蔭穂鳥という人格は何者なのか、どこかに載っているかもしれない。%K%P
 What kind of girl is the Suzukage Hotori personality? It might be recorded somewhere.
 或许凉荫穗鸟这个人格的具体情况，在里面会有记载。
-Что это за девушка ― Судзукагэ Хотори? Возможно, в папке есть о ней какие-нибудь записи.
+Что это за девушка – Судзукагэ Хотори? Возможно, в папке есть о ней какие-нибудь записи.
 
 確認しなくちゃ。%K%P
 I've got to confirm it.
@@ -1151,7 +1151,7 @@ They somehow ring a bell.
 赤い部屋というのは、穂鳥の心の中の風景、あるいは心の中で感じる感覚ではないだろうか。%K%P
 The red room, is it scenery from inside Hotori's heart, or could it be something she feels she saw within her mind?
 红色的房间，指的应该是穗鸟心中的景象，或者是心中的感觉吧？
-Красная комната ― это какой-то образ в её голове или же ощущение?
+Красная комната – это какой-то образ в её голове или же ощущение?
 
 ＤＩＤでは、ある人格から別の人格に変化する時、表層から消える人格は、暗い部屋の中にポツンと置き去りにされたような感覚を抱くそうなのだ。%K%P
 It's said when people with DID switch personalities, the personality that disappears feels like it was left alone in a dark room.
@@ -1176,12 +1176,12 @@ It's not actually a bright room, but she's completely incapable of expressing it
 その部屋はつまり、外界と繋がる象徴的風景だと思われる。%K%P
 That room, in other words, seems to be part of the symbolic scenery related to the physical world.
 可想而知，这个房间也就是和外界联系的象征性的场景。
-Другими словами, та комната ― лишь символический образ, связанный с реальным миром.
+Другими словами, та комната – лишь символический образ, связанный с реальным миром.
 
 患者によっては『明るい部屋』ではなくて、『スポットライト』など別の比喩表現をされることもある。%K%P
 Depending on the patient, it may not a “bright room”, but can be represented with another figurative expression: “spotlight”.
 根据患者不同，也有可能不是“明亮的房间”，而是“照明灯”等其它表现方式。
-По утверждениям пациентов, это не "яркая комната", есть другое фигуральное выражение ― "белое пятно света".
+По утверждениям пациентов, это не "яркая комната", есть другое фигуральное выражение – "белое пятно света".
 
 それが、穂鳥にとっては『赤い部屋』なのだとしたら。%K%P
 If, to Hotori, that's the “red room”...

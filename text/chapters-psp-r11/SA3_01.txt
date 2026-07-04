@@ -61,7 +61,7 @@ I'm walking in the sprawling grounds south of the main building.
 歩いている、とは言っても、一歩踏み出すのは容易なことではなかった。%K%P
 I say “walking”, but even taking so much as a single step is no easy task.
 虽说是漫步，不过要向前迈出一步也不是容易的事。
-Ну как прогуливаюсь... Каждый шаг ― довольно непростое испытание.
+Ну как прогуливаюсь... Каждый шаг – довольно непростое испытание.
 
 足がずっぽりと埋まってしまうほどの積雪量……。%K%P
 The snow on the ground is deep enough to bury my feet...
@@ -136,7 +136,7 @@ Hmm...
 無駄だということは承知の上で、側面をよじのぼってみようとする。%K%P
 Despite being aware that it's futile, I still try climbing up the side of it.
 明知是徒劳的，我还是想要攀上侧面的墙壁。
-Понимая, что пробовать перепрыгнуть её ― пустая трата времени, я изучаю возможность взобраться.
+Понимая, что пробовать перепрыгнуть её – пустая трата времени, я изучаю возможность взобраться.
 
 手がかりも足がかりもない障壁は、そこにへばりつくことさえも許さなかった。%K%P
 But it's an unforgiving wall, devoid of handholds or footholds and impossible to climb.
@@ -206,12 +206,12 @@ At the center of the circle is the clock tower, with a radius of about 100 meter
 この円の内側の全域こそが『スフィア』と称されるものの正体だ。%K%P
 The entire area enclosed by this circle is “SPHIA” in its truest sense.
 圆周内部的所有区域就是被称作“ＳＰＨＩＡ”的地方。
-Вся территория, напоминающая сферу, вполне соответствует названием ― SPHIA.
+Вся территория, напоминающая сферу, вполне соответствует названием – SPHIA.
 
 単に建物だけを指して『スフィア』と呼んでいるのではない。%K%P
 “SPHIA” isn't just the building standing in the middle.
 “ＳＰＨＩＡ”并非单指一座建筑物。
-То есть SPHIA ― это не только здание самого Центра.
+То есть SPHIA – это не только здание самого Центра.
 
 さて、半径が（目算ではあるが）１００ｍだとすると、円周上にある壁の全長は……。%K%P
 Well then, if the radius is 100 meters (though this is an estimate), then the overall circumference of the wall would be...

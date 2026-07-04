@@ -589,7 +589,7 @@ Everything before the transfer... the DMT, the MAO inhibitor... has all been blo
 今はこの肉体の生命を維持するだけでやっとだった。%K%P
 All that matters right now is preserving my own life.
 现在要维持这个肉体的生命活动就已经耗尽我全力。
-Сейчас самое важное ― сохранение жизни.
+Сейчас самое важное – сохранение жизни.
 
 他のことなんて考えている余裕はない。%K%P
 I can't afford to think of anything else.
@@ -654,7 +654,7 @@ But I notice one thing.
 オレの（彼女の）頭がうまく機能してくれないのは、なにも寒さのせいだけではなかったらしい。%K%P
 The reason that my (her) brain isn't working properly isn't just because of the cold.
 让我的（她的）头脑不能顺利运转的原因，看来不只是寒冷。
-Холод ― не единственная причина, по которой мой (её) мозг не работает должным образом.
+Холод – не единственная причина, по которой мой (её) мозг не работает должным образом.
 
 空腹感……。飢餓感……。%K%P
 Hunger... Starvation...
@@ -674,7 +674,7 @@ I feel a hunger powerful enough to make me go insane.
 自らの浅ましさを嫌悪しながらも、しかし思い浮かぶことと言えば食べ物のことばかりだった。%K%P
 I'm disgusted by my own shallowness, but food is the only thing on my mind.
 我因为自己的卑贱感到厌恶，但脑子里浮现的东西净是食物。
-Хоть мне и отвратительна собственная убогость, но еда ― единственное, о чём я могу сейчас думать.
+Хоть мне и отвратительна собственная убогость, но еда – единственное, о чём я могу сейчас думать.
 
 寒い……。なにか食べたい……。%K%P
 Cold... I want to eat...
@@ -944,7 +944,7 @@ I peer into the stove again.
 手を差し入れてみる。温もりはない。%K%P
 I reach a hand in to feel the charcoal. There's not a trace of warmth.
 伸手试了试。没有温度。
-Я запускаю внутрь руку, чтобы потрогать угли, ― холодные.
+Я запускаю внутрь руку, чтобы потрогать угли, – холодные.
 
 炭の塊は氷のように冷たくなっていた。%K%P
 The lump of charcoal is ice cold.
@@ -1453,7 +1453,7 @@ I peer into the stove again.
 手を差し入れてみる。温もりはない。%K%P
 I reach a hand in to feel the charcoal. There's not a trace of warmth.
 伸手试了试。没有温度。
-Я запускаю внутрь руку, чтобы потрогать угли, ― холодные.
+Я запускаю внутрь руку, чтобы потрогать угли, – холодные.
 
 炭の塊は氷のように冷たくなっていた。%K%P
 The lump of charcoal is ice cold.
@@ -1493,7 +1493,7 @@ Hey, Kokoro, just what should I do...?
 藁をもすがる思いで、ＶＲを手に取った。%K%P
 Grasping at straws, I take out the voice recorder.
 我像抓住救命稻草一般，拿起了ＶＲ。
-Последняя надежда ― я достаю диктофон.
+Последняя надежда – я достаю диктофон.
 
 新しいメッセージはない。%K%P
 No new messages.
@@ -1523,7 +1523,7 @@ I check the time on the watch on my right wrist.
 現在時刻――３時１５分。%K%P
 Present time——3:15.
 现在时刻——下午３时１５分。
-Текущее время ― 15:15.
+Текущее время – 15:15.
 
 今回の転移がいつ起こったのか、正確な時刻がわからない。%K%P
 I can't say with any accuracy what time this transfer occurred.
@@ -1638,7 +1638,7 @@ The glittering sunlight awakens a memory buried within me.
 榎本「きみ達は人格交換――人格が転移をしているんじゃない」%K%P
 It's not a personality exchange that you two are undergoing——your personalities aren't what's being transferred.
 鼷本「你们经历的并不是人格交换——人格发生了转移」
-С вами, ребята, происходит не обмен личностями ― перемещаются не они.
+С вами, ребята, происходит не обмен личностями – перемещаются не они.
 
 榎本「本当に転移しているのは……」%K%P
 What's really being transferred...
@@ -1688,7 +1688,7 @@ My consciousness never leaves the Aosagi Island.
 だから今オレが見ているこの空も、２０１２年１月の青鷺島から見た空なんだ。%K%P
 So that means the sky I see right now is the sky seen from Aosagi Island in January of 2012.
 所以现在我所看到的这片天空，也是从２０１２年１月的青鹭岛所见的天空。
-Значит, небо, которое я сейчас вижу, ― это небо острова Аосаги.
+Значит, небо, которое я сейчас вижу, – это небо острова Аосаги.
 
 晴れているのは当然のことと言えた。%K%P
 Of course it's sunny.
@@ -1788,7 +1788,7 @@ Without food or fuel, it's hard to survive on a snowy mountain for very long.
 仮に１７日まで持ちこたえたとしても、歴史的に見れば、そのあと待っているのは雪崩に巻き込まれてしまうという最悪の結末で……。%K%P
 And for the sake of argument, even if they could hold out until the 17th, according to history, all that awaits them is a horrible death buried alive in that avalanche...
 而且就算他们能坚持到１７日，从历史来看，之后等着他们的是被卷入雪崩这个最坏的结局……
-И, если уж на то пошло, даже если они продержатся до 17-го, согласно истории, всё, что их ожидает, ― это смерть под лавиной...
+И, если уж на то пошло, даже если они продержатся до 17-го, согласно истории, всё, что их ожидает, – это смерть под лавиной...
 
 いや、待て……。%K%P
 No, wait...

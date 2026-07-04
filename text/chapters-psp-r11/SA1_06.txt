@@ -26,7 +26,7 @@ Placed in front of us are cups filled with warm beverages.
 オレと内海はコーヒーを、ゆにはミルクティを飲んでいた。%K%P
 Utsumi and I are having coffee, and Yuni is having milk tea.
 我和内海是咖啡，悠尼喝的是奶茶。
-Я и Уцуми пьём кофе, а Юни ― чай с молоком.
+Я и Уцуми пьём кофе, а Юни – чай с молоком.
 
 悟「さっきって……犬伏景子のことか？」%K%P
 Earlier... You mean about Inubushi Keiko?
@@ -121,12 +121,12 @@ She suffers from an illness called dissociative identity disorder.
 内海「あの子の中には『涼蔭穂鳥』という名前のもうひとりの自分がいるのよ」%K%P
 Within her exists another, different self named ‘Suzukage Hotori’.
 内海「那个女孩子的身体里还存在着名为“凉荫穗鸟”的另一个自己」
-В ней существует и другая она ― Судзукагэ Хотори.
+В ней существует и другая она – Судзукагэ Хотори.
 
 内海「戸籍上の本名は『犬伏景子』なんだけど……」%K%P
 And her real name, the one in the family register, is ‘Inubushi Keiko’...
 内海「但是在户籍上的本名是“犬伏景子”……」
-А её настоящее имя, которое она получила при рождении, ― Инубуси Кэйко.
+А её настоящее имя, которое она получила при рождении, – Инубуси Кэйко.
 
 なるほど、そういうわけか。%K%P
 I see, so that's why.
@@ -276,7 +276,7 @@ But there would be only one possible explanation.
 内海「あなたはＤＩＤ、乖離性同一性障害」%K%P
 That you have DID——dissociative identity disorder.
 内海「你是ＤＩＤ，分离性身份识别障碍」
-У вас ДРИ ― диссоциативное расстройство идентичности.
+У вас ДРИ – диссоциативное расстройство идентичности.
 
 悟「どうしてそんなふうに断言できるんだよ？」%K%P
 How can you possibly be sure of that?
@@ -321,7 +321,7 @@ My heart feels like it's being eaten away.
 けれどその具体的な病名が『乖離性同一性障害』であるというのは初耳だった。%K%P
 But here and now is the first time I've heard the specific name for it: “dissociative identity disorder”.
 但是它的具体病名“分离性身份识别障碍”我却是初次听说。
-Но только сейчас я узнал этому название ― "диссоциативное расстройство идентичности".
+Но только сейчас я узнал этому название – "диссоциативное расстройство идентичности".
 
 オレは確認するように内海に尋ねた。%K%P
 I ask Utsumi to confirm what I just heard.
@@ -406,7 +406,7 @@ It felt like they're talking about somebody else's problem.
 『優希堂くん』とか『彼』とか言われても、オレには関係ないことのような気がして……。%K%P
 Even when they mention “Yukidoh-kun”, “him”, and so forth, it feels like it has nothing to do with me...
 无论被说是“优希堂”或是“他”，感觉都和我没有关系……
-Даже когда они произносили “Юкидо-кун”, “он” и так далее, мне казалось, что речь идёт не обо мне...
+Даже когда они произносили “Юкидо-кун“, “он“ и так далее, мне казалось, что речь идёт не обо мне...
 
 内海「ねえ、優希堂くん」%K%P
 Listen, Yukidoh-kun.
@@ -486,12 +486,12 @@ Yomogi Seiji and Utsumi Kali are married!
 ２００８年の法改正により『%TS021夫婦別姓%TE』が認められ、カーリーは旧姓である『内海』に名前を変えたのだった。%K%P
 After the approval of the “%TS021dual surname%TE” system with the law revision in 2008, Kali had changed her surname back to “Utsumi”, her maiden name.
 由于２００８年的法律修正认同了“%TS021夫妇分姓%TE”，所以卡莉恢复了旧姓“内海”。
-После принятия в 2008 году%N%TS021Закона о праве выбора супругами фамилии%TE, Кали сменила свою фамилию на девичью ― Уцуми.
+После принятия в 2008 году%N%TS021Закона о праве выбора супругами фамилии%TE, Кали сменила свою фамилию на девичью – Уцуми.
 
 つまり、あの夢の中に現われた男は、内海の夫だったということになる。%K%P
 In other words, the man who'd appeared in my dream was none other than Utsumi's husband.
 就是说，在那个梦中出现的男性，是内海的丈夫。
-Иными словами, мужчина из моего сна ― не кто иной, как муж Уцуми.
+Иными словами, мужчина из моего сна – не кто иной, как муж Уцуми.
 
 けれど、なぜこのタイミングで内海はそんなことを訊いてきたりしたのか……？%K%P
 However, why did Utsumi decide to ask about him now...?
@@ -506,7 +506,7 @@ And why Mayuzumi Lin too...?
 内海が黄泉木聖司を知っているのは当然のこととしても、どうしてオレの元カノである黛鈴のことまで知っているんだ……？%K%P
 The fact that Utsumi knows about Yomogi Seiji is no surprise, but how does she know about my ex-girlfriend Lin...?
 就算内海知道黄泉木圣司是理所当然的，但为什么连我以前的恋人黛铃的事都知道……？
-Тот факт, что Уцуми знакома с Ёмоги Сэйдзи, меня не удивляет, но откуда она знает мою бывшую девушку ― Рин?
+Тот факт, что Уцуми знакома с Ёмоги Сэйдзи, меня не удивляет, но откуда она знает мою бывшую девушку – Рин?
 
 内海「そう、訊くまでもないことだったわね」%K%P
 Right, there wasn't a need to ask.
@@ -601,12 +601,12 @@ Yomogi Seiji and Utsumi Kali are married!
 ２００８年の法改正により『%TS021夫婦別姓%TE』が認められ、カーリーは旧姓である『内海』に名前を変えたのだった。%K%P
 After the approval of the “%TS021dual surname%TE” system with the law revision in 2008, Kali had changed her surname back to “Utsumi”, her maiden name.
 由于２００８年的法律修正认同了“%TS021夫妇分姓%TE”，所以卡莉恢复了旧姓“内海”。
-После принятия в 2008 году%N%TS021Закона о праве выбора супругами фамилии%TE, Кали сменила свою фамилию на девичью ― Уцуми.
+После принятия в 2008 году%N%TS021Закона о праве выбора супругами фамилии%TE, Кали сменила свою фамилию на девичью – Уцуми.
 
 つまり、あの夢の中に現われた男は、内海の夫だったということになる。%K%P
 In other words, the man who'd appeared in my dream was none other than Utsumi's husband.
 就是说，在那个梦中出现的男性，是内海的丈夫。
-Иными словами, мужчина из моего сна ― не кто иной, как муж Уцуми.
+Иными словами, мужчина из моего сна – не кто иной, как муж Уцуми.
 
 けれど、なぜこのタイミングで内海はそんなことを訊いてきたりしたのか……？%K%P
 However, why did Utsumi decide to ask about him now...?
@@ -621,7 +621,7 @@ And why Mayuzumi Lin too...?
 内海が黄泉木聖司を知っているのは当然のこととしても、どうしてオレの元カノである黛鈴のことまで知っているんだ……？%K%P
 The fact that Utsumi knows about Yomogi Seiji is no surprise, but how does she know about my ex-girlfriend Lin...?
 就算内海知道黄泉木圣司是理所当然的，但为什么连我以前的恋人黛铃的事都知道……？
-Тот факт, что Уцуми знакома с Ёмоги Сэйдзи, меня не удивляет, но откуда она знает мою бывшую девушку ― Рин?
+Тот факт, что Уцуми знакома с Ёмоги Сэйдзи, меня не удивляет, но откуда она знает мою бывшую девушку – Рин?
 
 内海「どうして答えてくれないの？」%K%P
 Why won't you answer me?
@@ -801,7 +801,7 @@ I see...
 悟「黄泉木聖司、冬川こころ、黛鈴、この３人は、去年の１月１７日、朱倉岳の雪崩に巻き込まれて……」%K%P
 Yomogi Seiji, Fuyukawa Kokoro, Mayuzumi Lin. On the 17th of January last year, the three of them were caught in an avalanche on Mount Akakura...
 悟「黄泉木圣司、冬川心、黛铃，他们三人，于去年１月１７日，在朱仓岳被卷入雪崩……」
-Ёмоги Сэйдзи, Фуюкава Кокоро, Маюдзуми Рин ― все они попали под лавину на горе Акакура 17 января прошлого года...
+Ёмоги Сэйдзи, Фуюкава Кокоро, Маюдзуми Рин – все они попали под лавину на горе Акакура 17 января прошлого года...
 
 内海「思い出してくれたみたいね？」%K%P
 So you do remember it after all.
@@ -1351,7 +1351,7 @@ In summary, our discussion boils down to this:
 オレ――優希堂悟について――。%K%N
 About me——Yukidoh Satoru——
 对于我——优希堂悟——
-Обо мне ― Юкидо Сатору.
+Обо мне – Юкидо Сатору.
 
 内海とゆには、オレのことをＤＩＤだと思っているようだ。%K%N
 Utsumi and Yuni seem to think that I have DID.
@@ -1411,7 +1411,7 @@ It's not like I particularly care.
 それ以外の難題に比べれば、たいしたことではなかった。%K%P
 Compared with all the other problems on my mind, that isn't really a big deal.
 和这之外的难题比起来，根本算不上什么。
-По сравнению с другими проблемами, это ― сущий пустяк.
+По сравнению с другими проблемами, это – сущий пустяк.
 
 さて、ここでひとつの疑問が湧く。%K%N
 Now, one question comes to mind.
@@ -1746,12 +1746,12 @@ The people in the shelter: Yomogi Seiji, Fuyukawa Kokoro, Mayuzumi Lin, and Kusu
 黄泉木は内海の夫であり登山家。%K%N
 Yomogi is Utsumi's husband and a mountaineer.
 黄泉木是内海的丈夫，也是登山家。
-Ёмоги, муж Уцуми, ― альпинист.
+Ёмоги, муж Уцуми, – альпинист.
 
 こころは鳩鳴館女子大の３年生。%K%P
 Kokoro is a third-year student at Kyumeikan Women's University.
 心是鸠鸣馆女子大学的３年级学生。
-Кокоро ― студентка третьего курса Кьюмейканского женского университета.
+Кокоро – студентка третьего курса Кьюмейканского женского университета.
 
 黛鈴は……。%K%N
 Mayuzumi Lin...
@@ -2231,7 +2231,7 @@ Incomprehensible indeed.
 失った記憶と保存されている記憶にまったく法則性が見出せなかった。%K%N
 There seems to be no rhyme or reason as to what I remember and what I've forgotten.
 失去的记忆和被保留的记忆间完全没有规则可循。
-Кажется, нет никакой закономерности, какие воспоминания у меня сохранились, а какие ― нет.
+Кажется, нет никакой закономерности, какие воспоминания у меня сохранились, а какие – нет.
 
 こんな理不尽な記憶喪失があってよいものだろうか。%K%P
 Should such an absurd type of amnesia really exist?
@@ -2326,7 +2326,7 @@ Because the evidence that I am me, the proof of my identity, really is something
 けれどだからと言って、内海の提示した推論を認めたわけでは決してない。%K%N
 But, nevertheless, I just can't accept her reasoning.
 但是就算如此，也绝不表示我认同了内海的推论。
-Тем не менее я не соглашусь с ней ― ни сейчас, ни потом.
+Тем не менее я не соглашусь с ней – ни сейчас, ни потом.
 
 オレには必ず過去がある。歴史がある。%K%N
 I most certainly have a past. I have a history.
@@ -2481,7 +2481,7 @@ That, combined with Yuni's sudden and unexplained appearance, caused her to sudd
 彼女はオレを平手打ちし、『ふざけないで！』と声高に叫び、部屋を出て行った。%K%P
 She slapped me, yelled “stop messing around!” and left the room.
 她扇了我一耳光，高声叫道“别开玩笑了！”，冲出了房间。
-Она одарила меня пощёчиной, крикнув: "Хватит нести чушь!" ― и вышла из комнаты.
+Она одарила меня пощёчиной, крикнув: "Хватит нести чушь!" – и вышла из комнаты.
 
 その後（ゆにの話によると）オレは鏡を見て暴れ出したのだという。%K%N
 Afterward (according to Yuni), I looked in a mirror and went berserk.
@@ -2541,7 +2541,7 @@ But “the things I don't understand” and “the things I do understand”...
 その判別ができただけでも、オレにとっては大きな収穫だった。%K%P
 For me, being able to make that distinction is a huge leap forward.
 只是判别清楚这个，对我来说也是极大的收获了。
-Возможность провести такое разграничение ― уже огромный шаг вперёд.
+Возможность провести такое разграничение – уже огромный шаг вперёд.
 
 内海「これで私の知っていることはすべて話したわ」%K%P
 With this, I've told you everything I know.
@@ -2781,7 +2781,7 @@ Basically, the symptoms of dissociative identity disorder emerge due to trauma e
 内海「成人になってから症状が現れるのは、極々稀なの」%K%P
 It's extremely rare for symptoms to begin appearing in adulthood.
 内海「成人后出现症状的极为稀少」
-Развитие расстройства в зрелом возрасте ― крайне редкое явление.
+Развитие расстройства в зрелом возрасте – крайне редкое явление.
 
 内海「だから、きっとあなたも……」%K%P
 So, I'm sure you too...

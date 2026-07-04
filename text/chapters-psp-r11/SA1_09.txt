@@ -76,17 +76,17 @@ My whole body is gasping for oxygen.
 ――なんだ！？%K%P
 ——What!?
 ——什么！？
-―Что?!
+–Что?!
 
 ――どういうことだ！？%K%P
 ——What the hell is this!?
 ——怎么回事！？
-―Да что это такое?!
+–Да что это такое?!
 
 ――何が起きたっていうんだ！？%K%P
 ——What the hell is going on!?
 ——发生了什么事！？
-―Что это за чертовщина?!
+–Что это за чертовщина?!
 
 状況がまったく理解できない。%K%P
 I really don't understand the situation.
@@ -465,7 +465,7 @@ I hear the sound of a door closing.
 バスルームのドアではなく、それを隔てた向こう側、部屋のドアが閉まる音だった。%K%P
 The sound wasn't from the bathroom. It seemed to come from the other side, where the door to my room is.
 不是浴室的门，是隔着浴室门的另一侧，应该是房间的门关上的声音。
-Это не дверь в ванную ― звук раздался откуда-то снаружи, ― это хлопнула дверь комнаты.
+Это не дверь в ванную – звук раздался откуда-то снаружи, – это хлопнула дверь комнаты.
 
 誰かが室内に入ってきたのか……？　出ていったのか……？%K%P
 Did someone enter the room...? Or did they leave it...?
@@ -490,7 +490,7 @@ My body is heavy, like a lump of lead, making it difficult to even crawl.
 今のオレにできることと言えば、耳を澄ますことぐらいだ。%K%P
 The only thing I can do is listen with the utmost care.
 要说现在我能做的事，只有聚精会神地听。
-Единственное, что мне остаётся, ― прислушаться.
+Единственное, что мне остаётся, – прислушаться.
 
 物音は聞こえなかった。%K%P
 I can't hear a thing.
@@ -805,7 +805,7 @@ Drowsiness hits me the instant I land.
 気合いとか根性とか、そんなものではたち打ちできぬほどの暴力的な睡魔……。%K%P
 Sleepiness of an intensity that I can resist it with neither strength nor will...
 无论靠气势还是毅力都打不赢的，暴力的睡魔……
-Сонливость невероятно сильная ― у меня совсем нет силы воли ей сопротивляться.
+Сонливость невероятно сильная – у меня совсем нет силы воли ей сопротивляться.
 
 意識が薄れていく……。%K%P
 My consciousness fades...

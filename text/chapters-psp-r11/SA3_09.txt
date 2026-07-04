@@ -21,7 +21,7 @@ Utsumi is already gone, returning to her room.
 リビングにいたのは……穂鳥だけだった。%K%P
 The only one remaining is... Hotori.
 在客厅里的……只有穗鸟一个。
-В гостиной лишь один человек ― Хотори.
+В гостиной лишь один человек – Хотори.
 
 穂鳥「かーごめ、かーごめ」%K%P
 Kagome, kagome...
@@ -271,12 +271,12 @@ A six-pointed star, a hexagram, or the Star of David...
 悟「呼び方はいろいろあるが、要するに上下対称形の正三角形をふたつ重ねた形が『籠目模様』ってわけだ」%K%P
 There are many different names for it, but in short, the term ‘kagome moyou’ refers to the symmetrical shape of two equilateral triangles overlapping.
 悟「它的名称各式各样，总之就是两个上下相对的正三角形」
-Существует множество названий, но, если кратко, термин%N"kagome moyou" относится к симметричной форме двух наложенных друг на друга%K%P равносторонних треугольников, имеющих две направленности, ― вверх и вниз.
+Существует множество названий, но, если кратко, термин%N"kagome moyou" относится к симметричной форме двух наложенных друг на друга%K%P равносторонних треугольников, имеющих две направленности, – вверх и вниз.
 
 悟「だから『かごめ歌』も、この六芒星を象徴とする、とある民族の末裔が――」%K%P
 That's why the Kagome song refers to this six-pointed star symbol and was handed down by the descendants of a certain tribe——
 悟「所以，这首歌谣也是以六芒星为象征的某个民族的末裔——」
-Таким образом, песня "Кагомэ" символизирует шестиконечную звезду; переданная потомкам―
+Таким образом, песня "Кагомэ" символизирует шестиконечную звезду; переданная потомкам–
 
 穂鳥「全然違うよ……」%K%P
 That's completely wrong...
@@ -306,7 +306,7 @@ It's most likely referring to a prostitute.
 悟「だから『かごめ歌』っていうのは、この囚われの身となった憐れな女郎のことを――」%K%P
 So the Kagome song is actually the sad story of a prostitute who's being held captive and turned into a commodity, so——
 悟「所以，这首歌谣说的就是这位形同笼中之鸟的可怜女子——」
-Так что песня "Кагомэ" о трагической судьбе лишённой свободы проститутки―
+Так что песня "Кагомэ" о трагической судьбе лишённой свободы проститутки–
 
 穂鳥「全然違うよ……」%K%P
 That's completely wrong...
@@ -386,7 +386,7 @@ I thought you were pretty scholarly, Satoru, but you don't even know something l
 悟「こんなことだから、知らないんだけどな……？」%K%P
 Hey, it's because it's something like this that I don't know...
 悟「就因为是小问题，才不知道的吧……？」
-Только потому, что я не знаю об этом―
+Только потому, что я не знаю об этом–
 
 穂鳥「かごめ歌の『かごめ』っていうのはね……？」%K%P
 The meaning of the ‘kagome’ in the Kagome song...
@@ -431,7 +431,7 @@ Ban (вечер) трактуется не как период времени...
 穂鳥「分娩の『娩』の字のことを示してるの」%K%P
 It's referring to the character ‘ben’ (娩) in ‘bunben’ (分娩)... Childbirth.
 穗鸟「表示分娩的“娩”字」
-Подразумевается иероглиф 娩 (ben) из 分娩 (bunben) ― рождение ребёнка.
+Подразумевается иероглиф 娩 (ben) из 分娩 (bunben) – рождение ребёнка.
 
 悟「じゃあその次の……『鶴と亀が滑った』っていうのは……？」%K%P
 Then what about the next verse? ‘The crane and the turtle slipped and fell’... What does that mean?

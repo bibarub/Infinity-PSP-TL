@@ -126,7 +126,7 @@ Please be safe and survive...
 避難小屋にいるオレには、祈ることぐらいしかできなかった。%K%P
 While I'm at the shelter cabin, the only thing I can do is pray.
 在避难小屋的我，只能祈祷了。
-Всё, что я могу сейчас делать, ― молиться.
+Всё, что я могу сейчас делать, – молиться.
 
 顔をあげると、室内には黄泉木と鈴の姿があった。%K%P
 Lifting my head, I see Yomogi and Lin in the room.
@@ -191,7 +191,7 @@ I look into it and see him there.
 ゆには木箱の中を漁って、探し物をしているようだ。%K%P
 Yuni is fishing around in a wooden box, searching for something.
 悠尼在木箱里乱翻，好像在找什么东西。
-Он роется в деревянном ящике ― что-то ищет.
+Он роется в деревянном ящике – что-то ищет.
 
 声をかけようかとも思ったが、それどころではないのでやめておく。%K%P
 I think about calling out to him, but then decide that now wouldn't be a good time and stop myself.
@@ -261,7 +261,7 @@ Clinging to that hope, I hit the voice recorder's buttons.
 ＤＡＴＡ３――新規の音声ファイルが見つかった。%K%P
 DATA3——There's a new voice file!
 ＤＡＴＡ３——发现了新建的声音文件。
-И вижу новую запись ― DATA3.
+И вижу новую запись – DATA3.
 
 オレはスピーカーに耳をあてて、むさぼるようにそれを聞いた。%K%P
 I greedily press my ear to the speaker and listen to it.
@@ -401,7 +401,7 @@ I want to change places with her this very instant.
 けれどそれとともに、押し潰されるような恐怖もオレは感じていた。%K%P
 However, at the same time, I feel a crushing sensation of fear.
 可与此同时，我也感觉到像要被压溃般的恐怖。
-Хотя чего греха таить ― я очень боюсь.
+Хотя чего греха таить – я очень боюсь.
 
 狂おしい焦燥感に、胸の底がえぐられる。%K%P
 A maddening feeling of frustration gouges at my chest.
@@ -901,7 +901,7 @@ Either the newspaper is from the future, or it's from the past but written by so
 だがいずれの場合に於いても、記事の前半部分が的中したことに変わりはない。%K%P
 But no matter which is true, it doesn't change the fact that the first half of the article is dead on.
 但无论哪种情况，报道的前半部分准确无误这点是毫无疑问的。
-Но, как бы то ни было, это не меняет того факта, что первая половина статьи ― сущая правда.
+Но, как бы то ни было, это не меняет того факта, что первая половина статьи – сущая правда.
 
 ならば、後半部分も信じざるを得なくなるのは、人間の心理として当然のことだろう。%K%P
 In that case, it's only human nature to believe that the rest of the article will come true as well.
@@ -911,7 +911,7 @@ In that case, it's only human nature to believe that the rest of the article wil
 『自分は１月１７日に死んでしまうらしい』……もしもオレだったらそう思う。%K%P
 “I'm going to die on January 17th...” If it were me, that's what I'd think.
 “自己似乎要在１月１７日死掉”……若是我的话会这么想。
-"Получается, 17 января я умру..." ― вот что я подумал бы.
+"Получается, 17 января я умру..." – вот что я подумал бы.
 
 だから恐らく、黄泉木も、鈴も、こころも……。%K%P
 So Yomogi, Lin, and Kokoro are probably thinking that as well...
@@ -976,7 +976,7 @@ Either the newspaper is from the future, or it's from the past but written by so
 だがいずれの場合に於いても、記事の前半部分が的中したことに変わりはない。%K%P
 But no matter which is true, it doesn't change the fact that the first half of the article is dead on.
 但无论哪种情况，报道的前半部分准确无误这点是毫无疑问的。
-Но, как бы то ни было, это не меняет того факта, что первая половина статьи ― сущая правда.
+Но, как бы то ни было, это не меняет того факта, что первая половина статьи – сущая правда.
 
 ならば、後半部分も信じざるを得なくなるのは、人間の心理として当然のことだろう。%K%P
 In that case, it's only human nature to believe that the rest of the article will come true as well.
@@ -1226,7 +1226,7 @@ Hmph, I see.
 黛「行くつもりがないなら、私が消えるわ」%K%P
 If you're not going to move, then I will.
 黛「不打算走开的话，那我消失好了」
-Не уходишь ты ― уйду я.
+Не уходишь ты – уйду я.
 
 鈴が立ち上がった。%K%P
 Lin stands up.
@@ -2136,7 +2136,7 @@ I feel so stupid...
 黛「私、なんでこんな女のことを、悟だなんて……」%K%P
 How did I ever think this woman was Satoru...?
 黛「我为什么，会将这个女人，当作是悟……」
-Как я могла подумать, что эта женщина ― Сатору?
+Как я могла подумать, что эта женщина – Сатору?
 
 悟「鈴、聞いてくれ、オレは――」%K%P
 Lin, please listen, I'm——
@@ -2331,7 +2331,7 @@ The transfers...
 そもそもすべての元凶は、転移現象にあるのだ。%K%P
 The transfers started everything.
 本来一切的元凶，就是这个转移现象。
-Причина всего происходящего ― переносы.
+Причина всего происходящего – переносы.
 
 この現象を解明する手がかりが、なにか新聞に書かれているかも知れない。%K%P
 There could be a clue in this paper somewhere that might shed light on them.
@@ -2446,7 +2446,7 @@ As the captain, I'll take full responsibility...
 ゆに「いえ、隊長の死は部隊の死であります！」%K%P
 No, the death of the captain means the death of the entire squadron!
 悠尼「不，队长的死乃部队的死是也！」
-Нет! Гибель капитана ― гибель всего отряда!
+Нет! Гибель капитана – гибель всего отряда!
 
 ゆに「自分には女房子どもはおりませんので、悲しむ者は誰も……」%K%P
 I have no wife or children, and nobody to cry over me...
@@ -2741,7 +2741,7 @@ And Yuni's name is written there in the paper as well.
 唯一の生存者――楠田ゆにくん（１１）%K%P
 The sole survivor——Kusuda Yuni-kun (11).
 唯一的生存者——楠田悠尼（１１）。
-Единственный, кому удалось выжить, ― Кусуда Юни (11 лет)
+Единственный, кому удалось выжить, – Кусуда Юни (11 лет)
 
 『ゆにくんの精神状態は、半年過ぎた今も安定せず、かたくなに口を閉ざしている』%K%P
 “Yuni-kun's mental state has not yet stabilized, even after half a year. He has stubbornly remained silent.”
@@ -2771,7 +2771,7 @@ About Yuni...
 今この避難小屋にいるゆには２０１１年のゆにではない。%K%P
 The Yuni in the shelter cabin right now isn't the Yuni of 2011.
 现在这个避难小屋中的悠尼不是２０１１年的悠尼。
-Юни, который сейчас в горной хижине, ― не из 2011-го.
+Юни, который сейчас в горной хижине, – не из 2011-го.
 
 肉体はそうであっても、その内部に宿った意識は２０１２年のゆにのものだ。%K%P
 Even if he is in body, the consciousness dwelling inside that body belongs to the Yuni of 2012.

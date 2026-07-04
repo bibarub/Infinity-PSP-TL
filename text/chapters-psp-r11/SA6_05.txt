@@ -46,7 +46,7 @@ Then, at 6:53 AM on the same day, an avalanche will occur at Location X.
 現在時刻――午後４時１５分。%K%P
 Present time——4:15 PM.
 现在时刻——下午４时１５分。
-Текущее время ― 16:15.
+Текущее время – 16:15.
 
 そのときは刻一刻と近づいていた。%K%P
 That time draws nearer every moment.
@@ -121,7 +121,7 @@ Hotori has locked herself in her room and isn't coming out.
 自衛のためか、内海の持っていた包丁を片時も離さず身につけている。%K%P
 She's holding onto the knife that Utsumi had with her, I guess for self-defense, and won't put it down for a moment.
 为了自卫，内海用过的菜刀片刻不离身。
-Она всюду с собой теперь таскает нож, что был у Уцуми, ― надо полагать для самозащиты.
+Она всюду с собой теперь таскает нож, что был у Уцуми, – надо полагать для самозащиты.
 
 内海には、たぶんもう殺意はない。%K%P
 I doubt Utsumi has any desire to kill her anymore.
@@ -166,12 +166,12 @@ I'm not the one who killed Enomoto, and Hotori wasn't the one who took Junichi's
 従って、ゆにがオレに対して恐怖心を抱くのは間違いだし、内海がかつて穂鳥を憎んでいたのも、ある種の錯誤であると言えた。%K%N
 Consequently, Yuni has no reason to fear me, and Utsumi's hatred of Hotori had never been anything more than a horrible mistake from the start.
 更进一步说，悠尼对我的恐惧是不对的，内海憎恨穗鸟，从某种意义上来说也是错误的。
-Следовательно, у Юни нет причин меня бояться, а ненависть, которую Уцуми испытывала к Хотори, ― не более чем ошибка.
+Следовательно, у Юни нет причин меня бояться, а ненависть, которую Уцуми испытывала к Хотори, – не более чем ошибка.
 
 ならばオレの知っていること、時空間転移に関する様々な事実を告げれば、和解への道は開かれるのだろうか？%K%N
 So if I tell them what I know, the truth about the space-time transfer... will I be able to open the path to reconciliation?
 那么如果我把我所知道的，关于时空间转移的各种事实告诉他们，就会打开通往和解的道路吧？
-Так если я расскажу им всё, что знаю ― правду о пространственно-временном перемещении, ― открою ли я тем самым путь к нашему примирению?
+Так если я расскажу им всё, что знаю – правду о пространственно-временном перемещении, – открою ли я тем самым путь к нашему примирению?
 
 しかしそうは言っても、いくら力説したところで、とても信じてもらえるとは思えなかった。%K%P
 But still, no matter how I insist, I don't think they'll believe me at all.
@@ -225,7 +225,7 @@ Suzukage Hotori——
 穂鳥の意識は犬伏景子のものではない。%K%N
 Hotori's consciousness isn't Inubushi Keiko.
 穗鸟的意识并不是犬伏景子。
-Личность Хотори ― не Инубуси Кейко.
+Личность Хотори – не Инубуси Кейко.
 
 彼女は単に墜落したＨＡＬ１８便に乗り合わせていたに過ぎず、%K%N
 She merely happened to be on the ill-fated Flight HAL18.
@@ -329,7 +329,7 @@ I'm sure it's impossible for the culprit to be Yuni.
 最後は榎本尚哉――。%K%N
 Lastly, Enomoto Naoya——
 最后是鼷本尚哉——
-Ну и последний ― Эномото Наоя...
+Ну и последний – Эномото Наоя...
 
 %N
 
@@ -366,7 +366,7 @@ Therefore, in this case, there's no way he could have had a part in it.
 仮に前者３つが彼による犯行だとしても、ＤＭＴとＭＡＯ阻害剤の謎は残ってしまうのだ。%K%P
 Even if he was the one who went after me the first three times, the mystery of the DMT and the MAO inhibitor remains unresolved.
 即使前面三件是他做的，ＤＭＴ和ＭＡＯ阻断剂的谜团还是没有解开。
-Даже если первые три попытки ― его рук дело, тайна DMTи ингибитора МАО остаётся неразгаданной.
+Даже если первые три попытки – его рук дело, тайна DMTи ингибитора МАО остаётся неразгаданной.
 
 悟「いや、待てよ……？」%K%P
 No, wait...

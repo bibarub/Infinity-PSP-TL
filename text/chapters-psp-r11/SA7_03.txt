@@ -1,7 +1,7 @@
 ﻿次の転移は午前４時４８分……。%K%P
 The next transfer Is at 4:48 AM...
 下次转移是凌晨４时４８分……
-Следующий перенос ― в 4:48...
+Следующий перенос – в 4:48...
 
 あと３０分以上もあったが、のんびりしてはいられない。%K%P
 I still have over 30 minutes left, but I can't afford to relax.
@@ -526,7 +526,7 @@ And here...
 上が青鷺島、下が朱倉岳である。%K%P
 Above is Aosagi Island, below is Mount Akakura.
 上面是青鹭岛，下面是朱仓岳。
-Сверху ― остров Аосаги, снизу ― гора Акакура.
+Сверху – остров Аосаги, снизу – гора Акакура.
 
 朱倉岳の名前は地図にしっかりと記載されていた。%K%P
 Mount Akakura's name has been properly marked on the map.
@@ -851,7 +851,7 @@ Eventually, that turns into quick walking, then into a trot, and finally into a 
 現在時刻――午前５時２分。%K%P
 Present time——5:02 AM.
 现在时刻——清晨５时０２分。
-Текущее время ― 5:02.
+Текущее время – 5:02.
 
 オレはサークル内へと踏み込んだ。%K%P
 I step into the circle.
@@ -901,7 +901,7 @@ However, what's there isn't a shelter cabin made of wood...
 漆喰で塗り固められた純白の構造物だった。%K%P
 But a structure plastered in pure white.
 而是纯白色的水泥建筑。
-Вместо неё ― окрашенная белоснежным конструкция.
+Вместо неё – окрашенная белоснежным конструкция.
 
 悟「ど、どういうことだ……？」%K%P
 Wh-What does this mean...?
@@ -961,7 +961,7 @@ There isn't anything like a fence set up around it.
 あったのは、緑色のペンキに塗られた丸い扉だけだった。%K%P
 The only thing there is a round door painted in green.
 有的只是一个涂了绿漆的圆形门。
-Единственное, что тут есть, ― окрашенная в зелёный цвет круглая дверь.
+Единственное, что тут есть, – окрашенная в зелёный цвет круглая дверь.
 
 その小さな鉄製の扉は、ちょうどマンホールの蓋のように屋上の片隅に埋まっていた。%K%P
 The small, iron door is like a manhole cover, hidden in the corner of the roof.
@@ -1071,7 +1071,7 @@ Should I open the door or not...?
 現在時刻――午前５時１７分。%K%P
 Present time——5:17 AM.
 现在时刻——清晨５时１７分。
-Текущее время ― 5:17.
+Текущее время – 5:17.
 
 オレは扉を……。%K%p
 I...

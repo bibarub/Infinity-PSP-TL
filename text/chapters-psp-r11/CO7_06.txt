@@ -170,7 +170,7 @@ But, if it were Satoru... If it were Satoru, he'd be able to come up with the be
 私にとって、悟はそれほどまでに、信頼のおける相手だった。%K%P
 To me, Satoru is a person who I can put my confidence in.
 对我来说，悟就是这么值得信赖的伙伴。
-Для меня Сатору ― тот, кому я могу без раздумий довериться.
+Для меня Сатору – тот, кому я могу без раздумий довериться.
 
 悟……。%K%P
 Satoru...
@@ -205,7 +205,7 @@ At this rate... he'll die...
 こころ「――――！」%K%P
 ————!
 心「————！」
-――!
+––!
 
 ゆにの言葉が引き金になった。%K%P
 Yuni's words are the trigger.
@@ -545,12 +545,12 @@ open my eyes,
 行く手を見据えた――%K%P
 and look up at the path ahead of me——
 注视着前进的方向——
-и смотрю вперёд―
+и смотрю вперёд–
 
 こころ「――――！？」%K%P
 ————!?
 心「————！？」
-――?!
+––?!
 
 目の前に、海が広がっていた。%K%P
 Before my eyes is an ocean, stretching across the horizon.
@@ -580,7 +580,7 @@ White waves surge toward the coast.
 遥か彼方には水平線も見えた。%K%P
 I can see the horizon far off in the distance too.
 远方是水天一线。
-Всё, что я могу видеть, ― бескрайняя водная гладь.
+Всё, что я могу видеть, – бескрайняя водная гладь.
 
 そこから、わずかに朝陽がのぞいている。%K%P
 And from there, the first rays of the sunrise are beginning to peep out.
@@ -1095,7 +1095,7 @@ Because if anything happened to Yomogi, it'd be my fault...
 ――その時だ。%K%P
 ——At that moment.
 ——就在这个时候。
-В этот момент―
+В этот момент–
 
 ゆに「誰か来るよ！」%K%P
 Someone's coming!
@@ -1225,7 +1225,7 @@ As I shield my eyes from the sunlight with one hand, they suddenly freeze on wha
 こころ「あなたは――」%K%P
 You're——
 心「你是——」
-Ты―
+Ты–
 
 違う――%T060
 No——
@@ -1244,7 +1244,7 @@ That isn't Yomogi——
 彼は――
 That's——
 他是——
-Это―
+Это–
 
 こころ「――――！？」%V
 ————!?
@@ -1361,7 +1361,7 @@ The one I've always wanted to see.
 でも――%T030
 But——
 但是——
-Однако―
+Однако–
 
 %P
 

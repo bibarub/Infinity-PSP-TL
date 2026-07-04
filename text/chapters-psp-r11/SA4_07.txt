@@ -16,12 +16,12 @@ The snowfield, the gentle slope of the hill, and the vast sky have all vanished 
 あたりに残っていたのは、艶やかな茜色……それだけだった。%K%P
 The only thing that remains the same is the bewitching madder red surrounding me... Only that, and nothing more.
 唯一不变的，是那片艳丽的暗红色……就只有这个。
-Единственное, что осталось неизменным, ― это окружающее меня чарующее красное марево.
+Единственное, что осталось неизменным, – это окружающее меня чарующее красное марево.
 
 現在時刻――午後４時半。%K%P
 Present time——4:30 PM.
 现在时刻——下午４时３０分。
-Текущее время ― 16:30.
+Текущее время – 16:30.
 
 悟「くそっ！」%K%P
 Damn it!
@@ -116,7 +116,7 @@ Covering my face with my hands, I heave a sigh.
 神経がピリピリと尖っていて落ち着かない。%K%P
 My nerves are on edge, and I can't calm down.
 神经绷得紧紧的，没法冷静下来。
-Нервы на пределе ― мне никак не расслабиться.
+Нервы на пределе – мне никак не расслабиться.
 
 落ち着けるわけがなかった。%K%P
 I can't possibly calm down.
@@ -291,7 +291,7 @@ I have that feeling.
 扉の横にはカードリーダーの端末が設置されていた。%K%P
 There's a card reader terminal on the wall beside the door.
 门的旁边装有读卡机的终端。
-Рядом с дверью ― устройство для чтения магнитных карт.
+Рядом с дверью – устройство для чтения магнитных карт.
 
 スフィアの正面ゲートはＩＤカードで開いた。%K%P
 The SPHIA front gate opened with the ID card.
@@ -371,7 +371,7 @@ It's currently operational; I can hear the dull sound of the fans echoing throug
 その向こう側には、椅子を取り囲むようにしてコンソールパネルが鎮座している。%K%P
 On the other side is a single chair, surrounded by a bank of control panels.
 机器对面是一个环绕着椅子的控制台。
-По другую сторону ― консоль, полукругом огибающая стоящее перед ней кресло.
+По другую сторону – консоль, полукругом огибающая стоящее перед ней кресло.
 
 コンソールの上には何台ものモニターが備え付けられていた。%K%P
 Above the panels is an array of monitor screens.
@@ -496,7 +496,7 @@ White... steam...?
 ――えっ！？%K%P
 ——Eh!?
 ——哎！？
-―Что?!
+–Что?!
 
 背筋に冷たいものが走った。%K%P
 A chill runs down my spine.
@@ -526,7 +526,7 @@ Who is it!? Where are they hiding!?
 そう思った瞬間――。%K%P
 And the moment I think that——
 正当我这么想的时候——
-И в этот момент―
+И в этот момент–
 
 天井の照明が点灯した。%K%P
 The ceiling lights come on.
@@ -731,7 +731,7 @@ You don't get it? I'm talking about what's happening to you right now.
 悟「なっ！？」%K%P
 Wha!?
 悟「什么！？」
-Че―?!
+Че–?!
 
 まさか、人格交換現象のことか！？%K%P
 Don't tell me... the personality exchange!?
@@ -761,7 +761,7 @@ If it was going to end up like this, I shouldn't have let you go up the clock to
 悟「――！？」%K%P
 ——!?
 悟「——！？」
-―?!
+–?!
 
 なんだと……！　もしや……。%K%P
 What did he just say...!? What if...?

@@ -178,7 +178,7 @@ Lying next to the alarm clock are two things.
 ひとつはカードのようなもので、もうひとつは金属製の小さな物体だった。%K%P
 The first is something like a card, and the other is a small metal object.
 一个是卡片，另一个是金属制小物体。
-Первая напоминает пластиковую карточку, вторая ― маленький металлический объект.
+Первая напоминает пластиковую карточку, вторая – маленький металлический объект.
 
 先にカードの方から手に取った。%K%P
 I pick up the card first.
@@ -333,7 +333,7 @@ After picking it up, I take a look around me.
 まずまっさきに思い浮かんだのが、この部屋のドアの鍵ではないか、ということだった。%K%P
 The first thing I think is that it could be the key to this room.
 首先想到的，是确认它是不是这个房间的门钥匙。
-Первое, что приходит мне в голову, ― это ключ от двери моей комнаты.
+Первое, что приходит мне в голову, – это ключ от двери моей комнаты.
 
 さっそくドアを開き、外側から鍵穴にあてがってみる。%K%P
 Without further ado, I open the door and try to put it in the lock on the other side.
@@ -713,7 +713,7 @@ The cover also includes an illustration but doesn't contain any writing.
 何年の、７月２１日号なのだろうか？%K%P
 What year is this issue from?
 哪一年的７月２１日号？
-21 июля ― какого года?
+21 июля – какого года?
 
 オレは雑誌を手に取った。%K%P
 I pick up the magazine.
@@ -1005,7 +1005,7 @@ The shelter cabin was near the peak of Mount Akakura.
 いくら登山のエキスパートである山岳救助隊とは言え、そこまでたどりつくには最速でも１週間はかかるだろうと予想された。%K%P
 No matter how skilled at climbing the team members were, it was expected that it would have taken them a week or more to reach the cabin.
 即使是作为登山专家的山岳救助队，要赶到那里最快也要一周的时间。
-И неважно, сколь подготовлены были спасатели, ― в таких метеоусловиях восхождение заняло бы не меньше недели.
+И неважно, сколь подготовлены были спасатели, – в таких метеоусловиях восхождение заняло бы не меньше недели.
 
 結局、天候の回復を待つより他なかった。%K%N
 In the end, there was no other option but to wait for the weather to improve.
@@ -1200,7 +1200,7 @@ The only difference is that the magazine article ends with these questions.
 『楠田ゆにくんは、この７日間に何を見たのか？　何を体験したのか？』%K%P
 “What did Kusuda Yuni-kun see during those seven days? What did he go through?”
 “楠田悠尼，在这七日间看到了什么？有什么体验？”
-"Кусуда Юни ― что же ему довелось видеть, пережить?"
+"Кусуда Юни – что же ему довелось видеть, пережить?"
 
 『今に至るまでくちを閉ざし続けているのはなぜなのか？』%K%N
 “Why does he refuse to speak about it even now?”
@@ -1275,17 +1275,17 @@ Specifically, it looks like a boarding pass, but...
 行き先は、オーストラリアのシドニー国際空港。%K%P
 The destination is Sydney International Airport, Australia.
 目的地是澳大利亚悉尼国际机场。
-Место назначения ― Сиднейский аэропорт, Австралия.
+Место назначения – Сиднейский аэропорт, Австралия.
 
 出発日は２０１１年１月１８日となっていた。%K%P
 The date of departure is January 18th, 2011.
 出发日是２０１１年１月１８日。
-Дата вылета ― 18 января 2011 года.
+Дата вылета – 18 января 2011 года.
 
 予約者の名前は『ＳＡＴＯＲＵ　ＹＵＫＩＤＯＨ』……。%K%P
 And the holder's name is “ＳＡＴＯＲＵ　ＹＵＫＩＤＯＨ”...
 预约者名字是“ＳＡＴＯＲＵ　ＹＵＫＩＤＯＨ”……
-В графе "Имя" ― "Сатору Юкидо"...
+В графе "Имя" – "Сатору Юкидо"...
 
 悟「どういうことだ……？」%K%P
 What does this mean...?

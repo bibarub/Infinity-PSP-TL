@@ -1,5 +1,5 @@
 ﻿悟「ちっ！　転移か――！？」%K%P
-Damn it! A transfer――!?
+Damn it! A transfer——!?
 悟“嘁！转移吗——！？”
 Чёрт! Перемещение?!
 
@@ -101,7 +101,7 @@ This is SPHIA's living area...
 いつもと変わらぬリビングの――光景ではなかった。%K%P
 Just the same as it always is——wait.
 和平常一样毫无变化的——光景才怪。
-Такая же, как и все― что?!
+Такая же, как и все– что?!
 
 悟「な、何なんだ、これは……！？」%K%P
 Wh-What is this...!?
@@ -131,7 +131,7 @@ The living area and the dining area used to have a glass divider between them, b
 それはすでに間仕切りの態をなさず、完膚なきまでに叩き壊されていた。%K%P
 It's no more, having been shattered into tiny pieces.
 已经失去原本的样子，被砸得体无完肤。
-Теперь её нет ― остались только рассыпанные по всему полу осколки.
+Теперь её нет – остались только рассыпанные по всему полу осколки.
 
 壁際のプラズマディスプレイには放射状に広がった亀裂が走っている。%K%P
 The plasma display screen by the wall is full of cracks that radiate outward from its center.
@@ -660,7 +660,7 @@ Yuni's lips just barely moved.
 その直後――！%K%N
 And immediately after that——!
 紧接着——！
-И сразу после этого―
+И сразу после этого–
 
 %N
 

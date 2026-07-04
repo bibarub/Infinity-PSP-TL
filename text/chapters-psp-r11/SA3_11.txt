@@ -46,7 +46,7 @@ Up on the top bunk, Lin is asleep with her back to us.
 だが肝心のゆにの姿が見当たらなかった。%K%P
 But the most crucial survivor, Yuni, is nowhere to be seen.
 可是，最重要的悠尼却不见踪影。
-Но я не вижу главного персонажа ― Юни.
+Но я не вижу главного персонажа – Юни.
 
 そう『肝心の』……。%K%P
 Yes, he's the most crucial...
@@ -241,7 +241,7 @@ She said “I asked everyone”, but that “everyone” is probably just the ot
 『今年は２０１１年だって言ってた』……これも当たり前のことだった。%K%P
 “They all said it was the year 2011”... Again, a reasonable statement.
 “他们都说今年是２０１１年”……也是理所当然的。
-"Они подтвердили, что сейчас 2011 год" ― тоже вполне обоснованно.
+"Они подтвердили, что сейчас 2011 год" – тоже вполне обоснованно.
 
 どうやらオレの言いたかったことは、彼女にうまく伝わらなかったらしい。%K%P
 It seems like what I tried to say didn't come across very well.
@@ -261,7 +261,7 @@ I ended up not being able to tell her everything.
 『こころのいる世界は、１年後の、２０１２年なんだよ』%K%P
 “In the world you're in right now, it's one year later, the year 2012.”
 “心所在的世界，是一年后的２０１２年”
-"Мир, в котором ты сейчас, ― это мир 2012 года, на один год позже".
+"Мир, в котором ты сейчас, – это мир 2012 года, на один год позже".
 
 オレはこれだけのことしか、まだ言っていない。%K%P
 That's pretty much what I'd said.
@@ -451,7 +451,7 @@ You remember what I said in the previous message, right?
 悟「『こころのいる世界は、１年後の、２０１２年なんだ』って……」%K%P
 That the world you're in right now is one year later, the year 2012...
 悟「“心所在的世界，是一年后的２０１２年”……」
-"Мир, в котором ты сейчас, ― это мир 2012 года, на один год позже".
+"Мир, в котором ты сейчас, – это мир 2012 года, на один год позже".
 
 悟「でも、それは正確な言い方じゃなかった」%K%P
 However, that wasn't the most accurate way to put it.
@@ -501,7 +501,7 @@ Without beating around the bush, it's like this.
 悟「スフィアのある世界が２０１２年、避難小屋のある世界が２０１１年」%K%P
 In the world of SPHIA, it's 2012; in the world of the shelter cabin, it's 2011.
 悟「ＳＰＨＩＡ所在的世界是２０１２年，避难小屋所在的世界是２０１１年」
-в мире SPHIA сейчас 2012 год, в мире горной хижины ― 2011-й.
+в мире SPHIA сейчас 2012 год, в мире горной хижины – 2011-й.
 
 悟「オレとこころの意識は、空間を移動すると同時に、時間も……」%K%P
 Our consciousnesses are jumping not only through space,
@@ -551,7 +551,7 @@ At any rate, this is the truth.
 悟「スフィアは２０１２年、避難小屋は２０１１年……」%K%P
 It's 2012 in SPHIA, and 2011 in the shelter cabin...
 悟「ＳＰＨＩＡ是２０１２年，避难小屋是２０１１年……」
-В SPHIA ― 2012 год, в горной хижине ― 2011-й.
+В SPHIA – 2012 год, в горной хижине – 2011-й.
 
 悟「オレとこころは、ふたつの異なった時間、空間、肉体のあいだを、ぐるぐるぐるぐると入れ替わり続けてるんだ」%K%P
 Kokoro and I keep shifting back and forth between two different bodies, places, and times.
@@ -576,7 +576,7 @@ Because I live in the year 2012.
 悟「つまりオレは、おまえにとっては未来の人間ということになる」%K%P
 That is to say, to you, I'm a person from the future.
 悟「也就是说，对你来说我来自未来」
-И, таким образом, для тебя я ― человек из будущего.
+И, таким образом, для тебя я – человек из будущего.
 
 悟「だから、オレはこの避難小屋が２０１１年だってことを知ってるんだ」%K%P
 That's why I even know about the shelter cabin being in 2011.
@@ -631,12 +631,12 @@ But, well... They really aren't the same.
 悟「片方のゆには２０１１年のゆに……」%K%P
 One Yuni is the Yuni of the year 2011...
 悟「一边的悠尼是２０１１年的悠尼……」
-Один Юни ― это Юни из 2011 года...
+Один Юни – это Юни из 2011 года...
 
 悟「もう片方のゆには２０１２年のゆになんだよ」%K%P
 ...and the other one is the Yuni of the year 2012.
 悟「另一边的悠尼则是２０１２年的悠尼」
-А другой ― Юни из 2012-го.
+А другой – Юни из 2012-го.
 
 悟「時間軸上の異なったポイントに、同一人物がいたとしても、別に不思議ではないだろう？」%K%P
 Even if the very same person exists at different points on the time axis, it's not particularly mysterious, don't you think?
@@ -801,5 +801,5 @@ I've etched her every word deep into my mind.
 さて、それよりもだ――！%K%P
 Now then, that aside——!
 好了，先不想这些——！
-А теперь, что касается―
+А теперь, что касается–
 

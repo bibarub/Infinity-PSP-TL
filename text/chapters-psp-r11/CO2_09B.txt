@@ -291,7 +291,7 @@ Before? Before as in when?
 ゆに「さっきはさっきだよ」%K%P
 Before as in before.
 悠尼「刚才就是刚才呀」
-"Ранее" ― значит "ранее".
+"Ранее" – значит "ранее".
 
 それがいつのことなのか問いただしても、さっきとしか答えてくれなかった。%K%P
 When I ask him when he means, he only replies with “before”.
@@ -301,7 +301,7 @@ When I ask him when he means, he only replies with “before”.
 何度も同じことを聞くなといった風情だ。%K%P
 It seems that's all he's going to reply with no matter how many times I ask.
 大概再问多少次都一样。
-Похоже, сколько ещё раз я его не спрошу, ответом мне будет лишь одно ― "ранее".
+Похоже, сколько ещё раз я его не спрошу, ответом мне будет лишь одно – "ранее".
 
 仕方なく、私は質問を変えた。%K%P
 Left with no other choice, I change the question.
@@ -628,7 +628,7 @@ The scrawled sentences continue.
 『午後１時７分転移』……。%K%N
 “Transfer at 1:07 PM”...
 “下午１时０７分转移”……
-"Время переноса ― 13:07"...
+"Время переноса – 13:07"...
 
 これだけか？　たったこれだけなのか？　おまえの言いたいことは……。%K%N
 That's it? That's all there is? Is this all you wanted to say...?
@@ -658,12 +658,12 @@ But, you know?
 たった１行だけの文章ってーのは、あまりも素っ気なさ過ぎるんじゃないか？%K%N
 Isn't it cold to write only one sentence back?
 只有一行的回信，岂不是太过简陋了？
-Написать лишь одно предложение ― не слишком ли лаконично?
+Написать лишь одно предложение – не слишком ли лаконично?
 
 もうちょっと、なんと言うか、具体的なことを書いて欲しいんだ。%K%N
 Can't you, I don't know, write something a little more detailed?
 希望你能稍微多写一点，怎么说呢，多写一点具体的东西。
-Не могла бы ты ― как это выразить? ― написать что-нибудь с большей глубиной?
+Не могла бы ты – как это выразить? – написать что-нибудь с большей глубиной?
 
 お互い直接対面することはできないが、幸いなことに、こうして情報交換することはできるわけだし……。%K%N
 We can't meet in person, but at least we're lucky enough to be able to exchange information...
@@ -733,7 +733,7 @@ Be careful.
 オレも、避難小屋にいるときには、おまえの身体のことを最優先で考えるから。%K%N
 While I'm in the shelter cabin, I consider your body my top priority too.
 在避难小屋里的时候，我也会尽力保护你的身体安全的。
-Ведь когда я в твоём теле, забота о нём ― моя первостепенная задача.
+Ведь когда я в твоём теле, забота о нём – моя первостепенная задача.
 
 それじゃあ、頼んだぞ、こころ。%K%P
 Well then, I'm counting on you, Kokoro.
@@ -1032,7 +1032,7 @@ And about your left arm...
 私の、あなたの、左腕を斬りつけたのは……。%K%N
 The one who cut my, your, left arm...
 我的——你的左臂被划伤了……
-Тот, кто порезал мою ― твою ― руку...
+Тот, кто порезал мою – твою – руку...
 
 その『何者か』が……やったことで……。%K%N
 That “someone”... was the one who did it...
@@ -1042,7 +1042,7 @@ That “someone”... was the one who did it...
 その人は、私の、あなたの、命を奪おうとして……。%K%N
 That person tried to take away my, your, life...
 那个人想要夺走，我的——你的性命……
-Он пытался лишить меня ― тебя ― жизни...
+Он пытался лишить меня – тебя – жизни...
 
 つまり、そういうことなんですよね……？%K%N
 Basically, that's the situation, right...?
@@ -1272,7 +1272,7 @@ I have two more things I want you to tell me.
 ひとつめは、スフィアのこと――。%K%N
 The first is about SPHIA——
 其一是ＳＰＨＩＡ——
-Первая ― о SPHIA.
+Первая – о SPHIA.
 
 悟は私なんかよりもずっとこの施設に詳しいはずでしょう？%K%N
 Satoru should know much more than I do about this facility, right?
@@ -1292,7 +1292,7 @@ Like how to get outside and how to communicate with the outside world...
 ふたつめは、避難小屋のこと――。%K%N
 The second is about the shelter cabin——
 其二是避难小屋——
-И вторая ― по поводу горной хижины.
+И вторая – по поводу горной хижины.
 
 私が留守にしてるあいだの小屋の状況……。%K%N
 In the time that I'm away from the cabin...
@@ -1352,17 +1352,17 @@ I checked properly, just like you told me, so here they are below:%K%N
 『午後０１時０７分：スフィアに転移、%N午後０１時４０分：避難小屋に戻る』%K%N
 1:07 PM: Transferred to SPHIA, 1:40 PM: Returned to the shelter cabin.
 “下午１时０７分：转移到ＳＰＨＩＡ，%N下午１时４０分：返回避难小屋”
-13:07 ― перенеслась в SPHIA, 13:40 ― вернулась в хижину
+13:07 – перенеслась в SPHIA, 13:40 – вернулась в хижину
 
 『午後０６時０３分：スフィアに転移、%N午後０６時３６分：避難小屋に戻る』%K%N
 6:03 PM: Transferred to SPHIA, 6:36 PM: Returned to the shelter cabin.
 “晚上６时０３分：转移到ＳＰＨＩＡ，%N晚上６时３６分：返回避难小屋”
-18:03 ― перенеслась в SPHIA, 18:36 ― вернулась в хижину
+18:03 – перенеслась в SPHIA, 18:36 – вернулась в хижину
 
 『午後０７時３３分：スフィアに転移』%K%N
 7:33 PM: Transferred to SPHIA.
 “晚上７时３３分：转移到ＳＰＨＩＡ”
-19:33 ― перенеслась в SPHIA
+19:33 – перенеслась в SPHIA
 
 というわけで、１、２、３、４、５……。%K%N
 So that means, 1, 2, 3, 4, 5...

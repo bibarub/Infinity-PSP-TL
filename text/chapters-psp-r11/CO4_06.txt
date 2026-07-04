@@ -1,5 +1,5 @@
 ﻿――いきなり、平衡感覚を失った。%K%P
-――All of a sudden, I lose my balance.
+——All of a sudden, I lose my balance.
 ——突然间，我失去了平衡感。
 Неожиданно я теряю равновесие.
 
@@ -476,7 +476,7 @@ Just thinking of the attacker makes me tremble once more.
 『誰か』はさっき、確かに私を――悟を――殺そうとした。%K%P
 Someone, just now, tried to kill me——Satoru——
 刚才“某人”的确是要杀了我——悟。
-Кто-то только что пытался убить меня ― убить Сатору.
+Кто-то только что пытался убить меня – убить Сатору.
 
 恐ろしいまでの殺気を感じたのだ。%K%P
 I sense a spine-chilling thirst for blood.
@@ -1096,7 +1096,7 @@ They might be obstructed by the snow.
 スフィアの敷地内でも、ヘタをすれば居場所を見失ってしまうだろう。%K%P
 Even within the premises of SPHIA, I'll get lost with one wrong move.
 即便是在ＳＰＨＩＡ之中，搞不好也会失去方位吧。
-Не важно, что это внутренняя территория SPHIA: одно неправильное движение ― и я потеряюсь.
+Не важно, что это внутренняя территория SPHIA: одно неправильное движение – и я потеряюсь.
 
 もしも、迷ってしまったら、%TS042低体温症%TEで意識を失い……凍死は免れ得ない。%K%P
 If I lose my way, I could go into %TS042hypothermia%TE and lose consciousness... and freeze to death.
@@ -1476,7 +1476,7 @@ A small fire is burning in the stove.
 だが、雪の中を歩いていた私には、ありがたすぎる恵みの炎であった。%K%P
 However, to me, who's been walking in the snow, the flame is a much appreciated blessing.
 这对于刚才还在雪中前行的我来说，简直是求之不得的恩赐。
-Для меня, только что побывавшей посреди снежной бури, это пламя ― бесценное благословение.
+Для меня, только что побывавшей посреди снежной бури, это пламя – бесценное благословение.
 
 こころ「助かった……」%K%P
 I'm saved...
@@ -1621,7 +1621,7 @@ I can't hear anything.
 ただ、狂ったように心臓が脈打っている。%K%P
 All I can feel is my heart, pounding as if it's defective.
 只有心脏失控般地跳动着。
-Всё, что я чувствую, ― это грубый, неровный стук моего сердца.
+Всё, что я чувствую, – это грубый, неровный стук моего сердца.
 
 私は、ゆっくりと……%K%P
 I... slowly...
@@ -1840,7 +1840,7 @@ If I can't reach Satoru's room...
 力尽きてしまうのは時間の問題だろう。%K%P
 Then it's just a matter of time before I pass out.
 用尽体力只是时间上的问题了。
-Потеря сознания ― только вопрос времени.
+Потеря сознания – только вопрос времени.
 
 こころ「……はぁはぁ……はぁはぁ」%K%P
 ...Haah haah... Haah haah...
@@ -1940,7 +1940,7 @@ If I can't reach Satoru's room...
 力尽きてしまうのは時間の問題だろう。%K%P
 Then it's just a matter of time before I pass out.
 用尽体力只是时间上的问题了。
-Потеря сознания ― только вопрос времени.
+Потеря сознания – только вопрос времени.
 
 こころ「……はぁはぁ……はぁはぁ」%K%P
 ...Haah haah... Haah haah...

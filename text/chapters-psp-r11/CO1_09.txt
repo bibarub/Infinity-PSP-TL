@@ -71,7 +71,7 @@ He carefully chooses his words as he solemnly continues.
 黄泉木「ＨＡＬ１８便――」%K%P
 Flight HAL18——
 黄泉木「ＨＡＬ１８次航班——」
-Рейс HAL18 ―
+Рейс HAL18 –
 
 黄泉木「それが僕らの乗っていた小型旅客機の正式名称だ」%K%P
 That was the name of the small passenger aircraft we boarded.
@@ -81,7 +81,7 @@ That was the name of the small passenger aircraft we boarded.
 黄泉木「飛行機は乗員乗客３１名をのせ、一路日本列島の最北端、稚内を目指していた」%K%P
 The plane was carrying a total of 31 passengers and crew members on a non-stop journey to Wakkanai, one of a chain of islands in the north of Japan.
 黄泉木「乘客和乘务员共３１人搭乘了那一航班，一路飞往日本列岛的最北端——稚内」
-В общей сложности на борту был тридцать один человек: пассажиры и экипаж. Самолёт направлялся прямым курсом к самому северному городу Японии ― Вакканаи.
+В общей сложности на борту был тридцать один человек: пассажиры и экипаж. Самолёт направлялся прямым курсом к самому северному городу Японии – Вакканаи.
 
 黄泉木「順調に飛行を続けていれば、午後５時には空港へと到着しているはずだった」%K%P
 If flight conditions were favorable, we should have arrived at the airport at 5 PM.
@@ -245,7 +245,7 @@ There was one corpse that seemed comparatively unharmed, but it stayed motionles
 地獄などという言葉ではとても表現し切れないほどの惨状だった。%K%N
 The word “hell” wasn't enough to describe that disastrous scene.
 “地狱”这种词汇都无法准确描述眼前的惨状。
-"Ад" ― только так можно описать увиденное мной.
+"Ад" – только так можно описать увиденное мной.
 
 その光景を前にして、黛は放心状態に陥り、茫然とその場に立ち尽くしていた。%K%N
 Having taken it all in, Mayuzumi looked absentminded and dazed.
@@ -322,7 +322,7 @@ By the time I'd finished, the sun had disappeared behind the horizon.
 黄泉木「月の光も星の光も届かない完全な暗闇……」%K%P
 It was so dark that the stars and moon couldn't illuminate a thing...
 黄泉木「那是月光和星光都无法穿透的绝对的黑暗……」
-Ни свет луны, ни свет звёзд не достигали нас ― абсолютная темнота...
+Ни свет луны, ни свет звёзд не достигали нас – абсолютная темнота...
 
 黄泉木「フライトアテンダントの座席のそばから懐中電灯を探り当てた」%K%P
 I found a flashlight near the flight attendant's seat.
@@ -429,7 +429,7 @@ Of course, that'd be pointless if the three of us lost our lives before they arr
 だから――生き延びること――。%K%N
 That's why——to live——
 所以——活下去——
-Вот почему выжить ―
+Вот почему выжить –
 
 %N
 
@@ -642,7 +642,7 @@ The traces I had left behind had become buried by the snow and were indiscernibl
 僕の足は止まった。もはや一歩たりとも動くことはできない。%K%P
 My legs had become completely stuck. I couldn't take a single step further.
 我停了下来。已经连一步都迈不出去了。
-Ноги окончательно оцепенели ― я больше не мог сделать и шагу.
+Ноги окончательно оцепенели – я больше не мог сделать и шагу.
 
 黄泉木「ここまでか……」%K%P
 So this is it...
@@ -662,7 +662,7 @@ I knew that this would happen from the moment I set out.
 吹雪の中を歩き続ければ、道を失うのは当然のことだ。%K%N
 If you walk out into a snowstorm, then it's only natural for you to lose your way.
 在暴风雪中走下去，当然会迷路。
-Сбиться с пути в пургу ― проще простого.
+Сбиться с пути в пургу – проще простого.
 
 にもかかわらず、僕は引き返そうとはしなかった。%K%N
 But even then, I never once thought of turning back.
@@ -1137,7 +1137,7 @@ An invisible power...
 それが何なのかは私にもわからないけれど……。%K%P
 What it could be, I have no idea...
 虽然我也不明白那究竟是什么……
-Но что это за сила ― понятия не имею...
+Но что это за сила – понятия не имею...
 
 こころ「そうですか……」%K%P
 I see...

@@ -171,12 +171,12 @@ First of all, where am I?
 あたりを見まわしてみると、天井や床や内壁はすべて木材で出来ていることがわかった。%K%P
 As I take a look around, I can see that everything, including the roof, the floor, and the walls, is made out of wood.
 环视四周，看起来天花、地板和内墙都是木质的。
-Осматриваясь, я обнаруживаю, что всё вокруг, включая потолок, пол и стены, ― деревянное.
+Осматриваясь, я обнаруживаю, что всё вокруг, включая потолок, пол и стены, – деревянное.
 
 私の立ち位置を基準にして、右手には２段ベッドがあり、左手には玄関と思しきドアがあった。%K%P
 From where I stand, I can see a double bunk bed to the right and a doorway to the left.
 以我站立的位置为基准，右边有双层床，左边的门看起来则像是入口。
-Со своего места я вижу двухъярусную кровать по правую сторону и дверь ― по левую.
+Со своего места я вижу двухъярусную кровать по правую сторону и дверь – по левую.
 
 向かい側の壁際には木製のテーブルと、丸太をぶつ切りにしただけの簡素なイスが何脚か置かれている。%K%P
 Near the wall across the room stands a wooden table, along with a few simple chairs made from chopped logs.
@@ -321,7 +321,7 @@ His short-trimmed hair has casually fallen into disarray.
 口元や顎にはまばらに生えた無精ひげがあり、張り出した頬骨とともに精悍な印象を与えた。%K%P
 There's a sparse amount of stubble growing around his mouth and chin, and his prominent cheekbones give him a dauntless appearance.
 嘴边和下巴长着稀疏的邋遢胡子，再加上突出的颧骨，给人以精悍的印象。
-Вокруг рта и на подбородке ― редкая щетина; благодаря своим выдающимся скулам, мужчина выглядит весьма бесстрашным.
+Вокруг рта и на подбородке – редкая щетина; благодаря своим выдающимся скулам, мужчина выглядит весьма бесстрашным.
 
 身体のラインは見事にシェイプアップされている。%K%P
 His body is in good shape.
@@ -341,7 +341,7 @@ That being said, by no means is he thin.
 肩や胸に程よくついた筋肉の隆起は、服の上からでも見て取れた。%K%P
 The muscles on his shoulders and chest are toned to the degree that their contours are visible through his clothes.
 肩膀和胸口肌肉的隆起恰到好处，隔着衣服也能够看得出来。
-Мышцы плеч и груди подтянуты ― они прослеживаются даже через одежду.
+Мышцы плеч и груди подтянуты – они прослеживаются даже через одежду.
 
 ひとことで言えば、極めて男性的な、たくましい体つきをしていた。%K%P
 If anyone asked me, I'd have to say that he has an extremely manly, strong body.
@@ -411,12 +411,12 @@ Would it be an exaggeration to say she's from high society?
 ドラム缶ストーブやブリキのヤカンや毛羽立った木材に囲まれた空間の中では、彼女の姿はひときわ異彩を放って見えた。%K%P
 Surrounded by the drum stove, the tin kettle, and the assorted timber, her appearance is particularly conspicuous.
 可是在油桶暖炉、铁皮水壶、与起毛的木材之间，她的身姿可谓大放异彩。
-Жестяной котелок на железной полукруглой печи, деревянный стол, куча дров ― она попросту выбивается из этого окружения.
+Жестяной котелок на железной полукруглой печи, деревянный стол, куча дров – она попросту выбивается из этого окружения.
 
 男性の方は３０代半ば、女性の方は２０代後半ぐらいの年齢だと思う。%K%P
 The man looks as if he's in his mid-thirties, while the woman appears to be in her late twenties.
 看起来，男性有３０多岁，女性估计也将近３０岁。
-Мужчине можно дать около тридцати пяти, девушке ― чуть больше двадцати пяти.
+Мужчине можно дать около тридцати пяти, девушке – чуть больше двадцати пяти.
 
 もちろん、それらはあくまでも推定年齢であって、実際にはもっと上かも知れないし下かも知れない。%K%P
 Of course, that's just my estimate; they could be older or younger.
@@ -481,7 +481,7 @@ Remaining silent, she brings the cup to her lips.
 寒さのためか、両手に包まれたスチール製のカップはカタカタと揺れていた。%K%P
 The steel cup, wrapped in her two hands, is rattling and shaking; it must be from the cold.
 大概是因为寒冷，两手捧着的铁制杯子在咔嗒咔嗒地颤抖。
-Её руки, держащие стальную кружку, заметно дрожат ― должно быть от холода.
+Её руки, держащие стальную кружку, заметно дрожат – должно быть от холода.
 
 こころ「すみません、聞いてますか？」%K%P
 Excuse me, are you listening?
@@ -721,7 +721,7 @@ From the airplane crash.
 ――墜落。%K%P
 ——Crash.
 ——坠落。
-―Крушение.
+–Крушение.
 
 どうして今まで忘れていたのだろう？%K%P
 Did I already forget what had happened up until now?
