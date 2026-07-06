@@ -2370,7 +2370,7 @@ CN PLACEHOLDER
 少年「優には借りがあるし……」%K%P
 Well, I suppose I owed you one anyway...
 CN PLACEHOLDER
-;Мальчик«Ну, полагаю, я всё равно тебе должен...»%K%P
+;Мальчик«Всё-таки я у тебя в долгу...»%K%P
 // полагаю уместно в устной речи? --bibarub
 
 優「借り？」%K%P
