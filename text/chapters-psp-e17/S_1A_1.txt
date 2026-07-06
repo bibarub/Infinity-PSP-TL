@@ -3020,7 +3020,7 @@ CN PLACEHOLDER
 優「大事故にでもあって、脳に致命的な損傷を受けた、とかだったら別だけどね」%K%P
 Of course, if you were in a major accident and had severe trauma to the brain, that would be a whole different thing.
 CN PLACEHOLDER
-Конечно, если бы ты попал в серьезный несчастный случай и заработал повреждение мозга, то это была бы уже другая песня.
+Конечно, если бы ты попал в серьёзный несчастный случай и заработал повреждение мозга, то это была бы уже другая песня.
 
 優「どうも、そんな感じでもなさそうだし……」%K%P
 But that doesn't seem to be the case...
