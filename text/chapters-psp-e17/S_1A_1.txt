@@ -3533,7 +3533,7 @@ CN PLACEHOLDER
 通常の通路も、緊急避難用の通路も、全部だ。%K%P
 Both the normal corridors and the emergency corridors were sealed.
 CN PLACEHOLDER
-И обычные, и аварийные коридоры запечатаны.
+И обычные, и аварийные коридоры перекрыты.
 // "запечатаны" прикольно звучит. а есть более хорошая альтернатива? --bibarub
 
 全部がダメだったのだ。%K%P
