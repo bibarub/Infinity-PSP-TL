@@ -3118,7 +3118,7 @@ CN PLACEHOLDER
 壁には小さな水密扉がついていて、ここをくぐり抜けない限り、これ以上うえへ進むことはできない。%K%P
 The wall had a small watertight door, and if we couldn't squeeze through that, then we couldn't make our way any higher.
 CN PLACEHOLDER
-На ней небольшая водоупорная дверь, и, кроме как через эту дверь, дальше пройти никак.
+На ней установлен небольшой водоупорный люк, и, не пройдя через него, выше не подняться.
 // перефразировать бы --bibarub
 
 少年「ここはまだ……浮島じゃないよね？」%K%P
