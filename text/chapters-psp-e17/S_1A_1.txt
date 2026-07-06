@@ -2376,7 +2376,7 @@ CN PLACEHOLDER
 優「借り？」%K%P
 Owed me?
 CN PLACEHOLDER
-Должен?
+В долгу?
 
 少年「売店で倒れたとき、優が助けてくれたんでしょ？」%K%P
 When I collapsed at the shop, you helped me, right?
