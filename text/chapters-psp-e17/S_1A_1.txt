@@ -3179,7 +3179,7 @@ CN PLACEHOLDER
 でも、どっちにしろ、この扉が開かないことにはどうにもならないんだ。%K%P
 But in any event, if the door didn't open up, then that was it.
 CN PLACEHOLDER
-Но нет никакой разницы, если мы не можем открыть эту дверь.
+Но нет никакой разницы, если мы не можем открыть этот люк.
 
 少年「ねえ？　なんで開かないのかな？」%K%P
 Hey. I wonder why it won't open.
