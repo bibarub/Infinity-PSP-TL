@@ -336,7 +336,7 @@ CN PLACEHOLDER
 もはや笑うどころではなく、憐憫の情さえわかず、ぼくはただただ震えおののいていた。%K%P
 It was no time to laugh. I was paralyzed with fear. I didn't even have the presence of mind to feel sorry for him.
 CN PLACEHOLDER
-Какой уж тут смех – мне страшно. У меня и в мыслях нет жалеть его.
+Какой уж тут смех, его уже и жалеть не хотелось. Он просто пугал.
 
 （ああ、こんなところに閉じ込められたもんだから、武はきっとオカシクなっちゃったんだ……）%K%P
 (He's gone crazy because he's locked up in a place like this...)
@@ -756,7 +756,7 @@ CN PLACEHOLDER
 武「今空が言った『Ａの道』って言うのは『Ｙの字』の１方の枝のことを指していて……『Ｂの道』って言うのは、もう１方の枝のことを指してる」%K%P
 The 'me' on path A that you are talking about is one of the branches of the 'Y', and the 'me' on path B is the other branch.
 CN PLACEHOLDER
-Те „Z“, о которых ты говоришь, находятся на разных ветвях „Y“.
+Те „Я“, о которых ты говоришь, находятся на разных ветвях „Y“.
 
 武「わかりやすくする為、ここでは仮に『Ｙの字』を２次元上・平面上に描かれたものとしよう」%K%P
 To make it easier to understand, let's say that this is all two-dimensional, or on a flat plane.
@@ -1001,7 +1001,7 @@ CN PLACEHOLDER
 空「……内緒ですよ？」%K%P
 ...And you must understand, it is a secret.
 CN PLACEHOLDER
-...и ты должен понимать, что это секрет.
+...И ты должен понимать, что это секрет.
 
 空は人差し指を口の前に立てた。%K%P
 Sora held up one finger in front of her mouth.
@@ -1101,7 +1101,7 @@ CN PLACEHOLDER
 俺の片足は、少年の小さな背中の上に乗っかっていた。%K%P
 One of my feet was standing on the Kid's small back.
 CN PLACEHOLDER
-Одной ногой я стою на маленьком «полушарии» Малого.
+Одной ногой я стою на маленькой спине Малого.
 
 武「おいっ！　少年！　少年！　大丈夫か！」%K%P
 Hey! Kid! Kid! Are you alright?
@@ -1131,7 +1131,7 @@ CN PLACEHOLDER
 武「なんでこんなとこで倒れてんだよ！」%K%P
 What're you doing collapsed in a place like this?
 CN PLACEHOLDER
-Как ты умудрился здесь свалиться?
+Ты чего здесь валяешься?
 
 少年「こんなとこ？」%K%P
 Place like this?
@@ -1161,7 +1161,7 @@ CN PLACEHOLDER
 武「頭が！？　ってお前、それヤバイんじゃないのか！？」%K%P
 Your head? That could be bad news.
 CN PLACEHOLDER
-Голова? Это плохая новость.
+Заболела голова? Это плохая новость.
 
 少年「ううん、もう大丈夫」%K%P
 No, I'm alright.
@@ -1186,7 +1186,7 @@ CN PLACEHOLDER
 少年「でも、なんか背中が痛いかも……」%K%P
 But my back kinda hurts...
 CN PLACEHOLDER
-Только задница чего-то болит...
+Только спина чего-то болит...
 
 『それは俺が踏んづけたからだ』とは言わなかった。%K%P
 I decided not to tell him I'd been stepping on it.
@@ -1246,7 +1246,7 @@ CN PLACEHOLDER
 少年「ただの貧血だよ、貧血」%K%P
 I'm just a little anemic, that's all.
 CN PLACEHOLDER
-Просто давление упало, всего-то.
+Это просто анемия.
 
 少年「じゃなかったら、疲労か、空腹か、睡魔」%K%P
 And if it's not that, then I'm probably tired or hungry.
@@ -1256,7 +1256,7 @@ CN PLACEHOLDER
 少年「とにかく、今は背中以外に痛いところはないし……」%K%P
 Anyway, the only thing that hurts right now is my back.
 CN PLACEHOLDER
-Как бы там ни было, единственное, что сейчас болит – мой зад.
+Как бы там ни было, единственное, что сейчас болит – моя спина.
 
 『それは俺が踏んづけたからだ』とは、やはり言わなかった。%K%P
 (Yeah... I just can't bring myself to tell him I've stepped on it...)
@@ -1296,7 +1296,7 @@ CN PLACEHOLDER
 手術は、空が『ＷとＹ』の話をするよりもかなり前……今から７時間前に無事終了している。%K%P
 Her surgery was finished a long time before Sora's talk about “W and Y”... over seven hours before.
 CN PLACEHOLDER
-Операция завершилась задолго до того, как Сора завела разговор про «W и Y».... за семь часов до того.
+Операция завершилась задолго до того, как Сора завела разговор про «W» и «Y»... за семь часов до того.
 
 つぐみの容態についても、俺は空から聞いていた。%K%P
 I'd asked Sora about Tsugumi's condition.
@@ -1321,7 +1321,7 @@ CN PLACEHOLDER
 脳や内臓に損傷がないのは幸いだった。%K%P
 We were lucky that there was no damage done to her brain or organs.
 CN PLACEHOLDER
-Нам ещё повезло, что не был задет ни мозг, ни органы.
+Нам ещё повезло, что не были задеты ни мозг, ни органы.
 
 負傷した箇所は『あの右足の大腿部だけ』だそうだ。%K%P
 Only her right thigh was injured.
@@ -1366,7 +1366,7 @@ CN PLACEHOLDER
 今思えば、空がいきなり俺のことを呼び出して『ＷとＹ』の話を語って聞かせたのも……%K%P
 Thinking about it then, it seemed to me that the reason Sora had suddenly called me and explained about the whole “W and Y” thing...
 CN PLACEHOLDER
-Эх, теперь я понимаю, зачем Сора позвала меня с собой и рассказала про эту белиберду с «W и Y»....
+Эх, теперь я понимаю, зачем Сора позвала меня с собой и рассказала про эту белиберду с «W» и «Y»...
 
 しばしの間、つぐみのことを忘れさせようと思ったからなのかもしれない。%K%P
 Had probably been to take my mind off of Tsugumi.
@@ -1526,7 +1526,7 @@ CN PLACEHOLDER
 そこから、ピチャン、ピチャン、と、水のはねる音が微かに聞こえて来た。%K%P
 I could hear a small splashing sound coming from the area.
 CN PLACEHOLDER
-...и оттуда доносится едва заметный плюхающий звук.
+Оттуда доносится едва заметный плюхающий звук.
 
 俺は誘われるように、部屋の中へと入った。%K%P
 I entered the room as if it were inviting me in.
@@ -1971,7 +1971,7 @@ CN PLACEHOLDER
 ココ「ココ、ココね？　ココね？」%K%P
 I... I...
 CN PLACEHOLDER
-Коко... Коко...
+Я... Я... Я...
 
 ココ「つぐみんに、謝ろうと思って……」%K%P
 I came because I want to apologize to you, Tsugumin...
@@ -2056,7 +2056,7 @@ CN PLACEHOLDER
 つぐみ「お願い、そんな悲しい顔しないで？」%K%P
 Please, don't look so sad. Alright?
 CN PLACEHOLDER
-Прошу, не грусти. Договорились?
+Прошу, не грусти. Ладно?
 
 ベッドに横たわったまま、つぐみは片方の腕を伸ばした。%K%P
 Tsugumi extended one of her arms from the bed.
@@ -2101,12 +2101,12 @@ CN PLACEHOLDER
 つぐみ「ねえ、ココ？　あのときのこと、思い出してみて？」%K%P
 Hey, Coco? Try to remember that time and what happened.
 CN PLACEHOLDER
-Слушай, Коко? Постарайся вспомнить, что тогда произошло.
+Слушай, Коко. Помнишь, что тогда случилось?
 
 つぐみ「ココにパイプを押さえるように頼んだのは、誰だった？」%K%P
 Who asked Coco to hold the pipe?
 CN PLACEHOLDER
-Кто попросил Коко подержать трубу?
+Кто попросил тебя подержать трубу?
 
 ココ「それは……」%K%P
 It was...
@@ -2321,7 +2321,7 @@ CN PLACEHOLDER
 つぐみは壁の一点をキッとにらみつけて、体を起こそうとした。%K%P
 Focusing her eyes on one point on the wall, Tsugumi raised her body up.
 CN PLACEHOLDER
-Сфокусировав глаза в одной точке на стене, Цугуми приподнялась.
+Сфокусировав взгляд в одной точке на стене, Цугуми приподнялась.
 
 武「ま、待てよ、つぐみ！　何やってんだよ！」%K%P
 W-Wait! Tsugumi, what are you doing!?
@@ -2341,7 +2341,7 @@ CN PLACEHOLDER
 つぐみ「大丈夫よ、このぐらいのケガなら……」%K%P
 I'm fine. This injury is no big deal...
 CN PLACEHOLDER
-Я в порядке. Подумаешь, какое-то ранение...
+Я в порядке. Подумаешь, какая-то рана...
 
 武「このぐらいのケガ！？」%K%P
 No big deal?
@@ -2366,7 +2366,7 @@ CN PLACEHOLDER
 武「俺が様子を見て来るから！」%K%P
 I'll go check things out.
 CN PLACEHOLDER
-Побегу посмотрю что к чему.
+Побегу посмотрю, что к чему.
 
 つぐみ「でもっ」%K%P
 But...

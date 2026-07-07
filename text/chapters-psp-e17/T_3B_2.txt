@@ -1216,7 +1216,7 @@ CN PLACEHOLDER
 空「では、耳の変換機を片側だけ外して、私の横に回り込んで見てください」%K%P
 In that case, please take out just one of the earphones of your voice adapter and come around here to my side.
 CN PLACEHOLDER
-Тогда, пожалуйста сними один из модификаторов голоса и отойди чуток в сторону.
+Тогда, пожалуйста, сними один из модификаторов голоса и отойди чуток в сторону.
 
 俺はイヤホンをそっと外し、言う通りにしてみる。%K%P
 I carefully removed an earphone and did as she said.
@@ -1816,7 +1816,7 @@ CN PLACEHOLDER
 空「……内緒ですよ？」%K%P
 ...And you must understand, it is a secret.
 CN PLACEHOLDER
-...и ты должен понимать, что это секрет.
+...И ты должен понимать, что это секрет.
 
 空は人差し指を口の前に立てて、また微笑んだ。%K%P
 Sora held up one finger in front of her mouth and smiled once again.
