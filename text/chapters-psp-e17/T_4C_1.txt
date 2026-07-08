@@ -786,7 +786,7 @@ CN PLACEHOLDER
 ココ「救護室にいると思うよ？」%K%P
 I think she's still in the infirmary.
 CN PLACEHOLDER
-Наверное всё ещё в лазарете.
+Наверное, всё ещё в лазарете.
 
 ココ「ベッドに寝てるんだって。空さんが、そう言ってた」%K%P
 She went to bed. At least that's what Sora-san said.

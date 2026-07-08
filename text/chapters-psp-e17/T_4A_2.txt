@@ -126,7 +126,7 @@ CN PLACEHOLDER
 武「あいつは俺のせいで怪我したわけだし、なんつーか……気が引けて、な」%K%P
 It's just that I guess I'm still upset at myself. It was my fault Tsugumi got hurt.
 CN PLACEHOLDER
-Наверное, я всё ещё дуюсь на самого себя. Цугуми пострадала из-за меня.
+Наверное, я всё ещё виню себя. Цугуми пострадала из-за меня.
 
 武「ほんとに、なんて言ったらいいか、もう、あいつは、あいつはっ、その……ああ、くそぅ！」%K%P
 You know, I just don't know what to say... She can... She can be... Ahh, damn it!
@@ -236,7 +236,7 @@ CN PLACEHOLDER
 たったそれだけのことかもしれない。%K%P
 Maybe that was all there was to it.
 CN PLACEHOLDER
-А, может, и всё сразу.
+А может, и всё сразу.
 
 そうでないとしても……いつまでも引きずってはいたくなかった。%K%P
 Even if it wasn't that... I didn't want things to drag on forever.
@@ -461,7 +461,7 @@ CN PLACEHOLDER
 空「ごめんなさい、本当に。デリカシーが欠けてますよね、私……」%K%P
 I'm sorry. Really. It was really lacking refinement... I...
 CN PLACEHOLDER
-Прошу прощения. Мне наверное не достаёт чувства такта... 
+Прошу прощения. Мне, наверное, не достаёт чувства такта...
 
 武「いやいや、いいんだよ」%K%P
 No, no. It's fine.
@@ -1185,7 +1185,7 @@ CN PLACEHOLDER
 空「私はこう、仮定します……」%K%P
 Let us imagine a flower...
 CN PLACEHOLDER
-Давай предположим следующее...
+Представь себе цветок...
 
 空「花々は、恋をしますか？」%K%P
 ...Can a flower love?
@@ -1270,7 +1270,7 @@ CN PLACEHOLDER
 空「…………？？」%K%P
 ...?
 CN PLACEHOLDER
-...?
+?..
 
 手の平に、唇の感触はない。%K%P
 I put my hand over her mouth, but I couldn't feel her lips.
@@ -1300,7 +1300,7 @@ CN PLACEHOLDER
 俺はその暖かさを確かめようとした。%K%P
 I felt, trying to see if there was some sort of warm feeling.
 CN PLACEHOLDER
-Думаю, я просто пытался удостовериться, есть ли там тепло.
+Думаю, я просто продолжал держать руку в надежде почувствовать тепло.
 
 武「そうだな……俺の見解を言おう」%K%P
 Let's see... Let me tell you what I think.
@@ -1345,7 +1345,7 @@ CN PLACEHOLDER
 武「心の奥底でひっそりと芽生え、すくすくと育ち、やがて花を咲かせる」%K%P
 It's something that is planted in the depths of your heart and steadily blossoms into something beautiful.
 CN PLACEHOLDER
-Она потихоньку прорастает глубоко в сердце, тянется вверх, и в свой час расцветает.
+Она потихоньку прорастает глубоко в сердце, тянется вверх и в свой час расцветает.
 
 武「何かの間違いで、花は散ってしまうかもしれないし、枯れ果ててしまうかもしれない」%K%P
 If something goes wrong, the flower might wilt and die.
@@ -1415,7 +1415,7 @@ CN PLACEHOLDER
 武「いや……、俺はそう、信じてるよ」%K%P
 No... Actually, I believe it's right.
 CN PLACEHOLDER
-Нет... на самом деле, я верю в это.
+Нет... на самом деле я верю в это.
 
 武「わかるか、空？」%K%P
 Did you understand what I said, Sora?
@@ -1490,7 +1490,7 @@ CN PLACEHOLDER
 空「人は恋する為に、ただそれだけの為に、生きているように思えます」%K%P
 ...I believe they are mistaken. It would seem to me that people only live to love.
 CN PLACEHOLDER
-Я верю – они ошибаются. Люди живут исключительно ради любви.
+Я верю: они ошибаются. Люди живут исключительно ради любви.
 
 空「そういうこと、なのかもしれません」%K%P
 It could be that is how things are.

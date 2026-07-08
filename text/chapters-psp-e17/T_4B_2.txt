@@ -21,7 +21,7 @@ CN PLACEHOLDER
 入室一番、俺は陽気におどけて、声をかけてみた。%K%P
 Entering first, I mustered a cheerful voice.
 CN PLACEHOLDER
-Зайдя первым, я бодрый голос выдавил из себя?
+Зайдя первым, я бодрым голос выдавил из себя.
 
 武「おーい、つぐみやーい！」%K%P
 Hey, Tsugumi!
@@ -91,7 +91,7 @@ CN PLACEHOLDER
 一番奥のベッドを凝視して、目を見開いている。%K%P
 He was pointing at the bed in the back.
 CN PLACEHOLDER
-Он с широко открытыми глазами пялится на кроварь в самом конце лазарета.
+Он с широко раскрытыми глазами пялится на кровать в самом конце лазарета.
 
 武「ん、どうした少年？　新しい生き物でも見つけたのか？」%K%P
 What's the matter, Kid? You discover a new species or something?
@@ -166,7 +166,7 @@ CN PLACEHOLDER
 しかし、点滴の管や心拍計測用のリードは、ずたずたに引きちぎられて、ばら撒かれている。%K%P
 But the IV tube and the heart monitor had been torn up and scattered around.
 CN PLACEHOLDER
-Но внутривенные трубки и провода кардиомонитора были вырваны и разбросаны по полу.
+Но трубка капельницы и провода кардиомонитора были вырваны и разбросаны по полу.
 
 武「そんな……レミはどうして気づかなかったんだ？」%K%P
 What the... Why didn't LeMMIH pick up on this?
@@ -321,7 +321,7 @@ CN PLACEHOLDER
 少年「誰かが、つぐみをさらって行ったんじゃ……？」%K%P
 Maybe someone ran off with her...?
 CN PLACEHOLDER
-Может, кто-то помог ей бежать?..
+Может, кто-то её похитил?..
 
 武「だ、誰かって誰だよ。俺達以外の誰かか？」%K%P
 Someone... like who? Who's here besides us?
@@ -716,7 +716,7 @@ CN PLACEHOLDER
 少年「救護室のベッドの辺りから、加減圧室に下りるリフトまでの天井のセンサー類が、一時的に故障してた……？」%K%P
 Does that mean the ceiling sensors from the bed over to the elevator are all temporarily broken?
 CN PLACEHOLDER
-Все сенсоры – от кровати в лазарете до лифта в декомпрессионную камеру, – временно вышли из строя?
+Все сенсоры – от кровати в лазарете до лифта в декомпрессионную камеру – временно вышли из строя?
 
 優「うん。そのせいで、空の調子が悪かったみたい」%K%P
 Yeah. That's what's affecting Sora.
@@ -926,7 +926,7 @@ CN PLACEHOLDER
 きっと今ごろ、びーびー泣いてる。%K%P
 But I figured she was bawling by now.
 CN PLACEHOLDER
-Держу пари, сейчас она где-нибудь сидит и выдает вовсю.
+Держу пари, сейчас она где-нибудь сидит и рыдает вовсю.
 
 足の傷だって当然、痛んでるだろうしな。%K%P
 And that her leg would be killing her.

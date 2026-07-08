@@ -1679,7 +1679,7 @@ CN PLACEHOLDER
 空「いえ、断線がひどくて……コネクションを回復しつつ調べていますが、まだ時間がかかります」%K%P
 Well, the communication lines are down... I've been investigating ways to restore our connection, but it's going to take some time.
 CN PLACEHOLDER
-Так, линии связи отключены... Я пытаюсь найти способ их восстановить, но на это уйдёт некоторое время.
+Так, линии связи неработоспособны... Я пытаюсь найти способ их восстановить, но на это уйдёт некоторое время.
 
 手近なアトラクションに入った。%K%P
 We went in a nearby attraction.
@@ -1879,7 +1879,7 @@ CN PLACEHOLDER
 空「いえ、断線がひどくて……コネクションを回復しつつ調べていますが、まだ時間がかかります」%K%P
 Well, the communication lines are down... I've been investigating ways to restore our connection, but it's going to take some time.
 CN PLACEHOLDER
-Так, линии связи отключены... Я пытаюсь найти способ их восстановить, но на это уйдёт некоторое время.
+Так, линии связи неработоспособны... Я пытаюсь найти способ их восстановить, но на это уйдёт некоторое время.
 
 空、と呼ばれた係員が答える。%K%P
 The attendant called Sora said that.
@@ -2024,12 +2024,12 @@ CN PLACEHOLDER
 武「お、おいおい……最近のコンピューターは手も触れずに操作できるのか？」%K%P
 Hey... you can operate these computers without even touching them?
 CN PLACEHOLDER
-Секундочку... С каких пор можно пользоваться компьютерами, вообще не прикасаясь к ним?
+Э-эй... С каких пор можно пользоваться компьютерами, вообще не прикасаясь к ним?
 
 武「俺の持ってる最新式の携帯ですら、タッチパネルだぞ？」%K%P
 I've got the latest cell phone, and it's got a touch panel.
 CN PLACEHOLDER
-Да даже мой КПК последней модели – обычный сенсорный
+Да даже мой КПК последней модели – и то сенсорный.
 
 武「まぁ、静電充電はついてるけどさ……」%K%P
 And it's got a kinetic recharge function...
@@ -2155,7 +2155,7 @@ CN PLACEHOLDER
 一同、静かに注目する。%K%P
 The room went quiet as the focus shifted to her.
 CN PLACEHOLDER
-Все молча просто смотрят.
+Все молча ждут, пока она продолжит.
 
 空「まず、１階――エルストボーデンは……」%K%P
 First, the first floor, Erster Boden...

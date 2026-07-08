@@ -1181,12 +1181,12 @@ CN PLACEHOLDER
 武「日本ではなぁ、共通の目的を持った者同士のことを仲間って呼ぶんだよ」%K%P
 In Japan, people with the same goal are called friends...
 CN PLACEHOLDER
-У нас одна цель, мы все в одной лодке, а значит мы – друзья...
+У нас одна цель, мы все в одной лодке, а значит, мы – друзья...
 
 つぐみ「……バカみたい」%K%P
 ...You're an idiot.
 CN PLACEHOLDER
-...идиот.
+...Идиот.
 
 武「バカで結構」%K%P
 That doesn't bother me.

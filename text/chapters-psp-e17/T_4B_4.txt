@@ -61,7 +61,7 @@ CN PLACEHOLDER
 俺はホワイトボードの前に立って、教鞭を執っていた。%K%P
 I stood at the whiteboard, dry marker in hand, playing professor.
 CN PLACEHOLDER
-Я же встал у этой самой доски, ведя импровизированную лекцию.
+Я же встал у этой самой доски, готовый начать импровизированную лекцию.
 
 １対１の、プライベートレッスン。%K%P
 A private lesson, one-on-one.
@@ -397,12 +397,12 @@ CN PLACEHOLDER
 武「って言うかきみ、いちいち質問が多いんだよ！」%K%P
 Listen up, you're asking too many questions!
 CN PLACEHOLDER
-Слушайте, вы задаёшь слишком много вопросов!
+Слушайте, вы задаёте слишком много вопросов!
 
 武「先生が話し終わるまで、口をつぐんでいたまへ」%K%P
 Be quiet until your teacher stops talking!
 CN PLACEHOLDER
-Пожалуйста, ведите себя тихо, пока учитель не закончит говорить!
+Пожалуйста, ведите себя тихо, пока сэнсэй не закончит говорить!
 
 武「質問なら後でまとめて受け付ける。よいかね？」%K%P
 I'll take all questions at the end. Alright?
@@ -452,7 +452,7 @@ CN PLACEHOLDER
 武「旦那として相応しいってことはつまり、明るい未来を約束してくれそうな男ってことだったりするのでありまするが」%K%P
 You might think that an appropriate husband would be one who promises a bright future...
 CN PLACEHOLDER
-А „подойдёт на роль мужа” – значит, вроде как, что он сможет обеспечить светлое будущее.
+А „подойдёт на роль мужа“ – значит, вроде как, что он сможет обеспечить светлое будущее.
 
 武「いにしえの言葉を借りて言えば『３高』」%K%P
 But to borrow the words of the ancients, it all comes down to the three 'heights'.
@@ -477,7 +477,7 @@ CN PLACEHOLDER
 武「『欲を言えば、優しくて、カッコよくて、仕事よりも家庭を大事にする人』」%K%P
 If you're feeling greedy, you might also look for someone who's kind, handsome, and cares more about his family than his job.
 CN PLACEHOLDER
-А если захочется ещё и доброго, красивого, и чтобы ставибл семью превыше работы...
+А если захочется ещё и доброго, красивого, и чтобы ставил семью выше работы...
 
 武「あー……つまり……」%K%P
 Ah... In other words...
@@ -512,7 +512,7 @@ CN PLACEHOLDER
 武「であるからしてぇ、２４歳の女とはとてもシビアなのでございますのことよ」%K%P
 So because of all that, the 24-year-old woman can be a very severe creature.
 CN PLACEHOLDER
-В общем, женщина к 24-ём должна быть ужасно практичной.
+В общем, женщина к 24-м должна быть ужасно прагматичной.
 
 武「ずる賢くて打算的」%K%P
 Clever and calculating.

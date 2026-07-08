@@ -336,7 +336,7 @@ CN PLACEHOLDER
 俺は叫ぶ空を置き去りにして走り出した。%K%P
 I just left her standing there, calling after me.
 CN PLACEHOLDER
-Я побежал, оставив позари Сору, что кричала мне вслед.
+Я побежал, оставив позади Сору, что кричала мне вслед.
 
 階段を駆け上り、通路を急ぎ足で進んだ。%K%P
 I flew up the stairs as fast as I could and sprinted down the corridor.
@@ -1046,7 +1046,7 @@ CN PLACEHOLDER
 つぐみ「睡眠欲は、怠惰のあかし」%K%P
 Our desire for sleep only proves our indolence.
 CN PLACEHOLDER
-Потребность во сне – лишь прояаление лени.
+Потребность во сне – лишь проявление лени.
 
 つぐみ「卑猥で淫ら、醜悪なる交わりこそが、性欲の発露」%K%P
 Our sexual desires are expressed through obscenity and sin.
@@ -1106,7 +1106,7 @@ CN PLACEHOLDER
 武「お前は、もっと賢いやつだと思ってたけど……どうやら買いかぶってたみたいだな」%K%P
 I thought you were smarter than that... but I guess I overrated you.
 CN PLACEHOLDER
-Я думал что ты умнее... но, наверное, я тебя переоценил.
+А я думал-то, что ты умнее... но, наверное, я тебя переоценил.
 
 つぐみ「…………」%K%P
 .........

@@ -96,7 +96,7 @@ CN PLACEHOLDER
 ＰＤＡのディスプレイを恐る恐る見る。%K%P
 I checked my PDA display anxiously.
 CN PLACEHOLDER
-Я осторожно сверился с часами на своём КПК.
+Я с опаской проверил время на своём КПК.
 
 間もなく午前９時になろうとしていた……。%K%P
 It was just shy of 9 a.m....
@@ -396,12 +396,12 @@ CN PLACEHOLDER
 俺はココの頭をそっと撫でた。%K%P
 I patted Coco's head.
 CN PLACEHOLDER
-Я нежно погладила Коко по голове.
+Я нежно погладил Коко по голове.
 
 さっきの売店の片づけの前に、なるべくまともそうなサンドをいくつか選んで、ココに持って行ってもらったのだ。%K%P
 Before I tackled the cleanup, I had picked out some decent sandwiches and had Coco take them over.
 CN PLACEHOLDER
-Прежде чем начать убираться, я выбрал несколько прилично выглядящих сэндвичей, и попросил Коко принести их сюда.
+Прежде чем начать убираться, я выбрал несколько прилично выглядящих сэндвичей и попросил Коко принести их сюда.
 
 病み上がりのつぐみが、食べるかどうかはわからなかったが……。%K%P
 Whether the still-recovering Tsugumi would actually eat them was another story...
@@ -421,7 +421,7 @@ CN PLACEHOLDER
 武「ふーん……。そっか、メシ食えるところまでは回復したんだな」%K%P
 Hm... Well, I guess she's gotten well enough to eat then.
 CN PLACEHOLDER
-Хм-м... Понятно. Видать, её стало лучше достаточно, чтобы есть.
+Хм-м... Понятно. Видать, ей стало лучше достаточно, чтобы есть.
 
 ココ「つぐみん、早く元気になりそうだね」%K%P
 She's getting better pretty fast, don't you think?
@@ -511,7 +511,7 @@ CN PLACEHOLDER
 だったら、お前はいったい何様なんだ！？%K%P
 Then what on earth was she supposed to be!?
 CN PLACEHOLDER
-Ну а сама-то кто тогда ты?!
+Ну а сама-то ты кто тогда?!
 
 つぐみの奴……まったく、何考えてるんだよ……！！%K%P
 Tsugumi... What was she thinking...!?
@@ -531,7 +531,7 @@ CN PLACEHOLDER
 ココ「なんか怖ーい顔してる……？」%K%P
 Your face got all scary for a moment...
 CN PLACEHOLDER
-Чего у тебя такое устрашающее лицо?..
+Чего у тебя лицо такое страшное?..
 
 武「あ……いや、なんでもないよ」%K%P
 Ah, it's nothing.
@@ -701,7 +701,7 @@ CN PLACEHOLDER
 ココ「七味と、カレー粉と、ラー油と……なんかピピが見つけてきたチューブを、適当ぉ〜にぬりぬりしてぇ」%K%P
 Allspice, and curry, and hot sauce... and some tube of something Pipi found, we used lots of that...
 CN PLACEHOLDER
-Семь специй, карри, чили и… какой-то тюбик, который нашёл Пипи, – всё это намазать как получится.
+Семь специй, карри, чили и... какой-то тюбик, который нашёл Пипи, – всё это намазать как получится.
 
 ココ「そこに！　すかさず、レタスの繊切りを間に挟むっ！」%K%P
 And then we stuck the lettuce in between!
@@ -1027,7 +1027,7 @@ CN PLACEHOLDER
 武「でも少年はともかく、優は爆睡してたからな。起こしても無駄だと思ってさ」%K%P
 Well, I don't know about you, Kid, but You was dead to the world. I didn't figure it'd be any good to try to wake you guys up.
 CN PLACEHOLDER
-Ну, не зна, как ты, Малой, но Ю спала как убитая. Подумал, будить её бесполезно.
+Ну, не знаю, как ты, Малой, но Ю спала как убитая. Подумал, будить её бесполезно.
 
 優「なによぅ」%K%P
 Hey.
@@ -1192,7 +1192,7 @@ CN PLACEHOLDER
 色々な考えを、思いを、眠れない間ずっと巡らせていた。%K%P
 When I couldn't sleep, I had been pondering all sorts of things.
 CN PLACEHOLDER
-Пока я не мог уснуть, в голову так и лезет всякие мысли.
+Пока я не мог уснуть, в голову так и лезли всякие мысли.
 
 つぐみについても、そうだし……。%K%P
 About Tsugumi...
@@ -1337,7 +1337,7 @@ CN PLACEHOLDER
 優「ピグマリオン――彼の彫刻は素晴らしい。生命力に溢れ、今にも動き出しそうな迫力だ、って、巷で評判だったのね」%K%P
 His statues were incredible. They were so vital, so full of life, they looked as though they might start moving at any moment.
 CN PLACEHOLDER
-Его статуи были просто невероятны. Они были словно полны жизни и естественными, что людям казалось, будто они вот-вот оживут.
+Его статуи были просто невероятны. Они были словно полны жизни и выглядели настолько естественно, что людям казалось, будто они вот-вот оживут.
 
 優「ただ、ピグマリオンには、ちょっと女性不信気味なところがあって」%K%P
 But Pygmalion couldn't seem to get interested in ladies.
@@ -1352,7 +1352,7 @@ CN PLACEHOLDER
 優「若きピグマリオンは、自分の彫刻作品を仕上げることにしか興味を持てなかったみたい」%K%P
 But Pygmalion seemed to only care about making his statues.
 CN PLACEHOLDER
-Но юный Пигмалион не был заинтересован ничем, кроме как в своих скульптурах.
+Но юный Пигмалион не интересовался ничем, кроме своих скульптур.
 
 優「そんなある日、彼は、女性の裸体の彫像を、ひとつ完成させたの」%K%P
 Then, one day, he finished the nude figure of a woman.
@@ -1387,12 +1387,12 @@ CN PLACEHOLDER
 優「それだけじゃなく、日が経つにつれて、ピグマリオンは、あまりにも『彼女』のことがいとおしくなってしまって……」%K%P
 And when it got dark, he was so besotted with her that...
 CN PLACEHOLDER
-Даже более того – с течением времени, она всё больше и больше становилась ему дорога...
+Даже более того, с течением времени она всё больше и больше становилась ему дорога...
 
 優「『彼女』に食べ物をあげようとしたり、話しかけたり、夜は一緒に眠るようになって……」%K%P
 He brought her food to eat, talked to her, and even slept next to her...
 CN PLACEHOLDER
-Он риносил ей еду, говорил с ней и даже спал рядом...
+Он приносил ей еду, говорил с ней и даже спал рядом...
 
 優「きっと彼は、初めて本当に、純粋に、恋をしたのね」%K%P
 It was the first time he had ever experienced true love.
@@ -1407,7 +1407,7 @@ CN PLACEHOLDER
 優「ピグマリオンは、自分の持てる愛情のすべてを『彼女』に注いだ。『彼女』がいつか、自分に語りかけてくれると、信じて……」%K%P
 He poured all the love that he had into her. He believed that, one day, she would speak to him...
 CN PLACEHOLDER
-Пигмалион вложил в неё всю свою любовь. веря, что однажды она отметит ему...
+Пигмалион вложил в неё всю свою любовь. веря, что однажды она ответит ему...
 
 優「けれど、仕事を忘れ、毎日寝食を惜しんで『彼女』に尽くしたピグマリオンの身体は……だんだんにやつれていった」%K%P
 But in the meantime, he neglected his work, he forgot to eat and sleep... and Pygmalion began to waste away.

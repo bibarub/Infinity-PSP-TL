@@ -781,7 +781,7 @@ CN PLACEHOLDER
 空「同じ空間の中に、時間の中に、複数の私が存在できるのです」%K%P
 There can be several of me existing in the same space at the same time.
 CN PLACEHOLDER
-В одном и том же пространстве, в одно и то же время, может существовать несколько меня.
+В одном и том же пространстве, в одно и то же время может существовать несколько меня.
 
 空「例えば、倉成さんの前と、ココちゃんの前」%K%P
 For example, in front of you and in front of Coco-chan.
@@ -1756,7 +1756,7 @@ CN PLACEHOLDER
 空「あなたは本当の意味で、たったひとつの存在になる」%K%P
 In the truest sense, you would become one.
 CN PLACEHOLDER
-В полном смысле, ты бы стал единым существом с единым жизненным опытом.
+Ты бы стал по-настоящему единым существом с единым жизненным опытом.
 
 武「…………」%K%P
 .........

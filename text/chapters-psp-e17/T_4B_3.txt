@@ -106,7 +106,7 @@ CN PLACEHOLDER
 発電施設は低い唸りをあげながら、順調に稼動しているようだ。%K%P
 The facility was giving off a steady but low hum and seemed to be working fine.
 CN PLACEHOLDER
-Генератор, похоже, работает исправно, издавая лишь низкий гул.
+Генератор, похоже, работает исправно, издавая лишь гул.
 
 ＬｅＭＵにおいて、電力に関してほとんど心配がいらないことは不幸中の幸いだった。%K%P
 For better or for worse, in LeMU, we didn't have to worry about the electricity.
@@ -116,12 +116,12 @@ CN PLACEHOLDER
 しかしひと回りしてみたが、ここにはつぐみのいた痕跡すら見つからない。%K%P
 I looked around, but there was no trace of Tsugumi.
 CN PLACEHOLDER
-Я осмотрелся, но не увидел ни следа Цугуми.
+Я осмотрелся, но Цугуми не было и следа.
 
 発電室を過ぎると、この先の通路は隔壁が固く閉ざされている。%K%P
 Past the generator room, the corridor was completely blocked off by a partition.
 CN PLACEHOLDER
-Миновав Генераторную, дальше по коридору было не пройти – дальше было перекрыто.
+Миновав Генераторную, дальше по коридору было не пройти: там было перекрыто.
 
 これを乗り越えて行くことはできない……。%K%P
 It was impossible to go beyond it...
@@ -151,7 +151,7 @@ CN PLACEHOLDER
 ここからのパイプは、発電室のボイラーやタービンへと続いているはずだ。%K%P
 I assumed that the pipes must have been connected to the boilers and turbines in the generator room.
 CN PLACEHOLDER
-Скорее всего, трубы присоединены бойлерам и турбинам в Генераторной.
+Скорее всего, трубы присоединены к бойлерам и турбинам в Генераторной.
 
 そう言えば、ここの修理はつぐみがしたのだ……。%K%P
 Come to think of it, Tsugumi had done the repairs in there...
@@ -186,7 +186,7 @@ CN PLACEHOLDER
 その代わり、首を時折傾げながら、配管の向こう側を覗き込むようにしている。%K%P
 Instead, craning her neck, she seemed to be looking over at the other side of the pipes.
 CN PLACEHOLDER
-Вместо этого, она что-то пытается высматривать за трубами, наклоняя голову.
+Вместо этого она что-то пытается высматривать за трубами, наклоняя голову.
 
 武「よう、つぐみ……」%K%P
 Hey, Tsugumi...
@@ -266,7 +266,7 @@ CN PLACEHOLDER
 ちらちらと背後のパイプラインを窺っている。%K%P
 Her eyes kept flitting to the pipes behind her.
 CN PLACEHOLDER
-Или скорее поглядывает на трубы позади меня
+Но она будто поглядывает на трубы позади меня.
 
 しかし、つぐみの視線……。%K%P
 Her gaze...
@@ -371,7 +371,7 @@ CN PLACEHOLDER
 俺に背を向け、部屋の奥にふと目を留めた。%K%P
 With her back to me, she looked farther back into the room.
 CN PLACEHOLDER
-Стоя спиной ко мне, она вгляделась вглубь помещения.
+Стоя спиной ко мне, она вгляделась в глубь помещения.
 
 そして何かホッとしたような、呆れの混じったような息をひとつ吐く……。%K%P
 Then took a relieved, if amazed, breath...
@@ -681,7 +681,7 @@ CN PLACEHOLDER
 武「一応同じ船に乗り合わせちまった以上は仲間なんだよ」%K%P
 As long as we're in the same boat, we're friends.
 CN PLACEHOLDER
-Мы все в одной лодке, а значит мы – друзья.
+Мы все в одной лодке, а значит, мы – друзья.
 
 武「日本では、共通の目的を持った者同士のことを仲間って呼ぶんだよ……」%K%P
 In Japan, people with the same goal are called friends...
@@ -911,7 +911,7 @@ CN PLACEHOLDER
 俺はすかさず、つぐみのスカートの裾に手をかけた。%K%P
 I grabbed the hem of her skirt.
 CN PLACEHOLDER
-Я тут же протянула руку и схватил Цугуми за подол юбки.
+Я тут же протянул руку и схватил Цугуми за подол юбки.
 
 そしてその手をためらうことなく高く持ち上げ、スカートを捲り――%K%P
 And without hesitating, yanked it up—
@@ -946,7 +946,7 @@ CN PLACEHOLDER
 遠ざかるのは足音。そして影。通路の向こうへと、それは消えていく。%K%P
 The sound of her footfalls grew faint. As did her shadow, disappearing down the hallway.
 CN PLACEHOLDER
-Эхо её шагов постепенно стихло, а силуэт растворился во тьме. Она скрылась в дальнем коридоре.
+Эхо её шагов постепенно стихло, а силуэт растворился во тьме, скрывшись вдали.
 
 そこに残るのは、呆然とする俺。%K%P
 What was left was me, stunned.
@@ -1096,7 +1096,7 @@ CN PLACEHOLDER
 空「怪我のことは勿論気がかりですが、しばらく、そっとしておいてあげましょう」%K%P
 You're worried about her injuries, but for a little while, let's leave her alone.
 CN PLACEHOLDER
-Рана, конечно, вызывает беспокойство, но давай пока не будет её трогать.
+Рана, конечно, вызывает беспокойство, но давай пока не будем её трогать.
 
 空「もし彼女の身に危険があれば、皆さんにすぐお知らせします」%K%P
 If she is in any serious danger, I will let you know right away.
@@ -1171,7 +1171,7 @@ CN PLACEHOLDER
 空「彼女が足の怪我をおしてでも、行動しなければならないほどの理由……」%K%P
 Something that compelled her to act even if it made her injuries worse...
 CN PLACEHOLDER
-Нечто, ради которой она вынуждена действовать, превозмогая боль в раненой ноге...
+Нечто, ради чего она вынуждена действовать, превозмогая боль в раненой ноге...
 
 空「それを感じるんです」%K%P
 That's what I feel.
