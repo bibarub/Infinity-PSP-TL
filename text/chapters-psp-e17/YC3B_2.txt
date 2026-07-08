@@ -731,7 +731,7 @@ CN PLACEHOLDER
 空「ただ、Ａの道にいるあなたは、Ｂの道にいるあなたのことを知りません」%K%P
 Except that the 'you' on path A doesn't know about the 'you' on path B.
 CN PLACEHOLDER
-Только „Ты“ на пути A не знает о „Тебе“ на пути Б.
+Только „Ты“ на пути А не знает о „Тебе“ на пути Б.
 
 空「知る手段がないからです」%K%P
 Because there is no way to know.
@@ -841,7 +841,7 @@ CN PLACEHOLDER
 空「脱出が可能となったとき――そのとき初めて『自分がＹの字の一部であったこと』に気づき……」%K%P
 When that individual gets out of the second dimension, only then do they realize that there is another branch of the 'Y'...
 CN PLACEHOLDER
-Только выйдя из двумерного пространства индивидуум может осознать, что находился на конкретной ветви „Y“...
+Только выйдя из двумерного пространства индивид может осознать, что находился на конкретной ветви „Y“...
 
 空「さらに『枝分かれしたもうひとりの自分がいること』にも気づけるのです」%K%P
 And realize, too, that there is another 'you' who took a different branch of the 'Y'.

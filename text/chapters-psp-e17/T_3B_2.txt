@@ -1156,7 +1156,7 @@ CN PLACEHOLDER
 空「ただ、Ａの道にいるあなたは、Ｂの道にいるあなたのことを知りません」%K%P
 Except that the 'you' on path A doesn't know about the 'you' on path B.
 CN PLACEHOLDER
-Только „Ты“ на пути A не знает о „Тебе“ на пути Б.
+Только „Ты“ на пути А не знает о „Тебе“ на пути Б.
 
 空「知る手段がないからです」%K%P
 Because there is no way to know.

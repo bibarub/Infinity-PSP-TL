@@ -1839,7 +1839,7 @@ CN PLACEHOLDER
 ココ「そうそう、心配ないぴょろり〜ん♪」%K%P
 Right, nothing to worry abouteroon〜
 CN PLACEHOLDER
-Да-да, не о чем беспокоиться, пьёрори-ин!
+Да-да, не о чем беспокоиться, пьёрори-и-ин!
 
 ピピ「わんわん！」%K%P
 *Woof*! *Woof*!
@@ -1864,7 +1864,7 @@ CN PLACEHOLDER
 武「その『ぴょろり〜ん♪』ってのは、どこ語なんだ？」%K%P
 What language is 'abouteroon'?
 CN PLACEHOLDER
-„Пьёрори-ин“? Это на каком языке?
+„Пьёрори-и-ин“? Это на каком языке?
 
 ココ「ココ語……」%K%P
 Coco-ese.
@@ -1879,7 +1879,7 @@ CN PLACEHOLDER
 ココ「ココ語だよ♪」%K%P
 Coco-ese〜
 CN PLACEHOLDER
-На кокойско-ом!
+На коко-о-ойском!
 
 ココ「ドキッ！　頑固一徹！　オヤジだらけの寒中水泳大会！」%K%P
 Whoah! Obstinate stubbornness! Geezers going swimming in the winter!
@@ -1889,7 +1889,7 @@ CN PLACEHOLDER
 ココ「ぴょろりもあるよん♪」%K%P
 There's abouteroo, too〜
 CN PLACEHOLDER
-Вот так пьёрори-ин!
+Вот так пьёрори-и-ин!
 
 武「……？？」%K%P
 .........
