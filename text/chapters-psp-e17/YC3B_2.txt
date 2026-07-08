@@ -1001,7 +1001,7 @@ CN PLACEHOLDER
 空「……内緒ですよ？」%K%P
 ...And you must understand, it is a secret.
 CN PLACEHOLDER
-...И ты должен понимать, что это секрет.
+...И ты должен понимать – это секрет.
 
 空は人差し指を口の前に立てた。%K%P
 Sora held up one finger in front of her mouth.
