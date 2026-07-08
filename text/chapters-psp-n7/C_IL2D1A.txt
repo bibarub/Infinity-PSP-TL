@@ -146,12 +146,12 @@ CN PLACEHOLDER
 ……１日。%K%P
 —1st.
 CN PLACEHOLDER
-– Первое число.
+...Первое число.
 
 ──%T015１日%T015！？！？！？%K%P
 —1st!?!?!?
 CN PLACEHOLDER
-──%T015Первое...%T015число?!
+– %T015Первое...%T015число?!
 
 誠「そんな……バカな……」%K%P
 That's... impossible...
