@@ -1317,7 +1317,7 @@ CN PLACEHOLDER
 優「昔々、キプロスというところに、彫刻家の青年がいました」%K%P
 Once upon a time, in a place called Cyprus, there was a young sculptor.
 CN PLACEHOLDER
-Давным-давно, на далёком Кипре жил молодой скульптор.
+Давным-давно на далёком Кипре жил молодой скульптор.
 
 優「彼は名を、ピグマリオン、と言います。彼は『キプロスの王』とも呼ばれているけど……」%K%P
 His name was Pygmalion. He's been called the 'King of Cyprus'...
