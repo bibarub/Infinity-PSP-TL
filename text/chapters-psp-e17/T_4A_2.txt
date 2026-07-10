@@ -481,7 +481,7 @@ CN PLACEHOLDER
 武「ずっとＬｅＭＵの中にいて、ＬｅＭＵの仕事だけやってきたんだから」%K%P
 From the time you came to LeMU and started working, there have always been people.
 CN PLACEHOLDER
-С тех самых пор, как ты пришла в LeMU и начала работать, здесь всегда были люди.
+С тех самых пор, как ты оказалась в LeMU, хоть и находясь в окружении людей, ты всё время работала.
 
 武「それ以外のことを知らなかったり、戸惑ったり、間違えたりしても不思議じゃない……そりゃ当然だろ」%K%P
 It's natural that there were things you didn't know, that you had doubts, and made mistakes...

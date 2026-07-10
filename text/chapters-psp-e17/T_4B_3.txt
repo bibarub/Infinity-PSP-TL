@@ -896,12 +896,12 @@ CN PLACEHOLDER
 これは……。%K%P
 What was...
 CN PLACEHOLDER
-Какого... %T060хрена?
+Какого... %T060
 
 どういうことだ……。%K%P
 ...Going on?
 CN PLACEHOLDER
-%K%P
+хрена?
 
 武「ちょっと、見せてみろよ」%K%P
 Let me see.
