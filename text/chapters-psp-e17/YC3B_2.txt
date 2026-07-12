@@ -541,7 +541,7 @@ CN PLACEHOLDER
 空「培養した体細胞から核を抜き取り、別の、既に核を抜き取ってある卵細胞の中にそれを移植し、母体子宮内に着床させることで……」%K%P
 The nucleus is taken from an already-cultivated somatic cell and inserted into an egg that has had its original nucleus removed. Then it is implanted into the mother's womb...
 CN PLACEHOLDER
-Берётся ядро из развитой соматической клетки, затем внедряется в яйцеклетку с уже удалённым ядром. Затем, имплантируя яйцеклетку в матку будущей матери...
+Берётся ядро из развитой соматической клетки, затем внедряется в яйцеклетку с уже удалённым ядром. Затем яйцеклетку вживляют в матку будущей матери...
 
 武「ああ、そうだ思い出した！」%K%P
 Oh, that's right, I remember now!
@@ -591,7 +591,7 @@ CN PLACEHOLDER
 空「同じ空間の中に、時間の中に、複数の私が存在できるのです」%K%P
 There can be several of me existing in the same space at the same time.
 CN PLACEHOLDER
-В одном и том же пространстве, в одно и то же время может существовать несколько меня.
+В одном и том же пространстве в одно и то же время может существовать несколько меня.
 
 空「例えば、倉成さんの前と、ココちゃんの前」%K%P
 For example, in front of you and in front of Coco-chan.
@@ -1001,7 +1001,7 @@ CN PLACEHOLDER
 空「……内緒ですよ？」%K%P
 ...And you must understand, it is a secret.
 CN PLACEHOLDER
-...И ты должен понимать – это секрет.
+...И ты должен понимать: это секрет.
 
 空は人差し指を口の前に立てた。%K%P
 Sora held up one finger in front of her mouth.

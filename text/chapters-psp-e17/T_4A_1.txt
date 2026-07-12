@@ -1106,7 +1106,7 @@ CN PLACEHOLDER
 武「お前は、もっと賢いやつだと思ってたけど……どうやら買いかぶってたみたいだな」%K%P
 I thought you were smarter than that... but I guess I overrated you.
 CN PLACEHOLDER
-А я думал-то, что ты умнее... но, наверное, я тебя переоценил.
+А я-то думал, что ты умнее... но, наверное, я тебя переоценил.
 
 つぐみ「…………」%K%P
 .........

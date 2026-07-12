@@ -1,12 +1,12 @@
 ﻿救護室の中は、静まり返っていた。%K%P
 The infirmary was quiet again.
 CN PLACEHOLDER
-В лазарете вновь тишина.
+В лазарете царила зловещая тишина.
 
 壊れた器具などは、既にどこかへ片づけてしまったようだ。%K%P
 All the smashed equipment had been tidied up.
 CN PLACEHOLDER
-Всё разбитое оборудование куда-то прибрано.
+Всё разбитое оборудование куда-то убрано.
 
 果たして……%K%P
 Sure enough...
@@ -21,7 +21,7 @@ CN PLACEHOLDER
 武「おおおっ！　本当にベッドで寝ているっ……！！」%K%P
 Oh, you really are in bed!
 CN PLACEHOLDER
-Ой, так ты правда лежишь!
+О, так ты правда в кровати!
 
 武「信じられん……！」%K%P
 I don't believe it!
@@ -31,7 +31,7 @@ CN PLACEHOLDER
 俺に気づいたのか、つぐみはすぐに目を開ける。%K%P
 Perhaps sensing my presence, Tsugumi opened her eyes.
 CN PLACEHOLDER
-Видимо, поняв что я здесь, Цугуми открыла глаза.
+Видимо поняв, что я здесь, Цугуми открыла глаза.
 
 つぐみ「何よ……うるさいわね……」%K%P
 What? Could you keep it down...?
@@ -46,7 +46,7 @@ CN PLACEHOLDER
 つぐみ「私がここにいないほうがよかった？」%K%P
 Am I not supposed to be here or something?
 CN PLACEHOLDER
-Меня что, здесь быть не должно?
+Или мне не следует здесь быть?
 
 武「そんなことない。そんなことないさ！」%K%P
 No! No, not at all!
@@ -76,12 +76,12 @@ CN PLACEHOLDER
 つぐみ「ええ……まぁ、ね……」%K%P
 Yeah... Well...
 CN PLACEHOLDER
-А... ну да...
+А... Ну да...
 
 つぐみ「あの区画からは戻ってくるしかないわ。どこにも行けないもの」%K%P
 I had to come back from that sector. There was nowhere to go.
 CN PLACEHOLDER
-Пришлось вернуться из сектора. Там некуда деваться.
+Пришлось вернуться из сектора. Идти там было больше некуда.
 
 武「あのなぁ、そういう問題じゃ……いや、まぁいいや」%K%P
 Hey, that's not what I... Ah, no, never mind.
@@ -91,32 +91,32 @@ CN PLACEHOLDER
 武「とにかく戻ってきてくれたんだからな。よかった」%K%P
 Anyway, I'm glad you're back.
 CN PLACEHOLDER
-Всё равно, я рад что ты вернулась.
+По крайней мере, ты вернулась. Вот и здорово.
 
 つぐみ「よかった……？」%K%P
 Glad...?
 CN PLACEHOLDER
-Рад?..
+Здорово?..
 
 武「ああ。よかった。ホッとしたよ」%K%P
 Yeah. Glad. Relieved?
 CN PLACEHOLDER
-Ну да. Рад. У меня словно камень с души свалился...
+Ну да. Здорово. У меня словно камень с души свалился...
 
 つぐみ「……ふぅん」%K%P
 ...Oh really.
 CN PLACEHOLDER
-Хм-м...
+М-м...
 
 つぐみは目を細めて、俺を見る。%K%P
 Tsugumi looked at me intently.
 CN PLACEHOLDER
-Цугуми пристально вгляделась в моё лицо.
+Цугуми пристально вгляделась мне в лицо.
 
 それからベッドへ身体を倒し、ゆっくり目を閉じながら言った。%K%P
 As she spoke, she lay back down and slowly closed her eyes.
 CN PLACEHOLDER
-Она легла на спину и медленно закрыла глаза.
+Затем она опустилась на кровать и медленно закрыла глаза.
 
 つぐみ「あんまり大声出さないでくれる？」%K%P
 Keep your voice down, okay?
@@ -126,12 +126,12 @@ CN PLACEHOLDER
 つぐみ「少し頭が痛むの。音が頭に響くから……」%K%P
 My head hurts a little. Noise makes it worse.
 CN PLACEHOLDER
-Голова слегка раскалывается. А от шума только хуже.
+Голова слегка болит. Всё звенит...
 
 武「あ、そうなのか？　そりゃ悪かった」%K%P
 Oh? Yeah, I'm sorry.
 CN PLACEHOLDER
-Ой... ладно, извини.
+А, да? Извини.
 
 武「なぁ、腹減ってないか？」%K%P
 Hey, you hungry?
@@ -146,7 +146,7 @@ CN PLACEHOLDER
 武「サンド作って、持ってきてやろうか……？」%K%P
 You want me to make you a sandwich?
 CN PLACEHOLDER
-Может сделать тебе сэндвич?
+Может, сделать тебе сэндвич?
 
 つぐみ「…………」%K%P
 .........
@@ -156,7 +156,7 @@ CN PLACEHOLDER
 つぐみ「ええ、頼むわ……」%K%P
 Yes, please...
 CN PLACEHOLDER
-Да... пожалуйста...
+Да, пожалуй...
 
 武「よーしわかった、すぐ持ってきてやる」%K%P
 Okay. I'll go get you one.
@@ -176,7 +176,7 @@ CN PLACEHOLDER
 そして救護室を出るとダッシュで３階に向かう。%K%P
 As soon as I got out of the infirmary I sprinted to the third floor.
 CN PLACEHOLDER
-Оказавшись в коридоре, я рванул на третий этаж.
+Затем, выйдя из лазарета, я рванул на третий этаж.
 
 一度片づけを終えた売店のフライヤーに再びスイッチを入れ、タツタ揚げを温め直した。%K%P
 The kiosk had been cleaned up, but I turned the fryer back on and heated up the tuna.
@@ -206,37 +206,37 @@ CN PLACEHOLDER
 またしてもダッシュして救護室に到着。この間、１０分弱……。%K%P
 I sprinted back to the infirmary. I had been away less than ten minutes.
 CN PLACEHOLDER
-Я прибежал обратно до лазарета. Меня не было какие-то жалкие десять минут.
+Я прибежал обратно до лазарета. На всё про всё ушло минут 10, а то и меньше.
 
 あいつが待ちくたびれてるかもしれない。%K%P
 She was probably sick of waiting.
 CN PLACEHOLDER
-Но, должно быть, она уже замучилась ждать.
+Она небось уже замучилась ждать.
 
 俺は扉のオープンボタンを連打して開けた。%K%P
 I punched the open button until the door opened.
 CN PLACEHOLDER
-Я зажал кнопку на двери, до тех пор пока та не открылась.
+Я несколько раз ткнул по кнопке, а затем вошёл.
 
 武「お待たせーっ……」%K%P
 Sorry I took so long...
 CN PLACEHOLDER
-Прости, что задержался...
+Прости, задержался...
 
 静かにベッドへと歩みながら、そーっと叫んでみる。%K%P
 I called out softly as I approached the quiet bed.
 CN PLACEHOLDER
-Сказал я спокойным голосом, тихонько подходя к её кровати.
+Тихонько сказал я, осторожно подходя к её кровати.
 
 武「普段よりもさらに気合入れて作ってみたぞ、入魂の一品だ」%K%P
 I took more trouble with this than usual. It's a masterpiece.
 CN PLACEHOLDER
-Сделал всё в лучшем виде. Шедевр, пальчики оближешь!
+Постарался даже больше, чем обычно. Всю душу в него вложил!
 
 武「冷めないうちに食ってくれよ……」%K%P
 Eat it before it gets cold...
 CN PLACEHOLDER
-Давай, съешь пока не остыл...
+Давай, съешь, пока не остыл...
 
 武「あれ？」%K%P
 Huh?
@@ -246,12 +246,12 @@ CN PLACEHOLDER
 眠ってしまったのだろうか。%K%P
 Maybe she was asleep.
 CN PLACEHOLDER
-Может, она спит?
+Может, уснула?
 
 ベッドのそばに寄っても、つぐみの返事はなかった。%K%P
 I approached the bed, but there was no answer.
 CN PLACEHOLDER
-Я подошёл к кровати, но ответа не последовало.
+Я подошёл к кровати, но Цугуми никак не отреагировала.
 
 武「おーい、つぐみやーい……」%K%P
 Hey, Tsugumiiii...
@@ -266,7 +266,7 @@ CN PLACEHOLDER
 武「おいしいサンドですよー、ほっくほくですよー……」%K%P
 A delicious sandwich, get it while it's hot...
 CN PLACEHOLDER
-Вкусняшка из вкусняшек, бери, пока не остыла...
+Сэндвич такой восхитительный, горячий, воздушный...
 
 小声で叫んでみても、やはり応答はない。%K%P
 I called softly, but there was no response.
@@ -291,7 +291,7 @@ CN PLACEHOLDER
 武「食わんのかい、コラ！　なんとか言わんかーい！」%K%P
 Are you going to eat it? Say something!
 CN PLACEHOLDER
-Есть будешь? Скажи хоть что-нибудь!
+Ты есть собираешься, а?! Ответь уже что-нибудь!
 
 武「…………」%K%P
 .........
@@ -306,7 +306,7 @@ CN PLACEHOLDER
 俺はつぐみのベッドの掛け布を剥がした。%K%P
 I pulled back the blanket on the bed.
 CN PLACEHOLDER
-Я дёрнул одеяло на кровати.
+Я стянул одеяло с кровати.
 
 そこに彼女の姿はない。%K%P
 Tsugumi wasn't there.
@@ -341,7 +341,7 @@ CN PLACEHOLDER
 持参したタツタサンドを壁に叩きつけたくなったが、堪えた。%K%P
 I resisted the urge to throw the sandwich against the wall.
 CN PLACEHOLDER
-И поборол жуткое желание швырануть сэндвич о стенку.
+И поборол жуткое желание швырнуть сэндвич о стенку.
 
 武「ちくしょう、どこ行きやがったんだあのバカ……」%K%P
 Where on earth did that stupid girl run off to...?
@@ -371,7 +371,7 @@ CN PLACEHOLDER
 靴を退けて、床を見た。%K%P
 I lifted my foot and looked down.
 CN PLACEHOLDER
-...я поднял её и взглянул вниз.
+...Я поднял её и взглянул вниз.
 
 踏みつけたそれは、粉々になって足元に散らばっている。%K%P
 Whatever I had stepped on was pulverized under my feet.
@@ -386,12 +386,12 @@ CN PLACEHOLDER
 屈んで俺は、それを手の平に広げてみた。%K%P
 I bent down and spread them out on my hand.
 CN PLACEHOLDER
-Я наклонился и поднял их рукой.
+Я присел и поднял их рукой.
 
 武「……ナッツみたいだな」%K%P
 ...Looks like nuts...
 CN PLACEHOLDER
-...похоже на орехи...
+...Похоже на орехи...
 
 つぐみのベッドの下を覗くと、シーツが１枚丸められて、突っ込んであった。%K%P
 Glancing under the bed, I found a rolled-up sheet stuffed underneath.
@@ -406,27 +406,27 @@ CN PLACEHOLDER
 ナッツが入っていたと思しき袋と、空き箱が見つかった。%K%P
 I found a bag, which had probably contained the nuts, and an empty box.
 CN PLACEHOLDER
-И нашёл мешочек, в котором, как мне показалось, лежат орешки, и пустую коробочку.
+Там оказались пакетик, где, похоже, и были орехи, а ещё пустая коробка.
 
 どこかの売店で、土産物として売られていたもののようだ。%K%P
 They looked like souvenirs bought at some shop.
 CN PLACEHOLDER
-Похоже на сувениры из какого-то магазина.
+Наверное, там был сувенир из какого-то магазина.
 
 （探索のときにあったっけ、こんなもの……？）%K%P
 (Were these here when we searched the place?)
 CN PLACEHOLDER
-(Они были тут, когда мы искали Цугуми?)
+(Мы что-то пропустили, пока обследовали сооружение?..)
 
 つぐみが隠し持っていたのだろうか。%K%P
 Had Tsugumi smuggled them in?
 CN PLACEHOLDER
-Когда она успела их сюда пронести?
+Может, Цугуми просто припрятала это у себя.
 
 （内緒で少しずつ食べていた……？）%K%P
 (Was she eating them in secret...?)
 CN PLACEHOLDER
-(Может, она ест их в тайне ото всех?..)
+(Она что, втихушку ела их?..)
 
 いや、それにしてはちょっと不自然だ。%K%P
 No, that explanation didn't feel quite right.
@@ -436,17 +436,17 @@ CN PLACEHOLDER
 （あっ……）%K%P
 (Ah...)
 CN PLACEHOLDER
-(Ой...)
+(А-а...)
 
 俺は自分が踏んだせいで、ナッツを粉々にしてしまったと思っていたのだが……。%K%P
 I thought the nuts were crushed because I had stepped on them...
 CN PLACEHOLDER
-Я думал, что орехи превратились в труху потому, что я на них наступил...
+Я решил, что раздавил орехи, когда наступил на них, но...
 
 ベッドの下にも、砕かれた粉がたくさん散らばっていた。つまり、わざと粉々にしてあったのだ。%K%P
 But there was also a large amount of powder under the bed. Someone had deliberately crushed the nuts.
 CN PLACEHOLDER
-Но под кроватью также большое количество ореховой пудры. Кто-то... или что-то их упорно грызло.
+Под кроватью тоже были разбросаны мелкие кусочки. То есть его намеренно раздробили.
 
 空き箱をベッドの下から引き寄せて、覗いてみた。%K%P
 I pulled the box out from under the bed and glanced inside.
@@ -456,12 +456,12 @@ CN PLACEHOLDER
 箱はフタの一部をくり抜かれ、綿が詰めてあり、真ん中に柔らかな窪みが作ってある。%K%P
 A section of the lid had been torn off. The box was filled with cotton, with a soft hollow in the center.
 CN PLACEHOLDER
-Часть с крышкой оторвана, а сама коробочка утыкана ватой, а посередине – мягкое углубление.
+В крышке вырезана дыра, а сама коробочка утыкана ватой, а посередине – мягкое углубление.
 
 小動物の巣みたいな感じだ。%K%P
 It looked like the nest of some small animal.
 CN PLACEHOLDER
-Похоже на гнездо какого-то маленького животного.
+Похоже на гнездо какого-то мелкого животного.
 
 武「うーむ……」%K%P
 Hmmmm...
@@ -481,7 +481,7 @@ CN PLACEHOLDER
 （つぐみは、ここで何か小動物を飼っていた？）%K%P
 (Did Tsugumi have some kind of pet?)
 CN PLACEHOLDER
-(Цугуми держит животное?)
+(У Цугуми есть мелкий питомец?)
 
 そう考えるのが妥当なところだろう。%K%P
 It seemed like a reasonable conclusion.
@@ -496,12 +496,12 @@ CN PLACEHOLDER
 武「あいつ、小動物を捜しに行ったのかな？」%K%P
 Maybe she's gone looking for her pet?
 CN PLACEHOLDER
-А что, если она пошла искать своего питомца?
+А что, если она пошла искать его?
 
 しかし、いったいどこへ？%K%P
 But where exactly?
 CN PLACEHOLDER
-Вот только куда?
+Вот только где?
 
 武「空に訊くわけにも行かなそうだが……」%K%P
 I couldn't ask Sora...
@@ -541,12 +541,12 @@ CN PLACEHOLDER
 武「あいつ、ネズミを捜しに行ったのかな？」%K%P
 Has she gone looking for her pet?
 CN PLACEHOLDER
-А что, если она пошла искать своего питомца?
+А что, если она пошла искать её?
 
 しかし、いったいどこへ？%K%P
 But where exactly?
 CN PLACEHOLDER
-Вот только куда?
+Вот только где?
 
 武「……空に訊いてみるか」%K%P
 Maybe I should ask Sora.
@@ -571,7 +571,7 @@ CN PLACEHOLDER
 モニターでＬｅＭＵのマップを見ることはできたが、ここでは生体反応はわからない。%K%P
 I looked at the map of LeMU on the monitor, but I could detect no signs of life.
 CN PLACEHOLDER
-Я взглянул на карту LeMU, отображаемую на мониторе, но не обнаружил никаких признаков жизни.
+Я взглянул на карту LeMU на мониторе, но не обнаружил никаких признаков жизни.
 
 この近くでレミの大きな端末を扱える場所と言えば――？%K%P
 Was there anywhere nearby that could operate LeMMIH with a large terminal?
@@ -621,7 +621,7 @@ CN PLACEHOLDER
 画面はマップの一部を捉えてズームする。%K%P
 On the screen was a zoomed-in section of a map.
 CN PLACEHOLDER
-На экране в детально приближенном виде отображается участок карты.
+На экране отображается приближенный участок карты.
 
 拡大された地図の上を、微かな光点が移動しているのが見えた。%K%P
 A strange point of light was moving across the enlarged section of the map.
@@ -631,17 +631,17 @@ CN PLACEHOLDER
 生体反応を示す光点だ。%K%P
 The light indicated a sign of life.
 CN PLACEHOLDER
-Это живое создание.
+Эта точка указывает на живое существо.
 
 キーを叩く。%K%P
 She hit the key.
 CN PLACEHOLDER
-Она что-то нажала на клавиатуре.
+Цугуми что-то нажала на клавиатуре.
 
 画面の一部が切り替わり、生体反応へとリモートカメラがズームインした。%K%P
 One portion of the screen changed, and the remote camera zoomed in on whatever was reacting.
 CN PLACEHOLDER
-Часть экрана переменилась, а управляемая камера сфокусировалась на источнике тепла.
+Одно из окон на экране переключилось на вид с удалённой камеры, которая отслеживала биологическую реакцию.
 
 モニター映像は、生き物の姿を映し出す。%K%P
 A living creature was visible on the monitor.
@@ -671,7 +671,7 @@ CN PLACEHOLDER
 目を瞬いている。%K%P
 She blinked.
 CN PLACEHOLDER
-И в удивлении моргнула.
+Она моргнула.
 
 武「あれ、ネズミ、だよな？」%K%P
 It's a rat, isn't it?
@@ -696,22 +696,22 @@ CN PLACEHOLDER
 武「お前、あのネズミを捜してたのか？」%K%P
 Is it that rat you're looking for?
 CN PLACEHOLDER
-Так значит ты искала эту крысу?
+Так, значит, ты искала эту крысу?
 
 つぐみ「……ま、まさか」%K%P
 ...O-Of course not!
 CN PLACEHOLDER
-К... конечно нет!
+...К-конечно нет!
 
 つぐみは、明らかにうろたえていた。%K%P
 Tsugumi was obviously flustered.
 CN PLACEHOLDER
-Разумеется, Цугуми взволнованна.
+Цугуми явно смущена.
 
 武「さっきお前のベッドの下を覗いたら、妙な箱があったのを見つけたんだ」%K%P
 I looked under your bed and saw the box.
 CN PLACEHOLDER
-Я заглянул под твою кровать и видел коробочку.
+Под твоей кроватью я нашёл коробочку.
 
 武「ナッツもこぼれてたし……」%K%P
 There were nuts everywhere...
@@ -736,17 +736,17 @@ CN PLACEHOLDER
 武「それにしても、どうやってあそこまで行ったんだろうなぁ、あのドブネズミ」%K%P
 Anyway, I wonder how that dirty rodent got here?
 CN PLACEHOLDER
-Интересно, и как только этот крысёныш сюда попал?
+Если серьёзно, как эта грязная крыса вообще там оказалась?
 
 つぐみ「ドブネズミィ〜！？」%K%P
 DIRTY RODENT!?
 CN PLACEHOLDER
-КРЫСЁНЫШ?!
+Грязная крыса?!
 
 いきなりつぐみは素っ頓狂な声をあげた。%K%P
 Tsugumi's voice was suddenly hysterical.
 CN PLACEHOLDER
-Ни с того ни с сего тон Цугуми стал истерическим.
+Цугуми резко закричала.
 
 俺はやや面食らいながらも尋ねてみる。%K%P
 I was a little taken aback.
@@ -756,47 +756,47 @@ CN PLACEHOLDER
 武「あれ？　違うのか？」%K%P
 It's not a rat?
 CN PLACEHOLDER
-Так это не крыса?
+Что? Это не крыса?
 
 つぐみ「あれは、ジャンガリアンハムスター！」%K%P
 It's a Djungarian hamster!
 CN PLACEHOLDER
-Это джунгарский хомяк!
+Он джунгарский хомяк!
 
 つぐみ「……だと思う」%K%P
 ...I think...
 CN PLACEHOLDER
-...кажется...
+...Вроде...
 
 武「ふーん……」%K%P
 Reeeally...
 CN PLACEHOLDER
-Пра-а-авда...
+Хм-м-м...
 
 武「そっかそっかぁ、ジャンガリアンハムスターって言うのかぁ……」%K%P
 Oh, so that's what it's called, a Djungarian, huh...?
 CN PLACEHOLDER
-Ох, так он называется, джунгарским?..
+А, вот оно что. Так это джунгарский хомяк...
 
 武「よく知ってるなぁ、つぐみ」%K%P
 You're pretty knowledgeable, Tsugumi.
 CN PLACEHOLDER
-Да у тебя приличный багаж знаний, Цугуми.
+А ты довольно много знаешь, Цугуми.
 
 つぐみ「……そ、そのぐらい、誰だって知ってるわ」%K%P
 ...E-Everybody knows what they're called...
 CN PLACEHOLDER
-Д... да... э-это... все знают...
+..Ну, э-это знаю все.
 
 彼女は軽く膨れる。%K%P
 Her chest puffed out slightly.
 CN PLACEHOLDER
-Её грудь слегка напыжилась.
+Щёки Цугуми слегка надулись.
 
 武「で、つぐみはあのネズミを捜していたわけだ」%K%P
 So you were looking for that rat?
 CN PLACEHOLDER
-Так ты искала эту крысу?
+Так ты искала эту крысу.
 
 つぐみ「違うっ！」%K%P
 No!
@@ -806,7 +806,7 @@ CN PLACEHOLDER
 つぐみ「ネズミじゃないって言ったでしょ？」%K%P
 I told you it's not a rat!
 CN PLACEHOLDER
-Блин, это не крыса!
+Я ведь уже сказала, что это не мышь?
 
 武「ああ失敬、ネズミじゃなくて、ハムスター」%K%P
 Oh, sorry, uh, not rat, but hamster.
@@ -841,7 +841,7 @@ CN PLACEHOLDER
 再び、つぐみはモニターに目を向ける。%K%P
 Tsugumi looked back at the monitor.
 CN PLACEHOLDER
-Цугуми повернулась к монитору.
+Цугуми перевела взгляд обратно к монитору.
 
 つぐみ「たぶん、どこかのパイプを通って向こうまで行ったんだと思う」%K%P
 He probably traveled through some pipe.
@@ -856,7 +856,7 @@ CN PLACEHOLDER
 つぐみ「電気ケーブルが収容されてるパイプとか、細い通気孔とか」%K%P
 The pipes with the electric cables or the power sockets.
 CN PLACEHOLDER
-По трубе с электропроводкой или через сетевые разъёмы.
+По трубе, по которой проложены электрические кабели, через узкую вентиляцию и т. д.
 
 武「なるほどねぇ〜」%K%P
 Oh, I see.
@@ -881,12 +881,12 @@ CN PLACEHOLDER
 ３階の隔離区画よりも、さらに先に進んだところにあるエリア、か……。%K%P
 It was even farther away than the isolated area on the third floor.
 CN PLACEHOLDER
-Оно ещё дальше, чем изолированная зона третьего этажа.
+Оно ещё дальше, чем изолированная зона третьего этажа...
 
 このマップにはうまく表示されていないが、非常通路は一応繋がっているようだ。%K%P
 It wasn't very clear on the map, but there was one emergency corridor in the sector.
 CN PLACEHOLDER
-Глядя на карту, это понять сложно, но в секторе есть один аварийный коридор.
+Глядя на карту, это понять сложно, но они соединены между собой.
 
 （ふむふむ……）%K%P
 (Hmmmm...)
@@ -901,7 +901,7 @@ CN PLACEHOLDER
 武「ったく、しょうがねぇなぁ……」%K%P
 Geez. I guess I'll just have to...
 CN PLACEHOLDER
-Чёрт. Полагаю, у меня нет выбора...
+Чёрт. Ну, ничего тут не поделаешь...
 
 ゴミ箱に突っ込まれていた空のビニール袋を掴み、出口へと向かった。%K%P
 I grabbed a plastic bag from the trash can and headed for the exit.
@@ -926,22 +926,23 @@ CN PLACEHOLDER
 武「あのひょっとこハム吾郎を、だ」%K%P
 That funny-looking hamster.
 CN PLACEHOLDER
-Пойду вызволять этого забавного хомячка.
+Пойду вызволять твоего Хёттоко Хомягоро.
+//Очередная кастомная заметка про маску "Хёттоко" и про игру слов 'hamster' - 'ハムスタ' (hamusuta)+'吾郎 ' (Goro, старомодное японское имя)
 
 つぐみ「無理よ！」%K%P
 There's no way you'll make it!
 CN PLACEHOLDER
-Ты спятил!
+Это невозможно!
 
 つぐみ「あっちのエリアとこことは、水没したエリアで隔てられてるのよ！？」%K%P
 There's a section underwater between here and there!
 CN PLACEHOLDER
-Та зона целиком под водой!
+Между секциями всё затоплено, ты не понимаешь?!
 
 つぐみ「パイプは、人間が通れる太さじゃないしっ」%K%P
 And no human could fit through the pipe!
 CN PLACEHOLDER
-А через трубу ты не пролезешь!
+А труба слишком узкая, чтобы ты мог пролезть через неё!
 
 俺はつぐみの言葉を無視し、警備室を出る。%K%P
 I ignored her and left the security office.
@@ -956,7 +957,7 @@ CN PLACEHOLDER
 つぐみ「待ちなさいよ」%K%P
 Wait!
 CN PLACEHOLDER
-Да постой же!
+Да стой же!
 
 すぐにつぐみは追ってきて、俺の腕を掴んだ。%K%P
 Tsugumi caught up with me and grabbed my arm.
@@ -971,7 +972,7 @@ CN PLACEHOLDER
 武「早く行かないと、ハム吾郎が別の場所に移動しちまうかもしれないだろ？」%K%P
 If I don't get going, Hammy is going to move to another place.
 CN PLACEHOLDER
-Если я не пойду, хомка слиняет куда-нибудь ещё.
+Если я не пойду, Хомягоро слиняет куда-нибудь ещё.
 
 つぐみ「どうやってあそこまで行くつもりなの？」%K%P
 How do you plan to get in there?
@@ -981,12 +982,12 @@ CN PLACEHOLDER
 武「勿論……泳いで」%K%P
 How else...? Swim.
 CN PLACEHOLDER
-Как-как... вплавь!
+Как-как... вплавь.
 
 つぐみ「えっ！？」%K%P
 Huh!?
 CN PLACEHOLDER
-Э-э?!
+Что?!
 
 つぐみの手が緩んだ。%K%P
 Tsugumi's hand relaxed.
@@ -1006,17 +1007,17 @@ CN PLACEHOLDER
 つぐみ「ち、ちょっと……」%K%P
 W-Wait!
 CN PLACEHOLDER
-П... постой!
+П-постой!
 
 つぐみ「正気なの、あなた！？」%K%P
 Are you out of your mind?
 CN PLACEHOLDER
-Ты что... спятил?
+Ты что, спятил?
 
 武「そのつもりだけど」%K%P
 I'm going through with this.
 CN PLACEHOLDER
-Отнюдь.
+Таков мой план.
 
 つぐみ「だからあなたは『うつけ者』なのよ」%K%P
 That's the reason why I think you're stupid.
@@ -1026,7 +1027,7 @@ CN PLACEHOLDER
 つぐみ「防水扉を開いたら、６気圧の海水が一気に流入してっ――」%K%P
 If you open those floodgates, you'll be overwhelmed by the seawater—the pressure is six atmospheres!
 CN PLACEHOLDER
-Когда ты откроешь водоупорные двери, тебя затопит водой с давлением в 6 атмосфер!
+Когда ты откроешь водоупорные двери, тебя затопит водой под давлением в 6 атмосфер!
 
 武「その心配はない」%K%P
 You don't have to worry about that.
@@ -1036,12 +1037,12 @@ CN PLACEHOLDER
 武「ハム吾郎のいるエリアと水没した非常通路は直接繋がってるんだ」%K%P
 Hammy's in an area directly connected to the flooded emergency corridor.
 CN PLACEHOLDER
-Хомка находится в зоне, напрямую соединённой с затопленным аварийным коридором.
+Хомягоро находится в зоне, напрямую соединённой с затопленным аварийным коридором.
 
 武「ハム吾郎のいるエリアは１気圧。だから水没した通路も約１気圧だろう」%K%P
 The water in that area is one atmosphere of pressure, so the flooded corridor should be about the same.
 CN PLACEHOLDER
-Вода там с давлением в 1 атмосферу. Значит, и в самом коридоре точно так же.
+Вода там под давлением в 1 атмосферу. Значит, и в самом коридоре точно так же.
 
 武「通路の両端の防水扉がきっちり閉まってるからな」%K%P
 Besides, the floodgates on either side of the corridor are firmly shut.
@@ -1061,7 +1062,7 @@ CN PLACEHOLDER
 武「部屋の下側にある水没した非常通路を使えば、隣のエリアまでは行ける……」%K%P
 If I use the flooded corridor beneath the room, I can get into the next area...
 CN PLACEHOLDER
-Если я воспользуюсь затопленным коридором под комнатой, то смогу добраться до следующей зоны...
+Если я проплыву через затопленный коридор, то смогу добраться до следующей зоны...
 
 武「１回戻って、マップ確認してきたらどうだ？」%K%P
 Why don't you go back and check the map?
@@ -1091,17 +1092,17 @@ CN PLACEHOLDER
 つぐみ「そう、５１ｍもあるのよ……」%K%P
 Yeah, but 51 meters is a long way...
 CN PLACEHOLDER
-Вот именно! 51 метр!
+Вот именно! 51 метр...
 
 武「まあ、なんとかなるんじゃないか？」%K%P
 It'll be alright.
 CN PLACEHOLDER
-Всё будет хорошо.
+Ой, да что может пойти не так?
 
 武「潜水で、２５ｍプールを１往復したことならある、一応」%K%P
 Actually, I swam down and back in a 25-meter pool once.
 CN PLACEHOLDER
-Я плавал в бассейне, под водой, 25 метров, туда и обратно, разок...
+Я как-то проплыл в бассейне, под водой, 25 метров, туда и обратно.
 
 武「クイックターンで壁を蹴って、だけどな」%K%P
 I kicked off the far wall coming back, but still...
@@ -1111,7 +1112,7 @@ CN PLACEHOLDER
 俺が手をひらひらさせながら言ってのけると、つぐみは顔を強張らせた。%K%P
 I mimed swimming as I spoke. Tsugumi's expression hardened.
 CN PLACEHOLDER
-Я сделал отмашку рукой, на что Цугуми ещё сильнее нахмурилась.
+Я отмахнулся рукой, но лицо Цугуми лишь напряглось.
 
 つぐみ「そんな……」%K%P
 You...
@@ -1131,7 +1132,7 @@ CN PLACEHOLDER
 つぐみは自分の言葉にハッと息を呑んだ。%K%P
 Tsugumi breathed in sharply.
 CN PLACEHOLDER
-Тяжело вздохнула Цугуми.
+Цугуми резко осеклась, а дыхание от собственных слов у неё спёрло.
 
 武「大丈夫だ」%K%P
 I'll be alright.
@@ -1161,7 +1162,7 @@ CN PLACEHOLDER
 武「『仲間』なんだから」%K%P
 We're all in this together.
 CN PLACEHOLDER
-Мы все заодно.
+Мы должны держаться вместе.
 
 つぐみ「…………」%K%P
 .........
@@ -1171,12 +1172,12 @@ CN PLACEHOLDER
 武「お前は仲間じゃないらしいけど……」%K%P
 Maybe you're not one of us...
 CN PLACEHOLDER
-Может ты и не с нами...
+Может, ты и не „одна из нас“...
 
 武「少なくともお前の飼ってるペットは、俺達の仲間だ」%K%P
 But any pet you have is one of us.
 CN PLACEHOLDER
-Но любой твой любимец – один из нас.
+Но любой твой питомец – один из нас.
 
 武「日本ではなぁ、共通の目的を持った者同士のことを仲間って呼ぶんだよ」%K%P
 In Japan, people with the same goal are called friends...
@@ -1196,7 +1197,7 @@ CN PLACEHOLDER
 武「ひねくれ者の天才よりは、朗らかなバカのほうがマシだ」%K%P
 I'd rather be a cheerful idiot than some warped genius.
 CN PLACEHOLDER
-Лучше быть идиотом-оптимистом, чем заумником-пессимистом.
+Уж лучше я буду оптимистичным дураком, чем циничным умником.
 
 ＥＩで３階に下りる。%K%P
 We took Ei down to the third floor.
@@ -1221,7 +1222,7 @@ CN PLACEHOLDER
 俺は手にしたままだった特製タツタサンドを、つぐみの前に突き出した。%K%P
 The fried tuna sandwich was still in my hand. I shoved it at Tsugumi.
 CN PLACEHOLDER
-Жареный сэндви с тунцом всё ещё у меня в руке. Я пихнул его Цугуми.
+Жареный сэндвич с тунцом всё ещё у меня в руке. Я пихнул его Цугуми.
 
 武「食うだろ？　ほら、冷めないうちにな」%K%P
 Here, before it gets cold.
@@ -1301,7 +1302,7 @@ CN PLACEHOLDER
 しかしその豪快な食いっぷりを見れば、言わずとも気持ちは伝わってくる。%K%P
 But seeing how happily she ate, I didn't need words to know how she felt.
 CN PLACEHOLDER
-Но увидев, как счастливо она ела... Чтобы понять, что она чувствует, слова не нужны.
+Но глядя на то, с каким аппетитом она ела, – слова были и не нужны.
 
 俺は少し嬉しくなってしまった。%K%P
 I was pleased.
@@ -1316,12 +1317,12 @@ CN PLACEHOLDER
 床を探り、非常通路へと続くマンホール状のハッチを開く。%K%P
 We searched the floor and opened the hatch of the manhole that led to the emergency corridor.
 CN PLACEHOLDER
-Обыскав этаж, мы открыли люк, ведущий в аварийный коридор.
+Обыскав пол, я открыл люк, ведущий в аварийный коридор.
 
 ふたりでその中を覗き込んだ。%K%P
 We peered inside.
 CN PLACEHOLDER
-И заглянули внутрь.
+И заглянул внутрь.
 
 直径７０ｃｍ程度のチューブが下へと伸びている。%K%P
 A tube of about 70 centimeters in diameter stretched down below us.
@@ -1346,12 +1347,12 @@ CN PLACEHOLDER
 武「何か帰り道のガイドになるものがいるな……」%K%P
 I wonder if there's something I can use to guide me back?
 CN PLACEHOLDER
-Чем бы себя обвязать, чтобы потом вернуться?
+Чем бы себя обвязать, чтобы потом вернуться...
 
 幸い、手近に作業員用の命綱らしきフック付きロープが転がっていた。これを持って通路に入ることにする。%K%P
 Fortunately, there was a rope with a hook on it which looked as if it was a lifeline for the maintenance crew. I decided to hold onto it when I went in.
 CN PLACEHOLDER
-К счастью, неподалёку лежит верёвка с крюком, что-то вроде страховочного троса, используемый рабочими. Я решил держаться за неё, когда туда прыгну.
+К счастью, неподалёку лежит верёвка с крюком. Что-то вроде страховочного троса, который используют рабочие. Я решил держаться за неё, когда туда прыгну.
 
 ロープの長さが充分あることを確認し、一方の端を近くのパイプへガッチリ固定した。%K%P
 Checking that the rope was long enough, I firmly tied it to a pipe nearby.
@@ -1366,12 +1367,12 @@ CN PLACEHOLDER
 武「さーてと……」%K%P
 Alright then...
 CN PLACEHOLDER
-Отличненько...
+Ну что ж...
 
 俺は軽く準備運動を始める。%K%P
 I did some light stretching exercises to warm up.
 CN PLACEHOLDER
-Чтобы разогреться, я сделал лёгкую зарядку.
+Чтобы разогреться, я сделал лёгкую разминку.
 
 つぐみ「待って！」%K%P
 Wait!
@@ -1386,7 +1387,7 @@ CN PLACEHOLDER
 武「は？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+А?
 
 つぐみは向き直って、俺の顔を見つめた。%K%P
 Tsugumi stared me square in the face.
@@ -1401,12 +1402,12 @@ CN PLACEHOLDER
 つぐみ「私はただ、あなたの偽善的な行動を見たくないだけ」%K%P
 I just don't want to watch you pull this hypocritical stunt, that's all.
 CN PLACEHOLDER
-Я не хочу наблюдать, как ты творишь это безумие.
+Я не хочу наблюдать за этим лицемерным поступком.
 
 つぐみ「偽善を信じ、偽善の果てに死んでいくようなバカバカしい光景を見たくないだけ」%K%P
 I don't want to see you kill yourself because you believe this hypocrisy.
 CN PLACEHOLDER
-Это самоубийство. Я не хочу, чтобы ты угробился из-за собственной глупости и лицемерия.
+Я не хочу видеть эту нелепицу, как ты лицемерно умираешь ради всего этого.
 
 武「お前なぁ、まだそんなこと言ってんのか？」%K%P
 How can you say that?
@@ -1416,7 +1417,7 @@ CN PLACEHOLDER
 武「可愛くないぞ？　そういうの」%K%P
 That's not a nice thing to say!
 CN PLACEHOLDER
-Уж кто здесь и глупый, так это ты!
+Не очень-то и мило с твоей стороны!
 
 俺は両手足首肩腰を廻しながら笑って言った。%K%P
 I laughed at her as I loosened my limbs and body.
@@ -1441,17 +1442,17 @@ CN PLACEHOLDER
 武「俺が向こうについたら、ハム吾郎の居場所を教えてくれればいい」%K%P
 When I get through to the other side, you can tell me where Hammy is.
 CN PLACEHOLDER
-Когда я окажусь с другой стороны, ты сможешь сказать мне местоположение хомяка.
+Когда я окажусь с другой стороны, ты сможешь сказать, где сидит Хомягоро.
 
 武「レミを使わなきゃ、やつがどこにいるのかわからないだろ？」%K%P
 We won't be able to locate him without LeMMIH, will we?
 CN PLACEHOLDER
-Без LeMMIH мы не сможем определить, где он. Понимаешь?
+Без LeMMIH мы не сможем определить, где он.
 
 武「つまり、レミを扱える人間が残らなきゃ、意味がないってことだ」%K%P
 So unless someone who can operate LeMMIH stays behind, it won't work.
 CN PLACEHOLDER
-Так что пока кто-то не воспользуется LeMMIH и не возьмёт на себя роль подстраховки, ничего не выйдет.
+Иначе говоря, нет никакого смысла, если никто не будет следить через LeMMIH.
 
 つぐみ「でもっ」%K%P
 But...
