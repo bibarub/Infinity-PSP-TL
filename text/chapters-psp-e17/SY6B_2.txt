@@ -471,7 +471,7 @@ CN PLACEHOLDER
 優「うるっさ〜〜いっ！！」%K%P
 Be quiet!
 CN PLACEHOLDER
-Заткниииись!
+Заткни-и-и-ись!
 
 優「いくら気に入らない名前だったとしても、これは私の名前なんだから……」%K%P
 Even if YOU don't like it, it is still my name, so...
@@ -581,12 +581,12 @@ CN PLACEHOLDER
 優の声にパネルが反応する。ランプの色が赤から緑に変わる。そして……%K%P
 Responding to her voice, the lamp turned green, and then...
 CN PLACEHOLDER
-В ответ на её голос, лампочка зажглась зелёным и...
+В ответ на её голос лампочка зажглась зелёным и...
 
 ウィィィィン！%K%P
 Whiiiir!
 CN PLACEHOLDER
-Вжиииик!
+Вжи-и-и-ик!
 
 ドアが開いた。%K%P
 The door opened.
@@ -981,7 +981,7 @@ CN PLACEHOLDER
 『今頃になって、なぜ……？』と。%K%O
 My skeptical mind wanted to ask, “Why now...?”
 CN PLACEHOLDER
-Скептическая часть моего разума так и рвалась спросить «Почему сейчас?..».
+Скептическая часть моего разума так и рвалась спросить: «Почему сейчас?..»
 
 しかし、ぼくらは狐につままれたような気持ちになりつつも、それに従うより他なかった。%K%N
 We felt like a trick might still be being played on us, but we had no other choice but to go along with it.

@@ -1919,8 +1919,6 @@ CN PLACEHOLDER
 It was flowing down like a waterfall and spreading smoothly toward the far corridor as if it was crawling across the floor.
 CN PLACEHOLDER
 Вода, падавшая сплошным водопадом, стелилась по полу и стремительно заполняла пространство до самого дальнего конца коридора.
-// яп: Water cascading down like a waterfall spreads out across the gently sloping floor, creeping toward the far end of the passageway.
-// отсылка на то, что LeMU накреняется? --bibarub
 
 （――そうだ！　――優は！？）%K%P
 (That's right! What about You!?)
@@ -2371,7 +2369,6 @@ CN PLACEHOLDER
 Well, I suppose I owed you one anyway...
 CN PLACEHOLDER
 ;Мальчик«Всё-таки я у тебя в долгу...»%K%P
-// полагаю уместно в устной речи? --bibarub
 
 優「借り？」%K%P
 Owed me?
@@ -2526,8 +2523,7 @@ CN PLACEHOLDER
 ――突如、殴りつけられたような衝撃が、ぼくの全身をつらぬいた！%K%P
 —Then, all of a sudden, a shock shot through my whole body.
 CN PLACEHOLDER
-Внезапно моё тело словно пронзило электрическим разрядом.
-// про "электрический" разряд ничего не сказано, как переписать? --bibarub
+– Внезапно через всё моё тело прошла волна, словно от удара кулаком.
 
 少年「う、うぅっ……あぁ……」%K%P
 Oooh... arggh...
@@ -2731,13 +2727,11 @@ CN PLACEHOLDER
 I don't want you getting like you did before... Alright?
 CN PLACEHOLDER
 А то опять получится как тогда... ну, сам понимаешь...
-// в япе нет явного "потерял сознание", а просто упоминается все произошедшее в целом --bibarub
 
 はれものに触れるような感じで、優はそう言った。%K%P
 You said it very carefully.
 CN PLACEHOLDER
 Ю старается подбирать слова.
-// не могу понять, к прошлой это реплике относится, или к следующей --bibarub
 
 優「これから、いくつか質問するけど……」%K%P
 I'm gonna ask you a couple of questions...
@@ -2858,7 +2852,6 @@ CN PLACEHOLDER
 How about your address or telephone number?
 CN PLACEHOLDER
 А твой домашний адрес или телефон?
-// "как насчет" мне не сильно нравится --bibarub
 
 優「じゃなかったら、家族のこととか、友達のこととか……なんでもいいんだけど……」%K%P
 If not those, then how about your family, friends... or anything...?
@@ -2950,7 +2943,6 @@ CN PLACEHOLDER
 What are you, a baby? Stop with that sad face.
 CN PLACEHOLDER
 Ты же мальчик. Кончай нюни распускать.
-// будто бы "хмуриться" не сильно подходит. в япе что-то вроде "не делай такое лицо, будто сейчас заплачешь" --bibarub
 
 優は笑みを浮かべながら、ぼくの手の平を握り返した。%K%P
 She shot me a smile as she squeezed my hand back.
@@ -3076,8 +3068,7 @@ CN PLACEHOLDER
 水のしみ込んだ大きなリボンは艶々と輝いていて、生まれたばかりの妖精の羽に似ていた。%K%P
 The ribbon seemed to have taken on water and glittered brightly, almost like the wings of a newborn fairy.
 CN PLACEHOLDER
-Похоже, что он ещё не успел просохнуть и ярко сияет, напоминая крылья новорождённой феи.
-// перед "и ярко сияет" нужна запятая? --bibarub
+Большая пропитанная водой лента ярко блестела, напоминая крылья новорождённой феи.
 
 優「ダメ……開かないみたい……」%K%P
 It's no good... It doesn't seem to open...
@@ -3098,7 +3089,6 @@ CN PLACEHOLDER
 Or more accurately, it was the passage on the way there.
 CN PLACEHOLDER
 Точнее говоря, на площадке посреди лестничного пролёта.
-// не уверен в этом переводе --bibarub
 
 非常階段は、太いパイプの側面を沿うように、ぐるぐると螺旋状に伸びている。%K%P
 The emergency stairs were wound in a spiral around a fat pipe.
@@ -3119,7 +3109,6 @@ CN PLACEHOLDER
 The wall had a small watertight door, and if we couldn't squeeze through that, then we couldn't make our way any higher.
 CN PLACEHOLDER
 На ней установлен небольшой водоупорный люк, и, не пройдя через него, выше не подняться.
-// перефразировать бы --bibarub
 
 少年「ここはまだ……浮島じゃないよね？」%K%P
 This isn't... the floating island yet, is it...?
@@ -3174,7 +3163,7 @@ CN PLACEHOLDER
 『３０ｍ』と聞いただけだと、すぐ近くに思えるけど……。%K%P
 30 meters sounded so close, but...
 CN PLACEHOLDER
-30 метров звучит очень близко, но...
+Всего каких-то 30, но...
 
 でも、どっちにしろ、この扉が開かないことにはどうにもならないんだ。%K%P
 But in any event, if the door didn't open up, then that was it.
@@ -3534,7 +3523,6 @@ CN PLACEHOLDER
 Both the normal corridors and the emergency corridors were sealed.
 CN PLACEHOLDER
 И обычные, и аварийные коридоры перекрыты.
-// "запечатаны" прикольно звучит. а есть более хорошая альтернатива? --bibarub
 
 全部がダメだったのだ。%K%P
 All of them were blocked off.
