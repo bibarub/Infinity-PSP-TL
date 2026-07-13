@@ -181,7 +181,7 @@ CN PLACEHOLDER
 武「実は、折り入って話したいことがあったんだ」%K%P
 I want to talk about something serious.
 CN PLACEHOLDER
-На самом деле, я хотел бы поговорить с тобой кое о чём.
+На самом деле я хотел бы поговорить с тобой кое о чём.
 
 空「え？　倉成さんもですか？」%K%P
 You do too, Kuranari-san?
@@ -266,7 +266,7 @@ CN PLACEHOLDER
 空「私もね、あの講義のことが心残りだったんですよ」%K%P
 I was thinking about it too.
 CN PLACEHOLDER
-На самом деле, я тоже хотела поговорить о ней.
+На самом деле я тоже хотела поговорить о ней.
 
 空は頬を赤らめた。%K%P
 Sora's cheeks were bright red.
@@ -311,7 +311,7 @@ CN PLACEHOLDER
 武「俺もそれを言いたかった」%K%P
 That's what I wanted to talk about too.
 CN PLACEHOLDER
-На самом деле, я тоже хотел поговорить об этом.
+На самом деле я тоже хотел поговорить об этом.
 
 俺の顔もたぶん、少し火照った。%K%P
 I was probably a little red as well.
@@ -411,7 +411,7 @@ CN PLACEHOLDER
 武「ちょっと極端な事例をいきなり出したのは失敗だったけど、空に間違ったことを教えたとは思ってない」%K%P
 I think my examples may have been a little extreme, but I think my basic message was right.
 CN PLACEHOLDER
-Наверное, мои примеры ушли слишком в крайности, но не думаю, что я говорил что-то не то.
+Может, мои примеры слишком ушли в крайности, но я думаю, что в общем говорил правильно.
 
 空「ですよね？」%K%P
 Yeah?
@@ -431,7 +431,7 @@ CN PLACEHOLDER
 空「続きをして欲しいです」%K%P
 I would like you to finish the lecture...
 CN PLACEHOLDER
-Я бы хотела, узнать больше...
+Я бы хотела узнать больше...
 
 空「もっと、いろいろ教えてください」%K%P
 Teach me everything.
@@ -716,7 +716,7 @@ CN PLACEHOLDER
 武「いいかい、茜ヶ崎君？　先生は君のことを、やまとなでしこだと思っていた……」%K%P
 Alright then. You know, I thought you were a traditional Japanese girl.
 CN PLACEHOLDER
-Слушай, Аканэгасаки-кун. А ваш учитель считает вас истинной японской красавицей...
+Слушайте, Аканэгасаки-кун. А ваш учитель думал, что вы истинная японская красавица...
 
 空「そ、そうなんですか？」%K%P
 R-Really?
@@ -731,7 +731,7 @@ CN PLACEHOLDER
 武「しかし２４歳の女性としては、ちびっとばかし欠けているものがあるように感じられるのだよ」%K%P
 But I felt that, as a 24-year-old, you were lacking a little something.
 CN PLACEHOLDER
-Но мне кажется, что твоему образу девушки 24 лет чего-то не хватает.
+Но мне кажется, что вашему образу девушки 24 лет чего-то не хватает.
 
 空「えっ……？」%K%P
 What...?
@@ -1311,7 +1311,7 @@ CN PLACEHOLDER
 俺のふたつの手の平には、空の身体に触れているという確かな実感があった。%K%P
 It felt as if my hands were touching Sora's body.
 CN PLACEHOLDER
-Кажется, будто мои руки касаются Сору.
+Кажется, будто мои руки касаются Соры.
 
 俺の鼻先たった数センチの距離を隔てて、目の前に空の顔が浮かんでいた。%K%P
 Sora's face was there in front of me, mere centimeters from me.
@@ -1417,3 +1417,4 @@ CN PLACEHOLDER
 Sora existed there and then. Of that, I was certain.
 CN PLACEHOLDER
 Сора существует. Здесь и сейчас. Теперь я точно это знаю.
+

@@ -46,7 +46,7 @@ CN PLACEHOLDER
 つぐみ「私がここにいないほうがよかった？」%K%P
 Am I not supposed to be here or something?
 CN PLACEHOLDER
-Или мне не следует здесь быть?
+Меня тут что, вообще быть не должно?
 
 武「そんなことない。そんなことないさ！」%K%P
 No! No, not at all!
@@ -456,7 +456,7 @@ CN PLACEHOLDER
 箱はフタの一部をくり抜かれ、綿が詰めてあり、真ん中に柔らかな窪みが作ってある。%K%P
 A section of the lid had been torn off. The box was filled with cotton, with a soft hollow in the center.
 CN PLACEHOLDER
-В крышке вырезана дыра, а сама коробочка утыкана ватой, а посередине – мягкое углубление.
+В крышке вырезана дыра, а сама коробочка утыкана ватой, посреди которой – мягкое углубление.
 
 小動物の巣みたいな感じだ。%K%P
 It looked like the nest of some small animal.
@@ -641,7 +641,7 @@ CN PLACEHOLDER
 画面の一部が切り替わり、生体反応へとリモートカメラがズームインした。%K%P
 One portion of the screen changed, and the remote camera zoomed in on whatever was reacting.
 CN PLACEHOLDER
-Одно из окон на экране переключилось на вид с удалённой камеры, которая отслеживала биологическую реакцию.
+Одно из окон на экране переключилось на вид с камеры наблюдения, которая отслеживала биологическую реакцию.
 
 モニター映像は、生き物の姿を映し出す。%K%P
 A living creature was visible on the monitor.
@@ -786,7 +786,7 @@ CN PLACEHOLDER
 つぐみ「……そ、そのぐらい、誰だって知ってるわ」%K%P
 ...E-Everybody knows what they're called...
 CN PLACEHOLDER
-..Ну, э-это знаю все.
+...Ну, э-это все знают.
 
 彼女は軽く膨れる。%K%P
 Her chest puffed out slightly.
@@ -806,7 +806,7 @@ CN PLACEHOLDER
 つぐみ「ネズミじゃないって言ったでしょ？」%K%P
 I told you it's not a rat!
 CN PLACEHOLDER
-Я ведь уже сказала, что это не мышь?
+Я же сказала, не крыса это!
 
 武「ああ失敬、ネズミじゃなくて、ハムスター」%K%P
 Oh, sorry, uh, not rat, but hamster.
@@ -846,7 +846,7 @@ CN PLACEHOLDER
 つぐみ「たぶん、どこかのパイプを通って向こうまで行ったんだと思う」%K%P
 He probably traveled through some pipe.
 CN PLACEHOLDER
-Похоже, что он перебрался туда по трубе.
+Похоже, что он перебрался туда по какой-то трубе.
 
 武「パイプ？」%K%P
 Pipe?
@@ -856,7 +856,7 @@ CN PLACEHOLDER
 つぐみ「電気ケーブルが収容されてるパイプとか、細い通気孔とか」%K%P
 The pipes with the electric cables or the power sockets.
 CN PLACEHOLDER
-По трубе, по которой проложены электрические кабели, через узкую вентиляцию и т. д.
+По трубе, в которой проложены электрические кабели или через узкую вентиляцию.
 
 武「なるほどねぇ〜」%K%P
 Oh, I see.
@@ -1027,7 +1027,7 @@ CN PLACEHOLDER
 つぐみ「防水扉を開いたら、６気圧の海水が一気に流入してっ――」%K%P
 If you open those floodgates, you'll be overwhelmed by the seawater—the pressure is six atmospheres!
 CN PLACEHOLDER
-Когда ты откроешь водоупорные двери, тебя затопит водой под давлением в 6 атмосфер!
+Когда ты откроешь водоупорные двери, на тебя хлынет вода под давлением в 6 атмосфер!
 
 武「その心配はない」%K%P
 You don't have to worry about that.
@@ -1757,7 +1757,7 @@ CN PLACEHOLDER
 『ジャンガリアーッ！』と呼ぶよりはマシだろう。%K%P
 It was better than yelling “Djungariaaan!”
 CN PLACEHOLDER
-В любом случае, это лучше, чем кричать «Джунгарик»!
+В любом случае это лучше, чем кричать «Джунгарик»!
 
 つぐみ「武、大丈夫？」%K%P
 Takeshi, are you alright?
@@ -1907,7 +1907,7 @@ CN PLACEHOLDER
 武「できれば段差の高さも教えてくれ。まさか膝をぶつけるとは思わなかった」%K%P
 Can you let me know how high the steps are going to be? I didn't realize I'd be smashing my knee against it.
 CN PLACEHOLDER
-Если не затруднит, скажи, пожалуйста, высоту ступенек. А то я не думал, что ударюсь коленом.
+Если не затруднит, говори, пожалуйста, высоту ступенек. А то я не думал, что ударюсь коленом.
 
 つぐみ「……ごめんなさい」%K%P
 ...I'm sorry.
@@ -2138,7 +2138,7 @@ CN PLACEHOLDER
 つぐみ「ああっ、ずるい。笑わないって言ったのに」%K%P
 Hey! You promised not to laugh!
 CN PLACEHOLDER
-А-а, хватит! Ты же сказал, что не будешь смеяться!
+А-а, перестань! Ты же сказал, что не будешь смеяться!
 
 武「笑ってなんかいないぞ」%K%P
 I'm not laughing!
@@ -2533,7 +2533,7 @@ CN PLACEHOLDER
 呆れ顔で、つぐみはハッチからこちらを覗いていた。%K%P
 With a startled look on her face, Tsugumi peered out of the hatch.
 CN PLACEHOLDER
-Цугуми бросила в меня крайне раздражённый взгляд, выглядывая из люка.
+Цугуми бросила на меня крайне раздражённый взгляд, выглядывая из люка.
 
 それからロープを手繰りつつ立ち上がって、ハッチを閉める。%K%P
 She pulled up the rope as she stood up and closed the hatch.
@@ -2869,3 +2869,4 @@ CN PLACEHOLDER
 Stunned, I listened to her footsteps grow fainter.
 CN PLACEHOLDER
 В потрясении я лишь услышал, как её шаги становятся всё тише и тише.
+

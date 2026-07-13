@@ -4876,7 +4876,7 @@ CN PLACEHOLDER
 武「実は、救助がこっちに向かって来てたんだ」%K%P
 Actually, there's a rescue team on their way.
 CN PLACEHOLDER
-На самом деле, спасатели уже в пути.
+На самом деле спасатели уже в пути.
 
 つぐみ「救助……？」%K%P
 Rescue...?

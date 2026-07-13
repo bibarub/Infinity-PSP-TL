@@ -1576,7 +1576,7 @@ CN PLACEHOLDER
 つぐみ「ああっ、ずるい！　笑わないって言ったのに」%K%P
 Hey! You promised not to laugh!
 CN PLACEHOLDER
-А-а, хватит! Ты же сказал, что не будешь смеяться!
+А-а, перестань! Ты же сказал, что не будешь смеяться!
 
 武「笑ってなんかいないぞ」%K%P
 I'm not laughing!

@@ -661,7 +661,7 @@ CN PLACEHOLDER
 優「ああ、実はさっき救護室に寄って、ちょっと様子を見てきたんだ」%K%P
 Yeah, actually, I just stopped by the infirmary to check on her.
 CN PLACEHOLDER
-Да, на самом деле, я недавно заглядывала в лазарет, чтобы проведать её.
+Да, на самом деле я недавно заглядывала в лазарет, чтобы проведать её.
 
 武「どうだった？」%K%P
 How was she?
