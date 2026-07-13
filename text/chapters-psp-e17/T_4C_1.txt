@@ -136,7 +136,7 @@ CN PLACEHOLDER
 武「今ここで見たことは他言無用。わかったな？」%K%P
 Not a word about what you just saw, okay?
 CN PLACEHOLDER
-То, что ты увидела – секрет. Поняла?
+То, что ты увидела – секрет. Поняла?
 
 空「え、ええ……構いません。承知しました」%K%P
 Y-Yes... Alright. I understand.
@@ -551,7 +551,7 @@ CN PLACEHOLDER
 武「今ここで見たことは他言無用。わかったな？」%K%P
 Not a word about what you just saw, okay?
 CN PLACEHOLDER
-То, что ты увидела – секрет. Поняла?
+То, что ты увидела – секрет. Поняла?
 
 ココ「う、うん。いいけど……？」%K%P
 Um, okay sure, but...
