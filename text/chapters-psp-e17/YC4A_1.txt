@@ -586,7 +586,7 @@ CN PLACEHOLDER
 沙羅「今考えれば、あまりにも幼い妄想だけどね？」%K%P
 Looking back on it now, those were really just childish delusions, huh?
 CN PLACEHOLDER
-Теперь-то я понимаю, что это были всего лишь детские фантазии.
+Теперь-то я понимаю, что это были всего лишь детские заблуждения.
 
 少年「ちょ、ちょっと待ってよ、沙羅」%K%P
 W-Wait a second, Sara.
@@ -1961,7 +1961,7 @@ CN PLACEHOLDER
 だけどその反面、少し寂しいような気もした。%K%P
 But at the same time, I felt a bit lonely.
 CN PLACEHOLDER
-Но в то же время, чувствую себя немножечко одиноко.
+Но в то же время чувствую себя немножечко одиноко.
 
 （パパ、かぁ……）%K%P
 (Daddy, huh...)

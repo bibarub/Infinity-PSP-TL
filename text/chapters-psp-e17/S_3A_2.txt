@@ -1076,7 +1076,7 @@ CN PLACEHOLDER
 優「実はハッキングとは名ばかりで、現役の部員には、まともにプログラミングできる人がいないのだよ」%K%P
 Actually, we just call ourselves a hacking club. None of our current members can really program.
 CN PLACEHOLDER
-На самом деле, мы лишь зовём себя хакерским клубом. Никто из наших членов даже толком кодить не умеет.
+На самом деле мы лишь зовём себя хакерским клубом. Никто из наших членов даже толком кодить не умеет.
 
 部長「デキル人は、みーんな卒業しちゃってね」%K%P
 Everybody that could already graduated.

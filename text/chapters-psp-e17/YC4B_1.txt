@@ -711,7 +711,7 @@ CN PLACEHOLDER
 少年「それはつまり、実際の個体差よりも、名前の方を信頼し、重要視してるってことになるわけで……」%K%P
 Meaning people value, trust, and depend on names more than the actual individual differences...
 CN PLACEHOLDER
-Полагаться на какой-то „ярлык“ и доверять ему больше, чем различиям между индивидуумами...
+Полагаться на какой-то „ярлык“ и доверять ему больше, чем различиям между индивидами...
 
 少年「イルカなら、そうは考えないはずでしょ？」%K%P
 I bet dolphins don't think like that.
@@ -1551,12 +1551,12 @@ CN PLACEHOLDER
 武「へぇ〜、チャーミングだから、チャミかぁ」%K%P
 So, he's Chami. Because he's charming.
 CN PLACEHOLDER
-Значит, ты Чами. Просто лапочка.
+Значит, ты Чами. Какой ты очаровашка.
 
 武「か、かわいらしくって、いい名前だなぁっ！」%K%P
 That's cute. What a good name!
 CN PLACEHOLDER
-Мило. Какое хорошее имя!
+Мило. Какое славное имя!
 
 プリティネーミング。%K%P
 How... cute.
@@ -1566,17 +1566,17 @@ CN PLACEHOLDER
 そう思った。%K%P
 That was what I thought.
 CN PLACEHOLDER
-Даже очень.
+Вот что я подумал.
 
 俺は吹き出しそうになるのを懸命にこらえていた。%K%P
 I did my best to stifle my laughter.
 CN PLACEHOLDER
-Я попытался изо всех сил подавить дикий ржач.
+Я старался изо всех сил сдержать дикий смех.
 
 つぐみ「ああっ、ずるい！　笑わないって言ったのに」%K%P
 Hey! You promised not to laugh!
 CN PLACEHOLDER
-Э-эй! Перестань! Ты же обещал!
+А-а, перестань! Ты же сказал, что не будешь смеяться!
 
 武「笑ってなんかいないぞ」%K%P
 I'm not laughing!
@@ -1596,7 +1596,7 @@ CN PLACEHOLDER
 つぐみ「ああああああああ……」%K%P
 Aaaaaah...!
 CN PLACEHOLDER
-А-а-а-а-а-агр!
+А-а-а-а-а!
 
 つぐみ「もうっ、だから言いたくなかったのに！」%K%P
 That's why I didn't want to tell you!
@@ -1631,12 +1631,12 @@ CN PLACEHOLDER
 生き返るような気分でひと息つきながら、改めてつぐみの横顔を眺めた。%K%P
 I breathed deeply, feeling reborn, as I glanced at Tsugumi's profile.
 CN PLACEHOLDER
-Глядя на лицо Цугуми, я сделал глубокий вдох. И почувствовал, будто заново родился.
+Я перевожу дух. Словно заново родился. Я снова взглянул на Цугуми.
 
 手の平のチャミと戯れながら、頬をほころばせている。%K%P
 She was playing with the hamster in her hand, and her cheeks were bright.
 CN PLACEHOLDER
-Она играет со своим хомячком в руке, а её щёки сияют.
+Она светится, играя с Чами в своей ладошке.
 
 それは、本当に、嬉しそうな……。%K%P
 She looked so happy...
@@ -2711,7 +2711,7 @@ CN PLACEHOLDER
 俺は目をつぶり、大きく息を吸い込み、妄想を振り払った。%K%P
 Shutting my eyes and taking a deep breath, I shake off those delusions.
 CN PLACEHOLDER
-Закрыв глаза, я сделал глубокий вдох и попытался вытряхнуть все плохие мысли из головы.
+Закрыв глаза и глубоко вдохнув, я отгоняю эти заблуждения.
 
 武「なあ、優……？」%K%P
 Hey, You?
@@ -3141,7 +3141,7 @@ CN PLACEHOLDER
 優「だけど、彼女は私自身でもあるの」%K%P
 And at the same time, she is me.
 CN PLACEHOLDER
-И, в то же время, она – это я.
+И в то же время она – это я.
 
 優「彼女と私は……」%K%P
 She and I are...

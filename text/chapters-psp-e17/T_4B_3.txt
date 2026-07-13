@@ -16,7 +16,7 @@ CN PLACEHOLDER
 穴の開けられたエレベーター……。%K%P
 An elevator with a hole blasted in it...
 CN PLACEHOLDER
-С «дырочкой» в правом боку...
+С пробитым корпусом...
 
 アセトンの匂いはもう、辺りに漂ってはいなかった。%K%P
 You couldn't even smell the stench of acetone anymore.
@@ -26,7 +26,7 @@ CN PLACEHOLDER
 俺は気合を入れ直し、通路の先へと歩を進めた。%K%P
 I walked toward the end of the hallway, marshaling my wits.
 CN PLACEHOLDER
-Построив мысли по струнке, я пошёл до конца коридора.
+Я собрался с духом и устремился в коридор.
 
 （おや……？）%K%P
 (What's that...?)
@@ -36,27 +36,27 @@ CN PLACEHOLDER
 停電のときには気づかなかった部屋が、通路の左手にあることがわかった。%K%P
 I realized that there was a room on the left side of the corridor that I hadn't seen during the power outage.
 CN PLACEHOLDER
-До меня дошло, что в левой части коридора есть помещение, которое я не заметил во время поломки генератора.
+Я увидел вход в помещение в левой части коридора, который не заметил во время поломки генератора.
 
 少し覗いてみようと、俺はその中に足を踏み入れた。%K%P
 Thinking to explore a little, I set my foot inside.
 CN PLACEHOLDER
-Решив слегка его обследовать, я шагнул вовнутрь.
+Я зашёл внутрь, чтобы осмотреться.
 
 巨大なクジラが横たわっていた。%K%P
 A huge whale was stretched out.
 CN PLACEHOLDER
-В бескрайнем ночном небе вращаются планеты сферической формы.
+Там лежал гигантский кит.
 
 『コスミッシャー・ヴァル』とエントランスに書いてある……。%K%P
 It said “Cosmic Whale” on the entrance.
 CN PLACEHOLDER
-А между планетами парит огромный гладкокожий кит.
+На входе висит вывеска с названием.
 
 それがこのアトラクションの名前らしい。%K%P
 Apparently, that was the name of the attraction.
 CN PLACEHOLDER
-Что интересно, аттракцион так и называется – Космический кит.
+Что интересно, аттракцион так и называется – «Космический кит».
 
 どのようなアトラクションなのか、パッと見では理解できない。%K%P
 I couldn't tell from a quick glance exactly what the attraction was.
@@ -76,7 +76,7 @@ CN PLACEHOLDER
 どこかに説明がないだろうか……？%K%P
 Was there an explanation written somewhere...?
 CN PLACEHOLDER
-Где тут табличка с описанием?..
+Тут где-нибудь есть табличка с описанием?..
 
 （……いやいや、こんなところで油を売ってる場合じゃない）%K%P
 (...Wait, I don't have time to waste like this.)
@@ -101,32 +101,32 @@ CN PLACEHOLDER
 俺は扉を押し開け、室内へと入った。%K%P
 I pushed open the door and stepped inside.
 CN PLACEHOLDER
-Нажав кнопку дверного замка, я зашёл внутрь.
+Я толкнул дверь и вошёл внутрь.
 
 発電施設は低い唸りをあげながら、順調に稼動しているようだ。%K%P
 The facility was giving off a steady but low hum and seemed to be working fine.
 CN PLACEHOLDER
-Оборудование издаёт стабильный, но низкий гул. Кажется, всё работает нормально.
+Генератор, похоже, работает исправно, издавая лишь гул.
 
 ＬｅＭＵにおいて、電力に関してほとんど心配がいらないことは不幸中の幸いだった。%K%P
 For better or for worse, in LeMU, we didn't have to worry about the electricity.
 CN PLACEHOLDER
-Так или иначе, нам не приходится волноваться, что в LeMU закончится электричество.
+Нам крупно повезло, что в LeMU практически не было проблем с электричеством.
 
 しかしひと回りしてみたが、ここにはつぐみのいた痕跡すら見つからない。%K%P
 I looked around, but there was no trace of Tsugumi.
 CN PLACEHOLDER
-Я огляделся вокруг, но не увидел ни следа Цугуми.
+Я осмотрелся, но Цугуми не было и следа.
 
 発電室を過ぎると、この先の通路は隔壁が固く閉ざされている。%K%P
 Past the generator room, the corridor was completely blocked off by a partition.
 CN PLACEHOLDER
-Пройдя через Генераторную, я упёрся в глухую стену – коридор полностью блокирован.
+Миновав Генераторную, дальше по коридору было не пройти: там было перекрыто.
 
 これを乗り越えて行くことはできない……。%K%P
 It was impossible to go beyond it...
 CN PLACEHOLDER
-Дальше не пройти...
+Обойти никак не выйдет...
 
 残された扉は、右手にある部屋のものだけだ。%K%P
 The only door left was the room on the right.
@@ -146,12 +146,12 @@ CN PLACEHOLDER
 確認したが、このパイプ部屋にはネームプレートがなかった。あえて呼ぶなら、圧力調整室、とでも言うのだろうか。%K%P
 There was no sign on the door, but I supposed it would be called something like a “pressure regulation room” or something.
 CN PLACEHOLDER
-На двери нет таблички, но подозреваю, что она зовётся «комната регуляции давления», или вроде того.
+На двери нет таблички, но подозреваю, что она зовётся «комнатой регуляции давления» или вроде того.
 
 ここからのパイプは、発電室のボイラーやタービンへと続いているはずだ。%K%P
 I assumed that the pipes must have been connected to the boilers and turbines in the generator room.
 CN PLACEHOLDER
-Скорее всего, трубы присоединены к паровым котлам и турбинам в Генераторной.
+Скорее всего, трубы присоединены к бойлерам и турбинам в Генераторной.
 
 そう言えば、ここの修理はつぐみがしたのだ……。%K%P
 Come to think of it, Tsugumi had done the repairs in there...
@@ -161,12 +161,12 @@ CN PLACEHOLDER
 そう、ちょうど、あの辺りに屈んで、工具を広げて、バルブを閉め直して……。%K%P
 I remembered her bending down and using her tools to close off a valve...
 CN PLACEHOLDER
-Помню, как она закрывала вентиль и раскладывала перед собой инструменты...
+Помню, как она вот там присела, разложила инструменты, крутила вентиль...
 
 （え……？）%K%P
 (Huh?)
 CN PLACEHOLDER
-(Э-э?)
+(А?)
 
 つぐみはそこにいた。%K%P
 She was there.
@@ -176,7 +176,7 @@ CN PLACEHOLDER
 あのときと同じように屈み込んでいた。%K%P
 Leaning in just like the time before.
 CN PLACEHOLDER
-В той же позе, что и тогда.
+Присевши точно так же, как и тогда.
 
 工具は持っていない。バルブも閉め直していなかった。%K%P
 She didn't have any tools. She wasn't closing off a valve.
@@ -186,7 +186,7 @@ CN PLACEHOLDER
 その代わり、首を時折傾げながら、配管の向こう側を覗き込むようにしている。%K%P
 Instead, craning her neck, she seemed to be looking over at the other side of the pipes.
 CN PLACEHOLDER
-Вместо этого, вытянув шею, она пытается что-то разглядеть на другой стороне труб.
+Вместо этого она что-то пытается высматривать за трубами, наклоняя голову.
 
 武「よう、つぐみ……」%K%P
 Hey, Tsugumi...
@@ -206,7 +206,7 @@ CN PLACEHOLDER
 いきなりキレてはいけないだろう。%K%P
 It wouldn't do to lose my temper right off the bat.
 CN PLACEHOLDER
-Если я начну пылить прямо сейчас, в этом не будет ничего хорошего.
+Не стоит резко выходить из себя.
 
 振り上げかけた拳を抑える。相手は一応、怪我人だ……。%K%P
 I suppressed the urge to shout. She was injured, after all...
@@ -216,7 +216,7 @@ CN PLACEHOLDER
 事は穏便に。%K%P
 I thought to proceed gently.
 CN PLACEHOLDER
-Я решил уладить всё тихо-мирно.
+Надо уладить всё тихо-мирно.
 
 できればきちんと話をつけたい。%K%P
 I wanted to handle the conversation correctly.
@@ -241,37 +241,37 @@ CN PLACEHOLDER
 つぐみ「……べ、別に」%K%P
 No, not really.
 CN PLACEHOLDER
-В... вовсе нет.
+...В-вовсе нет.
 
 つぐみは、何故か俺を警戒するように一歩下がった。%K%P
 She stepped back as if she was keeping watch over me.
 CN PLACEHOLDER
-Она отступила, не отводя от меня взгляда.
+Цугуми почему-то отступила, словно насторожившись.
 
 動揺の色が見える……。%K%P
 I could tell that she was agitated...
 CN PLACEHOLDER
-%P
+Видно, волнуется...
 
 俺の出現を予測していなかったに違いない。%K%P
 She hadn't expected to see me.
 CN PLACEHOLDER
-Испугалась? Не ожидала меня увидеть?..
+Она точно не ожидала увидеть тут меня.
 
 視線が定まっていない。%K%P
 Her gaze didn't fix on anything...
 CN PLACEHOLDER
-Хотя... секундочку...
+Её взгляд рассеян.
 
 ちらちらと背後のパイプラインを窺っている。%K%P
 Her eyes kept flitting to the pipes behind her.
 CN PLACEHOLDER
-Её взгляд бегает!..
+Но она будто поглядывает на трубы позади меня.
 
 しかし、つぐみの視線……。%K%P
 Her gaze...
 CN PLACEHOLDER
-Она оглядывается на трубы за своей спиной.
+Её взгляд...
 
 気になるな……。%K%P
 It bothered me...
@@ -286,7 +286,7 @@ CN PLACEHOLDER
 つぐみ「……な……ない」%K%P
 ...N-Nothing...
 CN PLACEHOLDER
-Н... ничего...
+...Н-ничего...
 
 つぐみ「なんにもない……」%K%P
 There's nothing behind me.
@@ -326,7 +326,7 @@ CN PLACEHOLDER
 後ろに回られるのを嫌がっているようだった。%K%P
 She didn't want me to go behind her.
 CN PLACEHOLDER
-Не хочет, чтобы я зашёл за неё.
+Не хочет, чтобы я зашёл к ней за спину.
 
 つぐみ「あっ……」%K%P
 Oh...
@@ -391,7 +391,7 @@ CN PLACEHOLDER
 つぐみ「……退いて、邪魔」%K%P
 ...Move. You're in my way.
 CN PLACEHOLDER
-Эй ты... чё встал?..
+...Не мешайся, отойди.
 
 武「お、おい、つぐみ……？」%K%P
 H-Hey, Tsugumi...?
@@ -411,7 +411,7 @@ CN PLACEHOLDER
 武「待てって！」%K%P
 Wait!
 CN PLACEHOLDER
-Погоди!
+Стой!
 
 俺はつぐみの肩に手を置いた。%K%P
 I put my hands on her shoulders.
@@ -436,7 +436,7 @@ CN PLACEHOLDER
 つぐみ「邪魔だって言ったでしょ！」%K%P
 I said you were in my way!
 CN PLACEHOLDER
-Чё встал как столб?!
+Я сказала, отойди!
 
 つぐみ「ほっといてよ！」%K%P
 Leave me alone!
@@ -446,12 +446,12 @@ CN PLACEHOLDER
 つぐみ「どうして私に付きまとうの？」%K%P
 Why are you following me?
 CN PLACEHOLDER
-Какого хрена тебе от меня надо?!
+Чего ты ко мне пристал?
 
 吐き捨てるように、一気に口にした。%K%P
 She spat the words out all at once.
 CN PLACEHOLDER
-Она применила весь свой бранный словарный запас.
+Она прямо стреляет очередью из ругани.
 
 だが俺はひるまずに問い返す。%K%P
 But I didn't let up and fired a question back at her.
@@ -481,7 +481,7 @@ CN PLACEHOLDER
 つぐみ「……そ……」%K%P
 ...What...
 CN PLACEHOLDER
-Чт?..
+Че...
 
 つぐみ「そう言うあなたは、何しに来たのよ？」%K%P
 What are you doing here yourself?
@@ -491,7 +491,7 @@ CN PLACEHOLDER
 つぐみ「人がどこで何してようと勝手じゃない」%K%P
 I'm free to do what I want, where I want.
 CN PLACEHOLDER
-Куда хочу, туда и хожу. Ясно?!
+Куда хочу, туда и хожу.
 
 つぐみは言葉で壁を張ろうとする。%K%P
 She was trying to make a wall of words.
@@ -521,7 +521,7 @@ CN PLACEHOLDER
 つぐみ「……なんで……そんなことするの」%K%P
 Why... would you do that...?
 CN PLACEHOLDER
-Но... зачем ты это сделал?..
+Ну и... зачем ты это сделал...
 
 武「重傷を負った仲間が、突然行方不明になったんだぞ！」%K%P
 Because my injured friend suddenly went missing, that's why!
@@ -576,22 +576,22 @@ CN PLACEHOLDER
 つぐみ「頼んだ覚えもなければ、謂れもないわ」%K%P
 I didn't ask you to come, and there's no reason for you to be here.
 CN PLACEHOLDER
-Я не просила, чтобы ты шёл за мной. Совсем.
+Я не просила, в этом нет никакого смысла.
 
 つぐみ「私は他のみんなとは違うの」%K%P
 I'm not like the others.
 CN PLACEHOLDER
-Я не как все остальные!
+Я не такая, как все вы.
 
 つぐみ「勝手に仲間扱いしないでくれる？」%K%P
 So don't treat me like one of your gang.
 CN PLACEHOLDER
-Не веди себя так, словно мы друзья!
+Может, хватит вести себя так, словно мы друзья?
 
 武「つぐみっ！！　いい加減にしろっ！！」%K%P
 Tsugumi! Cut it out!
 CN PLACEHOLDER
-Цугуми! Заткнись!
+Цугуми! Прекрати!
 
 俺はぶち切れた。%K%P
 I snapped.
@@ -626,22 +626,22 @@ CN PLACEHOLDER
 武「ちっ……」%K%P
 Agh...
 CN PLACEHOLDER
-Грр...
+Чёрт...
 
 武「ああ、そうかよ！」%K%P
 Alright, I get it!
 CN PLACEHOLDER
-Всё ясно!
+Ладно, я понял!
 
 武「ほんとにワガママなやっちゃな、お前はっ……！」%K%P
 You're so unbelievably selfish...!
 CN PLACEHOLDER
-Что за эгоистичная натура!..
+Ты просто эгоистка!..
 
 拳を振り上げる真似でもしてやろうかと思ったが、やめた。%K%P
 I thought about pretending to raise my fist, but didn't do it.
 CN PLACEHOLDER
-Я хотел было притвориться, будто собираюсь ударить её кулаком, но не стал.
+Я хотел было сделать вид, что собираюсь ударить её, но остановился.
 
 つぐみ「…………」%K%P
 .........
@@ -656,17 +656,17 @@ CN PLACEHOLDER
 武「ったく……」%K%P
 Agh...
 CN PLACEHOLDER
-Грр...
+Чёрт...
 
 武「俺だってなぁ、お前みたいな奴を仲間だとは思いたくねぇよ」%K%P
 Believe me, I don't want to be friends with someone like you.
 CN PLACEHOLDER
-Хочешь верь, хочешь нет – меньше всего на свете я хотел бы иметь такого друга, как ТЫ.
+Меньше всего на свете я хотел бы иметь такого друга, как ты.
 
 武「でもなぁ、しょうがないだろ？」%K%P
 But we don't have a choice.
 CN PLACEHOLDER
-Вот только выбора у нас нет.
+Но что нам остаётся?
 
 武「俺達は一刻も早く、脱出したいんだよ！」%K%P
 We all want to get out of here!
@@ -676,17 +676,17 @@ CN PLACEHOLDER
 武「つぐみだって、早くここから脱出したいだろ？」%K%P
 Don't you want to get out of here as soon as possible?
 CN PLACEHOLDER
-Неужели ты не хочешь как можно скорее попасть на свежий воздух?!
+Цугуми, ты что, не хочешь поскорее выбраться отсюда?
 
 武「一応同じ船に乗り合わせちまった以上は仲間なんだよ」%K%P
 As long as we're in the same boat, we're friends.
 CN PLACEHOLDER
-У нас одна и та же цель, мы все в одной лодке, а значит мы – друзья.
+Мы все в одной лодке, а значит, мы – друзья.
 
 武「日本では、共通の目的を持った者同士のことを仲間って呼ぶんだよ……」%K%P
 In Japan, people with the same goal are called friends...
 CN PLACEHOLDER
-По крайней мере, так говорят в Японии...
+По крайней мере так в Японии называют людей с общей целью...
 
 つぐみ「仲間！？」%K%P
 Friends!?
@@ -701,12 +701,12 @@ CN PLACEHOLDER
 つぐみ「また、そう。あなたは……そんなことを言ってばかり」%K%P
 There you go again, just saying that.
 CN PLACEHOLDER
-Опять ты за своё... всё никак не заткнёшься.
+Опять ты за своё... Всё никак не успокоишься.
 
 つぐみ「そういう馴れ馴れしい偽善的な関係、吐き気がするの」%K%P
 That kind of tired, hypocritical crap makes me sick.
 CN PLACEHOLDER
-Я устала от этих бредней... Мне уже тошно.
+Меня просто тошнит от этого фамильярства и лицемерия.
 
 武「…………」%K%P
 .........
@@ -726,7 +726,7 @@ CN PLACEHOLDER
 つぐみ「それからもうひとつ」%K%P
 And one more thing.
 CN PLACEHOLDER
-Да, кстати...
+И ещё кое-что.
 
 つぐみ「あなた、昨日私が言ったこと、聞いてなかったの？」%K%P
 Weren't you listening to me yesterday?
@@ -781,27 +781,27 @@ CN PLACEHOLDER
 つぐみ「……退いて」%K%P
 ...Move.
 CN PLACEHOLDER
-Пусти.
+...Отойди.
 
 俺は道を空けた。%K%P
 I moved aside.
 CN PLACEHOLDER
-Я отошёл.
+Я сдвинулся в сторону.
 
 つぐみは俺に一瞥をくれると、左足を引きずりながら扉へと向かう。%K%P
 Giving me a glance, she moved toward the door dragging her foot.
 CN PLACEHOLDER
-Мельком взглянув на меня, она пошла к двери, волоча ногу.
+Мельком взглянув на меня, она пошла к двери, волоча левую ногу.
 
 まだ、ぎこちないその動きで……。%K%P
 She was moving awkwardly...
 CN PLACEHOLDER
-Она идёт неловко...
+Она идёт неуклюже...
 
 左足を、未だ引きずっていながら……。%K%P
 Still dragging her left foot...
 CN PLACEHOLDER
-...волоча левую ногу...
+Всё ещё волоча левую ногу...
 
 左足を……。%K%P
 Left foot...
@@ -816,7 +816,7 @@ CN PLACEHOLDER
 ひだりあしだって！？%K%P
 Did I say LEFT foot!?
 CN PLACEHOLDER
-Я сказал «ЛЕВУЮ НОГУ»?!
+ЛЕВАЯ НОГА?!
 
 武「お、おいおいおいおい！　ちょっと待てえっ！！」%K%P
 Whoah, whoah, whoah! Wait a second!
@@ -831,7 +831,7 @@ CN PLACEHOLDER
 つぐみ「なによ！　話しかけないでって言ったでしょ！」%K%P
 What!? I said don't talk to me!
 CN PLACEHOLDER
-Что?! Что ещё тебе от меня надо?!
+Что?! Я уже сказала оставить меня в покое!
 
 勢いよく彼女は振り向く。%K%P
 She turned around forcefully.
@@ -876,17 +876,17 @@ CN PLACEHOLDER
 つぐみの表情が強張るのがわかった。%K%P
 Her face stiffened.
 CN PLACEHOLDER
-Её лицо окоченело.
+На лице Цугуме возникло напряжение.
 
 目を逸らす。%K%P
 Her eyes flicked away.
 CN PLACEHOLDER
-В глазах отразилась растерянность.
+Она отвела взгляд.
 
 視線をうつむけている。%K%P
 She averted her gaze.
 CN PLACEHOLDER
-Она отвернулась.
+Уставилась в пол.
 
 そのまま、立ち尽くしている。%K%P
 She stood rock still.
@@ -896,27 +896,27 @@ CN PLACEHOLDER
 これは……。%K%P
 What was...
 CN PLACEHOLDER
-Что за...
+Какого... %T060
 
 どういうことだ……。%K%P
 ...Going on?
 CN PLACEHOLDER
-...чертовщина?
+хрена?
 
 武「ちょっと、見せてみろよ」%K%P
 Let me see.
 CN PLACEHOLDER
-А ну-ка дай взглянуть...
+А ну-ка дай взглянуть.
 
 俺はすかさず、つぐみのスカートの裾に手をかけた。%K%P
 I grabbed the hem of her skirt.
 CN PLACEHOLDER
-Я схватил кайму её юбки.
+Я тут же протянул руку и схватил Цугуми за подол юбки.
 
 そしてその手をためらうことなく高く持ち上げ、スカートを捲り――%K%P
 And without hesitating, yanked it up—
 CN PLACEHOLDER
-И не колеблясь задрал её.
+И не колеблясь задрал его.
 
 つぐみ「！！」%K%P
 !
@@ -926,7 +926,7 @@ CN PLACEHOLDER
 ――パシンッ！%K%P
 —Whack!
 CN PLACEHOLDER
-Шмяк!
+– Шмяк!
 
 直後、強烈な平手打ち……。%K%P
 An immediate, brutal slap...
@@ -946,12 +946,12 @@ CN PLACEHOLDER
 遠ざかるのは足音。そして影。通路の向こうへと、それは消えていく。%K%P
 The sound of her footfalls grew faint. As did her shadow, disappearing down the hallway.
 CN PLACEHOLDER
-Эхо её шагов постепенно ослабло. Секундой позже она скрылась в дальнем коридоре.
+Эхо её шагов постепенно стихло, а силуэт растворился во тьме, скрывшись вдали.
 
 そこに残るのは、呆然とする俺。%K%P
 What was left was me, stunned.
 CN PLACEHOLDER
-Я остался в одиночестве и в глубоком шоке.
+Я остался в одиночестве, ошеломлённый.
 
 頬をしたたかに打たれた。%K%P
 She had hammered my cheek.
@@ -971,17 +971,17 @@ CN PLACEHOLDER
 脳が揺らぐほどの強打だった。%K%P
 She hit me so hard my brain rattled.
 CN PLACEHOLDER
-Она ударила меня так сильно, что мозг до сих пор дребезжит.
+Её удар был настолько сильным, что в голове до сих пор звенит. 
 
 だが、その痛みさえ感じなかった……。%K%P
 But I didn't feel any pain...
 CN PLACEHOLDER
-Правда... боли не чувствую. Наверное, от шока...
+Но боли совсем не чувствую...
 
 （右大腿骨複雑骨折）%K%P
 (Complex fracture of the right femur.)
 CN PLACEHOLDER
-(Перелом правой бедренной кости.)
+(Открытый перелом правой бедренной кости.)
 
 （４０針を縫う大怪我――）%K%P
 (Injuries requiring 40 stitches—)
@@ -991,7 +991,7 @@ CN PLACEHOLDER
 （それがたった１日で、走れるように……？？？）%K%P
 (And she could run a day later...?)
 CN PLACEHOLDER
-(И на следующий день она уже бегает???)
+(А на следующий день она уже бегает???)
 
 空「おかえりなさい、倉成さん」%K%P
 Welcome back, Kuranari-san.
@@ -1006,7 +1006,7 @@ CN PLACEHOLDER
 武「やぁ、ただいま……」%K%P
 Thanks.
 CN PLACEHOLDER
-Спасибо.
+А вот и я...
 
 空「倉成さん……顔、ちょっと腫れてます……」%K%P
 Kuranari-san... your face is swollen...
@@ -1016,17 +1016,17 @@ CN PLACEHOLDER
 武「ああ、知ってる」%K%P
 Yeah, I know.
 CN PLACEHOLDER
-Да так, слегка опухло.
+Ага, знаю.
 
 救護室に寄り、空に解熱用の冷却シートを用意してもらった。%K%P
 Sora readied a compress for me back in the infirmary.
 CN PLACEHOLDER
-Сора сделала для меня компресс, когда мы пришли в лазарет.
+Вернувшись в лазарет, я попросил Сору подготовить мне компресс.
 
 それを持って部屋を出る。%K%P
 I left the room holding it.
 CN PLACEHOLDER
-Приложив его, я вышел из комнаты.
+Приложив его, я вышел оттуда.
 
 空「小町さんはもうしばらくしたら、このフロアに戻って来ます」%K%P
 It seems that Komachi-san will come back to this floor in a little while.
@@ -1041,17 +1041,17 @@ CN PLACEHOLDER
 空「もし彼女を見つけても、あまり責めたり怒ったりしないであげてください」%K%P
 But if we do find her, try not to get mad or yell at her.
 CN PLACEHOLDER
-Но если мы на неё наткнёмся, постарайся не срываться на неё и не кричать.
+Но если мы на неё наткнёмся, постарайся не винить её и не злись слишком сильно.
 
 武「えっ？」%K%P
 Huh?
 CN PLACEHOLDER
-Э-э?
+А?
 
 空「少しの間、彼女の思う通りにさせておいてあげたほうが、いいと思うんです」%K%P
 For a little while, I think it is best if we let her do as she wants.
 CN PLACEHOLDER
-Думаю, пока лучше оставить её в покое. Пусть делает всё что захочет.
+Думаю, лучше некоторое время позволить ей делать, как она хочет.
 
 武「そんな……どうして？」%K%P
 But... why?
@@ -1071,42 +1071,42 @@ CN PLACEHOLDER
 空「今の小町さんは、相当ナーバスになっているんじゃないでしょうか？」%K%P
 Don't you think she might be quite nervous right now?
 CN PLACEHOLDER
-Сейчас нервы Комати-сан серьёзно расшатаны, понимаешь?
+Тебе не кажется, что Комати-сан сейчас очень переживает?
 
 空「彼女には何か、思うところがあって……」%K%P
 She's thinking about things...
 CN PLACEHOLDER
-Ей нужно столькое обдумать и понять...
+Её голова забита мыслями...
 
 空「いろいろ、胸のうちで考えていることがあって……」%K%P
 She's pondering all sorts of things in her heart...
 CN PLACEHOLDER
-Она пытается взвесить все „за“ и „против“...
+Мыслями, что она несёт в себе...
 
 空「今は、誰の言葉も耳に入らない……」%K%P
 Everyone's words will fall on deaf ears...
 CN PLACEHOLDER
-Наши слова для неё – как об стену горох...
+До неё сейчас никак не достучаться...
 
 空「今はまだ、素直に聞くことができないんですよ。きっと……」%K%P
 She's not able yet to just listen. Of course...
 CN PLACEHOLDER
-Сейчас она просто не способна слушать кого бы то ни было.
+Она просто не готова воспринимать чьи-то слова... Наверное...
 
 空「怪我のことは勿論気がかりですが、しばらく、そっとしておいてあげましょう」%K%P
 You're worried about her injuries, but for a little while, let's leave her alone.
 CN PLACEHOLDER
-Я знаю, ты беспокоишься о её травме. Но, пока что, пускай побудет одна.
+Рана, конечно, вызывает беспокойство, но давай пока не будем её трогать.
 
 空「もし彼女の身に危険があれば、皆さんにすぐお知らせします」%K%P
 If she is in any serious danger, I will let you know right away.
 CN PLACEHOLDER
-Если Комати-сан будет грозить опасность, я сообщу тебе в ту же секунду.
+Если Комати-сан будет грозить опасность, я сразу же всем сообщу.
 
 空「ですから、あと少しの間だけ……お願いします、倉成さん」%K%P
 So for just a little while... Please, Kuranari-san.
 CN PLACEHOLDER
-Правда, это временно... прошу тебя... Куранари-сан.
+Поэтому, Куранари-сан... пожалуйста, потерпи немного.
 
 武「あ、ああ……わかった」%K%P
 Ah... Alright.
@@ -1116,7 +1116,7 @@ CN PLACEHOLDER
 真摯な空の言葉に、俺は頷くしかなかった。%K%P
 I nodded my assent to Sora's earnest request.
 CN PLACEHOLDER
-Я кивнул, приняв серьёзную просьбу Соры.
+Я мог лишь кивнуть на искренние слова Соры.
 
 ドリットシュトックへの階段を、ゆっくりと下りていく。%K%P
 I went slowly down the stairs of Dritter Stock.
@@ -1131,7 +1131,7 @@ CN PLACEHOLDER
 空「小町さんがここにいるのは、偶然ではない気がします」%K%P
 I don't think it is an accident that she came to be here.
 CN PLACEHOLDER
-Я не думаю, что Комати-сан оказалась здесь случайно.
+Мне кажется, что присутствие Комати-сан здесь не случайно.
 
 空は俺のすぐ横に並びながら、話を続けていた。%K%P
 Sora continued speaking right next to me.
@@ -1141,17 +1141,17 @@ CN PLACEHOLDER
 武「偶然じゃない？」%K%P
 Not an accident?
 CN PLACEHOLDER
-То есть?
+Не случайно?
 
 空「詳しいことは、私にはわかりません」%K%P
 I do not know the details.
 CN PLACEHOLDER
-Точно не могу сказать.
+Подробностей я не знаю.
 
 空「私は今まで、彼女のような事例に出会ったことがないんです。データがありません……」%K%P
 This is the first time for me to encounter a case like hers. I don't have any data for this...
 CN PLACEHOLDER
-Я впервые сталкиваюсь с её случаем. У меня нет данных о том, как поступить в такой ситуации...
+До сих пор я не встречала подобных случаев. Данных, на которые я бы могла опираться, нет...
 
 空「ですが、小町さんは確かに、何かしらの事情をお持ちのような気がするんです」%K%P
 But it seems to me that she has her reasons.
@@ -1171,7 +1171,7 @@ CN PLACEHOLDER
 空「彼女が足の怪我をおしてでも、行動しなければならないほどの理由……」%K%P
 Something that compelled her to act even if it made her injuries worse...
 CN PLACEHOLDER
-Нечто, что принуждает её действовать, даже если в конечном итоге ей станет хуже...
+Нечто, ради чего она вынуждена действовать, превозмогая боль в раненой ноге...
 
 空「それを感じるんです」%K%P
 That's what I feel.
@@ -1196,17 +1196,17 @@ CN PLACEHOLDER
 空「だから、あまり踏み込んではいけない。本人に話す気がないのなら、踏み込むべきではない、って……」%K%P
 That we shouldn't probe. That until she wants to tell us, we shouldn't press for information...
 CN PLACEHOLDER
-Что нам не стоит её тыкать. Что, пока она сама не захочет нам рассказать, мы не должны тянуть всё из неё клещами...
+Поэтому не стоит слишком вмешиваться. Если она сама не хочет говорить – не стоит её допытывать...
 
 武「そっか……」%K%P
 I see...
 CN PLACEHOLDER
-Понимаю...
+Ясно...
 
 もしかすると、俺はつぐみの領域に近づき過ぎたのだろうか。%K%P
 Maybe I had gotten a little too close to her boundaries.
 CN PLACEHOLDER
-Наверное, я вторгся слишком глубоко в личное пространство Цугуми.
+Наверное, я слишком сильно вторгся в личное пространство Цугуми.
 
 立ち入られたくない領域。%K%P
 Boundaries she didn't want invaded.
@@ -1221,15 +1221,15 @@ CN PLACEHOLDER
 だから警戒され、嫌がられ、あげく殴られた……？%K%P
 Was that why I was warned, harassed, and pummeled...?
 CN PLACEHOLDER
-Вот почему на меня сыпались предупреждения, раздражение и пощёчины?..
+Из-за этого она относилась ко мне так настороженно, с раздражением, в итоге ударив?..
 
 そう考えれば、自然に納得のいくところがあった。%K%P
 If I thought about it that way, it made more sense.
 CN PLACEHOLDER
-Если подумать в таком ключе, это многое объясняет.
+Если подумать, то всё теперь встаёт на свои места.
 
 武「まぁ……そうだな。ちっとは俺も、自重するかな……」%K%P
 Well... Maybe so. Maybe I came down too hard...
 CN PLACEHOLDER
-Ну... наверное, так. Должно быть я правда зашёл слишком далеко...
+Ну... да. Наверное, мне стоит сбавить обороты...
 

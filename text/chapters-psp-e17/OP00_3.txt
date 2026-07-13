@@ -1226,7 +1226,7 @@ CN PLACEHOLDER
 タヌキじゃなくてキツネザルのみゅみゅーんだ、とさっき教わったばかりだが、彼の頭にはもうなかった。%K%P
 Though he had just been told that it was not, in fact, a tanuki, but Myumyun the lemur, that information had already left his mind.
 CN PLACEHOLDER
-Ещё недавно ему объяснили, что это не тануки, а Мюмюн или лисоподобная обезьяна, но, по вполне объективным причинам, ему сейчас не до имён.
+Ещё недавно ему объяснили, что это не тануки, а Мюмюн или лисоподобная обезьяна, но по вполне объективным причинам ему сейчас не до имён.
 
 タヌキじゃなくてみゅみゅーんだ、とさっき聞いたばかりだが、彼の頭にはもうなかった。%K%P
 Though he had just been told that it was not, in-fact, a tanuki, but a “Myumyun” (whatever that was), that information had already left his mind.
@@ -1236,7 +1236,7 @@ CN PLACEHOLDER
 （名前は忘れたが――）%K%P
 (I forgot its name...)
 CN PLACEHOLDER
-(Я забыл, как звали этого...)
+(Не помню, как он там назывался...)
 
 （とにかく、あれが俺を殴り逃げたヤツだ）%K%P
 (But it doesn't matter! That's the guy who slugged me and ran!)

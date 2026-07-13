@@ -796,7 +796,7 @@ CN PLACEHOLDER
 空「私は、ここにいると同時にあそこにもいる」%K%P
 I am here, and I am also elsewhere at the same time.
 CN PLACEHOLDER
-Я здесь, и, в то же время, везде.
+Я здесь и в то же время везде.
 
 空「ここにいる私が消えたとしても、あそこにいる私は存在し続けるのです」%K%P
 Even if the 'me' here disappears, the 'me' there will still go on existing.
