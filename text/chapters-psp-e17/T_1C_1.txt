@@ -2144,7 +2144,7 @@ CN PLACEHOLDER
 There was a pushcart, boxes too big to carry, and a few long, narrow ones that a person could manage to hold.
 CN PLACEHOLDER
 Коробки совершенно разные: есть огромные, для перевозки которых непременно нужна тележка, а есть поменьше, но довольно длинные, что можно кое-как унести вручную.
-//Неподалёку стоит подъёмник, несколько неподъёмных коробок и парочка штук поменьше, которые можно легко унести.
+// dsp2003: Неподалёку стоит подъёмник, несколько неподъёмных коробок и парочка штук поменьше, которые можно легко унести.
 
 そこにはいろいろな記号や文字が書き込まれているが、その意味は理解できなかった。%K%P
 There were all kinds of marks, symbols, and letters on the boxes, and I couldn't make sense of them.

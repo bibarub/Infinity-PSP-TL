@@ -676,8 +676,7 @@ CN PLACEHOLDER
 ？？「お前だろ、俺を殴ったのは！」%V%P
 You... You hit me!
 CN PLACEHOLDER
-Это был ты... Ты ударил меня!
-// надо синхр с OP00_3
+Ты меня ударил!
 
 ――そうだ！　――思い出した！%K%P
 That's right! I remember!
@@ -1424,7 +1423,6 @@ CN PLACEHOLDER
 The corridor stretched in a gentle arc so that the far end was not visible.
 CN PLACEHOLDER
 Коридор плавно изгибается, из-за чего не видно его конца.
-// "растянут в арку"? переписать бы --bibarub
 
 過ぎ去って行く景色は単調な連続を繰り返し、ぼくはぐるぐると同じところをまわっているような錯覚を覚えた。%K%P
 The scenery was repetitive, and I began to have delusions that I was running in place.
@@ -1572,9 +1570,6 @@ CN PLACEHOLDER
 A sound arose as if from inside the earth, echoing heavily from somewhere.
 CN PLACEHOLDER
 Неизвестно откуда донёсся тяжёлый гул, словно поднимавшийся из самых недр земли.
-// глухой гул
-// будто из недр – неизвестно откуда
-// переписать --bibarub
 
 ぼくと優は力をゆるめ、顔を見合わせた。%K%P
 You and I relaxed our grips and looked at each other.
@@ -1635,7 +1630,6 @@ CN PLACEHOLDER
 The vibration gradually increased in intensity.
 CN PLACEHOLDER
 Вибрация всё нарастала.
-// геом. прогрессия тут уместна? --bibarub
 
 キリキリと鉄のきしむ音が鼓膜を突き刺す。%K%P
 The squeaking sound of steel against steel shocked our ears.
@@ -1766,13 +1760,11 @@ CN PLACEHOLDER
 There was no doubt!
 CN PLACEHOLDER
 Ну точно!
-// мне кажется, тут нужно что-то более разговорное --bibarub
 
 それは大量の水の塊……。%K%P
 It was a rushing behemoth of water...
 CN PLACEHOLDER
 То была огромная масса воды.
-// сравнение с бегемотом, конечно, веселое, но оставлять ли его? --bibarub
 
 ――たぎり立つ怒濤の群れだった！%K%P
 A massive froth of waves!
@@ -1823,7 +1815,6 @@ CN PLACEHOLDER
 Something beyond fear or terror had made our minds go completely blank.
 CN PLACEHOLDER
 Это превосходило всякий страх. В голове стало совершенно пусто.
-// мне все равно не сильно нравится --bibarub
 
 何も考えることができない。%K%P
 We couldn't even think.
@@ -2031,7 +2022,6 @@ CN PLACEHOLDER
 You was heavy like a stone.
 CN PLACEHOLDER
 Тело Ю оказалось тяжёлым, словно булыжник.
-// в япе камень
 
 水が両足に絡みついて、思うように進むことができない。%K%P
 Water pooled around both my legs, so I couldn't move forward as fast as I wanted.

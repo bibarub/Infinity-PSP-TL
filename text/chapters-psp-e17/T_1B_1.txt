@@ -247,7 +247,7 @@ CN PLACEHOLDER
 That was about the same as saying that everywhere else was dangerous.
 CN PLACEHOLDER
 То есть в остальных местах – опасно?..
-//Почему я чувствую себя так, словно сел на пороховую бочку и закурил?
+// dsp2003: Почему я чувствую себя так, словно сел на пороховую бочку и закурил?
 
 俺達は振り向き、今流されてきた通路を逆に進み始める。%K%P
 We turned around and started heading back the corridor we'd been washed down.
@@ -3863,7 +3863,7 @@ CN PLACEHOLDER
 You act like you're taking this seriously, but there's really nothing going on in that head of yours, is there?
 CN PLACEHOLDER
 Вы все из себя такие серьёзные, но на деле ничего умного в голову не приходит?
-//Вы ведёте себя будто трезво мыслящие, но ведь на самом деле никому ничего путного в голову не приходит?
+// dsp2003: Вы ведёте себя будто трезво мыслящие, но ведь на самом деле никому ничего путного в голову не приходит?
 
 武「何っ！　そんなことはないぞ！」%K%P
 What?! That's not true!

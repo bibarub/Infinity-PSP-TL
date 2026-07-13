@@ -1301,7 +1301,7 @@ CN PLACEHOLDER
 武「お前だろ、俺を殴ったのは！」%K%P
 You slugged me!
 CN PLACEHOLDER
-Ты ударил меня, вот о чём!
+Ты меня ударил!
 
 少年「違うよ違う、知らない……」%K%P
 No, I didn't! I swear, I don't know what you're talking about!
