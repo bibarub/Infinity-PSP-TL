@@ -21,7 +21,7 @@ CN PLACEHOLDER
 入室一番、俺は陽気におどけて、声をかけてみた。%K%P
 Entering first, I mustered a cheerful voice.
 CN PLACEHOLDER
-Едва войдя в лазарет, я с задором в голосе обратился нашей больной.
+Едва войдя в лазарет, я с задором в голосе обратился к нашей больной.
 
 武「おーい、つぐみやーい！」%K%P
 Hey, Tsugumi!
