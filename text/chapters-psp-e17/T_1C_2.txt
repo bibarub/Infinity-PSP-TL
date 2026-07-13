@@ -886,7 +886,7 @@ CN PLACEHOLDER
 空「ドリットシュトック第６区画、資材置き場付近から浸水中」%K%P
 Water has penetrated the material storage space in Sector Six of Dritter Stock.
 CN PLACEHOLDER
-В секторе 6 на Дритте Шток на склад материалов проникла вода.
+В секторе 6 на Дритте Шток проникла вода на склад материалов.
 
 武「浸水中だって！？　さっきの見回りではそんな兆候は――」%K%P
 It's flooding? I didn't see any signs of that when I made the rounds...
