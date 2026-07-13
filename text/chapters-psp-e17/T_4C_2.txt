@@ -856,7 +856,7 @@ CN PLACEHOLDER
 つぐみ「電気ケーブルが収容されてるパイプとか、細い通気孔とか」%K%P
 The pipes with the electric cables or the power sockets.
 CN PLACEHOLDER
-По трубе, в которой проложены электрические кабели или через узкую вентиляцию.
+По трубе, в которой проложены электрические кабели, или через узкую вентиляцию.
 
 武「なるほどねぇ〜」%K%P
 Oh, I see.
@@ -1757,7 +1757,7 @@ CN PLACEHOLDER
 『ジャンガリアーッ！』と呼ぶよりはマシだろう。%K%P
 It was better than yelling “Djungariaaan!”
 CN PLACEHOLDER
-В любом случае это лучше, чем кричать «Джунгарик»!
+В любом случае это лучше, чем кричать «Джунгарик!»
 
 つぐみ「武、大丈夫？」%K%P
 Takeshi, are you alright?
