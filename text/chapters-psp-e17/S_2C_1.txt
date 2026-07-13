@@ -1001,7 +1001,7 @@ CN PLACEHOLDER
 空「正式名称は『ＬＭ−ＲＳＤＳ−４９１３Ａ』と申します」%K%P
 My official name is 'LM-RSDS-4913A'.
 CN PLACEHOLDER
-Моё официальное имя – "LM – RSDS – 4913A".
+Моё официальное имя – „LM – RSDS – 4913A“.
 
 空「このＬｅＭＵの案内係を仰せつかっている人工知能――いわゆるＡＩプログラムです」%K%P
 I am an artificial intelligence, or AI, program in charge of guiding visitors around LeMU.

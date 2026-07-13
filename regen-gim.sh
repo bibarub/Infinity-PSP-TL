@@ -28,16 +28,18 @@ if  [ -z "$GIMCONV" ]; then
 	fi
 fi
 
-for i in assets/bg-*-*/*.PNG assets/ev-*-*/*.PNG; do
+cd assets
+
+for i in bg-*-*/*.PNG assets/ev-*-*/*.PNG; do
 	[ -e "$i" ] || continue
-	check_replace "$i" && (./py-src/thumbhelper.py "$i" || exit 1)
+	check_replace "$i" && (../py-src/thumbhelper.py "$i" || exit 1)
 done
-for i in assets/etc-*-*/*/*.PNG assets/etc-*-*/*.PNG; do
+for i in etc-*-*/*/*.PNG assets/etc-*-*/*.PNG; do
 	[ -e "$i" ] || continue
 	check_replace "$i" && ($GIMCONV "$i" -o "$(basename "$i" .PNG).GIM" || exit 1)
 done
 
-for i in assets/nowloading/*.png; do
+for i in nowloading/*.png; do
 	[ -e "$i" ] || continue
 	check_replace "$i" && ($GIMCONV "$i" -N -o "$(basename "$i" .png).gim" || exit 1)
 done

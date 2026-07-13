@@ -1697,7 +1697,7 @@ CN PLACEHOLDER
 Не уверена. В данный момент я изучаю этот вопрос.
 
 歩きながら『調査中』も何もないだろう……。%K%P
-(Investigating? Does wanderin 'round aimlessly like this really count as "investigating"?)
+(Investigating? Does wanderin 'round aimlessly like this really count as “investigating”?)
 CN PLACEHOLDER
 «Изучаю»? Что она может изучать, пока мы ходим по коридорам?..
 
@@ -4458,8 +4458,7 @@ CN PLACEHOLDER
 少年「もしも、あの表示が本当は『７』だとしたら……」%K%P
 If the number really is supposed to be 'seven'...
 CN PLACEHOLDER
-;Мальчик«Если число действительно должно быть "7"...»%K%P
-//;Мальчик«Если число действительно должно быть „7“...»%K%P
+;Мальчик«Если число действительно должно быть „7“...»%K%P
 
 優「そういうことになるね」%K%P
 That's what it would mean, yeah.

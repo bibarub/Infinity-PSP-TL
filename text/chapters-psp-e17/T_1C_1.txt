@@ -975,8 +975,7 @@ CN PLACEHOLDER
 少年「閉じ込められたって、どういうことなの？」%K%P
 What do you mean 'trapped'?
 CN PLACEHOLDER
-;Мальчик«Что ты имеешь в виду, говоря "в западне"?»%K%P
-//;Мальчик«Что ты имеешь в виду, говоря „в западне“?»%K%P
+;Мальчик«Что ты имеешь в виду, говоря „в западне“?»%K%P
 
 武「さあな。こっちが訊きたいぐらいだ」%K%P
 That's something I would like answered myself.

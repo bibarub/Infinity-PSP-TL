@@ -3188,8 +3188,7 @@ CN PLACEHOLDER
 少年「呪文って……チチンプイプイとか、そういうやつ？」%K%P
 Spell... You mean like 'open sesame'? That kinda spell?
 CN PLACEHOLDER
-;Мальчик«Заклинание... вроде "Сезам, откройся"?»%K%P
-//;Мальчик«Заклинание... вроде „Сезам, откройся“?»%K%P
+;Мальчик«Заклинание... вроде „Сезам, откройся“?»%K%P
 
 優「またそうやって真に受ける……」%K%P
 There you go, taking me seriously...
@@ -3339,8 +3338,7 @@ LeMMIH обнаружил течь и задраил опасные участк
 少年「あのぉ……『レミ』って何でしょうか？」%K%P
 Uh... What's 'LeMMIH'?
 CN PLACEHOLDER
-;Мальчик«Э-э... что ещё за "LeMMIH"?»%K%P
-//;Мальчик«Э-э... что ещё за „LeMMIH“?»%K%P
+;Мальчик«Э-э... что ещё за „LeMMIH“?»%K%P
 
 優「このＬｅＭＵ内のすべての電子的システムを、統括・管理しているメインコンピューター……その略称みたいなもんね」%K%P
 That's what we call the main computer that supervises and manages all of the electronic systems in LeMU.

@@ -1721,7 +1721,7 @@ CN PLACEHOLDER
 生まれた子供が『キュレイ種』となる為には……%K%O
 “For them rugrats to become full-blooded 'Curé'...”
 CN PLACEHOLDER
-«Поэтому для рождения ребёнка подвида "Curé"...»
+«Поэтому для рождения ребёнка подвида „Curé“...»
 
 『キュレイ種×キュレイ種』『サピエンスキュレイ種×キュレイ種』『サピエンスキュレイ種×サピエンスキュレイ種』……%K%N
 “...The parents would have be 'Curé x Curé', 'Sapiens Curé x Curé', or 'Sapiens Curé x Sapiens Curé'...”

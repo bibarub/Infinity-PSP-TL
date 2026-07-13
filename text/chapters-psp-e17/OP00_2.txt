@@ -356,8 +356,7 @@ CN PLACEHOLDER
 少年「Ｙ・Ｏ・Ｕ……？」%K%P
 <Y-O-U>...?
 CN PLACEHOLDER
-;Мальчик«"Y-O-U"?..»%K%P
-//;Мальчик«„Y-O-U“?..»%K%P
+;Мальчик«„Y-O-U“?..»%K%P
 
 そう書いてあった。%K%P
 That was what it said.

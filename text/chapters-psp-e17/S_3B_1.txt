@@ -1251,7 +1251,7 @@ CN PLACEHOLDER
 優「『ｎ次元上の全体像はｎ＋１次元内から俯瞰することによってのみ認識することができる』」%K%P
 A dimension of value 'n' may only be understood in its entirety when viewed from a dimension at least 'n+1'.
 CN PLACEHOLDER
-Любое измерение "n" может быть целостно осознано лишь при рассмотрении из, хотя бы, измерения "n+1".
+Любое измерение „n“ может быть целостно осознано лишь при рассмотрении из, хотя бы, измерения „n+1“.
 
 少年「は、はい？？」%K%P
 Huh?

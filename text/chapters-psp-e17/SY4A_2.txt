@@ -4026,12 +4026,12 @@ CN PLACEHOLDER
 少年「ところが、このＢさんの発言だけはなぜか見逃されることになった」%K%P
 However, B's comments were overlooked for some reason.
 CN PLACEHOLDER
-Однако они по какой-то причине проглядели сообщения "B".
+Однако они по какой-то причине проглядели сообщения „B“.
 
 少年「『Ｙｏｉｃｈｉ』――つまり、ローマ字で表記されてたからだ！」%K%P
 That's because Yoichi's name is spelled in English.
 CN PLACEHOLDER
-Потому что имя Ёити написано латиницей – "Yoichi".
+Потому что имя Ёити написано латиницей – „Yoichi“.
 
 空「いいえ。残念ながら、そうではありません」%K%P
 No. Unfortunately, that is not correct.
@@ -4051,7 +4051,7 @@ CN PLACEHOLDER
 空「削除対象には、『Ｙｏｉｃｈｉ』というローマ字表記も含まれていたと思われます」%K%P
 It would appear that the name 'Yoichi' in English was also searched for and erased.
 CN PLACEHOLDER
-Дело в том, что, по всей видимости, имя "Yoichi" тоже искали и удаляли.
+Дело в том, что, по всей видимости, имя „Yoichi“ тоже искали и удаляли.
 
 少年「でも、現にこうしてっ」%K%P
 But what about this one?
@@ -4076,7 +4076,7 @@ CN PLACEHOLDER
 少年「あっ！　これ……『ｏ』が『ö』になってる……？」%K%P
 Oh! The... 'o' is an 'ö'...?
 CN PLACEHOLDER
-Стой... Вместо "o" написано "ö"...»%K%PМалой«То есть вместо "Yoichi" – "Yöichi"...
+Стой... Вместо „o“ написано „ö“...»%K%PМалой«То есть вместо „Yoichi“ – „Yöichi“...
 
 空「はい。これは『ウムラウト』と申しまして、ゲルマン語、主にドイツ語で……」%K%P
 Yes. This is called an 'umlaut' and is used mainly in German...
