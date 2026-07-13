@@ -696,12 +696,12 @@ CN PLACEHOLDER
 空「倉成さん、『少ちゃん』よりも名前っぽい名前を、と言ったじゃありませんか」%K%P
 Kuranari-san, I thought you wanted a more name-like name than Kiddo.
 CN PLACEHOLDER
-Куранари-сан, я думала, что ты придумаешь что-то лучше, чем „Малой-тян“.
+Куранари-сан, ты ведь вроде собирался придумать имя лучше, чем „Малой-тян“.
 
 ココ「じゃあねぇー……ココがもいっこ名前をつけよう！」%K%P
 Well then... Coco will think up another name!
 CN PLACEHOLDER
-Тогда... Коко придумает другое имя!
+Тогда... я придумаю другое имя!
 
 ココ「少ちゃん、またの名を――」%K%P
 Kiddo's other name could be...
@@ -711,12 +711,12 @@ CN PLACEHOLDER
 ココ「ぱぶろ・でぃえご・ほせ・ふらんしすこ・で・ぱうら・ふあん・ねぽむせの・まりあ・で・ろす・れめでぃおす――」%K%P
 Pablo Diego Jose Francisco de Hora Juan Novecino Maria de Los Remedios...
 CN PLACEHOLDER
-Пабло Диего Хосе Франциско де Хора Хуан Новечино Мария де Лос Ремедиос...
+Пабло Диего Хосе Франсиско де Паула Хуан Непомусено Мария де лос Ремедиос...
 
 ココ「しぷりあーの・くりすぴん・くりすぴにあーの・で・ら・さんてぃしま・とりにだっど・るいす・い・ぴかそ！」%K%P
 Siburiano Critiano de la Santeshima Trinidado Luis Picasso!
 CN PLACEHOLDER
-Сибуриано Критиано де ла Сантэсима Тринидадо Луис Пикассо!
+Сиприано Криспин Криспиниано де ла Сантисима Тринидад Луис Пикассо!
 
 武「長ぇ〜〜〜よ！！　田中優美清春香菜より長いのは却下だ！」%K%P
 That's too long! Anything longer than Tanaka Yubiseiharukana is out!
@@ -806,12 +806,12 @@ CN PLACEHOLDER
 つぐみ「少年なんだから……」%K%P
 He is a kid...
 CN PLACEHOLDER
-Он ребёнок...
+Ну раз он ещё мал...
 
 つぐみ「『少年』でいいじゃない」%K%P
 So why don't we just stick with 'Kid'?
 CN PLACEHOLDER
-Так почему нам не продолжить называть его „Малым“?
+„Малой“ более чем сойдёт.
 
 話はループする。%K%P
 The conversation had come full circle.

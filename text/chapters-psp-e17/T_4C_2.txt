@@ -926,7 +926,7 @@ CN PLACEHOLDER
 武「あのひょっとこハム吾郎を、だ」%K%P
 That funny-looking hamster.
 CN PLACEHOLDER
-Пойду вызволять твоего Хёттоко Хомягоро.
+Пойду вызволять твоего Хомячелло.
 //Очередная кастомная заметка про маску "Хёттоко" и про игру слов 'hamster' - 'ハムスタ' (hamusuta)+'吾郎 ' (Goro, старомодное японское имя)
 
 つぐみ「無理よ！」%K%P
@@ -972,7 +972,7 @@ CN PLACEHOLDER
 武「早く行かないと、ハム吾郎が別の場所に移動しちまうかもしれないだろ？」%K%P
 If I don't get going, Hammy is going to move to another place.
 CN PLACEHOLDER
-Если я не пойду, Хомягоро слиняет куда-нибудь ещё.
+Если я не пойду, Хомячелло слиняет куда-нибудь ещё.
 
 つぐみ「どうやってあそこまで行くつもりなの？」%K%P
 How do you plan to get in there?
@@ -1037,7 +1037,7 @@ CN PLACEHOLDER
 武「ハム吾郎のいるエリアと水没した非常通路は直接繋がってるんだ」%K%P
 Hammy's in an area directly connected to the flooded emergency corridor.
 CN PLACEHOLDER
-Хомягоро находится в зоне, напрямую соединённой с затопленным аварийным коридором.
+Хомячелло находится в зоне, напрямую соединённой с затопленным аварийным коридором.
 
 武「ハム吾郎のいるエリアは１気圧。だから水没した通路も約１気圧だろう」%K%P
 The water in that area is one atmosphere of pressure, so the flooded corridor should be about the same.
@@ -1442,7 +1442,7 @@ CN PLACEHOLDER
 武「俺が向こうについたら、ハム吾郎の居場所を教えてくれればいい」%K%P
 When I get through to the other side, you can tell me where Hammy is.
 CN PLACEHOLDER
-Когда я окажусь с другой стороны, ты сможешь сказать, где сидит Хомягоро.
+Когда я окажусь с другой стороны, ты сможешь сказать, где сидит Хомячелло.
 
 武「レミを使わなきゃ、やつがどこにいるのかわからないだろ？」%K%P
 We won't be able to locate him without LeMMIH, will we?
@@ -1747,12 +1747,12 @@ CN PLACEHOLDER
 武「おーい、ハム吾郎！」%K%P
 Hey, Hammy!
 CN PLACEHOLDER
-Ау-у, Хомягоро!
+Ау-у, Хомячелло!
 
 本当に『ハム吾郎』という名前ではないだろうが……。%K%P
 That probably wasn't its name, but never mind...
 CN PLACEHOLDER
-Конечно, его вряд ли зовут «Хомягоро», но...
+Конечно, его вряд ли зовут «Хомячелло», но...
 
 『ジャンガリアーッ！』と呼ぶよりはマシだろう。%K%P
 It was better than yelling “Djungariaaan!”
@@ -1807,7 +1807,7 @@ CN PLACEHOLDER
 武「なんでもないよ。ハム吾郎の反応があったら教えてくれ」%K%P
 Nothing. If you pick up Hammy's location, let me know.
 CN PLACEHOLDER
-Да ничего. Дай знать, если увидишь Хомягоро.
+Да ничего. Дай знать, если увидишь Хомячелло.
 
 つぐみ「ええ……」%K%P
 Okay...
@@ -1917,7 +1917,7 @@ CN PLACEHOLDER
 武「ＯＫ、ＯＫ。続けてくれ。ハム吾郎はまだいるか？　逃げてないよな？」%K%P
 Okay, okay, go on. Is Hammy still here? He hasn't run away?
 CN PLACEHOLDER
-Окей, окей. Продолжаем. Хомягоро ещё здесь? Он не убежал?
+Окей, окей. Продолжаем. Хомячелло ещё здесь? Он не убежал?
 
 つぐみ「ええ、ちゃんといるわ」%K%P
 He's still there.
@@ -2293,7 +2293,7 @@ CN PLACEHOLDER
 武「俺が向こうについたら、ハム吾郎の居場所を教えてくれればいい」%K%P
 When I get through to the other side, you can tell me where Hammy is.
 CN PLACEHOLDER
-Когда я окажусь с другой стороны, ты сможешь сказать, где сидит Хомягоро.
+Когда я окажусь с другой стороны, ты сможешь сказать, где сидит Хомячелло.
 
 武「レミを使わなきゃ、奴がどこにいるのかわからないだろ？」%K%P
 We won't be able to locate him without LeMMIH, will we?
