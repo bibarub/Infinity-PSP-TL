@@ -3083,12 +3083,12 @@ CN PLACEHOLDER
 『海月の虚空に秋涼し時鳥』%K%P
 “The empty fall sky%NA single cuckoo calls out%NBrings a chill to me”.
 CN PLACEHOLDER
-«Море и луна сливаются в иллюзорном осеннем небе, неся, словно птица сквозь пелену времени, тихий океанский бриз.»
+«В пустом небе прохладой медуза веет осенней порой... Кричит кукушка.»
 
 優「たぶんこれは、正岡子規の俳句『水無月の虚空に涼し時鳥』をもじったものだと思う」%K%P
 I think it's a variation of Masaoka Shiki's 'The empty June sky... A single cuckoo calls out... Brings a chill to me'.
 CN PLACEHOLDER
-Кажется, это вариация хайку „Море и луна сливаются в чистом июньском небе, неся пение кукушки через океанский бриз“ за авторством Масаоки Сики.
+Кажется, это переделка хайку „В небе прохладой веет июньской порой... Кричит кукушка“ за авторством Масаоки Сики.
 
 優「だから、正しい読み方は恐らく……」%K%P
 So if I input it like this...
@@ -3098,7 +3098,7 @@ CN PLACEHOLDER
 優「『うみつきの　こくうにすずし　ほととぎす』」%K%P
 'The empty fall sky%NA single cuckoo calls out%NBrings a chill to me'.
 CN PLACEHOLDER
-„Море-и-луна-сливаются-в-иллюзорном-осеннем-небе-неся-%Nсловно-птица-сквозь-пелену-времени-тихий-океанский-бриз“.
+„В небе пустом прохладой%Nмедуза веет осенней порой...%NКричит кукушка“.
 
 少年「へぇ」%K%P
 Wow.
@@ -3108,7 +3108,7 @@ CN PLACEHOLDER
 優「よし！　それじゃ、このフレーズを試してみるよ」%K%P
 Alright! Let's try this for a password.
 CN PLACEHOLDER
-Так! Теперь попробуем ввести пароль.
+Так! Попробуем это в качестве пароля.
 
 意気揚々とキーボードに向かう優。%K%P
 A recharged You faced the screen triumphantly.

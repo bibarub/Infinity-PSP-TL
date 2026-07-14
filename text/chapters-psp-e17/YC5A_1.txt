@@ -386,7 +386,7 @@ CN PLACEHOLDER
 『海月の虚空に秋涼し時鳥／うみつきのこくうにすずしほととぎす』だ。%K%P
 “The empty fall sky%NA single cuckoo calls out%NBrings a chill to me”.
 CN PLACEHOLDER
-«Море и луна сливаются в иллюзорном осеннем небе, неся, словно птица сквозь пелену времени, тихий океанский бриз.»
+«В небе пустом прохладой%Nмедуза веет осенней порой...%NКричит кукушка».
 
 読み方を変えてみたり、ひらがなにしてみたり、カタカナにしてみたり、ローマ字、大文字、小文字、半角、全角、英訳文、独訳文……。%K%P
 She kept trying different variations: caps, lowercase, varying widths, English, German...
@@ -956,7 +956,7 @@ CN PLACEHOLDER
 優「『海月の虚空に秋涼し時鳥』」%K%P
 ‘The empty fall sky%NA single cuckoo calls out%NBrings a chill to me’.
 CN PLACEHOLDER
-„Море и луна сливаются в иллюзорном осеннем небе, неся, словно птица сквозь пелену времени, тихий океанский бриз“.
+„В небе пустом прохладой медуза веет осенней порой... Кричит кукушка“.
 
 少年「えっ？　どういうこと？」%K%P
 Huh? What do you mean?
@@ -1196,12 +1196,12 @@ CN PLACEHOLDER
 『海月の虚空に秋涼し時鳥』%K%P
 “The empty fall sky%NA single cuckoo calls out%NBrings a chill to me”.
 CN PLACEHOLDER
-«Море и луна сливаются в иллюзорном осеннем небе, неся, словно птица сквозь пелену времени, тихий океанский бриз.»%K%PЯ исключил из предложения глаголы, деепричастия и союзы...
+«В небе пустом прохладой медуза веет осенней порой... Кричит кукушка...
 
 海……月……虚……空……秋……涼……時……鳥……。%K%P
 I broke it down by character. Empty... Fall... Sky... Single... Cuckoo... Calling... Brings... Chill...
 CN PLACEHOLDER
-Море... луна... иллюзорное... осеннее... небо... птица... пелена... время... тихий... океанский... бриз...
+Небо... Пустое... Прохлада... Медуза... Осень... Кукушка...
 
 脈絡なく飛び交う思考の断片。%K%P
 A jumble of bits and illogical fragments.
@@ -1226,7 +1226,7 @@ CN PLACEHOLDER
 ――俳句――１７文字の言葉――。%K%P
 It was a haiku. Seventeen syllables.
 CN PLACEHOLDER
-Хайку. Семнадцать слов.
+Хайку. Особое построение слов...
 
 口に出して呟いてみる。%K%P
 I muttered it out loud.
@@ -1236,12 +1236,12 @@ CN PLACEHOLDER
 少年「海月の虚空に秋涼し時鳥」%K%P
 The empty fall sky%NA single cuckoo calls out%NBrings a chill to me.
 CN PLACEHOLDER
-Море и луна... сливаются в иллюзорном осеннем небе...
+В небе пустом прохладой%Nмедуза веет осенней порой...%NКричит кукушка...
 
 少年「うみつきの、こくうにすずし、ほととぎす」%K%P
 The empty fall sky%NA single cuckoo calls out%NBrings a chill to me.
 CN PLACEHOLDER
-...неся, словно птица сквозь пелену времени... тихий океанский бриз.
+В небе пустом прохладой%Nмедуза веет осенней порой...%NКричит кукушка...
 
 と、そのときだった……。%K%P
 It was then...
@@ -1372,11 +1372,12 @@ CN PLACEHOLDER
 The empty fall sky%NA lone Hokuto calls out%NBrings a chill to me.
 CN PLACEHOLDER
 Море и луна... сливаются в иллюзорном осеннем небе... неся, словно птица сквозь пелену времени... тихий океанский бриз.
+//ну тут уж точно не это хайку, надо будет посидеть подразобраться
 
 ココ「うみつきの、こくうにすずし、ほととぎす」%K%P
 The empty fall sky%NA single cuckoo calls out%NBrings a chill to me.
 CN PLACEHOLDER
-Море и луна... сливаются в иллюзорном осеннем небе... неся, словно птица сквозь пелену времени... тихий океанский бриз.
+В небе пустом прохладой медуза веет осенней порой... Кричит кукушка...
 
 武「……は？」%K%P
 ...Huh?
@@ -1396,7 +1397,7 @@ CN PLACEHOLDER
 ココ「『海月の虚空に秋涼し時鳥』って、言ったんだよ？」%K%P
 The empty fall sky%NA single cuckoo calls out%NBrings a chill to me?
 CN PLACEHOLDER
-Море и луна... сливаются в иллюзорном осеннем небе... неся, словно птица сквозь пелену времени... тихий океанский бриз.
+Ты про „В небе пустом прохладой медуза веет осенней порой... Кричит кукушка...“?
 
 武「なんだよ、それ……」%K%P
 What is that...?
@@ -1406,7 +1407,7 @@ CN PLACEHOLDER
 武「俳句か？」%K%P
 Is that some haiku?
 CN PLACEHOLDER
-Это что, хайку?
+Какое-то хайку?
 
 ココ「うん」%K%P
 Yeah.
@@ -1496,7 +1497,7 @@ CN PLACEHOLDER
 ココ「ココはねぇ、今、異次元の生命体と、お話ししてたの」%K%P
 I was talking to a life form from another dimension.
 CN PLACEHOLDER
-Я... говорила с существом из другого измерения!
+Я говорила с существом из другого измерения!
 
 武「イ、イジゲン！？」%K%P
 A-Another dimension!?
@@ -1556,7 +1557,7 @@ CN PLACEHOLDER
 ココ「きゃはははははははは♪」%K%P
 Kyahahahaha〜
 CN PLACEHOLDER
-Хха-ха-ха-ха-ха-ха-ха-ха-ха-ха!
+Кха-ха-ха-ха-ха-ха-ха-ха-ха-ха!
 
 武「ばかぁ〜〜〜っ、笑いごとじゃ、ないんだよぉ〜〜〜っ！」%K%P
 Shut up, it's not funny, stupiiid!
