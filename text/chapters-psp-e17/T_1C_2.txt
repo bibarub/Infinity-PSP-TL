@@ -131,7 +131,7 @@ CN PLACEHOLDER
 空「従って３階――ドリットシュトックは、水深５１ｍの位置に沈んでいることになりますね」%K%P
 Thus, the third floor, Dritter Stock, is 51 meters deep.
 CN PLACEHOLDER
-Данный, третий этаж, Дритте Шток, расположен на глубине 51 метр.
+Таким образом, третий этаж, Дритте Шток, расположен на глубине 51 метр.
 
 空「ドリットの外は、約５気圧の水圧＋大気圧１気圧で、合計約６気圧の圧力がかかっています」%K%P
 Outside of Dritter is a total of six atmospheres of pressure—five atmospheres water pressure and one atmosphere air pressure.
@@ -861,7 +861,7 @@ CN PLACEHOLDER
 空「あっ……！」%K%P
 Oh...!
 CN PLACEHOLDER
-Ой!..
+Ах!..
 
 そのとき、強い横揺れがフロアを襲った。%K%P
 Just then, a strong lateral vibration jolted the floor.
@@ -1051,12 +1051,12 @@ CN PLACEHOLDER
 俺達は警戒を続けながら、階下へと向かった。%K%P
 Still wary, we headed downstairs.
 CN PLACEHOLDER
-Оглядываясь по сторонам, мы спускаемся.
+Мы спускаемся, оглядываясь по сторонам.
 
 湿って滑りやすくなった階段を、慎重に進む。%K%P
 We carefully moved forward down the wet and slippery stairs.
 CN PLACEHOLDER
-Мы осторожно идём по мокрым скользким ступеням.
+Мы осторожно идём по мокрым, скользким ступеням.
 
 一歩一歩下りるたび、海水の匂いが強くなるように思う。%K%P
 With every step, the scent of seawater seemed to grow stronger.
@@ -1296,12 +1296,12 @@ CN PLACEHOLDER
 空「館内外の圧力差により、小さな亀裂からスポイトのように周囲の海水が吸い込まれた為に――」%K%P
 The gap in the internal and external air pressure caused seawater to be sucked into the complex through the rupture.
 CN PLACEHOLDER
-Разница между внешним и внутренним давлением воздуха заставила воду просочиться в сооружение через трещину.
+Из-за разницы давления внутри и снаружи сооружения окружающая вода проникла в него через небольшую трещину...
 
 空「それまで健在だった多くの区画も、短時間で一気に浸水したのです……」%K%P
 So, many of the sectors that were stable until that moment were instantly flooded...
 CN PLACEHOLDER
-Поэтому многие сектора, что были стабильными до того момента, оказались затоплены мгновенно...
+Поэтому многие сектора, что были стабильными до того момента, оказались мгновенно затоплены...
 
 空「これが現在のドリットシュトックの状況です」%K%P
 That is the current situation of Dritter Stock.

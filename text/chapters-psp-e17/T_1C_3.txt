@@ -741,7 +741,7 @@ CN PLACEHOLDER
 空「高圧酸素療法です。ご説明しましょう」%K%P
 This is hyperbaric oxygen therapy. Allow me to explain.
 CN PLACEHOLDER
-Гипербарическая кислородотерапия. Я всё объясню.
+Гипербарическая оксигенотерапия. Я всё объясню.
 
 空「減圧症は、周囲に急激な気圧変化が起こった際に、体内に排出できないガスが溜まってしまう為に起こるのです」%K%P
 Decompression sickness occurs when there is a sudden change in the surrounding air pressure and gas bubbles that can't be discharged accrue in the body.
@@ -766,7 +766,7 @@ CN PLACEHOLDER
 空「そこで、この部屋を密閉して高濃度の酸素を注入、一旦約３気圧までゆっくりと加圧し――」%K%P
 So we will seal this room and pump in a high concentration of oxygen, slowly taking it up to approximately three atmospheres...
 CN PLACEHOLDER
-Поэтому мы запечатаем эту комнату и пустим концентрированный кислород, увеличив давление до 3 атмосфер...
+Поэтому мы загермитезируем эту комнату и пустим концентрированный кислород, увеличив давление до 3 атмосфер...
 
 空「そののちゆっくりと減圧し、再び１気圧に戻します」%K%P
 After that, we slowly decompress it back down to one atmosphere.
@@ -826,12 +826,12 @@ CN PLACEHOLDER
 優「軽い減圧症は、すぐに自覚症状が現れるわけじゃないの。ひと晩ふた晩経ってから痛み出すこともあるのよ」%K%P
 In light cases of decompression sickness, you aren't necessarily aware of it immediately.
 CN PLACEHOLDER
-При лёгких формах кессонной болезни ты можешь не почувствовать себя плохо моментально.
+При лёгкой форме кессонной болезни самочувствие может ухудшиться не сразу.
 
 武「ヤバいと気づいてからじゃ遅い……？」%K%P
 After you figure out you're in trouble, it's too late...?
 CN PLACEHOLDER
-А когда почувствую, будет поздно?..
+А когда худшится, будет поздно?..
 
 優「ええ。症状が長引くかもね」%K%P
 Yeah. And the symptoms can be drawn out.
@@ -1396,7 +1396,7 @@ CN PLACEHOLDER
 空「高圧酸素療法です。ご説明しましょう」%K%P
 This is hyperbaric oxygen therapy. Allow me to explain.
 CN PLACEHOLDER
-Гипербарическая кислородотерапия. Я всё объясню.
+Гипербарическая оксигенотерапия. Я всё объясню.
 
 空「減圧症は、周囲に急激な気圧変化が起こった際に、体内に排出できないガスが溜まってしまう為に起こるのです」%K%P
 Decompression sickness occurs when there is a sudden change in the surrounding air pressure and gas bubbles that can't be discharged accrue in the body.
@@ -1421,7 +1421,7 @@ CN PLACEHOLDER
 空「そこで、この部屋を密閉して高濃度の酸素を注入、一旦約３気圧までゆっくりと加圧し――」%K%P
 So we will seal this room and pump in a high concentration of oxygen, slowly taking it up to approximately three atmospheres...
 CN PLACEHOLDER
-Поэтому мы запечатаем эту комнату и пустим концентрированный кислород, увеличив давление до 3 атмосфер...
+Поэтому мы загермитезируем эту комнату и пустим концентрированный кислород, увеличив давление до 3 атмосфер...
 
 空「そののちゆっくりと減圧し、再び１気圧に戻します」%K%P
 After that, we slowly decompress it back down to one atmosphere.
@@ -1481,12 +1481,12 @@ CN PLACEHOLDER
 優「軽い減圧症は、すぐに自覚症状が現れるわけじゃないの。ひと晩ふた晩経ってから痛み出すこともあるのよ」%K%P
 In light cases of decompression sickness, you aren't necessarily aware of it immediately.
 CN PLACEHOLDER
-При лёгких формах кессонной болезни ты можешь не почувствовать себя плохо моментально.
+При лёгкой форме кессонной болезни самочувствие может ухудшиться не сразу.
 
 武「ヤバいと気づいてからじゃ遅い……？」%K%P
 After you figure out you're in trouble, it's too late...?
 CN PLACEHOLDER
-А когда почувствую, будет поздно?..
+А когда худшится, будет поздно?..
 
 優「ええ。症状が長引くかもね」%K%P
 Yeah. And the symptoms can be drawn out.

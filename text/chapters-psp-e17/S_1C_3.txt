@@ -116,7 +116,7 @@ CN PLACEHOLDER
 空「軽い減圧症は、すぐに自覚症状が現れるわけではないのです」%K%P
 In cases of light decompression sickness, you are not necessarily aware of it immediately.
 CN PLACEHOLDER
-При лёгких формах кессонной болезни невозможно заметить симптомы.
+При лёгкой форме кессонной болезни невозможно заметить симптомы.
 
 空「ひと晩ふた晩経ってから、痛み出すこともあります」%K%P
 There are cases where the pain doesn't start for a day or two.
@@ -231,7 +231,7 @@ CN PLACEHOLDER
 空「そこで、この部屋を密閉して高濃度の酸素を注入、一旦約３気圧まで再加圧し……」%K%P
 So we will seal this room and pump in a high concentration of oxygen, slowly taking it up to approximately three atmospheres...
 CN PLACEHOLDER
-Поэтому мы запечатаем эту комнату и пустим концентрированный кислород, увеличив давление до 3 атмосфер...
+Поэтому мы загермитезируем эту комнату и пустим концентрированный кислород, увеличив давление до 3 атмосфер...
 
 空「その後、ゆっくりと減圧し、再び１気圧に戻します」%K%P
 After that, we slowly decompress it back down to one atmosphere.

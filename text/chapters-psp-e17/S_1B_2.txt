@@ -2381,7 +2381,7 @@ CN PLACEHOLDER
 空「従って３階――ドリットシュトックは、水深５１ｍの位置に沈んでいることになりますね」%K%P
 Thus, the third floor, Dritter Stock, is 51 meters deep.
 CN PLACEHOLDER
-Данный, третий этаж, Дритте Шток, расположен на глубине 51 метр.
+Таким образом, третий этаж, Дритте Шток, расположен на глубине 51 метр.
 
 暇を持て余したぼくは、制御室の空のもとを訪れていた。%K%P
 With all of that time on my hands, I visited Sora in the control room.
