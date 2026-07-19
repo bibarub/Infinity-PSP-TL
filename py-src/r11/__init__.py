@@ -111,13 +111,23 @@ def clean_ru_translation_line(line: str) -> str:
   return line
 
 def clean_en_translation_line_r11(line: str) -> str:
-  line = line.replace("\u2015\u2015", "\u2015") # double em dash '——' -> single em dash '—'
   line = line.replace("'''I'''", "%CFFF0I%CFFFF") # ワタシ (katakana-watashi)
-  line = line.replace("'''me'''", "%CFFF0me%CFFFF") # ワタシ (katakana-watashi)
+  line = line.replace("'''My'''", "%CFFF0My%CFFFF")
+  line = line.replace("'''me'''", "%CFFF0me%CFFFF")
+  line = line.replace("'''my'''", "%CFFF0my%CFFFF")
+  line = line.replace("'''myself'''", "%CFFF0myself%CFFFF")
+
   line = line.replace("''I''", "%CFFCFI%CFFFF") # ENOMOTO's "私" (kanji-watashi)
-  line = line.replace("''me''", "%CFFCFme%CFFFF") # ENOMOTO's "私" (kanji-watashi)
+  line = line.replace("''My''", "%CFFCFMy%CFFFF")
+  line = line.replace("''me''", "%CFFCFme%CFFFF")
+  line = line.replace("''my''", "%CFFCFmy%CFFFF")
+  line = line.replace("''myself''", "%CFFCFmyself%CFFFF")
+
   line = line.replace("'I'", "%C88FFI%CFFFF") # YUKIDOH's "俺" (kanji-ore)
-  line = line.replace("'me'", "%C88FFme%CFFFF") # YUKIDOH's "俺" (kanji-ore)
+  line = line.replace("'My'", "%C88FFMy%CFFFF")
+  line = line.replace("'me'", "%C88FFme%CFFFF")
+  line = line.replace("'my'", "%C88FFmy%CFFFF")
+  line = line.replace("'myself'", "%C88FFmyself%CFFFF")
   return line
 
 def clean_ru_translation_line_r11(line: str) -> str:

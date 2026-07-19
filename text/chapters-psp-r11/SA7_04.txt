@@ -459,7 +459,7 @@ Didn't you hear me?
 Ты меня не слышал?
 
 榎本「『お前は誰だ？』と訊いてるんだ」%K%P
-I asked ‘Who are you?’
+'I' asked ‘Who are you?’
 鼷本「问你呢，“你是谁？”」
 Спрашиваю ещё раз: кто ты?
 
@@ -604,7 +604,7 @@ You scum... If you say you're Yukidoh Satoru...
 ...?
 
 榎本「ふっ……そういうことか……」%K%P
-Fuh... Now I see...
+Fuh... Now 'I' see...
 鼷本「哼……是这样啊……」
 Фух... Ясно...
 
@@ -639,7 +639,7 @@ The plan is a failure.
 План провален.
 
 榎本「自分のことながら、まったく……愚かすぎて反吐が出そうだ」%K%P
-Honestly... I'm so foolish even I feel like throwing up.
+Honestly... 'I''m so foolish even 'I' feel like throwing up.
 鼷本「虽然是自己的事，真是……还是蠢得让自己想吐啊」
 Даже притом, что сам... Вот же... так глупо, что аж тошнит.
 
@@ -659,7 +659,7 @@ Well, whatever...
 Что ж, неважно...
 
 榎本「失敗したと言っても、それはひとつの可能性が潰えただけに過ぎない」%K%P
-Though I say it's a failure, all this really means is that one possibility has collapsed.
+Though 'I' say it's a failure, all this really means is that one possibility has collapsed.
 鼷本「虽说失败了，也只不过是一个可能性崩溃了」
 Назвал это провалом, но на деле провалился лишь один из возможных вариантов.
 
@@ -674,17 +674,17 @@ It's simple.
 Всё просто.
 
 榎本「別の世界では、失敗しないとも言える」%K%P
-I can also say that in another world, it didn't fail.
+'I' can also say that in another world, it didn't fail.
 鼷本「在其它世界，还不能说失败了」
 В другом мире ничего не провалено.
 
 榎本「俺さえしっかりしてれば、こんなくだらない結果は生まれない」%K%P
-As long as I just keep myself together, it won't end with a pathetic result like this.
+As long as 'I' just keep 'myself' together, it won't end with a pathetic result like this.
 鼷本「只要自己多加注意，就不会产生这种无聊的结果了」
 Пока 'я' держу себя в руках, это не закончится столь негодным результатом.
 
 榎本「俺は、貴様とは違う」%K%P
-I'm different from scum like you.
+'I''m different from scum like you.
 鼷本「和你小子是不一样的」
 'Я' напрочь отличаюсь от тебя.
 
@@ -739,12 +739,12 @@ Yeah. But still...
 Да. Но всё же...
 
 榎本「細かいことまで説明する気はない」%K%P
-I have no intention of explaining such minor details.
+'I' have no intention of explaining such minor details.
 鼷本「没心情跟你详细解释」
 Не имею ни малейшего намерения объяснять детали.
 
 榎本「面倒だし、貴様が知る意味もない」%K%P
-It's annoying, and besides, it's not worth wasting my breath to tell scum like you anyway.
+It's annoying, and besides, it's not worth wasting 'my' breath to tell scum like you anyway.
 鼷本「很麻烦，再说你知道也没什么意义」
 Это напряжно, да и смысла знать тебе нет.
 
@@ -754,12 +754,12 @@ What is the %TS082Many-Worlds Interpretation%TE?
 Что такое "%TS082многомировая интерпретация%TE"?
 
 榎本「悪いが説明する気はない」%K%P
-Sorry, but I have no intention of explaining it.
+Sorry, but 'I' have no intention of explaining it.
 鼷本「抱歉，没有心情跟你说明」
 Уж извини, но объяснять 'я' не собираюсь.
 
 榎本「面倒だし、貴様が知る意味もない」%K%P
-It's annoying, and besides, it's not worth wasting my breath to tell scum like you anyway.
+It's annoying, and besides, it's not worth wasting 'my' breath to tell scum like you anyway.
 鼷本「很麻烦，再说你知道也没什么意义」
 Это напряжно, да и смысла знать тебе нет.
 
@@ -809,7 +809,7 @@ Filled with curses...
 'Я' пронжу Давида...
 
 榎本「たとえ再びかわされようと……」%K%P
-Even if he avoids me again...
+Even if he avoids 'me' again...
 鼷本「即使会再次被躲过……」
 Даже если он дважды уклонится от копья...
 
@@ -829,7 +829,7 @@ It doesn't change the fact that, in your world, the project is a failure.
 Это не меняет того факта, что в твоём мире план провалился.
 
 榎本「貴様には、ケジメをつけてもらわねばな」%K%P
-I'll have you take the responsibility for it, scum.
+'I''ll have you take the responsibility for it, scum.
 鼷本「还真得给你小子设定一个界限」
 Ты должен взять ответственность на себя.
 
@@ -894,7 +894,7 @@ Even though the memories of That Guy were transplanted into you, you understand 
 Хоть тебе и были пересажены те воспоминания, ты даже сейчас ничего не понимаешь...
 
 榎本「我ながら情けないぜ」%K%P
-You're pathetic, if I do say so myself.
+You're pathetic, if 'I' do say so 'myself'.
 鼷本「虽说是“我”，但也够可耻的了」
 Хотя 'я' и сам это говорю, ты жалок.
 
@@ -929,12 +929,12 @@ Sorry, but...
 Прости, но...
 
 榎本「そのことだけは答えることができない」%K%P
-That's the one question I can't answer.
+That's the one question 'I' can't answer.
 鼷本「只有这件事不能回答你」
 Это единственный вопрос, на который 'я' не могу ответить.
 
 榎本「正確には、答えたくない」%K%P
-To be more accurate, I don't want to answer.
+To be more accurate, 'I' don't want to answer.
 鼷本「正确的说，是不想回答」
 Если быть точнее, 'я' не хочу на него отвечать.
 
@@ -954,7 +954,7 @@ However—
 Однако...
 
 榎本「それ以外のことなら答えてやろう」%K%P
-Other than that, I'll answer everything.
+Other than that, 'I''ll answer everything.
 鼷本「此外的事情都可以回答你」
 На все остальные вопросы отвечу.
 
@@ -964,7 +964,7 @@ It's just too pitiful for you to go on knowing nothing like this.
 А то ничего не знающий ты – слишком печальное зрелище.
 
 榎本「感謝しろよ？　俺は慈悲深いんだ」%K%P
-Be grateful, okay? I'm doing this out of the goodness of my heart.
+Be grateful, okay? 'I''m doing this out of the goodness of 'my' heart.
 鼷本「感谢吧？多仁慈」
 Будь благодарен, ясно? 'Я' милосерден.
 
@@ -989,7 +989,7 @@ You asked those three questions.
 Ты задал три вопроса.
 
 榎本「それを答えてあげようじゃないか」%K%P
-Shall I answer them for you?
+Shall 'I' answer them for you?
 鼷本「那就准备回答你吧」
 Ответить на них?
 
@@ -1004,17 +1004,17 @@ I can't help but feel a little scared.
 Отчего-то мне немного страшно.
 
 榎本「その前に……訊きたいことがある」%K%P
-But before that... There's something I want to ask.
+But before that... There's something 'I' want to ask.
 鼷本「在那之前……问你点事」
 Но сперва... 'я' хочу кое-что у тебя спросить.
 
 榎本「俺は……」%K%P
-I...
+'I'...
 鼷本「这具身体……」
 'Я'...
 
 榎本「いや、榎本は……と言った方がわかりやすいか」%K%P
-No, it's easier to understand if I say Enomoto...
+No, it's easier to understand if 'I' say Enomoto...
 鼷本「不，鼷本……这样说是不是更容易理解」
 Нет, понятнее будет сказать Эномото...
 
@@ -1029,7 +1029,7 @@ Eh?
 Что?
 
 榎本「『貴様の過去では、榎本は死んでしまったのか？』と訊いてる」%K%P
-I'm asking you, scum, if in your past, Enomoto died.
+'I''m asking you, scum, if in your past, Enomoto died.
 鼷本「在你小子的过去，鼷本是不是已经死掉了？」
 'Я' спрашиваю: умер ли в твоём прошлом Эномото?
 
@@ -1069,7 +1069,7 @@ Is that so...
 Вот как...
 
 榎本「いや、もういい。すべてわかった」%K%P
-No, that's enough. I understand.
+No, that's enough. 'I' understand.
 鼷本「好了，够了，全知道了」
 Нет, теперь всё в порядке. 'Я' всё понял.
 
@@ -1079,7 +1079,7 @@ Saying that, Enomoto taps at his temple again.
 Сказав это, Эномото начинает снова постукивать себя по виску.
 
 榎本「そういう可能性もある、ということか……注意せねばな」%K%P
-So that possibility exists too, huh... I must be careful.
+So that possibility exists too, huh... 'I' must be careful.
 鼷本「也就是说，也有这样的可能性……一定得注意」
 Значит, существует и такая вероятность... Нужно быть осторожнее.
 
@@ -1109,7 +1109,7 @@ Yeah, I heard about it... from you.
 Да, слышал... от тебя.
 
 榎本「俺は……いや、俺達は『ある目的』があって、ここにやってきたんだ」%K%P
-I... no, we had a certain goal, so we came here.
+'I'... no, we had a certain goal, so we came here.
 鼷本「本人……不，我们出于“某种目的”，来到了这里」
 У меня... нет, у нас была определённая цель, поэтому мы прибыли сюда.
 
@@ -1134,7 +1134,7 @@ Isn't that the supercomputer in that little room?
 Это ведь тот суперкомпьютер в маленькой комнате?
 
 榎本「ふっ、そんなことにさえ気づいてなかったのか？　やっぱり馬鹿だな、貴様は」%K%P
-Hmph, you didn't even notice it? As I thought, in addition to scum, you're an utter fool.
+Hmph, you didn't even notice it? As 'I' thought, in addition to scum, you're an utter fool.
 鼷本「哼，连这都没有注意到吗？果然是笨蛋啊，你小子」
 Хех, что, ты и этого не заметил? Всё-таки ты глуп.
 
@@ -1204,7 +1204,7 @@ Correct.
 .........
 
 榎本「続けようか」%K%P
-Shall I continue?
+Shall 'I' continue?
 鼷本「继续吧」
 Продолжу?
 
@@ -1224,7 +1224,7 @@ These two converge into a single, very simple solution.
 На них есть один простой ответ.
 
 榎本「貴様は、朱倉岳と青鷺島の２点間で転移が行われてると考えてるだろう？」%K%P
-Being scum, I guess you thought the transfer occurs between the two points of Mount Akakura and Aosagi Island, correct?
+Being scum, 'I' guess you thought the transfer occurs between the two points of Mount Akakura and Aosagi Island, correct?
 鼷本「你小子，认为朱仓岳和青鹭岛是在两点间进行转移的吧？」
 Ты наверняка думал, что перемещение происходит только между двумя точками – горой Акакурой и островом Аосаги?
 
@@ -1284,12 +1284,12 @@ That's right. You still don't get it?
 .........
 
 榎本「まず最初に断っておくが、転移箇所は４点間ではない」%K%P
-First, let me make this clear. There were never four transfer points.
+First, let 'me' make this clear. There were never four transfer points.
 鼷本「你从最开始就错了，转移地点不是四个」
 Сперва проясним: точек обмена не четыре.
 
 榎本「これは説明するまでもないだろう。そんな推理では矛盾だらけだ」%K%P
-I don't even need to explain, do I? That theory is a mass of contradictions.
+'I' don't even need to explain, do 'I'? That theory is a mass of contradictions.
 鼷本「这也不用说明了吧。那种推理中全是矛盾」
 Мне даже объяснять ничего не нужно, верно? В этой теории полно противоречий.
 
@@ -1334,7 +1334,7 @@ Then the subjects of the transfer would experience things like buzzing or pain i
 Если бы перемещение осуществлялось между этими двумя точками, изменение атмосферного давления проявлялось бы звоном или болью в ушах у испытуемых.
 
 榎本「さすがに、わかるだろう？　このくらいは」%K%P
-This should be enough for you to get the picture, I hope.
+This should be enough for you to get the picture, 'I' hope.
 鼷本「解释了半天，明白了吧？都说得这么细了」
 Надеюсь, теперь-то ты понял? Сказанного должно быть достаточно.
 
@@ -1524,7 +1524,7 @@ I'm accepting everything as it is.
 Я принимаю всё как должное.
 
 榎本「中継点だと言っただろう？」%K%P
-I called it a relay point, right?
+'I' called it a relay point, right?
 鼷本「说过是中继点了吧？」
 'Я' сказал "промежуточная точка", верно?
 
@@ -1574,7 +1574,7 @@ My my, it seems you finally get it.
 .........
 
 榎本「念のために補足しておこうか」%K%P
-Just to be sure, let me give you a few additional details.
+Just to be sure, let 'me' give you a few additional details.
 鼷本「慎重起见，还是给你补充一下吧」
 Для пущей уверенности позволь мне дополнить картину некоторыми деталями.
 
@@ -1664,7 +1664,7 @@ I know you just said it's underground, but...
 Ты сказал, что под землёй, но...
 
 榎本「よかろう、教えてやる。ここは……」%K%P
-Fine. I'll tell you. This is...
+Fine. 'I''ll tell you. This is...
 鼷本「好吧，告诉你。这里是……」
 Ладно. 'Я' скажу тебе. Это...
 
@@ -1699,7 +1699,7 @@ There's still something I don't understand...
 Но кое-что я всё не пойму...
 
 榎本「俺が生きてる理由か？」%K%P
-The reason I'm alive?
+The reason 'I''m alive?
 鼷本「你面前的这位鼷本还活着的理由吗？」
 Почему 'я' жив?
 
@@ -1779,7 +1779,7 @@ Here and now... it's July 18th, 2011.
 Сейчас... 18 июля 2011 года.
 
 榎本「俺は、殺される前の俺なのだよ」%K%P
-I am the me who is yet to be killed.
+'I' am the 'me' who is yet to be killed.
 鼷本「本人是被杀之前的自己」
 Меня ещё не убили.
 
