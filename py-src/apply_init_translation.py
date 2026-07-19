@@ -26,16 +26,19 @@ def main():
 
     if args.game == "r11":
         #tip_amount = 110
+        tip_pages_amount = 10
         seg_text = (0xba68, 0x2c11a)
         # seg_table = [0x1140, 0xac98]
         #seg_table_tips = [0x7610, 0x7f7c]
     elif args.game == "n7":
         #tip_amount = 112
+        tip_pages_amount = 9
         seg_text = (0xaf80, 0x2254f)
         # seg_table = [0x1ba8, 0x9904]
         #seg_table_tips = [0x7fbc, 0x880c]
     elif args.game == "e17":
         #tip_amount = 119
+        tip_pages_amount = 9
         seg_text = (0x89b0, 0x1f709)
         # seg_table = [0xeb8, 0x7df8]
         #seg_table_tips = [0x65c4, 0x6ee8]
@@ -64,6 +67,9 @@ def main():
     seg_table_tip_ptrs = (head_int_view[0x64//4], head_int_view[0x68//4]-8)
     tip_amount = (seg_table_tip_ptrs[1]-seg_table_tip_ptrs[0])//12
     seg_table_tips = (head_int_view[seg_table_tip_ptrs[0]//4], head_int_view[seg_table_tip_ptrs[1]//4-2]+4)
+    
+    seg_table_tip_page_ptrs = (head_int_view[0x68//4], head_int_view[0x68//4]+tip_pages_amount*8)
+    seg_table_tip_pages = (head_int_view[seg_table_tip_page_ptrs[0]//4+1], seg_table_tips[0])
 
     seg_table_chrono = (head_int_view[0x88//4], head_int_view[0x8c//4])
 
@@ -79,14 +85,19 @@ def main():
     tips_txt = args.tips
     if tips_txt:
         tips = r11.tipsparser.parse_tip_file(tips_txt)
-        #if len(tips) != tip_amount:
-        #    raise Exception(tip_amount, "tips expected, got", len(tips))
+        new_tip_amount = sum(1 for tip in tips if getattr(tip.title, args.lang) or getattr(tip.title, "jp"))
         page_amount = sum(len(getattr(tip.pages, args.lang) or tip.pages.jp) for tip in tips)
-        tip_offset = page_amount*4+len(tips)*12+seg_table_tips[0]-seg_table_tips[1]
-        tip_ptr_offset = (len(tips)-tip_amount)*12
+        tip_offset = page_amount*4+new_tip_amount*12+seg_table_tips[0]-seg_table_tips[1]
+        tip_ptr_offset = (new_tip_amount-tip_amount)*12
+        new_tip_pages_amount = tip_pages_amount+1 if new_tip_amount != tip_amount and tip_pages_amount != 10 else tip_pages_amount
+        tip_page_offset = seg_table_tip_pages[0]-seg_table_tip_pages[1]+((new_tip_amount+new_tip_pages_amount)*2+3)&~3
+        tip_page_ptrs_offset = (new_tip_pages_amount-tip_pages_amount)*8
     else:
         tip_offset = 0
         tip_ptr_offset = 0
+        tip_page_offset = 0
+        tip_page_ptrs_offset = 0
+        new_tip_pages_amount = tip_pages_amount
 
     chrono_txt = args.chronology
     if chrono_txt:
@@ -99,7 +110,7 @@ def main():
 
     pos = seg_text[0]
 
-    offset = lyric_offset+tip_ptr_offset+tip_offset+chrono_offset
+    offset = lyric_offset+tip_ptr_offset+tip_offset+chrono_offset+tip_page_offset+tip_page_ptrs_offset
     if offset:
         pos += offset
         for i in range(head_int_view[0x8c//4]//4, head_int_view[head_int_view[0x8c//4]//4]//4-1, 1):
@@ -120,10 +131,12 @@ def main():
             head_int_view[0x68//4] += lyric_offset+tip_ptr_offset
         if lyric_offset or tip_offset or tip_ptr_offset:
             for i in (0x7c, 0x6c, 0x80, 0x84, 0x88):
-                head_int_view[i//4] += lyric_offset+tip_ptr_offset+tip_offset
+                head_int_view[i//4] += lyric_offset+tip_ptr_offset+tip_offset+tip_page_offset+tip_page_ptrs_offset
         seg_table_tip_ptrs = tuple(x+lyric_offset for x in seg_table_tip_ptrs)
         seg_table_tips = tuple(x+lyric_offset+tip_ptr_offset for x in seg_table_tips)
-        seg_table_chrono = tuple(x+lyric_offset+tip_offset+tip_ptr_offset for x in seg_table_chrono)
+        seg_table_tip_page_ptrs = tuple(x+lyric_offset+tip_ptr_offset for x in seg_table_tip_page_ptrs)
+        seg_table_tip_pages = tuple(x+lyric_offset+tip_ptr_offset+tip_page_ptrs_offset for x in seg_table_tip_pages)
+        seg_table_chrono = tuple(x+lyric_offset+tip_offset+tip_ptr_offset+tip_page_offset+tip_page_ptrs_offset for x in seg_table_chrono)
 
     if songs:
         lyric_ptrs = bytearray()
@@ -148,15 +161,16 @@ def main():
 
     if tips_txt:
         #tip_i = seg_table_tip_ptrs[0]//4
-        tip_ptr_off = seg_table_tips[0]
+        tip_ptr_off = seg_table_tips[0]+tip_page_ptrs_offset+tip_page_offset
         tip_text_ptrs = bytearray()
         tip_ptrs = bytearray()
         for tip in tips:
             tl_title = getattr(tip.title, args.lang)
             tl_pages = getattr(tip.pages, args.lang)
+            title = tl_title or tip.title.jp
             pages = tl_pages or tip.pages.jp
-            title = r11.clean_translation_line(tl_title or tip.title.jp, args.lang, args.game)
-            title_bytes = r11.str_to_r11_bytes(title, lang=args.lang)+b'\0'
+            if not title: continue
+            title_bytes = r11.str_to_r11_bytes(r11.clean_translation_line(title, args.lang, args.game), lang=args.lang)+b'\0'
             #head_int_view[tip_i] = tip_ptr_off
             tip_ptrs += struct.pack("<I", tip_ptr_off)
             tip_text_ptrs += struct.pack("<I", pos)
@@ -180,6 +194,42 @@ def main():
         head[seg_table_tips[0]:seg_table_tips[1]] = tip_text_ptrs
         mv = memoryview(head)
         head_int_view=mv.cast("I")
+        if new_tip_amount != tip_amount:
+            head_short_view=mv.cast("H")
+            tip_pages = []
+            for i in range(tip_pages_amount):
+                tip_page_ptr = head_int_view[seg_table_tip_page_ptrs[0]//4+i*2+1]//2
+                tip_page = []
+                while head_short_view[tip_page_ptr] != 0xffff:
+                    tip_page.append(head_short_view[tip_page_ptr])
+                    tip_page_ptr += 1
+                tip_pages.append(tip_page)
+            if new_tip_pages_amount != tip_pages_amount:
+                tip_pages.append([])
+            for i in range(tip_amount, new_tip_amount):
+                tip_pages[-1].append(i)
+            tip_page_bytes = bytearray()
+            tip_page_ptrs_bytes = bytearray()
+            page_symbols = ["ア", "カ", "サ", "タ", "ナ", "ハ", "マ", "ヤ", "ラ", "ワ"] # idk why preserve them, but why not
+            for i in range(len(tip_pages)):
+                tip_page_ptrs_bytes += struct.pack("<2I", pos, seg_table_tip_pages[0]+len(tip_page_bytes))
+                page_symbol = r11.str_to_r11_bytes(page_symbols[i], "en")+b'\0'
+                body += page_symbol
+                pos += len(page_symbol)
+                for j in tip_pages[i]:
+                    tip_page_bytes += struct.pack("<H", j)
+                tip_page_bytes += b"\xff\xff"
+            for i in range(len(tip_pages), 10):
+                tip_page_bytes += b"\xff\xff"
+            if len(tip_page_bytes)%4:
+                tip_page_bytes += b"\x90\x90"
+            head_int_view.release()
+            head_short_view.release()
+            mv.release()
+            head[seg_table_tip_page_ptrs[0]:seg_table_tip_page_ptrs[1]] = tip_page_ptrs_bytes
+            head[seg_table_tip_pages[0]:seg_table_tip_pages[1]] = tip_page_bytes
+            mv = memoryview(head)
+            head_int_view=mv.cast("I")
 
     if chrono_txt:
         chrono = bytearray()
@@ -219,6 +269,10 @@ def main():
             table_offset += lyric_offset
         if table_offset > seg_table_tip_ptrs[0]:
             table_offset += tip_ptr_offset
+        if table_offset > seg_table_tip_page_ptrs[0]:
+            table_offset += tip_page_ptrs_offset
+        if table_offset > seg_table_tip_pages[0]:
+            table_offset += tip_page_offset
         if table_offset > seg_table_tips[0]:
             table_offset += tip_offset
         if table_offset > seg_table_chrono[0]:
@@ -232,6 +286,10 @@ def main():
                 dupe_ref += lyric_offset
             if dupe_ref > seg_table_tip_ptrs[0]:
                 dupe_ref += tip_ptr_offset
+            if dupe_ref > seg_table_tip_page_ptrs[0]:
+                dupe_ref += tip_page_ptrs_offset
+            if dupe_ref > seg_table_tip_pages[0]:
+                dupe_ref += tip_page_offset
             if dupe_ref > seg_table_tips[0]:
                 dupe_ref += tip_offset
             if dupe_ref > seg_table_chrono[0]:
