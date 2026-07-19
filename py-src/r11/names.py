@@ -28,8 +28,7 @@ game_names_dicts = {
         "穂鳥": TlNames("Hotori", "穗鸟", "Хотори"),
         "榎本": TlNames("Enomoto", "鼷本", "Эномото"),
         "機長": TlNames("Pilot", "机长", "Пилот"),
-        # "Yukidoh", rather than "Yuukidou", because it is written everywhere else this way
-        "ユウキドウ": TlNames("Yukidoh", "优希堂", "Юкидо"),
+        "ユウキドウ": TlNames("YUKIDOH", "优希堂", "Юкидо"),
         # These occur in init.bin only, but pasting them here, for reference
         "山岳救助隊員": TlNames("Mountain rescue worker", ";unused", ";unused"),
         "沙也香": TlNames("Sayaka", ";unused", ";unused"),
@@ -51,7 +50,6 @@ game_names_dicts = {
         "空Ｂ": TlNames("Sora B", None, "Сора Б"),
         "空Ｃ": TlNames("Sora C", None, "Сора В"),
         "偽空": TlNames("Fake Sora", None, "Фальшивая Сора"),
-        "沙羅": TlNames("Sara", None, "Сара"),
         "沙羅": TlNames("Sara", None, "Сара"),
         "ココ": TlNames("Coco", None, "Коко"),
         "ピピ": TlNames("Pipi", None, "Пипи"),
