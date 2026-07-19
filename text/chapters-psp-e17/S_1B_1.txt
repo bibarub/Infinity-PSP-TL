@@ -2210,7 +2210,7 @@ CN PLACEHOLDER
 少年「『智也』がいい」%K%P
 '%TS119Tomoya%TE' sounds good.
 CN PLACEHOLDER
-;Мальчик«Мне нравится „Томоя“.»%K%P
+;Мальчик«Мне нравится „%TS119Томоя%TE“.»%K%P
 
 みんな「智也ぁ〜！？」%K%P
 Tomoya!?
@@ -2220,7 +2220,7 @@ CN PLACEHOLDER
 少年「『誠』がいい」%K%P
 '%TS119Makoto%TE' is good.
 CN PLACEHOLDER
-;Мальчик«„Макото“ звучит неплохо.»%K%P
+;Мальчик«„%TS119Макото%TE“ звучит неплохо.»%K%P
 
 みんな「誠ぉ〜！？」%K%P
 Makoto!?
@@ -2230,7 +2230,7 @@ CN PLACEHOLDER
 少年「『直人』がいい」%K%P
 '%TS119Naoto%TE' has a nice ring to it.
 CN PLACEHOLDER
-;Мальчик«По мне, „Наото“ звучит неплохо.»%K%P
+;Мальчик«По мне, „%TS119Наото%TE“ звучит неплохо.»%K%P
 
 みんな「直人ぉ〜！？」%K%P
 Naoto!?
@@ -2240,7 +2240,7 @@ CN PLACEHOLDER
 少年「『椎名』がいい」%K%P
 '%TS119Shiina%TE' works.
 CN PLACEHOLDER
-;Мальчик«А „Сиина“ ничё.»%K%P
+;Мальчик«А „%TS119Сиина%TE“ ничё.»%K%P
 
 みんな「椎名ぁ〜！？」%K%P
 Shiina!?
@@ -2250,7 +2250,7 @@ CN PLACEHOLDER
 少年「『元樹』がいい」%K%P
 '%TS119Motoki%TE' sounds nice.
 CN PLACEHOLDER
-;Мальчик«„Мотоки“ звучит неплохо.»%K%P
+;Мальчик«„%TS119Мотоки%TE“ звучит неплохо.»%K%P
 
 みんな「元樹ぃ〜！？」%K%P
 Motoki!?
@@ -2260,7 +2260,7 @@ CN PLACEHOLDER
 少年「『イナケン』がいい」%K%P
 '%TS119Inaken%TE' is good.
 CN PLACEHOLDER
-;Мальчик«„Кид“ мне по душе.»%K%P
+;Мальчик«„%TS121Кид%TE“ мне по душе.»%K%P
 
 みんな「イナケン〜！？」%K%P
 Inaken!?
@@ -2270,7 +2270,7 @@ CN PLACEHOLDER
 少年「『恭介』がいい」%K%P
 I like '%TS119Kyousuke%TE'.
 CN PLACEHOLDER
-;Мальчик«Мне нравится „Кёске“.»%K%P
+;Мальчик«Мне нравится „%TS119Кёске%TE“.»%K%P
 
 みんな「恭介ぇ〜！？」%K%P
 Kyousuke!?
@@ -2280,7 +2280,7 @@ CN PLACEHOLDER
 少年「『王子様』がいい」%K%P
 I like '%TS119Prince%TE'.
 CN PLACEHOLDER
-;Мальчик«Зовите меня „Принц“.»%K%P
+;Мальчик«Зовите меня „%TS119Принц%TE“.»%K%P
 
 みんな「王子様ぁ〜！？」%K%P
 Prince!?

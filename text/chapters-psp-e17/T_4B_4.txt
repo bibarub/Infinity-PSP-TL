@@ -371,7 +371,7 @@ CN PLACEHOLDER
 武「これ、シロガネーゼの鉄則」%K%P
 That's the key, marrying into moolah.
 CN PLACEHOLDER
-Таков путь гламурезе.
+Таков путь %TS126гламурезе%TE.
 
 空「しろがねーぜ？」%K%P
 Moolah?
@@ -382,7 +382,6 @@ CN PLACEHOLDER
 Does that have to do with cows?
 CN PLACEHOLDER
 Это какой-то фермент?
-//вариант адаптации, предложенный жптшкой. Видимо, сюда тоже надо будет вставить свою заметку про исходную игру слов シロガネーゼ и 酵素 (こうそ)
 
 武「いや、そうではなく……」%K%P
 No, no...

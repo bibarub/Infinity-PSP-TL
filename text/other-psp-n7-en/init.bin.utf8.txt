@@ -7281,24 +7281,6 @@ Illustration: Yuna Kagesaki (unofficial collaboration)
 
 ;791c;12;END_USER.PMF
 
-;7e78;2;ア
-
-;7e80;2;カ
-
-;7e88;2;サ
-
-;7e90;2;タ
-
-;7e98;2;ナ
-
-;7ea0;2;ハ
-
-;7ea8;2;マ
-
-;7eb0;2;ヤ
-
-;7eb8;2;ラ
-
 # tips used to be there, but they're now in text/tips-psp-n7.txt
 
 ;92d8;12;ロッジ・外観
