@@ -7406,24 +7406,6 @@ Illustration: Takigawa Yuu (unofficial collaboration)
 ;5ec0;13;MOV_END01.PMF
 ;lit;
 
-;6470;2;ア
-
-;6478;2;カ
-
-;6480;2;サ
-
-;6488;2;タ
-
-;6490;2;ナ
-
-;6498;2;ハ
-
-;64a0;2;マ
-
-;64a8;2;ヤ
-
-;64b0;2;ラ
-
 # tips used to be there, but they're now in text/tips-psp-e17.txt
 
 ;75e8;16;エルストボーデン

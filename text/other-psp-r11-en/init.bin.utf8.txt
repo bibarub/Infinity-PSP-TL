@@ -6924,26 +6924,6 @@ Annihilation End (Kokoro)
 
 ;6f84;13;MOV_END01.PMF
 
-;74c8;2;ア
-
-;74d0;2;カ
-
-;74d8;2;サ
-
-;74e0;2;タ
-
-;74e8;2;ナ
-
-;74f0;2;ハ
-
-;74f8;2;マ
-
-;7500;2;ヤ
-
-;7508;2;ラ
-
-;7510;2;ワ
-
 # tips used to be there, but they're now in text/tips-psp-r11.txt
 
 ;871c;14;避難小屋・外観
