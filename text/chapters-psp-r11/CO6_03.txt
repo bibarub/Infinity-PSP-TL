@@ -311,7 +311,7 @@ Just like he says... it's useless to try...
 Как и сказал Ёмоги... пытаться совершенно бесполезно...
 
 思いかけた、その時だった――%K%P
-The moment that thought enters my head——
+The moment that thought enters my head—
 我这样想，就在这个时候——
 Как вдруг–
 
@@ -451,7 +451,7 @@ Right now, we've sought shelter at the Mount Akakura Emergency Shelter Cabin.
 Сейчас мы находимся в пункте экстренного укрытия на горе Акакура.
 
 黄泉木「ポイントはわかるだろう？　僕のＧＰＳによれば『北緯：４０度３５分３５秒／東経：１４０度５５分２０秒／標高：＋１２９８ｍ』」%K%P
-You know where that is, right? My GPS shows 40°35'35" north latitude, and 140°55'20" east longitude, altitude +1,298 meters.
+You know where that is, right? My GPS shows 40°35′35″ north latitude, and 140°55′20″ east longitude, altitude +1,298 meters.
 黄泉木「坐标你们知道吧？根据我的ＧＰＳ是“北纬：４０度３５分３５秒／东经：１４０度５５分２０秒／海拔：＋１２９８ｍ”」
 Вы же знаете, где она находится? Мой GPS показывает 40 градусов 35 минут и 35 секунд северной широты и 140 градусов 55 минут и 20 секунд южной долготы,%K%P высота 1298 метров.
 

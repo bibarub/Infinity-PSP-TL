@@ -114,12 +114,12 @@ The bell in the clock tower echoes solemnly.
 Удар колокола часовой башни торжественным эхом разносится вокруг.
 
 俺は腕時計を確かめた。%K%P
-'I' check my wristwatch.
+'I' check 'my' wristwatch.
 自己查看了一下手表。
 'Я' проверяю время на наручных часах.
 
 １６時ちょうど――。%K%P
-4 PM sharp——
+4 PM sharp—
 刚好下午４时——
 И-и четыре часа–
 
@@ -184,7 +184,7 @@ The flashes illuminate the sky with pale light.
 Вспышки освещают небо бледным светом.
 
 その刹那――。%K%P
-Then——
+Then—
 就在那一刹那——
 В этот самый момент...
 
@@ -194,7 +194,7 @@ A shadow that 'I' can't miss appears in the light.
 В свете молнии появляется тень, которую 'я' не могу не заметить.
 
 影は俺の背後から足元に向かって伸びていた。%K%P
-The shadow comes up from behind 'me' and stretches toward my feet.
+The shadow comes up from behind 'me' and stretches toward 'my' feet.
 黑影从我的背后向脚边延伸。
 Тень подбирается ко мне со спины и тянется к моим ногам.
 
@@ -354,7 +354,7 @@ Large teardrops tumble from Yuni's watery eyes.
 Из его влажных глаз катятся крупные слезинки.
 
 一瞬、窓の向こうに稲妻――。%K%P
-For an instant, a flash of lightning rushes through the sky outside the window.
+For an instant, a flash of lightning rushes through the sky outside the window—
 瞬间，窗外雷光闪过——
 На мгновение за окном вспыхивает разряд молнии.
 
@@ -449,7 +449,7 @@ The well-honed blade strikes the earth.
 Точно отточенные клинки, пронзающие землю.
 
 逆光に浮かびあがるシルエット――。%K%P
-A silhouette can be made out in the backlight——
+A silhouette can be made out in the backlight—
 逆光浮现的那个影子——
 Приближающийся силуэт освещается их светом–
 
@@ -484,7 +484,7 @@ A maddened passenger begins screaming. A strong jet of air can be felt blowing i
 Безумие нарастает. В нос бьёт запах топлива.
 
 次の瞬間――。%K%P
-And the next moment——
+And the next moment—
 下一个瞬间——
 И в этот момент–
 
@@ -566,14 +566,14 @@ Divinely, gently, ever so softly...
 %N%N%N%N%N
 
 %FS%LC感覚はない。なにも見えない。%FE%T060%T060%P
-All my senses are disappearing. My vision is gone.
+All 'my' senses are disappearing. 'My' vision is gone.
 没有感觉。什么也看不到。
 Никаких чувств. Ничего не вижу.
 
 %N%N%N%N%N
 
 %FS%LC剥ぎ取られるように意識をなくす。%FE%T060%T060%P
-As if it is being slowly peeled away, my consciousness departs 'me'.
+As if it is being slowly peeled away, 'my' consciousness departs 'me'.
 如同被剥离一般失去意识。
 Сознание меркнет.
 

@@ -1,5 +1,5 @@
 ﻿気がつくと――%K%P
-The next thing I know——
+The next thing I know—
 当恢复意识的时候——
 Когда я прихожу в себя...
 
@@ -224,7 +224,7 @@ I'll just leave everything to its natural course.
 Пусть всё так и остаётся.
 
 その時――%K%P
-And just then——
+And just then—
 这时——
 Но вдруг...
 
@@ -391,7 +391,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 
@@ -498,7 +498,7 @@ And like that, from that interval between zero and one...
 И, соответственно, интервал между нулём и единицей...
 
 ――ワタシは無理矢理に引きずり出された。%K%P
-——'''I''' am forcibly ripped out.
+—'''I''' am forcibly ripped out.
 ——我被强拽了出来。
 –меня с силой выдирает из этого ничто.
 
@@ -648,7 +648,7 @@ Ah...
 А...
 
 ――理解できた。%K%P
-——I finally understand.
+—I finally understand.
 ——我明白了。
 Наконец до меня доходит.
 
@@ -853,7 +853,7 @@ I creep back into the bathroom.
 Я плетусь обратно в туалет.
 
 ひとりでなにやってんだろ？　――という疑問がふとよぎるが、考えないことにする。%K%P
-What am I doing talking to myself? ——That question suddenly crosses my mind, but I push it to the back of my head.
+What am I doing talking to myself? —That question suddenly crosses my mind, but I push it to the back of my head.
 我一个人干什么呢？——虽然脑子里闪出了这个疑问，但我还是决定不去考虑它。
 "И что я сама с собой разговариваю?" – этот вопрос внезапно всплывает в голове, но я успешно от него отмахиваюсь.
 
@@ -888,7 +888,7 @@ Cheering myself on, I lower my pants, just like I've always done.
 Всячески себя подбадривая, я точно так же, как всегда, спускаю штаны.
 
 普段トイレに行くように、便座に腰掛け――%K%P
-And just like a normal trip to the bathroom, I take a seat on the——
+And just like a normal trip to the bathroom, I take a seat on the—
 像平时上厕所一样，坐在了马桶上——
 И так же, как и обычно, я сажусь–
 
@@ -1018,7 +1018,7 @@ Um... In ‘Groundwork for the Metaphysics of Morals’, Kant mentions ‘the st
 Эм... согласно "Метафизике нравов", "звёздное небо надо мной и моральный закон во мне" – вещи, которые Кант находил...
 
 こころ「――はうぁっ！？」%K%P
-——Auuu!?
+—Auuu!?
 心「——啊哇！？」
 Ау-у!
 
@@ -1063,7 +1063,7 @@ Tah... uhaa... guah...
 Ха... Хах... А-а-а...
 
 こころ「って、やっぱムリ――っっっ！」%K%P
-Ahhhh, I can't do iiiittt——!
+Ahhhh, I can't do iiiittt—!
 心「嗯，还是不行啊——！」
 А-а, невозможно!
 
@@ -1088,7 +1088,7 @@ If I do think about it, I'll probably burst into tears.
 Иначе я слезами зальюсь.
 
 私は、覚悟を決めて、トイレに腰掛けた――%K%P
-I make up my mind and lower myself onto the toilet——
+I make up my mind and lower myself onto the toilet—
 我决定认命，坐到了厕所里——
 Я наконец собираюсь с духом и сажусь...
 
@@ -1133,7 +1133,7 @@ I've just realized something truly horrifying.
 В этот момент я осознаю кое-что ужасное.
 
 今、避難小屋にいる私の身体には、私が今入っているこの身体の持ち主――優希堂悟の人格が宿っているかもしれないということだ！%K%P
-The owner of the body I am currently in——in other words, the personality of Yukidoh Satoru, is probably inside my body at the shelter cabin right now!
+The owner of the body I am currently in—in other words, the personality of Yukidoh Satoru, is probably inside my body at the shelter cabin right now!
 现在，在避难小屋里的我身体里面的人格，可能就是，我现在身体的主人——优希堂悟！
 Владелец тела, в котором я сейчас нахожусь... то есть личность Юкидо Сатору, скорее всего прямо сейчас находится в горной хижине, в моём теле!
 
@@ -1213,7 +1213,7 @@ When I look up, I see “him” in the mirror in front of me.
 Подняв глаза к зеркалу над раковиной, я вижу в отражении "его".
 
 彼――優希堂悟。%K%P
-Him——Yukidoh Satoru.
+Him—Yukidoh Satoru.
 他——优希堂悟。
 Юкидо Сатору.
 
@@ -1258,7 +1258,7 @@ I've just realized something truly horrifying.
 В этот момент я осознаю кое-что ужасное.
 
 今、避難小屋にいる私の身体には、私が今入っているこの身体の持ち主――優希堂悟の人格が宿っているかもしれないということだ！%K%P
-The owner of the body I am currently in——in other words, the personality of Yukidoh Satoru, is probably inside my body at the shelter cabin right now!
+The owner of the body I am currently in—in other words, the personality of Yukidoh Satoru, is probably inside my body at the shelter cabin right now!
 现在，在避难小屋里的我身体里面的人格，可能就是，我现在身体的主人——优希堂悟！
 Владелец тела, в котором я сейчас нахожусь... то есть личность Юкидо Сатору, скорее всего прямо сейчас находится в горной хижине, в моём теле!
 
@@ -1678,7 +1678,7 @@ If my partner in this had been a wimp who only freaked out when facing the truth
 Окажись моим напарником слабак, только и способный ныть "что делать, что же делать?", тогда у нас не было бы и шанса во всём разобраться.
 
 しかし――%K%P
-But——
+But—
 但是——
 Но...
 

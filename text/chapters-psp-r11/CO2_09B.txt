@@ -124,7 +124,7 @@ Was the breaker tripped by the earthquake after all?
 Значит, всё же свет пропал из-за землетрясения?
 
 私は、段ボールから降りようとした時――%K%P
-The moment I try to get down from the cardboard box——
+The moment I try to get down from the cardboard box—
 我正打算从纸箱上下来的时候——
 В момент, когда я начинаю слезать с коробки...
 
@@ -434,7 +434,7 @@ Yuni's expression grows complex.
 Выражение лица Юни становится всё более озадаченным.
 
 優希堂悟の中に『冬川こころ』が入っている――その違和感を、そう簡単には払拭できないのだろう。%K%P
-“Fuyukawa Kokoro” has entered Yukidoh Satoru——it's probably too difficult to erase that sense of incompatibility.
+“Fuyukawa Kokoro” has entered Yukidoh Satoru—it's probably too difficult to erase that sense of incompatibility.
 “冬川心”进入了优希堂悟之中——这种别扭的感觉，不是那么容易摆脱的吧。
 Фуюкава Кокоро внутри Юкидо Сатору. Наверное, трудно привыкнуть к такому несоответствию.
 
@@ -1120,7 +1120,7 @@ There's no reason to beat around the bush, so I'll just go ahead and write it.
 Не вижу смысла ходить вокруг да около, поэтому напишу прямо:
 
 涼蔭穂鳥――。穂鳥ちゃん……。%K%N
-Suzukage Hotori——Hotori-chan...
+Suzukage Hotori—Hotori-chan...
 凉荫穗鸟——穗鸟……
 Судзукагэ Хотори... Хотори-тян...
 
@@ -1175,7 +1175,7 @@ Please be careful, just in case.
 На всякий случай будь осторожен.
 
 次は、ゆにのこと――。%K%N
-Next, about Yuni——
+Next, about Yuni—
 接下来，是关于悠尼的事——
 Далее, по поводу Юни...
 
@@ -1270,7 +1270,7 @@ I have two more things I want you to tell me.
 Есть ещё две вещи, которые я хотела у тебя узнать.
 
 ひとつめは、スフィアのこと――。%K%N
-The first is about SPHIA——
+The first is about SPHIA—
 其一是ＳＰＨＩＡ——
 Первая – о SPHIA.
 
@@ -1290,7 +1290,7 @@ Like how to get outside and how to communicate with the outside world...
 Например, как отсюда выбраться или как связаться с внешним миром...
 
 ふたつめは、避難小屋のこと――。%K%N
-The second is about the shelter cabin——
+The second is about the shelter cabin—
 其二是避难小屋——
 И вторая – по поводу горной хижины.
 
@@ -1320,7 +1320,7 @@ As an apology, here's the report...
 В качестве извинения вот небольшой отчёт:
 
 まずは地震のこと――。%K%N
-First, about the earthquake——
+First, about the earthquake—
 首先是关于地震——
 Сперва о землетрясении...
 
@@ -1340,7 +1340,7 @@ It's fixed now, though.
 Сейчас проблему уже решили.
 
 それから転移の時間――。%K%N
-And the times of transfer——
+And the times of transfer—
 其次是转移的时间——
 По поводу времени переносов...
 
@@ -1470,7 +1470,7 @@ Later then...
 До скорого...
 
 追伸――。%K%N
-P.S.——
+P.S.—
 另——
 P.S.
 
@@ -1487,7 +1487,7 @@ Don't touch it too much, okay!? Rather, don't touch it at all!
 %N
 
 追伸２――。%K%N
-P.P.S.——
+P.P.S.—
 另２——
 P.P.S.
 
@@ -1497,7 +1497,7 @@ Come to think of it, I forgot to write something important!
 Совсем вылетело из головы!
 
 ――新聞のこと。%K%N
-——About the newspaper.
+—About the newspaper.
 ——关于报纸。
 Про газету.
 

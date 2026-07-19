@@ -34,7 +34,7 @@ He lifts Yuni's body in his arms and begins to carry him on his back.
 С этими словами он поднимает его на руки и водружает на своё плечо.
 
 私は――%K%p
-I——
+I—
 我——
 Я...
 
@@ -339,7 +339,7 @@ I can't walk anymore...
 Больше не могу идти...
 
 絶望に苛まれ、その場に崩れ落ちそうになったとき――%K%P
-Just when I'm about to collapse, despair threatening to swallow me——
+Just when I'm about to collapse, despair threatening to swallow me—
 正在我被绝望折磨着快要倒下去的时候——
 И, когда я уже оказываюсь на грани отчаяния и чувствую, что вот-вот упаду...
 
@@ -511,7 +511,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 

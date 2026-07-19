@@ -4,7 +4,7 @@ Without warning, I'm plunged into complete darkness.
 Вдруг всё вокруг погружается в беспросветный мрак.
 
 瞬間――左腕に激痛が走る。%K%P
-And a moment later——a sharp pain travels up my left arm.
+And a moment later—a sharp pain travels up my left arm.
 瞬间——左臂激痛袭来。
 Мгновением позже сильная резкая боль пронзает мою левую руку.
 
@@ -84,7 +84,7 @@ In the first place, why is it that I'm standing up right now when I was sitting 
 И, прежде всего, почему я стою, тогда как только что сидел?
 
 つまり――転移したのだ。スフィアに。%K%P
-Basically——I've transferred. To SPHIA.
+Basically—I've transferred. To SPHIA.
 就是说——转移了。这里是ＳＰＨＩＡ。
 Иначе говоря... Я перенёсся в SPHIA.
 
@@ -204,12 +204,12 @@ Memories from yesterday arise like flashbacks.
 Я вспоминаю события вчерашнего дня.
 
 ――時計台からの転落。%K%P
-——My fall from the clock tower.
+—My fall from the clock tower.
 ——从钟楼上跌落。
 – Падение с башни.
 
 ――バスタブで溺れかけたこと。%K%P
-——My nearly drowning in the bathtub.
+—My nearly drowning in the bathtub.
 ——在浴缸里溺水。
 – Попытка утопить меня в ванне.
 
@@ -259,7 +259,7 @@ The exposed blade glitters in the dark.
 Он снова и снова отбрасывает свой мертвенный отблеск.
 
 ――殺される！%K%P
-——I'll be killed!
+—I'll be killed!
 ——会被杀！
 Меня убьют!
 
@@ -294,7 +294,7 @@ This is my chance!
 Это мой шанс!
 
 この隙に刃物さえ奪えば――。%K%P
-If I can use this opening to disarm it——
+If I can use this opening to disarm it—
 趁这个间隙把刀夺走的话——
 Если мне удастся воспользоваться полученным преимуществом, то смогу завладеть ножом...
 
@@ -446,7 +446,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 
@@ -538,12 +538,12 @@ My entire body is covered in a cold sweat.
 Тело покрывается холодным потом.
 
 このままでは――%K%P
-At this rate——
+At this rate—
 这样下去的话——
 Меня же так–
 
 ――殺される！！%K%P
-——I'll be killed!
+—I'll be killed!
 ——会被杀！！
 ...Меня убьют!
 

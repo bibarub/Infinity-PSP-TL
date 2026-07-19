@@ -214,12 +214,12 @@ Her eyes are hollow and somehow frail.
 Её глаза выглядят пустыми и безжизненными.
 
 不意に穂鳥はまばたきを繰り返し――%K%P
-Suddenly, Hotori blinks several times——
+Suddenly, Hotori blinks several times—
 突然间，穗鸟眨了眨眼睛——
 Неожиданно она несколько раз моргает...
 
 自らの身体と、手に持ったナイフに目を落とし――%K%P
-She looks down at her body and the knife she's holding——
+She looks down at her body and the knife she's holding—
 目光落在自己的身体和手持的小刀上——
 ...смотрит на себя, на нож, который всё ещё сжимает в руке...
 
@@ -704,22 +704,22 @@ Th... This... is...?
 Э... это?..
 
 続いて血まみれの穂鳥を見て――%K%P
-Then, looking at the bloodstained Hotori——
+Then, looking at the bloodstained Hotori—
 接着她看到了浑身染满鲜血的穗鸟——
 Она переводит взгляд на испачканную кровью Хотори...
 
 唇をかすかに歪めて――%K%P
-Curving her lips slightly——
+Curving her lips slightly—
 嘴唇微微扭曲了——
 Её губы немного изгибаются...
 
 ニヤリと――%K%P
-She grins——
+She grins—
 她——
 ...она усмехается...
 
 笑った――。%K%P
-And laughs——
+And laughs—
 笑了——
 ...и заливается смехом.
 
@@ -1004,7 +1004,7 @@ My thoughts go around in circles.
 Все мои мысли об одном.
 
 あのナイフは――%K%P
-That knife——
+That knife—
 那把小刀是——
 Этот нож...
 
@@ -1019,7 +1019,7 @@ If I can get it, it won't end up in the hands of a killer.
 Если я возьму его, то он не окажется в руках настоящего преступника.
 
 他のふたりに――部屋の隅で泣いているゆにも含めれば３人に――ナイフを奪われたら、私の命は限りなく危険にさらされる。%K%P
-The other two in the room——three if you count Yuni, who's crying in the corner——if one of them snatches it away, my life will be in immeasurable danger.
+The other two in the room—three if you count Yuni, who's crying in the corner—if one of them snatches it away, my life will be in immeasurable danger.
 如果小刀被其他两人——算上在房间角落里哭泣的悠尼一共三人——夺去的话，我的生命就非常危险。
 Двое других в этой комнате – трое, если считать Юни, который плачет в углу, – если один из них завладеет ножом, моя жизнь будет в большой опасности.
 
@@ -1029,7 +1029,7 @@ I don't know who the culprit is, so there's no way I'll hand the knife over to a
 Я не знаю, кто из них злоумышленник, поэтому не должна допустить, чтобы нож попал в руки кому-либо, кроме меня.
 
 でも――%K%P
-But——
+But—
 但是——
 Но...
 
@@ -1049,12 +1049,12 @@ not just me, but everyone else will also be killed...
 не только я, но и все остальные будут также убиты...
 
 それに――%K%P
-And besides——
+And besides—
 而且——
 И к тому же...
 
 ナイフを手に入れたところで、私は――%K%P
-Assuming I can get the knife, I——
+Assuming I can get the knife, I—
 就算我拿到了小刀，我——
 Если допустить, что я подберу нож...
 
@@ -1139,22 +1139,22 @@ My legs are frozen.
 Мои ноги напряжены.
 
 もしも――%K%P
-If——
+If—
 如果——
 Если...
 
 穂鳥と内海、どちらがナイフを手にしても――%K%P
-If either Hotori or Utsumi gets hold of that knife——
+If either Hotori or Utsumi gets hold of that knife—
 穗鸟和内海，不管哪一方拿到了小刀——
 Если Хотори или Уцуми завладеют этим ножом...
 
 いずれにせよ、誰かが傷つく――%K%P
-Either way, someone will definitely get hurt——
+Either way, someone will definitely get hurt—
 最终都会有人受伤——
 Так или иначе, одна из них пострадает...
 
 私を含む誰かが、死ぬ――%K%P
-Someone, including me, will die——
+Someone, including me, will die—
 有人会死，很可能就是我——
 И кто-то близкий мне умрёт...
 
@@ -1219,7 +1219,7 @@ I reach for the knife with all my might.
 Я изо всех сил стремлюсь завладеть ножом.
 
 しかし――%K%P
-But——
+But—
 但是——
 Но...
 
@@ -1274,7 +1274,7 @@ I all but roll into a standing position.
 Я перекатываюсь и встаю на ноги.
 
 穂鳥「――――ッ！」%K%P
-————!
+———!
 穗鸟「————！」
 ...нх!
 
@@ -1379,12 +1379,12 @@ Letting out a scream, she swings her knife randomly.
 Вскрикнув, она случайно взмахивает ножом.
 
 そのすぐ横を、ゆにがすり抜けていこうとして――%K%P
-From right beside her, Yuni turns and——
+From right beside her, Yuni turns and—
 而悠尼正想从她身旁穿过——
 Оказавшись рядом с ней, Юни поворачивается и...
 
 ゆにを狙ったというよりも、ナイフを振り回したところにタイミング悪くゆにがいた、という感じだった――%K%P
-It isn't that she's targeting Yuni, he's just in the wrong place at the wrong time——
+It isn't that she's targeting Yuni, he's just in the wrong place at the wrong time—
 与其说是她在瞄准悠尼，倒不如说就在她挥舞小刀的时候悠尼正好经过那里——
 Кажется, что всё происходит потому, что Юни оказался не в то время не в том месте, а не потому, что он был целью–
 
@@ -1464,12 +1464,12 @@ The scene of Hotori facing Utsumi with the knife held over her head enters my fi
 Я вижу, как Хотори заносит нож, готовая в любой момент ударить Уцуми.
 
 なんとかしなきゃ――%K%P
-Do something——
+Do something—
 必须得想个办法——
 Надо что-нибудь предпринять...
 
 私が、なんとかしなきゃ――%K%P
-I-I have to do something——
+I-I have to do something—
 我必须得想个办法——
 Я... Я должна что-то предпринять...
 
@@ -1539,12 +1539,12 @@ Through blurry eyes, I see Utsumi pick up the knife.
 Сквозь них я вижу, как Уцуми подбирает нож.
 
 鋭い目で、私を――%K%P
-With sharp eyes, she looks at me——
+With sharp eyes, she looks at me—
 用锐利的目光，瞪着我——
 Она смотрит на меня свирепым взглядом...
 
 違う、私が羽交い締めにしている穂鳥を――睨みつけてきた。%K%P
-No, she's glaring at Hotori——who I'm pinning down.
+No, she's glaring at Hotori—who I'm pinning down.
 不对，是瞪着被我反剪双臂的——穗鸟。
 Нет, она смотрит на Хотори, которую я держу.
 

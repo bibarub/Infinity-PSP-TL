@@ -364,7 +364,7 @@ Checking the time and then listening to the voice recorder.
 Проверить время и прослушать запись на диктофоне.
 
 時刻――午後１時５７分。%K%N
-Present time——1:57 PM.
+Present time—1:57 PM.
 时刻——下午１时５７分。
 Текущее время – 13:57.
 
@@ -1484,7 +1484,7 @@ I'm certain that he knows something vital.
 Уверен, он скрывает какую-то крайне важную информацию.
 
 とりあえず、最低でも『どうしてスフィアにゆにの肉体があるのか？』――そのことを問い質してみなければならない。%K%P
-For now, I at least have to ask him——“Why is Yuni's body at SPHIA?”
+For now, I at least have to ask him—“Why is Yuni's body at SPHIA?”
 总之，至少必须要问他——“为什么悠尼的肉体会在ＳＰＨＩＡ？”。
 В первую очередь нужно спросить его, откуда в SPHIA взялся Юни.
 

@@ -74,17 +74,17 @@ My whole body is gasping for oxygen.
 Тело ломает от нехватки кислорода.
 
 ――なんだ！？%K%P
-——What!?
+—What!?
 ——什么！？
 –Что?!
 
 ――どういうことだ！？%K%P
-——What the hell is this!?
+—What the hell is this!?
 ——怎么回事！？
 –Да что это такое?!
 
 ――何が起きたっていうんだ！？%K%P
-——What the hell is going on!?
+—What the hell is going on!?
 ——发生了什么事！？
 –Что это за чертовщина?!
 
@@ -381,7 +381,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 
@@ -453,7 +453,7 @@ Survived... I guess...
 ...похоже... выжил...
 
 するとそのとき――。%K%P
-And right at that moment——
+And right at that moment—
 就在这时——
 И в этот момент...
 

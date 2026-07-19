@@ -84,7 +84,7 @@ It'll take slightly under an hour to get to Location X no matter how much I hurr
 Если я поспешу, то дорога до точки X займёт чуть меньше часа.
 
 もし――%K%P
-If——
+If—
 如果——
 Что, если...
 
@@ -203,7 +203,7 @@ At this rate... he'll die...
 Он так... умрёт...
 
 こころ「――――！」%K%P
-————!
+———!
 心「————！」
 ––!
 
@@ -373,7 +373,7 @@ This will make it easier to spot Yomogi as well.
 Мне будет легче заметить Ёмоги.
 
 これならばさっきより早く、小屋から東に１ｋｍの地点――Ｘ地点までたどり着けるかも知れない。%K%P
-With things like this, I might reach the area a kilometer east of the cabin——Location X——more quickly than before.
+With things like this, I might reach the area a kilometer east of the cabin—Location X—more quickly than before.
 照这样子看说不定可以比先前更快到达小屋东面１公里的地方——Ｘ地点。
 При таких условиях я смогу добраться до точки X намного быстрее, чем раньше.
 
@@ -523,12 +523,12 @@ I swallow my saliva to help moisten my dry throat.
 В горле пересохло, и я сглатываю слюну.
 
 私は、%K%P
-I
+I...
 我……
 Я,
 
 痺れたように震える足に力を込め、%K%P
-put strength into my numb and shaking legs,
+...put strength into my numb and shaking legs,
 将力气注入已经麻痹正在发抖的脚上……
 сосредоточив все оставшиеся силы в своих окоченевших и дрожавших ногах,
 
@@ -543,12 +543,12 @@ open my eyes,
 открываю глаза
 
 行く手を見据えた――%K%P
-and look up at the path ahead of me——
+and look up at the path ahead of me—
 注视着前进的方向——
 и смотрю вперёд–
 
 こころ「――――！？」%K%P
-————!?
+———!?
 心「————！？」
 ––?!
 
@@ -653,7 +653,7 @@ I'm still “Fuyukawa Kokoro” right now.
 Я всё ещё Фуюкава Кокоро.
 
 なのに――%K%P
-But——
+But—
 但是——
 Но...
 
@@ -703,7 +703,7 @@ The entire kilometer before Location X should be all a continuous snowy mountain
 За километр до точки X должна лежат лишь заснеженная гора.
 
 なのに、どうして、海が――？%K%P
-But then, why... an ocean——?
+But then, why... an ocean—?
 可是……为什么是大海——？
 А раз так, то... откуда тут взялось море?
 
@@ -768,17 +768,17 @@ The things I thought were absolute have completely fallen apart.
 То, что я считала абсолютным и незыблемым... порушилось в мгновение ока.
 
 何が現実で――%K%P
-What is reality——
+What is reality—
 哪些是现实——
 Что есть реальность?
 
 何が虚構なのか――%K%P
-What is fiction——
+What is fiction—
 哪些是虚幻——
 Что есть выдумка?
 
 そもそも、この世界に現実なんてあるのか――%K%P
-Is there any such thing as reality in this world in the first place——
+Is there any such thing as reality in this world in the first place—
 说到底这个世界是真实的吗——
 Есть ли в этом мире вообще понятие "реальность"?
 
@@ -918,7 +918,7 @@ I don't know either...!
 Я сама не понимаю!..
 
 ゆに「ねー、すっごく冷たいよ！　本物の海だよ！」%K%P
-Hey, it's rea——lly cold! It's the real ocean!
+Hey, it's rea—lly cold! It's the real ocean!
 悠尼「好冷啊！这真的是大海啊！」
 Эй! Вода такая холодная! Это настоящее море!
 
@@ -1143,7 +1143,7 @@ I shout at the top of my lungs as I run.
 Кричу я изо всех сил.
 
 私は走る――%K%P
-I run——
+I run—
 我跑着——
 Я бегу...
 
@@ -1153,12 +1153,12 @@ The sunrise shines in on us. The light is strong enough to blind me.
 Солнце поднимается всё выше. Его лучи ослепляют меня.
 
 激しい波がうち寄せる海面を――%K%P
-Violent waves are drawn in from the sea——
+Violent waves are drawn in from the sea—
 阳光下，波涛汹涌的海面——
 Неистовые волны бьются о берег.
 
 白銀色の雪を――%K%P
-and silver-white snow——
+and silver-white snow—
 银白色的积雪——
 И серебряно-белый снег...
 
@@ -1223,31 +1223,31 @@ As I shield my eyes from the sunlight with one hand, they suddenly freeze on wha
 Прикрыв рукой глаза от солнечного света, я застываю на месте от увиденного.
 
 こころ「あなたは――」%K%P
-You're——
+You're—
 心「你是——」
 Ты–
 
 違う――%T060
-No——
+No—
 不对——
 Нет...
 
 %P
 
 黄泉木じゃない――%T060
-That isn't Yomogi——
+That isn't Yomogi—
 那不是黄泉木——
 Это не Ёмоги.
 
 %P
 
 彼は――
-That's——
+That's—
 他是——
 Это–
 
 こころ「――――！？」%V
-————!?
+———!?
 心「————！？」
 ?!
 
@@ -1359,7 +1359,7 @@ The one I've always wanted to see.
 %P
 
 でも――%T030
-But——
+But—
 但是——
 Однако–
 
@@ -1394,7 +1394,7 @@ He's someone who shouldn't be here.
 %P
 
 優希堂悟――。%T030
-Yukidoh Satoru——
+Yukidoh Satoru—
 优希堂悟——。
 Юкидо Сатору.
 
@@ -1462,7 +1462,7 @@ Is the Satoru standing in front of me...
 Сатору, стоящий передо мной...
 
 本物なの――？%T030
-real——?
+real—?
 是真的吗——？
 реален ли он?
 
@@ -1474,7 +1474,7 @@ Is what I'm looking at right now...
 То, что я сейчас вижу...
 
 本物なの――？%T030
-real——?
+real—?
 是真的吗——？
 реально?
 
@@ -1486,7 +1486,7 @@ Is this world...
 Этот мир...
 
 本物なの――？%T030
-real——?
+real—?
 是真的吗——？
 реален?
 
@@ -1738,35 +1738,35 @@ His words don't enter my ears.
 %P
 
 ただ、置いていかれたくない一心で――%T030
-With only the feeling of not wanting to be left behind——
+With only the feeling of not wanting to be left behind—
 心里只是一味地想不要丢下我——
 Не желая остаться брошенной,
 
 %P
 
 私は悟の背中を追いかける――%T030
-I chase after Satoru's back——
+I chase after Satoru's back—
 我追随着悟的背影——
 я пускаюсь вслед за Сатору.
 
 %P
 
 たとえこの世界が現実じゃないとしても――%T030
-Because even if this isn't reality——
+Because even if this isn't reality—
 即使这个世界不是真实的——
 Ведь, даже если этот мир не реален,
 
 %P
 
 もう、私が頼れるのは――%T030
-the only one I can rely on now——
+the only one I can rely on now—
 我能够依赖的——
 единственный, на кого я сейчас могу положиться,
 
 %P
 
 悟だけだから――。%T030
-is Satoru——
+is Satoru—
 也只有悟——。
 это Сатору.
 
@@ -1836,14 +1836,14 @@ That's right...
 %P
 
 光を超えて――。%T030
-Exceeding light...
+Exceeding light—
 超越光速——
 Обгоняя свет...
 
 %P
 
 無限をも、超えて――。%T030
-Exceeding infinity...
+Exceeding infinity—
 也超越无限——
 и выходя за рамки бесконечности.
 

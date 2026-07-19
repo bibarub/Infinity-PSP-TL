@@ -239,7 +239,7 @@ I reach deep into my bed, putting my hand under the pillow.
 Я заваливаюсь на кровать, шаря рукой под подушкой.
 
 だが――%K%P
-However——
+However—
 但是——
 Но...
 
@@ -649,7 +649,7 @@ I doubt my own eyes.
 Когда я открываю её, то не верю своим глазам.
 
 缶の中には――%K%P
-The can——
+The can—
 罐子里面——
 Внутри...
 
@@ -1194,7 +1194,7 @@ They're trying to pin a crime on me that I don't even remember committing...
 Они пытаются обвинить меня, но я даже не помню, как совершала преступление...
 
 私だってずっと空腹に耐えているのに――%K%P
-Even though I've been enduring the hunger all this time——
+Even though I've been enduring the hunger all this time—
 我还不是一直饿着肚子在忍耐吗——
 И я же всё это время терпела голод–
 
@@ -1204,17 +1204,17 @@ At that moment, I suddenly realize.
 И вдруг я замечаю...
 
 私はいま――%K%N
-Right now, I'm——
+Right now, I'm—
 我现在——
 Сейчас я...
 
 お腹が――%K%N
-not——
+not—
 肚子——
 не...
 
 すいていない――%K%P
-hungry——
+hungry—
 并不饿——
 голодна...
 
@@ -1304,7 +1304,7 @@ momentarily glances in my direction.
 смотрит на меня.
 
 こころ「――――っ！」%K%P
-————!
+———!
 心「————！」
 ...!
 
@@ -1614,7 +1614,7 @@ I'm suddenly overcome with an extraordinary sense of loneliness.
 В этот момент я ощущаю щемящее чувство полного одиночества.
 
 私はひとりじゃない、助け合う仲間がいる――そう思っていたのに。%K%P
-“I'm not alone, I have comrades that will help me”——that's what I thought.
+“I'm not alone, I have comrades that will help me”—that's what I thought.
 我不是孤单一人，我有互相帮助的同伴在——我曾经这么想。
 "Я не одна, у меня есть товарищи, которые мне помогут", – так я думала.
 
@@ -1954,7 +1954,7 @@ I desire that from the bottom of my heart.
 Ничего в своей жизни я не желала больше.
 
 でも――%K%P
-But——
+But—
 可是——
 Но...
 
@@ -1999,7 +1999,7 @@ Even though that shouldn't be possible, I inadvertently think it, and my chest i
 Я знаю, что это невозможно, но волей-неволей думаю об этом, всё больше и больше себя накручивая.
 
 あまりにも不安になった私は――%K%p
-Feeling overcome with anxiety, I——
+Feeling overcome with anxiety, I—
 由于不安太过强烈，我——
 Поглощённая беспокойством, я...
 
@@ -2059,7 +2059,7 @@ Holding my knees, I close my eyes.
 Я обхватываю руками колени и закрываю глаза.
 
 大丈夫。大丈夫だ――そう自分に必死に言い聞かせる。%K%P
-It's going to be okay. It's going to be okay——I desperately try to persuade myself.
+It's going to be okay. It's going to be okay—I desperately try to persuade myself.
 不要紧。不要紧的——我拼命这么告诉自己。
 "Всё будет хорошо, всё будет хорошо", – отчаянно пытаюсь я убедить себя в этом.
 
@@ -2399,7 +2399,7 @@ Yuni's lovable, tender nature is almost too much to bear.
 Меня настолько трогает эта его доброта, что это практически невыносимо.
 
 私はそっとゆにのメガネに手を――%K%P
-I gently put my hand on Yuni's glasses——
+I gently put my hand on Yuni's glasses—
 我偷偷地把手伸向悠尼的眼镜——
 Я медленно снимаю с него очки...
 
@@ -2794,7 +2794,7 @@ I have comrades who can help me.
 Со мной товарищи, которые придут на помощь.
 
 全員で力を合わせれば、きっと生き延びられる――%K%P
-If we all work together, we'll survive for sure——
+If we all work together, we'll survive for sure—
 只要大家通力合作，一定能够活下去——
 Если мы будем действовать сообща, то обязательно спасёмся...
 

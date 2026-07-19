@@ -274,7 +274,7 @@ However, the act of combining three people's food into one brought me a lot of h
 Однако объединение порций трёх людей воедино давало нам некоторую надежду.
 
 運命を共にする仲間がいる――そんな希望を。%K%P
-The hope——of having comrades sharing the same fate.
+The hope—of having comrades sharing the same fate.
 因为——我还有同甘苦共患难的同伴在。
 Надежду, что мы не одни, что рядом есть люди, разделяющие с тобой одну и ту же судьбу.
 
@@ -454,7 +454,7 @@ Stay back! You damn brat!
 Не подходи, мелкий засранец!
 
 黛は、斧を振り下ろそうとする――%K%p
-Mayuzumi tries to swing the ax down——
+Mayuzumi tries to swing the ax down—
 黛挥起了斧子——
 Маюдзуми замахивается топором...
 
@@ -494,7 +494,7 @@ Kokoron!
 Кокорон!
 
 黛が迫る――！%K%P
-Mayuzumi's getting closer——!
+Mayuzumi's getting closer—!
 黛过来了——！
 Маюдзуми приближается...
 
@@ -679,12 +679,12 @@ While I studied those things, the realization may have budded inside of me that 
 Понимание, возможно, пришло ко мне в процессе обучения, когда раз за разом приходилось сталкиваться с подобными примерами.
 
 私は、闇に飲み込まれたくない――%K%P
-I don't want to be swallowed by the darkness——
+I don't want to be swallowed by the darkness—
 我不想被阴暗面吞噬——
 Я не хочу, чтобы тьма меня поглотила...
 
 人間としての尊厳を失いたくないという想いが――%K%P
-I don't want to lose my human dignity——
+I don't want to lose my human dignity—
 不想失去做人应有的尊严——
 Я не хочу потерять своё человеческое достоинство...
 
@@ -944,7 +944,7 @@ Yuni begins to condemn Mayuzumi for what she's done, but he quickly shuts his mo
 ......
 
 泣いていた――%K%P
-She's crying——
+She's crying—
 她在哭泣——
 Плач...
 
@@ -1094,7 +1094,7 @@ We wrap ourselves in our blankets and sink into silence once again.
 Мы заворачиваемся в одеяла, и в хижине вновь воцаряется тишина.
 
 また、寒さとの長い戦いが始まる――%K%P
-Our long battle with the cold resumes——
+Our long battle with the cold resumes—
 和严寒的漫长战斗再次开始——
 Наша затянувшаяся битва с холодом продолжается...
 
@@ -1169,7 +1169,7 @@ and while still lying down, she swings the ax.
 падаю, и Маюдзуми быстро хватает в руки топор.
 
 目の前に、鋭く光る刃が迫り――%K%P
-Right before my eyes, the sharp glitter of a blade approaches——
+Right before my eyes, the sharp glitter of a blade approaches—
 眼前，一道锐利的光芒闪过——
 В следующее мгновение перед глазами ярко вспыхивает блеск приближающегося лезвия...
 
@@ -1201,7 +1201,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 

@@ -134,7 +134,7 @@ First, I have to confirm the time...
 Прежде всего, я должна узнать время...
 
 ――って、やっぱり腕時計がない！%K%P
-——Argh, as I thought, the wristwatch isn't here!
+—Argh, as I thought, the wristwatch isn't here!
 ——手表果然不在了。
 ...тц, так и думала, что часов не будет!
 
@@ -154,7 +154,7 @@ I check in my pocket.
 Я проверяю карманы...
 
 ――ない。%K%P
-——Not here.
+—Not here.
 ——没有。
 Нету.
 
@@ -164,7 +164,7 @@ The ladder of the bunk bed.
 Лестница у кровати...
 
 ――ない。%K%P
-——Not here.
+—Not here.
 ——没有。
 Нету.
 
@@ -174,7 +174,7 @@ Turning my head around, I survey the place.
 Я принимаюсь оглядывать комнату и повсюду их искать.
 
 ――あった。%K%P
-——Found it.
+—Found it.
 ——有了。
 Нашла!
 
@@ -644,7 +644,7 @@ Isn't it... the plane crash?
 Разве это... не авиакатастрофа?
 
 こころ「ゆにったら、やっぱりインチキ――」%K%P
-Yuni's a faker after all——
+Yuni's a faker after all—
 心「悠尼果然是骗子——」
 Юни всё-таки мошенник...
 
@@ -709,7 +709,7 @@ I think he's referring to that, but,
 Наверное, речь об этом.
 
 違う――。%K%P
-I'm wrong——
+I'm wrong—
 可是我错了——
 Да, скорее все–
 
@@ -729,17 +729,17 @@ I take a hard look at the eyes of the child in front of me.
 Я пристально заглядываю ему в глаза.
 
 ゆにのまん丸な目は、澄みきっていて――%K%P
-Yuni's full, round eyes are clear——
+Yuni's full, round eyes are clear—
 悠尼浑圆的瞳孔是那么清澈——
 Широко раскрытые глаза Юни такие кристально чистые...
 
 吸い込まれそうに感じるほど深くて――%K%P
-And so deep, I feel I'm being sucked into them——
+And so deep, I feel I'm being sucked into them—
 好像要将人吸入一般深邃——
 ...и такие глубокие, что кажется, будто я тону в них.
 
 私は呼吸をするのも忘れ――%K%P
-I forget to even breathe——
+I forget to even breathe—
 我甚至忘记了呼吸——
 Я даже перестаю дышать...
 
@@ -1244,7 +1244,7 @@ So then, who!?
 И с кем же?!
 
 黛「もしかして――」%K%P
-Could it be——
+Could it be—
 黛「难道是——」
 Может быть...
 

@@ -309,12 +309,12 @@ No! No! No! Stop it!
 Нет! Не вернусь! Не вернусь! Хватит!
 
 錯乱の態で暴れる彼女――。%K%P
-As she continues to thrash about——
+As she continues to thrash about—
 错乱发狂的她——
 Она продолжает яростно вырываться.
 
 どうにかして押さえつけようとするオレ――。%K%P
-And I try to somehow hold her down——
+And I try to somehow hold her down—
 想尽办法压制的我——
 И в этот момент, когда я пытаюсь её успокоить...
 
@@ -624,7 +624,7 @@ When I do, he'll still be alive a year later...
 Если мне это удастся, он до сих пор будет жив...
 
 悟「だから――」%K%P
-So——
+So—
 悟「所以说——」
 Вот почему–
 
@@ -859,7 +859,7 @@ Her eyes fall to one of the photographs...
 Она смотрит на одну из фотографий...
 
 黄泉木潤一くん――。%K%N
-Yomogi Junichi-kun——
+Yomogi Junichi-kun—
 黄泉木润一——
 Ёмоги Дзюнъити-кун...
 
@@ -1251,7 +1251,7 @@ Time passed in an instant.
 %N%N%N%N%N
 
 %FS%LCそして――２００９年１月１４日――。%FE%K%O
-And then——on January 14th, 2009——
+And then—on January 14th, 2009—
 时间到了——２００９年１月１４日——
 И вот наступило 1 января 2009 года...
 

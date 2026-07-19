@@ -9,7 +9,7 @@ Right as I think that, the scenery around me shifts.
 Не успеваю я додумать мысль, как обстановка вокруг меня молниеносно меняется.
 
 左腕に熱い痛み――。%K%P
-A hot pain in my left arm——
+A hot pain in my left arm—
 左臂一阵灼痛——
 Сильная боль пронзает левую руку.
 
@@ -114,7 +114,7 @@ I manage to move my right arm far enough to take out my wristwatch.
 Собравшись с силами, я достаю из кармана часы.
 
 現在時刻――午後８時８分。%K%P
-Present time——8:08 PM.
+Present time—8:08 PM.
 现在时刻——晚上８时０８分。
 Текущее время – 20:08.
 
@@ -501,7 +501,7 @@ There's no reason to beat around the bush, so I'll just go ahead and write it.
 Не вижу смысла ходить вокруг да около, поэтому напишу прямо:
 
 涼蔭穂鳥――。穂鳥ちゃん……。%K%N
-Suzukage Hotori——Hotori-chan...
+Suzukage Hotori—Hotori-chan...
 凉荫穗鸟——穗鸟……
 Судзукагэ Хотори... Хотори-тян...
 
@@ -556,7 +556,7 @@ Please be careful, just in case.
 На всякий случай будь осторожен.
 
 次は、ゆにのこと――。%K%N
-Next, about Yuni——
+Next, about Yuni—
 接下来，是悠尼的事——
 Далее, по поводу Юни...
 
@@ -651,7 +651,7 @@ I have two more things I want you to tell me.
 Есть ещё две вещи, которые я хотела у тебя узнать.
 
 ひとつめは、スフィアのこと――。%K%N
-The first is about SPHIA——
+The first is about SPHIA—
 其一是ＳＰＨＩＡ——
 Первая – о SPHIA.
 
@@ -671,7 +671,7 @@ Like how to get outside and how to communicate with the outside world...
 Например, как отсюда выбраться или как связаться с внешним миром...
 
 ふたつめは、避難小屋のこと――。%K%N
-The second is about the shelter cabin——
+The second is about the shelter cabin—
 其二是避难小屋——
 И вторая – по поводу горной хижины.
 
@@ -701,7 +701,7 @@ As an apology, here's the report...
 В качестве извинения вот небольшой отчёт:
 
 まずは地震のこと――。%K%N
-First, about the earthquake——
+First, about the earthquake—
 首先是关于地震——
 Сперва о землетрясении...
 
@@ -721,7 +721,7 @@ It's fixed now, though.
 Сейчас проблему уже решили.
 
 それから転移の時間――。%K%N
-And the times of transfer——
+And the times of transfer—
 其次是转移的时间——
 По поводу времени переносов...
 
@@ -851,7 +851,7 @@ Later then...
 До скорого...
 
 追伸――。%K%N
-P.S.——
+P.S.—
 另——
 P.S.
 
@@ -866,7 +866,7 @@ Don't touch it too much, okay!? Rather, don't touch it at all!
 Слишком много не трогай, ладно? Точнее, вообще не трожь!
 
 追伸２――。%K%N
-P.P.S.——
+P.P.S.—
 另２——
 P.P.S.
 
@@ -876,7 +876,7 @@ Come to think of it, I forgot to write something important!
 Совсем вылетело из головы!
 
 ――新聞のこと。%K%N
-——About the newspaper.
+—About the newspaper.
 ——关于报纸。
 Про газету.
 
@@ -936,7 +936,7 @@ It's on the border of Nepal and Tibet.
 Она находится на границе Непала и Тибета.
 
 標高８８５０ｍ――言わずと知れたエベレストがそれだ。%K%N
-Elevation 8,850 meters——it goes without saying that I'm talking about Everest.
+Elevation 8,850 meters—it goes without saying that I'm talking about Everest.
 标高８８５０米——那就是著名的珠穆朗玛峰。
 И её высота составляет 8850 метров. Конечно же, я говорю об Эвересте.
 
@@ -1121,7 +1121,7 @@ You can probably say that the probability is high.
 Можно сказать, что вероятность довольно высока.
 
 『警戒するに越したことはない』――確かにその通りだ。%K%P
-“I don't think it would be going overboard to be vigilant”——indeed, that's true.
+“I don't think it would be going overboard to be vigilant”—indeed, that's true.
 “加强警戒才是最重要的”——确实如此。
 "Не думаю, что будет лишним быть настороже" – твоя правда.
 
@@ -1286,7 +1286,7 @@ More specifically, someone is after my life.
 Сомнений быть не может: кто-то пытается меня убить.
 
 Ｑ：スフィアのこと――外に出る方法や外部との通信手段は？%K%N
-Q: About SPHIA——is there any way to leave, or are there any means to communicate with the outside?
+Q: About SPHIA—is there any way to leave, or are there any means to communicate with the outside?
 Ｑ：关于ＳＰＨＩＡ的事——有没有出去的方法或者与外部通信的手段？
 3. Как выбраться из SPHIA или связаться с внешним миром?
 
@@ -1321,7 +1321,7 @@ If I remember anything, I'll tell you right away.
 Если я что-нибудь вспомню, то обязательно сразу же сообщу.
 
 Ｑ：避難小屋のこと――なにか重要なことは？%K%N
-Q: About the shelter cabin——did anything important happen?
+Q: About the shelter cabin—did anything important happen?
 Ｑ：关于避难小屋的事——有什么重要的事情？
 4. Случилось ли что-либо важное в горной хижине за время твоего отсутствия?
 
@@ -1346,7 +1346,7 @@ There isn't really anything important I have to tell you at the moment.
 Чего-то действительно важного, о чём стоило бы написать, пока не происходило.
 
 以上で、こころの質問に対する返答は終了……。%K%N
-With that ends my replies to the questions you've asked me, Kokoro...
+That concludes my replies to the questions you've asked me, Kokoro...
 这样，就把心的问题全部回答完了……
 На этом я заканчиваю отвечать на твои вопросы, Кокоро...
 

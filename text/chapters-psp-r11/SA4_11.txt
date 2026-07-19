@@ -261,14 +261,14 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 
 %O
 
 ――はっ！%K%P
-——Ah!
+—Ah!
 ——啊！
 Ах!
 
@@ -368,7 +368,7 @@ I take off her wristwatch and check the time.
 Я снимаю часы с запястья и смотрю на время.
 
 現在時刻――午後６時４５分。%K%P
-Present time——6:45 PM.
+Present time—6:45 PM.
 现在时刻——晚上６时４５分。
 Сейчас 18:45.
 

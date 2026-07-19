@@ -866,7 +866,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 
@@ -913,7 +913,7 @@ Such a thing... No...
 Этого... нет!..
 
 遭難して食糧の尽きた人達が陥る、恐ろしい状態が私の脳裏に宿った。%K%P
-People who are stranded after an accident and run out of provisions, they fall into a horrifying state like this——that thought has become lodged in my mind.
+People who are stranded after an accident and run out of provisions, they fall into a horrifying state like this—that thought has become lodged in my mind.
 我的脑海中，浮现起遇难的人们在吃尽粮食后的恐怖状态。
 Люди, выжившие в катастрофе, оставшиеся без еды и тепла, сходят с ума – эта ужасная мысль западает мне в голову.
 
@@ -923,7 +923,7 @@ Before such a scene of shattered human dignity, my lips begin to tremble.
 От вида этой сцены разрушенного человеческого достоинства мои губы начинают дрожать.
 
 しかし――%K%P
-But——
+But—
 但是——
 Но...
 
@@ -1063,7 +1063,7 @@ In the case that the level of harm the original danger would have caused is not 
 ненаказуемо, если возникающий в результате этого действия ущерб не превышает степень отвращаемого ущерба".
 
 黛「緊急避難――弁護士としての判断ね」%K%P
-It was out of necessity——that's my judgment as a lawyer.
+It was out of necessity—that's my judgment as a lawyer.
 黛「紧急避难——这是身为律师的判断」
 А эта ситуация расценена мною, юристом, как экстренная.
 

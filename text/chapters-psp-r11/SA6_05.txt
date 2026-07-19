@@ -44,7 +44,7 @@ Then, at 6:53 AM on the same day, an avalanche will occur at Location X.
 И в тот же день, в 6:53 утра, в точке X сойдёт лавина.
 
 現在時刻――午後４時１５分。%K%P
-Present time——4:15 PM.
+Present time—4:15 PM.
 现在时刻——下午４时１５分。
 Текущее время – 16:15.
 
@@ -216,7 +216,7 @@ But I have no idea what she thought of me before this morning.
 Но я понятия не имею, что она обо мне думала до сегодняшнего утра.
 
 涼蔭穂鳥――。%K%N
-Suzukage Hotori——
+Suzukage Hotori—
 凉荫穗鸟——
 Судзукагэ Хотори...
 
@@ -268,7 +268,7 @@ I don't know what her motives are, but I can't shake these persistent doubts tha
 Понятия не имею, какие у неё могут быть мотивы, но не могу избавиться от ощущения, что она вполне могла сделать что-то подобное.
 
 内海カーリー――。%K%N
-Utsumi Kali——
+Utsumi Kali—
 内海卡莉——
 Уцуми Кали...
 
@@ -295,7 +295,7 @@ I don't want to suspect her, but I can't deny the possibility that she's the cul
 Не хочется её подозревать, но и полностью отринуть такую возможность, я не могу.
 
 楠田ゆに――。%K%N
-Kusuda Yuni——
+Kusuda Yuni—
 楠田悠尼——
 Кусуда Юни...
 
@@ -327,7 +327,7 @@ I'm sure it's impossible for the culprit to be Yuni.
 Я больше чем уверен, что это не Юни.
 
 最後は榎本尚哉――。%K%N
-Lastly, Enomoto Naoya——
+Lastly, Enomoto Naoya—
 最后是鼷本尚哉——
 Ну и последний – Эномото Наоя...
 
@@ -401,7 +401,7 @@ There are more than these five people at SPHIA.
 %N
 
 冬川こころ――。%K%N
-Fuyukawa Kokoro——
+Fuyukawa Kokoro—
 冬川心——
 Фуюкава Кокоро...
 
@@ -418,7 +418,7 @@ There are limits to the time she can spend here, but it's undeniable that her co
 Хотя время её пребывания тут ограничено, невозможно отрицать тот факт, что личность Кокоро контролировала моё тело.
 
 ――榎本尚哉を殺したのは誰だ？%K%N
-——Who killed Enomoto Naoya?
+—Who killed Enomoto Naoya?
 ——杀死鼷本尚哉的是谁？
 ...Кто убил Эномото Наою?
 
@@ -428,7 +428,7 @@ Fuyukawa Kokoro.
 Фуюкава Кокоро.
 
 ――このリビングで暴れたのは？%K%N
-——Who destroyed the living area?
+—Who destroyed the living area?
 ——大闹客厅的是谁？
 ...Кто разнёс эту комнату?
 
@@ -438,7 +438,7 @@ Kokoro again.
 Снова Кокоро.
 
 ――ＤＭＴとＭＡＯ阻害剤を飲んだのは？%K%N
-——Who drank the DMT and the MAO inhibitor?
+—Who drank the DMT and the MAO inhibitor?
 ——喝了ＤＭＴ和ＭＡＯ阻断剂的是谁？
 ...Кто выпил DMTи ингибитор МАО?
 
@@ -448,7 +448,7 @@ According to Hotori, Kokoro.
 Если верить Хотори, это сделала Кокоро.
 
 ――ゼグタミンという睡眠薬を内海からもらったのは？%K%N
-——Who received the sleeping pills called Zegtamin from Utsumi?
+—Who received the sleeping pills called Zegtamin from Utsumi?
 ——接受了内海给的安眠药Ｚｅｇｔａｍｉｎ的是谁？
 ...Кто принял снотворное под названием "Зегтамин", что дала Уцуми?
 
@@ -458,7 +458,7 @@ Kokoro, of course.
 Разумеется, Кокоро.
 
 ――では、オレの左腕を傷つけたのは？%K%N
-——Then, who wounded my left arm?
+—Then, who wounded my left arm?
 ——那么，弄伤我左臂的是谁？
 ...Кто же тогда ранил мою левую руку?
 
@@ -473,7 +473,7 @@ Hotori proposed self-mutilation as the cause, but...
 Хотори предположила, что это случай самоповреждения, но...
 
 ――最後に、時計台からオレを突き落としたのは？%K%N
-——Finally, who pushed me off the clock tower?
+—Finally, who pushed me off the clock tower?
 ——最后，把我从钟楼上推下来的是谁？
 ...И, наконец, кто столкнул меня с часовой башни?
 

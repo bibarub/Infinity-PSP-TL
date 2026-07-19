@@ -819,12 +819,12 @@ Do you know what willful negligence is?
 Вы знаете, что такое умышленная халатность?
 
 悟「『実害の発生を積極的に希望、ないしは意図するものではないが」%K%P
-‘A state of mind in which the offender, though not actively desiring or intending for harm to occur,
+‘A state of mind in which the offender, though not actively desiring or intending for harm to occur...
 悟「“虽然对实际损害的发生不抱有积极的希望，或者并不是有意图的行为」
 Это небрежное отношение, за которым нет осознанного намерения причинить вред,
 
 悟「自分の行為により、結果として実害が発生してもかまわない、という行為者の心理状態』」%K%P
-does not care if harm occurs as a result of their own actions.’
+...does not care if harm occurs as a result of their own actions.’
 悟「但即使自己的行为最终导致了实际损害也毫不介意，以上行为者的心理状态。”」
 но по неосторожности способное именно к этому и привести.
 
@@ -909,7 +909,7 @@ DMT... The MAO inhibitor...
 DMT... Ингибитор МАО...
 
 穂鳥が飲ませた……？%K%N
-Did Hotori make Kokoro take them...?
+Did Hotori make her take them...?
 被穗鸟灌下的……？
 Действительно ли Хотори заставила Кокоро выпить это?
 
@@ -1016,7 +1016,7 @@ Even one line would be fine.
 "Кто заставил тебя принять препарат?"
 
 そう書こうと思い、身を起こしたそのとき――。%K%P
-The moment I decide to write that and go to get up——
+The moment I decide to write that and go to get up—
 就在我想这么写，正要起身的时候——
 Но в тот самый момент, когда я решаю сделать это и поднимаюсь,–
 

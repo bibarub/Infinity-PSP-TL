@@ -226,7 +226,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 
@@ -390,7 +390,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 
@@ -472,7 +472,7 @@ I look down at my body.
 Я осматриваю своё тело.
 
 ――ん？%K%P
-——Nn?
+—Nn?
 ——嗯？
 М?
 
@@ -517,7 +517,7 @@ I slowly shift my gaze to my left hand.
 Я медленно перевожу на неё взгляд.
 
 ――！？%K%P
-——!?
+—!?
 ——！？
 ?!
 
@@ -607,7 +607,7 @@ The personality that was in my body while I was at Mount Akakura!
 Его убила личность, которая управляла мной, пока я был на горе Акакура!
 
 ――こころ。%K%P
-——Kokoro.
+—Kokoro.
 ——心。
 Кокоро!
 
@@ -707,7 +707,7 @@ Kokoro, my partner... I feel just a little scared of her.
 Кокоро, мой напарник... но сейчас мне немного страшно.
 
 そんなことを茫然と考えていたときである――。%K%P
-Just as I'm thinking about that in a daze——
+Just as I'm thinking about that in a daze—
 正当我呆呆地想着这些的时候——
 И, пока я стою в раздумьях...
 

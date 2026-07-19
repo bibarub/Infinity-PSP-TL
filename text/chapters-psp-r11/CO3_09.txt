@@ -14,7 +14,7 @@ Ah!
 А!..
 
 ――私は、闇に包まれた雪原に立っていた。%K%P
-——I'm standing in a dark snowfield.
+—I'm standing in a dark snowfield.
 ——我站在被黑暗笼罩的雪原上。
 Я стою на тёмной снежной равнине.
 
@@ -364,9 +364,10 @@ Yomogi has made me some chamomile tea.
 Ёмоги делает мне ромашковый чай.
 
 カップにティーバッグを放り込んだだけのもので、若干薄かったけれど、その温かさはなにものにも代えがたい。%K%P
-Since he just threw a teabag into the cup, it's a bit weak, but there's no substitute for that warmth.
+Since it's just a cup of water with a teabag sitting in it, it's a bit weak, but there's no substitute for that warmth.
 说是泡制，其实只是把茶包放到杯子里而已。虽然味道有些淡，但那份温暖却是无可替代的。
 Так как пакетик он бросил только что, чай пока ещё не заварился, но ничто не сможет заменить мне это тепло.
+// MKCA: The だけのもの construction here gives me the impression of "it is a cup with just a teabag in it", or in other words, there is really only the bag itself in the water, as the bag has been reused, and there is barely any tea "essence" left.
 
 ひと心地ついた私に、ゆにが尋ねてきた。%K%P
 Just as I've gotten comfortable, Yuni asks me a question.
@@ -1159,12 +1160,12 @@ Really, come on now.......
 "Мы с тобой всё переносимся туда-сюда между двумя телами, пространствами и временными промежутками".
 
 こころ「どうしてそんなことが――」%K%P
-How can you——
+How can you—
 心「为什么你能——」
 Как ты можешь–
 
 『断言できるのよ？』と言おうとすると――%K%P
-“say this with such certainty?” I try to say——
+“say this with such certainty?” I try to say—
 “断言这种事？”还没有说出口——
 "говорить об этом с такой уверенностью?" – хотела я сказать...
 
@@ -1254,7 +1255,7 @@ How can you——
 "А другой – Юни из 2012-го".
 
 こころ「――！？」%K%P
-——!?
+—!?
 心「——！？」
 ...?!
 
@@ -1469,7 +1470,7 @@ I lean against the wall.
 Прислоняюсь к стене.
 
 ２０１１年と、２０１２年を行き来している――%K%N
-We're coming and going, back and forth between the years 2011 and 2012——
+We're coming and going, back and forth between the years 2011 and 2012—
 往来于２０１１年和２０１２年间——
 Мы переносимся вперёд-назад между 2011-м и 2012-м годами...
 
@@ -1808,7 +1809,7 @@ I input that in a corner of my memory.
 Необходимо помнить об этом.
 
 私は壁にもたれたまま思考を巡らせ続けた――%K%P
-Still leaning against the wall, my thoughts keep going around in circles——
+Still leaning against the wall, my thoughts keep going around in circles—
 我靠在墙上继续思考——
 Так и прислоняясь к стене, я пускаю свои мысли по кругу...
 

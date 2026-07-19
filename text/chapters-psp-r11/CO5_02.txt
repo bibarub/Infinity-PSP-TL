@@ -294,7 +294,7 @@ We have to help each other.
 Мы должны держаться вместе.
 
 こころ「黛さん！　あなたは、自分のやったことが――」%K%P
-Mayuzumi-san! What you've done——
+Mayuzumi-san! What you've done—
 心「黛！你知道自己做的事——」
 Маюдзуми-сан! То, что вы сделали–
 
@@ -749,7 +749,7 @@ Being trapped there for 30 minutes without any blankets must be close to torture
 Столь длительное пребывание в погребе безо всяких одеял похоже, наверное, на пытку.
 
 私は――%K%p
-I——
+I—
 我——
 Я решаю...
 
@@ -964,7 +964,7 @@ I can't bring myself to look down into the storeroom.
 Я не могу заставить себя посмотреть вниз, в погреб.
 
 私は祈るようにして、待った――。%K%P
-As if praying, I wait——
+As if praying, I wait—
 只有一面祈祷一面等待——。
 Я продолжаю ждать и молюсь.
 
@@ -1194,7 +1194,7 @@ I heave a deep sigh and sit down on the bed. I cover myself with a blanket.
 Я вздыхаю и сажусь на кровати, укутавшись в одеяла.
 
 いつ果てるともない、寒さとの戦いが再び始まった――%K%P
-The battle against the unrelenting cold begins once more——
+The battle against the unrelenting cold begins once more—
 与无尽严寒的战斗再次拉开帷幕——
 Битва с неумолимым холодом продолжается...
 
@@ -1359,7 +1359,7 @@ He must understand that if this goes on, Mayuzumi will be in danger.
 Он лучше нас должен понимать, что, если так пойдёт и дальше, Маюдзуми будет в опасности.
 
 と、穴を覗き込んだゆにが叫んだ。%K%P
-Then, Yuni, who's peered into the hole, cried out.
+Then, Yuni, who's peered into the hole, cries out.
 这时，从入口窥视着仓库的悠尼忽然叫了起来。
 Юни вглядывается в проём, а затем кричит:
 
@@ -1604,7 +1604,7 @@ The nonchalant voice of Yomogi.
 Равнодушный голос Ёмоги.
 
 黄泉木「黛は、死んだのか」%K%P
-Lin's dead, huh?
+Mayuzumi's dead, huh?
 黄泉木「黛死了吗」
 Маюдзуми умерла?
 
@@ -1659,7 +1659,7 @@ Yomogi, holding the ladder above the hole, patiently looks down at us.
 Ёмоги, придерживая край лестницы, терпеливо смотрит на нас сверху.
 
 人が死んだ直後なのに――%K%P
-Even though someone just died——
+Even though someone just died—
 刚刚有一个人死了——
 Даже после того, как один из нас погиб...
 
@@ -1764,7 +1764,7 @@ Any dangerous element must be isolated.
 Все опасные элементы должны быть изолированы.
 
 こころ「黛さんの服、雪で濡れてました」%K%P
-Mayuzumi's clothes were drenched from the snow.
+Mayuzumi-san's clothes were drenched from the snow.
 心「黛小姐的衣服当时沾满了雪」
 Её одежда была насквозь сырая от снега.
 
@@ -1799,12 +1799,12 @@ That smile sends chills through me.
 И от этой улыбки у меня мурашки бегут по коже.
 
 この人は――%K%P
-This guy——
+This guy—
 这个人——
 Этот человек...
 
 殺すつもりで――%K%P
-confined Mayuzumi in the basement——
+confined Mayuzumi in the basement—
 把黛关到地下——
 заключил Маюдзуми в погреб...
 
@@ -1834,7 +1834,7 @@ Now then, Yuni, Fuyukawa-san.
 Итак, Юни, Фуюкава-сан.
 
 呼びかけられて、ゆには目を見開いた。%K%P
-When he hears his name, Yuni's eyes open wide.
+When Yuni hears his name, his eyes open wide.
 听到招呼声，悠尼睁开了眼。
 Услышав своё имя, Юни выпучивает глаза.
 
@@ -2139,7 +2139,7 @@ A sweet smile rising to his face, Yuni drinks the water in loud gulps.
 Со сладкой улыбкой на лице Юни большими глотками пьёт воду.
 
 ――それが、私が見た、ゆにの最後の笑顔だった。%K%P
-——That's the last smile of Yuni's I see.
+—That's the last smile of Yuni's I see.
 ——那是我见到的悠尼最后的笑容。
 Это была последняя улыбка Юни, которую я видела.
 
@@ -2279,7 +2279,7 @@ But he's unfazed.
 Но у меня ничего не получается.
 
 ゆにの首を絞める手の力が、ますます強くなっていく。%K%P
-The grip of the hands strangling Yuni, it just grows stronger and stronger.
+His stranglehold on Yuni is only getting stronger.
 勒住悠尼脖子的手力量越来越大。
 Его руки всё сильнее и сильнее сдавливают шею Юни.
 
@@ -2359,7 +2359,7 @@ He was killed by Yomogi.
 Ёмоги убил Юни.
 
 こころ「いやぁ――っ！」%K%P
-Nooooooo——!
+Nooooooo—!
 心「啊——！」
 Не-е-е-е-ет!!!
 
@@ -2574,7 +2574,7 @@ Just like the other two, I'll be killed by Yomogi.
 Точно так же, как уже убил Маюдзуми и Юни, он убьёт и меня.
 
 黄泉木「――――」%K%P
-————
+———
 黄泉木「————」
 .....
 
@@ -2609,7 +2609,7 @@ It's gotten colder.
 Становится холоднее.
 
 彼は立ち上がった。%K%P
-He stood up.
+He stands up.
 他站了起来。
 Он поднимается на ноги.
 
@@ -2644,7 +2644,7 @@ Yomogi takes one step closer, then another...
 Ёмоги делает один шаг, другой...
 
 こころ「い……いやぁ――ッ！」%K%P
-N... NOOOOO——!
+N... NOOOOO—!
 心「不……不要——！」
 Не-е-е-е-е-ет!!!
 
@@ -2749,7 +2749,7 @@ My arms and legs go rigid from the cold.
 Руки и ноги замёрзли.
 
 けれど、そんなことには構わず、私は吹雪の中を進み続けた――%K%P
-But paying it no mind, I continue to advance in the storm——
+But paying it no mind, I continue to advance in the storm—
 我不管这些，只是向风雪深处前进——
 Но, не обращая на это никакого внимания, я продолжаю пробираться.
 
@@ -2806,7 +2806,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 

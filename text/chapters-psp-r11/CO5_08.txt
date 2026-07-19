@@ -49,7 +49,7 @@ The crane and the turtle slipped and fell...
 Цапля и черепаха поскользнулись.
 
 ゆに「うしろのしょーめんだーれ？」%K%P
-Who's that behi——ind you?
+Who's that behi—ind you?
 悠尼「猜猜身后是何人」
 Кто впереди твоей спины?
 
@@ -464,7 +464,7 @@ Thank you, Kali!
 Спасибо, Кали!
 
 内海は、もう一度ゆにを強く抱きしめた――%K%P
-Utsumi hugs Yuni tightly one more time——
+Utsumi hugs Yuni tightly one more time—
 内海再一次把悠尼抱在怀里——
 Уцуми снова крепко обнимает Юни...
 
@@ -659,7 +659,7 @@ Wouldn't kill someone...!
 Кого-либо убить!...
 
 穂鳥こそ、１２人もの人間を虐殺した稀代の女殺人鬼――犬伏景子だ。%K%P
-Hotori is a rare serial killer, the one who slaughtered twelve people——Inubushi Keiko.
+Hotori is a rare serial killer, the one who slaughtered twelve people—Inubushi Keiko.
 穗鸟可是杀了１２个人的少见的女杀人犯——犬伏景子啊。
 Как раз Хотори – Инубуси Кэйко – запросто убила двенадцать человек.
 
@@ -794,22 +794,22 @@ Hey, what's wrong...?
 ......
 
 長い、あまりにも長い沈黙の後――%K%P
-After a long, long silence——
+After a long, long silence—
 长长的，实在是太长的一阵沉默过后——
 После длинной, затянувшейся паузы...
 
 その小さな手が――%K%P
-From one small hand——
+From one small hand—
 他的小小的手——
 Юни поднимает свою маленькую ручку...
 
 突き出された人差し指が――%K%P
-he extends his index finger——
+he extends his index finger—
 伸出的食指——
 ...вытягивает указательный палец...
 
 私を、真っ直ぐに指した――%K%P
-and points it straight at me——
+and points it straight at me—
 直直地指向我——
 ...и показывает на меня.
 
@@ -824,7 +824,7 @@ In the tone of someone declaring a death sentence, Yuni says it.
 Будто озвучивает смертный приговор, Юни произносит:
 
 ゆに「――おまえが、殺したんだ」%K%P
-——You killed him.
+—You killed him.
 悠尼「——是你，杀了他」
 Он убит тобой.
 

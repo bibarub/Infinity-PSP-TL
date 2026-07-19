@@ -539,7 +539,7 @@ Clinging onto the trunks of the trees, I carefully descend the mountain.
 Цепляясь за стволы деревьев, я осторожно спускаюсь вниз.
 
 その先に、生きる希望があることを信じて――%K%P
-Believing that a hope of living lies ahead——
+Believing that a hope of living lies ahead—
 相信前方有活下去的希望——
 Я верю, что буду жить, до тех пор, пока–
 
@@ -649,7 +649,7 @@ I know.
 я знаю.
 
 神は、残酷であった――%K%P
-God... is cruel——
+God... is cruel—
 神，是很冷酷的——
 Бог... жесток.
 
@@ -879,12 +879,12 @@ Why... are you here?
 Зачем... вы пришли?
 
 黄泉木「どうしてって、きみが勝手に――」%K%P
-What do you mean ‘why’? It's because you went out——
+What do you mean ‘why’? It's because you went out—
 黄泉木「你还问，还不是你擅自——」
 Что значит "зачем"? Ты так внезапно–
 
 いきなり――%K%P
-Without warning——
+Without warning—
 突然——
 И в этот момент...
 
@@ -1034,7 +1034,7 @@ Down? Down where...
 Внизу? Где?..
 
 私は何気なく、懐中電灯の光を足許に向け――%K%P
-I casually point the flashlight toward my feet——
+I casually point the flashlight toward my feet—
 我不经意地把手电筒的光照向脚下——
 Я направляю фонарик себе под ноги...
 
@@ -1044,7 +1044,7 @@ I shiver.
 И вздрагиваю.
 
 私の立つところから、たった数十センチ先には――%K%P
-From where I stand, no more than a few dozen centimeters ahead——
+From where I stand, no more than a few dozen centimeters ahead—
 从我站的地方再向前不远处的地方——
 Всего в нескольких сантиметрах передо мной...
 
@@ -1109,17 +1109,17 @@ I'm worried about Yomogi, but I myself am panicking.
 Меня поглощает паника.
 
 もしも――%K%P
-If——
+If—
 如果——
 Если...
 
 あと数歩、前に踏み出していたら――%K%P
-If I had taken just a few more steps——
+If I had taken just a few more steps—
 我刚才再向前多走几步的话——
 Если бы я сделала всего пару шагов...
 
 黄泉木の声がした時、彼の方へと歩み寄っていたら――%K%P
-When he called out to me, if I had walked toward him——
+When he called out to me, if I had walked toward him—
 如果黄泉木叫我的时候是我跑过去的话——
 Если бы я пошла к нему, когда он меня позвал...
 
@@ -1144,7 +1144,7 @@ And because of my fear, I'm unable to help Yomogi.
 Этот страх парализует меня, я не в состоянии помочь Ёмоги.
 
 こころ「私……私……どうしよ……どうしよう黄泉木さん……私っ」%K%P
-I... I... What do I do... What do I do, Yomogi-san...!? I——
+I... I... What do I do... What do I do, Yomogi-san...!? I—
 心「我……我……我该怎么办……怎么办啊，黄泉木先生……我」
 Я... мне... что мне... что мне делать, Ёмоги-сан?.. Что же...
 
@@ -1369,17 +1369,17 @@ I force myself to bend farther forward.
 Я тянусь всё дальше и дальше.
 
 あと少し――%K%N
-Just a little——
+Just a little—
 还有一点点——
 Ещё немного...
 
 あと少しでいい――%K%N
-Just a little bit more——
+Just a little bit more—
 还有一点点就行了——
 Совсем чуть-чуть...
 
 少しくらいなら大丈夫――%K%P
-Just a little and it'll all be okay——
+Just a little and it'll all be okay—
 再接近一点应该没问题的——
 Совсем капельку, и всё получится...
 
@@ -1399,17 +1399,17 @@ Okay!
 ...А?
 
 いきなり――%K%N
-Suddenly——
+Suddenly—
 忽然——
 Вдруг...
 
 亀裂の縁が崩れ――%K%N
-The edge of the cliff collapses——
+The edge of the cliff collapses—
 裂缝的边缘忽然崩坏——
 Пласт обваливается и падает вниз–
 
 私の視界は回転し――%K%P
-My field of vision spins——
+My field of vision spins—
 我的视野开始旋转——
 Перед глазами всё кружится.
 
@@ -1429,7 +1429,7 @@ I fall...
 Я падаю...
 
 雪の壁に何度も叩きつけられながら――%K%P
-Slammed against the wall of snow over and over again——
+Slammed against the wall of snow over and over again—
 我的身体在雪壁上撞击了好几次——
 Раз за разом бьюсь о снежный склон...
 
@@ -1466,7 +1466,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 
@@ -1983,7 +1983,7 @@ It's.. all... my... fault... It's all my faaault!
 Это... моя... вина... Всё из-за меня... Всё из-за меня-а-а!
 
 ――私がＸ地点などに行かなければ。%K%P
-——If only I hadn't gone to Location X.
+—If only I hadn't gone to Location X.
 ——如果不是我去什么Ｘ地点的话。
 Если бы только я никуда не уходила...
 
@@ -2223,7 +2223,7 @@ God...
 Боже...
 
 どうか――%K%P
-Please——
+Please—
 求你——
 Прошу...
 
@@ -2238,7 +2238,7 @@ So... save those three.
 Но... спаси этих троих.
 
 その祈りは――%K%P
-That prayer——
+That prayer—
 我的祈祷——
 Моя молитва...
 
@@ -2638,17 +2638,17 @@ It would be so much easier.
 Так будет проще.
 
 その祈りは――%K%P
-That wish——
+That wish—
 我的祈祷——
 Это желание
 
 神に――%K%P
-is granted——
+is granted—
 被神——
 будет
 
 聞き入れられた――%K%P
-by God——
+by God—
 听到了——
 исполнено.
 
@@ -2668,7 +2668,7 @@ Zero gravity.
 На миг мне кажется, что пропала гравитация.
 
 違う――これは――！%K%P
-No——this is——!
+No—this is—!
 不对——这个是——！
 Нет... это...
 
@@ -2728,7 +2728,7 @@ I sit in place, dazed and petrified.
 Я сижу в ступоре, словно окаменев.
 
 ――と、その時である。%K%P
-——And then the time comes.
+—And then the time comes.
 ——就在那个时候。
 И тут–
 
@@ -2753,7 +2753,7 @@ Another earthquake?
 Опять землетрясение?
 
 いや、そうじゃない――！%K%P
-No, it's not——!
+No, it's not—!
 不对，不是这么回事——！
 Нет, это не оно!..
 
@@ -2788,7 +2788,7 @@ Clucking my tongue, I scrape it off.
 ...Ах.
 
 時計の針は――%K%P
-The hands of the watch——
+The hands of the watch—
 时钟的指针——
 На часах...
 
@@ -2908,7 +2908,7 @@ I have no regrets over losing such a tiny life.
 Мне не жаль расставаться с такой ничтожной жизнью.
 
 私は目を閉じた――%K%P
-I close my eyes——
+I close my eyes—
 我闭上了眼睛——
 Я закрываю глаза...
 
@@ -2965,7 +2965,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 

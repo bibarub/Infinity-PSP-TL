@@ -424,7 +424,7 @@ By “strange”, I mean that, generally speaking, “that kind of thing happeni
 Странно здесь то, в какие промежутки времени происходили все эти события.
 
 さて、その不自然な時刻とは――『１月１４日』の……。%K%p
-The strange times I'm referring to are——January 14th...
+The strange times I'm referring to are—January 14th...
 那么，那个不自然的时刻是——“１月１４日”的……
 И эти промежутки времени таковы:
 
@@ -714,7 +714,7 @@ Looking at it closely, this mysterious time lag has accompanied every transfer u
 Пристальное изучение показывает, что подобное запаздывание сопровождало каждое перемещение.
 
 例えば１１日の午後１０時２４分――。%K%N
-At 10:24 PM on the 11th, for example——
+At 10:24 PM on the 11th, for example—
 比如１１日的晚上１０时２４分——
 Например, 11 января в 22:24...
 
@@ -724,7 +724,7 @@ At SPHIA, having been transported to Mount Akakura due to the third transfer, Ko
 В SPHIA, которая переместилась на гору Акакура после третьего перемещения, застанная врасплох Кокоро вздрогнула от звука разбившихся чашек.
 
 そして午後１１時３０分――。%K%N
-And then, at 11:30 PM——
+And then, at 11:30 PM—
 然后夜里１１时３０分——
 А затем, в 23:30...
 
@@ -789,7 +789,7 @@ It's very clear that another personality slips into it.
 Совершенно очевидно, что в это время в нём хозяйничает другая личность.
 
 第３の人格――。%K%P
-A third personality——
+A third personality—
 第三人格——
 Третья личность...
 
@@ -1374,7 +1374,7 @@ It's a huge, tangled mess now, so let's just sum it up here.
 Это всё как-то очень сложно, поэтому подытожу.
 
 ――１月１１日の午後８時２分。%K%N
-——January 11th, 8:02 PM.
+—January 11th, 8:02 PM.
 ——１月１１日晚上８时０２分。
 11 января, 20:02.
 
@@ -1384,7 +1384,7 @@ The first transfer occurs, my consciousness gains control of Kokoro's body...
 Происходит первое перемещение, моё сознание переносится в тело Кокоро.
 
 ――それから３３分後の午後８時３５分。%K%N
-——33 minutes later, 8:35 PM.
+—33 minutes later, 8:35 PM.
 ——３３分钟以后的晚上８时３５分。
 33 минуты спустя, в 20:35.
 
@@ -1394,7 +1394,7 @@ Unbeknownst to me, my consciousness returns to my body.
 Моё сознание незаметно для меня возвращается в моё тело.
 
 ――そして午後９時８分。%K%N
-——Then, at 9:08 PM.
+—Then, at 9:08 PM.
 ——然后晚上９时０８分。
 И в 21:08...
 
@@ -1404,7 +1404,7 @@ I wake up as myself.
 Я становлюсь собой.
 
 ――次に１月１４日の午後６時１１分。%K%N
-——Next, on January 14th, 6:11 PM.
+—Next, on January 14th, 6:11 PM.
 ——其次，１月１４日的晚上６时１１分。
 14 января, 18:11.
 
@@ -1414,7 +1414,7 @@ My consciousness gains control of Kokoro's body...
 Моё сознание перемещается в тело Кокоро.
 
 ――３３分後の午後６時４４分。%K%N
-——33 minutes later, at 6:44 PM.
+—33 minutes later, at 6:44 PM.
 ——３３分钟后的晚上６时４４分。
 33 минуты спустя, в 18:44...
 
@@ -1424,7 +1424,7 @@ Unbeknownst to me, my consciousness returns to my body.
 Моё сознание незаметно для меня возвращается в моё тело.
 
 ――午後７時１７分。%K%N
-——7:17 PM.
+—7:17 PM.
 ——晚上７时１７分。
 19:17...
 
@@ -1434,7 +1434,7 @@ I wake up as myself. I discover Enomoto's body.
 Вернувшись в своё тело, я обнаруживаю тело Эномото.
 
 ――１７分後の午後７時３４分。%K%N
-——17 minutes later, at 7:34 PM.
+—17 minutes later, at 7:34 PM.
 ——１７分钟后的晚上７时３４分。
 17 минут спустя, в 19:34...
 
@@ -1539,7 +1539,7 @@ It's a huge, tangled mess now, so let's just sum it up here.
 Это всё как-то очень сложно, поэтому подытожу.
 
 ――１４日の午後６時１１分。%K%N
-——January 14th, 6:11 PM.
+—January 14th, 6:11 PM.
 ——１月１４日的晚上６时１１分。
 14 января, 18:11.
 
@@ -1549,7 +1549,7 @@ My consciousness gains control of Kokoro's body...
 Моё сознание перемещается в тело Кокоро.
 
 ――３３分後の午後６時４４分。%K%N
-——33 minutes later, at 6:44 PM.
+—33 minutes later, at 6:44 PM.
 ——３３分钟后的晚上６时４４分。
 33 минуты спустя, в 18:44...
 
@@ -1559,7 +1559,7 @@ Unbeknownst to me, my consciousness returns to my body.
 Моё сознание незаметно для меня возвращается в моё тело.
 
 ――午後７時１７分。%K%N
-——7:17 PM.
+—7:17 PM.
 ——晚上７时１７分。
 19:17...
 
@@ -1569,7 +1569,7 @@ I wake up as myself. I discover Enomoto's body.
 Вернувшись в своё тело, я обнаруживаю тело Эномото.
 
 ――１７分後の午後７時３４分。%K%N
-——17 minutes later, at 7:34 PM.
+—17 minutes later, at 7:34 PM.
 ——１７分钟后的晚上７时３４分。
 17 минут спустя, в 19:34...
 
@@ -1639,7 +1639,7 @@ Who is that...?
 Но чья это личность?
 
 『オレ自身の中に生まれたオレではない別の人格』――これが答えだ。%K%N
-The answer is——a separate personality born within myself.
+The answer is—a separate personality born within myself.
 “我自身产生的并非我的其他人格”——回答是这样的。
 "Возникшая внутри меня альтернативная личность" – вот правильный ответ.
 
@@ -1959,7 +1959,7 @@ The time my consciousness controls α's body = the time Kokoro controls my body 
 Время, в течение которого моё сознание контролирует%Nтело α ＝ время, в течение которого Кокоро контролирует моё тело ＝ время, в течение которого α контролирует тело К, и это...
 
 ――３３分間。%K%N
-——33 minutes.
+—33 minutes.
 ——３３分钟。
 ...тридцать три минуты.
 
@@ -1971,7 +1971,7 @@ The time my consciousness controls Kokoro's body = the time Kokoro controls α's
 Время, в течение которого моё сознание контролирует тело К ＝ время, в течение которого Кокоро контролирует тело α ＝  время, в течение которого α контролирует моё тело, и это...
 
 ――３３分間。%K%P
-——33 minutes.
+—33 minutes.
 ——３３分钟。
 ...тридцать три минуты.
 
@@ -1981,7 +1981,7 @@ The time my consciousness controls my body = the time Kokoro controls Kokoro's b
 Время, в течение которого моё сознание контролирует моё тело ＝ время, в течение которого Кокоро контролирует тело К ＝ время, в течение которого α контролирует тело α, и это...
 
 ――ランダムで変化。%K%P
-——changes at random.
+—changes at random.
 ——随机变化。
 ...случайная величина.
 
@@ -2151,12 +2151,12 @@ Let's compare them with the times of the transfers to SPHIA Kokoro wrote down.
 Стоит ли лишь сравнить со временем переноса в SPHIA, которое записала Кокоро.
 
 こころが書いた時刻――『午後０１時０７分、午後０６時０３分』%K%N
-The times Kokoro wrote are——“1:07 PM, 6:03 PM”.
+The times Kokoro wrote are—“1:07 PM, 6:03 PM”.
 心所写的时刻——“下午１时０７分，晚上６时０３分”。
 Она записала "13:07" и "18:03".
 
 実際の転移発生時刻――『午後１２時３４分、午後０５時３０分』%K%N
-But the actual times are——“12:34 PM, 5:30 PM”.
+But the actual times are—“12:34 PM, 5:30 PM”.
 实际的转移发生时刻——“中午１２时３４分，下午５时３０分”。
 Тогда как фактически перемещения происходили в 12:34 и в 17:30.
 
@@ -2451,12 +2451,12 @@ I have another important objective.
 У меня есть более важная задача.
 
 すなわち、避難小屋のメンバーを救出すること――。%K%P
-That is, rescuing the refugees in the shelter cabin——
+That is, rescuing the refugees in the shelter cabin—
 就是，救出避难小屋的成员——
 Спасти людей в горной хижине.
 
 現在時刻――午前４時９分。%K%P
-Present time——4:09 AM.
+Present time—4:09 AM.
 现在时刻——凌晨４时０９分。
 Текущее время – 4:09.
 

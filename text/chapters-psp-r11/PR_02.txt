@@ -4,17 +4,17 @@ There's a snowstorm outside.
 Метель всё не утихает.
 
 壁に手を添えていなければ立っていることさえままならぬほどの猛吹雪だ。%K%P
-The snowstorm is so strong, 'I' have to lean with my hand against the wall to keep standing upright.
+The snowstorm is so strong, 'I' have to lean with 'my' hand against the wall to keep standing upright.
 若不扶住墙，自己连站都站不稳。
 Она настолько сильная, что одной рукой приходится держаться за стену, чтобы не упасть.
 
 俺は片方の手のひらを目の前にかざして吹きつける雪を防いだ。%K%P
-'I' use my other hand to shield my eyes from the wind and the snow.
+'I' use 'my' other hand to shield 'my' eyes from the wind and the snow.
 单手横在眼前，挡住迎面吹来的雪。
 Второй рукой 'я' прикрываю глаза от ветра и снега.
 
 目を凝らして視界の彼方を探る。%K%P
-It's freezing. 'I' almost strain my eyes trying to stare across the distance.
+It's freezing. 'I' almost strain 'my' eyes trying to stare across the distance.
 目不转睛地探索着视野的尽头。
 Напрягаю зрение, чтобы осмотреться вокруг...
 
@@ -29,17 +29,17 @@ The entire landscape before 'me' has been whited out.
 Мир вокруг окрашен в белый.
 
 奥行きを失った純白の世界――。%K%P
-A pure white world where all depth is lost——
+A pure white world where all depth is lost—
 没有深度的纯白色的世界——
 Такой вот белоснежный, лишённый глубины мир...
 
 ふと、遠近感を奪われフラリとよろめいた。%K%P
-It snatches away my sense of perspective, and 'I' suddenly lose my footing and slip...
+It snatches away 'my' sense of perspective, and 'I' suddenly lose 'my' footing and slip...
 突然，距离感被剥夺，踉跄了一下。
 Внезапно теряю восприятие пространства и поскальзываюсь.
 
 壁にしがみつくようにして体勢を立て直す。%K%P
-'I' cling to the wall with both hands to regain my balance.
+'I' cling to the wall with both hands to regain 'my' balance.
 自己紧贴墙壁，调整好站姿。
 Но успеваю ухватиться обеими руками за стену, восстанавливая равновесие.
 
@@ -59,7 +59,7 @@ If 'I' were to fall from here, 'I''d be very lucky if 'I' were to get away with 
 'Я' опускаю взгляд вниз.
 
 視界にはやはり、茫々と舞い上がる雪煙と針のように流れる雪の軌跡だけしか映らなかった。%K%P
-My field of vision is filled with whirling plumes of snow and the needle-like tracks it leaves as it blows across the roof.
+'My' field of vision is filled with whirling plumes of snow and the needle-like tracks it leaves as it blows across the roof.
 视野中还是只能映出茫茫飞舞的雪雾和如针一般流动的雪的轨迹。
 Всё вокруг тонет в вихре из снежных хлопьев, метущего тонкие струйки снега под моими ногами.
 
@@ -79,17 +79,17 @@ There in the freezing cold, 'I' check the time.
 Стоя на морозе, 'я' проверяю время.
 
 俺は腕には何もはめない主義だ。%K%P
-'I''ve never liked having anything attached to my arm.
+'I''ve never liked having anything attached to 'my' arm.
 自己从不在手腕上戴任何东西。
 У меня чёткий принцип: ничего не носить на руке.
 
 従って腕時計は常にポケットの中に忍ばせていた。%K%P
-So my wristwatch is hidden away in my pocket.
+So 'my' wristwatch is hidden away in 'my' pocket.
 所以手表也总是藏在口袋中。
 Поэтому наручные часы всегда лежат в кармане.
 
 それを抜き取り、デジタルの表示板に視線を落とした。%K%P
-My eyes turn toward the panel of the digital watch.
+'My' eyes turn toward the panel of the digital watch.
 自己取出它，将视线扫向电子表盘。
 Бросаю взгляд на цифровой дисплей.
 
@@ -104,7 +104,7 @@ It's almost time...
 Совсем скоро...
 
 見上げれば呪われたように暗い空。%K%P
-'I' raise my eyes to the dark, restless sky.
+'I' raise 'my' eyes to the dark, restless sky.
 抬头望去，是如同被诅咒了一般黑暗的天空。
 Поднимаю глаза к тёмному беспокойному небу.
 
@@ -114,7 +114,7 @@ For an instant, a pale light cuts through the heavens.
 На мгновение небеса прорезает бледный белый свет.
 
 ほどなくして訪れた寒雷の響きに、身体の芯は重々しく揺れた。%K%P
-The sound of the winter thunder shakes my body to its core.
+The sound of the winter thunder shakes 'my' body to its core.
 不久后传来的寒雷巨响，沉重地打击着自己的身体。
 Раздаётся звук грома, пробирающий до самых костей.
 
@@ -221,7 +221,7 @@ I open it to the first page.
 Я открываю первую страницу.
 
 ――２００９年１月１４日水曜日。%K%N
-——Wednesday, January 14th, 2009.
+—Wednesday, January 14th, 2009.
 ——２００９年１月１４日星期三。
 14 января 2009 года, среда.
 
@@ -406,7 +406,7 @@ The heart had left a vivid streak of bright red on the milky white wall as it sl
 На молочно-белой стене осталась ярко-красная полоса – след, оставленный упавшим на пол вырванным органом.
 
 と、そのとき――。%K%P
-Suddenly——
+Suddenly—
 就在那时——
 Внезапно–
 
@@ -569,7 +569,7 @@ Those were the details of the Awazumi Municipal Hospital Indiscriminate Murder C
 Её имя – Инубуси Кэйко.
 
 犯行当時の年齢――１７歳。%K%P
-Her age at the time of the incident——seventeen.
+Her age at the time of the incident—seventeen.
 犯罪当时——１７岁。
 Во время инцидента ей было семнадцать лет.
 
@@ -629,7 +629,7 @@ She is currently being held for observation at a certain medical facility.
 "Специализированный психиатрический центр изоляции и поддержки"
 
 通称――『%TS003ＳＰＨＩＡ／スフィア%TE』――。%K%P
-Alias——“%TS003SPHIA%TE”——.
+Alias—“%TS003SPHIA%TE”—.
 ——通称“%TS003ＳＰＨＩＡ%TE”——
 Или просто %TS003SPHIA%TE.
 
@@ -834,7 +834,7 @@ Because...
 Потому что...
 
 少女「だってわたしは　…　…　ちゃんも――」%K%P
-Because I... ——-chan, I'll——
+Because I... ——-chan, I'll—
 女孩「因为……我……我连哥哥——」
 Потому что я... ...-тяна тоже...
 

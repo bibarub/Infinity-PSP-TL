@@ -1,10 +1,10 @@
 ﻿長い――%K%P
-The night is long——
+The night is long—
 夜很长——
 Приходит долгая...
 
 あまりにも長い――%K%P
-Far too long——
+Far too long—
 太过漫长了——
 Очень долгая...
 
@@ -231,7 +231,7 @@ yet irreplaceable memories.
 %N
 
 ――死にたくない。%K%N
-——I don't want to die.
+—I don't want to die.
 ——我不想死。
 Я не хочу умирать.
 
@@ -260,7 +260,7 @@ The Yuni in SPHIA said...
 Юни в SPHIA сказал:
 
 「――おまえが、殺したんだ」%K%N
-“——You killed him.”
+“—You killed him.”
 「——是你杀了他」
 "Он убит тобой".
 
@@ -342,7 +342,7 @@ Satoru... He... killed that man.
 .......
 
 ――違う！%K%N
-——No!
+—No!
 ——不是这样的！
 Нет!
 
@@ -538,7 +538,7 @@ No normal person would be able to act like everything was okay.
 Ни один человек не смог бы вести себя как ни в чём не бывало.
 
 だが、思い返してみれば、悟がいたからこそ――彼が冷静でいてくれたからこそ、私は正常でいられたような気がする。%K%P
-But, thinking back, I realize it's because Satoru was here——because he was so calm, that I was able to handle it.
+But, thinking back, I realize it's because Satoru was here—because he was so calm, that I was able to handle it.
 但是，回想一下，正因为有悟——正因为他的冷静，我才能保持正常。
 Задумываясь сейчас, я понимаю, что благодаря Сатору, его невозмутимости, я смогла всё это вынести.
 
@@ -603,7 +603,7 @@ Satoru... He... killed that man.
 .......
 
 ――違う！%K%N
-——No!
+—No!
 ——不是这样的！
 Нет!
 
@@ -675,7 +675,7 @@ No normal person would be able to act like everything was okay.
 Ни один человек не смог бы вести себя как ни в чём не бывало.
 
 だが、思い返してみれば、悟がいたからこそ――彼が冷静でいてくれたからこそ、私は正常でいられたような気がする。%K%P
-But, thinking back, I realize it's because Satoru was here——because he was so calm, that I was able to handle it.
+But, thinking back, I realize it's because Satoru was here—because he was so calm, that I was able to handle it.
 但是，回想一下，正因为有悟——正因为他的冷静，我才能保持正常。
 Задумываясь сейчас, я понимаю, что благодаря Сатору, его невозмутимости, я до сих пор смогла всё это вынести.
 

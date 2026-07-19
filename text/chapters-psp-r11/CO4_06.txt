@@ -1,5 +1,5 @@
 ﻿――いきなり、平衡感覚を失った。%K%P
-——All of a sudden, I lose my balance.
+—All of a sudden, I lose my balance.
 ——突然间，我失去了平衡感。
 Неожиданно я теряю равновесие.
 
@@ -9,7 +9,7 @@ I'm supposed to be on a bed in the shelter cabin, but now I'm groveling on a con
 Секунду назад я была на кровати в горной хижине, а сейчас лежу на бетонном полу.
 
 ――いきなり、平衡感覚を失った。%K%P
-——All of a sudden, I lose my balance.
+—All of a sudden, I lose my balance.
 —突然间，我失去了平衡感。
 Неожиданно я теряю равновесие.
 
@@ -159,7 +159,7 @@ I spin around.
 Я быстро оборачиваюсь.
 
 ――その瞬間！%K%P
-——As I do!
+—As I do!
 ——就在这一瞬间！
 Как тут же...
 
@@ -234,7 +234,7 @@ No...
 Нет...
 
 こころ「イヤァァ――ッ！」%K%P
-NOOOoooooo——!
+NOOOoooooo—!
 心「不要——！」
 Не-е-е-е-ет!
 
@@ -439,7 +439,7 @@ From where I'm crouching, it's about five meters to the stairs.
 От меня до лестницы около пяти метров.
 
 一気に駆け抜ければ――%K%P
-If I make a run for it——
+If I make a run for it—
 一口气冲过去的话——
 Если я добегу до неё...
 
@@ -464,7 +464,7 @@ Or maybe they've already left.
 Или мог уже уйти.
 
 もしも近くにいたら――%K%P
-If they're near——
+If they're near—
 如果他就在我附近——
 Если он близко...
 
@@ -474,7 +474,7 @@ Just thinking of the attacker makes me tremble once more.
 Одна только мысль об этом снова бросает меня в дрожь.
 
 『誰か』はさっき、確かに私を――悟を――殺そうとした。%K%P
-Someone, just now, tried to kill me——Satoru——
+Someone, just now, tried to kill me—Satoru—
 刚才“某人”的确是要杀了我——悟。
 Кто-то только что пытался убить меня – убить Сатору.
 
@@ -509,7 +509,7 @@ Other than that, I hear nothing.
 Кроме него, я ничего не слышу.
 
 もしも、『誰か』が潜んでいたら――%K%P
-If this person is lying in wait——
+If this person is lying in wait—
 如果，“某人”还埋伏着的话——
 Если нападавший затаился в ожидании...
 
@@ -544,7 +544,7 @@ I can't stand the fear and tension.
 Я не могу выдержать этот страх и напряжение.
 
 行くしかない――%K%P
-I have to go——
+I have to go—
 只有冲了——
 Я должна идти...
 
@@ -1194,7 +1194,7 @@ The snow has completely closed in my field of vision.
 Куда бы я ни поглядела, я вижу только снег.
 
 これは%TS043ホワイトアウト%TE――%K%P
-This is a %TS043whiteout%TE——
+This is a %TS043whiteout%TE—
 这是%TS043白色黑暗%TE——
 Передо мной %TS043белая мгла%TE.
 
@@ -1264,7 +1264,7 @@ Despair takes hold of my mind...
 Меня охватывает отчаяние...
 
 ――しかし。%K%P
-——However.
+—However.
 ——但是。
 Но...
 
@@ -1399,7 +1399,7 @@ Before long, I can't tell whether I'm looking up or down.
 Я направляюсь к SPHIA? Или, может быть, иду не в ту сторону? Вскоре я окончательно теряюсь.
 
 ただ、ひたすらに続く、白い世界――%K%P
-Nothing but a pure white world without end——
+Nothing but a pure white world without end—
 眼前只有绵延不断，纯白的世界——
 Ничего, кроме девственно-чистого белого мира...
 
@@ -1564,7 +1564,7 @@ I shut my eyes, press my hands together, and start praying.
 Я закрываю глаза, складываю ладони у груди и начинаю молиться.
 
 寒さに震えながら、必死に祈りながらＶＲのスイッチを――%K%P
-While trembling from the cold and desperately praying, I hit the voice recorder's switch——
+While trembling from the cold and desperately praying, I hit the voice recorder's switch—
 一边打着寒颤，一边拼命地祈祷，按下ＶＲ的开关——
 Дрожа от холода и продолжая молиться, я безрассудно бью по кнопке диктофона...
 
@@ -1574,7 +1574,7 @@ Ah, uah...
 А, а-х...
 
 また、転移した――。%K%P
-I transferred again——
+I transferred again—
 又转移了——
 Снова перенос...
 
@@ -1671,7 +1671,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 
@@ -2028,7 +2028,7 @@ Satoru's room is on the other side.
 Комната Сатору находится с обратной стороны.
 
 戻ろうか――？%K%P
-Should I go back——?
+Should I go back—?
 要回头吗——？
 Возвращаться?
 
@@ -2133,7 +2133,7 @@ Like a madwoman, I keep pounding away with the rock.
 Как сумасшедшая, я продолжаю колотить камнем в окно.
 
 そして――%K%P
-Then——
+Then—
 然后——
 И...
 
@@ -2360,7 +2360,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 
@@ -2579,7 +2579,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 
@@ -2711,7 +2711,7 @@ I run to the door. I'm about to put my hand on the knob.
 Я быстрым шагом подхожу к двери и протягиваю руку, чтобы закрыть замок...
 
 そのときだ――%K%P
-At that moment——
+At that moment—
 就在这个时候——
 Как вдруг...
 
@@ -2966,7 +2966,7 @@ I nod to myself and put my hand on the railing.
 Кивнув сама себе, я кладу руку на перила...
 
 その、刹那――%K%P
-A moment later——
+A moment later—
 就在这一刻——
 И в это мгновение...
 
@@ -3066,7 +3066,7 @@ No...! Noooo!
 Нет!.. Не-е-ет!
 
 私は闇雲に手を振り回し、『誰か』の身体を突き放そうとして――%K%P
-I frantically wave my arms in front of me, trying to push their body away——
+I frantically wave my arms in front of me, trying to push their body away—
 我胡乱挥舞着双手，想把“某人”的身体推开——
 Я начинаю отчаянно махать руками перед собой, стараясь не подпустить к себе этого человека...
 

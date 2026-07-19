@@ -1,5 +1,5 @@
 ﻿気がつくと――%K%P
-The next thing I know——
+The next thing I know—
 当恢复意识的时候——
 Когда я прихожу в себя...
 
@@ -224,7 +224,7 @@ I'll just leave everything to its natural course.
 Пусть всё так и остаётся.
 
 その時――%K%P
-And just then——
+And just then—
 这时——
 Но вдруг...
 
@@ -346,7 +346,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 
@@ -393,7 +393,7 @@ Because of the pain in my left arm, I can't think.
 Боль в левой руке отвлекает и мешает сосредоточиться.
 
 何が起きたの？　痛い――。どういうこと？　なんで暗いの？　電気はどこ？　痛いよ……。誰か……誰か…………。%K%P
-What's happening? It hurts——. What does this mean? Why is it so dark? Where's the electricity? It hurts... Somebody... Somebody......
+What's happening? It hurts—. What does this mean? Why is it so dark? Where's the electricity? It hurts... Somebody... Somebody......
 发生什么了？好疼——！怎么回事？为什么黑了？电灯在哪里？好疼啊……谁来……谁来…………
 Что происходит? Как больно... Что всё это значит? Почему здесь так темно? Куда делся свет? Больно... Кто-нибудь... Кто-нибудь...
 
@@ -458,7 +458,7 @@ I'm so agitated that I can't even tell.
 Я так взволнованна, что не могу точно определить.
 
 逃げなきゃ――。%K%P
-I have to run——
+I have to run—
 必须要逃走——
 Инстинкты подсказывают...
 
@@ -568,7 +568,7 @@ Run to a private room
 Побегу в какую-нибудь комнату
 
 正面玄関――。%K%P
-The front entrance——
+The front entrance—
 正面玄关——
 Входная дверь...
 
@@ -578,7 +578,7 @@ I might be able to get out from there.
 Может, через него получится выбраться отсюда.
 
 でも――。%K%P
-But——
+But—
 但是——
 Но...
 
@@ -598,7 +598,7 @@ It's possible that someone who's trying to kill me is waiting along the way.
 Велика вероятность, что тот, кто пытается меня убить, поджидает меня как раз на этом пути.
 
 もしも途中で襲われたら――。%K%P
-If I get attacked midway——
+If I get attacked midway—
 要是在途中被袭击的话——
 И если он на меня нападёт...
 
@@ -613,7 +613,7 @@ I feels like I'm about to collapse to my knees.
 А ноги подкашиваются.
 
 どうしよう――。%K%P
-What do I do——
+What do I do—
 怎么办——
 Что же мне делать?..
 
@@ -658,12 +658,12 @@ In the dim light, I run, keeping my body as low as I can.
 Я пригибаюсь и бегу в полумраке...
 
 壁際を通って、リビングを縦断――。%K%P
-I run along the wall, through the living area——
+I run along the wall, through the living area—
 沿着墙根，穿过起居室——
 ...вдоль стены, через гостиную...
 
 と思った瞬間――！%K%P
-Or so I think——!
+Or so I think—!
 正在我这样想的一瞬间——
 И тут–
 
@@ -753,7 +753,7 @@ I pound on the door. However, even if I do that, there's no way it's going to op
 Я начинаю колотить в неё, однако, естественно, она не открылась.
 
 どうしよう――。%K%P
-What do I do——
+What do I do—
 怎么办——
 Что мне делать?..
 
@@ -913,7 +913,7 @@ Is something wrong?
 Что-то случилось?
 
 こころ「……た、大変です。急に――」%K%P
-...I-It's terrible. Just now——
+...I-It's terrible. Just now—
 心「……不、不得了了。突然……」
 По-полный кошмар, только что...
 
@@ -998,7 +998,7 @@ Utsumi's presence presses in further, now almost right in front of me.
 Я чувствую, что Уцуми подошла ближе и уже стоит прямо передо мной.
 
 どうしよう――。%K%P
-What do I do——
+What do I do—
 怎么办——
 Как мне поступить?..
 
@@ -1013,7 +1013,7 @@ I don't know. I don't know...
 Я не знаю. Не знаю...
 
 私はきつく目を閉じ――%K%P
-I shut my eyes tight——
+I shut my eyes tight—
 我紧闭双眼——
 Я зажмуриваюсь...
 
@@ -1118,7 +1118,7 @@ And am profoundly shocked.
 И глубоко потрясаюсь увиденному.
 
 私の――正確には悟の――左腕は真っ赤に染まっていた。%K%P
-My——or more accurately, Satoru's——left arm is dyed a deep red.
+My—or more accurately, Satoru's—left arm is dyed a deep red.
 我的——准确地说是悟的——左臂被鲜血染红了。
 Моя рука, или, точнее, левая рука Сатору, вся багрово-красная.
 
@@ -1163,7 +1163,7 @@ We have to treat it immediately!
 Нужно немедленно обработать рану!
 
 内海「待ってて。すぐに救急箱を――」%K%P
-Wait here. I'll go and get the first aid kit right away——
+Wait here. I'll go and get the first aid kit right away—
 内海「等一下。我就去拿急救箱——」
 Ждите здесь. Я схожу за аптечкой и сразу же вернусь...
 
@@ -1238,7 +1238,7 @@ I have to say it.
 Не имея выбора, я продолжаю:
 
 こころ「あの、私がこっちに来た直前に――」%K%P
-Um, right before I came here——
+Um, right before I came here—
 心「那个，就在我来这边之前——」
 Прямо перед тем, как я попала сюда...
 
@@ -1258,7 +1258,7 @@ Someone... was attacking me.
 Кто-то напал на меня.
 
 こころ「この手も、その時に――」%K%P
-That was when my hand——
+That was when my hand—
 心「这只手，也是那时——」
 Тогда-то и мою руку...
 
@@ -1318,7 +1318,7 @@ Especially the way he speaks; there's something strangely out of place about it.
 Особенно его речь: есть в ней что-то странное и неуместное.
 
 そう言えば、再会した時にも彼は『逢いたかった』と――%K%P
-Come to think of it, when we were reunited, he said “I wanted to see you”, and——
+Come to think of it, when we were reunited, he said “I wanted to see you”, and—
 说起来，再会的时候，他也说过“好想你”来着——
 Когда мы с ним встретились впервые после катастрофы, он сказал, что скучал по мне, и...
 
@@ -1633,7 +1633,7 @@ Besides, he told me.
 Тем более он сказал мне:
 
 『何者かに狙われているらしい』――と。%K%P
-“It seems someone is after me”——
+“It seems someone is after me”—
 “似乎正在被人追杀。”——这样的话。
 "Похоже кому-то понадобилась моя жизнь".
 
@@ -1653,7 +1653,7 @@ No, I don't really know...
 Нет, я не знаю...
 
 内海「ということは、やっぱりイヌブ――」%K%P
-Which means it could very well have been Inubu——
+Which means it could very well have been Inubu—
 内海「这么说来，果然还是犬——」
 Тогда, возможно, это была Инубу...
 
@@ -1663,7 +1663,7 @@ Utsumi shuts her mouth mid-sentence.
 Уцуми замолкает на полуслове.
 
 『イヌブ』――イヌブシケイコ。%K%P
-“Inubu”——Inubushi Keiko.
+“Inubu”—Inubushi Keiko.
 “犬伏”——犬伏景子。
 "Инубу" – Инубуси Кэйко.
 
@@ -1758,7 +1758,7 @@ It's only natural, I guess.
 Думаю, это вполне естественная реакция.
 
 私は、平気であることを示そうと、笑顔を――%K%P
-In order to show my composure, I smile——
+In order to show my composure, I smile—
 我为了表示自己没事，露出笑容——
 Чтобы показать своё самообладание, я улыбаюсь...
 
@@ -1988,7 +1988,7 @@ Is there a large enough difference to tell Hotori and Inubushi Keiko apart at a 
 Действительно ли Хотори и Инубуси так различаются, что можно различить с первого взгляда?
 
 ふたり――ふたつの人格――の間には。%K%P
-A difference——between the two——two personalities.
+A difference—between the two—two personalities.
 两个人——两个人格——之间。
 Двое... Две личности... в одном теле.
 
@@ -2028,7 +2028,7 @@ The treatment is over before I know it.
 Лечение закончилось быстрее, чем я ожидала.
 
 私の左腕は――%K%P
-My left arm is——
+My left arm is—
 我的左臂——
 Моя левая рука...
 
@@ -2205,7 +2205,7 @@ I feel like grabbing my head and screaming.
 %N
 
 ズキン――腕が痛んだ。%K%N
-Throb——My arm hurts.
+Throb—My arm hurts.
 ——手臂仍然很疼。
 В руке пульсирует боль.
 

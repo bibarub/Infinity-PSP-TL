@@ -49,7 +49,7 @@ I don't even know where the ladder is.
 Я не знаю даже, где находится лестница.
 
 あたり一面が、奥行きの失せた純白の世界――。%K%P
-The whole place is a pure white world where the notion of depth no longer exists——
+The whole place is a pure white world where the notion of depth no longer exists—
 周围尽是失去了深度的纯白色世界——
 Меня окружает чистый белый мир; мир, в котором исчезло само понятие глубины...
 
@@ -199,7 +199,7 @@ The bed, the ladder, the sphere... It seems there's nothing here aside from thos
 Кровать, лестница, сфера... похоже, больше здесь ничего нет.
 
 現在時刻――午前５時２１分。%K%P
-Present time——5:21 AM.
+Present time—5:21 AM.
 现在时刻——清晨５时２１分。
 Текущее время – 5:21.
 
@@ -379,7 +379,7 @@ Why is Enomoto here!?
 Как здесь оказался Эномото?!
 
 ――はっ！%K%P
-——Ah!
+—Ah!
 ——啊！
 А!
 
@@ -409,7 +409,7 @@ This guy... isn't he supposed to be dead...?
 Он... разве он не должен быть мёртв?..
 
 榎本「――！？」%K%P
-——!?
+—!?
 鼷本「——！？」
 ?!
 
@@ -519,7 +519,7 @@ My name is...
 Меня зовут...
 
 悟「――優希堂悟だ」%K%P
-——Yukidoh Satoru.
+—Yukidoh Satoru.
 悟「——优希堂悟」
 Юкидо Сатору.
 
@@ -804,7 +804,7 @@ Filled with curses...
 Проклятие произнесено...
 
 榎本「俺はダビデを突き刺してやる……」%K%P
-I will smite David...
+'I' will smite David...
 鼷本「自己要将大卫刺穿……」
 'Я' пронжу Давида...
 
@@ -949,7 +949,7 @@ The very thought of %TS083That Guy%TE is annoying, you see.
 .........
 
 榎本「だがしかし――」%K%P
-However——
+However—
 鼷本「不过——」
 Однако...
 
@@ -1044,7 +1044,7 @@ That's right.
 Да.
 
 悟「３日前、お前――榎本は死んだ」%K%P
-Three days ago, you——Enomoto died.
+Three days ago, you—Enomoto died.
 悟「三日前，你——鼷本死了」
 Три дня назад ты... Эномото умер.
 
@@ -1094,7 +1094,7 @@ All right. Now for your answers.
 Хорошо. А теперь твои вопросы.
 
 榎本「まず、第１の質問――『どうしてお前がここにいる？』」%K%P
-Let's start with question number one——‘Why are you here?’
+Let's start with question number one—‘Why are you here?’
 鼷本「首先，第一个问题——“为什么你会在这里？”」
 Итак, вопрос номер один: "Как ты здесь оказался?"
 
@@ -1114,12 +1114,12 @@ I... no, we had a certain goal, so we came here.
 У меня... нет, у нас была определённая цель, поэтому мы прибыли сюда.
 
 榎本「『ある目的』――」%K%P
-That ‘certain goal’——
+That ‘certain goal’—
 鼷本「“某种目的”——」
 Эта цель...
 
 榎本「時空間転移装置を%TS087最終レベル%TEにもっていくために」%K%P
-——was to take the space-time transfer device to its %TS087final level%TE.
+—was to take the space-time transfer device to its %TS087final level%TE.
 鼷本「为了把时空间转移装置推进到%TS087最后阶段%TE」
 ...довести устройство для пространственно-временной передачи до его %TS087конечного состояния%TE.
 
@@ -1209,12 +1209,12 @@ Shall I continue?
 Продолжу?
 
 榎本「では、第２の質問――『どうしてお前が生きている？』」%K%P
-On to question number two——‘Why are you alive?’
+On to question number two—‘Why are you alive?’
 鼷本「那么，第二个问题——“为什么你还活着？”」
 Теперь вопрос номер два: "Как тебе удалось выжить?"
 
 榎本「それと、第３の質問――『ここはどこなんだ？』」%K%P
-And question number three——‘Where am I?’
+And question number three—‘Where am I?’
 鼷本「还有，第三个问题——“这是什么地方？”」
 И третий вопрос: "Что это за место?"
 
@@ -1584,7 +1584,7 @@ Aosagi Island is about five kilometers west of Rebun Island.
 Остров Аосаги находится примерно пятью километрами западнее острова Ребун.
 
 榎本「スフィアは『北緯：45度25分37秒／東経：140度55分20秒』の位置にある」%K%P
-SPHIA is located at 45°25'37‘ north latitude, 140°55'20’ east longitude.
+SPHIA is located at 45°25′37″ north latitude, 140°55′20″ east longitude.
 鼷本「ＳＰＨＩＡ在“北纬：45度25分37秒／东经：140度55分20秒”的位置」
 SPHIA расположена в точке 45°25'37" северной широты%Nи 140°55'20" восточной долготы.
 
@@ -1594,12 +1594,12 @@ And the other, the shelter cabin on Mount Akakura, in the South Hakkouda Mountai
 С другой стороны, горная хижина на горе Акакура в южной части хребта Хаккода, префектура Аомори.
 
 榎本「『北緯：40度35分35秒／東経：140度55分20秒』の位置にある」%K%P
-...is located at 40°35'35‘ north latitude, 140°55'20’ east longitude.
+...is located at 40°35′35″ north latitude, 140°55′20″ east longitude.
 鼷本「“北纬：40度35分35秒／东经：140度55分20秒”的位置」
 Расположена в координатах 40°35'35" северной широты%Nи 140°55'20" восточной долготы.
 
 榎本「ふたつの空間は、東経『140度55分20秒』のラインをなぞるように存在してる」%K%P
-These two places both follow the line of 140°55'20" east longitude.
+These two places both follow the line of 140°55′20″ east longitude.
 鼷本「两个空间的存在，就像画出了东经“140度55分20秒”的线一样」
 Оба места находятся на одной линии восточной%Nдолготы – 140°55'20".
 
@@ -1609,12 +1609,12 @@ And finally, here...
 А у этого места...
 
 榎本「『北緯：43度00分36秒／東経：140度55分20秒』」%K%P
-This place is at 43°00'36‘ north latitude and 140°55'20’ east longitude.
+This place is at 43°00′36″ north latitude and 140°55′20″ east longitude.
 鼷本「“北纬：43度00分36秒／东经：140度55分20秒”」
 ...координаты 43°00'36" северной широты, 140°55'20" восточной долготы.
 
 悟「東経『140度55分20秒』のライン上の中間地点……」%K%P
-The midway point on the line of 140°55'20" east longitude...
+The midway point on the line of 140°55′20″ east longitude...
 悟「东经“140度55分20秒”的线上的中间地点……」
 Середина отрезка, проходящего по 140°55'20" восточной долготы...
 
@@ -1624,12 +1624,12 @@ Correct. It is the exact middle point.
 Правильно, ровно посередине.
 
 榎本「貴様は、東経『140度55分20秒』のライン上の３点――」%K%P
-These three points on the line of 140°55'20" east longitude...
+These three points on the line of 140°55′20″ east longitude—
 鼷本「你小子，在东经“140度55分20秒”的线上的三点——」
 Все три точки лежат на линии, пролегающей по 140°55'20" восточной долготы.
 
 榎本「北緯『45度25分37秒』→『43度00分36秒』→『40度35分35秒』→『45度25分37秒』→『43度00分36秒』→『40度35分35秒』→……」%K%P
-45°25'37‘ north latitude → 43°00'36’ → 40°35'35‘ → 45°25'37’ → 43°00'36‘ → 40°35'35’ → ...
+45°25′37″ north latitude → 43°00′36″ → 40°35′35″ → 45°25′37″ → 43°00′36″ → 40°35′35″ → ...
 鼷本「北纬“45度25分37秒”→“43度00分36秒”→“40度35分35秒”→“45度25分37秒”→“43度00分36秒”→“40度35分35秒”→……」
 Северные широты: 45°25'37" → 43°00'36" → 40°35'35" →%N45°25'37" → 43°00'36" → 40°35'35" → ...
 
@@ -1649,7 +1649,7 @@ This... This is what's happening...
 Вот как... это происходило...
 
 悟「『北緯：43度00分36秒／東経：140度55分20秒』の地点とは……」%K%P
-The point at 43°00'36‘ north latitude and 140°55'20’ east longitude...
+The point at 43°00′36″ north latitude and 140°55′20″ east longitude...
 悟「“北纬：43度00分36秒／东经：140度55分20秒”的地点是……」
 Мы находимся в точке с координатами 43°00'36" северной широты и 140°55'20" восточной долготы...
 
@@ -1669,7 +1669,7 @@ Fine. I'll tell you. This is...
 Ладно. 'Я' скажу тебе. Это...
 
 榎本「『北海道妃羽郡茂枝木村穂樽日鉱山廃坑跡』だ」%K%P
-Moegi Village, Hiwa District, Hokkaido——the ruins of the abandoned Hotarubi Mine.
+Moegi Village, Hiwa District, Hokkaido—the ruins of the abandoned Hotarubi Mine.
 鼷本「“北海道妃羽郡茂枝木村穗樽日矿山废坑遗迹”」
 Заброшенный рудник Хотаруби в деревне Моэги района Хива на острове Хоккайдо.
 
@@ -1904,7 +1904,7 @@ The person who comes down...
 Вошедшим оказался...
 
 ――オレだった。%K%P
-——is me.
+—is me.
 ——是我。
 ...я
 
@@ -2174,7 +2174,7 @@ Yeah, of course.
 Хочу хоть раз сделать это...
 
 悟「自分を殺す、ってやつをね」%K%P
-Killing myself, that is.
+Killing ''myself'', that is.
 悟「自杀」
 ...убить себя.
 
@@ -2294,7 +2294,7 @@ There's no way... that's possible...
 Этого... не может...
 
 次の瞬間――。%K%P
-And the next moment——
+And the next moment—
 下一瞬间——
 В этот момент...
 
@@ -2449,7 +2449,7 @@ Don't you agree?
 А ты как считаешь...
 
 悟「――優希堂？」%K%P
-——Yukidoh?
+—Yukidoh?
 悟「——优希堂？」
 Юкидо?
 
@@ -2484,7 +2484,7 @@ Because 'I''m different from you.
 Потому что 'я' отличаюсь от тебя...
 
 ユウキドウ「――榎本よ」%K%P
-——Enomoto.
+—Enomoto.
 优希堂「——鼷本」
 Эномото.
 
@@ -2556,7 +2556,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 

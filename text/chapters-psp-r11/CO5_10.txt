@@ -59,7 +59,7 @@ This is bad. Letting her go alone would be too dangerous.
 Плохо дело. Позволить ей идти одной слишком опасно.
 
 でも――%K%P
-But——
+But—
 可是——
 Но...
 
@@ -99,7 +99,7 @@ Maybe she'll be able to find the helicopter.
 Может быть, она сможет найти вертолёт.
 
 もしかしたら――%K%P
-Maybe——
+Maybe—
 也许——
 Может быть–
 
@@ -499,7 +499,7 @@ Seeing her face after I forcibly turn her around, I gulp.
 Я разворачиваю её и, увидев её лицо, сглатываю.
 
 彼女は――%K%P
-She's——
+She's—
 她——
 Она...
 
@@ -909,7 +909,7 @@ Mayuzumi brandishes the ice ax.
 Маюдзуми замахивается своим ледорубом.
 
 私は――%K%p
-I——
+I—
 我——
 Я...
 
@@ -984,12 +984,12 @@ Was it really okay to believe in Mayuzumi?
 Можно ли на самом деле доверять Маюдзуми?
 
 私は――%K%P
-I——
+I—
 我——
 Я...
 
 私は、死にたくない――！%K%P
-I don't want to die——!
+I don't want to die—!
 我不想死──！
 Я не хочу умирать!..
 
@@ -1029,12 +1029,12 @@ I involuntarily breathe a sigh of relief.
 Я облегчённо вздыхаю.
 
 通じた――%K%P
-I reached her——
+I reached her—
 成功了——
 Я смогла...
 
 信じる気持ちが、黛に通じてくれた――%K%P
-My faith in Mayuzumi, it was able to get through to her——
+My faith in Mayuzumi, it was able to get through to her—
 我的心意成功地传达给了黛──
 Моя вера в неё достигла её...
 
@@ -1261,7 +1261,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 
@@ -1363,7 +1363,7 @@ This may be our last chance.
 Возможно, это наш последний шанс.
 
 でも――%K%P
-But——
+But—
 可是——
 Но...
 

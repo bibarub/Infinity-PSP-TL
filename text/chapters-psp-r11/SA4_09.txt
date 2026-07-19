@@ -4,7 +4,7 @@ I don't believe it...
 Не могу в это поверить...
 
 悟「こんなこと……起こりえるはずが――」%K%P
-Something like this... it couldn't possibly——
+Something like this... it couldn't possibly—
 悟「这种事情……根本不可能发——」
 Этого же... просто быть не–
 
@@ -124,7 +124,7 @@ I see, so I'll have to start from there...?
 %TS061Квантовая%TE телепортация – это процесс, основанный на понятиях %TS062квантовой механики%TE.
 
 榎本「テレポーテーション――物体をそっくりそのまま別の場所に転送させる現象」%K%P
-Teleportation——the ability to transport an object entirely to a different location.
+Teleportation—the ability to transport an object entirely to a different location.
 鼷本「远距传态——是指把物体原原本本地传送到别处的现象」
 Телепортация – это феномен перемещения объекта из одной точки пространства в другую.
 
@@ -249,7 +249,7 @@ Operating the keyboard, Enomoto pulls up an image on the monitor.
 Постучав по клавиатуре, Эномото выводит на экран монитора ещё одно изображение.
 
 榎本「まず、ＥＰＲペアの共有――」%K%P
-Firstly, sharing an EPR pair——
+Firstly, sharing an EPR pair—
 鼷本「首先，ＥＰＲ对的共有——」
 Итак, ЭПР-пара...
 
@@ -259,7 +259,7 @@ Let's share a pair of particles entwined from the EPR pair source, particle B an
 По одной частице из запутанной пары, назовём их B и C, отправляется Алисе и Бобу.
 
 榎本「次に、粒子Ａの受信――」%K%P
-Now, let's introduce particle A——
+Now, let's introduce particle A—
 鼷本「接下来，粒子Ａ的接收——」
 Теперь на сцену выходит частица A.
 
@@ -284,7 +284,7 @@ In addition, the timing of Alice receiving particle A must match that of particl
 Теперь Алиса должна соотнести частицу B с частицей A.
 
 榎本「次は、%TS073ベル測定%TE――」%K%P
-Next, the %TS073Bell measurement%TE——
+Next, the %TS073Bell measurement%TE—
 鼷本「接下来，%TS073贝尔实验%TE——」
 Необходимо произвести %TS073измерение Белла%TE.
 
@@ -299,7 +299,7 @@ To put it simply, the process is about measuring the parameters between their re
 Говоря простыми словами, это процесс измерения параметров, характеризующих сумму их состояний.
 
 榎本「このとき、アリスの得られる情報はベル状態――」%K%P
-So Alice determines their Bell state——
+So Alice determines their Bell state—
 鼷本「此时，Ａｌｉｃｅ所能获得的情报只有贝尔态——」
 Так Алиса определяет их состояние Белла...
 
@@ -324,7 +324,7 @@ Consequently, it could be any of the four.
 То есть они равновероятны.
 
 榎本「そして、粒子Ａのテレポーテーションが行われる――」%K%P
-Next, particle A is teleported——
+Next, particle A is teleported—
 鼷本「然后，粒子Ａ进行远距传态——」
 После всего этого частица B телепортируется.
 
@@ -344,7 +344,7 @@ However, until Bob learns of the results of the Bell measurement, he won't be ab
 Однако, пока Боб не узнает о результатах измерения Белла, он не сможет воссоздать переданное состояние.
 
 榎本「その次は、ベル測定の結果の送信だ――」%K%P
-So the next step is to communicate the results of the Bell measurement——
+So the next step is to communicate the results of the Bell measurement—
 鼷本「接下来，贝尔实验结果的发送——」
 Так что следующий этап – передача результатов измерения Белла.
 
@@ -354,17 +354,17 @@ Alice sends Bob the results of the measurements she obtained.
 Алиса отправляет Бобу результаты своих измерений.
 
 榎本「このときの通信手段は、一般的には電話などの古典通信――光速以下の通信が使われる」%K%P
-The means of communication at this time can be more orthodox, say, a phone call or a letter——a transmission occurring below the speed of light.
+The means of communication at this time can be more orthodox, say, a phone call or a letter—a transmission occurring below the speed of light.
 鼷本「此时所用的通信方法，一般是电话一类的古典通信——即光速以下的通信」
 Передача происходит по классическому каналу, например по телефону, на досветовой скорости.
 
 榎本「最後に、量子情報の変換――」%K%P
-And then, the final step is the transformation of the quantum state——
+And then, the final step is the transformation of the quantum state—
 鼷本「最后，量子信息的变换——」
 Последний шаг – преобразование квантового состояния.
 
 榎本「ボブは知らされたベル測定の結果を利用して、粒子Ｃの量子的な情報に%TS074ユニタリ変換%TE――」%K%P
-Using the results of the Bell measurement Bob was informed of, particle C becomes quantum information through a %TS074unitary transformation%TE——
+Using the results of the Bell measurement Bob was informed of, particle C becomes quantum information through a %TS074unitary transformation%TE—
 鼷本「Ｂｏｂ利用刚得知的贝尔实验结果，对粒子Ｃ的量子信息进行%TS074幺正变换%TE——」
 Используя полученные результаты измерения Белла, Боб выполняет %TS074унитарное преобразование%TE квантового состояния находящейся в его распоряжении частицы C.
 
@@ -419,7 +419,7 @@ However, the technology developed by the%N‘%TS075corporation%TE’ I belong to
 Однако технология, разработанная %TS075компанией%TE, в которой ||я|| работаю, сделала это возможным.
 
 榎本「微粒子に分解された原子の状態――人間や物体の量子情報を転送するのだ」%K%P
-What we transfer is the state of the atoms disassembled——the quantum information of humans and objects.
+What we transfer is the state of the atoms disassembled—the quantum information of humans and objects.
 鼷本「先分解为微粒子，再把原子的状态——人类和宏观物体的量子信息传送过去」
 Мы переносим разложенное на атомы состояние – квантовую информацию человека или вещи.
 
@@ -539,7 +539,7 @@ It's the same as what I stated before.
 ||Я|| упоминал об этом ранее.
 
 榎本「時空間転移装置――そう私は呼んでいる」%K%P
-The space-time transfer device——that's what I'll call it.
+The space-time transfer device—that's what I'll call it.
 鼷本「时空间转移装置——余是这么称呼的」
 "Устройство для пространственно-временной передачи" – так ||я|| его зову.
 
@@ -559,7 +559,7 @@ Enough with the technical explanation!
 Достаточно о технической стороне.
 
 悟「オレが訊きたいのはそんなことでなく――」%K%P
-That wasn't what I wanted to ask about, it's——
+That wasn't what I wanted to ask about, it's—
 悟「我想问的不是这个——」
 Я хочу услышать не о том, как–
 
@@ -639,7 +639,7 @@ This figure represents time and space as a two-dimensional diagram.
 Тут изображено время и пространство в виде двумерной схемы.
 
 榎本「Ｙ軸を時間、Ｘ軸を空間――緯度を示している」%K%P
-The Y axis represents time, and the X axis represents space——specifically, the latitude of each location.
+The Y axis represents time, and the X axis represents space—specifically, the latitude of each location.
 鼷本「Ｙ轴表示时间，Ｘ轴表示空间——也就是纬度」
 Ось Y – время, ось X – пространство, показывает широту каждой локации.
 
@@ -799,7 +799,7 @@ Shown there is the image of the Y-axis (time) slanted, and the line marked t' pe
 ......
 
 榎本「これで理論上は――いや、事実上と言ってもいいかな――ふたつの地点は同じ時間軸上に存在することになった」%K%P
-According to this theory——no, you can see how it's a matter of fact——the two points can exist on the same time axis.
+According to this theory—no, you can see how it's a matter of fact—the two points can exist on the same time axis.
 鼷本「如此一来，在理论上——不，事实上也可以这么说——两个地点就存在于同一时间轴上了」
 Таким образом, теоретически – нет, это уже свершившийся факт – эти две точки могут существовать в один и тот же момент по оси времени.
 
@@ -929,7 +929,7 @@ Inside the box in the middle is the origin of the EPR pair... where the particle
 Внутри вот этого бокса в центре находится источник ЭПР-пар... в нём частицы спутываются друг с другом на квантовом уровне.
 
 榎本「そして、その両側にある箱がアリスとボブ――送信側と受信側だ」%K%P
-And those two boxes at either side represent Alice and Bob——the sender and the receiver.
+And those two boxes at either side represent Alice and Bob—the sender and the receiver.
 鼷本「然后，这两边的盒子就是Ａｌｉｃｅ和Ｂｏｂ——即发信端和收信端」
 А эти боксы по бокам представляют собой Алису и Боба – отправителя и получателя, соответственно.
 
@@ -989,7 +989,7 @@ Conversely, Bob is the Aosagi Island of 2012, and the black saucer is Aosagi Isl
 С другой стороны, Боб – это остров Аосаги 2012-го, а чёрное блюдце – круг SPHIA.
 
 榎本「黒いカップはきみ――優希堂悟、を示している」%K%P
-The black cup will be you——Yukidoh Satoru.
+The black cup will be you—Yukidoh Satoru.
 鼷本「黑色杯子代表你——优希堂悟」
 Чёрная же кружка – это ты, Юкидо Сатору.
 
@@ -1213,7 +1213,7 @@ How is it?
 Ну как?
 
 悟「ボブの方――つまりブラックの方が断然美味い」%K%P
-The Bob one——in other words, the one that's black, is distinctively better.
+The Bob one—in other words, the one that's black, is distinctively better.
 悟「明显是Ｂｏｂ——黑咖啡那边的好喝」
 Тот, что Боба... то есть чёрный намного лучше.
 
@@ -1223,7 +1223,7 @@ I answer, returning the cups to their places.
 Отвечаю я, возвращая чашку на место.
 
 悟「アリスの方――つまりミルク入りの方が断然美味い」%K%P
-The Alice one——in other words, the one with milk, is distinctively better.
+The Alice one—in other words, the one with milk, is distinctively better.
 悟「明显是Ａｌｉｃｅ——白咖啡那边的好喝」
 Тот, что Алисы... то есть с молоком намного лучше.
 
@@ -1293,7 +1293,7 @@ Any moment now.
 С секунды на секунду.
 
 そのとき――アリスに変化が起きた。%K%P
-And at that very moment——Alice transforms.
+And at that very moment—Alice transforms.
 这时——Ａｌｉｃｅ发生了变化。
 И в это же мгновение Алиса меняется.
 
@@ -1318,7 +1318,7 @@ Then the coffee inside Alice is...
 Значит, посуда с кофе Алисы...
 
 榎本「そう。未来――今から１分後のボブのコーヒーの情報が、アリス――過去へと転移したのだ」%K%P
-Exactly. The future——the information of Bob's cup from one minute in the future——has transferred to Alice's in the past.
+Exactly. The future—the information of Bob's cup from one minute in the future—has transferred to Alice's in the past.
 鼷本「没错。未来——也就是一分钟后Ｂｏｂ中咖啡的情报，转移到了Ａｌｉｃｅ这里——也就是过去」
 Именно. Будущее– Информация о состоянии кофе Боба через одну минуту от текущего времени передалась Алисе в прошлое.
 
@@ -1333,7 +1333,7 @@ And, in just one more minute...
 И по истечении минуты...
 
 ――１分経過。%K%P
-——Another minute passes.
+—Another minute passes.
 ——过了一分钟
 Проходит ровно минута.
 
@@ -1353,7 +1353,7 @@ The cup and saucer go from black to white. Now there's milk in the coffee.
 Чёрные чашка и блюдце внутри коробочки стали белыми. Кофе теперь с молоком.
 
 悟「過去――今から１分前のアリスのコーヒーの情報が、ボブ――未来へと転移してきた……」%K%P
-The past——the information of Alice's cup from one minute in the past——has transferred to Bob's in the future...
+The past—the information of Alice's cup from one minute in the past—has transferred to Bob's in the future...
 悟「过去——也就是一分钟前Ａｌｉｃｅ中咖啡的情报，转移到了Ｂｏｂ——也就是未来……」
 Прошлое– Информация о состоянии кофе Алисы минуту назад передалась Бобу в будущее.
 
@@ -1368,7 +1368,7 @@ This is...
 Это...
 
 榎本「転移――量子テレポーテーションだ」%K%P
-A transfer——quantum teleportation.
+A transfer—quantum teleportation.
 鼷本「转移——量子远距传态」
 Перемещение, квантовая телепортация.
 
@@ -1403,12 +1403,12 @@ How is it now?
 Ну и как теперь?
 
 ボブの方――つまりミルク入りの方が……美味かった。%K%P
-Bob's——in other words, the coffee with milk in it... is really good.
+Bob's—in other words, the coffee with milk in it... is really good.
 Ｂｏｂ——就是白咖啡那边……比较好喝。
 У Боба... то есть кофе с молоком... вкусный.
 
 アリスの方――つまりブラックの方が……美味かった。%K%P
-Alice's——in other words, the black coffee... is really good.
+Alice's—in other words, the black coffee... is really good.
 Ａｌｉｃｅ——就是黑咖啡那边……比较好喝。
 У Алисы... то есть чёрный кофе... вкусный.
 
@@ -1498,7 +1498,7 @@ Even if your bodies and surroundings change places, your consciousnesses remain 
 Ваши сознания остаются, несмотря на то, что ваши тела и окружения меняются местами.
 
 榎本「――以上、実証終了」%K%P
-——Here ends the demonstration.
+—Here ends the demonstration.
 鼷本「——以上，实证完毕」
 На этом демонстрация окончена.
 

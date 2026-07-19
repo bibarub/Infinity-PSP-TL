@@ -19,7 +19,7 @@ Monday, January 16th, 2012.
 16 января 2012 года, понедельник.
 
 時刻――午前７時４９分。%K%P
-Present time——7:49 AM.
+Present time—7:49 AM.
 时刻——上午７时４９分。
 Текущее время – 7:49.
 
@@ -466,7 +466,7 @@ I don't even know what will happen five minutes from now.
 Не могу даже предположить, что произойдёт в следующие пять минут.
 
 誰を信じていいのかもわからない――。%K%P
-I don't know who I can believe in, either——
+I don't know who I can believe in, either—
 不知道还有谁能够相信——
 И я не знаю, кому можно верить...
 
@@ -875,7 +875,7 @@ But an abnormal phenomenon is at work here.
 Но здесь действует экстраординарный феномен.
 
 すなわち、時空間転移――。%K%N
-That is, the space-time transfer——
+That is, the space-time transfer—
 也就是时空间转移——
 Точнее, пространственно-временное перемещение...
 

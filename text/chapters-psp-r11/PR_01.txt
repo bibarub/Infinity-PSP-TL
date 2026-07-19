@@ -59,7 +59,7 @@ Right now, I'm somewhere as close to heaven as I'll ever be.
 На высоте десяти километров над землёй...
 
 ？？「うしろのしょーめんだーれ？」%K%P
-Who's that behi——ind you?
+Who's that behi—ind you?
 ？？「猜猜身后是何人？」
 Кто впереди твоей спины?
 
@@ -74,7 +74,7 @@ Someone from the seat behind me has covered both my eyes with their hands.
 Кто-то, сидящий позади меня, закрыл мои глаза ладонями.
 
 ？？「うしろのしょーめんだーれ？」%K%P
-Who's that behi——ind you?
+Who's that behi—ind you?
 ？？「猜猜身后是何人？」
 Кто впереди твоей спины?
 
@@ -84,7 +84,7 @@ Who's that behi——ind you?
 .......
 
 ？？「うしろのしょーめんだーれ？」%K%P
-Who's that behi——ind you?
+Who's that behi—ind you?
 ？？「猜猜身后是何人？」
 Кто впереди твоей спины?
 
@@ -494,7 +494,7 @@ He has a big smile on his face, as always...
 Он снова широко улыбается.
 
 私には埒外の分野――。愛想笑いを浮かべて見せるのが精一杯だった。%K%P
-This isn't really my field of expertise——all I can do is force a smile.
+This isn't really my field of expertise—all I can do is force a smile.
 与我毫不相关的学术领域——。挤出社交式的笑容已是尽全力了。
 Я уже утратила способность улыбаться так же открыто и энергично, как он. Теперь я могу выдавать лишь фальшивые улыбки.
 
@@ -724,7 +724,7 @@ What is it?
 Что именно?
 
 こころ「ゆにくん、さっき『かごめ歌』の中で『夜明けの%TS002晩%TEに』って唄ってたでしょう？」%K%P
-When you were singing the Kagome Song earlier, you sang ‘yoake no ban’——‘%TS002evening%TE lit by the dawn’, right?
+When you were singing the Kagome Song earlier, you sang ‘yoake no ban’—‘%TS002evening%TE lit by the dawn’, right?
 心「悠尼刚才的“笼鸟歌”中不是有唱到“黎明时分的%TS002夜%TE晚”吗？」
 Юни, когда ты пел песенку "Кагомэ", ты что, пропел "в рассветный %TS002вечер%TE"?
 
@@ -834,7 +834,7 @@ Yuni says so while picking at the chipped nail of one of his fingers.
 Говорит Юни, рассматривая свои ногти.
 
 ゆに「だって、すぐあとの歌詞には『鶴と亀』『後ろの正面』っていうのがあるじゃん？」%K%P
-Because, after that, the next lines go ‘tsuru to kame’——‘crane and turtle’, ‘ushiro no shoumen’——‘right behind you’——‘in front of your back’, right?
+Because, after that, the next lines go ‘tsuru to kame’—‘crane and turtle’, ‘ushiro no shoumen’—‘right behind you’—‘in front of your back’, right?
 悠尼「因为，紧接其后的歌词里不是有“鹤和龟”“后面和前面”嘛？」
 Потому что далее в песне "журавль и черепаха" и "впереди твоей спины", верно?
 
@@ -929,7 +929,7 @@ And then there's the...
 И, конечно же...
 
 ゆに「うしろのしょーめんだーれ？」%K%P
-‘Who's that behi——ind you?’
+‘Who's that behi—ind you?’
 悠尼「猜猜身后是何人」
 "Кто впереди твоей спины?"
 
@@ -1049,7 +1049,7 @@ Outside, the snow is still blowing violently about.
 Снаружи всё ещё бушует метель.
 
 俺は息を殺して鉄扉の前に立った。%K%P
-'I' hold my breath as 'I' stand in front of the iron door.
+'I' hold 'my' breath as 'I' stand in front of the iron door.
 自己屏声静气地站在铁门前。
 Задержав дыхание, 'я' останавливаюсь у железной двери.
 
@@ -1069,7 +1069,7 @@ The red light indicates that it's locked.
 Красный огонёк говорит о том, что дверь заперта.
 
 ポケットに手を差し入れて１枚のカードを取り出す。%K%P
-'I' put my hand in my pocket and pull out a single key card.
+'I' put 'my' hand in 'my' pocket and pull out a single key card.
 自己将手伸入口袋，取出一枚卡片。
 'Я' опускаю руку в карман и вытаскиваю пластиковую карту.
 
@@ -1084,7 +1084,7 @@ SATORU　YUKIDOH
 1331 2223 9801
 
 凸型に刻まれた文字を指先でなぞる。%K%P
-'I' trace the engraved letters with my fingertip.
+'I' trace the engraved letters with 'my' fingertip.
 自己用指尖抚过凸起的文字。
 Пальцем провожу по выгравированным литерам.
 
@@ -1094,17 +1094,17 @@ Yukidoh Satoru...
 Юкидо Сатору...
 
 それが俺の名前……。%K%P
-That is my name...
+That is 'my' name...
 那便是自己的名字……
 Это моё имя...
 
 俺は自分の名前があまり好きではなかった。%K%P
-'I' haven't ever really liked my name that much.
+'I' haven't ever really liked 'my' name that much.
 并不怎么喜欢这个名字。
 'Я' никогда особо не любил собственное имя.
 
 カードを指にからませてくるりとまわす。%K%P
-'I' twirl the card in my fingers and spin it around.
+'I' twirl the card in 'my' fingers and spin it around.
 抓住卡片，将它转过一面。
 Всё ещё стоя под дверью, кручу карточку в руке.
 
@@ -1239,7 +1239,7 @@ You see... I'm not really good with... the ‘zoom’.
 Понимаешь, я не очень хорошо справляюсь с... "вух".
 
 ゆに「ギュンッて、ギュンッて、するときあるでしょ？」%K%P
-‘Zoom’——there's a part where it goes ‘zoom’, right?
+‘Zoom’—there's a part where it goes ‘zoom’, right?
 悠尼「有的时候不是会“揪”地一下吗？」
 Ну знаешь, когда "вух, ву-у-ух"?
 
@@ -1369,7 +1369,7 @@ In his hand is a fluttering object, which he presents to me.
 Юни показывает вытащенную из моих волос вещицу.
 
 ゆにの指先がつまんでいたもの――。%K%P
-The object Yuni is holding between his fingers——
+The object Yuni is holding between his fingers—
 悠尼的指尖捏住的东西——
 Меж пальцами он держит...
 
@@ -1394,7 +1394,7 @@ A constrictor snake which had wrapped itself around a huge column as it desperat
 Анаконды, обвившейся вокруг огромной колонны в безрассудной попытке её задушить.
 
 足を進めるたびに鉄の鱗が冷たい音を奏でた。%K%P
-Its iron scales make sharp, cold sounds as my feet continue on their journey.
+Its iron scales make sharp, cold sounds as 'my' feet continue on their journey.
 每进一步，铁鳞便奏起冰冷的音符。
 Каждый шаг сопровождается гулким металлическим отзвуком.
 
@@ -1427,12 +1427,12 @@ I will smite David even to the wall with it...
 %LC|Я| пригвожду Давида к стене...%N%TS000(доступна заметка)%TE%K%P
 
 くちからもれたその声は、自分のものとは思えなかった。%K%P
-'I' don't think of the words coming out of my mouth as my own.
+'I' don't think of the words coming out of 'my' mouth as 'my' own.
 无法相信那是自己发出的话语。
 Голос, доносящийся из моего рта, кажется мне чужим.
 
 誰かが俺の耳元で、ささやいているような気さえした。%K%P
-It's as if some spirit is whispering them into my ear.
+It's as if some spirit is whispering them into 'my' ear.
 甚至感觉，那是有人在我耳边窃窃私语。
 'Я' почти чувствую, как некий дух нашёптывает на ухо слова.
 
@@ -1446,12 +1446,12 @@ It's as if some spirit is whispering them into my ear.
 %N
 
 %LCたとえ再びかわされようと……%K%P
-Even if he avoids me again...
+Even if he avoids 'me' again...
 即使会再次被躲过……
 Даже если он дважды уклонится от копья...
 
 出口が近づいていた。ウワバミに頭はなかった。%K%P
-The entrance 'I''m looking for is near. Thankfully, this constrictor 'I''m making my way up doesn't have a head.
+The entrance 'I''m looking for is near. Thankfully, this constrictor 'I''m making 'my' way up doesn't have a head.
 出口接近了。这条蟒蛇并没有头。
 Выход близок. К счастью, у "анаконды" нет головы.
 
@@ -1966,7 +1966,7 @@ It surprises me how he says those words so casually... It must be his age.
 Меня удивляет, как обыденно он произнёс эти слова... должно быть, это из-за его возраста.
 
 私と同世代の男の子にはない（あるいは彼らが失ってしまった）原石のような純粋さを、ゆには持っているような気がした。%K%P
-The brutal, straightforward frankness that boys my age just don't possess (or rather, that they gradually lose with age)——Yuni still hasn't lost that gift...
+The brutal, straightforward frankness that boys my age just don't possess (or rather, that they gradually lose with age)—Yuni still hasn't lost that gift...
 我觉得悠尼拥有着与我同辈的男孩子所不具有（或是已经丧失了）的原石一样的纯真。
 Такая прямолинейная откровенность, которой не обладают парни моего возраста (или, скорее, они оставили её где-то в прошлом). Юни же всё ещё не растерял сей дар.
 

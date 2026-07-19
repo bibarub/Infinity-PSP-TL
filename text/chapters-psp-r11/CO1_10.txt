@@ -549,12 +549,12 @@ The snowstorm hits my cheeks with amazing force.
 Снежный буран с неистовой силой хлещет меня по щекам.
 
 ――痛い。%K%P
-——Pain.
+—Pain.
 ——很痛。
 ...Больно.
 
 感じるのは、冷たさよりも――痛さ。%K%P
-More than the cold, what I felt is——pain.
+More than the cold, what I felt is—pain.
 感受到的与其说是冷，不如说是——痛。
 Больше холода я чувствую... боль.
 
@@ -1110,7 +1110,7 @@ Yes, it's the date...
 Да, дата...
 
 今日は、平成２３年――つまり２０１１年の１月１１日のはず。%K%P
-Today's date is in Heisei 23——In other words, it should be January 11th, 2011.
+Today's date is in Heisei 23—In other words, it should be January 11th, 2011.
 今天应该是平成２３年——也就是２０１１年的１月１１日。
 Сегодняшняя дата – 11 января 2011 года.
 
@@ -1210,7 +1210,7 @@ The horrific crash of Flight 18, with the discovery of the three bodies, claimed
 Тридцать один пассажир, тридцать погибших...
 
 助かったという唯一の生存者の氏名は――%K%N
-Saved was the sole survivor of the crash——
+Saved was the sole survivor of the crash—
 唯一获救的生还者姓名是——
 Единственный, кому удалось выжить, –
 
@@ -1272,12 +1272,12 @@ I shake that off and run my trembling fingertips on the paper's surface.
 Я пытаюсь избавиться от дрожи, но вместо этого она передаётся кончикам пальцев.
 
 収容された３つの遺体の氏名――%K%N
-The identities of the three discovered bodies——
+The identities of the three discovered bodies—
 被收容的三具遗体的姓名——
 Ниже приведён список
 
 氏名は――%K%P
-They are——
+They are—
 姓名是——
 недавно обнаруженных жертв:
 
@@ -1373,7 +1373,7 @@ I try to blot it out.
 Нужно избавиться от неё.
 
 そして、新聞紙を持った手に力を込め――……%K%P
-And then, I grip the newspaper more tightly——...
+And then, I grip the newspaper more tightly—...
 于是，我握住报纸的手开始用力……
 И пуще прежнего сжимаю газету...
 

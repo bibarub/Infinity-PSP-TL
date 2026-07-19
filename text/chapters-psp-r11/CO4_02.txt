@@ -259,7 +259,7 @@ In this situation, the worst would be... the rescue team's arrival being delayed
 Худшим раскладом для нас сейчас будет... дальнейшая задержка прибытия спасателей.
 
 黄泉木「僕は、ここにいる４人が少しでも長く生きているために必要なことをしよう――そう言っているんだよ」%K%P
-We should do what we have to for the four people here to survive as long as possible——that's what I'm trying to say.
+We should do what we have to for the four people here to survive as long as possible—that's what I'm trying to say.
 黄泉木「我只是在说——为了让这里的四个人能尽可能活得久一些，我们要做些必要的事情」
 Мы вчетвером должны сделать всё возможное, чтобы продержаться как можно дольше... Вот о чём я говорю.
 
@@ -609,7 +609,7 @@ As if intending to decide who's in the right by majority rule, they wait for me 
 Похоже, они решили разрешить спор правилом большинства и ждут моего ответа.
 
 私は――%K%p
-I——
+I—
 我——
 Я думаю...
 
@@ -664,7 +664,7 @@ Ma-Mayuzumi-san!
 Ма-Маюдзуми-сан!
 
 こころ「いくらなんでも、失礼――」%K%P
-Even if you are upset, that was rude——
+Even if you are upset, that was rude—
 心「不管怎么说，这太失礼了——」
 Хоть вы и расстроены, это слишком грубо...
 
@@ -874,7 +874,7 @@ Even though the team's harmony is essential for our survival.
 При том, что взаимопонимание между членами группы играет крайне важную роль для выживания.
 
 私は――%K%p
-I——
+I—
 我——
 Я...
 
@@ -994,7 +994,7 @@ In all honesty, I thought you were just some office lady...
 А я-то думал, что ты обычный офисный работник...
 
 黛「ＯＬはＯＬでも、Ｏｆｆｉｃｉａｌ　Ｌａｗｙｅｒ――%TS040国選弁護人%TE」%K%P
-OLs are OLs, but I'm an Official Lawyer——a %TS040court-appointed attorney%TE.
+OLs are OLs, but I'm an Official Lawyer—a %TS040court-appointed attorney%TE.
 黛「虽然是ＯＬ，但我是Ｏｆｆｉｃｉａｌ　Ｌａｗｙｅｒ——%TS040法院指定律师%TE」
 Я не офисный работник, а %TS040адвокат по назначению%TE.
 
@@ -1259,7 +1259,7 @@ Ma-Mayuzumi-san!
 Ма-Маюдзуми-сан!
 
 こころ「いくらなんでも、失礼――」%K%P
-Even if you are upset, that was rude——
+Even if you are upset, that was rude—
 心「不管怎么说，这太失礼了——」
 Хоть вы и расстроены, это слишком грубо...
 
@@ -1464,7 +1464,7 @@ Even though the team's harmony is essential for our survival.
 При том, что взаимопонимание между членами группы играет крайне важную роль для выживания.
 
 私は――%K%p
-I——
+I—
 我——
 Я...
 
@@ -1659,7 +1659,7 @@ From that appearance, it really doesn't seem like she's trying to monopolize it 
 Не похоже, что она просто пыталась завладеть всей нашей едой.
 
 ――そう信じたかった。%K%P
-——That's what I want to believe.
+—That's what I want to believe.
 ——我希望是这样。
 Хочется в это верить.
 
@@ -1709,7 +1709,7 @@ While smiling in response to Yuni's worried face, I can't help but pray inside m
 Улыбаясь обеспокоенному Юни, про себя я не могу не молить о помощи.
 
 ――お願いします。%K%P
-——Please.
+—Please.
 ——拜托了。
 Пожалуйста.
 
@@ -1719,7 +1719,7 @@ I close my eyes and pray.
 Я закрываю глаза и молюсь.
 
 ――お願いします。早く、誰か助けに来て。%K%P
-——Please. Somebody, hurry and save us.
+—Please. Somebody, hurry and save us.
 ——拜托了。快点来救救我们。
 Пожалуйста, поскорее спасите нас.
 
@@ -2074,7 +2074,7 @@ going to survive, and return alive...?
 выжить и вернуться домой?..
 
 ――お願いします。%K%P
-——Please.
+—Please.
 ——拜托了。
 Пожалуйста.
 
@@ -2084,12 +2084,12 @@ I close my eyes and pray.
 Я закрываю глаза и молюсь.
 
 ――お願いします。早く、誰か助けに来て。%K%P
-——Please. Somebody, hurry and save us.
+—Please. Somebody, hurry and save us.
 ——拜托了。快点来救救我们。
 Пожалуйста, поскорее спасите нас.
 
 その後――%K%P
-Afterward——
+Afterward—
 之后——
 Позднее...
 

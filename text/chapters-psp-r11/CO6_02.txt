@@ -219,7 +219,7 @@ Please, I'm begging you...!
 Пожалуйста, умоляю тебя!..
 
 ゆに「――っ」%K%P
-Hhh——
+Hhh—
 悠尼「——啊」
 Кх...
 
@@ -489,7 +489,7 @@ That's why...
 Из-за меня...
 
 ゆには、死んでしまった――%K%P
-Yuni is dead——
+Yuni is dead—
 悠尼才会……死去——
 Юни умер.
 
@@ -524,12 +524,12 @@ I wipe my tears away and get out of the bed.
 Смахнув слёзы, я спрыгиваю с кровати.
 
 こころ「黄泉木さん！　大変なんです！　ゆにが――！」%K%P
-Yomogi-san! It's terrible! Yuni's——!
+Yomogi-san! It's terrible! Yuni's—!
 心「黄泉木先生！不好了！悠尼他——！」
 Ёмоги-сан! Дело совсем плохо! Юни–
 
 黄泉木はライターを握ったまま動かない。%K%P
-Yomogi sat motionless as he tightly grips the lighter.
+Yomogi sits motionless as he tightly grips the lighter.
 黄泉木握着打火机一动不动。
 Ёмоги неподвижно сидит, крепко сжимая в руке зажигалку.
 
@@ -669,7 +669,7 @@ In front of my eyes lay the corpses of Yomogi and Yuni.
 Передо мной – мёртвые тела Юни и Ёмоги.
 
 そして――%K%P
-And——
+And—
 但是——
 А...
 

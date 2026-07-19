@@ -324,7 +324,7 @@ The lingering echo of that sorrowful voice rebounds against the walls.
 Её голос эхом отражается от стен и повисает в воздухе.
 
 薄氷の上に立つかのごとき緊張感――。%K%P
-A tense atmosphere, like standing on thin ice——
+A tense atmosphere, like standing on thin ice—
 如履薄冰的紧张感——
 Напряжение такое, будто мы стоим на тонком льду...
 
@@ -359,7 +359,7 @@ I have to persuade her somehow...
 В любом случае надо как-то убедить Уцуми...
 
 と思った次の瞬間――。%K%P
-And just as I think that——
+And just as I think that—
 刚想到这儿——
 И, стоило мне только подумать об этом...
 
@@ -389,7 +389,7 @@ Utsumi draws closer, her face like a mask of death.
 Уцуми надвигается на неё с безжизненным взглядом.
 
 穂鳥の悲鳴――。%K%P
-Hotori's scream——
+Hotori's scream—
 穗鸟的惨叫——
 Хотори кричит...
 
@@ -414,7 +414,7 @@ But Hotori's lips are open so wide I fear they'll split apart...
 Но... рот Хотори широко раскрыт...
 
 そのとき、オレは――。%K%p
-At that moment, I——
+At that moment, I—
 这时候，我——
 И в этот момент я...
 
@@ -494,7 +494,7 @@ I have to get it away from her!
 Я должен его отобрать!
 
 そう思った直後――。%K%P
-The moment after I think that——
+The moment after I think that—
 刚刚想到这里——
 Едва меня посещает эта мысль...
 
@@ -544,7 +544,7 @@ With a short yell, I jump toward Hotori.
 Быстро выкрикиваю я и прыгаю в сторону Хотори.
 
 背中に灼熱の痛み――。%K%P
-A scorching pain on my back——
+A scorching pain on my back—
 后背感到了一股灼热的疼痛——
 Спину пронзает жгучая боль.
 
@@ -818,7 +818,7 @@ I have to get it away from her!
 Я должен его отобрать!
 
 そう思った直後――。%K%P
-The moment after I think that——
+The moment after I think that—
 刚刚想到这里——
 Едва меня посещает эта мысль...
 
@@ -1428,7 +1428,7 @@ I have to get it away from her!
 Я должен его отобрать!
 
 そう思った直後――。%K%P
-The moment after I think that——
+The moment after I think that—
 刚刚想到这里——
 Едва меня посещает эта мысль...
 
@@ -1920,7 +1920,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 

@@ -4,7 +4,7 @@ With that decided, the four of us split into two teams for our basketball game.
 Порешив на этом, мы разделились на две команды для игры в баскетбол.
 
 力が均等になるような組み分けを考えた結果――。%K%P
-After trying to balance everyone's strengths equally, the results are——
+After trying to balance everyone's strengths equally, the results are—
 考虑到力量均衡，我们做了如下的分组——
 После попыток уравнять наши силы решено:
 
@@ -810,7 +810,7 @@ Yuni runs over with the ball and passes it to me.
 Юни, подбежав к мячу, пасует его мне.
 
 ハシッと両手でボールを受け取った瞬間――。%K%P
-But the moment I take it in my hands——
+But the moment I take it in my hands—
 在我双手接过球的瞬间——
 Как только я принимаю мяч двумя руками–
 
@@ -885,7 +885,7 @@ Don't let your shoulders tense up!
 Не напрягай плечи!
 
 ゆに「風向きはねぇ、北西から南東に向かって――」%K%P
-Hey, the direction of the wind, it's from northwest to the southeast——
+Hey, the direction of the wind, it's from northwest to the southeast—
 悠尼「风向是，由西北向东南——」
 Ветер северный–
 
@@ -997,7 +997,7 @@ The game continues unhurriedly, and we alternate between offense and defense, ga
 Игра проходит довольно скучно.
 
 %LL２セット目――。%K%N
-The second set——
+The second set—
 第二回合——
 Второй сет–
 
@@ -1019,7 +1019,7 @@ Score: 5—3
 Счёт: 5:3
 
 %LL３セット目――。%K%N
-The third set——
+The third set—
 第三回合——
 Третий сет–
 
@@ -1041,7 +1041,7 @@ Score: 7—8
 Счёт: 7:8
 
 %LL４セット目――。%K%N
-The fourth set——
+The fourth set—
 第四回合——
 Четвёртый сет–
 
@@ -1063,7 +1063,7 @@ Score: 10—8
 Счёт: 10:8
 
 %LL５セット目――。%K%N
-The fifth set——
+The fifth set—
 第五回合——
 Пятый сет–
 
@@ -1085,7 +1085,7 @@ Score: 10—12
 Счёт: 10:12
 
 %LL６セット目――。%K%N
-The sixth set——
+The sixth set—
 第六回合——
 Шестой сет–
 
@@ -1107,7 +1107,7 @@ Score: 13—14
 Счёт: 13:14
 
 %LL７セット目――。%K%N
-The seventh set——
+The seventh set—
 第七回合——
 Седьмой сет–
 
@@ -1362,7 +1362,7 @@ Score: 19—18
 Счёт: 19:18
 
 そして迎えた最終セット――。%K%P
-That brings us to the final set——
+That brings us to the final set—
 接着，我们迎来了最后一个回合。
 Так настаёт время последнего сета...
 
@@ -1412,7 +1412,7 @@ While not expecting her to make it in this time...
 А про себя добавляю: "Наверняка и в этот раз промажет"...
 
 ところが――。%K%P
-Suddenly——
+Suddenly—
 然而——
 Однако–
 
@@ -1848,7 +1848,7 @@ Don't worry about stuff like the direction of the wind!
 Не думай о таких вещах, как направление ветра!
 
 悟「その距離ならきっと――」%K%P
-From that distance, you can definitely——
+From that distance, you can definitely—
 悟「这个距离一定——」
 Ты точно сможешь с этого расстояния–
 
@@ -2288,7 +2288,7 @@ If Hotori misses, they'll only have a one-point lead.
 Если Хотори промажет, у них будет преимущество всего в одно очко...
 
 悟「２ポイント決めたとしても――」%K%P
-And even if she manages two points——
+And even if she manages two points—
 悟「就算她再拿２分也——」
 Даже если она заработает два очка–
 
@@ -2563,7 +2563,7 @@ It soars higher and higher into the air, then begins its descent...
 Он взлетает высоко в небо, а потом начинает опускаться...
 
 するとそこに一陣の風――。%K%P
-When suddenly, there's a gust of wind——
+When suddenly, there's a gust of wind—
 就在这时，一阵风吹来——
 В этот момент налетает порыв ветра–
 
@@ -2755,7 +2755,7 @@ As I watch her go, I remove my watch from my pocket.
 Посмотрев ей вслед, я достаю наручные часы из кармана.
 
 現在時刻――午後０時３２分。%K%P
-Present time——12:32 PM.
+Present time—12:32 PM.
 现在时刻——中午１２时３２分。
 Текущее время – 12:32.
 
@@ -3063,7 +3063,7 @@ Silence...
 Тишина...
 
 次の瞬間――。%K%P
-But at that moment——
+But at that moment—
 下个瞬间——
 И в следующий момент–
 
@@ -3279,7 +3279,7 @@ As I watch her go, I remove my watch from my pocket.
 Посмотрев ей вслед, я достаю наручные часы из кармана.
 
 現在時刻――午後０時３２分。%K%P
-Present time——12:32 PM.
+Present time—12:32 PM.
 现在时刻——中午１２时３２分。
 Текущее время – 12:32.
 
@@ -3490,7 +3490,7 @@ As I watch her go, I remove my watch from my pocket.
 Посмотрев ей вслед, я достаю наручные часы из кармана.
 
 現在時刻――午後０時３２分。%K%P
-Present time——12:32 PM.
+Present time—12:32 PM.
 现在时刻——中午１２时３２分。
 Текущее время – 12:32.
 

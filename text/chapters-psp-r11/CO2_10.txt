@@ -1,5 +1,5 @@
 ﻿――私はイスに腰掛け、新聞を広げていた。%K%P
-——I'm sitting in a chair with the newspaper spread out in front of me.
+—I'm sitting in a chair with the newspaper spread out in front of me.
 ——我坐在椅子上，摊开报纸正在读。
 Я сижу на стуле, уткнувшись в развёрнутую газету.
 
@@ -189,7 +189,7 @@ Estimated distance: five miles.
 Допустимая дистанция: пять миль.
 
 近づいてきた黄泉木の頭を、思いっきり――%K%P
-To Yomogi, who's come even closer——
+To Yomogi, who's come even closer—
 我下定决心，对准靠过来的脑袋……
 Тем, кто смеет подобраться ближе...
 
@@ -249,7 +249,7 @@ Pervert! Stupid pervert! Lecher scum of the earth!
 Извращенец! Тупой извращенец! Похотливый мерзавец!!!
 
 黄泉木「おい待ってくれよ、僕は何も優希堂くんに頼んだわけじゃっ」%K%P
-Hey, wait a sec! It's not like I asked Yukidoh-kun to——
+Hey, wait a sec! It's not like I asked Yukidoh-kun to—
 黄泉木「稍等一下啊，我没拜托优希堂做什么啊」
 Эй, постой! Не то чтобы я просил Юкидо-куна о...
 

@@ -144,7 +144,7 @@ My body floats as if it's falling.
 Я теряю равновесие и едва не падаю.
 
 違う――大きな揺れ――地震だ！%K%P
-No——A big tremor——It's an earthquake!
+No—A big tremor—It's an earthquake!
 不对——是强烈的晃动——是地震！
 Вот это трясёт! Это же землетрясение!
 
@@ -179,7 +179,7 @@ It's going to be a lot of trouble to clean up...
 Будет проблематично навести потом порядок...
 
 そんなことを考えていた瞬間――%K%P
-The moment I have that thought——
+The moment I have that thought—
 正想到这里的时候——
 Стоило мне об этом подумать...
 
@@ -484,7 +484,7 @@ Isn't there any way to protect ourselves from a tsunami? Like climbing up to hig
 Есть ли способ как-то спастись от цунами? Например, забраться куда-нибудь повыше?
 
 ゆに「と、時計台はどうかな？　あそこなら」%K%P
-H-How about the clock tower? If we're there——
+H-How about the clock tower? If we're there—
 悠尼「钟、钟楼怎么样？那里的话……」
 К-как насчёт часовой башни? Если мы–
 
@@ -689,7 +689,7 @@ Isn't there any way to protect ourselves from a tsunami? Like climbing up to hig
 Есть ли способ как-то спастись от цунами? Например, забраться куда-нибудь повыше?
 
 ゆに「と、時計台はどうかな？　あそこなら」%K%P
-H-How about the clock tower? If we're there——
+H-How about the clock tower? If we're there—
 悠尼「钟、钟楼怎么样？那里的话……」
 К-как насчёт часовой башни? Если мы–
 
@@ -824,7 +824,7 @@ Grasping his hand, I open my mouth.
 Я беру его за руку и собираюсь сказать:
 
 ――墜落の時は最後まで一緒にいてあげられなかったみたいだけど……今度は一緒にいられたね。%K%P
-——We couldn't stay together until the end at the time of the crash... but we're together now, right?
+—We couldn't stay together until the end at the time of the crash... but we're together now, right?
 ——虽然坠机的时候好像没有能够始终陪伴你……但今后会一直在一起的。
 "Мы не смогли остаться вместе во время крушения самолёта... но мы вместе сейчас, верно?"
 
@@ -834,7 +834,7 @@ That's what I intend to say.
 Вот только...
 
 しかし、私の意識はそこで途切れた――%K%P
-However, my consciousness is cut off there——
+However, my consciousness is cut off there—
 但是，我的意识在这时中断了——
 Моё сознание уносится прочь.
 

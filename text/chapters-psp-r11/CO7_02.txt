@@ -207,7 +207,7 @@ Because our biggest goal, our only goal, is to go on living.
 Потому что выжить – наша самая большая и единственная цель.
 
 では、私達が雪崩に巻き込まれた地点――仮にＸ地点と呼ぼう――には、なにがあるというのだろう？%K%N
-Then what exactly is there at the place where we were killed by the avalanche——let's call it Location X——one kilometer east of here?
+Then what exactly is there at the place where we were killed by the avalanche—let's call it Location X—one kilometer east of here?
 那么，我们被卷入雪崩的地点——假设叫Ｘ吧——那个地方到底有什么呢？
 Тогда что же находится там – назовём это точкой X – в километре восточнее хижины?
 
@@ -222,7 +222,7 @@ After thinking about it for a bit... I come up with one theory.
 Немного поразмышляв, я прихожу к одному предположению.
 
 Ｘ地点には――%K%p
-At Location X——
+At Location X—
 Ｘ地点那里——
 Может...
 
@@ -354,7 +354,7 @@ Because of that, they couldn't drop the supplies near the shelter cabin.
 Поэтому они не смогли сбросить припасы возле хижины.
 
 そこで、気づいてくれることを信じながら、Ｘ地点へ落とした――%K%N
-So, believing that the supplies would be noticed by the survivors, they made the drop at Location X——
+So, believing that the supplies would be noticed by the survivors, they made the drop at Location X—
 相信我们会发现的，于是把物资投放到Ｘ地点了——
 Тогда, надеясь, что их заметили, они сбросили их в точке X...
 
@@ -416,7 +416,7 @@ I also know that at that time, we will be killed by the avalanche there.
 Я знаю, что там мы погибнем.%K%N
 
 つまり――%K%N
-In other words——
+In other words—
 也就是说——
 Другими словами...
 
@@ -428,7 +428,7 @@ If we arrive at Location X earlier than 6:53 and collect the supplies...
 %N
 
 私達は雪崩に巻き込まれることもなく、食糧を得ることができる――！%K%P
-We can get food without being caught in an avalanche——!
+We can get food without being caught in an avalanche—!
 我们就不用遭遇雪崩取得食粮——！
 Так мы и под лавину не попадём, и припасы заполучим.
 

@@ -224,7 +224,7 @@ I'll just leave everything to its natural course.
 Пусть всё так и остаётся.
 
 その時――%K%P
-And just then——
+And just then—
 这时——
 Но вдруг...
 
@@ -441,7 +441,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 
@@ -783,7 +783,7 @@ The murderer intends to kill Satoru by any means.
 Он, похоже, подошёл к убийству Сатору со всей серьёзностью.
 
 目をギュッと閉じ、自分の肩を強く抱きしめる――%K%P
-I squeeze my eyes shut and clutch strongly at my shoulders——
+I squeeze my eyes shut and clutch strongly at my shoulders—
 我紧紧地闭上眼睛，抱住自己的肩膀——
 Я зажмуриваюсь и обхватываю руками плечи...
 
@@ -803,7 +803,7 @@ Unable to stand the fear, tears begin to flow from my eyes.
 Меня одолевает страх, из глаз начинают течь слёзы.
 
 どのくらい、そうしていただろうか――%K%P
-How many times will I have to go through this——
+How many times will I have to go through this—
 不知这样过了多久——
 Сколько всё это будет продолжаться?..
 
@@ -983,7 +983,7 @@ I don't even know what will happen five minutes from now.
 Не могу даже предположить, что произойдёт в следующие пять минут.
 
 誰を信じていいのかもわからない――。%K%P
-I don't know who I can believe in, either——
+I don't know who I can believe in, either—
 不知道还有谁能够相信——。
 И я не знаю, кому можно верить...
 
@@ -1338,7 +1338,7 @@ There's nothing to worry about.
 Не нужно ни о чём волноваться.
 
 だが――%K%P
-However——
+However—
 但是——
 Однако...
 
@@ -1468,7 +1468,7 @@ Yuni went in the direction of Hotori's room.
 Юни убежал в сторону комнаты Хотори.
 
 私はゆにの後を追った――――%K%P
-I begin to chase after Yuni————
+I begin to chase after Yuni—
 我也追了过去————
 Я отправляюсь за ним следом...
 

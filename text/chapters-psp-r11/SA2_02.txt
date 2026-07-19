@@ -791,7 +791,7 @@ Thinking this, I scan the article.
 Я решаю пробежаться глазами по статье.
 
 概要は次の通り――。%K%P
-To sum it up——
+To sum it up—
 概要如下——
 Резюмируя...
 
@@ -831,7 +831,7 @@ Even among the other plane crash incidents that happened in our country, this wa
 Эта авиакатастрофа была исключительным, беспрецедентным случаем.
 
 『忽然と姿を消してしまったＨＡＬ１８便』――機体が見つかるまでのその１週間、日本国中が騒然となった。%K%N
-“The sudden disappearance of Flight HAL18”——during the week before the plane was found, Japan was in an uproar.%K%P
+“The sudden disappearance of Flight HAL18”—during the week before the plane was found, Japan was in an uproar.%K%P
 “忽然消失的ＨＡＬ１８号班机”——搜索残骸的一周，日本全国一片骚动。
 "Внезапно исчезнувший рейс HAL18"... Всю неделю Япония негодовала.
 
@@ -1023,7 +1023,7 @@ And thus the rescue unit, at last, managed to arrive on scene.
 И спасательная команда наконец-то смогла выдвинуться.
 
 ここで大事なことは――。%K%N
-This is the important part——
+This is the important part—
 这里重要的是——
 Это очень важная часть...
 
@@ -1083,7 +1083,7 @@ A single survivor was also found.
 Был также найден единственный выживший.
 
 ――楠田ゆに。%K%N
-——Kusuda Yuni.
+—Kusuda Yuni.
 ——楠田悠尼。
 Кусуда Юни.
 
@@ -1133,7 +1133,7 @@ But their whereabouts remained unknown...
 Но их местонахождения оставалось неизвестным.
 
 『忽然と姿を消してしまった３人』――マスコミにとっての格好のネタとなった。%K%N
-“The three that suddenly vanished”——it became a rich source of material for the mass media.
+“The three that suddenly vanished”—it became a rich source of material for the mass media.
 “忽然消失的三人”——成为了对宣传媒体来说最合适的材料。
 Газеты запестрели заголовками типа "Трое, которые таинственно исчезли".
 
@@ -1213,7 +1213,7 @@ The only difference is that the magazine article ends with these questions.
 "Может, он что-то скрывает, не желая, чтобы это стало достоянием общественности?"
 
 『本誌はこの核心をつかんだ。――以下次週。乞うご期待！』%K%P
-“Our investigation will get to the heart of the matter——next week. Stay tuned!”
+“Our investigation will get to the heart of the matter—next week. Stay tuned!”
 “本刊核心——下周揭晓，敬请期待！”
 "Наш журнал докопается до истины. Ждите следующий выпуск!"
 

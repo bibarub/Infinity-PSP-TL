@@ -24,7 +24,7 @@ The crane and the turtle slipped and fell...
 Цапля и черепаха поскользнулись.
 
 犬伏「うしろのしょーめんだーれ？」%K%P
-Who's that behi——ind you?
+Who's that behi—ind you?
 犬伏「猜猜身后是何人」
 Кто впереди твоей спины?
 
@@ -414,7 +414,7 @@ My fall from the clock tower...
 Моё падение с башни...
 
 もしも本当にあれが事故だったとするなら、オレはおよそ８時間以内に２度も続けて――偶然――生命の危機に瀕したことになる。%K%N
-If it'd really been an accident, then that would mean I'd come within a hair's breadth of death twice in just eight hours——merely by chance.
+If it'd really been an accident, then that would mean I'd come within a hair's breadth of death twice in just eight hours—merely by chance.
 如果那真的是事故，我就在８小时以内连续两次——偶然——濒临生命危险。
 Если это действительно был несчастный случай, получается, что я по чистой случайности был дважды на волосок от смерти в течение восьми часов.
 
@@ -624,7 +624,7 @@ But if I had fallen from somewhere, that would surely have to be the clock tower
 Мол, раз я упал откуда-то сверху, то упасть я мог исключительно с часовой башни.
 
 すると、そのときだった――。%K%P
-Right at that moment——
+Right at that moment—
 就在这时——
 Внезапно...
 
@@ -764,7 +764,7 @@ The well-honed blade struck the earth.
 Точно отточенные клинки, пронзающие землю.
 
 逆光に浮かびあがるシルエット――。%K%P
-A silhouette could be made out in the backlight——
+A silhouette could be made out in the backlight—
 逆光浮现的那个影子——
 Приближающийся силуэт освещался их светом–
 

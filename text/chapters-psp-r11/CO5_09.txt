@@ -329,7 +329,7 @@ At this rate, I'll be left behind.
 Я так останусь здесь совсем одна.
 
 私は――%K%p
-I——
+I—
 我——
 Я...
 
@@ -704,7 +704,7 @@ Even through my gloves, I can feel his strength weakening.
 Даже сквозь перчатки я чувствую, что его силы на исходе.
 
 それでも――%K%P
-Despite that——
+Despite that—
 即使如此——
 И всё равно...
 
@@ -849,7 +849,7 @@ If I continue to support him like this for a while, I might be the one to fall i
 Если я и дальше буду так его поддерживать, то, возможно, стану следующей, кто упадёт без сил.
 
 それでも――%K%P
-Even so——
+Even so—
 就算这样——
 Тем не менее...
 
@@ -1299,27 +1299,27 @@ How about you...?
 А что насчёт тебя?..
 
 大を救うために、小を犠牲にする――%K%P
-In order to save the majority, you have to sacrifice the minority——
+In order to save the majority, you have to sacrifice the minority—
 牺牲小我——
 Чтобы спасти большинство, необходимо пожертвовать меньшинством...
 
 それもまた、勇気なのかもしれない――%K%P
-That might be an act of courage in itself——
+That might be an act of courage in itself—
 那样做也许也需要一定的勇气——
 Такое решение само по себе можно считать проявлением мужества.
 
 でも――%K%N
-But——
+But—
 可是——
 Но...
 
 でも――%K%N
-But——
+But—
 可是——
 Но...
 
 私は――%K%p
-I——
+I—
 我——
 Я...
 
@@ -1389,7 +1389,7 @@ I'd only end up hating myself unbearably.
 Я бы воспылала невыносимой ненавистью к себе.
 
 それに――%K%P
-And——
+And—
 更何况——
 И...
 
@@ -1399,12 +1399,12 @@ Back then... While the plane was crashing... I swore to myself.
 Тогда... в падающем самолёте... я поклялась себе.
 
 こころ「私が……ゆにを守るって――」%K%P
-That I'd... protect Yuni——
+That I'd... protect Yuni—
 心「我会……保护悠尼的──」
 Что я... защищу Юни.
 
 こころ「誓ったから――！」%K%P
-I swore it——!
+I swore it—!
 心「我发过誓了──！」
 Я поклялась!..
 
@@ -1794,7 +1794,7 @@ I'm alone.
 Я совсем одна.
 
 遭難――という言葉が脳裏に浮かび、パニックに陥る。%K%P
-Disaster——the word floats into my mind, and I fall into a panic.
+Disaster—the word floats into my mind, and I fall into a panic.
 遇难——这个单词在头脑中浮现，我惊恐不已。
 "Катастрофа" – от этого слова, крутящегося в моей голове, я впадаю в панику.
 
@@ -2209,17 +2209,17 @@ After considering it repeatedly, I nod.
 Взвесив все за и против, я киваю.
 
 ――行こう。%K%P
-——Let's go.
+—Let's go.
 ──走吧。
 Вперёд.
 
 そこに希望があるのなら――%K%P
-If there's hope there——
+If there's hope there—
 如果那里有希望的话——
 Если есть надежда...
 
 そこに生き残る術があるのなら――%K%P
-If there's a means to survive there——
+If there's a means to survive there—
 如果去那里能够活命的话——
 Если там мы сможем спастись...
 
@@ -2439,12 +2439,12 @@ Although I don't know what's waiting for us at the crash site...
 И хотя я не знаю, что ждёт нас на месте крушения самолёта...
 
 そこに希望があるのなら――%K%P
-If there's hope there——
+If there's hope there—
 但是如果那里有希望的话——
 Если есть надежда...
 
 そこに生き残る術があるのなら――%K%P
-If there's a means to survive there——
+If there's a means to survive there—
 如果去那里能够活命的话——
 Если там мы сможем спастись...
 
@@ -2656,7 +2656,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 

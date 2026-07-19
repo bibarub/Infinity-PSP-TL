@@ -189,7 +189,7 @@ Falling from as high up as you did, it's no wonder.
 Ничего удивительного для падения с такой высоты.
 
 落ちた――！？%K%P
-Falling——!?
+Falling—!?
 掉下来——！？
 Падения?!
 
@@ -224,7 +224,7 @@ Kokoron... I'm scared... I'm scared...
 Кокорон... мне страшно... так страшно...
 
 ゆに「助けてよぉ……こころーん……」%K%P
-Help me... Kokoron...
+Save me... Kokoron...
 悠尼「救救我……心……」
 Спаси меня... Кокорон...
 
@@ -239,7 +239,7 @@ I throw off the blanket and jump up from the bed.
 Я отбрасываю одеяло и резко вскакиваю с кровати.
 
 しかし次の瞬間――。%K%P
-But the next moment——
+But the next moment—
 但下个瞬间——
 Но в следующий миг...
 
@@ -624,7 +624,7 @@ I'm still alive. Right here. Right now, aren't I...
 Я существую здесь и сейчас...
 
 私は確かに生きている――。%K%P
-I'm pretty certain I'm still alive——
+I'm pretty certain I'm still alive—
 我确实还活着——
 Я совершенно уверена, что всё ещё жива...
 

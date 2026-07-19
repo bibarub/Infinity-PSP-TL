@@ -1,5 +1,5 @@
 ﻿次の転移は午前４時４８分……。%K%P
-The next transfer Is at 4:48 AM...
+The next transfer is at 4:48 AM...
 下次转移是凌晨４时４８分……
 Следующий перенос – в 4:48...
 
@@ -389,7 +389,7 @@ Even so, there's nothing I can do but wait.
 Однако мне не остаётся ничего другого, кроме как ждать.
 
 ――７分前。%K%P
-——Seven minutes to go.
+—Seven minutes to go.
 ——还有７分钟。
 Осталось семь минут...
 
@@ -439,7 +439,7 @@ Along with a feeling of eagerness, there's also a dignified, rousing exhilaratio
 Наряду с волнением я чувствую, как во мне нарастает возбуждение.
 
 ――５分前。%K%P
-——Five minutes to go.
+—Five minutes to go.
 ——还有５分钟。
 Осталось пять минут...
 
@@ -579,7 +579,7 @@ Hotarubi...
 Хотаруби...
 
 瞬間――オレの頭の中で何かが弾け飛んだ。%K%P
-At that moment——something jumps up inside my head.
+At that moment—something jumps up inside my head.
 瞬间——我的脑海中有什么突然迸发出来。
 В этот момент в моей голове что-то словно щёлкаёт.
 
@@ -849,7 +849,7 @@ Eventually, that turns into quick walking, then into a trot, and finally into a 
 Сперва мой шаг переходит в бег трусцой, и вот я уже бегу со всех ног.
 
 現在時刻――午前５時２分。%K%P
-Present time——5:02 AM.
+Present time—5:02 AM.
 现在时刻——清晨５时０２分。
 Текущее время – 5:02.
 
@@ -889,7 +889,7 @@ Mindful of the surface under my feet, I start running again.
 Внимательно глядя куда наступаю, я снова бросаюсь бежать.
 
 目指すべき場所はサークルの中心――。%K%P
-The place I'm aiming for is the circle's core——
+The place I'm aiming for is the circle's core—
 目的地是转移圈的中心——
 Необходимо как можно быстрее добраться до центра круга.
 
@@ -1069,7 +1069,7 @@ Should I open the door or not...?
 Стоит ли мне его открывать?..
 
 現在時刻――午前５時１７分。%K%P
-Present time——5:17 AM.
+Present time—5:17 AM.
 现在时刻——清晨５时１７分。
 Текущее время – 5:17.
 

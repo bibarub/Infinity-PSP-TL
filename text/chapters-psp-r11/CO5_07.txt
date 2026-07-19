@@ -264,7 +264,7 @@ Thinking of those two, I'll abstain from eating as well.
 Подумав о них, я решаю воздержаться от застолья.
 
 しかし――%K%P
-But——
+But—
 但是——
 Но...
 
@@ -644,7 +644,7 @@ That's the biggest difference.
 Вот в чём отличие.
 
 そして、もう一点――%K%P
-And there's one more difference——
+And there's one more difference—
 除此之外，还有一点——
 Хотя имеется и ещё одно...
 
@@ -1004,7 +1004,7 @@ Thinking of everyone in the shelter cabin, I'll abstain from eating as well.
 Подумав об оставшихся в хижине, я решаю воздержаться от застолья.
 
 しかし――%K%P
-But——
+But—
 但是——
 Но...
 
@@ -1379,7 +1379,7 @@ That's the biggest difference.
 Вот в чём отличие.
 
 そして、もう一点――%K%P
-And there's one more difference——
+And there's one more difference—
 除此之外，还有一点——
 Хотя имеется и ещё одно...
 

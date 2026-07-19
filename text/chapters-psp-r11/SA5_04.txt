@@ -261,7 +261,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 
@@ -525,7 +525,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 
@@ -1047,7 +1047,7 @@ The moment he says that, I rush back to the bed.
 Я тут же бросаюсь обратно к кровати.
 
 ベッドの１段目――。%K%P
-The bottom bunk——
+The bottom bunk—
 床的下铺——
 Нижняя койка...
 
@@ -1212,7 +1212,7 @@ With my hands still over my face, I begin to think.
 Все ещё держа руки на лице, я начинаю размышлять.
 
 まず、食べカスのこと――。%K%N
-First, those traces of food——
+First, those traces of food—
 首先，关于压缩饼干——
 Во-первых, эти крошки...
 
@@ -1521,7 +1521,7 @@ I check the time on the watch on my right wrist.
 Проверяю время на часах на правом запястье.
 
 現在時刻――３時１５分。%K%P
-Present time——3:15.
+Present time—3:15.
 现在时刻——下午３时１５分。
 Текущее время – 15:15.
 
@@ -1636,7 +1636,7 @@ The glittering sunlight awakens a memory buried within me.
 Они будят к жизни давно, казалось, забытые воспоминания.
 
 榎本「きみ達は人格交換――人格が転移をしているんじゃない」%K%P
-It's not a personality exchange that you two are undergoing——your personalities aren't what's being transferred.
+It's not a personality exchange that you two are undergoing—your personalities aren't what's being transferred.
 鼷本「你们经历的并不是人格交换——人格发生了转移」
 С вами, ребята, происходит не обмен личностями – перемещаются не они.
 
@@ -1681,7 +1681,7 @@ This isn't Mount Akakura! We're on Aosagi Island!
 Это не гора Акакура! Мы на острове Аосаги!
 
 オレの意識は常に２０１２年１月の青鷺島にある。%K%P
-My consciousness never leaves the Aosagi Island.
+My consciousness never leaves Aosagi Island.
 我的意识一直是残留在青鹭岛的。
 Моё сознание никогда не покидает острова Аосаги 2012 года.
 

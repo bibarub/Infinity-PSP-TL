@@ -54,7 +54,7 @@ It's as if the sun has disappeared.
 Как будто солнце просто исчезло.
 
 私は――%K%p
-I——
+I—
 我——
 Я...
 
@@ -591,7 +591,7 @@ Choke back the tears
 Постараться не заплакать
 
 私はそっとゆにのメガネに手を――%K%P
-I gently put my hand on Yuni's glasses——
+I gently put my hand on Yuni's glasses—
 我偷偷地把手伸向悠尼的眼镜——
 Я медленно снимаю с него очки...
 
@@ -1296,7 +1296,7 @@ I'm sorry... Seijiii.
 Прости, Сэйдзи.
 
 ――私達の意識は、その一瞬、完全に水に向けられていた。%K%P
-——For that moment, our attention is completely focused on the water.
+—For that moment, our attention is completely focused on the water.
 ——我们的意识当时完全集中在水上。
 Всеобщее внимание сосредоточено на воде и кружке.
 

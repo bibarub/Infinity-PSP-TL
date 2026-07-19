@@ -64,7 +64,7 @@ I search with all my might.
 Я прилагаю все усилия...
 
 しかし――%K%P
-But——
+But—
 但是——
 Но...
 
@@ -149,7 +149,7 @@ If I stay here like this, I'll die.
 Если останусь здесь, то погибну.
 
 私は――%K%p
-I——
+I—
 我——
 Я...
 
@@ -989,7 +989,7 @@ Wanting to check the compass, I reach a hand into my pocket.
 Собираясь свериться с компасом, я сую руку в карман.
 
 その刹那――%K%P
-At that moment——
+At that moment—
 这个瞬间——
 В этот момент–
 
@@ -1019,7 +1019,7 @@ My body rocks as though I've been caught and shaken hard by a giant.
 Меня перекатывает так, будто чья-то гигантская рука швырнула меня о землю.
 
 こころ「――！！！」%K%P
-——!!!
+—!!!
 心「——！！！」
 !!!
 
@@ -1039,7 +1039,7 @@ Buried in the snow, I...
 Засыпанная снегом...
 
 そのまま、ゆっくりと意識を失った――%K%P
-Gradually, I begin to lose consciousness——
+Gradually, I begin to lose consciousness—
 就那样慢慢失去了意识——
 Я чувствую, как сознание медленно покидает меня...
 
@@ -1304,7 +1304,7 @@ Zero gravity.
 На миг мне кажется, что гравитация пропала.
 
 違う――これは――！%K%P
-No——this is——!
+No—this is—!
 不对——这个是——！
 Нет... это...
 
@@ -1364,7 +1364,7 @@ I sit in place, dazed and petrified.
 Я сижу в ступоре, словно окаменев.
 
 ――と、その時である。%K%P
-——And then the time comes.
+—And then the time comes.
 ——就在这时。
 И тут–
 
@@ -1404,7 +1404,7 @@ I look in the direction of the ridge.
 Я взглянула на вершину.
 
 白煙が猛烈な勢いで迫る――%K%P
-White smoke is approaching with raging force——
+White smoke is approaching with raging force—
 白烟以排山倒海之势压过来——
 Белая волна приближается с пугающей скоростью–
 
@@ -1444,7 +1444,7 @@ I pray
 Я молюсь,
 
 ゆにが無事でありますように、と――%K%P
-for Yuni to be safe——
+for Yuni to be safe—
 悠尼平安无事——
 чтобы с Юни всё было в порядке.
 
@@ -1476,7 +1476,7 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 

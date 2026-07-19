@@ -124,7 +124,7 @@ The frightened look he had just yesterday has disappeared.
 Сегодня ничего не напоминает о его вчерашнем перепуганном виде.
 
 ゆにに続いて、犬伏――いや、穂鳥も私を見つめてペコリと頭を下げた。%K%P
-Beside Yuni is Inubushi——no, Hotori, who gives me a quick bow when she sees me.
+Beside Yuni is Inubushi—no, Hotori, who gives me a quick bow when she sees me.
 在悠尼之后，犬伏——不对，是穗鸟也看着我点头行礼。
 Рядом с ним сидит Инубуси... вернее, Хотори.%NЗавидев меня, она торопливо кланяется.
 
@@ -594,7 +594,7 @@ This is the reality, and even now the disaster that's happened in the mountains 
 Это всё происходит на самом деле; и бедствие, случившееся в горах, всё ещё касается тела Фуюкавы Кокоро.
 
 今、この瞬間にも冬川こころの身体は、滅び去ってしまうかもしれない――そんなギリギリの状況のはずである。%K%P
-Perhaps, at this very moment, Fuyukawa Kokoro's body is crumbling away——I should think of it as that urgent of a situation.
+Perhaps, at this very moment, Fuyukawa Kokoro's body is crumbling away—I should think of it as that urgent of a situation.
 现在，这个瞬间，冬川心的身体，没准也已经消逝了——应该是这种十万火急的情况。
 Может, в этот самый миг тело Фуюкавы Кокоро погибает. Именно так, ударяясь в крайность, я должна думать.
 
@@ -884,7 +884,7 @@ I think she believes me.
 Выходит, она мне поверила?
 
 しかし――%K%P
-But——
+But—
 然而——
 Но...
 
@@ -1149,7 +1149,7 @@ First, problem number one.
 Итак, вопрос первый...
 
 ――人格交換現象の真相についてだ。%K%N
-——Regarding the real situation of the personality exchange phenomenon.
+—Regarding the real situation of the personality exchange phenomenon.
 ——关于人格交换的真相。
 – Действительное положение дел касательно обмена личностями.
 
@@ -1169,7 +1169,7 @@ But I don't have the slightest idea why the personality exchange occurred, the r
 Но почему он происходит, что является его причиной, принцип его работы и способ его прекращения – ни о чём этом у меня нет и малейшего представления.
 
 人格交換――言葉にすれば簡単だが、例えようもない深い謎を孕んでいる。%K%P
-Personality exchange——those are really simple words, but behind them is a very deep mystery.
+Personality exchange—those are really simple words, but behind them is a very deep mystery.
 人格交换——说起来简单，但却蕴涵着更深的谜团。
 "Обмен личностями" – такие простые слова, скрывающие очень большую загадку.
 
@@ -1179,7 +1179,7 @@ And the second problem.
 Вопрос второй:
 
 ――ゆにはなぜ、ふたりいるのか？%K%N
-——Why are there two Yunis?
+—Why are there two Yunis?
 ——为什么有两个悠尼？
 – Почему существуют два Юни?
 
@@ -1204,7 +1204,7 @@ I have two hypotheses for it.
 У меня есть две гипотезы по этому поводу.
 
 ひとつ目――彼は双子かもしれない。%K%N
-First——maybe they're twins.
+First—maybe they're twins.
 第一种——他也许是双胞胎。
 Первая: возможно, они близнецы.
 
@@ -1214,12 +1214,12 @@ But even if they're identical twins, how likely is it for them to have both thei
 Но, даже если они монозиготные близнецы, как у них могут быть одни и те же имя и фамилия?
 
 ふたつ目の仮説――片方が片方のコピー……つまりはクローンかもしれない。%K%P
-Second hypothesis——one of them is a copy of the other... in other words, a clone.
+Second hypothesis—one of them is a copy of the other... in other words, a clone.
 第二种假设——其中一个是另一个的复制品……就是说，可能是克隆。
 Вторая гипотеза: один из них – копия другого... другими словами, клон.
 
 %TS012クローン法%TEは去年――２０１０年に、国に認められた法案だ。%K%N
-The %TS012law on cloning%TE was passed in this country last year——in 2010.
+The %TS012law on cloning%TE was passed in this country last year—in 2010.
 %TS012克隆法%TE在去年——２０１０年为国家所认可。
 %TS012Закон о клонировании%TE был принят в нашей стране в прошедшем, 2010 году.
 
@@ -1259,7 +1259,7 @@ Could it be that Yuni...
 Может ли быть, что тот Юни...
 
 ――いや、待て。%K%N
-——No, wait.
+—No, wait.
 ——不，等一下。
 Нет, стоп.
 
@@ -1279,7 +1279,7 @@ The third problem.
 Третий вопрос:
 
 ――新聞がどうして避難小屋にあったのか？%K%N
-——Why was the newspaper in the shelter cabin?
+—Why was the newspaper in the shelter cabin?
 ——避难小屋里为什么会有那张报纸？
 – Почему в той статье говорится о горной хижине?
 
@@ -1294,7 +1294,7 @@ And then, the fourth problem.
 И, наконец, четвёртый:
 
 ――この施設の正体は？%K%N
-——What is the real purpose behind this facility?
+—What is the real purpose behind this facility?
 ——这个设施的真面目是？
 – Каково истинное назначение этого учреждения?
 
@@ -1494,7 +1494,7 @@ And if it's going to be a snowman, the most important part is the eyebrows.
 Самая важная часть снеговика – брови.
 
 なんと言おうと眉毛。%K%P
-Whatever anyone else may say——eyebrows.
+Whatever anyone else may say—eyebrows.
 什么样的眉毛呢。
 Что бы там кто ни говорил, но это именно брови.
 
@@ -1509,7 +1509,7 @@ Without wasting any more time, I start to draw.
 Не тратя больше времени, я приступаю к рисованию.
 
 こころ「ま〜る描いてちょん、ま〜る――」%K%P
-Le〜t's dra〜aaw a cir〜cle, le〜t's dra〜aaw——
+Le〜t's dra〜aaw a cir〜cle, le〜t's dra〜aaw—
 心「开始画吧～」
 Нарисуем-ка кружо-ок, нарисуем–
 
@@ -1544,7 +1544,7 @@ Without wasting any more time, I start to draw.
 Не тратя больше времени, я приступаю к рисованию.
 
 こころ「ま〜る描いてちょん、ま〜る――」%K%P
-Le〜t's dra〜aaw a cir〜cle, le〜t's dra〜aaw——
+Le〜t's dra〜aaw a cir〜cle, le〜t's dra〜aaw—
 心「开始画吧～」
 Нарисуем-ка кружо-ок, нарисуем–
 
@@ -1584,7 +1584,7 @@ Without wasting any more time, I start to draw.
 Не тратя больше времени, я приступаю к рисованию.
 
 こころ「ま〜る描いてちょん、ま〜る――」%K%P
-Le〜t's dra〜aaw a cir〜cle, le〜t's dra〜aaw——
+Le〜t's dra〜aaw a cir〜cle, le〜t's dra〜aaw—
 心「画上一个圆～好，再画——」
 Нарисуем-ка кружо-ок, нарисуем–
 

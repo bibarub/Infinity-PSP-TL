@@ -1,5 +1,5 @@
 ﻿現在時刻――午後０時２０分%K%P
-Present time——12:20 PM.
+Present time—12:20 PM.
 现在时刻——中午１２时２０分。
 Текущее время – 12:20.
 
@@ -34,7 +34,7 @@ I turn around and see him standing beyond the open door.
 Я оглядываюсь и вижу его, стоящего перед раскрытой дверью.
 
 この部屋の正式な所有者――優希堂悟。%K%P
-The official owner of this room——Yukidoh Satoru.
+The official owner of this room—Yukidoh Satoru.
 这个房间的正式所有者——优希堂悟。
 Подлинного владельца этой комнаты – Юкидо Сатору.
 
@@ -964,7 +964,7 @@ I glance at the tips of its hands.
 Я бросаю взгляд на стрелки.
 
 時刻は今――『１２時３２分』を示していた。%K%P
-It shows the current time——12:32.
+It shows the current time—12:32.
 现在时刻——显示的是“１２时３２分”。
 Они показывают 12:32.
 
@@ -1064,7 +1064,7 @@ The racing beat of my heart...
 Ускоренно бьющееся сердце...
 
 その鼓動に共鳴するかのように、突如――。%K%P
-And suddenly, as though resonating with that beat——
+And suddenly, as though resonating with that beat—
 就像要和这声音共鸣一样，突然——
 И вдруг, как если бы резонируя с этим ритмом...
 
@@ -1139,7 +1139,7 @@ As if to shake off that white shadow, I begin to count each toll of the bell.
 ...7... 8... 9... 10... 11... 12...
 
 ――１２。%K%P
-——12.
+—12.
 ——１２。
 12.
 

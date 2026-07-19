@@ -14,17 +14,17 @@ About my proposition R...
 О множестве R...
 
 ｒ１：人格交換について――。%K%P
-r1: The personality exchange——
+r1: The personality exchange—
 ｒ１：关于人格交换——
 r1: Перенос личностей.
 
 ｒ２：青鷺島と朱倉岳、それぞれの場所で達成すべき目的について――。%K%P
-r2: My goals at both Aosagi Island and Mount Akakura——
+r2: My goals at both Aosagi Island and Mount Akakura—
 ｒ２：关于在青鹭岛和朱仓岳两地分别要完成的任务——
 r2: Мои задачи на острове Аосаги и горе Акакура.
 
 ｒ３：内海と穂鳥について――。%K%P
-r3: Utsumi and Hotori——
+r3: Utsumi and Hotori—
 ｒ３：关于内海和穗鸟——
 r3: Уцуми и Хотори.
 
@@ -199,7 +199,7 @@ Does that put a stop to the phenomenon?
 Тогда феномен прекратится?
 
 悟「中途半端な状態――例えば人格交換の途中で『装置』が停止してしまったら、とんでもない事故になってしまうんじゃないのか？」%K%P
-What if it was in mid-operation——for example, if the device stopped while a personality exchange was still occurring, it'd be very bad, wouldn't it?
+What if it was in mid-operation—for example, if the device stopped while a personality exchange was still occurring, it'd be very bad, wouldn't it?
 悟「假如在前后不继的状态下——比如说在人格交换的中途“装置”停止了运作，会不会发生意外事故？」
 А что будет, если, к примеру, устройство остановится в момент осуществления обмена личностей? Дело примет паршивый оборот, не так ли?
 
@@ -274,7 +274,7 @@ I still have other questions.
 У меня есть ещё вопросы.
 
 ――月のこと。%K%P
-——About the moon.
+—About the moon.
 ——月亮的事。
 О луне.
 
@@ -289,7 +289,7 @@ More specifically, they were both in the correct phase for the year 2012.
 Если точнее, она соответствует фазе 2012 года.
 
 ――海のこと。%K%P
-——About the ocean.
+—About the ocean.
 ——大海的事。
 Об океане.
 
@@ -324,7 +324,7 @@ Misunderstanding?
 Неверно понимаю?
 
 榎本「きみ達は人格交換――人格が転移をしているんじゃない」%K%P
-It's not a personality exchange that you two are undergoing——your personalities aren't what's being transferred.
+It's not a personality exchange that you two are undergoing—your personalities aren't what's being transferred.
 鼷本「你们经历的并不是人格交换——人格发生了转移」
 С вами, ребята, происходит не обмен личностями – перемещаются не они.
 
@@ -384,7 +384,7 @@ The reasoning you've been able to derive goes something like this, doesn't it?
 Вот к чему ты пришёл в своих размышлениях, да?
 
 榎本「２０１１年の朱倉岳にいる冬川こころ……それと２０１２年の青鷺島にいるきみ――優希堂悟」%K%P
-Fuyukawa Kokoro, who exists at Mount Akakura in the year 2011, and you——Yukidoh Satoru, who exists at Aosagi Island in the year 2012.
+Fuyukawa Kokoro, who exists at Mount Akakura in the year 2011, and you—Yukidoh Satoru, who exists at Aosagi Island in the year 2012.
 鼷本「处于２０１１年朱仓岳的冬川心……以及处于２０１２年青鹭岛的你——优希堂悟」
 Фуюкава Кокоро, существующая на горе Акакура в 2011 году, и ты, Юкидо Сатору, существующий на острове Аосаги%Nв 2012-м.
 

@@ -24,7 +24,7 @@ I start to run to Yuni's room.
 Я направляюсь в его комнату.
 
 と、その前に――%K%P
-But, before that——
+But, before that—
 对了，在那之前——
 Но сперва...
 
@@ -854,7 +854,7 @@ Um, I'm sorry...
 Простите меня...
 
 どうやらネズミの死骸を片付けるのは私――悟の役目だったらしい。%K%P
-It seems dealing with the rat's remains was my——Satoru's duty.
+It seems dealing with the rat's remains was my—Satoru's—duty.
 不管怎么说，收拾死老鼠似乎是我——悟的责任。
 Таки разобраться с крысой предстояло мне... точнее, Сатору.
 
@@ -1044,7 +1044,7 @@ It's on the border of Nepal and Tibet.
 Она находится на границе Непала и Тибета.
 
 標高８８５０ｍ――言わずと知れたエベレストがそれだ。%K%N
-Elevation 8,850 meters——it goes without saying that I'm talking about Everest.
+Elevation 8,850 meters—it goes without saying that I'm talking about Everest.
 标高８８５０米——那就是著名的珠穆朗玛峰。
 И её высота составляет 8850 метров. Конечно же, я говорю об Эвересте.
 
@@ -1254,7 +1254,7 @@ You can probably say that the probability is high.
 Можно сказать, что вероятность довольно высока.
 
 『警戒するに越したことはない』――確かにその通りだ。%K%P
-“I don't think it would be going overboard to be vigilant”——indeed, that's true.
+“I don't think it would be going overboard to be vigilant”—indeed, that's true.
 “加强警戒才是最重要的”——确实如此。
 "Не думаю, что будет лишним быть настороже" – твоя правда.
 
@@ -1489,7 +1489,7 @@ More specifically, someone is after my life.
 Сомнений быть не может: кто-то пытается меня убить.
 
 Ｑ：スフィアのこと――外に出る方法や外部との通信手段は？%K%N
-Q: About SPHIA——is there any way to leave, or are there any means to communicate with the outside?
+Q: About SPHIA—is there any way to leave, or are there any means to communicate with the outside?
 Ｑ：关于ＳＰＨＩＡ的事——有没有出去的方法或者与外部通信的手段？
 3. Как выбраться из SPHIA или связаться с внешним миром?
 
@@ -1524,7 +1524,7 @@ If I remember anything, I'll tell you right away.
 Если я что-нибудь вспомню, то обязательно сразу же сообщу.
 
 Ｑ：避難小屋のこと――なにか重要なことは？%K%N
-Q: About the shelter cabin——did anything important happen?
+Q: About the shelter cabin—did anything important happen?
 Ｑ：关于避难小屋——有什么重要的事情？
 4. Случилось ли что-либо важное в горной хижине за время твоего отсутствия?
 
@@ -1549,7 +1549,7 @@ There isn't really anything important I have to tell you at the moment.
 Чего-то действительно важного, о чём стоило бы написать, пока не происходило.
 
 以上で、こころの質問に対する返答は終了……。%K%N
-With that ends my replies to the questions you've asked me, Kokoro...
+That concludes my replies to the questions you've asked me, Kokoro...
 这样，就把心的问题全部回答完了……
 На этом я заканчиваю отвечать на твои вопросы, Кокоро...
 
@@ -1894,7 +1894,7 @@ While holding my knees, I continually take in deep, deep breaths.
 Обхватив руками колени, я глубоко дышу.
 
 身体にまとわりついていた疲労が、そのため息をやがて寝息へと変えていった――%K%P
-With the exhaustion having worn down my body, those deep breaths soon change into sleeping breaths——
+With the exhaustion having worn down my body, those deep breaths soon change into sleeping breaths—
 纠缠着身体的疲惫感，终于把叹气转化成了睡眠中安稳的呼吸——
 От усталости, накопившейся за день, совсем скоро я проваливаюсь в сон...
 

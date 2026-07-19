@@ -1,5 +1,5 @@
 ﻿犬伏景子――現在１９歳。%K%N
-Inubushi Keiko——currently age nineteen.
+Inubushi Keiko—currently age nineteen.
 犬伏景子——现年１９岁。
 Инубуси Кэйко, девятнадцать лет.
 
@@ -9,7 +9,7 @@ She is the serial killer who, at age seventeen, murdered twelve innocent people 
 Серийный убийца, в возрасте семнадцати лет убила двенадцать человек в муниципальной больнице Авадзуми.
 
 だが、ＤＩＤと診断されたために極刑を免れ、スフィアへと送致された――%K%N
-However, due to being diagnosed with DID, she escaped capital punishment and was sent to SPHIA——
+However, due to being diagnosed with DID, she escaped capital punishment and was sent to SPHIA—
 不过，因为被诊断为ＤＩＤ，她没有被判处死刑，而是被遣送到ＳＰＨＩＡ软禁起来——
 Однако из-за вынесенного диагноза – "ДРИ" – она избежала высшей меры наказания и была отослана в SPHIA.
 
@@ -76,7 +76,7 @@ The opinions of those in the field of psychiatry are still divided.
 И ныне в соответствующих кругах нет единого мнения на этот счёт.
 
 そのため、判決に際して考慮されることはあっても、それが免罪の理由とされることはなかった。%K%P
-That's why, even if brought into consideration during sentencing, it was never used as a reason for exoneration.
+That's why, even if considered during sentencing, it was never used as a reason for exoneration.
 因此，即便是在判决时被列入考虑范围，也从未成为免罪的理由。
 Поэтому, даже если факт наличия ДРИ принимался во внимание при вынесении приговора, он никогда не использовался как причина для оправдания.
 
@@ -91,7 +91,7 @@ There were various reasons that she was acknowledged as suffering from DID, but 
 Были различные причины, по которым было решено, что она страдает ДРИ, и основная из них – %TS036DSM%TE-VI.
 
 ＤＳＭ−Ⅵは、ほんの数年前――２００８年に発行された最新版のことである。%K%P
-The DSM-VI had been published just a few years earlier——the latest revision had been issued in 2008.
+The DSM-VI had been published just a few years earlier—the latest revision had been issued in 2008.
 ＤＳＭ−Ⅵ是在几年前——２００８年发行的最新版诊断与统计手册。
 DSM-VI – последнее переиздание руководства – было издано в 2008 году.
 
@@ -103,7 +103,7 @@ In the 1994 edition, the %TS037DSM-IV%TE, the criteria for a DID diagnosis compr
 %N
 
 １――ふたつ以上の、明確なアイデンティティ・人格状態が存在する
-1——Two or more distinct identities and personalities exist.
+1—Two or more distinct identities and personalities exist.
 １——要拥有两个以上明确的身份·人格状态
 1. Существуют две или более различимых идентичностей, либо же имеются два или более личностных состояния
 
@@ -113,21 +113,21 @@ In the 1994 edition, the %TS037DSM-IV%TE, the criteria for a DID diagnosis compr
  (каждое из которых располагает собственной устойчивой моделью в отношении мировосприятия и своим отношением касаемо окружающего мира, своим мировоззрением).
 
 ２――これらのアイデンティティ・人格状態の少なくともふたつが、個人の行動を繰り返し支配する%K%N
-2——These identities, having at least two distinct personalities, continuously show individual behavior and conduct.
+2—These identities, having at least two distinct personalities, continuously show individual behavior and conduct.
 ２——这些身份·人格状态中至少有两个在重复支配个人的行动
 2. Как минимум две идентичности с переменной периодичностью контролируют поведение пациента.
 
 %N
 
 ３――重要な個人情報を思い出すことができず、その広がりは通常の健忘で説明できない%K%N
-3——Important personal information cannot be recalled, and this by extension cannot be explained with normal forgetfulness.
+3—Important personal information cannot be recalled, and this by extension cannot be explained with normal forgetfulness.
 ３——无法回忆起重要的个人情报、依此产生的情况用通常的健忘无法解释说明
 3. Невозможность вспомнить о себе важную информацию, причем особенности этой забывчивости в значительной мере выходят за рамки обыкновенной забывчивости.
 
 %N
 
 ４――このような障害は、薬物による直接の生理的影響（例えば、アルコ−ル中毒で生じる記憶喪失・混乱行動）や一般的な病的状態によるものではない%K%P
-4——These symptoms are not directly due to the influence of the physiological effects of drugs (for example, memory loss or violent behavior due to disorientation from alcohol poisoning) or a result of other general abnormal conditions.
+4—These symptoms are not directly due to the influence of the physiological effects of drugs (for example, memory loss or violent behavior due to disorientation from alcohol poisoning) or a result of other general abnormal conditions.
 ４——该障碍并非因药物而产生的直接生理影响（例如因酒精中毒而产生的记忆丧失·行动混乱）或一般的病态所造成
 4. Рассматриваемое состояние наступало не под%Nвоздействием наркотических веществ или алкоголя, заболевания или приема другого рода отравляющих веществ.
 
@@ -159,7 +159,7 @@ As a result, the 2008 edition of DSM-VI included the following appended criterio
 %N
 
 ５――以上の結果が、催眠導入中にも発現する%K%N
-5——The above symptoms appear even while under induced hypnosis.
+5—The above symptoms appear even while under induced hypnosis.
 ５——以上结果，在催眠中也能发现
 5. Все симптомы проявляются даже под гипнозом.
 
@@ -206,7 +206,7 @@ Well, it's a topic that I like, though, so it's only natural that I'd remember i
 Хотя... мне нравится эта тема, так что не удивительно, что я её хорошо помню.
 
 私は『人間』に興味があって、社会学を――犯罪心理学を学ぶことにした。%K%P
-I'm interested in human beings, so I decided to study sociology——criminal psychology.
+I'm interested in human beings, so I decided to study sociology—criminal psychology.
 我对“人类”感兴趣，所以专业选择了社会学——中的犯罪心理学。
 Я интересуюсь людьми и обществом, поэтому и решила изучать криминальную психологию.
 
@@ -236,7 +236,7 @@ Inside a frail body that possesses neither claws nor fangs, humans are filled wi
 Внутри своих хилых тел, лишённых клыков и когтей, люди переполнены хаосом...
 
 男の子が、光明の届かぬ深海や宇宙の果てに冒険心をくすぐられるように、私は人間に宿る精神の深淵に――特にその闇の部分に興味を惹かれたのだ。%K%P
-Men have adventurous hearts, searching for glory by traveling to the depths of the ocean and the cosmos. My interest lies in the abyss of the human heart.
+Akin to a boy's adventurous spirit, drawn to the depths of the ocean and the bounds of the cosmos―my interest lies in the abyss of the human heart.
 就好像男孩子按捺不住对光明无法触及的深海与宇宙尽头的冒险欲望一样，我对人类的精神深渊——特别是它的阴暗部分感兴趣。
 У мужчин безрассудные сердца, ищущие славы в путешествиях в глубины океана и космоса.%K%P А я интересуюсь глубинами человеческого сердца, особенно его самых тёмных мест.
 
@@ -276,7 +276,7 @@ This illness is, simply put, an illness where the birth of another personality n
 Если говорить простым языком, это болезнь, характеризующаяся возникновением ещё одной личности, отличной от той, что была с рождения.
 
 原因は諸説あるが、『自我の発達が未発達な１２歳未満のときに、虐待などを受けること』が、主な理由であると言われている。%K%N
-There are differing theories as to the cause, but they say that being exposed to ill treatment during the development of the ego before the age of twelve is the main reason.
+There are differing theories as to the cause, but they say that being abused during the development of the ego before the age of twelve is the main reason.
 原因虽众说纷纭，不过可能性最大的理由是“在心智发育未健全的１２岁以前受到过虐待”。
 Существуют различные мнения относительно причин развития болезни, но все сходятся в том, что первопричина кроется в "подвержении жестокому обращению в период становления личности в возрасте до двенадцати лет".%K%P
 
@@ -514,12 +514,12 @@ An introverted girl with a shy and calm character. Age nineteen.
 Девушка со спокойным и робким характером. Девятнадцать лет.
 
 音楽を聞くのが好きだったことから、付けられたあだ名が――ハミングバード。%K%P
-She has a fondness for listening to music, so her given nickname is——Hummingbird.
+She has a fondness for listening to music, so her given nickname is—Hummingbird.
 因为她喜欢听音乐，所以她的代号就是——Ｈｕｍｍｉｎｇｂｉｒｄ。
 Она любила слушать музыку, поэтому её назвали%NHummingbird, "колибри".
 
 『Ｈ』――『Ｈｏｔｏｒｉ』。%K%N
-“H”——“Hotori”.
+“H”—“Hotori”.
 “Ｈ”——“ｈｏｔｏｒｉ（穗鸟）”。
 H... Хотори.
 
@@ -614,7 +614,7 @@ I can't confirm anything besides Hotori's condition yet, but...
 У меня нет никаких подтверждений, кроме состояния Хотори, но...
 
 彼女がＤＩＤの別人格であるならば、その背後には確実に犬伏景子が――殺人鬼の人格が潜んでいるのである。%K%P
-If she is another DID personality, then behind her lurks Inubushi Keiko——the personality of a murderer.
+If she is another DID personality, then behind her lurks Inubushi Keiko—the personality of a murderer.
 她既然是ＤＩＤ的副人格，那么背后一定潜藏有犬伏景子——杀人恶魔的人格。
 Даже если она одна из альтер-личностей, за ней всё равно таится Инубуси Кэйко – личность убийцы.
 

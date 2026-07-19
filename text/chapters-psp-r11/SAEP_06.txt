@@ -24,7 +24,7 @@ She stands there, all alone, on the beach.
 Она стоит тут, на пляже, в одиночестве.
 
 ――黛鈴。%K%P
-——Mayuzumi Lin.
+—Mayuzumi Lin.
 ——黛铃。
 Маюдзуми Рин.
 
@@ -206,14 +206,14 @@ And⑳it⑳circulates⑳through⑳an⑳incident.
 Она⑳блуждает⑳в⑳цепи⑳случайностей.
 
 %FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE
-——It is an infinity loop!
+—It is an infinity loop!
 ――⑳It⑳is⑳an⑳infinity⑳loop!
 ⑳Это⑳петля⑳бесконечности!
 
 %O
 
 ロック解除――アルバム（販促ポスター・雑誌扉絵等）
-Unlocked——Promotional Posters, Magazine Covers.
+Unlocked—Promotional Posters, Magazine Covers.
 内容解锁――相册（贩促海报・杂志插图）
 Разблокировано: Альбом (промо-постер и обложка журнала)
 

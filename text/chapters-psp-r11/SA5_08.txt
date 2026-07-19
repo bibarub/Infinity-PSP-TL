@@ -14,7 +14,7 @@ I open the door and step outside.
 Я открываю дверь и выхожу на улицу.
 
 ここにとどまっていられる時間は３３分間――。%K%P
-I can only remain here for 33 minutes——
+I can only remain here for 33 minutes—
 能留在这里的时间只有３３分钟——
 Отведённые мне тридцать три минуты уже практически прошли.
 
@@ -251,7 +251,7 @@ I draw it out and look down at it.
 %N
 
 %LC%FS『涼蔭穂鳥』――。%FE%K%O
-“Suzukage Hotori”——
+“Suzukage Hotori”—
 “凉荫穗鸟”——
 "Судзукагэ Хотори"
 
@@ -291,12 +291,12 @@ Fragmented thoughts race through my head.
 В голове проносятся разрозненные мысли.
 
 『涼蔭穂鳥』――。%K%P
-“Suzukage Hotori”——
+“Suzukage Hotori”—
 “凉荫穗鸟”——
 "Судзукагэ Хотори"...
 
 彼女の名前は『穂鳥』――。%K%P
-The girl's name is “Hotori”——
+The girl's name is “Hotori”—
 她的名字是“穗鸟”——
 Девушку звали Хотори...
 
@@ -321,7 +321,7 @@ Just managing to hold on to my reason, I keep swinging my legs up as hard as I c
 Я бодро переставляю ноги, одновременно пытаясь навести порядок в своих мыслях.
 
 すると、そのとき――。%K%P
-At that moment——
+At that moment—
 然后，就在这时——
 В этот момент–
 

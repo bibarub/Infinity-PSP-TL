@@ -79,7 +79,7 @@ That was the name of the small passenger aircraft we boarded.
 название рейса, которым мы летели.
 
 黄泉木「飛行機は乗員乗客３１名をのせ、一路日本列島の最北端、稚内を目指していた」%K%P
-The plane was carrying a total of 31 passengers and crew members on a non-stop journey to Wakkanai, one of a chain of islands in the north of Japan.
+The plane was carrying a total of 31 passengers and crew members on a nonstop journey to Wakkanai, at the northernmost tip of the Japanese archipelago.
 黄泉木「乘客和乘务员共３１人搭乘了那一航班，一路飞往日本列岛的最北端——稚内」
 В общей сложности на борту был тридцать один человек: пассажиры и экипаж. Самолёт направлялся прямым курсом к самому северному городу Японии – Вакканаи.
 
@@ -427,7 +427,7 @@ Of course, that'd be pointless if the three of us lost our lives before they arr
 %N
 
 だから――生き延びること――。%K%N
-That's why——to live——
+That's why—to live—
 所以——活下去——
 Вот почему выжить –
 
@@ -551,7 +551,7 @@ Blinded by a myriad of snowflakes, I single-mindedly continued to pursue her tra
 Ослеплённый мириадами снежинок, я целеустремлённо продолжал идти по её следу.
 
 行軍を続けること数十分――。%K%N
-After marching on for tens of minutes——
+After marching on for tens of minutes—
 持续前行了数十分钟——
 Спустя примерно десять минут преследования...
 
@@ -835,7 +835,7 @@ With the boy in front of me as a guide, I started walking forward.
 Ведомый мальчиком, я двинулся вперёд.
 
 そして――。%K%P
-And then——
+And then—
 然后——
 И...
 

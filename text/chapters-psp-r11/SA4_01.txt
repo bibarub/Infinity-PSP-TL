@@ -1,5 +1,5 @@
 ﻿午前３時半――。%K%P
-3:30 AM——
+3:30 AM—
 凌晨３时３０分——
 Половина четвёртого утра.
 
@@ -134,17 +134,17 @@ Following that, I've sorted the contents of R into three main parts.
 Затем я раскладываю исходное множество R на три части:
 
 ｒ１：人格転移について――。%K%N
-r1: The personality transfer——
+r1: The personality transfer—
 ｒ１：关于人格转移——
 r1: Перенос личностей.
 
 ｒ２：青鷺島と朱倉岳、それぞれの場所で達成すべき目的について――。%K%N
-r2: My goals at both Aosagi Island and Mount Akakura——
+r2: My goals at both Aosagi Island and Mount Akakura—
 ｒ２：关于在青鹭岛和朱仓岳两地分别要完成的任务——
 r2: Мои задачи на острове Аосаги и горе Акакура.
 
 ｒ３：内海と穂鳥について――。%K%N
-r3: Utsumi and Hotori——
+r3: Utsumi and Hotori—
 ｒ３：关于内海和穗鸟——
 r3: Уцуми и Хотори.
 
@@ -154,7 +154,7 @@ I'll list everything I've figured out up until now.
 Итак, что мы имеем:
 
 ｒ１：人格転移について――。%K%N
-r1: The personality transfer——
+r1: The personality transfer—
 ｒ１：关于人格转移——
 r1: Перенос личностей.
 
@@ -174,7 +174,7 @@ On the other hand, I did discover a regularity in the transfers from Mount Akaku
 Однако в обратных перемещениях – с горы Акакура на остров Аосаги – закономерность имеется.
 
 １月１２日のオレの転移時刻――。%K%N
-The times of my transfers on January 12th——
+The times of my transfers on January 12th—
 １月１２日我的转移时刻——
 Время моих переносов за 12 января:
 
@@ -194,7 +194,7 @@ The times of my transfers on January 12th——
 19:33 – перенёсся в хижину, 20:06 – вернулся в SPHIA
 
 １月１３日のオレの転移時刻――。%K%N
-The times of my transfers on January 13th——
+The times of my transfers on January 13th—
 １月１３日我的转移时刻——
 Время моих переносов за 13 января:
 
@@ -454,7 +454,7 @@ To begin with, the two Yunis transferring only once, while Kokoro and I have tra
 К примеру, как-то несообразно выходит, что на фоне наших продолжающихся переносов их обмен состоялся лишь раз.
 
 これらから導かれる結論はたったひとつ――。%K%N
-There's only one conclusion I can draw from this——
+There's only one conclusion I can draw from this—
 由此可以得出的结论只有一个——
 Из этого можно сделать только один вывод–
 
@@ -469,7 +469,7 @@ I'll have to reinvestigate this once I've gathered more proof.
 Надо будет вернуться к ней, когда у меня будет больше доказательств.
 
 ｒ２：青鷺島と朱倉岳、それぞれの場所で達成すべき目的について――。%K%N
-r2: My goals at both Aosagi Island and Mount Akakura——
+r2: My goals at both Aosagi Island and Mount Akakura—
 ｒ２：关于在青鹭岛和朱仓岳两地分别要完成的任务——
 r2: Мои задачи на острове Аосаги и горе Акакура.
 
@@ -544,7 +544,7 @@ It's also urgent, in the sense of eliminating the looming danger, that I find th
 Чтобы избавиться от нависшего надо мной дамоклова меча, нужно срочно установить личность злоумышленника и остановить его.
 
 ふたつめ――。%K%N
-The second——
+The second—
 第二——
 Вторая задача.
 
@@ -794,7 +794,7 @@ but on top of that... there's one more thing I have to think about.
 Но есть и ещё кое-что, что не даёт мне покоя.
 
 ｒ３：内海と穂鳥について――。%K%N
-r3: Utsumi and Hotori——
+r3: Utsumi and Hotori—
 ｒ３：关于内海和穗鸟——
 r3: Уцуми и Хотори.
 
