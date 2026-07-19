@@ -771,7 +771,7 @@ CN PLACEHOLDER
 武「もっとギャルっぽいメイクをしなくちゃならん！」%K%P
 Your makeup has to be more... feminine.
 CN PLACEHOLDER
-Нужно сделать макияж более вызывающим, в стиле гяру!
+Нужно сделать макияж более вызывающим, в стиле %TS129гяру%TE!
 
 空「先生……」%K%P
 Professor...

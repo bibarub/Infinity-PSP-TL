@@ -306,7 +306,7 @@ CN PLACEHOLDER
 優「ねぇ、倉成は５０ｍの長さに敷いたふとんの上、何秒くらいで走れる？」%K%P
 Hey, Kuranari. How fast do you think you could run 50 meters on mattresses?
 CN PLACEHOLDER
-Слушай, Куранари. Как быстро ты сможешь пробежать 50 метров по футонам?
+Слушай, Куранари. Как быстро ты сможешь пробежать 50 метров по %TS128футонам%TE?
 
 優がいきなり尋ねた。%K%P
 You suddenly shot me the question.
@@ -681,7 +681,7 @@ CN PLACEHOLDER
 武「適当だけど、名無しの権兵衛」%K%P
 It'd be fitting to call him John Doe.
 CN PLACEHOLDER
-Думаю, очень даже уместно будет его звать Джоном Доу (так называют человека, чьё настоящее имя неизвестно).
+Думаю, очень даже уместно будет его звать %TS120Джоном Доу%TE.
 
 空「適当だから『権兵衛』だ、というのは全国の権兵衛さんに申し訳ないのではないですか？」%K%P
 But wouldn't calling him that just because it's fitting be rude to all of the people named John Doe?

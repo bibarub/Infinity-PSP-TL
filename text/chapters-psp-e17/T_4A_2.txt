@@ -842,7 +842,6 @@ CN PLACEHOLDER
 You'd better not be preparing a punch line about fish...
 CN PLACEHOLDER
 Ответ „по-японски они звучат одинаково“ – не в счёт...
-//Надо будет сделать заметку на слове "карп", а там дать описание типа "В японском языке слово "любовь" (иероглиф) и "карп" (иероглиф) произносятся одинаково – 'koi'.
 
 武「なにっ！　先手を打たれたぞ！」%K%P
 What!? Am I that transparent!?
@@ -878,7 +877,6 @@ CN PLACEHOLDER
 I thought I said 'no jokes'...
 CN PLACEHOLDER
 Сравнивать любовь с чем-то густым – тоже нельзя...
-//Заметка на слове "густым", а там дать описание типа "В японском языке слово "любовь" (иероглиф) и "густой" (иероглиф) произносятся одинаково – 'koi'.
 
 武「なにっ！　一度ならず二度までも！！」%K%P
 What!? You got me the second time too!?
@@ -924,7 +922,6 @@ CN PLACEHOLDER
 'Intent' as in actively pursuing it, correct?
 CN PLACEHOLDER
 Или, может, „любовь не предшествует действию“?
-//Надо будет сделать заметку на кавычках, а там дать описание типа... ну, ты уже понял принцип.
 
 武「…………」%K%P
 .........
@@ -939,7 +936,7 @@ CN PLACEHOLDER
 空「データベースにあったから、私はそう答えただけです」%K%P
 I do not have anything more than that in my database.
 CN PLACEHOLDER
-Просто эти сведения имеются в моей базе данных.
+Просто эти %TS124сведения%TE имеются в моей базе данных.
 
 空「倉成さん、そろそろ本題に」%K%P
 Kuranari-san, can you please answer my original question?

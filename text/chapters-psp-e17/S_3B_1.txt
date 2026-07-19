@@ -3288,7 +3288,7 @@ CN PLACEHOLDER
 当然と言うべきか、いずれのフレーズもＣレベルには侵入することができなかった。%K%P
 Of course, none of those phrases got her access to the C Level information.
 CN PLACEHOLDER
-Конечно, ни одна из этих фраз не дала ей доступа к информации уровня С.
+Конечно, ни одна из этих %TS123фраз%TE не дала ей доступа к информации уровня С.
 
 っていうか、なぜ声に出す必要があるのだろうか？%K%P
 I didn't see why she had to shout all of them out either.

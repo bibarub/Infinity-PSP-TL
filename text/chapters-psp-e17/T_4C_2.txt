@@ -926,8 +926,7 @@ CN PLACEHOLDER
 武「あのひょっとこハム吾郎を、だ」%K%P
 That funny-looking hamster.
 CN PLACEHOLDER
-Пойду вызволять твоего Хомячелло.
-//Очередная кастомная заметка про маску "Хёттоко" и про игру слов 'hamster' - 'ハムスタ' (hamusuta)+'吾郎 ' (Goro, старомодное японское имя)
+Пойду вызволять твоего %TS127Хомячелло%TE.
 
 つぐみ「無理よ！」%K%P
 There's no way you'll make it!
