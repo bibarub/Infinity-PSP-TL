@@ -621,7 +621,7 @@ CN PLACEHOLDER
 つぐみ「このゴキブリ野郎！　ゴキブリ野郎っ！！」%K%P
 You jerk! You dumb jerk!
 CN PLACEHOLDER
-Ты кретин! Дуболом!
+Ах ты мерзкий таракан! Таракан!
 
 叫ぶ。%K%P
 I screamed.
@@ -646,7 +646,7 @@ CN PLACEHOLDER
 つぐみ「これでも食らえぇーっ！　ちきしょーっ！」%K%P
 Take that! You loser!
 CN PLACEHOLDER
-Так тебе и надо! Неудачник!
+Так тебе и надо! Чёрт!
 
 武「やめろ！　やめろ！　どうしちゃったっつーんだよ、うえっ……」%K%P
 Stop it! Stop it! What's the matter with you...?
@@ -661,17 +661,17 @@ CN PLACEHOLDER
 つぐみの手が、俺の首根っこを捕まえていた。%K%P
 Tsugumi had me by the neck.
 CN PLACEHOLDER
-Цугуми схватила меня за шею.
+Цугуми крепко схватила меня за шкирку.
 
 つぐみ「どうだ、まいったか、カマドウマよ！」%K%P
 How's that, you slug!?
 CN PLACEHOLDER
-Что ты на это скажешь, слизняк?!
+Что, тебе мало, чёртов камадоума?!
 
 つぐみ「別名・便所コオロギよ！」%K%P
 You scum on the pond of life!
 CN PLACEHOLDER
-Никчёмный червяк на дне грязевой ямы!
+Кузнечик пещерный!
 
 その言葉と共に、ようやく噴射が止まった。%K%P
 With those words, the eruption in my face stopped.

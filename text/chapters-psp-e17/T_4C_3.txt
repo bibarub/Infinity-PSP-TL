@@ -766,7 +766,7 @@ CN PLACEHOLDER
 武「そんなコンサバメイクをしてるようじゃあ、医者も弁護士も代理店の男も寄って来ないぞ？」%K%P
 With conservative makeup like yours, you won't even attract doctors or lawyers!
 CN PLACEHOLDER
-С таким консервативным макияжем к тебе не подойдёт даже никакой врач или адвокат!
+С таким консервативным макияжем к тебе даже не подойдёт никакой врач или адвокат!
 
 武「もっとギャルっぽいメイクをしなくちゃならん！」%K%P
 Your makeup has to be more... feminine.

@@ -881,7 +881,7 @@ CN PLACEHOLDER
 マヨ「先輩、見かけませんでした？　他の生徒」%K%P
 You didn't see any other students, did you, Nakkyu?
 CN PLACEHOLDER
-Сэмпай, а ты не видела других студентов?
+Сэмпай, а ты не видела других учеников?
 
 マヨ「鳩鳴館の２年は、みんなここに来てるんですよ？」%K%P
 The whole Kyumeikan junior class should be here.

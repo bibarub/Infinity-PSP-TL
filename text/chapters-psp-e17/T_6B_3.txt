@@ -151,7 +151,7 @@ CN PLACEHOLDER
 武「なぁ優、空の言ってた『高圧酸素治療装置』ってのはどれなんだ？」%K%P
 Hey, You? Where is that high-pressure oxygen thing that Sora was talking about?
 CN PLACEHOLDER
-Эй, Ю? Где та штуковина „оксигенотерапии высокого давления“, о которой говорила Сора?
+Эй, Ю? Где та штуковина „гипербарической оксигенотерапии“, о которой говорила Сора?
 
 優「わ、わかんないよ、そんなの……」%K%P
 H-How should I know...?
@@ -211,7 +211,7 @@ CN PLACEHOLDER
 武「いや、それなら訊きたいことがある。高圧酸素治療装置ってのを探してるんだ」%K%P
 Well then, there's something I want to ask you. We're looking for some kind of high-pressure oxygen treatment device.
 CN PLACEHOLDER
-Ну, тогда нам нужна ваша помощь. Мы ищем штуковину под названием „система оксигенотерапии высокого давления“.
+Ну, тогда нам нужна ваша помощь. Мы ищем штуковину под названием „система гипербарической оксигенотерапии“.
 
 武「診療室まで来たのはいいが、俺達にはどれがその装置かわからない。頼む、教えてくれ」%K%P
 We've come as far as the examination room, but we don't have a clue what to look for. Can you help us? Please!
@@ -336,7 +336,7 @@ CN PLACEHOLDER
 優「高圧酸素治療……セット……」%K%P
 High-pressure oxygen treatment... set...
 CN PLACEHOLDER
-Лечение кислородом под высоким давлением... есть...
+Гипербарическая оксигенотерапия... есть...
 
 円筒形の柱についたモニターに変化が現れ、ふたつのポッドが順調に機能し始めたことがわかった。%K%P
 The screens of the monitors attached to the tubes flickered. Both of the pods seemed to be functioning normally.
