@@ -271,7 +271,7 @@ CN PLACEHOLDER
 武「んじゃまあ、とりあえず……売店にでも行って、ビール、調達してくるか」%K%P
 Hey, for now... why don't we hit the kiosk and get some beers?
 CN PLACEHOLDER
-Слушай, может... сходим к киоску и возьмём пару пивка?
+Слушай, может... сходим к киоску и возьмём пару %TS84пивка%TE?
 
 武は歩き始めた。%K%P
 Takeshi started walking.

@@ -176,7 +176,7 @@ CN PLACEHOLDER
 彼はポケットのＰＤＡ（総合携帯通信端末）を取り出した。%K%P
 He pulled his PDA multi-purpose communication device out of his pocket.
 CN PLACEHOLDER
-Такэси вынул из кармана навороченный КПК последней модели.
+Такэси вынул из кармана навороченный $TS85КПК%TE последней модели.
 
 ボタンを押す。%K%P
 Then he pressed a button.

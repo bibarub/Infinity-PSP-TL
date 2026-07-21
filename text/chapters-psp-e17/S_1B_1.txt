@@ -2810,7 +2810,7 @@ CN PLACEHOLDER
 空はそう言って、テーブルの上のホログラム画像に手を触れた。%K%P
 Saying that, Sora touched the holographic image above the table.
 CN PLACEHOLDER
-С этими словами Сора дотронулась до изображения над столом.
+С этими словами Сора дотронулась до %TS99голографическое%TE изображения над столом.
 
 次のようなことを述べる彼女。%K%P
 Then she said...

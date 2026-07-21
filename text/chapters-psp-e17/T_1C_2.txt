@@ -716,7 +716,7 @@ CN PLACEHOLDER
 ココ「しぷりあーの・くりすぴん・くりすぴにあーの・で・ら・さんてぃしま・とりにだっど・るいす・い・ぴかそ！」%K%P
 Siburiano Critiano de la Santeshima Trinidado Luis Picasso!
 CN PLACEHOLDER
-Сиприано Криспин Криспиниано де ла Сантисима Тринидад Луис Пикассо!
+Сиприано Криспин Криспиниано де ла Сантисима Тринидад Луис %TS85Пикассо%TE!
 
 武「長ぇ〜〜〜よ！！　田中優美清春香菜より長いのは却下だ！」%K%P
 That's too long! Anything longer than Tanaka Yubiseiharukana is out!

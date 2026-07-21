@@ -1706,7 +1706,7 @@ CN PLACEHOLDER
 優「あ、ちょっと話は変わるけど……ローゼンタールという人が唱えた『ピグマリオン効果』というのがあって――」%K%P
 Okay, this is a little different, but this guy named Rosenthal wrote about something called the 'Pygmalion effect'...
 CN PLACEHOLDER
-Так, немного сменим тему. Некий Розенталь выдвинул теорию об „эффекте Пигмалиона“.
+Так, немного сменим тему. Некий Розенталь выдвинул теорию об „%TS86эффекте Пигмалиона%TE“.
 
 壇上にあがった学校の先生みたいに、優はゆうゆうと語っていた。%K%P
 She was acting like a professor on a soapbox.
@@ -1726,7 +1726,7 @@ CN PLACEHOLDER
 優「プラシーボ効果というのは、それとちょっと意味合いが違ってて――」%K%P
 It's not quite the same as the placebo effect.
 CN PLACEHOLDER
-Конечно, это не совсем то же, что и эффект плацебо...
+Конечно, это не совсем то же, что и эффект %TS90плацебо%TE...
 
 優「どちらにせよ、そうであると信じることが重要になるのであって――」%K%P
 But both of them involve believing in something.

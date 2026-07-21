@@ -341,7 +341,7 @@ CN PLACEHOLDER
 武「みんな、ホットドッグでいいよな？」%K%P
 Everyone okay with hotdogs?
 CN PLACEHOLDER
-Будут хот-доги. Кто против?
+Будут %TS96хот-доги%TE. Кто против?
 
 ココ「ホットドッグ？」%K%P
 Hotdogs?

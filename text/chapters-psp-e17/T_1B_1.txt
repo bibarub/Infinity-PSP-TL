@@ -3512,7 +3512,7 @@ CN PLACEHOLDER
 突如、空中にホログラムウィンドウが現れる。%K%P
 Suddenly, a holographic window materialized in the air.
 CN PLACEHOLDER
-Вскоре в воздухе материализовалось голографическое окно.
+Вскоре в воздухе материализовалось %TS99голографическое%TE окно.
 
 どういった原理なのかはわからないが、恐らく入場の説明をしていたときに使っていたホログラムと同じシステムなのだろう。%K%P
 I had no idea how exactly she did that, but I figured that it was probably the same hologram system they'd used at the entrance to the park.

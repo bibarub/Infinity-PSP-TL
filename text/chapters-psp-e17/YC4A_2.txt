@@ -1786,7 +1786,7 @@ CN PLACEHOLDER
 武「『それが地殻変動だかプレートテクトニクスだかによって、ゆっくりとゆっくりと分裂し、移動し、現在の姿になった』」%K%P
 'Which very slowly got broken up, and the continents shifted with the movement of the earth's crust, or by virtue of plate tectonics, to become the way they are today.'
 CN PLACEHOLDER
-„То ли из-за тектонических сдвигов, то ли из-за движения литосферных плит, он медленно разделидся, а части перемещались и в итоге приобрели нынешний облик...“
+„То ли из-за %TS91тектонических сдвигов%TE, то ли из-за движения литосферных плит, он медленно разделидся, а части перемещались и в итоге приобрели нынешний облик...“
 
 武「正確に言うと、実は今でも、年に数センチという速度で大陸は移動してるんだけどな」%K%P
 To be precise, the land masses are still moving even today by several centimeters every year.

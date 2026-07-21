@@ -1976,7 +1976,7 @@ CN PLACEHOLDER
 優「ポルターガイストとか起こったら、せっかくとめたネジがはずれちゃうかもしれないから」%K%P
 Because if a poltergeist gets loose around here, the screws I just put in could fall out.
 CN PLACEHOLDER
-Потому что, если здесь разгуливает полтергейст, болты, что я недавно закрутила, самопроизвольно выпадут.
+Потому что, если здесь разгуливает %TS98полтергейст%TE, болты, что я недавно закрутила, самопроизвольно выпадут.
 
 少年「信じてないわりには、やけに詳しいね？」%K%P
 For not believing this stuff, you sure know a lot about it.

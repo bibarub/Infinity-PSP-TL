@@ -1226,12 +1226,12 @@ CN PLACEHOLDER
 優「マヨはね？　ハッカーなのよ」%K%P
 Mayo? She's a hacker.
 CN PLACEHOLDER
-Майо? Она хакер.
+Майо? Она %TS80хакер%TE.
 
 ハッカーっていうと……。%K%p
 Hacker? That means...
 CN PLACEHOLDER
-Хакер, иными словами...
+Хакер, значит...
 
 ハッカーって何？
 What's a hacker?

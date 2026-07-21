@@ -771,7 +771,7 @@ CN PLACEHOLDER
 空「私は――遍在している」%K%P
 I am—omnipresent.
 CN PLACEHOLDER
-Я – вездесущая.
+Я – %TS93вездесущая%TE.
 
 空「ええ、そうです……」%K%P
 Yes, that's right.

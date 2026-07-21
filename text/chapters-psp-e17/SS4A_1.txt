@@ -488,7 +488,7 @@ CN PLACEHOLDER
 少年「沙羅って、意外とナルシスト、なの？」%K%P
 I guess you've got a bit of a narcissistic side?
 CN PLACEHOLDER
-Должно быть, ты самую малость нарцисс?
+Должно быть, ты самую малость %TS73нарцисс%TE?
 
 沙羅「だからぁ、違うって！」%K%P
 I said I'm not!

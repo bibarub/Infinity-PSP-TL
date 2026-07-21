@@ -1386,7 +1386,7 @@ CN PLACEHOLDER
 ココの発する強力なマイクロウェーブは、俺の脳を揺さぶり温めた。%K%P
 The powerful microwaves that Coco produced had shaken my brain and fried it.
 CN PLACEHOLDER
-Мощные микроволны, излучаемые Коко, растрясли и поджарили мой мозг.
+Мощные %TS100микроволны%TE, излучаемые Коко, растрясли и поджарили мой мозг.
 
 俺の意識は、高熱を出して３日３晩寝込んだときのように朦朧としていた。%K%P
 My consciousness started becoming hazy, as if I had been in bed for three days with a high fever.
@@ -1566,7 +1566,7 @@ CN PLACEHOLDER
 ココ「ひよこごっこ、やろ？」%K%P
 Let's play 'chicks'!
 CN PLACEHOLDER
-Поиграем в „цыпочек“, что скажешь?
+Поиграем в „%TS88цыпочек%TE“, что скажешь?
 
 武「……は、はい？」%K%P
 Uhhh... What?

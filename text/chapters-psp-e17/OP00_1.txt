@@ -961,7 +961,7 @@ CN PLACEHOLDER
 係員「ところで、このＬｅＭＵは、飽和潜水仕様の設計になっています」%K%P
 By the way, LeMU was designed with saturation diving specifications.
 CN PLACEHOLDER
-Кстати, LeMU был спроектирован в соответствии со стандартами дайвинга.
+Кстати, LeMU был спроектирован в соответствии со %TS84стандартами дайвинга%TE.
 
 係員「つまり、内部の気圧が、外の水圧と同等か、またはそれを上まわるようになっているのです」%K%P
 In other words, the internal air pressure is equivalent to or greater than the water pressure outside.
@@ -1041,7 +1041,7 @@ CN PLACEHOLDER
 係員「ＬｅＭＵの中にはヘリウムガスが充満しているので、この変換機を耳につけていないと、アヒルのような声に聞こえてしまうのです」%K%P
 LeMU is pumped full of helium gas, so without these in your ears, you'll sound like a duck.
 CN PLACEHOLDER
-LeMU заполнен гелием, поэтому без надетых „наушников“ ваши голоса будут похожи на утиные.
+LeMU заполнен %TS92гелием%TE, поэтому без надетых „наушников“ ваши голоса будут похожи на утиные.
 
 彼は、試しに音声変換機を外してみた。%K%P
 He removed his voice alternators to see what would happen.

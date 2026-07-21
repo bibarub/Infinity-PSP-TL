@@ -3088,7 +3088,7 @@ CN PLACEHOLDER
 優「たぶんこれは、正岡子規の俳句『水無月の虚空に涼し時鳥』をもじったものだと思う」%K%P
 I think it's a variation of Masaoka Shiki's 'The empty June sky... A single cuckoo calls out... Brings a chill to me'.
 CN PLACEHOLDER
-Кажется, это переделка хайку „В небе прохладой веет июньской порой... Кричит кукушка“ за авторством Масаоки Сики.
+Кажется, это переделка %TS77хайку%TE „В небе прохладой веет июньской порой... Кричит кукушка“ за авторством Масаоки Сики.
 
 優「だから、正しい読み方は恐らく……」%K%P
 So if I input it like this...

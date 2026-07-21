@@ -196,7 +196,7 @@ CN PLACEHOLDER
 名物マグロタツタサンドの売店だ。%K%P
 There was a stand selling their famous tuna sandwiches.
 CN PLACEHOLDER
-Здесь стоит киоск, в котором продают сэндвичи.
+Здесь стоит киоск, в котором продают сэндвичи c тунцом.
 
 売店にはまだ、焼きたてサンドの匂いが漂っている。%K%P
 The smell of freshly cooked sandwiches still lingered.
