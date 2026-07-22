@@ -2366,7 +2366,7 @@ CN PLACEHOLDER
 優「不肖この鳩鳴館女子大１年、短期アルバイト、田中優美清春香菜が、救助隊の到着まで皆様をご案内いたしまーすっ……」%K%P
 I'm Tanaka Yubiseiharukana, a humble freshman at Kyumeikan Women's College, and I work here part-time. I will be your guide until the rescue team arrives!
 CN PLACEHOLDER
-Я первокурсница Женского университета Кюмэйкан, а здесь просто подрабатываю. Меня зовут Танака Юбисэйхарукана. Я буду вашим гидом, пока не прибудет спасательная команда.
+Я первокурсница %TS21Женского университета Кюмэйкан%TE, а здесь просто подрабатываю. Меня зовут Танака Юбисэйхарукана. Я буду вашим гидом, пока не прибудет спасательная команда.
 
 優「どんどんどんどん♪　ぱぁふぅーぱぁふうぅー♪」%K%P
 Rap-tap-tap-tap〜 Ta-da〜
@@ -2826,7 +2826,7 @@ CN PLACEHOLDER
 空「申し遅れました。私は、茜ヶ崎空と申します。ＬｅＭＵ開発部のシステムエンジニアです」%K%P
 Pardon me for the belated introduction. I am Akanegasaki Sora. I am a system engineer in LeMU's Development Division.
 CN PLACEHOLDER
-Прошу прощения за несвоевременное представление. Я Аканэгасаки Сора. Системный инженер в Отделе разработки LeMU.
+Прошу прощения за несвоевременное представление. Я Аканэгасаки Сора. %TS35Cистемный инженер%TE в Отделе разработки LeMU.
 
 空「一応、主任代理……ということになっています」%K%p
 Technically, I'm the assistant chief... or so my title says.

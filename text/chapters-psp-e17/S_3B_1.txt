@@ -1116,12 +1116,12 @@ CN PLACEHOLDER
 優と考古学……あまりピンとこない組み合わせだった。%K%P
 You studying archaeology... It just didn't click.
 CN PLACEHOLDER
-Ю и археология... по мне так это две вещи несовместные.
+Ю изучает археологию... в голове не укладывается.
 
 優「２０世紀の終わり頃、沖縄の方のどっかで海底遺跡が発見されたでしょ？」%K%P
 Near the end of the 20th century, some oceanic ruins were discovered near Okinawa, right?
 CN PLACEHOLDER
-Ближе к концу двадцатого века у острова Окинава были обнаружены развалины на морском дне.
+Ближе к концу двадцатого века у острова Окинава были обнаружены %TS15развалины%TE на морском дне.
 
 優「ライプリヒ製薬は『その遺跡こそレムリアが存在したことの証だ』みたいなことを、まことしやかに、それとな〜く流布してるの」%K%P
 Leiblich Pharmaceuticals spread rumors that these ruins were somehow evidence of the existence of Lemuria.

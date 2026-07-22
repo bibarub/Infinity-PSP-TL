@@ -671,7 +671,7 @@ CN PLACEHOLDER
 つぐみ「別名・便所コオロギよ！」%K%P
 You scum on the pond of life!
 CN PLACEHOLDER
-Кузнечик пещерный!
+%TE17Кузнечик пещерный%TE!
 
 その言葉と共に、ようやく噴射が止まった。%K%P
 With those words, the eruption in my face stopped.

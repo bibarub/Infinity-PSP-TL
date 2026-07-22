@@ -1141,7 +1141,7 @@ CN PLACEHOLDER
 黄色と黒のストライプがぼんやりと見える。%K%P
 Dim yellow and black stripes appeared ahead.
 CN PLACEHOLDER
-Впереди показались едва различимые жёлтые и чёрные полосы.
+Впереди показались едва различимые %TS19жёлтые и чёрные полосы%TE.
 
 武「ここか？　発電室ってぇのは……」%K%P
 This is it? This is the generator room...?

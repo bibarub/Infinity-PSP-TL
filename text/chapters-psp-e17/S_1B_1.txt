@@ -1346,7 +1346,7 @@ CN PLACEHOLDER
 空「私は、ＬｅＭＵ開発部のシステムエンジニアをしているのです」%K%P
 Probably because I am a system engineer at LeMU's research and development division.
 CN PLACEHOLDER
-Наверное потому, что я системный инженер в Отделе разработки LeMU.
+Наверное потому, что я %TS35системный инженер%TE в Отделе разработки LeMU.
 
 空「一応、主任代理……ということになっています」%K%P
 Basically... the assistant chief.

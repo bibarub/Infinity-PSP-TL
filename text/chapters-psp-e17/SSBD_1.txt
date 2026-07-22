@@ -196,7 +196,7 @@ CN PLACEHOLDER
 沙羅はその空気を吸い続けたせいで、酸素中毒になってしまっているんだろう。%K%P
 Sara had probably gotten oxygen poisoning from breathing the oxygen-heavy air.
 CN PLACEHOLDER
-Похоже, что Сара получила кислородное отравление, дыша перенасыщенным воздухом.
+Похоже, что Сара получила %TS34кислородное отравление%TE, дыша перенасыщенным воздухом.
 
 それに、冷たい海水につかり、ここに浮かび続けているための疲れ……。%K%P
 That compounded with the fatigue from treading in the cold seawater...
