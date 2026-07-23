@@ -61,7 +61,7 @@ CN PLACEHOLDER
 そうだ！　責任者出て来い！
 That's it! Get me whoever's in charge!
 CN PLACEHOLDER
-Вот именно! Приведите мне заведующего!
+Точно! Приведите мне заведующего!
 
 あんたのせいじゃない
 It's not your fault
@@ -76,7 +76,7 @@ CN PLACEHOLDER
 武「そうだ！　責任者出て来い！」%K%P
 That's it! Get me whoever's in charge here!
 CN PLACEHOLDER
-Вот именно! Приведите мне заведующего!
+Точно! Приведите мне заведующего!
 
 武「あんたみたいな係員を責めてもしょうがないけどさ、なんで……」%K%P
 It's no good blaming a staff member like you, but...
