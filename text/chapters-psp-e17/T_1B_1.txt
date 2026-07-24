@@ -2486,7 +2486,7 @@ CN PLACEHOLDER
 ココ「中３！」%K%P
 I'm in ninth grade!
 CN PLACEHOLDER
-%TS122Средняя школа%TE, третий год!
+Средняя школа, %TS122третий год%TE!
 
 武「な、なぬぃっ！？」%K%P
 Wh-What?!
