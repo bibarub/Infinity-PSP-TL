@@ -509,7 +509,7 @@ CN PLACEHOLDER
 俺はドアに両手をつき、左右に思い切り力を込めた。%K%P
 I placed both of my hands firmly on the door and pried it apart with all my strength.
 CN PLACEHOLDER
-Я вцепился руками в дверь и со всей попыталась её расшатать.
+Я вцепился руками в дверь и со всей силы попыталась её расшатать.
 
 ドアが開いた。%K%P
 It opened.
