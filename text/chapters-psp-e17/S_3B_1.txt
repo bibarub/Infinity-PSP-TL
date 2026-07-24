@@ -3083,7 +3083,7 @@ CN PLACEHOLDER
 『海月の虚空に秋涼し時鳥』%K%P
 “The empty fall sky%NA single cuckoo calls out%NBrings a chill to me”.
 CN PLACEHOLDER
-«В пустом небе прохладой медуза веет осенней порой... Кричит кукушка.»
+«В небе пустом над лунным морем прохладой веет осенней порой... Кричит кукушка.»
 
 優「たぶんこれは、正岡子規の俳句『水無月の虚空に涼し時鳥』をもじったものだと思う」%K%P
 I think it's a variation of Masaoka Shiki's 'The empty June sky... A single cuckoo calls out... Brings a chill to me'.
@@ -3098,7 +3098,7 @@ CN PLACEHOLDER
 優「『うみつきの　こくうにすずし　ほととぎす』」%K%P
 'The empty fall sky%NA single cuckoo calls out%NBrings a chill to me'.
 CN PLACEHOLDER
-„В небе пустом прохладой%Nмедуза веет осенней порой...%NКричит кукушка“.
+„В небе пустом над лунным морем%Nпрохладой веет осенней порой...%NКричит кукушка.“.
 
 少年「へぇ」%K%P
 Wow.
@@ -3128,7 +3128,7 @@ CN PLACEHOLDER
 優「うみつきの、こくうにすずし、ほととぎす……と」%K%P
 'The empty fall sky%NA single cuckoo calls out%NBrings a chill to me'. Okay then!
 CN PLACEHOLDER
-Море-и-луна-сливаются-в-иллюзорном-осеннем-небе-неся-%Nсловно-птица-сквозь-пелену-времени-тихий-океанский-бриз. Есть!
+В небе-пустом-над лунным морем-прохладой-веет осенней порой... Кричит кукушка. Есть!
 
 カタッ！%K%P
 Tap!
