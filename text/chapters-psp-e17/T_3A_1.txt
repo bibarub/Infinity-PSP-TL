@@ -1256,7 +1256,7 @@ CN PLACEHOLDER
 武「さっき『寝坊した』って、言ってたけど……？」%K%P
 You mention you'd 'overslept' earlier...?
 CN PLACEHOLDER
-Давеча ты сказала, что „проспала“?..
+До этого ты сказала, что „проспала“?..
 
 空「ああっ、ごめんなさいっ……」%K%P
 Y-Yes, I'm sorry...

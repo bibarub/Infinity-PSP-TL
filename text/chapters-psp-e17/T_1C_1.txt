@@ -1714,7 +1714,7 @@ CN PLACEHOLDER
 言うが早いか、つぐみは固く閉ざされたエレベーターの扉のひとつに手をかけた。ぐいっ、と両側へ引っ張る。%K%P
 As soon as she said that, she placed her hand on the closed elevator doors and started prying them apart.
 CN PLACEHOLDER
-Она просунула руки в щель между створками лифта и стала их раздвигать.
+Она просунула руки в щель между створками дверей лифта и стала их раздвигать.
 
 扉は壊れているのか、半開きになって止まった。%K%P
 The door was stopped half-open. I thought it might be broken.

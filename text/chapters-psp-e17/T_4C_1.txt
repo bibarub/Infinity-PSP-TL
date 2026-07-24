@@ -611,7 +611,7 @@ CN PLACEHOLDER
 ココ「たけぴょん、たけぴょん？　さっき空さんから聞いたんだけどぉ」%K%P
 Takepyon. Takepyon! I talked to Sora-san.
 CN PLACEHOLDER
-Такэпён. Такэпён! Я давеча говорила с тётей Сорой.
+Такэпён. Такэпён! Я тут разговаривала с тётей Сорой.
 
 ココ「空さんがね、つぐみんと少し話をしてきた、って言ってたよ」%K%P
 And guess what? Sora-san said she spoke to Tsugumin.

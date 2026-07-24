@@ -6,7 +6,7 @@ CN PLACEHOLDER
 フロアに降り立ったぼくは、思わず声をもらした。%K%P
 I muttered that without thinking when we reached the floor.
 CN PLACEHOLDER
-Я машинально пробормотал, когда мы встали на пол.
+Машинально пробормотал я, когда мы встали на пол.
 
 見渡す限り、一面、水浸しの床……。%K%P
 As far as I could see, the floor was a sheet of water that had flooded in...
@@ -231,17 +231,17 @@ CN PLACEHOLDER
 ケガをしているわけでも、衰弱しているわけでもなさそうだ。%K%P
 It didn't sound weak or injured.
 CN PLACEHOLDER
-Непохоже, что человек внутри ранен или ослаблен.
+Непохоже, что человек ранен или ослаблен.
 
 優「って言っても、どうやって開ければいいんだろう？」%K%P
 Hang on, how are we going to open this?
 CN PLACEHOLDER
-И всё же как нам его открыть?
+И всё же, как нам его открыть?
 
 優はドアに両手をついて、左右に力を込めた。%K%P
 You placed both of her hands on the door and pushed left and right.
 CN PLACEHOLDER
-Ю вцепилась руками в дверь и попыталась её раскачать.
+Ю вцепилась руками в дверь и со всей попыталась её расшатать.
 
 優「うぅ〜、くぅ〜〜〜〜っ！」%K%P
 Uggggh!
@@ -256,7 +256,7 @@ CN PLACEHOLDER
 少年「開かない？」%K%P
 Won't it open?
 CN PLACEHOLDER
-;Мальчик«Почему она не открывается?»%K%P
+;Мальчик«Что, не открывается?»%K%P
 
 優「そんなの見ればわかるでしょ！？　ほら、ちょっと替わってってば！」%K%P
 If you were paying attention, you'd be able to tell! You give it a try!
@@ -267,6 +267,7 @@ CN PLACEHOLDER
 I switched places with You and reached out to try to open the door.
 CN PLACEHOLDER
 Я поменялся местами с Ю и попытался открыть дверь.
+// "поменялся местами" не уверен, что хорошо звучит на русском --bibarub
 
 少年「う〜〜ん……っ！」%K%P
 Ummmpphhhhhhh!
@@ -276,7 +277,7 @@ CN PLACEHOLDER
 開かない。%K%P
 It didn't budge.
 CN PLACEHOLDER
-Она не двигается.
+Не открывается.
 
 優「ほらほら、もっと気合い入れて！」%K%P
 Come on! Put some power into it!
@@ -286,12 +287,12 @@ CN PLACEHOLDER
 ドアとドアの隙間に指を入れようとするが、かろうじて爪が引っかかるだけで、どうすることもできない。%K%P
 I tried to put my fingers in the crack in the door, but my fingernails just barely squeezed in, and nothing happened.
 CN PLACEHOLDER
-Я попытался засунуть свои пальцы в щель, но их просто зажало и ничего не получилось.
+Я попытался просунуть руки в щель между створками дверей лифта, но едва ли смог пропихнуть тогда ногти.
 
 少年「痛って……」%K%P
 Owwww....
 CN PLACEHOLDER
-;Мальчик«Ой...»%K%P
+;Мальчик«Ай...»%K%P
 
 人差し指……爪と爪の間から、血がにじみ出してきた。%K%P
 Blood started oozing from the nail of my index finger.
@@ -301,12 +302,12 @@ CN PLACEHOLDER
 そのすぐ隣の指に目がとまる。%K%P
 But it was the digit next to it that caught my eye.
 CN PLACEHOLDER
-Но это последнее, о чём я волнуюсь.
+Но моё внимание привлёк другой палец.
 
 左手の親指だった。%K%P
 The thumb on my left hand.
 CN PLACEHOLDER
-Палец на моей левой руке.
+Большой палец левой руки.
 
 少年「ん……？」%K%P
 Hey...
@@ -316,7 +317,7 @@ CN PLACEHOLDER
 ぼくはその親指に、ある特徴的な跡を見つけた。%K%P
 I noticed a distinct mark on it.
 CN PLACEHOLDER
-Я увидел отметину на нём.
+Я увидел на нём отметину.
 
 指の腹のところに、長さ１センチ程度の深い傷跡があったのだ。%K%P
 On the meaty part of the thumb was a deep scar about a centimeter long.
