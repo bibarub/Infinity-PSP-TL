@@ -481,7 +481,7 @@ My mind is overheating.
 ドラッグのバッドトリップというのはこういう感じなのかもしれない。%K%P
 This may be the same feeling as having a bad drug trip.
 说不定药物的痛苦体验也不过如此。
-Подобное чувство, должно быть, испытывают наркоманы при %TS017бэд трипе%TE.
+Подобное чувство, должно быть, испытывают наркоманы при %TS114бэд трипе%TE.
 
 穂鳥が心配そうに、私の顔をのぞき込んでいた。%K%P
 Hotori worriedly peeks at my face.
@@ -1691,7 +1691,7 @@ Even so, when you're there, I feel like I can be more like myself.
 中国の格言にこんな四字熟語があるの、知ってるか？%K%N
 There's a four-character Chinese idiom that goes like that. Do you know it?
 中国的格言里有这样的四字成语，你知道吗？
-Есть подходящий %TS024ёдзидзюкуго%TE, может знаешь его:
+Есть подходящий %TS115ёдзидзюкуго%TE, может знаешь его:
 
 『赤受咸青／せきじゅかんせい』%K%N
 “赤受咸青”, “sekijukansei”

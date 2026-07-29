@@ -1016,7 +1016,8 @@ I nod to myself once and put my hand on the ladder to climb up.
 上にあがると、黄泉木がイスに座って%TS024ナイフの手入れ%TEをしていた。%K%P
 When I go up, I see Yomogi sitting in a chair doing %TS024knife maintenance%TE.
 上去以后，黄泉木正坐在椅子上摆弄他的%TS024小刀%TE.。
-Поднявшись наверх, я вижу Ёмоги, который сидит на стуле и чистит нож.
+Поднявшись наверх, я вижу Ёмоги, который сидит на стуле и %TS024чистит нож%TE.
+// переписать бы под термин?
 
 布きれでナイフの刃を拭いている。%K%P
 He's wiping the blade of the knife with a cloth.

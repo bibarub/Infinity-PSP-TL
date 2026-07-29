@@ -216,7 +216,7 @@ repack_etc_afs () {
 repack_init_bin () {
 	echo "Applying translation to init.bin"
 	# Apply init.bin strings
-	[ -e text/tips-psp-${GAME}.txt ] && ! { [ "$GAME" = "r11" ] && [ "$TL_SUFFIX" = "ru" ]; } && TIPS_ARG="-t text/tips-psp-${GAME}.txt"
+	[ -e text/tips-psp-${GAME}.txt ] && TIPS_ARG="-t text/tips-psp-${GAME}.txt"
 	[ -e text/chronology-${TL_SUFFIX}.txt ] && [ "$GAME" = "r11" ] && CHRONO_ARG="-c text/chronology-${TL_SUFFIX}.txt"
 
 	$PY ./py-src/apply_init_translation.py text/other-psp-${GAME}-${TL_SUFFIX}/init.bin.utf8.txt $WORKDIR/init.dec $WORKDIR/init.dec.${TL_SUFFIX} -l ${TL_SUFFIX} -g ${GAME} $TIPS_ARG $CHRONO_ARG || exit 1

@@ -318,7 +318,7 @@ The three of us are speechless.
 %LC『%TS058スコア：０−０%TE』%K%P
 %TS058Score: 0—0%TE
 “%TS058 比分:0-0 ”%TE
-Счёт: 0:0
+%TS058Счёт: 0:0%TE
 
 我がチームの１番手は、ゆにに任せることにした。%K%P
 I entrust our team's first shot to Yuni.
@@ -411,6 +411,7 @@ The ball strikes the backboard, then rebounds into the snow...
 Score: 0—0
 “比分：０−０”
 %TS058Счёт: 0:0%TE
+// надо разобраться, почему оно тут есть
 
 ゆに「あれ〜？　おっかしいなぁ……」%K%P
 Hu〜h? That's strange...

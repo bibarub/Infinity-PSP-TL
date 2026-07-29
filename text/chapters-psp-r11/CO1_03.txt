@@ -646,7 +646,7 @@ And even then, the girl doesn't stop moving.
 防壁を乗り越え、警戒網を突破し、%N私の%TS106パーソナルスペース%TEへと踏み込んでくる。%K%P
 Breaking through my protective wall and destroying all my warning sensors, she enters my %TS106personal space%TE.
 越过防线，突破警戒，踏入我的%TS106个人空间%TE。
-Игнорируя моё беспокойство, она вторгается в моё личное пространство.
+Игнорируя моё беспокойство, она вторгается в моё %TS106личное пространство%TE.
 
 もうどうすることもできない。%K%P
 There's nothing more to be done.

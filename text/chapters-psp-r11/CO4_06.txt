@@ -1101,7 +1101,8 @@ Even within the premises of SPHIA, I'll get lost with one wrong move.
 もしも、迷ってしまったら、%TS042低体温症%TEで意識を失い……凍死は免れ得ない。%K%P
 If I lose my way, I could go into %TS042hypothermia%TE and lose consciousness... and freeze to death.
 如果在这里迷路了，就会因为%TS042低温症%TE失去意识……最后难逃一死。
-Если заблужусь, переохлаждение, потеря сознания, а затем и смерть от холода неизбежны.
+Если заблужусь, %TS042переохлаждение%TE, потеря сознания, а затем и смерть от холода неизбежны.
+// гипотермия
 
 目標を定めて歩かなくてはならない。%K%P
 I need to set a reference point.

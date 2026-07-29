@@ -502,6 +502,7 @@ The piled-up snow beneath my feet was immeasurably deep.
 But thanks to that, I could see the trail broken by Mayuzumi's %TS006russelling%TE through.
 不过正是靠它们，我才找到了黛%TS006除雪%TE前行的痕迹。
 Однако это же помогло мне обнаружить следы, которые оставила за собой ушедшая Маюдзуми.
+// здесь выкинули слово, на которое есть заметка, но это восстановлено дальше по тексту
 
 手元の明かりを、痕跡の続く彼方へと向けた。%K%P
 With the light in hand, I turned to find more traces.

@@ -3,6 +3,148 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
+@strcpy equ 0x088C2C18
+@strcat equ 0x088C2B08
+@inhouse_sprintf equ 0x0887FD8C
+@get_runtime_var equ 0x0880D5D0
+@get_system_var equ 0x08806D8C ;; not sure if that's what it does
+
+;; Swap date order. YYYY/MM/DD -> DD.MM.YYYY
+; pause menu
+/*.org 0x08827894
+.area 4*1
+	li	a0,0x600A
+.endarea
+.org 0x088278CC
+.area 4*1
+	li	a0,0x6009
+.endarea
+.org 0x088278B0
+.area 4*1
+	jal	@strcpy
+.endarea
+.org 0x08827988
+.area 4*2
+	j	@PAUSE_MENU_YEAR_HACK
+	nop
+@PAUSE_MENU_YEAR_HACK_RETURN:
+.endarea
+.org 0x088278E4
+.area 4*15
+	b	0x0882792C
+@PAUSE_MENU_APPEND:
+	move	a0,s1
+	jal		@strcat
+	addiu	a1,s0,0x3A38
+	jal		@get_runtime_var
+	li		a0,0x6008
+	addiu	a0,v0,0x7D0
+	addiu	a2,s0,0x3A30
+	jal		@inhouse_sprintf
+	move	a1,sp
+	move	a0,s1
+	jal		@strcat
+	move	a1,sp
+	j		@PAUSE_MENU_YEAR_HACK_OVER
+	nop
+.endarea
+.orga 0x1525A0 :: .fill 8*9
+.orga 0x152608 :: .fill 8*1
+.orga 0x152648 :: .fill 8*1*/
+
+; save creation date contracted
+.org 0x08851E64
+.area 4*1
+	lbu	a0,0xEC(s7)
+.endarea
+.org 0x08851E94
+.area 4*1
+	lbu	a0,0xED(s7)
+.endarea
+
+; save creation date expanded
+.org 0x08851C9C
+.area 4*4
+	lbu		a0,0xEC(s7)
+	lui		s4,0x12; relocation in place
+	addiu	a2,s4,0x422C; relocation in place
+	nop
+.endarea
+.org 0x08851D00
+.area 4*3
+	lhu		a0,0xEE(s7)
+	addiu	a0,a0,0x7D0; 0x08851D04: relocation-cleared
+	addiu	a2,s4,0x4248; relocation in place
+.endarea
+.orga 0x1666D0 :: .fill 8*1; clear 0x08851D04
+
+; in-game date contracted
+.org 0x0885220C
+.area 4*1
+	li	a1,0x600A
+.endarea
+.org 0x08852248
+.area 4*1
+	li	a1,0x6009
+.endarea
+
+; in-game date expanded
+/*.org 0x0884FFF0
+.area 4*1
+	li	a1,0x600A
+.endarea
+.org 0x0885002C
+.area 4*1
+	li	a1,0x6009
+.endarea
+.org 0x0884FFD8
+.area 4*1
+	b	0x0884FFE8
+.endarea
+.org 0x08850050
+.area 4*2
+	j	@SAVE_MENU_YEAR_HACK
+	nop
+@SAVE_MENU_YEAR_HACK_RETURN:
+.endarea
+.org 0x08850570
+.area 4*13
+@SAVE_MENU_YEAR_APPEND:
+	move	a0,s6
+	jal		@strcat
+	addiu	a1,v1,0x5EBC
+	lui		v0,0x892
+	addiu	a2,v0,0x5ED0
+	addiu	a0,s0,0x7D0
+	jal		@inhouse_sprintf
+	move	a1,sp
+	move	a0,s6
+	jal		@strcat
+	move	a1,sp
+	j		@SAVE_MENU_YEAR_HACK_OVER
+	nop
+.endarea
+.orga 0x163050 :: .fill 8*1
+.orga 0x1632A8 :: .fill 8*6
+.orga 0x162A30 :: .fill 8*1
+.orga 0x162FE0 :: .fill 8*1*/
+
+; real time
+.org 0x08854E38
+.area 4*1
+	lw		a0,0x14(s2)
+.endarea
+.org 0x08854E48
+.area 4*1
+	addiu	a2,a2,0x422C; relocation in place
+.endarea
+.org 0x08854E9C
+.area 4*2
+	lw		a0,0x1C(s2)
+	addiu	a2,s3,0x4248; relocation in place
+.endarea
+
+
 ;; Adjust tip page icon centering.
 .org 0x0884D498
 .area 4*1
@@ -123,8 +265,6 @@
 ; @inhouse_sprintf - some sort of in-house sprintf. a2 - format, a1 - dest, a0 - argument. no idea if multiple "arguments" can be passed.
 ; @clock_unk1 - a3 seems to affect the height of the white blinking rectangle.
 ; @clock_unk2 - a2 affects the size of the clock.
-@strcat equ 0x088C2B08
-@inhouse_sprintf equ 0x0887FD8C
 @clock_unk1 equ 0x0886561C
 @clock_unk2 equ 0x088668E0
 .org 0x08837A90

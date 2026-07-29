@@ -501,7 +501,7 @@ This isn't really my field of expertise—all I can do is force a smile.
 私の専門は『ソスウ』や『インスウ』ではなく%N『%TS000ソシオロジィ%TE』や『%TS001インサニティ%TE』なのだ。%K%P
 You know, my specialty isn't “factors” or “prime numbers”, but rather “%TS000sociology%TE” and “%TS001insanity%TE”.
 我的专业不是“质数”与“因数”，而是《%TS000社会学%TE》和《%TS001精神异常%TE》
-Вообще-то мои исследования не связаны ни с делителями, ни с простыми числами – я специализируюсь на социологии и душевных расстройствах.
+Вообще-то мои исследования не связаны ни с делителями, ни с простыми числами – я специализируюсь на %TS000социологии%TE и %TS001душевных расстройствах%TE.
 
 少年「お姉ちゃんは、素数じゃないね？」%K%P
 Onee-chan's age isn't a prime number, is it?
@@ -1425,6 +1425,7 @@ And Saul cast the javelin, for he said...
 I will smite David even to the wall with it...
 心想“自己要将大卫钉在墙上”……
 %LC|Я| пригвожду Давида к стене...%N%TS000(доступна заметка)%TE%K%P
+// тут это так сделано чтобы не сливалось с цветом |Я|
 
 くちからもれたその声は、自分のものとは思えなかった。%K%P
 'I' don't think of the words coming out of 'my' mouth as 'my' own.
@@ -1643,7 +1644,7 @@ Yuni says as the feather dances on the palm of his hand.
 ゆに「女の子が振り袖を着るとき肩にかけるショール」%K%P
 When girls put on their kimono for the event, they wear shawls over their shoulders too.
 悠尼「女孩子穿长袖和服时，搭在肩上的披肩」
-На праздник девушки надевают %TS001фурисодэ%TE и накидку на плечи.
+На праздник девушки надевают %TS119фурисодэ%TE и накидку на плечи.
 
 ゆに「その素材の中でも最もポピュラーなのがフェザー、ホワイトグースの羽なんだ」%K%P
 Of all of the materials used to make shawls, the most popular is the feather of the white goose.

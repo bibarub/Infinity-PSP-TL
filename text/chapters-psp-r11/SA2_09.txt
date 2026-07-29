@@ -31,7 +31,7 @@ The switch inside my head isn't something that can be turned on or off easily.
 避難小屋のことと、スフィアのこと、両方を同時に考えることはできない。%K%P
 I can't think about both the shelter cabin and SPHIA at the same time.
 避难小屋的事，ＳＰＨＩＡ的事，不能同时考虑到两边。
-Я не могу одновременно думать и о горной хижине, и о%NSPHIA.
+Я не могу одновременно думать и о горной хижине, и о SPHIA.
 
 そして、オレは今、スフィアにいる。%K%P
 And right now, I'm at SPHIA.
@@ -351,7 +351,7 @@ I was rocking.
 ゆに「%TS052ロックンロール%TEだよ、ロックンロール」%K%P
 %TS052Rock and roll%TE, I was rock and rolling.
 悠尼「%TS052摇滚音乐%TE哦，摇滚音乐」
-Рок-н-ролл. Я рок-н-роллил.
+%TS052Рок-н-ролл%TE. Я рок-н-роллил.
 
 ゆに「ぼくね？　%TS053カポエラ%TEの道場に通ってるんだけど、そこのお師匠さんにこう言われたんだ」%K%P
 You know, I was attending a %TS053Capoeira%TE dojo, and the master there said to me...
@@ -1036,7 +1036,7 @@ As though drawn to something, he raises both his hands into the air.
 小さな手のひらは、カギ状に折れ曲がって硬直していた。%K%P
 His small hands ball themselves into stiff claws.
 小小的手掌扭曲成奇怪的形状。
-...и маленькие ладошки сводит %TS080тонической судорогой%TE.
+...и маленькие ладошки сводит %TS122тонической судорогой%TE.
 
 悟「おい、ゆに！　しっかりしろ！」%K%P
 Hey, Yuni! Get it together!
@@ -2336,7 +2336,7 @@ Then what was she saying that I should believe...?
 懐疑論者は%TS054懐疑論%TEをも懐疑する。%K%N
 A skeptic must also doubt %TS054skepticism%TE itself.
 怀疑论者连%TS054怀疑论%TE也要怀疑。
-Скептик должен сомневаться и в самом скептицизме.
+Скептик должен сомневаться и в самом %TS054скептицизме%TE.
 
 そんなものは建設的とはいえないだろう。%K%N
 I can't say that it's very constructive, though.

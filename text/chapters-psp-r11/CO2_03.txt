@@ -26,7 +26,7 @@ In my left hand is an aluminum cup.
 中には熱々の雑炊らしきものが入っていた。%K%P
 Inside is something like piping-hot rice porridge with seasoning.
 里面装着热腾腾的类似杂烩粥的东西。
-В кружке что-то вроде горячего %TS013дзосуя%TE.
+В кружке что-то вроде горячего %TS112дзосуя%TE.
 
 こころ「私は……？」%K%P
 I'm...?
@@ -411,7 +411,7 @@ As if to comfort me, Yomogi places his hand on my shoulder.
 スフィアとは対照的な殺伐とした食事が終わった。%K%P
 Thus the meal, savage in comparison to that at SPHIA, ends.
 与在ＳＰＨＩＡ时截然相反的、杀气腾腾的一餐结束了。
-На этом приём пищи, скудный по сравнению с завтраком в%NSPHIA, заканчивается.
+На этом приём пищи, скудный по сравнению с завтраком в SPHIA, заканчивается.
 
 文句を言いたいところだったが、やめておいた。%K%P
 I want to make my complaints known, but decide against it.
@@ -476,5 +476,5 @@ I can't even criticize Mayuzumi.
 ほどなく、スフィアとは対照的な殺伐とした食事が終わった。%K%P
 Soon, the meal, savage in comparison to that at SPHIA, ends.
 很快，与ＳＰＨＩＡ相对的，杀气腾腾的一餐结束了。
-На этом приём пищи, скудный по сравнению с завтраком в%NSPHIA, заканчивается.
+На этом приём пищи, скудный по сравнению с завтраком в SPHIA, заканчивается.
 

@@ -27,7 +27,7 @@ for i in songs:
         b = f.read(128)
         while b'\0' not in b:
             b += f.read(128)
-        lyrics[-1].append((j[0], r11.r11_bytes_to_str(b.split(b'\0')[0])))
+        lyrics[-1].append((j[0], r11.r11_bytes_to_str(b.split(b'\0')[0], "ru").replace("\"", "\\\"")))
 f.close()
 
 print("jukebox = [")
@@ -36,4 +36,4 @@ for i in lyrics:
     for j in i:
         print(f"        ({j[0]}, r\"{j[1]}\"),")
     print("    ],")
-print("}")
+print("]")

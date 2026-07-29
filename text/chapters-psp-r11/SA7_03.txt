@@ -171,7 +171,7 @@ I can't just give up here.
 オレがスフィア空間を出ないことには何も始まらない。%K%P
 Nothing will happen if I don't get out of SPHIA's circle.
 如果我不走出ＳＰＨＩＡ转移圈的话，一切都无从谈起。
-Я ничего не смогу сделать, если не покину пространство%NSPHIA.
+Я ничего не смогу сделать, если не покину пространство SPHIA.
 
 なにがなんでも、次の転移までにゲートの外に出なければ……。%K%P
 No matter what, I have to get past the gate before the next transfer...
@@ -1006,7 +1006,7 @@ The key I found in my room on the 12th...
 ＩＤカードのそばに置いてあった極普通のシンプルな鍵だった。%K%P
 It was placed next to the ID card, an extremely ordinary and simple key.
 放在ＩＤ卡旁边的极普通极简单的钥匙。
-С виду самый обыкновенный ключ, он лежал рядом с%NID-картой.
+С виду самый обыкновенный ключ, он лежал рядом с ID-картой.
 
 悟「まさかな……」%K%P
 No way...

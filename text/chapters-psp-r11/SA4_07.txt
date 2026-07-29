@@ -296,7 +296,7 @@ There's a card reader terminal on the wall beside the door.
 スフィアの正面ゲートはＩＤカードで開いた。%K%P
 The SPHIA front gate opened with the ID card.
 ＳＰＨＩＡ的大门是用ＩＤ卡打开的。
-Ворота SPHIA открылись тогда найденной в моей комнате%NID-картой.
+Ворота SPHIA открылись тогда найденной в моей комнате ID-картой.
 
 ならば恐らくこのドアも……。%K%P
 So maybe this door, too...

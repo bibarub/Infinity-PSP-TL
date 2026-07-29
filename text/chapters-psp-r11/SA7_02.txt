@@ -2048,7 +2048,7 @@ In contrast, these are the times I noted down...
 『午後０６時０３分：避難小屋に転移、%N%TS080午後−−時−−分%TE：スフィアに戻る』%K%N
 6:03 PM: Transferred to the shelter cabin, %TS080--:-- PM%TE: Returned to SPHIA.
 “晚上６时０３分：转移到避难小屋， %TS080晚上——时——分%TE：返回ＳＰＨＩＡ”
-"18:03 – перенёсся в хижину, --:-- – вернулся в SPHIA"
+"18:03 – перенёсся в хижину, %TS080--:--%TE – вернулся в SPHIA"
 
 『午後０７時３３分：避難小屋に転移』%K%N
 7:33 PM: Transferred to the shelter cabin.

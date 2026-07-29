@@ -136,7 +136,7 @@ I guess that's to be expected. After all, if something I'm carrying turned out t
 再生リストを呼び出すとＤＡＴＡ１とＤＡＴＡ２だけしか入っていなかった。%K%P
 The playback display only reads DATA1 and DATA2.
 我打开播放菜单，里面只有ＤＡＴＡ１和ＤＡＴＡ２。
-В меню воспроизведения лишь две надписи: %NDATA1 и DATA2.
+В меню воспроизведения лишь две надписи: DATA1 и DATA2.
 
 自分で吹き込んだのだから内容は知っているが、なんとなくＤＡＴＡ１を再生してみる。%K%P
 Having recorded DATA1 myself, I already know what's on it, but I play it back even so.
@@ -206,7 +206,7 @@ What's that?
 黄泉木「%TS007ＧＰＳ%TE。まあ、簡単に言えば、今いる場所の座標を表示してくれる機械かな」%K%P
 A %TS007GPS%TE. Well, simply put, it's a device that shows the coordinates of our current position.
 黄泉木「%TS007ＧＰＳ%TE。简单来说就是用来标示所处位置坐标的仪器」
-Это GPS. Проще говоря, устройство, которое показывает координаты нашего текущего положения.
+Это %TS007GPS%TE. Проще говоря, устройство, которое показывает координаты нашего текущего положения.
 
 こころ「ええっ？　すごいじゃないですか」%K%P
 Eeh? That's great!
@@ -1167,7 +1167,7 @@ As they had undergone extensive decomposition over a period of six months, the i
 ＨＡＬ１８便に乗っていた乗員・乗客のうち、いまだ発見されていなかった残る３人にほぼ間違いないとしている。%K%P
  but they are assumed to be the last three unaccounted for among the missing passengers and crew members on HAL18.
 但是毫无疑问，这就是ＨＡＬ１８次航班中的乘务员和乘客中，尚未被发现的三人。
-но предполагается, что это тела трёх недостающих пассажиров%NHAL18.
+но предполагается, что это тела трёх недостающих пассажиров HAL18.
 
 遺体はいずれも、朱倉岳避難小屋から東へ１ｋｍ離れた場所で見つかっており、%K
 The bodies were discovered one kilometer east of the Mount Akakura shelter cabin.%K%N

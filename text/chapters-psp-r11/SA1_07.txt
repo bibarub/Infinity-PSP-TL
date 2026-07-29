@@ -701,7 +701,7 @@ Itchy...?
 悟「ああっ！　窓の外に雪ん子が！」%K%P
 Look! There's a snow fairy outside the window!
 悟「啊！窗外有个雪人！」
-Ух ты! Там за окном %TS054Юки-онна%TE!
+Ух ты! Там за окном %TS120Юки-онна%TE!
 
 彼らの背後を指差した。%K%P
 I point behind them.

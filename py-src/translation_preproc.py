@@ -118,7 +118,7 @@ def prepareTlLines(tl_buckets, tl_suffix, game, current_filename, jp_mac_chapter
     if jp_true_lines:
       jp_true_line = jp_true_lines[i]
       if jp_true_line != jp_line:
-        eprint("JP source mismatch; expected:'{}'; was:'{}' (~{})[{}]".format(jp_true_line, jp_line, i*4, current_filename))
+        eprint("JP source mismatch; expected:'{}'; was:'{}' (~{})[{}]".format(jp_true_line, jp_line, i*5, current_filename))
         #jp_line = jp_true_line
 
     jp_tips = detectTips(jp_line)
@@ -162,7 +162,7 @@ def prepareTlLines(tl_buckets, tl_suffix, game, current_filename, jp_mac_chapter
       else:
         tl_tips = detectTips(tl_line)
         if (jp_tips != tl_tips):
-          eprint("Tips tag missing. TL: {} JP: {}; (tl)'{}' (~{})[{}]".format(tl_tips, jp_tips, tl_line, i*4, current_filename))
+          eprint("Tips tag missing. TL: {} JP: {}; (tl)'{}' (~{})[{}]".format(tl_tips, jp_tips, tl_line, i*5, current_filename))
         tl_line, tl_trailing_meta = r11.rm_trailing_control_sequence(tl_line)
         tl_line, tl_leading_meta = r11.rm_leading_control_sequence(tl_line)
         tl_line = r11.clean_translation_line(tl_line, tl_suffix, game)
@@ -206,13 +206,13 @@ def prepareTlLines(tl_buckets, tl_suffix, game, current_filename, jp_mac_chapter
     elif tl_suffix == 'cn':
       cn_tips = detectTips(cn_line)
       if (jp_tips != cn_tips):
-        eprint("Tips tag missing. CN: {} JP: {}; (cn)'{}' (~{})[{}]".format(cn_tips, jp_tips, cn_line, i*4, current_filename))
+        eprint("Tips tag missing. CN: {} JP: {}; (cn)'{}' (~{})[{}]".format(cn_tips, jp_tips, cn_line, i*5, current_filename))
       cn_line, cn_trailing_meta = r11.rm_trailing_control_sequence(cn_line)
       cn_line, cn_leading_meta = r11.rm_leading_control_sequence(cn_line)
       cn_line = r11.clean_cn_translation_line(cn_line)
 
       if not cn_line.startswith(translated_speaker):
-        eprint("Speaker mismatch, expected {} at CN line '{}' (~{})[{}]".format(translated_speaker, cn_line, i*4, current_filename))
+        eprint("Speaker mismatch, expected {} at CN line '{}' (~{})[{}]".format(translated_speaker, cn_line, i*5, current_filename))
       export_translated_line = cn_line
       trailing_control = cn_trailing_meta if cn_trailing_meta else jp_trailing_meta
       leading_control = cn_leading_meta if cn_leading_meta else jp_leading_meta

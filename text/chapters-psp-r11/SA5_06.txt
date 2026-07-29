@@ -1776,7 +1776,7 @@ Suddenly, a dark red shadow falls over the country.
 影の正体は、ぬるぬるとした巨大なモノノケであった。%K%N
 It's the shadow of an enormous, writhing specter.
 黑影的原形是一个巨大的妖怪。
-Это была тень огромного склизкого %TS078мононокэ%TE.
+Это была тень огромного склизкого %TS123мононокэ%TE.
 
 モノノケは天から舞い降りてきて、峡谷の底に向かって滑り落ちていった。%K%N
 The specter swoops down from the sky, heading for the bottom of the canyon.

@@ -181,7 +181,7 @@ Wednesday, January 11th.
 %TS078時刻%TE：午後４時１５分。%K%N
 %TS078Time%TE: 4:15 PM.
 %TS078时间%TE：下午４时１５分。
-Время: 16:15.
+%TS078Время%TE: 16:15.
 
 %TS079場所%TE：オレの部屋。%K%N
 %TS079Location%TE: My room.

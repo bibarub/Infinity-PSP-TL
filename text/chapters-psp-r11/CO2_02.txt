@@ -711,7 +711,7 @@ I... am not too certain of that myself.
 スフィア内に%TS013ＬＡＮ%TEが構築されているだけ、ということなのだろうか？%K%P
 Does she mean there's only a %TS013LAN%TE setup here in SPHIA?
 就是说在ＳＰＨＩＡ里构建了%TS013局域网%TE吗？
-Значит, компьютер подключён только к локальной сети%NSPHIA?
+Значит, компьютер подключён только к %TS013локальной сети%TE SPHIA?
 
 しかし２１世紀も１０年を過ぎた今、ネット環境のないパソコンがあるなんてことが信じられなかった。%K%P
 But this is already more than ten years into the 21st century; it's hard to believe there's still a computer that's not connected to the internet.
@@ -776,7 +776,7 @@ There's access to the SPHIA's internal LAN, but it doesn't connect to anywhere o
 念のため、%TS014ブラウザ%TEを立ち上げて、ネットに接続してみるけれど……%K%P
 Just to be sure, I open the %TS014browser%TE window and try to connect to the internet...
 抱着试试看的念头，我打开%TS014浏览器%TE，试着连接网页……
-Чтобы окончательно убедиться, я запускаю браузер, пытаюсь открыть сайт...
+Чтобы окончательно убедиться, я запускаю %TS014браузер%TE, пытаюсь открыть сайт...
 
 『接続を確立できません』と書かれたエラーが表示されるだけだった。%K%P
 But the error “Could not establish connection” is displayed on the screen.
