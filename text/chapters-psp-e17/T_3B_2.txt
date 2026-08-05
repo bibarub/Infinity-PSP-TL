@@ -386,7 +386,7 @@ CN PLACEHOLDER
 武「重大なエラーがないかどうか……レミに診てもらおうか？」%K%P
 Maybe we should get LeMMIH to check you out... to make sure there's not some serious error...
 CN PLACEHOLDER
-Может, нам стоит дать команду LeMMIH на проверку... чтобы проверить, нет ли каких серьёзных ошибок?
+Может, нам стоит дать команду LeMMIH на проверку... чтобы убедиться, нет ли каких серьёзных ошибок?
 
 空「もう……！　倉成さんったら……」%K%P
 Why, Kuranari-san...!
@@ -396,12 +396,12 @@ CN PLACEHOLDER
 空は口を尖らせ、大げさな溜め息をついてみせる。%K%P
 She pursed her mouth and took a huge sigh.
 CN PLACEHOLDER
-Она поморщилась и издала тяжёлый вздох.
+Она надулась и наигранно вздохнула.
 
 それから突然、ぴしり、とかしこまったポーズで俺の目の前に現れた。%K%P
 Then, suddenly, she appeared right in front of me in a slightly troubled pose.
 CN PLACEHOLDER
-И тут она появилась прямо передо мной в слегка озабоченной позе.
+А затем внезапно появилась прямо передо мной в серьёзной, формальной позе.
 
 その像は動かず、ひとつだった。%K%P
 She didn't move, and there was only one of her.
@@ -591,7 +591,7 @@ CN PLACEHOLDER
 空「倉成さんは、２０１０年に改正公布された『クローン法』についてご存知ですか？」%K%p
 Kuranari-san, are you aware of the 'Clone Law' that was officially amended in 2010?
 CN PLACEHOLDER
-Куранари-сан, ты знаешь про закон „О клонировании“, что был официально внесён с поправками в 2010-м году?
+Куранари-сан, ты знаешь про закон „О клонировании“, что был официально внесён с поправками в 2010 году?
 
 知ってる
 I know
@@ -1516,7 +1516,7 @@ CN PLACEHOLDER
 ６つの面にあった光点は集合してひとつになり、立方体の中央に移動する。%K%P
 The lights from the six surfaces gathered together to become one and moved to the center of the cube.
 CN PLACEHOLDER
-Светящиеся точки собрались со всех поверхностей и превратились в одну, что теперь светит в центе куба.
+Светящиеся точки собрались со всех поверхностей и превратились в одну, что теперь светит в центре куба.
 
 そして立方体の縦横に、新たなホログラムの立方体がいくつも現れた。%K%P
 And in every direction, new holograms of cubes appeared.
@@ -1576,7 +1576,7 @@ CN PLACEHOLDER
 空「ｎ次元存在にはｎ−１次元の視覚情報しか得られない」%K%P
 In an 'n' dimension, you can only obtain visual information in the dimension of 'n-1'.
 CN PLACEHOLDER
-В измерении „n“ ты можешь получить визуальную информацию об измерении „n-1“.
+В измерении n ты можешь получить визуальную информацию об измерении n-1.
 
 空「ですからＹの字の先端にいる存在は、もう一方の先端にいる存在のことに気づけないのです」%K%P
 This is why if you are on one tip of the 'Y' shape, it means that you cannot be aware of what is happening at the other tip.

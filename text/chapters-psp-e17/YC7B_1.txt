@@ -568,7 +568,7 @@ CN PLACEHOLDER
 ＢＷ「２０３４年の世界でボクを出現させる為には、決して武とココを救出してはならない」%K%P
 In order for me to appear in the year 2034, you MUST NOT rescue Takeshi and Coco now.
 CN PLACEHOLDER
-Для того, чтобы я появился в 2034-м году, ты НЕ ДОЛЖНА сейчас спасать Такэси и Коко.
+Для того, чтобы я появился в 2034 году, ты НЕ ДОЛЖНА сейчас спасать Такэси и Коко.
 
 ＢＷ「つらいけど、そうするしかないんだ……」%K%P
 I know it is painful, but that is the only way...
@@ -778,7 +778,7 @@ CN PLACEHOLDER
 ＢＷ「その世界があたかも２０１７年の世界であるかのように、錯覚させるんだ」%K%P
 You must trick him so that he will believe it is the year 2017.
 CN PLACEHOLDER
-Заставь его поверить, что тот оказался в 2017-м году.
+Заставь его поверить, что тот оказался в 2017 году.
 
 ＢＷ「……………………………………………」%K%P
 .........

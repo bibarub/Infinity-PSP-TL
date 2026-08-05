@@ -1648,6 +1648,7 @@ CN PLACEHOLDER
 What are you thinking? Sticking your finger in somebody's nose... Geez.
 CN PLACEHOLDER
 О чём ты только думала? Совать свой палец в чужой нос... Фу, как мерзко!
+// она тут не говорит "меркзо" или чего-то подобного, просто "まったくもう", что можно перевести как "good grief"
 
 優「てへへへへ」%K%P
 Heeheehee〜
@@ -1662,12 +1663,12 @@ CN PLACEHOLDER
 いや、別の意味で『痛い』やり取りではあったんだけど……。%K%P
 It was a “painful” exchange in a different meaning of the word, but...
 CN PLACEHOLDER
-Это была «мучительная», в ином понимании этого слова, беседа, но...
+Хотя можно, наверное, сказать, что она передалась кое-кому другому...
 
 すっかり落ち着きを取り戻したぼくは、ふたりと並んで出口を目指した。%K%P
 After I had calmed down again, we went to find an exit.
 CN PLACEHOLDER
-После того, как я снова успокоился, мы решили поискать выход.
+После того, как я успокоился, мы решили поискать выход.
 
 当然のことながら沙羅は、変貌した館内の様子に、驚きを隠せないようだった。%K%P
 Understandably, Sara couldn't hide her surprise when she saw how the complex had changed.
@@ -1682,47 +1683,47 @@ CN PLACEHOLDER
 沙羅「なんでどこもかしこも水浸しなの？」%K%P
 Why is this whole place flooded?
 CN PLACEHOLDER
-Почему всё вокруг затоплено?
+Почему всё затоплено?
 
 沙羅「それどころか、誰もいないみたいだけど……」%K%P
 And there doesn't seem to be anyone around...
 CN PLACEHOLDER
-И почему-то вокруг никого нет...
+И вокруг что-то ни души...
 
 歩きながら、優は隣の沙羅に向かって、これまでの経緯を説明し始めた。%K%P
 While we walked, You brought Sara up to speed with the situation.
 CN PLACEHOLDER
-Пока мы шли, Ю рассказывала Саре последовательность произошедших событий.
+Пока мы шли, Ю рассказывала Саре, что произошло за это время.
 
 『優がＬｅＭＵでバイトしていること』%K%P
 “You was working at LeMU on a part-time basis.”
 CN PLACEHOLDER
-«Ю подрабатывала в LeMU.»
+О том, что она подрабатывала в LeMU.
 
 『ぼくが売店で倒れたこと』%K%P
 “I collapsed at the kiosk.”
 CN PLACEHOLDER
-«Я свалился возле лавки.»
+О том, как я свалился возле лавки.
 
 『警報が発令され、ＬｅＭＵの中から誰もいなくなり、浸水が始まったこと』%K%P
 “The warning alarm sounded, everyone disappeared from LeMU, and the flooding started.”
 CN PLACEHOLDER
-«Прозвучала сирена, все исчезли из LeMU, и начался потоп.»
+И как прозвучала сирена, после которой все эвакуировались из LeMU, и начался потоп.
 
 沙羅は唖然とし、優の話に聞き入っていた。%K%P
 Stunned, Sara listened to You.
 CN PLACEHOLDER
-Оглушённая, Сара слушала Ю.
+Сара в шоке, но продолжает слушать Ю.
 
 そうして、話が終わってからしばらく経った頃……。%K%P
 A while after You had finished the story...
 CN PLACEHOLDER
-После того, как Ю закончила свой рассказ...
+А через время после того, как Ю закончила свой рассказ...
 
 優は突然、何の前触れもなく、思いついたようにこんなことを言った。%K%P
 As if she had just thought of it, You suddenly blurted out...
 CN PLACEHOLDER
-Она неожиданно выдала...
+Она внезапно выдала...
 
 優「それにしても、不思議と言えば不思議よねぇ……」%K%P
 But you know what's really strange...
@@ -1732,7 +1733,7 @@ CN PLACEHOLDER
 沙羅「えっ？　何がですか？」%K%P
 What?
 CN PLACEHOLDER
-Что?
+М-м? Что?
 
 優「今の、この少年の発言……」%K%P
 What this kid was just saying...
@@ -1772,7 +1773,7 @@ CN PLACEHOLDER
 優「これが、逆ならわかるよ？」%K%P
 If it were the other way around, it'd make sense.
 CN PLACEHOLDER
-Если бы ситуация была обратной, тогда ещё понятно.
+Ладно ещё, если бы было наоборот.
 
 優「マヨがこの少年のことを知ってて……でも少年は、記憶喪失だからマヨのことを忘れちゃってて……」%K%P
 If you knew something about him, but he'd forgotten you because of his amnesia...
@@ -1788,6 +1789,7 @@ CN PLACEHOLDER
 But this is like going backward on a one-way street.
 CN PLACEHOLDER
 Но это похоже на движение вспять по односторонней улице.
+// мне не сильно нравится аналогия и как это написано, но лучше придумать не могу --bibarub
 
 沙羅「一方通行、ねぇ……」%K%P
 One-way street, huh...
@@ -1827,17 +1829,19 @@ CN PLACEHOLDER
 沙羅「うむ、そういうことです」%K%P
 Yup. That's exactly it.
 CN PLACEHOLDER
-Ага. В яблочко.
+Ага, в яблочко.
 
 沙羅「ねえ？　そうなんでしょ？　きみ、私のストーカーだったんでしょ？」%K%P
 Hey, kid, is that it? Did you stalk me in the past?
 CN PLACEHOLDER
-Эй. Я права? Ты преследовал меня?
+Эй. Я права? Ты меня сталкерил?
+// dsp2003: Эй. Я права? Ты преследовал меня?
+// я думаю, такая замена актуальна --bibarub
 
 少年「ぼくに記憶がないからって、勝手なこと言わないでよ！」%K%P
 Don't go making things up just because I lost my memory!
 CN PLACEHOLDER
-;Мальчик«То, что я потерял память, не делает меня сталкером!»%K%P
+;Мальчик«Не надо придумывать всякой ерунды потому, что я потерял память!»%K%P
 
 沙羅「違うの？」%K%P
 Am I wrong?
@@ -1847,7 +1851,7 @@ CN PLACEHOLDER
 少年「違うよ！」%K%P
 Yes!
 CN PLACEHOLDER
-;Мальчик«Да!»%K%P
+;Мальчик«Нет, не права!»%K%P
 
 優「ねえ、マヨ？　もう一度だけ聞くけど……」%K%P
 Mayo, I'll only ask you one more time...
@@ -1857,7 +1861,7 @@ CN PLACEHOLDER
 優「ほんとにこの少年に、見覚えないの？」%K%P
 Are you really sure that you don't remember seeing this kid before?
 CN PLACEHOLDER
-Ты действительно уверена, что раньше нигде не встречала этого малого?
+Ты точно уверена, что раньше нигде не встречала этого малого?
 
 沙羅「見覚え、ですか……？」%K%P
 Remember him...?
@@ -1882,7 +1886,7 @@ CN PLACEHOLDER
 沙羅「そう言われてみれば、なんとなく……」%K%P
 Well, now that you mention it...
 CN PLACEHOLDER
-Ну, теперь, когда ты мне это сказала...
+Слушай, а если так подумать...
 
 少年「えっ？」%K%P
 Huh?
@@ -1902,12 +1906,12 @@ CN PLACEHOLDER
 沙羅「そんなこと、あるわけないですから」%K%P
 There's no reason I should remember him.
 CN PLACEHOLDER
-Нет причин, по которым я бы могла его вспомнить.
+Так не бывает.
 
 ――『あるわけない』？？？%K%P
 “No reason”?
 CN PLACEHOLDER
-Нет причин???
+«Не бывает»?..
 
 どういう意味だろう？%K%P
 I wondered what she meant by that.
@@ -1917,32 +1921,32 @@ CN PLACEHOLDER
 本当は沙羅、ぼくのことを知ってるんじゃないのか？%K%P
 I thought that maybe she really did know who I was.
 CN PLACEHOLDER
-Я подумал, что она действительно могла меня узнать.
+Может, Сара меня всё-таки узнала?
 
 ぼくの心は再びグラグラと揺れ始めた。%K%P
 My heart started to pound again.
 CN PLACEHOLDER
-Моё сердце снова тяжело забилось.
+Сердце снова затрепетало.
 
 さっき、沙羅を初めて見たときのことを思い出す。%K%P
 I remembered when I had seen Sara for the first time a little bit ago.
 CN PLACEHOLDER
-Я вспомнил, как недавно впервые увидел Сару. То, что я почувствовал...
+Я вспомнил, как впервые увидел Сару.
 
 あのとき、ぼくは確かに懐かしさのようなものを感じた。%K%P
 I had felt something along the lines of nostalgia.
 CN PLACEHOLDER
-Это похоже на глубокую ностальгию. Дежа-вю.
+Тогда я почувствовал что-то похожее на ностальгию.
 
 その光景を、前にもどこかで見たような気がした。%K%P
 For some reason, I felt that I had witnessed the same scene somewhere before.
 CN PLACEHOLDER
-Почему-то я чувствую, что когда-то уже видел ту же самую сценку, в прошлом.
+Мне показалось, что я когда-то уже видел ту сценку.
 
 やっぱりぼくらは、過去に会ったことがあるのかもしれない。%K%P
 Maybe I had met her in the past after all.
 CN PLACEHOLDER
-В конце концов, может, я когда-то уже видел Сару?
+Может, я всё-таки знал Сару в прошлом.
 
 ただ確信を持つことはどうしてもできなかった。%K%P
 But I couldn't be sure of it.
@@ -1952,7 +1956,7 @@ CN PLACEHOLDER
 たとえ名前を知っていたとしても、懐かしさを感じたとしても……ぼくには記憶がなかったから。%K%P
 Even if I did know a name, or even feel nostalgic... it wasn't in my memory.
 CN PLACEHOLDER
-Несмотря на то, что я знаю её имя, или даже чувствую ностальгию... в памяти лишь пустота.
+Хоть я и знаю её имя и чувствую ностальгию... никаких других воспоминаний у меня нет.
 
 沙羅の笑顔はとても遠くて、いくら手を伸ばしてみても、触れることさえできそうになかった。%K%P
 Sara's smile felt far away, so that no matter how much I reached out for it, I would never be able to touch it...
@@ -1969,17 +1973,17 @@ CN PLACEHOLDER
 少年「やっぱり、気のせいだったんだ……」%K%P
 I guess it was just my mind playing tricks on me...
 CN PLACEHOLDER
-;Мальчик«Полагаю, у меня просто разыгралось воображение...»%K%P
+;Мальчик«Наверное, у меня просто разыгралось воображение...»%K%P
 
 少年「ううん……なんでもないよ」%K%P
 No... No big deal.
 CN PLACEHOLDER
-;Мальчик«Нет... ничего страшного.»%K%P
+;Мальчик«Нет... не важно.»%K%P
 
 優「なんでもない？　いきなり懸垂始めて、なんでもないことはないでしょう〜」%K%P
 No big deal? You suddenly start doing chin-ups on the elevator, and then you say it's no big deal?
 CN PLACEHOLDER
-Ничего страшного? Ты без видимой причины стал осматривать лифт и теперь говоришь „ничего страшного“?
+Не важно? Ты ни с того ни с чего тут подтягиваешься на лифте и теперь говоришь „не важно“?
 
 少年「ぼくの気のせいだったんだってば。もう気にしないでよ」%K%P
 It must have just been my imagination. Forget about it.
@@ -1989,12 +1993,12 @@ CN PLACEHOLDER
 優「はぁ、やれやれ……。どうして最近の若いもんは、こう素直じゃないんだろうねぇ」%K%P
 Now, now... Why aren't all youngsters as easygoing as you these days?
 CN PLACEHOLDER
-Ну, ну... Почему все подростки в последнее время такие трудные?
+Блин... Ну почему все подростки нынче такие трудные?
 
 大仰に肩をすくめる優。%K%P
 You shrugged her shoulders in an exaggerated way.
 CN PLACEHOLDER
-Ю раздражительно пожала плечами.
+Ю наигранно пожала плечами.
 
 マヨ「…………」%K%P
 ...
@@ -2009,7 +2013,7 @@ CN PLACEHOLDER
 マヨは、時折チラチラとぼくの方をうかがいながら、しかし目が合うと、すぐに視線をそらしてしまった。%K%P
 Mayo would glance at me from time to time, but when our eyes met she would look away.
 CN PLACEHOLDER
-Майо поглядывает на меня время от времени, но отворачивается, едва наши взгляды пересекаются.
+Она поглядывает на меня время от времени, но отворачивается, едва наши взгляды пересекаются.
 
 マヨ「あ、あのぉ……」%K%P
 Uhh... Um...
@@ -2024,7 +2028,7 @@ CN PLACEHOLDER
 優「えっ？　ああ、この少年？」%K%P
 Huh? Oh, this guy?
 CN PLACEHOLDER
-А? Ах, этот парень?
+А? А, этот парняга?
 
 優「彼は……ただのお客さん」%K%P
 He's... just a visitor.
@@ -2044,7 +2048,7 @@ CN PLACEHOLDER
 マヨの挨拶は、どこかぎこちなかった。%K%P
 There was something a little off about Mayo's greeting.
 CN PLACEHOLDER
-В приветствии Майо прозвучала странная нотка.
+Приветствие Майо было каким-то натянутым.
 
 優「で、こっちがマヨ」%K%P
 And this is Mayo.
@@ -2064,17 +2068,17 @@ CN PLACEHOLDER
 人のことは言えない。ぼくが口にした言葉も、ちょっと固くて不自然だった。%K%P
 But then again, my words were pretty stiff as well.
 CN PLACEHOLDER
-Однако мои слова тоже звучат притянутыми за уши.
+Хотя и моё приветствие прозвучало довольно натянуто.
 
 優「ほんとはね？　松永沙羅って言うんだけど……」%K%P
 But her real name is Matsunaga Sara...
 CN PLACEHOLDER
-Но её настоящее имя – Мацунага Сара...
+Но по-настоящему её зовут Мацунага Сара...
 
 少年「沙羅？　……じゃあ、マヨって言うのは？」%K%P
 Sara...? So why Mayo?
 CN PLACEHOLDER
-;Мальчик«Сара? А почему Майо?»%K%P
+;Мальчик«Сара?.. А почему Майо?»%K%P
 
 優「マツナガサラ」%K%P
 Matsunaga Sara.
@@ -2089,7 +2093,7 @@ CN PLACEHOLDER
 優「ツナサラダと言えば？」%K%P
 A tuna salad is loaded with...?
 CN PLACEHOLDER
-А чем, по твоему, заправляют салат с тунцом?..
+А чем заправляют салат с тунцом?..
 
 沙羅「マヨネーズ……なんだって、なっきゅ先輩にとっては」%K%P
 Mayonnaise... At least for Nakkyu-senpai it is.
@@ -2099,7 +2103,7 @@ CN PLACEHOLDER
 少年「ふ〜ん、なるほどねぇ」%K%P
 Ha. I see.
 CN PLACEHOLDER
-;Мальчик«Ха. Понятно.»%K%P
+;Мальчик«Хм-м. Понятно.»%K%P
 
 とは言いながらも、いまいちピンと来なかった。%K%P
 I said that, but I still didn't really get it.
@@ -2109,12 +2113,12 @@ CN PLACEHOLDER
 どちらかと言えば、ツナサラダにはドレッシングの方がふさわしいような気がする。%K%P
 I had the feeling that simple salad dressing was better suited to tuna salad.
 CN PLACEHOLDER
-По мне, простая салатная заправка больше подходит салату с тунцом, чем майонез.
+По мне, специальная салатная заправка больше подходит салату с тунцом, чем майонез.
 
 まあ、そんなことはどうでもいいんだけど。%K%P
 Well, whatever. It wasn't important.
 CN PLACEHOLDER
-А вообще, какая разница? Сейчас это не важно.
+Но ладно, сейчас это не особо важно.
 
 沙羅「ところで……えーっと……名前は？」%K%P
 By the way... Um... Your name is...?
@@ -2124,7 +2128,7 @@ CN PLACEHOLDER
 少年「な、名前……？」%K%P
 N-Name...
 CN PLACEHOLDER
-;Мальчик«Зо... зовут...»%K%P
+;Мальчик«Зо... зовут?..»%K%P
 
 沙羅「うん。きみの、名前」%K%P
 Yeah. Your name.
@@ -2134,17 +2138,17 @@ CN PLACEHOLDER
 少年「ぼ、ぼくは……ぼくの、名前は……」%K%P
 My... My... My name is...
 CN PLACEHOLDER
-;Мальчик«Моё... моё... моё имя...»%K%P
+;Мальчик«М-моё... моё... моё имя...»%K%P
 
 優「思い出せないんだってさ」%K%P
 He says he can't remember.
 CN PLACEHOLDER
-Он сказал, что не помнит.
+Он говорит, что не помнит.
 
 沙羅「は？」%K%P
 What?
 CN PLACEHOLDER
-Чего?
+Что?
 
 優「記憶喪失なの、彼」%K%P
 Amnesia, that's what.
@@ -2159,7 +2163,7 @@ CN PLACEHOLDER
 沙羅「……そうなの？」%K%P
 ...Really?
 CN PLACEHOLDER
-...правда?
+...Правда?
 
 少年「う、うん……」%K%P
 Ye-Yes...
@@ -2169,7 +2173,7 @@ CN PLACEHOLDER
 沙羅「へぇ〜、すごいじゃん」%K%P
 Oh wow. Cool.
 CN PLACEHOLDER
-Ого, круто!
+Ого, как круто!
 
 少年「すごい？」%K%P
 Wow?
@@ -2189,7 +2193,7 @@ CN PLACEHOLDER
 沙羅「ほら、例えばさぁ……闇の組織に追われてる、暗殺者みたいな」%K%P
 Like maybe... You could be being hunted by an underground organization, or assassins, or something.
 CN PLACEHOLDER
-Может быть... За тобой охотится какая-нибудь подпольная организация или наёмные убийцы?
+Может быть... за тобой охотится какая-нибудь подпольная организация или наёмные убийцы?
 
 少年「暗殺者……」%K%P
 Assassins...
@@ -2209,22 +2213,22 @@ CN PLACEHOLDER
 沙羅「ふーん、記憶喪失かぁ……」%K%P
 Huh. Amnesia...
 CN PLACEHOLDER
-Хм-м. Амнезия?..
+Амнезия, значит...
 
 沙羅「ほんとにあるんだね？　そういうの」%K%P
 You really do have it? That amnesia thing.
 CN PLACEHOLDER
-У тебя действительно амнезия?
+У тебя правда амнезия?
 
 沙羅は物珍しそうに、ぼくのことをしげしげと眺めていた。%K%P
 Sara kept staring at me as if I were something exotic.
 CN PLACEHOLDER
-Сара продолжает пялиться на меня как на диковинного зверя.
+Сара продолжает пялиться на меня как на что-то неземное.
 
 地上に舞い降りた天使――。%K%P
 Like I were an angel...
 CN PLACEHOLDER
-Будто я какой-нибудь ангел...
+Будто я какой-то ангел...
 
 その背中に翼はなかった。%K%P
 Replete with a set of wings on my back.
@@ -2234,17 +2238,17 @@ CN PLACEHOLDER
 さっき感じた神々しさも、懐かしさも、いつの間にか幻のように消え失せていた。%K%P
 The divine and nostalgic feeling from before had vanished like an illusion.
 CN PLACEHOLDER
-Ностальгические чувства незаметно улетучились.
+Божественные и ностальгические чувства незаметно улетучились.
 
 ３人で出口を目指す。%K%P
 The three of us aimed for an exit.
 CN PLACEHOLDER
-Мы втроём пошли к выходу.
+Мы втроём решили поискать выход.
 
 当然のことながら沙羅は、変貌した館内の様子に、驚きを隠せないようだった。%K%P
 Understandably, Sara couldn't hide her surprise when she saw how the complex had changed.
 CN PLACEHOLDER
-Мы идём молча, но Сара не может скрыть удивления от того, во что превратился комплекс.
+Конечно, Сара не может скрыть удивления от того, во что превратился комплекс.
 
 沙羅「何これ？」%K%P
 What's this?
@@ -2254,7 +2258,7 @@ CN PLACEHOLDER
 沙羅「なんでどこもかしこも水浸しなの？」%K%P
 Why is this whole place flooded?
 CN PLACEHOLDER
-Почему всё вокруг затоплено?
+Почему всё затоплено?
 
 沙羅「それどころか、誰もいないみたいだけど……」%K%P
 And there doesn't seem to be anyone around...
@@ -2264,37 +2268,37 @@ CN PLACEHOLDER
 歩きながら、優は隣の沙羅に向かって、これまでの経緯を説明し始めた。%K%P
 While we walked, You brought Sara up to speed with the situation.
 CN PLACEHOLDER
-Пока мы шли, Ю взяла Сару под руку и заставила ускорить шаг.
+Пока мы шли, Ю рассказывала Саре, что произошло за это время.
 
 『優がＬｅＭＵでバイトしていること』%K%P
 “You was working at LeMU on a part-time basis.”
 CN PLACEHOLDER
-Она рассказала, что работает в LeMU.
+О том, что она подрабатывала в LeMU.
 
 『ぼくが売店で倒れたこと』%K%P
 “I collapsed at the kiosk.”
 CN PLACEHOLDER
-Как я свалился у лавки.
+О том, как я свалился возле лавки.
 
 『倒れたぼくを救護室に運び込んだこと』%K%P
 “After falling down, I was hauled to the infirmary.”
 CN PLACEHOLDER
-Что после этого меня дотащили в лазарет.
+Как меня пришлось после этого тащить в лазарет.
 
 それらを語り終えてから、優は続けてこんなことを言った。%K%P
 After finishing the story, You went on.
 CN PLACEHOLDER
-После того, как Ю закончила свой рассказ...
+А потом, закончив свой рассказ, Ю сказала...
 
 優「そしたらね？　突然『警報』が鳴り響いて……」%K%P
 And then, you know, suddenly the alarm started ringing...
 CN PLACEHOLDER
-А затем, вдруг завыла сирена...
+А затем... вдруг завыла сирена...
 
 少年「警報？？？」%K%P
 Alarm?
 CN PLACEHOLDER
-;Мальчик«Сирена?»%K%P
+;Мальчик«Сирена?..»%K%P
 
 優「あれ？　まだきみには話してなかったっけ？」%K%P
 What? I didn't tell you about this yet?
@@ -2314,12 +2318,12 @@ CN PLACEHOLDER
 優「原因はわからないけど……『とにかく皆さん逃げて下さ〜い』って感じの……そんな内容だったと思う」%K%P
 I don't know why... but it said, 'Anyway, everyone please escape', or something like that.
 CN PLACEHOLDER
-Я не знаю, почему... но механический голос сказал: „Так или иначе, пожалуйста, спасайтесь“. Примерно так.
+Я не знаю, почему... но механический голос сказал: „Так или иначе, пожалуйста, бегите отсюда“. Примерно так.
 
 優「マヨは知ってるよねぇ？」%K%P
 Mayo, you heard it, right?
 CN PLACEHOLDER
-Майо, ты ведь её слышала, верно?
+Майо, ты ведь его слышала, верно?
 
 沙羅「はい」%K%P
 Yes.
@@ -2329,17 +2333,17 @@ CN PLACEHOLDER
 沙羅「いきなりエレベーターが止まって……中に閉じ込められちゃって……」%K%P
 The elevator suddenly stopped... and I got stuck inside...
 CN PLACEHOLDER
-А потом лифт остановился... и я оказалась замурованной...
+А потом лифт остановился... и я не могла из него выбраться...
 
 沙羅「そのすぐ後だったかな？　警報が聞こえたのは」%K%P
 I think it was right after that when I heard the alarm.
 CN PLACEHOLDER
-По-моему, это случилось сразу как я услышала сирену.
+По-моему, это случилось сразу, как я услышала сирену.
 
 優「でね？　そのとき救護室には、私の他に３人の専属スタッフがいたんだけど……」%K%P
 And then there were three other staff members and myself in the infirmary...
 CN PLACEHOLDER
-В тот момент в лазарете, помимо меня, были ещё трое сотрудников...
+В тот момент в лазарете помимо меня были ещё трое сотрудников...
 
 優「その３人は『外の様子を見て来る』って言って出て行ったきり……待てど暮らせど戻って来なかったの」%K%P
 The other three said they would go out to check what was going on and never came back. I waited, but nobody returned.
@@ -2349,7 +2353,7 @@ CN PLACEHOLDER
 優「部屋に残されたのは、私ときみのふたりだけ……」%K%P
 The only two people left in the room were us two...
 CN PLACEHOLDER
-Единственные, кто остались в комнате, были ты да я...
+И в комнате остались только мы с тобой...
 
 少年「…………」%K%P
 .........
@@ -2364,27 +2368,27 @@ CN PLACEHOLDER
 優「それにね？　そのとき私、実はあんまり心配してなかったんだ」%K%P
 Besides, at that point, I wasn't really even that worried.
 CN PLACEHOLDER
-Тогда я вообще не беспокоилась.
+И вообще я тогда особо не беспокоилась.
 
 優「きっと、子供かなんかがイタズラして、非常ベルを押しちゃったんだろうって……そのぐらいにしか思ってなかったの」%K%P
 I figured probably some kid had just gone and pushed the emergency alarm button... That was all I thought was going on.
 CN PLACEHOLDER
-Думала, что какой-нибудь мальчишка заблудился и нажал тревожную кнопку... вот и всё.
+Думала, что какой-нибудь мальчишка забавы ради нажал на тревожную кнопку... вот и всё.
 
 沙羅「いくらなんでも子供のイタズラで、緊急避難警報は発令されないと思いますけど……」%K%P
 I figured that even with a prank, it must be serious for them to sound the emergency evacuation warning...
 CN PLACEHOLDER
-И тут до меня дошло, что из-за обычной шалости они бы не стали оглашать предупреждение об эвакуации...
+Не думаю, что из-за обычной шалости они бы стали оглашать предупреждение об эвакуации...
 
 優「今考えれば、確かにそう思うけど……」%K%P
 Well, now that you mention it, I suppose so...
 CN PLACEHOLDER
-Ну, теперь, когда мы всё знаем...
+Ну вообще, если так подумать, да, но...
 
 優「でも、そのときの私は、なんて言うか……」%K%P
 But at that time I was just, I don't know...
 CN PLACEHOLDER
-Но в тот момент я просто, не знаю...
+В тот момент я просто, не знаю...
 
 優「この少年のことで、頭がいっぱいだったのよ……」%K%P
 I was worried about this kid...
@@ -2409,17 +2413,17 @@ CN PLACEHOLDER
 後の話は、すべてぼくの知っている内容だった。%K%P
 Everything after that was old news to me.
 CN PLACEHOLDER
-Всё остальное звучало для меня как старая песня.
+Всё остальное я уже знаю.
 
 『閉鎖された水密扉のこと』%K%P
 The closing of the watertight doors.
 CN PLACEHOLDER
-Закрывавшиеся водоупорные двери.
+То, как закрылись водоупорные двери.
 
 『浮島へと続く非常階段を探していること』%K%P
 Our search for the emergency stairs to the floating island.
 CN PLACEHOLDER
-Наши тщетные поиски выхода на поверхность.
+Как мы ходили по аварийным лестницам в попытке выйти на поверхность.
 
 それからもちろん『浸水に巻き込まれたこと』も、優は沙羅に詳しく教えた。%K%P
 And of course, You also told Sara about how we got washed away by flood water...
@@ -2434,7 +2438,7 @@ CN PLACEHOLDER
 ぼく、優、沙羅の３人は、ドリットシュトックの通路という通路、扉という扉をくまなく調べて行った。%K%P
 You, Sara and I did a complete check of Dritter Stock's corridors.
 CN PLACEHOLDER
-Мы с Ю и Сарой прекратили поиски в коридорах Дритте Шток.
+Мы с Ю и Сарой полностью осмотрели коридоры Дритте Шток.
 
 けれど……。%K%P
 But...
@@ -2449,32 +2453,32 @@ CN PLACEHOLDER
 行き止まり…………。%K%P
 And a dead end...
 CN PLACEHOLDER
-И снова тупик...
+И снова тупик......
 
 行き止まり………………。%K%P
 And a dead end...
 CN PLACEHOLDER
-И снова тупик...
+И снова тупик.........
 
 行き止まり……………………。%K%P
 And a dead end...
 CN PLACEHOLDER
-И снова тупик...
+И снова тупик............
 
 行き止まり…………………………。%K%P
 And a dead end...
 CN PLACEHOLDER
-И снова тупик...
+И снова тупик................
 
 行き止まり………………………………。%K%P
 After dead end...
 CN PLACEHOLDER
-После тупика...
+И снова тупик....................
 
 そうして最後にたどりついた場所は……%K%P
 And the final place that we ended up...
 CN PLACEHOLDER
-Мы наконец пришли к этому месту...
+По итогу мы пришли к этому месту...
 
 狭い通路の突き当たり――小さな扉の前だった。%K%P
 Was in front of a small door at the end of a narrow corridor.
@@ -2494,32 +2498,32 @@ CN PLACEHOLDER
 優「さあね？　こんなとこ、私も初めて来たから……」%K%P
 Hmmm. Good question. This is the first time I've been here...
 CN PLACEHOLDER
-А фиг его знает. Хороший вопрос. Я здесь впервые...
+А фиг его знает. Я здесь впервые...
 
 言いながら、優はドアの取っ手に手をかけた。%K%P
 Saying that, You took hold of the door knob.
 CN PLACEHOLDER
-С этими словами Ю нажала кнопку на двери.
+С этими словами Ю взялась за дверную ручку.
 
 開かない……。%K%P
 It didn't open...
 CN PLACEHOLDER
-Она не открылась...
+Дверь не открылась...
 
 ドアはびくともしなかった。%K%P
 It didn't even budge.
 CN PLACEHOLDER
-Она даже не двинулась.
+Даже не сдвинулась с места.
 
 続けて、脇についたテンキーをデタラメに叩く。%K%P
 Next she started tapping randomly on the ten-key display next to the door.
 CN PLACEHOLDER
-Ю стала набирать на дверной панели случайную белиберду.
+Ю стала от балды тыкать по кодовой панели рядом с дверью.
 
 そんなことをしても無駄だということは、優も知っているんだろうけど……。%K%P
 You should have known that it was a waste of energy...
 CN PLACEHOLDER
-Наверное, она понимает, что это пустая трата энергии...
+Наверное, она понимает, что это ни к чему не приведёт...
 
 優「はぁ……」%K%P
 Haaaaaa...
@@ -2564,17 +2568,17 @@ CN PLACEHOLDER
 その音を最後に、ぼくらは口をつぐんでしまった。%K%P
 Following the sound, we went silent.
 CN PLACEHOLDER
-Мы молча проследили за звуком.
+После этого звука никто из нас не проронил ни слова.
 
 重い空気が流れる。%K%P
 The atmosphere around us was heavy.
 CN PLACEHOLDER
-Воздух вокруг кажется тяжёлым.
+В воздухе повисла тяжёлая атмосфера.
 
 優も沙羅も、表情は疲れ果てていて、もはや言葉も出ないといった感じだった。%K%P
 Both You and Sara wore tired expressions, as if they couldn't even be bothered to speak anymore.
 CN PLACEHOLDER
-У Ю и Сары смертельно усталые выражения лиц, они не в состоянии произнести ни слова.
+У Ю и Сары смертельно усталые выражения лиц. Они уже не в состоянии разговаривать.
 
 陰鬱な沈黙……。%K%P
 It was a gloomy silence.
@@ -2584,37 +2588,37 @@ CN PLACEHOLDER
 ぼくはそれを振り払うかのように、こう告げた。%K%P
 To try to lighten things up, I said...
 CN PLACEHOLDER
-Чтобы хоть как-то взбодрить их, я сказал...
+Чтобы хоть как-то их взбодрить, я сказал...
 
 少年「ねえ？　どっちにしろ、こんなとこにいたってしょうがないよ！」%K%P
 Hey, anyway, it doesn't do us any good to just stand around here!
 CN PLACEHOLDER
-;Мальчик«Эй, всё равно, если мы будем просто здесь стоять, то ничего хорошего из этого не выйдет!»%K%P
+;Мальчик«Эй, слушайте. Сейчас нет никакого смысла просто здесь стоять!»%K%P
 
 少年「何か、方法を考えなくちゃ！」%K%P
 We've gotta think of something!
 CN PLACEHOLDER
-;Мальчик«Мы должны о чём-то подумать!»%K%P
+;Мальчик«Надо что-то придумать!»%K%P
 
 沙羅「方法？」%K%P
 Something?
 CN PLACEHOLDER
-О чём?
+Придумать?
 
 少年「脱出する為の方法だよ！」%K%P
 A way to escape!
 CN PLACEHOLDER
-;Мальчик«О том, как выбраться отсюда!»%K%P
+;Мальчик«Нам надо придумать, как отсюда выбраться!»%K%P
 
 優「なにか、名案でも？」%K%P
 You have any bright ideas?
 CN PLACEHOLDER
-У тебя есть идеи?
+И что ты предлагаешь?
 
 少年「そうだなぁ……例えば……」%K%p
 Well, let's see... How about...
 CN PLACEHOLDER
-;Мальчик«Так, посмотрим... как насчёт того, чтобы...»%K%p
+;Мальчик«Так, посмотрим... ну, можно...»%K%p
 
 外部へ連絡してみる、とか
 Try to contact the outside
@@ -2629,7 +2633,7 @@ CN PLACEHOLDER
 少年「例えばさぁ、外部へ連絡してみる、とか」%K%P
 For example, we could try to contact the outside or something.
 CN PLACEHOLDER
-;Мальчик«Например, мы можем попытаться связаться с внешним миром или с кем-нибудь ещё.»%K%P
+;Мальчик«Например, мы можем попытаться связаться с внешним миром.»%K%P
 
 沙羅「どうやって？　携帯も通じないのに……」%K%P
 How? Cell phones don't even work...
@@ -2639,7 +2643,7 @@ CN PLACEHOLDER
 少年「携帯なんか無くったって、ＬｅＭＵには、いくらでも通信手段があるはずでしょ？」%K%P
 Even without a cell phone, LeMU must have other means of communicating, right?
 CN PLACEHOLDER
-;Мальчик«В конце концов, в LeMU кроме мобильников должны быть и другие средства связи, ведь так?»%K%P
+;Мальчик«В конце концов, в LeMU кроме мобильников должны быть и другие средства связи, разве нет?»%K%P
 
 優「通信、手段……？」%K%P
 Means... of communication...?
@@ -2649,12 +2653,12 @@ CN PLACEHOLDER
 優「そっかぁ――制御室ね！」%K%P
 Oh, right! The control room!
 CN PLACEHOLDER
-Ну, конечно! Центр управления!
+Ой, ну конечно! Центр управления!
 
 少年「例えばさぁ、それ以外の脱出口を探してみる、とか」%K%P
 For example, we could look for other exits or something.
 CN PLACEHOLDER
-;Мальчик«Например, мы бы могли поискать другие выходы.»%K%P
+;Мальчик«Например, мы можем поискать другие выходы.»%K%P
 
 沙羅「それ以外？　きみ、わかってる？　ここは海の中なんだよ？」%K%P
 Anything else? Hello? You know we're in the middle of the ocean, right?
@@ -2674,17 +2678,17 @@ CN PLACEHOLDER
 少年「ここが海の中なんだったら、外気を取り入れるダクトとかがあると思うんだ。だから……」%K%P
 If this is the middle of the ocean, then there must be a duct for outside air. So...
 CN PLACEHOLDER
-;Мальчик«Если мы посреди океана, значит, здесь предусмотрена циркуляция воздуха. Так...»%K%P
+;Мальчик«Раз мы под водой, значит, здесь предусмотрена циркуляция воздуха. Тогда...»%K%P
 
 沙羅「あっ、なるほど。その換気用のダクトを伝って、脱出しようってわけね？　よく映画でやってるみたいに」%K%P
 Oh, I see. So you're saying that we use that ventilation duct to escape? Like they always do in movies.
 CN PLACEHOLDER
-А, ясно. То есть ты предлагаешь пролезть в вентиляцию, чтобы выбраться отсюда? Так обычно делают в фильмах.
+А, ясно. То есть ты предлагаешь пролезть в вентиляцию, чтобы выбраться отсюда? Прямо как в кино.
 
 少年「そう。そういうこと」%K%P
 Yeah. That's what I mean.
 CN PLACEHOLDER
-;Мальчик«Да. Именно это я имел в виду.»%K%P
+;Мальчик«Да. Именно это я и имел в виду.»%K%P
 
 優「残念だけど、それは無理よ」%K%P
 Sorry, but there's no way that's possible.
@@ -2694,7 +2698,7 @@ CN PLACEHOLDER
 少年「えっ、どうして？」%K%P
 Huh? Why not?
 CN PLACEHOLDER
-;Мальчик«Почему?»%K%P
+;Мальчик«И почему?»%K%P
 
 優「外部に通じるダクトは、人が通れるような大きさじゃないの」%K%P
 The ducts that go to the outside aren't big enough for people to pass through.
@@ -2704,12 +2708,13 @@ CN PLACEHOLDER
 少年「そ、そうなんだ……」%K%P
 No... No way...
 CN PLACEHOLDER
-;Мальчик«Нет... Не может быть...»%K%P
+;Мальчик«В-вот как...»%K%P
 
 ガックリと肩を落とすぼく。%K%P
 My shoulders slumped in disappointment.
 CN PLACEHOLDER
-Я разочарованно пожал плечами.
+Я разочарованно поник плечами.
+// не уверен, что так можно сказать
 
 沙羅の顔にも、落胆の色が表われている。%K%P
 Sara's face was also covered in dejection.
@@ -2719,7 +2724,8 @@ CN PLACEHOLDER
 沙羅「せめて、外にいる友達と連絡がとれたらいいんだけど……」%K%P
 I wish I could at least contact my friends outside...
 CN PLACEHOLDER
-Если бы я могла хотя бы связаться со своими друзьями, что остались снаружи...
+Если бы я хотя бы могла связаться с друзьями, что остались снаружи...
+// тут сара использует "外" - "the outside", что и есть "внешний мир"
 
 優「外と、連絡……？」%K%P
 Contact outside...?
@@ -2729,12 +2735,12 @@ CN PLACEHOLDER
 沙羅「でも、携帯も通じないんだし……」%K%P
 But cell phones don't even work...
 CN PLACEHOLDER
-Но здесь не работают даже мобильники...
+Но мобильники здесь не работают...
 
 優「そっかぁ――制御室！」%K%P
 Oh, right! The control room!
 CN PLACEHOLDER
-Ну, конечно! Центр управления!
+Ой, ну конечно! Центр управления!
 
 優「なんで今まで気づかなかったんだろう？」%K%P
 Why didn't I think of this until now?
@@ -2754,7 +2760,7 @@ CN PLACEHOLDER
 つられて沙羅の瞳にも、輝きが蘇る。%K%P
 Next, light returned to Sara's eyes as well.
 CN PLACEHOLDER
-Затем и у Сары вспыхнули искорки в глазах.
+Затем и у Сары вновь загорелись глаза.
 
 ところが、だ……。%K%P
 But...
@@ -2769,12 +2775,12 @@ CN PLACEHOLDER
 制御室のコンソールに、優は豪快なカカト落としを食らわした。%K%P
 You did a fantastic heel stomp on the console in the control room.
 CN PLACEHOLDER
-Ю выполнила фантастический удар каблуком по консоли в Центре управления.
+Ю выполнила феерический удар каблуком по консоли в Центре управления.
 
 優「なんでよぉ！　なんで繋がらないわけ！」%K%P
 What's this? Why won't it go through?
 CN PLACEHOLDER
-Что это?! Почему эта железяка не логинится?!
+Что это?! Почему эта железяка не коннектится?!
 
 優「どうなってんのよ、一体！？」%K%P
 What's the matter?
@@ -2784,7 +2790,8 @@ CN PLACEHOLDER
 今にも暴れ出しそうな勢いだった。%K%P
 It looked like she was going to rant.
 CN PLACEHOLDER
-Это похоже на неистовство.
+Ю сейчас взорвётся.
+// dsp2003: Это похоже на неистовство.
 
 いや、現に暴れていたんだけど……。%K%P
 No, she was already ranting...
@@ -2814,7 +2821,7 @@ CN PLACEHOLDER
 沙羅「お、落ち着いて！　とにかく落ち着いて下さい！」%K%P
 Ta-Take it easy! Just calm down!
 CN PLACEHOLDER
-У-успокойся! Прийди в себя!
+У-успокойся! Приди в себя!
 
 優「これが落ち着いていられますかっつーの！」%K%P
 How do you expect me to stay calm in a situation like this?
@@ -2824,12 +2831,12 @@ CN PLACEHOLDER
 優「通信回線が全部ＯＵＴって、どういうことなの！」%K%P
 How can all of the communication lines be down!?
 CN PLACEHOLDER
-Быть не может, чтобы все линии связи были отрезаны!
+Быть не может, чтобы все линии связи не работали!
 
 優「電話もメールも、非常回線さえも繋がらないのよ！」%K%P
 E-mail, too. Even the emergency line won't go through!
 CN PLACEHOLDER
-Даже электронная почта. И аварийные линии связи!
+Ни телефон, ни почта, ни линии экстренной связи!
 
 優「こんなことってあり得る！？」%K%P
 Is this possible?
@@ -2844,7 +2851,7 @@ CN PLACEHOLDER
 少年「だからって、何もぶっ壊さなくても……」%K%P
 Still, you don't have to destroy...
 CN PLACEHOLDER
-;Мальчик«И всё же тебе не стоит уничтожать...»%K%P
+;Мальчик«Но это же не значит, что надо всё разломать...»%K%P
 
 優「うるさーーーいっ！　もぉーーーっ！　きーーーっ！」%K%P
 Shut up! I've... had enough! Kyaaaa!
@@ -2874,7 +2881,7 @@ CN PLACEHOLDER
 少年「こうなったら、しょうがない……」%K%P
 Well, if it's come to this, there's nothing else to do...
 CN PLACEHOLDER
-;Мальчик«Ну, если всё так свелось, больше тут нечего делать...»%K%P
+;Мальчик«Ну, с этим нам ничего не поделать...»%K%P
 
 少年「もう一度……今度は手分けして、出口を探してみよう」%K%P
 Let's just... split up again and look for an exit.
@@ -2884,7 +2891,7 @@ CN PLACEHOLDER
 優「ムダよ！　あんだけさんざん探しまわったのよ！？」%K%P
 It's no use! After we already looked everywhere!?
 CN PLACEHOLDER
-Бесполезно! После того, как мы прочесали всю округу?!
+Зачем?! Мы уже тут всё обыскали!
 
 少年「だけど、まだ部屋の中までは調べてないじゃないかぁ」%K%P
 But we haven't looked inside the rooms.
@@ -2894,7 +2901,7 @@ CN PLACEHOLDER
 沙羅「そうだよね」%K%P
 I see.
 CN PLACEHOLDER
-Ага!
+И правда.
 
 沙羅「秘密の抜け道みたいなやつが、隠されてる可能性もあるし……」%K%P
 There might be something like a secret passage hidden or something...
@@ -2914,7 +2921,7 @@ CN PLACEHOLDER
 沙羅「拙者のように閉じ込められてしまったお方が、どこぞにおるやも知れぬでござるからなぁ」%K%P
 Because there might be a helpless maiden trapped somewhere like I was.
 CN PLACEHOLDER
-Может, где-нибудь заточена беспомощная девушка вроде меня.
+Может быть, кто-то ещё остался в заточении, как и я.
 
 沙羅「ニンニン」%K%P
 Nin! Nin! Ninja!
@@ -2924,7 +2931,7 @@ CN PLACEHOLDER
 こうして、ぼく、優、沙羅の３人は、別々になって館内の捜索を始めた。%K%P
 So with that, the three of us (Sara, You, and I) split up and started searching the complex.
 CN PLACEHOLDER
-И вот, Сара, Ю и я разделились и стали обследовать комплекс.
+И вот Сара, Ю и я разделились и стали обследовать комплекс.
 
 集合時刻は今から１時間後……。%K%P
 We agreed we'd meet again in an hour...

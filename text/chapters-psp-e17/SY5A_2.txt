@@ -186,7 +186,7 @@ CN PLACEHOLDER
 優「もっと自分をしっかり持たないと、知らず知らずのうちに間違った方向に進んじゃうからね？」%K%P
 You need to be strong. Make up your own mind. Or you'll just end up following everybody else.
 CN PLACEHOLDER
-Соберись. Прийди в себя. Иначе будешь следовать за всеми как хвостик.
+Соберись. Приди в себя. Иначе будешь следовать за всеми как хвостик.
 
 少年「わかってるよ……」%K%P
 I know...
