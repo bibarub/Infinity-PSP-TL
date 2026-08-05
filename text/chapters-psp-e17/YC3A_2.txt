@@ -141,7 +141,7 @@ CN PLACEHOLDER
 つぐみ「修理するなら、工具類が必要なんじゃないの？　私ならいろいろ、扱い方を知ってる」%K%P
 Well, if we're going to fix something, we'll need tools, right? I know my way around a workshop.
 CN PLACEHOLDER
-Если нужно что-то починить, нужны же инструменты, правда ведь? А я умею ими пользоваться.
+Раз мы собрались что-то чинить, нужны же инструменты, правда ведь? А я умею ими пользоваться.
 
 武「そうだな……わかった。頼むよ」%K%P
 Alright... Let's go.
@@ -501,7 +501,7 @@ CN PLACEHOLDER
 感電、しないだろうな……。%K%P
 I hoped it didn't shock me...
 CN PLACEHOLDER
-(Господи, только бы его не коротнуло вместе со мной...)
+(Как бы меня ещё током не ударило...)
 
 ――と思った瞬間！%K%P
 —As soon as I thought that!
@@ -1011,7 +1011,7 @@ CN PLACEHOLDER
 つぐみの腰から下は、もうほとんど水面下にあった。%K%P
 From her waist down, Tsugumi was almost completely underwater.
 CN PLACEHOLDER
-Не считая талии, Цугуми уже практически полностью под водой.
+Цугуми почти по пояс в воде.
 
 水位は俺のヒザを超えようとしている。%K%P
 The water level was almost over my knees.
@@ -1151,7 +1151,7 @@ CN PLACEHOLDER
 水かさは容赦なく増していく。%K%P
 The water volume increased mercilessly.
 CN PLACEHOLDER
-Её уровень увеличивается беспощадно.
+Её уровень беспощадно увеличивается.
 
 つぐみ「…………」%K%P
 .........

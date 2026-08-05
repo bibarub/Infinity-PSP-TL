@@ -546,7 +546,7 @@ CN PLACEHOLDER
 感電しないだろうな……。%K%P
 (I hope it doesn't shock me...)
 CN PLACEHOLDER
-(Вот бы его не коротнуло...)
+(Как бы меня ещё током не ударило...)
 
 俺は少し怖くなった。%K%P
 I was starting to get a little scared.
@@ -626,7 +626,7 @@ CN PLACEHOLDER
 落下物の行く先には――%K%P
 And in their path was—
 CN PLACEHOLDER
-Но на их пути –
+Но на их пути...
 
 武「！！　ココ、危ないっ！！」%K%P
 Coco, watch out!
@@ -956,7 +956,7 @@ CN PLACEHOLDER
 つぐみの腰から下は、もうほとんど水面下にあった。%K%P
 From her waist down, Tsugumi was almost completely underwater.
 CN PLACEHOLDER
-Не считая талии, Цугуми уже практически полностью под водой.
+Цугуми почти по пояс в воде.
 
 水位は俺の膝元を超えようとしている。%K%P
 The water level was almost over my knees.
@@ -1081,7 +1081,7 @@ CN PLACEHOLDER
 水かさは容赦なく増していく。%K%P
 The water volume increased mercilessly.
 CN PLACEHOLDER
-Её уровень увеличивается беспощадно.
+Её уровень беспощадно увеличивается.
 
 つぐみ「…………」%K%P
 .........

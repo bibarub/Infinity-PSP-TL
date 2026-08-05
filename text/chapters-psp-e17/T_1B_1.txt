@@ -302,7 +302,7 @@ CN PLACEHOLDER
 係員「このＬｅＭＵでは、水圧の関係で、鉄の隔壁がゴトゴトと鳴るようなことは珍しくありませんから」%K%P
 Due to all of the water pressure here at LeMU, it isn't uncommon for the metal partitions to rattle occasionally.
 CN PLACEHOLDER
-Из-за возросшего давления воды металлические конструкции LeMU сотрясает.
+Из-за возросшего давления воды металлические переборки LeMU сотрясает.
 
 そうだな……空耳だろう。%K%P
 Yeah. It must've just been my imagination.
@@ -312,7 +312,7 @@ CN PLACEHOLDER
 空の言う通り、ＬｅＭＵの隔壁が軋んだのかもしれない。%K%P
 Probably the partitions creaking, like she said.
 CN PLACEHOLDER
-Может, всё именно так, как она и сказала, и единственное, что издаёт звуки – перегородки LeMU.
+Может, всё именно так, как она и сказала, и единственное, что издаёт звуки – переборки LeMU.
 //к этому моменту она еще даже не представилась
 
 気を取り直し、先へ進むことにする。%K%P
@@ -524,7 +524,7 @@ CN PLACEHOLDER
 リフト（人が乗り込む箱の部分）は、このフロアに停止しているわけではなかったのだ。%K%P
 The elevator (or at least the part people ride in) hadn't stopped directly on the floor.
 CN PLACEHOLDER
-Лифт (вернее, та его часть, в которой ездят люди) не остановился прямо на этаже.
+Лифт (вернее, «коробка», в которой ездят люди) не остановился прямо на этаже.
 
 俺は足元をのぞき込んだ。%K%P
 I looked down at my feet.

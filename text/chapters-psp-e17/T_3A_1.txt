@@ -1156,7 +1156,7 @@ CN PLACEHOLDER
 つぐみ「修理するなら、工具類が必要なんじゃないの？　私ならいろいろ、扱い方を知ってる」%K%P
 Well, if we're going to fix something, we'll need tools, right? I know my way around a workshop.
 CN PLACEHOLDER
-Если нужно что-то починить, нужны же инструменты, правда ведь? А я умею ими пользоваться.
+Раз мы собрались что-то чинить, нужны же инструменты, правда ведь? А я умею ими пользоваться.
 
 武「そうだな……わかった。頼むよ」%K%P
 Alright... Let's go.
@@ -1371,7 +1371,7 @@ CN PLACEHOLDER
 空はなんだか戸惑いながらも、嬉しそうに頬を染める。%K%P
 Although Sora looked somewhat puzzled, her cheeks seemed to glow with joy.
 CN PLACEHOLDER
-Не смотря на то, что Сора выглядит немного озадаченной, её щёки сияют от радости.
+Несмотря на то, что Сора выглядит немного озадаченной, её щёки сияют от радости.
 
 それがまた、なんとも面白かった。%K%P
 And for some reason, I found that amusing too.
@@ -1566,7 +1566,7 @@ CN PLACEHOLDER
 空「パイプの一部が破損して、少し水が漏れています。水深は深いところで１０ｃｍ程度です」%K%P
 An area of the pipe has ruptured, and there is a slight water leak. The water is about ten centimeters at its deepest point.
 CN PLACEHOLDER
-Часть трубы разорвана, есть небольшая утечка воды. Самый глубокий уровень воды равен семнадцати сантиметрам.
+Часть трубы повреждена, есть небольшая утечка воды. Самый глубокий уровень воды равен семнадцати сантиметрам.
 
 つぐみ「それなら、大したことないわね」%K%P
 That's hardly anything at all.
