@@ -1708,7 +1708,7 @@ CN PLACEHOLDER
 『警報が発令され、ＬｅＭＵの中から誰もいなくなり、浸水が始まったこと』%K%P
 “The warning alarm sounded, everyone disappeared from LeMU, and the flooding started.”
 CN PLACEHOLDER
-И как прозвучала сирена, после которой все эвакуировались из LeMU, и начался потоп.
+И как прозвучала сирена, после которой все эвакуировались из LeMU и начался потоп.
 
 沙羅は唖然とし、優の話に聞き入っていた。%K%P
 Stunned, Sara listened to You.
