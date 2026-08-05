@@ -1,16 +1,23 @@
 ﻿;11e480;11;（Ｓｕｎ）
+⑳(Sun)
 
 ;11e48c;11;（Ｍｏｎ）
+⑳(Mon)
 
 ;11e498;11;（Ｔｕｅ）
+⑳(Tue)
 
 ;11e4a4;11;（Ｗｅｄ）
+⑳(Wed)
 
 ;11e4b0;11;（Ｔｈｕ）
+⑳(Thu)
 
 ;11e4bc;11;（Ｆｒｉ）
+⑳(Fri)
 
 ;11e4c8;11;（Ｓａｔ）
+⑳(Sat)
 
 ;11eff8;19;▼ＥｎｄＧａｍｅ
 ▼Game Over
@@ -704,7 +711,7 @@ Entry
 
 # character width for save date in save/load menu
 ;121ff0;7;%XS10
-%XS12
+;
 
 ;121ff8;31;−−−−／−−／−−（−−−）
 

@@ -776,6 +776,7 @@ BGM
 
 # character width for save date in save/load menu
 ;124368;7;%XS10
+;
 
 ;124370;31;−−−−／−−／−−（−−−）
 

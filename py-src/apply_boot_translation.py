@@ -105,7 +105,7 @@ def main():
         continue
     elif (state == TL):
       state = JP
-      tl_text = r11.clean_translation_enc_issues(ln) if ln else jap_text
+      tl_text = "" if ln == ";" else r11.clean_translation_enc_issues(ln) if ln else jap_text
       # print(jap_text, en_text, size)
       if (off != None):
         patch_pos(bin_bytes, off, tl_text, size, lang)
