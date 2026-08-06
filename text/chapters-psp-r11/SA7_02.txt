@@ -2006,7 +2006,7 @@ There are still four obscure points.
 Остались четыре неясности.
 
 謎１．%K%N
-Mystery #1:
+Mystery ＃1:
 谜一、
 Неясность 1:
 
@@ -2191,7 +2191,7 @@ This is the first mystery.
 Это первая неясность.
 
 謎２．%K%N
-Mystery #2:
+Mystery ＃2:
 谜二、
 Неясность 2:
 
@@ -2266,7 +2266,7 @@ This is the second mystery.
 Вот в чём заключается неясность номер два.
 
 謎３．%K%N
-Mystery #3:
+Mystery ＃3:
 谜三、
 Неясность 3:
 
@@ -2306,7 +2306,7 @@ If I can pinpoint its location and time, I'll be able to draw closer to the iden
 Я чувствую, что если смогу определить его место и время, то приближусь к разгадке того, кто кроется под личиной α.
 
 謎４．%K%N
-Mystery #4:
+Mystery ＃4:
 谜四、
 Неясность 4:
 

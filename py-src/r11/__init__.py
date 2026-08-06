@@ -91,7 +91,7 @@ def clean_translation_enc_issues(line: str) -> str:
   # russian quotation marks
   line = line.replace("\u00ab", "\u300a")
   line = line.replace("\u00bb", "\u300b")
-  #line = line.replace("„", "\"")
+
   return line
 
 def clean_cn_translation_line(line: str) -> str:
