@@ -986,7 +986,7 @@ CN PLACEHOLDER
 みんなで行けばいいんじゃない？
 Why don't we go together?
 CN PLACEHOLDER
-А почему-бы не пойти всем вместе?
+А почему бы не пойти всем вместе?
 
 少年「ぼく、優の手伝いをするよ」%K%P
 I'm going to help out You.
