@@ -808,12 +808,13 @@ CN PLACEHOLDER
 You're on a school trip?
 CN PLACEHOLDER
 У вас школьная поездка?
+// dsp2003: Ты здесь в роли представителя учебного заведения?
 // не совсем представляю что это значит
 
 マヨ「それは３年になってからじゃないですかぁ」%K%P
 That's for seniors.
 CN PLACEHOLDER
-Мне кажется, это только для третьего года.
+Мне кажется, это только для третьегодок.
 
 優「あ、そっか……マヨはまだ、２年だもんね？」%K%P
 Oh, right... Mayo, you're still a junior, yeah?
@@ -843,7 +844,7 @@ CN PLACEHOLDER
 マヨ「トクシですよ、ト・ク・シ！」%K%P
 Volunteer activities!
 CN PLACEHOLDER
-Группы активистов! Ак-ти-вис-тов!
+Добровольческая программа! До-бро-воль-чес-ка-я!
 
 マヨ「鳩鳴館では２年生になると、ボランティアの旅に行くことになってるじゃないですかぁ」%K%P
 At Kyumeikan, juniors are supposed to go out and volunteer somewhere, right?
