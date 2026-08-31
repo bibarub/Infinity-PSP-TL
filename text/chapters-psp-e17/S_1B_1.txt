@@ -2033,17 +2033,17 @@ CN PLACEHOLDER
 武「適当だけど、名無しの権兵衛」%K%P
 It'd be fitting to call him John Doe.
 CN PLACEHOLDER
-Думаю, очень даже уместно будет его звать %TS120Джоном Доу%TE.
+Думаю, будет подходяще его звать %TS120Джоном Доу%TE.
 
 空「『適当だから権兵衛だ』というのは、全国の権兵衛さんに申し訳ないのではないですか？」%K%P
 But wouldn't calling him that just because it's fitting be rude to all of the people named John Doe?
 CN PLACEHOLDER
-А не кажется ли тебе, что это грубо по отношению к другим Джонам Доу – называть кого-то так лишь потому, что это „уместно“?
+А не кажется ли тебе, что это грубо по отношению к другим Джонам Доу – называть кого-то так лишь потому, что это „подходяще“?
 
 武「仮名なんだから適当でいいじゃないか」%K%P
 Well, it's only for a little while, so it doesn't have to be perfect.
 CN PLACEHOLDER
-Ну, я долго не думал, так что, может, имя и не особо подходит.
+Ну, по сути это просто кличка. Думаю, и так пойдёт.
 
 沙羅「スナイパーにしようよ」%K%P
 Let's call him Sniper.

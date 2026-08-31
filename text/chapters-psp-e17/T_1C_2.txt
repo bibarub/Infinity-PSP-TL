@@ -671,7 +671,7 @@ CN PLACEHOLDER
 武「少ちゃん、ねぇ……。俺らもそう呼ぶか？　それよりなんかこうもっと、普通の名前っぽい名前をだなぁ……例えば」%K%P
 Kiddo, huh... You want me to call you that too? There's gotta be a more normal name than that.
 CN PLACEHOLDER
-Малой-тян, хм-м... Хочешь, чтобы я тоже так тебя звал? Может, стоит подобрать что-то получше?
+Малой-тян, хм-м... Хочешь, чтобы я тоже так тебя звал?.. Может, лучше придумать что-то, что больше похоже на имя? Ну например...
 
 武「権兵衛」%K%P
 John.
@@ -681,22 +681,22 @@ CN PLACEHOLDER
 武「適当だけど、名無しの権兵衛」%K%P
 It'd be fitting to call him John Doe.
 CN PLACEHOLDER
-Думаю, очень даже уместно будет его звать %TS120Джоном Доу%TE.
+Думаю, будет подходяще его звать %TS120Джоном Доу%TE.
 
 空「適当だから『権兵衛』だ、というのは全国の権兵衛さんに申し訳ないのではないですか？」%K%P
 But wouldn't calling him that just because it's fitting be rude to all of the people named John Doe?
 CN PLACEHOLDER
-А не кажется ли тебе, что это грубо по отношению к другим Джонам Доу – называть кого-то так лишь потому, что это „уместно“?
+А не кажется ли тебе, что это грубо по отношению к другим Джонам Доу – называть кого-то так лишь потому, что это „подходяще“?
 
 武「仮名なんだから適当でいいじゃないか」%K%P
 Well, it's only for a little while, so it doesn't have to be perfect.
 CN PLACEHOLDER
-Ну, я долго не думал, так что, может, имя и не особо подходит.
+Ну, по сути это просто кличка. Думаю, и так пойдёт.
 
 空「倉成さん、『少ちゃん』よりも名前っぽい名前を、と言ったじゃありませんか」%K%P
 Kuranari-san, I thought you wanted a more name-like name than Kiddo.
 CN PLACEHOLDER
-Куранари-сан, ты ведь вроде собирался придумать имя лучше, чем „Малой-тян“.
+Куранари-сан, но ты ведь вроде собирался придумать имя, а не кличку...
 
 ココ「じゃあねぇー……ココがもいっこ名前をつけよう！」%K%P
 Well then... Coco will think up another name!
@@ -726,17 +726,17 @@ CN PLACEHOLDER
 優「ちょっと倉成武！　突然フルネームで呼ばないでよ……」%K%P
 Hey, Kuranari Takeshi! Don't just go blurting out my full name...
 CN PLACEHOLDER
-Эй, Куранари! Не выпаливай моё полное имя просто так...
+Эй, Куранари Такэси! Не выпаливай моё полное имя просто так...
 
 売店の向こうで聞いていた優がツカツカと歩いてきた。%K%P
 You, who had been standing over by the shop, came walking directly toward me.
 CN PLACEHOLDER
-Похоже, что моя шутка задела Ю. Она стояла у лавки, но в ту же секунду подскочила ко мне.
+Ю, что до этого стояла у лавки, резко подскочила к нам.
 
 武「ああ！　もう！　面倒だ！」%K%P
 Ah! What a pain!
 CN PLACEHOLDER
-Ай! Больно!
+А-а, блин, как же всё сложно!
 
 武「例の着ぐるみにちなんで貴様を『油揚げみゅー吾』と命名する！」%K%P
 In honor of the mascot, I name you 'Earl Myun of Hamburger'!
@@ -747,6 +747,7 @@ CN PLACEHOLDER
 In honor of the mascot, I name you 'John Raccoon Dog Smith'!
 CN PLACEHOLDER
 В честь талисмана я нарекаю тебя „Тануки Таро“!
+// понимать бы, от чего это образовано
 
 少年「…………」%K%P
 ...
@@ -796,7 +797,7 @@ CN PLACEHOLDER
 つぐみが割って入った。%K%P
 Tsugumi cut in.
 CN PLACEHOLDER
-Выпалила Цугуми.
+Цугуми включилась в разговор.
 
 つぐみ「一時的な名前を適当につけたりしたら、彼が本名を思い出したときにいろいろ困るわよ」%K%P
 If we come up with some random name, it'll be a hassle when he remembers his real one.
@@ -806,7 +807,7 @@ CN PLACEHOLDER
 つぐみ「少年なんだから……」%K%P
 He is a kid...
 CN PLACEHOLDER
-Ну раз он ещё мал...
+Мне кажется, раз он ещё мал...
 
 つぐみ「『少年』でいいじゃない」%K%P
 So why don't we just stick with 'Kid'?
@@ -816,7 +817,7 @@ CN PLACEHOLDER
 話はループする。%K%P
 The conversation had come full circle.
 CN PLACEHOLDER
-Круг замкнулся.
+Мы вернулись к тому, с чего начали.
 
 照明が突然消え、すぐについた。%K%P
 The lights suddenly went out and then flashed back on.
@@ -826,7 +827,8 @@ CN PLACEHOLDER
 鈍い金属的な反響音……。%K%P
 There was a dull, heavy metallic echo...
 CN PLACEHOLDER
-Послышался гул тяжёлого металлического эхо...
+Металлический гул эхом пронёсся по сооружению.
+// dsp2003: Послышался гул тяжёлого металлического эхо...
 
 同時に、僅かな振動を感じた。%K%P
 At the same time, there was a slight tremor.
@@ -836,12 +838,12 @@ CN PLACEHOLDER
 武「なんだ？」%K%P
 What's that?
 CN PLACEHOLDER
-Ч-что это было?
+Что это было?
 
 つぐみ「今の揺れ、下から来てる……」%K%P
 That tremor felt like it came from below...
 CN PLACEHOLDER
-Кажется, эта дрожь исходит снизу...
+Кажется, дрожь исходит снизу...
 
 優「下？　……下のフロアで何かあったのかな？」%K%P
 Below? I wonder if something happened below?
