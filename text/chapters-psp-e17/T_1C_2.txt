@@ -1060,7 +1060,7 @@ CN PLACEHOLDER
 湿って滑りやすくなった階段を、慎重に進む。%K%P
 We carefully moved forward down the wet and slippery stairs.
 CN PLACEHOLDER
-Мы осторожно идём по мокрым, скользким ступеням.
+И осторожно идём по мокрым, скользким ступеням.
 
 一歩一歩下りるたび、海水の匂いが強くなるように思う。%K%P
 With every step, the scent of seawater seemed to grow stronger.
@@ -1162,11 +1162,12 @@ CN PLACEHOLDER
 We may have even overlooked the cause of this when we were checking around a little bit ago... We're in this together.
 CN PLACEHOLDER
 Мы тоже могли проглядеть причину, когда делали обход... Хотя не уверен, что виноваты мы одинаково.
+// скорее всего тут имеется в виду, что он не уверен, что это сгладит ситуацию
 
 武「今はみんな無事なんだから、良しとしようや」%K%P
 Everyone is fine, so let's just consider ourselves lucky.
 CN PLACEHOLDER
-Всё в порядке, так что будем считать, что нам крупно повезло.
+Все в порядке, так что будем просто считать, что нам крупно повезло.
 
 空「ごめんなさい……」%K%P
 I am really sorry...
@@ -1191,17 +1192,17 @@ CN PLACEHOLDER
 俺は鼻の頭を掻く。%K%P
 I scratched the tip of my nose.
 CN PLACEHOLDER
-Я почесал кончик своего носа.
+Я почесал кончик носа.
 
 武「空の責任じゃないよ。事故なんだからさ」%K%P
 It's not your fault, Sora. It was an accident.
 CN PLACEHOLDER
-Ты не виновата, Сора.
+Ты не виновата, Сора. Просто так получилось.
 
 武「俺達がさっきの見回りで、原因を見落としてたせいかもしれないし……」%K%P
 We may have even overlooked the cause of this when we were checking around a little bit ago... We're in this together.
 CN PLACEHOLDER
-Мы могли проглядеть причину, когда делали обход...
+Может, это мы проглядели причину, когда делали обход...
 
 空「いいえ、そんなことはありません！」%K%P
 Not at all!
@@ -1221,12 +1222,12 @@ CN PLACEHOLDER
 武「そんな、ひとりで気負うなよ」%K%P
 Don't you go trying to blame yourself for this.
 CN PLACEHOLDER
-Не стоит взваливать вину на себя.
+Не вини в этом себя.
 
 武「今はみんな無事なんだから、良しとしようや。なぁ？」%K%P
 Everyone is fine, so let's just consider ourselves lucky.
 CN PLACEHOLDER
-Всё в порядке, так что будем считать, что нам крупно повезло.
+Все в порядке, так что будем просто считать, что нам крупно повезло. Хорошо?
 
 空「…………」%K%P
 ...
@@ -1236,7 +1237,7 @@ CN PLACEHOLDER
 空はうつむいて黙々と、作業を続ける。%K%P
 With her head bowed in silence, Sora kept working.
 CN PLACEHOLDER
-Сора, опустив голову, молча продолжила работу.
+Сора молча продолжила работать с опущенной головой.
 
 やがて、キーボードを打つ手が止まった。%K%P
 Finally, her hands stopped typing on the keyboard.
@@ -1256,12 +1257,12 @@ CN PLACEHOLDER
 空「皆さんどうか、驚いたり、気を落としたりしないでくださいね……」%K%P
 Everyone, please do not be shocked or let this get you down...
 CN PLACEHOLDER
-Все, пожалуйста не пугайтесь, иначе вы можете расстроиться...
+Прошу, сохраняйте спокойствие, не впадайте в истерику и не паникуйте.
 
 優「空ぁ、そんな風に言われると逆に身構えちゃうよ」%K%P
 Sora, when you say it like that, it makes us nervous.
 CN PLACEHOLDER
-Сора... Каждый раз, когда ты так говоришь, я начинаю нервничать.
+Сора... Каждый раз, когда ты так говоришь, мы начинаем переживать ещё больше.
 
 空「ああっ、すみません……」%K%P
 Oh, I'm sorry...
@@ -1271,22 +1272,22 @@ CN PLACEHOLDER
 優「ま、めったなことじゃ驚かない自信があるけどね」%K%P
 Still, I'm fairly confident that there are few things that will shock me.
 CN PLACEHOLDER
-Всё же, в этом мире меня могут испугать лишь несколько вещей.
+Ну, лично меня мало чем можно удивить.
 
 空「そうですか？　それでは――」%K%P
 I see. In that case...
 CN PLACEHOLDER
-Понимаю. В таком случае...
+Да? Ну, в таком случае...
 
 もっとも皆、もう感覚が麻痺しているのかもしれない。%K%P
 I thought everyone was probably numbed by what we had experienced so far.
 CN PLACEHOLDER
-Наверное, все вокруг в шоке от того, что недавно произошло.
+Наверное, мы уже почти привыкли к происходящему и не испытываем таких сильных эмоций по этому поводу.
 
 空「先程の第２次浸水についてですが、簡単に原因を申し上げますと……」%K%P
 Simply put, the cause of the second influx of water we experienced a short while ago...
 CN PLACEHOLDER
-Проще говоря, причина недавнего затопления...
+Говоря простыми словами, причина недавнего затопления состоит в том, что...
 
 空「１度目の浸水のときに被害を免れたいくつかの区画は、強制換気により急激に減圧された状態で、水没した区画から隔離されました」%K%P
 The sectors that were able to avoid damage during the first flooding were isolated from the flooded sections, and forced ventilation created a sudden reduction in air pressure.

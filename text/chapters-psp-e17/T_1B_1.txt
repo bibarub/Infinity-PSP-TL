@@ -3592,6 +3592,7 @@ CN PLACEHOLDER
 The opening of the emergency corridor disrupted the atmospheric pressure balance inside LeMU, and the pressure regulation devices encountered problems. Forced ventilation of the complex began.
 CN PLACEHOLDER
 Открытие аварийного коридора вызвало нарушение баланса давления внутри сооружения, которое не удалось исправить автоматически. В комплексе началось принудительное вентилирование.
+// "вентилирование" в русском нераспространенный термин, возможно стоит заменить
 
 これにより、約６気圧に保たれていた内部の混合ガスが、急速に外部へと放出されることになった。%T030%K%N
 As a result, the mixture of gases inside designed to maintain six atmospheres of pressure, was rapidly vented outside.
