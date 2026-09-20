@@ -1292,22 +1292,22 @@ CN PLACEHOLDER
 空「１度目の浸水のときに被害を免れたいくつかの区画は、強制換気により急激に減圧された状態で、水没した区画から隔離されました」%K%P
 The sectors that were able to avoid damage during the first flooding were isolated from the flooded sections, and forced ventilation created a sudden reduction in air pressure.
 CN PLACEHOLDER
-Сектора, которые избежали повреждения при первоначальном затоплении, были изолированы от затопленных, в результате чего создался резкий перепад давления воздуха.
+Сектора, которые избежали повреждения при первоначальном затоплении, были изолированы от затопленных. При этом произошла принудительная вентиляция, в результате чего давление воздуха резко снизилось.
 
 空「しかし水没区画が内部の水の重さに耐え切れず傾き、隣接した区画とのジョイントに亀裂が生じました」%K%P
 However, the inundated sectors were not able to withstand the weight of the water and tilted, causing a rupture of the joint in the adjacent sector.
 CN PLACEHOLDER
-Однако затопленные сектора не смогли выдержать веса воды и накренились, вызвав обрыв в смежных секторах.
+Однако затопленные сектора не смогли выдержать веса воды и накренились, вызвав разрыв в соединениях между секторами.
 
 空「館内外の圧力差により、小さな亀裂からスポイトのように周囲の海水が吸い込まれた為に――」%K%P
 The gap in the internal and external air pressure caused seawater to be sucked into the complex through the rupture.
 CN PLACEHOLDER
-Из-за разницы давления внутри и снаружи сооружения окружающая вода проникла в него через небольшую трещину...
+Из-за разницы давления внутри и снаружи сооружения окружающая вода проникла в него через возникшие трещины...
 
 空「それまで健在だった多くの区画も、短時間で一気に浸水したのです……」%K%P
 So, many of the sectors that were stable until that moment were instantly flooded...
 CN PLACEHOLDER
-Поэтому многие сектора, что были стабильными до того момента, оказались мгновенно затоплены...
+Поэтому многие сектора, что были стабильными до того момента, мгновенно оказались затоплены...
 
 空「これが現在のドリットシュトックの状況です」%K%P
 That is the current situation of Dritter Stock.
@@ -1342,7 +1342,7 @@ CN PLACEHOLDER
 優「ＬｅＭＵの約半分は水の中、ってわけね」%K%P
 You mean nearly half of LeMU is underwater.
 CN PLACEHOLDER
-Так LeMU затопило уже наполовину.
+То есть LeMU затопило уже наполовину...
 
 空「ドリットには水没していない区画が３箇所あります」%K%P
 There are three sectors in Dritter that are not flooded.
@@ -1357,7 +1357,7 @@ CN PLACEHOLDER
 少年「あれ？　地図にはおおまかにふたつに分かれた場所が示されてるみたいだけど、もうひとつの区画は？」%K%P
 Huh? It looks like the map is displaying roughly two areas, but where's the third sector?
 CN PLACEHOLDER
-Странно. На карте можно разглядеть две зоны, но где же третий сектор?
+Странно. На карте видно две зоны... Но где же третья?
 
 空「実は、システムの不備のせいで詳細なマップ表示ができていませんが……」%K%P
 Actually, due to a flaw in the system, a detailed map cannot be displayed...
@@ -1367,12 +1367,12 @@ CN PLACEHOLDER
 空「この第８区画の対角線上にある、第４区画の一部も健在なのです。しかし」%K%P
 One part of Sector Four, diagonally above Sector Eight, is stable.
 CN PLACEHOLDER
-Одна часть Сектора 4, расположенная прямо над Сектором 8, стабильна.
+Одна часть Сектора 4, расположенного по диагонали от Сектора 8, стабильна. Однако...
 
 少年「そこに行くことはできないの？」%K%P
 There's no way to get there?
 CN PLACEHOLDER
-Туда попасть невозможно?
+Туда нельзя попасть?
 
 空「はい、不可能です」%K%P
 Correct. It is impossible.
@@ -1392,7 +1392,7 @@ CN PLACEHOLDER
 空「距離にして、およそ１００ｍ」%K%P
 In terms of distance, it is roughly 100 meters.
 CN PLACEHOLDER
-Выражаясь в расстоянии, это около 100 метров.
+Расстояние составляет около 100 метров.
 
 空「無呼吸状態で１００ｍ泳ぎ続けるような能力をお持ちになっている方は、この中にはいらっしゃらないでしょう？」%K%P
 I don't think there is anyone among you that is capable of swimming 100 meters without breathing.
@@ -1402,7 +1402,7 @@ CN PLACEHOLDER
 空「ゆえに、不可能なのです」%K%P
 Therefore, I say it is impossible.
 CN PLACEHOLDER
-Поэтому я сказала, что это невозможно.
+Поэтому я и сказала, что это невозможно.
 
 空「それに……もしも仮に第４区画まで行けたとしても、事態が好転するようなことはないと思われます」%K%P
 Furthermore... even if someone did reach Sector Four, I don't think it would improve our situation at all.
@@ -1432,12 +1432,12 @@ CN PLACEHOLDER
 空「そういうことです」%K%P
 That is correct.
 CN PLACEHOLDER
-Да.
+Именно так.
 
 少年「だったら、しょうがないか……」%K%P
 Well, then there's nothing we can do...
 CN PLACEHOLDER
-Значит, мы ничего не можем поделать...
+Ну, с этим ничего не поделаешь...
 
 つぐみ「第４区画のことは、この際忘れてしまったほうがいいわね」%K%P
 So we should forget about Sector Four.
@@ -1447,5 +1447,5 @@ CN PLACEHOLDER
 武「ともかく、黙って救助を待つしかなさそうだな」%K%P
 We'll just have to sit quietly and wait for help to come.
 CN PLACEHOLDER
-Сидеть тихо и ждать помощи.
+Остаётся только сидеть и ждать помощи.
 
