@@ -11,12 +11,12 @@ CN PLACEHOLDER
 武「それじゃ配るぞー。投げるぞー。構えろよー」%K%P
 Alright, cola time! I'm gonna toss everybody one! Ready?
 CN PLACEHOLDER
-Так, а вот и кола! Я собираюсь кинуть каждому по баночке! Готовы?
+Так, а вот и кола! Я сейчас кину каждому по баночке! Готовы?
 
 武「ありょ？　そういや俺いくつ持ってきてたっけ。１・２・３・４……」%K%P
 Oops. I got one, two, three, four...
 CN PLACEHOLDER
-Ой. У меня одна, две, три, четыре...
+Ой. У меня... раз, два, три, четыре...
 
 武「５、ってああっ１個足りねぇ！！」%K%P
 Five... I'm one short!
@@ -31,12 +31,12 @@ CN PLACEHOLDER
 武「いいよ、もう１個取ってくる。俺の飲んでてもいいぞ」%K%P
 Oh, don't worry about it. I'll go get one more. You can have mine.
 CN PLACEHOLDER
-Ладно, не беспокойся. Пойду возьму ещё. Можешь взять мою.
+Ой, не скромничай. Пойду возьму ещё. Можешь взять мою.
 
 空「いえ、結構です。私、喉渇いていませんし、コーラは苦手なんです……」%K%P
 No, really. I'm fine. I'm not thirsty, and I don't really like cola...
 CN PLACEHOLDER
-Нет, правда. Спасибо. Я не хочу пить и правда не очень люблю колу...
+Нет, правда. Спасибо. Я не хочу пить и вообще не очень люблю колу...
 
 空は微笑んだ。%K%P
 Sora smiled.
@@ -46,7 +46,7 @@ CN PLACEHOLDER
 武「そんなら、いいんだけんどさぁ……」%K%P
 Well, in that case...
 CN PLACEHOLDER
-Ну, в таком случае...
+Ну тогда ладно...
 
 俺は端から順番に缶コーラを投げ渡す。%K%P
 I tossed out a cola to everyone in order.
@@ -56,12 +56,12 @@ CN PLACEHOLDER
 優、つぐみ、少年が受け取った。%K%P
 You, Tsugumi, and the Kid all took one.
 CN PLACEHOLDER
-Ю, Цугуми, Малому, Коко и одну оставил себе.
+Ю, Цугуми, Малому, Коко, и одну оставил себе.
 
 だがなんと少年はその缶をシャカシャカと振り始めた！%K%P
 But then the Kid started shaking his can!
 CN PLACEHOLDER
-Но тут... Малой стал трясти свою банку!..
+Но тут Малой стал трясти свою банку!
 
 武「バ、バカっ！　お前何やってんだ？」%K%P
 S-Stupid! What do you think you're doing?

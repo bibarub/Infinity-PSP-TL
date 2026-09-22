@@ -1292,7 +1292,7 @@ CN PLACEHOLDER
 空「１度目の浸水のときに被害を免れたいくつかの区画は、強制換気により急激に減圧された状態で、水没した区画から隔離されました」%K%P
 The sectors that were able to avoid damage during the first flooding were isolated from the flooded sections, and forced ventilation created a sudden reduction in air pressure.
 CN PLACEHOLDER
-Сектора, которые избежали повреждения при первоначальном затоплении, были изолированы от затопленных. При этом произошла принудительная вентиляция, в результате чего давление воздуха резко снизилось.
+Сектора, которые избежали повреждения при первоначальном затоплении, были изолированы от затопленных. При этом произошло принудительное вентилирование, в результате чего давление воздуха резко снизилось.
 
 空「しかし水没区画が内部の水の重さに耐え切れず傾き、隣接した区画とのジョイントに亀裂が生じました」%K%P
 However, the inundated sectors were not able to withstand the weight of the water and tilted, causing a rupture of the joint in the adjacent sector.
@@ -1442,7 +1442,7 @@ CN PLACEHOLDER
 つぐみ「第４区画のことは、この際忘れてしまったほうがいいわね」%K%P
 So we should forget about Sector Four.
 CN PLACEHOLDER
-Придётся забыть о Секторе 4.
+Пока забудем о Секторе 4.
 
 武「ともかく、黙って救助を待つしかなさそうだな」%K%P
 We'll just have to sit quietly and wait for help to come.
