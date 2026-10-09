@@ -2826,7 +2826,7 @@ CN PLACEHOLDER
 空「申し遅れました。私は、茜ヶ崎空と申します。ＬｅＭＵ開発部のシステムエンジニアです」%K%P
 Pardon me for the belated introduction. I am Akanegasaki Sora. I am a system engineer in LeMU's Development Division.
 CN PLACEHOLDER
-Прошу прощения за несвоевременное представление. Я Аканэгасаки Сора. %TS35Cистемный инженер%TE в Отделе разработки LeMU.
+Прошу прощения за несвоевременное представление. Я Аканэгасаки Сора. %TS35Системный инженер%TE в Отделе разработки LeMU. 
 
 空「一応、主任代理……ということになっています」%K%p
 Technically, I'm the assistant chief... or so my title says.
