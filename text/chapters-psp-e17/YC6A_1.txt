@@ -871,7 +871,7 @@ CN PLACEHOLDER
 研究員「酸素治療……ああ、ポッドだな」%K%P
 Oxygen treatment... Yeah, you're looking for the pods.
 CN PLACEHOLDER
-Кислородного лечения?.. Да, вы говорите о модулях.
+Гипербарической оксигенотерапии... да, вы говорите о модулях.
 
 研究員「合金製のカプセルがあるはずだ、中にマットが敷いてある」%K%P
 There should be some alloy capsules with mats set inside of them.
@@ -1311,7 +1311,7 @@ CN PLACEHOLDER
 優「高圧酸素治療の他にも、レーザーでの減菌やら、簡単な手術のできる機能も備わってるらしいし……」%K%P
 It seems that this pod can also do laser disinfecting, as well as simple surgery, in addition to the oxygen treatment.
 CN PLACEHOLDER
-Кажется, помимо кислородного лечения этот модуль может ещё производить лазерное обеззараживание, а также простейшую хирургию...
+Кажется, помимо гипербарической оксигенотерапии этот модуль может ещё производить лазерное обеззараживание, а также простейшую хирургию...
 
 優「使い方によっては、ハイバネーションすら可能のようだけど……」%K%P
 And depending on how you use it, even cryogenic suspension...
@@ -4586,7 +4586,7 @@ CN PLACEHOLDER
 妙なかけ声とともに、武がコンソールのエンターキーを叩く。%K%P
 Letting out a strange shout, Takeshi pounded the enter key on the console.
 CN PLACEHOLDER
-Издав странный возглас, Такэси клацнул клавишей «Enter».
+Издав странный возглас, Такэси клацнул клавишей Enter.
 
 コンソールのディスクスロットから、円盤が吐き出された。%K%P
 A round, flat wafer shot out of the disc drive.

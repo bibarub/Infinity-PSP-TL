@@ -306,7 +306,7 @@ CN PLACEHOLDER
 俺達はイルカに乗っていた。%K%P
 ...We were off, riding the dolphins on the carousel.
 CN PLACEHOLDER
-...мы отправились в бесконечное путешествие, верхом на дельфинах.
+...мы отправились в бесконечное путешествие.
 
 空はカルセル・デルフィーネのスイッチを入れると、イルカにふわりとまたがった。%K%P
 Sora turned on the power to the carousel and got on before quickly taking off.
@@ -326,7 +326,7 @@ CN PLACEHOLDER
 こんなものに乗るのはガキの頃以来だったが、抵抗はなかった。%K%P
 I hadn't ridden a carousel since my childhood, but I didn't feel strange about it.
 CN PLACEHOLDER
-Я с детства не катался на каруселях, но при этом мне это не показалось странным.
+Я с детства не катался на каруселях, но мне это не показалось странным.
 
 むしろ、楽しかった。%K%P
 In fact, it was fun.
@@ -1187,7 +1187,7 @@ CN PLACEHOLDER
 空「花々は、恋をしますか？」%K%P
 ...Can a flower love?
 CN PLACEHOLDER
-...Может ли цветок любить?
+...Могут ли цветы любить?
 
 空「しないような気がします」%K%P
 It seems to me it cannot.

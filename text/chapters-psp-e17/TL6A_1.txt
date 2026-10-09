@@ -3268,7 +3268,7 @@ CN PLACEHOLDER
 口をへの字にして、潤んだ目で俺を軽く睨む。%K%P
 Her lips pursed, she glared at me slightly.
 CN PLACEHOLDER
-Её губы поморщились, она сердито на меня уставилась.
+Она поджала губы, опустив их уголки, и впилась в меня блестящими глазами.
 
 武「俺がどうしてここにいるか、わかるか？」%K%P
 Do you know why I'm here?
@@ -3448,7 +3448,7 @@ CN PLACEHOLDER
 空「ＩＢＦへのリフトが、今の振動で破損しました」%K%P
 The elevator leading to IBF was destroyed with that tremor.
 CN PLACEHOLDER
-Лифт, ведущий в IBF, был унчитожен этим толчком.
+Лифт, ведущий в IBF, был уничтожен этим толчком.
 
 リフトが……？%K%P
 The elevator...?
@@ -3753,7 +3753,7 @@ CN PLACEHOLDER
 空「まず、チューブ周辺の防水扉をすべて閉鎖し、チューブ内への水の浸入を防ぎます」%K%P
 First, we close off all the flood hatches around the tube so that no water can get in.
 CN PLACEHOLDER
-Сначала мы закроем все водоупорные люки трубы, чтобы вода не просочилась внутрь.
+Сначала мы закроем все водоупорные двери трубы, чтобы вода не просочилась внутрь.
 
 空「その処置を施した後、チューブ最下部の扉を開放し、チューブ内に溜まった水を全部、ドリットシュトックに移動します」%K%P
 After we take care of that, we open the doors on the lowest part of the tube and let all the water that has built up inside flow over to Dritter Stock.
@@ -4178,7 +4178,7 @@ CN PLACEHOLDER
 空「少し、その場で待機しててください。今、ハウプトプラッツに続く水密扉を閉じなおします」%K%P
 Please wait there for a minute. I'm going to re-close the flood hatches to the central area.
 CN PLACEHOLDER
-Пожалуйста, жди здесь. Я снова закрою водоупорные люки в центральной зоне.
+Пожалуйста, жди здесь. Я снова закрою водоупорные двери в центральной зоне.
 
 武「ＯＫ」%K%P
 Okay.
@@ -4758,7 +4758,7 @@ CN PLACEHOLDER
 部屋を走り出る。%K%P
 I ran out of the room.
 CN PLACEHOLDER
-Я выбежал из помешения.
+Я выбежал из помещения.
 
 俺の寄り道を妨げていた水密扉を、空は開いた。%K%P
 Sora opened the doors blocking my way.
@@ -4793,12 +4793,12 @@ CN PLACEHOLDER
 本当なら俺の身体はきっと、ひどい減圧症にかかり、さらにＴＢの発作に苛まれているのだろうが……。%K%P
 In reality, my body was probably wracked with decompression sickness and riddled with TB...
 CN PLACEHOLDER
-Несмотря на перенесённую кессонную болезнь и язвы от Tief Blau...
+По идее, моё тело должно было испытывать на себе последствия декомпрессионной болезни и мучиться от приступов ТВ...
 
 俺自身の知ったことではないのだ。%K%P
 But it wasn't something I was aware of.
 CN PLACEHOLDER
-Сейчас всё это не важно.
+Но сейчас всё это не важно.
 
 そんなことより、早く……。%K%P
 More importantly, I had to move faster, faster...

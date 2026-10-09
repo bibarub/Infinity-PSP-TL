@@ -71,7 +71,7 @@ CN PLACEHOLDER
 人生で、最初に記憶したその音は――%K%P
 The first sound I had heard in my life—
 CN PLACEHOLDER
-Первый звук, что я слышал в своей жизни –
+Первый звук, что я услышал в своей жизни...
 
 そう、鼓動の音だ。%K%P
 Yes, it was the sound of a heart beating.
@@ -2011,7 +2011,7 @@ CN PLACEHOLDER
 どこかの水密扉を打ちつける濁流の音も聞こえた。%K%P
 I could hear the sound of the water rushing in and striking against the watertight hatches somewhere.
 CN PLACEHOLDER
-Я слышу, как вода наступает и ударяется о водоупорные люки.
+Я слышу, как вода наступает и ударяется о водоупорные двери.
 
 頭上にも不吉な金属音が降り注ぎ、いつ天井が破れてもおかしくはない。%K%P
 Ominous metallic sounds rang out from above, and I wouldn't have been surprised if the ceiling had suddenly ruptured.

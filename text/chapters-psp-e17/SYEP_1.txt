@@ -366,12 +366,12 @@ CN PLACEHOLDER
 優「やっぱり……何も変わってないよ」%K%P
 Nope... You haven't changed at all.
 CN PLACEHOLDER
-Нееет... ты совсем не изменился.
+Не-е-ет... ты совсем не изменился.
 
 少年「……優もね」%K%P
 Neither have you.
 CN PLACEHOLDER
-...ну, и ты тоже.
+...Ну, и ты тоже.
 
 少年「あ、そういえばさ、その服……」%K%P
 That reminds me. Your clothes are...
