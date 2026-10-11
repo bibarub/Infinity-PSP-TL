@@ -3921,7 +3921,7 @@ CN PLACEHOLDER
 少年「うみつきの、こくうにすずし、ほととぎす」%K%P
 The empty fall sky%NA single cuckoo calls out%NBrings a chill to me.
 CN PLACEHOLDER
-Море и луна... сливаются в иллюзорном осеннем небе... неся, словно птица... сквозь пелену времени... тихий океанский бриз.
+В небе пустом над лунным морем прохладой веет осенней порой... Кричит кукушка.
 
 自分の言葉でありながら、ぼくは我が耳を疑った。%K%P
 Even as I heard the words come out, I doubted my own ears.
@@ -4096,7 +4096,7 @@ CN PLACEHOLDER
 優「『うみつきの　こくうにすずし　ほととぎす』」%K%P
 'The empty fall sky%NA single cuckoo calls out%NBrings a chill to me'.
 CN PLACEHOLDER
-„Море-и-луна-сливаются-в-иллюзорном-осеннем-небе-неся-%Nсловно-птица-сквозь-пелену-времени-тихий-океанский-бриз“.
+„В небе пустом над лунным морем%Nпрохладой веет осенней порой...%NКричит кукушка“.
 
 優「よし！　それじゃ、このフレーズを試してみるよ」%K%P
 Alright! Let's try this for a password.
@@ -4121,7 +4121,7 @@ CN PLACEHOLDER
 優「うみつきの、こくうにすずし、ほととぎす……と」%K%P
 'The empty fall sky... A single cuckoo calls out... Brings a chill to me'.%NOkay then!
 CN PLACEHOLDER
-Море-и-луна-сливаются-в-иллюзорном-осеннем-небе-неся-%Nсловно-птица-сквозь-пелену-времени-тихий-океанский-бриз. Есть!
+В небе-пустом-над лунным морем-прохладой-веет осенней порой... Кричит кукушка. Есть!
 
 カタッ！%K%P
 Tap!

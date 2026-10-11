@@ -1359,7 +1359,7 @@ CN PLACEHOLDER
 空「私は、ＬｅＭＵ開発部のシステムエンジニアをしているのです」%K%P
 Probably because I am a system engineer at LeMU's research and development division.
 CN PLACEHOLDER
-Наверное, это потому, что я системный инженер в Отделе разработки LeMU.
+Наверное, это потому, что я %TS035системный инженер%TE в Отделе разработки LeMU.
 
 空「一応、主任代理……ということになっています」%K%P
 Basically... the assistant chief.
@@ -1459,7 +1459,7 @@ CN PLACEHOLDER
 優「鳩鳴館の２年生を対象にして行なわれる、イベントのこと」%K%P
 It's an event for juniors at Kyumeikan.
 CN PLACEHOLDER
-Программа для второгодок Кюмейкана.
+Программа для второгодок Кюмэйкана.
 
 沙羅「まあ、ほとんどが遊びみたいなもんだけど」%K%P
 But it's basically just for fun.
@@ -2823,7 +2823,7 @@ CN PLACEHOLDER
 空はそう言って、テーブルの上のホログラム画像に手を触れた。%K%P
 Saying that, Sora touched the holographic image above the table.
 CN PLACEHOLDER
-С этими словами Сора дотронулась до изображения над столом.
+С этими словами Сора дотронулась до %TS099голографическое%TE изображения над столом.
 
 次のようなことを述べる彼女。%K%P
 Then she said...

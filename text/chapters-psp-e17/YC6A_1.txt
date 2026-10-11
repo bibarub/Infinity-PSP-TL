@@ -261,7 +261,7 @@ CN PLACEHOLDER
 空「ＩＢＦの診療室には、最新型の『高圧酸素治療装置』があるようです」%K%P
 It appears that they have a new type of 'high-pressure oxygen treatment device' there...
 CN PLACEHOLDER
-В IBF имеется новый тип системы оксигенотерапии высокого давления...
+В IBF имеется новый тип системы гипербарической оксигенотерапии...
 
 空「その治療装置を使えば、白血球の殺菌作用が増大します」%K%P
 And if we can treat her with that, her leukocyte, er, white blood cell activity should increase.
@@ -801,7 +801,7 @@ CN PLACEHOLDER
 武「なあ、優？　空の言ってた『高圧酸素治療装置』ってのはどれなんだ？」%K%P
 Hey, You? Where is that high-pressure oxygen thing that Sora was talking about?
 CN PLACEHOLDER
-Эй, Ю? Где та штуковина „оксигенотерапии высокого давления“, о которой говорила Сора?
+Эй, Ю? Где та штуковина „гипербарической оксигенотерапии“, о которой говорила Сора?
 
 優「わ、わかんないよ、そんなの……」%K%P
 H-How should I know...?
@@ -861,7 +861,7 @@ CN PLACEHOLDER
 武「いや、それなら訊きたいことがある。高圧酸素治療装置ってのを探してるんだ」%K%P
 Well then, there's something I want to ask you. We're looking for some kind of high-pressure oxygen treatment device.
 CN PLACEHOLDER
-Ну, тогда нам нужна ваша помощь. Мы ищем штуковину под названием „системы оксигенотерапии высокого давления“.
+Ну, тогда нам нужна ваша помощь. Мы ищем штуковину под названием „система гипербарической оксигенотерапии“.
 
 武「診療室まで来たのはいいが、俺達にはどれがその装置かわからない。頼む、教えてくれ」%K%P
 We've come as far as the examination room, but we don't have a clue what to look for. Can you help us? Please!
@@ -871,7 +871,7 @@ CN PLACEHOLDER
 研究員「酸素治療……ああ、ポッドだな」%K%P
 Oxygen treatment... Yeah, you're looking for the pods.
 CN PLACEHOLDER
-Кислородного лечения?.. Да, вы говорите о модулях.
+Гипербарической оксигенотерапии... да, вы говорите о модулях.
 
 研究員「合金製のカプセルがあるはずだ、中にマットが敷いてある」%K%P
 There should be some alloy capsules with mats set inside of them.
@@ -956,7 +956,7 @@ CN PLACEHOLDER
 優「高圧酸素治療……セット……」%K%P
 High-pressure oxygen treatment... set...
 CN PLACEHOLDER
-Лечение кислородом под высоким давлением... есть...
+Гипербарическая оксигенотерапия... есть...
 
 円筒形の柱についたモニターに変化が現れ、２つのポッドが順調に機能し始めたことがわかった。%K%P
 The screens of the monitors attached to the tubes flickered. Both of the pods seemed to be functioning normally.
@@ -1311,7 +1311,7 @@ CN PLACEHOLDER
 優「高圧酸素治療の他にも、レーザーでの減菌やら、簡単な手術のできる機能も備わってるらしいし……」%K%P
 It seems that this pod can also do laser disinfecting, as well as simple surgery, in addition to the oxygen treatment.
 CN PLACEHOLDER
-Кажется, помимо кислородного лечения этот модуль может ещё производить лазерное обеззараживание, а также простейшую хирургию...
+Кажется, помимо гипербарической оксигенотерапии этот модуль может ещё производить лазерное обеззараживание, а также простейшую хирургию...
 
 優「使い方によっては、ハイバネーションすら可能のようだけど……」%K%P
 And depending on how you use it, even cryogenic suspension...
@@ -3446,7 +3446,7 @@ IBF-3, пожалуйста ответьте!..
 管制官「こちらは海上保安庁特殊救難隊」%K%P
 This is the emergency rescue team from the Maritime Defense Force.
 CN PLACEHOLDER
-Это спасательная команда военно-морских сил.
+Говорит специальный спасательный отряд Береговой охраны.
 
 武は慌てて飛び起き、端末に食らいついた。%K%P
 Takeshi rushed over to the terminal.
@@ -3466,7 +3466,7 @@ CN PLACEHOLDER
 管制官「第３ＩＢＦか！？　こちらインゼル・ヌル管制室、海上保安庁特救隊本部」%K%P
 IBF Three!? I repeat, this is the Maritime Defense Force emergency rescue team calling from the control center at Insel Null.
 CN PLACEHOLDER
-IBF-3?! Повторяю, это спасательная команда военно-морских сил.
+IBF-3?! Говорит диспетчерская Инсель Нуль, штаб спасательного отряда Береговой охраны.
 
 管制官「こちらの通信が聞こえるか？」%K%P
 Can you hear me?
@@ -4586,7 +4586,7 @@ CN PLACEHOLDER
 妙なかけ声とともに、武がコンソールのエンターキーを叩く。%K%P
 Letting out a strange shout, Takeshi pounded the enter key on the console.
 CN PLACEHOLDER
-Издав странный возглас, Такэси клацнул клавишей «Enter».
+Издав странный возглас, Такэси клацнул клавишей Enter.
 
 コンソールのディスクスロットから、円盤が吐き出された。%K%P
 A round, flat wafer shot out of the disc drive.
@@ -4886,7 +4886,7 @@ CN PLACEHOLDER
 武「海上保安庁の特殊救難隊とか言ってたかな」%K%P
 Yeah, they called themselves the Maritime Defense Force, I think.
 CN PLACEHOLDER
-Да. Они сказали что-то про военно-морские силы, кажется.
+Да, они сказали что-то про Береговую охрану, или вроде того.
 
 武「優が通信回線を開いてくれたんで、インゼル・ヌルと連絡が取れたんだ」%K%P
 You was able to open up a communication line to Insel Null.

@@ -1840,7 +1840,7 @@ CN PLACEHOLDER
 沙羅「ん〜？　ちびっとだけ教えてみ？」%K%P
 Come on. Just tell me a little.
 CN PLACEHOLDER
-Ммммм... ну давай, колись.
+М-м... ну давай, колись.
 
 沙羅「あんなテクや、こんなテクかね？」%K%P
 What you said or what you did.
@@ -1850,7 +1850,7 @@ CN PLACEHOLDER
 沙羅「ぃや〜ん、だめだってば〜、これ以上言わせたら１８禁だよ〜」%K%P
 Or I guess to hear the juicy details you have to be over eighteen, maybe〜
 CN PLACEHOLDER
-Неееет... не может быть... детям до 18 это знать нельзя?
+Не-е-ет... не может быть... детям до 18 это знать нельзя?
 
 『１８禁』って、なんだろう？%K%P
 What did she mean, eighteen?
@@ -1895,7 +1895,7 @@ CN PLACEHOLDER
 なぜか危険信号を感じ取ったぼくは、日光東照宮の三猿を演じることにしたのだった。%K%P
 I thought it was risky to continue the conversation, decided to take a hint from history, and...
 CN PLACEHOLDER
-Продолжать сей разговор рискованно, поэтому я решил выучить для себя урок...
+Не знаю почему, но я почувствовал угрозу, и я решил изобразить тех %TS033трёх обезьянок%TE...
 
 みざる……いわざる……きかざる。%K%P
 “See no more, speak no more, hear no more.”

@@ -126,7 +126,7 @@ CN PLACEHOLDER
 優「ううん、そうじゃなくて……よくここまでの経路を覚えてたなぁって」%K%P
 That's not what I mean... I mean you remembered the route here.
 CN PLACEHOLDER
-Нееет, я не об этом... я удивлена, что ты вспомнил, как сюда добраться.
+Не-е-ет, я не об этом... я удивлена, что ты вспомнил, как сюда добраться.
 
 少年「何言ってんの？　優がここまで呼んだんでしょ？」%K%P
 What are you talking about? You called me here, right?
