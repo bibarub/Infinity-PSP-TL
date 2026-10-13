@@ -1584,7 +1584,7 @@ CN PLACEHOLDER
 空「それは、ライプリヒ製薬が、日本とドイツの合弁企業だからです」%K%P
 That's because Leiblich Pharmaceuticals is a joint venture between a Japanese and a German company.
 CN PLACEHOLDER
-Потому что Лейблих Фармасьютикалс является японским подразделением немецкой компании.
+Потому что Лейблих Фармасьютикалс является совместным японско-немецким предприятием.
 
 空「本社はフランクフルトにありますし、役員の大半もドイツ人で占められています」%K%P
 Its headquarters are in Frankfurt and the majority of officials are German.
@@ -1794,7 +1794,7 @@ CN PLACEHOLDER
 ＬｅＭＵの実権を握っている日独合弁企業『ライプリヒ製薬』……。%K%P
 LeMU was controlled by a Japanese-German joint venture called Leiblich Pharmaceuticals...
 CN PLACEHOLDER
-И понял, что если владельцем LeMU является японско-немецкое подразделение Лейблих Фармасьютикалс...
+И понял, что если владельцем LeMU является японско-немецкое совместное предприятие Лейблих Фармасьютикалс...
 
 ただの製薬会社が、なぜこんなところにテーマパークなんて作ったのか……？%K%P
 There had to be a reason that a pharmaceutical company would build a theme park in such a place...
@@ -2124,7 +2124,7 @@ CN PLACEHOLDER
 ＬｅＭＵの実権を握っている日独合弁企業『ライプリヒ製薬』……。%K%P
 LeMU was controlled by a Japanese-German joint venture called Leiblich Pharmaceuticals...
 CN PLACEHOLDER
-Владельцем LeMU является японско-немецкое подразделение Лейблих Фармасьютикалс...
+Владельцем LeMU является японско-немецкое совместное предприятие Лейблих Фармасьютикалс...
 
 なぜこんなところにテーマパークなんて作ったのだろう……？%K%P
 Why would they build a theme park?

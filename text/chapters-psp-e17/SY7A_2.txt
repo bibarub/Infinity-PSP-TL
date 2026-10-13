@@ -1231,7 +1231,7 @@ CN PLACEHOLDER
 扉の中に吸い込まれるように消えて行く……。%K%P
  As if being absorbed into the door, the girl disappeared...
 CN PLACEHOLDER
- Словно поглощённая дверью, девочка исчезла...
+Словно поглощённая дверью, девочка исчезла...
 
 優が息を切らしながらやってきた。%K%P
 Out of breath, You closed in on me.
@@ -1291,7 +1291,7 @@ CN PLACEHOLDER
 ブシューーーーーッ！%K%P
 Ssssssss!
 CN PLACEHOLDER
-Фффффшшш!
+Ф-ф-ф-ф-фш-ш-ш!
 
 通路の壁面から、水が猛烈な勢いで噴出を始める。%K%P
 From the surface of the walls, water began to gush in.
@@ -1311,12 +1311,12 @@ CN PLACEHOLDER
 アナウンス「圧潰まで……あと……５分……です」%K%P
 Five minutes... until... implosion.
 CN PLACEHOLDER
-Пять минут... до... затопления.
+Пять минут... до... разрушения.
 
 アナウンスはやがて、ドイツ語、英語で呼びかける。%K%P
 The announcement repeated itself in German and English.
 CN PLACEHOLDER
-Автообъявление повторилось на Немецком, Французском и Японском.
+Автообъявление повторилось на немецком, французском и японском.
 
 少年「くそっ！　開けよ！　開けったら！！」%K%P
 Damn it! Open up! Open this door!
@@ -1326,7 +1326,7 @@ CN PLACEHOLDER
 ドン！　ドン！　ドン！%K%P
 Boom! Boom! Boom! I struck with my fists.
 CN PLACEHOLDER
-Буух! Буух! Буух! Я бью по ней кулаком.
+Бу-ух! Бу-ух! Бу-ух! Я бью по ней кулаком.
 
 少年「ひらけよぉーーーーーーーーっ！！！！」%K%P
 Open uuuuuup!
@@ -1441,7 +1441,7 @@ CN PLACEHOLDER
 アナウンス「圧潰まで……あと……３分……です」%K%P
 Three minutes... until... implosion.
 CN PLACEHOLDER
-Три минуты... до... затопления.
+Три минуты... до... разрушения.
 
 非常階段を駆け上がり、ツヴァイトシュトックへと到着する。%K%P
 Bounding up the emergency stairs, we reached Zweiter Stock.
@@ -1456,7 +1456,7 @@ CN PLACEHOLDER
 アナウンス「圧潰まで……あと……２分……です」%K%P
 Two minutes... until... implosion.
 CN PLACEHOLDER
-Две минуты... до... затопления.
+Две минуты... до... разрушения.
 
 ふたりで力を合わせ、非常階段の扉を開く。%K%P
 We applied our strength together and pushed open the emergency stairwell door.
@@ -1471,7 +1471,7 @@ CN PLACEHOLDER
 アナウンス「圧潰まで……あと……１分……です」%K%P
 One minute... until... implosion.
 CN PLACEHOLDER
-Одна минута... до... затопления.
+Одна минута... до... разрушения.
 
 １階――エルストボーデンの表示が目に飛び込んで来る。%K%P
 In the distance, the sign read Erster Boden. The first floor.

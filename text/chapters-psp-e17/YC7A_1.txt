@@ -485,12 +485,12 @@ Drei Minuten
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
 vor der Implosion.>”
 CN PLACEHOLDER
-vor der Implosion.»%N(Три минуты до затопления.)
+vor der Implosion.»%N(Три минуты до разрушения.)
 
 圧潰３分前――。%K%P
 Three minutes until implosion—
 CN PLACEHOLDER
-Три минуты до затопления...
+Три минуты до разрушения...
 
 武とつぐみは潜水艇に駆け寄り、ハッチの中へと飛び込んだ。%K%P
 Takeshi and Tsugumi hurriedly scrambled to the sub and jumped down the hatch.

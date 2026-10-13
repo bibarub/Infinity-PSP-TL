@@ -721,7 +721,7 @@ CN PLACEHOLDER
 つぐみの右腿には鉄材が深くめり込み、とても動けそうにない。%K%P
 A metal shard had dug deeply into Tsugumi's right thigh, and it didn't look like she could move.
 CN PLACEHOLDER
-Кусок металла впился Цугуми в правую голень. Она не может даже пошевелиться.
+Кусок металла впился Цугуми в правое бедро. Похоже, она не может даже пошевелиться.
 
 周囲の傷つけられたパイプからは、水蒸気が霧となって舞っている。%K%P
 Steam was pouring out of the burst pipes surrounding us.
@@ -741,7 +741,7 @@ CN PLACEHOLDER
 つぐみは顔をしかめた。腿を押さえている。%K%P
 Tsugumi grimaced and clasped her thigh tightly.
 CN PLACEHOLDER
-Цугуми скорчилась и схватилась за голень.
+Цугуми скорчилась и схватилась за бедро.
 
 かなり出血しているらしい。%K%P
 She was losing a lot of blood.
@@ -1436,7 +1436,7 @@ CN PLACEHOLDER
 壁面の医療器具ラックから止血帯を取り出し、つぐみの大腿部を締める。%K%P
 A tourniquet was taken out from a rack of medical instruments on the wall and fastened around Tsugumi's thigh.
 CN PLACEHOLDER
-Она схватила жгут из медицинского набора на стене и обвязала им голень Цугуми.
+Она схватила жгут из медицинского набора на стене и обвязала им бедро Цугуми.
 
 優「ちょっとマズいわね……」%K%P
 This is bad...
@@ -1486,7 +1486,7 @@ CN PLACEHOLDER
 空「大腿骨に損傷。複雑骨折しているかもしれません」%K%P
 Her femur is fractured. And it looks like it might be a complex fracture.
 CN PLACEHOLDER
-Кость порвала голень. Но кажется, она может нормально срастись.
+Повреждена бедренная кость. Возможно, перелом сложный.
 
 空「それと、動脈が切れています。切開縫合が必要でしょう」%K%P
 That, and the artery is severed. She'll need sutures.

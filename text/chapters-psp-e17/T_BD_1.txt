@@ -91,7 +91,7 @@ Drei Minuten
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
 vor der Implosion.>”
 CN PLACEHOLDER
-vor der Implosion.»%N(Три минуты до затопления.)
+vor der Implosion.»%N(Три минуты до разрушения.)
 
 部屋のスピーカーから、無機質なアナウンスが聞こえる。%K%P
 An announcement grated mechanically from the room's speakers.

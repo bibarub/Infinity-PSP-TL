@@ -3440,7 +3440,7 @@ CN PLACEHOLDER
 管制官「もしも一部分が圧潰するようなことにでもなれば、どこかのエリアが崩落し、沈没する危険がある」%K%P
 If one section implodes, there's the risk that another area could collapse and start sinking.
 CN PLACEHOLDER
-Если одна из секций будет затоплена, то соседние зоны последуют за ней, по принципу домино.
+Если где-то корпус не выдержит давления, какая-нибудь зона может обрушиться и затонуть.
 
 管制官「いずれにしろ、重量のある破片が落下し、研究所上部にぶつかることが予想される」%K%P
 If that happens, we think there's a high possibility that heavy pieces could crash down on the research facility.
