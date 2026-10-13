@@ -216,7 +216,7 @@ CN PLACEHOLDER
 空「どうやらタイマーが、故障してしまったようです」%K%P
 It seems that the timer has broken.
 CN PLACEHOLDER
-Похоже, часы вышел из строя.
+Похоже, часы вышли из строя.
 
 武「そっか……」%K%P
 Oh...
@@ -786,7 +786,7 @@ CN PLACEHOLDER
 空「全部全部、『好き』なんです」%K%P
 I love every bit of you!
 CN PLACEHOLDER
-Ты мой суженый!
+Я люблю всё-всё в тебе.
 
 空「どんな感情だろうと……あなたのことを思って、考えていれば、それだけで私は、とても幸せなんです」%K%P
 Whatever I'm going through... all it takes is thinking of you to make me happy.
@@ -1121,7 +1121,7 @@ CN PLACEHOLDER
 空「今、コピーの間に倉成さんと話したことは、どこにも記憶されませんね」%K%P
 I suppose that what we just talked about while the disc was copying won't be on that disc.
 CN PLACEHOLDER
-Наверное, то, о чём мы говорили во время записи, не сохранилось на этом диске. Как думаешь, Такэси?
+Наверное, то, о чём мы говорили во время записи, не сохранилось на этом диске.
 
 空「それはちょっぴり、残念です」%K%P
 It's kind of too bad.
@@ -1141,12 +1141,12 @@ CN PLACEHOLDER
 武「俺がきちんと、覚えているから……」%K%P
 I will remember...
 CN PLACEHOLDER
-Я помню...
+Я всё как следует запомню...
 
 武「今度空に会ったときに、それを全部、話して伝えるよ」%K%P
 And the next time that we meet, I'll tell you about it.
 CN PLACEHOLDER
-И, в следующий раз, как мы встретимся, я всё тебе расскажу.
+И в следующий раз, как мы встретимся, я всё тебе расскажу.
 
 空「そうですか？　では、約束しましょう」%K%P
 Really? Okay, then let's promise.
@@ -1161,7 +1161,7 @@ CN PLACEHOLDER
 俺達は、指切りをする。%K%P
 We crossed our hearts.
 CN PLACEHOLDER
-Мы скрестили наши сердца.
+Мы дали клятву на мизинчиках.
 
 約束。%K%P
 Promise.
@@ -1266,7 +1266,7 @@ CN PLACEHOLDER
 俺は空のすべてを、感じていた。%K%P
 I could sense everything about Sora.
 CN PLACEHOLDER
-Я вижу... все «цвета» Соры.
+Я чувствовал всю Сору.
 
 空「倉成さん……」%K%P
 Kuranari-san...

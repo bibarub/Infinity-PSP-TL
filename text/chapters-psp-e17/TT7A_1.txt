@@ -771,17 +771,17 @@ CN PLACEHOLDER
 つぐみ「見たいの？」%K%P
 Did you want to see more?
 CN PLACEHOLDER
-Показать?
+Хочешь посмотреть?
 
 武「何をだよ？」%K%P
 More what?
 CN PLACEHOLDER
-Что показать?
+На что?
 
 つぐみ「……いいよ、もう……バカ」%K%P
 ...Forget it, you... jerk.
 CN PLACEHOLDER
-Ничего... балбес.
+Да ну тебя... балбес.
 
 武「…………」%K%P
 .........
@@ -1346,7 +1346,7 @@ CN PLACEHOLDER
 そこに何があるかは知らない。%K%P
 I didn't know if there was “something above”.
 CN PLACEHOLDER
-Я не знаю, есть ли «что-то над нами».
+Что там – я не знаю.
 
 知る必要があるのだろうか。%K%P
 Didn't know if it really mattered.
@@ -2676,7 +2676,7 @@ CN PLACEHOLDER
 悔しくて、肩を震わせて……力なく笑った。%K%P
 Her shoulders shook from disappointment... and she laughed without conviction.
 CN PLACEHOLDER
-Её плечи трясёт от разочарования... она смеётся без упрёка.
+От досады у неё дрожат плечи... и она бессильно смеётся.
 
 つぐみ「バカみたい……」%K%P
 So stupid...
@@ -3096,7 +3096,7 @@ CN PLACEHOLDER
 俺はつぐみから目を逸らさず、はっきりと答える。%K%P
 I didn't look away when I spoke to her and said firmly...
 CN PLACEHOLDER
-Я не огляделся, когда заговорил с ней. Затем решительно сказал...
+Не отводя глаз от Цугуми, я решительно произнёс...
 
 武「俺は確かにバカだが……」%K%P
 I may be stupid, but...

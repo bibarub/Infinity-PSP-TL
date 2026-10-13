@@ -151,7 +151,7 @@ CN PLACEHOLDER
 俺達を取り巻く状況は芳しくないが、いろいろなことを考えられるだけの猶予はまだ残されていた。%K%P
 Although the situation we were in didn't look great, there were still various options available to us.
 CN PLACEHOLDER
-Хоть ситуация отнюдь не сахар, у нас по-прежнему есть шанс. И даже не один.
+Дела наши были плохи, но время подумать – о том, о сём – у нас пока было.
 
 武「なぁ、優……あのオッサンのことなんだけど」%K%P
 Hey, You... About that old guy...
@@ -3663,7 +3663,7 @@ CN PLACEHOLDER
 空「私は……レミシステムのＡＩ、茜ヶ崎空ですから」%K%P
 I'm... Akanegasaki Sora, artificial intelligence of LeMMIH's system.
 CN PLACEHOLDER
-Я... Аканэгасаки Сора, искусственный интеллект системы LeMMIH.
+Я... Аканэгасаки Сора, ИИ системы LeMMIH.
 
 彼女は感情をかなぐり捨てながら言う。%K%P
 She threw off all emotion as she said it.
@@ -4223,7 +4223,7 @@ CN PLACEHOLDER
 武「あそこで、分身の術も見せてもらったし……」%K%P
 That's where you showed me the art of my other self...
 CN PLACEHOLDER
-Там, где ты дала мне понять, что мы не одиноки...
+И ещё там ты показала мне, как умеешь раздваиваться...
 
 空「…………」%K%P
 .........

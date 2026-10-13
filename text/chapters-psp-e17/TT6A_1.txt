@@ -136,7 +136,7 @@ CN PLACEHOLDER
 俺達を取り巻く状況は芳しくないが、いろいろなことを考えられるだけの猶予はまだ残されていた。%K%P
 Although the situation we were in didn't look great, there were still various options available to us.
 CN PLACEHOLDER
-Хоть ситуация отнюдь не сахар, у нас по-прежнему есть шанс. Пускай он и один. И всё равно, что мы откладываем неизбежное.
+Дела наши были плохи, но время подумать – о том, о сём – у нас пока было.
 
 武「なぁ、つぐみ……あのオッサンのことなんだけど」%K%P
 Hey, Tsugumi... About that old guy...
@@ -3085,12 +3085,12 @@ CN PLACEHOLDER
 つぐみ「迎えに行かなくちゃ。大切な、私の友達……」%K%P
 I've got to go meet him. My best friend...
 CN PLACEHOLDER
-Он ждёт меня. Мой лучший друг...
+Надо сходить за ним. За моим дорогим другом...
 
 つぐみ「ジャンガリアンハムスター……」%K%P
 Djungarian hamster...
 CN PLACEHOLDER
-Джунгарский хомячок...
+Джунгарским хомячком...
 
 つぐみ「名前は、チャミ……」%K%P
 His name is Chami...
@@ -3140,7 +3140,7 @@ CN PLACEHOLDER
 手を握ったり開いたりしてみる。%K%P
 I tried opening and closing my fists.
 CN PLACEHOLDER
-Затем попытался расжать и сжать кулаки.
+Затем попытался разжать и сжать кулаки.
 
 違和感はない……。%K%P
 Strange.
