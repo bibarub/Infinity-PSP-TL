@@ -1876,7 +1876,7 @@ Fünf Minuten
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
 vor der Implosion.>”
 CN PLACEHOLDER
-vor der Implosion.»%N(Пять минут до затопления.)
+vor der Implosion.»%N(Пять минут до разрушения.)
 
 武「おい、なんだ今のアナウンス」%K%P
 Hey, WHAT did that announcement just say!?
@@ -2001,7 +2001,7 @@ Vier Minuten
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
 vor der Implosion.>”
 CN PLACEHOLDER
-vor der Implosion.»%N(Четыре минуты до затопления.)
+vor der Implosion.»%N(Четыре минуты до разрушения.)
 
 ＩＢＦ全体を揺るがす地響きは止まない。%K%P
 The shaking and rumbling of IBF continued.

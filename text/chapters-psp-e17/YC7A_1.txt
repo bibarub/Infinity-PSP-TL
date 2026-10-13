@@ -266,7 +266,7 @@ Fünf Minuten
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
 vor der Implosion.>”
 CN PLACEHOLDER
-vor der Implosion.»%N(Пять минут до затопления.)
+vor der Implosion.»%N(Пять минут до разрушения.)
 
 武「な、なんだ、今のアナウンス！？」%K%P
 Hey, WHAT did that announcement just say!?
@@ -368,7 +368,7 @@ CN PLACEHOLDER
 %LCＶｉｅｒ⑳Ｍｉｎｕｔｅｎ⑳Ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．
 <Vier Minuten vor der Implosion.>
 CN PLACEHOLDER
-Vier Minuten vor der Implosion.»%N(Четыре минуты до затопления.)
+Vier Minuten vor der Implosion.»%N(Четыре минуты до разрушения.)
 
 %P
 

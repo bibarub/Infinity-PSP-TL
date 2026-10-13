@@ -681,7 +681,7 @@ CN PLACEHOLDER
 空「圧潰推定時刻まで、あとわずかです。急いでください」%K%P
 There is very little time left before the estimated implosion time. You must hurry.
 CN PLACEHOLDER
-До расчётного времени затопления осталось совсем немного времени. Вам надо спешить.
+До разрушения времени затопления осталось совсем немного времени. Вам надо спешить.
 
 少年「うん、わかってる」%K%P
 Yeah, we know.

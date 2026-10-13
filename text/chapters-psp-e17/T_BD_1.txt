@@ -246,7 +246,7 @@ Zwei Minuten
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
 vor der Implosion.>”
 CN PLACEHOLDER
-vor der Implosion.»%N(Две минуты до затопления.)
+vor der Implosion.»%N(Две минуты до разрушения.)
 
 足を引きつらせながら、つぐみは扉へと歩いて行く。%K%P
 Dragging her leg, Tsugumi hobbled toward the door.
@@ -426,7 +426,7 @@ Eine Minute
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
 vor der Implosion.>”
 CN PLACEHOLDER
-vor der Implosion.»%N(Одна минута до затопления.)
+vor der Implosion.»%N(Одна минута до разрушения.)
 
 ピーーーーーー…………。%K%P
 Beeeeeeeep...

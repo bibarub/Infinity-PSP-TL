@@ -291,7 +291,7 @@ CN PLACEHOLDER
 つぐみの右の大腿部に刻まれた……かすかな『傷跡』を……。%K%P
 On Tsugumi's right thigh... a faint scar...
 CN PLACEHOLDER
-Лёгкий шрам... на правой голени Цугуми...
+Лёгкий шрам... на правом бедре Цугуми...
 
 少年「そ、そ、そ、その傷は……！？」%K%P
 Wha-Wha-What is that scar...!?
@@ -306,7 +306,7 @@ CN PLACEHOLDER
 少年「太ももの、傷跡のことだよ！」%K%P
 The scar on your thigh!
 CN PLACEHOLDER
-Шрам, на твоей правой голени!
+Шрам, на твоём правом бедре!
 
 つぐみ「これは……」%K%P
 This...
