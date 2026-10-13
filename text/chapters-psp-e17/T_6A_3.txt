@@ -476,7 +476,7 @@ CN PLACEHOLDER
 武「ピグマリオンの話か？」%K%P
 What is that, something you read in a book?
 CN PLACEHOLDER
-Ты про эффект Пигмалиона?
+Это ты про Пигмалиона?
 
 優「ううん、違うの」%K%P
 Well... not exactly.
