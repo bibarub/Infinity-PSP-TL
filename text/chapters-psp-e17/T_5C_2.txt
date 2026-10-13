@@ -1163,7 +1163,7 @@ CN PLACEHOLDER
 つぐみ「１２歳の私は父親の仕事の関係で、家族と一緒に渡米していた」%K%P
 I was twelve at the time, and my family went to America because of my father's job.
 CN PLACEHOLDER
-Когда мне было 12, семья переехала в США из-за работы отца.»%K%P(США? Не знаю... это лишь предположение, но... видимо, тот был программистом, а её семья переехала в Кремниевую Долину...)%K%P
+Когда мне было 12, семья переехала в США из-за работы отца.
 
 つぐみ「その頃の私の友達……」%K%P
 A friend of mine then...
@@ -2523,7 +2523,7 @@ CN PLACEHOLDER
 きっと一時的に記憶が錯乱してしまって、そのせいで彼はつい熱くなってしまったのだろう、と優は言った。%K%P
 You told me that he'd probably been upset by a reoccurring memory and had gotten worked up in spite of himself.
 CN PLACEHOLDER
-Ю объяснила, что его вспышка отчаяния и злости была спровоцирована частичным восстановлением воспоминаний.
+Наверное, у него ненадолго помутилось в памяти, оттого он и вспылил.
 
 俺もあの時取り乱して、随分ひどいことを言ってしまったと思う。%K%P
 I felt that I'd gotten out of hand and had said some terrible things myself.

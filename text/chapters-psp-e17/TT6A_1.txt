@@ -316,7 +316,7 @@ CN PLACEHOLDER
 武「そしてガスが急速に抜けていって、気圧が下がり、ＬｅＭＵの一部は圧潰。浸水が始まり、水密扉が下りる……」%K%P
 And the built-up gas inside the complex quickly escaped, which brought down the pressure, a section of LeMU started flooding, and the watertight doors closed.
 CN PLACEHOLDER
-В результате – газ, что находился под высоким давлением, быстро вышел из сооружения. При этом, давление внутри упало, часть LeMU стала затопляться, а водоупорные двери закрылись.
+В результате – давление упало, часть LeMU смяло давлением воды. Пошла вода, водоупорные двери опустились.
 
 武「それで、俺達が閉じ込められることになった……？」%K%P
 And that's how we ended up getting stuck here...?
