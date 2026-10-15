@@ -126,7 +126,7 @@ CN PLACEHOLDER
 武「ヤバいと気づいてからじゃ遅い……？」%K%P
 After you figure out you're in trouble, it's too late...?
 CN PLACEHOLDER
-А когда проявится, может быть уже поздно?..
+А когда станет хуже, будет поздно?..
 
 空「はい」%K%P
 Correct.

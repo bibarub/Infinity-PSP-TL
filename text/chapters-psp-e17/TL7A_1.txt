@@ -1101,7 +1101,7 @@ CN PLACEHOLDER
 武「おう、なんじゃい？」%K%P
 Hey, what can I do for ya?
 CN PLACEHOLDER
-Да, что вам угодно, миледи?
+Да, что вам угодно?
 
 空「ふふふっ……」%K%P
 Hahaha...
