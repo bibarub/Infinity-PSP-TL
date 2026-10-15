@@ -91,12 +91,12 @@ CN PLACEHOLDER
 空「誤差の範囲内だと思いますが……いえ、待ってください」%K%P
 Well it should be within the margin of error, but... No, wait a second.
 CN PLACEHOLDER
-Если исходить из границ погрешности... нет, секундочку.
+Если исходить из границ погрешности... Нет, секундочку.
 
 空「ツヴァイトシュトックの倉庫、圧力制御用の配管に異状があります」%K%P
 There is an anomaly in one of the pressure-regulating pipes at Zweiter Stock's warehouse.
 CN PLACEHOLDER
-Обнаружено отклонение от нормы в трубопроводе регуляции давления, на складе на Цвайте Шток.
+Обнаружено отклонение от нормы в трубопроводе регуляции давления на складе на Цвайте Шток.
 
 武「圧力制御用の配管って？」%K%P
 What are pressure-regulating pipes?
@@ -251,7 +251,7 @@ CN PLACEHOLDER
 武「どうすればいい？」%K%P
 What should I do?
 CN PLACEHOLDER
-Что нам нужно сделать?
+Что мне делать?
 
 つぐみ「パイプが少し歪んでしまっているわ……金具を締め直すから、パイプを持って支えてくれる？」%K%P
 The pipe is bent a little bit... I'm going to clamp a metal sleeve on it. Would you support the pipe for me?
@@ -431,7 +431,7 @@ CN PLACEHOLDER
 つぐみ「武、ここをつけたらすぐに、そっちのバルブを元に戻して」%K%P
 Takeshi, after I've finished attaching this, return the valve to its original position right away.
 CN PLACEHOLDER
-Такэси, когда я закончу скреплять здесь, верни вентили в исходные положения.
+Такэси, когда я закончу скреплять здесь, верни вентили в исходное положение.
 
 武「ああ、了解だ」%K%P
 Okay.
@@ -451,7 +451,7 @@ CN PLACEHOLDER
 武「わかってる！」%K%P
 Alright! Geez!
 CN PLACEHOLDER
-Хорошо! Чёрт!
+Да знаю я!
 
 素早くバルブを逆回転させる。%K%P
 I quickly turned the valve back in the other direction.
@@ -501,7 +501,7 @@ CN PLACEHOLDER
 感電、しないだろうな……。%K%P
 I hoped it didn't shock me...
 CN PLACEHOLDER
-(Господи, только бы его не коротнуло вместе со мной...)
+(Вот бы его не коротнуло...)
 
 ――と思った瞬間！%K%P
 —As soon as I thought that!
@@ -1111,7 +1111,7 @@ CN PLACEHOLDER
 つぐみ「『大丈夫』なんて……何を根拠に言ってるの」%K%P
 'You'll be okay'... What makes you think that?
 CN PLACEHOLDER
-„Ты поправишься“... с чего ты это взял?
+„Ты поправишься“... С чего ты это взял?
 
 つぐみ「どうかしてるわね……」%K%P
 You're the one who's crazy...
@@ -1816,7 +1816,7 @@ CN PLACEHOLDER
 優「なんとか、やってみるよ！　麻酔は？」%K%P
 I'll do my best! Do we have anesthetic?
 CN PLACEHOLDER
-Сделаю всё, что смогу! У нас есть обезболивающие?
+Сделаю всё, что смогу! У нас есть обезболивающее?
 
 空「用意します。他にもレーザーメス、鉗子、縫合糸……必要なものはすべてこの部屋にありますから」%K%P
 I'll get it ready. The laser scalpel, forceps, and sutures... Everything we need is already in the room.

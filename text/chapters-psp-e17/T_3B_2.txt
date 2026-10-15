@@ -1806,7 +1806,7 @@ CN PLACEHOLDER
 空「このＬｅＭＵの由来の……レムリア大陸に伝わる、伝説です」%K%P
 It is a legend passed down through the Lemurian continent... and is the origin behind LeMU.
 CN PLACEHOLDER
-Один из истоков LeMU... это легенда, что почила вместе с Лемурийским континентом.
+Один из истоков LeMU... Это легенда, что почила вместе с Лемурийским континентом.
 
 空「そういうことにしておいてください」%K%P
 Let's just leave it at that.

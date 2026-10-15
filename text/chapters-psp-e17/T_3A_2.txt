@@ -31,7 +31,7 @@ CN PLACEHOLDER
 武「どうすればいい？」%K%P
 What should I do?
 CN PLACEHOLDER
-Что нам нужно сделать?
+Что мне делать?
 
 つぐみ「パイプが少し歪んでしまっているわ……金具を締め直すから、パイプを持って支えてくれる？」%K%P
 The pipe is bent a little bit... I'm going to clamp a metal sleeve on it. Would you support the pipe for me?
@@ -301,7 +301,7 @@ CN PLACEHOLDER
 反時計回りでいいんだよな……。%K%P
 That one went counterclockwise, right...
 CN PLACEHOLDER
-Так, этот против часовой, точно...
+Так, этот против часовой, ага...
 
 俺は赤いバルブを廻した。%K%P
 I turned the red valve.
@@ -761,7 +761,7 @@ CN PLACEHOLDER
 つぐみ「ふふっ、これが大丈夫に見えるの？」%K%P
 Heh heh. Does this LOOK okay to you?
 CN PLACEHOLDER
-Ха, ха. А что, по-твоему, ЭТО называется „в порядке“?
+Ха- ха. А что, по-твоему, ЭТО называется „в порядке“?
 
 つぐみ「まったく、バカなこと訊くのね」%K%P
 Always asking stupid questions.
@@ -996,7 +996,7 @@ CN PLACEHOLDER
 つぐみ「ああ、そう……。ふふっ、いい心がけね」%K%P
 Oh, really... Heh heh. Well, that's reason enough, I suppose.
 CN PLACEHOLDER
-Ах, и правда... хе, хе. Да, это веская причина, я полагаю.
+Ах, и правда... хе-хе. Да, это веская причина, я полагаю.
 
 つぐみは力なく笑う。%K%P
 Tsugumi laughed weakly.
@@ -1506,7 +1506,7 @@ CN PLACEHOLDER
 優「なんとか、やってみるよ！　麻酔は？」%K%P
 I'll do my best! Do we have anesthetic?
 CN PLACEHOLDER
-Сделаю всё, что смогу! У нас есть обезболивающие?
+Сделаю всё, что смогу! У нас есть обезболивающее?
 
 空「用意します。他にもレーザーメス、鉗子、縫合糸……必要なものはすべてこの部屋にありますから」%K%P
 I'll get it ready. The laser scalpel, forceps, and sutures... Everything we need is already in the room.

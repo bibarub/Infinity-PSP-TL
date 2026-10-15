@@ -511,7 +511,7 @@ CN PLACEHOLDER
 空「万一これが破損していた場合、私の力ではこれを修復することができません」%K%P
 If any of them should rupture, for whatever reason, I am incapable of repairing them.
 CN PLACEHOLDER
-Если любая из них разорвётся, я не смогу выполнить починку.
+Если любая из этих труб разорвётся, я не смогу выполнить починку.
 
 空「異状は軽微ですから、緊急は要しませんが……倉庫の状況を確認いただいたほうが良いと思います。お願いできますか？」%K%P
 The anomaly is only slight, so you shouldn't have to hurry, but... I think it is best if someone goes to check on it. Would you please go for me?

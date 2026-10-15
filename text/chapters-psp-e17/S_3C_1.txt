@@ -416,7 +416,7 @@ CN PLACEHOLDER
 武「どうすればいい？」%K%P
 What should I do?
 CN PLACEHOLDER
-Что мне нужно сделать?
+Что мне делать?
 
 つぐみ「パイプが少し歪んでしまっているわ……金具を締め直すから、パイプを持って支えてくれる？」%K%P
 The pipe is bent a little bit... I'm going to clamp a metal sleeve on it. Would you support the pipe for me?
@@ -636,7 +636,7 @@ CN PLACEHOLDER
 つぐみ「そうしたら、次に赤いバルブをひねって――」%K%P
 Now twist the red valve...
 CN PLACEHOLDER
-Теперь поверни синий вентиль...
+Теперь поверни красный вентиль...
 
 いまだ鳴りやまない、シューシューという蒸気音が耳に届く。%K%P
 The intercom continued to ring, and the hissing sound of the steam persisted.
