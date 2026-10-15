@@ -226,7 +226,7 @@ CN PLACEHOLDER
 武「おらぁ、食いたい奴ぁ順に前に出ろ！」%K%P
 Alright, whoever wants to eat, get in line!
 CN PLACEHOLDER
-Так-с, все самые голодные, в очередь!
+Так-с, все самые голодные – в очередь!
 
 ココ「じゃあココ一番」%K%P
 I'm first!
