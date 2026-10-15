@@ -136,12 +136,12 @@ CN PLACEHOLDER
 遠くで唸りのようなこもった音が響く。水中から、このＩＢＦへと伝わってきているようだ。%K%P
 A sound roared in the distance. It was probably being transmitted through the water to IBF, where we were.
 CN PLACEHOLDER
-Издалека прогремел раскатистый звук. Похоже, он добрался черед воду до IBF, где мы сейчас.
+Издалека прогремел раскатистый звук. Похоже, он добрался через воду до IBF, где мы сейчас.
 
 あれは……熱水噴出孔の音だろうか？%K%P
 Was it... the sound of the thermal vents?
 CN PLACEHOLDER
-Это... звук от вулканических источников?
+Это... звук от гидротермальных источников?
 
 まだＬｅＭＵは健在だろう……。%K%P
 I wondered if LeMU was still hanging in there...
@@ -526,12 +526,12 @@ CN PLACEHOLDER
 足元に落ちていた錆びたボルトを、俺は蹴り飛ばした。%K%P
 I kicked a dirty old bottle that was at my feet.
 CN PLACEHOLDER
-Я пнул грязную старую бутылку, что оказалась у моей ноги.
+Я пнул ржавый болт, что подвернулся мне под ногу.
 
 それはプールにぽちゃんと落ちて、ゆっくりゆらゆらと、沈んでいった。%K%P
 It landed in the pool and slowly sunk.
 CN PLACEHOLDER
-Она приводнилась в бассейне и медленно затонула.
+Он плюхнулся в бассейн и, медленно покачиваясь, ушёл под воду.
 
 通路へと戻る。%K%P
 We went back to the corridor.
@@ -766,12 +766,12 @@ CN PLACEHOLDER
 優「は？」%K%P
 Huuuh?
 CN PLACEHOLDER
-Ха-а-а-а?
+Ха-а-а?
 
 優「は、って何？」%K%P
 Huuuuh, what?
 CN PLACEHOLDER
-Ха-а-а-а, что?
+Ха-а-а, что?
 
 優「ね、ねぇ……？」%K%P
 Come on, what...?
@@ -918,7 +918,7 @@ CN PLACEHOLDER
 つぐみ「優、武！　少年が、少年の様子が……！」%K%P
 You, Takeshi! The Kid! The Kid's in bad shape!
 CN PLACEHOLDER
-Ю, Такэси! Малой... Ему плохо!
+Ю, Такэси! Малой... С Малым беда!
 
 真剣な目で、彼女は叫んだ。%K%P
 With eyes that showed the gravity of the situation, she yelled at us.
@@ -1003,7 +1003,7 @@ CN PLACEHOLDER
 つぐみ「ＴＢの正確な感染経路は、私達にはわかってないんだから」%K%P
 None of us know where he got exposed to it.
 CN PLACEHOLDER
-Никто из нас не знает, где он мог заразиться.
+Никто не знает, где он мог заразиться.
 
 武「…………」%K%P
 .........
@@ -1243,7 +1243,7 @@ CN PLACEHOLDER
 俺は診療室を見回し、それらしきものがないかどうか目で探した。%K%P
 I went around the examination room and checked to see if I could find it anywhere.
 CN PLACEHOLDER
-Я обошёл весь смотровой зал, ища, где она может лежать.
+Я обошёл весь смотровой зал, ища, где она может быть.
 
 つぐみと優も、医薬品の棚を漁り始める。%K%P
 Tsugumi and You hurriedly started checking through the medicine cabinets.
@@ -2078,7 +2078,7 @@ CN PLACEHOLDER
 深く冷たい空気を吸い、吐き出す。%K%P
 I breathed in the cold air, then breathed out.
 CN PLACEHOLDER
-Глубоко вдохнул холодный воздух и выдохнул
+Глубоко вдохнул холодный воздух и выдохнул.
 
 おかしい……。%K%P
 Strange...
@@ -2203,7 +2203,7 @@ CN PLACEHOLDER
 ？？「インゼル・ヌルより指示を行っています」%K%P
 We are being directed by Insel Null.
 CN PLACEHOLDER
-Мы приближаемся к Инсель Нуль.
+Ведём связь с Инсель Нуль.
 
 端末のスピーカーから誰かの声がする！？%K%P
 Was I actually hearing someone's voice over the speaker!?
@@ -2428,7 +2428,7 @@ CN PLACEHOLDER
 指示通りにコントロールパネルを動かし、モニターに情報を呼び出す。%K%P
 Following the instructions, I used the control panel to call up information on the monitor.
 CN PLACEHOLDER
-Следуя инструкциям на экране, я воспользовался панелью управления, чтобы отобразить необходимую информацию.
+Действуя согласно инструкции, я вывел данные на монитор с панели управления.
 
 武「電動の小型潜水艇か」%K%P
 It's a small electric submersible...
@@ -2613,7 +2613,7 @@ CN PLACEHOLDER
 武「優が通信回線を開いてくれたんで、インゼル・ヌルと連絡が取れたんだ」%K%P
 You was able to open up a communication line to Insel Null.
 CN PLACEHOLDER
-Ю смогла открыть линии связи на Инсель Нуль.
+Ю открыла канал связи, и мы смогли связаться с Инсель Нуль.
 
 つぐみ「インゼル・ヌルと……？」%K%P
 To Insel Null...?
@@ -3008,7 +3008,7 @@ CN PLACEHOLDER
 武「おおおぉぉぉぉ……」%K%P
 WAAAAaaaah...
 CN PLACEHOLDER
-Ха-а-а-а-ах...
+Ха-а-а-а-а...
 
 激痛が全身を走った。%K%P
 Pain wracked my body.
@@ -4113,7 +4113,7 @@ CN PLACEHOLDER
 ヒンメルを出て、上階を目指す。%K%P
 I left Himmel and started heading up.
 CN PLACEHOLDER
-Я оставил Химмель и побежал вверх по ступенькам...
+Я оставил Химмель и побежал вверх по ступенькам.
 
 ＰＤＡの画面を確認した。%K%P
 I checked the screen on my PDA.

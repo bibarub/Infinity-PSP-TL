@@ -396,7 +396,7 @@ CN PLACEHOLDER
 それはプールにぽちゃんと落ちて、ゆっくりゆらゆらと、沈んでいった。%K%P
 It landed in the pool and slowly sunk.
 CN PLACEHOLDER
-Он отскочил в бассейн, со всплеском ударился о воду, и медленно затонул.
+Он плюхнулся в бассейн и, медленно покачиваясь, ушёл под воду.
 
 それから、わざと威勢良く音を立てて歩いた。%K%P
 Then I walked around, making stomping sounds as I went.
@@ -646,7 +646,7 @@ CN PLACEHOLDER
 つぐみ「ね、ねぇ……？」%K%P
 Come on, what...?
 CN PLACEHOLDER
-Э-эй?!
+Э-э?.. Эй!..
 
 俺の肩を、つぐみが揺する。%K%P
 Tsugumi started shaking my shoulder.
@@ -803,7 +803,7 @@ CN PLACEHOLDER
 優「大変なのよ！　いいからとにかく中へ……あっ！」%K%P
 He's in trouble! It'll be faster if you come in and look... ah!
 CN PLACEHOLDER
-Он в беде! Некогда объяснять, лучше взгляните сами... ах!
+Ему плохо! Некогда объяснять, лучше взгляните сами... ах!
 
 優「まさか……倉成も、なの！？」%K%P
 No... Kuranari, you too!?
@@ -873,7 +873,7 @@ CN PLACEHOLDER
 つぐみ「ＴＢの正確な感染経路は、私達にはわかってないんだから」%K%P
 None of us know where he got exposed to it.
 CN PLACEHOLDER
-Никто из нас не знает, где он мог заразиться...
+Никто не знает, где он мог заразиться.
 
 武「…………」%K%P
 .........
@@ -3275,7 +3275,7 @@ CN PLACEHOLDER
 ？？「応答してください……」%K%P
 Come in...
 CN PLACEHOLDER
-Приём...
+Приём!..
 
 ？？「第３ＩＢＦ、応答してください」%K%P
 IBF Three, please respond.
@@ -3290,7 +3290,7 @@ CN PLACEHOLDER
 ？？「インゼル・ヌルより指示を行っています」%K%P
 We are being directed by Insel Null.
 CN PLACEHOLDER
-Мы приближаемся к Инсель Нуль.
+Ведём связь с Инсель Нуль.
 
 端末のスピーカーから誰かの声がする！？%K%P
 Was I actually hearing someone's voice over the speaker!?
@@ -3515,7 +3515,7 @@ CN PLACEHOLDER
 指示通りにコントロールパネルを動かし、モニターに情報を呼び出す。%K%P
 Following the instructions, I used the control panel to call up information on the monitor.
 CN PLACEHOLDER
-Следуя инструкции, я воспользовался панелью управления, чтобы отобразить необходимую информацию.
+Действуя согласно инструкции, я вывел данные на монитор с панели управления.
 
 武「電動の小型潜水艇か」%K%P
 It's a small electric submersible...
@@ -3990,7 +3990,7 @@ CN PLACEHOLDER
 今の俺は果たして宇宙飛行士か、それとも……。%K%P
 So was I an astronaut, or...
 CN PLACEHOLDER
-Интересно, кто я? Астронавт, или?..
+Интересно, кто я? Астронавт, или...
 
 空「倉成さん、変換機を！」%K%P
 Kuranari-san, your voice converters!
@@ -4950,7 +4950,7 @@ CN PLACEHOLDER
 武「優が通信回線を開いてくれたんで、インゼル・ヌルと連絡が取れたんだ」%K%P
 You was able to open up a communication line to Insel Null.
 CN PLACEHOLDER
-Ю смогла открыть линии связи, поэтому мы связались с Инсель Нуль.
+Ю открыла канал связи, и мы смогли связаться с Инсель Нуль.
 
 俺は診療室の扉を、ハンドルを廻して開けた。%K%P
 I turned the handle on the door of the examination room.
