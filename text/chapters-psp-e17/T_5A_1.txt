@@ -1666,17 +1666,17 @@ CN PLACEHOLDER
 細胞は、日々生まれ変わっている。%T030%K%N
 Cells died and were replaced daily.
 CN PLACEHOLDER
-День за днём старые клетки умирают и замещаются новыми.
+Изо дня в день клетки обновляются.
 
 生まれ変わり、そして死んでいく。%K%O
 Every cell that was replaced would also die.
 CN PLACEHOLDER
-Также умирает и всякая замещённая клетка.
+Рождаются заново, а потом умирают.
 
 人間の身体を構成するすべての細胞は、３〜５年後には、全部入れ替わっていると言う。%T030%K%N
 They said the cells in the entire human body were completely replaced every three to five years.
 CN PLACEHOLDER
-Говорят, что примерно каждые три-пять лет клетки в человеческом теле полностью обновляются.
+Я слышал, что примерно каждые три-пять лет клетки в человеческом теле полностью обновляются.
 
 その辺に転がっている石は、５年前も、５年後も、同一の分子によって構成されている。%T030%K%N
 By comparison, a rock would be composed of the exact same molecules five years before or five years hence.
@@ -1861,12 +1861,12 @@ CN PLACEHOLDER
 つぐみ「細胞は、日々生まれ変わっている」%K%P
 Cells are reborn every day.
 CN PLACEHOLDER
-Ежедневно в человеческом организме меняются клетки.
+Изо дня в день клетки обновляются.
 
 つぐみ「生まれ変わり、そして死んでいく」%K%P
 They are reborn and then die.
 CN PLACEHOLDER
-Они рождаются и умирают.
+Рождаются заново, а потом умирают.
 
 つぐみ「通常、人間の体細胞は、５年後にはすべて入れ替わる」%K%P
 Normally, the human body is totally replaced with new cells within five years.
