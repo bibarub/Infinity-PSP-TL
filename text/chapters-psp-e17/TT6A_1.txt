@@ -3120,17 +3120,17 @@ CN PLACEHOLDER
 まどろみから覚める。%K%P
 I woke from my stupor.
 CN PLACEHOLDER
-Я очнулся от своего оцепенения.
+Сквозь полусон я пришёл в себя.
 
 硬く冷たい感触……。%K%P
 A stale, cold feeling...
 CN PLACEHOLDER
-С чувством металлического холода...
+Что-то твёрдое и холодное...
 
 自分が床に突っ伏して眠っていたことに気づいた。%K%P
 I realized I had been sleeping sprawled on the floor.
 CN PLACEHOLDER
-Сообразив, что спал врастяжку на полу...
+Оказалось, я спал, уткнувшись лицом в пол.
 
 ゆっくりと身体を起こす。%K%P
 I slowly raised my body.
@@ -3140,92 +3140,92 @@ CN PLACEHOLDER
 手を握ったり開いたりしてみる。%K%P
 I tried opening and closing my fists.
 CN PLACEHOLDER
-Затем попытался разжать и сжать кулаки.
+Попробовал сжать и разжать кулаки.
 
 違和感はない……。%K%P
 Strange.
 CN PLACEHOLDER
-Странно.
+Вроде всё в порядке.
 
 頭をぶんぶんと振る。%K%P
 The movement left me with an uncomfortable sensation, like it wasn't my own.
 CN PLACEHOLDER
-От движений такое неприятное ощущение, словно это не моё тело.
+Я тряхнул головой.
 
 頬をべちべち叩いてみる。%K%P
 I shook my head.
 CN PLACEHOLDER
-Я тряхнул головой.
+Затем похлопал по щекам.
 
 深く冷たい空気を吸い、吐き出すと、淀んだ頭の中は綺麗に掃除されていく。%K%P
 I tried slapping my cheek.
 CN PLACEHOLDER
-Похлопал себя по щекам.
+Глубоко вдохнул холодный воздух, выдохнул – и муть в голове понемногу рассеялась.
 
 床に手をつき、まだ重く痛む身体を持ち上げる。%K%P
 I breathed in the cold air, then breathed out.
 CN PLACEHOLDER
-Сделал глубокий вдох холодного воздуха, затем выдохнул.
+Оперевшись руками о пол, я поднял всё ещё тяжёлое, ноющее тело.
 
 足元はややおぼつかないが、なんとか立ち上がることができた。%K%P
 Strange...
 CN PLACEHOLDER
-Странно...
+Ноги ещё слегка подкашивались, но я всё-таки умудрился встать.
 
 使用済みの小型注射器が、床にいくつか転がっているのを見つける。%K%P
 The inside of my head stayed dull and murky.
 CN PLACEHOLDER
-В голове всё, словно как после неслабой пьянки.
+На полу валялось несколько использованных шприцев.
 
 そう言えば俺の腕にも、真新しい注射跡……。%K%P
 I dragged myself to consciousness, forcefully reeling myself back to clarity.
 CN PLACEHOLDER
-Я привёл себя в сознание, заставив ум проясниться.
+А ведь и у меня на руке – свежий след от укола...
 
 抗体の接種は無事行われたようだった。%K%P
 Putting my hands on the floor, I pulled up my heavy, aching body.
 CN PLACEHOLDER
-Оперевшись руками о пол, я поднял свою тяжёлую, болящую тушу.
+Похоже, антитела нам всё-таки благополучно ввели.
 
 おぼろげな記憶を手繰って思い出す。%K%P
 My feet faltered.
 CN PLACEHOLDER
-Ноги подкашиваются.
+Я потянул за ниточку смутных воспоминаний.
 
 優が精製したアンプルを、つぐみが受け取って……。%K%P
 But somehow, I managed to stand.
 CN PLACEHOLDER
-И всё-таки я умудрился встать.
+Ю приготовила ампулы, Цугуми их взяла...
 
 俺達全員に注射を行ったはずだ。%K%P
 I looked around the infirmary.
 CN PLACEHOLDER
-Окинув взглядом смотровой зал...
+...и, должно быть, сделала уколы нам всем.
 
 それから……%K%P
 I saw several used syringes scattered on the floor.
 CN PLACEHOLDER
-Я увидел несколько использованных шприцов, разбросанных по полу.
+А затем...
 
 それから……つぐみは……どこに行ったんだろう……。%K%P
 The Kid was still slumped against Coco's pod.
 CN PLACEHOLDER
-Малой неподвижно прильнул к модулю Коко.
+А затем... Цугуми... куда же она ушла?..
 
 診療室を見回してみる。%K%P
 He looked disturbingly bad, just completely out of it.
 CN PLACEHOLDER
-Он выглядит скверно, целиком и полностью будто не в своей тарелке.
+Я окинул взглядом смотровой зал.
 
 少年がココのポッドに寄りかかったまま、ぐったりとしていた。%K%P
 Tsugumi was nowhere to be seen.
 CN PLACEHOLDER
-Цугуми нигде не видно.
+Малой без сил прильнул к модулю Коко.
 
 意識はないようだが、顔色は少し戻っている。%K%P
 I wondered where she'd gone to...?
 CN PLACEHOLDER
-И куда только она могла деться?..
+Похоже, он без сознания, но лицо уже не такое бледное.
 
 優は端末のコンソールに半身を投げ出して、寝息を立てていた。%K%P
 You was half-slumped over the terminal console, snoring away.
@@ -3235,7 +3235,7 @@ CN PLACEHOLDER
 寝汗をかいていてやや苦しそうだが、峠は越えたように見える。%K%P
 She looked like she was in some pain and was perspiring in her sleep.
 CN PLACEHOLDER
-Похоже, её мучит боль, потому что она изрядно вспотела во время сна.
+Она вспотела во сне, и вид у неё измученный, но кризис, похоже, миновал.
 
 キー入力の途中だったのか、パネルに手が押しつけられた格好のままだ。%K%P
 Her hand was pushed against the panel as if she had been in the middle of typing.
