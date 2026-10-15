@@ -696,7 +696,7 @@ CN PLACEHOLDER
 武は、注射器をぼくの左腕に押し当てた。%K%P
 Takeshi put the needle against my left arm.
 CN PLACEHOLDER
-Такэси прислонил иглу к моей левой руке...
+Такэси прислонил иглу к моей левой руке.
 
 ――プシュ！%K%P
 —Push!

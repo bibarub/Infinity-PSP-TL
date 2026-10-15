@@ -151,7 +151,7 @@ CN PLACEHOLDER
 武「なぁ優、空の言ってた『高圧酸素治療装置』ってのはどれなんだ？」%K%P
 Hey, You? Where is that high-pressure oxygen thing that Sora was talking about?
 CN PLACEHOLDER
-Эй, Ю? Где та штуковина „оксигенотерапии высокого давления“, о которой говорила Сора?
+Эй, Ю? Где та штуковина „гипербарической оксигенотерапии“, о которой говорила Сора?
 
 優「わ、わかんないよ、そんなの……」%K%P
 H-How should I know...?
@@ -211,7 +211,7 @@ CN PLACEHOLDER
 武「いや、それなら訊きたいことがある。高圧酸素治療装置ってのを探してるんだ」%K%P
 Well then, there's something I want to ask you. We're looking for some kind of high-pressure oxygen treatment device.
 CN PLACEHOLDER
-Ну, тогда нам нужна ваша помощь. Мы ищем штуковину под названием „система оксигенотерапии высокого давления“.
+Ну, тогда нам нужна ваша помощь. Мы ищем штуковину под названием „система гипербарической оксигенотерапии“.
 
 武「診療室まで来たのはいいが、俺達にはどれがその装置かわからない。頼む、教えてくれ」%K%P
 We've come as far as the examination room, but we don't have a clue what to look for. Can you help us? Please!
@@ -221,7 +221,7 @@ CN PLACEHOLDER
 研究員「酸素治療……ああ、ポッドだな」%K%P
 Oxygen treatment... Yeah, you're looking for the pods.
 CN PLACEHOLDER
-Кислородного лечения... да, вы говорите о модулях.
+Гипербарической оксигенотерапии... да, вы говорите о модулях.
 
 研究員「合金製のカプセルがあるはずだ、中にマットが敷いてある」%K%P
 There should be some alloy capsules with mats set inside of them.
@@ -336,7 +336,7 @@ CN PLACEHOLDER
 優「高圧酸素治療……セット……」%K%P
 High-pressure oxygen treatment... set...
 CN PLACEHOLDER
-Лечение кислородом под высоким давлением... есть...
+Гипербарическая оксигенотерапия... есть...
 
 円筒形の柱についたモニターに変化が現れ、ふたつのポッドが順調に機能し始めたことがわかった。%K%P
 The screens of the monitors attached to the tubes flickered. Both of the pods seemed to be functioning normally.
@@ -551,7 +551,7 @@ CN PLACEHOLDER
 発症後の死亡率は８５％以上。%K%N
 Death rate after contracting the disease: over 85％.%K%O
 CN PLACEHOLDER
-Процент смертельных исходов при заражении: более 85％.%K%O
+Процент смертельных исходов при заражении: более 85%.%K%O
 
 発症は軽度だと風邪のようにも見え、一時的に症状駆逐できたように感じるが、あるとき急激に重度の症状（全身から出血）へと移行する。%K%O
 Symptoms first appear similar to that of a common cold, and while they may temporarily improve, the patient's condition will again rapidly deteriorate, resulting in hemorrhaging.
@@ -831,12 +831,12 @@ CN PLACEHOLDER
 優「高圧酸素治療の他にも、レーザーでの減菌やら、簡単な手術のできる機能も備わってるらしいし……」%K%P
 It seems that this pod can also do laser disinfecting, as well as simple surgery, in addition to the oxygen treatment.
 CN PLACEHOLDER
-Кажется, помимо кислородного лечения этот модуль может ещё производить лазерное обеззараживание, а также простейшую хирургию...
+Кажется, помимо гипербарической оксигенотерапии этот модуль может ещё производить лазерное обеззараживание, а также простейшую хирургию...
 
 優「使い方によっては、ハイバネーションすら可能のようだけど……」%K%P
 And depending on how you use it, even cryogenic suspension...
 CN PLACEHOLDER
-И, в зависимости от условий, даже криогенную гибернацию, но...
+И, в зависимости от условий, даже криогенную %TS78гибернацию%TE, но...
 
 つぐみ「ハイバネーション？」%K%P
 Cryogenic suspension?
@@ -1276,5 +1276,5 @@ CN PLACEHOLDER
 時刻は間もなく、ＬｅＭＵの最速圧潰推定時刻……５月６日午後４時３０分を過ぎようとしていた。%K%P
 We were quickly approaching the earliest estimated time for LeMU's implosion... It was almost May 6th, 4:30 p.m.
 CN PLACEHOLDER
-Мы быстро приближаемся к первой расчётной временной точке, за которой последует затопление LeMU... 6 мая, 16:30.
+Мы быстро приближаемся к первой расчётной временной точке, за которой последует разрушение LeMU... 6 мая, 16:30.
 

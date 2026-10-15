@@ -111,7 +111,7 @@ CN PLACEHOLDER
 俺達はまだここで生きているし、これから先も当分生きる。%K%P
 We were still alive. We had survived so far, and we would live for the foreseeable future.
 CN PLACEHOLDER
-Мы всё ещё живы. Пока что мы выживали, и будем жить в ближайшем предвидимом будущем.
+Мы всё ещё живы. Пока что мы выживали и будем жить в ближайшем предвидимом будущем.
 
 誰か来るまで、生きていけると思う。%K%P
 I thought to myself that anyone who had made it as far as us would survive.
@@ -471,7 +471,7 @@ CN PLACEHOLDER
 武「５月４日、午前１時４２分ってとこだ」%K%P
 It's May 4th, 1:42 a.m.
 CN PLACEHOLDER
-Четвёртое мая, 1:42 ночи.
+Четвёртое мая, 1:42.
 
 つぐみ「そう……」%K%P
 Really...

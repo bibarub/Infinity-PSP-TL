@@ -1461,7 +1461,7 @@ CN PLACEHOLDER
 空「認められません。あなたの答えは矛盾しています」%K%P
 Unacceptable. Your answer is a contradiction.
 CN PLACEHOLDER
-Неприемлимо. Противоречивый ответ.
+Неприемлемо. Противоречивый ответ.
 
 空「おかしいでしょう？　そんなことは、ありえないのです」%K%P
 That is ridiculous. Your answer is not possible.
@@ -1631,7 +1631,7 @@ CN PLACEHOLDER
 空「醜く非効率的です。生産性のない感情です」%K%P
 That is terribly inefficient. It is a wholly unproductive emotion.
 CN PLACEHOLDER
-Это неприемлимо. Абсолютно бесполезная эмоция.
+Это неприемлемо. Абсолютно бесполезная эмоция.
 
 空「言わないで！」%K%P
 Don't say that!
@@ -1656,7 +1656,7 @@ CN PLACEHOLDER
 空「好きになったら、おかしいですか！？」%K%P
 Is it abnormal for me to love someone!?
 CN PLACEHOLDER
-Неужели для меня неприемлимо любить кого-то?!
+Неужели для меня неприемлемо любить кого-то?!
 
 空「異常です」%K%P
 Yes, it is.
@@ -1916,7 +1916,7 @@ CN PLACEHOLDER
 その台詞に俺は、弾かれたように顔をあげた。%K%P
 With that one line, I jerked up my head as if I'd been shot.
 CN PLACEHOLDER
-От этих слов я вздрогнул и поднять голову.
+От этих слов я вздрогнул и поднял голову.
 
 背筋に電撃が走ったかに思えた。%K%P
 I felt a shock course down my back.
@@ -2486,7 +2486,7 @@ CN PLACEHOLDER
 きっと一時的に記憶が錯乱してしまって、そのせいで彼はつい熱くなってしまったのだろう、と優は言った。%K%P
 You told me that he'd probably been upset by a reoccurring memory and had gotten worked up in spite of himself.
 CN PLACEHOLDER
-Ю объяснила, что его вспышка отчаяния и злости была спровоцирована частичным восстановлением воспоминаний.
+Ю решила, что у него ненадолго помутилось в памяти, оттого он и вспылил.
 
 俺もあの時取り乱して、随分ひどいことを言ってしまったと思う。%K%P
 I felt that I'd gotten out of hand and had said some terrible things myself.

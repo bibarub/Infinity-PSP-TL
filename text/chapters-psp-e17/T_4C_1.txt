@@ -51,7 +51,7 @@ CN PLACEHOLDER
 バリっとした歯ごたえとジューシーな旨みが、お口一杯に広がる。%K%P
 My mouth filled with the juicy flavor as I bit down.
 CN PLACEHOLDER
-Хрустящая текстура и точный вкус наполнили весь мой рот.
+Хрустящая текстура и сочный вкус наполнили весь мой рот.
 
 武「ああ、おいちい、肉おいちい……♪」%K%P
 Mmmm... Meat... Mmm... Yum...
@@ -466,7 +466,7 @@ CN PLACEHOLDER
 バリっとした歯ごたえとジューシーな旨みが、お口一杯に広がる。%K%P
 My mouth filled with the juicy flavor as I bit down.
 CN PLACEHOLDER
-Хрустящая текстура и точный вкус наполнили весь мой рот.
+Хрустящая текстура и сочный вкус наполнили весь мой рот.
 
 武「ああ、おいちい、肉おいちい……♪」%K%P
 Mmmm... Meat... Mmm... Yum...

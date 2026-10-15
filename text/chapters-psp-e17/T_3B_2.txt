@@ -771,7 +771,7 @@ CN PLACEHOLDER
 空「私は――遍在している」%K%P
 I am—omnipresent.
 CN PLACEHOLDER
-Я – вездесущая.
+Я – %TS93вездесущая%TE.
 
 空「ええ、そうです……」%K%P
 Yes, that's right.
@@ -1666,12 +1666,12 @@ CN PLACEHOLDER
 空「そのとき初めて『自分がΨの字の一部であったこと』に気づき」%K%P
 You will realize for the first time that you were on one point of the 'Y'...
 CN PLACEHOLDER
-...то поймёшь, что ты был в одной из точек „Y“...
+...то поймёшь, что ты был в одной из точек „%TS32Ψ%TE“...
 
 空「さらに『枝分かれした他の自分がいること』にも気づけるのです」%K%P
 And realize too that there is another 'you' who took a different branch of the 'Y'.
 CN PLACEHOLDER
-...но также и поймёшь, что есть другой ты, что выбрал другой путь на „Y“.
+...но также и поймёшь, что есть другой ты, что выбрал другой путь.
 
 武「…………」%K%P
 .........
@@ -1806,7 +1806,7 @@ CN PLACEHOLDER
 空「このＬｅＭＵの由来の……レムリア大陸に伝わる、伝説です」%K%P
 It is a legend passed down through the Lemurian continent... and is the origin behind LeMU.
 CN PLACEHOLDER
-Один из истоков LeMU... это легенда, что почила вместе с Лемурийским континентом.
+Один из истоков LeMU... Это легенда, что почила вместе с Лемурийским континентом.
 
 空「そういうことにしておいてください」%K%P
 Let's just leave it at that.

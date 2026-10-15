@@ -176,7 +176,7 @@ CN PLACEHOLDER
 彼はポケットのＰＤＡ（総合携帯通信端末）を取り出した。%K%P
 He pulled his PDA multi-purpose communication device out of his pocket.
 CN PLACEHOLDER
-Такэси вынул из кармана навороченный КПК последней модели.
+Такэси вынул из кармана навороченный %TS83КПК%TE последней модели.
 
 ボタンを押す。%K%P
 Then he pressed a button.
@@ -1531,7 +1531,7 @@ CN PLACEHOLDER
 彼でも、彼女でもない。%K%P
 It wasn't him or her.
 CN PLACEHOLDER
-Это не были те двое.
+Это был не он и не она.
 
 違う声が、どこからか聞こえる……。%K%P
 He heard a different voice from somewhere...
@@ -1621,7 +1621,7 @@ CN PLACEHOLDER
 彼は、どこからやって来るのだろう……。%K%P
 He wondered where he had come from.
 CN PLACEHOLDER
-Он пытается понять, откуда.
+Откуда же он исходит?..
 
 うっすらと何かが見えた。%K%P
 He saw something faint.
@@ -1661,12 +1661,12 @@ CN PLACEHOLDER
 救護室の……下の……ベッドの……。%K%P
 Below the sick room... bed...
 CN PLACEHOLDER
-На кровати в... изоляторе...
+Лазарет... ниже... на кровати...
 
 下の、ベッドの、上の、誰か。%K%P
 Someone was on the bed below.
 CN PLACEHOLDER
-Кто сидит на кровати рядом?
+Кто-то ниже на кровати...
 
 （誰だ、これは？）%K%P
 (Who's that?)

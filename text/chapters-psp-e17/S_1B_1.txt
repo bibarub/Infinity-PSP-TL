@@ -701,7 +701,7 @@ CN PLACEHOLDER
 空はモニターに向かって、両手をかざした。%K%P
 Sora faced the monitor and held up both hands.
 CN PLACEHOLDER
-Сора уставилась в монитор и подняла обе руки.
+Сора повернулась к монитору и подняла обе руки.
 
 すると瞬く間に、画面が目まぐるしく切り変わり、たくさんのウィンドウが開いたり閉じたりして……データの検索が開始された。%K%P
 Instantly, the content of the screen began to change, with a number of windows opening and closing while the search for data was underway.
@@ -731,7 +731,7 @@ CN PLACEHOLDER
 空「……わかりました」%K%P
 ...I've learned something.
 CN PLACEHOLDER
-...я кое-что узнала.
+...Я кое-что узнала.
 
 やがて、空が事務的にそう告げた。調べがついたようだ。%K%P
 Sora said it in a businesslike manner. She seemed done with the computer.
@@ -896,7 +896,7 @@ CN PLACEHOLDER
 空「はい、不可能です」%K%P
 Correct. It is impossible.
 CN PLACEHOLDER
-Верно. Невозможно.
+Верно. Это невозможно.
 
 少年「どうして？」%K%P
 Why?
@@ -921,7 +921,7 @@ CN PLACEHOLDER
 空「ゆえに、不可能なのです」%K%P
 Therefore, I say it is impossible.
 CN PLACEHOLDER
-Потому я и сказала, что это невозможно.
+Поэтому я сказала, что это невозможно.
 
 空「それに……もしも仮に第４区画までたどりつけたとしても、事態が好転するようなことはないと思われます」%K%P
 Furthermore... even if someone did reach Sector Four, I don't think it would improve our situation at all.
@@ -1101,7 +1101,7 @@ CN PLACEHOLDER
 空「インゼル・ヌルへの通信線は、非常回線も含め、物理的遮断によって使用不能です」%K%P
 All communication lines to Insel Null, including the emergency ones, have been physically severed and are unusable.
 CN PLACEHOLDER
-Все линии связи с Инсель Нуль, включая аварийные, не могут быть использованы.
+Все линии связи с Инсель Нуль, включая аварийные, физически оборваны и не могут быть использованы.
 
 空「また、海底ケーブルでのネットワーク接続、音波式水中通話、共に試していますが……」%K%P
 I have also been attempting to make contact via a seafloor cable network, using sonar...
@@ -1121,7 +1121,7 @@ CN PLACEHOLDER
 空「はい」%K%P
 Exactly.
 CN PLACEHOLDER
-Да...
+Именно.
 
 淡々と突きつけられる事実。%K%P
 The gravity of the situation was descending on us.
@@ -1346,7 +1346,7 @@ CN PLACEHOLDER
 空「私は、ＬｅＭＵ開発部のシステムエンジニアをしているのです」%K%P
 Probably because I am a system engineer at LeMU's research and development division.
 CN PLACEHOLDER
-Наверное потому, что я системный инженер в Отделе разработки LeMU.
+Наверное потому, что я %TS35системный инженер%TE в Отделе разработки LeMU.
 
 空「一応、主任代理……ということになっています」%K%P
 Basically... the assistant chief.
@@ -1356,12 +1356,12 @@ CN PLACEHOLDER
 武「主任代理ねぇ……結構偉いんだ、実は？」%K%P
 Assistant chief... So you're pretty high up?
 CN PLACEHOLDER
-Замдиректора... Так у тебя довольно внушительный пост?
+Замдиректора... Значит, у тебя довольно внушительный пост?
 
 空「代理ですし、名目上のことですから。大したことはありません」%K%P
 Only in name. I'm really just an assistant. It's no big deal.
 CN PLACEHOLDER
-Только на бумаге, но на самом деле я просто ассистент. Ничего особенного.
+Только на бумаге. На самом деле я просто ассистент, ничего особенного.
 
 武「でもさぁ、空って、地上のゲートにいなかったっけ？」%K%P
 But hey, Sora, weren't you up at the gate above ground?
@@ -1371,12 +1371,12 @@ CN PLACEHOLDER
 武「入場のとき、なんか説明してたろ？　俺は半分しか聞いてなかったけど……」%K%P
 You were giving some kind of explanation at the entrance, right? I only heard half of it, but...
 CN PLACEHOLDER
-Ты вела экскурсию у входа, так? Я слышал только часть, но...
+Ты же вела экскурсию у входа, да? Я слышал только часть, но...
 
 空「はい、そうです。お気づきになりましたか……」%K%P
 That's right. So you noticed...
 CN PLACEHOLDER
-Всё верно. Значит, ты заметил...
+Всё верно. Выходит, вы заметили...
 
 空「ここも人手不足なもので。時々私も、あのようなことをしています」%K%P
 We are short of staff here. From time to time, I do that kind of work.
@@ -1446,7 +1446,7 @@ CN PLACEHOLDER
 優「鳩鳴館の２年生を対象にして行なわれる、イベントのこと」%K%P
 It's an event for juniors at Kyumeikan.
 CN PLACEHOLDER
-Обычное дело для второгодок Кюмейкана.
+Обычное дело для второгодок Кюмэйкана.
 
 沙羅「まあ、ほとんどが遊びみたいなもんだけど」%K%P
 But it's basically just for fun.
@@ -2020,17 +2020,17 @@ CN PLACEHOLDER
 武「適当だけど、名無しの権兵衛」%K%P
 It'd be fitting to call him John Doe.
 CN PLACEHOLDER
-Может, будем называть его Джоном Доу?
+Думаю, будет подходяще его звать %TS120Джоном Доу%TE.
 
 空「『適当だから権兵衛だ』というのは、全国の権兵衛さんに申し訳ないのではないですか？」%K%P
 But wouldn't calling him that just because it's fitting be rude to all of the people named John Doe?
 CN PLACEHOLDER
-А тебе не кажется, что это будет несколько грубо по отношению к людям с именем Джон Доу?
+А не кажется ли тебе, что это грубо по отношению к другим Джонам Доу – называть кого-то так лишь потому, что это „подходяще“?
 
 武「仮名なんだから適当でいいじゃないか」%K%P
 Well, it's only for a little while, so it doesn't have to be perfect.
 CN PLACEHOLDER
-Ну, я долго не думал, так что, может, имя и не особо подходит.
+Ну, по сути это просто кличка. Думаю, и так пойдёт.
 
 沙羅「スナイパーにしようよ」%K%P
 Let's call him Sniper.
@@ -2065,22 +2065,22 @@ CN PLACEHOLDER
 空「キワクさん、というのはいかがですか？」%K%P
 How about Melos-san?
 CN PLACEHOLDER
-Может, „Попа-сан“? Что скажете?
+Может, „Папо-сан“? Что скажете?
 
 武「なんだ？　キワクさんって」%K%P
 What? What's Melos supposed to mean?
 CN PLACEHOLDER
-А? Что за „Попа“?
+Какой ещё „Папо-сан“?
 
 優「『記憶忘れちゃった君』の略？」%K%P
 Like, short for 'memory loss'?
 CN PLACEHOLDER
-Типа, сокращённо от „потеря памяти“?
+Типа, сокращённо от „память потерял“?
 
 武「縁起でもないなぁ」%K%P
 Nah, it's bad luck to name him that...
 CN PLACEHOLDER
-Нет, это плохая примета. Не стоит давать ему такое имя...
+Не к добру такое имя...
 
 空「すみません、直接的すぎました……」%K%P
 Sorry. I didn't mean to be so direct...
@@ -2810,7 +2810,7 @@ CN PLACEHOLDER
 空はそう言って、テーブルの上のホログラム画像に手を触れた。%K%P
 Saying that, Sora touched the holographic image above the table.
 CN PLACEHOLDER
-С этими словами Сора дотронулась до изображения над столом.
+С этими словами Сора дотронулась до %TS99голографическое%TE изображения над столом.
 
 次のようなことを述べる彼女。%K%P
 Then she said...

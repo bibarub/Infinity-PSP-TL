@@ -191,7 +191,7 @@ CN PLACEHOLDER
 沙羅「でも、父が懇意にしてる鳩鳴館の学長が相談に乗ってくれて、特待生として通えることになったの」%K%P
 But the principal of Kyumeikan was a friend of the family and helped get me in as a scholarship student.
 CN PLACEHOLDER
-Но директор Кюмейкана – друг семьи, и просто по-дружески помог получить грант на образование и, соответственно, поступить.
+Но директор Кюмэйкана – друг семьи, и просто по-дружески помог получить грант на образование и, соответственно, поступить.
 
 優「ようするに、その才能を埋没させてしまうのは惜しい、ってことだったみたいね」%K%P
 He didn't want her unpolished genius to go to waste.
@@ -271,7 +271,7 @@ CN PLACEHOLDER
 沙羅「私が鳩鳴館女子高等学校に入学して、間もない頃の話……」%K%P
 Right after I had entered Kyumeikan...
 CN PLACEHOLDER
-Сразу как только я поступила в Кюмейкан...
+Сразу как только я поступила в Кюмэйкан...
 
 ………………。%K%P
 ......

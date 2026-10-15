@@ -6,7 +6,7 @@ CN PLACEHOLDER
 ジュージューと油の泡立つ音だけが響いている。%K%P
 The sound of boiling, bubbling oil filled the room.
 CN PLACEHOLDER
-Помещение заполнили звук и аромат кипящего и булькающего масла.
+Раздаётся лишь звук кипящего масла.
 
 黙々とタツタを揚げていた。%K%P
 I fried the tuna in silence.
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 空「ＬｅＭＵの完全圧潰推定時刻は『５月７日午前４時３０分前後』となっています」%K%P
 Implosion of LeMU is estimated to occur at 4:30 a.m. on May 7th.
 CN PLACEHOLDER
-Затопление LeMU ожидается примерно 7 мая в 4:30 утра.
+Разрушение LeMU ожидается примерно 7 мая в 4:30 утра.
 
 空「推定誤差は±１２時間程度です」%K%P
 The calculation has a margin of error of plus or minus twelve hours.
@@ -491,7 +491,7 @@ CN PLACEHOLDER
 空「また、館外で操作可能なセンサー、ライト、マニピュレーターなどを総動員し……」%K%P
 I am also using all sensors, lights, manipulators, and means at my disposal outside of the complex...
 CN PLACEHOLDER
-Также я использую все сенсоры, источники освещения, манипуляторы и средства управленния вне стен сооружения...
+Также я использую все сенсоры, источники освещения, манипуляторы и средства управления вне стен сооружения...
 
 空「それらを使っての、光波・電波・音波による通信の送受信の可能性を、改めて検証中です」%K%P
 And I am still investigating whether there are any means of communicating with the outside using light, radio, or sound.
