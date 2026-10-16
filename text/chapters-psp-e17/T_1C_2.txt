@@ -726,7 +726,7 @@ CN PLACEHOLDER
 優「ちょっと倉成武！　突然フルネームで呼ばないでよ……」%K%P
 Hey, Kuranari Takeshi! Don't just go blurting out my full name...
 CN PLACEHOLDER
-Эй, Куранари Такэси! Не выпаливай моё полное имя просто так...
+Слышь, Куранари Такэси! Не выпаливай моё полное имя просто так...
 
 売店の向こうで聞いていた優がツカツカと歩いてきた。%K%P
 You, who had been standing over by the shop, came walking directly toward me.
@@ -746,7 +746,7 @@ CN PLACEHOLDER
 武「例の着ぐるみにちなんで、貴様を『タヌ吉ポン太郎』と命名する！」%K%P
 In honor of the mascot, I name you 'John Raccoon Dog Smith'!
 CN PLACEHOLDER
-В честь талисмана я нарекаю тебя „Тануки Таро“!
+В честь талисмана я нарекаю тебя „Танукентий Пузобарабанов“!
 // понимать бы, от чего это образовано
 
 少年「…………」%K%P
@@ -1161,7 +1161,7 @@ CN PLACEHOLDER
 武「まぁ、俺達もさっきの見回りで、原因を見落としてたかもしれないし……。それをお互いさまって言っていいかどうか微妙だけど」%K%P
 We may have even overlooked the cause of this when we were checking around a little bit ago... We're in this together.
 CN PLACEHOLDER
-Мы тоже могли проглядеть причину, когда делали обход... Хотя не уверен, что виноваты мы одинаково.
+Мы тоже могли проглядеть причину, когда делали обход... Хотя сказать „все хороши“ – как-то не совсем честно.
 // скорее всего тут имеется в виду, что он не уверен, что это сгладит ситуацию
 
 武「今はみんな無事なんだから、良しとしようや」%K%P
@@ -1292,7 +1292,7 @@ CN PLACEHOLDER
 空「１度目の浸水のときに被害を免れたいくつかの区画は、強制換気により急激に減圧された状態で、水没した区画から隔離されました」%K%P
 The sectors that were able to avoid damage during the first flooding were isolated from the flooded sections, and forced ventilation created a sudden reduction in air pressure.
 CN PLACEHOLDER
-Сектора, которые избежали повреждения при первоначальном затоплении, были изолированы от затопленных. При этом произошло принудительное вентилирование, в результате чего давление воздуха резко снизилось.
+Сектора, которые избежали повреждения при первоначальном затоплении, были изолированы от затопленных. При этом произошла принудительная вентиляция, в результате чего давление воздуха резко снизилось.
 
 空「しかし水没区画が内部の水の重さに耐え切れず傾き、隣接した区画とのジョイントに亀裂が生じました」%K%P
 However, the inundated sectors were not able to withstand the weight of the water and tilted, causing a rupture of the joint in the adjacent sector.

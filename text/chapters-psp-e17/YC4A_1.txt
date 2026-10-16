@@ -1566,7 +1566,7 @@ CN PLACEHOLDER
 ココ「ひよこごっこ、やろ？」%K%P
 Let's play 'chicks'!
 CN PLACEHOLDER
-Поиграем в „%TS088цыпочек%TE“, что скажешь?
+Давай поиграем в „%TS088цыпочек%TE“, что скажешь?
 
 武「……は、はい？」%K%P
 Uhhh... What?

@@ -216,7 +216,7 @@ CN PLACEHOLDER
 空「どうやらタイマーが、故障してしまったようです」%K%P
 It seems that the timer has broken.
 CN PLACEHOLDER
-Похоже, часы вышел из строя.
+Похоже, часы вышли из строя.
 
 武「そっか……」%K%P
 Oh...

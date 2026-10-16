@@ -11,7 +11,7 @@ CN PLACEHOLDER
 見渡す限り、一面、水浸しの床……。%K%P
 As far as I could see, the floor was a sheet of water that had flooded in...
 CN PLACEHOLDER
-Везде, куда ни глянь – вода...
+Куда ни глянь – он весь залит водой...
 // google tl: As far as the eye could see, the floor was completely flooded...
 
 水位はぼくのクルブシぐらいまであった。%K%P
@@ -267,7 +267,7 @@ CN PLACEHOLDER
 ぼくは優と位置を替わると、手を伸ばしてドアを開こうとする。%K%P
 I switched places with You and reached out to try to open the door.
 CN PLACEHOLDER
-Я поменялся местами с Ю и попытался открыть дверь.
+Я занял место Ю и попытался открыть дверь.
 // "поменялся местами" не уверен, что хорошо звучит на русском --bibarub
 
 少年「う〜〜ん……っ！」%K%P
@@ -397,7 +397,7 @@ CN PLACEHOLDER
 優「それから、もっと世話の焼ける子がもうひとり……」%K%P
 But it seems there's someone that needs even more looking after than you do...
 CN PLACEHOLDER
-Но кажется, что сейчас углядеть надо за кое-кем ещё...
+Но ещё есть кое-кто, с кем возни даже больше...
 // мне кажется, что от такого можно при чтении мозг вывихнуть, прошу придумать что-то получше
 // dsp2003: Но похоже, что сейчас кому-то помощь нужна больше, чем тебе...
 
@@ -439,7 +439,7 @@ CN PLACEHOLDER
 ただのサインペンだった。%K%P
 It was just a felt-tipped pen.
 CN PLACEHOLDER
-Обычный маркер.
+Самый обычный маркер.
 // dsp2003: Обычный водостойкий маркер.
 // не уверен, что где-то упоминается, что он перманентный
 
@@ -481,7 +481,7 @@ CN PLACEHOLDER
 背伸びをして、ようやく手が届くか届かないかというぐらいの高さだ。%K%P
 It was at a height where if I stretched my hand out completely, it would just reach.
 CN PLACEHOLDER
-Наверное, я до него достану, если встану на цыпочки.
+Даже если встать на цыпочки, я еле-еле до него дотянусь.
 
 箱のドアさえ開けば、中に閉じ込められた人をこちら側へ引っぱり出すことは可能だろう。%K%P
 If we could get the box open, then it seemed possible to pull the people trapped inside over to our side.
@@ -561,7 +561,7 @@ CN PLACEHOLDER
 少しだけ、幸せを感じた……。%K%P
 It was kind of nice...
 CN PLACEHOLDER
-В моменте я даже почувствовал лёгкое, едва уловимое счастье...
+В моменте я даже почувствовал лёгкий, едва уловимый прилив счастья...
 
 優「待ってて！　もうすぐだから！」%K%P
 Wait! Hold on! We're almost there!
@@ -691,7 +691,7 @@ CN PLACEHOLDER
 照明がキラキラと瞬いていた。%K%P
 The lights were shining down brightly.
 CN PLACEHOLDER
-Лампы дневного света ярко горят.
+Лампы на потолке словно искрились и мерцали.
 // без дневного света
 
 ？？「きゃははははははははっ♪」%K%P
@@ -807,7 +807,7 @@ CN PLACEHOLDER
 優「修学旅行？」%K%P
 You're on a school trip?
 CN PLACEHOLDER
-У вас школьная поездка?
+Вас на экскурсию привезли?
 // dsp2003: Ты здесь в роли представителя учебного заведения?
 // не совсем представляю что это значит
 
@@ -869,7 +869,7 @@ CN PLACEHOLDER
 優「……とは名ばかりで、実際にはただの『享楽的な集団旅行プロジェクト』に過ぎなかったりする」%K%P
 Well... That was the official name, but it was really just a glorified field trip.
 CN PLACEHOLDER
-Ну... это официальное название. По факту это та же школьная поездка.
+...Так оно только называется. А по сути это просто «групповая развлекательная поездка».
 // dsp2003: Ну... это официальное название, хотя на самом деле это всего лишь субботник.
 // не знаю, что там в оригинале, но явно не субботник и не что-то на него похожее
 // перевожу с английского
@@ -877,7 +877,7 @@ CN PLACEHOLDER
 優「どうせまた、あれでしょ？」%K%P
 It's still the same old deal, I bet.
 CN PLACEHOLDER
-Зуб даю, всё та же старая песня.
+Небось опять как всегда.
 
 優「建て前は『ＬｅＭＵで働くお姉さん達のお手伝いをしましょう』みたいなさ」%K%P
 The girls go 'help' out at LeMU for a day, or something stupid like that.
@@ -1789,7 +1789,7 @@ CN PLACEHOLDER
 優「一方通行の向きが、逆なのよ、どう考えても」%K%P
 But this is like going backward on a one-way street.
 CN PLACEHOLDER
-Но это похоже на движение вспять по односторонней улице.
+Знакомство-то одностороннее – только не в ту сторону, как ни крути.
 // мне не сильно нравится аналогия и как это написано, но лучше придумать не могу --bibarub
 
 沙羅「一方通行、ねぇ……」%K%P
@@ -1842,7 +1842,7 @@ CN PLACEHOLDER
 少年「ぼくに記憶がないからって、勝手なこと言わないでよ！」%K%P
 Don't go making things up just because I lost my memory!
 CN PLACEHOLDER
-;Мальчик«Не надо придумывать всякой ерунды потому, что я потерял память!»%K%P
+;Мальчик«Не надо придумывать всякую ерунду потому, что я потерял память!»%K%P
 
 沙羅「違うの？」%K%P
 Am I wrong?
@@ -2714,7 +2714,7 @@ CN PLACEHOLDER
 ガックリと肩を落とすぼく。%K%P
 My shoulders slumped in disappointment.
 CN PLACEHOLDER
-Я разочарованно поник плечами.
+Плечи у меня так и поникли.
 // не уверен, что так можно сказать
 
 沙羅の顔にも、落胆の色が表われている。%K%P
