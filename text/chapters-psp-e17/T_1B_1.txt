@@ -3340,7 +3340,7 @@ CN PLACEHOLDER
 少年「いただきます」%K%P
 Ch-Cheers?
 CN PLACEHOLDER
-;Мальчик«Д-до дна?»%K%P
+;Мальчик«А... Спасибо.»%K%P
 //I'm open to going with something else here, but I thought the uncertainty was a way of at least *kind of* adapting him not knowing what to properly say here.
 
 つぐみ「…………」%K%P
