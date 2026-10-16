@@ -3022,7 +3022,7 @@ CN PLACEHOLDER
 優「宴もたけなわとなってまいりましたが皆さんそろそろお開きに――」%K%P
 I know we've just started having so much fun, but it's time we wrap things up—
 CN PLACEHOLDER
-Мы вдоволь повеселились, но теперь пора прощаться...
+Праздник в самом разгаре, но, как говорится, хорошего понемножку...
 // никто ни с кем не прощается --bibarub
 
 ココ「あっ、なっきゅ！　ちょっと待って！」%K%P
