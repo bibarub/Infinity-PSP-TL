@@ -426,7 +426,7 @@ CN PLACEHOLDER
 沙羅「『ピロピロピンポンドォーン！』だよ？」%K%P
 Mental Guts.
 CN PLACEHOLDER
-Играли в Умственный Тренинг.
+Играли в Умственный тренинг.
 
 少年「なに……それ？」%K%P
 What's... that?
@@ -1226,12 +1226,12 @@ CN PLACEHOLDER
 優「マヨはね？　ハッカーなのよ」%K%P
 Mayo? She's a hacker.
 CN PLACEHOLDER
-Майо? Она хакер.
+Майо? Она %TS080хакер%TE.
 
 ハッカーっていうと……。%K%p
 Hacker? That means...
 CN PLACEHOLDER
-Хакер, иными словами...
+Хакер, значит...
 
 ハッカーって何？
 What's a hacker?

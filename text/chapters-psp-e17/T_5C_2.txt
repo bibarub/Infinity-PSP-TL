@@ -1193,7 +1193,7 @@ CN PLACEHOLDER
 つぐみ「でも、私は何度もお見舞いに通った。友人、ジュリアの為に」%K%P
 But I kept going to see her. To keep up her spirits.
 CN PLACEHOLDER
-Но, не смотря ни на что, я продолжала навещать её. Чтобы поддержать.
+Но, несмотря ни на что, я продолжала навещать её. Чтобы поддержать.
 
 つぐみ「微笑んでいる彼女が、余命幾ばくもないなんて、私は信じなかった」%K%P
 Watching her smiling face, I couldn't believe that she didn't have long to live.
@@ -1683,7 +1683,7 @@ CN PLACEHOLDER
 大変だ！　実験体が！%K%P
 Oh no! The experiment!
 CN PLACEHOLDER
-Нееет! Эксперимент!
+Не-е-ет! Эксперимент!
 
 無闇に触るな！　噛まれないようにしろ！%K%P
 Everyone, be careful! Whatever you do, don't let them bite you!

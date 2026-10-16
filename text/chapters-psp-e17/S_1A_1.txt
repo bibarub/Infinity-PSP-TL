@@ -2513,7 +2513,7 @@ CN PLACEHOLDER
 ――突如、殴りつけられたような衝撃が、ぼくの全身をつらぬいた！%K%P
 —Then, all of a sudden, a shock shot through my whole body.
 CN PLACEHOLDER
-– Внезапно через всё моё тело прошла волна, словно от удара кулаком.
+– Внезапно через всё тело прошла волна, словно от удара кулаком.
 
 少年「う、うぅっ……あぁ……」%K%P
 Oooh... arggh...
@@ -3068,7 +3068,7 @@ CN PLACEHOLDER
 鉄の扉に何度か体当たりを繰り返した後、優はそう言った。%K%P
 You said that after trying to move the door with her weight several times.
 CN PLACEHOLDER
-Сказала Ю после того, как попыталась несколько раз открыть дверь всем своим весом.
+Сказала Ю после того, как несколько раз попыталась открыть дверь всем своим весом.
 
 ここは非常階段――。%K%P
 Those were the emergency stairs.

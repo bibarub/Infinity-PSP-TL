@@ -241,7 +241,7 @@ CN PLACEHOLDER
 （やっぱり俺は、夢の中に？）%K%P
 (Is this really a dream after all?)
 CN PLACEHOLDER
-(Я, должно быть, сплю?)
+(Может, это и правда сон?)
 
 ――彼は本気でそう思っていた。%K%P
 —For a moment, he seriously had to consider the possibility.
@@ -516,7 +516,7 @@ CN PLACEHOLDER
 ココ「最近ね、友達からちょーうけるコメッチョ教わったの！」%K%P
 My friend told me a real good joke the other day!
 CN PLACEHOLDER
-Мне друг недавно рассказал такой прикольный анекдот!
+Мне друг недавно рассказал такой прикольный амекдот!
 
 係員「あ、ああ……えーっと……それは、また今度ね」%K%P
 O-Oh... Er... Maybe some other time.
@@ -771,7 +771,7 @@ CN PLACEHOLDER
 ココ「ねえ？　ココのコメッチョ、気にならない？」%K%P
 Hey. Don't you want to hear my joke?
 CN PLACEHOLDER
-Эй. Хочешь, я расскажу тебе анекдот?
+Эй. А ты не хочешь послушать амекдот?
 
 ああ、そうだった。%K%P
 (Oh, that's right.)
@@ -782,6 +782,7 @@ CN PLACEHOLDER
 (Her name was Coco.)
 CN PLACEHOLDER
 (Её зовут Коко.)
+// коко обращается к себе в третьем лице, поэтому он сразу слышит, как ее зовут
 
 懐に抱えているのはぺぺだったか、ポポだったか……。%K%P
 (And that animal she's holding is Pepe, or Popo, or something...)
@@ -791,17 +792,17 @@ CN PLACEHOLDER
 ココ「気になるでしょ？」%K%P
 You wanna hear it, don't you?
 CN PLACEHOLDER
-Ты ведь хочешь, правда?
+Хочешь же, правда?
 
 武「えっ？　何が？」%K%P
 Huh? What are you talking about?
 CN PLACEHOLDER
-А? Чего?
+А? Чего послушать?
 
 ココ「さっき言おうとしたコメッチョのことだよ」%K%P
 The joke I was just talking about. It's a merry joke.
 CN PLACEHOLDER
-Анекдот, о котором я тебе говорю, это „аме-кдот“.
+Амекдот, который я хотела рассказать всем чуть раньше.
 
 武「こ、こめっちょ？」%K%P
 A... merry joke?
@@ -831,12 +832,12 @@ CN PLACEHOLDER
 ココ「気になるでしょ？　教えて欲しいでしょ？」%K%p
 Makes you wanna hear it, right? Want me to tell you?
 CN PLACEHOLDER
-Так ты выслушаешь его? Хочешь, расскажу?
+Интересно же, правда? Хочешь, расскажу?
 
 米っちょを聞く
 Listen to the joke
 CN PLACEHOLDER
-Слушать анекдот
+Слушать амекдот
 
 係員の説明が気になる
 Listen to the staff member's explanation
@@ -961,7 +962,7 @@ CN PLACEHOLDER
 係員「ところで、このＬｅＭＵは、飽和潜水仕様の設計になっています」%K%P
 By the way, LeMU was designed with saturation diving specifications.
 CN PLACEHOLDER
-Кстати, LeMU был спроектирован в соответствии со стандартами дайвинга.
+Кстати, LeMU был спроектирован в соответствии со %TS094стандартами дайвинга%TE.
 
 係員「つまり、内部の気圧が、外の水圧と同等か、またはそれを上まわるようになっているのです」%K%P
 In other words, the internal air pressure is equivalent to or greater than the water pressure outside.
@@ -1041,7 +1042,7 @@ CN PLACEHOLDER
 係員「ＬｅＭＵの中にはヘリウムガスが充満しているので、この変換機を耳につけていないと、アヒルのような声に聞こえてしまうのです」%K%P
 LeMU is pumped full of helium gas, so without these in your ears, you'll sound like a duck.
 CN PLACEHOLDER
-LeMU заполнен гелием, поэтому без надетых „наушников“ ваши голоса будут похожи на утиные.
+LeMU заполнен %TS092гелием%TE, поэтому без надетых „наушников“ ваши голоса будут похожи на утиные.
 
 彼は、試しに音声変換機を外してみた。%K%P
 He removed his voice alternators to see what would happen.
