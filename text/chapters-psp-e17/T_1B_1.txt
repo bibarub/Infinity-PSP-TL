@@ -3702,7 +3702,7 @@ CN PLACEHOLDER
 言いたくはないが、これは大惨事だ。%K%P
 I didn't want to admit it, but we were in deep trouble.
 CN PLACEHOLDER
-Не хотелось этого признавать, но мы в большой заднице.
+Не хотелось этого признавать, но мы в глубокой заднице.
 // база --bibarub
 
 優「ま、ひとまず、助けを待つしかないってことでしょ？」%K%P
