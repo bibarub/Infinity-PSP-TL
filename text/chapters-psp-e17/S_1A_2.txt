@@ -849,7 +849,7 @@ CN PLACEHOLDER
 マヨ「鳩鳴館では２年生になると、ボランティアの旅に行くことになってるじゃないですかぁ」%K%P
 At Kyumeikan, juniors are supposed to go out and volunteer somewhere, right?
 CN PLACEHOLDER
-В %TS20Кюмэйкане%TE второгодки ходят на всякие мероприятия и помогают там.
+В %TS020Кюмэйкане%TE второгодки ходят на всякие мероприятия и помогают там.
 
 マヨ「なっきゅ先輩だって、今年卒業したばっかりなんだから、知ってるでしょ？」%K%P
 Nakkyu, you just graduated this year, so you've gotta remember, right?
