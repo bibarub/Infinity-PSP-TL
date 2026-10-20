@@ -346,7 +346,7 @@ CN PLACEHOLDER
 空「パイプの一部が破損して、少し水が漏れています。水深は深いところで１０ｃｍ程度です」%K%P
 An area of the pipe has ruptured, and there is a slight water leak. The water is about ten centimeters at its deepest point.
 CN PLACEHOLDER
-Часть трубы разорвана, есть небольшая утечка воды. Самый глубокий уровень воды равен семнадцати сантиметрам.
+Часть трубы повреждена, есть небольшая утечка воды. Самый глубокий уровень воды равен семнадцати сантиметрам.
 
 つぐみ「はぁ……そんなことだろうと思ったわ」%K%P
 *Sigh*... Exactly as I thought.

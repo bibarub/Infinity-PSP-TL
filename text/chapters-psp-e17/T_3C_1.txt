@@ -56,7 +56,7 @@ CN PLACEHOLDER
 食べきれなかった……というわけではないようだった。%K%P
 It didn't seem like he couldn't finish it...
 CN PLACEHOLDER
-Не то, чтобы он не смог доесть его, но...
+Не то чтобы он не смог доесть его, но...
 
 優「どうしたの？　冷めないうちに食べなよ」%K%P
 What's the deal? Eat up before it gets cold.
@@ -466,7 +466,7 @@ CN PLACEHOLDER
 ココは自分のサンドにもサワークリームを浴びせて、大きく口をあけてかぶりついた。%K%P
 She doused her sandwich with the sour cream, opened her mouth wide, and shoved it in.
 CN PLACEHOLDER
-Она обильно полила свой сэндвич соусом, широко открыла рот и целиком запихала его внутрь.
+Она обильно полила свой сэндвич соусом, широко раскрыла рот и откусила приличный кусок.
 
 ココ「おいしーい♪」%K%P
 Delicious〜
@@ -546,7 +546,7 @@ CN PLACEHOLDER
 俺は一応つぐみのサンドも作って、保温器の奥に置いてはあった。%K%P
 I had made it for her and stuck it in the warmer to keep for her.
 CN PLACEHOLDER
-Да, я сделал сэндвич и для неё. И, да, он лежит в микроволновке, чтобы не остыл.
+Да, я сделал сэндвич и для неё. положив в микроволновку, чтобы тот не остыл.
 
 しかし――%K%P
 But then again...
@@ -651,7 +651,7 @@ CN PLACEHOLDER
 武「ああっと、そうだ優……」%K%P
 Oh, by the way, You...
 CN PLACEHOLDER
-О, да, кстати, Ю...
+А, кстати, Ю...
 
 武「つぐみは安静にしてるのか？」%K%P
 Is Tsugumi resting up?
@@ -711,7 +711,7 @@ CN PLACEHOLDER
 優「……うーん……」%K%P
 ...Yeeeaaah...
 CN PLACEHOLDER
-....Да-а-а-а...
+...Да-а-а-а...
 
 武「なんだよ優、また自信喪失しちまったのか？」%K%P
 What's up with you? Lose your confidence somewhere or something?
@@ -771,7 +771,7 @@ CN PLACEHOLDER
 この広間の一角には、４体の石像が並んでいた。%K%P
 Four stone statues were lined up in one corner of the area.
 CN PLACEHOLDER
-У одной из стен помещения стоят четыре каменных статуи.
+У одной из стен помещения стоят четыре каменные статуи.
 
 そのうち１体は南の方角に手を伸ばしている。%K%P
 One of them extended a hand, pointing toward the south.
@@ -786,12 +786,12 @@ CN PLACEHOLDER
 また他の１体は天に向かって、手を伸ばしていた。%K%P
 Yet another looked to the heavens while reaching a hand upward.
 CN PLACEHOLDER
-Ещё одна с обращённой к небесам рукой указывает вверх.
+Ещё одна с рукой, обращённой к небесам.
 
 残る１体は……胸に両手をあて、目をそっと閉じている。%K%P
 The remaining figure... had both hands pressed to its chest and eyes closed.
 CN PLACEHOLDER
-А последняя фигура... стоит со сведёнными у живота руками и закрытыми глазами.
+А у последней фигуры... руки сложены на груди, а глаза закрыты.
 
 何か意味があるのだろうか？%K%P
 I wondered if there was some kind of meaning to all of it.
@@ -1036,7 +1036,7 @@ CN PLACEHOLDER
 空「花は決して諦めようとせず、見事に咲き誇ろうと努力している」%K%P
 They never even think of giving up, but just struggle courageously to live.
 CN PLACEHOLDER
-Они даже не думают сдаваться, а просто продолжают бесстрашно бороться за жизнь.
+Они и не думают сдаваться, просто продолжают бесстрашно бороться за жизнь.
 
 空「その姿勢が、胸を打つのでしょうか？」%K%P
 Doesn't it inspire you?

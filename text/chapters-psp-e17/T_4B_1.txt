@@ -31,7 +31,7 @@ CN PLACEHOLDER
 幸い、やや気だるさは残るものの、眠くてたまらないというわけではなかった。%K%P
 I was still groggy, but thankfully, I wasn't so sleepy that it was driving me crazy.
 CN PLACEHOLDER
-К счастью, хотя я все еще чувствовал небольшую вялость, сонливость не была настолько сильной, чтобы быть совсем невыносимой.
+К счастью, хотя я всё ещё чувствовал небольшую вялость, сонливость не была настолько сильной, чтобы быть совсем невыносимой.
 
 自分の手を握ったり開いたりしてみる。%K%P
 I opened and closed my hand.
@@ -1321,7 +1321,7 @@ CN PLACEHOLDER
 優「彼は名を、ピグマリオン、と言います。彼は『キプロスの王』とも呼ばれているけど……」%K%P
 His name was Pygmalion. He's been called the 'King of Cyprus'...
 CN PLACEHOLDER
-Звали его Пигмалион. А величали Царём Кипра...
+Звали его Пигмалион. А величали царём Кипра...
 
 優「神話の世界では、偉い人のことをみんな『王様』や『神様』にしちゃうから、それはひとまず置いといて」%K%P
 But in these myths they tend to call anyone a 'king' or a 'god', so we won't go there for a bit...
@@ -1431,12 +1431,12 @@ CN PLACEHOLDER
 優「もしも、この私、ピグマリオンが年老いて、天に召される時……」%K%P
 He thought that when he himself became old and went to heaven...
 CN PLACEHOLDER
-Он думал, что когда состарится и попадёт на небеса...
+Он задумывался: когда состарится и попадёт на небеса...
 
 優「『彼女』はここに立ち尽くしたまま残され、朽ちるのを待つばかりとなるのだろうか……？」%K%P
 She would have to continue standing there, just waiting to decay...
 CN PLACEHOLDER
-Она так и будет стоять, просто ожидая, пока не рассыпется в пыль?..
+Неужели она так и будет стоять, просто ожидая, пока не рассыпется в пыль?..
 
 優「ああ、それは嫌だ！」%K%P
 To him, it was unthinkable...
@@ -1706,7 +1706,7 @@ CN PLACEHOLDER
 優「あ、ちょっと話は変わるけど……ローゼンタールという人が唱えた『ピグマリオン効果』というのがあって――」%K%P
 Okay, this is a little different, but this guy named Rosenthal wrote about something called the 'Pygmalion effect'...
 CN PLACEHOLDER
-Так, немного сменим тему. Некий Розенталь выдвинул теорию об „эффекте Пигмалиона“.
+Так, немного сменим тему. Некий Розенталь выдвинул теорию об „%TS086эффекте Пигмалиона%TE“.
 
 壇上にあがった学校の先生みたいに、優はゆうゆうと語っていた。%K%P
 She was acting like a professor on a soapbox.
@@ -1726,7 +1726,7 @@ CN PLACEHOLDER
 優「プラシーボ効果というのは、それとちょっと意味合いが違ってて――」%K%P
 It's not quite the same as the placebo effect.
 CN PLACEHOLDER
-Конечно, это не совсем то же, что и эффект плацебо...
+Конечно, это не совсем то же, что и эффект %TS090плацебо%TE...
 
 優「どちらにせよ、そうであると信じることが重要になるのであって――」%K%P
 But both of them involve believing in something.

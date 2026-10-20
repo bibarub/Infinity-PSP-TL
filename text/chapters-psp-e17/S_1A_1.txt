@@ -2032,7 +2032,6 @@ CN PLACEHOLDER
 A steel partition gradually slid down from above.
 CN PLACEHOLDER
 Сверху медленно опускается стальная переборка.
-// мне очень не нравится слово переборка --bibarub
 
 下からも、隔壁が水を押し退けてせり上がって行く。%K%P
 Another one came up from below, pushing away water as it moved.
@@ -2513,7 +2512,7 @@ CN PLACEHOLDER
 ――突如、殴りつけられたような衝撃が、ぼくの全身をつらぬいた！%K%P
 —Then, all of a sudden, a shock shot through my whole body.
 CN PLACEHOLDER
-– Внезапно через всё моё тело прошла волна, словно от удара кулаком.
+– Внезапно через всё тело прошла волна, словно от удара кулаком.
 
 少年「う、うぅっ……あぁ……」%K%P
 Oooh... arggh...
@@ -2887,7 +2886,6 @@ CN PLACEHOLDER
 Like someone had stolen “me” away. And the “me” who was left was just an empty shell.
 CN PLACEHOLDER
 Будто кто-то выкрал моё «Я». А «Я», что остался – лишь пустая оболочка.
-// стоит ли использовать большую "Я"? --bibarub
 
 ここにいる『ぼく』は、本当の『ぼく』じゃ……ないのかもしれない。%K%P
 The “me” that was there... Who knew if it was even the real me?
@@ -3013,7 +3011,7 @@ CN PLACEHOLDER
 You put her hand on my hair and gave me a smile so bright I almost needed sunglasses.
 CN PLACEHOLDER
 Ю положила руку мне на голову и одарила меня ослепительной улыбкой.
-// положила руку на волосы? непонятно, положила ли она руку ему на голову, или просто прикоснулась рукой к волосам --bibarub
+// непонятно, положила ли она руку ему на голову, или просто прикоснулась рукой к волосам --bibarub
 
 その笑顔はぼくの心にさんさんと降り注ぎ、胸に渦巻いていた不安を跡形も無く拭い去ってくれた。%K%P
 That smile flooded into my heart, wiping away the remains of the unease that was swirling there.
@@ -3068,7 +3066,7 @@ CN PLACEHOLDER
 鉄の扉に何度か体当たりを繰り返した後、優はそう言った。%K%P
 You said that after trying to move the door with her weight several times.
 CN PLACEHOLDER
-Сказала Ю после того, как попыталась несколько раз открыть дверь всем своим весом.
+Сказала Ю после того, как несколько раз попыталась открыть дверь всем своим весом.
 
 ここは非常階段――。%K%P
 Those were the emergency stairs.

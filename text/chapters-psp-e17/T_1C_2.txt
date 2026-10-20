@@ -671,7 +671,7 @@ CN PLACEHOLDER
 武「少ちゃん、ねぇ……。俺らもそう呼ぶか？　それよりなんかこうもっと、普通の名前っぽい名前をだなぁ……例えば」%K%P
 Kiddo, huh... You want me to call you that too? There's gotta be a more normal name than that.
 CN PLACEHOLDER
-Малой-тян, хм-м... Хочешь, чтобы я тоже так тебя звал? Может, стоит подобрать что-то получше?
+Малой-тян, хм-м... Хочешь, чтобы я тоже так тебя звал?.. Может, лучше придумать что-то, что больше похоже на имя? Ну например...
 
 武「権兵衛」%K%P
 John.
@@ -681,22 +681,22 @@ CN PLACEHOLDER
 武「適当だけど、名無しの権兵衛」%K%P
 It'd be fitting to call him John Doe.
 CN PLACEHOLDER
-Думаю, очень даже уместно будет его звать %TS120Джоном Доу%TE.
+Думаю, будет подходяще его звать %TS120Джоном Доу%TE.
 
 空「適当だから『権兵衛』だ、というのは全国の権兵衛さんに申し訳ないのではないですか？」%K%P
 But wouldn't calling him that just because it's fitting be rude to all of the people named John Doe?
 CN PLACEHOLDER
-А не кажется ли тебе, что это грубо по отношению к другим Джонам Доу – называть кого-то так лишь потому, что это „уместно“?
+А не кажется ли тебе, что это грубо по отношению к другим Джонам Доу – называть кого-то так лишь потому, что это „подходяще“?
 
 武「仮名なんだから適当でいいじゃないか」%K%P
 Well, it's only for a little while, so it doesn't have to be perfect.
 CN PLACEHOLDER
-Ну, я долго не думал, так что, может, имя и не особо подходит.
+Ну, по сути это просто кличка. Думаю, и так пойдёт.
 
 空「倉成さん、『少ちゃん』よりも名前っぽい名前を、と言ったじゃありませんか」%K%P
 Kuranari-san, I thought you wanted a more name-like name than Kiddo.
 CN PLACEHOLDER
-Куранари-сан, ты ведь вроде собирался придумать имя лучше, чем „Малой-тян“.
+Куранари-сан, но ты ведь вроде собирался придумать имя, а не кличку...
 
 ココ「じゃあねぇー……ココがもいっこ名前をつけよう！」%K%P
 Well then... Coco will think up another name!
@@ -716,7 +716,7 @@ CN PLACEHOLDER
 ココ「しぷりあーの・くりすぴん・くりすぴにあーの・で・ら・さんてぃしま・とりにだっど・るいす・い・ぴかそ！」%K%P
 Siburiano Critiano de la Santeshima Trinidado Luis Picasso!
 CN PLACEHOLDER
-Сиприано Криспин Криспиниано де ла Сантисима Тринидад Луис Пикассо!
+Сиприано Криспин Криспиниано де ла Сантисима Тринидад Луис %TS085Пикассо%TE!
 
 武「長ぇ〜〜〜よ！！　田中優美清春香菜より長いのは却下だ！」%K%P
 That's too long! Anything longer than Tanaka Yubiseiharukana is out!
@@ -726,27 +726,27 @@ CN PLACEHOLDER
 優「ちょっと倉成武！　突然フルネームで呼ばないでよ……」%K%P
 Hey, Kuranari Takeshi! Don't just go blurting out my full name...
 CN PLACEHOLDER
-Эй, Куранари! Не выпаливай моё полное имя просто так...
+Слышь, Куранари Такэси! Не выпаливай моё полное имя просто так...
 
 売店の向こうで聞いていた優がツカツカと歩いてきた。%K%P
 You, who had been standing over by the shop, came walking directly toward me.
 CN PLACEHOLDER
-Похоже, что моя шутка задела Ю. Она стояла у лавки, но в ту же секунду подскочила ко мне.
+Ю, что до этого стояла у лавки, резко подскочила к нам.
 
 武「ああ！　もう！　面倒だ！」%K%P
 Ah! What a pain!
 CN PLACEHOLDER
-Ай! Больно!
+А-а, блин, как же всё сложно!
 
 武「例の着ぐるみにちなんで貴様を『油揚げみゅー吾』と命名する！」%K%P
 In honor of the mascot, I name you 'Earl Myun of Hamburger'!
 CN PLACEHOLDER
-В честь талисмана я нарекаю тебя „Абурагэ Мюмюнскэ“!
+В честь талисмана я нарекаю тебя „Лемурий Мюмюнович“!
 
 武「例の着ぐるみにちなんで、貴様を『タヌ吉ポン太郎』と命名する！」%K%P
 In honor of the mascot, I name you 'John Raccoon Dog Smith'!
 CN PLACEHOLDER
-В честь талисмана я нарекаю тебя „Тануки Таро“!
+В честь талисмана я нарекаю тебя „Танукентий Пузобарабанов“!
 
 少年「…………」%K%P
 ...
@@ -796,7 +796,7 @@ CN PLACEHOLDER
 つぐみが割って入った。%K%P
 Tsugumi cut in.
 CN PLACEHOLDER
-Выпалила Цугуми.
+Цугуми включилась в разговор.
 
 つぐみ「一時的な名前を適当につけたりしたら、彼が本名を思い出したときにいろいろ困るわよ」%K%P
 If we come up with some random name, it'll be a hassle when he remembers his real one.
@@ -806,7 +806,7 @@ CN PLACEHOLDER
 つぐみ「少年なんだから……」%K%P
 He is a kid...
 CN PLACEHOLDER
-Ну раз он ещё мал...
+Мне кажется, раз он ещё мал...
 
 つぐみ「『少年』でいいじゃない」%K%P
 So why don't we just stick with 'Kid'?
@@ -816,7 +816,7 @@ CN PLACEHOLDER
 話はループする。%K%P
 The conversation had come full circle.
 CN PLACEHOLDER
-Круг замкнулся.
+Мы вернулись к тому, с чего начали.
 
 照明が突然消え、すぐについた。%K%P
 The lights suddenly went out and then flashed back on.
@@ -826,22 +826,25 @@ CN PLACEHOLDER
 鈍い金属的な反響音……。%K%P
 There was a dull, heavy metallic echo...
 CN PLACEHOLDER
-Послышался гул тяжёлого металлического эхо...
+Металлический гул эхом пронёсся по сооружению.
+// dsp2003: Послышался гул тяжёлого металлического эхо...
 
 同時に、僅かな振動を感じた。%K%P
 At the same time, there was a slight tremor.
 CN PLACEHOLDER
-В тот же момент пол под нами вздрогнул.
+В тот же момент почувствовалась лёгкая вибрация.
+// dsp2003: В тот же момент пол под нами вздрогнул.
+// тут повторение "под нами" и в следующей реплике "снизу"
 
 武「なんだ？」%K%P
 What's that?
 CN PLACEHOLDER
-Ч-что это было?
+Что это было?
 
 つぐみ「今の揺れ、下から来てる……」%K%P
 That tremor felt like it came from below...
 CN PLACEHOLDER
-Кажется, эта дрожь исходит снизу...
+Кажется, дрожь исходит снизу...
 
 優「下？　……下のフロアで何かあったのかな？」%K%P
 Below? I wonder if something happened below?
@@ -901,12 +904,12 @@ CN PLACEHOLDER
 大きな揺れと共に、鉄の歪む音が聞こえる。%K%P
 The sound of metal giving way accompanied the massive shaking.
 CN PLACEHOLDER
-К металлическому отзвуку прибавилась массивная тряска.
+К тряске прибавился лязг металла.
 
 古い映画で見た、豪華客船の沈没する光景が脳裏に浮かんだ。%K%P
 Scenes from old movies of luxury liners being swallowed by the ocean flashed across my mind.
 CN PLACEHOLDER
-В моём мозгу промелькнули сцены из старых фильмов про роскошные лайнеры, которые проглатывает вода.
+В мозгу промелькнули сцены из старых фильмов про роскошные лайнеры, которые проглатывает вода.
 
 空「区画連結部に破損」%K%P
 There is damage to the passageways connecting the sectors.
@@ -916,7 +919,7 @@ CN PLACEHOLDER
 空「浸水箇所、複数の区画に拡大していきます」%K%P
 Multiple leak areas, and it's increasing.
 CN PLACEHOLDER
-Множественные повреждения обшивки, дыра продолжает расти.
+Затопление распространяется и на другие зоны.
 
 つぐみ「ねぇ……」%K%P
 Hey...
@@ -926,12 +929,12 @@ CN PLACEHOLDER
 つぐみ「どこかに掴まっておいたほうがいいんじゃない？」%K%P
 Don't you think we should grab hold of something?
 CN PLACEHOLDER
-Вам не кажется, что нам стоит ухватиться за что-нибудь?
+Может, нам лучше за что-нибудь ухватиться?
 
 優「ええ、そうね。みんな何かに掴まって、身体を固定して！」%K%P
 Yes. Everyone grab something and steady yourself!
 CN PLACEHOLDER
-Да. Ребята, хватайтесь за что-то, держитесь!
+Да, ребята. Хватайтесь за что-то, держитесь!
 
 武「わ、わかった」%K%P
 O-Okay.
@@ -941,7 +944,7 @@ CN PLACEHOLDER
 手近の支柱に手を伸ばした。%K%P
 I reached out for a support pillar nearby.
 CN PLACEHOLDER
-Я дотянулся до близлежащих перил.
+Я взялся за опорный столб неподалёку.
 
 ココはピピを抱きしめるようにしてしゃがんだ。%K%P
 Coco crouched down as she squeezed Pipi tightly.
@@ -976,7 +979,7 @@ CN PLACEHOLDER
 フロア全体が――いや、ＬｅＭＵ全体が揺れている。%K%P
 The whole floor, or rather the whole of LeMU shook.
 CN PLACEHOLDER
-Весь этаж, или даже весь LeMU, жутко дрожит.
+Весь этаж – нет, даже весь LeMU – жутко дрожит.
 
 身体が天井まで突き飛ばされるかと思ったや否や、今度は床へ圧しつけられる。%K%P
 I thought I would be thrown into the ceiling one second or pulverized into the floor the next.
@@ -986,22 +989,22 @@ CN PLACEHOLDER
 目の前のグッズショップも揺れている。%K%P
 The souvenir shop in front of me trembled.
 CN PLACEHOLDER
-Сувенирная лавка передо мной разваливается.
+Сувенирную лавку передо мной тоже трясёт.
 
 どんがらがっしゃーん！　と陳列された皿は割れ……%K%P
 The display of dishes in the shop fell to the floor and shattered...
 CN PLACEHOLDER
-Гравированные тарелки бьются об пол...
+Тарелки с витрины свалились на пол и разлетелись вдребезги...
 
 がらがらごろごろ、と積んであった缶は崩れ……%K%P
 The pile of empty cans clattered and gave way...
 CN PLACEHOLDER
-Горка из пустых банок развалилась...
+Гора из пустых банок развалилась...
 
 ぴっぽこぴー、と間の抜けた音を立てながら、お腹を押すと鳴くぬいぐるみが転がる。%K%P
 A stuffed animal made a beeping noise as it fell on its stomach.
 CN PLACEHOLDER
-Плюшевые игрушки попадали на животы, издавая писк.
+Какая-то плюшевая игрушка упала на живот, издав писк.
 
 俺達はひたすらに足を踏ん張って耐える。%K%P
 We all steadied ourselves against the shaking.
@@ -1011,7 +1014,7 @@ CN PLACEHOLDER
 耐えるしかなかった。%K%P
 All we could do was endure it.
 CN PLACEHOLDER
-Это нелегко.
+Больше нам ничего не остаётся.
 
 誰も何も言わない。%K%P
 No one said anything.
@@ -1021,7 +1024,7 @@ CN PLACEHOLDER
 ミシミシと鉄のきしむ音だけが聞こえる。%K%P
 We could hear the squeal of steel twisting.
 CN PLACEHOLDER
-Звучит лишь скрежет рвущегося металла.
+Звучит лишь скрежет металла.
 
 ごごごんっ。%K%P
 Boom, boom, boom.
@@ -1036,12 +1039,12 @@ CN PLACEHOLDER
 やがて、音は遠ざかって行った。%K%P
 Finally, the sound seemed to get farther away.
 CN PLACEHOLDER
-Наконец, звук начал удаляться.
+Наконец, звук затих.
 
 振動も徐々に収まっていく。%K%P
 The vibrations also gradually subsided.
 CN PLACEHOLDER
-Вибрация тоже стихла.
+Вибрация тоже отступила.
 
 空は第２次浸水の終了を告げた。%K%P
 Sora announced that the second wave of flooding had finished.
@@ -1051,12 +1054,12 @@ CN PLACEHOLDER
 俺達は警戒を続けながら、階下へと向かった。%K%P
 Still wary, we headed downstairs.
 CN PLACEHOLDER
-Мы спускаемся, оглядываясь по сторонам.
+Мы спускаемся, с опаской оглядываясь по сторонам.
 
 湿って滑りやすくなった階段を、慎重に進む。%K%P
 We carefully moved forward down the wet and slippery stairs.
 CN PLACEHOLDER
-Мы осторожно идём по мокрым, скользким ступеням.
+И осторожно идём по мокрым, скользким ступеням.
 
 一歩一歩下りるたび、海水の匂いが強くなるように思う。%K%P
 With every step, the scent of seawater seemed to grow stronger.
@@ -1071,12 +1074,12 @@ CN PLACEHOLDER
 通路には、俺の足の脛辺りまで水が溜まっている……。%K%P
 The water level in the corridor reached around my shin...
 CN PLACEHOLDER
-Уровень воды уже доходит мне до голени...
+Вода на полу уже доходит мне до голени...
 
 水深１５ｃｍといったところだ。%K%P
 It must have been around fifteen centimeters deep.
 CN PLACEHOLDER
-Глубина – где-то 15 сантиметров.
+Её глубина – где-то 15 сантиметров.
 
 優「完全には排水できないの？」%K%P
 LeMU can't pump out all this water?
@@ -1086,22 +1089,23 @@ LeMU не может откачать всю эту воду?
 空「できないようです」%K%P
 It appears not.
 CN PLACEHOLDER
-Видимо, нет.
+По всей видимости, нет.
 
 空「大きな浸水箇所は隔壁で遮断したのですが、細かいダクト等を通して、今もこの区画に少しずつ、水が流れ込み続けています」%K%P
 All major areas where leaking has occurred have been closed off by shutting a partition; however, water is continuing to flow in through small ducts even now.
 CN PLACEHOLDER
-Все основные зоны, в которых обнаружены течи, были изолированы. Однако даже сейчас вода продолжает течь через небольшие отверстия.
+Основные зоны, в которых обнаружены течи, были изолированы. Однако даже сейчас вода продолжает протекать через небольшие отверстия.
 
 空「排水ポンプはフル稼働していますが、現在の状態より水位を下げるには、恐らく――」%K%P
 The water-clearing pumps are operating at full capacity, but to make the water level recede...
 CN PLACEHOLDER
-Помповые насосы работают на полную мощность, но чтобы понизить уровень воды...
+Помповые насосы работают на полную мощность, но для того, чтобы понизить уровень воды...
+// в тексте используется "дренажный насос", что более конкретно, чем просто "помпа" или "помповый насос"
 
 武「元のでっかい穴を塞がないとダメ、ってことか？」%K%P
 The big hole will have to be plugged. Is that what you were gonna say?
 CN PLACEHOLDER
-Большую дырку необходимо заткнуть. Ты это хотела сказать?
+Нужно заткнуть большую дырку, что появилась первой, да?
 
 優「でも、浸水元の区画には隔壁が下りてしまってるから、ここから修理に行くこともできない……」%K%P
 But with the partition shutting off the sector of the original leak, there's no way to access it...
@@ -1126,17 +1130,17 @@ CN PLACEHOLDER
 空「それにしても、本当に……申し訳ありませんでした」%K%P
 But I must sincerely apologize...
 CN PLACEHOLDER
-Но я должна извиниться перед всеми...
+Я должна извиниться перед всеми.
 
 空「２次浸水の危険が迫っていたというのに、皆さんに前もってお伝えできていなかったなんて……」%K%P
 Even though the second flooding was about to occur, I failed to notice and warn you all...
 CN PLACEHOLDER
-Несмотря на то, что должно было произойти второе затопление, я не смогла этого заметить и предупредить вас...
+Мне очень жаль, что я не смогла предупредить вас о том, что произойдёт второе затопление...
 
 空はキーを操りながら、心底すまなそうに頭を垂れる。%K%p
 As she manipulated the keys, Sora bowed her head, looking deeply apologetic.
 CN PLACEHOLDER
-Нажимая на кнопки, Сора с грустью поникла головой.
+Нажимая на кнопки, Сора с грустью склонила голову.
 
 ミスは誰にもあるよ
 Everybody makes mistakes
@@ -1156,12 +1160,13 @@ CN PLACEHOLDER
 武「まぁ、俺達もさっきの見回りで、原因を見落としてたかもしれないし……。それをお互いさまって言っていいかどうか微妙だけど」%K%P
 We may have even overlooked the cause of this when we were checking around a little bit ago... We're in this together.
 CN PLACEHOLDER
-Мы тоже могли проглядеть причину, когда делали обход... Хотя не уверен, что виноваты мы одинаково.
+Мы тоже могли проглядеть причину, когда делали обход... Хотя сказать „все хороши“ – как-то не совсем честно.
+// скорее всего тут имеется в виду, что он не уверен, что это сгладит ситуацию
 
 武「今はみんな無事なんだから、良しとしようや」%K%P
 Everyone is fine, so let's just consider ourselves lucky.
 CN PLACEHOLDER
-Всё в порядке, так что будем считать, что нам крупно повезло.
+Все в порядке, так что будем просто считать, что нам крупно повезло.
 
 空「ごめんなさい……」%K%P
 I am really sorry...
@@ -1186,17 +1191,17 @@ CN PLACEHOLDER
 俺は鼻の頭を掻く。%K%P
 I scratched the tip of my nose.
 CN PLACEHOLDER
-Я почесал кончик своего носа.
+Я почесал кончик носа.
 
 武「空の責任じゃないよ。事故なんだからさ」%K%P
 It's not your fault, Sora. It was an accident.
 CN PLACEHOLDER
-Ты не виновата, Сора.
+Ты не виновата, Сора. Просто так получилось.
 
 武「俺達がさっきの見回りで、原因を見落としてたせいかもしれないし……」%K%P
 We may have even overlooked the cause of this when we were checking around a little bit ago... We're in this together.
 CN PLACEHOLDER
-Мы могли проглядеть причину, когда делали обход...
+Может, это мы проглядели причину, когда делали обход...
 
 空「いいえ、そんなことはありません！」%K%P
 Not at all!
@@ -1216,12 +1221,12 @@ CN PLACEHOLDER
 武「そんな、ひとりで気負うなよ」%K%P
 Don't you go trying to blame yourself for this.
 CN PLACEHOLDER
-Не стоит взваливать вину на себя.
+Не вини в этом себя.
 
 武「今はみんな無事なんだから、良しとしようや。なぁ？」%K%P
 Everyone is fine, so let's just consider ourselves lucky.
 CN PLACEHOLDER
-Всё в порядке, так что будем считать, что нам крупно повезло.
+Все в порядке, так что будем просто считать, что нам крупно повезло. Хорошо?
 
 空「…………」%K%P
 ...
@@ -1231,7 +1236,7 @@ CN PLACEHOLDER
 空はうつむいて黙々と、作業を続ける。%K%P
 With her head bowed in silence, Sora kept working.
 CN PLACEHOLDER
-Сора, опустив голову, молча продолжила работу.
+Сора молча продолжила работать с опущенной головой.
 
 やがて、キーボードを打つ手が止まった。%K%P
 Finally, her hands stopped typing on the keyboard.
@@ -1251,12 +1256,12 @@ CN PLACEHOLDER
 空「皆さんどうか、驚いたり、気を落としたりしないでくださいね……」%K%P
 Everyone, please do not be shocked or let this get you down...
 CN PLACEHOLDER
-Все, пожалуйста не пугайтесь, иначе вы можете расстроиться...
+Прошу, сохраняйте спокойствие, не впадайте в истерику и не паникуйте.
 
 優「空ぁ、そんな風に言われると逆に身構えちゃうよ」%K%P
 Sora, when you say it like that, it makes us nervous.
 CN PLACEHOLDER
-Сора... Каждый раз, когда ты так говоришь, я начинаю нервничать.
+Сора... Каждый раз, когда ты так говоришь, мы начинаем переживать ещё больше.
 
 空「ああっ、すみません……」%K%P
 Oh, I'm sorry...
@@ -1266,42 +1271,42 @@ CN PLACEHOLDER
 優「ま、めったなことじゃ驚かない自信があるけどね」%K%P
 Still, I'm fairly confident that there are few things that will shock me.
 CN PLACEHOLDER
-Всё же, в этом мире меня могут испугать лишь несколько вещей.
+Ну, лично меня мало чем можно удивить.
 
 空「そうですか？　それでは――」%K%P
 I see. In that case...
 CN PLACEHOLDER
-Понимаю. В таком случае...
+Да? Ну, в таком случае...
 
 もっとも皆、もう感覚が麻痺しているのかもしれない。%K%P
 I thought everyone was probably numbed by what we had experienced so far.
 CN PLACEHOLDER
-Наверное, все вокруг в шоке от того, что недавно произошло.
+Наверное, мы уже почти привыкли к происходящему и не испытываем таких сильных эмоций по этому поводу.
 
 空「先程の第２次浸水についてですが、簡単に原因を申し上げますと……」%K%P
 Simply put, the cause of the second influx of water we experienced a short while ago...
 CN PLACEHOLDER
-Проще говоря, причина недавнего затопления...
+Говоря простыми словами, причина недавнего затопления состоит в том, что...
 
 空「１度目の浸水のときに被害を免れたいくつかの区画は、強制換気により急激に減圧された状態で、水没した区画から隔離されました」%K%P
 The sectors that were able to avoid damage during the first flooding were isolated from the flooded sections, and forced ventilation created a sudden reduction in air pressure.
 CN PLACEHOLDER
-Сектора, которые избежали повреждения при первоначальном затоплении, были изолированы от затопленных, в результате чего создался резкий перепад давления воздуха.
+Сектора, которые избежали повреждения при первоначальном затоплении, были изолированы от затопленных. При этом произошла принудительная вентиляция, в результате чего давление воздуха резко снизилось.
 
 空「しかし水没区画が内部の水の重さに耐え切れず傾き、隣接した区画とのジョイントに亀裂が生じました」%K%P
 However, the inundated sectors were not able to withstand the weight of the water and tilted, causing a rupture of the joint in the adjacent sector.
 CN PLACEHOLDER
-Однако затопленные сектора не смогли выдержать веса воды и накренились, вызвав обрыв в смежных секторах.
+Однако затопленные сектора не смогли выдержать веса воды и накренились, вызвав разрыв в соединениях между секторами.
 
 空「館内外の圧力差により、小さな亀裂からスポイトのように周囲の海水が吸い込まれた為に――」%K%P
 The gap in the internal and external air pressure caused seawater to be sucked into the complex through the rupture.
 CN PLACEHOLDER
-Из-за разницы давления внутри и снаружи сооружения окружающая вода проникла в него через небольшую трещину...
+Из-за разницы давления внутри и снаружи сооружения окружающая вода проникла в него через возникшие трещины...
 
 空「それまで健在だった多くの区画も、短時間で一気に浸水したのです……」%K%P
 So, many of the sectors that were stable until that moment were instantly flooded...
 CN PLACEHOLDER
-Поэтому многие сектора, что были стабильными до того момента, оказались мгновенно затоплены...
+Поэтому многие сектора, что были стабильными до того момента, мгновенно оказались затоплены...
 
 空「これが現在のドリットシュトックの状況です」%K%P
 That is the current situation of Dritter Stock.
@@ -1336,7 +1341,7 @@ CN PLACEHOLDER
 優「ＬｅＭＵの約半分は水の中、ってわけね」%K%P
 You mean nearly half of LeMU is underwater.
 CN PLACEHOLDER
-Так LeMU затопило уже наполовину.
+То есть LeMU затопило уже наполовину...
 
 空「ドリットには水没していない区画が３箇所あります」%K%P
 There are three sectors in Dritter that are not flooded.
@@ -1351,7 +1356,7 @@ CN PLACEHOLDER
 少年「あれ？　地図にはおおまかにふたつに分かれた場所が示されてるみたいだけど、もうひとつの区画は？」%K%P
 Huh? It looks like the map is displaying roughly two areas, but where's the third sector?
 CN PLACEHOLDER
-Странно. На карте можно разглядеть две зоны, но где же третий сектор?
+Странно. На карте видно две зоны... Но где же третья?
 
 空「実は、システムの不備のせいで詳細なマップ表示ができていませんが……」%K%P
 Actually, due to a flaw in the system, a detailed map cannot be displayed...
@@ -1361,12 +1366,12 @@ CN PLACEHOLDER
 空「この第８区画の対角線上にある、第４区画の一部も健在なのです。しかし」%K%P
 One part of Sector Four, diagonally above Sector Eight, is stable.
 CN PLACEHOLDER
-Одна часть Сектора 4, расположенная прямо над Сектором 8, стабильна.
+Одна часть Сектора 4, расположенного по диагонали от Сектора 8, стабильна. Однако...
 
 少年「そこに行くことはできないの？」%K%P
 There's no way to get there?
 CN PLACEHOLDER
-Туда попасть невозможно?
+Туда нельзя попасть?
 
 空「はい、不可能です」%K%P
 Correct. It is impossible.
@@ -1386,7 +1391,7 @@ CN PLACEHOLDER
 空「距離にして、およそ１００ｍ」%K%P
 In terms of distance, it is roughly 100 meters.
 CN PLACEHOLDER
-Выражаясь в расстоянии, это около 100 метров.
+Расстояние составляет около 100 метров.
 
 空「無呼吸状態で１００ｍ泳ぎ続けるような能力をお持ちになっている方は、この中にはいらっしゃらないでしょう？」%K%P
 I don't think there is anyone among you that is capable of swimming 100 meters without breathing.
@@ -1396,7 +1401,7 @@ CN PLACEHOLDER
 空「ゆえに、不可能なのです」%K%P
 Therefore, I say it is impossible.
 CN PLACEHOLDER
-Поэтому я сказала, что это невозможно.
+Поэтому я и сказала, что это невозможно.
 
 空「それに……もしも仮に第４区画まで行けたとしても、事態が好転するようなことはないと思われます」%K%P
 Furthermore... even if someone did reach Sector Four, I don't think it would improve our situation at all.
@@ -1426,20 +1431,20 @@ CN PLACEHOLDER
 空「そういうことです」%K%P
 That is correct.
 CN PLACEHOLDER
-Да.
+Именно так.
 
 少年「だったら、しょうがないか……」%K%P
 Well, then there's nothing we can do...
 CN PLACEHOLDER
-Значит, мы ничего не можем поделать...
+Ну, с этим ничего не поделаешь...
 
 つぐみ「第４区画のことは、この際忘れてしまったほうがいいわね」%K%P
 So we should forget about Sector Four.
 CN PLACEHOLDER
-Придётся забыть о Секторе 4.
+Пока забудем о Секторе 4.
 
 武「ともかく、黙って救助を待つしかなさそうだな」%K%P
 We'll just have to sit quietly and wait for help to come.
 CN PLACEHOLDER
-Сидеть тихо и ждать помощи.
+Остаётся только сидеть и ждать помощи.
 

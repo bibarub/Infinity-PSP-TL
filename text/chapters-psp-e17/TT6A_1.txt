@@ -3285,7 +3285,7 @@ IBF-3, пожалуйста ответьте!..
 ？？「こちらは海上保安庁特殊救難隊」%K%P
 This is the emergency rescue team from the Maritime Defense Force.
 CN PLACEHOLDER
-Это спасательная команда военно-морских сил.
+Говорит специальный спасательный отряд Береговой охраны.
 
 ？？「インゼル・ヌルより指示を行っています」%K%P
 We are being directed by Insel Null.
@@ -3315,7 +3315,7 @@ CN PLACEHOLDER
 管制官「第３ＩＢＦか！？　こちらインゼル・ヌル管制室、海上保安庁特救隊本部」%K%P
 IBF Three!? I repeat, this is the Maritime Defense Force emergency rescue team calling from the control center at Insel Null.
 CN PLACEHOLDER
-IBF-3?! Повторяю, это спасательная команда военно-морских сил.
+IBF-3?! Говорит диспетчерская Инсель Нуль, штаб спасательного отряда Береговой охраны.
 
 管制官「こちらの通信が聞こえるか？」%K%P
 Can you hear me?
@@ -4945,7 +4945,7 @@ CN PLACEHOLDER
 武「海上保安庁の特殊救難隊とか言ってたかな」%K%P
 Yeah. They called themselves the Maritime Defense Force, I think.
 CN PLACEHOLDER
-Да. Они сказали что-то про военно-морские силы, кажется.
+Да, они сказали что-то про Береговую охрану, или вроде того.
 
 武「優が通信回線を開いてくれたんで、インゼル・ヌルと連絡が取れたんだ」%K%P
 You was able to open up a communication line to Insel Null.
