@@ -1323,7 +1323,6 @@ CN PLACEHOLDER
 The girl dropped her cutting gaze to Pipi, who was busily gnawing on the edge of her skirt.
 CN PLACEHOLDER
 Девушка опустила взгляд на Пипи: тот изо всех сил тянул её за юбку.
-// "уронить" взгляд можно? --bibarub
 
 ココ「あ、ああ、ごめんなさい」%K%P
 O-Oh, I'm sorry.
@@ -1450,7 +1449,6 @@ CN PLACEHOLDER
 Clearly astonished, Coco's mouth opened wide like a fish.
 CN PLACEHOLDER
 Коко выглядела крайне удивлённой, аж отпрянула назад, как уж на сковороде.
-// стоит ли напрямую с японского здесь писать "кальмар"? --bibarub
 
 まあ、無理もないことだ。%K%P
 It was a natural reaction, of course.
@@ -1816,7 +1814,6 @@ CN PLACEHOLDER
 Hey Coco, it doesn't have to be right now, but will you tell me a joke later? I'm really in the mood for one.
 CN PLACEHOLDER
 Слушай, Коко, не прямо сейчас, но расскажешь мне потом амекдот? Что-то прям очень хочется послушать.
-// тут речь не про "хорошее" настроение, а про сложившуюся ситуацию, в которой бы не прочь послушать анекдот и развеселиться --bibarub
 
 ココ「うん、いいよっ。考えとく」%K%P
 Sure, no problem! I'll think of one.
@@ -1952,7 +1949,6 @@ CN PLACEHOLDER
 Tanaka You. My real name's a lot longer, but just call me You. What's your name?
 CN PLACEHOLDER
 Танака Ю. Полное имя – язык сломаешь, так что зови меня просто Ю. А тебя?
-// это продолжение прошлой реплики. в переводе она говорит "моя фамилия", а тут вдруг называет полное имя
 
 武「俺は、倉成武」%K%P
 I'm Kuranari Takeshi.
@@ -3023,7 +3019,6 @@ CN PLACEHOLDER
 I know we've just started having so much fun, but it's time we wrap things up—
 CN PLACEHOLDER
 Праздник в самом разгаре, но, как говорится, хорошего понемножку...
-// никто ни с кем не прощается --bibarub
 
 ココ「あっ、なっきゅ！　ちょっと待って！」%K%P
 Uh, Nakkyu! Wait a second!
@@ -3592,7 +3587,6 @@ CN PLACEHOLDER
 The opening of the emergency corridor disrupted the atmospheric pressure balance inside LeMU, and the pressure regulation devices encountered problems. Forced ventilation of the complex began.
 CN PLACEHOLDER
 Открытие аварийного коридора вызвало нарушение баланса давления внутри сооружения, которое не удалось исправить автоматически. В комплексе началась принудительная вентиляция помещений.
-// "вентилирование" в русском нераспространенный термин, возможно стоит заменить
 
 これにより、約６気圧に保たれていた内部の混合ガスが、急速に外部へと放出されることになった。%T030%K%N
 As a result, the mixture of gases inside designed to maintain six atmospheres of pressure, was rapidly vented outside.

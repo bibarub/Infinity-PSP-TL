@@ -268,7 +268,6 @@ CN PLACEHOLDER
 I switched places with You and reached out to try to open the door.
 CN PLACEHOLDER
 Я занял место Ю и попытался открыть дверь.
-// "поменялся местами" не уверен, что хорошо звучит на русском --bibarub
 
 少年「う〜〜ん……っ！」%K%P
 Ummmpphhhhhhh!
@@ -398,7 +397,6 @@ CN PLACEHOLDER
 But it seems there's someone that needs even more looking after than you do...
 CN PLACEHOLDER
 Но ещё есть кое-кто, с кем возни даже больше...
-// мне кажется, что от такого можно при чтении мозг вывихнуть, прошу придумать что-то получше
 // dsp2003: Но похоже, что сейчас кому-то помощь нужна больше, чем тебе...
 
 少年「どうしようか……？」%K%P
@@ -692,7 +690,6 @@ CN PLACEHOLDER
 The lights were shining down brightly.
 CN PLACEHOLDER
 Лампы на потолке словно искрились и мерцали.
-// без дневного света
 
 ？？「きゃははははははははっ♪」%K%P
 Wahahaha...
@@ -872,7 +869,6 @@ CN PLACEHOLDER
 ...Так оно только называется. А по сути это просто «групповая развлекательная поездка».
 // dsp2003: Ну... это официальное название, хотя на самом деле это всего лишь субботник.
 // не знаю, что там в оригинале, но явно не субботник и не что-то на него похожее
-// перевожу с английского
 
 優「どうせまた、あれでしょ？」%K%P
 It's still the same old deal, I bet.
@@ -894,7 +890,7 @@ CN PLACEHOLDER
 優「私のときは『ユナイテッド・ランド』だったけど……『ＬｅＭＵ』に変わったんだ？」%K%P
 When I was there, we went to United Land... but I guess they changed it to LeMU, huh?
 CN PLACEHOLDER
-Когда я училась, нас отправляли на United Land... Но, похоже, теперь они сменили место на LeMU?
+Когда я училась, нас отправляли на %TS114United Land%TE... Но, похоже, теперь они сменили место на LeMU?
 // United Land - какой-то еще тематический парк, на него есть заметка
 
 マヨ「先輩、見かけませんでした？　他の生徒」%K%P
@@ -1779,28 +1775,27 @@ CN PLACEHOLDER
 優「マヨがこの少年のことを知ってて……でも少年は、記憶喪失だからマヨのことを忘れちゃってて……」%K%P
 If you knew something about him, but he'd forgotten you because of his amnesia...
 CN PLACEHOLDER
-Если бы ты что-то знала о нём... а он не помнил тебя из-за амнезии...
+Если бы ты знала его... а он из-за амнезии тебя забыл...
 
 優「もしそうだったとしたら、当たり前のことなんだけど……」%K%P
 That would make sense to me...
 CN PLACEHOLDER
-Тогда в этом был бы смысл...
+Тогда бы и вопросов не было...
 
 優「一方通行の向きが、逆なのよ、どう考えても」%K%P
 But this is like going backward on a one-way street.
 CN PLACEHOLDER
 Знакомство-то одностороннее – только не в ту сторону, как ни крути.
-// мне не сильно нравится аналогия и как это написано, но лучше придумать не могу --bibarub
 
 沙羅「一方通行、ねぇ……」%K%P
 One-way street, huh...
 CN PLACEHOLDER
-Односторонней улице?..
+Одностороннее, говоришь...
 
 沙羅「あっ、わかった！　ひょっとしたら、こういうことなんじゃないですか？」%K%P
 Oh, I know! This is probably what happened.
 CN PLACEHOLDER
-А, я поняла! Похоже, вот как всё было.
+А, поняла! Может, всё дело вот в чём?
 
 優「？」%K%P
 ?
@@ -1810,7 +1805,7 @@ CN PLACEHOLDER
 沙羅「この少年――実は昔から、松永沙羅の大ファンだったんだ！」%K%P
 This kid probably used to be a big Matsunaga Sara fan!
 CN PLACEHOLDER
-Этот малой – большой фанат Мацунаги Сары!
+Этот малой – на самом деле давний и преданный фанат Мацунаги Сары!
 
 沙羅「私は気づかなかったけど、彼の方は私のことをずっと見てたんですよ、どっか物陰に隠れてね」%K%P
 I'll bet I never noticed him, but he used to watch me from a distance, like from the shadows.
@@ -2715,7 +2710,6 @@ CN PLACEHOLDER
 My shoulders slumped in disappointment.
 CN PLACEHOLDER
 Плечи у меня так и поникли.
-// не уверен, что так можно сказать
 
 沙羅の顔にも、落胆の色が表われている。%K%P
 Sara's face was also covered in dejection.
