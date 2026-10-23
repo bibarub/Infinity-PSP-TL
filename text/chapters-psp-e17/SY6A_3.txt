@@ -41,7 +41,7 @@ CN PLACEHOLDER
 空の言葉は、そこで途切れた。%K%P
 Sora paused for a second.
 CN PLACEHOLDER
-На мгновение Сора замялась.
+На секунду Сора замялась.
 
 優・つぐみ・沙羅・武・そしてぼく……集まった５人の顔を、空は順番に確かめて行く。%K%P
 Sora looked at all five of us in turn... You, Tsugumi, Sara, Takeshi, and me.
@@ -131,7 +131,7 @@ CN PLACEHOLDER
 空「ＬｅＭＵの完全圧潰推定時刻は『５月７日午前４時３０分前後』となっています」%K%P
 Implosion of LeMU is estimated to occur at 4:30 a.m. on May 7th.
 CN PLACEHOLDER
-Затопление LeMU ожидается примерно 7 мая в 4:30 утра.
+Разрушение LeMU ожидается примерно 7 мая в 4:30 утра.
 
 空「推定誤差は±１２時間程度です」%K%P
 The calculation has a margin of error of plus or minus twelve hours.
@@ -1343,12 +1343,12 @@ CN PLACEHOLDER
 完全圧潰推定時刻は、刻々と近づいている。%K%P
 The estimated time until LeMU's implosion was steadily approaching.
 CN PLACEHOLDER
-Предполагаемый час «икс», по наступлении которого LeMU затопит, всё ближе и ближе.
+Предполагаемый час «икс», по наступлении которого LeMU будет разрушен, всё ближе и ближе.
 
 一応のため、館内の状況をこの目で確認しておこうということになった。%K%P
 We decided to run a visual check of the complex to see how everything was.
 CN PLACEHOLDER
-Поэтому мы пробежались по сооружению, сделав зрительную проверку.
+Поэтому мы пробежались по сооружению, визуально его осмотрев.
 
 むろん、すでにレミの方で確認済みなのだから、意味のない行動ではあった。%K%P
 Of course, LeMMIH had already checked everything, so it was a meaningless action.

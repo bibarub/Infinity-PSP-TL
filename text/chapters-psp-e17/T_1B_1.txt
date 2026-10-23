@@ -663,7 +663,7 @@ CN PLACEHOLDER
 そして、華麗に着地……%K%P
 And landed spectacularly...
 CN PLACEHOLDER
-Одна секунда, полёт нормальный...
+И элегантно приземлился...
 
 ……する予定だったのだが……%K%P
 ...Or at least, that was my intention...
@@ -2366,7 +2366,7 @@ CN PLACEHOLDER
 優「不肖この鳩鳴館女子大１年、短期アルバイト、田中優美清春香菜が、救助隊の到着まで皆様をご案内いたしまーすっ……」%K%P
 I'm Tanaka Yubiseiharukana, a humble freshman at Kyumeikan Women's College, and I work here part-time. I will be your guide until the rescue team arrives!
 CN PLACEHOLDER
-Я первокурсница Женского университета Кюмэйкан, а здесь просто подрабатываю. Меня зовут Танака Юбисэйхарукана. Я буду вашим гидом, пока не прибудет спасательная команда.
+Я первокурсница %TS21Женского университета Кюмэйкан%TE, а здесь просто подрабатываю. Меня зовут Танака Юбисэйхарукана. Я буду вашим гидом, пока не прибудет спасательная команда.
 
 優「どんどんどんどん♪　ぱぁふぅーぱぁふうぅー♪」%K%P
 Rap-tap-tap-tap〜 Ta-da〜
@@ -2486,7 +2486,7 @@ CN PLACEHOLDER
 ココ「中３！」%K%P
 I'm in ninth grade!
 CN PLACEHOLDER
-%TS122Средняя школа%TE, третий год!
+Средняя школа, %TS122третий год%TE!
 
 武「な、なぬぃっ！？」%K%P
 Wh-What?!
@@ -2656,7 +2656,7 @@ CN PLACEHOLDER
 （鳥の名前だ……）%K%P
 (I think that's a bird's name...)
 CN PLACEHOLDER
-(По-японски это... «горлица». Птица, значит?..)
+(По-японски это... «дрозд». Птица, значит?..)
 
 水族館で、彼女が飛ぶように俺の腕を引いて走ったことを思い出す。%K%p
 I remembered her tugging me along in the aquarium and running like the wind.
@@ -2826,7 +2826,7 @@ CN PLACEHOLDER
 空「申し遅れました。私は、茜ヶ崎空と申します。ＬｅＭＵ開発部のシステムエンジニアです」%K%P
 Pardon me for the belated introduction. I am Akanegasaki Sora. I am a system engineer in LeMU's Development Division.
 CN PLACEHOLDER
-Прошу прощения за несвоевременное представление. Я Аканэгасаки Сора. Системный инженер в Отделе разработки LeMU.
+Прошу прощения за несвоевременное представление. Я Аканэгасаки Сора. %TS35Системный инженер%TE в Отделе разработки LeMU. 
 
 空「一応、主任代理……ということになっています」%K%p
 Technically, I'm the assistant chief... or so my title says.
@@ -3512,7 +3512,7 @@ CN PLACEHOLDER
 突如、空中にホログラムウィンドウが現れる。%K%P
 Suddenly, a holographic window materialized in the air.
 CN PLACEHOLDER
-Вскоре в воздухе материализовалось голографическое окно.
+Вскоре в воздухе материализовалось %TS99голографическое%TE окно.
 
 どういった原理なのかはわからないが、恐らく入場の説明をしていたときに使っていたホログラムと同じシステムなのだろう。%K%P
 I had no idea how exactly she did that, but I figured that it was probably the same hologram system they'd used at the entrance to the park.

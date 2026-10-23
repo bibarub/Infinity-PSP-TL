@@ -56,7 +56,7 @@ CN PLACEHOLDER
 彼女は本当に笑いたいと思って、笑ってくれているだろうか？%K%P
 Was she really smiling because she wanted to, or was she just trying to cheer us up?
 CN PLACEHOLDER
-Неужели она правда улыбается потому что хочет, или она лишь пытается всех поддержать?
+Неужели она правда улыбается, потому что хочет, или она лишь пытается всех поддержать?
 
 『空は、何も私達が助けるまでもなく、助かるのよ』%K%P
 “We don't need to save Sora. She's saved already.”
@@ -146,7 +146,7 @@ CN PLACEHOLDER
 渋々、俺は隣の部屋のタツタ売店へと戻る。%K%P
 Reluctantly, I trudged back into the kitchen.
 CN PLACEHOLDER
-Я с неохотой потащился обратно на кухню.
+Я с неохотой потащился обратно в киоск.
 
 （ああ、まったくあんにゃろめ……）%K%P
 (I can't believe that girl...)
@@ -171,17 +171,17 @@ CN PLACEHOLDER
 貧乏揺すりのように足踏みを繰り返す。%K%P
 I anxiously fidgeted as I waited.
 CN PLACEHOLDER
-Я беспокойно ёрзаю лопаткой и жду.
+Я, словно на нервах, притоптываю на месте.
 
 フライ挟みでフライヤーをカンカン叩く。%K%P
 The wire basket struck the fryer with a clang.
 CN PLACEHOLDER
-Проволочная корзина лязгает по сковородке.
+Лязгаю корзинкой по фритюрнице.
 
 （さっさと作って、さっさと持ってくか……）%K%P
 (I'll just get this done as soon as I can...)
 CN PLACEHOLDER
-(Долго возиться с этим не буду – как сделаю, так сделаю...)
+(Быстрее закончу – быстрее и отнесу...)
 
 つぐみ「ねぇ……」%K%P
 Hey...
@@ -991,7 +991,7 @@ CN PLACEHOLDER
 少年「ぼく達が、ここにいることなんて、何も……意味がないんだ」%K%P
 There isn't any point to us being here.
 CN PLACEHOLDER
-Какая... разница, здесь... мы или... где-то ещё.
+Какая разница... здесь мы... или... где-то ещë.
 
 少年は震える握り拳を振り上げ……%K%P
 The Kid raised a shaking fist.
@@ -2421,7 +2421,7 @@ CN PLACEHOLDER
 俺は恐る恐る目を開く。%K%P
 Terrified, I opened my eyes.
 CN PLACEHOLDER
-Не выдержав, я открыл глаза.
+Я опасливо открыл глаза.
 
 武「少年……つぐみを見てみろよ」%K%P
 Kid... look over at Tsugumi.
@@ -2891,7 +2891,7 @@ CN PLACEHOLDER
 つぐみは無言で、がんがん先に歩いて進む。%K%P
 She wordlessly and doggedly moved forward.
 CN PLACEHOLDER
-Не произнося ни слова, она упорно идёт вперёд.
+Не произнеся ни слова, она упорно идёт вперёд.
 
 振り解けないまま、嫌でも引きずられて行く、俺。%K%P
 She kept a firm grip on me and kept pulling so that I couldn't get away.

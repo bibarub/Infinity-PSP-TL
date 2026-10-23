@@ -696,7 +696,7 @@ CN PLACEHOLDER
 少年「ここにずっといると、酸素中毒や窒素酔いになる恐れがある」%K%P
 If we stay here, we're in danger of oxygen poisoning or nitrogen narcosis.
 CN PLACEHOLDER
-Если мы останемся здесь, то схлопочим отравление кислородом или глубинное опьянение.
+Если мы останемся здесь, то схлопочим %TS34кислородное отравление%TE или глубинное опьянение.
 
 少年「それに、ＬｅＭＵがこのまま持つのかどうかもわからない」%K%P
 And we have no idea how long LeMU will hold.

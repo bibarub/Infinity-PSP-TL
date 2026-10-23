@@ -481,7 +481,7 @@ CN PLACEHOLDER
 周囲には石柱――オベリスクというらしい――が立っていて、そのうちの何本かは折れて倒れている。%K%P
 There were rock pillars—called obelisks—scattered around the area. A few of them were broken, collapsed, or crumbling.
 CN PLACEHOLDER
-Каменные колонны – «обелиски» – разбросаны по всей площадке. Некоторые из них сломаны, упали или раскрошились.
+Каменные колонны – «%TS13обелиски%TE» – разбросаны по всей площадке. Некоторые из них сломаны, упали или раскрошились.
 
 よく見ると、壁には何かを模したレリーフが刻み込まれている。%K%P
 Looking closely, I saw that a mock relief was carved into the wall.

@@ -441,7 +441,7 @@ CN PLACEHOLDER
 沙羅「『関東愚連会・苦麗無威爆走連合・七代目総長・田中優・夜露死苦！』」%K%P
 I am Tanaka You! The seventh leader of the Crimson motorcycle gang! The baddest group of Kanto hooligans!
 CN PLACEHOLDER
-Я Танака Ю! Седьмой лидер байкерской банды Кримсон! Самой страшной группы хулиганов Канто!
+Я Танака Ю! Седьмой лидер банды %TS18„Курэй-Буи Бакусо“%TE! Самой страшной группы хулиганов Канто!
 
 少年「…………」%K%P
 .........
@@ -616,7 +616,7 @@ CN PLACEHOLDER
 聴覚を研ぎ澄ますと、どこか遠くのほうで地響きにも似た鈍い音が……。%K%P
 Listening carefully, I heard a sound like the rumble of thunder far away.
 CN PLACEHOLDER
-Прислушавшись, я смог различить звук, напоминающий гром вдали.
+Прислушавшись, я смог различить звук, напоминающий гром вдали...
 
 沙羅「な、なにかなぁ……？」%K%P
 What could that be...?

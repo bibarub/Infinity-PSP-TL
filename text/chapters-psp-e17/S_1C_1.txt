@@ -701,7 +701,7 @@ CN PLACEHOLDER
 少年「……えっ！？」%K%P
 ...What?
 CN PLACEHOLDER
-Что?
+...Что?!
 
 優「行方不明に、なっちゃったの……」%K%P
 He just went missing...
@@ -716,17 +716,17 @@ CN PLACEHOLDER
 優「それが……」%K%P
 He...
 CN PLACEHOLDER
-Он...
+Понимаешь...
 
 優「物心ついたときには、すでにいなくって……」%K%P
 He's been missing as long as I can remember...
 CN PLACEHOLDER
-Это случилось очень давно...
+Сколько себя помню, его уже не было...
 
 優「私が１歳の時……つまり、今から１７年前のことね……」%K%P
 It was when I was one year old, seventeen years ago...
 CN PLACEHOLDER
-Мне тогда был всего лишь год, 17 лет назад...
+Мне тогда был год... то есть это было 17 лет назад.
 
 少年「じゃあ、優はお父さんのこと……覚えてないの？」%K%P
 So you don't remember... your father?
@@ -761,7 +761,7 @@ CN PLACEHOLDER
 優「それがわかれば、こんなところまで来たりしないよ」%K%P
 If I knew that, I wouldn't have come here.
 CN PLACEHOLDER
-Если бы я знала, то не пошла сюда работать.
+Если бы я знала, то не пошла бы сюда работать.
 
 少年「どういう、こと？」%K%P
 What do you mean?
@@ -776,7 +776,7 @@ CN PLACEHOLDER
 優「だからここに来れば、消えたお父さんの手がかりが、何か見つかるかもしれないって……そう思って……」%K%P
 So I thought that if I came here, maybe I would find some clue about my father...
 CN PLACEHOLDER
-Я надеялась, что смогу найти хоть какую-нибудь зацепку или улику о его исчезновении...
+Я надеялась, что смогу найти хоть какую-нибудь улику или зацепку о его исчезновении...
 
 優「お母さんは、もうあきらめちゃってるみたいだから、頼りにならないし……」%K%P
 It seems like my mother has already given up, so I can't count on her...
@@ -1584,7 +1584,7 @@ CN PLACEHOLDER
 空「それは、ライプリヒ製薬が、日本とドイツの合弁企業だからです」%K%P
 That's because Leiblich Pharmaceuticals is a joint venture between a Japanese and a German company.
 CN PLACEHOLDER
-Потому что Лейблих Фармасьютикалс является японским подразделением немецкой компании.
+Потому что Лейблих Фармасьютикалс является совместным японско-немецким предприятием.
 
 空「本社はフランクフルトにありますし、役員の大半もドイツ人で占められています」%K%P
 Its headquarters are in Frankfurt and the majority of officials are German.
@@ -1794,7 +1794,7 @@ CN PLACEHOLDER
 ＬｅＭＵの実権を握っている日独合弁企業『ライプリヒ製薬』……。%K%P
 LeMU was controlled by a Japanese-German joint venture called Leiblich Pharmaceuticals...
 CN PLACEHOLDER
-И понял, что если владельцем LeMU является японско-немецкое подразделение Лейблих Фармасьютикалс...
+И понял, что если владельцем LeMU является японско-немецкое совместное предприятие Лейблих Фармасьютикалс...
 
 ただの製薬会社が、なぜこんなところにテーマパークなんて作ったのか……？%K%P
 There had to be a reason that a pharmaceutical company would build a theme park in such a place...
@@ -1894,7 +1894,7 @@ CN PLACEHOLDER
 『ヒンメル』――『ＩＢＦ』――『高圧酸素治療装置』――。%K%P
 “Himmel”—“IBF”—“High-pressure oxygen treatment device”—
 CN PLACEHOLDER
-«Химмель» – «IBF» – «система оксигенотерапии высокого давления»
+«Химмель» – «IBF» – «система гипербарической оксигенотерапии»
 
 ぼくの脳内のスクリーンには、次々と既知の言葉が映し出された。%K%P
 All those words that I had known flashed onto the screen of my mind.
@@ -2124,7 +2124,7 @@ CN PLACEHOLDER
 ＬｅＭＵの実権を握っている日独合弁企業『ライプリヒ製薬』……。%K%P
 LeMU was controlled by a Japanese-German joint venture called Leiblich Pharmaceuticals...
 CN PLACEHOLDER
-Владельцем LeMU является японско-немецкое подразделение Лейблих Фармасьютикалс...
+Владельцем LeMU является японско-немецкое совместное предприятие Лейблих Фармасьютикалс...
 
 なぜこんなところにテーマパークなんて作ったのだろう……？%K%P
 Why would they build a theme park?
@@ -2539,7 +2539,7 @@ CN PLACEHOLDER
 武「……えーっと、何年だっけ？」%K%P
 ...Uh, what year IS it?
 CN PLACEHOLDER
-...а КАКОЙ сейчас год?
+...А ведь правда, какой?
 
 そう言って、武はポケットからチケットの半券を取り出し……%K%P
 Saying that, Takeshi fished his entrance ticket stub from his pocket...
@@ -2599,7 +2599,7 @@ CN PLACEHOLDER
 武「見た感じだと、４２歳厄年ってところかな？」%K%P
 By the looks of it, I'd say you're not a day over 42.
 CN PLACEHOLDER
-С виду не скажешь, что тебе больше чем 42.
+На вид тебе лет 42, не меньше. Так-то бедовый возраст, а?
 
 少年「――えっ！？」%K%P
 What!?
@@ -2609,12 +2609,12 @@ CN PLACEHOLDER
 武「はははっ、冗談だよ、冗談！」%K%P
 HAHAHA. I'm kidding! Relax!
 CN PLACEHOLDER
-ХА-ХА-ХА. Я шучу! Расслабься!
+Ха-ха-ха! Шучу, шучу!
 
 武「そんなわけないだろうが」%K%P
 There's no way.
 CN PLACEHOLDER
-Ты не такой старый.
+Ну какие тебе 42...
 
 武「たぶん、１４、５歳ってとこじゃないかな」%K%P
 You're probably in the neighborhood of fourteen or fifteen.

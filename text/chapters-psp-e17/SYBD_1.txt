@@ -343,7 +343,7 @@ CN PLACEHOLDER
 完全圧潰推定時刻まで、あと僅かとなった。%K%P
 There was only a short time until the estimated time of implosion.
 CN PLACEHOLDER
-До расчётного времени затопления... ноль.
+До расчётного времени разрушения... ноль.
 
 大きく揺らぎ始める警備室。%K%P
 The security office started shaking violently.
@@ -373,7 +373,7 @@ CN PLACEHOLDER
 空「ツヴァイトシュトック第４区画浸水開始……同じく第５区画圧潰開始……第６区画……」%K%P
 Flooding has begun in Sector Four of Zweiter Stock... Implosion has begun in Sector Five on the same floor... In Sector Six...
 CN PLACEHOLDER
-Затопление на Цвайте Шток, Сектор 4... затопление на Цвайте Шток, Сектор 6...
+Затопление на Цвайте Шток, Сектор 4... разрушение Сектора 5 на Цвайте Шток... и... Сектора 6...
 
 淡々と状況を知らせる空。%K%P
 Sora reported the situation monotonously.
@@ -608,7 +608,7 @@ LeMU по-прежнему держался.
 空の予告していた完全圧潰推定時刻は、とうに過ぎているはずなのに……。%K%P
 The estimated time of implosion that Sora had predicted should have passed long before.
 CN PLACEHOLDER
-Расчётное время затопления, предсказанное Сорой, уже должно было давным-давно пройти.
+Расчётное время разрушения, предсказанное Сорой, уже должно было давным-давно пройти.
 
 まるで空が、ぼくらふたりを懸命に護ろうとしているかのように、ＬｅＭＵは最後の抵抗を続けていた。%K%P
 LeMU kept resisting to the end, as if Sora was willing it to protect us.

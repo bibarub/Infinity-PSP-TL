@@ -211,7 +211,7 @@ CN PLACEHOLDER
 優「空の思考ノイズ……何だったのか、知ってる？」%K%P
 Do you know about the malfunction in Sora's thought process?
 CN PLACEHOLDER
-Ты знаешь о неисправности в мыслительном процессоре Соры?
+Ты знаешь про помехи в мышлении Соры?
 
 武「……知らない」%K%P
 I don't know.
@@ -476,7 +476,7 @@ CN PLACEHOLDER
 武「ピグマリオンの話か？」%K%P
 What is that, something you read in a book?
 CN PLACEHOLDER
-А ты, часом, не в книжке прочла?
+Это ты про Пигмалиона?
 
 優「ううん、違うの」%K%P
 Well... not exactly.

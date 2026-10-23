@@ -71,7 +71,7 @@ CN PLACEHOLDER
 人生で、最初に記憶したその音は――%K%P
 The first sound I had heard in my life—
 CN PLACEHOLDER
-Первый звук, что я слышал в своей жизни –
+Первый звук, что я услышал в своей жизни...
 
 そう、鼓動の音だ。%K%P
 Yes, it was the sound of a heart beating.
@@ -126,7 +126,7 @@ CN PLACEHOLDER
 再び暗闇を切り開き、その先で……%K%P
 Darkness cleared again, and out of it would come...
 CN PLACEHOLDER
-Тьма рассеится вновь, и из неё покажется...
+Тьма рассеется вновь, и из неё покажется...
 
 きっと未知の世界に、俺は決意の産声を上げるのだろう。%K%P
 A new world, where I would resolve to be reborn.
@@ -771,17 +771,17 @@ CN PLACEHOLDER
 つぐみ「見たいの？」%K%P
 Did you want to see more?
 CN PLACEHOLDER
-Показать?
+Хочешь посмотреть?
 
 武「何をだよ？」%K%P
 More what?
 CN PLACEHOLDER
-Что показать?
+На что?
 
 つぐみ「……いいよ、もう……バカ」%K%P
 ...Forget it, you... jerk.
 CN PLACEHOLDER
-Ничего... балбес.
+Да ну тебя... балбес.
 
 武「…………」%K%P
 .........
@@ -1346,7 +1346,7 @@ CN PLACEHOLDER
 そこに何があるかは知らない。%K%P
 I didn't know if there was “something above”.
 CN PLACEHOLDER
-Я не знаю, есть ли «что-то над нами».
+Что там – я не знаю.
 
 知る必要があるのだろうか。%K%P
 Didn't know if it really mattered.
@@ -1876,7 +1876,7 @@ Fünf Minuten
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
 vor der Implosion.>”
 CN PLACEHOLDER
-vor der Implosion.»%N(Пять минут до затопления.)
+vor der Implosion.»%N(Пять минут до разрушения.)
 
 武「おい、なんだ今のアナウンス」%K%P
 Hey, WHAT did that announcement just say!?
@@ -2001,7 +2001,7 @@ Vier Minuten
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
 vor der Implosion.>”
 CN PLACEHOLDER
-vor der Implosion.»%N(Четыре минуты до затопления.)
+vor der Implosion.»%N(Четыре минуты до разрушения.)
 
 ＩＢＦ全体を揺るがす地響きは止まない。%K%P
 The shaking and rumbling of IBF continued.
@@ -2011,7 +2011,7 @@ CN PLACEHOLDER
 どこかの水密扉を打ちつける濁流の音も聞こえた。%K%P
 I could hear the sound of the water rushing in and striking against the watertight hatches somewhere.
 CN PLACEHOLDER
-Я слышу, как вода наступает и ударяется о водоупорные люки.
+Я слышу, как вода наступает и ударяется о водоупорные двери.
 
 頭上にも不吉な金属音が降り注ぎ、いつ天井が破れてもおかしくはない。%K%P
 Ominous metallic sounds rang out from above, and I wouldn't have been surprised if the ceiling had suddenly ruptured.
@@ -2136,12 +2136,12 @@ Drei Minuten
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
 vor der Implosion.>”
 CN PLACEHOLDER
-vor der Implosion.»%N(Три минуты до затопления.)
+vor der Implosion.»%N(Три минуты до разрушения.)
 
 圧潰３分前。%K%P
 Three minutes until implosion.
 CN PLACEHOLDER
-Три минуты до затопления.
+Три минуты до разрушения.
 
 潜水艇に駆け寄り、ハッチに飛び込む。%K%P
 We scrambled to the sub and jumped down the hatch.
@@ -2676,7 +2676,7 @@ CN PLACEHOLDER
 悔しくて、肩を震わせて……力なく笑った。%K%P
 Her shoulders shook from disappointment... and she laughed without conviction.
 CN PLACEHOLDER
-Её плечи трясёт от разочарования... она смеётся без упрёка.
+От досады у неё дрожат плечи... и она бессильно смеётся.
 
 つぐみ「バカみたい……」%K%P
 So stupid...
@@ -3096,7 +3096,7 @@ CN PLACEHOLDER
 俺はつぐみから目を逸らさず、はっきりと答える。%K%P
 I didn't look away when I spoke to her and said firmly...
 CN PLACEHOLDER
-Я не огляделся, когда заговорил с ней. Затем решительно сказал...
+Не отводя глаз от Цугуми, я решительно произнёс...
 
 武「俺は確かにバカだが……」%K%P
 I may be stupid, but...

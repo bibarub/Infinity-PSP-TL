@@ -431,7 +431,7 @@ CN PLACEHOLDER
 武「ものすげぇー味だろ、そのサンドは？　ひゃっはっはっは……♪」%K%P
 It's got quite a flavor, huh? That sandwich... Hahaha...
 CN PLACEHOLDER
-Приятный вкус, правда? Этот сэндвич... ха, ха, ха...
+Убойный вкус у сэндвича, да? Хья-ха-ха-ха...
 
 涙目で武は笑い転げた。%K%P
 Takeshi laughed so hard he cried.
@@ -441,7 +441,7 @@ CN PLACEHOLDER
 武「なんせ、マスタードにタバスコに七味にコショウにセージにナツメグにシナモンにミントにカレー粉を混ぜ合わせ……」%K%P
 It's packed with mustard, Tabasco, pepper, sage, nutmeg, cinnamon, mint, and a dose of curry powder...
 CN PLACEHOLDER
-Заправлен горчицей, мексиканским табаско, перцем, шалфеем, мускатным орехом, корицей, мятой и горькой острой приправой карри...
+Ещё бы, я ведь туда намешал горчицы, табаско, ситими, перца, шалфея, мускатного ореха, корицы, мяты, порошка карри...
 
 武「それからさらにっ、マヨネーズにケチャップに砂糖に塩に醤油にトンカツソースにビネガーにバニラエッセンスに……」%K%P
 For good measure, I added a dose of mayonnaise, ketchup, sugar, salt, soy sauce, vinegar, and vanilla...
@@ -476,7 +476,7 @@ CN PLACEHOLDER
 少年「やりすぎだろ、武！」%K%P
 That's going too far, Takeshi!
 CN PLACEHOLDER
-По названию больше напоминает радиоактивный изотоп. Такэси, ты зашёл слишком далеко!
+Это уже перебор, Такэси!
 
 武「うっさい！　食い物の恨みは、マリアナ海溝よりも深いのだ！」%K%P
 Shut up! I'm the cook here.
@@ -531,7 +531,7 @@ CN PLACEHOLDER
 武「とか言いつつも、ほんとは死ぬほど不味いんだべ？　いいんだぞ？　正直に言っても」%K%P
 But it still tastes terrible, right? Right? Tell the truth.
 CN PLACEHOLDER
-Но... всё-таки на вкус он просто ужасен. Правда?
+Ага, рассказывай. На самом деле он же мерзкий до смерти, а? Да ладно тебе. Можешь честно сказать.
 
 つぐみ「本当に平気よ。だって……」%K%P
 I'm totally fine...
@@ -806,7 +806,7 @@ CN PLACEHOLDER
 優「まあ、この事故のおかげで、そのロボットも今頃は、海水の中でサビ鉄になってるでしょうけど」%K%P
 Well, what with the accident and all, I imagine the robot is a rusted pile of junk metal at the bottom of the ocean right about now.
 CN PLACEHOLDER
-Но похоже, что из-за этой аварии сейчас он ржавеет на дне морском.
+Но похоже, что из-за этой аварии сейчас это чудо инженерной мысли покоится на дне морском.
 
 少年「ふーん」%K%P
 I'll bet.
@@ -1031,7 +1031,7 @@ CN PLACEHOLDER
 ？？「あっ！？」%K%P
 Uh-oh!
 CN PLACEHOLDER
-Оой-йёй!
+Ой-ёй!
 
 その時、不安定な格好で台座に立っていた女の子が、バランスを崩した。%K%P
 Just then, the girl lost her balance, falling from her awkward place on the pedestal.
@@ -1051,7 +1051,7 @@ CN PLACEHOLDER
 足にまとわりつく水をまき散らしながら、全力で彼女の元へ駆け寄る。%K%P
 The water caught on my feet and sprayed everywhere as I ran all out to where she was.
 CN PLACEHOLDER
-От моего бега, водяные брызги летят во все стороны.
+Водяные брызги летят во все стороны из-под моих ног.
 
 （――間に合うかっ！？）%K%P
 (Will I make it?)
@@ -1106,7 +1106,7 @@ CN PLACEHOLDER
 （……あれ？）%K%P
 (...What?)
 CN PLACEHOLDER
-(... Что?)
+(...Что?)
 
 ぼくの腕の中には、誰もいない。%K%P
 There was no one in my arms.
@@ -1146,7 +1146,7 @@ CN PLACEHOLDER
 ぼくは無言のまま起きあがると、その石像の背後へとまわった。%K%P
 Without saying anything, I got up and went behind the statue.
 CN PLACEHOLDER
-Не произнося ни слова, я встал и зашёл за статую.
+Не произнеся ни слова, я встал и зашёл за статую.
 
 石像の背中には、傷がついていた。%K%P
 There were scratches in the stone.
@@ -1216,7 +1216,7 @@ CN PLACEHOLDER
 少年「足元、気をつけてね」%K%P
 Watch your step, okay?
 CN PLACEHOLDER
-В следующий раз смотри, куда ступаешь, хорошо?
+Смотри, куда ступаешь, хорошо?
 
 ？？「うん♪」%K%P
 Okay〜

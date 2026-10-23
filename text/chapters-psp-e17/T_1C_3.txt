@@ -831,7 +831,7 @@ CN PLACEHOLDER
 武「ヤバいと気づいてからじゃ遅い……？」%K%P
 After you figure out you're in trouble, it's too late...?
 CN PLACEHOLDER
-А когда худшится, будет поздно?..
+А когда ухудшится, будет поздно?..
 
 優「ええ。症状が長引くかもね」%K%P
 Yeah. And the symptoms can be drawn out.
@@ -1146,7 +1146,7 @@ CN PLACEHOLDER
 再加圧を始めてから２時間――病状が快復しているということは、空の指摘した通り、ココはただの減圧症だったということになる。%K%P
 Two hours since we started repressurization—she was recovering well, just as Sora had said she would. It must've just been the bends after all.
 CN PLACEHOLDER
-Прошло два часа с начала рекомпрессии – она поправляется, прямо как сказала Сора. Видимо, это всё-таки тромбы.
+Прошло два часа с начала рекомпрессии – она поправляется, прямо как сказала Сора. Видимо, это всё-таки кессонная болезнь.
 
 つまり、俺の思い違いだったわけで……。%K%P
 That is, I had it wrong all along...
@@ -1486,7 +1486,7 @@ CN PLACEHOLDER
 武「ヤバいと気づいてからじゃ遅い……？」%K%P
 After you figure out you're in trouble, it's too late...?
 CN PLACEHOLDER
-А когда худшится, будет поздно?..
+А когда ухудшится, будет поздно?..
 
 優「ええ。症状が長引くかもね」%K%P
 Yeah. And the symptoms can be drawn out.

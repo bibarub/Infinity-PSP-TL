@@ -386,7 +386,7 @@ CN PLACEHOLDER
 『海月の虚空に秋涼し時鳥／うみつきのこくうにすずしほととぎす』だ。%K%P
 “The empty fall sky%NA single cuckoo calls out%NBrings a chill to me”.
 CN PLACEHOLDER
-«В небе пустом прохладой%Nмедуза веет осенней порой...%NКричит кукушка».
+«В небе пустом над лунным морем%Nпрохладой веет осенней порой...%NКричит кукушка».
 
 読み方を変えてみたり、ひらがなにしてみたり、カタカナにしてみたり、ローマ字、大文字、小文字、半角、全角、英訳文、独訳文……。%K%P
 She kept trying different variations: caps, lowercase, varying widths, English, German...
@@ -1241,7 +1241,7 @@ CN PLACEHOLDER
 少年「うみつきの、こくうにすずし、ほととぎす」%K%P
 The empty fall sky%NA single cuckoo calls out%NBrings a chill to me.
 CN PLACEHOLDER
-В небе пустом прохладой%Nмедуза веет осенней порой...%NКричит кукушка...
+В небе пустом над лунным морем%Nпрохладой веет осенней порой...%NКричит кукушка...
 
 と、そのときだった……。%K%P
 It was then...

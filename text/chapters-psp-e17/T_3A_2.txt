@@ -31,7 +31,7 @@ CN PLACEHOLDER
 武「どうすればいい？」%K%P
 What should I do?
 CN PLACEHOLDER
-Что нам нужно сделать?
+Что мне делать?
 
 つぐみ「パイプが少し歪んでしまっているわ……金具を締め直すから、パイプを持って支えてくれる？」%K%P
 The pipe is bent a little bit... I'm going to clamp a metal sleeve on it. Would you support the pipe for me?
@@ -166,7 +166,7 @@ CN PLACEHOLDER
 つぐみ「そうしたら、次に赤いバルブをひねって――」%K%P
 Now twist the red valve...
 CN PLACEHOLDER
-А затем я хочу, чтобы ты повернул красный вентиль...
+Теперь поверни красный вентиль...
 
 いくつもパイプを直したはずだが、シューシューという蒸気音はまだ止まない。%K%P
 We'd fixed a number of pipes, but the sound of escaping steam still hadn't stopped.
@@ -301,7 +301,7 @@ CN PLACEHOLDER
 反時計回りでいいんだよな……。%K%P
 That one went counterclockwise, right...
 CN PLACEHOLDER
-Так, этот против часовой, точно...
+Так, этот против часовой, ага...
 
 俺は赤いバルブを廻した。%K%P
 I turned the red valve.
@@ -721,7 +721,7 @@ CN PLACEHOLDER
 つぐみの右腿には鉄材が深くめり込み、とても動けそうにない。%K%P
 A metal shard had dug deeply into Tsugumi's right thigh, and it didn't look like she could move.
 CN PLACEHOLDER
-Кусок металла впился Цугуми в правую голень. Она не может даже пошевелиться.
+Кусок металла впился Цугуми в правое бедро. Похоже, она не может даже пошевелиться.
 
 周囲の傷つけられたパイプからは、水蒸気が霧となって舞っている。%K%P
 Steam was pouring out of the burst pipes surrounding us.
@@ -741,7 +741,7 @@ CN PLACEHOLDER
 つぐみは顔をしかめた。腿を押さえている。%K%P
 Tsugumi grimaced and clasped her thigh tightly.
 CN PLACEHOLDER
-Цугуми скорчилась и схватилась за голень.
+Цугуми скорчилась и схватилась за бедро.
 
 かなり出血しているらしい。%K%P
 She was losing a lot of blood.
@@ -761,7 +761,7 @@ CN PLACEHOLDER
 つぐみ「ふふっ、これが大丈夫に見えるの？」%K%P
 Heh heh. Does this LOOK okay to you?
 CN PLACEHOLDER
-Ха, ха. А что, по-твоему, ЭТО называется „в порядке“?
+Ха-ха. А что, по-твоему, ЭТО называется „в порядке“?
 
 つぐみ「まったく、バカなこと訊くのね」%K%P
 Always asking stupid questions.
@@ -996,7 +996,7 @@ CN PLACEHOLDER
 つぐみ「ああ、そう……。ふふっ、いい心がけね」%K%P
 Oh, really... Heh heh. Well, that's reason enough, I suppose.
 CN PLACEHOLDER
-Ах, и правда... хе, хе. Да, это веская причина, я полагаю.
+Ах, и правда... хе-хе. Да, это веская причина, я полагаю.
 
 つぐみは力なく笑う。%K%P
 Tsugumi laughed weakly.
@@ -1436,7 +1436,7 @@ CN PLACEHOLDER
 壁面の医療器具ラックから止血帯を取り出し、つぐみの大腿部を締める。%K%P
 A tourniquet was taken out from a rack of medical instruments on the wall and fastened around Tsugumi's thigh.
 CN PLACEHOLDER
-Она схватила жгут из медицинского набора на стене и обвязала им голень Цугуми.
+Она схватила жгут из медицинского набора на стене и обвязала им бедро Цугуми.
 
 優「ちょっとマズいわね……」%K%P
 This is bad...
@@ -1486,7 +1486,7 @@ CN PLACEHOLDER
 空「大腿骨に損傷。複雑骨折しているかもしれません」%K%P
 Her femur is fractured. And it looks like it might be a complex fracture.
 CN PLACEHOLDER
-Кость порвала голень. Но кажется, она может нормально срастись.
+Повреждена бедренная кость. Возможно, перелом сложный.
 
 空「それと、動脈が切れています。切開縫合が必要でしょう」%K%P
 That, and the artery is severed. She'll need sutures.
@@ -1506,7 +1506,7 @@ CN PLACEHOLDER
 優「なんとか、やってみるよ！　麻酔は？」%K%P
 I'll do my best! Do we have anesthetic?
 CN PLACEHOLDER
-Сделаю всё, что смогу! У нас есть обезболивающие?
+Сделаю всё, что смогу! У нас есть обезболивающее?
 
 空「用意します。他にもレーザーメス、鉗子、縫合糸……必要なものはすべてこの部屋にありますから」%K%P
 I'll get it ready. The laser scalpel, forceps, and sutures... Everything we need is already in the room.
