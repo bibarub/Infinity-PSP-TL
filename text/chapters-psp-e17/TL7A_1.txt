@@ -71,7 +71,7 @@ CN PLACEHOLDER
 人生で、最初に記憶したその音は――%K%P
 The first sound I had heard in my life—
 CN PLACEHOLDER
-Первый звук, что я слышал в своей жизни –
+Первый звук, что я услышал в своей жизни...
 
 そう、鼓動の音だ。%K%P
 Yes, it was the sound of a heart beating.
@@ -191,7 +191,7 @@ CN PLACEHOLDER
 武「しっかり起きて頑張らなきゃな、って気持ちになるんだ」%K%P
 They make me feel like getting up and doing my best.
 CN PLACEHOLDER
-Наводят на мысль, что пара вставать и приниматься за работу.
+Наводят на мысль, что пора вставать и приниматься за работу.
 
 空「ふふっ……そうですね」%K%P
 Haha... That's right.
@@ -216,7 +216,7 @@ CN PLACEHOLDER
 空「どうやらタイマーが、故障してしまったようです」%K%P
 It seems that the timer has broken.
 CN PLACEHOLDER
-Похоже, что таймер вышел из строя.
+Похоже, часы вышли из строя.
 
 武「そっか……」%K%P
 Oh...
@@ -596,7 +596,7 @@ CN PLACEHOLDER
 エンターキーを叩くと、データコピーは始まった。%K%P
 I hit the “enter” key, and the data began copying.
 CN PLACEHOLDER
-Я нажал клавишу «Enter». Процедура копирования начата.
+Я нажал клавишу Enter. Процедура копирования начата.
 
 武「茜ヶ崎君、ボタンを叩くときの掛け声は『ポチッとな』だ。覚えておくように」%K%P
 Akanegasaki-kun, remember to shout 'Click' when you hit a button.
@@ -821,7 +821,7 @@ CN PLACEHOLDER
 俺の中にも、くっきりと焼き付けられていく。%K%P
 It was being etched into me too.
 CN PLACEHOLDER
-Она выжигается и в меня.
+Она выжигается и во мне.
 
 武「空はここから脱出できたら、まず何がしたいんだ？」%K%P
 What do you want to do when you get out of here?
@@ -961,22 +961,22 @@ CN PLACEHOLDER
 空の姿は、俺の視線の先でゆらゆらと揺れた。%K%P
 Sora's figure wavered.
 CN PLACEHOLDER
-Образ Соры колыхается.
+Облик Соры слегка дрожал и расплывался прямо перед моим взглядом.
 
 武「ギリシャ神話にでてくる彫刻の名人。キプロスの王とも呼ばれた、ピグマリオン」%K%P
 He was the master sculptor in Greek myths... He's been called the King of Cyprus...
 CN PLACEHOLDER
-В греческих мифах, он был гениальным скульптором... Его величали Царём Кипра...
+В греческих мифах он был гениальным скульптором... Его величали царём Кипра...
 
 武「彼は自分の理想とする素晴らしい女性の像を彫った」%K%P
 One day, he created a beautiful sculpture of the woman of his dreams.
 CN PLACEHOLDER
-В один прекрасный день, он создал красивую скульптуру женщины своих мечтаний.
+В один прекрасный день он создал красивую скульптуру женщины своих мечтаний.
 
 武「だが、そのあまりの美しさにうっとりして、彫像に、自ら恋をしてしまった」%K%P
 And because it was so beautiful, he fell in love with the statue.
 CN PLACEHOLDER
-И, поскольку она была столь прекрасной, он влюбился в статую.
+Она была столь прекрасной, что он влюбился в статую.
 
 武「『ああ、これが血の通った人間であったら……』と、彼は強く思い続けた」%K%P
 He kept on thinking to himself 'If only it were a real woman.'
@@ -1001,7 +1001,7 @@ CN PLACEHOLDER
 武「俺は、キプロスの王にはなれそうもないけど……」%K%P
 I don't think I'll ever be the King of Cyprus...
 CN PLACEHOLDER
-Вряд ли я когда-нибудь стану Царём Кипра...
+Вряд ли я когда-нибудь стану царём Кипра...
 
 武「でも空のこと……誰よりも……好きなんだ……」%K%P
 But... I love you... more than anyone.
@@ -1131,7 +1131,7 @@ CN PLACEHOLDER
 武「いや、記憶はここにある」%K%P
 Nah, the memory's right here.
 CN PLACEHOLDER
-Нееет, сохранилось. Вот здесь.
+Нет, сохранилось. Вот здесь.
 
 俺はトントンと、自分の頭を指差した。%K%P
 I pointed to my head.

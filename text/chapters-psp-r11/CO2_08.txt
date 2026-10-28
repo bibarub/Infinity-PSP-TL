@@ -827,6 +827,7 @@ Hey, Fuyukawa-san? Why did I ever save a woman like that?
 Karma for being a playboy in a past life?
 是前世搞了什么恶作剧吧？
 "Может, вы слишком много грешили в прошлой жизни?"
+// тут текст вылазит за окно выбора
 
 助けなかったら、黄泉木さんらしくない
 “It wouldn't have been like you to leave her.”

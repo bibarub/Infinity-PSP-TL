@@ -11,46 +11,55 @@
 
 ;; Swap date order. YYYY/MM/DD -> DD.MM.YYYY
 ; pause menu
-/*.org 0x08827894
+.org 0x08828404
 .area 4*1
 	li	a0,0x600A
 .endarea
-.org 0x088278CC
+.org 0x0882843C
 .area 4*1
 	li	a0,0x6009
 .endarea
-.org 0x088278B0
-.area 4*1
-	jal	@strcpy
-.endarea
-.org 0x08827988
-.area 4*2
-	j	@PAUSE_MENU_YEAR_HACK
-	nop
-@PAUSE_MENU_YEAR_HACK_RETURN:
-.endarea
-.org 0x088278E4
-.area 4*15
-	b	0x0882792C
-@PAUSE_MENU_APPEND:
-	move	a0,s1
-	jal		@strcat
-	addiu	a1,s0,0x3A38
+.org 0x08827858
+.area 4*37
+	lui		s0,0x892
 	jal		@get_runtime_var
-	li		a0,0x6008
-	addiu	a0,v0,0x7D0
-	addiu	a2,s0,0x3A30
+	li		a0,0x600A
+	addiu	a2,s0,0x54C0
+	move	a0,v0
 	jal		@inhouse_sprintf
 	move	a1,sp
 	move	a0,s1
+	jal		@strcpy
+	move	a1,sp
+	addiu	a1,s0,0x5508
+	jal		@strcat
+	move	a0,s1
+	jal		@get_runtime_var
+	li		a0,0x6009
+	move	a0,v0
+	move	a1,sp
+	jal		@inhouse_sprintf
+	addiu	a2,s0,0x54C0
+	move	a0,s1
 	jal		@strcat
 	move	a1,sp
-	j		@PAUSE_MENU_YEAR_HACK_OVER
+	addiu	a1,s0,0x5508
+	jal		@strcat
+	move	a0,s1
+	jal		@get_runtime_var
+	li		a0,0x6008
+	addiu	a0,v0,2000
+	addiu	a2,s0,0x5500
+	jal		@inhouse_sprintf
+	move	a1,sp
+	move	a1,sp
+	jal		@strcat
+	move	a0,s1
+	nop
+	nop
 	nop
 .endarea
-.orga 0x1525A0 :: .fill 8*9
-.orga 0x152608 :: .fill 8*1
-.orga 0x152648 :: .fill 8*1*/
+.orga 0x154F20 :: .fill 8*20
 
 ; save creation date contracted
 .org 0x08851E64
@@ -89,32 +98,32 @@
 .endarea
 
 ; in-game date expanded
-/*.org 0x0884FFF0
+.org 0x0885210C
 .area 4*1
 	li	a1,0x600A
 .endarea
-.org 0x0885002C
+.org 0x08852148
 .area 4*1
 	li	a1,0x6009
 .endarea
-.org 0x0884FFD8
+.org 0x088520F4
 .area 4*1
-	b	0x0884FFE8
+	b	0x08852104
 .endarea
-.org 0x08850050
+.org 0x0885216C
 .area 4*2
 	j	@SAVE_MENU_YEAR_HACK
 	nop
 @SAVE_MENU_YEAR_HACK_RETURN:
 .endarea
-.org 0x08850570
+.org 0x08852674
 .area 4*13
 @SAVE_MENU_YEAR_APPEND:
 	move	a0,s6
 	jal		@strcat
-	addiu	a1,v1,0x5EBC
-	lui		v0,0x892
-	addiu	a2,v0,0x5ED0
+	addiu	a1,v1,-0x7DCC
+	lui		v0,0x893
+	addiu	a2,v0,-0x7DB8
 	addiu	a0,s0,0x7D0
 	jal		@inhouse_sprintf
 	move	a1,sp
@@ -124,10 +133,10 @@
 	j		@SAVE_MENU_YEAR_HACK_OVER
 	nop
 .endarea
-.orga 0x163050 :: .fill 8*1
-.orga 0x1632A8 :: .fill 8*6
-.orga 0x162A30 :: .fill 8*1
-.orga 0x162FE0 :: .fill 8*1*/
+.orga 0x1669A8 :: .fill 8*1
+.orga 0x166C68 :: .fill 8*6
+.orga 0x166A10 :: .fill 8*1
+.orga 0x1663F8 :: .fill 8*1
 
 ; real time
 .org 0x08854E38
@@ -299,11 +308,11 @@
 	li		a2,0
 	addiu	a0,s1,0x100
 	jal		@clock_unk1
-	li		a3,0x12
+	li		a3,0xE
 	addiu	a0,s1,0x110
 	addiu	a1,s1,0x100
 	jal		@clock_unk2
-	li		a2,0x1000
+	li		a2,0x1800
 	lw		a0,0x11C(s1)
 	sll		a1,a0,2
 	addu	a1,a1,a0
@@ -315,15 +324,17 @@
 	lw		s2,0xC(sp)
 	jr		ra
 	addiu	sp,sp,0x1C
+@SAVE_MENU_YEAR_HACK:
+	jal		@get_system_var
+	li		a0,-0x7FE4
+	beql	v0,zero,@SAVE_MENU_YEAR_HACK_OVER
 	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
-	nop
+	j		@SAVE_MENU_YEAR_APPEND
+	lui		v1,0x893
+@SAVE_MENU_YEAR_HACK_OVER:
+	jal		@get_system_var
+	li		a0,-0x7FE4
+	j		@SAVE_MENU_YEAR_HACK_RETURN
 	nop
 	nop
 	nop

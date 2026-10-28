@@ -231,7 +231,7 @@ CN PLACEHOLDER
 どこまでも続く通路……。%K%P
 Outside, the hallway seemed endless...
 CN PLACEHOLDER
-Снаружи, коридор кажется бесконечным...
+Снаружи коридор кажется бесконечным...
 
 一瞬、それに果てがないような錯覚を受ける。%K%P
 For a moment, I had the illusion that it went on forever.
@@ -366,7 +366,7 @@ CN PLACEHOLDER
 『終了するまでは、レミの一部機能の呼び出しができません』%K%P
 “Until completion, portions of LeMMIH functions are inaccessible.”
 CN PLACEHOLDER
-«До момента её завершения часть функций системы LeMMIH недоступны.»
+«До момента её завершения часть функций системы LeMMIH недоступна.»
 
 『メンテナンス終了時刻は、午前６時を予定しています』%K%P
 “Estimated completion time: 6 a.m.”
@@ -1071,7 +1071,7 @@ CN PLACEHOLDER
 フロアの外周を沿うように、ゴンドラの波型のチューブが巻きつけられているのだ。%K%P
 The corrugated tube carrying the gondola wrapped its way around the perimeter of the floor.
 CN PLACEHOLDER
-Гофрированная труба, окружающая гондолу, держит её у периметра этажа.
+Труба, по которой плывёт гондола, волнистой линией огибает внешний периметр этажа.
 
 チューブの中を、ゴンドラはゆったりと上下しながら、巡って行く。%K%P
 Floating comfortably inside the tube, the gondola skirted its way along.
@@ -1336,7 +1336,7 @@ CN PLACEHOLDER
 ジャコウの匂い……。%K%P
 A musky smell...
 CN PLACEHOLDER
-Мускусный запах...
+%TS036Мускусный%TE запах...
 
 くらくらと、目眩のするような……。%K%P
 It made me slightly dizzy...
@@ -2011,7 +2011,7 @@ CN PLACEHOLDER
 流れ落ちる血と、涙。%K%P
 Blood mixed with tears.
 CN PLACEHOLDER
-Кровь вперемешку со слёзами.
+Кровь вперемешку со слезами.
 
 つぐみの影は、俺に大きく覆い被さる。%K%P
 Suddenly, her shadow loomed over me.

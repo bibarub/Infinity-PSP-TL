@@ -766,7 +766,7 @@ CN PLACEHOLDER
 空「長男ばっかセットすんじゃね〜よ！　とか思ったしぃ」%K%P
 I was like, I'm sicka eldest sons, man! I want something fresh!
 CN PLACEHOLDER
-Я вот ещё подумала: „Что за фигня? Одних дедов подсаживают!“
+Я вот ещё подумала:%N„Что за фигня? Одних дедов подсаживают!“
 
 空「しかもそこらの飲み屋でさぁ、割り勘とかさせようとすんの」%K%P
 And then they wanted to go Dutch.

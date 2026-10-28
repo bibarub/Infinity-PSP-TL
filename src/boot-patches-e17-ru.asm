@@ -241,11 +241,11 @@
 	li		a2,0
 	addiu	a0,s1,0x100
 	jal		@clock_unk1
-	li		a3,0x12
+	li		a3,0xE ; smaller caret
 	addiu	a0,s1,0x110
 	addiu	a1,s1,0x100
 	jal		@clock_unk2
-	li		a2,0x1000
+	li		a2,0x1800 ; make the clock bigger
 	lw		a0,0x11C(s1)
 	sll		a1,a0,2
 	addu	a1,a1,a0

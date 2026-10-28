@@ -176,7 +176,7 @@ CN PLACEHOLDER
 彼はポケットのＰＤＡ（総合携帯通信端末）を取り出した。%K%P
 He pulled his PDA multi-purpose communication device out of his pocket.
 CN PLACEHOLDER
-Такэси вынул из кармана навороченный КПК последней модели.
+Такэси вынул из кармана навороченный %TS083КПК%TE последней модели.
 
 ボタンを押す。%K%P
 Then he pressed a button.
@@ -771,7 +771,7 @@ CN PLACEHOLDER
 正直なところ、疲れ果てていた。%K%P
 He was fully and utterly beat.
 CN PLACEHOLDER
-Он окончательно и бесповоротно сломлен.
+Честно говоря, он был совершенно вымотан.
 
 さっき声をかけてくれた係員は、いつの間にかどこかに行ってしまっていた。%K%P
 The staff member he had been talking to earlier had just up and disappeared somewhere.

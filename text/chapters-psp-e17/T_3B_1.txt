@@ -451,7 +451,7 @@ CN PLACEHOLDER
 大きな術後だからか、点滴を受けていた。%K%P
 It was probably due to the serious nature of the operation, but she was getting an IV.
 CN PLACEHOLDER
-Видимо операция была очень серьёзная, потому что сейчас к её руке тянется трубка от внутривенного раствора.
+Видимо, операция была очень серьёзная, потому что сейчас к её руке тянется трубка от внутривенного раствора.
 
 呼吸器はつけていなかった。もっとも、この救護室に呼吸器がないだけかもしれない。%K%P
 At least she wasn't hooked up to a ventilator. Then again, that could have been because the infirmary didn't have a ventilator...
@@ -516,7 +516,7 @@ CN PLACEHOLDER
 周囲の床を見ると、滲んだようにタイルが変色していた。%K%P
 I looked down at the floor, and it was as if the tiles were blurring, changing color.
 CN PLACEHOLDER
-Я посмотрел на пол – узор на нём словно размыт, меняя цвет.
+Я посмотрел на пол – плитка на нём словно запятнана другим цветом.
 
 （拭き取られた……血の色だ……）%K%P
 (It's the color... of her blood...)
@@ -526,7 +526,7 @@ CN PLACEHOLDER
 それは生々しい、手術の跡だった。%K%P
 It was the raw, brutal traces of the surgery.
 CN PLACEHOLDER
-Это запёкшиеся страшные следы, оставшиеся после операции.
+Запёкшиеся страшные следы, оставшиеся после операции.
 
 俺は掛け布から覗いているつぐみの手を、そっと握った。%K%P
 I gently squeezed Tsugumi's hand, which was peeking out from under the blanket.
