@@ -17,8 +17,8 @@ if ! (command -v sign_np >/dev/null 2>&1 || [ -e tools/sign_np/sign_np ]); then
 	make -C tools/sign_np || exit 1
 fi
 if ! (command -v armips >/dev/null 2>&1 || [ -e tools/armips/build/armips ]); then
-	rm -rf tools/armips/build/
-	mkdir tools/armips/build
-	cmake -S tools/armips -B tools/armips/build && \
-	cmake --build tools/armips/build -j$(nproc --all)
+	rm -rf tools/armips/out/
+	mkdir tools/armips/out
+	cmake -S tools/armips -B tools/armips/out && \
+	cmake --build tools/armips/out -j$(nproc --all)
 fi
