@@ -187,6 +187,9 @@ CN PLACEHOLDER
 You need to be strong. Make up your own mind. Or you'll just end up following everybody else.
 CN PLACEHOLDER
 Соберись. Приди в себя. Иначе будешь следовать за всеми хвостиком.
+// google tl: You need to stand your ground more firmly, or else you might end up heading in the wrong direction without even realizing it.
+// тут в принципе нет "приди в себя" --bibarub
+// дублируется в SS5A_2
 
 少年「わかってるよ……」%K%P
 I know...
