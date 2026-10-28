@@ -272,6 +272,7 @@ CN PLACEHOLDER
 Hey, for now... why don't we hit the kiosk and get some beers?
 CN PLACEHOLDER
 Слушай, может... сходим к киоску и возьмём пару %TS084пивка%TE?
+// "пару пивка" на мой слух неестественно звучит, возможно лучше "по пивку" --bibarub
 
 武は歩き始めた。%K%P
 Takeshi started walking.
