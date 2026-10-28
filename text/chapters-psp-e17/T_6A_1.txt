@@ -256,7 +256,7 @@ CN PLACEHOLDER
 空の言葉は、そこで途切れた。%K%P
 Sora paused for a second.
 CN PLACEHOLDER
-На мгновение Сора замялась.
+На секунду Сора замялась.
 
 優・つぐみ・ココ・少年・そして俺……集まった５人の顔を、空は順番に確かめて行く。%K%P
 Sora looked at all five of us in turn... You, Tsugumi, Coco, the Kid, and me.
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 空「ＬｅＭＵの完全圧潰推定時刻は『５月７日午前４時３０分前後』となっています」%K%P
 Implosion of LeMU is estimated to occur at 4:30 a.m. on May 7th.
 CN PLACEHOLDER
-Затопление LeMU ожидается примерно 7 мая в 4:30 утра.
+Разрушение LeMU ожидается примерно 7 мая в 4:30 утра.
 
 空「推定誤差は±１２時間程度です」%K%P
 The calculation has a margin of error of plus or minus twelve hours.

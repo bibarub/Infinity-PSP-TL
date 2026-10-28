@@ -551,7 +551,7 @@ CN PLACEHOLDER
 発症後の死亡率は８５％以上。%K%N
 Death rate after contracting the disease: over 85％.%K%O
 CN PLACEHOLDER
-Процент смертельных исходов при заражении: более 85％.%K%O
+Процент смертельных исходов при заражении: более 85%.%K%O
 
 発症は軽度だと風邪のようにも見え、一時的に症状駆逐できたように感じるが、あるとき急激に重度の症状（全身から出血）へと移行する。%K%O
 Symptoms first appear similar to that of a common cold, and while they may temporarily improve, the patient's condition will again rapidly deteriorate, resulting in hemorrhaging.
@@ -1276,5 +1276,5 @@ CN PLACEHOLDER
 時刻は間もなく、ＬｅＭＵの最速圧潰推定時刻……５月６日午後４時３０分を過ぎようとしていた。%K%P
 We were quickly approaching the earliest estimated time for LeMU's implosion... It was almost May 6th, 4:30 p.m.
 CN PLACEHOLDER
-Мы быстро приближаемся к первой расчётной временной точке, за которой последует затопление LeMU... 6 мая, 16:30.
+Мы быстро приближаемся к первой расчётной временной точке, за которой последует разрушение LeMU... 6 мая, 16:30.
 

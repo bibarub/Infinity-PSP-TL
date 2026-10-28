@@ -2846,7 +2846,7 @@ CN PLACEHOLDER
 空「私がお尋ねしたのは『観測せずに、月があるかどうかを確かめる方法は存在するか？』ということです」%K%P
 My question was whether or not there is any way of verifying that the moon exists if someone closes their eyes.
 CN PLACEHOLDER
-Мой вопрос заключался в том, будет ли луна существовать вне зависимости от того, закрывает кто-то свои глаза или нет.
+Мой вопрос заключается в том, будет ли луна существовать вне зависимости от того, закрывает кто-то свои глаза или нет.
 
 武「？」%K%P
 ?

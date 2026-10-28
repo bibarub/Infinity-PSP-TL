@@ -201,7 +201,7 @@ CN PLACEHOLDER
 空「倉成さん、あなたは５１ｍも上にある海面まで、泳ぎ切ることができるでしょうか？」%K%P
 Could you really swim over 51 meters to the surface?
 CN PLACEHOLDER
-Неужели вы действительно сможете проплыть 51 метр до поверхности?
+Куранари-сан, сможете ли вы доплыть до поверхности, до которой целых 51 метр вверх?
 
 武「うわっ、バカにしてるだろ？」%K%P
 You making fun of me?
@@ -766,22 +766,22 @@ CN PLACEHOLDER
 空「そうですね、私もひとつ考えましょう。それでは……キワクさん、というのはいかがでしょうか？」%K%P
 Well, let's see. Why don't I think of one... How about Melos-san?
 CN PLACEHOLDER
-Так, посмотрим. Может... Может, „Попа-сан“? Что скажете?
+Так, посмотрим. Может... Может, „Папо-сан“? Что скажете?
 
 武「なんだ、キワクさんって」%K%P
 Why Melos?
 CN PLACEHOLDER
-Что за „Попа“?
+Какой ещё „Папо-сан“?
 
 優「記憶忘れちゃった君の略？」%K%P
 Like, short for 'memory loss'?
 CN PLACEHOLDER
-Типа, сокращённо от „потеря памяти“?
+Типа, сокращённо от „память потерял“?
 
 武「縁起でもないなぁ」%K%P
 Nah, it's bad luck to name him that...
 CN PLACEHOLDER
-Нет, это плохая примета. Не стоит давать ему такое имя...
+Не к добру такое имя...
 
 空「すみません、直接的すぎました……」%K%P
 Sorry. I didn't mean to be so direct...

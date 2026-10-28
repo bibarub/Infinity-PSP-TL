@@ -351,7 +351,7 @@ CN PLACEHOLDER
 俺は保温器に取っておいたタツタサンドの包みを、ココに手渡した。%K%P
 I handed Coco the last tuna sandwich I had kept in the food warmer.
 CN PLACEHOLDER
-Я протянул Коко последний сэндвич, что держал всё это время в микроволновке.
+Я протянул Коко последний сэндвич, что держал всё это время на подогреве.
 
 ココ「それじゃ、いっただっきまーすっ♪」%K%P
 Alright, time to eat〜
@@ -602,7 +602,7 @@ CN PLACEHOLDER
 ココは保温器の奥のサンドを指差す。%K%P
 Coco pointed to the sandwich nestled deep in the food warmer.
 CN PLACEHOLDER
-Коко показала на сэндвич, спрятанный ближе к задней стенке микроволновки.
+Коко показала на сэндвич в глубине подогревателя.
 
 ……気づいてたのか。%K%P
 ...So she'd noticed it.
@@ -1382,7 +1382,7 @@ CN PLACEHOLDER
 武「ついつい、ポチッとな？」%K%P
 I couldn't help giving it a little push.
 CN PLACEHOLDER
-Не смог удержаться и слегка надавил на неё...
+Ну и не удержался и такой: „Да проще простого“...
 
 俺が言うと、優は消火器を投げ出す。%K%P
 When I said that, You tossed the fire extinguisher aside.

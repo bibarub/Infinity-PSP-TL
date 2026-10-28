@@ -2421,7 +2421,7 @@ CN PLACEHOLDER
 俺は恐る恐る目を開く。%K%P
 Terrified, I opened my eyes.
 CN PLACEHOLDER
-Не выдержав, я открыл глаза.
+Я опасливо открыл глаза.
 
 武「少年……つぐみを見てみろよ」%K%P
 Kid... look over at Tsugumi.
@@ -2891,7 +2891,7 @@ CN PLACEHOLDER
 つぐみは無言で、がんがん先に歩いて進む。%K%P
 She wordlessly and doggedly moved forward.
 CN PLACEHOLDER
-Не произнося ни слова, она упорно идёт вперёд.
+Не произнеся ни слова, она упорно идёт вперёд.
 
 振り解けないまま、嫌でも引きずられて行く、俺。%K%P
 She kept a firm grip on me and kept pulling so that I couldn't get away.

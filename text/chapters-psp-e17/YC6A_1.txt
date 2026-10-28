@@ -2651,7 +2651,7 @@ CN PLACEHOLDER
 優「モリノ・シゲゾウって言う人」%K%P
 Someone called Morino Shigezo.
 CN PLACEHOLDER
-Доктор Морино Сигедзо.
+Доктор Морино Сигэдзо.
 
 優「世界的に有名な遺伝子工学の博士なんだけど……」%K%P
 He's a world-renowned geneticist...
@@ -3436,7 +3436,7 @@ CN PLACEHOLDER
 管制官「応答してください……」%K%P
 Come in...
 CN PLACEHOLDER
-Приём...
+Приём!..
 
 管制官「第３ＩＢＦ、応答してください」%K%P
 IBF Three, please respond.
@@ -3561,7 +3561,7 @@ CN PLACEHOLDER
 管制官「もしも一部分が圧潰するようなことにでもなれば、どこかのエリアが崩落し、沈没する危険がある」%K%P
 If one section implodes, there's the risk that another area could collapse and start sinking.
 CN PLACEHOLDER
-Если одна из секций будет затоплена, то соседние зоны последуют за ней, по принципу домино.
+Если где-то корпус не выдержит давления, какая-нибудь зона может обрушиться и затонуть.
 
 管制官「いずれにしろ、重量のある破片が落下し、研究所上部にぶつかることが予想される」%K%P
 If that happens, we think there's a high possibility that heavy pieces could crash down on the research facility.
@@ -3621,7 +3621,7 @@ CN PLACEHOLDER
 マニュアルの指示通りにコントロールパネルを動かし、モニターに情報を呼び出す。%K%P
 Following the instructions in the manual, he used the control panel to call up information on the monitor.
 CN PLACEHOLDER
-Следуя инструкции, он воспользовался панелью управления, чтобы отобразить необходимую информацию.
+Действуя согласно инструкции из руководства, он вывел данные на монитор с панели управления.
 
 武「電動の小型潜水艇か」%K%P
 It's a small electric submersible...
@@ -4891,7 +4891,7 @@ CN PLACEHOLDER
 武「優が通信回線を開いてくれたんで、インゼル・ヌルと連絡が取れたんだ」%K%P
 You was able to open up a communication line to Insel Null.
 CN PLACEHOLDER
-Ю смогла открыть линии связи, поэтому мы связались с Инсель Нуль.
+Ю открыла канал связи, и мы смогли связаться с Инсель Нуль.
 
 そんなやり取りをしている間に、診療室についた。%K%P
 Talking that way, they made their way to the examination room.

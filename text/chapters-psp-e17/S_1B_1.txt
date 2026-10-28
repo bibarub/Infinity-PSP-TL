@@ -928,7 +928,7 @@ CN PLACEHOLDER
 空「ゆえに、不可能なのです」%K%P
 Therefore, I say it is impossible.
 CN PLACEHOLDER
-Потому я и сказала, что это невозможно.
+Поэтому я сказала, что это невозможно.
 
 空「それに……もしも仮に第４区画までたどりつけたとしても、事態が好転するようなことはないと思われます」%K%P
 Furthermore... even if someone did reach Sector Four, I don't think it would improve our situation at all.
@@ -1369,7 +1369,7 @@ CN PLACEHOLDER
 武「主任代理ねぇ……結構偉いんだ、実は？」%K%P
 Assistant chief... So you're pretty high up?
 CN PLACEHOLDER
-Замдиректора... Так у тебя довольно внушительный пост?
+Замдиректора... Значит, у тебя довольно внушительный пост?
 
 空「代理ですし、名目上のことですから。大したことはありません」%K%P
 Only in name. I'm really just an assistant. It's no big deal.
@@ -1389,7 +1389,7 @@ CN PLACEHOLDER
 空「はい、そうです。お気づきになりましたか……」%K%P
 That's right. So you noticed...
 CN PLACEHOLDER
-Всё верно. Выходит, ты заметил...
+Всё верно. Выходит, вы заметили...
 
 空「ここも人手不足なもので。時々私も、あのようなことをしています」%K%P
 We are short of staff here. From time to time, I do that kind of work.
@@ -2078,22 +2078,22 @@ CN PLACEHOLDER
 空「キワクさん、というのはいかがですか？」%K%P
 How about Melos-san?
 CN PLACEHOLDER
-Может, „Попа-сан“? Что скажете?
+Может, „Папо-сан“? Что скажете?
 
 武「なんだ？　キワクさんって」%K%P
 What? What's Melos supposed to mean?
 CN PLACEHOLDER
-А? Что за „Попа“?
+Какой ещё „Папо-сан“?
 
 優「『記憶忘れちゃった君』の略？」%K%P
 Like, short for 'memory loss'?
 CN PLACEHOLDER
-Типа, сокращённо от „потеря памяти“?
+Типа, сокращённо от „память потерял“?
 
 武「縁起でもないなぁ」%K%P
 Nah, it's bad luck to name him that...
 CN PLACEHOLDER
-Нет, это плохая примета. Не стоит давать ему такое имя...
+Не к добру такое имя...
 
 空「すみません、直接的すぎました……」%K%P
 Sorry. I didn't mean to be so direct...
@@ -2823,7 +2823,7 @@ CN PLACEHOLDER
 空はそう言って、テーブルの上のホログラム画像に手を触れた。%K%P
 Saying that, Sora touched the holographic image above the table.
 CN PLACEHOLDER
-С этими словами Сора дотронулась до %TS099голографическое%TE изображения над столом.
+С этими словами Сора дотронулась до %TS099голографического%TE изображения над столом.
 
 次のようなことを述べる彼女。%K%P
 Then she said...

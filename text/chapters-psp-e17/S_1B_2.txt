@@ -2471,7 +2471,7 @@ CN PLACEHOLDER
 空「フリーダイビングの現在の世界記録は１５０ｍです」%K%P
 The current world record for free diving is 150 meters.
 CN PLACEHOLDER
-На сегодняшний день мировой рекорд для свободного дайвинга составляет приблизительно 150 метров.
+На сегодняшний день мировой рекорд для фридайвинга составляет приблизительно 150 метров.
 
 空「アクアラングをつけて、それなりの手順を踏めば、恐らく３５ｍぐらいなら誰でも潜れるでしょう」%K%P
 With an aqualung and pauses along the way, probably just about anyone could dive around 35 meters.
@@ -2511,7 +2511,7 @@ CN PLACEHOLDER
 空「少年さん、あなたは５１ｍも上にある海面まで、泳ぎ切ることができるでしょうか？」%K%P
 Could you really swim over 51 meters to the surface?
 CN PLACEHOLDER
-Неужели ты действительно сможешь проплыть 51 метр до поверхности?
+Малой-сан, сможешь ли ты доплыть до поверхности, если до неё целых 51 метр вверх?
 
 少年「５１ｍ？」%K%P
 51 meters?

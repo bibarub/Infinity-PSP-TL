@@ -381,7 +381,7 @@ CN PLACEHOLDER
 武「まあ、たいしたことはないんだけど、一応メンテナンスしとかなくちゃいけないから」%K%P
 No big deal, just some maintenance that's gotta be done.
 CN PLACEHOLDER
-Ничего особенного, просто подкрутить гайки тут и там.
+Да ничего серьёзного, но профилактику на всякий случай провести надо.
 
 武「って、空に命令されたから」%K%P
 Sora's orders.

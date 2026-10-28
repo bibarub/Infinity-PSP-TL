@@ -136,12 +136,12 @@ CN PLACEHOLDER
 遠くで唸りのようなこもった音が響く。水中から、このＩＢＦへと伝わってきているようだ。%K%P
 A sound roared in the distance. It was probably being transmitted through the water to IBF, where we were.
 CN PLACEHOLDER
-Издалека прогремел раскатистый звук. Похоже, он добрался черед воду до IBF, где мы сейчас.
+Издалека прогремел раскатистый звук. Похоже, он добрался через воду до IBF, где мы сейчас.
 
 あれは……熱水噴出孔の音だろうか？%K%P
 Was it... the sound of the thermal vents?
 CN PLACEHOLDER
-Это... звук от вулканических источников?
+Это... звук от гидротермальных источников?
 
 まだＬｅＭＵは健在だろう……。%K%P
 I wondered if LeMU was still hanging in there...
@@ -151,7 +151,7 @@ CN PLACEHOLDER
 俺達を取り巻く状況は芳しくないが、いろいろなことを考えられるだけの猶予はまだ残されていた。%K%P
 Although the situation we were in didn't look great, there were still various options available to us.
 CN PLACEHOLDER
-Хоть ситуация отнюдь не сахар, у нас по-прежнему есть шанс. И даже не один.
+Дела наши были плохи, но время подумать – о том, о сём – у нас пока было.
 
 武「なぁ、優……あのオッサンのことなんだけど」%K%P
 Hey, You... About that old guy...
@@ -526,12 +526,12 @@ CN PLACEHOLDER
 足元に落ちていた錆びたボルトを、俺は蹴り飛ばした。%K%P
 I kicked a dirty old bottle that was at my feet.
 CN PLACEHOLDER
-Я пнул грязную старую бутылку, что оказалась у моей ноги.
+Я пнул ржавый болт, что подвернулся мне под ногу.
 
 それはプールにぽちゃんと落ちて、ゆっくりゆらゆらと、沈んでいった。%K%P
 It landed in the pool and slowly sunk.
 CN PLACEHOLDER
-Она приводнилась в бассейне и медленно затонула.
+Он плюхнулся в бассейн и, медленно покачиваясь, ушёл под воду.
 
 通路へと戻る。%K%P
 We went back to the corridor.
@@ -766,12 +766,12 @@ CN PLACEHOLDER
 優「は？」%K%P
 Huuuh?
 CN PLACEHOLDER
-Ха-а-а-а?
+Ха-а-а?
 
 優「は、って何？」%K%P
 Huuuuh, what?
 CN PLACEHOLDER
-Ха-а-а-а, что?
+Ха-а-а, что?
 
 優「ね、ねぇ……？」%K%P
 Come on, what...?
@@ -918,7 +918,7 @@ CN PLACEHOLDER
 つぐみ「優、武！　少年が、少年の様子が……！」%K%P
 You, Takeshi! The Kid! The Kid's in bad shape!
 CN PLACEHOLDER
-Ю, Такэси! Малой... Ему плохо!
+Ю, Такэси! Малой... С Малым беда!
 
 真剣な目で、彼女は叫んだ。%K%P
 With eyes that showed the gravity of the situation, she yelled at us.
@@ -1003,7 +1003,7 @@ CN PLACEHOLDER
 つぐみ「ＴＢの正確な感染経路は、私達にはわかってないんだから」%K%P
 None of us know where he got exposed to it.
 CN PLACEHOLDER
-Никто из нас не знает, где он мог заразиться.
+Никто не знает, где он мог заразиться.
 
 武「…………」%K%P
 .........
@@ -1243,7 +1243,7 @@ CN PLACEHOLDER
 俺は診療室を見回し、それらしきものがないかどうか目で探した。%K%P
 I went around the examination room and checked to see if I could find it anywhere.
 CN PLACEHOLDER
-Я обошёл весь смотровой зал, ища, где она может лежать.
+Я обошёл весь смотровой зал, ища, где она может быть.
 
 つぐみと優も、医薬品の棚を漁り始める。%K%P
 Tsugumi and You hurriedly started checking through the medicine cabinets.
@@ -1883,7 +1883,7 @@ CN PLACEHOLDER
 ココがポッドから出られるようになるまで、モニターの表示によれば、あと４時間。%K%P
 According to the monitor, it would be four hours before Coco could leave the pod.
 CN PLACEHOLDER
-Судя по данным на мониторе, Коко сможет выбраться из модуля лишь через четрые часа.
+Судя по данным на мониторе, Коко сможет выбраться из модуля лишь через четыре часа.
 
 ポッドの中は、高圧の酸素で満たされている。%K%P
 The pod was full of high-pressure oxygen.
@@ -2033,17 +2033,17 @@ CN PLACEHOLDER
 まどろみから覚める。%K%P
 I woke from my stupor.
 CN PLACEHOLDER
-Я очнулся от своего оцепенения.
+Сквозь полусон я пришёл в себя.
 
 硬く冷たい感触……。%K%P
 A stale, cold feeling...
 CN PLACEHOLDER
-С чувством металлического холода...
+Что-то твёрдое и холодное...
 
 自分が床に突っ伏して眠っていたことに気づいた。%K%P
 I realized I had been sleeping sprawled on the floor.
 CN PLACEHOLDER
-Сообразив, что сплю врастяжку на полу...
+Оказалось, я спал, уткнувшись лицом в пол.
 
 ゆっくりと身体を起こす。%K%P
 I slowly raised my body.
@@ -2053,7 +2053,7 @@ CN PLACEHOLDER
 手を握ったり開いたりしてみる。%K%P
 I tried opening and closing my fists.
 CN PLACEHOLDER
-Затем попытался расжать и сжать кулаки.
+Попробовал сжать и разжать кулаки.
 
 おかしい。%K%P
 Strange.
@@ -2073,12 +2073,12 @@ CN PLACEHOLDER
 頬をべちべち叩いてみる。%K%P
 I slapped my cheeks.
 CN PLACEHOLDER
-Похлопал себя по щекам.
+Затем похлопал по щекам.
 
 深く冷たい空気を吸い、吐き出す。%K%P
 I breathed in the cold air, then breathed out.
 CN PLACEHOLDER
-Сделал глубокий вдох холодного воздуха, затем выдохнул.
+Глубоко вдохнул холодный воздух и выдохнул.
 
 おかしい……。%K%P
 Strange...
@@ -2098,7 +2098,7 @@ CN PLACEHOLDER
 床に手をつき、重く痛む身体を持ち上げる。%K%P
 Putting my hands on the floor, I pulled up my heavy, aching body.
 CN PLACEHOLDER
-Оперевшись руками о пол, я поднял свою тяжёлую, болящую тушу.
+Оперевшись руками о пол, я поднял тяжёлое, ноющее тело.
 
 足元はおぼつかない。%K%P
 My feet faltered.
@@ -2113,22 +2113,22 @@ CN PLACEHOLDER
 診療室を見回してみる。%K%P
 I looked around the infirmary.
 CN PLACEHOLDER
-Окинув взглядом смотровой зал...
+Я окинул взглядом смотровой зал.
 
 使用済みの小型注射器が、床にいくつか転がっているのを見つける。%K%P
 I saw several used syringes scattered on the floor.
 CN PLACEHOLDER
-Я увидел несколько использованных шприцов, разбросанных по полу.
+На полу валялось несколько использованных шприцев.
 
 少年がココのポッドに寄りかかったまま、ぐったりとしていた。%K%P
 The Kid was still slumped against Coco's pod.
 CN PLACEHOLDER
-Малой неподвижно прильнул к модулю Коко.
+Малой без сил прильнул к модулю Коко.
 
 意識はないようで顔色も悪く、気にかかる。%K%P
 He looked disturbingly bad, just completely out of it.
 CN PLACEHOLDER
-Он выглядит скверно, целиком и полностью будто не в своей тарелке.
+Похоже, он без сознания, и лицо бледное – это тревожит.
 
 つぐみの姿が見えない。%K%P
 Tsugumi was nowhere to be seen.
@@ -2138,7 +2138,7 @@ CN PLACEHOLDER
 どこに行ったのだろう……？%K%P
 I wondered where she'd gone to...?
 CN PLACEHOLDER
-И куда только она могла деться?..
+И куда же она ушла?..
 
 優は端末のコンソールに半身を投げ出して、寝息を立てていた。%K%P
 You was half-slumped over the terminal console, snoring away.
@@ -2148,7 +2148,7 @@ CN PLACEHOLDER
 寝汗をかいていて、やや苦しそうだった。%K%P
 She looked like she was in some pain and was perspiring in her sleep.
 CN PLACEHOLDER
-Похоже, её мучит боль, потому что она изрядно вспотела во время сна.
+Она вспотела во сне, и вид у неё измученный.
 
 キー入力の途中だったのか、パネルに手が押しつけられた格好のままだ。%K%P
 Her hand was pushed against the panel as if she had been in the middle of typing.
@@ -2203,7 +2203,7 @@ CN PLACEHOLDER
 ？？「インゼル・ヌルより指示を行っています」%K%P
 We are being directed by Insel Null.
 CN PLACEHOLDER
-Мы приближаемся к Инсель Нуль.
+Ведём связь с Инсель Нуль.
 
 端末のスピーカーから誰かの声がする！？%K%P
 Was I actually hearing someone's voice over the speaker!?
@@ -2353,7 +2353,7 @@ CN PLACEHOLDER
 管制官「もしも一部分が圧潰するようなことにでもなれば、どこかのエリアが崩落し、沈没する危険がある」%K%P
 If one section implodes, there's the risk that another area could collapse and start sinking.
 CN PLACEHOLDER
-Если одна из секций будет затоплена, то соседние зоны последуют за ней, по принципу домино.
+Если где-то корпус не выдержит давления, какая-нибудь зона может обрушиться и затонуть.
 
 管制官「いずれにしろ、重量のある破片が落下し、研究所上部にぶつかることが予想される」%K%P
 If that happens, we think there's a high possibility that heavy pieces could crash down on the research facility.
@@ -2428,7 +2428,7 @@ CN PLACEHOLDER
 指示通りにコントロールパネルを動かし、モニターに情報を呼び出す。%K%P
 Following the instructions, I used the control panel to call up information on the monitor.
 CN PLACEHOLDER
-Следуя инструкциям на экране, я воспользовался панелью управления, чтобы отобразить необходимую информацию.
+Действуя согласно инструкции, я вывел данные на монитор с панели управления.
 
 武「電動の小型潜水艇か」%K%P
 It's a small electric submersible...
@@ -2613,7 +2613,7 @@ CN PLACEHOLDER
 武「優が通信回線を開いてくれたんで、インゼル・ヌルと連絡が取れたんだ」%K%P
 You was able to open up a communication line to Insel Null.
 CN PLACEHOLDER
-Ю смогла открыть линии связи на Инсель Нуль.
+Ю открыла канал связи, и мы смогли связаться с Инсель Нуль.
 
 つぐみ「インゼル・ヌルと……？」%K%P
 To Insel Null...?
@@ -3008,7 +3008,7 @@ CN PLACEHOLDER
 武「おおおぉぉぉぉ……」%K%P
 WAAAAaaaah...
 CN PLACEHOLDER
-Ха-а-а-а-ах...
+Ха-а-а-а-а...
 
 激痛が全身を走った。%K%P
 Pain wracked my body.
@@ -3663,7 +3663,7 @@ CN PLACEHOLDER
 空「私は……レミシステムのＡＩ、茜ヶ崎空ですから」%K%P
 I'm... Akanegasaki Sora, artificial intelligence of LeMMIH's system.
 CN PLACEHOLDER
-Я... Аканэгасаки Сора, искусственный интеллект системы LeMMIH.
+Я... Аканэгасаки Сора, ИИ системы LeMMIH.
 
 彼女は感情をかなぐり捨てながら言う。%K%P
 She threw off all emotion as she said it.
@@ -4113,7 +4113,7 @@ CN PLACEHOLDER
 ヒンメルを出て、上階を目指す。%K%P
 I left Himmel and started heading up.
 CN PLACEHOLDER
-Я оставил Химмель и побежал вверх по ступенькам...
+Я оставил Химмель и побежал вверх по ступенькам.
 
 ＰＤＡの画面を確認した。%K%P
 I checked the screen on my PDA.
@@ -4223,7 +4223,7 @@ CN PLACEHOLDER
 武「あそこで、分身の術も見せてもらったし……」%K%P
 That's where you showed me the art of my other self...
 CN PLACEHOLDER
-Там, где ты дала мне понять, что мы не одиноки...
+И ещё там ты показала мне, как умеешь раздваиваться...
 
 空「…………」%K%P
 .........
