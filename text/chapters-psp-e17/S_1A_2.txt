@@ -1787,6 +1787,7 @@ CN PLACEHOLDER
 But this is like going backward on a one-way street.
 CN PLACEHOLDER
 Знакомство-то одностороннее – только не в ту сторону, как ни крути.
+// TimTH suggestion 2: Направление знакомства так и так одностороннее, да только не в ту сторону.
 
 沙羅「一方通行、ねぇ……」%K%P
 One-way street, huh...
