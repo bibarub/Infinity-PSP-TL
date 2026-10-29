@@ -2118,7 +2118,7 @@ CN PLACEHOLDER
 使用済みの小型注射器が、床にいくつか転がっているのを見つける。%K%P
 I saw several used syringes scattered on the floor.
 CN PLACEHOLDER
-На полу валялось несколько использованных шприцев.
+На полу валялось несколько использованных шприцов.
 
 少年がココのポッドに寄りかかったまま、ぐったりとしていた。%K%P
 The Kid was still slumped against Coco's pod.
