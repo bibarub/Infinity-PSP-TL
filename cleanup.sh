@@ -16,4 +16,4 @@ rm -rf text/font/${GAME} text/font/${GAME}-${TL_SUFFIX}
 rm -f patch/${GAME}-${TL_SUFFIX}.xdelta
 rm -f iso/${GAME}-${TL_SUFFIX}.iso
 rm -rf pbp/${GAME}-${TL_SUFFIX}/
-[ "$CLEANUP_TOOLS" = "true" ] && rm -rf tools/extract-xiso/build tools/armips/build tools/sign_np/sign_np tools/sign_np/*.o tools/sign_np/libkirk/*.a tools/sign_np/libkirk/*.o || true
+[ "$CLEANUP_TOOLS" = "true" ] && rm -rf tools/extract-xiso/build tools/armips/build tools/armips/out tools/sign_np/sign_np tools/sign_np/*.o tools/sign_np/libkirk/*.a tools/sign_np/libkirk/*.o || true

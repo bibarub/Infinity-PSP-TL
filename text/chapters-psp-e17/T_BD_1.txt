@@ -91,7 +91,7 @@ Drei Minuten
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
 vor der Implosion.>”
 CN PLACEHOLDER
-vor der Implosion.»%N(Три минуты до затопления.)
+vor der Implosion.»%N(Три минуты до разрушения.)
 
 部屋のスピーカーから、無機質なアナウンスが聞こえる。%K%P
 An announcement grated mechanically from the room's speakers.
@@ -246,7 +246,7 @@ Zwei Minuten
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
 vor der Implosion.>”
 CN PLACEHOLDER
-vor der Implosion.»%N(Две минуты до затопления.)
+vor der Implosion.»%N(Две минуты до разрушения.)
 
 足を引きつらせながら、つぐみは扉へと歩いて行く。%K%P
 Dragging her leg, Tsugumi hobbled toward the door.
@@ -426,7 +426,7 @@ Eine Minute
 ｖｏｒ⑳ｄｅｒ⑳Ｉｍｐｌｏｓｉｏｎ．」%K%P
 vor der Implosion.>”
 CN PLACEHOLDER
-vor der Implosion.»%N(Одна минута до затопления.)
+vor der Implosion.»%N(Одна минута до разрушения.)
 
 ピーーーーーー…………。%K%P
 Beeeeeeeep...
@@ -591,7 +591,7 @@ CN PLACEHOLDER
 優「嫌だよっ……」%K%P
 I hate this...
 CN PLACEHOLDER
-Ненавижу...
+Не хочу...
 
 優「寒いよおっ……」%K%P
 It's so cold...
@@ -731,7 +731,7 @@ CN PLACEHOLDER
 優「私のことなんか、何とも……思ってなかっただろうけど、さ……」%K%P
 You probably didn't... feel anything about me, but...
 CN PLACEHOLDER
-Должно быть... я... ничего для тебя... не значу, но...
+Наверное... я... ничего для тебя... не значу, но...
 
 枯れ果てた声。%K%P
 Her voice was devoid of strength.
@@ -746,7 +746,7 @@ CN PLACEHOLDER
 優「本当はね、わたし、倉成の、こ……と」%K%P
 But I... really liked...
 CN PLACEHOLDER
-Но... ты мне... правда... нравил... ся...
+Но... ты мне... правда...
 
 優の心臓が、ひときわ大きく爆ぜた。%K%P
 You's heart made one last frantic burst.

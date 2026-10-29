@@ -912,7 +912,7 @@ CN PLACEHOLDER
 ココ「『ああ、勿論いいとも、すぐにでもやろう』」%K%P
 'Sure. Right away.'
 CN PLACEHOLDER
-„Конечно, внучёк“.
+„Конечно, внучек“.
 
 ココ「『だが１秒だけ、待ってくれないかな』」%K%P
 'But can I get you to wait just a second?'

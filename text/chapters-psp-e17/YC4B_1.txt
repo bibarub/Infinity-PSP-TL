@@ -2466,7 +2466,7 @@ CN PLACEHOLDER
 優「お父さんはただ、行方不明になっただけで……遺体が見つかったわけじゃないんだし……！」%K%P
 My father just went missing... and his remains were never found...
 CN PLACEHOLDER
-Он просто пропал. Никто не видел его тела!..
+Он просто пропал... Никто не видел его тела!..
 
 優「私、どうしても確かめたかったの」%K%P
 I just had to find out.

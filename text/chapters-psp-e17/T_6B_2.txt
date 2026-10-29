@@ -1136,7 +1136,7 @@ CN PLACEHOLDER
 ヒンメルのコントロールルームから強化ガラス一枚を隔てて、加減圧室はある。%K%P
 A single panel of reinforced glass lay in between the control room and the compression chamber.
 CN PLACEHOLDER
-Она располагалась за бронированным стеклом по другую сторону от Химмеля. 
+Она располагалась за бронированным стеклом по другую сторону от Химмеля.
 
 正確には、部屋の中央にチャンバーが置かれ……部屋の中に部屋が作られているような格好だ。%K%P
 More precisely, a chamber was set in the middle of the room... It had been constructed there.

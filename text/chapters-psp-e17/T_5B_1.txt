@@ -186,7 +186,7 @@ CN PLACEHOLDER
 代わりに、とてつもないことをしでかしてしまった気がする……。%K%P
 Why did I feel like I had messed up somehow...?
 CN PLACEHOLDER
-Почему меня не покидает чувство, что я смалодушничал?..
+Почему меня не покидает чувство, что я натворил нечто немыслимое?..
 
 あのときの俺はどうかしていた。%K%P
 Something had come over me.
@@ -601,7 +601,7 @@ CN PLACEHOLDER
 よく見ると、人間の形をした傷のそばに、見たこともない獣の姿がふたつ、刻み込まれていた。%K%P
 Looking more carefully, I could see two unusual animal figures beside the human forms.
 CN PLACEHOLDER
-Приглядевшись, я заметил две необычные фигурки животных рядом с человеческой.
+Присмотревшись, я заметил рядом с изображениями людей фигурки двух животных, которых никогда не видел.
 
 少年「…………」%K%P
 .........
@@ -736,7 +736,7 @@ CN PLACEHOLDER
 少年「足元、気をつけてね」%K%P
 Watch your step, okay?
 CN PLACEHOLDER
-Смотри куда ступаешь, хорошо?
+Смотри, куда ступаешь, хорошо?
 
 ココ「うん♪」%K%P
 Okay〜

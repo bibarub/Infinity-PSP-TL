@@ -2667,7 +2667,7 @@ CN PLACEHOLDER
 （鳥の名前だ……）%K%P
 (I think that's a bird's name...)
 CN PLACEHOLDER
-(По-японски это... «горлица». Птица, значит?..)
+(По-японски это... «дрозд». Птица, значит?..)
 
 水族館で、彼女が飛ぶように俺の腕を引いて走ったことを思い出す。%K%p
 I remembered her tugging me along in the aquarium and running like the wind.
@@ -2838,7 +2838,7 @@ CN PLACEHOLDER
 空「申し遅れました。私は、茜ヶ崎空と申します。ＬｅＭＵ開発部のシステムエンジニアです」%K%P
 Pardon me for the belated introduction. I am Akanegasaki Sora. I am a system engineer in LeMU's Development Division.
 CN PLACEHOLDER
-Прошу прощения за несвоевременное представление. Я Аканэгасаки Сора. %TS035Системный инженер%TE в Отделе разработки LeMU. 
+Прошу прощения за несвоевременное представление. Я Аканэгасаки Сора. %TS035Системный инженер%TE в Отделе разработки LeMU.
 
 空「一応、主任代理……ということになっています」%K%p
 Technically, I'm the assistant chief... or so my title says.

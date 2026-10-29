@@ -226,7 +226,7 @@ CN PLACEHOLDER
 武「おらぁ、食いたい奴ぁ順に前に出ろ！」%K%P
 Alright, whoever wants to eat, get in line!
 CN PLACEHOLDER
-Так-с, все самые голодные, в очередь!
+Так-с, все самые голодные – в очередь!
 
 ココ「じゃあココ一番」%K%P
 I'm first!
@@ -256,12 +256,12 @@ CN PLACEHOLDER
 優「ちょっとぉ、並びなさいよぉ、次はわ・た・し」%K%P
 Hey, wait in line! The next person is M-E-!
 CN PLACEHOLDER
-Эй, в очередь! Дальше буду я!
+Эй, в очередь! Следующий ДЛЯ МЕ-НЯ!
 
 これはたぶん、この場所で日常的に繰り返されてきた光景。%K%P
 That was probably the way things usually were at the shop.
 CN PLACEHOLDER
-Наверное, так обычно и происходит в подобных магазинчиках.
+Наверное, так обычно и происходит в подобных заведениях.
 
 いまだ俺達がここから脱出できるという見込みは立っていない。%K%P
 There still wasn't any schedule as to when we might get out of LeMU.
@@ -281,12 +281,12 @@ CN PLACEHOLDER
 武「え、俺？　楽しいっていうか……楽しいかな？　そう見える？」%K%P
 Who, me? You think so? Fun... I guess, maybe...
 CN PLACEHOLDER
-Кому, мне? Думаешь? Нравится... ну, наверное...
+Кому, мне? Думаешь? Нравится ли... ну, наверное...
 
 ココ「うん、なんか暮らしイキイキ！　って感じ」%K%P
 Yeah, you look like you might even be enjoying your life here.
 CN PLACEHOLDER
-Ага, выглядишь так, будто ты наслаждаешься этим!
+Ага, очень похоже, что тебе это приносит удовольствие!
 
 武「どんな感じだそれは……でも、結構面白いぞ。屋台経営は！」%K%P
 I wonder how that'd feel... I guess it'd be kind of fun, owning a stand like this!
@@ -316,7 +316,7 @@ CN PLACEHOLDER
 武「お客さん、そりゃあ誉めすぎだ……」%K%P
 Aw shucks, dear customer, you're just sayin' that...
 CN PLACEHOLDER
-Ну ё-моё, мадам, да как вам не стыдно...
+Да что вы говорите, вы меня сейчас перехвалите...
 
 優「違うってココ、ミスターホットドッグというよりは」%K%P
 No, Coco. I don't think he was a hotdog man, I think he was...
@@ -577,7 +577,7 @@ CN PLACEHOLDER
 俺はピピの前足をつかんで引っぱりあげ、天井の上に乗せた。%K%P
 I grabbed onto Pipi's front legs and pulled him out from the hole in the ceiling.
 CN PLACEHOLDER
-Я ухватил Пипи за передние лапы и вытащил из дыры в потолке.%K%PПипи«*визг*... *визг*...»%K%PПипи обнюхал меня.
+Я ухватил Пипи за передние лапы и вытащил его через отверстие в потолке.
 
 武「さあ、次はココの番だ」%K%P
 Okay, it's your turn next, Coco.
@@ -737,7 +737,7 @@ CN PLACEHOLDER
 空「私がお尋ねしたのは『観測せずに、月があるかどうかを確かめる方法は存在するか？』ということです」%K%P
 My question was whether or not there is any way of verifying that the moon exists if someone closes their eyes.
 CN PLACEHOLDER
-Мой вопрос заключался в том, будет ли луна существовать вне зависимости от того, закрывает кто-то свои глаза или нет.
+Мой вопрос заключается в том, будет ли луна существовать вне зависимости от того, закрывает кто-то свои глаза или нет.
 
 空「倉成さんが目を閉じたときにも、世界は本当にあるのでしょうか？」%K%P
 When you close your eyes, do you think this world still exists?
@@ -792,7 +792,7 @@ CN PLACEHOLDER
 空「逆に言えば、視点こそが、世界を作っていると言えるかもしれませんね」%K%P
 Another way of putting it might be to say that the perspective is in the eye of the beholder.
 CN PLACEHOLDER
-Если подойти к этому с другой стороны, можно сказать, что перспектива находится в глазе наблюдающего.
+Если подойти к этому с другой стороны, можно сказать, что перспектива находится в глазах наблюдающего.
 
 空「この場合の視点とは『視覚』のことだけを指しているのではなく、聴覚、嗅覚、味覚、触覚のすべての感覚を指しています」%K%P
 In this instance, I don't mean just sight, but hearing, smell, taste, and touch as well. All of the senses.
@@ -877,7 +877,7 @@ CN PLACEHOLDER
 武「じゃあ、つぐみは？」%K%P
 Well, what about you then, Tsugumi?
 CN PLACEHOLDER
-Тогда как же ты, Цугуми?
+А как же ты, Цугуми?
 
 つぐみ「私は……」%K%P
 I...

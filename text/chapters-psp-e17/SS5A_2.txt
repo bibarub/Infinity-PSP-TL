@@ -16,7 +16,7 @@ CN PLACEHOLDER
 寝坊の影響で、朝食はいつもより遅い時間となった。%K%O
 The late start pushed our breakfast time back later than usual.
 CN PLACEHOLDER
-Поздний подъём передвинул время завтрака на попозже.
+Из-за позднего подъёма завтрак тоже сдвинулся на более позднее время.
 
 せめて気分だけでも変えよう、ということで、憩いの間の池（のあったところ）に、レジャーシートを広げてみた。%K%P
 We wanted a change of pace, to do something fun, so we spread out a blanket in the park's rest area.
@@ -56,7 +56,7 @@ CN PLACEHOLDER
 どうやら、まだ仲直りできていないらしかった。%K%P
 Apparently, they still weren't getting along.
 CN PLACEHOLDER
-Кажется, они так и не помирились.
+Похоже, они так и не помирились.
 
 が、特にゴタゴタも起きず、皆、食事と会話を楽しもうとしていた。%K%P
 But everybody tried to make the best of it, eating, chatting, and having fun.
@@ -96,7 +96,7 @@ CN PLACEHOLDER
 沙羅「騙されやすい性格でござるな」%K%P
 He's the gullible type.
 CN PLACEHOLDER
-По-моему он слишком доверчив.
+По-моему, он слишком доверчив.
 
 少年「そんなことないよ、ぼくはこれでも自分の意志でっ」%K%P
 I am not. I'm trying to win.
@@ -261,7 +261,7 @@ CN PLACEHOLDER
 武「あるさ、こんなこともあろうかと、つぐみ用にチューニングした『スペシャルタツタ』がな」%K%P
 I do. I thought you might want more, so I made a SPECIAL one for you.
 CN PLACEHOLDER
-А то! Как чувствовал, что ты попросить добавки, поэтому сделал один СПЕЦИАЛЬНО для тебя.
+А то! Как чувствовал, что ты попросишь добавки, поэтому сделал один СПЕЦИАЛЬНО для тебя.
 
 少年「ちゅーにんぐ？？」%K%P
 Special?
@@ -376,7 +376,7 @@ CN PLACEHOLDER
 武「ものすげぇー味だろ、そのサンドは？　ひゃっはっはっは……♪」%K%P
 It's got quite a flavor, huh? That sandwich... Hahaha...
 CN PLACEHOLDER
-Приятный вкус, правда? Этот сэндвич... ха, ха, ха...
+Убойный вкус у сэндвича, да? Хья-ха-ха-ха...
 
 涙目で武は笑い転げた。%K%P
 Takeshi laughed so hard he cried.
@@ -386,7 +386,7 @@ CN PLACEHOLDER
 武「なんせ、マスタードにタバスコに七味にコショウにセージにナツメグにシナモンにミントにカレー粉を混ぜ合わせ……」%K%P
 It's packed with mustard, Tabasco, pepper, sage, nutmeg, cinnamon, mint, and a dose of curry powder...
 CN PLACEHOLDER
-Заправлен горчицей, мексиканским табаско, перцем, шалфеем, мускатным орехом, корицей, мятой и острой приправой карри...
+Ещё бы, я ведь туда намешал горчицы, табаско, ситими, перца, шалфея, мускатного ореха, корицы, мяты, порошка карри...
 
 武「それからさらにっ、マヨネーズにケチャップに砂糖に塩に醤油にトンカツソースにビネガーにバニラエッセンスに……」%K%P
 For good measure, I added a dose of mayonnaise, ketchup, sugar, salt, soy sauce, vinegar, and vanilla...
@@ -421,7 +421,7 @@ CN PLACEHOLDER
 少年「やりすぎだろ、武！」%K%P
 That's going too far, Takeshi!
 CN PLACEHOLDER
-По названию больше напоминает радиокативный изотоп. Такэси, ты зашёл слишком далеко!
+Это уже перебор, Такэси!
 
 武「うっさい！　食い物の恨みは、マリアナ海溝よりも深いのだ！」%K%P
 Shut up! I'm the cook here.
@@ -476,7 +476,7 @@ CN PLACEHOLDER
 武「とか言いつつも、ほんとは死ぬほど不味いんだべ？　いいんだぞ？　正直に言っても」%K%P
 But it still tastes terrible, right? Right? Tell the truth.
 CN PLACEHOLDER
-Но... всё-таки на вкус он просто ужасен. Правда? Говори как есть.
+Ага, рассказывай. На самом деле он же мерзкий до смерти, а? Да ладно тебе. Можешь честно сказать.
 
 つぐみ「本当に平気よ。だって……」%K%P
 I'm totally fine...
@@ -591,7 +591,7 @@ CN PLACEHOLDER
 空き缶とタツタサンドの包装紙を、分別してゴミ袋へ。%K%P
 I separated the cans and sandwich wrappers and put them in garbage bags.
 CN PLACEHOLDER
-Разделив банки и пищебумагу, я положил их в мусорные мешки.
+Разделив банки и обёртку, я положил их в мусорные мешки.
 
 優と沙羅は一緒に手伝っている。%K%P
 You and Sara helped.
@@ -770,7 +770,7 @@ CN PLACEHOLDER
 （……あれ？）%K%P
 (...What?)
 CN PLACEHOLDER
-(... Что?)
+(...Что?)
 
 まただ……また声が聞こえた。%K%P
 I... I was hearing voices again.
@@ -986,7 +986,7 @@ CN PLACEHOLDER
 ？？「あっ！？」%K%P
 Uh-oh!
 CN PLACEHOLDER
-Оой-йёй!
+Ой-ёй!
 
 その時、不安定な格好で台座に立っていた女の子が、バランスを崩した。%K%P
 Just then, the girl lost her balance, falling from her awkward place on the pedestal.
@@ -1061,7 +1061,7 @@ CN PLACEHOLDER
 （……あれ？）%K%P
 (...What?)
 CN PLACEHOLDER
-(... Что?)
+(...Что?)
 
 ぼくの腕の中には、誰もいない。%K%P
 There was no one in my arms.
@@ -1166,12 +1166,12 @@ CN PLACEHOLDER
 ふいに、こんな言葉がぼくの口をついて出た。%K%P
 Without thinking, I blurted out...
 CN PLACEHOLDER
-Я бессознательно произнёс -
+Я бессознательно произнёс:
 
 少年「足元、気をつけてね」%K%P
 Watch your step, okay?
 CN PLACEHOLDER
-В следующий раз смотри, куда ступаешь, хорошо?
+Смотри, куда ступаешь, хорошо?
 
 %N%N%N
 

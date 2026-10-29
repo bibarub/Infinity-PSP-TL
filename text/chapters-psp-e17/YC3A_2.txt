@@ -91,12 +91,12 @@ CN PLACEHOLDER
 空「誤差の範囲内だと思いますが……いえ、待ってください」%K%P
 Well it should be within the margin of error, but... No, wait a second.
 CN PLACEHOLDER
-Если исходить из границ погрешности... нет, секундочку.
+Если исходить из границ погрешности... Нет, секундочку.
 
 空「ツヴァイトシュトックの倉庫、圧力制御用の配管に異状があります」%K%P
 There is an anomaly in one of the pressure-regulating pipes at Zweiter Stock's warehouse.
 CN PLACEHOLDER
-Обнаружено отклонение от нормы в трубопроводе регуляции давления, на складе на Цвайте Шток.
+Обнаружено отклонение от нормы в трубопроводе регуляции давления на складе на Цвайте Шток.
 
 武「圧力制御用の配管って？」%K%P
 What are pressure-regulating pipes?
@@ -251,7 +251,7 @@ CN PLACEHOLDER
 武「どうすればいい？」%K%P
 What should I do?
 CN PLACEHOLDER
-Что нам нужно сделать?
+Что мне делать?
 
 つぐみ「パイプが少し歪んでしまっているわ……金具を締め直すから、パイプを持って支えてくれる？」%K%P
 The pipe is bent a little bit... I'm going to clamp a metal sleeve on it. Would you support the pipe for me?
@@ -276,7 +276,7 @@ CN PLACEHOLDER
 ココ「はーい、りょうかい！」%K%P
 Okaaaay, gotcha!
 CN PLACEHOLDER
-Хорошо-о, так точно-о-о!
+Хорошо-о, так то-о-очно!
 
 こうして、３人での協同作業が始まった。%K%P
 In that way, the three of us started working in unison.
@@ -321,7 +321,7 @@ CN PLACEHOLDER
 つぐみ「そうしたら、次に赤いバルブをひねって――」%K%P
 Now twist the red valve...
 CN PLACEHOLDER
-А затем я хочу, чтобы ты повернул красный вентиль...
+Теперь поверни красный вентиль...
 
 いくつもパイプを直したはずだが、シューシューという蒸気音はまだ止まない。%K%P
 We'd fixed a number of pipes, but the sound of escaping steam still hadn't stopped.
@@ -431,7 +431,7 @@ CN PLACEHOLDER
 つぐみ「武、ここをつけたらすぐに、そっちのバルブを元に戻して」%K%P
 Takeshi, after I've finished attaching this, return the valve to its original position right away.
 CN PLACEHOLDER
-Такэси, когда я закончу скреплять здесь, верни вентили в исходные положения.
+Такэси, когда я закончу скреплять здесь, верни вентили в исходное положение.
 
 武「ああ、了解だ」%K%P
 Okay.
@@ -451,7 +451,7 @@ CN PLACEHOLDER
 武「わかってる！」%K%P
 Alright! Geez!
 CN PLACEHOLDER
-Хорошо! Чёрт!
+Да знаю я!
 
 素早くバルブを逆回転させる。%K%P
 I quickly turned the valve back in the other direction.
@@ -781,7 +781,7 @@ CN PLACEHOLDER
 つぐみの右の大腿部には鉄材が深くめり込んでいた。%K%P
 A metal shard had dug deeply into Tsugumi's right thigh.
 CN PLACEHOLDER
-Кусок металла впился Цугуми в правую голень.
+Кусок металла впился Цугуми в правое бедро.
 
 とても動けそうにない。%K%P
 It didn't look like she could move.
@@ -796,7 +796,7 @@ CN PLACEHOLDER
 つぐみは顔をしかめた。傷口を押さえている。%K%P
 Tsugumi grimaced and pushed down on the wound.
 CN PLACEHOLDER
-Цугуми скорчилась и схватилась за голень.
+Цугуми скорчилась и схватилась за бедро.
 
 かなり出血しているらしい。%K%P
 She was losing a lot of blood.
@@ -1106,12 +1106,12 @@ CN PLACEHOLDER
 つぐみの白い大腿骨は、肉を突き破って露出していた。%K%P
 Tsugumi's white femur had broken through and protruded from her flesh...
 CN PLACEHOLDER
-Белая голень Цугуми порвана насквозь, из неё торчит плоть...
+Белая бедренная кость Цугуми прорвала мясо и торчала наружу.
 
 つぐみ「『大丈夫』なんて……何を根拠に言ってるの」%K%P
 'You'll be okay'... What makes you think that?
 CN PLACEHOLDER
-„Ты поправишься“... с чего ты это взял?
+„Ты поправишься“... С чего ты это взял?
 
 つぐみ「どうかしてるわね……」%K%P
 You're the one who's crazy...
@@ -1391,7 +1391,7 @@ CN PLACEHOLDER
 壁面の医療器具ラックから止血帯を取り出し、つぐみの大腿部のつけ根を強くしめあげる。%K%P
 A tourniquet was taken out from a rack of medical instruments on the wall and fastened around Tsugumi's thigh.
 CN PLACEHOLDER
-Она схватила жгут из медицинского набора на стене и обвязала им голень Цугуми.
+Она схватила жгут из медицинского набора на стене и обвязала им бедро Цугуми.
 
 優「ちょっとマズいわね……」%K%P
 This is bad...
@@ -1456,7 +1456,7 @@ CN PLACEHOLDER
 空「大腿骨に損傷。複雑骨折しているかもしれません」%K%P
 Her femur is fractured. And it looks like it might be a complex fracture.
 CN PLACEHOLDER
-Кость порвала голень. Но кажется, она может нормально срастись.
+Повреждена бедренная кость. Возможно, перелом сложный.
 
 空「それと、動脈が切れています。切開縫合が必要でしょう」%K%P
 That, and the artery is severed. She'll need sutures.
@@ -1806,7 +1806,7 @@ CN PLACEHOLDER
 空「大腿骨に損傷。複雑骨折しているかもしれません」%K%P
 Her femur is fractured. And it looks like it might be a complex fracture.
 CN PLACEHOLDER
-Кость порвала голень. Но, кажется, она может нормально срастись.
+Повреждена бедренная кость. Возможно, перелом сложный.
 
 空「それと、動脈が切れています。切開縫合が必要でしょう」%K%P
 That, and the artery is severed. She'll need sutures.
@@ -1816,7 +1816,7 @@ CN PLACEHOLDER
 優「なんとか、やってみるよ！　麻酔は？」%K%P
 I'll do my best! Do we have anesthetic?
 CN PLACEHOLDER
-Сделаю всё, что смогу! У нас есть обезболивающие?
+Сделаю всё, что смогу! У нас есть обезболивающее?
 
 空「用意します。他にもレーザーメス、鉗子、縫合糸……必要なものはすべてこの部屋にありますから」%K%P
 I'll get it ready. The laser scalpel, forceps, and sutures... Everything we need is already in the room.
@@ -1926,7 +1926,7 @@ CN PLACEHOLDER
 少年「右の太ももの内側がパックリと裂けて、黄色い脂肪と、ピンク色の肉と、真っ白い骨が見えた」%K%P
 And she got a huge gash on her right thigh, I could see the yellow of her fat, the red color of her muscle, and the white of her bone.
 CN PLACEHOLDER
-Хуже того, она получила огромную глубокую рану правой голени, я видел её подкожный жир жёлтого цвета, её мускулы красного цвета, и белые кости.
+У неё на правом бедре, с внутренней стороны, кожа разошлась, и было видно жёлтый жир, розовое мясо и белую-белую кость.
 
 少年「太い血管や、リンパ腺や、神経の束が剥き出しになってて、まるでゴムチューブみたいにぴくぴくと動いてた」%K%P
 Her blood vessels, lymph nodes, even nerve endings all hanging out and pulsating like rubber tubes.

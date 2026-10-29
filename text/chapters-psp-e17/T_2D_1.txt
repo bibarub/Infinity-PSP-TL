@@ -2572,7 +2572,7 @@ CN PLACEHOLDER
 いかん！　先につぐみに缶を蹴られたら負けてしまうっ！%K%P
 I jumped. If Tsugumi kicked the can first, I thought I'd lose.
 CN PLACEHOLDER
-Я прыгнул, решив, что могу проиграть, если она пнёт банку первой. 
+Я прыгнул, решив, что могу проиграть, если она пнёт банку первой.
 
 俺は慌てて、缶の置いてあった場所に戻る。%K%P
 I frantically ran to where the can was.

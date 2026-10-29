@@ -10,7 +10,7 @@ REPACK_AFS=./bin/repack_afs
 PACK_CNT=./bin/pack_cnt
 REPACK_SCENE=text/repack_scene.py
 PY=python3
-command -v armips >/dev/null 2>&1 && ARMIPS=armips || ARMIPS=./tools/armips/build/armips
+command -v armips >/dev/null 2>&1 && ARMIPS=armips || ARMIPS=./tools/armips/out/armips
 command -v sign_np >/dev/null 2>&1 && SIGN_NP=sign_np || SIGN_NP=./tools/sign_np/sign_np
 
 # change this for other translations
