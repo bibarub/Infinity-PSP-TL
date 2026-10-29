@@ -1666,7 +1666,7 @@ CN PLACEHOLDER
 下の、ベッドの、上の、誰か。%K%P
 Someone was on the bed below.
 CN PLACEHOLDER
-Кто-то ниже на кровати...
+Кто-то на кровати снизу...
 
 （誰だ、これは？）%K%P
 (Who's that?)
