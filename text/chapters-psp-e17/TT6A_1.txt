@@ -3143,87 +3143,87 @@ CN PLACEHOLDER
 Попробовал сжать и разжать кулаки.
 
 違和感はない……。%K%P
-Strange.
+Yeah, these were my fists all right...
 CN PLACEHOLDER
 Вроде всё в порядке.
 
 頭をぶんぶんと振る。%K%P
-The movement left me with an uncomfortable sensation, like it wasn't my own.
+I shook my head.
 CN PLACEHOLDER
 Я тряхнул головой.
 
 頬をべちべち叩いてみる。%K%P
-I shook my head.
+I tried slapping my cheek.
 CN PLACEHOLDER
 Затем похлопал по щекам.
 
 深く冷たい空気を吸い、吐き出すと、淀んだ頭の中は綺麗に掃除されていく。%K%P
-I tried slapping my cheek.
+I breathed in the cold air, then breathed out.
 CN PLACEHOLDER
 Глубоко вдохнул холодный воздух, выдохнул – и муть в голове понемногу рассеялась.
 
 床に手をつき、まだ重く痛む身体を持ち上げる。%K%P
-I breathed in the cold air, then breathed out.
+Putting my hands on the floor, I pulled up my heavy, aching body.
 CN PLACEHOLDER
 Оперевшись руками о пол, я поднял всё ещё тяжёлое, ноющее тело.
 
 足元はややおぼつかないが、なんとか立ち上がることができた。%K%P
-Strange...
+My feet faltered, but somehow, I managed to stand.
 CN PLACEHOLDER
 Ноги ещё слегка подкашивались, но я всё-таки умудрился встать.
 
 使用済みの小型注射器が、床にいくつか転がっているのを見つける。%K%P
-The inside of my head stayed dull and murky.
+I saw several used syringes scattered on the floor.
 CN PLACEHOLDER
 На полу валялось несколько использованных шприцев.
 
 そう言えば俺の腕にも、真新しい注射跡……。%K%P
-I dragged myself to consciousness, forcefully reeling myself back to clarity.
+Ah, that's right... There was a fresh injection mark on my arm.
 CN PLACEHOLDER
 А ведь и у меня на руке – свежий след от укола...
 
 抗体の接種は無事行われたようだった。%K%P
-Putting my hands on the floor, I pulled up my heavy, aching body.
+Seems like the antibody vaccine did work.
 CN PLACEHOLDER
 Похоже, антитела нам всё-таки благополучно ввели.
 
 おぼろげな記憶を手繰って思い出す。%K%P
-My feet faltered.
+I tried to remember.
 CN PLACEHOLDER
 Я потянул за ниточку смутных воспоминаний.
 
 優が精製したアンプルを、つぐみが受け取って……。%K%P
-But somehow, I managed to stand.
+Tsugumi took the ampoules that You had prepared...
 CN PLACEHOLDER
 Ю приготовила ампулы, Цугуми их взяла...
 
 俺達全員に注射を行ったはずだ。%K%P
-I looked around the infirmary.
+Then she must have injected all of us with the vaccine.
 CN PLACEHOLDER
 ...и, должно быть, сделала уколы нам всем.
 
 それから……%K%P
-I saw several used syringes scattered on the floor.
+And then...
 CN PLACEHOLDER
 А затем...
 
 それから……つぐみは……どこに行ったんだろう……。%K%P
-The Kid was still slumped against Coco's pod.
+And then... Where did she go after that?
 CN PLACEHOLDER
 А затем... Цугуми... куда же она ушла?..
 
 診療室を見回してみる。%K%P
-He looked disturbingly bad, just completely out of it.
+I looked around the infirmary.
 CN PLACEHOLDER
 Я окинул взглядом смотровой зал.
 
 少年がココのポッドに寄りかかったまま、ぐったりとしていた。%K%P
-Tsugumi was nowhere to be seen.
+The Kid was still slumped against Coco's pod.
 CN PLACEHOLDER
 Малой без сил прильнул к модулю Коко.
 
 意識はないようだが、顔色は少し戻っている。%K%P
-I wondered where she'd gone to...?
+It looked like he was unconscious, but his face had regained some color.
 CN PLACEHOLDER
 Похоже, он без сознания, но лицо уже не такое бледное.
 
@@ -3234,6 +3234,8 @@ CN PLACEHOLDER
 
 寝汗をかいていてやや苦しそうだが、峠は越えたように見える。%K%P
 She looked like she was in some pain and was perspiring in her sleep.
+// google tl: She was sweating and seemed to be in a bit of pain, but it looked like she had passed the mountain pass.
+// different from tl6a as she's not in that much pain anymore
 CN PLACEHOLDER
 Она вспотела во сне, и вид у неё измученный, но кризис, похоже, миновал.
 
