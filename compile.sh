@@ -16,7 +16,7 @@ if ! (command -v sign_np >/dev/null 2>&1 || [ -e tools/sign_np/sign_np ]); then
 	rm -rf tools/sign_np/sign_np tools/sign_np/*.o tools/sign_np/libkirk/*.a tools/sign_np/libkirk/*.o
 	make -C tools/sign_np || exit 1
 fi
-if ! (command -v armips >/dev/null 2>&1 || [ -e tools/armips/build/armips ]); then
+if ! (command -v armips >/dev/null 2>&1 || [ -e tools/armips/out/armips ]); then
 	rm -rf tools/armips/out/
 	mkdir tools/armips/out
 	cmake -S tools/armips -B tools/armips/out && \
