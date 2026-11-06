@@ -169,7 +169,6 @@ CN PLACEHOLDER
 I slyly extended my hand toward the case holding the warm tuna sandwiches.
 CN PLACEHOLDER
 Я втихаря протянул руку к выставленным на прилавке сэндвичам...
-// тут применимо слово "витрина"?
 
 背に腹はかえられないのだ！%K%P
 The situation called for extreme measures!
@@ -1283,7 +1282,7 @@ CN PLACEHOLDER
 優「倉成だって、ひとりで来たわけじゃないんでしょ？」%K%P
 And Kuranari, you weren't alone when you got here either, right?
 CN PLACEHOLDER
-И Куранари, ты ведь тоже не один сюда пришёл, правда ведь?
+И, Куранари, ты ведь тоже не один сюда пришёл, правда ведь?
 
 武「そっか、確かに、それもそうだよな」%K%P
 Well, that's true.
@@ -1479,52 +1478,52 @@ CN PLACEHOLDER
 ぼくは思わず、声をあげていた。%K%P
 Without thinking, I let out a cry.
 CN PLACEHOLDER
-Не задумываясь, я загрустил.
+Внезапно вскрикнул я.
 
 なんとなく、気になったことがあったのだ。%K%P
 For some reason, something bothered me.
 CN PLACEHOLDER
-Не знаю, но что-то меня обеспокоило.
+Почему-то меня кое-что беспокоило.
 
 少年「ここにいるみんなって……知り合いじゃ、ないよねぇ！？」%K%P
 Everybody here... You're not all friends, right?
 CN PLACEHOLDER
-;Мальчик«Слушайте... Не все же из вас друзья и знакомые, так?»%K%P
+;Мальчик«Слушайте... Не все же из вас до этого знали друг друга, так?»%K%P
 
 優「まさか、さっき会ったばっかりだよ」%K%P
 No way. We just met.
 CN PLACEHOLDER
-С чего ты взял? Мы только познакомились.
+Да ну, мы первый раз в жизни видимся.
 
 少年「じゃあどうして優は武のこと『倉成』なんて呼んでるの？」%K%P
 So then why are you talking to 'Kuranari' like you're old friends?
 CN PLACEHOLDER
-;Мальчик«Тогда почему Ю разговаривает с Такэси как с закадычным другом?»%K%P
+;Мальчик«Тогда, Ю, почему ты обращаешься к Такэси по фамилии без суффикса?»%K%P
 
 少年「それから武も……『優』とか『沙羅』とかって呼んでるし……」%K%P
 And Takeshi is talking to you guys the same way.
 CN PLACEHOLDER
-;Мальчик«А Такэси – точно так же со всеми остальными.»%K%P
+;Мальчик«А Такэси к вам с Сарой обращается по имени.»%K%P
 
 武「ああ、そっか、おまえは知らないんだよなぁ……」%K%P
 Oh, that's right, you don't know...
 CN PLACEHOLDER
-Ну, конечно же, ты ведь не в курсе...
+А, точно, ты же не знаешь...
 
 少年「えっ？」%K%P
 What?
 CN PLACEHOLDER
-;Мальчик«Не в курсе чего?»%K%P
+;Мальчик«Что?»%K%P
 
 空「先程、ツヴァイトシュトックでお会いしたときに、軽い自己紹介のようなものをしたのです」%K%P
 When we all met up on Zweiter Stock, we introduced ourselves.
 CN PLACEHOLDER
-Когда мы повстречали друг друга на Цвайте Шток, то успели представиться.
+Когда мы все встретились на Цвайте Шток, то успели представиться.
 
 少年「あ、そうなんだ……」%K%P
 Oh, so that's it...
 CN PLACEHOLDER
-;Мальчик«Ха, так вот оно что...»%K%P
+;Мальчик«А, так вот оно что...»%K%P
 
 武「そうなんだよ……」%K%P
 Yup. That's it...
@@ -1534,7 +1533,7 @@ CN PLACEHOLDER
 （ん？　でもそれにしたって、いきなり呼び捨てなんて、やけに馴れ馴れし過ぎるんじゃないかな……）%K%P
 (Hm? Still, it seems strange how they're all so friendly for having just met...)
 CN PLACEHOLDER
-(Хм? Всё же, слишком уж тёплая и дружественная встреча для первого знакомства...)
+(И всё же странно, что они так друг с другом разговаривают сразу после знакомства...)
 
 などとぼくが思っていると……。%K%P
 That was what I thought.
@@ -1544,7 +1543,7 @@ CN PLACEHOLDER
 武「って言うかさぁ、おまえの名前は？」%K%P
 What about you? What's your name anyway?
 CN PLACEHOLDER
-Кстати, как насчёт тебя? Как тебя зовут?
+Кстати, а тебя как зовут?
 
 少年「……えっ？」%K%P
 ...Huh?
@@ -1554,7 +1553,7 @@ CN PLACEHOLDER
 武「まだ聞いてなかったよなぁ、確か」%K%P
 I'm pretty sure we haven't heard yet.
 CN PLACEHOLDER
-Я уверен, что мы ещё не слышали твоего имени.
+Мне кажется, твоего имени мы ещё не слышали.
 
 少年「ぼくは……」%K%P
 I'm...
@@ -1594,7 +1593,7 @@ CN PLACEHOLDER
 少年「お、お、お、追われてなんかいないよ！」%K%P
 I'm not being h-h-hunted!
 CN PLACEHOLDER
-;Мальчик«Никто за мной не о-охотится!»%K%P
+;Мальчик«Н-н-никто за мной не охотится!»%K%P
 
 優「だから真に受けんなっつーのに、わからんやっちゃなぁ」%K%P
 I told you to quit taking things so seriously. You just don't get it.
@@ -1615,6 +1614,7 @@ CN PLACEHOLDER
 Alright. I'll explain for him.
 CN PLACEHOLDER
 Ладно... Тогда я объясню за него.
+// тут ю говорит нарочито официальным тоном, подобно соре --bibarub
 
 優「実は彼――」%K%P
 Actually, he...
@@ -1669,17 +1669,17 @@ CN PLACEHOLDER
 空「全般健忘、全生活史健忘とも言いますが……」%K%P
 Complete amnesia. It's also called retrograde life amnesia...
 CN PLACEHOLDER
-Генеразилованная амнезия. Или даже скорее автобиографическая амнезия...
+Генерализованная амнезия. Или даже скорее автобиографическая амнезия...
 
 空「これは、社会的事実についての知識はよく保たれていながら……」%K%P
 While general education and knowledge remain intact...
 CN PLACEHOLDER
-Знания и умения остаются незатронутыми...
+Знания и умения остаются на месте...
 
 空「名前・生いたち・家族や友人のことなど、自分の全生活史にわたるすべてを想起できない状態のことを指します」%K%P
 One's name, background, family, and friends, all aspects of one's life history... are wiped completely from one's memory.
 CN PLACEHOLDER
-Но имя, окружение, семья и друзья, все мелочи, из которых состоит жизнь и даже личность, полностью исчезают из памяти.
+Но имя, окружение, семья и друзья, все мелочи, из которых состоит жизнь, и даже личность полностью исчезают из памяти.
 
 空「通常は、数日から１、２ヶ月経てば、自然に記憶は回復してくるはずです」%K%P
 Normally, one's memory returns within a few days or months.
@@ -1694,7 +1694,7 @@ CN PLACEHOLDER
 少年「デ、デンゲキ……」%K%P
 E-Electric shock...
 CN PLACEHOLDER
-;Мальчик«Э-электрошок?..»%K%P
+;Мальчик«Э-электрошоковая?..»%K%P
 
 空「ふふふっ、安心して下さい」%K%P
 Hahaha. Relax.
@@ -1704,7 +1704,7 @@ CN PLACEHOLDER
 空「繰り返しますが……記憶喪失は通常、なにもしなくても自然に治るものなのです」%K%P
 To put it another way... This type of amnesia usually solves itself naturally.
 CN PLACEHOLDER
-С другой стороны, если подумать... этот тип амнезии обычно проходит сам собой.
+Опять же, обычно этот вид амнезии обычно проходит сам собой.
 
 空「従いまして、今はひとまず……」%K%P
 So for now...
@@ -1734,57 +1734,57 @@ CN PLACEHOLDER
 武「ということらしいぞ？」%K%P
 So there you have it.
 CN PLACEHOLDER
-Точно, расслабься.
+Видишь, как всё просто.
 
 少年「完全にヒトゴト、って感じの言い方だよね、それ」%K%P
 You say it like it's somebody else's problem.
 CN PLACEHOLDER
-;Мальчик«Ты говоришь так, словно это чья-то, а не моя проблема.»%K%P
+;Мальчик«Легко так сказать, когда это не твоя проблема.»%K%P
 
 武「いや、別にそういう意味で言ったのではなく……」%K%P
 That's not what I meant...
 CN PLACEHOLDER
-Я не это имел в виду...
+Да нет, не в этом дело...
 
 武「記憶ってやつはさ、不思議なもんで、別のことを考えてるときに、ほわっと蘇ってきたりするもんだろ？」%K%P
 I mean, memory's a weird thing. Sometimes, when you're thinking about something entirely different, boom, you just remember.
 CN PLACEHOLDER
-Ну, странная штука эта память. Бывает, когда думаешь о чём-то совершенно отвлечённом, бах, и вспоминаешь.
+Ну знаешь, странная штука эта память. Бывает, думаешь о чём-то совсем другом, бац, и вспоминаешь.
 
 武「例えば……芸能人とかで、顔はわかるのに、名前がどうしても思い出せないとき、とかな」%K%P
 Like with celebrities... You know their face, but you just can't remember their name...
 CN PLACEHOLDER
-Как со знаменитостями... знаешь их лица, но имена...
+Как со знаменитостями... Узнаёшь их лица, а вот имена...
 
 少年「う〜ん……そういうもんかなぁ……」%K%P
 Yeah... I wonder if that's just the way it works...
 CN PLACEHOLDER
-;Мальчик«Да уж... Если бы всё было действительно так просто...»%K%P
+;Мальчик«Хм-м... Ну не знаю, так ли всё просто...»%K%P
 
 沙羅「ところで、きみはどっから記憶を失ってるの？」%K%P
 So how far back do you remember, anyway?
 CN PLACEHOLDER
-И как далеко ты помнишь?
+Кстати, а в какой момент ты потерял память?
 
 少年「どっから？」%K%P
 How far back?
 CN PLACEHOLDER
-;Мальчик«Как далеко?»%K%P
+;Мальчик«В какой момент?»%K%P
 
 武「そういやぁ、俺や空の顔は知ってたよな？」%K%P
 Yeah. You knew Sora's and my faces, right?
 CN PLACEHOLDER
-Ну да. Ты знаешь моё лицо и лицо Соры, верно?
+Точно... Ты же узнал нас с Сорой, да?
 
 優「それに、私の名前も覚えてた……」%K%P
 And you remembered my name...
 CN PLACEHOLDER
-И ты помнишь моё имя...
+И моё имя вспомнил...
 
 少年「どっから……どっからだろう……？」%K%P
 ...How far... How far back?
 CN PLACEHOLDER
-;Мальчик«Как далеко... как далеко?»%K%P
+;Мальчик«В какой... момент?..»%K%P
 
 ぼくは時間の流れをさかのぼり、%N記憶の先端を探り始めた。%K%N
 I searched my memory for the earliest point I could remember.
@@ -1799,7 +1799,7 @@ CN PLACEHOLDER
 答えとなる映像は、たちまち頭に浮かんできた。%K%N
 Different images floated through my mind as if to provide an answer.
 CN PLACEHOLDER
-В голове бессвязно мелькают картинки прошлого...
+И вдруг на ум пришла одна конкретная картинка.
 
 %N
 
@@ -1811,7 +1811,7 @@ CN PLACEHOLDER
 ――きっとあのときに違いない！%K%O
 That had to be it.
 CN PLACEHOLDER
-Наверняка.
+Да, именно в тот момент!
 
 それより前のことは、ほとんど思い出すことができなかった。%K%N
 I couldn't remember anything before that.
@@ -1833,7 +1833,7 @@ CN PLACEHOLDER
 %FSぼくの意識はあの瞬間に、%N断ち切られてしまったのだ。%FE%T060%K%O
 My consciousness was cut off at that moment.
 CN PLACEHOLDER
-Моё сознание обрывается на этом моменте.
+Моё сознание оборвалось на том моменте. 
 
 少年「たぶん、あの池に落ちたとき、だと思う」%K%P
 I think it probably happened when I fell in the pond.
@@ -1853,7 +1853,7 @@ CN PLACEHOLDER
 少年「たぶん……」%K%P
 I think so...
 CN PLACEHOLDER
-;Мальчик«Видимо да...»%K%P
+;Мальчик«Наверное...»%K%P
 
 沙羅「前のことは、全然思い出せないの？」%K%P
 You don't remember anything before that?
@@ -1863,7 +1863,7 @@ CN PLACEHOLDER
 武「ぼんやりとしたイメージみたいなのとか、浮かんで来ないのか？」%K%P
 No vague images or anything come to mind?
 CN PLACEHOLDER
-Никаких смутных картинок или чего-то иного на ум не приходит?
+Никаких даже смутно на ум не приходит?
 
 沙羅「住んでたところの景色とか……」%K%P
 Like the scenery around your house or...
@@ -1883,7 +1883,7 @@ CN PLACEHOLDER
 武「なるほど。『筆を持たせたとたん、いきなり素人ばなれした、芸術的な絵を描き始めた』みたいなやつな？」%K%P
 I get it. Like the guy that paints like a pro the instant he takes up a brush?
 CN PLACEHOLDER
-Точно, точно. Типа парня, что начал рисовать как профи, когда впервые взялся за кисть?
+Точно, точно. Типа парня, что начал рисовать как профи, когда только взялся за кисть?
 
 沙羅「そうそうそう」%K%P
 Yeah. Like that.
@@ -1893,12 +1893,12 @@ CN PLACEHOLDER
 沙羅「だから、いろいろと見たり触れたりしてみるっていうのも手かもしれないよ？」%K%P
 So maybe you should try to see and touch lots of things?
 CN PLACEHOLDER
-Так может тебе стоит попробовать осмотреть и пощупать кучу всякой всячины?
+Так, может, тебе стоит попробовать кучу всякой всячины?
 
 武「そうだなぁ……じゃあまず、何をやらしてみようか？」%K%P
 Yeah... What should we have him do first?
 CN PLACEHOLDER
-Верняк... что мы дадим ему в первую очередь?
+Точняк... что мы ему дадим в первую очередь?
 
 ぼくの前を飛び交う言葉……。%K%P
 The conversation about me went on around me...
@@ -1908,7 +1908,7 @@ CN PLACEHOLDER
 コメカミがズキズキとうずき出した。%K%P
 My temples were throbbing.
 CN PLACEHOLDER
-Виски снова начали болеть.
+Виски снова начали пульсировать.
 
 苦痛に顔をゆがめる。%K%P
 My face was distorted with the pain.
@@ -1933,7 +1933,7 @@ CN PLACEHOLDER
 優「今、空が言ったばかりでしょ？」%K%P
 Sora just said it, right?
 CN PLACEHOLDER
-Сора же сказала, так ведь?
+Сора же только что сказала...
 
 優「『あまり気にしないこと、深く考えないこと』」%K%P
 'You really shouldn't worry or think too much about it.'
@@ -1949,16 +1949,22 @@ CN PLACEHOLDER
 A wreck?
 CN PLACEHOLDER
 Это как?
+// とんでもない
+// I-adjective (keiyoushi)
+// 1. unthinkable; unexpected; absurd; outrageous; preposterous; terrible​Usually written using kana alone
 
 優「錯乱状態って言うのかな？」%K%P
 Like mental overload, maybe?
 CN PLACEHOLDER
 Умственная перегрузка, понимаешь?
+// 錯乱状態
+// Noun, Noun which may take the genitive case particle 'no'
+// 1. state of (mental) confusion (agitation)
 
 優「『うー』とか『あー』とかうめき出して……突然、倒れちゃうの」%K%P
 Sometimes he starts groaning like he's in pain... then he suddenly collapses.
 CN PLACEHOLDER
-Иногда ему становится невыносимо больно... и вскоре он падает в обморок.
+Иногда он начинает стонать от боли... а потом падает в обморок.
 
 武「そう、なんだぁ……」%K%P
 Is that right...?
@@ -1968,17 +1974,17 @@ CN PLACEHOLDER
 優「だから、記憶のことに関しては、もう少しデリケートに扱ってあげないと……」%K%P
 So when it comes to things having to do with his memory, take it easy, or...
 CN PLACEHOLDER
-Так что будьте осторожны, когда касаетесь вещей, связанных с его памятью, иначе...
+Так что будьте осторожны, когда касаетесь вещей, связанных с его памятью...
 
 優が、ぼくの頭にそっと手を乗せた。%K%P
 You gently placed her hands on my head.
 CN PLACEHOLDER
-Ю нежно положила свои руки мне на голову.
+Ю нежно положила руку мне на голову.
 
 すると、不思議なことに、痛みは吸い込まれるように消えてしまった。%K%P
 When she did, it was strange, but it seemed to suck away the pain.
 CN PLACEHOLDER
-Странно, но от её прикосновения боль куда-то улетучивается.
+Странно, но от её прикосновения боль куда-то улетучилась.
 
 武「ＯＫ、わかった」%K%P
 Okay. Got it.
@@ -2018,12 +2024,12 @@ CN PLACEHOLDER
 空「彼のこと、これから何とお呼びすればよいのでしょうか？」%K%P
 What do you suppose we should call him?
 CN PLACEHOLDER
-И как же нам его называть?
+Как же нам его называть?
 
 優「そっか、呼び方ぐらいは決めとかないと、何かと不便だもんねぇ」%K%P
 Oh yeah. We should probably decide to call him something or else it'll kind of be a pain.
 CN PLACEHOLDER
-Ах, да. Мы должны решить, как будем звать нашего беднягу, иначе это станет натуральным кошмаром.
+Ах, да. Мы должны решить, как будем звать нашего беднягу, а то неудобно будет.
 
 武「権兵衛にするか？」%K%P
 How about John?
@@ -2053,12 +2059,12 @@ CN PLACEHOLDER
 優「なんでそれにこだわるかなぁ」%K%P
 Why are you so hung up on that?
 CN PLACEHOLDER
-Да блин, чё вы прицепились к этим кличкам...
+Да что ты заладила...
 
 優「そういうタイプじゃないでしょ、彼」%K%P
 He's not that kind of guy at all.
 CN PLACEHOLDER
-Он вовсе не такой человек.
+Он совсем не такой.
 
 沙羅「じゃあ……ポリフェノール・三郎は？」%K%P
 Well, how about John Mitochondria?
@@ -2114,11 +2120,12 @@ CN PLACEHOLDER
 How about Kid A?
 CN PLACEHOLDER
 Как вам „А-Сёнэн“?
+// не знаю, как тут обыграть то, что они к слову "мальчик" приставили букву --bibarub
 
 武「犯罪者みたいじゃないかぁ、それじゃあ」%K%P
 That makes him sound like a convict or something.
 CN PLACEHOLDER
-Смахивает на кличку заключённого.
+Так обычно заключённых называют.
 
 優「だったら、Ｂ少年」%K%P
 Then Kid B.
@@ -2173,7 +2180,7 @@ CN PLACEHOLDER
 沙羅「贅沢言わないの！　この大不況の真っ只中にぃ！」%K%P
 Don't be so picky! These are tough times for everybody!
 CN PLACEHOLDER
-Не отвергай всё и сразу! Мы старались как могли!
+Не привередничай! Мы старались как могли!
 
 少年「じゃあ……」%K%p
 Well...
@@ -2378,12 +2385,12 @@ CN PLACEHOLDER
 静まり返る室内……。%K%P
 The room went quiet...
 CN PLACEHOLDER
-Помещение затихло...
+Все в комнате замолчали...
 
 ぼくらは互いに顔を見合わせた。%K%P
 We all looked at each other.
 CN PLACEHOLDER
-Мы все переглянулись.
+Мы переглянулись.
 
 優「う、うん……そうだね……」%K%P
 Ye-Yeah... She's right...
@@ -2448,7 +2455,7 @@ CN PLACEHOLDER
 沙羅「武……なんか嫌われるようなことしたんでしょ？」%K%P
 Takeshi... did you do something to make her mad at you?
 CN PLACEHOLDER
-Такэси... сделал нечто такое, что разозлило её?
+Такэси... ты её чем-то обидел?
 
 武「してねぇーよ！」%K%P
 I didn't!
@@ -2458,7 +2465,7 @@ CN PLACEHOLDER
 武「俺にはさっぱり理解不能だけど、会ったときからあんな感じでさぁ……」%K%P
 I don't get it. She's been like that since we met...
 CN PLACEHOLDER
-Не понимаю, что происходит, но... она ведёт себя так с момента, как мы встретились...
+Не понимаю, в чём дело, но... она ведёт себя так с момента, как мы встретились...
 
 空「少し、小町さんのことは、慎重に扱った方がよさそうですね」%K%P
 It appears that we should be a little bit careful about how we treat Komachi-san.
@@ -2478,7 +2485,7 @@ CN PLACEHOLDER
 気がつくと、部屋を飛び出していた。%K%P
 The next thing I knew, I found I was rushing out of the room.
 CN PLACEHOLDER
-Следующее, что я понял – сломя голову выбегаю из комнаты.
+И уже сломя голову выбегаю из комнаты.
 
 通路の前方――つぐみは水を蹴散らして歩いている。%K%P
 Down the corridor, Tsugumi was kicking water as she walked.
@@ -2488,7 +2495,7 @@ CN PLACEHOLDER
 どこに向かおうとしているのかはわからない。%K%P
 I didn't know where she was heading.
 CN PLACEHOLDER
-Я не знаю, куда она направляется.
+Я не знаю, куда она идёт.
 
 ぼくは、その背中に向かって声をかけた。%K%P
 I called out to her back.
@@ -2503,7 +2510,7 @@ CN PLACEHOLDER
 つぐみは立ち止まらない。振り向く素振りも見せなかった。%K%P
 Tsugumi didn't stop. There was no sign that she would look back.
 CN PLACEHOLDER
-Цугуми не остановилась. Похоже, она и не собирается оглядываться.
+Цугуми не остановилась. Похоже, она и оглядываться не собирается.
 
 少年「つぐみ！　つぐみ！」%K%P
 Tsugumi! Tsugumi!
@@ -2593,7 +2600,7 @@ CN PLACEHOLDER
 視線が合うだけで、心臓がドキドキして……。%K%P
 Just our eyes meeting sent my heart pounding.
 CN PLACEHOLDER
-От одного её взгляда моё сердце начинает выпрыгивать из груди.
+От одного её взгляда сердце начинает выпрыгивать из груди.
 
 つぐみ「挨拶なんか、必要ないわ」%K%P
 There's no need.
@@ -2663,7 +2670,7 @@ CN PLACEHOLDER
 つぐみ「あなた、さっき『記憶喪失だ』って言ったわよねぇ？」%K%P
 You were just talking about amnesia, right?
 CN PLACEHOLDER
-Вы недавно разговаривали об амнезии, я права?
+Вы недавно разговаривали об амнезии, так ведь?
 
 少年「う、うん……」%K%P
 Y-Yeah...
@@ -2708,12 +2715,12 @@ CN PLACEHOLDER
 つぐみ「とにかく、私はだまされないから……」%K%P
 Anyway, I'm not falling for it...
 CN PLACEHOLDER
-Всё равно, я в это не играю...
+Так или иначе, я в это не играю...
 
 つぐみ「もう二度と、私に声をかけないで……いいわね？」%K%P
 Don't you ever talk to me again... Got it?
 CN PLACEHOLDER
-Больше никогда не говори со мной... Усёк?
+Больше никогда не говори со мной... Понял?
 
 言い残し、つぐみは去って行った。%K%P
 With that, Tsugumi strolled away.
@@ -2723,7 +2730,7 @@ CN PLACEHOLDER
 呼び止める言葉も見つからず、ぼくは黙って、小さくなって行くその背中を見つめ続けた。%K%P
 I couldn't find the words to stop her. I stared after her shrinking back in silence.
 CN PLACEHOLDER
-Я не смог подобрать подходящих слов, чтобы остановить её и тихо наблюдаю за удаляющимся силуэтом.
+Я не смог подобрать подходящих слов, чтобы остановить её, и тихо наблюдаю за удаляющимся силуэтом.
 
 会議室に戻ると、テーブルの中央にはＬｅＭＵの立体画像が浮かんでいた。%K%P
 When I returned to the conference room, there was a three-dimensional image of LeMU in the center of the table.
@@ -2763,7 +2770,7 @@ CN PLACEHOLDER
 今度は首を縦に振る。%K%P
 That time, I nodded.
 CN PLACEHOLDER
-В этот раз я с ним согласен.
+А теперь я кивнул.
 
 確かに、つぐみは難しい。本当に何を考えてるのかさっぱりわからなかった。%K%P
 Tsugumi was difficult for sure. I had no idea what she was thinking.
@@ -2783,7 +2790,7 @@ CN PLACEHOLDER
 少年「で？　なんの話してたの？　今」%K%P
 So? What were you talking about? I mean just now.
 CN PLACEHOLDER
-Ну и? О чём это вы? Вы что-то обсуждали?
+Ну и? Что вы сейчас обсуждаете?
 
 空「このような事態が発生した原因について……」%K%P
 The cause of the current situation...
@@ -2808,7 +2815,7 @@ CN PLACEHOLDER
 少年「ねえ？　悪いんだけど、それ、ぼくにも教えてくれないかなぁ？　簡単でいいからさぁ」%K%P
 Hey, do you mind filling me in on what you came up with? You can keep it simple.
 CN PLACEHOLDER
-Эй, вы не против того, чтобы посвятить меня в детали? Не знаю, насколько это сложно, но...
+А можете для меня, пожалуйста, повторить? Можно вкратце.
 
 空「わかりました」%K%P
 Sure.
@@ -2843,7 +2850,7 @@ CN PLACEHOLDER
 『いずれにせよ、これをキッカケにして、ＬｅＭＵ内のすべての来場者、職員の避難が開始されることになった』%K%P
 “In any case, the evacuation of LeMU by visitors and employees was initiated at this point.”
 CN PLACEHOLDER
-«Так или иначе, в этот момент началась спонтанная эвакуация посетителей и персонала LeMU.»
+«Так или иначе, в этот момент началась эвакуация посетителей и персонала LeMU.»
 
 『１２時５４分――緊急気密扉、開放』%K%P
 “12:54 p.m.—The emergency doors were activated.”
@@ -2859,6 +2866,7 @@ CN PLACEHOLDER
 That is referring to the emergency escape exits connected directly to the floating island.
 CN PLACEHOLDER
 Эта запись относится к аварийно-спасательным выходам, что соединены с плавучим островом.
+// что значит "аварийно-спасательный"? --bibarub
 
 空「非常階段の最上部に設けられています」%K%P
 These are located at the very upper part of the emergency stairs.
@@ -2908,7 +2916,7 @@ CN PLACEHOLDER
 少年「なんで？　すぐに逃げなきゃいけないんだよ？　どうしてわざわざ加減圧室なんかに……」%K%P
 Why? But what if you have to escape in a hurry? Why do you have to stop in the decompression chamber?
 CN PLACEHOLDER
-Почему? Что, если необходимо эвакуироваться спешно? Зачем останавливаться в барокамере?
+Почему? Что, если необходимо эвакуироваться срочно? Зачем останавливаться в барокамере?
 
 空「減圧症を防ぐ為です」%K%P
 In order to prevent decompression sickness.
@@ -2963,7 +2971,7 @@ CN PLACEHOLDER
 空「そして、この扉はその後、閉鎖されることもなく、ずっと開放され続けていたようです」%K%P
 And then the door was not closed, but was left open.
 CN PLACEHOLDER
-Между тем, аварийный коридор был оставлен открытым на несколько минут.
+Между тем аварийный коридор был оставлен открытым на несколько минут.
 
 空「これにより、約６気圧に保たれていた内部の混合ガスが、急速に外部へと放出されることになりました」%K%P
 Accordingly, the roughly six atmosphere mixture of gas inside was suddenly released outside the room.
@@ -2978,7 +2986,7 @@ CN PLACEHOLDER
 『１４時３９分――ヘリウムガスは、酸素・窒素よりも軽い為、先に放出され……やがて内部圧は、外気と同じ１気圧にまで低下した』%K%P
 “2:39 p.m.—Helium, since it is lighter than oxygen and nitrogen, was released first... and internal pressure dropped to the equivalent of the external pressure of one atmosphere.”
 CN PLACEHOLDER
-«14:39 – первым, так как имеет меньшую чем кислород и азот плотность, вышел гелий... Давление воздуха в сооружении упало до 1 атмосферы – того же уровня, что на открытом пространстве.»
+«14:39 – первым, так как имеет меньшую, чем кислород и азот, плотность, вышел гелий... Давление воздуха в сооружении упало до 1 атмосферы – того же уровня, что на открытом пространстве.»
 
 『１５時５５分――浸水事故発生』%K%P
 “3:55 p.m.—Water leak occurs.”
@@ -3018,7 +3026,7 @@ CN PLACEHOLDER
 少年「うん、なんとなく」%K%P
 Yeah, I think I get it.
 CN PLACEHOLDER
-Ага, кажется понял.
+Ага, кажется, понял.
 
 空「では、浸水事故が発生した理由も……？」%K%P
 Well then, why was there flooding...?
@@ -3058,7 +3066,7 @@ CN PLACEHOLDER
 空「ほぼ正解です」%K%P
 You are almost correct.
 CN PLACEHOLDER
-Абсолютно верно.
+Ты почти прав.
 
 空「すごいですね、少年さん。ほんとに記憶喪失なんですか？」%K%P
 Impressive, Kid-san. Are you sure you're suffering from amnesia?
@@ -3088,22 +3096,22 @@ CN PLACEHOLDER
 ぼくは首を傾げた。%K%P
 I tilted my head.
 CN PLACEHOLDER
-Я покачал головой.
+Я задумчиво наклонил голову.
 
 空「空気を満たしたペットボトルにフタをして、水の中にどんどん沈めていったらどうなるでしょうか？」%K%P
 Think about what would happen if you took a plastic bottle that was capped and filled with air, then put it deep in water.
 CN PLACEHOLDER
-Подумай, что будет, если ты возьмёшь пластиковую бутылку, заполнишь её воздухом и поместишь глубоко под воду?
+Подумай: что будет, если ты возьмёшь пластиковую бутылку, заполнишь её воздухом и поместишь глубоко под воду?
 
 少年「どうなるって……ボトルの側面のとこが、ベコッてへこんじゃうんじゃないの？」%K%P
 What would happen... The side of the bottle would dimple in, right?
 CN PLACEHOLDER
-Что будет... её сомнёт, верно?
+Что будет... её сомнёт, да?
 
 空「その通りです」%K%P
 Exactly.
 CN PLACEHOLDER
-Действительно.
+Верно.
 
 空「これは、ペットボトルの中の空気を、水圧がぐいぐいと押した為に起こる現象なのです」%K%P
 This phenomenon is due to the air inside the bottle being pushed in by the water pressure.
@@ -3138,7 +3146,7 @@ CN PLACEHOLDER
 空「これが『飽和潜水仕様の状態』ということになります。少々乱暴な解説ではありますが……」%K%P
 This is what is meant by saturation diving specifications. That's a little bit of a rough example...
 CN PLACEHOLDER
-Вот что я имела в виду под стандартами дайвинга. Конечно, это не совсем корректный пример...
+Вот что я имела в виду под стандартами дайвинга. Конечно, это довольно грубый пример...
 
 少年「なるほどねぇ、なんとなくわかったような気が……」%K%P
 I think I get it...
@@ -3208,12 +3216,12 @@ CN PLACEHOLDER
 一気に小難しい話を叩き込んだせいで、それこそ頭のどこかに亀裂が生じてしまいそうだった。%K%N
 Maybe it was because I had jumped into a complicated discussion, but somewhere in my head felt like it was tearing.
 CN PLACEHOLDER
-Может, это из-за того, что я вклинился в сложную беседу, но где-то в моей голове возникло ощущение, будто она разрывается.
+Может, это из-за того, что я вклинился в сложную беседу, но где-то в моей голове возникло ощущение, будто она раскалывается.
 
 だけど、空の説明を整理すると、%N要点はふたつしかないことがわかる。%K%N
 But thinking back on Sora's explanation, there were two key points.
 CN PLACEHOLDER
-Думая о том, что сказала Сора, я понял две вещи.
+Думая о том, что сказала Сора, я выделил два главных факта.
 
 %N
 
@@ -3240,7 +3248,7 @@ CN PLACEHOLDER
 武「ここって今、１気圧なんだ？」%K%P
 So this here is one atmosphere of pressure?
 CN PLACEHOLDER
-То есть, здесь давление в 1 атмосферу?
+То есть здесь давление в 1 атмосферу?
 
 空「ええ、そうですが、なにか……？」%K%P
 Yes, that's correct, why do you...?
@@ -3255,7 +3263,7 @@ CN PLACEHOLDER
 空「い、いえ……それは……」%K%P
 No... That...
 CN PLACEHOLDER
-Нет... то есть...
+Нет... Как бы вам сказать...
 
 空「それは……まだ……着けていて下さい……」%K%P
 Please... keep... wearing it.
@@ -3276,11 +3284,12 @@ CN PLACEHOLDER
 Only You remained silent.
 CN PLACEHOLDER
 Только Ю многозначно молчит.
+// без "многозначно"
 
 不自然に視線をそらしているようにも見える。%K%P
 It looked like she was awkwardly avoiding my gaze.
 CN PLACEHOLDER
-Кажется, будто она с ухмылкой пытается не смотреть мне в глаза.
+Кажется, будто она специально старается не смотреть в нашу сторону.
 
 空「と、とにかくそれは……はずさないで下さい」%K%P
 A-Anyway... Please just don't take them off.
@@ -3300,17 +3309,17 @@ CN PLACEHOLDER
 優「まあ、空がそう言うんだから、それでいいじゃない」%K%P
 Well, if Sora says so, that should be good enough.
 CN PLACEHOLDER
-Ну, раз уж Сора так сказала, тогда всё в порядке.
+Ну, раз уж Сора так сказала, то есть на то причины.
 
 優「別に装着してても、全然違和感ないしさぁ、これ……この変換機」%K%P
 I'm still wearing it, and I don't have any problem with it... This voice alternator.
 CN PLACEHOLDER
-Я их всё ещё ношу и не испытываю с ними никаких проблем... с этими модификаторами голоса.
+Вот у меня модификаторы голоса до сих надеты и совсем не мешаются.
 
 沙羅「う〜ん、確かに、今まで着けてたのも忘れてたぐらいだからねぇ……」%K%P
 Well, that's for sure. I had almost forgotten I was wearing it...
 CN PLACEHOLDER
-Хм-м, и правда. Я практически забыла, что ношу их...
+Хм-м, и правда. Я почти что забыла, что ношу их...
 
 優「でしょ？」%K%P
 See?
@@ -3325,7 +3334,7 @@ CN PLACEHOLDER
 武「対応策、かぁ……」%K%P
 Next step, huh...?
 CN PLACEHOLDER
-Дальнейшие действия, а?..
+Дальнейшие действия, да?..
 
 その後……。%K%P
 After that...
@@ -3345,10 +3354,10 @@ CN PLACEHOLDER
 優「助けを待つしかないってことね……」%K%P
 I guess all we can do is wait for help to come...
 CN PLACEHOLDER
-Думаю, единственное, что мы можем сделать, так это ждать помощь...
+Думаю, остаётся только сидеть и ждать помощи...
 
 当然、異論や反論が出るはずもなかった。%K%P
 Of course, there was no reason to expect a differing opinion.
 CN PLACEHOLDER
-Ха-ха, кто бы сомневался. Это и вправду единственное, что мы можем.
+Спорить с ней никто не стал.
 

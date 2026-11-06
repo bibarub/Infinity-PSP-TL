@@ -801,7 +801,7 @@ CN PLACEHOLDER
 つぐみ「一時的な名前を適当につけたりしたら、彼が本名を思い出したときにいろいろ困るわよ」%K%P
 If we come up with some random name, it'll be a hassle when he remembers his real one.
 CN PLACEHOLDER
-Если мы запомним случайное имя, это будет катастрофой, когда он вспомнит настоящее.
+Если мы придумаем имя наобум, то будет неудобно, когда он вспомнит настоящее.
 
 つぐみ「少年なんだから……」%K%P
 He is a kid...
