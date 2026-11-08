@@ -1833,7 +1833,7 @@ CN PLACEHOLDER
 %FSぼくの意識はあの瞬間に、%N断ち切られてしまったのだ。%FE%T060%K%O
 My consciousness was cut off at that moment.
 CN PLACEHOLDER
-Моё сознание оборвалось на том моменте. 
+Моё сознание оборвалось на том моменте.
 
 少年「たぶん、あの池に落ちたとき、だと思う」%K%P
 I think it probably happened when I fell in the pond.
@@ -1863,7 +1863,7 @@ CN PLACEHOLDER
 武「ぼんやりとしたイメージみたいなのとか、浮かんで来ないのか？」%K%P
 No vague images or anything come to mind?
 CN PLACEHOLDER
-Никаких даже смутно на ум не приходит?
+Ничего даже смутно на ум не приходит?
 
 沙羅「住んでたところの景色とか……」%K%P
 Like the scenery around your house or...
@@ -1883,7 +1883,7 @@ CN PLACEHOLDER
 武「なるほど。『筆を持たせたとたん、いきなり素人ばなれした、芸術的な絵を描き始めた』みたいなやつな？」%K%P
 I get it. Like the guy that paints like a pro the instant he takes up a brush?
 CN PLACEHOLDER
-Точно, точно. Типа парня, что начал рисовать как профи, когда только взялся за кисть?
+Точно, точно. Типа парня, что начал рисовать как профи, как только взялся за кисть?
 
 沙羅「そうそうそう」%K%P
 Yeah. Like that.
@@ -1951,7 +1951,7 @@ CN PLACEHOLDER
 Это как?
 // とんでもない
 // I-adjective (keiyoushi)
-// 1. unthinkable; unexpected; absurd; outrageous; preposterous; terrible​Usually written using kana alone
+// 1. unthinkable; unexpected; absurd; outrageous; preposterous; terrible​ [Usually written using kana alone]
 
 優「錯乱状態って言うのかな？」%K%P
 Like mental overload, maybe?
