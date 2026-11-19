@@ -66,12 +66,12 @@ CN PLACEHOLDER
 沙羅「せーの、チッケッピ！」%K%P
 Ready, Ro Sham Bo!
 CN PLACEHOLDER
-Камень, ножницы, бумага!
+И-и...Камень, ножницы, бумага!
 
 沙羅「あっちむいて、ホイ！」%K%P
 Ready, go!
 CN PLACEHOLDER
-Бро-сай!
+Смотри туда – хоп!
 
 少年「うわっ、また負けた！」%K%P
 I lost again!
@@ -81,7 +81,7 @@ CN PLACEHOLDER
 優「少年ってば弱っちーんだ〜、これでもう１６連敗だよ？」%K%P
 Kid, you're terrible at this. What is that? Sixteen losses in a row?
 CN PLACEHOLDER
-Малой, это просто ужасно. Что это? Злой рок? Продуть шестнадцать раз подряд?
+Малой, ну ты и слабак. Как можно продуть 16 раз подряд?
 
 少年「あれぇ……変だなぁ」%K%P
 Weird...
@@ -91,7 +91,7 @@ CN PLACEHOLDER
 優「純情すぎるんだよ。『あっちむけ』って言われて、ホイホイ向いちゃってるでしょ？」%K%P
 You're too nice. You have to just throw out what you feel: rock, paper, or scissors.
 CN PLACEHOLDER
-По-моему, ты слишком уж поддаёшься. Просто выбрасывай то, что приходит на ум – камень, ножницы или бумагу.
+Ты слишком простодушный. Тебе говорят „смотри туда“, и ты тут же послушно поворачиваешься.
 
 沙羅「騙されやすい性格でござるな」%K%P
 He's the gullible type.
@@ -101,52 +101,52 @@ CN PLACEHOLDER
 少年「そんなことないよ、ぼくはこれでも自分の意志でっ」%K%P
 I am not. I'm trying to win.
 CN PLACEHOLDER
-Вовсе нет. Я пытаюсь выиграть.
+Неправда. Я, между прочим, сам решаю, ку...
 
 優「あっちむいて、ホイ！」%K%P
 Ready, go!
 CN PLACEHOLDER
-Бро-сай!
+Смотри туда – хоп!
 
 少年「――あっ！」%K%P
 Dang it!
 CN PLACEHOLDER
-Да блин!
+Ой!
 
 『あっち』を向いてしまう、ぼく。%K%P
 I just kept losing.
 CN PLACEHOLDER
-Опять проиграл.
+И я, конечно же, поворачиваюсь.
 
 優「きみは記憶喪失中だから、ただでさえ物事の判断材料が人並み以下なんだよ？」%K%P
 Could be that, with your amnesia, your ability to make decisions isn't so good right now.
 CN PLACEHOLDER
-Должно быть из-за амнезии твоё логическое мышление сейчас даёт сбои.
+Из-за амнезии тебе и так почти не на что опереться, когда что-то решаешь.
 
 優「あまり目の前の事実に、囚われすぎないこと」%K%P
 Don't get too caught up with the trivial things that you can't control.
 CN PLACEHOLDER
-Не может справиться с обыденными вещами и контролировать их.
+Не цепляйся так за то, что видишь перед собой.
 
 優「もっと自分をしっかり持たないと、知らず知らずのうちに間違った方向に進んじゃうからね？」%K%P
 You need to be strong. Make up your own mind. Or you'll just end up following everybody else.
 CN PLACEHOLDER
-Соберись. Приди в себя. Иначе будешь следовать за всеми как хвостик.
+Стой на своём. А не то и не заметишь, как повернёшь не туда.
 
 少年「わかってるよ……」%K%P
 I know...
 CN PLACEHOLDER
-Я знаю...
+Да знаю я...
 
 優「ま、それはそれとして……」%K%P
 That being as it is...
 CN PLACEHOLDER
-Одно дело знать...
+Ну, это всё лирика, а пока...
 
 沙羅「敗者へのペナルティ、だね♪」%K%P
 Time for the LOSER'S PENALTY!
 CN PLACEHOLDER
-Время для ШТРАФНОГО!
+...штраф для проигравшего!
 
 優「はい、サンド出して？」%K%P
 Hand over your sandwich.
@@ -166,27 +166,27 @@ CN PLACEHOLDER
 沙羅「うにうに〜〜〜♪」%K%P
 Alrighty〜
 CN PLACEHOLDER
-Няям-няяям!
+Вжу-у-ух!
 
 サンドの上に、たんまりとマスタードが絞り出される。%K%P
 She squeezed a ton of mustard onto my sandwich.
 CN PLACEHOLDER
-Она выдавила на него кучу горчицы.
+Она щедро выдавила на него горчицы.
 
 すでにぼくのタツタは、マスタードの固まりにしか見えなかった。%K%P
 The penalty was mustard. And my sandwich was already drenched in the stuff.
 CN PLACEHOLDER
-Штраф – это горчица. А мой сэндвич уже насквозь ей пропитан.
+Мой сэндвич уже был больше похож на ком горчицы.
 
 食べる前から、口の中がヒリヒリと痛かった。%K%P
 My mouth felt like it was on fire before I even took a bite.
 CN PLACEHOLDER
-Во рту всё заполыхало ещё до того, как я успел сделать укус.
+Во рту всё заполыхало ещё до первого укуса.
 
 ……そんなバカなやり取りをしていたおかげか、ぼくは余計なことを考えずに済んでいた。%K%P
 ...Maybe thanks to that silly exchange, I was able to get through the whole thing without thinking about it too much.
 CN PLACEHOLDER
-...Наверное, благодаря этому несуразному обмену любезностями я смог так долго всё это терпеть.
+...Наверное, благодаря этой дурацкой возне я хотя бы не думал о лишнем.
 
 ふと、目の前を誰かが横切った。%K%P
 Suddenly, someone cut across my field of vision.
