@@ -81,7 +81,7 @@ CN PLACEHOLDER
 武「減圧症？」%K%P
 The bends?
 CN PLACEHOLDER
-Судорог?
+Кессонной болезни?
 
 空「はい」%K%P
 Yes.
@@ -101,7 +101,7 @@ CN PLACEHOLDER
 空「もしかしたら、減圧症にかかっているかもしれません」%K%P
 You may be suffering from the bends.
 CN PLACEHOLDER
-Вы можете страдать от судорог.
+Вы можете страдать от кессонной болезни.
 
 空「そこで、皆さんには念の為、この部屋の中で再加圧をしていただきたく……」%K%P
 So, just to be safe, I want to have everyone undergo repressurization in this room...
