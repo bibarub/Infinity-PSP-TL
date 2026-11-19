@@ -356,7 +356,7 @@ CN PLACEHOLDER
 武「疲れてるんじゃないか？」%K%P
 Are you worn out?
 CN PLACEHOLDER
-Ты точно в порядке? Может, ты устала?
+Может, ты устала?
 
 武「なんか、ヤバいことになってないよな？」%K%P
 Nothing bad's happened, has it?
