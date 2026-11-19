@@ -772,7 +772,7 @@ CN PLACEHOLDER
 モニターも消えた。全電源が落ちた。%K%P
 The monitor went dark. All of the power went out.
 CN PLACEHOLDER
-Монитор потух, и ток пропал.
+Монитор потух. Ток пропал.
 
 電子計器はすべて、当然のごとく沈黙した。%K%P
 The electrical equipment went silent.

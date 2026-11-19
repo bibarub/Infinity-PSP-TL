@@ -351,17 +351,17 @@ CN PLACEHOLDER
 武「具合悪くなってないか？」%K%P
 Is something wrong?
 CN PLACEHOLDER
-Ты в порядке?
+Ты как себя чувствуешь?
 
 武「疲れてるんじゃないか？」%K%P
 Are you worn out?
 CN PLACEHOLDER
-Ты уверена, что не заболела? Или не переутомилась?
+Ты точно в порядке? Может, ты устала?
 
 武「なんか、ヤバいことになってないよな？」%K%P
 Nothing bad's happened, has it?
 CN PLACEHOLDER
-Ничего плохого же не случилось, правда?
+У тебя там ничего не сломалось, а?
 
 武はイルカさんの体調を気づかっているらしい。%K%P
 It seemed that Takeshi was worried about the dolphins.
