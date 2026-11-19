@@ -891,7 +891,7 @@ CN PLACEHOLDER
 白い円形の光が壁に映った。%K%P
 A white circle of light appeared on the wall.
 CN PLACEHOLDER
-Кружок белого света появился на стене.
+На стене появился кружок белого света.
 
 懐中電灯を左右に振り、優が室内の隅々を照らす。%K%P
 You shined the flashlight left and right, lighting up all corners of the room.
@@ -1611,7 +1611,7 @@ CN PLACEHOLDER
 白い円形の光が壁に映った。%K%P
 A white circle of light appeared on the wall.
 CN PLACEHOLDER
-Кружок белого света появился на стене.
+На стене появился кружок белого света.
 
 懐中電灯を左右に振り、優が室内の隅々を照らす。%K%P
 You shined the flashlight left and right, lighting up all corners of the room.

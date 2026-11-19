@@ -651,7 +651,7 @@ CN PLACEHOLDER
 武「ダメダメ、きちんと食わなきゃ身体に毒なんだ。ほらっ！　受け取れっ！」%K%P
 No. You have to eat or you'll get weak. Here! Take it!
 CN PLACEHOLDER
-Нет. Ты должна есть, иначе ослабнешь. Вот! Держи!
+Нет уж, ты должна есть, иначе ослабнешь. Вот! Держи!
 
 武は空の胸元に、缶コーラとタツタサンドを投げた。%K%P
 He tossed a cola and tuna sandwich toward Sora.
@@ -2806,7 +2806,7 @@ CN PLACEHOLDER
 『誰も私のことを見ていなければ、私は存在しないも同然、ということです』%K%P
 “I mean that I cease to exist when no one is looking at me.”
 CN PLACEHOLDER
-«То есть я перестаю существовать, когда никто на меня не смотрит.»
+«То есть я перестаю существовать, когда никто на меня не смотрит».
 
 その言葉が、なぜかとても気になって仕方なかったのだ。%K%P
 For some reason, I just couldn't shake those words from my mind.

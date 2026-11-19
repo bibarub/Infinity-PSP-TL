@@ -766,7 +766,7 @@ CN PLACEHOLDER
 武「ダメダメ、きちんと食わなきゃ身体に毒なんだ。ほらっ！　受け取れっ！」%K%P
 No. You have to eat or you'll get weak. Here! Take it!
 CN PLACEHOLDER
-Нет уж, ты должна есть, иначе ослабнешь. Вот! держи!
+Нет уж, ты должна есть, иначе ослабнешь. Вот! Держи!
 
 俺は空の胸元に、缶コーラとタツタサンドを投げた。%K%P
 I tossed a cola and tuna sandwich toward Sora.
