@@ -141,7 +141,7 @@ CN PLACEHOLDER
 つぐみ「修理するなら、工具類が必要なんじゃないの？　私ならいろいろ、扱い方を知ってる」%K%P
 Well, if we're going to fix something, we'll need tools, right? I know my way around a workshop.
 CN PLACEHOLDER
-Раз мы собрались что-то чинить, нужны же инструменты, правда ведь? А я умею ими пользоваться.
+Раз собрались чинить, понадобятся инструменты, разве нет? А я умею ими пользоваться.
 
 武「そうだな……わかった。頼むよ」%K%P
 Alright... Let's go.

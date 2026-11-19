@@ -941,12 +941,12 @@ CN PLACEHOLDER
 言いながら、俺は天井の上に腹ばいになった。%K%P
 As I spoke, I got down on my stomach and lay flat atop the elevator.
 CN PLACEHOLDER
-Сказав это, я лёг на живот.
+Я лёг на живот на крыше кабины.
 
 小さな穴から身を乗り出すようにして、ココの方へと腕を伸ばす。%K%P
 I leaned down through the small hole and stuck my hand out to Coco.
 CN PLACEHOLDER
-Далее я протиснулся через люк и протянул Коко руку.
+Свесившись в маленький люк, я протянул руку к Коко.
 
 ココ「先に、ピピをお願い」%K%P
 Please, help Pipi first.
@@ -996,7 +996,7 @@ CN PLACEHOLDER
 だが、身長が低いせいか、ジャンプ力が乏しいせいか、俺の指先にはかすりもしない。%K%P
 But... either she was too short or just couldn't jump, because she didn't even reach my fingertips.
 CN PLACEHOLDER
-Но... либо она слишком низкорослая, либо не умеет прыгать, потому что не достаёт даже до кончиков моих пальцев.
+Но ей то ли роста не достаёт, то ли прыгает невысоко – она даже до кончиков моих пальцев не достаёт.
 
 武「あっ、そう言えば……」%K%P
 Hey, that reminds me...
@@ -2019,7 +2019,7 @@ CN PLACEHOLDER
 空はモニターに向かって、両手をかざした。%K%P
 Sora faced the monitor and held up both hands.
 CN PLACEHOLDER
-Сора повернулась к монитору и подняла обе руки.
+Сора повернулась к монитору и протянула к нему обе руки.
 
 すると瞬く間に、画面が目まぐるしく変わり、たくさんのウィンドウが開いたり閉じたりして……データの検索が開始された。%K%P
 Instantly, the content of the screen began to change, with a number of windows opening and closing while the search for data was underway.

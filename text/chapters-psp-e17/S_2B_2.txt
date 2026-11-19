@@ -6,7 +6,7 @@ CN PLACEHOLDER
 パイプは隣の発電室へと続いており、バルブを開閉することによって、水圧やら油圧やらを調節することができるらしい。%K%P
 The pipes continued into the adjacent generator room. It seemed that by opening and closing the valves, the water and oil pressure could be adjusted.
 CN PLACEHOLDER
-Сами трубы тянутся в Генераторную. Похоже, что, открывая и закрывая вентили, можно управлять давлением воды и масла.
+Сами трубы тянутся в Генераторную. Похоже, вращая вентили, можно управлять давлением воды и масла, открывая и закрывая их подачу.
 
 『通常、発電室のコンディションを保っているのはレミなのだが、さすがのレミと言えども、発電機自体が故障してしまったらどうすることもできない』%K%P
 “Normally, LeMMIH is responsible for maintaining the generator room, but even it can't do much when the generator itself goes out.”

@@ -696,7 +696,7 @@ CN PLACEHOLDER
 優「じゃ、倉成が最初の鬼ってぇことで決定！」%K%P
 Alright. So Kuranari is 'it' first.
 CN PLACEHOLDER
-Здорово. Значит, первым у нас будет Куранари.
+Ну. Значит, водить будет Куранари.
 
 ココ「わーい♪」%K%P
 Oh, goodie〜
@@ -931,7 +931,7 @@ CN PLACEHOLDER
 辺りの暗がりを見回したが、誰もいないようだ。%K%P
 I looked around in the dim light. There was no one around.
 CN PLACEHOLDER
-И огляделся в тусклом свете. Никого.
+И огляделся в тусклом свете. Похоже, никого.
 
 （それじゃ、捜すとしますか……）%K%P
 (I guess I'll have to go look...)
@@ -1136,7 +1136,7 @@ CN PLACEHOLDER
 少年「いやぁ、見つかっちゃったね……ぼくが最初かな？」%K%P
 Oh no. You caught me... Am I the first one?
 CN PLACEHOLDER
-О нет. Ты поймал меня... Я что, первый?
+Эх... Ты поймал меня... Я что, первый?
 
 武「ああ」%K%P
 Yup.
@@ -1366,7 +1366,7 @@ CN PLACEHOLDER
 すると部屋の反対側の入り口から、ぱしゃぱしゃと近づく足音……。%K%P
 As they were talking, the sound of splashing footsteps could be heard approaching the door...
 CN PLACEHOLDER
-И тут я услышал звук приближающихся к двери шагов...
+И тут от входа на другом конце комнаты послышалось шлёпанье шагов по воде...
 
 ココ「やっほーい♪」%K%P
 Heeellllloooo〜
@@ -1541,7 +1541,7 @@ CN PLACEHOLDER
 言うが早いか、優は一目散に逃亡し始める。%K%P
 As soon as she got that out of her mouth, You started to run away.
 CN PLACEHOLDER
-Не успел я опомниться, как Ю уже удирает что есть мочи.
+Не успела она договорить, как Ю уже удирает что есть мочи.
 
 武「あっこらてめーっ……！」%K%P
 You scoundrel...!

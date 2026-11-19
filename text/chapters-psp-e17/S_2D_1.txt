@@ -501,7 +501,7 @@ CN PLACEHOLDER
 優「じゃ、倉成が最初の鬼ってぇことで決定！」%K%P
 Alright. So Kuranari is 'it' first.
 CN PLACEHOLDER
-Здорово. Значит, первым будет Куранари.
+Ну. Значит, водить будет Куранари.
 
 沙羅「けってー♪」%K%P
 Then it's settled.
@@ -1156,7 +1156,7 @@ CN PLACEHOLDER
 少年「いやぁ、見つかっちゃったね……ぼくが最初かな？」%K%P
 Oh no. You caught me... Am I the first one?
 CN PLACEHOLDER
-Ой, нет. Ты поймал меня... Я что, первый?
+Эх... Ты поймал меня... Я что, первый?
 
 武「ああ」%K%P
 Yup.
@@ -1376,7 +1376,7 @@ CN PLACEHOLDER
 すると部屋の反対側の入り口から、ぱしゃぱしゃと近づく足音……。%K%P
 As they were talking, the sound of splashing footsteps could be heard approaching the door...
 CN PLACEHOLDER
-Пока они говорили, я услышал звук приближающихся к двери шагов...
+И тут от входа на другом конце комнаты послышалось шлёпанье шагов по воде...
 
 沙羅「しゅたたたた……只今参上！」%K%P
 Shweeen... I'm here!
@@ -1536,7 +1536,7 @@ CN PLACEHOLDER
 言うが早いか、優は一目散に逃亡し始める。%K%P
 As soon as she got that out of her mouth, You started to run away.
 CN PLACEHOLDER
-Не успел я это услышать, как Ю уже удирает что есть мочи.
+Не успела она договорить, как Ю уже удирает что есть мочи.
 
 武「あっこらてめーっ……！」%K%P
 You scoundrel...!
@@ -2695,7 +2695,7 @@ CN PLACEHOLDER
 少年「い〜ち、に〜ぃ、さ〜ん……」%K%P
 O-n-e, t-w-o, t-h-r-e-e...
 CN PLACEHOLDER
-Р-а-з, д-в-а, т-р-и...
+Раз, два, три...
 
 ぼくをその場に残し、武達は会議室を出て行った。%K%P
 They left the conference room, fleeing around the floor.
@@ -2705,7 +2705,7 @@ CN PLACEHOLDER
 少年「ひゃーく、っと……」%K%P
 O-n-e h-u-n-d-r-e-d...
 CN PLACEHOLDER
-С-т-о...
+Сто...
 
 目を開ける。%K%P
 I opened my eyes.
@@ -2725,7 +2725,7 @@ CN PLACEHOLDER
 辺りの暗がりを見回したが、誰もいないようだ。%K%P
 I looked around in the dim light. There was no one around.
 CN PLACEHOLDER
-Оглядевшись в тёмном пространстве, я никого не увидел.
+И огляделся в тусклом свете. Похоже, никого.
 
 （それじゃ、捜すとしますか……）%K%P
 (I guess I'll have to go look...)

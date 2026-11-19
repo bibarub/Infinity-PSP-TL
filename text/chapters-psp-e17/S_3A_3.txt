@@ -446,7 +446,7 @@ CN PLACEHOLDER
 空「申し訳ありません、寝坊してしまいました」%K%P
 I'm terribly sorry. I overslept.
 CN PLACEHOLDER
-Простите пожалуйста. Я проспала.
+Простите, пожалуйста. Я проспала.
 
 空は恥ずかしそうにうつむいた。%K%P
 Sora looked embarrassed.
@@ -576,7 +576,7 @@ CN PLACEHOLDER
 つぐみ「修理するなら、工具類が必要なんじゃないの？　私ならいろいろ、扱い方を知ってる」%K%P
 Well, if we're going to fix something, we'll need tools, right? I know my way around a workshop.
 CN PLACEHOLDER
-Если нужно что-то починить, нужны же инструменты, правда ведь? А я умею ими пользоваться.
+Раз собрались чинить, понадобятся инструменты, разве нет? А я умею ими пользоваться.
 
 武「そうだな……わかった。頼むよ」%K%P
 Alright... Let's go.
@@ -771,7 +771,7 @@ CN PLACEHOLDER
 空「何かわかったら、レミを通じて私を呼んでください」%K%P
 If something comes up, use LeMMIH to contact me.
 CN PLACEHOLDER
-Если что-то случится, воспользуйся LeMMIH, чтобы связаться с нами.
+Если что-то выяснишь, воспользуйся LeMMIH, чтобы связаться со мной.
 
 少年「わかった、それじゃ！！」%K%P
 Alright. See you later!

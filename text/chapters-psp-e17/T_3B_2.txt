@@ -376,7 +376,7 @@ CN PLACEHOLDER
 武「具合悪くなってないか？　疲れてるんじゃないか？」%K%P
 You're sure you're not sick? Or tired?
 CN PLACEHOLDER
-Ты уверена, что не заболела? Или не перетрудилась?
+Ты уверена, что не заболела? Или не переутомилась?
 
 武「なんか、ヤバいことになってないよな？」%K%P
 Nothing bad's happened, has it?

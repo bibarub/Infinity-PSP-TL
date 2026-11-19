@@ -506,7 +506,7 @@ CN PLACEHOLDER
 壁や天井も小刻みに震えて、ミシミシと軋むような音を立てていた。%K%P
 The walls and ceiling trembled slightly. Metal screeched on metal.
 CN PLACEHOLDER
-Стены и потолок сильно затрясло. Скрежет металла по металлу.
+Стены и потолок слабо дрожали и потрескивали.
 
 通路の彼方に、つぐみの背中が見えた。%K%P
 I could see Tsugumi's back down the corridor.
@@ -1021,7 +1021,7 @@ CN PLACEHOLDER
 壁や天井も小刻みに震えて、ミシミシと軋むような音を立てていた。%K%P
 The walls and ceiling trembled slightly. Metal screeched on metal.
 CN PLACEHOLDER
-Стены и потолок сильно затрясло. Скрежет металла по металлу.
+Стены и потолок слабо дрожали и потрескивали.
 
 何かを訴えるように……%K%P
 As if they were trying to say something to me...
@@ -1936,12 +1936,12 @@ CN PLACEHOLDER
 武「発電室のあるエリアに下りるには、２階の――」%K%P
 To get to the generator room's area, we have to access the second floor...
 CN PLACEHOLDER
-Чтобы добраться до генератора, сначала придётся подняться на второй этаж...
+Чтобы добраться до Генераторной, придётся идти на второй этаж...
 
 武「中性浮力式エレベーターを利用する以外、方法はないんだ」%K%P
 And the only way we can do that is by using the neutral buoyancy elevator.
 CN PLACEHOLDER
-И уже оттуда – только на механическом плавучем лифте.
+А оттуда – на механическом плавучем лифте. Другого способа нет.
 
 つぐみ「手伝って……くれるでしょ？」%K%P
 Could you... help me out?

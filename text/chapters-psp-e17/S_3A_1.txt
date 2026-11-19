@@ -66,7 +66,7 @@ CN PLACEHOLDER
 武「そんなこたぁねーよ。まだ眠いだけだ」%K%P
 I'm still sleepy.
 CN PLACEHOLDER
-Да так. Просто устал.
+Да так. Просто ещё сонный.
 
 少年「一昨日、昨日といろいろあったからね。疲れ溜まってる？」%K%P
 Well, a lot's happened in the last couple of days. Are you worn out?
@@ -76,7 +76,7 @@ CN PLACEHOLDER
 武「大丈夫だって。ちっと眠気覚ましてくる。じゃあな」%K%P
 I'm alright. I just need to freshen up, that's all. See ya.
 CN PLACEHOLDER
-Да в порядке я. Просто не проснулся окончательно. Увидимся.
+Да в порядке я. Просто ещё не пришёл в себя. Пойду взбодрюсь.
 
 そう言って、洗面所の方へと歩いていった。%K%P
 Saying that, he headed off to the bathroom.
@@ -196,7 +196,7 @@ CN PLACEHOLDER
 武「まあ、あのふたりなら、そうだな」%K%P
 Yeah, knowing those two, you're probably right.
 CN PLACEHOLDER
-Да, насчёт тех двух ты, пожалуй, права.
+Да, насчёт них ты, пожалуй, права.
 
 皆で連れ立って売店まで来た。%K%P
 We all made our way to the kiosk.
