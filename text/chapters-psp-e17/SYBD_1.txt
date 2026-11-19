@@ -533,7 +533,7 @@ CN PLACEHOLDER
 空「しかし、それでも持って数十分の差です」%K%P
 But it is only a matter of a few dozen minutes of difference.
 CN PLACEHOLDER
-Но разница лишь в нескольких сотнях минут.
+Но разница лишь в нескольких десятках минут.
 
 少年「それで充分だよ……」%K%P
 That's enough...
@@ -823,7 +823,7 @@ CN PLACEHOLDER
 ブシューーーーーッ！%K%P
 Ssssssss!
 CN PLACEHOLDER
-Ффффшш!
+Ф-ф-ф-фш-ш!
 
 通路の壁面から、水が猛烈な勢いで噴出を始めた。%K%P
 From the surface of the walls, water began to gush in.

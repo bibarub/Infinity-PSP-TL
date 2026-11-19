@@ -801,7 +801,7 @@ CN PLACEHOLDER
 優「それともきみ、いまだに天動説を信じてる派？」%K%P
 Or are you one of those people that believe the sun circles around the earth?
 CN PLACEHOLDER
-Или ты один из тех гиков, что верят в солнечные круги по всей планете?
+Или ты из этих, из геоцентристов?
 
 少年「だって……だって……現に、こうしてっ」%K%P
 But... But... Right now... this...
@@ -816,7 +816,7 @@ CN PLACEHOLDER
 手の平を前に突き出して、待ったのポーズ。%K%P
 You held her palm out at me like a traffic cop.
 CN PLACEHOLDER
-Ю показала мне своей рукой стоп-сигнал, как гаишник.
+Ю показала мне рукой стоп-сигнал.
 
 優「百歩譲って、ううん、万歩譲ってタイムスリップしたとしてもよ？」%K%P
 Okay, let's say for argument's sake that you did travel through time. So what?

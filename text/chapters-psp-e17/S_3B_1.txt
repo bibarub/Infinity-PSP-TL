@@ -1176,7 +1176,7 @@ CN PLACEHOLDER
 少年「悪いお母さんだ」%K%P
 Your mom sounds sneaky.
 CN PLACEHOLDER
-Теперь понятно, в кого ты такая хитрая.
+Хитрая у тебя мама.
 
 優「悪いお母さんよ」%K%P
 Well, she is.
