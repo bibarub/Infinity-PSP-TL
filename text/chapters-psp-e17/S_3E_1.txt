@@ -571,7 +571,7 @@ CN PLACEHOLDER
 優「えー？　そんなもの入れるんだぁ〜？　お子様ねぇ〜」%K%P
 What? You take sugar and milk? You're like a kid with a sweet tooth.
 CN PLACEHOLDER
-Чего? Хочешь с молоком и сахаром? Сладкоежка.
+Чего? Хочешь с молоком и сахаром? Ну ты чё как маленький...
 
 少年「別にいいじゃないかぁ、ぼくの勝手だろ」%K%P
 I can drink it however I want, can't I?
@@ -591,7 +591,7 @@ CN PLACEHOLDER
 優「コーヒーは苦いからコーヒーなのよ」%K%P
 Coffee is coffee because it's bitter.
 CN PLACEHOLDER
-Настоящий кофе – это чёрный и горький кофе.
+Настоящий кофе – он чёрный и горький.
 
 ふたつのカップにコーヒーを注ぎながら、優は言った。%K%P
 You said that as she poured coffee into our cups.
@@ -601,7 +601,7 @@ CN PLACEHOLDER
 優「不純物を入れたコーヒーなんて、福神漬けの付いたインドカレーみたいなものね」%K%P
 Coffee with impurities is like a hamburger made out of chicken.
 CN PLACEHOLDER
-Кофе портится от всяческих добавок, как если бы в чикенбургер добавили говяжью котлету.
+Кофе с добавками – как индийское карри с водорослями.
 
 優「まあ、きみも、いずれわかる時がくるよ」%K%P
 Someday you'll understand, Kid.
@@ -611,7 +611,7 @@ CN PLACEHOLDER
 優「はい、どーぞ、あちゅいでちゅよぉ〜？」%K%P
 Here is your wittle miwk dwink... baby.
 CN PLACEHOLDER
-Вот твоя молофьная фяфефька... деточка.
+Вот, пофалуйфта... гойяценько, деточка!
 
 少年「うるさいなぁ……」%K%P
 Oh shut up...
