@@ -891,7 +891,7 @@ CN PLACEHOLDER
 優「私のときは『ユナイテッド・ランド』だったけど……『ＬｅＭＵ』に変わったんだ？」%K%P
 When I was there, we went to United Land... but I guess they changed it to LeMU, huh?
 CN PLACEHOLDER
-Когда я училась, нас отправляли на %TS114United Land%TE... Но, похоже, теперь они сменили место на LeMU?
+Когда я училась, нас отправляли на %TS114Юнайтедлэнд%TE... Но, похоже, теперь они сменили место на LeMU?
 // United Land - какой-то еще тематический парк, на него есть заметка
 
 マヨ「先輩、見かけませんでした？　他の生徒」%K%P

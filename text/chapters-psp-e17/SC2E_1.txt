@@ -106,7 +106,7 @@ CN PLACEHOLDER
 みんなは口々に言いながら、蜘蛛の子を散らしたように逃げ去った。%K%P
 As everyone spoke, they scattered like baby spiders in the wind.
 CN PLACEHOLDER
-Закончив разговор, они растворились в воздухе, словно личинки паучков.
+Закончив разговор, они разбежались кто куда, как паучата.
 
 会議室の中には、ぼくだけが取り残された……。%K%P
 I was the only one left in the conference room...
@@ -842,7 +842,7 @@ CN PLACEHOLDER
 少年「だってこの中にいたら、きっとココは……」%K%P
 Because if we stay here, Coco, then we'll probably...
 CN PLACEHOLDER
-Коко, потому что, если мы останемся здесь...
+Потому что если мы останемся здесь, Коко...
 
 はっ！　と息を呑む。%K%P
 I sucked in my breath.

@@ -76,7 +76,7 @@ CN PLACEHOLDER
 空「この部屋で、減圧症の治療を行なうことができます」%K%P
 Here, people suffering from decompression sickness, or the bends, are treated.
 CN PLACEHOLDER
-Здесь лечат людей, страдающих от кессонной болезни и судорог.
+Здесь лечат людей, страдающих от кессонной болезни.
 
 武「減圧症？」%K%P
 The bends?

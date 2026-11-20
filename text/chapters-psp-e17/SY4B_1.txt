@@ -1495,7 +1495,7 @@ CN PLACEHOLDER
 %LC７日に……%K%N
 “On the 7th...”
 CN PLACEHOLDER
-На седьмой день...
+Седьмого числа...
 
 %LC――あなたは死ぬの%K%O
 “You will die.”

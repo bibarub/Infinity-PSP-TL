@@ -3158,7 +3158,7 @@ CN PLACEHOLDER
 追想障害：Ｅｒｉｎｎｅｒｕｎｇｓｓｔｒöｒｕｎｇ%T030%K%N
 Retrograde Memory Loss—Erinnerungsstörung
 CN PLACEHOLDER
-Erinnerungsstörung – потеря памяти
+Erinnerungsstörung – расстройство памяти
 
 健忘（Ａｍｎｅｓｉａ）：%T030%K%N
 Amnesia:
