@@ -191,7 +191,7 @@ CN PLACEHOLDER
 武「それにしても、昨日はなんともなかったのにな」%K%P
 Yesterday, everything was fine here.
 CN PLACEHOLDER
-И всё-таки, вчера не было ничего похожего.
+И всё-таки вчера не было ничего похожего.
 
 武「急に異状が起きるなんて、どうしてだと思う？」%K%P
 Why do you think something would go wrong all of a sudden?
@@ -216,12 +216,12 @@ CN PLACEHOLDER
 つぐみ「ほら、みんなで騒がしくしてたから……」%K%P
 You guys were making such a fuss...
 CN PLACEHOLDER
-От вас столько шума-гама...
+От вас столько шума...
 
 つぐみ「だからＬｅＭＵが傾いちゃったのかな？」%K%P
 It probably threw LeMU off its axis.
 CN PLACEHOLDER
-Наверное, из-за этого LeMU с оси сорвался.
+Наверное, из-за этого LeMU накренился.
 
 みんな「………………」%K%P
 ...
@@ -291,7 +291,7 @@ CN PLACEHOLDER
 空「ちょっと、倉庫内の状態をスキャンしてきますね」%K%P
 I will run a scan to determine the situation inside.
 CN PLACEHOLDER
-Я проведу сканирование чтобы определить текущий статус зоны.
+Я проведу сканирование, чтобы определить текущий статус зоны.
 
 空はそう言って姿を消す。%K%P
 Saying that, Sora disappeared.
@@ -311,7 +311,7 @@ CN PLACEHOLDER
 つぐみ「そうねぇ……」%K%P
 Hmmm...
 CN PLACEHOLDER
-Хм-м-м...
+Дай подумать...
 
 つぐみ「平気なんじゃない？」%K%P
 It's probably fine.
@@ -346,7 +346,7 @@ CN PLACEHOLDER
 空「パイプの一部が破損して、少し水が漏れています。水深は深いところで１０ｃｍ程度です」%K%P
 An area of the pipe has ruptured, and there is a slight water leak. The water is about ten centimeters at its deepest point.
 CN PLACEHOLDER
-Часть трубы повреждена, есть небольшая утечка воды. Самый глубокий уровень воды равен семнадцати сантиметрам.
+Часть трубы повреждена, есть небольшая утечка воды. Самый глубокий уровень воды равен десяти сантиметрам.
 
 つぐみ「はぁ……そんなことだろうと思ったわ」%K%P
 *Sigh*... Exactly as I thought.
@@ -366,7 +366,7 @@ CN PLACEHOLDER
 空「まぁ、そうですね……」%K%P
 No, I suppose not...
 CN PLACEHOLDER
-Нет, конечно...
+Ну, вроде, да...
 
 武「中に入ろう。修理すれば問題なくなるんだろ？」%K%P
 Let's go in. If we fix it, there won't be a problem, right?
@@ -491,7 +491,7 @@ CN PLACEHOLDER
 武「いや、そりゃお前……」%K%P
 Uh, well, it's just that...
 CN PLACEHOLDER
-Нет. Ну, просто... я...
+Э-э, ну, просто...
 
 つぐみ「どうでもいいことを訊くの、悪い癖よね」%K%P
 You know, asking meaningless questions is a bad habit of yours.

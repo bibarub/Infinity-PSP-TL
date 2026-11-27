@@ -871,12 +871,12 @@ CN PLACEHOLDER
 少年「つぐみとぼくは、過去にタイムスリップしたんだ！」%K%P
 You and I must have traveled to the past, Tsugumi!
 CN PLACEHOLDER
-Цугуми, должно быть мы оба пережили провал во времени!
+Цугуми, мы с тобой перенеслись в прошлое!
 
 つぐみ「……タイム……スリップ？」%K%P
 ...Traveled... to the past?
 CN PLACEHOLDER
-...провал... во времени?
+...Перенеслись... в прошлое?
 
 少年「うん」%K%P
 Yup.
@@ -976,7 +976,7 @@ CN PLACEHOLDER
 少年「……ど、どうしてさ？」%K%P
 ...Why?
 CN PLACEHOLDER
-...почему?
+...Почему?
 
 つぐみ「あなた、やけに理由にこだわるのね？　理由なんて、どうでもいいの」%K%P
 You really get bogged down in the 'why' of things, don't you? The 'why' is not important.
@@ -1081,7 +1081,7 @@ CN PLACEHOLDER
 つぐみ「７日に……」%K%P
 On the 7th...
 CN PLACEHOLDER
-На седьмой день...
+Седьмого числа...
 
 つぐみ「――あなたは死ぬの」%K%P
 You will die.

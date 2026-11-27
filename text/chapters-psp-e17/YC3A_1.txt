@@ -466,7 +466,7 @@ CN PLACEHOLDER
 ココ「『ポポ』じゃないよぉ……」%K%P
 His name's not 'Popo'...
 CN PLACEHOLDER
-Его зовут не „Попо“...
+Его зовут не Попо...
 
 ココ「この子はピピ、私はココ……ごっちゃにしないでよね？」%K%P
 This little guy's name is Pipi, and my name's Coco... Try not to mix them up, okay?
@@ -557,12 +557,12 @@ CN PLACEHOLDER
 言いながら、俺は天井の上に腹ばいになった。%K%P
 I said that and got down on my stomach from atop the elevator.
 CN PLACEHOLDER
-Я лёг на живот и стал протискиваться через верх лифта.
+Я лёг на живот на крыше кабины.
 
 小さな穴から身を乗り出すようにして、ココの方へと腕を伸ばす。%K%P
 I leaned down from the small hole and stuck my hand out to Coco.
 CN PLACEHOLDER
-Едва не застряв в маленькой дыре, я протянул Коко свою руку.
+Свесившись в маленький люк, я протянул руку к Коко.
 
 ココ「先に、ピピをお願い」%K%P
 Please, help Pipi first.
@@ -602,7 +602,7 @@ CN PLACEHOLDER
 だが、身長が低いせいか、ジャンプ力が乏しいせいか、俺の指先にはかすりもしない。%K%P
 But... either she was too short or just couldn't jump, because she didn't even reach my fingertips.
 CN PLACEHOLDER
-Но... либо она слишком низкорослая, либо не умеет прыгать, потому что Коко даже не касается кончиков моих пальцев.
+Но ей то ли роста не достаёт, то ли прыгает невысоко – она даже до кончиков моих пальцев не достаёт.
 
 ココ「とりゃ！」%K%P
 Toriiyaa!

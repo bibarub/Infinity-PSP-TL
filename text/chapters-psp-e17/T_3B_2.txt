@@ -371,22 +371,22 @@ CN PLACEHOLDER
 武「そ、空っ！　ほんとに大丈夫か？」%K%P
 S-Sora! Are you okay?
 CN PLACEHOLDER
-С-Сора! Ты в порядке?
+С-Сора! Ты точно в порядке?
 
 武「具合悪くなってないか？　疲れてるんじゃないか？」%K%P
 You're sure you're not sick? Or tired?
 CN PLACEHOLDER
-Ты уверена, что не заболела? Или не перетрудилась?
+Ты как себя чувствуешь? Может, ты устала?
 
 武「なんか、ヤバいことになってないよな？」%K%P
 Nothing bad's happened, has it?
 CN PLACEHOLDER
-Ничего плохого же не случилось, правда?
+У тебя там ничего не сломалось, а?
 
 武「重大なエラーがないかどうか……レミに診てもらおうか？」%K%P
 Maybe we should get LeMMIH to check you out... to make sure there's not some serious error...
 CN PLACEHOLDER
-Может, нам стоит дать команду LeMMIH на проверку... чтобы убедиться, нет ли каких серьёзных ошибок?
+Может... пусть LeMMIH тебя посмотрит? Вдруг у тебя там какая-то серьёзная ошибка.
 
 空「もう……！　倉成さんったら……」%K%P
 Why, Kuranari-san...!

@@ -371,7 +371,7 @@ CN PLACEHOLDER
 少年「独りぼっちじゃない」%K%P
 You're not alone.
 CN PLACEHOLDER
-Ты не она.
+Ты не одна.
 
 ぼくは決して、白馬の王子様じゃないけれど……ひとりじゃ何もできないけれど……%K%P
 I was no prince on a white horse... and there wasn't much I could do by myself...
@@ -1495,7 +1495,7 @@ CN PLACEHOLDER
 %LC７日に……%K%N
 “On the 7th...”
 CN PLACEHOLDER
-На седьмой день...
+Седьмого числа...
 
 %LC――あなたは死ぬの%K%O
 “You will die.”

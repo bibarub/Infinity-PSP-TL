@@ -56,7 +56,7 @@ CN PLACEHOLDER
 あとは、ＬｅＭＵに接続されているロックを開放すれば、自然と『卵』は沈んで行くはずだ。%K%P
 All we had to do was release the lock connecting us to LeMU, and the “egg” would sink away.
 CN PLACEHOLDER
-Осталось лишь разблокировать шлюз, соединённый с LeMU, и «Яйцо» само должно начать погружаться.
+Осталось лишь разблокировать шлюз, соединённый с LeMU, и «яйцо» само должно начать погружаться.
 
 優は、扉の脇に付いていた作動レバーを引いた。%K%P
 You pulled the operating lever next to the door.
@@ -86,7 +86,7 @@ CN PLACEHOLDER
 何も、起こらなかった。%K%P
 Nothing happened.
 CN PLACEHOLDER
-Но ничего не произошло.
+Ничего не произошло.
 
 武「なんだよ、全然沈まないじゃないか」%K%P
 What's going on? We're not sinking at all.
@@ -1296,7 +1296,7 @@ CN PLACEHOLDER
 沙羅「なにせ、伊賀流忍術免許皆伝見込み保持者ゆえ」%K%P
 I'm a licensed Iga Ninja!
 CN PLACEHOLDER
-Я почти получил звание мастера ниндзюцу школы Ига.
+Я почти получила звание мастера ниндзюцу школы Ига.
 
 武「な、なんだぁ、そりゃ……？」%K%P
 Wh-What's that?
@@ -3058,5 +3058,5 @@ CN PLACEHOLDER
 ……どうやら、そういうことらしい。%K%P
 ...Anyway, that was the gist of the explanation.
 CN PLACEHOLDER
-...Так или иначе, суть примерно в этом.
+...Судя по всему, так и есть.
 

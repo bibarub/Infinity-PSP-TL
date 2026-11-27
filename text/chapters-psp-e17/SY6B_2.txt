@@ -66,7 +66,7 @@ CN PLACEHOLDER
 優「『うみつきの、こくうにすずし、ほととぎす』」%K%P
 'The empty fall sky%NA single cuckoo calls out%NBrings a chill to me'.
 CN PLACEHOLDER
-В небе пустом над лунным морем%Nпрохладой веет осенней порой...%NКричит кукушка..
+Над морем лунным в небе далёком%Nвеет осенней прохладой...%NКричит кукушка.
 
 優「パスワードはこれで合ってるはず」%K%P
 That should be the password.
@@ -576,7 +576,7 @@ CN PLACEHOLDER
 ピーン！%K%P
 Beep!
 CN PLACEHOLDER
-Биип!
+Би-ип!
 
 優の声にパネルが反応する。ランプの色が赤から緑に変わる。そして……%K%P
 Responding to her voice, the lamp turned green, and then...
@@ -656,12 +656,12 @@ CN PLACEHOLDER
 （『秋』という名前の『春』があっても、いいんじゃないのか？）%K%P
 (I thought that if a name had autumn, or “aki”, in it, there might as well be one with spring, or “haru”, in it.)
 CN PLACEHOLDER
-(Если в имени есть время года... осень, «аки»... ложь – истина... значит там вполне может быть и её противоположность... весна...«хару».)
+(Пусть не «хару», а «аки» – разве Ю от этого перестаёт быть собой?)
 
 やがてぼくは、そんな風に考えるようになっていた。%K%P
 Gradually, I became convinced that it could be right.
 CN PLACEHOLDER
-Постепенно... я согласился с этой мыслью.
+Постепенно я стал думать именно так.
 
 制御室に戻ると、ぼくらは再度、脱出方法について検討してみることにした。%K%P
 When we got back to the control room, we decided to review escape routes.

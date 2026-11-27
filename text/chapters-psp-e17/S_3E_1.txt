@@ -571,7 +571,7 @@ CN PLACEHOLDER
 優「えー？　そんなもの入れるんだぁ〜？　お子様ねぇ〜」%K%P
 What? You take sugar and milk? You're like a kid with a sweet tooth.
 CN PLACEHOLDER
-Чего? Хочешь с молоком и сахаром? Сладкоежка.
+Чего? Хочешь с молоком и сахаром? Ну ты чё как маленький...
 
 少年「別にいいじゃないかぁ、ぼくの勝手だろ」%K%P
 I can drink it however I want, can't I?
@@ -591,7 +591,7 @@ CN PLACEHOLDER
 優「コーヒーは苦いからコーヒーなのよ」%K%P
 Coffee is coffee because it's bitter.
 CN PLACEHOLDER
-Настоящий кофе – это чёрный и горький кофе.
+Настоящий кофе – он чёрный и горький.
 
 ふたつのカップにコーヒーを注ぎながら、優は言った。%K%P
 You said that as she poured coffee into our cups.
@@ -601,7 +601,7 @@ CN PLACEHOLDER
 優「不純物を入れたコーヒーなんて、福神漬けの付いたインドカレーみたいなものね」%K%P
 Coffee with impurities is like a hamburger made out of chicken.
 CN PLACEHOLDER
-Кофе портится от всяческих добавок, как если бы в чикенбургер добавили говяжью котлету.
+Кофе с добавками – как индийское карри с маринованными овощами.
 
 優「まあ、きみも、いずれわかる時がくるよ」%K%P
 Someday you'll understand, Kid.
@@ -611,7 +611,7 @@ CN PLACEHOLDER
 優「はい、どーぞ、あちゅいでちゅよぉ〜？」%K%P
 Here is your wittle miwk dwink... baby.
 CN PLACEHOLDER
-Вот твоя молофьная фяфефька... деточка.
+Вот, пофалуйфта... гойяценько, деточка!
 
 少年「うるさいなぁ……」%K%P
 Oh shut up...
@@ -756,7 +756,7 @@ CN PLACEHOLDER
 少年「ぼくは……タイムスリップ、したのかもしれない」%K%P
 I think that... maybe I traveled through time.
 CN PLACEHOLDER
-Я думаю... что пережил провал во времени.
+Может быть, я... переместился во времени.
 
 優「…………」%K%P
 .........
@@ -801,7 +801,7 @@ CN PLACEHOLDER
 優「それともきみ、いまだに天動説を信じてる派？」%K%P
 Or are you one of those people that believe the sun circles around the earth?
 CN PLACEHOLDER
-Или ты один из тех гиков, что верят в солнечные круги по всей планете?
+Или ты из этих, из геоцентристов?
 
 少年「だって……だって……現に、こうしてっ」%K%P
 But... But... Right now... this...
@@ -816,7 +816,7 @@ CN PLACEHOLDER
 手の平を前に突き出して、待ったのポーズ。%K%P
 You held her palm out at me like a traffic cop.
 CN PLACEHOLDER
-Ю показала мне своей рукой стоп-сигнал, как гаишник.
+Ю показала мне рукой стоп-сигнал.
 
 優「百歩譲って、ううん、万歩譲ってタイムスリップしたとしてもよ？」%K%P
 Okay, let's say for argument's sake that you did travel through time. So what?

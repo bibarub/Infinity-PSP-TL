@@ -176,7 +176,7 @@ CN PLACEHOLDER
 いや、告げなければならない。それが優の為だと思う。%K%P
 No, I had to tell her. That was better for You in the long run.
 CN PLACEHOLDER
-(Нет, лучше не стоит. В конце концов, для Ю так будет лучше... по крайней мере, пока мы не выберемся отсюда.)
+Нет, сказать нужно. Думаю, так будет лучше для Ю.
 
 だけど、それよりも何よりも、まずは自分のことを解決しなければどうにもならない。%K%P
 But first, I had to take care of my own problems.
@@ -2551,7 +2551,7 @@ CN PLACEHOLDER
 武「現実的に考えれば『１７年前と同じことが起きている』と、お前に信じ込ませることは不可能なんだよ」%K%P
 Practically speaking, it's impossible to trick you into believing the same incident from seventeen years ago is taking place.
 CN PLACEHOLDER
-Как я могу заставить тебя поверить, что „происходит то же самое что и 17 лет назад“? Это же просто невозможно!
+Как я могу заставить тебя поверить, что „происходит то же самое, что и 17 лет назад“? Это же просто невозможно!
 
 武「わかるか？」%K%P
 Do you get it?
@@ -2651,17 +2651,17 @@ CN PLACEHOLDER
 少年は指先で、漢字を書いて示した。%K%P
 The Kid repeated it slowly.
 CN PLACEHOLDER
-Медленно повторил Малой.
+Малой начертил иероглифы кончиком пальца.
 
 桑古木「『桑』……『古』い……『木』……『涼』しい……%N『権』……」%K%P
 Ka-bu-ra-ki... Ryo-go...
 CN PLACEHOLDER
-„Старое“... „тутовое“... „дерево“... „светлая“... „голова“...
+„Тутовое“... „старое“... „дерево“... „прохлада“... „время“...
 
 武「桑古木涼権……」%K%P
 Kaburaki Ryogo...
 CN PLACEHOLDER
-А вместе читается как Кабураки Рёго...
+Всё вместе читается как „Кабураки Рёго“...
 
 武「うん、そうか……」%K%P
 I see...
@@ -2671,7 +2671,7 @@ CN PLACEHOLDER
 武「よかったじゃないか」%K%P
 Way to go.
 CN PLACEHOLDER
-Вот так имечко! Но всё равно у Ю круче.
+Вот и хорошо.
 
 俺は笑みを浮かべ、少年の頭をなでてやった。%K%P
 I smiled and patted his head.

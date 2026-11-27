@@ -256,7 +256,7 @@ CN PLACEHOLDER
 沙羅「私と先輩は、新入生のクラブ勧誘をきっかけに、知り合ったの」%K%P
 Senpai was leader of the school club I joined as a freshman.
 CN PLACEHOLDER
-Няку была лидером школьного клуба, к которому я присоединилась на первом году.
+Мы с сэмпаем познакомились, когда она набирала в клуб первокурсниц.
 
 サンドを平らげた沙羅は、コーラの缶を両手に持ち替えると、そっと遠い目で天井を見上げた。%K%P
 After eating the sandwiches, Sara held the cola can with both hands and gazed at the ceiling with a distant look in her eyes.
@@ -1081,7 +1081,7 @@ CN PLACEHOLDER
 部長「デキル人は、みーんな卒業しちゃってね」%K%P
 Everybody that could already graduated.
 CN PLACEHOLDER
-Но мы и так скоро выпустимся.
+Все толковые-то у нас уже выпустились.
 
 松永「…………」%K%P
 .........
@@ -1471,7 +1471,7 @@ CN PLACEHOLDER
 首をかしげるぼくの頭を、ポンポンと軽く叩く優。%K%P
 You shrugged and patted me on the head.
 CN PLACEHOLDER
-Ю вздрогнула и похлопала меня по голове.
+Я озадаченно склонил голову, и Ю легонько похлопала меня по макушке.
 
 沙羅「先輩、私は？」%K%P
 What about me?

@@ -4191,7 +4191,7 @@ CN PLACEHOLDER
 つぐみは大きく目を見開いた。%K%P
 Tsugumi's eyes widened.
 CN PLACEHOLDER
-Цугуми выпучилась на меня широко раскрытыми глазами.
+Цугуми выпучилась на него широко раскрытыми глазами.
 
 武「なに驚いてんだよ、つぐみ」%K%P
 What are you so surprised about, Tsugumi?
@@ -4581,7 +4581,7 @@ CN PLACEHOLDER
 武「ポチッとな」%K%P
 Click!
 CN PLACEHOLDER
-Проще простого!
+Пуск!
 
 妙なかけ声とともに、武がコンソールのエンターキーを叩く。%K%P
 Letting out a strange shout, Takeshi pounded the enter key on the console.
@@ -4606,7 +4606,7 @@ CN PLACEHOLDER
 武にも、今の優美清春香菜の声が聞こえていたのだろうか？%K%P
 Had Takeshi been able to hear You's voice?
 CN PLACEHOLDER
-Неужели Такэси слышал голос Ю?
+Неужели Такэси слышал голос Юбисэйхаруканы?
 
 武はポケットに、そのディスクをねじ込んだ。%K%P
 He stuffed the disc in his pocket.
@@ -4756,7 +4756,7 @@ CN PLACEHOLDER
 武「ボタンを叩くときのかけ声は『ポチッとな』だ。覚えておくように」%K%P
 When you hit a button, don't forget to say 'click'. Remember that.
 CN PLACEHOLDER
-Когда жмёшь кнопку, не забудь сказать „проще простого“. Запомнишь?
+Когда жмёшь кнопку, не забудь сказать „пуск“. Запомнишь?
 
 空「ええ……ふふふっ」%K%P
 Yeah... Heh heh.

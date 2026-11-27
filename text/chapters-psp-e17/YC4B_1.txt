@@ -921,7 +921,7 @@ CN PLACEHOLDER
 優「『優』しく、『美』しく、『清』らかな、『秋』、『香』る、『菜』の花」%K%P
 It means 'gentle beautiful pure autumn fragrant green blossom'.
 CN PLACEHOLDER
-„Нежная“, „красивая“, „чистая“, „осень“, „благоухающая“, „зелёная“.
+„Нежная“, „красивая“, „чистая“, „осень“, „благоухающая“, „цвета рапса“.
 
 少年「―――――ええっ！？」%K%P
 Huuuh!?
@@ -2026,12 +2026,12 @@ CN PLACEHOLDER
 武「やっぱり、鳥のツグミから取った名前なのか？」%K%P
 Does it come from Chinese character for the bird, the redwing?
 CN PLACEHOLDER
-По-китайски это случаем не порода птицы? Дрозд-белобровик, кажется...
+Так тебя, выходит, назвали в честь птицы, дрозда?
 
 つぐみ「鳥？」%K%P
 The bird?
 CN PLACEHOLDER
-Дрозд?
+Дрозда?
 
 武「俺の記憶が正しければ、確か渡り鳥だったはずだけど？」%K%P
 If I remember correctly, they migrate, right?

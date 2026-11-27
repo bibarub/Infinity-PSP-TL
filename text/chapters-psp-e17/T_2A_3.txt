@@ -31,7 +31,7 @@ CN PLACEHOLDER
 あとは、ＬｅＭＵに接続されているロックを開放すれば、自然と『卵』は沈んで行くはずだ。%K%P
 All we had to do was release the lock connecting us to LeMU, and the “egg” would sink away.
 CN PLACEHOLDER
-Осталось лишь разблокировать замок, соединяющий «яйцо» с сооружением.
+Осталось лишь разблокировать шлюз, соединённый с LeMU, и «яйцо» само должно начать погружаться.
 
 つぐみは、扉の脇に付いていた作動レバーを引いた。%K%P
 Tsugumi pulled the operating lever next to the door.
@@ -381,7 +381,7 @@ CN PLACEHOLDER
 ゆっくりとゆっくりと、潜行を始める『ＥＩ』……。%K%P
 Ei began to descend ever so slowly...
 CN PLACEHOLDER
-Наконец, лифт стал опускаться. Правда, чересчур медленно...
+Он стал опускаться. Правда, чересчур медленно...
 
 窓の外を覗くと、青い視界の向こうにＬｅＭＵの外観が見えた。%K%P
 Peeking through the window and into the blue, we could see the outside of LeMU.
@@ -1371,7 +1371,7 @@ CN PLACEHOLDER
 パイプは隣の発電室へと続いており、バルブを開閉することによって、水圧やら油圧やらを調節することができるらしい。%K%P
 The pipes continued into the generator room next door. It seemed that opening and closing the valves could adjust the water and oil pressure.
 CN PLACEHOLDER
-Сами трубы тянутся в Генераторную. Похоже, с помощью вентилей можно управлять давлением воды и масла, открывая и закрывая их подачу.
+Сами трубы тянутся в Генераторную. Похоже, вращая вентили, можно управлять давлением воды и масла, открывая и закрывая их подачу.
 
 『通常、発電室のコンディションを保っているのはレミなのだが、さすがのレミと言えども、発電機自体が故障してしまったらどうすることもできない』%K%P
 “Normally, LeMMIH is responsible for maintaining the generator room, but even LeMMIH can't do much when the generator itself goes out.”

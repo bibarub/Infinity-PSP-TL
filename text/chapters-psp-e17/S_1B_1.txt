@@ -928,7 +928,7 @@ CN PLACEHOLDER
 空「ゆえに、不可能なのです」%K%P
 Therefore, I say it is impossible.
 CN PLACEHOLDER
-Поэтому я сказала, что это невозможно.
+Вот почему это невозможно.
 
 空「それに……もしも仮に第４区画までたどりつけたとしても、事態が好転するようなことはないと思われます」%K%P
 Furthermore... even if someone did reach Sector Four, I don't think it would improve our situation at all.
@@ -1659,7 +1659,7 @@ CN PLACEHOLDER
 空「恐らく、追想障害のひとつ、全般健忘でしょう」%K%P
 It sounds like it's probably complete amnesia, a type of retrograde block.
 CN PLACEHOLDER
-По симптомам это похоже на генерализованную амнезию, вид диссоциативной амнезии.
+Вероятно, это одно из расстройств памяти – генерализованная амнезия.
 
 少年「？？？」%K%P
 ?
@@ -1669,7 +1669,7 @@ CN PLACEHOLDER
 空「全般健忘、全生活史健忘とも言いますが……」%K%P
 Complete amnesia. It's also called retrograde life amnesia...
 CN PLACEHOLDER
-Генеразилованная амнезия. Или даже скорее автобиографическая амнезия...
+Генерализованная, она же автобиографическая амнезия...
 
 空「これは、社会的事実についての知識はよく保たれていながら……」%K%P
 While general education and knowledge remain intact...

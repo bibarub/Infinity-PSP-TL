@@ -891,7 +891,7 @@ CN PLACEHOLDER
 優「私のときは『ユナイテッド・ランド』だったけど……『ＬｅＭＵ』に変わったんだ？」%K%P
 When I was there, we went to United Land... but I guess they changed it to LeMU, huh?
 CN PLACEHOLDER
-Когда я училась, нас отправляли на %TS114United Land%TE... Но, похоже, теперь они сменили место на LeMU?
+Когда я училась, нас отправляли на %TS114Юнайтедлэнд%TE... Но, похоже, теперь они сменили место на LeMU?
 // United Land - какой-то еще тематический парк, на него есть заметка
 
 マヨ「先輩、見かけませんでした？　他の生徒」%K%P
@@ -2186,7 +2186,7 @@ CN PLACEHOLDER
 沙羅「『影のある男』的な匂いがするもん」%K%P
 It sounds kind of like an international man of mystery kind of thing.
 CN PLACEHOLDER
-Ты будто международный человек-загадка!
+Ты прям какой-то „парень с тёмным прошлым“!
 
 沙羅「ほら、例えばさぁ……闇の組織に追われてる、暗殺者みたいな」%K%P
 Like maybe... You could be being hunted by an underground organization, or assassins, or something.

@@ -386,7 +386,7 @@ CN PLACEHOLDER
 『海月の虚空に秋涼し時鳥／うみつきのこくうにすずしほととぎす』だ。%K%P
 “The empty fall sky%NA single cuckoo calls out%NBrings a chill to me”.
 CN PLACEHOLDER
-«В небе пустом над лунным морем%Nпрохладой веет осенней порой...%NКричит кукушка».
+«Над морем лунным в небе далёком%Nвеет осенней прохладой...%NКричит кукушка».
 
 読み方を変えてみたり、ひらがなにしてみたり、カタカナにしてみたり、ローマ字、大文字、小文字、半角、全角、英訳文、独訳文……。%K%P
 She kept trying different variations: caps, lowercase, varying widths, English, German...
@@ -956,7 +956,7 @@ CN PLACEHOLDER
 優「『海月の虚空に秋涼し時鳥』」%K%P
 ‘The empty fall sky%NA single cuckoo calls out%NBrings a chill to me’.
 CN PLACEHOLDER
-„В небе пустом прохладой медуза веет осенней порой... Кричит кукушка“.
+„Над морем лунным в небе далёком веет осенней прохладой... Кричит кукушка“.
 
 少年「えっ？　どういうこと？」%K%P
 Huh? What do you mean?
@@ -1196,12 +1196,12 @@ CN PLACEHOLDER
 『海月の虚空に秋涼し時鳥』%K%P
 “The empty fall sky%NA single cuckoo calls out%NBrings a chill to me”.
 CN PLACEHOLDER
-«В небе пустом прохладой медуза веет осенней порой... Кричит кукушка...
+«Над морем лунным в небе далёком веет осенней прохладой... Кричит кукушка»...
 
 海……月……虚……空……秋……涼……時……鳥……。%K%P
 I broke it down by character. Empty... Fall... Sky... Single... Cuckoo... Calling... Brings... Chill...
 CN PLACEHOLDER
-Небо... Пустое... Прохлада... Медуза... Осень... Кукушка...
+Море... Луна... Даль... Небо... Осень... Прохлада... Кукушка...
 
 脈絡なく飛び交う思考の断片。%K%P
 A jumble of bits and illogical fragments.
@@ -1236,12 +1236,12 @@ CN PLACEHOLDER
 少年「海月の虚空に秋涼し時鳥」%K%P
 The empty fall sky%NA single cuckoo calls out%NBrings a chill to me.
 CN PLACEHOLDER
-В небе пустом прохладой%Nмедуза веет осенней порой...%NКричит кукушка...
+Над морем лунным в небе далёком%Nвеет осенней прохладой...%NКричит кукушка...
 
 少年「うみつきの、こくうにすずし、ほととぎす」%K%P
 The empty fall sky%NA single cuckoo calls out%NBrings a chill to me.
 CN PLACEHOLDER
-В небе пустом над лунным морем%Nпрохладой веет осенней порой...%NКричит кукушка...
+Над морем лунным... в небе далёком...%Nвеет осенней прохладой...%NКричит кукушка...
 
 と、そのときだった……。%K%P
 It was then...
@@ -1371,13 +1371,12 @@ CN PLACEHOLDER
 ？？「ホクトのこすうみ、すぎしときに、つうず」%K%P
 The empty fall sky%NA lone Hokuto calls out%NBrings a chill to me.
 CN PLACEHOLDER
-Море и луна... сливаются в иллюзорном осеннем небе... неся, словно птица сквозь пелену времени... тихий океанский бриз.
-//ну тут уж точно не это хайку, надо будет посидеть подразобраться
+Над морем лунным в небе далёком%Nвеет осенней прохладой...%NКричит Хокуто.
 
 ココ「うみつきの、こくうにすずし、ほととぎす」%K%P
 The empty fall sky%NA single cuckoo calls out%NBrings a chill to me.
 CN PLACEHOLDER
-В небе пустом прохладой медуза веет осенней порой... Кричит кукушка...
+Над морем лунным в небе далёком%Nвеет осенней прохладой...%NКричит кукушка.
 
 武「……は？」%K%P
 ...Huh?
@@ -1397,7 +1396,7 @@ CN PLACEHOLDER
 ココ「『海月の虚空に秋涼し時鳥』って、言ったんだよ？」%K%P
 The empty fall sky%NA single cuckoo calls out%NBrings a chill to me?
 CN PLACEHOLDER
-Ты про „В небе пустом прохладой медуза веет осенней порой... Кричит кукушка...“?
+Ты про „Над морем лунным в небе далёком веет осенней прохладой... Кричит кукушка“?
 
 武「なんだよ、それ……」%K%P
 What is that...?

@@ -236,7 +236,7 @@ CN PLACEHOLDER
 武「はぁ、よっこらどっこいしょと」%K%P
 Oh, this is heavy.
 CN PLACEHOLDER
-Блин, ну и тяжесть!
+Блин, ну и тяжеленный!
 
 卵に乗り込んだ武は、工具箱を床の上に置いた。%K%P
 Takeshi groaned as he put the toolbox on the floor of the elevator.
@@ -251,7 +251,7 @@ CN PLACEHOLDER
 武「うるせー、どうせお前に比べりゃオッサンだよ、俺は」%K%P
 Shut up. I AM an old man compared to you.
 CN PLACEHOLDER
-Заткнись. Я И ЕСТЬ старикашка по сравнению с тобой.
+Заткнись. Я И ЕСТЬ старикашка в сравнении с тобой.
 
 そんなやり取りの中、ぼくは扉のわきについていた%N『△』のボタンを押す。%K%P
 While they needled each other, I pushed the up button next to the door.
@@ -301,7 +301,7 @@ CN PLACEHOLDER
 ムダだとは知りながらも『△』のボタンを連打してみた。%K%P
 Knowing it was useless, I pushed the up button repeatedly.
 CN PLACEHOLDER
-От отчаяния, я стал долбить по кнопке.
+Хоть это и бесполезно, я стал долбить по кнопке.
 
 当然、ＥＩはピクリとも動かない。%K%P
 Of course, Ei didn't budge at all.

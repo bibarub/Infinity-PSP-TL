@@ -941,7 +941,7 @@ CN PLACEHOLDER
 そっと、小指を絡めてくる優。%K%P
 I pointed my finger at my heart and promised You.
 CN PLACEHOLDER
-Ответил я, показав пальцем на своё сердце.
+Я ухватился своим мизинцем за её.
 
 優「こんな自信過剰な約束、聞いたこともないけど……」%K%P
 Talk about promising more than you can deliver...
@@ -951,7 +951,7 @@ CN PLACEHOLDER
 ゆびきりげんまん……%K%P
 I crossed my heart and hoped to die...
 CN PLACEHOLDER
-Я скрестил руки на груди, надеясь умереть как можно скорее...
+Это клятва на мизинцах...
 
 優「仕方ない、付き合ってあげるとしますか」%K%P
 Oh well. I suppose I'll have to trust you.
@@ -961,5 +961,5 @@ CN PLACEHOLDER
 ――ゆびきった！%K%P
 ...And stick a needle in my eye... I wouldn't break my word to You.
 CN PLACEHOLDER
-...чтоб мне треснуть... если я нарушу свою клятву.
+...клятва скреплена!
 

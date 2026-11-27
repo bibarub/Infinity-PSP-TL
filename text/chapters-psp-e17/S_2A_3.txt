@@ -611,7 +611,7 @@ CN PLACEHOLDER
 反射的に天井を見る。%K%P
 Instinctively, I looked to the ceiling.
 CN PLACEHOLDER
-Мы инстинктивно взглянули на потолок.
+Я инстинктивно взглянул на потолок.
 
 聴覚を研ぎ澄ますと、どこか遠くのほうで地響きにも似た鈍い音が……。%K%P
 Listening carefully, I heard a sound like the rumble of thunder far away.
@@ -631,7 +631,7 @@ CN PLACEHOLDER
 壁や天井も小刻みに震えて、ミシミシと軋むような音を立てていた。%K%P
 The walls and ceiling trembled slightly. Metal screeched on metal.
 CN PLACEHOLDER
-Стены и потолок сильно затрясло.
+Стены и потолок слабо дрожали и потрескивали.
 
 優「ま、まさか……」%K%P
 No... It couldn't be...
@@ -876,7 +876,7 @@ CN PLACEHOLDER
 いつの間にか、優は懐中電灯を手にしていた。%K%P
 You had picked up a flashlight at some point.
 CN PLACEHOLDER
-В какой-то момент Ю включила фонарик.
+В какой-то момент у Ю в рукам материализовался фонарик.
 
 制御室のどこかから、探し出して来たのだろう。%K%P
 I imagined she had gotten it somewhere in the control room.
@@ -886,12 +886,12 @@ CN PLACEHOLDER
 スイッチを入れる優……。%K%P
 You turned it on...
 CN PLACEHOLDER
-Кружок света...
+Ю нажала на кнопку, и...
 
 白い円形の光が壁に映った。%K%P
 A white circle of light appeared on the wall.
 CN PLACEHOLDER
-Кружок белого света появился на стене.
+На стене появился кружок белого света.
 
 懐中電灯を左右に振り、優が室内の隅々を照らす。%K%P
 You shined the flashlight left and right, lighting up all corners of the room.
@@ -976,7 +976,7 @@ CN PLACEHOLDER
 武「制御室にいたんじゃないのか？」%K%P
 Wasn't she in the control room?
 CN PLACEHOLDER
-Я думал, что она была в Центре управления.
+Её не было в Центре управления?
 
 沙羅「それが、もぬけの殻で……」%K%P
 It was empty...
@@ -1256,12 +1256,12 @@ CN PLACEHOLDER
 ＬｅＭＵは、外部から電力を供給してもらっているのではなく、館内に自家発電装置を持っている。%K%P
 LeMU didn't receive any power from the outside, but had an in-house generator system.
 CN PLACEHOLDER
-LeMU не получает электроэнергию снаружи, а создаёт её внутри сооружения.
+LeMU не получает электроэнергию снаружи, она вырабатывается внутри сооружения.
 
 海底にある熱水噴出孔から高温の水を汲み上げ、その熱を利用して発電機を稼動させている、と……。%K%P
 There was a thermal seafloor vent where hot water was pumped out of the seabed, and heat from that was used to operate the generator.
 CN PLACEHOLDER
-На дне океана находятся гидротермальные источники, в которых вода разогрета до нескольких сотен градусов. Этот жар используется в электрогенераторах.
+Она сказала, что на дне океана находятся гидротермальные источники, жар от которых используется для вращения турбин...
 
 優「つぐみも、一緒に来てくれるでしょ？」%K%P
 Tsugumi, you'll come along, won't you?
@@ -1451,17 +1451,17 @@ CN PLACEHOLDER
 武「ああ、そういうことか……」%K%P
 Oh, I see...
 CN PLACEHOLDER
-Ох, да... понял...
+А, да... понял...
 
 武「発電室のあるエリアに下りるには、２階の――」%K%P
 To get to the generator room's area, we have to access the second floor...
 CN PLACEHOLDER
-Чтобы добраться до генератора, сначала придётся подняться на второй этаж...
+Чтобы добраться до Генераторной, придётся идти на второй этаж...
 
 武「中性浮力式エレベーターを利用する以外、方法はないんだ」%K%P
 And the only way we can do that is by using the neutral buoyancy elevator.
 CN PLACEHOLDER
-И единственный способ туда добраться – воспользоваться механическим плавучим лифтом.
+А оттуда – на механическом плавучем лифте. Другого способа нет.
 
 優「ご名答」%K%P
 Correct.
@@ -1596,7 +1596,7 @@ CN PLACEHOLDER
 いつの間にか、優は懐中電灯を手にしていた。%K%P
 You had picked up a flashlight at some point.
 CN PLACEHOLDER
-В какой-то момент Ю включила фонарик.
+В какой-то момент у Ю в рукам материализовался фонарик.
 
 制御室のどこかから、探し出して来たのだろう。%K%P
 I imagined she had gotten it somewhere in the control room.
@@ -1606,12 +1606,12 @@ CN PLACEHOLDER
 スイッチを入れる優……。%K%P
 You turned it on...
 CN PLACEHOLDER
-Кружок света...
+Ю нажала на кнопку, и...
 
 白い円形の光が壁に映った。%K%P
 A white circle of light appeared on the wall.
 CN PLACEHOLDER
-Кружок белого света появился на стене.
+На стене появился кружок белого света.
 
 懐中電灯を左右に振り、優が室内の隅々を照らす。%K%P
 You shined the flashlight left and right, lighting up all corners of the room.
@@ -1926,12 +1926,12 @@ CN PLACEHOLDER
 ＬｅＭＵは、外部から電力を供給してもらっているのではなく、館内に自家発電装置を持っている。%K%P
 LeMU didn't receive any power from the outside, but had an in-house generator system.
 CN PLACEHOLDER
-LeMU не получает электроэнергию снаружи, а создаёт её внутри сооружения.
+LeMU не получает электроэнергию снаружи, она вырабатывается внутри сооружения.
 
 海底にある熱水噴出孔から高温の水を汲み上げ、その熱を利用して発電機を稼動させている、と……。%K%P
 There was a thermal seafloor vent where hot water was pumped out of the seabed, and heat from that was used to operate the generator.
 CN PLACEHOLDER
-На дне океана находятся гидротермальные источники, в которых вода разогрета до нескольких сотен градусов. Этот жар используется в электрогенераторах.
+Она сказала, что на дне океана находятся гидротермальные источники, жар от которых используется для вращения турбин...
 
 優「つぐみも、一緒に来てくれるでしょ？」%K%P
 Tsugumi, you'll come along, won't you?
@@ -2121,17 +2121,17 @@ CN PLACEHOLDER
 武「ああ、そういうことか……」%K%P
 Oh, I get it...
 CN PLACEHOLDER
-Ох, да... понял...
+А, да... понял...
 
 武「発電室のあるエリアに下りるには、２階の――」%K%P
 To get to the generator room's area, we have to access the second floor...
 CN PLACEHOLDER
-Чтобы добраться до генератора, сначала придётся подняться на второй этаж...
+Чтобы добраться до Генераторной, придётся идти на второй этаж...
 
 武「中性浮力式エレベーターを利用する以外、方法はないんだ」%K%P
 And the only way we can do that is by using the neutral buoyancy elevator.
 CN PLACEHOLDER
-И единственный способ туда добраться – воспользоваться механическим плавучим лифтом.
+А оттуда – на механическом плавучем лифте. Другого способа нет.
 
 優「ご名答」%K%P
 Correct.

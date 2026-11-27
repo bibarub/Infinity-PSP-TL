@@ -1061,7 +1061,7 @@ CN PLACEHOLDER
 ……どうやら、そういうことらしい。%K%P
 ...Anyway, that was the gist of the explanation.
 CN PLACEHOLDER
-...Так или иначе, вот что она мне сказала.
+...Судя по всему, так и есть.
 
 俺とつぐみは、一度発電室を出てパイプ部屋へ入ると……%K%P
 Tsugumi and I went to the generator room and then to the pipe room...
@@ -1296,7 +1296,7 @@ CN PLACEHOLDER
 武「はぁ、よっこらどっこいしょと」%K%P
 Oh, this is heavy.
 CN PLACEHOLDER
-Блин, ну и тяжесть.
+Блин, ну и тяжеленный.
 
 卵に乗り込んだ俺は、工具箱を床の上に置いた。%K%P
 Inside the egg elevator, I put the toolbox on the floor.
@@ -1361,7 +1361,7 @@ CN PLACEHOLDER
 ムダだとは知りながらも『△』のボタンを連打してみた。%K%P
 Knowing it was useless, I pushed the up button repeatedly.
 CN PLACEHOLDER
-От отчаяния я стал долбить по кнопке.
+Хоть это и бесполезно, я стал долбить по кнопке.
 
 つぐみはいつも通り無表情……。%K%P
 Tsugumi was as matter-of-fact as always...

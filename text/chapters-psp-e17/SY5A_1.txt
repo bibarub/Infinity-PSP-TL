@@ -851,7 +851,7 @@ CN PLACEHOLDER
 優「――タイムスリップしたんどわぁ！」%K%P
 You probably traveled through time!
 CN PLACEHOLDER
-Ты пережила провал во времени!
+Ты перенеслась во времени!
 
 優「……なんてバカバカしいこと、言い出さないよねぇ？」%K%P
 ...Would you stop talking about these stupid theories of yours?
