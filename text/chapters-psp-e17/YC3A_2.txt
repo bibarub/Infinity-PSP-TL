@@ -3921,7 +3921,7 @@ CN PLACEHOLDER
 少年「うみつきの、こくうにすずし、ほととぎす」%K%P
 The empty fall sky%NA single cuckoo calls out%NBrings a chill to me.
 CN PLACEHOLDER
-В небе пустом над лунным морем прохладой веет осенней порой... Кричит кукушка.
+Над морем лунным в небе далёком веет осенней прохладой... Кричит кукушка.
 
 自分の言葉でありながら、ぼくは我が耳を疑った。%K%P
 Even as I heard the words come out, I doubted my own ears.
@@ -3971,7 +3971,7 @@ CN PLACEHOLDER
 少年「『海月の虚空に秋涼し時鳥』って……」%K%P
 'The empty fall sky%NA single cuckoo calls out%NBrings a chill to me'...
 CN PLACEHOLDER
-„В небе пустом прохладой медуза веет осенней порой... Кричит кукушка“...
+„Над морем лунным в небе далёком веет осенней прохладой... Кричит кукушка“...
 
 少年「きっとこれが、パスワードだと思うよ？」%K%P
 I bet this is the password you're looking for.
@@ -4096,7 +4096,7 @@ CN PLACEHOLDER
 優「『うみつきの　こくうにすずし　ほととぎす』」%K%P
 'The empty fall sky%NA single cuckoo calls out%NBrings a chill to me'.
 CN PLACEHOLDER
-„В небе пустом над лунным морем%Nпрохладой веет осенней порой...%NКричит кукушка“.
+„Над морем лунным в небе далёком%Nвеет осенней прохладой...%NКричит кукушка“.
 
 優「よし！　それじゃ、このフレーズを試してみるよ」%K%P
 Alright! Let's try this for a password.
@@ -4121,7 +4121,7 @@ CN PLACEHOLDER
 優「うみつきの、こくうにすずし、ほととぎす……と」%K%P
 'The empty fall sky... A single cuckoo calls out... Brings a chill to me'.%NOkay then!
 CN PLACEHOLDER
-В небе-пустом-над лунным морем-прохладой-веет осенней порой... Кричит кукушка. Есть!
+Над морем лунным... в небе далёком... веет осенней прохладой... Кричит кукушка... Есть!
 
 カタッ！%K%P
 Tap!
